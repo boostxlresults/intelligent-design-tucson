@@ -71,12 +71,23 @@ export async function generateMetadata({ params }: ServiceLocationPageProps): Pr
   );
 }
 
-// Main page component - redirects to canonical root-level URL
+// Main page component - renders the service location page
 export default async function ServiceLocationRoute({ params }: ServiceLocationPageProps) {
   const { service, location } = await params;
   
-  // Redirect to canonical root-level URL for SEO consistency
-  // Example: /services/hvac/gladden-farms -> /hvac-gladden-farms
-  const { redirect } = await import('next/navigation');
-  redirect(`/${service}-${location}`, 'replace');
+  // Import redirect for 404 handling
+  const { notFound } = await import('next/navigation');
+  
+  // Get service data
+  const serviceData = getServiceLocationData(service, location);
+  
+  if (!serviceData) {
+    notFound();
+  }
+  
+  // Dynamically import the ServiceLocationPage component
+  const { default: ServiceLocationPage } = await import('@/components/ServiceLocationPage');
+  
+  // Render the service location page
+  return <ServiceLocationPage serviceData={serviceData} service={service} location={location} />;
 }
