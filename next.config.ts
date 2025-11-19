@@ -21,9 +21,22 @@ async function generateServiceRedirects() {
     const services = manifest.services || {};
     const aliases = manifest.aliases || {};
     
-    // Generate redirects for canonical services
+    // Standalone pages that have their own app routes (not service pages)
+    const standalonePages = new Set([
+      'financing', 'guarantees', 'resources', 'home', 'about',
+      'contact', 'careers', 'privacy-policy', 'special-offers',
+      'customer-reviews', 'video-testimonials'
+    ]);
+    
+    // Generate redirects for canonical services only
+    // Exclude standalone pages that have dedicated app routes
     // Legacy flat URL → /services/ URL
     Object.entries(services).forEach(([canonicalSlug, _info]) => {
+      // Skip if this is a standalone page with its own route
+      if (standalonePages.has(canonicalSlug)) {
+        return;
+      }
+      
       redirects.push({
         source: `/${canonicalSlug}`,
         destination: `/services/${canonicalSlug}`,
