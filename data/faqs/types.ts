@@ -36,6 +36,11 @@ export interface ServiceFAQs {
    * Array of FAQ items (minimum 11 for AI search optimization)
    */
   faqs: FAQItem[];
+  
+  /**
+   * Optional array of common questions for AI search optimization
+   */
+  commonQuestions?: FAQItem[];
 }
 
 export interface CityFAQs {

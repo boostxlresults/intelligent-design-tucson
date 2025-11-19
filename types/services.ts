@@ -120,7 +120,7 @@ export interface ServicePageData {
   
   // Interactive Content
   faqs: ServiceFAQs | null;
-  commonQuestions: CommonQuestion[];
+  commonQuestions?: CommonQuestion[];
   
   // Schema
   serviceType?: string;
@@ -196,5 +196,5 @@ export interface ServiceLocationPageData {
   
   // Interactive Content
   faqs: ServiceFAQs | null;
-  commonQuestions: CommonQuestion[];
+  commonQuestions?: CommonQuestion[];
 }
