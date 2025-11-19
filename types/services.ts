@@ -122,9 +122,16 @@ export interface ServicePageData {
   faqs: ServiceFAQs | null;
   commonQuestions?: CommonQuestion[];
   
+  // Service Areas (optional)
+  serviceArea?: {
+    primary: string;
+    nearby?: string[];
+  };
+  
   // Schema
   serviceType?: string;
   areaServed?: string;
+  schema?: any;
 }
 
 export interface LocationPageData {
