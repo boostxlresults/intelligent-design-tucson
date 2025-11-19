@@ -75,19 +75,37 @@ export async function generateMetadata({ params }: ServiceLocationPageProps): Pr
 export default async function ServiceLocationRoute({ params }: ServiceLocationPageProps) {
   const { service, location } = await params;
   
-  // Import redirect for 404 handling
-  const { notFound } = await import('next/navigation');
+  // Find entry in manifest
+  const manifestEntry = serviceLocationsManifest.find(
+    entry => entry.service === service && entry.location === location
+  );
   
-  // Get service data
-  const serviceData = getServiceLocationData(service, location);
-  
+  if (!manifestEntry) {
+    notFound();
+  }
+
+  // Load data using file name
+  const dataKey = `${manifestEntry.file.replace('.ts', '')}Data`;
+  const serviceData = (serviceExports as any)[dataKey] as ServicePageData | undefined;
+
   if (!serviceData) {
     notFound();
   }
   
-  // Dynamically import the ServiceLocationPage component
-  const { default: ServiceLocationPage } = await import('@/components/pages/ServiceLocationPage');
+  // Extract location name for title (capitalize and format)
+  const locationName = location
+    .split('-')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+
+  // Generate schemas for JSON-LD
+  const schemas = getServiceLocationSchemas(serviceData, service, location, locationName);
   
-  // Render the service location page
-  return <ServiceLocationPage serviceData={serviceData} service={service} location={location} />;
+  // Render the service location page with schemas
+  return (
+    <>
+      <ClientSchemas schemas={schemas} />
+      <ServiceLocationPage serviceData={serviceData} service={service} location={location} />
+    </>
+  );
 }
