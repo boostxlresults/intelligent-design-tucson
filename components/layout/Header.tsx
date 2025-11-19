@@ -2,6 +2,22 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import type { ForwardRefExoticComponent, RefAttributes } from "react";
+import type { LucideProps } from "lucide-react";
+
+// Type definitions for navigation structure
+type IconComponent = ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>;
+
+interface NavSubItem {
+  name: string;
+  href: string;
+  icon: IconComponent;
+  subItems?: NavSubItem[];
+}
+
+interface NavItem extends NavSubItem {
+  subItems?: NavSubItem[];
+}
 import { 
   Phone, 
   Menu, 
@@ -681,7 +697,7 @@ export default function Header() {
                       <div className="grid grid-cols-4 gap-6">
                         {/* Column 1 - About, Financing, Careers, Family Plans */}
                         <div className="space-y-1">
-                          {item.infoColumns.column1.map((navItem) => {
+                          {item.infoColumns.column1.map((navItem: NavItem) => {
                             const Icon = navItem.icon;
                             return (
                               <div key={navItem.name}>
@@ -695,7 +711,7 @@ export default function Header() {
                                 </Link>
                                 {navItem.subItems && (
                                   <div className="ml-8 mt-1 space-y-1">
-                                    {navItem.subItems.map((subItem) => {
+                                    {navItem.subItems.map((subItem: NavSubItem) => {
                                       const SubIcon = subItem.icon;
                                       return (
                                         <Link
@@ -717,7 +733,7 @@ export default function Header() {
                         </div>
                         {/* Column 2 - Why Tucson Chooses ID */}
                         <div className="space-y-1">
-                          {item.infoColumns.column2.map((navItem) => {
+                          {item.infoColumns.column2.map((navItem: NavItem) => {
                             const Icon = navItem.icon;
                             return (
                               <div key={navItem.name}>
@@ -726,7 +742,7 @@ export default function Header() {
                                 </h3>
                                 {navItem.subItems && (
                                   <div className="space-y-1">
-                                    {navItem.subItems.map((subItem) => {
+                                    {navItem.subItems.map((subItem: NavSubItem) => {
                                       const SubIcon = subItem.icon;
                                       return (
                                         <Link
@@ -1076,7 +1092,7 @@ export default function Header() {
                       {mobileExpandedSections[item.name] && item.hasColumns && item.infoColumns && (
                         <div className="pl-6 mt-2 space-y-2">
                           {/* Column 1 items */}
-                          {item.infoColumns.column1.map((navItem) => {
+                          {item.infoColumns.column1.map((navItem: NavItem) => {
                             const Icon = navItem.icon;
                             return (
                               <div key={navItem.name} className="space-y-1">
@@ -1091,7 +1107,7 @@ export default function Header() {
                                 </Link>
                                 {navItem.subItems && (
                                   <div className="pl-8 space-y-1">
-                                    {navItem.subItems.map((subItem) => {
+                                    {navItem.subItems.map((subItem: NavSubItem) => {
                                       const SubIcon = subItem.icon;
                                       return (
                                         <Link
