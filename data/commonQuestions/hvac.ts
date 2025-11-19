@@ -1,4 +1,4 @@
-import { CommonQuestion } from '@/components/CommonQuestions';
+import { CommonQuestion } from '@/components/content/CommonQuestions';
 
 // Common questions that apply to most HVAC services
 export const hvacEmergencyQuestions: CommonQuestion[] = [

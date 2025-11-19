@@ -1,4 +1,4 @@
-import { CommonQuestion } from '@/components/CommonQuestions';
+import { CommonQuestion } from '@/components/content/CommonQuestions';
 
 // Common questions for roofing services
 export const roofingEmergencyQuestions: CommonQuestion[] = [

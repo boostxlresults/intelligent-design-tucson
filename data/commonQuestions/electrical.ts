@@ -1,4 +1,4 @@
-import { CommonQuestion } from '@/components/CommonQuestions';
+import { CommonQuestion } from '@/components/content/CommonQuestions';
 
 // Common questions that apply to most electrical services
 export const electricalEmergencyQuestions: CommonQuestion[] = [
