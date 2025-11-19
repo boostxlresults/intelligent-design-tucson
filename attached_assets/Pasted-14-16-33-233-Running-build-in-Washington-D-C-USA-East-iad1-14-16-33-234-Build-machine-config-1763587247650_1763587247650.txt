@@ -1,0 +1,46 @@
+14:16:33.233 Running build in Washington, D.C., USA (East) – iad1
+14:16:33.234 Build machine configuration: 4 cores, 8 GB
+14:16:33.326 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 6d45bf3)
+14:16:33.327 Previous build caches not available.
+14:16:43.884 Cloning completed: 10.557s
+14:16:44.698 Running "vercel build"
+14:16:45.101 Vercel CLI 48.10.3
+14:16:45.613 Installing dependencies...
+14:16:51.011 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+14:16:51.011 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+14:17:02.694 
+14:17:02.694 added 653 packages in 17s
+14:17:02.694 
+14:17:02.694 176 packages are looking for funding
+14:17:02.694   run `npm fund` for details
+14:17:02.747 Detected Next.js version: 16.0.1
+14:17:02.755 Running "npm run build"
+14:17:02.869 
+14:17:02.869 > intelligent-design-nextjs@1.0.0 build
+14:17:02.869 > next build
+14:17:02.869 
+14:17:03.770 ✅ Generated 270 service redirects for SEO preservation
+14:17:03.795 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+14:17:03.795 This information is used to shape Next.js' roadmap and prioritize features.
+14:17:03.795 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+14:17:03.795 https://nextjs.org/telemetry
+14:17:03.795 
+14:17:03.806    ▲ Next.js 16.0.1 (Turbopack)
+14:17:03.806 
+14:17:03.921 ✅ Generated 270 service redirects for SEO preservation
+14:17:03.971    Creating an optimized production build ...
+14:17:17.733  ✓ Compiled successfully in 13.2s
+14:17:17.743    Running TypeScript ...
+14:18:12.571 Failed to compile.
+14:18:12.571 
+14:18:12.572 ./legacy-client/src/App.tsx:2:44
+14:18:12.572 Type error: Cannot find module 'wouter' or its corresponding type declarations.
+14:18:12.572 
+14:18:12.572 [0m [90m 1 |[39m [36mimport[39m { useEffect[33m,[39m lazy[33m,[39m [33mSuspense[39m } [36mfrom[39m [32m"react"[39m[33m;[39m
+14:18:12.572 [31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { [33mSwitch[39m[33m,[39m [33mRoute[39m[33m,[39m useLocation } [36mfrom[39m [32m"wouter"[39m[33m;[39m
+14:18:12.572  [90m   |[39m                                            [31m[1m^[22m[39m
+14:18:12.572  [90m 3 |[39m [36mimport[39m { queryClient } [36mfrom[39m [32m"./lib/queryClient"[39m[33m;[39m
+14:18:12.573  [90m 4 |[39m [36mimport[39m { [33mQueryClientProvider[39m } [36mfrom[39m [32m"@tanstack/react-query"[39m[33m;[39m
+14:18:12.573  [90m 5 |[39m [36mimport[39m { [33mHelmetProvider[39m } [36mfrom[39m [32m'react-helmet-async'[39m[33m;[39m[0m
+14:18:12.657 Next.js build worker exited with code: 1 and signal: null
+14:18:12.699 Error: Command "npm run build" exited with 1
