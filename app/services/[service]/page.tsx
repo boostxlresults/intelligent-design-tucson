@@ -10,13 +10,13 @@ import serviceManifest from "@/data/pages/services/manifest.json";
 
 // Build lookup map from manifest: canonical slug -> dataFile
 const serviceMap: Record<string, string> = {};
-Object.entries(serviceManifest.services).forEach(([canonicalSlug, info]: [string, any]) => {
-  serviceMap[canonicalSlug] = info.dataFile;
+Object.entries(serviceManifest.services).forEach(([canonicalSlug, info]) => {
+  serviceMap[canonicalSlug] = (info as any).dataFile;
 });
 
 // Add alias mappings: legacy slug -> dataFile
-Object.entries(serviceManifest.aliases).forEach(([alias, canonicalSlug]: [string, any]) => {
-  const info = serviceManifest.services[canonicalSlug];
+Object.entries(serviceManifest.aliases).forEach(([alias, canonicalSlug]) => {
+  const info = (serviceManifest.services as any)[canonicalSlug as string];
   if (info) {
     serviceMap[alias] = info.dataFile;
   }

@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
+import serviceLocationsManifest from '@/data/pages/service-locations/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
 
 const SITE_URL = 'https://www.intelligentdesignac.com';
@@ -61,19 +62,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   });
 
-  // Service + Location pages (from serviceLocations)
-  Object.entries(serviceManifest.serviceLocations || {}).forEach(([service, locations]: [string, any]) => {
-    Object.keys(locations).forEach((location) => {
-      // Convert service key to URL format (h-v-a-c → hvac)
-      const urlService = SERVICE_NAME_REVERSE_MAP[service] || service;
-      const slug = `${urlService}-${location}`;
-      
-      entries.push({
-        url: `${SITE_URL}/${slug}`,
-        lastModified: new Date(),
-        changeFrequency: 'monthly',
-        priority: 0.9,
-      });
+  // Service + Location pages (from service-locations manifest)
+  serviceLocationsManifest.forEach((entry) => {
+    entries.push({
+      url: `${SITE_URL}/${entry.service}-${entry.location}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.9,
     });
   });
 
