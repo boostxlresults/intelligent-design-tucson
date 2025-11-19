@@ -264,7 +264,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
             "content": "Step 3: Clear Roof Access and Remove Obstacles Around Your Home"
       },
       {
-            "type": "parameter",
+            "type": "paragraph",
             "content": "Installation crews need safe, clear access to your roof and around your home's perimeter. Two weeks before installation, trim tree branches overhanging your roof, especially those that might shade solar panels. Even partial shading from a small branch can significantly reduce panel output. Clear storage items, vehicles, and obstacles from the installation area, typically the side of your home where the electrical panel is located. Crews will need space to stage equipment, set up ladders, and run conduit from the roof to the electrical panel."
       },
       {
