@@ -37,6 +37,8 @@
     "legacy-shared",
     "nextjs-app-BACKUP-20251110",
     "public-backup",
-    "scripts"
+    "scripts",
+    "vite.config.ts",
+    "drizzle.config.ts"
   ]
 }

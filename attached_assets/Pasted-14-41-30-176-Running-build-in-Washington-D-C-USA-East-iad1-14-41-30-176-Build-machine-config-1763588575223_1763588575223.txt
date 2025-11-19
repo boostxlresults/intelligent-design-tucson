@@ -1,0 +1,45 @@
+14:41:30.176 Running build in Washington, D.C., USA (East) – iad1
+14:41:30.176 Build machine configuration: 4 cores, 8 GB
+14:41:30.286 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 8b6b7a9)
+14:41:30.287 Previous build caches not available.
+14:41:40.619 Cloning completed: 10.333s
+14:41:41.286 Running "vercel build"
+14:41:43.572 Vercel CLI 48.10.3
+14:41:44.289 Installing dependencies...
+14:41:50.040 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+14:41:50.076 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+14:42:02.531 
+14:42:02.532 added 653 packages in 18s
+14:42:02.532 
+14:42:02.532 176 packages are looking for funding
+14:42:02.532   run `npm fund` for details
+14:42:02.611 Detected Next.js version: 16.0.1
+14:42:02.620 Running "npm run build"
+14:42:02.743 
+14:42:02.743 > intelligent-design-nextjs@1.0.0 build
+14:42:02.743 > next build
+14:42:02.744 
+14:42:03.653 ✅ Generated 270 service redirects for SEO preservation
+14:42:03.678 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+14:42:03.679 This information is used to shape Next.js' roadmap and prioritize features.
+14:42:03.679 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+14:42:03.679 https://nextjs.org/telemetry
+14:42:03.679 
+14:42:03.691    ▲ Next.js 16.0.1 (Turbopack)
+14:42:03.691 
+14:42:03.808 ✅ Generated 270 service redirects for SEO preservation
+14:42:03.860    Creating an optimized production build ...
+14:42:18.778  ✓ Compiled successfully in 14.3s
+14:42:18.787    Running TypeScript ...
+14:42:31.080 Failed to compile.
+14:42:31.081 
+14:42:31.081 ./vite.config.ts:1:30
+14:42:31.081 Type error: Cannot find module 'vite' or its corresponding type declarations.
+14:42:31.081 
+14:42:31.081 [0m[31m[1m>[22m[39m[90m 1 |[39m [36mimport[39m { defineConfig } [36mfrom[39m [32m"vite"[39m[33m;[39m
+14:42:31.081  [90m   |[39m                              [31m[1m^[22m[39m
+14:42:31.081  [90m 2 |[39m [36mimport[39m react [36mfrom[39m [32m"@vitejs/plugin-react"[39m[33m;[39m
+14:42:31.082  [90m 3 |[39m [36mimport[39m path [36mfrom[39m [32m"path"[39m[33m;[39m
+14:42:31.082  [90m 4 |[39m [36mimport[39m runtimeErrorOverlay [36mfrom[39m [32m"@replit/vite-plugin-runtime-error-modal"[39m[33m;[39m[0m
+14:42:31.150 Next.js build worker exited with code: 1 and signal: null
+14:42:31.216 Error: Command "npm run build" exited with 1
