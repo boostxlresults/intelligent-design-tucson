@@ -1,9 +1,6 @@
-
 // Auto-generated from HeatingTortolita.tsx
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
-import { heatingLocationGeneralFAQs } from '@/data/faqs/hvac';
-
 
 export const heatingtortolitaData: ServicePageData = {
   // SEO & Meta

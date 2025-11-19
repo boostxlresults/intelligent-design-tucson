@@ -1,7 +1,7 @@
 // Comprehensive Heating Services for Rita Ranch, AZ - Growing Family Community
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
-import { heatingLocationGeneralFAQs } from '@/data/faqs/hvac';
+
 export const heatingritaranchData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Rita Ranch AZ | Furnace Repair & Installation | Heat Pump Service',
