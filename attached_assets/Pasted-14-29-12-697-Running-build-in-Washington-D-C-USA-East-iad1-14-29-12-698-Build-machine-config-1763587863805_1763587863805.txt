@@ -1,0 +1,47 @@
+14:29:12.697 Running build in Washington, D.C., USA (East) – iad1
+14:29:12.698 Build machine configuration: 4 cores, 8 GB
+14:29:12.796 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 45bbf6d)
+14:29:12.797 Previous build caches not available.
+14:29:23.557 Cloning completed: 10.761s
+14:29:24.236 Running "vercel build"
+14:29:24.646 Vercel CLI 48.10.3
+14:29:25.284 Installing dependencies...
+14:29:30.898 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+14:29:30.931 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+14:29:44.553 
+14:29:44.554 added 653 packages in 19s
+14:29:44.554 
+14:29:44.554 176 packages are looking for funding
+14:29:44.554   run `npm fund` for details
+14:29:44.619 Detected Next.js version: 16.0.1
+14:29:44.627 Running "npm run build"
+14:29:44.792 
+14:29:44.792 > intelligent-design-nextjs@1.0.0 build
+14:29:44.792 > next build
+14:29:44.792 
+14:29:46.046 ✅ Generated 270 service redirects for SEO preservation
+14:29:46.092 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+14:29:46.092 This information is used to shape Next.js' roadmap and prioritize features.
+14:29:46.093 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+14:29:46.093 https://nextjs.org/telemetry
+14:29:46.093 
+14:29:46.207    ▲ Next.js 16.0.1 (Turbopack)
+14:29:46.208 
+14:29:46.408 ✅ Generated 270 service redirects for SEO preservation
+14:29:46.448    Creating an optimized production build ...
+14:30:00.481  ✓ Compiled successfully in 13.2s
+14:30:00.481    Running TypeScript ...
+14:30:12.439 Failed to compile.
+14:30:12.439 
+14:30:12.440 ./proxy.ts:186:89
+14:30:12.440 Type error: Parameter 'l' implicitly has an 'any' type.
+14:30:12.440 
+14:30:12.440 [0m [90m 184 |[39m         [90m// For service+location pages, derive locationName from locationSlug[39m
+14:30:12.440  [90m 185 |[39m         [36mconst[39m locationName [33m=[39m locationSlug 
+14:30:12.440 [31m[1m>[22m[39m[90m 186 |[39m           [33m?[39m (serviceData[33m.[39mareaServed [33m||[39m locationSlug[33m.[39mreplace([35m/-/g[39m[33m,[39m [32m' '[39m)[33m.[39mreplace([35m/\b\w/g[39m[33m,[39m l [33m=>[39m l[33m.[39mtoUpperCase()))
+14:30:12.441  [90m     |[39m                                                                                         [31m[1m^[22m[39m
+14:30:12.441  [90m 187 |[39m           [33m:[39m (serviceData[33m.[39mareaServed [33m||[39m [32m'Tucson'[39m)[33m;[39m
+14:30:12.441  [90m 188 |[39m         
+14:30:12.441  [90m 189 |[39m         schemas [33m=[39m getServiceLocationSchemas(serviceData[33m,[39m serviceSlug[33m,[39m locationSlug[33m,[39m locationName)[33m;[39m[0m
+14:30:12.494 Next.js build worker exited with code: 1 and signal: null
+14:30:12.536 Error: Command "npm run build" exited with 1

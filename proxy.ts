@@ -183,7 +183,7 @@ export default async function proxy(request: NextRequest) {
         // For service-only pages (no location), use areaServed as locationName
         // For service+location pages, derive locationName from locationSlug
         const locationName = locationSlug 
-          ? (serviceData.areaServed || locationSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()))
+          ? (serviceData.areaServed || locationSlug.replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase()))
           : (serviceData.areaServed || 'Tucson');
         
         schemas = getServiceLocationSchemas(serviceData, serviceSlug, locationSlug, locationName);
