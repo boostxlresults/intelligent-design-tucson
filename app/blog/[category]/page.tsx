@@ -39,6 +39,13 @@ interface BlogPostSummary {
   excerpt?: string;
 }
 
+// Generate static params for all blog categories
+export async function generateStaticParams() {
+  return Object.keys(categoryNames).map((category) => ({
+    category,
+  }));
+}
+
 async function getCategoryPosts(category: string): Promise<BlogPostSummary[]> {
   try {
     const categoryPath = path.join(process.cwd(), 'public', 'content', 'blog', category);
