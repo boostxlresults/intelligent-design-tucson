@@ -36,6 +36,7 @@
     "legacy-server",
     "legacy-shared",
     "nextjs-app-BACKUP-20251110",
-    "public-backup"
+    "public-backup",
+    "scripts"
   ]
 }

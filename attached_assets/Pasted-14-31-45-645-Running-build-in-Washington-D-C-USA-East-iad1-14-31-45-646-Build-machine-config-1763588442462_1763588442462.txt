@@ -1,0 +1,48 @@
+14:31:45.645 Running build in Washington, D.C., USA (East) – iad1
+14:31:45.646 Build machine configuration: 4 cores, 8 GB
+14:31:45.776 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: c09e8cd)
+14:31:45.776 Previous build caches not available.
+14:31:55.957 Cloning completed: 10.181s
+14:31:56.531 Running "vercel build"
+14:31:56.901 Vercel CLI 48.10.3
+14:31:57.366 Installing dependencies...
+14:32:02.436 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+14:32:02.531 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+14:32:14.607 
+14:32:14.607 added 653 packages in 17s
+14:32:14.608 
+14:32:14.608 176 packages are looking for funding
+14:32:14.608   run `npm fund` for details
+14:32:14.651 Detected Next.js version: 16.0.1
+14:32:14.659 Running "npm run build"
+14:32:14.763 
+14:32:14.763 > intelligent-design-nextjs@1.0.0 build
+14:32:14.763 > next build
+14:32:14.763 
+14:32:15.550 ✅ Generated 270 service redirects for SEO preservation
+14:32:15.571 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+14:32:15.572 This information is used to shape Next.js' roadmap and prioritize features.
+14:32:15.572 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+14:32:15.572 https://nextjs.org/telemetry
+14:32:15.572 
+14:32:15.583    ▲ Next.js 16.0.1 (Turbopack)
+14:32:15.583 
+14:32:15.685 ✅ Generated 270 service redirects for SEO preservation
+14:32:15.735    Creating an optimized production build ...
+14:32:27.213  ✓ Compiled successfully in 11.0s
+14:32:27.220    Running TypeScript ...
+14:32:37.513 Failed to compile.
+14:32:37.513 
+14:32:37.513 ./scripts/bulkMigrateBlog.ts:8:29
+14:32:37.514 Type error: Could not find a declaration file for module 'turndown'. '/vercel/path0/node_modules/turndown/lib/turndown.cjs.js' implicitly has an 'any' type.
+14:32:37.514   Try `npm i --save-dev @types/turndown` if it exists or add a new declaration (.d.ts) file containing `declare module 'turndown';`
+14:32:37.514 
+14:32:37.514 [0m [90m  6 |[39m [36mimport[39m fs [36mfrom[39m [32m'fs/promises'[39m[33m;[39m
+14:32:37.514  [90m  7 |[39m [36mimport[39m path [36mfrom[39m [32m'path'[39m[33m;[39m
+14:32:37.514 [31m[1m>[22m[39m[90m  8 |[39m [36mimport[39m [33mTurndownService[39m [36mfrom[39m [32m'turndown'[39m[33m;[39m
+14:32:37.514  [90m    |[39m                             [31m[1m^[22m[39m
+14:32:37.514  [90m  9 |[39m [36mimport[39m { [33mJSDOM[39m } [36mfrom[39m [32m'jsdom'[39m[33m;[39m
+14:32:37.514  [90m 10 |[39m
+14:32:37.514  [90m 11 |[39m [36mconst[39m turndownService [33m=[39m [36mnew[39m [33mTurndownService[39m({[0m
+14:32:37.561 Next.js build worker exited with code: 1 and signal: null
+14:32:37.600 Error: Command "npm run build" exited with 1
