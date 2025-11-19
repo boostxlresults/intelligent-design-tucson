@@ -564,89 +564,9 @@ export const plumbingavravalleyData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "Winter Plumbing Protection (December-February): While Avra Valley doesn't experience harsh winters, overnight freezes occur 10-15 nights annually requiring plumbing protection. Install insulated covers on outdoor faucets and exposed pipes. During freeze warnings, allow faucets to drip slightly preventing frozen pipes. Open cabinet doors under sinks allowing warm air circulation around pipes. Never let home temperature drop below 55 degrees even when away. Disconnect and drain garden hoses. Monitor well house temperature if pump is in unheated structure. Keep emergency plumber contact information accessible for frozen pipe emergencies. Holiday season brings increased plumbing demands with guests, cooking, and laundry stressing systems. Avoid garbage disposal overload by not forcing fibrous vegetables, grease, or large quantities down drain. Spread laundry loads throughout week rather than consecutive loads preventing septic system overload. Watch for slow drains indicating developing blockages requiring professional cleaning before complete failure. Schedule post-holiday plumbing inspection if you hosted large gatherings ensuring no damage occurred to overtaxed systems."
-      },
-      {
-            "type": "heading",
-            "heading": "Frequently Asked Questions About Plumbing Services in Avra Valley",
-            "level": 2,
-            "content": "Frequently Asked Questions About Plumbing Services in Avra Valley"
-      },
-      {
-            "type": "faq",
-            "question": "How much does a plumber cost in Avra Valley, AZ?",
-            "answer": "Plumbing service costs in Avra Valley typically range from $165-$495 for common repairs like drain cleaning, faucet replacement, or toilet repairs. Water heater service runs $185-$385 for repairs, $1,485-$2,850 for tank water heater replacement, and $3,200-$5,800 for tankless installation. Major projects like whole-home repiping cost $8,000-$15,000 depending on home size. We provide upfront written estimates before any work begins—no hidden fees or surprises. Our emergency service costs the same as regular business hours with no overtime charges."
-      },
-      {
-            "type": "faq",
-            "question": "Do you provide 24/7 emergency plumbing service in Avra Valley?",
-            "answer": "Yes, we provide true 24/7/365 emergency plumbing service to Avra Valley with no overtime charges—our emergency rates are the same as regular business hours. When you call our emergency line, you speak with a live dispatcher (not an answering service) who immediately coordinates technician dispatch. Our average response time to Avra Valley is 73 minutes. We handle all plumbing emergencies including burst pipes, water heater failures, sewer backups, major leaks, and well pump failures. Our emergency service trucks are fully stocked to complete most repairs the same visit."
-      },
-      {
-            "type": "faq",
-            "question": "How often should I flush my water heater in Avra Valley?",
-            "answer": "Avra Valley homeowners with well water should flush water heaters annually minimum—hard water sediment accumulation is severe in this area. Well water in Avra Valley typically measures 15-35 grains hardness with 300-500+ ppm Total Dissolved Solids, causing rapid mineral buildup that reduces efficiency, increases energy costs, and shortens water heater lifespan. Annual professional flushing extends tank life from 7-9 years to 12-15 years and maintains heating efficiency. If you hear rumbling or popping sounds from your water heater, sediment buildup is already severe and requires immediate flushing. We recommend installing a water softener to dramatically reduce sediment accumulation."
-      },
-      {
-            "type": "faq",
-            "question": "Should I install a water softener in Avra Valley?",
-            "answer": "Absolutely yes—a water softener is one of the best investments for Avra Valley homes with well water. Avra Valley well water typically measures 15-35 grains per gallon hardness (considered very hard to extremely hard), causing extensive scale buildup in pipes, water heaters, fixtures, and appliances. Benefits of water softening include: 50% longer water heater lifespan, 70% reduction in soap and detergent usage, elimination of hard water scale deposits, softer skin and hair, cleaner dishes and fixtures, improved appliance efficiency, and better-tasting drinking water. Water softener installation typically costs $1,485-$2,850 and pays for itself within 3-5 years through reduced maintenance costs and extended appliance life."
-      },
-      {
-            "type": "faq",
-            "question": "What causes low water pressure in Avra Valley homes?",
-            "answer": "Low water pressure in Avra Valley homes has several potential causes: 1) Corroded galvanized steel pipes (common in homes built before 1995) restricting flow due to internal scale buildup—requires whole-home repiping. 2) Well system problems including waterlogged pressure tank (lost air charge), failing pressure switch, or undersized pressure tank—repairing pressure tank system typically costs $385-$985. 3) Hard water scale buildup in pipes and fixtures—water softener installation solves this. 4) Main line leak reducing available pressure—requires leak detection and repair. 5) Clogged fixtures or aerators—simple cleaning restores flow. We diagnose the root cause with professional testing and provide honest recommendations for permanent solutions."
-      },
-      {
-            "type": "faq",
-            "question": "How long do tankless water heaters last in Avra Valley?",
-            "answer": "Tankless water heaters typically last 18-25 years in Avra Valley when properly maintained—significantly longer than tank water heaters (10-12 years average). However, Avra Valley's hard well water requires annual professional descaling service to prevent mineral buildup that damages heat exchangers and reduces efficiency. Without annual descaling, tankless lifespan drops to 8-12 years and efficiency degrades significantly. We strongly recommend installing a water softener before tankless water heater installation—soft water extends tankless lifespan to the full 25+ years and minimizes maintenance requirements. Annual tankless descaling service costs $245-$385. Combined benefits of tankless water heaters include endless hot water, 30-40% energy savings, space savings, and longer lifespan than tank units."
-      },
-      {
-            "type": "faq",
-            "question": "Are chemical drain cleaners safe for septic systems?",
-            "answer": "No—chemical drain cleaners are extremely harmful to septic systems and should never be used in Avra Valley homes with septic tanks. Chemical drain cleaners kill beneficial bacteria that break down solids in your septic system, potentially causing septic failure that costs $8,000-$25,000+ to repair or replace. These chemicals also damage pipes, especially older plumbing. Instead, use professional hydro-jetting (safe for septic systems when performed by licensed plumbers), mechanical cable augering, or bacterial enzyme treatments that actually improve septic function. For chronic drain issues, we recommend video camera inspection to identify root cause rather than repeatedly treating symptoms with chemicals."
-      },
-      {
-            "type": "faq",
-            "question": "What's included in your plumbing service warranty?",
-            "answer": "All our plumbing installations and repairs include comprehensive warranty protection: 1) Parts Warranty: Manufacturer warranties on all parts installed—typically 1-12 years depending on component (water heaters 6-12 years, fixtures 1-5 years, etc.). 2) Workmanship Warranty: Our installation labor is guaranteed for 1 year from service date. If the same issue recurs due to our workmanship, we fix it free—no questions asked. 3) Satisfaction Guarantee: If you're not 100% satisfied with our service, we make it right. Your complete warranty details are listed on your service invoice. We stand behind every job because your long-term trust matters more than any single service call."
-      },
-      {
-            "type": "faq",
-            "question": "Do you handle well pump repairs in Avra Valley?",
-            "answer": "Yes, we service complete well water systems in Avra Valley including pressure tanks, pressure switches, control boxes, and well pump electrical components. For downhole well pump replacement (the pump inside the well), we coordinate with specialized well drilling contractors as required by Arizona regulations—well pump replacement requires specific well drilling licensing. We handle all above-ground well system components including pressure tank replacement ($585-$985), pressure switch replacement ($185-$295), control box service ($225-$485), and plumbing connections. We also install and service water treatment systems designed specifically for Avra Valley's hard well water including softeners, iron filters, and reverse osmosis systems."
-      },
-      {
-            "type": "faq",
-            "question": "How do I prevent frozen pipes in Avra Valley?",
-            "answer": "While Avra Valley doesn't experience harsh winters, overnight temperatures drop below freezing 10-15 nights per year—enough to freeze exposed pipes. Prevent frozen pipes with these steps: 1) Insulate exposed pipes in unheated areas (crawl spaces, attics, garages, outdoor walls) with foam pipe insulation. 2) Install insulated faucet covers on outdoor hose bibs. 3) Disconnect and drain garden hoses before winter. 4) During freeze warnings, allow faucets to drip slightly—moving water resists freezing. 5) Open cabinet doors under sinks to allow warm air circulation around pipes. 6) Never let home temperature drop below 55°F even when away. 7) Consider heat tape for particularly vulnerable pipes. If pipes do freeze, call us immediately—attempting to thaw frozen pipes yourself risks pipe bursting."
-      },
-      {
-            "type": "faq",
-            "question": "What payment options do you offer for plumbing services?",
-            "answer": "We offer multiple payment options to make essential plumbing services affordable: 1) All major credit cards accepted (Visa, MasterCard, Discover, American Express). 2) Personal checks and cash. 3) Flexible financing through approved credit partners with options including 0% APR for qualified customers, low monthly payments, and instant credit decisions. 4) Special financing for major projects like water heater replacement, whole-home repiping, or water treatment systems. 5) Senior citizen and military discounts available. We believe plumbing emergencies and essential upgrades shouldn't be delayed due to budget concerns. Ask about current financing promotions when scheduling your service."
-      },
-      {
-            "type": "faq",
-            "question": "Are your plumbers licensed and insured?",
-            "answer": "Yes, all our plumbers are Arizona ROC (Registrar of Contractors) licensed master plumbers with an average of 18+ years hands-on experience. Our company maintains current Arizona contractor licenses (ROC #340962), comprehensive general liability insurance, workers compensation insurance, and bonding. Every technician who enters your home undergoes background checks, drug testing, and continuous training on the latest plumbing technologies and code requirements. Our plumbers arrive in clearly marked company vehicles, wear uniforms with photo ID badges, and use floor protection and cleanup protocols. You can verify our licensing and insurance status through the Arizona Registrar of Contractors website."
-      },
-      {
-            "type": "faq",
-            "question": "How long does water heater installation take?",
-            "answer": "Standard tank water heater replacement typically takes 3-5 hours including removing the old unit, installing the new water heater, connecting water and energy supply lines, installing code-required expansion tank and pressure relief valve, testing operation, and cleanup. Tankless water heater installation takes 6-8 hours and may require gas line upgrades, new venting, electrical work for the control panel, and water treatment system installation (recommended for Avra Valley's hard water). More complex installations requiring permit inspections, major venting changes, or location changes may take 1-2 days. Most water heater installations are completed same-day, and emergency water heater replacement can often be completed within 6-8 hours of your call—including diagnosis, equipment procurement, installation, and testing."
-      },
-      {
-            "type": "faq",
-            "question": "What causes hard water problems in Avra Valley and how can I fix them?",
-            "answer": "Avra Valley well water contains extremely high mineral content (15-35 grains per gallon hardness, 300-500+ ppm total dissolved solids) causing severe hard water problems throughout home plumbing systems. Hard water deposits calcium and magnesium scale inside pipes, water heaters, and fixtures reducing water flow, decreasing efficiency, and shortening equipment lifespan. Visible signs include white crusty deposits on faucets and fixtures, soap scum buildup in showers, spotted dishes and glassware, and reduced water pressure. Internal problems include water heater sediment causing rumbling sounds and premature failure, clogged aerators and shower heads, and corroded plumbing connections. The only effective permanent solution is whole-home water softener installation ($1,485-$2,850 installed). Water softeners remove hardness minerals through ion exchange process, dramatically reducing scale buildup and extending plumbing system life 50-70%. Benefits include longer water heater life (from 7-9 years to 12-15 years), 70% reduction in soap and detergent usage, elimination of scale deposits, softer skin and hair, and spotless dishes. Water softeners pay for themselves within 3-5 years through reduced maintenance costs, extended appliance life, and lower operating costs. We can test your well water hardness free during any service visit and provide complete water softener recommendations tailored to your home size and water usage."
-      },
-      {
-            "type": "faq",
-            "question": "Why is regular plumbing maintenance important for Avra Valley homes?",
-            "answer": "Regular plumbing maintenance is critical for Avra Valley homes due to unique challenges of well water systems, septic systems, and desert climate conditions. Annual water heater flushing removes hard water sediment extending tank life from 7-9 years to 12-15 years and maintaining efficiency. Preventive drain cleaning every 1-2 years prevents blockages before they cause backups or damage. Well system inspection identifies pressure tank problems, switch failures, and plumbing connection issues before they cause no-water emergencies. Septic system pumping every 3-5 years prevents tank overflow and expensive drain field failures. Fixture inspection catches leaks early before causing water damage or wasting hundreds of gallons monthly. Water treatment system maintenance including filter replacements and softener resin regeneration ensures continuous water quality and equipment protection. Preventive maintenance costs $185-485 annually but prevents emergency repairs averaging $800-2,500 and extends equipment lifespan saving thousands over time. Our maintenance plans provide scheduled service, priority emergency response, repair discounts, and peace of mind knowing your critical plumbing systems receive professional attention before problems develop into emergencies."
       }
     ]
   },
+  faqs: null,
   commonQuestions: []
 };
