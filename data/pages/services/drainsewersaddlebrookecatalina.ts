@@ -16,7 +16,7 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   
   // Service Info
   serviceName: 'Drain & Sewer Services - Saddle Brooke / Catalina',
-  category: 'Drain & Sewer',
+  category: 'Plumbing',
   
   // Content
   highlights: [
