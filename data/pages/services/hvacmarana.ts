@@ -2,8 +2,6 @@
 // Auto-generated from HVACMarana.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
-import { hvacLocationGeneralFAQs } from '@/data/faqs/hvac';
-
 
 export const hvacmaranaData: ServicePageData = {
   // SEO & Meta

@@ -2,8 +2,6 @@
 // Auto-generated from HVACAvraValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
-import { hvacLocationGeneralFAQs } from '@/data/faqs/hvac';
-
 
 export const hvacavravalleyData: ServicePageData = {
   // SEO & Meta

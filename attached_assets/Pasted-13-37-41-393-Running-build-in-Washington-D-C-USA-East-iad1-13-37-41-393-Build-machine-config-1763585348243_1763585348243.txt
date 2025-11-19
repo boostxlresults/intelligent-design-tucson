@@ -1,0 +1,47 @@
+13:37:41.393 Running build in Washington, D.C., USA (East) – iad1
+13:37:41.393 Build machine configuration: 4 cores, 8 GB
+13:37:41.490 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 0ed194c)
+13:37:41.491 Previous build caches not available.
+13:37:53.917 Cloning completed: 12.427s
+13:37:54.671 Running "vercel build"
+13:37:55.106 Vercel CLI 48.10.3
+13:37:55.654 Installing dependencies...
+13:38:01.502 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+13:38:01.573 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+13:38:12.985 
+13:38:12.986 added 653 packages in 17s
+13:38:12.986 
+13:38:12.986 176 packages are looking for funding
+13:38:12.987   run `npm fund` for details
+13:38:13.087 Detected Next.js version: 16.0.1
+13:38:13.098 Running "npm run build"
+13:38:13.261 
+13:38:13.261 > intelligent-design-nextjs@1.0.0 build
+13:38:13.261 > next build
+13:38:13.261 
+13:38:14.611 ✅ Generated 270 service redirects for SEO preservation
+13:38:14.653 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+13:38:14.654 This information is used to shape Next.js' roadmap and prioritize features.
+13:38:14.654 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+13:38:14.654 https://nextjs.org/telemetry
+13:38:14.654 
+13:38:14.668    ▲ Next.js 16.0.1 (Turbopack)
+13:38:14.668 
+13:38:14.966 ✅ Generated 270 service redirects for SEO preservation
+13:38:15.035    Creating an optimized production build ...
+13:38:28.397  ✓ Compiled successfully in 12.6s
+13:38:28.400    Running TypeScript ...
+13:39:24.086 Failed to compile.
+13:39:24.086 
+13:39:24.087 ./data/pages/services/hvacavravalley.ts:5:10
+13:39:24.087 Type error: '"@/data/faqs/hvac"' has no exported member named 'hvacLocationGeneralFAQs'. Did you mean 'hvacLocationFAQs'?
+13:39:24.087 
+13:39:24.087 [0m [90m 3 |[39m [36mimport[39m type { [33mServicePageData[39m } [36mfrom[39m [32m'@/types/services'[39m[33m;[39m
+13:39:24.087  [90m 4 |[39m [36mimport[39m { hvacLocationFAQs } [36mfrom[39m [32m'@/data/faqs/hvac'[39m[33m;[39m
+13:39:24.087 [31m[1m>[22m[39m[90m 5 |[39m [36mimport[39m { hvacLocationGeneralFAQs } [36mfrom[39m [32m'@/data/faqs/hvac'[39m[33m;[39m
+13:39:24.088  [90m   |[39m          [31m[1m^[22m[39m
+13:39:24.088  [90m 6 |[39m
+13:39:24.088  [90m 7 |[39m
+13:39:24.088  [90m 8 |[39m [36mexport[39m [36mconst[39m hvacavravalleyData[33m:[39m [33mServicePageData[39m [33m=[39m {[0m
+13:39:24.170 Next.js build worker exited with code: 1 and signal: null
+13:39:24.216 Error: Command "npm run build" exited with 1
