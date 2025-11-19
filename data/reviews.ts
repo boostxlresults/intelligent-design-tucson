@@ -1,0 +1,87 @@
+/**
+ * Customer Reviews Data
+ * Converted from JSON to TS module for Turbopack compatibility
+ */
+
+export const reviewsData = {
+  aggregateRating: {
+    ratingValue: 5.0,
+    reviewCount: 22000,
+    bestRating: 5,
+    worstRating: 1
+  },
+  featuredReviews: [
+    {
+      author: "Sarah Martinez",
+      rating: 5,
+      reviewBody: "Intelligent Design saved the day when our AC died in 110-degree heat! Technician arrived within 2 hours, diagnosed the problem quickly, and had us cool again the same day. Professional, honest, and fairly priced. Highly recommend!",
+      datePublished: "2024-07-15"
+    },
+    {
+      author: "Michael Thompson",
+      rating: 5,
+      reviewBody: "Best HVAC company in Tucson! We've used them for years for maintenance and repairs. They're always on time, explain everything clearly, and their pricing is transparent. The veteran ownership shows in their attention to detail.",
+      datePublished: "2024-09-22"
+    },
+    {
+      author: "Jennifer Lee",
+      rating: 5,
+      reviewBody: "Had a plumbing emergency at 10 PM and they answered immediately! Tech arrived within an hour and fixed our burst pipe. They even helped clean up the water damage. 24/7 emergency service that actually works!",
+      datePublished: "2024-08-05"
+    },
+    {
+      author: "Robert Garcia",
+      rating: 5,
+      reviewBody: "Installed our solar system last year and we're saving over $200/month on electricity! The installation crew was professional, clean, and completed everything on schedule. Best investment we've made in our home.",
+      datePublished: "2024-06-10"
+    },
+    {
+      author: "Amanda Wilson",
+      rating: 5,
+      reviewBody: "Electrical panel upgrade was done perfectly. They handled all the permits, coordinated with the city, and finished in 2 days. Our inspector said it was one of the cleanest installations he'd seen. Worth every penny!",
+      datePublished: "2024-10-18"
+    },
+    {
+      author: "David Chen",
+      rating: 5,
+      reviewBody: "New roof installation exceeded our expectations! They protected our landscaping, cleaned up daily, and the craftsmanship is outstanding. We've had two monsoons since installation with zero leaks. Family-owned quality you can trust.",
+      datePublished: "2024-05-28"
+    },
+    {
+      author: "Lisa Rodriguez",
+      rating: 5,
+      reviewBody: "Maintenance plan is the best value! Regular tune-ups keep our HVAC running efficiently, and we get priority emergency service. They caught a small issue before it became expensive. Smart investment for any homeowner.",
+      datePublished: "2024-09-30"
+    },
+    {
+      author: "James Patterson",
+      rating: 5,
+      reviewBody: "Water heater replacement was quick and painless. They had the new unit installed within 4 hours and hauled away the old one. Explained all our options without pressure. Great experience from start to finish!",
+      datePublished: "2024-08-20"
+    },
+    {
+      author: "Maria Gonzalez",
+      rating: 5,
+      reviewBody: "Generator installation saved us during last summer's power outages. Whole house stayed cool and powered. Installation team was expert, clean, and respectful of our home. Financing made it affordable too!",
+      datePublished: "2024-07-02"
+    },
+    {
+      author: "Kevin Brown",
+      rating: 5,
+      reviewBody: "Ductless mini-split install for our addition was perfect! Quieter than we expected and cools the room in minutes. Technician explained everything and showed us how to use all the features. Very impressed!",
+      datePublished: "2024-10-05"
+    },
+    {
+      author: "Patricia Adams",
+      rating: 5,
+      reviewBody: "Family Protection Plan gives us peace of mind! All our systems maintained professionally, priority service, and major savings on repairs. As a military family, we appreciate their veteran-owned values.",
+      datePublished: "2024-09-12"
+    },
+    {
+      author: "Thomas Wright",
+      rating: 5,
+      reviewBody: "Complete AC replacement handled perfectly from quote to installation. New system is incredibly efficient - our electric bills dropped 40%! Crew was professional, explained everything, and left our home spotless. Outstanding service!",
+      datePublished: "2024-06-25"
+    }
+  ]
+};

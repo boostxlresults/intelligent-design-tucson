@@ -1,0 +1,71 @@
+Please add these important benchmarks to the pre-launch checklist for the new Intelligent Design Home Services website build.
+
+This project is being developed in Replit and will later be pushed to GitHub and deployed on Vercel.
+
+Our goal is to build the highest-ranking AI-search and conversion-optimized service site in the country. The site must be schema-rich, lightning-fast, static-HTML deployed, and deeply optimized for Google Maps, LSA, and Organic SEO, including all future-facing requirements for AI search visibility, LLM citations, Ask Maps, and local discoverability.
+
+Here is the required checklist:
+
+---
+
+🧱 1. CONTENT MIGRATION (BLOG)
+- Migrate every blog post from our existing site to this new build
+- You may suggest scraping vs. manual copy-paste – we will provide the blog sitemap
+- Maintain correct formatting, metadata, and titles
+- Add internal links between blog and service pages
+- Apply `Article` or `FAQ` schema where relevant
+- Preserve SEO equity and canonical tags
+
+---
+
+🧩 2. PAGE-BY-PAGE REVIEW WORKFLOW
+- After service & info pages are rebuilt, the owner (Joey) will provide detailed notes
+- Then we will do the same for blog content
+- Pages will be edited in Replit until approved for production
+
+---
+
+🔍 3. SEO / SPEED / CONVERSION / AI-SEARCH AUDIT
+Once site is populated, conduct a deep audit covering:
+- Meta titles, H1/H2 structure, internal links
+- Core Web Vitals (mobile-first)
+- LLM-readiness: citation-worthy passages, standalone Q&A blocks
+- Structured schema (Service, LocalBusiness, FAQ, Article, etc.)
+- Conversion CTAs with embedded phone, scheduler, form logic
+- Every page must meet criteria for Google’s AI Overviews, Ask Maps, and Maps Pack
+
+---
+
+🔧 4. INTEGRATIONS (WIDGETS & TOOLS)
+All existing tools must be re-integrated into the new build:
+- ✅ ServiceTitan Scheduler Embed
+- ✅ Dynamic Phone Numbers via ServiceTitan Snippet
+- ✅ Google Tag Manager (GTM)
+- ✅ RealWorkLabs Embed
+- ✅ Google Review Widgets
+- ✅ Google Map Embed
+- ✅ Hatch Chat Widget
+- ✅ Form Fills routed to: `csrteam@idesignac.com`
+
+---
+
+🌐 5. LAUNCH SEQUENCE
+- Final SEO pass across all pages
+- Code review + QA
+- Push repo to GitHub
+- Deploy to Vercel with domain: `www.idesignac.com`
+- SSL, domain records, and production live switch
+
+---
+
+📌 6. STRATEGIC REQUIREMENTS
+This site must:
+- Be structured using clean silos and scalable service area logic
+- Be optimized for both keyword-based and AI-based search visibility
+- Load instantly, with static HTML output (Replit > GitHub > Vercel pipeline)
+- Convert across all devices (with special attention to mobile UX)
+- Include security enhancements for forms, scheduler, scanner, and CMS access
+
+---
+
+Please confirm that you understand the full scope, and ask me for any missing items before execution begins. Let's first begin with the homepage, core navigation structure, and service page scaffolding. All other modules and systems will follow in this order.

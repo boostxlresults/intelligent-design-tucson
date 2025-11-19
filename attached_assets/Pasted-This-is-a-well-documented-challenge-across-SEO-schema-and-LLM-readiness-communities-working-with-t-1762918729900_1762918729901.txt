@@ -1,0 +1,69 @@
+This is a well-documented challenge across SEO, schema, and LLM-readiness communities working with the App Router.
+
+⸻
+
+⚠️ The Core Problem
+	•	Next.js 13+ App Router uses React Server Components and streaming rendering.
+	•	JSON-LD injected via:
+	•	dangerouslySetInnerHTML
+	•	<script> in server/client components
+	•	next/script
+…is either stripped out or not rendered in the final HTML when inspected via curl, view-source, or Googlebot.
+
+⸻
+
+✅ Confirmations in Their Report:
+	•	Schema generation is working in logic (✅ logs show 3–5 schemas rendered).
+	•	Schema is NOT visible in client-side view or curl (🚫 critical for SEO and LLM citation).
+	•	Multiple approaches tested and failed (correct troubleshooting).
+
+⸻
+
+✅ Recommended Solutions
+
+1. Server-Side Middleware / CDN Injection
+
+Inject JSON-LD directly into the HTML response after SSR completes but before the browser receives it. Two options:
+	•	Replit Middleware Hook (if available)
+	•	Vercel Edge Functions (best supported on Vercel)
+
+🔧 This is currently the only reliable way to ensure JSON-LD persists in App Router.
+
+⸻
+
+2. Switch to Pages Router (Optional)
+
+The older Pages Router architecture (still supported) does not use React Streaming and supports JSON-LD <script> tags directly. This may not be scalable long-term, but is schema-friendly today.
+
+⸻
+
+3. Post-Render Client Hydration (Worst Option)
+
+Inject JSON-LD via useEffect() in client components.
+	•	Pros: Appears visually
+	•	Cons: Not crawlable by bots, defeats the point of structured data
+
+Use only for non-critical schemas (e.g. breadcrumbs, FAQ not driving rankings).
+
+⸻
+
+4. Dual Schema Injection Strategy (Recommended Hybrid)
+	•	Use client-side JSON-LD for users (for dev tools/testing)
+	•	Inject SEO-critical schemas (e.g. LocalBusiness, Product, FAQ) via Edge Middleware or at CDN level for Googlebot ingestion
+
+⸻
+
+🧠 Best Practice for Intelligent Design
+
+Since this is a mission-critical site aiming to win on LLM search and Google rich results:
+	•	✅ Keep using App Router
+	•	✅ Move schema injection to Edge Function middleware (Vercel preferred)
+	•	✅ Confirm schema visibility via curl, Screaming Frog, or Google’s Rich Results Test￼
+
+⸻
+
+✅ Final Verdict
+
+Replit was right: The issue is a real limitation of React Streaming / App Router in Next.js.
+
+Solution: Implement middleware schema injection before launch. This must be added to your pre-launch checklist as a blocker for SEO-readiness.

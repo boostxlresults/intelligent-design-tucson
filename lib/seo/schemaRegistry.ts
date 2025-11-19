@@ -1,0 +1,312 @@
+/**
+ * Centralized Schema Registry
+ * Per-page-type schema orchestration for maximum SEO impact
+ * 
+ * This registry defines which schemas should be generated for each page type,
+ * ensuring comprehensive coverage across the entire site.
+ */
+
+import { generateOrganizationSchema } from './generateOrganizationSchema';
+import { generateWebSiteSchema } from './generateWebSiteSchema';
+import { generateMultiCategoryLocalBusinessSchemas } from './generateMultiCategoryLocalBusinessSchema';
+import { generateAggregateRatingSchema } from './generateAggregateRatingSchema';
+import { generateReviewSchemas } from './generateReviewSchema';
+import { generateContactPointSchemas } from './generateContactPointSchema';
+import { generateServiceSchema } from './generateServiceSchema';
+import { generateLocationSchema } from './generateLocationSchema';
+import { generateOfferSchemas } from './generateOfferSchema';
+import { generateFAQSchema } from './generateFAQSchema';
+
+export type PageType = 
+  | 'homepage'
+  | 'service'
+  | 'service-location'
+  | 'service-area'
+  | 'blog'
+  | 'info';
+
+export interface SchemaRegistryOptions {
+  pageType: PageType;
+  canonicalUrl: string;
+  pageData?: {
+    serviceName?: string;
+    serviceDescription?: string;
+    location?: string;
+    locationDescription?: string;
+    services?: string[];
+    faqs?: Array<{ question: string; answer: string }>;
+    categories?: string[]; // For multi-category pages
+    includeOffers?: boolean;
+    zipCodes?: string[]; // Location-specific zip codes for DefinedRegion schema
+  };
+}
+
+/**
+ * Orchestrates all schemas for a given page type
+ * Returns an array of schema objects to be rendered
+ */
+export function getPageSchemas(options: SchemaRegistryOptions): Array<Record<string, any>> {
+  const { pageType, canonicalUrl, pageData = {} } = options;
+  const schemas: Array<Record<string, any>> = [];
+
+  switch (pageType) {
+    case 'homepage':
+      return getHomepageSchemas(canonicalUrl);
+    
+    case 'service':
+      return getServicePageSchemas(canonicalUrl, pageData);
+    
+    case 'service-location':
+      return getServiceLocationPageSchemas(canonicalUrl, pageData);
+    
+    case 'service-area':
+      return getServiceAreaPageSchemas(canonicalUrl, pageData);
+    
+    case 'blog':
+      return getBlogPageSchemas(canonicalUrl, pageData);
+    
+    case 'info':
+      return getInfoPageSchemas(canonicalUrl, pageData);
+    
+    default:
+      return [];
+  }
+}
+
+/**
+ * HOMEPAGE SCHEMAS (6-8 schemas)
+ * - Organization
+ * - WebSite
+ * - 5× Multi-Category LocalBusiness (HVAC, Plumbing, Electrical, Roofing, Solar)
+ * - AggregateRating
+ * - Reviews (top 3)
+ */
+function getHomepageSchemas(canonicalUrl: string) {
+  const schemas = [];
+
+  // 1. Organization Schema
+  schemas.push(generateOrganizationSchema({
+    canonicalUrl,
+    includeRating: true,
+    includeContactPoints: true,
+    includeSameAs: true
+  }));
+
+  // 2. WebSite Schema
+  schemas.push(generateWebSiteSchema({ url: canonicalUrl }));
+
+  // 3-7. Multi-Category LocalBusiness Schemas (5 categories)
+  const multiCategorySchemas = generateMultiCategoryLocalBusinessSchemas({
+    canonicalUrl,
+    includeRatings: true
+  });
+  schemas.push(...multiCategorySchemas);
+
+  // 8-10. Review Schemas (top 3 reviews)
+  const reviewSchemas = generateReviewSchemas({
+    maxReviews: 3,
+    itemReviewed: {
+      type: "Organization",
+      name: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
+    }
+  });
+  schemas.push(...reviewSchemas);
+
+  return schemas;
+}
+
+/**
+ * SERVICE PAGE SCHEMAS (5-7 schemas)
+ * - Service
+ * - Category-Specific LocalBusiness
+ * - AggregateRating
+ * - FAQPage
+ * - BreadcrumbList
+ * - Offer (optional)
+ */
+function getServicePageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // 1. Service Schema
+  if (pageData.serviceName && pageData.serviceDescription) {
+    schemas.push(generateServiceSchema({
+      serviceName: pageData.serviceName,
+      description: pageData.serviceDescription,
+      services: pageData.services || [],
+      canonicalUrl
+    }));
+  }
+
+  // 2. Category-Specific LocalBusiness
+  if (pageData.categories && pageData.categories.length > 0) {
+    const categorySchemas = generateMultiCategoryLocalBusinessSchemas({
+      categories: pageData.categories,
+      canonicalUrl,
+      includeRatings: true
+    });
+    schemas.push(...categorySchemas);
+  }
+
+  // 3. FAQPage Schema
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
+
+  // 4. Offer Schemas (if applicable)
+  if (pageData.includeOffers) {
+    const offerSchemas = generateOfferSchemas({ includeAll: false });
+    schemas.push(...offerSchemas);
+  }
+
+  return schemas;
+}
+
+/**
+ * SERVICE+LOCATION PAGE SCHEMAS (6-8 schemas)
+ * - Service
+ * - Geo-Enhanced LocalBusiness
+ * - AggregateRating
+ * - FAQPage
+ * - BreadcrumbList
+ * - GeoCircle (via enhanced LocalBusiness)
+ * - Offer (optional)
+ */
+function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // 1. Service Schema with location
+  if (pageData.serviceName && pageData.serviceDescription && pageData.location) {
+    schemas.push(generateServiceSchema({
+      serviceName: `${pageData.serviceName} in ${pageData.location}`,
+      description: pageData.serviceDescription,
+      location: pageData.location,
+      services: pageData.services || [],
+      canonicalUrl
+    }));
+  }
+
+  // 2. Geo-Enhanced LocalBusiness with GeoCircle
+  if (pageData.location) {
+    schemas.push(generateLocationSchema({
+      location: pageData.location,
+      services: pageData.services || [],
+      description: pageData.locationDescription,
+      canonicalUrl,
+      includeGeoCircle: true,
+      serviceRadius: 50
+    }));
+  }
+
+  // 3. Category-Specific LocalBusiness with location
+  if (pageData.categories && pageData.categories.length > 0 && pageData.location) {
+    const categorySchemas = generateMultiCategoryLocalBusinessSchemas({
+      categories: pageData.categories,
+      canonicalUrl,
+      includeRatings: true,
+      location: pageData.location.toLowerCase().replace(/\s+/g, '-')
+    });
+    schemas.push(...categorySchemas);
+  }
+
+  // 4. FAQPage Schema
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
+
+  // 5. Offer Schemas
+  if (pageData.includeOffers) {
+    const offerSchemas = generateOfferSchemas({ includeAll: false });
+    schemas.push(...offerSchemas);
+  }
+
+  return schemas;
+}
+
+/**
+ * SERVICE AREA PAGE SCHEMAS (5-6 schemas)
+ * - LocalBusiness
+ * - AggregateRating
+ * - Review
+ * - BreadcrumbList
+ * - GeoCircle
+ */
+function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // 1. LocalBusiness with GeoCircle and location-specific zip codes
+  if (pageData.location) {
+    schemas.push(generateLocationSchema({
+      location: pageData.location,
+      services: pageData.services || [],
+      description: pageData.locationDescription,
+      canonicalUrl,
+      includeGeoCircle: true,
+      serviceRadius: 50,
+      zipCodes: pageData.zipCodes // Pass location-specific zip codes
+    }));
+  }
+
+  // 2-3. Review Schemas (2 reviews)
+  const reviewSchemas = generateReviewSchemas({
+    maxReviews: 2,
+    itemReviewed: {
+      type: "LocalBusiness",
+      name: `Intelligent Design - ${pageData.location || ''}`
+    }
+  });
+  schemas.push(...reviewSchemas);
+
+  return schemas;
+}
+
+/**
+ * BLOG PAGE SCHEMAS (3-5 schemas)
+ * - Article/BlogPosting
+ * - Organization
+ * - BreadcrumbList
+ * - ImageObject (if applicable)
+ * - FAQPage (if applicable)
+ */
+function getBlogPageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // Organization Schema
+  schemas.push(generateOrganizationSchema({
+    canonicalUrl: canonicalUrl.split('/blog')[0],
+    includeRating: false,
+    includeContactPoints: false,
+    includeSameAs: false
+  }));
+
+  // FAQPage if applicable
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
+
+  return schemas;
+}
+
+/**
+ * INFO PAGE SCHEMAS (2-3 schemas)
+ * - WebPage
+ * - Organization
+ * - FAQPage (if applicable)
+ */
+function getInfoPageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // Organization Schema
+  schemas.push(generateOrganizationSchema({
+    canonicalUrl: canonicalUrl.split('/').slice(0, 3).join('/'),
+    includeRating: false,
+    includeContactPoints: true,
+    includeSameAs: false
+  }));
+
+  // FAQPage if applicable
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
+
+  return schemas;
+}

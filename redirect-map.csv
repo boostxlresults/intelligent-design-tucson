@@ -1,0 +1,18 @@
+old_url,new_url,redirect_type,notes
+/blog,/blog/hvac,301,Default blog redirect to HVAC category
+/air-conditioning/ac-repair-tucson,/services/hvac/ac-repair,301,Service page URL update
+/air-conditioning/ac-installation-tucson,/services/hvac/ac-installation,301,Service page URL update
+/air-conditioning/duct-cleaning-tucson,/services/hvac/duct-cleaning,301,Service page URL update
+/plumber-tucson,/services/plumbing,301,Service page URL update
+/plumber-tucson/water-heaters-tucson,/services/plumbing/water-heater-installation,301,Service page URL update
+/drain-and-sewer/drain-cleaning-tucson,/services/plumbing/drain-cleaning,301,Service page URL update
+/roofing-tucson-az,/services/roofing,301,Service page URL update
+/roofing-tucson-az/residential-roofing/roof-installation,/services/roofing/roof-installation,301,Service page URL update
+/solar-tucson,/services/solar/solar-monitoring,301,Service page URL update
+/electrical-tucson/standby-generator-installation-and-repair,/services/electrical/generator-installation,301,Service page URL update
+/electrical-tucson/outlets-switches,/services/electrical/outlet-switch-repair,301,Service page URL update
+/electrical-tucson/circuit-breakers,/services/electrical/circuit-breaker-replacement,301,Service page URL update
+/about-us/realtors,/about,301,Simplified about page
+/testimonials,/about,301,Testimonials integrated into about page
+/schedule,/,301,Redirect to home with scheduler
+/careers,/about,301,Careers info on about page

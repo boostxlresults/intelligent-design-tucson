@@ -1,0 +1,1630 @@
+[
+  {
+    "file": "nextjs-app/data/pages/services/acinstallation.ts",
+    "reactPage": "client/src/pages/ACInstallation.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ac-installation-tucson",
+    "expectedSlug": "ac-installation-tucson",
+    "actualSlug": "ac-installation-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/acrepair.ts",
+    "reactPage": "client/src/pages/ACRepair.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ac-repair-tucson",
+    "expectedSlug": "ac-repair-tucson",
+    "actualSlug": "ac-repair-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/acservice.ts",
+    "reactPage": "client/src/pages/ACService.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ac-service-tucson",
+    "expectedSlug": "ac-service-tucson",
+    "actualSlug": "ac-service-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/actuneup.ts",
+    "reactPage": "client/src/pages/ACTuneup.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ac-tuneup-tucson",
+    "expectedSlug": "ac-tuneup-tucson",
+    "actualSlug": "ac-tuneup-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/bidetinstallation.ts",
+    "reactPage": "client/src/pages/BidetInstallation.tsx",
+    "actualSlug": "bidet-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ceilingfaninstallation.ts",
+    "reactPage": "client/src/pages/CeilingFanInstallation.tsx",
+    "actualSlug": "ceiling-fan-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/circuitbreakers.ts",
+    "reactPage": "client/src/pages/CircuitBreakers.tsx",
+    "actualSlug": "circuit-breakers",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialroofcoating.ts",
+    "reactPage": "client/src/pages/CommercialRoofCoating.tsx",
+    "actualSlug": "commercial-roof-coating",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialroofinspection.ts",
+    "reactPage": "client/src/pages/CommercialRoofInspection.tsx",
+    "actualSlug": "commercial-roof-inspection",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialroofinstallation.ts",
+    "reactPage": "client/src/pages/CommercialRoofInstallation.tsx",
+    "actualSlug": "commercial-roof-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialroofrepair.ts",
+    "reactPage": "client/src/pages/CommercialRoofRepair.tsx",
+    "actualSlug": "commercial-roof-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialroofreplacement.ts",
+    "reactPage": "client/src/pages/CommercialRoofReplacement.tsx",
+    "actualSlug": "commercial-roof-replacement",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/commercialsolarinstallation.ts",
+    "reactPage": "client/src/pages/CommercialSolarInstallation.tsx",
+    "actualSlug": "commercial-solar-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/coronadetucson.ts",
+    "reactPage": "client/src/pages/CoronaDeTucson.tsx",
+    "canonicalUrl": "https://www.idesignac.com/corona-de-tucson",
+    "expectedSlug": "corona-de-tucson",
+    "actualSlug": "corona-de-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/cortaro.ts",
+    "reactPage": "client/src/pages/Cortaro.tsx",
+    "canonicalUrl": "https://www.idesignac.com/cortaro",
+    "expectedSlug": "cortaro",
+    "actualSlug": "cortaro",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/customerreviews.ts",
+    "reactPage": "client/src/pages/CustomerReviews.tsx",
+    "actualSlug": "customer-reviews",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/drainclearing.ts",
+    "reactPage": "client/src/pages/DrainClearing.tsx",
+    "actualSlug": "drain-clearing",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductcleaning.ts",
+    "reactPage": "client/src/pages/DuctCleaning.tsx",
+    "canonicalUrl": "https://www.idesignac.com/duct-cleaning-tucson",
+    "expectedSlug": "duct-cleaning-tucson",
+    "actualSlug": "duct-cleaning-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductinstallation.ts",
+    "reactPage": "client/src/pages/DuctInstallation.tsx",
+    "canonicalUrl": "https://www.idesignac.com/duct-installation-tucson",
+    "expectedSlug": "duct-installation-tucson",
+    "actualSlug": "duct-installation-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductlessminisplitinstallation.ts",
+    "reactPage": "client/src/pages/DuctlessMiniSplitInstallation.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ductless-installation-tucson",
+    "expectedSlug": "ductless-installation-tucson",
+    "actualSlug": "ductless-installation-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductlessminisplitrepair.ts",
+    "reactPage": "client/src/pages/DuctlessMiniSplitRepair.tsx",
+    "canonicalUrl": "https://www.idesignac.com/ductless-repair-tucson",
+    "expectedSlug": "ductless-repair-tucson",
+    "actualSlug": "ductless-repair-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductrepair.ts",
+    "reactPage": "client/src/pages/DuctRepair.tsx",
+    "canonicalUrl": "https://www.idesignac.com/duct-repair-tucson",
+    "expectedSlug": "duct-repair-tucson",
+    "actualSlug": "duct-repair-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/ductsealing.ts",
+    "reactPage": "client/src/pages/DuctSealing.tsx",
+    "canonicalUrl": "https://www.idesignac.com/duct-sealing-tucson",
+    "expectedSlug": "duct-sealing-tucson",
+    "actualSlug": "duct-sealing-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/easttucson.ts",
+    "reactPage": "client/src/pages/EastTucson.tsx",
+    "canonicalUrl": "https://www.idesignac.com/east-tucson",
+    "expectedSlug": "east-tucson",
+    "actualSlug": "east-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalavravalley.ts",
+    "reactPage": "client/src/pages/ElectricalAvraValley.tsx",
+    "actualSlug": "electrical-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalcasasadobes.ts",
+    "reactPage": "client/src/pages/ElectricalCasasAdobes.tsx",
+    "actualSlug": "electrical-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalcoronadetucson.ts",
+    "reactPage": "client/src/pages/ElectricalCoronadeTucson.tsx",
+    "actualSlug": "electrical-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalcortaro.ts",
+    "reactPage": "client/src/pages/ElectricalCortaro.tsx",
+    "actualSlug": "electrical-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaldrexelheights.ts",
+    "reactPage": "client/src/pages/ElectricalDrexelHeights.tsx",
+    "actualSlug": "electrical-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaleasttucson.ts",
+    "reactPage": "client/src/pages/ElectricalEastTucson.tsx",
+    "actualSlug": "electrical-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalgladdenfarms.ts",
+    "reactPage": "client/src/pages/ElectricalGladdenFarms.tsx",
+    "actualSlug": "electrical-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalgreenvalley.ts",
+    "reactPage": "client/src/pages/ElectricalGreenValley.tsx",
+    "actualSlug": "electrical-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalmarana.ts",
+    "reactPage": "client/src/pages/ElectricalMarana.tsx",
+    "actualSlug": "electrical-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalorovalley.ts",
+    "reactPage": "client/src/pages/ElectricalOroValley.tsx",
+    "actualSlug": "electrical-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalpanelupgrades.ts",
+    "reactPage": "client/src/pages/ElectricalPanelUpgrades.tsx",
+    "actualSlug": "electrical-panel-upgrades",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalpicturerocks.ts",
+    "reactPage": "client/src/pages/ElectricalPictureRocks.tsx",
+    "actualSlug": "electrical-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalrepair.ts",
+    "reactPage": "client/src/pages/ElectricalRepair.tsx",
+    "actualSlug": "electrical-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalrillito.ts",
+    "reactPage": "client/src/pages/ElectricalRillito.tsx",
+    "actualSlug": "electrical-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalritaranch.ts",
+    "reactPage": "client/src/pages/ElectricalRitaRanch.tsx",
+    "actualSlug": "electrical-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalsaddlebrooke.ts",
+    "reactPage": "client/src/pages/ElectricalSaddleBrooke.tsx",
+    "actualSlug": "electrical-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalsahuarita.ts",
+    "reactPage": "client/src/pages/ElectricalSahuarita.tsx",
+    "actualSlug": "electrical-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaltanqueverde.ts",
+    "reactPage": "client/src/pages/ElectricalTanqueVerde.tsx",
+    "actualSlug": "electrical-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaltortolita.ts",
+    "reactPage": "client/src/pages/ElectricalTortolita.tsx",
+    "actualSlug": "electrical-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaltucson.ts",
+    "reactPage": "client/src/pages/ElectricalTucson.tsx",
+    "actualSlug": "electrical-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricaltucsonestates.ts",
+    "reactPage": "client/src/pages/ElectricalTucsonEstates.tsx",
+    "actualSlug": "electrical-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/electricalvail.ts",
+    "reactPage": "client/src/pages/ElectricalVail.tsx",
+    "actualSlug": "electrical-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/familyprotectionplans.ts",
+    "reactPage": "client/src/pages/FamilyProtectionPlans.tsx",
+    "actualSlug": "family-protection-plans",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/financing.ts",
+    "reactPage": "client/src/pages/Financing.tsx",
+    "actualSlug": "financing",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/flatroofs.ts",
+    "reactPage": "client/src/pages/FlatRoofs.tsx",
+    "actualSlug": "flat-roofs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/furnaces.ts",
+    "reactPage": "client/src/pages/Furnaces.tsx",
+    "canonicalUrl": "https://www.idesignac.com/furnaces-tucson",
+    "expectedSlug": "furnaces-tucson",
+    "actualSlug": "furnaces-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/garbagedisposal.ts",
+    "reactPage": "client/src/pages/GarbageDisposal.tsx",
+    "actualSlug": "garbage-disposal",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/generacinstallation.ts",
+    "reactPage": "client/src/pages/GeneracInstallation.tsx",
+    "actualSlug": "generac-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/generacrepair.ts",
+    "reactPage": "client/src/pages/GeneracRepair.tsx",
+    "actualSlug": "generac-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/gladdenfarms.ts",
+    "reactPage": "client/src/pages/GladdenFarms.tsx",
+    "canonicalUrl": "https://www.idesignac.com/gladden-farms",
+    "expectedSlug": "gladden-farms",
+    "actualSlug": "gladden-farms",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/guarantees.ts",
+    "reactPage": "client/src/pages/Guarantees.tsx",
+    "actualSlug": "guarantees",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heaterinstallation.ts",
+    "reactPage": "client/src/pages/HeaterInstallation.tsx",
+    "canonicalUrl": "https://www.idesignac.com/heater-installation-tucson",
+    "expectedSlug": "heater-installation-tucson",
+    "actualSlug": "heater-installation-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heaterrepair.ts",
+    "reactPage": "client/src/pages/HeaterRepair.tsx",
+    "canonicalUrl": "https://www.idesignac.com/heater-repair-tucson",
+    "expectedSlug": "heater-repair-tucson",
+    "actualSlug": "heater-repair-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heaterservice.ts",
+    "reactPage": "client/src/pages/HeaterService.tsx",
+    "canonicalUrl": "https://www.idesignac.com/heater-service-tucson",
+    "expectedSlug": "heater-service-tucson",
+    "actualSlug": "heater-service-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatertuneup.ts",
+    "reactPage": "client/src/pages/HeaterTuneup.tsx",
+    "canonicalUrl": "https://www.idesignac.com/heater-tuneup-tucson",
+    "expectedSlug": "heater-tuneup-tucson",
+    "actualSlug": "heater-tuneup-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingavravalley.ts",
+    "reactPage": "client/src/pages/HeatingAvraValley.tsx",
+    "actualSlug": "heating-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingcasasadobes.ts",
+    "reactPage": "client/src/pages/HeatingCasasAdobes.tsx",
+    "actualSlug": "heating-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingcoronadetucson.ts",
+    "reactPage": "client/src/pages/HeatingCoronadeTucson.tsx",
+    "actualSlug": "heating-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingcortaro.ts",
+    "reactPage": "client/src/pages/HeatingCortaro.tsx",
+    "actualSlug": "heating-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingdrexelheights.ts",
+    "reactPage": "client/src/pages/HeatingDrexelHeights.tsx",
+    "actualSlug": "heating-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingeasttucson.ts",
+    "reactPage": "client/src/pages/HeatingEastTucson.tsx",
+    "actualSlug": "heating-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatinggladdenfarms.ts",
+    "reactPage": "client/src/pages/HeatingGladdenFarms.tsx",
+    "actualSlug": "heating-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatinggreenvalley.ts",
+    "reactPage": "client/src/pages/HeatingGreenValley.tsx",
+    "actualSlug": "heating-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingmarana.ts",
+    "reactPage": "client/src/pages/HeatingMarana.tsx",
+    "actualSlug": "heating-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingorovalley.ts",
+    "reactPage": "client/src/pages/HeatingOroValley.tsx",
+    "actualSlug": "heating-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingpicturerocks.ts",
+    "reactPage": "client/src/pages/HeatingPictureRocks.tsx",
+    "actualSlug": "heating-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingrillito.ts",
+    "reactPage": "client/src/pages/HeatingRillito.tsx",
+    "actualSlug": "heating-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingritaranch.ts",
+    "reactPage": "client/src/pages/HeatingRitaRanch.tsx",
+    "actualSlug": "heating-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingsaddlebrooke.ts",
+    "reactPage": "client/src/pages/HeatingSaddleBrooke.tsx",
+    "actualSlug": "heating-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingsahuarita.ts",
+    "reactPage": "client/src/pages/HeatingSahuarita.tsx",
+    "actualSlug": "heating-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingtanqueverde.ts",
+    "reactPage": "client/src/pages/HeatingTanqueVerde.tsx",
+    "actualSlug": "heating-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingtortolita.ts",
+    "reactPage": "client/src/pages/HeatingTortolita.tsx",
+    "actualSlug": "heating-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingtucson.ts",
+    "reactPage": "client/src/pages/HeatingTucson.tsx",
+    "actualSlug": "heating-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingtucsonestates.ts",
+    "reactPage": "client/src/pages/HeatingTucsonEstates.tsx",
+    "actualSlug": "heating-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatingvail.ts",
+    "reactPage": "client/src/pages/HeatingVail.tsx",
+    "actualSlug": "heating-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/heatpumps.ts",
+    "reactPage": "client/src/pages/HeatPumps.tsx",
+    "canonicalUrl": "https://www.idesignac.com/heat-pumps-tucson",
+    "expectedSlug": "heat-pumps-tucson",
+    "actualSlug": "heat-pumps-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/home.ts",
+    "reactPage": "client/src/pages/Home.tsx",
+    "actualSlug": "home",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/homeenergyaudit.ts",
+    "reactPage": "client/src/pages/HomeEnergyAudit.tsx",
+    "canonicalUrl": "https://www.idesignac.com/home-energy-audit-tucson",
+    "expectedSlug": "home-energy-audit-tucson",
+    "actualSlug": "home-energy-audit-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/homeenergyupgrades.ts",
+    "reactPage": "client/src/pages/HomeEnergyUpgrades.tsx",
+    "canonicalUrl": "https://www.idesignac.com/home-energy-upgrades-tucson",
+    "expectedSlug": "home-energy-upgrades-tucson",
+    "actualSlug": "home-energy-upgrades-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacavravalley.ts",
+    "reactPage": "client/src/pages/HVACAvraValley.tsx",
+    "actualSlug": "h-v-a-c-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvaccasasadobes.ts",
+    "reactPage": "client/src/pages/HVACCasasAdobes.tsx",
+    "actualSlug": "h-v-a-c-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvaccoronadetucson.ts",
+    "reactPage": "client/src/pages/HVACCoronadeTucson.tsx",
+    "actualSlug": "h-v-a-c-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvaccortaro.ts",
+    "reactPage": "client/src/pages/HVACCortaro.tsx",
+    "actualSlug": "h-v-a-c-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacdrexelheights.ts",
+    "reactPage": "client/src/pages/HVACDrexelHeights.tsx",
+    "actualSlug": "h-v-a-c-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvaceasttucson.ts",
+    "reactPage": "client/src/pages/HVACEastTucson.tsx",
+    "actualSlug": "h-v-a-c-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacgladdenfarms.ts",
+    "reactPage": "client/src/pages/HVACGladdenFarms.tsx",
+    "actualSlug": "h-v-a-c-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacgreenvalley.ts",
+    "reactPage": "client/src/pages/HVACGreenValley.tsx",
+    "actualSlug": "h-v-a-c-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacmarana.ts",
+    "reactPage": "client/src/pages/HVACMarana.tsx",
+    "actualSlug": "h-v-a-c-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacorovalley.ts",
+    "reactPage": "client/src/pages/HVACOroValley.tsx",
+    "actualSlug": "h-v-a-c-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacpicturerocks.ts",
+    "reactPage": "client/src/pages/HVACPictureRocks.tsx",
+    "actualSlug": "h-v-a-c-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacrillito.ts",
+    "reactPage": "client/src/pages/HVACRillito.tsx",
+    "actualSlug": "h-v-a-c-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacritaranch.ts",
+    "reactPage": "client/src/pages/HVACRitaRanch.tsx",
+    "actualSlug": "h-v-a-c-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacsaddlebrooke.ts",
+    "reactPage": "client/src/pages/HVACSaddleBrooke.tsx",
+    "actualSlug": "h-v-a-c-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacsahuarita.ts",
+    "reactPage": "client/src/pages/HVACSahuarita.tsx",
+    "actualSlug": "h-v-a-c-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvactanqueverde.ts",
+    "reactPage": "client/src/pages/HVACTanqueVerde.tsx",
+    "actualSlug": "h-v-a-c-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvactortolita.ts",
+    "reactPage": "client/src/pages/HVACTortolita.tsx",
+    "actualSlug": "h-v-a-c-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvactucson.ts",
+    "reactPage": "client/src/pages/HVACTucson.tsx",
+    "actualSlug": "h-v-a-c-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvactucsonestates.ts",
+    "reactPage": "client/src/pages/HVACTucsonEstates.tsx",
+    "actualSlug": "h-v-a-c-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hvacvail.ts",
+    "reactPage": "client/src/pages/HVACVail.tsx",
+    "actualSlug": "h-v-a-c-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/hybridwaterheaters.ts",
+    "reactPage": "client/src/pages/HybridWaterHeaters.tsx",
+    "actualSlug": "hybrid-water-heaters",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/indoorairquality.ts",
+    "reactPage": "client/src/pages/IndoorAirQuality.tsx",
+    "canonicalUrl": "https://www.idesignac.com/indoor-air-quality-tucson",
+    "expectedSlug": "indoor-air-quality-tucson",
+    "actualSlug": "indoor-air-quality-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/knowledgehub.ts",
+    "reactPage": "client/src/pages/KnowledgeHub.tsx",
+    "actualSlug": "knowledge-hub",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/leakdetection.ts",
+    "reactPage": "client/src/pages/LeakDetection.tsx",
+    "actualSlug": "leak-detection",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/lightingupgrades.ts",
+    "reactPage": "client/src/pages/LightingUpgrades.tsx",
+    "actualSlug": "lighting-upgrades",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/metalroofs.ts",
+    "reactPage": "client/src/pages/MetalRoofs.tsx",
+    "actualSlug": "metal-roofs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/newhomebuyeroffer.ts",
+    "reactPage": "client/src/pages/NewHomebuyerOffer.tsx",
+    "actualSlug": "new-homebuyer-offer",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/outdoormotionlighting.ts",
+    "reactPage": "client/src/pages/OutdoorMotionLighting.tsx",
+    "actualSlug": "outdoor-motion-lighting",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/outletsswitches.ts",
+    "reactPage": "client/src/pages/OutletsSwitches.tsx",
+    "actualSlug": "outlets-switches",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/pearlcertifiedcontractor.ts",
+    "reactPage": "client/src/pages/PearlCertifiedContractor.tsx",
+    "actualSlug": "pearl-certified-contractor",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/pearlcertifiedhvac.ts",
+    "reactPage": "client/src/pages/PearlCertifiedHVAC.tsx",
+    "actualSlug": "pearl-certified-h-v-a-c",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/pearlcertifiedsolar.ts",
+    "reactPage": "client/src/pages/PearlCertifiedSolar.tsx",
+    "actualSlug": "pearl-certified-solar",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/pitchedroofs.ts",
+    "reactPage": "client/src/pages/PitchedRoofs.tsx",
+    "actualSlug": "pitched-roofs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingavravalley.ts",
+    "reactPage": "client/src/pages/PlumbingAvraValley.tsx",
+    "actualSlug": "plumbing-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingcasasadobes.ts",
+    "reactPage": "client/src/pages/PlumbingCasasAdobes.tsx",
+    "actualSlug": "plumbing-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingcoronadetucson.ts",
+    "reactPage": "client/src/pages/PlumbingCoronadeTucson.tsx",
+    "actualSlug": "plumbing-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingcortaro.ts",
+    "reactPage": "client/src/pages/PlumbingCortaro.tsx",
+    "actualSlug": "plumbing-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingdrexelheights.ts",
+    "reactPage": "client/src/pages/PlumbingDrexelHeights.tsx",
+    "actualSlug": "plumbing-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingeasttucson.ts",
+    "reactPage": "client/src/pages/PlumbingEastTucson.tsx",
+    "actualSlug": "plumbing-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbinggladdenfarms.ts",
+    "reactPage": "client/src/pages/PlumbingGladdenFarms.tsx",
+    "actualSlug": "plumbing-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbinggreenvalley.ts",
+    "reactPage": "client/src/pages/PlumbingGreenValley.tsx",
+    "actualSlug": "plumbing-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingmaintenance.ts",
+    "reactPage": "client/src/pages/PlumbingMaintenance.tsx",
+    "actualSlug": "plumbing-maintenance",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingmarana.ts",
+    "reactPage": "client/src/pages/PlumbingMarana.tsx",
+    "actualSlug": "plumbing-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingorovalley.ts",
+    "reactPage": "client/src/pages/PlumbingOroValley.tsx",
+    "actualSlug": "plumbing-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingpicturerocks.ts",
+    "reactPage": "client/src/pages/PlumbingPictureRocks.tsx",
+    "actualSlug": "plumbing-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingrillito.ts",
+    "reactPage": "client/src/pages/PlumbingRillito.tsx",
+    "actualSlug": "plumbing-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingritaranch.ts",
+    "reactPage": "client/src/pages/PlumbingRitaRanch.tsx",
+    "actualSlug": "plumbing-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingsaddlebrooke.ts",
+    "reactPage": "client/src/pages/PlumbingSaddleBrooke.tsx",
+    "actualSlug": "plumbing-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingsahuarita.ts",
+    "reactPage": "client/src/pages/PlumbingSahuarita.tsx",
+    "actualSlug": "plumbing-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingtanqueverde.ts",
+    "reactPage": "client/src/pages/PlumbingTanqueVerde.tsx",
+    "actualSlug": "plumbing-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingtortolita.ts",
+    "reactPage": "client/src/pages/PlumbingTortolita.tsx",
+    "actualSlug": "plumbing-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingtucson.ts",
+    "reactPage": "client/src/pages/PlumbingTucson.tsx",
+    "actualSlug": "plumbing-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingtucsonestates.ts",
+    "reactPage": "client/src/pages/PlumbingTucsonEstates.tsx",
+    "actualSlug": "plumbing-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/plumbingvail.ts",
+    "reactPage": "client/src/pages/PlumbingVail.tsx",
+    "actualSlug": "plumbing-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/privacypolicy.ts",
+    "reactPage": "client/src/pages/PrivacyPolicy.tsx",
+    "actualSlug": "privacy-policy",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/realtorsoffer.ts",
+    "reactPage": "client/src/pages/RealtorsOffer.tsx",
+    "actualSlug": "realtors-offer",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/recentprojects.ts",
+    "reactPage": "client/src/pages/RecentProjects.tsx",
+    "actualSlug": "recent-projects",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialroofcoating.ts",
+    "reactPage": "client/src/pages/ResidentialRoofCoating.tsx",
+    "actualSlug": "residential-roof-coating",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialroofinspection.ts",
+    "reactPage": "client/src/pages/ResidentialRoofInspection.tsx",
+    "actualSlug": "residential-roof-inspection",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialroofinstallation.ts",
+    "reactPage": "client/src/pages/ResidentialRoofInstallation.tsx",
+    "actualSlug": "residential-roof-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialroofrepair.ts",
+    "reactPage": "client/src/pages/ResidentialRoofRepair.tsx",
+    "actualSlug": "residential-roof-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialroofreplacement.ts",
+    "reactPage": "client/src/pages/ResidentialRoofReplacement.tsx",
+    "actualSlug": "residential-roof-replacement",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/residentialsolarinstallation.ts",
+    "reactPage": "client/src/pages/ResidentialSolarInstallation.tsx",
+    "actualSlug": "residential-solar-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/resources.ts",
+    "reactPage": "client/src/pages/Resources.tsx",
+    "actualSlug": "resources",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/rillito.ts",
+    "reactPage": "client/src/pages/Rillito.tsx",
+    "canonicalUrl": "https://www.idesignac.com/rillito",
+    "expectedSlug": "rillito",
+    "actualSlug": "rillito",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingavravalley.ts",
+    "reactPage": "client/src/pages/RoofingAvraValley.tsx",
+    "actualSlug": "roofing-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingcasasadobes.ts",
+    "reactPage": "client/src/pages/RoofingCasasAdobes.tsx",
+    "actualSlug": "roofing-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingcoronadetucson.ts",
+    "reactPage": "client/src/pages/RoofingCoronadeTucson.tsx",
+    "actualSlug": "roofing-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingcortaro.ts",
+    "reactPage": "client/src/pages/RoofingCortaro.tsx",
+    "actualSlug": "roofing-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingdrexelheights.ts",
+    "reactPage": "client/src/pages/RoofingDrexelHeights.tsx",
+    "actualSlug": "roofing-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingeasttucson.ts",
+    "reactPage": "client/src/pages/RoofingEastTucson.tsx",
+    "actualSlug": "roofing-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofinggladdenfarms.ts",
+    "reactPage": "client/src/pages/RoofingGladdenFarms.tsx",
+    "actualSlug": "roofing-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofinggreenvalley.ts",
+    "reactPage": "client/src/pages/RoofingGreenValley.tsx",
+    "actualSlug": "roofing-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingmarana.ts",
+    "reactPage": "client/src/pages/RoofingMarana.tsx",
+    "actualSlug": "roofing-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingorovalley.ts",
+    "reactPage": "client/src/pages/RoofingOroValley.tsx",
+    "actualSlug": "roofing-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingpicturerocks.ts",
+    "reactPage": "client/src/pages/RoofingPictureRocks.tsx",
+    "actualSlug": "roofing-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingrillito.ts",
+    "reactPage": "client/src/pages/RoofingRillito.tsx",
+    "actualSlug": "roofing-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingritaranch.ts",
+    "reactPage": "client/src/pages/RoofingRitaRanch.tsx",
+    "actualSlug": "roofing-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingsaddlebrooke.ts",
+    "reactPage": "client/src/pages/RoofingSaddleBrooke.tsx",
+    "actualSlug": "roofing-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingsahuarita.ts",
+    "reactPage": "client/src/pages/RoofingSahuarita.tsx",
+    "actualSlug": "roofing-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingtanqueverde.ts",
+    "reactPage": "client/src/pages/RoofingTanqueVerde.tsx",
+    "actualSlug": "roofing-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingtortolita.ts",
+    "reactPage": "client/src/pages/RoofingTortolita.tsx",
+    "actualSlug": "roofing-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingtucson.ts",
+    "reactPage": "client/src/pages/RoofingTucson.tsx",
+    "actualSlug": "roofing-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingtucsonestates.ts",
+    "reactPage": "client/src/pages/RoofingTucsonEstates.tsx",
+    "actualSlug": "roofing-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/roofingvail.ts",
+    "reactPage": "client/src/pages/RoofingVail.tsx",
+    "actualSlug": "roofing-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/rooterspecial.ts",
+    "reactPage": "client/src/pages/RooterSpecial.tsx",
+    "actualSlug": "rooter-special",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/saddlebrooke.ts",
+    "reactPage": "client/src/pages/SaddleBrooke.tsx",
+    "canonicalUrl": "https://www.idesignac.com/saddlebrooke-catalina",
+    "expectedSlug": "saddlebrooke-catalina",
+    "actualSlug": "saddlebrooke-catalina",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/sewercamerainspection.ts",
+    "reactPage": "client/src/pages/SewerCameraInspection.tsx",
+    "actualSlug": "sewer-camera-inspection",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/sewerlinerepair.ts",
+    "reactPage": "client/src/pages/SewerLineRepair.tsx",
+    "actualSlug": "sewer-line-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/shingleroofs.ts",
+    "reactPage": "client/src/pages/ShingleRoofs.tsx",
+    "actualSlug": "shingle-roofs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/sinkrepairinstallation.ts",
+    "reactPage": "client/src/pages/SinkRepairInstallation.tsx",
+    "actualSlug": "sink-repair-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/skylights.ts",
+    "reactPage": "client/src/pages/Skylights.tsx",
+    "actualSlug": "skylights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/smartthermostatinstallation.ts",
+    "reactPage": "client/src/pages/SmartThermostatInstallation.tsx",
+    "canonicalUrl": "https://www.idesignac.com/smart-thermostat-installation-tucson",
+    "expectedSlug": "smart-thermostat-installation-tucson",
+    "actualSlug": "smart-thermostat-installation-tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarac.ts",
+    "reactPage": "client/src/pages/SolarAC.tsx",
+    "actualSlug": "solar-a-c",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationavravalley.ts",
+    "reactPage": "client/src/pages/SolarInstallationAvraValley.tsx",
+    "actualSlug": "solar-installation-avra-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationcasasadobes.ts",
+    "reactPage": "client/src/pages/SolarInstallationCasasAdobes.tsx",
+    "actualSlug": "solar-installation-casas-adobes",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationcoronadetucson.ts",
+    "reactPage": "client/src/pages/SolarInstallationCoronadeTucson.tsx",
+    "actualSlug": "solar-installation-coronade-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationcortaro.ts",
+    "reactPage": "client/src/pages/SolarInstallationCortaro.tsx",
+    "actualSlug": "solar-installation-cortaro",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationdrexelheights.ts",
+    "reactPage": "client/src/pages/SolarInstallationDrexelHeights.tsx",
+    "actualSlug": "solar-installation-drexel-heights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationeasttucson.ts",
+    "reactPage": "client/src/pages/SolarInstallationEastTucson.tsx",
+    "actualSlug": "solar-installation-east-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationgladdenfarms.ts",
+    "reactPage": "client/src/pages/SolarInstallationGladdenFarms.tsx",
+    "actualSlug": "solar-installation-gladden-farms",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationgreenvalley.ts",
+    "reactPage": "client/src/pages/SolarInstallationGreenValley.tsx",
+    "actualSlug": "solar-installation-green-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationmarana.ts",
+    "reactPage": "client/src/pages/SolarInstallationMarana.tsx",
+    "actualSlug": "solar-installation-marana",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationorovalley.ts",
+    "reactPage": "client/src/pages/SolarInstallationOroValley.tsx",
+    "actualSlug": "solar-installation-oro-valley",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationpicturerocks.ts",
+    "reactPage": "client/src/pages/SolarInstallationPictureRocks.tsx",
+    "actualSlug": "solar-installation-picture-rocks",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationrillito.ts",
+    "reactPage": "client/src/pages/SolarInstallationRillito.tsx",
+    "actualSlug": "solar-installation-rillito",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationritaranch.ts",
+    "reactPage": "client/src/pages/SolarInstallationRitaRanch.tsx",
+    "actualSlug": "solar-installation-rita-ranch",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationsaddlebrooke.ts",
+    "reactPage": "client/src/pages/SolarInstallationSaddleBrooke.tsx",
+    "actualSlug": "solar-installation-saddle-brooke",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationsahuarita.ts",
+    "reactPage": "client/src/pages/SolarInstallationSahuarita.tsx",
+    "actualSlug": "solar-installation-sahuarita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationtanqueverde.ts",
+    "reactPage": "client/src/pages/SolarInstallationTanqueVerde.tsx",
+    "actualSlug": "solar-installation-tanque-verde",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationtortolita.ts",
+    "reactPage": "client/src/pages/SolarInstallationTortolita.tsx",
+    "actualSlug": "solar-installation-tortolita",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationtucson.ts",
+    "reactPage": "client/src/pages/SolarInstallationTucson.tsx",
+    "actualSlug": "solar-installation-tucson",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationtucsonestates.ts",
+    "reactPage": "client/src/pages/SolarInstallationTucsonEstates.tsx",
+    "actualSlug": "solar-installation-tucson-estates",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarinstallationvail.ts",
+    "reactPage": "client/src/pages/SolarInstallationVail.tsx",
+    "actualSlug": "solar-installation-vail",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarmaintenance.ts",
+    "reactPage": "client/src/pages/SolarMaintenance.tsx",
+    "actualSlug": "solar-maintenance",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solarpanelcosts.ts",
+    "reactPage": "client/src/pages/SolarPanelCosts.tsx",
+    "actualSlug": "solar-panel-costs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solartaxcredits.ts",
+    "reactPage": "client/src/pages/SolarTaxCredits.tsx",
+    "actualSlug": "solar-tax-credits",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/solartubularlights.ts",
+    "reactPage": "client/src/pages/SolarTubularLights.tsx",
+    "actualSlug": "solar-tubular-lights",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/tileroofs.ts",
+    "reactPage": "client/src/pages/TileRoofs.tsx",
+    "actualSlug": "tile-roofs",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/toiletinstallation.ts",
+    "reactPage": "client/src/pages/ToiletInstallation.tsx",
+    "actualSlug": "toilet-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/tortolita.ts",
+    "reactPage": "client/src/pages/Tortolita.tsx",
+    "canonicalUrl": "https://www.idesignac.com/tortolita",
+    "expectedSlug": "tortolita",
+    "actualSlug": "tortolita",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/trenchlessrepair.ts",
+    "reactPage": "client/src/pages/TrenchlessRepair.tsx",
+    "actualSlug": "trenchless-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/tucsonestates.ts",
+    "reactPage": "client/src/pages/TucsonEstates.tsx",
+    "canonicalUrl": "https://www.idesignac.com/tucson-estates",
+    "expectedSlug": "tucson-estates",
+    "actualSlug": "tucson-estates",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/videotestimonials.ts",
+    "reactPage": "client/src/pages/VideoTestimonials.tsx",
+    "actualSlug": "video-testimonials",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterfiltration.ts",
+    "reactPage": "client/src/pages/WaterFiltration.tsx",
+    "actualSlug": "water-filtration",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterheaterflush.ts",
+    "reactPage": "client/src/pages/WaterHeaterFlush.tsx",
+    "actualSlug": "water-heater-flush",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterheaterinstallation.ts",
+    "reactPage": "client/src/pages/WaterHeaterInstallation.tsx",
+    "actualSlug": "water-heater-installation",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterheaterrepair.ts",
+    "reactPage": "client/src/pages/WaterHeaterRepair.tsx",
+    "actualSlug": "water-heater-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterheaters.ts",
+    "reactPage": "client/src/pages/WaterHeaters.tsx",
+    "actualSlug": "water-heaters",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/waterleakrepair.ts",
+    "reactPage": "client/src/pages/WaterLeakRepair.tsx",
+    "actualSlug": "water-leak-repair",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/watersofteners.ts",
+    "reactPage": "client/src/pages/WaterSofteners.tsx",
+    "actualSlug": "water-softeners",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/services/whytucsonchoosesintelligentdesign.ts",
+    "reactPage": "client/src/pages/WhyTucsonChoosesIntelligentDesign.tsx",
+    "actualSlug": "why-tucson-chooses-intelligent-design",
+    "status": "NO_CANONICAL",
+    "issue": "React page has no canonical URL"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/avravalley.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "avra-valley",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/casasadobes.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "casas-adobes",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/catalinafoothills.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "catalina-foothills",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/drexelheights.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "drexel-heights",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/greenvalley.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "green-valley",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/marana.ts",
+    "reactPage": "client/src/pages/Marana.tsx",
+    "canonicalUrl": "https://www.idesignac.com/marana",
+    "expectedSlug": "marana",
+    "actualSlug": "marana",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/orovalley.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "oro-valley",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/picturerocks.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "picture-rocks",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/ritaranch.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "rita-ranch",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/sahuarita.ts",
+    "reactPage": "client/src/pages/Sahuarita.tsx",
+    "canonicalUrl": "https://www.idesignac.com/sahuarita",
+    "expectedSlug": "sahuarita",
+    "actualSlug": "sahuarita",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/tanqueverde.ts",
+    "reactPage": "NOT FOUND",
+    "actualSlug": "tanque-verde",
+    "status": "WARNING",
+    "issue": "Could not locate matching React page"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/tucson.ts",
+    "reactPage": "client/src/pages/Tucson.tsx",
+    "canonicalUrl": "https://www.idesignac.com/tucson",
+    "expectedSlug": "tucson",
+    "actualSlug": "tucson",
+    "status": "PASS"
+  },
+  {
+    "file": "nextjs-app/data/pages/locations/vail.ts",
+    "reactPage": "client/src/pages/Vail.tsx",
+    "canonicalUrl": "https://www.idesignac.com/vail",
+    "expectedSlug": "vail",
+    "actualSlug": "vail",
+    "status": "PASS"
+  }
+]

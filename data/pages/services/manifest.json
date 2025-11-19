@@ -1,0 +1,1043 @@
+{
+  "generated": "2025-11-19T04:43:20.279Z",
+  "services": {
+    "acinstallation": {
+      "dataFile": "acinstallation",
+      "canonicalSlug": "acinstallation"
+    },
+    "acrepair": {
+      "dataFile": "acrepair",
+      "canonicalSlug": "acrepair"
+    },
+    "acservice": {
+      "dataFile": "acservice",
+      "canonicalSlug": "acservice"
+    },
+    "actuneup": {
+      "dataFile": "actuneup",
+      "canonicalSlug": "actuneup"
+    },
+    "bidetinstallation": {
+      "dataFile": "bidetinstallation",
+      "canonicalSlug": "bidetinstallation"
+    },
+    "ceilingfaninstallation": {
+      "dataFile": "ceilingfaninstallation",
+      "canonicalSlug": "ceilingfaninstallation"
+    },
+    "circuitbreakers": {
+      "dataFile": "circuitbreakers",
+      "canonicalSlug": "circuitbreakers"
+    },
+    "commercialroofcoating": {
+      "dataFile": "commercialroofcoating",
+      "canonicalSlug": "commercialroofcoating"
+    },
+    "commercialroofinspection": {
+      "dataFile": "commercialroofinspection",
+      "canonicalSlug": "commercialroofinspection"
+    },
+    "commercialroofinstallation": {
+      "dataFile": "commercialroofinstallation",
+      "canonicalSlug": "commercialroofinstallation"
+    },
+    "commercialroofrepair": {
+      "dataFile": "commercialroofrepair",
+      "canonicalSlug": "commercialroofrepair"
+    },
+    "commercialroofreplacement": {
+      "dataFile": "commercialroofreplacement",
+      "canonicalSlug": "commercialroofreplacement"
+    },
+    "commercialsolarinstallation": {
+      "dataFile": "commercialsolarinstallation",
+      "canonicalSlug": "commercialsolarinstallation"
+    },
+    "coronade-tucson": {
+      "dataFile": "coronadetucson",
+      "canonicalSlug": "coronade-tucson"
+    },
+    "cortaro": {
+      "dataFile": "cortaro",
+      "canonicalSlug": "cortaro"
+    },
+    "customerreviews": {
+      "dataFile": "customerreviews",
+      "canonicalSlug": "customerreviews"
+    },
+    "drain-clearing": {
+      "dataFile": "drainclearing",
+      "canonicalSlug": "drain-clearing"
+    },
+    "drain-clearing-avra-valley": {
+      "dataFile": "drainclearingavravalley",
+      "canonicalSlug": "drain-clearing-avra-valley"
+    },
+    "drain-clearing-casas-adobes": {
+      "dataFile": "drainclearingcasasadobes",
+      "canonicalSlug": "drain-clearing-casas-adobes"
+    },
+    "drain-clearing-catalina-foothills": {
+      "dataFile": "drainclearingcatalinafoothills",
+      "canonicalSlug": "drain-clearing-catalina-foothills"
+    },
+    "drain-clearing-coronade-tucson": {
+      "dataFile": "drainclearingcoronadetucson",
+      "canonicalSlug": "drain-clearing-coronade-tucson"
+    },
+    "drain-clearing-drexel-heights": {
+      "dataFile": "drainclearingdrexelheights",
+      "canonicalSlug": "drain-clearing-drexel-heights"
+    },
+    "drain-clearing-east-tucson": {
+      "dataFile": "drainclearingeasttucson",
+      "canonicalSlug": "drain-clearing-east-tucson"
+    },
+    "drain-clearing-gladden-farms": {
+      "dataFile": "drainclearinggladdenfarms",
+      "canonicalSlug": "drain-clearing-gladden-farms"
+    },
+    "drain-clearing-green-valley": {
+      "dataFile": "drainclearinggreenvalley",
+      "canonicalSlug": "drain-clearing-green-valley"
+    },
+    "drain-clearing-marana": {
+      "dataFile": "drainclearingmarana",
+      "canonicalSlug": "drain-clearing-marana"
+    },
+    "drain-clearing-oro-valley": {
+      "dataFile": "drainclearingorovalley",
+      "canonicalSlug": "drain-clearing-oro-valley"
+    },
+    "drain-clearing-picture-rocks": {
+      "dataFile": "drainclearingpicturerocks",
+      "canonicalSlug": "drain-clearing-picture-rocks"
+    },
+    "drain-clearing-red-rock": {
+      "dataFile": "drainclearingredrockcasagrande",
+      "canonicalSlug": "drain-clearing-red-rock"
+    },
+    "drain-clearing-rita-ranch": {
+      "dataFile": "drainclearingritaranch",
+      "canonicalSlug": "drain-clearing-rita-ranch"
+    },
+    "drain-clearing-saddle-brooke": {
+      "dataFile": "drainclearingsaddlebrookecatalina",
+      "canonicalSlug": "drain-clearing-saddle-brooke"
+    },
+    "drain-clearing-sahuarita": {
+      "dataFile": "drainclearingsahuarita",
+      "canonicalSlug": "drain-clearing-sahuarita"
+    },
+    "drain-clearing-tanque-verde": {
+      "dataFile": "drainclearingtanqueverde",
+      "canonicalSlug": "drain-clearing-tanque-verde"
+    },
+    "drain-clearing-tortolita": {
+      "dataFile": "drainclearingtortolita",
+      "canonicalSlug": "drain-clearing-tortolita"
+    },
+    "drain-clearing-tucson": {
+      "dataFile": "drainclearingtucson",
+      "canonicalSlug": "drain-clearing-tucson"
+    },
+    "drain-clearing-tucson-estates": {
+      "dataFile": "drainclearingtucsonestates",
+      "canonicalSlug": "drain-clearing-tucson-estates"
+    },
+    "drain-clearing-vail": {
+      "dataFile": "drainclearingvail",
+      "canonicalSlug": "drain-clearing-vail"
+    },
+    "ductcleaning": {
+      "dataFile": "ductcleaning",
+      "canonicalSlug": "ductcleaning"
+    },
+    "ductinstallation": {
+      "dataFile": "ductinstallation",
+      "canonicalSlug": "ductinstallation"
+    },
+    "ductlessminisplitinstallation": {
+      "dataFile": "ductlessminisplitinstallation",
+      "canonicalSlug": "ductlessminisplitinstallation"
+    },
+    "ductlessminisplitrepair": {
+      "dataFile": "ductlessminisplitrepair",
+      "canonicalSlug": "ductlessminisplitrepair"
+    },
+    "ductrepair": {
+      "dataFile": "ductrepair",
+      "canonicalSlug": "ductrepair"
+    },
+    "ductsealing": {
+      "dataFile": "ductsealing",
+      "canonicalSlug": "ductsealing"
+    },
+    "east-tucson": {
+      "dataFile": "easttucson",
+      "canonicalSlug": "east-tucson"
+    },
+    "electrical-avra-valley": {
+      "dataFile": "electricalavravalley",
+      "canonicalSlug": "electrical-avra-valley"
+    },
+    "electrical-casas-adobes": {
+      "dataFile": "electricalcasasadobes",
+      "canonicalSlug": "electrical-casas-adobes"
+    },
+    "electrical-catalina-foothills": {
+      "dataFile": "electricalcatalinafoothills",
+      "canonicalSlug": "electrical-catalina-foothills"
+    },
+    "electrical-coronade-tucson": {
+      "dataFile": "electricalcoronadetucson",
+      "canonicalSlug": "electrical-coronade-tucson"
+    },
+    "electrical-cortaro": {
+      "dataFile": "electricalcortaro",
+      "canonicalSlug": "electrical-cortaro"
+    },
+    "electrical-drexel-heights": {
+      "dataFile": "electricaldrexelheights",
+      "canonicalSlug": "electrical-drexel-heights"
+    },
+    "electrical-east-tucson": {
+      "dataFile": "electricaleasttucson",
+      "canonicalSlug": "electrical-east-tucson"
+    },
+    "electrical-gladden-farms": {
+      "dataFile": "electricalgladdenfarms",
+      "canonicalSlug": "electrical-gladden-farms"
+    },
+    "electrical-green-valley": {
+      "dataFile": "electricalgreenvalley",
+      "canonicalSlug": "electrical-green-valley"
+    },
+    "electrical-marana": {
+      "dataFile": "electricalmarana",
+      "canonicalSlug": "electrical-marana"
+    },
+    "electrical-oro-valley": {
+      "dataFile": "electricalorovalley",
+      "canonicalSlug": "electrical-oro-valley"
+    },
+    "electrical-panelupgrades": {
+      "dataFile": "electricalpanelupgrades",
+      "canonicalSlug": "electrical-panelupgrades"
+    },
+    "electrical-picture-rocks": {
+      "dataFile": "electricalpicturerocks",
+      "canonicalSlug": "electrical-picture-rocks"
+    },
+    "electrical-red-rock": {
+      "dataFile": "electricalredrockcasagrande",
+      "canonicalSlug": "electrical-red-rock"
+    },
+    "electrical-repair": {
+      "dataFile": "electricalrepair",
+      "canonicalSlug": "electrical-repair"
+    },
+    "electrical-rillito": {
+      "dataFile": "electricalrillito",
+      "canonicalSlug": "electrical-rillito"
+    },
+    "electrical-rita-ranch": {
+      "dataFile": "electricalritaranch",
+      "canonicalSlug": "electrical-rita-ranch"
+    },
+    "electrical-saddlebrooke": {
+      "dataFile": "electricalsaddlebrooke",
+      "canonicalSlug": "electrical-saddlebrooke"
+    },
+    "electrical-sahuarita": {
+      "dataFile": "electricalsahuarita",
+      "canonicalSlug": "electrical-sahuarita"
+    },
+    "electrical-tanque-verde": {
+      "dataFile": "electricaltanqueverde",
+      "canonicalSlug": "electrical-tanque-verde"
+    },
+    "electrical-tortolita": {
+      "dataFile": "electricaltortolita",
+      "canonicalSlug": "electrical-tortolita"
+    },
+    "electrical-tucson": {
+      "dataFile": "electricaltucson",
+      "canonicalSlug": "electrical-tucson"
+    },
+    "electrical-tucson-estates": {
+      "dataFile": "electricaltucsonestates",
+      "canonicalSlug": "electrical-tucson-estates"
+    },
+    "electrical-vail": {
+      "dataFile": "electricalvail",
+      "canonicalSlug": "electrical-vail"
+    },
+    "familyprotectionplans": {
+      "dataFile": "familyprotectionplans",
+      "canonicalSlug": "familyprotectionplans"
+    },
+    "financing": {
+      "dataFile": "financing",
+      "canonicalSlug": "financing"
+    },
+    "flatroofs": {
+      "dataFile": "flatroofs",
+      "canonicalSlug": "flatroofs"
+    },
+    "furnaces": {
+      "dataFile": "furnaces",
+      "canonicalSlug": "furnaces"
+    },
+    "garbagedisposal": {
+      "dataFile": "garbagedisposal",
+      "canonicalSlug": "garbagedisposal"
+    },
+    "generacinstallation": {
+      "dataFile": "generacinstallation",
+      "canonicalSlug": "generacinstallation"
+    },
+    "generacrepair": {
+      "dataFile": "generacrepair",
+      "canonicalSlug": "generacrepair"
+    },
+    "gladden-farms": {
+      "dataFile": "gladdenfarms",
+      "canonicalSlug": "gladden-farms"
+    },
+    "guarantees": {
+      "dataFile": "guarantees",
+      "canonicalSlug": "guarantees"
+    },
+    "h-v-a-c-avra-valley": {
+      "dataFile": "hvacavravalley",
+      "canonicalSlug": "h-v-a-c-avra-valley"
+    },
+    "h-v-a-c-casas-adobes": {
+      "dataFile": "hvaccasasadobes",
+      "canonicalSlug": "h-v-a-c-casas-adobes"
+    },
+    "h-v-a-c-catalina-foothills": {
+      "dataFile": "hvaccatalinafoothills",
+      "canonicalSlug": "h-v-a-c-catalina-foothills"
+    },
+    "h-v-a-c-coronade-tucson": {
+      "dataFile": "hvaccoronadetucson",
+      "canonicalSlug": "h-v-a-c-coronade-tucson"
+    },
+    "h-v-a-c-cortaro": {
+      "dataFile": "hvaccortaro",
+      "canonicalSlug": "h-v-a-c-cortaro"
+    },
+    "h-v-a-c-drexel-heights": {
+      "dataFile": "hvacdrexelheights",
+      "canonicalSlug": "h-v-a-c-drexel-heights"
+    },
+    "h-v-a-c-east-tucson": {
+      "dataFile": "hvaceasttucson",
+      "canonicalSlug": "h-v-a-c-east-tucson"
+    },
+    "h-v-a-c-gladden-farms": {
+      "dataFile": "hvacgladdenfarms",
+      "canonicalSlug": "h-v-a-c-gladden-farms"
+    },
+    "h-v-a-c-green-valley": {
+      "dataFile": "hvacgreenvalley",
+      "canonicalSlug": "h-v-a-c-green-valley"
+    },
+    "h-v-a-c-marana": {
+      "dataFile": "hvacmarana",
+      "canonicalSlug": "h-v-a-c-marana"
+    },
+    "h-v-a-c-oro-valley": {
+      "dataFile": "hvacorovalley",
+      "canonicalSlug": "h-v-a-c-oro-valley"
+    },
+    "h-v-a-c-picture-rocks": {
+      "dataFile": "hvacpicturerocks",
+      "canonicalSlug": "h-v-a-c-picture-rocks"
+    },
+    "h-v-a-c-red-rock": {
+      "dataFile": "hvacredrockcasagrande",
+      "canonicalSlug": "h-v-a-c-red-rock"
+    },
+    "h-v-a-c-rillito": {
+      "dataFile": "hvacrillito",
+      "canonicalSlug": "h-v-a-c-rillito"
+    },
+    "h-v-a-c-rita-ranch": {
+      "dataFile": "hvacritaranch",
+      "canonicalSlug": "h-v-a-c-rita-ranch"
+    },
+    "h-v-a-c-saddle-brooke": {
+      "dataFile": "hvacsaddlebrookecatalina",
+      "canonicalSlug": "h-v-a-c-saddle-brooke"
+    },
+    "h-v-a-c-saddlebrooke": {
+      "dataFile": "hvacsaddlebrooke",
+      "canonicalSlug": "h-v-a-c-saddlebrooke"
+    },
+    "h-v-a-c-sahuarita": {
+      "dataFile": "hvacsahuarita",
+      "canonicalSlug": "h-v-a-c-sahuarita"
+    },
+    "h-v-a-c-tanque-verde": {
+      "dataFile": "hvactanqueverde",
+      "canonicalSlug": "h-v-a-c-tanque-verde"
+    },
+    "h-v-a-c-tortolita": {
+      "dataFile": "hvactortolita",
+      "canonicalSlug": "h-v-a-c-tortolita"
+    },
+    "h-v-a-c-tucson": {
+      "dataFile": "hvactucson",
+      "canonicalSlug": "h-v-a-c-tucson"
+    },
+    "h-v-a-c-tucson-estates": {
+      "dataFile": "hvactucsonestates",
+      "canonicalSlug": "h-v-a-c-tucson-estates"
+    },
+    "h-v-a-c-vail": {
+      "dataFile": "hvacvail",
+      "canonicalSlug": "h-v-a-c-vail"
+    },
+    "heaterinstallation": {
+      "dataFile": "heaterinstallation",
+      "canonicalSlug": "heaterinstallation"
+    },
+    "heaterrepair": {
+      "dataFile": "heaterrepair",
+      "canonicalSlug": "heaterrepair"
+    },
+    "heaterservice": {
+      "dataFile": "heaterservice",
+      "canonicalSlug": "heaterservice"
+    },
+    "heatertuneup": {
+      "dataFile": "heatertuneup",
+      "canonicalSlug": "heatertuneup"
+    },
+    "heating-avra-valley": {
+      "dataFile": "heatingavravalley",
+      "canonicalSlug": "heating-avra-valley"
+    },
+    "heating-casas-adobes": {
+      "dataFile": "heatingcasasadobes",
+      "canonicalSlug": "heating-casas-adobes"
+    },
+    "heating-catalina-foothills": {
+      "dataFile": "heatingcatalinafoothills",
+      "canonicalSlug": "heating-catalina-foothills"
+    },
+    "heating-coronade-tucson": {
+      "dataFile": "heatingcoronadetucson",
+      "canonicalSlug": "heating-coronade-tucson"
+    },
+    "heating-cortaro": {
+      "dataFile": "heatingcortaro",
+      "canonicalSlug": "heating-cortaro"
+    },
+    "heating-drexel-heights": {
+      "dataFile": "heatingdrexelheights",
+      "canonicalSlug": "heating-drexel-heights"
+    },
+    "heating-east-tucson": {
+      "dataFile": "heatingeasttucson",
+      "canonicalSlug": "heating-east-tucson"
+    },
+    "heating-gladden-farms": {
+      "dataFile": "heatinggladdenfarms",
+      "canonicalSlug": "heating-gladden-farms"
+    },
+    "heating-green-valley": {
+      "dataFile": "heatinggreenvalley",
+      "canonicalSlug": "heating-green-valley"
+    },
+    "heating-marana": {
+      "dataFile": "heatingmarana",
+      "canonicalSlug": "heating-marana"
+    },
+    "heating-oro-valley": {
+      "dataFile": "heatingorovalley",
+      "canonicalSlug": "heating-oro-valley"
+    },
+    "heating-picture-rocks": {
+      "dataFile": "heatingpicturerocks",
+      "canonicalSlug": "heating-picture-rocks"
+    },
+    "heating-red-rock": {
+      "dataFile": "heatingredrockcasagrande",
+      "canonicalSlug": "heating-red-rock"
+    },
+    "heating-rillito": {
+      "dataFile": "heatingrillito",
+      "canonicalSlug": "heating-rillito"
+    },
+    "heating-rita-ranch": {
+      "dataFile": "heatingritaranch",
+      "canonicalSlug": "heating-rita-ranch"
+    },
+    "heating-saddle-brooke": {
+      "dataFile": "heatingsaddlebrookecatalina",
+      "canonicalSlug": "heating-saddle-brooke"
+    },
+    "heating-saddlebrooke": {
+      "dataFile": "heatingsaddlebrooke",
+      "canonicalSlug": "heating-saddlebrooke"
+    },
+    "heating-sahuarita": {
+      "dataFile": "heatingsahuarita",
+      "canonicalSlug": "heating-sahuarita"
+    },
+    "heating-tanque-verde": {
+      "dataFile": "heatingtanqueverde",
+      "canonicalSlug": "heating-tanque-verde"
+    },
+    "heating-tortolita": {
+      "dataFile": "heatingtortolita",
+      "canonicalSlug": "heating-tortolita"
+    },
+    "heating-tucson": {
+      "dataFile": "heatingtucson",
+      "canonicalSlug": "heating-tucson"
+    },
+    "heating-tucson-estates": {
+      "dataFile": "heatingtucsonestates",
+      "canonicalSlug": "heating-tucson-estates"
+    },
+    "heating-vail": {
+      "dataFile": "heatingvail",
+      "canonicalSlug": "heating-vail"
+    },
+    "heatpumps": {
+      "dataFile": "heatpumps",
+      "canonicalSlug": "heatpumps"
+    },
+    "home": {
+      "dataFile": "home",
+      "canonicalSlug": "home"
+    },
+    "homeenergyaudit": {
+      "dataFile": "homeenergyaudit",
+      "canonicalSlug": "homeenergyaudit"
+    },
+    "homeenergyupgrades": {
+      "dataFile": "homeenergyupgrades",
+      "canonicalSlug": "homeenergyupgrades"
+    },
+    "hybridwaterheaters": {
+      "dataFile": "hybridwaterheaters",
+      "canonicalSlug": "hybridwaterheaters"
+    },
+    "indoorairquality": {
+      "dataFile": "indoorairquality",
+      "canonicalSlug": "indoorairquality"
+    },
+    "knowledgehub": {
+      "dataFile": "knowledgehub",
+      "canonicalSlug": "knowledgehub"
+    },
+    "leakdetection": {
+      "dataFile": "leakdetection",
+      "canonicalSlug": "leakdetection"
+    },
+    "lightingupgrades": {
+      "dataFile": "lightingupgrades",
+      "canonicalSlug": "lightingupgrades"
+    },
+    "metalroofs": {
+      "dataFile": "metalroofs",
+      "canonicalSlug": "metalroofs"
+    },
+    "newhomebuyeroffer": {
+      "dataFile": "newhomebuyeroffer",
+      "canonicalSlug": "newhomebuyeroffer"
+    },
+    "outdoormotionlighting": {
+      "dataFile": "outdoormotionlighting",
+      "canonicalSlug": "outdoormotionlighting"
+    },
+    "outletsswitches": {
+      "dataFile": "outletsswitches",
+      "canonicalSlug": "outletsswitches"
+    },
+    "pitchedroofs": {
+      "dataFile": "pitchedroofs",
+      "canonicalSlug": "pitchedroofs"
+    },
+    "plumbing-avra-valley": {
+      "dataFile": "plumbingavravalley",
+      "canonicalSlug": "plumbing-avra-valley"
+    },
+    "plumbing-casas-adobes": {
+      "dataFile": "plumbingcasasadobes",
+      "canonicalSlug": "plumbing-casas-adobes"
+    },
+    "plumbing-catalina-foothills": {
+      "dataFile": "plumbingcatalinafoothills",
+      "canonicalSlug": "plumbing-catalina-foothills"
+    },
+    "plumbing-coronade-tucson": {
+      "dataFile": "plumbingcoronadetucson",
+      "canonicalSlug": "plumbing-coronade-tucson"
+    },
+    "plumbing-cortaro": {
+      "dataFile": "plumbingcortaro",
+      "canonicalSlug": "plumbing-cortaro"
+    },
+    "plumbing-drexel-heights": {
+      "dataFile": "plumbingdrexelheights",
+      "canonicalSlug": "plumbing-drexel-heights"
+    },
+    "plumbing-east-tucson": {
+      "dataFile": "plumbingeasttucson",
+      "canonicalSlug": "plumbing-east-tucson"
+    },
+    "plumbing-gladden-farms": {
+      "dataFile": "plumbinggladdenfarms",
+      "canonicalSlug": "plumbing-gladden-farms"
+    },
+    "plumbing-green-valley": {
+      "dataFile": "plumbinggreenvalley",
+      "canonicalSlug": "plumbing-green-valley"
+    },
+    "plumbing-maintenance": {
+      "dataFile": "plumbingmaintenance",
+      "canonicalSlug": "plumbing-maintenance"
+    },
+    "plumbing-marana": {
+      "dataFile": "plumbingmarana",
+      "canonicalSlug": "plumbing-marana"
+    },
+    "plumbing-oro-valley": {
+      "dataFile": "plumbingorovalley",
+      "canonicalSlug": "plumbing-oro-valley"
+    },
+    "plumbing-picture-rocks": {
+      "dataFile": "plumbingpicturerocks",
+      "canonicalSlug": "plumbing-picture-rocks"
+    },
+    "plumbing-red-rock": {
+      "dataFile": "plumbingredrockcasagrande",
+      "canonicalSlug": "plumbing-red-rock"
+    },
+    "plumbing-rillito": {
+      "dataFile": "plumbingrillito",
+      "canonicalSlug": "plumbing-rillito"
+    },
+    "plumbing-rita-ranch": {
+      "dataFile": "plumbingritaranch",
+      "canonicalSlug": "plumbing-rita-ranch"
+    },
+    "plumbing-saddle-brooke": {
+      "dataFile": "plumbingsaddlebrookecatalina",
+      "canonicalSlug": "plumbing-saddle-brooke"
+    },
+    "plumbing-saddlebrooke": {
+      "dataFile": "plumbingsaddlebrooke",
+      "canonicalSlug": "plumbing-saddlebrooke"
+    },
+    "plumbing-sahuarita": {
+      "dataFile": "plumbingsahuarita",
+      "canonicalSlug": "plumbing-sahuarita"
+    },
+    "plumbing-tanque-verde": {
+      "dataFile": "plumbingtanqueverde",
+      "canonicalSlug": "plumbing-tanque-verde"
+    },
+    "plumbing-tortolita": {
+      "dataFile": "plumbingtortolita",
+      "canonicalSlug": "plumbing-tortolita"
+    },
+    "plumbing-tucson": {
+      "dataFile": "plumbingtucson",
+      "canonicalSlug": "plumbing-tucson"
+    },
+    "plumbing-tucson-estates": {
+      "dataFile": "plumbingtucsonestates",
+      "canonicalSlug": "plumbing-tucson-estates"
+    },
+    "plumbing-vail": {
+      "dataFile": "plumbingvail",
+      "canonicalSlug": "plumbing-vail"
+    },
+    "privacypolicy": {
+      "dataFile": "privacypolicy",
+      "canonicalSlug": "privacypolicy"
+    },
+    "realtorsoffer": {
+      "dataFile": "realtorsoffer",
+      "canonicalSlug": "realtorsoffer"
+    },
+    "recentprojects": {
+      "dataFile": "recentprojects",
+      "canonicalSlug": "recentprojects"
+    },
+    "residentialroofcoating": {
+      "dataFile": "residentialroofcoating",
+      "canonicalSlug": "residentialroofcoating"
+    },
+    "residentialroofinspection": {
+      "dataFile": "residentialroofinspection",
+      "canonicalSlug": "residentialroofinspection"
+    },
+    "residentialroofinstallation": {
+      "dataFile": "residentialroofinstallation",
+      "canonicalSlug": "residentialroofinstallation"
+    },
+    "residentialroofrepair": {
+      "dataFile": "residentialroofrepair",
+      "canonicalSlug": "residentialroofrepair"
+    },
+    "residentialroofreplacement": {
+      "dataFile": "residentialroofreplacement",
+      "canonicalSlug": "residentialroofreplacement"
+    },
+    "residentialsolarinstallation": {
+      "dataFile": "residentialsolarinstallation",
+      "canonicalSlug": "residentialsolarinstallation"
+    },
+    "resources": {
+      "dataFile": "resources",
+      "canonicalSlug": "resources"
+    },
+    "rillito": {
+      "dataFile": "rillito",
+      "canonicalSlug": "rillito"
+    },
+    "roofing-avra-valley": {
+      "dataFile": "roofingavravalley",
+      "canonicalSlug": "roofing-avra-valley"
+    },
+    "roofing-casas-adobes": {
+      "dataFile": "roofingcasasadobes",
+      "canonicalSlug": "roofing-casas-adobes"
+    },
+    "roofing-catalina-foothills": {
+      "dataFile": "roofingcatalinafoothills",
+      "canonicalSlug": "roofing-catalina-foothills"
+    },
+    "roofing-coronade-tucson": {
+      "dataFile": "roofingcoronadetucson",
+      "canonicalSlug": "roofing-coronade-tucson"
+    },
+    "roofing-cortaro": {
+      "dataFile": "roofingcortaro",
+      "canonicalSlug": "roofing-cortaro"
+    },
+    "roofing-drexel-heights": {
+      "dataFile": "roofingdrexelheights",
+      "canonicalSlug": "roofing-drexel-heights"
+    },
+    "roofing-east-tucson": {
+      "dataFile": "roofingeasttucson",
+      "canonicalSlug": "roofing-east-tucson"
+    },
+    "roofing-gladden-farms": {
+      "dataFile": "roofinggladdenfarms",
+      "canonicalSlug": "roofing-gladden-farms"
+    },
+    "roofing-green-valley": {
+      "dataFile": "roofinggreenvalley",
+      "canonicalSlug": "roofing-green-valley"
+    },
+    "roofing-marana": {
+      "dataFile": "roofingmarana",
+      "canonicalSlug": "roofing-marana"
+    },
+    "roofing-oro-valley": {
+      "dataFile": "roofingorovalley",
+      "canonicalSlug": "roofing-oro-valley"
+    },
+    "roofing-picture-rocks": {
+      "dataFile": "roofingpicturerocks",
+      "canonicalSlug": "roofing-picture-rocks"
+    },
+    "roofing-red-rock": {
+      "dataFile": "roofingredrockcasagrande",
+      "canonicalSlug": "roofing-red-rock"
+    },
+    "roofing-rillito": {
+      "dataFile": "roofingrillito",
+      "canonicalSlug": "roofing-rillito"
+    },
+    "roofing-rita-ranch": {
+      "dataFile": "roofingritaranch",
+      "canonicalSlug": "roofing-rita-ranch"
+    },
+    "roofing-saddle-brooke": {
+      "dataFile": "roofingsaddlebrookecatalina",
+      "canonicalSlug": "roofing-saddle-brooke"
+    },
+    "roofing-saddlebrooke": {
+      "dataFile": "roofingsaddlebrooke",
+      "canonicalSlug": "roofing-saddlebrooke"
+    },
+    "roofing-sahuarita": {
+      "dataFile": "roofingsahuarita",
+      "canonicalSlug": "roofing-sahuarita"
+    },
+    "roofing-tanque-verde": {
+      "dataFile": "roofingtanqueverde",
+      "canonicalSlug": "roofing-tanque-verde"
+    },
+    "roofing-tortolita": {
+      "dataFile": "roofingtortolita",
+      "canonicalSlug": "roofing-tortolita"
+    },
+    "roofing-tucson": {
+      "dataFile": "roofingtucson",
+      "canonicalSlug": "roofing-tucson"
+    },
+    "roofing-tucson-estates": {
+      "dataFile": "roofingtucsonestates",
+      "canonicalSlug": "roofing-tucson-estates"
+    },
+    "roofing-vail": {
+      "dataFile": "roofingvail",
+      "canonicalSlug": "roofing-vail"
+    },
+    "rooterspecial": {
+      "dataFile": "rooterspecial",
+      "canonicalSlug": "rooterspecial"
+    },
+    "saddlebrooke": {
+      "dataFile": "saddlebrooke",
+      "canonicalSlug": "saddlebrooke"
+    },
+    "sewercamerainspection": {
+      "dataFile": "sewercamerainspection",
+      "canonicalSlug": "sewercamerainspection"
+    },
+    "sewerlinerepair": {
+      "dataFile": "sewerlinerepair",
+      "canonicalSlug": "sewerlinerepair"
+    },
+    "shingleroofs": {
+      "dataFile": "shingleroofs",
+      "canonicalSlug": "shingleroofs"
+    },
+    "sinkrepairinstallation": {
+      "dataFile": "sinkrepairinstallation",
+      "canonicalSlug": "sinkrepairinstallation"
+    },
+    "skylights": {
+      "dataFile": "skylights",
+      "canonicalSlug": "skylights"
+    },
+    "smartthermostatinstallation": {
+      "dataFile": "smartthermostatinstallation",
+      "canonicalSlug": "smartthermostatinstallation"
+    },
+    "solar-installation-avra-valley": {
+      "dataFile": "solarinstallationavravalley",
+      "canonicalSlug": "solar-installation-avra-valley"
+    },
+    "solar-installation-casas-adobes": {
+      "dataFile": "solarinstallationcasasadobes",
+      "canonicalSlug": "solar-installation-casas-adobes"
+    },
+    "solar-installation-catalina-foothills": {
+      "dataFile": "solarinstallationcatalinafoothills",
+      "canonicalSlug": "solar-installation-catalina-foothills"
+    },
+    "solar-installation-coronade-tucson": {
+      "dataFile": "solarinstallationcoronadetucson",
+      "canonicalSlug": "solar-installation-coronade-tucson"
+    },
+    "solar-installation-cortaro": {
+      "dataFile": "solarinstallationcortaro",
+      "canonicalSlug": "solar-installation-cortaro"
+    },
+    "solar-installation-drexel-heights": {
+      "dataFile": "solarinstallationdrexelheights",
+      "canonicalSlug": "solar-installation-drexel-heights"
+    },
+    "solar-installation-east-tucson": {
+      "dataFile": "solarinstallationeasttucson",
+      "canonicalSlug": "solar-installation-east-tucson"
+    },
+    "solar-installation-gladden-farms": {
+      "dataFile": "solarinstallationgladdenfarms",
+      "canonicalSlug": "solar-installation-gladden-farms"
+    },
+    "solar-installation-green-valley": {
+      "dataFile": "solarinstallationgreenvalley",
+      "canonicalSlug": "solar-installation-green-valley"
+    },
+    "solar-installation-marana": {
+      "dataFile": "solarinstallationmarana",
+      "canonicalSlug": "solar-installation-marana"
+    },
+    "solar-installation-oro-valley": {
+      "dataFile": "solarinstallationorovalley",
+      "canonicalSlug": "solar-installation-oro-valley"
+    },
+    "solar-installation-picture-rocks": {
+      "dataFile": "solarinstallationpicturerocks",
+      "canonicalSlug": "solar-installation-picture-rocks"
+    },
+    "solar-installation-red-rock": {
+      "dataFile": "solarinstallationredrockcasagrande",
+      "canonicalSlug": "solar-installation-red-rock"
+    },
+    "solar-installation-rillito": {
+      "dataFile": "solarinstallationrillito",
+      "canonicalSlug": "solar-installation-rillito"
+    },
+    "solar-installation-rita-ranch": {
+      "dataFile": "solarinstallationritaranch",
+      "canonicalSlug": "solar-installation-rita-ranch"
+    },
+    "solar-installation-saddle-brooke": {
+      "dataFile": "solarinstallationsaddlebrookecatalina",
+      "canonicalSlug": "solar-installation-saddle-brooke"
+    },
+    "solar-installation-saddlebrooke": {
+      "dataFile": "solarinstallationsaddlebrooke",
+      "canonicalSlug": "solar-installation-saddlebrooke"
+    },
+    "solar-installation-sahuarita": {
+      "dataFile": "solarinstallationsahuarita",
+      "canonicalSlug": "solar-installation-sahuarita"
+    },
+    "solar-installation-tanque-verde": {
+      "dataFile": "solarinstallationtanqueverde",
+      "canonicalSlug": "solar-installation-tanque-verde"
+    },
+    "solar-installation-tortolita": {
+      "dataFile": "solarinstallationtortolita",
+      "canonicalSlug": "solar-installation-tortolita"
+    },
+    "solar-installation-tucson": {
+      "dataFile": "solarinstallationtucson",
+      "canonicalSlug": "solar-installation-tucson"
+    },
+    "solar-installation-tucson-estates": {
+      "dataFile": "solarinstallationtucsonestates",
+      "canonicalSlug": "solar-installation-tucson-estates"
+    },
+    "solar-installation-vail": {
+      "dataFile": "solarinstallationvail",
+      "canonicalSlug": "solar-installation-vail"
+    },
+    "solarac": {
+      "dataFile": "solarac",
+      "canonicalSlug": "solarac"
+    },
+    "solarmaintenance": {
+      "dataFile": "solarmaintenance",
+      "canonicalSlug": "solarmaintenance"
+    },
+    "solarpanelcosts": {
+      "dataFile": "solarpanelcosts",
+      "canonicalSlug": "solarpanelcosts"
+    },
+    "solartaxcredits": {
+      "dataFile": "solartaxcredits",
+      "canonicalSlug": "solartaxcredits"
+    },
+    "solartubularlights": {
+      "dataFile": "solartubularlights",
+      "canonicalSlug": "solartubularlights"
+    },
+    "tileroofs": {
+      "dataFile": "tileroofs",
+      "canonicalSlug": "tileroofs"
+    },
+    "toiletinstallation": {
+      "dataFile": "toiletinstallation",
+      "canonicalSlug": "toiletinstallation"
+    },
+    "tortolita": {
+      "dataFile": "tortolita",
+      "canonicalSlug": "tortolita"
+    },
+    "trenchlessrepair": {
+      "dataFile": "trenchlessrepair",
+      "canonicalSlug": "trenchlessrepair"
+    },
+    "tucson-estates": {
+      "dataFile": "tucsonestates",
+      "canonicalSlug": "tucson-estates"
+    },
+    "videotestimonials": {
+      "dataFile": "videotestimonials",
+      "canonicalSlug": "videotestimonials"
+    },
+    "waterfiltration": {
+      "dataFile": "waterfiltration",
+      "canonicalSlug": "waterfiltration"
+    },
+    "waterheaterflush": {
+      "dataFile": "waterheaterflush",
+      "canonicalSlug": "waterheaterflush"
+    },
+    "waterheaterinstallation": {
+      "dataFile": "waterheaterinstallation",
+      "canonicalSlug": "waterheaterinstallation"
+    },
+    "waterheaterrepair": {
+      "dataFile": "waterheaterrepair",
+      "canonicalSlug": "waterheaterrepair"
+    },
+    "waterheaters": {
+      "dataFile": "waterheaters",
+      "canonicalSlug": "waterheaters"
+    },
+    "waterleakrepair": {
+      "dataFile": "waterleakrepair",
+      "canonicalSlug": "waterleakrepair"
+    },
+    "watersofteners": {
+      "dataFile": "watersofteners",
+      "canonicalSlug": "watersofteners"
+    },
+    "whytucsonchoosesintelligentdesign": {
+      "dataFile": "whytucsonchoosesintelligentdesign",
+      "canonicalSlug": "whytucsonchoosesintelligentdesign"
+    }
+  },
+  "aliases": {
+    "ac-installation": "ac-installation-tucson",
+    "ac-repair": "ac-repair-tucson",
+    "ac-service": "ac-service-tucson",
+    "ac-tuneup": "ac-tuneup-tucson",
+    "corona-de": "corona-de-tucson",
+    "duct-cleaning": "duct-cleaning-tucson",
+    "duct-installation": "duct-installation-tucson",
+    "ductless-installation": "ductless-installation-tucson",
+    "ductless-repair": "ductless-repair-tucson",
+    "duct-repair": "duct-repair-tucson",
+    "duct-sealing": "duct-sealing-tucson",
+    "east": "east-tucson",
+    "electrical-coronade": "electrical-coronade-tucson",
+    "electrical-east": "electrical-east-tucson",
+    "electrical": "electrical-tucson",
+    "furnaces": "furnaces-tucson",
+    "heater-installation": "heater-installation-tucson",
+    "heater-repair": "heater-repair-tucson",
+    "heater-service": "heater-service-tucson",
+    "heater-tuneup": "heater-tuneup-tucson",
+    "heating-coronade": "heating-coronade-tucson",
+    "heating-east": "heating-east-tucson",
+    "heating": "heating-tucson",
+    "heat-pumps": "heat-pumps-tucson",
+    "home-energy-audit": "home-energy-audit-tucson",
+    "home-energy-upgrades": "home-energy-upgrades-tucson",
+    "h-v-a-c-coronade": "h-v-a-c-coronade-tucson",
+    "h-v-a-c-east": "h-v-a-c-east-tucson",
+    "h-v-a-c": "h-v-a-c-tucson",
+    "indoor-air-quality": "indoor-air-quality-tucson",
+    "plumbing-coronade": "plumbing-coronade-tucson",
+    "plumbing-east": "plumbing-east-tucson",
+    "plumbing": "plumbing-tucson",
+    "roofing-coronade": "roofing-coronade-tucson",
+    "roofing-east": "roofing-east-tucson",
+    "roofing": "roofing-tucson",
+    "smart-thermostat-installation": "smart-thermostat-installation-tucson",
+    "solar-installation-coronade": "solar-installation-coronade-tucson",
+    "solar-installation-east": "solar-installation-east-tucson",
+    "solar-installation": "solar-installation-tucson"
+  }
+}

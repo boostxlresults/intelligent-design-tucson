@@ -1,0 +1,57 @@
+Pre-launch Checklist Add-On: Q&A Deprecation + AI FAQ Expansion Strategy
+
+Goal: Future-proof Intelligent Design’s local and AI search visibility by leveraging past Q&A history and expanding it into a fully AI-citable FAQ + blog silo strategy.
+
+✅ Step 1: Repurpose Existing Google Q&A Data
+
+Export existing GBP Q&A before November 3, 2025
+
+Preserve and tag Q&As by topic (HVAC, Plumbing, Solar, Roofing, etc.)
+
+Repurpose into:
+
+On-site FAQ sections with FAQPage schema
+
+Short-form blog posts answering each Q&A in depth
+
+Local landing page micro-FAQs (e.g., “Is Sahuarita covered for 24/7 plumbing?”)
+
+Customer email and social content FAQs
+
+✅ Step 2: Expand AI-Optimized Q&A Blog Library
+
+Build a content series using AI FAQ prompts such as:
+
+“How long should I wait before turning on my AC after install?”
+
+“Do you offer drain cleaning at flat rates?”
+
+“Do you help with the solar 30% tax credit paperwork?”
+
+Add internal links from each blog to its service silo (e.g., Solar → 30% Tax Credit Blog)
+
+Assign each post a structured schema block to increase AI visibility
+
+✅ Step 3: Geo-Relevant & Intent-Driven Content Structure
+
+Develop Q&A-based content around geo-specific variations:
+
+“Is HVAC same-day service available in Marana?”
+
+“Do you offer trenchless pipe repair in Vail?”
+
+Use these as FAQ items on each local landing page and as standalone blogs to train LLMs
+
+✅ Step 4: Schema + Tagging for AI/LLM Citations
+
+Apply FAQPage, LocalBusiness, and Service schema to each repurposed FAQ
+
+Tag posts with: ai-visible, ask-maps, geo-modified, and service category
+
+Track citationability (future phase): monitor how often blogs are picked up by Gemini, SGE, or Perplexity
+
+Summary of addition to pre-launch checklist:
+
+Please add these benchmarks to the pre-launch checklist and content strategy phase:
+
+“Build an AI-optimized FAQ + Q&A content library based on exported GBP Q&As and expanded questions sourced from owner knowledge, reviews, and customer service logs. Each question should be converted into a structured FAQ and optionally a blog. All content must follow schema guidelines and be integrated into the appropriate silo (HVAC, Plumbing, etc.), and tagged for future AI monitoring and LLM readiness.”

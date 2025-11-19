@@ -1,0 +1,613 @@
+import { Phone, CheckCircle2 } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+import MobileFloatingActions from "@/components/MobileFloatingActions";
+import GTM from "@/components/GTM";
+import DNIInjector from "@/components/DNIInjector";
+import SchedulerEmbed from "@/components/SchedulerEmbed";
+import TrustBar from "@/components/TrustBar";
+import ServiceFAQ from "@/components/ServiceFAQ";
+import { CommonQuestions } from "@/components/CommonQuestions";
+import { heaterTuneupFAQs } from "@/data/faqs/hvac";
+import { heatingMaintenanceCommonQuestions } from "@/data/commonQuestions/hvac";
+import heaterTuneupHero from "@assets/generated_images/Heater_tune-up_hero_background_6548d67f.webp";
+import heaterTuneupService from "@assets/generated_images/Heater_tune-up_service_image_77cae9cd.webp";
+import HeaterTuneupSchema from '@/components/HeaterTuneupSchema';
+import { MetaHead } from "@/components/MetaHead";
+import { SITE_URL } from "@/lib/constants";
+
+export default function HeaterTuneup() {
+  const description = 'Professional heater tune-up in Tucson, AZ. Expert furnace maintenance, inspections & tune-ups to keep your heating system running efficiently. Prevent breakdowns with annual Tucson heater tune-up service from Intelligent Design.';
+  const imageUrl = `${SITE_URL}${heaterTuneupHero}`;
+
+  return (
+    <>
+      <MetaHead
+        title="Heater Tune-Up Tucson AZ | Furnace Maintenance & Inspection"
+        description={description}
+        canonical="https://www.idesignac.com/heater-tuneup-tucson"
+        openGraph={[
+          { property: "og:locale", content: "en_US" },
+          { property: "og:type", content: "website" },
+          { property: "og:title", content: "Heater Tune-Up Tucson AZ | Furnace Maintenance & Inspection" },
+          { property: "og:description", content: description },
+          { property: "og:url", content: "https://www.idesignac.com/heater-tuneup-tucson" },
+          { property: "og:site_name", content: "Intelligent Design" },
+          { property: "og:image", content: imageUrl },
+          { property: "og:image:width", content: "1920" },
+          { property: "og:image:height", content: "1080" },
+          { property: "og:image:alt", content: "Professional HVAC technician performing heater tune-up at Tucson home" }
+        ]}
+        twitter={[
+          { name: "twitter:card", content: "summary_large_image" },
+          { name: "twitter:title", content: "Heater Tune-Up Tucson AZ | Furnace Maintenance & Inspection" },
+          { name: "twitter:description", content: description },
+          { name: "twitter:image", content: imageUrl },
+          { name: "twitter:image:alt", content: "Professional HVAC technician performing heater tune-up at Tucson home" }
+        ]}
+      />
+      <GTM />
+      <DNIInjector />
+      
+      <HeaterTuneupSchema />
+      
+      <div className="min-h-screen flex flex-col bg-background">
+        <Header />
+        
+        <main className="flex-1">
+          {/* Hero Section */}
+          <section className="relative text-white py-16 md:py-24 overflow-hidden">
+            <div 
+              className="absolute inset-0 bg-cover bg-center"
+              style={{ backgroundImage: `url(${heaterTuneupHero})` }}
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-blue-800/80" />
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 relative z-10">
+              <div className="max-w-4xl">
+                <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight">
+                  Professional Heater Tune-Up in Tucson AZ
+                </h1>
+                <p className="text-2xl md:text-3xl text-yellow-400 font-semibold mb-6">
+                  Over 22,000 5-Star Reviews
+                </p>
+                <p className="text-xl mb-8 text-gray-200">
+                  Annual Maintenance | Peak Efficiency | Prevent Breakdowns | Expert Technicians
+                </p>
+                <div className="flex flex-col sm:flex-row gap-4">
+                  <SchedulerEmbed
+                    triggerText="Schedule Heater Tune-Up Online"
+                    variant="destructive"
+                    size="lg"
+                    data-testid="button-schedule-hero"
+                  />
+                  <Button
+                    size="lg"
+                    className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-hero">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call: (520) 333-2665
+                    </a>
+                  </Button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Trust Bar */}
+          <TrustBar />
+
+          {/* Page Highlights Section */}
+          <section className="bg-gradient-to-b from-gray-50 to-white py-12 md:py-16">
+            <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
+              <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-8">
+                Why Get a Heater Tune-Up from Intelligent Design?
+              </h2>
+              <div className="grid md:grid-cols-2 gap-4 md:gap-6">
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Prevent Winter Emergencies</p>
+                    <p className="text-sm text-gray-600">Pre-season tune-ups catch problems early | Avoid costly breakdowns | Stay warm all winter</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Lower Heating Bills 15-30%</p>
+                    <p className="text-sm text-gray-600">Clean, calibrated systems run efficiently | Optimize fuel usage | Reduce waste | Save money</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Comprehensive 86-Point Inspection</p>
+                    <p className="text-sm text-gray-600">Thorough system analysis | Carbon monoxide testing | Gas leak detection | Electrical safety | Complete diagnostics</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Extend Equipment Life</p>
+                    <p className="text-sm text-gray-600">Regular tune-ups prevent premature failure | Add 3-5 years to heater lifespan | Protect investment</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Maintain Warranty Coverage</p>
+                    <p className="text-sm text-gray-600">Most warranties require annual service | We document all work | Keep warranty valid</p>
+                  </div>
+                </div>
+
+                <div className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100">
+                  <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <p className="font-semibold text-gray-900 mb-1">Affordable Protection</p>
+                    <p className="text-sm text-gray-600">Small investment prevents major repairs | Maintenance plan discounts | Priority scheduling</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Best Heater Tune-Up Company Section */}
+          <section className="py-16 md:py-20">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <div className="text-center mb-12">
+                <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
+                  Best Heater Tune-Up Company in Tucson, AZ
+                </h2>
+              </div>
+              
+              <div className="grid md:grid-cols-2 gap-12 items-center mb-12">
+                <div>
+                  <p className="text-lg mb-6">
+                    When Tucson's winter nights arrive, you need a heater that works efficiently and reliably. Regular heater tune-ups are the key to preventing unexpected breakdowns, lowering energy bills, and ensuring your family stays comfortable all season long. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide the most comprehensive heater tune-up service in Tucson, AZ.
+                  </p>
+                  <p className="text-lg mb-6">
+                    Our certified HVAC technicians perform thorough inspections and maintenance on all types of heating systems—gas furnaces, electric heaters, and heat pumps. We don't just change your filter and leave. Our comprehensive tune-up service includes cleaning, testing, calibration, and optimization to ensure your heater operates at peak efficiency throughout the heating season.
+                  </p>
+                  <div className="flex flex-col sm:flex-row gap-4 mt-8">
+                    <SchedulerEmbed
+                      triggerText="Schedule Online Now"
+                      variant="default"
+                      size="lg"
+                      data-testid="button-schedule-section1"
+                    />
+                    <Button
+                      size="lg"
+                      className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                      asChild
+                    >
+                      <a href="tel:+15203332665" data-testid="button-call-quote">
+                        Call For A Free Quote
+                      </a>
+                    </Button>
+                  </div>
+                </div>
+                <div>
+                  <div className="aspect-square rounded-lg overflow-hidden bg-gray-200">
+                    <img
+                      src={heaterTuneupService}
+                      alt="Professional heater tune-up technician performing maintenance on heating system in Tucson, Arizona"
+                      className="w-full h-full object-cover"
+                      loading="lazy"
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div className="bg-gray-50 p-8 md:p-12 rounded-lg">
+                <p className="text-lg mb-4">
+                  In Tucson, AZ, preventive heating maintenance is an investment that pays for itself many times over. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've built our reputation on thorough, professional heater tune-ups that extend equipment life and prevent costly emergency repairs. With a nearly perfect 4.97 rating on Google and over 22,000 reviews, we're Tucson's most trusted heating maintenance company.
+                </p>
+                <p className="text-lg">
+                  Our HVAC technicians average over 17 years of experience each and receive continuous training on the latest heating technologies. When we tune up your heater, we're not just checking boxes—we're ensuring your system runs safely, efficiently, and reliably all winter long.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          {/* Why Heater Tune-Ups Matter Section */}
+          <section className="bg-gray-100 py-16 md:py-20">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <div className="text-center mb-12">
+                <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
+                  Why Annual Heater Tune-Ups Are Essential
+                </h2>
+                <p className="text-xl text-gray-700 font-semibold">
+                  Prevent Breakdowns, Save Money, Extend Equipment Life
+                </p>
+              </div>
+
+              <div className="max-w-4xl mx-auto space-y-6">
+                <p className="text-lg">
+                  Many Tucson homeowners wonder if heater tune-ups are really necessary. The answer is an emphatic yes. Just like your car needs regular oil changes to run properly, your heating system requires annual maintenance to operate safely and efficiently. Without regular tune-ups, even the best heating systems develop problems that reduce efficiency, increase energy costs, and lead to unexpected breakdowns.
+                </p>
+                <p className="text-lg">
+                  Energy efficiency is one of the biggest benefits of annual heater tune-ups. A well-maintained heater operates 15-20% more efficiently than a neglected system. That means lower utility bills month after month throughout the heating season. Clean burners, proper airflow, calibrated thermostats, and optimized combustion all contribute to peak efficiency that keeps more money in your pocket.
+                </p>
+                <p className="text-lg">
+                  Equipment longevity is another critical factor. Heating systems are major investments, often costing thousands of dollars to replace. Regular tune-ups extend your heater's lifespan by reducing wear and tear, preventing corrosion, and catching small issues before they cause major damage. Many heaters that receive annual maintenance last 5-10 years longer than neglected systems.
+                </p>
+                <p className="text-lg">
+                  Safety cannot be overlooked, especially with gas furnaces. During our tune-ups, we test for carbon monoxide leaks, inspect heat exchangers for cracks, verify proper venting, and ensure all safety controls function correctly. These safety checks protect your family from potentially dangerous situations that could develop in unmaintained heating systems.
+                </p>
+                <div className="bg-white p-6 rounded-lg border-l-4 border-primary">
+                  <h3 className="text-xl font-bold text-primary mb-3">Benefits of Annual Heater Tune-Ups:</h3>
+                  <ul className="space-y-2 text-lg">
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">•</span>
+                      <span>15-20% improvement in energy efficiency and lower utility bills</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">•</span>
+                      <span>Prevention of up to 95% of common heating system breakdowns</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">•</span>
+                      <span>Extended equipment lifespan by 5-10 years with regular maintenance</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">•</span>
+                      <span>Early detection of safety issues including carbon monoxide risks</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">•</span>
+                      <span>Maintained manufacturer warranty compliance and coverage</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* What to Expect Section */}
+          <section className="py-16 md:py-20">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <h2 className="text-3xl md:text-4xl font-bold text-primary mb-12 text-center">
+                What to Expect During Your Heater Tune-Up Service
+              </h2>
+
+              <div className="grid md:grid-cols-3 gap-8 mb-12">
+                <div className="text-center">
+                  <div className="w-20 h-20 bg-primary text-white rounded-full flex items-center justify-center text-3xl font-bold mx-auto mb-4">
+                    1
+                  </div>
+                  <h3 className="text-xl font-bold mb-3">Complete System Inspection</h3>
+                  <p className="text-base">
+                    Our certified technicians perform a comprehensive inspection of your entire heating system, examining every component from the thermostat to the exhaust vent.
+                  </p>
+                </div>
+                <div className="text-center">
+                  <div className="w-20 h-20 bg-primary text-white rounded-full flex items-center justify-center text-3xl font-bold mx-auto mb-4">
+                    2
+                  </div>
+                  <h3 className="text-xl font-bold mb-3">Cleaning & Calibration</h3>
+                  <p className="text-base">
+                    We clean critical components, calibrate your thermostat, test all safety controls, and optimize your system for peak efficiency and performance.
+                  </p>
+                </div>
+                <div className="text-center">
+                  <div className="w-20 h-20 bg-primary text-white rounded-full flex items-center justify-center text-3xl font-bold mx-auto mb-4">
+                    3
+                  </div>
+                  <h3 className="text-xl font-bold mb-3">Testing & Recommendations</h3>
+                  <p className="text-base">
+                    We thoroughly test your system's operation, measure efficiency, and provide honest recommendations for any needed repairs or improvements.
+                  </p>
+                </div>
+              </div>
+
+              <div className="bg-primary text-white p-8 md:p-12 rounded-lg text-center">
+                <h3 className="text-2xl md:text-3xl font-bold mb-4">
+                  Ready to Schedule Your Heater Tune-Up?
+                </h3>
+                <p className="text-xl mb-6">
+                  Don't wait for a breakdown. Preventive maintenance keeps your heater running strong!
+                </p>
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                  <SchedulerEmbed
+                    triggerText="Schedule Service Now"
+                    variant="secondary"
+                    size="lg"
+                    data-testid="button-schedule-emergency"
+                  />
+                  <Button
+                    size="lg"
+                    className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-emergency">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call: (520) 333-2665
+                    </a>
+                  </Button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Comprehensive Tune-Up Service Section */}
+          <section className="bg-gray-100 py-16 md:py-20">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <h2 className="text-3xl md:text-4xl font-bold text-primary mb-12 text-center">
+                Comprehensive Heater Tune-Up Service in Tucson
+              </h2>
+
+              <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto mb-12">
+                <div className="bg-white p-6 rounded-lg">
+                  <h3 className="text-2xl font-bold text-primary mb-4">Thorough Inspection</h3>
+                  <p className="text-base mb-4">
+                    We examine every component of your heating system including heat exchangers, burners, ignition systems, venting, ductwork connections, electrical components, and safety controls to identify any issues or wear.
+                  </p>
+                  <ul className="space-y-2 text-base">
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Heat exchanger visual inspection for cracks</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Burner assembly examination and testing</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Complete electrical connection inspection</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Safety control testing and verification</span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="bg-white p-6 rounded-lg">
+                  <h3 className="text-2xl font-bold text-primary mb-4">Professional Cleaning</h3>
+                  <p className="text-base mb-4">
+                    Cleaning is critical for efficiency and safety. We clean burners, blower assemblies, heat exchangers, flame sensors, and other components that accumulate dirt and debris that reduce performance.
+                  </p>
+                  <ul className="space-y-2 text-base">
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Burner cleaning for optimal combustion</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Blower assembly cleaning and balancing</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Flame sensor and ignition system cleaning</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Air filter replacement included</span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="bg-white p-6 rounded-lg">
+                  <h3 className="text-2xl font-bold text-primary mb-4">System Testing & Calibration</h3>
+                  <p className="text-base mb-4">
+                    We don't just inspect—we test everything. This includes combustion efficiency testing, thermostat calibration, safety control verification, and system performance measurement to ensure optimal operation.
+                  </p>
+                  <ul className="space-y-2 text-base">
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Combustion efficiency testing and optimization</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Thermostat accuracy verification and calibration</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Carbon monoxide testing for safety</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Airflow measurement and balancing</span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="bg-white p-6 rounded-lg">
+                  <h3 className="text-2xl font-bold text-primary mb-4">Lubrication & Adjustments</h3>
+                  <p className="text-base mb-4">
+                    Moving parts need proper lubrication to operate efficiently and quietly. We lubricate motors and bearings, tighten electrical connections, adjust belts and pulleys, and make minor adjustments for optimal performance.
+                  </p>
+                  <ul className="space-y-2 text-base">
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Motor and bearing lubrication</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Electrical connection tightening</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Belt tension adjustment and alignment</span>
+                    </li>
+                    <li className="flex items-start">
+                      <span className="text-primary mr-2">✓</span>
+                      <span>Gas pressure verification and adjustment</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+
+              <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <SchedulerEmbed
+                  triggerText="Schedule Heater Tune-Up"
+                  variant="default"
+                  size="lg"
+                  data-testid="button-schedule-services"
+                />
+                <Button
+                  size="lg"
+                  className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                  asChild
+                >
+                  <a href="tel:+15203332665" data-testid="button-call-services">
+                    <Phone className="w-5 h-5 mr-2" />
+                    Call: (520) 333-2665
+                  </a>
+                </Button>
+              </div>
+            </div>
+          </section>
+
+          {/* Why Choose Section */}
+          <section className="py-16 md:py-20">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <h2 className="text-3xl md:text-4xl font-bold text-primary mb-12 text-center">
+                Why Choose Intelligent Design for Heater Tune-Ups?
+              </h2>
+
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">Certified Expert Technicians</h3>
+                  <p className="text-base">
+                    All our heating technicians are certified, licensed, and insured. They average over 17 years of experience and receive continuous training on the latest heating technologies and maintenance best practices.
+                  </p>
+                </div>
+
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">Comprehensive Service</h3>
+                  <p className="text-base">
+                    We don't cut corners. Our heater tune-ups include every inspection, cleaning, testing, and adjustment recommended by manufacturers to keep your system running at peak performance.
+                  </p>
+                </div>
+
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">Transparent Pricing</h3>
+                  <p className="text-base">
+                    No surprises or hidden fees. We provide clear, upfront pricing for all tune-up services. If we discover issues requiring repair, we'll explain them clearly and provide pricing before proceeding.
+                  </p>
+                </div>
+
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">Family & Veteran Owned</h3>
+                  <p className="text-base">
+                    As a family and veteran-owned business serving Tucson since 1979, we treat every customer like family. We're committed to providing reliable, professional service with complete integrity.
+                  </p>
+                </div>
+
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">Service Plans Available</h3>
+                  <p className="text-base">
+                    Our annual service plans provide scheduled maintenance, priority scheduling, exclusive discounts, and peace of mind knowing your heating system receives the care it needs year after year.
+                  </p>
+                </div>
+
+                <div className="bg-gray-50 p-6 rounded-lg">
+                  <h3 className="text-xl font-bold text-primary mb-3">All Major Brands</h3>
+                  <p className="text-base">
+                    We service all major heating system brands including Carrier, Trane, Lennox, Rheem, Goodman, American Standard, York, Bryant, Amana, and more with factory-trained expertise.
+                  </p>
+                </div>
+              </div>
+
+              <div className="bg-primary text-white p-8 rounded-lg text-center">
+                <h3 className="text-2xl md:text-3xl font-bold mb-4">
+                  Ready to Schedule Your Annual Heater Tune-Up?
+                </h3>
+                <p className="text-xl mb-6">
+                  Protect your investment and ensure efficient heating all winter. Call now or schedule online!
+                </p>
+                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                  <SchedulerEmbed
+                    triggerText="Schedule Online"
+                    variant="secondary"
+                    size="lg"
+                    data-testid="button-schedule-why-choose"
+                  />
+                  <Button
+                    size="lg"
+                    className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-why-choose">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call: (520) 333-2665
+                    </a>
+                  </Button>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Common Questions - Conversational Q&A for AI Search Optimization */}
+          <CommonQuestions questions={heatingMaintenanceCommonQuestions} />
+
+          {/* FAQ Section - LLM-Optimized with 11 Questions */}
+          <ServiceFAQ faqs={heaterTuneupFAQs.faqs} />
+
+          {/* NAP Section */}
+          <section className="py-16 md:py-20 bg-primary text-white">
+            <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+              <div className="grid md:grid-cols-2 gap-12">
+                <div>
+                  <h2 className="text-3xl md:text-4xl font-bold mb-6">
+                    Contact Intelligent Design for Heater Tune-Ups in Tucson
+                  </h2>
+                  <div className="space-y-4 text-lg">
+                    <p className="flex items-start">
+                      <span className="font-bold mr-2">Address:</span>
+                      <span>1145 E Fort Lowell Rd, Tucson, AZ 85719</span>
+                    </p>
+                    <p className="flex items-start">
+                      <span className="font-bold mr-2">Phone:</span>
+                      <a href="tel:+15203332665" className="hover:text-yellow-400 transition-colors">
+                        (520) 333-2665
+                      </a>
+                    </p>
+                    <p className="flex items-start">
+                      <span className="font-bold mr-2">Hours:</span>
+                      <span>24/7 Emergency Service Available</span>
+                    </p>
+                  </div>
+                  <div className="mt-8">
+                    <h3 className="text-2xl font-bold mb-4">Service Areas</h3>
+                    <p className="text-lg">
+                      We proudly serve Tucson and surrounding areas including Oro Valley, Marana, Sahuarita, Green Valley, Vail, and more throughout Southern Arizona.
+                    </p>
+                  </div>
+                </div>
+                <div className="flex flex-col justify-center space-y-6">
+                  <SchedulerEmbed
+                    triggerText="Schedule Heater Tune-Up Online"
+                    variant="secondary"
+                    size="lg"
+                    data-testid="button-schedule-contact"
+                  />
+                  <Button
+                    size="lg"
+                    className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-contact">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call Now: (520) 333-2665
+                    </a>
+                  </Button>
+                </div>
+              </div>
+            </div>
+          </section>
+        </main>
+
+        <Footer />
+        <MobileFloatingActions />
+      </div>
+    </>
+  );
+}

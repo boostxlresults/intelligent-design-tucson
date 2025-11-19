@@ -1,0 +1,665 @@
+Create “Company Knowledge Hub” page (footer-only link)
+
+Goal:
+Create a comprehensive, indexable Company Knowledge Hub page at
+/about-intelligent-design for Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric (Tucson, AZ).
+Use Next.js App Router + TypeScript + Tailwind (existing project).
+Add JSON-LD schema for Organization, LocalBusiness, Service, FAQPage, and BreadcrumbList.
+Important: The page must be public, indexable, in sitemap, and only linked in the footer (no header nav link).
+
+1) Create file: app/about-intelligent-design/page.tsx
+
+Build a long-form, scannable page (~1,800–2,400 words) with jump links, headings, and internal links to services.
+
+Include Tucson-centric content, company history, certifications, awards, trust signals (22,000+ 5-star reviews, BBB A+), and service area.
+
+Use a Hero with a concise title + subheadline, but keep it informational (not salesy).
+
+Import a <Schema/> component (we’ll create next) to inject JSON-LD blocks.
+
+Ensure export const metadata is present with SEO title/description/open graph.
+
+Create the full file with this exact content:
+
+// app/about-intelligent-design/page.tsx
+import type { Metadata } from "next";
+import Link from "next/link";
+import { Schema } from "../_components/Schema"; // We will create this file next
+import { cn } from "../_lib/utils"; // If you don't have a cn helper, replace cn(...) with string joins
+import { Separator } from "@/components/ui/separator";
+
+export const metadata: Metadata = {
+  title: "About Intelligent Design | Company Knowledge Hub – Tucson’s Highest-Rated Home Services",
+  description:
+    "Learn everything about Intelligent Design—family- and veteran-owned Tucson HVAC, Plumbing, Roofing, Solar & Electrical experts. History, services, certifications, warranties, and service areas.",
+  openGraph: {
+    title: "About Intelligent Design | Company Knowledge Hub",
+    description:
+      "Tucson’s highest-rated home services company. Explore our history, services, certifications, warranties, memberships, and coverage areas.",
+    url: "https://www.idesignac.com/about-intelligent-design",
+    type: "website",
+  },
+  alternates: {
+    canonical: "https://www.idesignac.com/about-intelligent-design",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
+
+const sections = [
+  { id: "intro", label: "Overview" },
+  { id: "mission", label: "Mission & Values" },
+  { id: "leadership", label: "Leadership" },
+  { id: "services", label: "Services" },
+  { id: "certs", label: "Certifications & Awards" },
+  { id: "warranty", label: "Guarantees & Memberships" },
+  { id: "reviews", label: "Reviews & Reputation" },
+  { id: "coverage", label: "Service Area" },
+  { id: "timeline", label: "Company Timeline" },
+  { id: "faq", label: "FAQs" },
+  { id: "contact", label: "Contact & NAP" },
+];
+
+export default function KnowledgeHubPage() {
+  return (
+    <main className="min-h-screen">
+      {/* JSON-LD Schema Blocks */}
+      <Schema />
+
+      {/* Hero */}
+      <section className="mx-auto max-w-6xl px-4 py-10 md:py-14">
+        <h1 className="text-3xl md:text-5xl font-bold tracking-tight">
+          Company Knowledge Hub – Intelligent Design (Tucson, AZ)
+        </h1>
+        <p className="mt-4 text-base md:text-lg text-muted-foreground">
+          Your authoritative source for who we are, what we do, and why Tucson homeowners have trusted Intelligent Design since 1979. Explore our services, leadership, certifications, warranties, reviews, and coverage areas—all in one place.
+        </p>
+
+        {/* Jump Links */}
+        <nav className="mt-6 flex flex-wrap gap-2">
+          {sections.map((s) => (
+            <a
+              key={s.id}
+              href={`#${s.id}`}
+              className="text-sm rounded-full border px-3 py-1 hover:bg-accent hover:text-accent-foreground transition"
+            >
+              {s.label}
+            </a>
+          ))}
+        </nav>
+      </section>
+
+      <Separator className="max-w-6xl mx-auto" />
+
+      {/* Content */}
+      <article className="mx-auto max-w-6xl px-4 py-10 space-y-16">
+        {/* Overview */}
+        <section id="intro">
+          <h2 className="text-2xl md:text-3xl font-semibold">Overview</h2>
+          <p className="mt-4 text-muted-foreground">
+            Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric is Tucson’s highest-rated home services company—family-owned, veteran-owned, and locally trusted since 1979. We deliver fast, reliable service across HVAC, plumbing, roofing, solar monitoring, and electrical—supported by industry-leading warranties, straight-forward pricing, and a relentless commitment to 5-star workmanship. With over <strong>22,000 five-star reviews</strong> and a <strong>BBB A+ rating</strong>, our mission is to protect your comfort, health, safety, and efficiency at home—365 days a year.
+          </p>
+        </section>
+
+        {/* Mission & Values */}
+        <section id="mission">
+          <h2 className="text-2xl md:text-3xl font-semibold">Mission & Core Values</h2>
+          <p className="mt-4 text-muted-foreground">
+            We exist to serve Tucson families with excellence. Our core values—Integrity, Expertise, Reliability, and Community—guide every visit, repair, and installation. We believe in earning trust through exceptional craftsmanship, transparent communication, and doing what’s right for homeowners over the long term. From monsoon prep and indoor air quality to water purity and electrical safety, our teams are trained to solve the real problems that matter most in Southern Arizona homes.
+          </p>
+          <ul className="mt-4 list-disc pl-6 text-muted-foreground space-y-2">
+            <li><strong>Integrity:</strong> Do the right thing—every time.</li>
+            <li><strong>Expertise:</strong> NATE-trained technicians, rigorous ongoing education, and Pearl Certification.</li>
+            <li><strong>Reliability:</strong> Fast response times, priority scheduling, and guaranteed satisfaction.</li>
+            <li><strong>Community:</strong> Family- and veteran-owned, deeply invested in Tucson’s wellbeing.</li>
+          </ul>
+        </section>
+
+        {/* Leadership */}
+        <section id="leadership">
+          <h2 className="text-2xl md:text-3xl font-semibold">Leadership</h2>
+          <p className="mt-4 text-muted-foreground">
+            Intelligent Design was built by leaders committed to service, excellence, and community stewardship. The company’s growth reflects a singular focus: deliver best-in-class outcomes for Tucson homeowners across every trade, on every visit.
+          </p>
+          <div className="mt-6 grid gap-6 md:grid-cols-2">
+            <div className="rounded-xl border p-5">
+              <h3 className="text-xl font-semibold">Andrew Dobbins</h3>
+              <p className="text-sm text-muted-foreground">Founder • Vision & Standards</p>
+              <p className="mt-3 text-muted-foreground">
+                Andrew set the quality bar from day one—insisting on rigorous training, transparent pricing, and workmanship that stands the test of time. Under his leadership, Intelligent Design expanded services and became Tucson’s highest-rated home services provider.
+              </p>
+            </div>
+            <div className="rounded-xl border p-5">
+              <h3 className="text-xl font-semibold">Aimee Dobbins</h3>
+              <p className="text-sm text-muted-foreground">Co-Founder • Culture & Customer Care</p>
+              <p className="mt-3 text-muted-foreground">
+                Aimee champions a people-first culture—ensuring every homeowner interaction is professional, caring, and efficient. She helped establish our reputation for reliability, compassion, and five-star service across departments.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* Services */}
+        <section id="services">
+          <h2 className="text-2xl md:text-3xl font-semibold">Services</h2>
+          <p className="mt-4 text-muted-foreground">
+            We provide comprehensive home services—so you have one trusted team for every system:
+          </p>
+          <div className="mt-6 grid gap-6 md:grid-cols-2">
+            <div className="rounded-xl border p-5">
+              <h3 className="text-lg font-semibold">HVAC</h3>
+              <ul className="mt-3 list-disc pl-6 text-muted-foreground space-y-1">
+                <li>AC repair, tune-ups, and installation</li>
+                <li>Heat pumps, furnaces, mini-splits</li>
+                <li>Indoor air quality &amp; ductwork</li>
+              </ul>
+              <Link href="/air-conditioning" className="mt-3 inline-block text-primary underline">
+                Explore HVAC Services
+              </Link>
+            </div>
+            <div className="rounded-xl border p-5">
+              <h3 className="text-lg font-semibold">Plumbing</h3>
+              <ul className="mt-3 list-disc pl-6 text-muted-foreground space-y-1">
+                <li>Water heater repair &amp; installation</li>
+                <li>Water filtration &amp; softening</li>
+                <li>Drains, leaks, fixtures</li>
+              </ul>
+              <Link href="/plumbing" className="mt-3 inline-block text-primary underline">
+                Explore Plumbing Services
+              </Link>
+            </div>
+            <div className="rounded-xl border p-5">
+              <h3 className="text-lg font-semibold">Roofing</h3>
+              <ul className="mt-3 list-disc pl-6 text-muted-foreground space-y-1">
+                <li>Roof replacement &amp; repairs</li>
+                <li>Roof coatings &amp; monsoon prep</li>
+                <li>Flat, tile, shingle systems</li>
+              </ul>
+              <Link href="/roofing" className="mt-3 inline-block text-primary underline">
+                Explore Roofing Services
+              </Link>
+            </div>
+            <div className="rounded-xl border p-5">
+              <h3 className="text-lg font-semibold">Electrical</h3>
+              <ul className="mt-3 list-disc pl-6 text-muted-foreground space-y-1">
+                <li>Panel upgrades, circuits, safety</li>
+                <li>Lighting, outlets, EV chargers</li>
+                <li>Whole-home surge protection</li>
+              </ul>
+              <Link href="/electrical" className="mt-3 inline-block text-primary underline">
+                Explore Electrical Services
+              </Link>
+            </div>
+            <div className="rounded-xl border p-5">
+              <h3 className="text-lg font-semibold">Solar Monitoring</h3>
+              <ul className="mt-3 list-disc pl-6 text-muted-foreground space-y-1">
+                <li>Certified monitoring &amp; alerts</li>
+                <li>Warranty assistance</li>
+                <li>Free inspection with onboarding</li>
+              </ul>
+              <Link href="/solar" className="mt-3 inline-block text-primary underline">
+                Explore Solar Services
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* Certifications & Awards */}
+        <section id="certs">
+          <h2 className="text-2xl md:text-3xl font-semibold">Certifications, Licenses & Awards</h2>
+          <ul className="mt-4 list-disc pl-6 text-muted-foreground space-y-2">
+            <li>BBB A+ Rated</li>
+            <li>Pearl Certified</li>
+            <li>Licensed, bonded, and insured across HVAC, Plumbing, Roofing & Electrical (AZ ROC #s as applicable)</li>
+            <li>Manufacturer training & certifications</li>
+            <li>Local awards and community recognition</li>
+          </ul>
+          <p className="mt-4 text-muted-foreground">
+            These credentials reflect our commitment to technical excellence, safety, and long-term reliability for Tucson homeowners.
+          </p>
+        </section>
+
+        {/* Guarantees & Memberships */}
+        <section id="warranty">
+          <h2 className="text-2xl md:text-3xl font-semibold">Guarantees & Memberships</h2>
+          <p className="mt-4 text-muted-foreground">
+            We stand behind our work with industry-leading warranties and a membership program designed to protect your home systems year-round.
+          </p>
+          <ul className="mt-4 list-disc pl-6 text-muted-foreground space-y-2">
+            <li>100% Satisfaction Guarantee</li>
+            <li>Extended repair warranties (by membership tier)</li>
+            <li>Priority scheduling and dispatch fee benefits</li>
+            <li>SmartAC monitoring with net-zero credit options</li>
+            <li>Annual preventative maintenance appointments (HVAC, Plumbing, Electrical, Roofing)</li>
+          </ul>
+          <p className="mt-4">
+            Learn more on our <Link href="/memberships" className="text-primary underline">Memberships</Link> page.
+          </p>
+        </section>
+
+        {/* Reviews & Reputation */}
+        <section id="reviews">
+          <h2 className="text-2xl md:text-3xl font-semibold">Reviews & Reputation</h2>
+          <p className="mt-4 text-muted-foreground">
+            With over <strong>22,000 five-star reviews</strong>, Intelligent Design is consistently recognized as Tucson’s most trusted home services provider. We encourage you to read what our customers are saying and see why homeowners choose us for reliable, high-quality work—every time.
+          </p>
+          <ul className="mt-4 list-disc pl-6 text-muted-foreground space-y-2">
+            <li><Link href="https://g.page/intelligentdesignair" className="underline">Google Reviews</Link></li>
+            <li><Link href="https://www.bbb.org/" className="underline">BBB Profile</Link></li>
+            <li><Link href="/reviews" className="underline">More Testimonials</Link></li>
+          </ul>
+        </section>
+
+        {/* Service Area */}
+        <section id="coverage">
+          <h2 className="text-2xl md:text-3xl font-semibold">Service Area</h2>
+          <p className="mt-4 text-muted-foreground">
+            We proudly serve Tucson and surrounding communities across Pima County:
+          </p>
+          <ul className="mt-4 grid grid-cols-2 md:grid-cols-3 gap-2 text-muted-foreground">
+            <li>Tucson</li>
+            <li>Oro Valley</li>
+            <li>Marana</li>
+            <li>Vail</li>
+            <li>Sahuarita</li>
+            <li>Green Valley</li>
+            <li>Catalina Foothills</li>
+            <li>South Tucson</li>
+            <li>Three Points</li>
+          </ul>
+        </section>
+
+        {/* Timeline */}
+        <section id="timeline">
+          <h2 className="text-2xl md:text-3xl font-semibold">Company Timeline</h2>
+          <ul className="mt-4 list-disc pl-6 text-muted-foreground space-y-2">
+            <li><strong>1979:</strong> Family-owned roots established in Tucson.</li>
+            <li><strong>2009:</strong> Intelligent Design founded to raise the bar for quality and customer care.</li>
+            <li><strong>2015–2024:</strong> Expanded into Plumbing, Roofing, Electrical, and Solar Monitoring.</li>
+            <li><strong>Today:</strong> Tucson’s highest-rated home services company with 22,000+ five-star reviews.</li>
+          </ul>
+        </section>
+
+        {/* FAQs */}
+        <section id="faq">
+          <h2 className="text-2xl md:text-3xl font-semibold">Frequently Asked Questions</h2>
+          <div className="mt-4 space-y-4 text-muted-foreground">
+            <div>
+              <h3 className="font-semibold">Do you offer same-day service in Tucson?</h3>
+              <p>Yes—priority scheduling is available, and many calls are handled the same day depending on time and location.</p>
+            </div>
+            <div>
+              <h3 className="font-semibold">Are you licensed and insured?</h3>
+              <p>Absolutely. We are fully licensed, bonded, and insured across HVAC, Plumbing, Roofing, Electrical, and Solar Monitoring.</p>
+            </div>
+            <div>
+              <h3 className="font-semibold">What warranties do you provide?</h3>
+              <p>We offer industry-leading warranties on repairs and installations, with extended coverage through our membership plans.</p>
+            </div>
+            <div>
+              <h3 className="font-semibold">Which areas do you serve?</h3>
+              <p>Tucson and surrounding communities, including Oro Valley, Marana, Vail, Sahuarita, Green Valley, and Catalina Foothills.</p>
+            </div>
+          </div>
+        </section>
+
+        {/* Contact & NAP */}
+        <section id="contact">
+          <h2 className="text-2xl md:text-3xl font-semibold">Contact & NAP</h2>
+          <address className="mt-4 not-italic text-muted-foreground">
+            <div><strong>Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric</strong></div>
+            <div>1145 E Fort Lowell Rd, Tucson, AZ 85719</div>
+            <div>Phone: <a className="underline" href="tel:+15206223205">(520) 622-3205</a></div>
+            <div>Hours: Mon–Fri 7:00am–4:30pm (Emergency service available)</div>
+          </address>
+          <p className="mt-4">
+            Looking to schedule now? Visit our{" "}
+            <Link href="/" className="underline text-primary">home page</Link> or click any “Schedule” button to open our ServiceTitan scheduler.
+          </p>
+        </section>
+      </article>
+    </main>
+  );
+}
+
+2) Create file: app/_components/Schema.tsx
+
+Output multiple JSON-LD blocks: Organization, LocalBusiness, Services, FAQPage, and BreadcrumbList.
+
+Keep values specific to Intelligent Design and Tucson.
+
+Render them as script tags in the page head using itemProp="potentialAction" is not necessary; use application/ld+json.
+
+Create the full file with this exact content:
+
+// app/_components/Schema.tsx
+"use client";
+
+import React from "react";
+
+export function Schema() {
+  const org = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric",
+    "url": "https://www.idesignac.com",
+    "logo": "https://www.idesignac.com/logo.png",
+    "description": "Tucson’s highest-rated home services company offering HVAC, plumbing, roofing, solar monitoring, and electrical services since 1979.",
+    "foundingDate": "1979",
+    "founder": {
+      "@type": "Person",
+      "name": "Andrew Dobbins"
+    },
+    "sameAs": [
+      "https://g.page/intelligentdesignair",
+      "https://www.facebook.com/idesignac",
+      "https://www.instagram.com/intelligentdesigntucson",
+      "https://www.bbb.org/us/az/tucson"
+    ]
+  };
+
+  const localBusiness = {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric",
+    "image": "https://www.idesignac.com/og-image.jpg",
+    "url": "https://www.idesignac.com",
+    "telephone": "+15206223205",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1145 E Fort Lowell Rd",
+      "addressLocality": "Tucson",
+      "addressRegion": "AZ",
+      "postalCode": "85719",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.2589,
+      "longitude": -110.9533
+    },
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+        "opens": "07:00",
+        "closes": "16:30"
+      }
+    ],
+    "areaServed": [
+      "Tucson","Oro Valley","Marana","Vail","Sahuarita","Green Valley","Catalina Foothills","South Tucson","Three Points"
+    ],
+    "department": [
+      { "@type": "HVACBusiness", "name": "HVAC Services" },
+      { "@type": "Plumber", "name": "Plumbing Services" },
+      { "@type": "RoofingContractor", "name": "Roofing Services" },
+      { "@type": "Electrician", "name": "Electrical Services" }
+    ]
+  };
+
+  const services = [
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "HVAC Services",
+      "provider": { "@type": "LocalBusiness", "name": "Intelligent Design" },
+      "areaServed": "Tucson, AZ",
+      "serviceType": "HVAC repair, tune-ups, installation, IAQ, ductwork",
+      "url": "https://www.idesignac.com/air-conditioning"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Plumbing Services",
+      "provider": { "@type": "LocalBusiness", "name": "Intelligent Design" },
+      "areaServed": "Tucson, AZ",
+      "serviceType": "Water heaters, filtration, softening, drains, leaks, fixtures",
+      "url": "https://www.idesignac.com/plumbing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Roofing Services",
+      "provider": { "@type": "LocalBusiness", "name": "Intelligent Design" },
+      "areaServed": "Tucson, AZ",
+      "serviceType": "Roof replacement, repairs, roof coatings",
+      "url": "https://www.idesignac.com/roofing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Electrical Services",
+      "provider": { "@type": "LocalBusiness", "name": "Intelligent Design" },
+      "areaServed": "Tucson, AZ",
+      "serviceType": "Panel upgrades, circuits, lighting, EV chargers, surge protection",
+      "url": "https://www.idesignac.com/electrical"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Solar Monitoring",
+      "provider": { "@type": "LocalBusiness", "name": "Intelligent Design" },
+      "areaServed": "Tucson, AZ",
+      "serviceType": "Certified solar monitoring, warranty assistance, inspections",
+      "url": "https://www.idesignac.com/solar"
+    }
+  ];
+
+  const faq = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do you offer same-day service in Tucson?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes—priority scheduling is available, and many calls are handled the same day depending on time and location."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are you licensed and insured?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Absolutely. We are fully licensed, bonded, and insured across HVAC, Plumbing, Roofing, Electrical, and Solar Monitoring."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What warranties do you provide?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "We offer industry-leading warranties on repairs and installations, with extended coverage through our membership plans."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which areas do you serve?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tucson and surrounding communities, including Oro Valley, Marana, Vail, Sahuarita, Green Valley, and Catalina Foothills."
+        }
+      }
+    ]
+  };
+
+  const breadcrumb = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.idesignac.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "About Intelligent Design",
+        "item": "https://www.idesignac.com/about-intelligent-design"
+      }
+    ]
+  };
+
+  const blocks = [org, localBusiness, ...services, faq, breadcrumb];
+
+  return (
+    <>
+      {blocks.map((b, i) => (
+        <script
+          key={i}
+          type="application/ld+json"
+          // We intentionally stringify on client to ensure correct JSON in the DOM
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(b) }}
+        />
+      ))}
+    </>
+  );
+}
+
+
+If your project doesn’t have a cn helper or Separator, remove those imports/usages or replace with simple HTML.
+
+3) Update the footer to include the ONLY link to this page
+
+Do NOT add this page to the header or top navigation.
+
+Add a single, clear link in the Footer. If you already have a footer, replace or update it. If not, create one.
+
+Edit file: app/_components/Footer.tsx (replace content)
+
+// app/_components/Footer.tsx
+import Link from "next/link";
+
+export default function Footer() {
+  return (
+    <footer className="border-t mt-16">
+      <div className="mx-auto max-w-6xl px-4 py-10 grid gap-6 md:grid-cols-4 text-sm">
+        <div>
+          <h4 className="font-semibold">Intelligent Design</h4>
+          <p className="mt-2 text-muted-foreground">
+            Family-owned, veteran-owned, and locally trusted since 1979.
+          </p>
+          <address className="mt-3 not-italic text-muted-foreground">
+            1145 E Fort Lowell Rd<br />
+            Tucson, AZ 85719<br />
+            <a className="underline" href="tel:+15206223205">(520) 622-3205</a>
+          </address>
+        </div>
+
+        <div>
+          <h4 className="font-semibold">Services</h4>
+          <ul className="mt-2 space-y-1 text-muted-foreground">
+            <li><Link className="underline" href="/air-conditioning">HVAC</Link></li>
+            <li><Link className="underline" href="/plumbing">Plumbing</Link></li>
+            <li><Link className="underline" href="/roofing">Roofing</Link></li>
+            <li><Link className="underline" href="/electrical">Electrical</Link></li>
+            <li><Link className="underline" href="/solar">Solar Monitoring</Link></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 className="font-semibold">Company</h4>
+          <ul className="mt-2 space-y-1 text-muted-foreground">
+            <li><Link className="underline" href="/about">About Us</Link></li>
+            {/* IMPORTANT: Knowledge Hub link lives ONLY in the footer */}
+            <li>
+              <Link className="underline" href="/about-intelligent-design">
+                Company Knowledge Hub
+              </Link>
+            </li>
+            <li><Link className="underline" href="/careers">Careers</Link></li>
+            <li><Link className="underline" href="/reviews">Reviews</Link></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 className="font-semibold">Legal</h4>
+          <ul className="mt-2 space-y-1 text-muted-foreground">
+            <li><Link className="underline" href="/privacy">Privacy Policy</Link></li>
+            <li><Link className="underline" href="/terms">Terms of Service</Link></li>
+            <li><Link className="underline" href="/sitemap.xml">Sitemap</Link></li>
+          </ul>
+        </div>
+      </div>
+
+      <div className="border-t">
+        <div className="mx-auto max-w-6xl px-4 py-6 text-xs text-muted-foreground flex items-center justify-between">
+          <span>© {new Date().getFullYear()} Intelligent Design. All rights reserved.</span>
+          <span>Tucson’s Highest-Rated HVAC, Plumbing, Roofing & Electrical Experts</span>
+        </div>
+      </div>
+    </footer>
+  );
+}
+
+
+If your project uses a different path for Footer (e.g., app/_components/Footer.tsx already exists), update that file in place.
+Ensure your app/layout.tsx imports and renders <Footer /> at the bottom of <body>.
+
+4) Ensure app/layout.tsx renders the Footer and stays indexable
+
+Open app/layout.tsx and verify:
+
+<Footer /> is imported and rendered.
+
+No noindex meta tags are present globally.
+
+GTM + ServiceTitan DNI (if present) remain intact.
+
+If you need a reference layout, here’s a minimal safe pattern (replace only if needed):
+
+// app/layout.tsx
+import type { Metadata } from "next";
+import "./_styles/globals.css";
+import Footer from "./_components/Footer";
+import GTM from "./_components/GTM"; // if you created this earlier
+import DNIInjector from "./_components/DNIInjector"; // if present
+
+export const metadata: Metadata = {
+  metadataBase: new URL("https://www.idesignac.com"),
+  title: {
+    default: "Intelligent Design – Tucson’s Highest-Rated Home Services",
+    template: "Intelligent Design | %s",
+  },
+  robots: { index: true, follow: true },
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <head>{/* other head tags */}</head>
+      <body className="min-h-screen antialiased">
+        {/* Keep GTM & DNI as you’ve set them up */}
+        {typeof window !== "undefined" ? <GTM /> : null}
+        {typeof window !== "undefined" ? <DNIInjector /> : null}
+        {children}
+        <Footer />
+        {/* GTM noscript fallback can be placed here if using noscript iframe */}
+      </body>
+    </html>
+  );
+}
+
+5) Make sure it’s in the sitemap
+
+If you’re using next-sitemap, it will auto-include pages under /app. If you have exclusions configured, do not exclude /about-intelligent-design.
+Double-check next-sitemap.config.js to ensure default inclusion.
+
+6) Strict requirements recap
+
+The Company Knowledge Hub lives at /about-intelligent-design.
+
+It is public, indexable, internally linked only in the Footer (no header nav link).
+
+It includes thorough, Tucson-centric content and JSON-LD for Organization, LocalBusiness, Service, FAQPage, and BreadcrumbList via <Schema />.
+
+It is present in sitemap.xml and helps establish our brand entity for AI models.
+
+Please generate these files exactly as provided and confirm the page builds without TypeScript errors.
+Do not prompt for clarification — implement as specified.

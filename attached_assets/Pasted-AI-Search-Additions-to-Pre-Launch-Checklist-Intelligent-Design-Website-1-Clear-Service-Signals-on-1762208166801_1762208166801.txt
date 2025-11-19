@@ -1,0 +1,84 @@
+AI-Search Additions to Pre-Launch Checklist (Intelligent Design Website)
+1. Clear Service Signals on Every Page
+
+Add AI-readable service descriptions at the top of every main service page.
+
+Avoid vague language like "we do it all."
+
+Use direct, human-like phrasing:
+
+“Intelligent Design offers 24/7 HVAC repair, AC installation, and ductwork design in Tucson, AZ and nearby areas.”
+
+2. LLM-Friendly Q&A Blocks
+
+Every major service and city silo page should have a clear “Top Questions Answered” or “Common FAQs” section with:
+
+Natural language questions as headings
+
+Standalone paragraph answers
+
+FAQ Schema applied to each (where appropriate)
+
+3. Fresh, Indexed Reviews Embedded
+
+Pull live reviews onto pages by category using widgets or schema-based embeds.
+
+Include visible review dates.
+
+Reinforce AI trust by referencing recent projects or thanking reviewers inline (which also aids LLM relevance).
+
+4. Answer Your Top 10 Questions Site-Wide
+
+Create a universal "Knowledge Hub" or FAQ Resource Center (linked in main nav).
+
+Include:
+
+"How much does it cost to replace an AC unit in Tucson?"
+
+“How long does a water heater last?”
+
+“How do I choose a roofing contractor?”
+
+Optimize these for LLM summarization: short, factual, friendly tone.
+
+5. Social Signals Matter
+
+Ensure the new site links to active social profiles (FB, IG, YouTube, etc).
+
+Embed recent post highlights or UGC (user-generated content) from community engagement.
+
+Add sameAs structured data for social media accounts on the homepage.
+
+6. Local Mentions & Authority Boosters
+
+Include a "Trusted by the Community" or “Featured In” section with logos and links to:
+
+Chamber of Commerce
+
+Local publications (e.g. Tucson Weekly)
+
+BBB, Angi, Pearl Certification, etc.
+
+7. AI-Specific Site Schema
+
+Create a centralized AI-optimized structured data injection that includes:
+
+@type: LocalBusiness
+
+knowsAbout, areaServed, hasOfferCatalog, knowsLanguage
+
+Embed FAQ, Service, Review, ImageObject, and Place schema
+
+8. Homepage Optimization for AI Discovery
+
+Above-the-fold H1 should clearly say:
+
+“The #1 Rated HVAC, Plumbing, Roofing, Solar, and Electrical Contractor in Tucson, AZ”
+
+Include a standalone “What makes us the best in Tucson?” section (AI loves confidence + proof)
+
+Add short, factual punchlines like:
+
+“Over 22,000 5-star reviews in Southern Arizona.”
+“24/7 emergency repair service. No extra charges.”
+“Lifetime warranties available on select systems.”

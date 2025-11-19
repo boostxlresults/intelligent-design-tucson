@@ -1,0 +1,61 @@
+{
+  "locations": {
+    "avra-valley": {
+      "dataFile": "avravalley"
+    },
+    "casas-adobes": {
+      "dataFile": "casasadobes"
+    },
+    "catalina-foothills": {
+      "dataFile": "catalinafoothills"
+    },
+    "corona-de-tucson": {
+      "dataFile": "coronadetucson"
+    },
+    "drexel-heights": {
+      "dataFile": "drexelheights"
+    },
+    "east-tucson": {
+      "dataFile": "easttucson"
+    },
+    "gladden-farms": {
+      "dataFile": "gladdenfarms"
+    },
+    "green-valley": {
+      "dataFile": "greenvalley"
+    },
+    "marana": {
+      "dataFile": "marana"
+    },
+    "oro-valley": {
+      "dataFile": "orovalley"
+    },
+    "picture-rocks": {
+      "dataFile": "picturerocks"
+    },
+    "red-rock-casa-grande": {
+      "dataFile": "redrockcasagrande"
+    },
+    "rita-ranch": {
+      "dataFile": "ritaranch"
+    },
+    "saddle-brooke-catalina": {
+      "dataFile": "saddlebrookecatalina"
+    },
+    "sahuarita": {
+      "dataFile": "sahuarita"
+    },
+    "tanque-verde": {
+      "dataFile": "tanqueverde"
+    },
+    "tortolita": {
+      "dataFile": "tortolita"
+    },
+    "tucson": {
+      "dataFile": "tucson"
+    },
+    "vail": {
+      "dataFile": "vail"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+# Intelligent Design - Robots.txt
+# www.idesignac.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.idesignac.com/sitemap.xml
+
+# Crawl-delay (optional - helps prevent server overload)
+Crawl-delay: 1
+
+# Block access to admin or backend paths (if any)
+Disallow: /api/
+Disallow: /_next/
+
+# Allow all blog content
+Allow: /blog/
+
+# Allow all service pages
+Allow: /*-tucson
+
+# Block common bot traps
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/

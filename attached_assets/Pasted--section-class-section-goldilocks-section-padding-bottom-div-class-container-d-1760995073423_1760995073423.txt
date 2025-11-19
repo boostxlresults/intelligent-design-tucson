@@ -1,0 +1,60 @@
+<section class="section-goldilocks section-padding-bottom">
+    <div class="container">
+        <div class="row align-items-center mb-3 flex-lg-row flex-column-reverse">
+            <div class="col-lg-7">
+                <div class="section-Content">
+                    <h2 class="mb-0">ABOUT THE OWNER</h2>
+                    <h3 class="font-25"><span class="d-block">Andrew Dobbins</span>CEO, Owner</h3>
+                    <p>Andrew is a Marine, a loving father and husband, and the founder and owner of Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. An EPA-certified technician, Andrew has been to countless trainings and is certified for Indoor Air Quality by both Lennox and American Standard/Trane. In his 17+ years of experience, Andrew has received the <a href="https://www.angi.com/companylist/us/az/tucson/intelligent-design-cooling-heating-and-plumbing-reviews-6575296.htm" target="_blank" rel="noopener">Super Service Award</a> from Angie’s List every year since 2012 for Heating and Air Conditioning. He also maintains an A+ accreditation with the Better Business Bureau! To - Andrew is a Marine, a loving father and husband, and the founder and owner of Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. An EPA-certified technician, Andrew has been to countless trainings and is certified for Indoor Air Quality by both Lennox and American Standard/Trane. In his over 20+ years of experience, Andrew has received the Super Service Award from Angie’s List multiple times.  He has also continued to maintain an A+ accreditation with the Better Business Bureau for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric for 14 years straight!</p>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="section-img mb-3 mb-lg-0">
+                    <img src="https://www.idesignac.com/wp-content/uploads/2024/04/dobbins-family.jpg.webp" alt="air-conditioning-repair" class="border-radiusfull-10">
+                </div>
+            </div>
+            <!-- <div class="col-12 order-first order-lg-last">
+                <div class="section-btn d-inline-block">
+                    <a onclick="_scheduler.show({ schedulerId: 'sched_vwgezlwi56yyvwdb0nzlng14' })" type="button" class="clickable-btn btn-blue border-0 st-scheduler-button">Schedule Online Now</a>
+                </div>
+                <div class="section-btn d-inline-block">
+                    <a href="tel:+1520-333-2665" class="clickable-btn btn-yellow border-0">Call For A Free Quote</a>
+                </div>
+            </div> -->
+        </div>
+        <div class="section-footer text-center">
+            <p>In 2002, after serving in the U.S. Marine Corps as Presidential security at HMX-1 in Quantico, VA., Andrew Dobbins left the Corps and entered the world of air conditioning and heating. Right from the beginning, he brought a different approach to his work. This was the attitude needed to make Intelligent Design the Best Solar, Plumbing, & HVAC Company in Tucson. During his time in the Corps, Andrew had developed a great appreciation for attention to detail. He also understood the importance of processes.</p>
+            <p>This was to benefit him as he excelled in the fields of product differentiation, heat load engineering, system customization, system design and estimation. Over the next several years, Andrew became adept in all aspects of residential system design. He also received a number of certifications, including EPA certification, Building Performance Institute (BPI) certification (Building Analyst and AC/Heat Pump), heat load certification. Finally, Andrew attained his Arizona Registrar of Contractors CR39 residential and commercial HVAC license.</p>
+            <p>He was ready for the next step in his life. In 2009, Andrew decided to go into business for himself. He had seen the way things ought to be done, and he had compared it to the way most companies did business. He realized that this was the only way that customers could get the quality and integrity they deserve from the Best Solar, Plumbing, & HVAC Company in Tucson. Starting with three staff members and working out of a home garage, Andrew went all in, selling his truck for $20,000 for capital to start his own company. That was the beginning of our story—but far from the end!</p>
+            <div class="section-btn-wrapper mt-3">
+                <div class="section-btn d-inline-block">
+                    <a onclick="_scheduler.show({ schedulerId: 'sched_vwgezlwi56yyvwdb0nzlng14' })" type="button" class="clickable-btn btn-blue border-0 st-scheduler-button">Schedule Online Now</a>
+                </div>
+                <div class="section-btn d-inline-block">
+                    <a href="tel:+1520-333-2665" class="clickable-btn btn-yellow border-0">Call For A Free Quote</a>
+                </div>  
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="bg-dark-blue text-white section-padding text-center">
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="section-content text-white">
+                <h2 class="text-white">What Makes Intelligent Design the Best Solar, Plumbing, & HVAC Company in Tucson?</h2>
+                <p>Today, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric employs more than 80 people year-round and works from their new property, which they purchased in 2013. Each lead installer for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has a minimum of 10 years experience. Also, every one of their service technicians is certified, and they have an average experience of 17 years. Because of Intelligent Design’s great attention to detail and complete customer satisfaction guarantees, we are now the highest rated / Best Solar, Plumbing, & HVAC Company in Tucson.</p>
+                <p>We specialize in a wide range of services, including home system repair and replacement, <a class="text-white" href="https://www.idesignac.com/air-conditioning/improve-indoor-air-quality/">indoor air quality solutions</a>, custom duct repair and design, and commercial service and replacement. In 2015, we started a new plumbing division to better serve our customers. The new plumbing division provides all plumbing services, which include <a class="text-white" href="https://www.idesignac.com/plumber-tucson/drain-cleaning-tucson/">drain cleaning</a>, water heater replacement, plumbing repairs, and whole house <a class="text-white" href="https://www.idesignac.com/plumber-tucson/desert-shield-water-filtration-system/">water softening and water treatment</a>. In other words, we can handle it all! <a class="text-white" href="https://www.idesignac.com/contact/">Intelligent Design Air Conditioning, Plumbing, Solar, & Electric</a> continues to grow every day thanks to our great team and the wonderful people of Southern Arizona.</p>
+                <p>We are so glad that you choose to work with companies like ours and helped make us the Best Solar, Plumbing, & HVAC Company in Tucson. We are dedicated to doing right by our customers and getting the job done right the first time. That’s our business philosophy, and we strive to uphold it every day! This community is the reason we are who we are, and we show our support by taking part in community contributions around the area. In fact, we partner and support various organizations, such as the Hope Center, Gospel Rescue Mission, Hands of Hope, and Teen Challenge! Thank you Tucson and the rest of the Southern Arizona community for welcoming our company and helping us to so quickly become the Best Solar, Plumbing, & HVAC Company in Tucson. We appreciate you!</p>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+<section class="peoples-section section-padding">
+<div class="container">
+    <div class="section-heading text-center">
+        <h2>MEET THE BEST SOLAR, PLUMBING, & HVAC COMPANY IN TUCSON</h2>
+    </div>

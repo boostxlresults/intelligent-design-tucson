@@ -1,0 +1,1152 @@
+{
+  "themes": [
+    {
+      "id": "hvac-ac-repair",
+      "category": "hvac",
+      "name": "AC Repair Service",
+      "keywords": [
+        "ac repair",
+        "air conditioning repair",
+        "hvac repair",
+        "fix ac",
+        "broken ac"
+      ],
+      "prompt": "Professional HVAC technician in royal blue uniform with American flag patch repairing residential air conditioning unit in modern Tucson home, tools and diagnostic equipment visible, bright natural lighting, clean professional setting",
+      "summary": "AC repair service Tucson",
+      "matchedPosts": [
+        "90-of-arizona-ac-systems-have-an-installation-flaw",
+        "how-much-does-it-cost-to-install-central-air-conditioning",
+        "are-there-any-health-benefits-of-air-conditioning",
+        "how-do-i-choose-an-air-conditioning-unit",
+        "what-is-the-cost-of-running-fans-vs-air-conditioning",
+        "are-there-any-known-air-conditioning-health-risks",
+        "what-is-the-most-efficient-way-to-run-air-conditioning",
+        "signs-you-need-to-call-for-ac-repair",
+        "10-reasons-you-should-always-call-an-ac-repair-specialist",
+        "how-ac-repair-can-actually-save-you-money",
+        "common-ac-problems-that-only-a-professional-ac-repair-can-fi",
+        "how-to-choose-the-right-ac-repair-company",
+        "tips-to-save-money-on-your-ac-repair-cost",
+        "the-importance-and-benefits-of-hiring-an-ac-repair-specialis",
+        "what-to-expect-during-and-after-ac-repair",
+        "when-to-call-for-ac-repair",
+        "most-common-ac-repair-and-what-to-expect",
+        "everything-you-need-to-know-about-the-advanced-hvac-solution",
+        "tips-for-finding-the-right-ac-repair-technician",
+        "air-conditioning-tucson-why-you-need-one-for-your-home",
+        "how-to-know-when-to-diy-ac-repair-and-when-to-call-the-pros",
+        "diy-guide-to-basic-ac-repairs",
+        "top-questions-to-ask-your-ac-repair-technician",
+        "air-conditioning-tucson-tips-to-lower-energy-bills-and-save-",
+        "choosing-the-best-ac-repair-near-me-essential-tips-for-findi",
+        "ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs",
+        "your-complete-guide-to-hvac-ac-repair-in-tucson-faqs-answere",
+        "can-suntrac-air-conditioning-systems-lower-your-ac-costs",
+        "complete-guide-hvac-ac-repair-tucson-faqs",
+        "how-to-fix-your-ac-simple-guide",
+        "complete-guide-ac-repair-tucson"
+      ]
+    },
+    {
+      "id": "hvac-ac-install",
+      "category": "hvac",
+      "name": "AC Installation",
+      "keywords": [
+        "ac installation",
+        "install ac",
+        "new ac",
+        "ac replacement",
+        "hvac installation"
+      ],
+      "prompt": "HVAC technicians in royal blue uniforms installing new modern air conditioning system in Tucson home, equipment and tools visible, professional installation work, bright setting",
+      "summary": "AC installation Tucson home",
+      "matchedPosts": [
+        "the-importance-of-proper-ac-installation-tucson",
+        "ac-replacement-why-its-important-and-how-to-do-it",
+        "top-10-benefits-of-ac-replacement-for-your-home",
+        "out-with-the-old-in-with-the-new-is-ac-replacement-the-one-f",
+        "10-facts-about-ac-replacement-everyone-should-know",
+        "questions-to-ask-when-getting-quotes-for-ac-replacement-in-t",
+        "how-to-choose-the-best-ac-replacement-system-for-your-home",
+        "ac-replacement-when-to-replace-your-commercial-ac-unit",
+        "how-professional-hvac-technicians-perform-ac-replacement",
+        "how-to-determine-if-its-time-for-an-ac-replacement",
+        "helpful-tips-to-avoid-ac-replacement",
+        "tips-for-your-home-ac-replacement",
+        "top-signs-you-need-ac-replacement-for-your-business",
+        "why-consider-professional-ac-replacement-over-diy",
+        "why-choose-intelligent-design-team-for-your-ac-replacement-n",
+        "whats-the-cost-of-ac-installation-in-tucson",
+        "why-diy-ac-installation-can-cost-you-more-in-the-long-run"
+      ]
+    },
+    {
+      "id": "hvac-maintenance",
+      "category": "hvac",
+      "name": "AC Maintenance",
+      "keywords": [
+        "ac maintenance",
+        "tune-up",
+        "ac service",
+        "preventive",
+        "inspection"
+      ],
+      "prompt": "Technician in blue uniform performing air conditioning maintenance tune-up in Tucson home, checking filters and components, professional service work, clean modern setting",
+      "summary": "AC maintenance service",
+      "matchedPosts": [
+        "what-kind-of-air-conditioning-preventive-maintenance-do-i-ne",
+        "our-emergency-hvac-services-taking-precautions-during-the-pa",
+        "the-ultimate-guide-to-hvac-maintenance-in-tucson-az",
+        "intelligent-design-elevates-hvac-tune-up-standards-with-unpr",
+        "what-does-a-professional-ac-service-include-a-complete-check"
+      ]
+    },
+    {
+      "id": "hvac-heating",
+      "category": "hvac",
+      "name": "Heating Service",
+      "keywords": [
+        "heating",
+        "heater",
+        "furnace",
+        "heat pump",
+        "winter"
+      ],
+      "prompt": "HVAC technician servicing residential heating system in Tucson home, blue uniform with flag patch, professional heating repair work, modern equipment",
+      "summary": "Heating service Tucson",
+      "matchedPosts": []
+    },
+    {
+      "id": "hvac-emergency",
+      "category": "hvac",
+      "name": "Emergency HVAC",
+      "keywords": [
+        "emergency",
+        "urgent",
+        "24/7",
+        "immediate",
+        "breakdown"
+      ],
+      "prompt": "HVAC technician responding to emergency service call in Tucson home, blue uniform, urgent professional response, service truck visible, quick action",
+      "summary": "Emergency HVAC service",
+      "matchedPosts": []
+    },
+    {
+      "id": "hvac-energy",
+      "category": "hvac",
+      "name": "Energy Efficient HVAC",
+      "keywords": [
+        "energy efficient",
+        "energy savings",
+        "efficiency",
+        "seer",
+        "cost savings"
+      ],
+      "prompt": "Modern energy-efficient air conditioning system in Tucson home with technician explaining energy ratings, blue uniform, high-efficiency equipment, professional presentation",
+      "summary": "Energy efficient AC system",
+      "matchedPosts": [
+        "air-conditioning-in-tucson-how-can-you-save-money-by-maximiz",
+        "the-importance-of-super-cooling-for-hvac-efficiency-in-the-s",
+        "choosing-the-right-hvac-system-what-homeowners-need-to-know-",
+        "why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie",
+        "the-importance-of-air-conditioner-sizing-how-to-choose-the-r",
+        "how-much-does-new-air-conditioner-cost"
+      ]
+    },
+    {
+      "id": "hvac-airquality",
+      "category": "hvac",
+      "name": "Air Quality",
+      "keywords": [
+        "air quality",
+        "indoor air",
+        "filtration",
+        "purification",
+        "allergens",
+        "duct cleaning"
+      ],
+      "prompt": "HVAC technician installing air quality improvement system in Tucson home, blue uniform, air filtration equipment, clean modern interior, health focus",
+      "summary": "Indoor air quality service",
+      "matchedPosts": [
+        "central-air-conditioning-system-in-tucson-how-to-improve-you"
+      ]
+    },
+    {
+      "id": "hvac-ductwork",
+      "category": "hvac",
+      "name": "Ductwork Service",
+      "keywords": [
+        "ductwork",
+        "duct",
+        "vents",
+        "airflow",
+        "distribution"
+      ],
+      "prompt": "Technician inspecting and sealing ductwork in Tucson home attic, blue uniform, professional duct work, modern HVAC system visible",
+      "summary": "Ductwork inspection service",
+      "matchedPosts": []
+    },
+    {
+      "id": "hvac-thermostat",
+      "category": "hvac",
+      "name": "Smart Thermostat",
+      "keywords": [
+        "thermostat",
+        "smart thermostat",
+        "control",
+        "temperature",
+        "wifi"
+      ],
+      "prompt": "Technician installing modern smart thermostat on wall in Tucson home, blue uniform, digital display visible, clean modern interior, technology focus",
+      "summary": "Smart thermostat installation",
+      "matchedPosts": [
+        "optimizing-air-conditioner-use-in-summer-best-practices-and-"
+      ]
+    },
+    {
+      "id": "hvac-commercial",
+      "category": "hvac",
+      "name": "Commercial HVAC",
+      "keywords": [
+        "commercial",
+        "business",
+        "office",
+        "industrial"
+      ],
+      "prompt": "HVAC technicians servicing large commercial air conditioning system in Tucson business, blue uniforms, professional commercial equipment, large-scale installation",
+      "summary": "Commercial HVAC service",
+      "matchedPosts": [
+        "air-conditioning-in-tucson-maintenance-tips-for-businesses"
+      ]
+    },
+    {
+      "id": "hvac-noisy",
+      "category": "hvac",
+      "name": "AC Noise Issues",
+      "keywords": [
+        "noise",
+        "noisy",
+        "loud",
+        "sound",
+        "quiet"
+      ],
+      "prompt": "Technician diagnosing noisy air conditioning unit in Tucson home, blue uniform, diagnostic tools, focusing on AC outdoor unit, professional troubleshooting",
+      "summary": "AC noise diagnosis",
+      "matchedPosts": []
+    },
+    {
+      "id": "hvac-airflow",
+      "category": "hvac",
+      "name": "Airflow Problems",
+      "keywords": [
+        "airflow",
+        "weak airflow",
+        "circulation",
+        "cooling issues",
+        "not cooling"
+      ],
+      "prompt": "HVAC technician checking air vents and airflow in Tucson home, blue uniform, measuring instruments, professional diagnostic work, modern interior",
+      "summary": "Airflow problem diagnosis",
+      "matchedPosts": [
+        "why-is-my-air-conditioning-unit-not-cooling",
+        "why-is-my-ac-not-cooling-the-ultimate-tucson-homeowners-guid"
+      ]
+    },
+    {
+      "id": "hvac-refrigerant",
+      "category": "hvac",
+      "name": "Refrigerant Service",
+      "keywords": [
+        "refrigerant",
+        "freon",
+        "coolant",
+        "leak",
+        "charge"
+      ],
+      "prompt": "Technician adding refrigerant to AC system in Tucson, blue uniform with flag patch, specialized equipment for refrigerant handling, professional outdoor service",
+      "summary": "Refrigerant service work",
+      "matchedPosts": [
+        "why-is-my-ac-not-cooling"
+      ]
+    },
+    {
+      "id": "hvac-upgrade",
+      "category": "hvac",
+      "name": "HVAC System Upgrade",
+      "keywords": [
+        "upgrade",
+        "replace",
+        "new system",
+        "modernize"
+      ],
+      "prompt": "Side-by-side comparison of old and new HVAC systems in Tucson home with technician, blue uniform, modern efficient equipment, upgrade showcase",
+      "summary": "HVAC system upgrade",
+      "matchedPosts": [
+        "air-conditioner-solutions-by-intelligent-design",
+        "how-much-does-a-new-air-conditioner-cost",
+        "how-come-my-air-conditioning-unit-smells-bad",
+        "what-is-the-average-air-conditioning-service-cost",
+        "discover-the-benefits-of-suntrac-air-conditioning-systems",
+        "schedule-an-air-conditioning-service-in-tucson",
+        "the-importance-of-proper-air-conditioning-installation",
+        "ways-to-keep-your-ac-unit-running-smoothly-this-summer",
+        "air-conditioning-in-tucson-get-cooler-this-summer",
+        "8-tips-for-managing-your-air-conditioning-in-tucson-during-t",
+        "how-to-choose-the-best-air-conditioning-services-in-tucson",
+        "air-conditioning-tucson-the-many-benefits-of-hiring-the-righ",
+        "how-long-should-an-ac-last-in-arizona",
+        "how-often-does-ac-need-to-be-replaced",
+        "crucial-things-to-consider-before-replacing-your-air-conditi",
+        "understanding-the-importance-of-air-conditioning-in-the-tucs",
+        "expert-tips-for-maintaining-your-tucson-air-conditioning-sys",
+        "choosing-the-right-hvac-system-navigating-the-options-when-h",
+        "air-conditioning-tucson-how-to-choose-the-right-air-conditio",
+        "preparing-your-hvac-system-for-summer-essential-steps-for-op",
+        "how-to-fix-your-ac-a-simple-guide-for-everyone",
+        "repair-or-replace-making-the-right-decision-for-hvac-systems",
+        "how-much-does-a-new-ac-unit-cost-in-az",
+        "is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f",
+        "what-are-some-effective-strategies-to-reduce-ac-noise"
+      ]
+    },
+    {
+      "id": "hvac-seasonal",
+      "category": "hvac",
+      "name": "Seasonal Preparation",
+      "keywords": [
+        "seasonal",
+        "prepare",
+        "summer",
+        "spring",
+        "checklist"
+      ],
+      "prompt": "Technician performing seasonal AC preparation in Tucson home, blue uniform, spring maintenance checklist, outdoor unit service, preparation work",
+      "summary": "Seasonal AC preparation",
+      "matchedPosts": [
+        "smart-strategies-to-stay-cool-effective-budget-friendly-tips",
+        "air-conditioning-in-tucson-your-guide-to-a-cool-summer"
+      ]
+    },
+    {
+      "id": "solar-residential",
+      "category": "solar",
+      "name": "Residential Solar Installation",
+      "keywords": [
+        "residential solar",
+        "home solar",
+        "rooftop solar",
+        "solar panels home"
+      ],
+      "prompt": "Solar installation crew in blue uniforms installing solar panels on residential roof in sunny Tucson, modern solar array, professional rooftop work, clear blue sky",
+      "summary": "Residential solar installation",
+      "matchedPosts": [
+        "how-tucsons-monsoon-humidity-impacts-your-central-air-system",
+        "maximizing-solar-efficiency-steps-to-harness-the-suns-power",
+        "serving-tucson-with-excellence-your-one-stop-solution-for-ac"
+      ]
+    },
+    {
+      "id": "solar-commercial",
+      "category": "solar",
+      "name": "Commercial Solar",
+      "keywords": [
+        "commercial solar",
+        "business solar",
+        "industrial solar"
+      ],
+      "prompt": "Large-scale commercial solar panel installation on business building in Tucson, blue-uniformed crew, extensive solar array, professional commercial installation",
+      "summary": "Commercial solar installation",
+      "matchedPosts": [
+        "benefits-of-commercial-solar-energy-systems-to-businesses"
+      ]
+    },
+    {
+      "id": "solar-maintenance",
+      "category": "solar",
+      "name": "Solar Maintenance",
+      "keywords": [
+        "solar maintenance",
+        "solar cleaning",
+        "solar inspection",
+        "panel maintenance"
+      ],
+      "prompt": "Technician performing maintenance on solar panels on Tucson roof, blue uniform with flag patch, cleaning and inspecting panels, sunny Arizona day",
+      "summary": "Solar panel maintenance",
+      "matchedPosts": []
+    },
+    {
+      "id": "solar-battery",
+      "category": "solar",
+      "name": "Solar Battery Storage",
+      "keywords": [
+        "battery",
+        "storage",
+        "backup",
+        "powerwall",
+        "energy storage"
+      ],
+      "prompt": "Technician installing solar battery storage system in Tucson home garage, blue uniform, modern battery unit, professional electrical work, energy independence",
+      "summary": "Solar battery installation",
+      "matchedPosts": []
+    },
+    {
+      "id": "solar-savings",
+      "category": "solar",
+      "name": "Solar Cost Savings",
+      "keywords": [
+        "cost",
+        "savings",
+        "roi",
+        "price",
+        "investment",
+        "worth"
+      ],
+      "prompt": "Modern solar panels on Tucson home rooftop with beautiful sunset, professional installation, energy savings concept, residential neighborhood visible",
+      "summary": "Solar panel cost savings",
+      "matchedPosts": [
+        "the-many-benefits-of-solar-energy",
+        "signs-you-need-solar-panel-installers",
+        "top-qualifications-to-look-for-in-your-upcoming-solar-panel-",
+        "solar-power-systems-made-simple-how-solar-panels-work",
+        "what-you-need-to-know-about-hiring-solar-panel-installers",
+        "the-financial-impact-of-solar-energy",
+        "why-solar-panel-installers-matter-solar-energy-facts-people-",
+        "things-you-need-to-know-before-installing-a-solar-power-syst",
+        "why-take-advantage-of-solar-energy",
+        "solar-power-systems-a-quick-guide-to-going-solar",
+        "why-you-should-start-using-solar-power-systems-now",
+        "why-is-solar-energy-important-for-our-future",
+        "how-solar-panel-installers-can-save-you-money",
+        "what-do-solar-panel-installers-do",
+        "planning-for-long-term-maintenance-of-solar-power-systems",
+        "types-of-services-offered-by-an-expert-solar-panel-installer",
+        "how-does-solar-energy-work",
+        "how-to-identify-the-top-solar-panel-installers-near-you",
+        "solar-power-system-advantages-and-disadvantages",
+        "what-are-the-financial-benefits-of-solar-energy",
+        "steps-to-take-when-choosing-a-solar-panel-installer",
+        "the-environmental-benefits-of-solar-power-systems",
+        "ways-to-maximize-your-solar-energy-savings",
+        "common-mistakes-to-avoid-when-hiring-a-solar-panel-installer",
+        "why-local-solar-panel-installers-are-a-smart-choice",
+        "understanding-the-functionality-of-solar-power-systems",
+        "solar-myths-vs-facts-dispelling-common-misconceptions",
+        "why-solar-energy-is-the-best-source-of-energy",
+        "how-solar-power-systems-enhance-your-homes-value-and-resale",
+        "solar-panel-efficiency-a-comprehensive-guide",
+        "benefits-of-hiring-professional-solar-panel-installers",
+        "3-types-of-solar-power-systems-which-one-is-right-for-you",
+        "uses-of-solar-energy-the-ultimate-guide-for-home-and-busines",
+        "important-questions-to-ask-solar-panel-installers-before-hir",
+        "the-importance-of-whole-home-solar-systems-during-power-outa",
+        "what-to-do-if-your-solar-company-closed-in-tucson",
+        "what-is-an-off-grid-solar-power-system",
+        "intelligent-design-solar-plumbing-air-offers-lowest-cost-wat",
+        "intelligent-design-air-conditioning-expands-services-with-co",
+        "preparing-the-home-for-summer-essential-tips-from-intelligen"
+      ]
+    },
+    {
+      "id": "solar-tax",
+      "category": "solar",
+      "name": "Solar Tax Credits",
+      "keywords": [
+        "tax credit",
+        "incentive",
+        "rebate",
+        "itc",
+        "federal credit"
+      ],
+      "prompt": "Beautiful solar installation on Tucson home with financial documents overlay concept, blue sky, professional solar array, investment benefit visualization",
+      "summary": "Solar tax credit benefits",
+      "matchedPosts": []
+    },
+    {
+      "id": "solar-audit",
+      "category": "solar",
+      "name": "Home Energy Audit",
+      "keywords": [
+        "energy audit",
+        "assessment",
+        "evaluation",
+        "solar assessment"
+      ],
+      "prompt": "Energy auditor with tablet examining Tucson home for solar potential, blue uniform, professional assessment, rooftop evaluation, modern technology",
+      "summary": "Home energy audit service",
+      "matchedPosts": []
+    },
+    {
+      "id": "solar-hvac",
+      "category": "solar",
+      "name": "Solar-Powered HVAC",
+      "keywords": [
+        "solar ac",
+        "solar hvac",
+        "solar powered",
+        "solar cooling"
+      ],
+      "prompt": "Solar panels on roof powering modern AC unit in Tucson home, integrated system, blue-uniformed technician, sustainable energy solution, sunny day",
+      "summary": "Solar powered AC system",
+      "matchedPosts": []
+    },
+    {
+      "id": "solar-monitoring",
+      "category": "solar",
+      "name": "Solar Monitoring",
+      "keywords": [
+        "monitoring",
+        "tracking",
+        "performance",
+        "production",
+        "app"
+      ],
+      "prompt": "Homeowner and technician reviewing solar system performance on tablet in Tucson, blue uniform, monitoring dashboard visible, modern solar panels background",
+      "summary": "Solar system monitoring",
+      "matchedPosts": [
+        "what-to-do-solar-company-closed-tucson",
+        "13-uses-solar-energy-guide"
+      ]
+    },
+    {
+      "id": "solar-repair",
+      "category": "solar",
+      "name": "Solar Repair",
+      "keywords": [
+        "solar repair",
+        "solar fix",
+        "panel repair",
+        "inverter repair"
+      ],
+      "prompt": "Technician repairing solar panel system on Tucson roof, blue uniform with flag patch, diagnostic equipment, professional solar repair work, sunny day",
+      "summary": "Solar panel repair service",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-drain",
+      "category": "plumbing",
+      "name": "Drain Cleaning",
+      "keywords": [
+        "drain",
+        "clog",
+        "unclog",
+        "drain cleaning",
+        "blocked drain"
+      ],
+      "prompt": "Plumber in blue uniform using professional drain cleaning equipment in Tucson home, snake tool visible, sink or drain work, clean modern bathroom",
+      "summary": "Drain cleaning service",
+      "matchedPosts": [
+        "intelligent-design-moon-plumbing",
+        "intelligent-design-moon-plumbing-60",
+        "how-to-choose-the-best-plumber-in-tucson",
+        "the-importance-of-drain-cleaning-maintenance",
+        "9-warning-signs-you-need-a-drain-cleaning-service",
+        "the-ultimate-guide-to-drain-cleaning",
+        "tips-for-choosing-the-right-drain-cleaning-company",
+        "the-importance-of-hiring-the-right-drain-cleaning-company",
+        "why-drain-cleaning-is-essential-for-businesses-keep-your-fac",
+        "ways-plumbers-in-tucson-can-help-you-unclog-drains",
+        "why-drain-cleaning-is-important",
+        "why-you-shouldnt-overlook-drain-cleaning",
+        "reasons-why-home-owners-need-residential-drain-cleaning",
+        "how-professional-plumbers-perform-drain-cleaning",
+        "top-drain-cleaning-tools-you-need",
+        "should-you-diy-or-hire-a-professional-for-drain-cleaning",
+        "drain-cleaning-solutions-that-actually-work",
+        "common-drain-cleaning-mistakes-you-must-avoid",
+        "the-hidden-dangers-of-neglecting-drain-cleaning",
+        "drain-snakes-your-must-have-tool-for-efficient-drain-cleanin"
+      ]
+    },
+    {
+      "id": "plumbing-waterheater",
+      "category": "plumbing",
+      "name": "Water Heater Service",
+      "keywords": [
+        "water heater",
+        "hot water",
+        "tankless",
+        "water heating"
+      ],
+      "prompt": "Plumber servicing residential water heater in Tucson home garage, blue uniform with flag patch, modern tank or tankless unit, professional installation",
+      "summary": "Water heater repair service",
+      "matchedPosts": [
+        "do-i-need-a-permit-to-install-a-new-water-heater",
+        "discover-the-benefits-of-tankless-water-heaters",
+        "who-to-call-for-water-heater-repair"
+      ]
+    },
+    {
+      "id": "plumbing-leak",
+      "category": "plumbing",
+      "name": "Leak Detection",
+      "keywords": [
+        "leak",
+        "leak detection",
+        "water leak",
+        "pipe leak",
+        "leaking"
+      ],
+      "prompt": "Plumber using advanced leak detection equipment in Tucson home, blue uniform, thermal imaging or moisture meter, professional diagnostic technology",
+      "summary": "Leak detection service",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-repipe",
+      "category": "plumbing",
+      "name": "Repiping Service",
+      "keywords": [
+        "repipe",
+        "repiping",
+        "pipe replacement",
+        "new pipes"
+      ],
+      "prompt": "Plumbers installing new copper or PEX piping in Tucson home, blue uniforms, exposed plumbing work, professional repiping project, modern materials",
+      "summary": "Home repiping service",
+      "matchedPosts": [
+        "what-are-the-most-common-plumbing-issues-in-homes",
+        "is-it-safe-to-use-chemical-drain-cleaners",
+        "plumbers-tucson-tips-for-avoiding-costly-plumbing-repairs",
+        "why-is-my-toilet-running-and-other-popular-plumbing-question",
+        "the-leading-choice-for-pipe-lining-in-tucson",
+        "plumbing-emergencies-you-should-never-ignore-in-plumbers-tuc",
+        "plumbers-tucson-the-importance-of-plumbing-inspection",
+        "the-benefits-of-choosing-local-plumbers-in-tucson",
+        "the-importance-of-hiring-the-right-drain-company",
+        "the-importance-of-having-a-reliable-plumber-in-tucson",
+        "how-plumbers-in-tucson-can-help-business-owners",
+        "plumber-tucson-10-signs-you-need-a-professional-plumber",
+        "the-many-ways-plumbers-in-tucson-can-help",
+        "top-services-that-plumbers-tucson-can-provide",
+        "repiping-how-its-different-from-pipe-repair-and-why-you-may-",
+        "how-to-find-licensed-and-experienced-plumbers-in-tucson",
+        "advantages-of-using-local-plumbers-in-tucson",
+        "key-questions-to-ask-before-hiring-a-plumber-in-tucson",
+        "how-to-make-your-own-drain-cleaner-at-home",
+        "the-importance-of-regular-maintenance-with-a-professional-pl",
+        "the-crucial-role-of-plumbing-inspections-and-water-testing-b",
+        "mastering-winter-pipe-protection-in-freezing-weather"
+      ]
+    },
+    {
+      "id": "plumbing-emergency",
+      "category": "plumbing",
+      "name": "Emergency Plumbing",
+      "keywords": [
+        "emergency",
+        "urgent",
+        "plumbing emergency",
+        "24/7"
+      ],
+      "prompt": "Plumber responding to emergency call in Tucson home, blue uniform, urgent professional response, plumbing tools ready, quick action service",
+      "summary": "Emergency plumbing service",
+      "matchedPosts": [
+        "how-plumbers-in-tucson-can-help-you-deal-with-a-plumbing-eme"
+      ]
+    },
+    {
+      "id": "plumbing-sewer",
+      "category": "plumbing",
+      "name": "Sewer Service",
+      "keywords": [
+        "sewer",
+        "sewer line",
+        "main line",
+        "sewer repair"
+      ],
+      "prompt": "Plumber using sewer camera inspection equipment in Tucson, blue uniform, professional sewer line diagnostic, underground pipe inspection technology",
+      "summary": "Sewer line inspection",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-fixture",
+      "category": "plumbing",
+      "name": "Fixture Installation",
+      "keywords": [
+        "fixture",
+        "toilet",
+        "sink",
+        "faucet",
+        "shower",
+        "tub"
+      ],
+      "prompt": "Plumber installing modern bathroom fixture in Tucson home, blue uniform with flag patch, new faucet or toilet, clean bathroom, professional installation",
+      "summary": "Fixture installation service",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-water-quality",
+      "category": "plumbing",
+      "name": "Water Filtration",
+      "keywords": [
+        "water filter",
+        "filtration",
+        "purification",
+        "water softener",
+        "water quality"
+      ],
+      "prompt": "Plumber installing whole-home water filtration system in Tucson, blue uniform, modern filtration equipment, clean installation, water quality focus",
+      "summary": "Water filtration installation",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-gas",
+      "category": "plumbing",
+      "name": "Gas Line Service",
+      "keywords": [
+        "gas line",
+        "gas",
+        "natural gas",
+        "gas piping"
+      ],
+      "prompt": "Licensed plumber working on gas line installation in Tucson home, blue uniform, professional gas pipe work, safety focus, outdoor meter visible",
+      "summary": "Gas line service",
+      "matchedPosts": []
+    },
+    {
+      "id": "plumbing-backflow",
+      "category": "plumbing",
+      "name": "Backflow Prevention",
+      "keywords": [
+        "backflow",
+        "prevention",
+        "testing",
+        "backflow preventer"
+      ],
+      "prompt": "Plumber testing backflow prevention device in Tucson, blue uniform with flag patch, professional testing equipment, outdoor installation, safety compliance",
+      "summary": "Backflow prevention testing",
+      "matchedPosts": [
+        "winter-pipe-protection-freezing-weather"
+      ]
+    },
+    {
+      "id": "tips-energy",
+      "category": "home-tips",
+      "name": "Energy Saving Tips",
+      "keywords": [
+        "energy",
+        "save energy",
+        "efficiency",
+        "reduce costs",
+        "lower bills"
+      ],
+      "prompt": "Modern energy-efficient Tucson home interior showing smart thermostat, LED lights, and efficient appliances, clean contemporary design, energy savings concept",
+      "summary": "Energy saving tips",
+      "matchedPosts": [
+        "what-to-expect-when-repiping-your-home",
+        "intelligentdesign-heart-forever-60",
+        "why-repiping-your-home-is-essential",
+        "how-to-find-reputable-repiping-contractors-the-factors-to-co",
+        "troubleshooting-common-issues-during-or-after-a-repiping-pro",
+        "what-is-involved-in-repiping-a-house",
+        "the-best-materials-for-repiping-a-home",
+        "common-repiping-mistakes-and-how-to-avoid-them",
+        "copper-vs-pex-choosing-the-right-material-for-repiping",
+        "comprehensive-home-services-in-marana-more-than-just-a-busin",
+        "hey-saddlebrook-weve-got-your-home-covered",
+        "casa-grande-elevate-your-living-experience-with-intelligent-",
+        "casas-adobes-experience-home-like-never-before-with-intellig",
+        "rita-ranch-elevate-your-home-life-with-intelligent-design",
+        "sahuarita-were-here-to-make-your-home-awesome",
+        "serving-catalina-arizona-more-than-just-home-services-its-ab",
+        "intelligent-design-catalina-foothills-premier-choice-for-hom",
+        "your-neighborhood-partner-in-picture-rocks-intelligent-desig",
+        "intelligent-design-were-not-just-in-your-neighborhood-were-p",
+        "serving-the-three-points-community-more-than-just-home-servi",
+        "comprehensive-home-services-in-tortolita-more-than-just-a-bu",
+        "intelligent-design-your-go-to-home-service-provider-in-avra-",
+        "intelligent-design-your-trusted-home-service-provider-in-sum",
+        "intelligent-design-your-home-service-partner-in-rillito-ariz",
+        "intelligent-design-elevating-tanque-verdes-home-experience",
+        "comprehensive-home-services-in-oro-valley-more-than-just-a-b",
+        "is-a-burning-smell-normal-when-i-turn-on-the-heater",
+        "does-turning-off-your-ac-when-youre-not-home-actually-save-m",
+        "intelligent-design-serving-the-littletown-community-with-unm",
+        "blogs",
+        "spotlight-on-the-indoor-air-purifier",
+        "top-10-reasons-move-to-tucson",
+        "preparing-home-for-summer-tucson"
+      ]
+    },
+    {
+      "id": "tips-maintenance",
+      "category": "home-tips",
+      "name": "Home Maintenance",
+      "keywords": [
+        "maintenance",
+        "care",
+        "upkeep",
+        "prevent",
+        "checklist"
+      ],
+      "prompt": "Homeowner performing routine home maintenance tasks in Tucson, modern interior, maintenance checklist visible, preventive care, organized home care",
+      "summary": "Home maintenance tips",
+      "matchedPosts": []
+    },
+    {
+      "id": "tips-seasonal",
+      "category": "home-tips",
+      "name": "Seasonal Home Prep",
+      "keywords": [
+        "seasonal",
+        "prepare",
+        "summer",
+        "winter",
+        "monsoon"
+      ],
+      "prompt": "Tucson home prepared for seasonal changes, weatherproofing visible, modern exterior, seasonal preparation, Arizona climate focus, professional appearance",
+      "summary": "Seasonal home preparation",
+      "matchedPosts": []
+    },
+    {
+      "id": "tips-diy",
+      "category": "home-tips",
+      "name": "DIY vs Professional",
+      "keywords": [
+        "diy",
+        "yourself",
+        "professional",
+        "when to call"
+      ],
+      "prompt": "Split scene showing DIY home project vs professional technician in blue uniform in Tucson home, comparison concept, decision-making visualization",
+      "summary": "DIY vs professional help",
+      "matchedPosts": [
+        "why-does-a-repiping-project-need-professional-help"
+      ]
+    },
+    {
+      "id": "tips-water",
+      "category": "home-tips",
+      "name": "Water Conservation",
+      "keywords": [
+        "water",
+        "conservation",
+        "save water",
+        "drought",
+        "arizona water"
+      ],
+      "prompt": "Water-efficient fixtures and systems in modern Tucson home, conservation technology, desert landscaping visible through window, sustainability focus",
+      "summary": "Water conservation tips",
+      "matchedPosts": [
+        "why-every-home-needs-water-filtration-a-must-read-guide",
+        "how-repiping-can-improve-your-homes-water-quality",
+        "maximizing-energy-conservation-with-smart-thermostats",
+        "why-you-should-invest-in-water-leak-detection-services"
+      ]
+    },
+    {
+      "id": "tips-comfort",
+      "category": "home-tips",
+      "name": "Home Comfort",
+      "keywords": [
+        "comfort",
+        "indoor comfort",
+        "temperature",
+        "air quality",
+        "healthy home"
+      ],
+      "prompt": "Comfortable modern Tucson home interior with family, good air quality and temperature control visible, cozy professional setting, healthy home environment",
+      "summary": "Home comfort improvement",
+      "matchedPosts": [
+        "red-rock-unlock-a-new-level-of-home-comfort-with-intelligent",
+        "intelligent-design-your-partner-in-home-comfort-in-drexel-he",
+        "intelligent-design-pioneering-home-comfort-in-tucson-estates",
+        "intelligent-design-elevating-drexel-alvernons-home-comforts-",
+        "the-impact-of-indoor-air-quality-on-your-health-and-comfort"
+      ]
+    },
+    {
+      "id": "roofing-repair",
+      "category": "roofing",
+      "name": "Roof Repair",
+      "keywords": [
+        "roof repair",
+        "roofing",
+        "leak repair",
+        "roof damage"
+      ],
+      "prompt": "Roofing crew in blue uniforms repairing residential roof in Tucson, professional roof work, safety equipment, tile or shingle repair, sunny Arizona day",
+      "summary": "Roof repair Tucson",
+      "matchedPosts": [
+        "foolproof-ways-to-avoid-ac-repair-this-season",
+        "preparing-roof-for-spring-storms"
+      ]
+    },
+    {
+      "id": "roofing-install",
+      "category": "roofing",
+      "name": "Roof Installation",
+      "keywords": [
+        "roof installation",
+        "new roof",
+        "roof replacement",
+        "reroof"
+      ],
+      "prompt": "Professional roofing team installing new roof on Tucson home, blue uniforms with flag patches, modern roofing materials, large-scale installation project",
+      "summary": "Roof installation service",
+      "matchedPosts": []
+    },
+    {
+      "id": "electrical-service",
+      "category": "electrical",
+      "name": "Electrical Service",
+      "keywords": [
+        "electrical",
+        "electrician",
+        "wiring",
+        "electric"
+      ],
+      "prompt": "Licensed electrician in blue uniform with flag patch working on electrical panel in Tucson home, professional electrical work, modern circuit breaker, safety focus",
+      "summary": "Electrical service work",
+      "matchedPosts": [
+        "does-air-conditioning-use-gas-or-electricity"
+      ]
+    },
+    {
+      "id": "electrical-generator",
+      "category": "electrical",
+      "name": "Generator Installation",
+      "keywords": [
+        "generator",
+        "generac",
+        "backup power",
+        "standby"
+      ],
+      "prompt": "Electrician installing GENERAC backup generator at Tucson home, blue uniform, professional generator installation, modern standby power unit, outdoor installation",
+      "summary": "Generator installation service",
+      "matchedPosts": []
+    }
+  ],
+  "postToThemeMap": {
+    "what-to-expect-when-repiping-your-home": "tips-energy",
+    "intelligentdesign-heart-forever-60": "tips-energy",
+    "why-repiping-your-home-is-essential": "tips-energy",
+    "why-does-a-repiping-project-need-professional-help": "tips-diy",
+    "how-to-find-reputable-repiping-contractors-the-factors-to-co": "tips-energy",
+    "troubleshooting-common-issues-during-or-after-a-repiping-pro": "tips-energy",
+    "what-is-involved-in-repiping-a-house": "tips-energy",
+    "the-best-materials-for-repiping-a-home": "tips-energy",
+    "common-repiping-mistakes-and-how-to-avoid-them": "tips-energy",
+    "copper-vs-pex-choosing-the-right-material-for-repiping": "tips-energy",
+    "comprehensive-home-services-in-marana-more-than-just-a-busin": "tips-energy",
+    "why-every-home-needs-water-filtration-a-must-read-guide": "tips-water",
+    "how-tucsons-monsoon-humidity-impacts-your-central-air-system": "solar-residential",
+    "hey-saddlebrook-weve-got-your-home-covered": "tips-energy",
+    "how-repiping-can-improve-your-homes-water-quality": "tips-water",
+    "casa-grande-elevate-your-living-experience-with-intelligent-": "tips-energy",
+    "casas-adobes-experience-home-like-never-before-with-intellig": "tips-energy",
+    "rita-ranch-elevate-your-home-life-with-intelligent-design": "tips-energy",
+    "sahuarita-were-here-to-make-your-home-awesome": "tips-energy",
+    "red-rock-unlock-a-new-level-of-home-comfort-with-intelligent": "tips-comfort",
+    "serving-catalina-arizona-more-than-just-home-services-its-ab": "tips-energy",
+    "intelligent-design-catalina-foothills-premier-choice-for-hom": "tips-energy",
+    "intelligent-design-your-partner-in-home-comfort-in-drexel-he": "tips-comfort",
+    "intelligent-design-pioneering-home-comfort-in-tucson-estates": "tips-comfort",
+    "your-neighborhood-partner-in-picture-rocks-intelligent-desig": "tips-energy",
+    "intelligent-design-were-not-just-in-your-neighborhood-were-p": "tips-energy",
+    "serving-the-three-points-community-more-than-just-home-servi": "tips-energy",
+    "comprehensive-home-services-in-tortolita-more-than-just-a-bu": "tips-energy",
+    "intelligent-design-your-go-to-home-service-provider-in-avra-": "tips-energy",
+    "intelligent-design-your-trusted-home-service-provider-in-sum": "tips-energy",
+    "intelligent-design-your-home-service-partner-in-rillito-ariz": "tips-energy",
+    "intelligent-design-elevating-tanque-verdes-home-experience": "tips-energy",
+    "intelligent-design-elevating-drexel-alvernons-home-comforts-": "tips-comfort",
+    "comprehensive-home-services-in-oro-valley-more-than-just-a-b": "tips-energy",
+    "is-a-burning-smell-normal-when-i-turn-on-the-heater": "tips-energy",
+    "smart-strategies-to-stay-cool-effective-budget-friendly-tips": "hvac-seasonal",
+    "maximizing-energy-conservation-with-smart-thermostats": "tips-water",
+    "does-turning-off-your-ac-when-youre-not-home-actually-save-m": "tips-energy",
+    "optimizing-air-conditioner-use-in-summer-best-practices-and-": "hvac-thermostat",
+    "air-conditioner-solutions-by-intelligent-design": "hvac-upgrade",
+    "how-much-does-a-new-air-conditioner-cost": "hvac-upgrade",
+    "intelligent-design-serving-the-littletown-community-with-unm": "tips-energy",
+    "blogs": "tips-energy",
+    "what-are-the-most-common-plumbing-issues-in-homes": "plumbing-repipe",
+    "is-it-safe-to-use-chemical-drain-cleaners": "plumbing-repipe",
+    "do-i-need-a-permit-to-install-a-new-water-heater": "plumbing-waterheater",
+    "discover-the-benefits-of-tankless-water-heaters": "plumbing-waterheater",
+    "why-you-should-invest-in-water-leak-detection-services": "tips-water",
+    "intelligent-design-moon-plumbing": "plumbing-drain",
+    "intelligent-design-moon-plumbing-60": "plumbing-drain",
+    "who-to-call-for-water-heater-repair": "plumbing-waterheater",
+    "plumbers-tucson-tips-for-avoiding-costly-plumbing-repairs": "plumbing-repipe",
+    "how-to-choose-the-best-plumber-in-tucson": "plumbing-drain",
+    "the-importance-of-drain-cleaning-maintenance": "plumbing-drain",
+    "why-is-my-toilet-running-and-other-popular-plumbing-question": "plumbing-repipe",
+    "9-warning-signs-you-need-a-drain-cleaning-service": "plumbing-drain",
+    "the-ultimate-guide-to-drain-cleaning": "plumbing-drain",
+    "the-leading-choice-for-pipe-lining-in-tucson": "plumbing-repipe",
+    "plumbing-emergencies-you-should-never-ignore-in-plumbers-tuc": "plumbing-repipe",
+    "plumbers-tucson-the-importance-of-plumbing-inspection": "plumbing-repipe",
+    "the-benefits-of-choosing-local-plumbers-in-tucson": "plumbing-repipe",
+    "tips-for-choosing-the-right-drain-cleaning-company": "plumbing-drain",
+    "the-importance-of-hiring-the-right-drain-cleaning-company": "plumbing-drain",
+    "the-importance-of-hiring-the-right-drain-company": "plumbing-repipe",
+    "the-importance-of-having-a-reliable-plumber-in-tucson": "plumbing-repipe",
+    "why-drain-cleaning-is-essential-for-businesses-keep-your-fac": "plumbing-drain",
+    "how-plumbers-in-tucson-can-help-business-owners": "plumbing-repipe",
+    "ways-plumbers-in-tucson-can-help-you-unclog-drains": "plumbing-drain",
+    "why-drain-cleaning-is-important": "plumbing-drain",
+    "plumber-tucson-10-signs-you-need-a-professional-plumber": "plumbing-repipe",
+    "why-you-shouldnt-overlook-drain-cleaning": "plumbing-drain",
+    "the-many-ways-plumbers-in-tucson-can-help": "plumbing-repipe",
+    "reasons-why-home-owners-need-residential-drain-cleaning": "plumbing-drain",
+    "how-professional-plumbers-perform-drain-cleaning": "plumbing-drain",
+    "top-services-that-plumbers-tucson-can-provide": "plumbing-repipe",
+    "repiping-how-its-different-from-pipe-repair-and-why-you-may-": "plumbing-repipe",
+    "top-drain-cleaning-tools-you-need": "plumbing-drain",
+    "how-to-find-licensed-and-experienced-plumbers-in-tucson": "plumbing-repipe",
+    "how-plumbers-in-tucson-can-help-you-deal-with-a-plumbing-eme": "plumbing-emergency",
+    "should-you-diy-or-hire-a-professional-for-drain-cleaning": "plumbing-drain",
+    "advantages-of-using-local-plumbers-in-tucson": "plumbing-repipe",
+    "key-questions-to-ask-before-hiring-a-plumber-in-tucson": "plumbing-repipe",
+    "how-to-make-your-own-drain-cleaner-at-home": "plumbing-repipe",
+    "the-importance-of-regular-maintenance-with-a-professional-pl": "plumbing-repipe",
+    "drain-cleaning-solutions-that-actually-work": "plumbing-drain",
+    "common-drain-cleaning-mistakes-you-must-avoid": "plumbing-drain",
+    "the-hidden-dangers-of-neglecting-drain-cleaning": "plumbing-drain",
+    "the-crucial-role-of-plumbing-inspections-and-water-testing-b": "plumbing-repipe",
+    "mastering-winter-pipe-protection-in-freezing-weather": "plumbing-repipe",
+    "drain-snakes-your-must-have-tool-for-efficient-drain-cleanin": "plumbing-drain",
+    "the-many-benefits-of-solar-energy": "solar-savings",
+    "signs-you-need-solar-panel-installers": "solar-savings",
+    "top-qualifications-to-look-for-in-your-upcoming-solar-panel-": "solar-savings",
+    "solar-power-systems-made-simple-how-solar-panels-work": "solar-savings",
+    "what-you-need-to-know-about-hiring-solar-panel-installers": "solar-savings",
+    "the-financial-impact-of-solar-energy": "solar-savings",
+    "why-solar-panel-installers-matter-solar-energy-facts-people-": "solar-savings",
+    "benefits-of-commercial-solar-energy-systems-to-businesses": "solar-commercial",
+    "things-you-need-to-know-before-installing-a-solar-power-syst": "solar-savings",
+    "why-take-advantage-of-solar-energy": "solar-savings",
+    "solar-power-systems-a-quick-guide-to-going-solar": "solar-savings",
+    "why-you-should-start-using-solar-power-systems-now": "solar-savings",
+    "why-is-solar-energy-important-for-our-future": "solar-savings",
+    "how-solar-panel-installers-can-save-you-money": "solar-savings",
+    "what-do-solar-panel-installers-do": "solar-savings",
+    "planning-for-long-term-maintenance-of-solar-power-systems": "solar-savings",
+    "types-of-services-offered-by-an-expert-solar-panel-installer": "solar-savings",
+    "how-does-solar-energy-work": "solar-savings",
+    "how-to-identify-the-top-solar-panel-installers-near-you": "solar-savings",
+    "solar-power-system-advantages-and-disadvantages": "solar-savings",
+    "what-are-the-financial-benefits-of-solar-energy": "solar-savings",
+    "steps-to-take-when-choosing-a-solar-panel-installer": "solar-savings",
+    "the-environmental-benefits-of-solar-power-systems": "solar-savings",
+    "ways-to-maximize-your-solar-energy-savings": "solar-savings",
+    "common-mistakes-to-avoid-when-hiring-a-solar-panel-installer": "solar-savings",
+    "why-local-solar-panel-installers-are-a-smart-choice": "solar-savings",
+    "understanding-the-functionality-of-solar-power-systems": "solar-savings",
+    "solar-myths-vs-facts-dispelling-common-misconceptions": "solar-savings",
+    "why-solar-energy-is-the-best-source-of-energy": "solar-savings",
+    "how-solar-power-systems-enhance-your-homes-value-and-resale": "solar-savings",
+    "solar-panel-efficiency-a-comprehensive-guide": "solar-savings",
+    "maximizing-solar-efficiency-steps-to-harness-the-suns-power": "solar-residential",
+    "benefits-of-hiring-professional-solar-panel-installers": "solar-savings",
+    "3-types-of-solar-power-systems-which-one-is-right-for-you": "solar-savings",
+    "uses-of-solar-energy-the-ultimate-guide-for-home-and-busines": "solar-savings",
+    "important-questions-to-ask-solar-panel-installers-before-hir": "solar-savings",
+    "the-importance-of-whole-home-solar-systems-during-power-outa": "solar-savings",
+    "what-to-do-if-your-solar-company-closed-in-tucson": "solar-savings",
+    "what-is-an-off-grid-solar-power-system": "solar-savings",
+    "intelligent-design-solar-plumbing-air-offers-lowest-cost-wat": "solar-savings",
+    "90-of-arizona-ac-systems-have-an-installation-flaw": "hvac-ac-repair",
+    "how-much-does-it-cost-to-install-central-air-conditioning": "hvac-ac-repair",
+    "what-kind-of-air-conditioning-preventive-maintenance-do-i-ne": "hvac-maintenance",
+    "are-there-any-health-benefits-of-air-conditioning": "hvac-ac-repair",
+    "how-do-i-choose-an-air-conditioning-unit": "hvac-ac-repair",
+    "how-come-my-air-conditioning-unit-smells-bad": "hvac-upgrade",
+    "what-is-the-average-air-conditioning-service-cost": "hvac-upgrade",
+    "what-is-the-cost-of-running-fans-vs-air-conditioning": "hvac-ac-repair",
+    "are-there-any-known-air-conditioning-health-risks": "hvac-ac-repair",
+    "does-air-conditioning-use-gas-or-electricity": "electrical-service",
+    "spotlight-on-the-indoor-air-purifier": "tips-energy",
+    "discover-the-benefits-of-suntrac-air-conditioning-systems": "hvac-upgrade",
+    "schedule-an-air-conditioning-service-in-tucson": "hvac-upgrade",
+    "why-is-my-air-conditioning-unit-not-cooling": "hvac-airflow",
+    "the-importance-of-proper-air-conditioning-installation": "hvac-upgrade",
+    "our-emergency-hvac-services-taking-precautions-during-the-pa": "hvac-maintenance",
+    "the-importance-of-proper-ac-installation-tucson": "hvac-ac-install",
+    "ways-to-keep-your-ac-unit-running-smoothly-this-summer": "hvac-upgrade",
+    "what-is-the-most-efficient-way-to-run-air-conditioning": "hvac-ac-repair",
+    "signs-you-need-to-call-for-ac-repair": "hvac-ac-repair",
+    "10-reasons-you-should-always-call-an-ac-repair-specialist": "hvac-ac-repair",
+    "ac-replacement-why-its-important-and-how-to-do-it": "hvac-ac-install",
+    "top-10-benefits-of-ac-replacement-for-your-home": "hvac-ac-install",
+    "how-ac-repair-can-actually-save-you-money": "hvac-ac-repair",
+    "air-conditioning-in-tucson-get-cooler-this-summer": "hvac-upgrade",
+    "common-ac-problems-that-only-a-professional-ac-repair-can-fi": "hvac-ac-repair",
+    "out-with-the-old-in-with-the-new-is-ac-replacement-the-one-f": "hvac-ac-install",
+    "air-conditioning-in-tucson-your-guide-to-a-cool-summer": "hvac-seasonal",
+    "10-facts-about-ac-replacement-everyone-should-know": "hvac-ac-install",
+    "8-tips-for-managing-your-air-conditioning-in-tucson-during-t": "hvac-upgrade",
+    "how-to-choose-the-best-air-conditioning-services-in-tucson": "hvac-upgrade",
+    "how-to-choose-the-right-ac-repair-company": "hvac-ac-repair",
+    "questions-to-ask-when-getting-quotes-for-ac-replacement-in-t": "hvac-ac-install",
+    "how-to-choose-the-best-ac-replacement-system-for-your-home": "hvac-ac-install",
+    "ac-replacement-when-to-replace-your-commercial-ac-unit": "hvac-ac-install",
+    "air-conditioning-in-tucson-maintenance-tips-for-businesses": "hvac-commercial",
+    "how-professional-hvac-technicians-perform-ac-replacement": "hvac-ac-install",
+    "tips-to-save-money-on-your-ac-repair-cost": "hvac-ac-repair",
+    "the-importance-and-benefits-of-hiring-an-ac-repair-specialis": "hvac-ac-repair",
+    "how-to-determine-if-its-time-for-an-ac-replacement": "hvac-ac-install",
+    "air-conditioning-tucson-the-many-benefits-of-hiring-the-righ": "hvac-upgrade",
+    "central-air-conditioning-system-in-tucson-how-to-improve-you": "hvac-airquality",
+    "foolproof-ways-to-avoid-ac-repair-this-season": "roofing-repair",
+    "air-conditioning-in-tucson-how-can-you-save-money-by-maximiz": "hvac-energy",
+    "helpful-tips-to-avoid-ac-replacement": "hvac-ac-install",
+    "tips-for-your-home-ac-replacement": "hvac-ac-install",
+    "what-to-expect-during-and-after-ac-repair": "hvac-ac-repair",
+    "when-to-call-for-ac-repair": "hvac-ac-repair",
+    "top-signs-you-need-ac-replacement-for-your-business": "hvac-ac-install",
+    "why-consider-professional-ac-replacement-over-diy": "hvac-ac-install",
+    "how-long-should-an-ac-last-in-arizona": "hvac-upgrade",
+    "most-common-ac-repair-and-what-to-expect": "hvac-ac-repair",
+    "everything-you-need-to-know-about-the-advanced-hvac-solution": "hvac-ac-repair",
+    "tips-for-finding-the-right-ac-repair-technician": "hvac-ac-repair",
+    "air-conditioning-tucson-why-you-need-one-for-your-home": "hvac-ac-repair",
+    "how-often-does-ac-need-to-be-replaced": "hvac-upgrade",
+    "how-to-know-when-to-diy-ac-repair-and-when-to-call-the-pros": "hvac-ac-repair",
+    "diy-guide-to-basic-ac-repairs": "hvac-ac-repair",
+    "why-choose-intelligent-design-team-for-your-ac-replacement-n": "hvac-ac-install",
+    "top-questions-to-ask-your-ac-repair-technician": "hvac-ac-repair",
+    "the-ultimate-guide-to-hvac-maintenance-in-tucson-az": "hvac-maintenance",
+    "the-importance-of-super-cooling-for-hvac-efficiency-in-the-s": "hvac-energy",
+    "crucial-things-to-consider-before-replacing-your-air-conditi": "hvac-upgrade",
+    "understanding-the-importance-of-air-conditioning-in-the-tucs": "hvac-upgrade",
+    "expert-tips-for-maintaining-your-tucson-air-conditioning-sys": "hvac-upgrade",
+    "whats-the-cost-of-ac-installation-in-tucson": "hvac-ac-install",
+    "air-conditioning-tucson-tips-to-lower-energy-bills-and-save-": "hvac-ac-repair",
+    "serving-tucson-with-excellence-your-one-stop-solution-for-ac": "solar-residential",
+    "choosing-the-right-hvac-system-navigating-the-options-when-h": "hvac-upgrade",
+    "air-conditioning-tucson-how-to-choose-the-right-air-conditio": "hvac-upgrade",
+    "choosing-the-best-ac-repair-near-me-essential-tips-for-findi": "hvac-ac-repair",
+    "preparing-your-hvac-system-for-summer-essential-steps-for-op": "hvac-upgrade",
+    "how-to-fix-your-ac-a-simple-guide-for-everyone": "hvac-upgrade",
+    "repair-or-replace-making-the-right-decision-for-hvac-systems": "hvac-upgrade",
+    "ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs": "hvac-ac-repair",
+    "choosing-the-right-hvac-system-what-homeowners-need-to-know-": "hvac-energy",
+    "the-impact-of-indoor-air-quality-on-your-health-and-comfort": "tips-comfort",
+    "intelligent-design-air-conditioning-expands-services-with-co": "solar-savings",
+    "why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie": "hvac-energy",
+    "the-importance-of-air-conditioner-sizing-how-to-choose-the-r": "hvac-energy",
+    "preparing-the-home-for-summer-essential-tips-from-intelligen": "solar-savings",
+    "why-is-my-ac-not-cooling-the-ultimate-tucson-homeowners-guid": "hvac-airflow",
+    "intelligent-design-elevates-hvac-tune-up-standards-with-unpr": "hvac-maintenance",
+    "how-much-does-a-new-ac-unit-cost-in-az": "hvac-upgrade",
+    "why-diy-ac-installation-can-cost-you-more-in-the-long-run": "hvac-ac-install",
+    "what-does-a-professional-ac-service-include-a-complete-check": "hvac-maintenance",
+    "your-complete-guide-to-hvac-ac-repair-in-tucson-faqs-answere": "hvac-ac-repair",
+    "can-suntrac-air-conditioning-systems-lower-your-ac-costs": "hvac-ac-repair",
+    "is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f": "hvac-upgrade",
+    "what-are-some-effective-strategies-to-reduce-ac-noise": "hvac-upgrade",
+    "top-10-reasons-move-to-tucson": "tips-energy",
+    "what-to-do-solar-company-closed-tucson": "solar-monitoring",
+    "why-is-my-ac-not-cooling": "hvac-refrigerant",
+    "13-uses-solar-energy-guide": "solar-monitoring",
+    "complete-guide-hvac-ac-repair-tucson-faqs": "hvac-ac-repair",
+    "how-to-fix-your-ac-simple-guide": "hvac-ac-repair",
+    "how-much-does-new-air-conditioner-cost": "hvac-energy",
+    "preparing-home-for-summer-tucson": "tips-energy",
+    "preparing-roof-for-spring-storms": "roofing-repair",
+    "complete-guide-ac-repair-tucson": "hvac-ac-repair",
+    "winter-pipe-protection-freezing-weather": "plumbing-backflow"
+  }
+}

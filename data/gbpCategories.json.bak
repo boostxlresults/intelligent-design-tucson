@@ -1,0 +1,141 @@
+{
+  "categories": {
+    "hvac": {
+      "name": "HVAC Contractor",
+      "alternateNames": ["Air Conditioning Contractor", "Heating Contractor"],
+      "gbpCategory": "HVAC contractor",
+      "serviceRadius": 50,
+      "description": "Professional HVAC installation, repair, and maintenance services",
+      "priceRange": "$$",
+      "services": [
+        "AC Installation",
+        "AC Repair",
+        "Furnace Installation",
+        "Furnace Repair",
+        "Heat Pump Installation",
+        "Ductless Mini-Split Systems",
+        "Air Quality Services",
+        "HVAC Maintenance",
+        "Emergency HVAC Service"
+      ]
+    },
+    "plumbing": {
+      "name": "Plumber",
+      "alternateNames": ["Plumbing Service", "Drain Cleaning Service"],
+      "gbpCategory": "Plumber",
+      "serviceRadius": 50,
+      "description": "Expert plumbing installation, repair, and emergency services",
+      "priceRange": "$$",
+      "services": [
+        "Leak Detection & Repair",
+        "Water Heater Installation",
+        "Water Heater Repair",
+        "Drain Cleaning",
+        "Pipe Repair & Replacement",
+        "Fixture Installation",
+        "Sewer Line Services",
+        "Emergency Plumbing",
+        "Water Filtration Systems"
+      ]
+    },
+    "electrical": {
+      "name": "Electrician",
+      "alternateNames": ["Electrical Contractor", "Electrical Service"],
+      "gbpCategory": "Electrician",
+      "serviceRadius": 50,
+      "description": "Licensed electrical installation, repair, and upgrade services",
+      "priceRange": "$$",
+      "services": [
+        "Electrical Panel Upgrades",
+        "Generator Installation",
+        "Ceiling Fan Installation",
+        "Lighting Installation",
+        "Electrical Repairs",
+        "Circuit Breaker Services",
+        "Outlet & Switch Installation",
+        "Emergency Electrical Service",
+        "EV Charger Installation"
+      ]
+    },
+    "roofing": {
+      "name": "Roofing Contractor",
+      "alternateNames": ["Roof Repair Service", "Roof Installation Service"],
+      "gbpCategory": "Roofing contractor",
+      "serviceRadius": 50,
+      "description": "Professional roofing installation, repair, and maintenance",
+      "priceRange": "$$",
+      "services": [
+        "Roof Installation",
+        "Roof Repair",
+        "Roof Inspection",
+        "Roof Coating",
+        "Tile Roofing",
+        "Shingle Roofing",
+        "Flat Roofing",
+        "Emergency Roof Repair",
+        "Storm Damage Repair"
+      ]
+    },
+    "solar": {
+      "name": "Solar Energy Contractor",
+      "alternateNames": ["Solar Installation Service", "Solar Panel Installation"],
+      "gbpCategory": "Solar energy equipment supplier",
+      "serviceRadius": 50,
+      "description": "Solar panel installation and renewable energy solutions",
+      "priceRange": "$$$",
+      "services": [
+        "Solar Panel Installation",
+        "Solar System Design",
+        "Battery Storage Installation",
+        "Solar Maintenance",
+        "Solar Inspection",
+        "Solar Financing",
+        "Energy Audits",
+        "Solar Monitoring",
+        "Solar Consultation"
+      ]
+    }
+  },
+  "serviceLocations": {
+    "tucson": {
+      "name": "Tucson",
+      "coordinates": { "latitude": 32.2226, "longitude": -110.9747 }
+    },
+    "oro-valley": {
+      "name": "Oro Valley",
+      "coordinates": { "latitude": 32.3910, "longitude": -110.9665 }
+    },
+    "marana": {
+      "name": "Marana",
+      "coordinates": { "latitude": 32.4367, "longitude": -111.2251 }
+    },
+    "sahuarita": {
+      "name": "Sahuarita",
+      "coordinates": { "latitude": 31.9575, "longitude": -110.9556 }
+    },
+    "vail": {
+      "name": "Vail",
+      "coordinates": { "latitude": 32.0090, "longitude": -110.7073 }
+    },
+    "catalina": {
+      "name": "Catalina",
+      "coordinates": { "latitude": 32.5150, "longitude": -110.9176 }
+    },
+    "casas-adobes": {
+      "name": "Casas Adobes",
+      "coordinates": { "latitude": 32.3231, "longitude": -110.9951 }
+    },
+    "drexel-heights": {
+      "name": "Drexel Heights",
+      "coordinates": { "latitude": 32.1431, "longitude": -111.0346 }
+    },
+    "flowing-wells": {
+      "name": "Flowing Wells",
+      "coordinates": { "latitude": 32.2937, "longitude": -111.0090 }
+    },
+    "green-valley": {
+      "name": "Green Valley",
+      "coordinates": { "latitude": 31.8542, "longitude": -110.9937 }
+    }
+  }
+}
