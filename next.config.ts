@@ -86,7 +86,31 @@ const nextConfig: NextConfig = {
   output: "standalone",
   async redirects() {
     const serviceRedirects = await generateServiceRedirects();
-    return serviceRedirects;
+    
+    const legacyRedirects = [
+      {
+        source: '/education-library',
+        destination: '/resources',
+        permanent: true
+      },
+      {
+        source: '/ac-system-faqs',
+        destination: '/resources',
+        permanent: true
+      },
+      {
+        source: '/r22-phaseout',
+        destination: '/blog/hvac',
+        permanent: true
+      },
+      {
+        source: '/about-intelligent-design',
+        destination: '/',
+        permanent: true
+      }
+    ];
+    
+    return [...serviceRedirects, ...legacyRedirects];
   },
 };
 
