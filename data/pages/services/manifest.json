@@ -996,6 +996,54 @@
     "whytucsonchoosesintelligentdesign": {
       "dataFile": "whytucsonchoosesintelligentdesign",
       "canonicalSlug": "whytucsonchoosesintelligentdesign"
+    },
+    "heater-installation-tucson": {
+      "dataFile": "heaterinstallation",
+      "canonicalSlug": "heater-installation-tucson"
+    },
+    "heater-repair-tucson": {
+      "dataFile": "heaterrepair",
+      "canonicalSlug": "heater-repair-tucson"
+    },
+    "heater-service-tucson": {
+      "dataFile": "heaterservice",
+      "canonicalSlug": "heater-service-tucson"
+    },
+    "heater-tuneup-tucson": {
+      "dataFile": "heatertuneup",
+      "canonicalSlug": "heater-tuneup-tucson"
+    },
+    "furnaces-tucson": {
+      "dataFile": "furnaces",
+      "canonicalSlug": "furnaces-tucson"
+    },
+    "heat-pumps-tucson": {
+      "dataFile": "heatpumps",
+      "canonicalSlug": "heat-pumps-tucson"
+    },
+    "residential-roof-coating": {
+      "dataFile": "residentialroofcoating",
+      "canonicalSlug": "residential-roof-coating"
+    },
+    "residential-roof-inspection": {
+      "dataFile": "residentialroofinspection",
+      "canonicalSlug": "residential-roof-inspection"
+    },
+    "residential-roof-installation": {
+      "dataFile": "residentialroofinstallation",
+      "canonicalSlug": "residential-roof-installation"
+    },
+    "residential-roof-repair": {
+      "dataFile": "residentialroofrepair",
+      "canonicalSlug": "residential-roof-repair"
+    },
+    "residential-roof-replacement": {
+      "dataFile": "residentialroofreplacement",
+      "canonicalSlug": "residential-roof-replacement"
+    },
+    "solar-tubular-lights": {
+      "dataFile": "solartubularlights",
+      "canonicalSlug": "solar-tubular-lights"
     }
   },
   "aliases": {

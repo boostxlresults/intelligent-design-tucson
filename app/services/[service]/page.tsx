@@ -9,17 +9,10 @@ import { generateServiceMetadata } from "@/lib/seo";
 import serviceManifest from "@/data/pages/services/manifest.json";
 
 // Build lookup map from manifest: canonical slug -> dataFile
+// Only map canonical slugs; aliases are handled by redirects in next.config.ts
 const serviceMap: Record<string, string> = {};
 Object.entries(serviceManifest.services).forEach(([canonicalSlug, info]) => {
   serviceMap[canonicalSlug] = (info as any).dataFile;
-});
-
-// Add alias mappings: legacy slug -> dataFile
-Object.entries(serviceManifest.aliases).forEach(([alias, canonicalSlug]) => {
-  const info = (serviceManifest.services as any)[canonicalSlug as string];
-  if (info) {
-    serviceMap[alias] = info.dataFile;
-  }
 });
 
 // Force static generation for all pages (optimal for SEO)
@@ -27,17 +20,13 @@ export const dynamic = 'force-static';
 export const dynamicParams = false; // Only generate paths from generateStaticParams
 
 export async function generateStaticParams() {
-  // Generate pages for BOTH canonical slugs AND aliases for SEO
+  // Generate pages for canonical slugs only
+  // Aliases are handled by redirects in next.config.ts to avoid duplicate content
   const params: { service: string }[] = [];
   
   // Add canonical slugs
   Object.keys(serviceManifest.services).forEach((canonicalSlug) => {
     params.push({ service: canonicalSlug });
-  });
-  
-  // Add alias slugs (short versions without -tucson)
-  Object.keys(serviceManifest.aliases).forEach((alias) => {
-    params.push({ service: alias });
   });
   
   return params;
