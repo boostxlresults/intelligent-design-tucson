@@ -8,7 +8,7 @@ export const hvactanqueverdeData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Tanque Verde AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Tanque Verde, AZ. Premium AC repair, installation, maintenance for luxury homes. Zone control specialists. 24/7 emergency service. BBB A+ rated. Serving Catalina Foothills since 1979.',
-  slug: 'h-v-a-c-tanque-verde',
+  slug: 'hvac-tanque-verde',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tanque Verde, AZ',

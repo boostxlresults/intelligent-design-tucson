@@ -8,7 +8,7 @@ export const hvacpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Picture Rocks AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Picture Rocks, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated.',
-  slug: 'h-v-a-c-picture-rocks',
+  slug: 'hvac-picture-rocks',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Picture Rocks, AZ',

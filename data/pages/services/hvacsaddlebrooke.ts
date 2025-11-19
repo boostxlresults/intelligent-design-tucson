@@ -8,7 +8,7 @@ export const hvacsaddlebrookeData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services SaddleBrooke AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in SaddleBrooke, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving 55+ active adult community since 1979.',
-  slug: 'h-v-a-c-saddle-brooke',
+  slug: 'hvac-saddle-brooke',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in SaddleBrooke, AZ',

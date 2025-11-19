@@ -5,7 +5,7 @@ export const drainsewermaranaData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Marana AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Marana, AZ. Serving zip codes 85653, 85658 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-marana',
+  slug: 'drain-sewer-marana',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Marana, AZ',

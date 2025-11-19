@@ -7,7 +7,7 @@ export const hvacdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Drexel Heights AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
   description: 'Expert HVAC & air conditioning services in Drexel Heights, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for southwest Tucson.',
-  slug: 'h-v-a-c-drexel-heights',
+  slug: 'hvac-drexel-heights',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Drexel Heights, AZ',

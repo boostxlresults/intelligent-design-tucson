@@ -6,7 +6,7 @@ export const heatingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Catalina Foothills AZ | Expert Heating Services',
   description: 'Expert heating services in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'heating-catalinafoothills',
+  slug: 'heating-catalina-foothills',
   
   // Hero Section
   h1: 'Heating Services in Catalina Foothills, AZ',

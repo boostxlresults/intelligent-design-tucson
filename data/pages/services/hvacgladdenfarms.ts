@@ -8,7 +8,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Gladden Farms AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
   description: 'Expert HVAC & air conditioning services in Gladden Farms, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for Marana area.',
-  slug: 'h-v-a-c-gladden-farms',
+  slug: 'hvac-gladden-farms',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Gladden Farms, AZ',

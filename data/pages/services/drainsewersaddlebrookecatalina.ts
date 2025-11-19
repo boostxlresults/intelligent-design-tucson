@@ -5,7 +5,7 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Saddle Brooke / Catalina AZ | Senior-Friendly Emergency Drain Clearing',
   description: 'Trusted drain clearing and sewer repair for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drain-sewer-saddlebrookecatalina',
+  slug: 'drain-sewer-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Saddle Brooke / Catalina, AZ',

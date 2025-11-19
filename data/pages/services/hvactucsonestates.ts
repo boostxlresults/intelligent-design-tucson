@@ -8,7 +8,7 @@ export const hvactucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Tucson Estates AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Tucson Estates, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated.',
-  slug: 'h-v-a-c-tucson-estates',
+  slug: 'hvac-tucson-estates',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tucson Estates, AZ',

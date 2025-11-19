@@ -6,7 +6,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC Red Rock / Casa Grande AZ | Expert HVAC Services',
   description: 'Expert HVAC services in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'hvac-redrockcasagrande',
+  slug: 'hvac-red-rock-casa-grande',
   
   // Hero Section
   h1: 'HVAC Services in Red Rock / Casa Grande, AZ',

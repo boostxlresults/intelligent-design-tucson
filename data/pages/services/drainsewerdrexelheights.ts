@@ -5,7 +5,7 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Drexel Heights AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Drexel Heights, AZ. Serving zip codes 85706, 85746 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-drexelheights',
+  slug: 'drain-sewer-drexel-heights',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Drexel Heights, AZ',

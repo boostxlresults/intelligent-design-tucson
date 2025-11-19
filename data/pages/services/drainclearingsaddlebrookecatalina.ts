@@ -6,7 +6,7 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Saddle Brooke AZ | Professional Clog Removal & Prevention',
   description: 'Professional drain clearing services in Saddle Brooke. Kitchen, bathroom & main line clogs. Hydro jetting, cable snaking, prevention tips. Call (520) 333-2665 for fast drain clearing.',
-  slug: 'drain-clearing-saddle-brooke',
+  slug: 'drain-clearing-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Professional Drain Clearing Services in Saddle Brooke',

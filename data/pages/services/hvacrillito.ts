@@ -8,7 +8,7 @@ export const hvacrillitoData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Rillito AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Rillito, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving horse properties and rural homes since 1979.',
-  slug: 'h-v-a-c-rillito',
+  slug: 'hvac-rillito',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Rillito, AZ',

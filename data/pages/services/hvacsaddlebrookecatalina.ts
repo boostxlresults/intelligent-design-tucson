@@ -5,7 +5,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC Saddle Brooke / Catalina AZ | Senior-Friendly HVAC Services',
   description: 'Trusted HVAC services for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. AC repair, heating service, preventive maintenance. Licensed, BBB A+ rated.',
-  slug: 'hvac-saddlebrookecatalina',
+  slug: 'hvac-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'HVAC Services in Saddle Brooke / Catalina, AZ',

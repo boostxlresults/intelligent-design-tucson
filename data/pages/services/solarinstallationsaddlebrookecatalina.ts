@@ -5,7 +5,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Saddle Brooke / Catalina AZ | Senior-Friendly Solar Services',
   description: 'Trusted solar installation for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Excellent ROI for long-term residents. Licensed, BBB A+ rated.',
-  slug: 'solar-installation-saddlebrookecatalina',
+  slug: 'solar-installation-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Solar Installation Services in Saddle Brooke / Catalina, AZ',

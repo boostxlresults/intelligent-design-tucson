@@ -5,7 +5,7 @@ export const drainsewercasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Casas Adobes AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Casas Adobes, AZ. Serving zip codes 85704, 85741 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-casasadobes',
+  slug: 'drain-sewer-casas-adobes',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Casas Adobes, AZ',

@@ -8,7 +8,7 @@ export const hvacgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Green Valley AZ | Air Conditioning Repair & Installation for Retirement Living',
   description: 'Trusted HVAC services for Green Valley retirement community since 1979. AC repair, installation, maintenance designed for fixed-income efficiency & reliability. 24/7 emergency service. BBB A+ rated. Senior-focused comfort solutions.',
-  slug: 'h-v-a-c-green-valley',
+  slug: 'hvac-green-valley',
   
   // Hero Section
   h1: 'Trusted HVAC & Air Conditioning Services for Green Valley Retirement Community',

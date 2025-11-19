@@ -9,7 +9,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Services Corona de Tucson AZ | Professional Roofer | Tile, Shingle & Flat Roof Experts',
   description: 'Professional roofing services in Corona de Tucson, AZ since 1979. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated. Licensed & insured.',
-  slug: 'roofing-coronade-tucson',
+  slug: 'roofing-corona-de-tucson',
   
   // Hero Section
   h1: 'Expert Roofing Services in Corona de Tucson, AZ',

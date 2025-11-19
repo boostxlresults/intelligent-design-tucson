@@ -6,7 +6,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Red Rock / Casa Grande AZ | Expert Plumbing Services',
   description: 'Expert plumbing services in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'plumbing-redrockcasagrande',
+  slug: 'plumbing-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Plumbing Services in Red Rock / Casa Grande, AZ',

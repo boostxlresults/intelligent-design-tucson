@@ -6,7 +6,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Catalina Foothills AZ | Expert Plumbing Services',
   description: 'Expert plumbing services in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'plumbing-catalinafoothills',
+  slug: 'plumbing-catalina-foothills',
   
   // Hero Section
   h1: 'Plumbing Services in Catalina Foothills, AZ',

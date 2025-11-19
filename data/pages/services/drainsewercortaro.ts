@@ -5,7 +5,7 @@ export const drainsewercortaroData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Cortaro AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Cortaro, AZ. Serving zip codes 85652, 85742 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-cortaro',
+  slug: 'drain-sewer-cortaro',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Cortaro, AZ',

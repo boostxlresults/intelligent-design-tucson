@@ -5,7 +5,7 @@ export const drainsewerorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Oro Valley AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Oro Valley, AZ. Serving zip codes 85704, 85737, 85755 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-orovalley',
+  slug: 'drain-sewer-oro-valley',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Oro Valley, AZ',

@@ -7,7 +7,7 @@ export const hvaccoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Corona de Tucson AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
   description: 'Expert HVAC & air conditioning services in Corona de Tucson, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated. Serving southeast Tucson metro area.',
-  slug: 'h-v-a-c-coronade-tucson',
+  slug: 'hvac-corona-de-tucson',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Corona de Tucson, AZ',

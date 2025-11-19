@@ -6,7 +6,7 @@ export const hvaceasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services East Tucson AZ | Air Conditioning Repair & Installation Since 1979',
   description: 'Expert HVAC & air conditioning services in East Tucson, AZ since 1979. AC repair, installation, maintenance for Davis-Monthan AFB area and diverse housing. Ductless mini-splits, heat pumps. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated.',
-  slug: 'h-v-a-c-east-tucson',
+  slug: 'hvac-east-tucson',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in East Tucson, AZ',

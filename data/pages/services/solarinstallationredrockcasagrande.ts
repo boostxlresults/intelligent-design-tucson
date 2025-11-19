@@ -6,7 +6,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Red Rock / Casa Grande AZ | Expert Solar Panel Installation',
   description: 'Expert solar panel installation in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Licensed, insured, BBB A+ rated. Federal tax credits available.',
-  slug: 'solar-installation-redrockcasagrande',
+  slug: 'solar-installation-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Solar Panel Installation in Red Rock / Casa Grande, AZ',

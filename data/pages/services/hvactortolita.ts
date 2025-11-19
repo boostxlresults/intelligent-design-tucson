@@ -8,7 +8,7 @@ export const hvactortolitaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Tortolita AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Tortolita, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated.',
-  slug: 'h-v-a-c-tortolita',
+  slug: 'hvac-tortolita',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tortolita, AZ',

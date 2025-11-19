@@ -5,7 +5,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Saddle Brooke / Catalina AZ | Senior-Friendly Roofing Services',
   description: 'Trusted roofing services for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Roof repairs, replacement, inspections. Licensed, BBB A+ rated.',
-  slug: 'roofing-saddlebrookecatalina',
+  slug: 'roofing-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Roofing Services in Saddle Brooke / Catalina, AZ',

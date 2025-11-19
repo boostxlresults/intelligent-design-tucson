@@ -80,9 +80,9 @@
       "dataFile": "drainclearingcatalinafoothills",
       "canonicalSlug": "drain-clearing-catalina-foothills"
     },
-    "drain-clearing-corona-de-tucson": {
+    "drain-clearing-coronade-tucson": {
       "dataFile": "drainclearingcoronadetucson",
-      "canonicalSlug": "drain-clearing-corona-de-tucson"
+      "canonicalSlug": "drain-clearing-coronade-tucson"
     },
     "drain-clearing-drexel-heights": {
       "dataFile": "drainclearingdrexelheights",
@@ -112,17 +112,17 @@
       "dataFile": "drainclearingpicturerocks",
       "canonicalSlug": "drain-clearing-picture-rocks"
     },
-    "drain-clearing-red-rock-casa-grande": {
+    "drain-clearing-red-rock": {
       "dataFile": "drainclearingredrockcasagrande",
-      "canonicalSlug": "drain-clearing-red-rock-casa-grande"
+      "canonicalSlug": "drain-clearing-red-rock"
     },
     "drain-clearing-rita-ranch": {
       "dataFile": "drainclearingritaranch",
       "canonicalSlug": "drain-clearing-rita-ranch"
     },
-    "drain-clearing-saddle-brooke-catalina": {
+    "drain-clearing-saddle-brooke": {
       "dataFile": "drainclearingsaddlebrookecatalina",
-      "canonicalSlug": "drain-clearing-saddle-brooke-catalina"
+      "canonicalSlug": "drain-clearing-saddle-brooke"
     },
     "drain-clearing-sahuarita": {
       "dataFile": "drainclearingsahuarita",
@@ -148,85 +148,85 @@
       "dataFile": "drainclearingvail",
       "canonicalSlug": "drain-clearing-vail"
     },
-    "drain-sewer-avra-valley": {
+    "drainsewer-avravalley": {
       "dataFile": "drainseweravravalley",
-      "canonicalSlug": "drain-sewer-avra-valley"
+      "canonicalSlug": "drainsewer-avravalley"
     },
-    "drain-sewer-casas-adobes": {
+    "drainsewer-casasadobes": {
       "dataFile": "drainsewercasasadobes",
-      "canonicalSlug": "drain-sewer-casas-adobes"
+      "canonicalSlug": "drainsewer-casasadobes"
     },
-    "drain-sewer-catalina-foothills": {
+    "drainsewer-catalinafoothills": {
       "dataFile": "drainsewercatalinafoothills",
-      "canonicalSlug": "drain-sewer-catalina-foothills"
+      "canonicalSlug": "drainsewer-catalinafoothills"
     },
-    "drain-sewer-corona-de-tucson": {
+    "drainsewer-coronadetucson": {
       "dataFile": "drainsewercoronadetucson",
-      "canonicalSlug": "drain-sewer-corona-de-tucson"
+      "canonicalSlug": "drainsewer-coronadetucson"
     },
-    "drain-sewer-cortaro": {
+    "drainsewer-cortaro": {
       "dataFile": "drainsewercortaro",
-      "canonicalSlug": "drain-sewer-cortaro"
+      "canonicalSlug": "drainsewer-cortaro"
     },
-    "drain-sewer-drexel-heights": {
+    "drainsewer-drexelheights": {
       "dataFile": "drainsewerdrexelheights",
-      "canonicalSlug": "drain-sewer-drexel-heights"
+      "canonicalSlug": "drainsewer-drexelheights"
     },
-    "drain-sewer-east-tucson": {
+    "drainsewer-easttucson": {
       "dataFile": "drainsewereasttucson",
-      "canonicalSlug": "drain-sewer-east-tucson"
+      "canonicalSlug": "drainsewer-easttucson"
     },
-    "drain-sewer-gladden-farms": {
+    "drainsewer-gladdenfarms": {
       "dataFile": "drainsewergladdenfarms",
-      "canonicalSlug": "drain-sewer-gladden-farms"
+      "canonicalSlug": "drainsewer-gladdenfarms"
     },
-    "drain-sewer-green-valley": {
+    "drainsewer-greenvalley": {
       "dataFile": "drainsewergreenvalley",
-      "canonicalSlug": "drain-sewer-green-valley"
+      "canonicalSlug": "drainsewer-greenvalley"
     },
-    "drain-sewer-marana": {
+    "drainsewer-marana": {
       "dataFile": "drainsewermarana",
-      "canonicalSlug": "drain-sewer-marana"
+      "canonicalSlug": "drainsewer-marana"
     },
-    "drain-sewer-oro-valley": {
+    "drainsewer-orovalley": {
       "dataFile": "drainsewerorovalley",
-      "canonicalSlug": "drain-sewer-oro-valley"
+      "canonicalSlug": "drainsewer-orovalley"
     },
-    "drain-sewer-picture-rocks": {
+    "drainsewer-picturerocks": {
       "dataFile": "drainsewerpicturerocks",
-      "canonicalSlug": "drain-sewer-picture-rocks"
+      "canonicalSlug": "drainsewer-picturerocks"
     },
-    "drain-sewer-red-rock-casa-grande": {
+    "drain-sewer-redrockcasagrande": {
       "dataFile": "drainsewerredrockcasagrande",
-      "canonicalSlug": "drain-sewer-red-rock-casa-grande"
+      "canonicalSlug": "drain-sewer-redrockcasagrande"
     },
-    "drain-sewer-rillito": {
+    "drainsewer-rillito": {
       "dataFile": "drainsewerrillito",
-      "canonicalSlug": "drain-sewer-rillito"
+      "canonicalSlug": "drainsewer-rillito"
     },
-    "drain-sewer-rita-ranch": {
+    "drainsewer-ritaranch": {
       "dataFile": "drainsewerritaranch",
-      "canonicalSlug": "drain-sewer-rita-ranch"
+      "canonicalSlug": "drainsewer-ritaranch"
     },
-    "drain-sewer-saddle-brooke-catalina": {
+    "drain-sewer-saddlebrookecatalina": {
       "dataFile": "drainsewersaddlebrookecatalina",
-      "canonicalSlug": "drain-sewer-saddle-brooke-catalina"
+      "canonicalSlug": "drain-sewer-saddlebrookecatalina"
     },
-    "drain-sewer-sahuarita": {
+    "drainsewer-sahuarita": {
       "dataFile": "drainsewersahuarita",
-      "canonicalSlug": "drain-sewer-sahuarita"
+      "canonicalSlug": "drainsewer-sahuarita"
     },
-    "drain-sewer-tanque-verde": {
+    "drainsewer-tanqueverde": {
       "dataFile": "drainsewertanqueverde",
-      "canonicalSlug": "drain-sewer-tanque-verde"
+      "canonicalSlug": "drainsewer-tanqueverde"
     },
-    "drain-sewer-tucson": {
+    "drainsewer-tucson": {
       "dataFile": "drainsewertucson",
-      "canonicalSlug": "drain-sewer-tucson"
+      "canonicalSlug": "drainsewer-tucson"
     },
-    "drain-sewer-vail": {
+    "drainsewer-vail": {
       "dataFile": "drainsewervail",
-      "canonicalSlug": "drain-sewer-vail"
+      "canonicalSlug": "drainsewer-vail"
     },
     "duct-cleaning-tucson": {
       "dataFile": "ductcleaning",
@@ -264,13 +264,13 @@
       "dataFile": "electricalcasasadobes",
       "canonicalSlug": "electrical-casas-adobes"
     },
-    "electrical-catalina-foothills": {
+    "electrical-catalinafoothills": {
       "dataFile": "electricalcatalinafoothills",
-      "canonicalSlug": "electrical-catalina-foothills"
+      "canonicalSlug": "electrical-catalinafoothills"
     },
-    "electrical-corona-de-tucson": {
+    "electrical-coronade-tucson": {
       "dataFile": "electricalcoronadetucson",
-      "canonicalSlug": "electrical-corona-de-tucson"
+      "canonicalSlug": "electrical-coronade-tucson"
     },
     "electrical-cortaro": {
       "dataFile": "electricalcortaro",
@@ -308,9 +308,9 @@
       "dataFile": "electricalpicturerocks",
       "canonicalSlug": "electrical-picture-rocks"
     },
-    "electrical-red-rock-casa-grande": {
+    "electrical-redrockcasagrande": {
       "dataFile": "electricalredrockcasagrande",
-      "canonicalSlug": "electrical-red-rock-casa-grande"
+      "canonicalSlug": "electrical-redrockcasagrande"
     },
     "electrical-repair": {
       "dataFile": "electricalrepair",
@@ -328,9 +328,9 @@
       "dataFile": "electricalsaddlebrooke",
       "canonicalSlug": "electrical-saddle-brooke"
     },
-    "electrical-saddle-brooke-catalina": {
+    "electrical-saddlebrookecatalina": {
       "dataFile": "electricalsaddlebrookecatalina",
-      "canonicalSlug": "electrical-saddle-brooke-catalina"
+      "canonicalSlug": "electrical-saddlebrookecatalina"
     },
     "electrical-sahuarita": {
       "dataFile": "electricalsahuarita",
@@ -416,13 +416,13 @@
       "dataFile": "heatingcasasadobes",
       "canonicalSlug": "heating-casas-adobes"
     },
-    "heating-catalina-foothills": {
+    "heating-catalinafoothills": {
       "dataFile": "heatingcatalinafoothills",
-      "canonicalSlug": "heating-catalina-foothills"
+      "canonicalSlug": "heating-catalinafoothills"
     },
-    "heating-corona-de-tucson": {
+    "heating-coronade-tucson": {
       "dataFile": "heatingcoronadetucson",
-      "canonicalSlug": "heating-corona-de-tucson"
+      "canonicalSlug": "heating-coronade-tucson"
     },
     "heating-cortaro": {
       "dataFile": "heatingcortaro",
@@ -456,9 +456,9 @@
       "dataFile": "heatingpicturerocks",
       "canonicalSlug": "heating-picture-rocks"
     },
-    "heating-red-rock-casa-grande": {
+    "heating-redrockcasagrande": {
       "dataFile": "heatingredrockcasagrande",
-      "canonicalSlug": "heating-red-rock-casa-grande"
+      "canonicalSlug": "heating-redrockcasagrande"
     },
     "heating-rillito": {
       "dataFile": "heatingrillito",
@@ -472,9 +472,9 @@
       "dataFile": "heatingsaddlebrooke",
       "canonicalSlug": "heating-saddle-brooke"
     },
-    "heating-saddle-brooke-catalina": {
+    "heating-saddlebrookecatalina": {
       "dataFile": "heatingsaddlebrookecatalina",
-      "canonicalSlug": "heating-saddle-brooke-catalina"
+      "canonicalSlug": "heating-saddlebrookecatalina"
     },
     "heating-sahuarita": {
       "dataFile": "heatingsahuarita",
@@ -516,97 +516,97 @@
       "dataFile": "homeenergyupgrades",
       "canonicalSlug": "home-energy-upgrades-tucson"
     },
-    "hvac-avra-valley": {
+    "h-v-a-c-avra-valley": {
       "dataFile": "hvacavravalley",
-      "canonicalSlug": "hvac-avra-valley"
+      "canonicalSlug": "h-v-a-c-avra-valley"
     },
-    "hvac-casas-adobes": {
+    "h-v-a-c-casas-adobes": {
       "dataFile": "hvaccasasadobes",
-      "canonicalSlug": "hvac-casas-adobes"
+      "canonicalSlug": "h-v-a-c-casas-adobes"
     },
-    "hvac-catalina-foothills": {
+    "hvac-catalinafoothills": {
       "dataFile": "hvaccatalinafoothills",
-      "canonicalSlug": "hvac-catalina-foothills"
+      "canonicalSlug": "hvac-catalinafoothills"
     },
-    "hvac-corona-de-tucson": {
+    "h-v-a-c-coronade-tucson": {
       "dataFile": "hvaccoronadetucson",
-      "canonicalSlug": "hvac-corona-de-tucson"
+      "canonicalSlug": "h-v-a-c-coronade-tucson"
     },
-    "hvac-cortaro": {
+    "h-v-a-c-cortaro": {
       "dataFile": "hvaccortaro",
-      "canonicalSlug": "hvac-cortaro"
+      "canonicalSlug": "h-v-a-c-cortaro"
     },
-    "hvac-drexel-heights": {
+    "h-v-a-c-drexel-heights": {
       "dataFile": "hvacdrexelheights",
-      "canonicalSlug": "hvac-drexel-heights"
+      "canonicalSlug": "h-v-a-c-drexel-heights"
     },
-    "hvac-east-tucson": {
+    "h-v-a-c-east-tucson": {
       "dataFile": "hvaceasttucson",
-      "canonicalSlug": "hvac-east-tucson"
+      "canonicalSlug": "h-v-a-c-east-tucson"
     },
-    "hvac-gladden-farms": {
+    "h-v-a-c-gladden-farms": {
       "dataFile": "hvacgladdenfarms",
-      "canonicalSlug": "hvac-gladden-farms"
+      "canonicalSlug": "h-v-a-c-gladden-farms"
     },
-    "hvac-green-valley": {
+    "h-v-a-c-green-valley": {
       "dataFile": "hvacgreenvalley",
-      "canonicalSlug": "hvac-green-valley"
+      "canonicalSlug": "h-v-a-c-green-valley"
     },
-    "hvac-marana": {
+    "h-v-a-c-marana": {
       "dataFile": "hvacmarana",
-      "canonicalSlug": "hvac-marana"
+      "canonicalSlug": "h-v-a-c-marana"
     },
-    "hvac-oro-valley": {
+    "h-v-a-c-oro-valley": {
       "dataFile": "hvacorovalley",
-      "canonicalSlug": "hvac-oro-valley"
+      "canonicalSlug": "h-v-a-c-oro-valley"
     },
-    "hvac-picture-rocks": {
+    "h-v-a-c-picture-rocks": {
       "dataFile": "hvacpicturerocks",
-      "canonicalSlug": "hvac-picture-rocks"
+      "canonicalSlug": "h-v-a-c-picture-rocks"
     },
-    "hvac-red-rock-casa-grande": {
+    "hvac-redrockcasagrande": {
       "dataFile": "hvacredrockcasagrande",
-      "canonicalSlug": "hvac-red-rock-casa-grande"
+      "canonicalSlug": "hvac-redrockcasagrande"
     },
-    "hvac-rillito": {
+    "h-v-a-c-rillito": {
       "dataFile": "hvacrillito",
-      "canonicalSlug": "hvac-rillito"
+      "canonicalSlug": "h-v-a-c-rillito"
     },
-    "hvac-rita-ranch": {
+    "h-v-a-c-rita-ranch": {
       "dataFile": "hvacritaranch",
-      "canonicalSlug": "hvac-rita-ranch"
+      "canonicalSlug": "h-v-a-c-rita-ranch"
     },
-    "hvac-saddle-brooke": {
+    "h-v-a-c-saddle-brooke": {
       "dataFile": "hvacsaddlebrooke",
-      "canonicalSlug": "hvac-saddle-brooke"
+      "canonicalSlug": "h-v-a-c-saddle-brooke"
     },
-    "hvac-saddle-brooke-catalina": {
+    "hvac-saddlebrookecatalina": {
       "dataFile": "hvacsaddlebrookecatalina",
-      "canonicalSlug": "hvac-saddle-brooke-catalina"
+      "canonicalSlug": "hvac-saddlebrookecatalina"
     },
-    "hvac-sahuarita": {
+    "h-v-a-c-sahuarita": {
       "dataFile": "hvacsahuarita",
-      "canonicalSlug": "hvac-sahuarita"
+      "canonicalSlug": "h-v-a-c-sahuarita"
     },
-    "hvac-tanque-verde": {
+    "h-v-a-c-tanque-verde": {
       "dataFile": "hvactanqueverde",
-      "canonicalSlug": "hvac-tanque-verde"
+      "canonicalSlug": "h-v-a-c-tanque-verde"
     },
-    "hvac-tortolita": {
+    "h-v-a-c-tortolita": {
       "dataFile": "hvactortolita",
-      "canonicalSlug": "hvac-tortolita"
+      "canonicalSlug": "h-v-a-c-tortolita"
     },
-    "hvac-tucson": {
+    "h-v-a-c-tucson": {
       "dataFile": "hvactucson",
-      "canonicalSlug": "hvac-tucson"
+      "canonicalSlug": "h-v-a-c-tucson"
     },
-    "hvac-tucson-estates": {
+    "h-v-a-c-tucson-estates": {
       "dataFile": "hvactucsonestates",
-      "canonicalSlug": "hvac-tucson-estates"
+      "canonicalSlug": "h-v-a-c-tucson-estates"
     },
-    "hvac-vail": {
+    "h-v-a-c-vail": {
       "dataFile": "hvacvail",
-      "canonicalSlug": "hvac-vail"
+      "canonicalSlug": "h-v-a-c-vail"
     },
     "hybrid-water-heaters": {
       "dataFile": "hybridwaterheaters",
@@ -656,13 +656,13 @@
       "dataFile": "plumbingcasasadobes",
       "canonicalSlug": "plumbing-casas-adobes"
     },
-    "plumbing-catalina-foothills": {
+    "plumbing-catalinafoothills": {
       "dataFile": "plumbingcatalinafoothills",
-      "canonicalSlug": "plumbing-catalina-foothills"
+      "canonicalSlug": "plumbing-catalinafoothills"
     },
-    "plumbing-corona-de-tucson": {
+    "plumbing-coronade-tucson": {
       "dataFile": "plumbingcoronadetucson",
-      "canonicalSlug": "plumbing-corona-de-tucson"
+      "canonicalSlug": "plumbing-coronade-tucson"
     },
     "plumbing-cortaro": {
       "dataFile": "plumbingcortaro",
@@ -700,9 +700,9 @@
       "dataFile": "plumbingpicturerocks",
       "canonicalSlug": "plumbing-picture-rocks"
     },
-    "plumbing-red-rock-casa-grande": {
+    "plumbing-redrockcasagrande": {
       "dataFile": "plumbingredrockcasagrande",
-      "canonicalSlug": "plumbing-red-rock-casa-grande"
+      "canonicalSlug": "plumbing-redrockcasagrande"
     },
     "plumbing-rillito": {
       "dataFile": "plumbingrillito",
@@ -716,9 +716,9 @@
       "dataFile": "plumbingsaddlebrooke",
       "canonicalSlug": "plumbing-saddle-brooke"
     },
-    "plumbing-saddle-brooke-catalina": {
+    "plumbing-saddlebrookecatalina": {
       "dataFile": "plumbingsaddlebrookecatalina",
-      "canonicalSlug": "plumbing-saddle-brooke-catalina"
+      "canonicalSlug": "plumbing-saddlebrookecatalina"
     },
     "plumbing-sahuarita": {
       "dataFile": "plumbingsahuarita",
@@ -796,13 +796,13 @@
       "dataFile": "roofingcasasadobes",
       "canonicalSlug": "roofing-casas-adobes"
     },
-    "roofing-catalina-foothills": {
+    "roofing-catalinafoothills": {
       "dataFile": "roofingcatalinafoothills",
-      "canonicalSlug": "roofing-catalina-foothills"
+      "canonicalSlug": "roofing-catalinafoothills"
     },
-    "roofing-corona-de-tucson": {
+    "roofing-coronade-tucson": {
       "dataFile": "roofingcoronadetucson",
-      "canonicalSlug": "roofing-corona-de-tucson"
+      "canonicalSlug": "roofing-coronade-tucson"
     },
     "roofing-cortaro": {
       "dataFile": "roofingcortaro",
@@ -836,9 +836,9 @@
       "dataFile": "roofingpicturerocks",
       "canonicalSlug": "roofing-picture-rocks"
     },
-    "roofing-red-rock-casa-grande": {
+    "roofing-redrockcasagrande": {
       "dataFile": "roofingredrockcasagrande",
-      "canonicalSlug": "roofing-red-rock-casa-grande"
+      "canonicalSlug": "roofing-redrockcasagrande"
     },
     "roofing-rillito": {
       "dataFile": "roofingrillito",
@@ -852,9 +852,9 @@
       "dataFile": "roofingsaddlebrooke",
       "canonicalSlug": "roofing-saddle-brooke"
     },
-    "roofing-saddle-brooke-catalina": {
+    "roofing-saddlebrookecatalina": {
       "dataFile": "roofingsaddlebrookecatalina",
-      "canonicalSlug": "roofing-saddle-brooke-catalina"
+      "canonicalSlug": "roofing-saddlebrookecatalina"
     },
     "roofing-sahuarita": {
       "dataFile": "roofingsahuarita",
@@ -924,13 +924,13 @@
       "dataFile": "solarinstallationcasasadobes",
       "canonicalSlug": "solar-installation-casas-adobes"
     },
-    "solar-installation-catalina-foothills": {
+    "solarinstallation-catalinafoothills": {
       "dataFile": "solarinstallationcatalinafoothills",
-      "canonicalSlug": "solar-installation-catalina-foothills"
+      "canonicalSlug": "solarinstallation-catalinafoothills"
     },
-    "solar-installation-corona-de-tucson": {
+    "solar-installation-coronade-tucson": {
       "dataFile": "solarinstallationcoronadetucson",
-      "canonicalSlug": "solar-installation-corona-de-tucson"
+      "canonicalSlug": "solar-installation-coronade-tucson"
     },
     "solar-installation-cortaro": {
       "dataFile": "solarinstallationcortaro",
@@ -964,9 +964,9 @@
       "dataFile": "solarinstallationpicturerocks",
       "canonicalSlug": "solar-installation-picture-rocks"
     },
-    "solar-installation-red-rock-casa-grande": {
+    "solar-installation-redrockcasagrande": {
       "dataFile": "solarinstallationredrockcasagrande",
-      "canonicalSlug": "solar-installation-red-rock-casa-grande"
+      "canonicalSlug": "solar-installation-redrockcasagrande"
     },
     "solar-installation-rillito": {
       "dataFile": "solarinstallationrillito",
@@ -980,9 +980,9 @@
       "dataFile": "solarinstallationsaddlebrooke",
       "canonicalSlug": "solar-installation-saddle-brooke"
     },
-    "solar-installation-saddle-brooke-catalina": {
+    "solar-installation-saddlebrookecatalina": {
       "dataFile": "solarinstallationsaddlebrookecatalina",
-      "canonicalSlug": "solar-installation-saddle-brooke-catalina"
+      "canonicalSlug": "solar-installation-saddlebrookecatalina"
     },
     "solar-installation-sahuarita": {
       "dataFile": "solarinstallationsahuarita",
@@ -1101,7 +1101,7 @@
     "drainclearingavravalley": "drain-clearing-avra-valley",
     "drainclearingcasasadobes": "drain-clearing-casas-adobes",
     "drainclearingcatalinafoothills": "drain-clearing-catalina-foothills",
-    "drainclearingcoronadetucson": "drain-clearing-corona-de-tucson",
+    "drainclearingcoronadetucson": "drain-clearing-coronade-tucson",
     "drainclearingdrexelheights": "drain-clearing-drexel-heights",
     "drainclearingeasttucson": "drain-clearing-east-tucson",
     "drainclearinggladdenfarms": "drain-clearing-gladden-farms",
@@ -1109,35 +1109,35 @@
     "drainclearingmarana": "drain-clearing-marana",
     "drainclearingorovalley": "drain-clearing-oro-valley",
     "drainclearingpicturerocks": "drain-clearing-picture-rocks",
-    "drainclearingredrockcasagrande": "drain-clearing-red-rock-casa-grande",
+    "drainclearingredrockcasagrande": "drain-clearing-red-rock",
     "drainclearingritaranch": "drain-clearing-rita-ranch",
-    "drainclearingsaddlebrookecatalina": "drain-clearing-saddle-brooke-catalina",
+    "drainclearingsaddlebrookecatalina": "drain-clearing-saddle-brooke",
     "drainclearingsahuarita": "drain-clearing-sahuarita",
     "drainclearingtanqueverde": "drain-clearing-tanque-verde",
     "drainclearingtortolita": "drain-clearing-tortolita",
     "drainclearingtucson": "drain-clearing-tucson",
     "drainclearingtucsonestates": "drain-clearing-tucson-estates",
     "drainclearingvail": "drain-clearing-vail",
-    "drainseweravravalley": "drain-sewer-avra-valley",
-    "drainsewercasasadobes": "drain-sewer-casas-adobes",
-    "drainsewercatalinafoothills": "drain-sewer-catalina-foothills",
-    "drainsewercoronadetucson": "drain-sewer-corona-de-tucson",
-    "drainsewercortaro": "drain-sewer-cortaro",
-    "drainsewerdrexelheights": "drain-sewer-drexel-heights",
-    "drainsewereasttucson": "drain-sewer-east-tucson",
-    "drainsewergladdenfarms": "drain-sewer-gladden-farms",
-    "drainsewergreenvalley": "drain-sewer-green-valley",
-    "drainsewermarana": "drain-sewer-marana",
-    "drainsewerorovalley": "drain-sewer-oro-valley",
-    "drainsewerpicturerocks": "drain-sewer-picture-rocks",
-    "drainsewerredrockcasagrande": "drain-sewer-red-rock-casa-grande",
-    "drainsewerrillito": "drain-sewer-rillito",
-    "drainsewerritaranch": "drain-sewer-rita-ranch",
-    "drainsewersaddlebrookecatalina": "drain-sewer-saddle-brooke-catalina",
-    "drainsewersahuarita": "drain-sewer-sahuarita",
-    "drainsewertanqueverde": "drain-sewer-tanque-verde",
-    "drainsewertucson": "drain-sewer-tucson",
-    "drainsewervail": "drain-sewer-vail",
+    "drainseweravravalley": "drainsewer-avravalley",
+    "drainsewercasasadobes": "drainsewer-casasadobes",
+    "drainsewercatalinafoothills": "drainsewer-catalinafoothills",
+    "drainsewercoronadetucson": "drainsewer-coronadetucson",
+    "drainsewercortaro": "drainsewer-cortaro",
+    "drainsewerdrexelheights": "drainsewer-drexelheights",
+    "drainsewereasttucson": "drainsewer-easttucson",
+    "drainsewergladdenfarms": "drainsewer-gladdenfarms",
+    "drainsewergreenvalley": "drainsewer-greenvalley",
+    "drainsewermarana": "drainsewer-marana",
+    "drainsewerorovalley": "drainsewer-orovalley",
+    "drainsewerpicturerocks": "drainsewer-picturerocks",
+    "drainsewerredrockcasagrande": "drain-sewer-redrockcasagrande",
+    "drainsewerrillito": "drainsewer-rillito",
+    "drainsewerritaranch": "drainsewer-ritaranch",
+    "drainsewersaddlebrookecatalina": "drain-sewer-saddlebrookecatalina",
+    "drainsewersahuarita": "drainsewer-sahuarita",
+    "drainsewertanqueverde": "drainsewer-tanqueverde",
+    "drainsewertucson": "drainsewer-tucson",
+    "drainsewervail": "drainsewer-vail",
     "ductcleaning": "duct-cleaning-tucson",
     "ductinstallation": "duct-installation-tucson",
     "ductlessminisplitinstallation": "ductless-installation-tucson",
@@ -1147,8 +1147,8 @@
     "easttucson": "east-tucson",
     "electricalavravalley": "electrical-avra-valley",
     "electricalcasasadobes": "electrical-casas-adobes",
-    "electricalcatalinafoothills": "electrical-catalina-foothills",
-    "electricalcoronadetucson": "electrical-corona-de-tucson",
+    "electricalcatalinafoothills": "electrical-catalinafoothills",
+    "electricalcoronadetucson": "electrical-coronade-tucson",
     "electricalcortaro": "electrical-cortaro",
     "electricaldrexelheights": "electrical-drexel-heights",
     "electricaleasttucson": "electrical-east-tucson",
@@ -1158,12 +1158,12 @@
     "electricalorovalley": "electrical-oro-valley",
     "electricalpanelupgrades": "electrical-panel-upgrades",
     "electricalpicturerocks": "electrical-picture-rocks",
-    "electricalredrockcasagrande": "electrical-red-rock-casa-grande",
+    "electricalredrockcasagrande": "electrical-redrockcasagrande",
     "electricalrepair": "electrical-repair",
     "electricalrillito": "electrical-rillito",
     "electricalritaranch": "electrical-rita-ranch",
     "electricalsaddlebrooke": "electrical-saddle-brooke",
-    "electricalsaddlebrookecatalina": "electrical-saddle-brooke-catalina",
+    "electricalsaddlebrookecatalina": "electrical-saddlebrookecatalina",
     "electricalsahuarita": "electrical-sahuarita",
     "electricaltanqueverde": "electrical-tanque-verde",
     "electricaltortolita": "electrical-tortolita",
@@ -1183,8 +1183,8 @@
     "heatertuneup": "heater-tuneup-tucson",
     "heatingavravalley": "heating-avra-valley",
     "heatingcasasadobes": "heating-casas-adobes",
-    "heatingcatalinafoothills": "heating-catalina-foothills",
-    "heatingcoronadetucson": "heating-corona-de-tucson",
+    "heatingcatalinafoothills": "heating-catalinafoothills",
+    "heatingcoronadetucson": "heating-coronade-tucson",
     "heatingcortaro": "heating-cortaro",
     "heatingdrexelheights": "heating-drexel-heights",
     "heatingeasttucson": "heating-east-tucson",
@@ -1193,11 +1193,11 @@
     "heatingmarana": "heating-marana",
     "heatingorovalley": "heating-oro-valley",
     "heatingpicturerocks": "heating-picture-rocks",
-    "heatingredrockcasagrande": "heating-red-rock-casa-grande",
+    "heatingredrockcasagrande": "heating-redrockcasagrande",
     "heatingrillito": "heating-rillito",
     "heatingritaranch": "heating-rita-ranch",
     "heatingsaddlebrooke": "heating-saddle-brooke",
-    "heatingsaddlebrookecatalina": "heating-saddle-brooke-catalina",
+    "heatingsaddlebrookecatalina": "heating-saddlebrookecatalina",
     "heatingsahuarita": "heating-sahuarita",
     "heatingtanqueverde": "heating-tanque-verde",
     "heatingtortolita": "heating-tortolita",
@@ -1207,29 +1207,29 @@
     "heatpumps": "heat-pumps-tucson",
     "homeenergyaudit": "home-energy-audit-tucson",
     "homeenergyupgrades": "home-energy-upgrades-tucson",
-    "hvacavravalley": "hvac-avra-valley",
-    "hvaccasasadobes": "hvac-casas-adobes",
-    "hvaccatalinafoothills": "hvac-catalina-foothills",
-    "hvaccoronadetucson": "hvac-corona-de-tucson",
-    "hvaccortaro": "hvac-cortaro",
-    "hvacdrexelheights": "hvac-drexel-heights",
-    "hvaceasttucson": "hvac-east-tucson",
-    "hvacgladdenfarms": "hvac-gladden-farms",
-    "hvacgreenvalley": "hvac-green-valley",
-    "hvacmarana": "hvac-marana",
-    "hvacorovalley": "hvac-oro-valley",
-    "hvacpicturerocks": "hvac-picture-rocks",
-    "hvacredrockcasagrande": "hvac-red-rock-casa-grande",
-    "hvacrillito": "hvac-rillito",
-    "hvacritaranch": "hvac-rita-ranch",
-    "hvacsaddlebrooke": "hvac-saddle-brooke",
-    "hvacsaddlebrookecatalina": "hvac-saddle-brooke-catalina",
-    "hvacsahuarita": "hvac-sahuarita",
-    "hvactanqueverde": "hvac-tanque-verde",
-    "hvactortolita": "hvac-tortolita",
-    "hvactucson": "hvac-tucson",
-    "hvactucsonestates": "hvac-tucson-estates",
-    "hvacvail": "hvac-vail",
+    "hvacavravalley": "h-v-a-c-avra-valley",
+    "hvaccasasadobes": "h-v-a-c-casas-adobes",
+    "hvaccatalinafoothills": "hvac-catalinafoothills",
+    "hvaccoronadetucson": "h-v-a-c-coronade-tucson",
+    "hvaccortaro": "h-v-a-c-cortaro",
+    "hvacdrexelheights": "h-v-a-c-drexel-heights",
+    "hvaceasttucson": "h-v-a-c-east-tucson",
+    "hvacgladdenfarms": "h-v-a-c-gladden-farms",
+    "hvacgreenvalley": "h-v-a-c-green-valley",
+    "hvacmarana": "h-v-a-c-marana",
+    "hvacorovalley": "h-v-a-c-oro-valley",
+    "hvacpicturerocks": "h-v-a-c-picture-rocks",
+    "hvacredrockcasagrande": "hvac-redrockcasagrande",
+    "hvacrillito": "h-v-a-c-rillito",
+    "hvacritaranch": "h-v-a-c-rita-ranch",
+    "hvacsaddlebrooke": "h-v-a-c-saddle-brooke",
+    "hvacsaddlebrookecatalina": "hvac-saddlebrookecatalina",
+    "hvacsahuarita": "h-v-a-c-sahuarita",
+    "hvactanqueverde": "h-v-a-c-tanque-verde",
+    "hvactortolita": "h-v-a-c-tortolita",
+    "hvactucson": "h-v-a-c-tucson",
+    "hvactucsonestates": "h-v-a-c-tucson-estates",
+    "hvacvail": "h-v-a-c-vail",
     "hybridwaterheaters": "hybrid-water-heaters",
     "indoorairquality": "indoor-air-quality-tucson",
     "knowledgehub": "knowledge-hub",
@@ -1242,8 +1242,8 @@
     "pitchedroofs": "pitched-roofs",
     "plumbingavravalley": "plumbing-avra-valley",
     "plumbingcasasadobes": "plumbing-casas-adobes",
-    "plumbingcatalinafoothills": "plumbing-catalina-foothills",
-    "plumbingcoronadetucson": "plumbing-corona-de-tucson",
+    "plumbingcatalinafoothills": "plumbing-catalinafoothills",
+    "plumbingcoronadetucson": "plumbing-coronade-tucson",
     "plumbingcortaro": "plumbing-cortaro",
     "plumbingdrexelheights": "plumbing-drexel-heights",
     "plumbingeasttucson": "plumbing-east-tucson",
@@ -1253,11 +1253,11 @@
     "plumbingmarana": "plumbing-marana",
     "plumbingorovalley": "plumbing-oro-valley",
     "plumbingpicturerocks": "plumbing-picture-rocks",
-    "plumbingredrockcasagrande": "plumbing-red-rock-casa-grande",
+    "plumbingredrockcasagrande": "plumbing-redrockcasagrande",
     "plumbingrillito": "plumbing-rillito",
     "plumbingritaranch": "plumbing-rita-ranch",
     "plumbingsaddlebrooke": "plumbing-saddle-brooke",
-    "plumbingsaddlebrookecatalina": "plumbing-saddle-brooke-catalina",
+    "plumbingsaddlebrookecatalina": "plumbing-saddlebrookecatalina",
     "plumbingsahuarita": "plumbing-sahuarita",
     "plumbingtanqueverde": "plumbing-tanque-verde",
     "plumbingtortolita": "plumbing-tortolita",
@@ -1275,8 +1275,8 @@
     "residentialsolarinstallation": "residential-solar-installation",
     "roofingavravalley": "roofing-avra-valley",
     "roofingcasasadobes": "roofing-casas-adobes",
-    "roofingcatalinafoothills": "roofing-catalina-foothills",
-    "roofingcoronadetucson": "roofing-corona-de-tucson",
+    "roofingcatalinafoothills": "roofing-catalinafoothills",
+    "roofingcoronadetucson": "roofing-coronade-tucson",
     "roofingcortaro": "roofing-cortaro",
     "roofingdrexelheights": "roofing-drexel-heights",
     "roofingeasttucson": "roofing-east-tucson",
@@ -1285,11 +1285,11 @@
     "roofingmarana": "roofing-marana",
     "roofingorovalley": "roofing-oro-valley",
     "roofingpicturerocks": "roofing-picture-rocks",
-    "roofingredrockcasagrande": "roofing-red-rock-casa-grande",
+    "roofingredrockcasagrande": "roofing-redrockcasagrande",
     "roofingrillito": "roofing-rillito",
     "roofingritaranch": "roofing-rita-ranch",
     "roofingsaddlebrooke": "roofing-saddle-brooke",
-    "roofingsaddlebrookecatalina": "roofing-saddle-brooke-catalina",
+    "roofingsaddlebrookecatalina": "roofing-saddlebrookecatalina",
     "roofingsahuarita": "roofing-sahuarita",
     "roofingtanqueverde": "roofing-tanque-verde",
     "roofingtortolita": "roofing-tortolita",
@@ -1306,8 +1306,8 @@
     "solarac": "solar-a-c",
     "solarinstallationavravalley": "solar-installation-avra-valley",
     "solarinstallationcasasadobes": "solar-installation-casas-adobes",
-    "solarinstallationcatalinafoothills": "solar-installation-catalina-foothills",
-    "solarinstallationcoronadetucson": "solar-installation-corona-de-tucson",
+    "solarinstallationcatalinafoothills": "solarinstallation-catalinafoothills",
+    "solarinstallationcoronadetucson": "solar-installation-coronade-tucson",
     "solarinstallationcortaro": "solar-installation-cortaro",
     "solarinstallationdrexelheights": "solar-installation-drexel-heights",
     "solarinstallationeasttucson": "solar-installation-east-tucson",
@@ -1316,11 +1316,11 @@
     "solarinstallationmarana": "solar-installation-marana",
     "solarinstallationorovalley": "solar-installation-oro-valley",
     "solarinstallationpicturerocks": "solar-installation-picture-rocks",
-    "solarinstallationredrockcasagrande": "solar-installation-red-rock-casa-grande",
+    "solarinstallationredrockcasagrande": "solar-installation-redrockcasagrande",
     "solarinstallationrillito": "solar-installation-rillito",
     "solarinstallationritaranch": "solar-installation-rita-ranch",
     "solarinstallationsaddlebrooke": "solar-installation-saddle-brooke",
-    "solarinstallationsaddlebrookecatalina": "solar-installation-saddle-brooke-catalina",
+    "solarinstallationsaddlebrookecatalina": "solar-installation-saddlebrookecatalina",
     "solarinstallationsahuarita": "solar-installation-sahuarita",
     "solarinstallationtanqueverde": "solar-installation-tanque-verde",
     "solarinstallationtortolita": "solar-installation-tortolita",

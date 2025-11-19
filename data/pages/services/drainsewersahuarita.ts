@@ -5,7 +5,7 @@ export const drainsewersahuaritaData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Sahuarita AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Sahuarita, AZ. Serving zip codes 85629, 85614 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-sahuarita',
+  slug: 'drain-sewer-sahuarita',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Sahuarita, AZ',

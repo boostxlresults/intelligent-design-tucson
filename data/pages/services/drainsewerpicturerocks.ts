@@ -5,7 +5,7 @@ export const drainsewerpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Picture Rocks AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Picture Rocks, AZ. Serving zip codes 85743 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-picturerocks',
+  slug: 'drain-sewer-picture-rocks',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Picture Rocks, AZ',

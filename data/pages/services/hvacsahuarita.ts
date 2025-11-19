@@ -8,7 +8,7 @@ export const hvacsahuaritaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Sahuarita AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Sahuarita, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving Rancho Sahuarita and family communities since 1979.',
-  slug: 'h-v-a-c-sahuarita',
+  slug: 'hvac-sahuarita',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Sahuarita, AZ',

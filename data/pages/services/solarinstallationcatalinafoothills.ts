@@ -6,7 +6,7 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Catalina Foothills AZ | Expert Solar Services',
   description: 'Expert solar panel installation in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Licensed, insured, BBB A+ rated. Solar financing available.',
-  slug: 'solarinstallation-catalinafoothills',
+  slug: 'solar-installation-catalina-foothills',
   
   // Hero Section
   h1: 'Solar Installation Services in Catalina Foothills, AZ',

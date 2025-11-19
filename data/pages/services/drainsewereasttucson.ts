@@ -5,7 +5,7 @@ export const drainsewereasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services East Tucson AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in East Tucson, AZ. Serving zip codes 85710, 85711, 85730 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-easttucson',
+  slug: 'drain-sewer-east-tucson',
   
   // Hero Section
   h1: 'Drain & Sewer Services in East Tucson, AZ',

@@ -6,7 +6,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC Catalina Foothills AZ | Expert HVAC Services',
   description: 'Expert HVAC services in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'hvac-catalinafoothills',
+  slug: 'hvac-catalina-foothills',
   
   // Hero Section
   h1: 'HVAC Services in Catalina Foothills, AZ',

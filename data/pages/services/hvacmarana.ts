@@ -7,7 +7,7 @@ export const hvacmaranaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Marana AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Marana, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving Marana\'s newer homes since 1979.',
-  slug: 'h-v-a-c-marana',
+  slug: 'hvac-marana',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Marana, AZ',

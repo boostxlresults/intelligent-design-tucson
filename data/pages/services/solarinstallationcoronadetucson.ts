@@ -9,7 +9,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Corona de Tucson AZ | Solar Panel Installation',
   description: 'Professional solar panel installation in Corona de Tucson, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving Corona de Tucson families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-coronade-tucson',
+  slug: 'solar-installation-corona-de-tucson',
   
   // Hero Section
   h1: 'Solar Installation in Corona de Tucson, AZ',

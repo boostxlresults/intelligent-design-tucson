@@ -5,7 +5,7 @@ export const drainsewertanqueverdeData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Tanque Verde AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Tanque Verde, AZ. Serving zip codes 85749 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-tanqueverde',
+  slug: 'drain-sewer-tanque-verde',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Tanque Verde, AZ',

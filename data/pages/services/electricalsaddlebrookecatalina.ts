@@ -5,7 +5,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Electrical Saddle Brooke / Catalina AZ | Senior-Friendly Electrical Services',
   description: 'Trusted electrical services for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Senior-friendly service, safety inspections, panel upgrades. Licensed, BBB A+ rated.',
-  slug: 'electrical-saddlebrookecatalina',
+  slug: 'electrical-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Electrical Services in Saddle Brooke / Catalina, AZ',

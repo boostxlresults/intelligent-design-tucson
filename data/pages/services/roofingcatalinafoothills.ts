@@ -6,7 +6,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Catalina Foothills AZ | Expert Roofing Services',
   description: 'Expert roofing services in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'roofing-catalinafoothills',
+  slug: 'roofing-catalina-foothills',
   
   // Hero Section
   h1: 'Roofing Services in Catalina Foothills, AZ',

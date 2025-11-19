@@ -5,7 +5,7 @@ export const drainsewerritaranchData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Rita Ranch AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Rita Ranch, AZ. Serving zip codes 85747 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-ritaranch',
+  slug: 'drain-sewer-rita-ranch',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Rita Ranch, AZ',

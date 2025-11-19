@@ -6,7 +6,7 @@ export const drainclearingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Red Rock AZ | Professional Clog Removal & Prevention',
   description: 'Professional drain clearing services in Red Rock. Kitchen, bathroom & main line clogs. Hydro jetting, cable snaking, prevention tips. Call (520) 333-2665 for fast drain clearing.',
-  slug: 'drain-clearing-red-rock',
+  slug: 'drain-clearing-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Professional Drain Clearing Services in Red Rock',

@@ -6,7 +6,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Electrical Red Rock / Casa Grande AZ | Expert Electrical Services',
   description: 'Expert electrical services in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'electrical-redrockcasagrande',
+  slug: 'electrical-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Electrical Services in Red Rock / Casa Grande, AZ',

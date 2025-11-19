@@ -5,7 +5,7 @@ export const drainsewergreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Green Valley AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Green Valley, AZ. Serving zip codes 85614, 85622 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-greenvalley',
+  slug: 'drain-sewer-green-valley',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Green Valley, AZ',

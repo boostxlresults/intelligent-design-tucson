@@ -7,7 +7,7 @@ export const hvaccasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Casas Adobes AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
   description: 'Expert HVAC & air conditioning services in Casas Adobes, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for north Tucson.',
-  slug: 'h-v-a-c-casas-adobes',
+  slug: 'hvac-casas-adobes',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Casas Adobes, AZ',

@@ -7,7 +7,7 @@ export const hvacavravalleyData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Avra Valley AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
   description: 'Expert HVAC & air conditioning services in Avra Valley, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for northwest Tucson.',
-  slug: 'h-v-a-c-avra-valley',
+  slug: 'hvac-avra-valley',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Avra Valley, AZ',

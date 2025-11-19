@@ -8,7 +8,7 @@ export const hvacorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Oro Valley AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Oro Valley, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving energy-efficient homes since 1979.',
-  slug: 'h-v-a-c-oro-valley',
+  slug: 'hvac-oro-valley',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Oro Valley, AZ',

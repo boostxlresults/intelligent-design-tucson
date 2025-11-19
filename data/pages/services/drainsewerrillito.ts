@@ -5,7 +5,7 @@ export const drainsewerrillitoData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Rillito AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Rillito, AZ. Serving zip codes 85654 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-rillito',
+  slug: 'drain-sewer-rillito',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Rillito, AZ',

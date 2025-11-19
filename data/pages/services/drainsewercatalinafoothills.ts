@@ -5,7 +5,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Catalina Foothills AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Catalina Foothills, AZ. Serving zip codes 85718, 85750, 85749 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-catalinafoothills',
+  slug: 'drain-sewer-catalina-foothills',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Catalina Foothills, AZ',

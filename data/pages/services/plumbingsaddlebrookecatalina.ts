@@ -5,7 +5,7 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Saddle Brooke / Catalina AZ | Senior-Friendly Plumbing Services',
   description: 'Trusted plumbing services for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Water heaters, leak detection, drain clearing. Licensed, BBB A+ rated.',
-  slug: 'plumbing-saddlebrookecatalina',
+  slug: 'plumbing-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Plumbing Services in Saddle Brooke / Catalina, AZ',

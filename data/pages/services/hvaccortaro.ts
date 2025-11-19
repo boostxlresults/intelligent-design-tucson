@@ -7,7 +7,7 @@ export const hvaccortaroData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Cortaro AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Cortaro, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated.',
-  slug: 'h-v-a-c-cortaro',
+  slug: 'hvac-cortaro',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Cortaro, AZ',

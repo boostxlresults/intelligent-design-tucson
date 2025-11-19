@@ -6,7 +6,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Red Rock / Casa Grande AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drain-sewer-redrockcasagrande',
+  slug: 'drain-sewer-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Red Rock / Casa Grande, AZ',

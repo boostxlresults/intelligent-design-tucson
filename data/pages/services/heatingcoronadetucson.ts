@@ -7,7 +7,7 @@ export const heatingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Corona de Tucson AZ | Furnace Repair & Installation',
   description: 'Professional heating services in Corona de Tucson, AZ. Furnace repair, installation, maintenance, heat pumps. 24/7 emergency heater service. BBB A+ rated.',
-  slug: 'heating-coronade-tucson',
+  slug: 'heating-corona-de-tucson',
   
   // Hero Section
   h1: 'Heating Services in Corona de Tucson, AZ',

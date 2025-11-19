@@ -5,7 +5,7 @@ export const drainsewergladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Gladden Farms AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Gladden Farms, AZ. Serving zip codes 85742 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-gladdenfarms',
+  slug: 'drain-sewer-gladden-farms',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Gladden Farms, AZ',

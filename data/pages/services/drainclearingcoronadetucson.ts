@@ -6,7 +6,7 @@ export const drainclearingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Corona de Tucson AZ | Professional Clog Removal & Prevention',
   description: 'Professional drain clearing services in Corona de Tucson. Kitchen, bathroom & main line clogs. Hydro jetting, cable snaking, prevention tips. Call (520) 333-2665 for fast drain clearing.',
-  slug: 'drain-clearing-coronade-tucson',
+  slug: 'drain-clearing-corona-de-tucson',
   
   // Hero Section
   h1: 'Professional Drain Clearing Services in Corona de Tucson',

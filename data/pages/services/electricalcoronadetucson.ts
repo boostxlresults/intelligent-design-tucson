@@ -9,7 +9,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Corona de Tucson AZ | Licensed Electrical Services',
   description: 'Licensed electrician in Corona de Tucson, AZ. Electrical repairs, panel upgrades, generator installation, lighting, outlets. 24/7 emergency service. BBB A+ rated.',
-  slug: 'electrical-coronade-tucson',
+  slug: 'electrical-corona-de-tucson',
   
   // Hero Section
   h1: 'Licensed Electrician in Corona de Tucson, AZ',

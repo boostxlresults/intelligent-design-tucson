@@ -5,7 +5,7 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Saddle Brooke / Catalina AZ | Senior-Friendly Heating Services',
   description: 'Trusted heating services for Saddle Brooke / Catalina active adult communities. Serving zip codes 85623, 85739 since 1979. Furnace repair, heat pump service, preventive maintenance. Licensed, BBB A+ rated.',
-  slug: 'heating-saddlebrookecatalina',
+  slug: 'heating-saddle-brooke-catalina',
   
   // Hero Section
   h1: 'Heating Services in Saddle Brooke / Catalina, AZ',

@@ -8,7 +8,7 @@ export const hvacritaranchData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services Rita Ranch AZ | Air Conditioning Repair & Installation',
   description: 'Expert HVAC & air conditioning services in Rita Ranch, AZ. AC repair, installation, maintenance, ductless mini-splits, heat pumps. 24/7 emergency service. BBB A+ rated. Serving Vail master-planned communities since 1979.',
-  slug: 'h-v-a-c-rita-ranch',
+  slug: 'hvac-rita-ranch',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Rita Ranch, AZ',

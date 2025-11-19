@@ -5,7 +5,7 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Drain & Sewer Services Corona de Tucson AZ | 24/7 Emergency Drain Clearing',
   description: 'Expert drain clearing and sewer repair in Corona de Tucson, AZ. Serving zip codes 85641 since 1979. Camera inspections, hydro-jetting, trenchless repair. Licensed, BBB A+ rated.',
-  slug: 'drainsewer-coronadetucson',
+  slug: 'drain-sewer-corona-de-tucson',
   
   // Hero Section
   h1: 'Drain & Sewer Services in Corona de Tucson, AZ',

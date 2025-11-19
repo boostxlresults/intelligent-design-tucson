@@ -6,7 +6,7 @@ export const heatingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Red Rock / Casa Grande AZ | Expert Heating Services',
   description: 'Expert heating services in Red Rock / Casa Grande, AZ. Serving zip codes 85122, 85193, 85194 since 1979. Licensed, insured, BBB A+ rated. 24/7 emergency service available.',
-  slug: 'heating-redrockcasagrande',
+  slug: 'heating-red-rock-casa-grande',
   
   // Hero Section
   h1: 'Heating Services in Red Rock / Casa Grande, AZ',

@@ -8,7 +8,7 @@ export const hvactucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC Services Tucson AZ | Air Conditioning & Heating Experts | Intelligent Design',
   description: 'Complete HVAC services in Tucson, AZ since 1979. AC & heating repair, installation, maintenance. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert technicians for all your comfort needs.',
-  slug: 'h-v-a-c-tucson',
+  slug: 'hvac-tucson',
   
   // Hero Section
   h1: 'Complete HVAC Services in Tucson, AZ',

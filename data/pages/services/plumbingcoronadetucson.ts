@@ -7,7 +7,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Corona de Tucson AZ | Licensed Plumber | 24/7 Emergency',
   description: 'Expert plumbing services in Corona de Tucson, AZ since 1979. Water heater installation, drain cleaning, leak detection, sewer repair. Specializing in rural homes & septic systems. 22,000+ 5-star reviews. BBB A+ rated. Licensed, bonded, insured. Same-day service available.',
-  slug: 'plumbing-coronade-tucson',
+  slug: 'plumbing-corona-de-tucson',
   
   // Hero Section
   h1: 'Expert Plumbing Services in Corona de Tucson, AZ',
