@@ -1,0 +1,47 @@
+14:22:08.202 Running build in Washington, D.C., USA (East) – iad1
+14:22:08.203 Build machine configuration: 4 cores, 8 GB
+14:22:08.324 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: ce35243)
+14:22:08.325 Previous build caches not available.
+14:22:19.799 Cloning completed: 11.475s
+14:22:20.419 Running "vercel build"
+14:22:20.827 Vercel CLI 48.10.3
+14:22:21.342 Installing dependencies...
+14:22:27.061 npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+14:22:27.149 npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+14:22:38.353 
+14:22:38.354 added 653 packages in 17s
+14:22:38.354 
+14:22:38.354 176 packages are looking for funding
+14:22:38.354   run `npm fund` for details
+14:22:38.404 Detected Next.js version: 16.0.1
+14:22:38.413 Running "npm run build"
+14:22:38.527 
+14:22:38.527 > intelligent-design-nextjs@1.0.0 build
+14:22:38.527 > next build
+14:22:38.527 
+14:22:39.409 ✅ Generated 270 service redirects for SEO preservation
+14:22:39.433 Attention: Next.js now collects completely anonymous telemetry regarding usage.
+14:22:39.433 This information is used to shape Next.js' roadmap and prioritize features.
+14:22:39.434 You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+14:22:39.434 https://nextjs.org/telemetry
+14:22:39.434 
+14:22:39.445    ▲ Next.js 16.0.1 (Turbopack)
+14:22:39.445 
+14:22:39.560 ✅ Generated 270 service redirects for SEO preservation
+14:22:39.615    Creating an optimized production build ...
+14:22:52.855  ✓ Compiled successfully in 12.7s
+14:22:52.867    Running TypeScript ...
+14:23:07.797 Failed to compile.
+14:23:07.797 
+14:23:07.798 ./nextjs-app-BACKUP-20251110/app/blog/[category]/[slug]/page.tsx:13:10
+14:23:07.798 Type error: '"@/lib/markdownParser"' has no exported member named 'parseBlogPost'. Did you mean 'ParsedBlogPost'?
+14:23:07.798 
+14:23:07.798 [0m [90m 11 |[39m [36mimport[39m [33mGTM[39m [36mfrom[39m [32m"@/components/integrations/GTM"[39m[33m;[39m
+14:23:07.798  [90m 12 |[39m [36mimport[39m [33mDNIInjector[39m [36mfrom[39m [32m"@/components/integrations/DNIInjector"[39m[33m;[39m
+14:23:07.798 [31m[1m>[22m[39m[90m 13 |[39m [36mimport[39m { parseBlogPost[33m,[39m type [33mParsedBlogPost[39m } [36mfrom[39m [32m'@/lib/markdownParser'[39m[33m;[39m
+14:23:07.798  [90m    |[39m          [31m[1m^[22m[39m
+14:23:07.798  [90m 14 |[39m [36mimport[39m { generateBlogMetadata } [36mfrom[39m [32m'@/lib/seo/generateMetadata'[39m[33m;[39m
+14:23:07.798  [90m 15 |[39m [36mimport[39m { generateArticleSchema[33m,[39m generateBreadcrumbSchema } [36mfrom[39m [32m'@/lib/seo/generateServiceSchema'[39m[33m;[39m
+14:23:07.798  [90m 16 |[39m [36mimport[39m { promises [36mas[39m fs } [36mfrom[39m [32m'fs'[39m[33m;[39m[0m
+14:23:07.866 Next.js build worker exited with code: 1 and signal: null
+14:23:07.909 Error: Command "npm run build" exited with 1

@@ -34,6 +34,8 @@
     "node_modules",
     "legacy-client",
     "legacy-server",
-    "legacy-shared"
+    "legacy-shared",
+    "nextjs-app-BACKUP-20251110",
+    "public-backup"
   ]
 }
