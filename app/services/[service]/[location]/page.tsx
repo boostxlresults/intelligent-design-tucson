@@ -86,7 +86,7 @@ export default async function ServiceLocationRoute({ params }: ServiceLocationPa
   }
   
   // Dynamically import the ServiceLocationPage component
-  const { default: ServiceLocationPage } = await import('@/components/ServiceLocationPage');
+  const { default: ServiceLocationPage } = await import('@/components/pages/ServiceLocationPage');
   
   // Render the service location page
   return <ServiceLocationPage serviceData={serviceData} service={service} location={location} />;
