@@ -16,7 +16,7 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   
   // Service Info
   serviceName: 'Heating Services - Saddle Brooke / Catalina',
-  category: 'Heating',
+  category: 'HVAC',
   
   // Content
   highlights: [
