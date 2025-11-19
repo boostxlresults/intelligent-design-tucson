@@ -1,8 +1,6 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
 import { Calendar, Clock, ChevronRight } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -122,9 +120,6 @@ export default async function BlogCategoryPage({
   
   return (
     <div className="min-h-screen flex flex-col bg-background">
-      <Header />
-      
-      <main className="flex-1">
         {/* Breadcrumb Navigation */}
         <nav className="border-b border-border bg-card">
           <div className="max-w-7xl mx-auto px-4 py-3">
@@ -236,9 +231,6 @@ export default async function BlogCategoryPage({
             )}
           </div>
         </section>
-      </main>
-      
-      <Footer />
     </div>
   );
 }

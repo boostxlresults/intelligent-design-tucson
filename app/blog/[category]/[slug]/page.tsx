@@ -4,12 +4,9 @@ import Link from 'next/link';
 import { Phone, Clock, Calendar, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import Header from "@/components/layout/Header";
-import Footer from "@/components/layout/Footer";
-import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
+
 import TrustBar from "@/components/content/TrustBar";
-import GTM from "@/components/integrations/GTM";
-import DNIInjector from "@/components/integrations/DNIInjector";
+
 import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/markdownParser';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { promises as fs } from 'fs';
@@ -135,11 +132,7 @@ export default async function BlogPostPage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <GTM />
-      <DNIInjector />
-
       <div className="min-h-screen flex flex-col bg-background">
-        <Header />
 
         <main className="flex-1">
           {/* Breadcrumb Navigation */}
@@ -257,8 +250,6 @@ export default async function BlogPostPage({
           <TrustBar />
         </main>
 
-        <Footer />
-        <MobileFloatingActions />
       </div>
     </>
   );

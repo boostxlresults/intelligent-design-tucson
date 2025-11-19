@@ -1,6 +1,4 @@
 import { Metadata } from 'next';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { generateBreadcrumbSchema } from '@/lib/seo';
 
@@ -23,8 +21,7 @@ export default function PrivacyPolicyPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      <Header />
-      <main className="min-h-screen">
+      <div className="min-h-screen">
         <div className="container mx-auto px-4 py-12 max-w-4xl">
           <nav className="text-sm text-muted-foreground mb-6" data-testid="breadcrumb-nav">
             <a href="/" className="hover:text-primary" data-testid="link-breadcrumb-home">Home</a>
@@ -147,8 +144,7 @@ export default function PrivacyPolicyPage() {
             </section>
           </div>
         </div>
-      </main>
-      <Footer />
+      </div>
     </>
   );
 }

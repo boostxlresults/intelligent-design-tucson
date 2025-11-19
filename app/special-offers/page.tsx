@@ -1,7 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
+
 import { Gift, DollarSign, Calendar, Phone, CheckCircle } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -95,7 +94,7 @@ export default function SpecialOffersPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
-      <Header />
+      
       <main className="min-h-screen">
         {/* Hero Section */}
         <section className="bg-gradient-to-b from-primary/5 to-background py-12">
@@ -230,7 +229,7 @@ export default function SpecialOffersPage() {
           </div>
         </section>
       </main>
-      <Footer />
+      
     </>
   );
 }
