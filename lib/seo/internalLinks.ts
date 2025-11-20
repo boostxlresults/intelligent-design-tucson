@@ -114,12 +114,19 @@ export function createInternalLink(key: keyof typeof knowledgeHubLinks, linkText
 
 /**
  * Process text content and replace link tokens with actual links
- * Tokens format: [link:knowledgehub.nateCertification:link text here]
+ * Supports two formats:
+ * 1. [link:knowledgehub.nateCertification:link text here] - uses registry
+ * 2. [link:/path/to/page|link text] - direct URL paths
  */
 export function processInternalLinks(content: string): string {
-  const linkPattern = /\[link:knowledgehub\.(\w+):([^\]]+)\]/g;
+  // Pattern 1: Registry-based links [link:knowledgehub.key:text]
+  const registryPattern = /\[link:knowledgehub\.(\w+):([^\]]+)\]/g;
   
-  return content.replace(linkPattern, (match, key, linkText) => {
+  // Pattern 2: Direct URL links [link:/path|text]
+  const directUrlPattern = /\[link:(\/[^\|]+)\|([^\]]+)\]/g;
+  
+  // First process registry-based links
+  let processed = content.replace(registryPattern, (match, key, linkText) => {
     const config = knowledgeHubLinks[key as keyof typeof knowledgeHubLinks];
     if (!config) {
       console.warn(`Internal link key "${key}" not found in registry`);
@@ -127,4 +134,11 @@ export function processInternalLinks(content: string): string {
     }
     return `<a href="${config.url}" title="${config.description}" class="text-blue-600 hover:text-blue-800 underline font-medium">${linkText}</a>`;
   });
+  
+  // Then process direct URL links
+  processed = processed.replace(directUrlPattern, (match, url, linkText) => {
+    return `<a href="${url}" class="text-blue-600 hover:text-blue-800 underline font-medium">${linkText}</a>`;
+  });
+  
+  return processed;
 }
