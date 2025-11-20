@@ -1,0 +1,59 @@
+Perfect! Let me take a look at how the realworklabs widget works on your current site:
+
+
+Visited https://www.idesignac.com/recent-projects/
+
+Pondered widget content ambiguity (4 seconds)
+Excellent! Thanks for the heads up about the realworklabs widget. From what you've described, it sounds like a powerful social proof tool that:
+
+📊 realworklabs Widget Overview
+What it does:
+
+Matches Google reviews with actual ServiceTitan job records
+Displays real customer reviews alongside job details
+Shows zip codes for location credibility
+Provides service descriptions/context
+SEO & Conversion Value:
+
+Fresh Content: Real-time updates from recent jobs
+Local Proof: Zip codes show service coverage
+Review Authenticity: Reviews tied to actual jobs (not just generic testimonials)
+Trust Signal: ServiceTitan integration proves legitimate business operations
+User-Generated Content: Google reviews = fresh, authentic content
+🎯 Suggested Pages for Implementation
+Based on your site architecture, here are the best candidates:
+
+High-Impact Pages:
+Homepage - Primary social proof, highest traffic
+Services Overview Page - Show variety of completed jobs
+Recent Projects Page - Dedicated showcase (like current site)
+Strategic Service Pages:
+Main Service Pages (AC Repair Tucson, Plumbing Tucson, etc.) - Filter widget to show only relevant service reviews
+High-Traffic Location Pages (Oro Valley, Tucson, Marana) - Filter by zip code to show local social proof
+🔧 Technical Integration Notes
+When you're ready to implement, I'll need:
+
+Script source URL - The realworklabs embed script
+API key/account ID - If widget requires authentication
+Configuration options - Filtering by service type, zip code, date range
+Display preferences - Number of reviews, layout style, refresh interval
+Implementation approach:
+
+Add script to <head> or load dynamically via component
+Create a <RealWorkLabsWidget> React component for reusability
+Pass props for filtering (service type, location, limit)
+Ensure proper loading states and fallbacks
+Add to GTM for conversion tracking (widget views/interactions)
+💡 Advanced Use Cases
+Service-Specific Filtering:
+
+// Show only HVAC reviews on HVAC pages
+<RealWorkLabsWidget serviceType="hvac" limit={10} />
+// Show only Oro Valley jobs on Oro Valley page
+<RealWorkLabsWidget zipCode="85737" limit={8} />
+
+SEO Enhancement:
+
+Widget content should be crawlable (not just iframe)
+Each review could have Review schema markup
+Could improve "freshness" signals for Google

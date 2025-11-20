@@ -90,7 +90,7 @@ const nextConfig: NextConfig = {
     const legacyRedirects = [
       {
         source: '/about-intelligent-design',
-        destination: '/',
+        destination: '/knowledge-hub',
         permanent: true
       }
     ];
