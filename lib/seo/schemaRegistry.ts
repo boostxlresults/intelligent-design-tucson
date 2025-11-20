@@ -187,7 +187,9 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
       url: canonicalUrl
     });
   }
-  schemas.push(generateBreadcrumbs(breadcrumbItems, canonicalUrl.split('/').slice(0, 3).join('/')));
+  // Extract proper base URL (protocol + domain)
+  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://intelligentdesignhvac.com';
+  schemas.push(generateBreadcrumbs(breadcrumbItems, baseUrl));
 
   // 5. HowTo Schema (if preparation guide exists) ✅ NEW
   if (pageData.howToGuide) {
