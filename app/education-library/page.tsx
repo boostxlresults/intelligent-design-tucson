@@ -129,48 +129,122 @@ export default function EducationLibraryPage() {
             </div>
           </div>
 
-          {/* YouTube Channel Embed */}
+          {/* Featured Video Playlists */}
           <div className="mb-16">
-            <div className="text-center mb-8">
-              <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-videos-title">
-                Watch All Our Educational Videos
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-playlists-title">
+                Featured Educational Playlists
               </h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Subscribe to our YouTube channel for helpful tips, tutorials, and expert advice on home comfort systems
+                Explore our curated playlists covering HVAC, plumbing, solar, electrical, and home maintenance topics
               </p>
             </div>
             
-            {/* YouTube Channel Grid - Using latest uploads playlist */}
-            <div className="bg-card border border-border rounded-lg p-6">
-              <div className="aspect-video">
-                <iframe
-                  src="https://www.youtube.com/embed?listType=user_uploads&list=Idesignac"
-                  title="Intelligent Design YouTube Channel"
-                  className="w-full h-full rounded-lg"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                  data-testid="iframe-youtube-embed"
-                />
+            <div className="grid lg:grid-cols-2 gap-8">
+              {/* Playlist 1 - Example (replace with actual playlist) */}
+              <div className="bg-card border border-border rounded-lg p-6">
+                <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-1-title">
+                  HVAC Systems & Maintenance
+                </h3>
+                <div className="aspect-video mb-4">
+                  <iframe
+                    src="https://www.youtube.com/embed/videoseries?si=Bw_4vDuVOvyjxmJ3&amp;list=PLGh6_eWndI3Ncpv0utLkNAEKVn_i-nnBK"
+                    title="HVAC Educational Playlist"
+                    className="w-full h-full rounded-lg"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                    data-testid="iframe-playlist-1"
+                  />
+                </div>
+                <p className="text-muted-foreground">
+                  Learn how air conditioners work, energy efficiency tips, and maintenance best practices
+                </p>
               </div>
-              <div className="mt-6 text-center">
-                <Button 
-                  asChild
-                  variant="destructive"
-                  size="lg"
-                  className="bg-red-600 hover:bg-red-700"
-                  data-testid="button-subscribe"
+
+              {/* Playlist 2 - Placeholder */}
+              <div className="bg-card border border-border rounded-lg p-6">
+                <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-2-title">
+                  Plumbing Tips & Tutorials
+                </h3>
+                <div className="aspect-video mb-4">
+                  <iframe
+                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
+                    title="Plumbing Educational Playlist"
+                    className="w-full h-full rounded-lg"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                    data-testid="iframe-playlist-2"
+                  />
+                </div>
+                <p className="text-muted-foreground">
+                  Expert advice on plumbing repairs, water heater maintenance, and common household fixes
+                </p>
+              </div>
+
+              {/* Playlist 3 - Placeholder */}
+              <div className="bg-card border border-border rounded-lg p-6">
+                <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-3-title">
+                  Solar Energy Solutions
+                </h3>
+                <div className="aspect-video mb-4">
+                  <iframe
+                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
+                    title="Solar Educational Playlist"
+                    className="w-full h-full rounded-lg"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                    data-testid="iframe-playlist-3"
+                  />
+                </div>
+                <p className="text-muted-foreground">
+                  Discover the benefits of solar power, installation process, and energy savings
+                </p>
+              </div>
+
+              {/* Playlist 4 - Placeholder */}
+              <div className="bg-card border border-border rounded-lg p-6">
+                <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-4-title">
+                  Electrical Safety & Upgrades
+                </h3>
+                <div className="aspect-video mb-4">
+                  <iframe
+                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
+                    title="Electrical Educational Playlist"
+                    className="w-full h-full rounded-lg"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                    data-testid="iframe-playlist-4"
+                  />
+                </div>
+                <p className="text-muted-foreground">
+                  Learn about electrical safety, panel upgrades, and modern home electrical systems
+                </p>
+              </div>
+            </div>
+
+            {/* Subscribe CTA */}
+            <div className="mt-12 text-center">
+              <Button 
+                asChild
+                variant="destructive"
+                size="lg"
+                className="bg-red-600 hover:bg-red-700"
+                data-testid="button-subscribe"
+              >
+                <a 
+                  href="https://www.youtube.com/@Idesignac?sub_confirmation=1" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2"
                 >
-                  <a 
-                    href="https://www.youtube.com/@Idesignac?sub_confirmation=1" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2"
-                  >
-                    <Youtube className="w-5 h-5" />
-                    Subscribe on YouTube
-                  </a>
-                </Button>
-              </div>
+                  <Youtube className="w-5 h-5" />
+                  Subscribe on YouTube for More Videos
+                </a>
+              </Button>
             </div>
           </div>
 
