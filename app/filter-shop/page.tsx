@@ -220,7 +220,7 @@ export default function FilterShopPage() {
                   <p className="text-sm">The Right Size Filter</p>
                 </div>
               </div>
-              <SchedulerCluster position="cta" />
+              <SchedulerCluster position="middle" />
             </div>
           </div>
         </section>
