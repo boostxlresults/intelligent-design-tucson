@@ -5,13 +5,11 @@ import Script from 'next/script';
 
 interface PulseMWidgetProps {
   containerId?: string;
-  showLoadingState?: boolean;
   className?: string;
 }
 
 export default function PulseMWidget({ 
   containerId = 'pulsem-reviews-container',
-  showLoadingState = true,
   className = ''
 }: PulseMWidgetProps) {
   useEffect(() => {
@@ -35,21 +33,12 @@ export default function PulseMWidget({
         defer
       />
       
-      {/* Widget Container */}
+      {/* Widget Container - PulseM will populate this */}
       <div 
         id={containerId} 
         data-testid="pulsem-widget-container"
         className={`min-h-[400px] ${className}`}
-      >
-        {showLoadingState && (
-          <div className="flex items-center justify-center py-12">
-            <div className="text-center">
-              <div className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-primary border-r-transparent mb-4"></div>
-              <p className="text-muted-foreground">Loading reviews...</p>
-            </div>
-          </div>
-        )}
-      </div>
+      />
     </>
   );
 }
