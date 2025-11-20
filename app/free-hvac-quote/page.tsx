@@ -132,7 +132,7 @@ export default function FreeHVACQuotePage() {
               <p className="text-xl mb-8 text-muted-foreground">
                 Schedule a free in-home consultation for a detailed assessment and personalized recommendations
               </p>
-              <SchedulerCluster position="cta" />
+              <SchedulerCluster position="middle" />
             </div>
           </div>
         </section>

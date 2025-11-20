@@ -196,7 +196,7 @@ export default function WaterHeaterQuotePage() {
               <p className="text-xl mb-8 text-muted-foreground">
                 Schedule a free consultation to discuss your water heater options with a licensed plumber
               </p>
-              <SchedulerCluster position="cta" />
+              <SchedulerCluster position="middle" />
             </div>
           </div>
         </section>
