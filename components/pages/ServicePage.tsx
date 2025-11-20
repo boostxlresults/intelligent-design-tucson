@@ -7,6 +7,8 @@ import { ReviewModule } from "@/components/ReviewModule";
 import { ClientSchemas } from "@/components/ClientSchemas";
 import TrustBar from "@/components/content/TrustBar";
 import RichText from "@/components/content/RichText";
+import RealWorkLabsWidget from "@/components/integrations/RealWorkLabsWidget";
+import { getServiceTypeFromSlug } from "@/lib/realworklabs/serviceTypeMapping";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -17,6 +19,7 @@ import type { ServicePageData } from "@/types/services";
  * - ServiceTitan scheduler 3x (hero, middle, bottom)
  * - DNI phone tracking (via root layout)
  * - 22,000+ reviews module
+ * - Filtered project gallery (RealWorkLabs)
  * - SEO-optimized content structure
  * - JSON-LD schema markup for AI SEO
  */
@@ -24,10 +27,14 @@ import type { ServicePageData } from "@/types/services";
 interface ServicePageProps {
   data: ServicePageData;
   schemas?: Array<Record<string, unknown>>;
+  serviceSlug?: string;
 }
 
-export default function ServicePage({ data, schemas }: ServicePageProps) {
+export default function ServicePage({ data, schemas, serviceSlug }: ServicePageProps) {
   console.log(`[ServicePage] Received ${schemas?.length || 0} schemas`);
+  
+  // Determine the service type for filtering the project gallery
+  const serviceType = serviceSlug ? getServiceTypeFromSlug(serviceSlug) : 'all';
   
   return (
     <article className="min-h-screen">
@@ -291,6 +298,34 @@ export default function ServicePage({ data, schemas }: ServicePageProps) {
       <section className="py-16 bg-muted/30">
         <div className="container mx-auto px-4 max-w-7xl">
           <ReviewModule variant="full" />
+        </div>
+      </section>
+
+      {/* Recent Projects Gallery - Filtered by Service Type */}
+      <section className="py-16">
+        <div className="container mx-auto px-4 max-w-7xl">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-projects-title">
+              Recent {data.serviceName} Projects
+            </h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+              See real installations and repairs from homeowners across Tucson
+            </p>
+          </div>
+          
+          <div className="bg-card rounded-lg border border-border p-6">
+            <RealWorkLabsWidget 
+              serviceType={serviceType}
+              limit={12}
+              showLoadingState={true}
+            />
+          </div>
+          
+          <div className="mt-8 text-center">
+            <p className="text-muted-foreground">
+              Showing recent {serviceType === 'all' ? 'projects' : `${serviceType.toUpperCase()} projects`} from across the Tucson area. Each project includes real customer reviews matched with actual job details.
+            </p>
+          </div>
         </div>
       </section>
 
