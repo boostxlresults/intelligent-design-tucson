@@ -356,10 +356,6 @@
       "dataFile": "electricalvail",
       "canonicalSlug": "electrical-vail"
     },
-    "family-protection-plans": {
-      "dataFile": "familyprotectionplans",
-      "canonicalSlug": "family-protection-plans"
-    },
     "financing": {
       "dataFile": "financing",
       "canonicalSlug": "financing"
@@ -632,10 +628,6 @@
       "dataFile": "metalroofs",
       "canonicalSlug": "metal-roofs"
     },
-    "new-homebuyer-offer": {
-      "dataFile": "newhomebuyeroffer",
-      "canonicalSlug": "new-homebuyer-offer"
-    },
     "outdoor-motion-lighting": {
       "dataFile": "outdoormotionlighting",
       "canonicalSlug": "outdoor-motion-lighting"
@@ -747,14 +739,6 @@
     "privacy-policy": {
       "dataFile": "privacypolicy",
       "canonicalSlug": "privacy-policy"
-    },
-    "realtors-offer": {
-      "dataFile": "realtorsoffer",
-      "canonicalSlug": "realtors-offer"
-    },
-    "recent-projects": {
-      "dataFile": "recentprojects",
-      "canonicalSlug": "recent-projects"
     },
     "residential-roof-coating": {
       "dataFile": "residentialroofcoating",
@@ -1170,7 +1154,6 @@
     "electricaltucson": "electrical-tucson",
     "electricaltucsonestates": "electrical-tucson-estates",
     "electricalvail": "electrical-vail",
-    "familyprotectionplans": "family-protection-plans",
     "flatroofs": "flat-roofs",
     "furnaces": "furnaces-tucson",
     "garbagedisposal": "garbage-disposal",
@@ -1236,7 +1219,6 @@
     "leakdetection": "leak-detection",
     "lightingupgrades": "lighting-upgrades",
     "metalroofs": "metal-roofs",
-    "newhomebuyeroffer": "new-homebuyer-offer",
     "outdoormotionlighting": "outdoor-motion-lighting",
     "outletsswitches": "outlets-switches",
     "pitchedroofs": "pitched-roofs",
@@ -1265,8 +1247,6 @@
     "plumbingtucsonestates": "plumbing-tucson-estates",
     "plumbingvail": "plumbing-vail",
     "privacypolicy": "privacy-policy",
-    "realtorsoffer": "realtors-offer",
-    "recentprojects": "recent-projects",
     "residentialroofcoating": "residential-roof-coating",
     "residentialroofinspection": "residential-roof-inspection",
     "residentialroofinstallation": "residential-roof-installation",

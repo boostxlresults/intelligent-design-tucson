@@ -25,7 +25,8 @@ async function generateServiceRedirects() {
     const standalonePages = new Set([
       'financing', 'guarantees', 'resources', 'home', 'about',
       'contact', 'careers', 'privacy-policy', 'special-offers',
-      'customer-reviews', 'video-testimonials'
+      'customer-reviews', 'video-testimonials', 'family-protection-plans',
+      'new-homebuyer-offer', 'realtors-offer', 'recent-projects'
     ]);
     
     // Generate redirects for canonical services only
