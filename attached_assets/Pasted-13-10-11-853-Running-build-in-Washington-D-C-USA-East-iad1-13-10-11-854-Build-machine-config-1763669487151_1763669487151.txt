@@ -1,0 +1,41 @@
+13:10:11.853 Running build in Washington, D.C., USA (East) – iad1
+13:10:11.854 Build machine configuration: 4 cores, 8 GB
+13:10:11.988 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 8be4a0e)
+13:10:26.960 Cloning completed: 14.972s
+13:10:27.287 Restored build cache from previous deployment (5nVuVLwbN6yGoVQCxKW9cvjLEuEh)
+13:10:28.296 Running "vercel build"
+13:10:28.710 Vercel CLI 48.10.3
+13:10:29.252 Installing dependencies...
+13:10:31.108 
+13:10:31.109 up to date in 2s
+13:10:31.109 
+13:10:31.109 176 packages are looking for funding
+13:10:31.109   run `npm fund` for details
+13:10:31.141 Detected Next.js version: 16.0.1
+13:10:31.146 Running "npm run build"
+13:10:31.260 
+13:10:31.261 > intelligent-design-nextjs@1.0.0 build
+13:10:31.261 > next build
+13:10:31.261 
+13:10:32.377 ✅ Generated 775 service redirects (266 canonical, 258 aliases) for SEO preservation
+13:10:32.434    ▲ Next.js 16.0.1 (Turbopack)
+13:10:32.435 
+13:10:32.493 ✅ Generated 775 service redirects (266 canonical, 258 aliases) for SEO preservation
+13:10:32.544    Creating an optimized production build ...
+13:10:48.251  ✓ Compiled successfully in 15.1s
+13:10:48.262    Running TypeScript ...
+13:11:03.451 Failed to compile.
+13:11:03.452 
+13:11:03.452 ./app/[slug]/page.tsx:190:44
+13:11:03.452 Type error: Type '{ data: ServicePageData; serviceSlug: string; }' is not assignable to type 'IntrinsicAttributes & ServicePageProps'.
+13:11:03.452   Property 'serviceSlug' does not exist on type 'IntrinsicAttributes & ServicePageProps'.
+13:11:03.452 
+13:11:03.452 [0m [90m 188 |[39m       }
+13:11:03.452  [90m 189 |[39m     }
+13:11:03.452 [31m[1m>[22m[39m[90m 190 |[39m     [36mreturn[39m [33m<[39m[33mServicePage[39m data[33m=[39m{serviceData} serviceSlug[33m=[39m{serviceSlug} [33m/[39m[33m>[39m[33m;[39m
+13:11:03.452  [90m     |[39m                                            [31m[1m^[22m[39m
+13:11:03.452  [90m 191 |[39m   } [36melse[39m {
+13:11:03.452  [90m 192 |[39m     [36mconst[39m locationData [33m=[39m (locationExports [36mas[39m any)[dataKey] [36mas[39m [33mLocationPageData[39m [33m|[39m undefined[33m;[39m
+13:11:03.453  [90m 193 |[39m     [36mif[39m ([33m![39mlocationData) {[0m
+13:11:03.514 Next.js build worker exited with code: 1 and signal: null
+13:11:03.564 Error: Command "npm run build" exited with 1

@@ -173,21 +173,7 @@ export default async function DynamicRoute({ params }: DynamicServiceLocationPag
     // Use ServicePage component for service pages
     // NOTE: JSON-LD schemas are now injected by proxy.ts at network boundary
     const ServicePage = (await import('@/components/pages/ServicePage')).default;
-    
-    // Extract the service slug for filtering project gallery
-    let serviceSlug = slug;
-    // Handle service-location format (e.g., "hvac-tucson" -> "hvac")
-    const parts = slug.split('-');
-    if (parts.length >= 2) {
-      // Try to find if this is a service-location combo
-      const manifestEntry = serviceLocationsManifest.find(
-        entry => `${entry.service}-${entry.location}` === slug
-      );
-      if (manifestEntry) {
-        serviceSlug = manifestEntry.service;
-      }
-    }
-    return <ServicePage data={serviceData} serviceSlug={serviceSlug} />;
+    return <ServicePage data={serviceData} />;
   } else {
     const locationData = (locationExports as any)[dataKey] as LocationPageData | undefined;
     if (!locationData) {
