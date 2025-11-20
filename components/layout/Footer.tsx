@@ -21,6 +21,7 @@ export default function Footer() {
     { name: "About Us", href: "#about" },
     { name: "Reviews", href: "#reviews" },
     { name: "Careers", href: "#careers" },
+    { name: "Customer Service & Scheduling", href: "/schedule" },
     { name: "Contact", href: "#contact" },
   ];
 
