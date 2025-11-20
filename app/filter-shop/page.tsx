@@ -1,5 +1,4 @@
 import { Metadata } from 'next';
-import Script from 'next/script';
 import { generateMetadata as generateFullMetadata } from '@/lib/seo/generateMetadata';
 import { SchedulerCluster } from '@/components/SchedulerCluster';
 import { Wind, DollarSign, Shield, Wrench, CheckCircle2 } from 'lucide-react';
@@ -13,13 +12,7 @@ export const metadata: Metadata = generateFullMetadata({
 
 export default function FilterShopPage() {
   return (
-    <>
-      <Script
-        src="https://plugin.contractorcommerce.com?key=D32QhwUokdL5YZLParGpbxc7TuBTkYanGNQSR4zd"
-        strategy="lazyOnload"
-      />
-      
-      <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background">
         {/* Hero Section */}
         <section className="bg-gradient-to-br from-primary/90 to-primary py-16 md:py-24">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -270,6 +263,5 @@ export default function FilterShopPage() {
           </div>
         </section>
       </div>
-    </>
   );
 }

@@ -6,6 +6,7 @@ import Footer from "@/components/layout/Footer";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
+import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import CookieConsent from "@/components/integrations/CookieConsent";
 import { Toaster } from "@/components/ui/toaster";
 import AccessibilityToggle from "@/components/content/AccessibilityToggle";
@@ -43,6 +44,7 @@ export default function RootLayout({
       <body className={`${inter.variable} font-sans antialiased`}>
         <GTM />
         <DNIInjector />
+        <ContractorCommercePlugin />
         <Header />
         <main className="flex-1">
           {children}
