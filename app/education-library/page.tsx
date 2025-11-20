@@ -162,15 +162,15 @@ export default function EducationLibraryPage() {
                 </p>
               </div>
 
-              {/* Playlist 2 - Placeholder */}
+              {/* Playlist 2 - Real Customer Reviews */}
               <div className="bg-card border border-border rounded-lg p-6">
                 <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-2-title">
-                  Plumbing Tips & Tutorials
+                  Real Customer Reviews
                 </h3>
                 <div className="aspect-video mb-4">
                   <iframe
-                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
-                    title="Plumbing Educational Playlist"
+                    src="https://www.youtube.com/embed/videoseries?si=q1PGlGTgiagiW1wF&amp;list=PLGh6_eWndI3NIxfCi7VvhA5WQ5S3rtlKy"
+                    title="Real Customer Reviews"
                     className="w-full h-full rounded-lg"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin"
@@ -179,7 +179,7 @@ export default function EducationLibraryPage() {
                   />
                 </div>
                 <p className="text-muted-foreground">
-                  Expert advice on plumbing repairs, water heater maintenance, and common household fixes
+                  Hear directly from Tucson homeowners about their experiences with Intelligent Design. Watch authentic video testimonials showcasing our commitment to quality service, expert craftsmanship, and customer satisfaction across HVAC, plumbing, solar, and electrical projects.
                 </p>
               </div>
 
