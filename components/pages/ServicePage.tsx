@@ -28,9 +28,10 @@ interface ServicePageProps {
   data: ServicePageData;
   schemas?: Array<Record<string, unknown>>;
   serviceSlug?: string;
+  locationZip?: string;
 }
 
-export default function ServicePage({ data, schemas, serviceSlug }: ServicePageProps) {
+export default function ServicePage({ data, schemas, serviceSlug, locationZip }: ServicePageProps) {
   console.log(`[ServicePage] Received ${schemas?.length || 0} schemas`);
   
   // Determine the service type for filtering the project gallery
@@ -316,6 +317,7 @@ export default function ServicePage({ data, schemas, serviceSlug }: ServicePageP
           <div className="bg-card rounded-lg border border-border p-6">
             <RealWorkLabsWidget 
               serviceType={serviceType}
+              zipCode={locationZip}
               limit={12}
               showLoadingState={true}
             />
@@ -323,7 +325,7 @@ export default function ServicePage({ data, schemas, serviceSlug }: ServicePageP
           
           <div className="mt-8 text-center">
             <p className="text-muted-foreground">
-              Showing recent {serviceType === 'all' ? 'projects' : `${serviceType.toUpperCase()} projects`} from across the Tucson area. Each project includes real customer reviews matched with actual job details.
+              Showing recent {serviceType === 'all' ? 'projects' : `${serviceType.toUpperCase()} projects`} {locationZip ? `in the ${locationZip} area` : 'from across the Tucson area'}. Each project includes real customer reviews matched with actual job details.
             </p>
           </div>
         </div>

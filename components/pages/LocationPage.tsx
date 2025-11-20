@@ -3,6 +3,8 @@ import Link from "next/link";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 import { ReviewModule } from "@/components/ReviewModule";
+import RealWorkLabsWidget from "@/components/integrations/RealWorkLabsWidget";
+import { getZipCodeFromLocation } from "@/lib/realworklabs/locationZipMapping";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ClientSchemas } from "@/components/ClientSchemas";
@@ -30,6 +32,7 @@ import {
  * - ServiceTitan scheduler 3x (hero, middle, bottom)
  * - Service tiles linking to all 6+ services
  * - Reviews module (22,000+)
+ * - Location-filtered project gallery
  * - Location-specific FAQs
  * - SEO-optimized content structure
  */
@@ -52,6 +55,9 @@ const iconMap: Record<string, any> = {
 
 export default function LocationPage({ data, schemas }: LocationPageProps) {
   console.log(`[LocationPage] ${data.slug}: Received ${schemas?.length || 0} schemas`);
+  
+  // Get zip code for location-based project filtering
+  const zipCode = getZipCodeFromLocation(data.slug);
   
   return (
     <article className="min-h-screen">
@@ -284,6 +290,37 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
           <ReviewModule variant="full" />
         </div>
       </section>
+
+      {/* Recent Projects Gallery - Filtered by Location */}
+      {zipCode && (
+        <section className="py-16 bg-muted/30">
+          <div className="container mx-auto px-4 max-w-7xl">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-projects-title">
+                Recent Projects in {data.locationName}
+              </h2>
+              <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+                See real installations and repairs from homeowners in your area
+              </p>
+            </div>
+            
+            <div className="bg-card rounded-lg border border-border p-6">
+              <RealWorkLabsWidget 
+                serviceType="all"
+                zipCode={zipCode}
+                limit={12}
+                showLoadingState={true}
+              />
+            </div>
+            
+            <div className="mt-8 text-center">
+              <p className="text-muted-foreground">
+                Showing recent projects in the {zipCode} area. Each project includes real customer reviews matched with actual job details.
+              </p>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Location FAQs */}
       {data.faqs && data.faqs.length > 0 && (
