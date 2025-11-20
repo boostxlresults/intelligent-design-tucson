@@ -99,11 +99,6 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
-        source: '/r22-phaseout',
-        destination: '/blog/hvac',
-        permanent: true
-      },
-      {
         source: '/about-intelligent-design',
         destination: '/',
         permanent: true

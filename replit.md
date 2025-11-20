@@ -1,7 +1,7 @@
 # Intelligent Design Tucson - Home Services Website
 
 ## Overview
-This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. The site drives service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, builds trust via social proof, optimizes for local SEO, and provides a mobile-first experience. The project's ambition is to build the highest-ranking AI-search and conversion-optimized service site in the country through comprehensive location+service matrix coverage and advanced zip code SEO integration. The current site includes over 480 pages, with 268 service pages (including 140 location-specific service pages), 20 service area pages, and 231 optimized blog posts.
+This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. The site drives service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, builds trust via social proof, optimizes for local SEO, and provides a mobile-first experience. The project's ambition is to build the highest-ranking AI-search and conversion-optimized service site in the country through comprehensive location+service matrix coverage and advanced zip code SEO integration. The current site includes over 480 pages, with 268 service pages (including 140 location-specific service pages), 20 service area pages, 231 optimized blog posts, and dedicated resource pages including the R22 Phaseout information page.
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.
@@ -44,6 +44,7 @@ Preferred communication style: Simple, everyday language.
 - **FAQ Components:** `ServiceFAQ` (centralized system with JSON-LD schema) and `CommonQuestions` (conversational Q&A for AI search optimization) are deployed across service pages.
 - **Location + Service Matrix (140 Pages):** Architecture covering 7 core services across 20 service areas for maximum local SEO, including location-specific content, zip code integration, schema markup, and conversion-focused CTAs.
 - **Blog System:** Automated WordPress scraping for migration, markdown-based content, AI-generated hero images, and SEO-optimized frontmatter.
+- **Resource Pages:** Dedicated informational pages including R22 Phaseout guide (`/r22-phaseout`) with comprehensive FAQ content, multiple scheduler CTAs, and SEO optimization for EPA refrigerant regulations.
 - **Core Strategic Architecture:** Clean silo structure with scalable service area logic, optimized for keyword-based and AI-based search visibility (LLM-ready content), static HTML output capability, mobile-first UX, and professional design.
 - **Canonical Schema System:** Centralized system for consistent NAP (Name, Address, Phone) data across all schemas.
 - **Accessibility System:** WCAG 2.1 AA compliant system with font size controls, high contrast mode, readable font, and enhanced keyboard focus.
