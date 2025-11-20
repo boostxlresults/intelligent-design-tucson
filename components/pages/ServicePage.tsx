@@ -7,6 +7,7 @@ import { ReviewModule } from "@/components/ReviewModule";
 import { ClientSchemas } from "@/components/ClientSchemas";
 import TrustBar from "@/components/content/TrustBar";
 import RichText from "@/components/content/RichText";
+import DrainClearingCoupon from "@/components/specials/DrainClearingCoupon";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -24,10 +25,14 @@ import type { ServicePageData } from "@/types/services";
 interface ServicePageProps {
   data: ServicePageData;
   schemas?: Array<Record<string, unknown>>;
+  slug?: string;
 }
 
-export default function ServicePage({ data, schemas }: ServicePageProps) {
+export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
   console.log(`[ServicePage] Received ${schemas?.length || 0} schemas`);
+  
+  // Show drain clearing special coupon for drain clearing and rooter pages
+  const showDrainSpecial = slug === 'drain-clearing-tucson' || slug === 'rooter-special';
   
   return (
     <article className="min-h-screen">
@@ -91,6 +96,9 @@ export default function ServicePage({ data, schemas }: ServicePageProps) {
 
       {/* Trust Bar - Social Proof */}
       <TrustBar />
+
+      {/* Drain Clearing Special Coupon - Above the Fold */}
+      {showDrainSpecial && <DrainClearingCoupon />}
 
       {/* Highlights Section - 6 Bullet Points with Icons */}
       <section className="bg-gradient-to-b from-gray-50 to-white py-12 md:py-16">

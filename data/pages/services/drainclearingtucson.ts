@@ -10,7 +10,7 @@ export const drainclearingtucsonData: ServicePageData = {
   
   // Hero Section
   h1: 'Professional Drain Clearing Services in Tucson',
-  h2Subheading: 'Expert Drain Clearing in Tucson',
+  h2Subheading: '$28.88 Drain Clearing Special - Limited Time!',
   tagline: 'Fast Clog Removal | Kitchen & Bathroom Drains | Main Sewer Lines | Hydro Jetting | Same-Day Service | 45+ Years Experience',
   heroImage: '/generated_images/Professional_drain_clearing_service_46ea7cfd.webp',
   heroImageAlt: 'Drain Clearing in Tucson',
@@ -38,8 +38,8 @@ export const drainclearingtucsonData: ServicePageData = {
     "description": "Licensed master plumbers | 45+ years local experience | Expert diagnostics | Honest assessments"
   },
   {
-    "title": "Upfront Pricing",
-    "description": "No hidden fees | Clear cost estimates | $99 drain special available | Multiple payment options"
+    "title": "Unbeatable $28.88 Special",
+    "description": "Limited time offer | Standard drain clearing | No hidden fees | New customers in Tucson area"
   },
   {
     "title": "Prevention & Maintenance",
@@ -77,8 +77,8 @@ export const drainclearingtucsonData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Schedule Your Drain Clearing Today",
-            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $99 drain clearing special available. Flexible financing options through approved credit.",
+            "heading": "Schedule Your $28.88 Drain Clearing Special",
+            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. Limited time $28.88 special for standard residential drain clearing. Flexible financing options through approved credit.",
             "buttonText": "Schedule Service",
             "buttonLink": "tel:5203332665"
       },
@@ -639,7 +639,7 @@ export const drainclearingtucsonData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Schedule Professional Drain Clearing Today",
-            "content": "Don't let clogged drains disrupt your life or damage your home. Fast, professional drain clearing with same-day service available throughout Tucson and surrounding areas. Call (520) 333-2665 or schedule online now. Ask about our $99 drain clearing special. Flexible financing options available through approved credit. 24/7 emergency service for urgent situations. 100% satisfaction guaranteed.",
+            "content": "Don't let clogged drains disrupt your life or damage your home. Fast, professional drain clearing with same-day service available throughout Tucson and surrounding areas. Call (520) 333-2665 or schedule online now. Ask about our $28.88 drain clearing special. Flexible financing options available through approved credit. 24/7 emergency service for urgent situations. 100% satisfaction guaranteed.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:5203332665"
       }

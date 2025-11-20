@@ -6,13 +6,13 @@ import { rooterSpecialFAQs } from '@/data/faqs/plumbing';
 
 export const rooterspecialData: ServicePageData = {
   // SEO & Meta
-  title: 'Rooter Services & Drain Clearing Tucson AZ | $99 Special Offer',
-  description: 'Professional rooter service in Tucson. $99 Rooter Special for clogged drains & sewer lines. Same-day service, video inspection, hydro jetting. Call (520) 333-2665 for expert drain clearing.',
+  title: 'Rooter Services & Drain Clearing Tucson AZ | $28.88 Special Offer',
+  description: 'Professional rooter service in Tucson. $28.88 Rooter Special for clogged drains & sewer lines. Same-day service, video inspection, hydro jetting. Call (520) 333-2665 for expert drain clearing.',
   slug: 'rooter-special',
   
   // Hero Section
   h1: 'Professional Rooter Services & Drain Clearing in Tucson, AZ',
-  h2Subheading: '$99 Rooter Special - Limited Time Offer',
+  h2Subheading: '$28.88 Rooter Special - Limited Time Offer!',
   tagline: 'Same-Day Service | Clogged Drains & Sewer Lines | Video Camera Inspection | Hydro Jetting | Emergency Service Available | 45+ Years Experience',
   heroImage: '/generated_images/Professional_rooter_drain_clearing_a93068d8.webp',
   heroImageAlt: 'Professional Rooter Special Service in Tucson',
@@ -24,8 +24,8 @@ export const rooterspecialData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "$99 Rooter Special Offer",
-    "description": "Limited time pricing | Standard drain clearing | Most residential clogs | Valid for new customers | Call for details"
+    "title": "$28.88 Rooter Special Offer",
+    "description": "Unbeatable limited time pricing | Standard drain clearing | Most residential clogs | Valid for new customers | Call today"
   },
   {
     "title": "Same-Day Emergency Service",
@@ -59,7 +59,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "A clogged drain is more than an inconvenience—it disrupts your daily routine, creates unsanitary conditions, and can lead to costly water damage if not addressed promptly. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide professional rooter and [link:/services/drain-clearing|drain clearing] services throughout Tucson and surrounding areas with our special $99 Rooter Service offer for standard residential clogs. Whether you're dealing with a slow kitchen sink, backed-up toilet, or complete sewer line blockage, our licensed master plumbers have the professional equipment and expertise to clear the clog and restore proper drainage quickly and effectively."
+            "content": "A clogged drain is more than an inconvenience—it disrupts your daily routine, creates unsanitary conditions, and can lead to costly water damage if not addressed promptly. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide professional rooter and [link:/services/drain-clearing|drain clearing] services throughout Tucson and surrounding areas with our special $28.88 Rooter Service offer for standard residential clogs. Whether you're dealing with a slow kitchen sink, backed-up toilet, or complete sewer line blockage, our licensed master plumbers have the professional equipment and expertise to clear the clog and restore proper drainage quickly and effectively."
       },
       {
             "type": "paragraph",
@@ -75,20 +75,20 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Schedule Your $99 Rooter Special Today",
-            "content": "Don't let clogged drains disrupt your day. Professional rooter service with same-day availability. Call (520) 333-2665 or schedule online now. $99 special for standard residential drain clearing. Flexible financing available through approved credit.",
+            "heading": "Schedule Your $28.88 Rooter Special Today",
+            "content": "Don't let clogged drains disrupt your day. Professional rooter service with same-day availability. Call (520) 333-2665 or schedule online now. Limited time $28.88 special for standard residential drain clearing. Flexible financing available through approved credit.",
             "buttonText": "Call Now: (520) 333-2665",
             "buttonLink": "tel:5203332665"
       },
       {
             "type": "heading",
-            "heading": "$99 Rooter Special - What's Included",
+            "heading": "$28.88 Rooter Special - What's Included",
             "level": 2,
-            "content": "$99 Rooter Special - What's Included"
+            "content": "$28.88 Rooter Special - What's Included"
       },
       {
             "type": "paragraph",
-            "content": "Our $99 Rooter Special provides exceptional value for Tucson homeowners dealing with common drain clogs. This limited-time offer includes professional drain clearing service that typically costs $150-200, making it one of the best rooter values in Southern Arizona. The special applies to standard residential drain clogs in kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Here's exactly what you receive with our $99 Rooter Special:"
+            "content": "Our $28.88 Rooter Special provides exceptional value for Tucson homeowners dealing with common drain clogs. This limited-time offer includes professional drain clearing service that typically costs $150-200, making it the best rooter value in Southern Arizona. The special applies to standard residential drain clogs in kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Here's exactly what you receive with our $28.88 Rooter Special:"
       },
       {
             "type": "list",
@@ -108,7 +108,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Important Details About Our $99 Rooter Special: This special offer applies to standard residential drain clogs that can be cleared with cable snaking equipment. Main sewer line clogs, severe root intrusion requiring hydro jetting, and commercial properties require different pricing due to equipment and time requirements—but we always provide upfront estimates before beginning work so you know exactly what to expect. The $99 special is available for new customers and can be applied to most common household drain issues including slow kitchen sinks from grease buildup, bathroom sink and tub drains clogged with hair, standard toilet clogs, and laundry drain backups. Additional charges may apply for emergency after-hours service, camera inspection (recommended for recurring clogs), hydro jetting service for severe buildup, or main sewer line clearing requiring heavy-duty equipment. We always explain your options and pricing clearly before proceeding with any service."
+            "content": "Important Details About Our $28.88 Rooter Special: This special offer applies to standard residential drain clogs that can be cleared with cable snaking equipment. Main sewer line clogs, severe root intrusion requiring hydro jetting, and commercial properties require different pricing due to equipment and time requirements—but we always provide upfront estimates before beginning work so you know exactly what to expect. The $28.88 special is available for new customers and can be applied to most common household drain issues including slow kitchen sinks from grease buildup, bathroom sink and tub drains clogged with hair, standard toilet clogs, and laundry drain backups. Additional charges may apply for emergency after-hours service, camera inspection (recommended for recurring clogs), hydro jetting service for severe buildup, or main sewer line clearing requiring heavy-duty equipment. We always explain your options and pricing clearly before proceeding with any service."
       },
       {
             "type": "heading",
@@ -430,7 +430,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These symptoms indicate serious clogs or underlying plumbing problems that require professional equipment, expertise, and often camera inspection to diagnose properly. Attempting DIY clearing with drugstore cable snakes or chemical drain cleaners may provide temporary relief but won't address the underlying problem and could make matters worse by damaging pipes or pushing clogs deeper into the system where they're harder to access. Professional rooter service costs $99-600 depending on severity, but prevents the $5,000-15,000+ water damage that can result from sewage backups and burst pipes."
+            "content": "These symptoms indicate serious clogs or underlying plumbing problems that require professional equipment, expertise, and often camera inspection to diagnose properly. Attempting DIY clearing with drugstore cable snakes or chemical drain cleaners may provide temporary relief but won't address the underlying problem and could make matters worse by damaging pipes or pushing clogs deeper into the system where they're harder to access. Professional rooter service costs $28.88-600 depending on severity, but prevents the $5,000-15,000+ water damage that can result from sewage backups and burst pipes."
       },
       {
             "type": "heading",
@@ -474,7 +474,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When to Stop DIY and Call Professionals: If DIY attempts don't resolve the clog within 30 minutes of reasonable effort, it's time to call for professional rooter service. If symptoms worsen after DIY attempts (slower drainage, higher water levels, more fixtures affected), stop immediately and call for help—you may be pushing the clog deeper or damaging pipes. Professional rooter service costs less than pipe damage from aggressive DIY attempts, prevents water damage from worsening clogs, provides long-lasting solutions rather than temporary fixes, and includes diagnosis to identify and prevent recurring problems. Our $99 Rooter Special makes professional service affordable for standard residential clogs, often costing less than multiple bottles of chemical drain cleaner and drugstore cable snakes."
+            "content": "When to Stop DIY and Call Professionals: If DIY attempts don't resolve the clog within 30 minutes of reasonable effort, it's time to call for professional rooter service. If symptoms worsen after DIY attempts (slower drainage, higher water levels, more fixtures affected), stop immediately and call for help—you may be pushing the clog deeper or damaging pipes. Professional rooter service costs less than pipe damage from aggressive DIY attempts, prevents water damage from worsening clogs, provides long-lasting solutions rather than temporary fixes, and includes diagnosis to identify and prevent recurring problems. Our $28.88 Rooter Special makes professional service affordable for standard residential clogs, often costing less than multiple bottles of chemical drain cleaner and drugstore cable snakes."
       },
       {
             "type": "heading",
@@ -566,7 +566,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "$99 Rooter Special: Our limited-time special pricing for standard residential drain clogs including kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Includes professional assessment, cable snaking service up to 100 feet, specialized cutting heads, function testing, and prevention recommendations. This special represents 30-50% savings versus standard drain clearing pricing and is available for new customers dealing with common household clogs. Additional charges may apply for main sewer line blockages, severe root intrusion, or services requiring hydro jetting equipment."
+            "content": "$28.88 Rooter Special: Our limited-time special pricing for standard residential drain clogs including kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Includes professional assessment, cable snaking service up to 100 feet, specialized cutting heads, function testing, and prevention recommendations. This special represents 70-80% savings versus standard drain clearing pricing and is available for new customers dealing with common household clogs. Additional charges may apply for main sewer line blockages, severe root intrusion, or services requiring hydro jetting equipment."
       },
       {
             "type": "paragraph",
@@ -596,7 +596,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "While professional rooter service involves upfront costs, the return on investment is substantial when you consider the costs of delaying service or relying on inadequate DIY methods. Water damage from sewage backups: Complete sewer line backup causing sewage overflow can result in $5,000-25,000+ in water damage to flooring, drywall, cabinetry, furnishings, and personal belongings. Professional rooter service costing $99-600 prevents this catastrophic expense. Even minor backup causing toilet overflow can damage tile, grout, and subflooring requiring $1,500-4,000 in repairs. Emergency service premiums: Emergency after-hours service costs $100-200 more than scheduled service during business hours. Addressing slow drainage promptly during normal hours saves this premium. Waiting until complete failure forces emergency service at the most expensive rates. Repeated ineffective DIY attempts: Chemical drain cleaners cost $8-15 per bottle with repeated use for recurring clogs costing $100-200+ annually without solving underlying problems. Drugstore cable snakes cost $20-50 and rarely clear serious clogs effectively. Professional service costing $99-300 provides permanent solutions instead of temporary relief. Pipe damage from harsh chemicals or aggressive DIY: Chemical drain cleaners damage pipes over time, accelerating the need for expensive pipe replacement ($3,500-10,000+). Aggressive snaking with inappropriate tools can damage pipes requiring repair. Professional service prevents these costly mistakes. Lost time and stress: DIY attempts consume hours of your valuable time with uncertain results. Emergency situations create stress and disruption to your household. Professional service provides quick, reliable clearing so you can return to normal routines. The average homeowner values their time at $25-50/hour—3-4 hours of DIY attempts equals the cost of professional service with far better results."
+            "content": "While professional rooter service involves upfront costs, the return on investment is substantial when you consider the costs of delaying service or relying on inadequate DIY methods. Water damage from sewage backups: Complete sewer line backup causing sewage overflow can result in $5,000-25,000+ in water damage to flooring, drywall, cabinetry, furnishings, and personal belongings. Professional rooter service costing $28.88-600 prevents this catastrophic expense. Even minor backup causing toilet overflow can damage tile, grout, and subflooring requiring $1,500-4,000 in repairs. Emergency service premiums: Emergency after-hours service costs $100-200 more than scheduled service during business hours. Addressing slow drainage promptly during normal hours saves this premium. Waiting until complete failure forces emergency service at the most expensive rates. Repeated ineffective DIY attempts: Chemical drain cleaners cost $8-15 per bottle with repeated use for recurring clogs costing $100-200+ annually without solving underlying problems. Drugstore cable snakes cost $20-50 and rarely clear serious clogs effectively. Professional service costing $28.88-300 provides permanent solutions instead of temporary relief. Pipe damage from harsh chemicals or aggressive DIY: Chemical drain cleaners damage pipes over time, accelerating the need for expensive pipe replacement ($3,500-10,000+). Aggressive snaking with inappropriate tools can damage pipes requiring repair. Professional service prevents these costly mistakes. Lost time and stress: DIY attempts consume hours of your valuable time with uncertain results. Emergency situations create stress and disruption to your household. Professional service provides quick, reliable clearing so you can return to normal routines. The average homeowner values their time at $25-50/hour—3-4 hours of DIY attempts equals the cost of professional service with far better results."
       },
       {
             "type": "paragraph",
@@ -624,7 +624,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation as the highest-rated plumbing company in Southern Arizona on quality workmanship, fair pricing, and exceptional customer service. We've been voted Best of Tucson for drain clearing service 9 consecutive years (2016-2024) and maintain BBB A+ accreditation since 1979. When you call Intelligent Design for rooter service, you're getting same-day service availability for most clogs with average 68-minute response time, upfront pricing with no hidden fees and our $99 Rooter Special for standard clogs, professional equipment including power cable machines, hydro jetting systems, and camera inspection, licensed master plumbers with 15+ years average experience, honest diagnosis without upselling unnecessary services, and satisfaction guaranteed on all work performed with warranties on workmanship."
+            "content": "With over 22,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation as the highest-rated plumbing company in Southern Arizona on quality workmanship, fair pricing, and exceptional customer service. We've been voted Best of Tucson for drain clearing service 9 consecutive years (2016-2024) and maintain BBB A+ accreditation since 1979. When you call Intelligent Design for rooter service, you're getting same-day service availability for most clogs with average 68-minute response time, upfront pricing with no hidden fees and our $28.88 Rooter Special for standard clogs, professional equipment including power cable machines, hydro jetting systems, and camera inspection, licensed master plumbers with 15+ years average experience, honest diagnosis without upselling unnecessary services, and satisfaction guaranteed on all work performed with warranties on workmanship."
       },
       {
             "type": "paragraph",
@@ -637,7 +637,7 @@ export const rooterspecialData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Schedule Your Rooter Service Today",
-            "content": "Don't let clogged drains disrupt your home. Professional rooter service with same-day availability and our $99 special for standard clogs. Call (520) 333-2665 or schedule online now. Licensed, experienced plumbers ready to solve your drain problems quickly and effectively.",
+            "content": "Don't let clogged drains disrupt your home. Professional rooter service with same-day availability and our $28.88 special for standard clogs. Call (520) 333-2665 or schedule online now. Licensed, experienced plumbers ready to solve your drain problems quickly and effectively.",
             "buttonText": "Call Now: (520) 333-2665",
             "buttonLink": "tel:5203332665"
       }
