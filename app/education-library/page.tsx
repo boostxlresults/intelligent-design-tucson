@@ -183,15 +183,15 @@ export default function EducationLibraryPage() {
                 </p>
               </div>
 
-              {/* Playlist 3 - Placeholder */}
+              {/* Playlist 3 - Public Service Announcements */}
               <div className="bg-card border border-border rounded-lg p-6">
                 <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-3-title">
-                  Solar Energy Solutions
+                  Intelligent Design Public Service Announcements
                 </h3>
                 <div className="aspect-video mb-4">
                   <iframe
-                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
-                    title="Solar Educational Playlist"
+                    src="https://www.youtube.com/embed/videoseries?si=PUzBOKEvB6Y8TM-0&amp;list=PLGh6_eWndI3OMneotJ6sH3mZzX_LxPDxv"
+                    title="Intelligent Design Public Service Announcements"
                     className="w-full h-full rounded-lg"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin"
@@ -200,7 +200,7 @@ export default function EducationLibraryPage() {
                   />
                 </div>
                 <p className="text-muted-foreground">
-                  Discover the benefits of solar power, installation process, and energy savings
+                  Stay informed with important safety tips, seasonal maintenance reminders, and emergency preparedness advice from our expert team. Watch timely PSAs covering topics like extreme weather preparation, energy-saving strategies, and critical home system alerts to keep your family safe and comfortable year-round.
                 </p>
               </div>
 
