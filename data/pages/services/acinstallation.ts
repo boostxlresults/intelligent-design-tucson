@@ -57,6 +57,13 @@ export const acinstallationData: ServicePageData = {
             "buttonLink": "#schedule"
       },
       {
+            "type": "cta",
+            "heading": "Get Your Free HVAC Install Quote Online",
+            "content": "Skip the wait! Use our interactive online quote tool to get instant pricing for your new AC or heating system installation. Answer a few simple questions and receive a detailed estimate in minutes.",
+            "buttonText": "Get Free HVAC Quote",
+            "buttonLink": "/free-hvac-quote"
+      },
+      {
             "type": "heading",
             "heading": "Professional AC Installation Services in Tucson",
             "level": 2,

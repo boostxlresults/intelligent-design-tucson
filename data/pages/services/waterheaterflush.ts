@@ -72,6 +72,13 @@ export const waterheaterflushData: ServicePageData = {
             "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided water heater maintenance services in Tucson since 1979—over 45 years of experience protecting homeowners from hard water damage. Our licensed master plumbers understand exactly how Tucson's mineral-rich water affects different water heater types and what comprehensive maintenance is required to keep them operating efficiently for their full designed lifespan and beyond. We use professional power flushing equipment that completely removes sediment (not just partial flushing that leaves hardened layers behind), inspect and replace critical components like sacrificial anode rods that protect tanks from corrosion, test all safety devices including temperature-pressure relief valves, and provide detailed service reports with photos documenting your water heater's condition and our work."
       },
       {
+            "type": "cta",
+            "heading": "Get Your Free Water Heater Install Quote Online",
+            "content": "Get instant pricing for your water heater installation or replacement. Our online quote tool provides transparent pricing in just 2 minutes.",
+            "buttonText": "Get Free Water Heater Quote",
+            "buttonLink": "/water-heater-quote"
+      },
+      {
             "type": "heading",
             "heading": "Why Water Heater Flushing Matters in Tucson's Hard Water",
             "level": 2,

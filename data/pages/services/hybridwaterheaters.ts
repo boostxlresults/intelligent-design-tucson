@@ -79,6 +79,13 @@ export const hybridwaterheatersData: ServicePageData = {
             "buttonLink": "tel:5203332665"
       },
       {
+            "type": "cta",
+            "heading": "Get Your Free Water Heater Install Quote Online",
+            "content": "Get instant pricing for your water heater installation or replacement. Our online quote tool provides transparent pricing in just 2 minutes.",
+            "buttonText": "Get Free Water Heater Quote",
+            "buttonLink": "/water-heater-quote"
+      },
+      {
             "type": "heading",
             "heading": "How Hybrid Water Heaters Work",
             "level": 2,

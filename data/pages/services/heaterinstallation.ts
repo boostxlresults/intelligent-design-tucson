@@ -79,6 +79,13 @@ export const heaterinstallationData: ServicePageData = {
             "buttonLink": "tel:5203332665"
       },
       {
+            "type": "cta",
+            "heading": "Get Your Free HVAC Install Quote Online",
+            "content": "Skip the wait! Use our interactive online quote tool to get instant pricing for your new heating system installation. Answer a few simple questions and receive a detailed estimate in minutes.",
+            "buttonText": "Get Free HVAC Quote",
+            "buttonLink": "/free-hvac-quote"
+      },
+      {
             "type": "heading",
             "heading": "Understanding Tucson's Unique Heating Needs",
             "level": 2,

@@ -653,6 +653,13 @@ export const waterheatersData: ServicePageData = {
             "buttonLink": "tel:5203332665"
       },
       {
+            "type": "cta",
+            "heading": "Get Your Free Water Heater Install Quote Online",
+            "content": "Get instant pricing for your water heater installation or replacement. Our online quote tool provides transparent pricing in just 2 minutes.",
+            "buttonText": "Get Free Water Heater Quote",
+            "buttonLink": "/water-heater-quote"
+      },
+      {
             "type": "heading",
             "heading": "Why Choose Intelligent Design for Water Heater Service",
             "level": 2,

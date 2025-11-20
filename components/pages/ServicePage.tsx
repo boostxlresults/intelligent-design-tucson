@@ -160,13 +160,25 @@ export default function ServicePage({ data, schemas }: ServicePageProps) {
                   <div key={index} className="my-12 bg-gradient-to-r from-blue-50 to-blue-100 border-l-4 border-blue-600 rounded-lg p-8 shadow-sm" data-testid={`cta-${index}`}>
                     <h3 className="text-2xl font-bold text-gray-900 mb-3">{section.heading}</h3>
                     <p className="text-lg text-gray-700 mb-6">{section.content}</p>
-                    <SchedulerEmbed
-                      triggerText={section.buttonText}
-                      variant="destructive"
-                      size="lg"
-                      className="text-lg px-8 py-4"
-                      data-testid={`button-cta-${index}`}
-                    />
+                    {section.buttonLink && section.buttonLink !== "#schedule" ? (
+                      <Button
+                        variant="destructive"
+                        size="lg"
+                        className="text-lg px-8 py-4"
+                        asChild
+                        data-testid={`button-cta-${index}`}
+                      >
+                        <a href={section.buttonLink}>{section.buttonText}</a>
+                      </Button>
+                    ) : (
+                      <SchedulerEmbed
+                        triggerText={section.buttonText}
+                        variant="destructive"
+                        size="lg"
+                        className="text-lg px-8 py-4"
+                        data-testid={`button-cta-${index}`}
+                      />
+                    )}
                   </div>
                 );
               }
