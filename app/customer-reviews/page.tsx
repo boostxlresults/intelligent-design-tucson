@@ -5,6 +5,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
+import PulseMWidget from '@/components/integrations/PulseMWidget';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Reviews | 22,000+ Five-Star Reviews | Intelligent Design Tucson',
@@ -213,7 +214,12 @@ export default function CustomerReviewsPage() {
                 <div className="h-12 w-px bg-white/30"></div>
                 <div>
                   <div className="text-3xl font-bold">22,000+</div>
-                  <div className="text-sm text-white/80">Verified Reviews</div>
+                  <div className="text-sm text-white/80">Five-Star Reviews</div>
+                </div>
+                <div className="h-12 w-px bg-white/30"></div>
+                <div>
+                  <div className="text-3xl font-bold">3,500+</div>
+                  <div className="text-sm text-white/80">Google Reviews</div>
                 </div>
                 <div className="h-12 w-px bg-white/30"></div>
                 <div>
@@ -249,7 +255,7 @@ export default function CustomerReviewsPage() {
         {/* Review Stats Section */}
         <section className="py-16 bg-muted/30">
           <div className="max-w-7xl mx-auto px-4">
-            <div className="grid md:grid-cols-4 gap-6 mb-12">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
               <Card>
                 <CardContent className="p-6 text-center">
                   <Star className="w-12 h-12 mx-auto mb-3 fill-yellow-400 text-yellow-400" />
@@ -263,7 +269,16 @@ export default function CustomerReviewsPage() {
                 <CardContent className="p-6 text-center">
                   <ThumbsUp className="w-12 h-12 mx-auto mb-3 text-primary" />
                   <div className="text-4xl font-bold text-primary mb-2">22,000+</div>
-                  <p className="font-semibold">Total Reviews</p>
+                  <p className="font-semibold">Five-Star Reviews</p>
+                  <p className="text-sm text-muted-foreground">All platforms</p>
+                </CardContent>
+              </Card>
+
+              <Card>
+                <CardContent className="p-6 text-center">
+                  <Star className="w-12 h-12 mx-auto mb-3 text-primary" />
+                  <div className="text-4xl font-bold text-primary mb-2">3,500+</div>
+                  <p className="font-semibold">Google Reviews</p>
                   <p className="text-sm text-muted-foreground">Verified customers</p>
                 </CardContent>
               </Card>
@@ -273,16 +288,7 @@ export default function CustomerReviewsPage() {
                   <Award className="w-12 h-12 mx-auto mb-3 text-primary" />
                   <div className="text-4xl font-bold text-primary mb-2">A+</div>
                   <p className="font-semibold">BBB Rating</p>
-                  <p className="text-sm text-muted-foreground">Accredited business</p>
-                </CardContent>
-              </Card>
-
-              <Card>
-                <CardContent className="p-6 text-center">
-                  <Clock className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-4xl font-bold text-primary mb-2">45+</div>
-                  <p className="font-semibold">Years in Business</p>
-                  <p className="text-sm text-muted-foreground">Since 1979</p>
+                  <p className="text-sm text-muted-foreground">Accredited</p>
                 </CardContent>
               </Card>
             </div>
@@ -344,15 +350,42 @@ export default function CustomerReviewsPage() {
             <div className="text-center">
               <Button asChild size="lg" variant="outline">
                 <a href="https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning,+Plumbing,+%26+Solar/@32.2860443,-111.01425,15z/data=!4m6!3m5!1s0x86d6746e9ce30dbd:0x7a9eb98f9305d5a8!8m2!3d32.2860443!4d-111.01425!16s%2Fg%2F12hk40m8h" target="_blank" rel="noopener noreferrer">
-                  Read All 22,000+ Reviews on Google <ChevronRight className="w-4 h-4 ml-2" />
+                  Read All Reviews on Google <ChevronRight className="w-4 h-4 ml-2" />
                 </a>
               </Button>
             </div>
           </div>
         </section>
 
-        {/* Why Customers Choose Us Section */}
+        {/* PulseM Review Widget Section - All Platform Reviews */}
         <section className="py-16 bg-muted/30">
+          <div className="max-w-7xl mx-auto px-4">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-all-reviews-title">
+                22,000+ Five-Star Reviews Across All Platforms
+              </h2>
+              <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+                Browse reviews from Google, Yelp, Facebook, BBB, and more. See what real customers are saying about our HVAC, plumbing, solar, electrical, and roofing services.
+              </p>
+              <div className="flex flex-wrap items-center justify-center gap-4 mt-6 text-sm text-muted-foreground">
+                <span className="flex items-center gap-2">
+                  <Star className="w-5 h-5 text-yellow-400 fill-yellow-400" />
+                  <strong className="text-foreground">3,500+ Google Reviews</strong>
+                </span>
+                <span className="text-muted-foreground">•</span>
+                <span><strong className="text-foreground">22,000+ Total Five-Star Reviews</strong></span>
+                <span className="text-muted-foreground">•</span>
+                <span><strong className="text-foreground">5.0 Average Rating</strong></span>
+              </div>
+            </div>
+
+            {/* PulseM Widget */}
+            <PulseMWidget />
+          </div>
+        </section>
+
+        {/* Why Customers Choose Us Section */}
+        <section className="py-16">
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Tucson Chooses Intelligent Design</h2>
@@ -404,14 +437,14 @@ export default function CustomerReviewsPage() {
               <div>
                 <h3 className="text-xl font-semibold mb-2">How many customer reviews does Intelligent Design have?</h3>
                 <p className="text-muted-foreground">
-                  Intelligent Design has over 22,000 verified five-star customer reviews across Google, BBB, Yelp, and other platforms. This makes us one of the highest-rated home service companies in Tucson and all of Southern Arizona.
+                  Intelligent Design has over 22,000 verified five-star customer reviews across all platforms including Google (3,500+ reviews), BBB, Yelp, Facebook, and more. This makes us one of the highest-rated home service companies in Tucson and all of Southern Arizona.
                 </p>
               </div>
 
               <div>
                 <h3 className="text-xl font-semibold mb-2">What is Intelligent Design's Google rating?</h3>
                 <p className="text-muted-foreground">
-                  We maintain a 5.0-star rating on Google Business Profile based on thousands of verified customer reviews. Our customers consistently praise our professionalism, quality work, fair pricing, and exceptional customer service.
+                  We maintain a 5.0-star rating on Google Business Profile based on over 3,500 verified customer reviews. Our customers consistently praise our professionalism, quality work, fair pricing, and exceptional customer service.
                 </p>
               </div>
 
