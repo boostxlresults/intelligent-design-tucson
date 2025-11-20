@@ -311,6 +311,38 @@ export default function ServicePage({ data, schemas }: ServicePageProps) {
         </section>
       )}
 
+      {/* Common Questions Section - AI Search Optimization Layer */}
+      {data.commonQuestions && data.commonQuestions.length > 0 && (
+        <section className="py-16 bg-gradient-to-b from-white to-gray-50">
+          <div className="container mx-auto px-4 max-w-4xl">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl font-bold mb-4" data-testid="heading-common-questions">
+                Common Questions About {data.serviceName}
+              </h2>
+              <p className="text-lg text-muted-foreground">
+                Real answers to questions Tucson homeowners ask us every day
+              </p>
+            </div>
+            <div className="space-y-8">
+              {data.commonQuestions.map((item, index) => (
+                <div 
+                  key={index} 
+                  className="bg-white border-l-4 border-blue-600 rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow"
+                  data-testid={`common-question-${index}`}
+                >
+                  <h3 className="text-xl font-bold text-gray-900 mb-4 leading-relaxed">
+                    {item.question}
+                  </h3>
+                  <p className="text-gray-700 leading-relaxed whitespace-pre-line">
+                    {item.answer}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* ServiceTitan Scheduler #3 - Bottom before footer */}
       <section className="py-16 bg-primary/5">
         <div className="container mx-auto px-4">
