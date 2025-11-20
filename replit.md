@@ -39,7 +39,7 @@ Preferred communication style: Simple, everyday language.
 
 ### Key Architectural Decisions
 - **Mobile-First Conversion:** Floating action bar, sticky header, ServiceTitan scheduler in modal dialogs.
-- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList). All meta tags managed via react-helmet-async.
+- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList, HowTo, VideoObject). All meta tags managed via react-helmet-async. Service-location pages now generate 7-10+ schemas per page, including HowTo schemas automatically extracted from service preparation guides (42 pages with step-by-step content).
 - **URL Migration & Redirect System:** Programmatic 308 permanent redirect system (next.config.ts) preserves SEO equity from legacy React URLs to Next.js nested structures. Manifest system (`data/pages/services/manifest.json`) maps canonical slugs to data files for Next.js static generation.
 - **Performance:** Vite for optimized builds, font and image optimization, edge-ready configuration.
 - **Design Philosophy:** "Professional reliability with warm approachability," focusing on trust signals and clear calls to action.

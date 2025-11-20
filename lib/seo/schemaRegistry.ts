@@ -226,13 +226,14 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
 }
 
 /**
- * SERVICE+LOCATION PAGE SCHEMAS (6-8 schemas)
+ * SERVICE+LOCATION PAGE SCHEMAS (7-10+ schemas)
  * - Service
  * - Geo-Enhanced LocalBusiness
- * - AggregateRating
+ * - Category-Specific LocalBusiness (multi-category)
  * - FAQPage
- * - BreadcrumbList
- * - GeoCircle (via enhanced LocalBusiness)
+ * - BreadcrumbList ✅
+ * - HowTo (if preparation guide exists) ✅ NEW
+ * - VideoObject (if videos embedded) ✅ NEW
  * - Offer (optional)
  */
 function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
@@ -277,7 +278,47 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     schemas.push(generateFAQSchema(pageData.faqs));
   }
 
-  // 5. Offer Schemas
+  // 5. BreadcrumbList Schema
+  const breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Services', url: '/services' }
+  ];
+  if (pageData.serviceName) {
+    breadcrumbItems.push({
+      name: pageData.serviceName,
+      url: canonicalUrl
+    });
+  }
+  // Extract proper base URL (protocol + domain)
+  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://intelligentdesignhvac.com';
+  schemas.push(generateBreadcrumbs(breadcrumbItems, baseUrl));
+
+  // 6. HowTo Schema (if preparation guide exists) ✅ NEW
+  if (pageData.howToGuide) {
+    schemas.push(generateHowToSchema({
+      name: pageData.howToGuide.name,
+      description: pageData.howToGuide.description,
+      steps: pageData.howToGuide.steps,
+      totalTime: pageData.howToGuide.totalTime
+    }));
+  }
+
+  // 7. VideoObject Schemas (if videos embedded) ✅ NEW
+  if (pageData.videos && pageData.videos.length > 0) {
+    pageData.videos.forEach((video: any) => {
+      schemas.push(generateVideoObjectSchema({
+        name: video.name,
+        description: video.description,
+        thumbnailUrl: video.thumbnailUrl,
+        uploadDate: video.uploadDate,
+        embedUrl: video.embedUrl,
+        duration: video.duration,
+        canonicalUrl
+      }));
+    });
+  }
+
+  // 8. Offer Schemas
   if (pageData.includeOffers) {
     const offerSchemas = generateOfferSchemas({ includeAll: false });
     schemas.push(...offerSchemas);
