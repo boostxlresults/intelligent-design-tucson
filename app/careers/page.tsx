@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { StructuredData } from "@/components/StructuredData";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
 import { generateMetadata, generateLocalBusinessSchema } from "@/lib/seo";
+import WhoHireWidget from "@/components/integrations/WhoHireWidget";
 
 export const metadata: Metadata = generateMetadata({
   title: "Careers | Join Our Team | Intelligent Design Tucson",
@@ -58,20 +59,21 @@ export default function CareersPage() {
 
             <h2 className="text-3xl font-bold mb-6" data-testid="heading-positions">Open Positions</h2>
             <div className="bg-card border border-border rounded-lg p-8 mb-8">
-              <p className="text-lg mb-4" data-testid="text-hiring-intro">
-                We're hiring for the following positions:
+              <p className="text-lg mb-6" data-testid="text-hiring-intro">
+                Browse our current job openings below and apply directly through our hiring portal.
               </p>
-              <ul className="list-disc list-inside space-y-2 text-lg mb-6">
-                <li data-testid="position-hvac">HVAC Technicians</li>
-                <li data-testid="position-plumber">Plumbers</li>
-                <li data-testid="position-electrician">Electricians</li>
-                <li data-testid="position-solar">Solar Installers</li>
-                <li data-testid="position-roofing">Roofing Technicians</li>
-                <li data-testid="position-csr">Customer Service Representatives</li>
-              </ul>
-              <p className="text-lg font-semibold" data-testid="text-contact-careers">
-                Contact us at (520) 333-2665 to learn more about current opportunities.
-              </p>
+              
+              {/* WhoHire Job Board Integration */}
+              <WhoHireWidget />
+
+              <div className="mt-8 pt-6 border-t border-border">
+                <p className="text-lg font-semibold mb-2" data-testid="text-contact-careers">
+                  Questions about a position?
+                </p>
+                <p className="text-muted-foreground">
+                  Contact us at <a href="tel:+1520-333-2665" className="text-primary hover:underline font-semibold">(520) 333-2665</a> to speak with our hiring team.
+                </p>
+              </div>
             </div>
           </div>
         </section>
