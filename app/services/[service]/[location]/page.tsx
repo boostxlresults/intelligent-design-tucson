@@ -105,7 +105,7 @@ export default async function ServiceLocationRoute({ params }: ServiceLocationPa
   return (
     <>
       <ClientSchemas schemas={schemas} />
-      <ServiceLocationPage data={serviceData} service={service} location={location} />
+      <ServiceLocationPage data={serviceData} />
     </>
   );
 }

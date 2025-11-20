@@ -3,18 +3,16 @@ import ServicePage from './ServicePage';
 
 interface ServiceLocationPageProps {
   data: ServicePageData;
-  service: string;
-  location: string;
 }
 
 /**
  * ServiceLocationPage - Wrapper for service×location combination pages
- * Reuses ServicePage component with location-aware enhancements
+ * Reuses ServicePage component
  * 
  * Examples: /services/plumbing/avra-valley, /services/electrical/oro-valley
  */
-export default function ServiceLocationPage({ data, service, location }: ServiceLocationPageProps) {
+export default function ServiceLocationPage({ data }: ServiceLocationPageProps) {
   // Reuse the proven ServicePage component
   // All ServiceTitan integration, DNI, reviews, and SEO are handled automatically
-  return <ServicePage data={data} serviceSlug={service} />;
+  return <ServicePage data={data} />;
 }

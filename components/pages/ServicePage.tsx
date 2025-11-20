@@ -24,11 +24,9 @@ import type { ServicePageData } from "@/types/services";
 interface ServicePageProps {
   data: ServicePageData;
   schemas?: Array<Record<string, unknown>>;
-  serviceSlug?: string;
-  locationZip?: string;
 }
 
-export default function ServicePage({ data, schemas, serviceSlug, locationZip }: ServicePageProps) {
+export default function ServicePage({ data, schemas }: ServicePageProps) {
   console.log(`[ServicePage] Received ${schemas?.length || 0} schemas`);
   
   return (

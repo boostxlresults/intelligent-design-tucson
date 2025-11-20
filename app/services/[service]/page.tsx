@@ -97,7 +97,7 @@ export default async function ServicePageRoute({
   return (
     <>
       <ClientSchemas schemas={schemas} />
-      <ServicePage data={serviceData} serviceSlug={serviceSlug} />
+      <ServicePage data={serviceData} />
     </>
   );
 }
