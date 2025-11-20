@@ -17,8 +17,11 @@ Preferred communication style: Simple, everyday language.
 
 **Google Reviews & Maps Display Rules:**
 - Google Reviews Badge: Always display 5.0 rating with all 5 stars filled (actual rating is 4.97).
-- Review Count: Display "22,000+ reviews".
+- Review Count Distinction: 
+  - Google Reviews: "3,500+ reviews" (Google Business Profile specifically)
+  - Total Five-Star Reviews: "22,000+ reviews" (all platforms combined: Google, Yelp, Facebook, BBB, etc.)
 - Google Maps: Use official Google Business Profile embed code to show full business listing with reviews, photos, and business information.
+- PulseM Widget: Displays aggregated reviews from all platforms on Customer Reviews page.
 
 ## System Architecture
 
@@ -57,8 +60,9 @@ Preferred communication style: Simple, everyday language.
 
 ### Third-Party Services
 - **ServiceTitan:** Scheduler embed widget and Dynamic Number Insertion (DNI).
-- **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs with before/after photos (API key: Mv2yZInBciS35Sln - public client-side key).
+- **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs with before/after photos (API key: Mv2yZInBciS35Sln - public client-side key). Supports service-type filtering (HVAC, Plumbing, Solar, etc.), zip code filtering for location-specific projects, and customizable project limits.
 - **WhoHire:** Job board plugin integration for careers page (data-slug: intelligentdesignairconditioningplumbingroofingsolarelectric).
+- **PulseM:** Review aggregation widget displaying 22,000+ five-star reviews from all platforms (Google, Yelp, Facebook, BBB, etc.). Integrated on Customer Reviews page with proper script loading via Next.js Script component.
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.
 - **Schema.org:** Employed for structured data to enhance SEO.
