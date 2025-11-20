@@ -89,11 +89,6 @@ const nextConfig: NextConfig = {
     
     const legacyRedirects = [
       {
-        source: '/ac-system-faqs',
-        destination: '/resources',
-        permanent: true
-      },
-      {
         source: '/about-intelligent-design',
         destination: '/',
         permanent: true
