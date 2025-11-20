@@ -204,15 +204,15 @@ export default function EducationLibraryPage() {
                 </p>
               </div>
 
-              {/* Playlist 4 - Placeholder */}
+              {/* Playlist 4 - Indoor Air Quality */}
               <div className="bg-card border border-border rounded-lg p-6">
                 <h3 className="text-2xl font-bold mb-4" data-testid="text-playlist-4-title">
-                  Electrical Safety & Upgrades
+                  Indoor Air Quality and HVAC Systems
                 </h3>
                 <div className="aspect-video mb-4">
                   <iframe
-                    src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID_HERE"
-                    title="Electrical Educational Playlist"
+                    src="https://www.youtube.com/embed/videoseries?si=6raPAOHJULeIi1f6&amp;list=PLGh6_eWndI3M_9iMYecwn5hp8_aG5scWb"
+                    title="Indoor Air Quality and HVAC Systems"
                     className="w-full h-full rounded-lg"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerPolicy="strict-origin-when-cross-origin"
@@ -221,7 +221,7 @@ export default function EducationLibraryPage() {
                   />
                 </div>
                 <p className="text-muted-foreground">
-                  Learn about electrical safety, panel upgrades, and modern home electrical systems
+                  Breathe easier with expert guidance on improving your home's air quality. Explore videos covering air filtration systems, humidity control, ventilation solutions, and HVAC maintenance practices that create healthier indoor environments for you and your family in Tucson's desert climate.
                 </p>
               </div>
             </div>
