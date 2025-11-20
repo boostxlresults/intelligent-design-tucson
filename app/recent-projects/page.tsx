@@ -136,8 +136,18 @@ export default function RecentProjectsPage() {
           </div>
 
           {/* RealWorkLabs Widget Container */}
-          <div className="bg-card rounded-lg border border-border p-6 min-h-[600px]">
-            <RealWorkLabsWidget />
+          <div className="bg-card rounded-lg border border-border p-6">
+            <RealWorkLabsWidget 
+              serviceType="all"
+              limit={12}
+              showLoadingState={true}
+            />
+          </div>
+          
+          <div className="mt-8 text-center">
+            <p className="text-muted-foreground">
+              Showing recent projects from across all service categories. Each project includes real customer reviews matched with actual job details from our ServiceTitan system.
+            </p>
           </div>
         </div>
       </section>
