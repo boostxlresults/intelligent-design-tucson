@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Script from 'next/script';
 import { generateMetadata as generateFullMetadata } from '@/lib/seo/generateMetadata';
 import { SchedulerCluster } from '@/components/SchedulerCluster';
-import { Wind, DollarSign, Shield, Wrench } from 'lucide-react';
+import { Wind, DollarSign, Shield, Wrench, CheckCircle2 } from 'lucide-react';
 
 export const metadata: Metadata = generateFullMetadata({
   title: 'Filter Shop | Intelligent Design Air Conditioning',
@@ -125,15 +125,15 @@ export default function FilterShopPage() {
                   <h3 className="text-xl font-bold mb-3 text-center">Standard Filters</h3>
                   <ul className="space-y-2 mb-4 text-sm">
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Basic dust and pollen protection</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Change every 1-3 months</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Most affordable option</span>
                     </li>
                   </ul>
@@ -150,15 +150,15 @@ export default function FilterShopPage() {
                   <h3 className="text-xl font-bold mb-3 text-center">Premium Filters</h3>
                   <ul className="space-y-2 mb-4 text-sm">
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Captures pet dander & allergens</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Superior air quality</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Ideal for Tucson's dust</span>
                     </li>
                   </ul>
@@ -175,15 +175,15 @@ export default function FilterShopPage() {
                   <h3 className="text-xl font-bold mb-3 text-center">Medical-Grade</h3>
                   <ul className="space-y-2 mb-4 text-sm">
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Hospital-level filtration</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Removes bacteria & viruses</span>
                     </li>
                     <li className="flex items-start">
-                      <span className="text-primary mr-2">✓</span>
+                      <CheckCircle2 className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5" />
                       <span>Best for severe allergies</span>
                     </li>
                   </ul>
