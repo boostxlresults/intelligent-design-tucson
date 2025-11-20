@@ -23,3 +23,9 @@ export type { MetadataOptions } from './generateMetadata';
 
 export { generateArticleSchema } from './generateArticleSchema';
 export type { ArticleSchemaOptions } from './generateArticleSchema';
+
+export { generateHowToSchema } from './generateHowToSchema';
+export type { HowToSchemaOptions, HowToStep } from './generateHowToSchema';
+
+export { generateVideoObjectSchema, generatePlaylistVideoSchemas } from './generateVideoObjectSchema';
+export type { VideoObjectSchemaOptions } from './generateVideoObjectSchema';

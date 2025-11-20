@@ -16,6 +16,9 @@ import { generateServiceSchema } from './generateServiceSchema';
 import { generateLocationSchema } from './generateLocationSchema';
 import { generateOfferSchemas } from './generateOfferSchema';
 import { generateFAQSchema } from './generateFAQSchema';
+import { generateBreadcrumbs } from './generateBreadcrumbs';
+import { generateHowToSchema } from './generateHowToSchema';
+import { generateVideoObjectSchema } from './generateVideoObjectSchema';
 
 export type PageType = 
   | 'homepage'
@@ -38,6 +41,25 @@ export interface SchemaRegistryOptions {
     categories?: string[]; // For multi-category pages
     includeOffers?: boolean;
     zipCodes?: string[]; // Location-specific zip codes for DefinedRegion schema
+    howToGuide?: {
+      name: string;
+      description: string;
+      steps: Array<{
+        name: string;
+        text: string;
+        duration?: string;
+        tools?: string[];
+      }>;
+      totalTime?: string;
+    };
+    videos?: Array<{
+      name: string;
+      description: string;
+      thumbnailUrl: string;
+      uploadDate: string;
+      embedUrl: string;
+      duration?: string;
+    }>;
   };
 }
 
@@ -116,12 +138,14 @@ function getHomepageSchemas(canonicalUrl: string) {
 }
 
 /**
- * SERVICE PAGE SCHEMAS (5-7 schemas)
+ * SERVICE PAGE SCHEMAS (7-10 schemas)
  * - Service
  * - Category-Specific LocalBusiness
  * - AggregateRating
  * - FAQPage
- * - BreadcrumbList
+ * - BreadcrumbList ✅ NEW
+ * - HowTo (if preparation guide exists) ✅ NEW
+ * - VideoObject (if videos embedded) ✅ NEW
  * - Offer (optional)
  */
 function getServicePageSchemas(canonicalUrl: string, pageData: any) {
@@ -152,7 +176,45 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
     schemas.push(generateFAQSchema(pageData.faqs));
   }
 
-  // 4. Offer Schemas (if applicable)
+  // 4. BreadcrumbList Schema ✅ NEW
+  const breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Services', url: '/services' }
+  ];
+  if (pageData.serviceName) {
+    breadcrumbItems.push({
+      name: pageData.serviceName,
+      url: canonicalUrl
+    });
+  }
+  schemas.push(generateBreadcrumbs(breadcrumbItems, canonicalUrl.split('/').slice(0, 3).join('/')));
+
+  // 5. HowTo Schema (if preparation guide exists) ✅ NEW
+  if (pageData.howToGuide) {
+    schemas.push(generateHowToSchema({
+      name: pageData.howToGuide.name,
+      description: pageData.howToGuide.description,
+      steps: pageData.howToGuide.steps,
+      totalTime: pageData.howToGuide.totalTime
+    }));
+  }
+
+  // 6. VideoObject Schemas (if videos embedded) ✅ NEW
+  if (pageData.videos && pageData.videos.length > 0) {
+    pageData.videos.forEach((video: any) => {
+      schemas.push(generateVideoObjectSchema({
+        name: video.name,
+        description: video.description,
+        thumbnailUrl: video.thumbnailUrl,
+        uploadDate: video.uploadDate,
+        embedUrl: video.embedUrl,
+        duration: video.duration,
+        canonicalUrl
+      }));
+    });
+  }
+
+  // 7. Offer Schemas (if applicable)
   if (pageData.includeOffers) {
     const offerSchemas = generateOfferSchemas({ includeAll: false });
     schemas.push(...offerSchemas);
