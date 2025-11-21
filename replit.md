@@ -9,7 +9,7 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 **Pre-Production Deployment Verification Completed:**
 - ✅ **User Journey Testing:** 5 critical conversion paths verified (Homepage→Scheduler, Location→Service→Scheduler, Forms, Blog, Contractor Commerce)
 - ✅ **Cross-Browser Testing:** Responsive design verified across all viewports (375px-1920px), mobile hamburger menu, desktop dropdowns functional
-- ✅ **Third-Party Integrations:** All 7 integrations properly implemented (GTM with consent, DNI, ServiceTitan, Contractor Commerce 3 calculators, PulseM, RealWorkLabs, WhoHire) - staging limitations expected due to domain whitelisting
+- ✅ **Third-Party Integrations:** All 8 integrations properly implemented (GTM with consent, DNI, ServiceTitan, Contractor Commerce 3 calculators, PulseM, RealWorkLabs, WhoHire, HatchChat) - staging limitations expected due to domain whitelisting
 - ✅ **Performance Audit:** Homepage: 2.4s/262KB, AC Repair: 0.79s/314KB, Oro Valley: 0.71s/117KB - excellent load times, AVIF/WebP optimization configured
 - ✅ **SEO Verification:** Canonical URLs correct, OG/Twitter tags complete, schema markup rendering (2-5 schemas per page), sitemap.xml accessible
 - ✅ **Content Quality:** Phone (520) 333-2665 consistent, review count 22,000+ consistent, no placeholder text, professional content throughout
@@ -20,6 +20,7 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 
 **Production Integrations:**
 - ✅ **ServiceTitan DNI activated:** Official Dynamic Number Insertion code integrated (Account ID: 227669022) for call tracking and marketing attribution
+- ✅ **HatchChat live chat installed:** Customer support chat widget integrated in <head> section (Hatch ID: 67f38a719fd92e00011a4e43), displays bottom-right of website
 
 **Additional Fixes & Features:**
 - 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
@@ -98,6 +99,7 @@ Preferred communication style: Simple, everyday language.
 - **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs (API key: Mv2yZInBciS35Sln).
 - **WhoHire:** Job board plugin integration for careers page (data-slug: intelligentdesignairconditioningplumbingroofingsolarelectric).
 - **PulseM:** Review aggregation widget displaying 22,000+ five-star reviews.
+- **HatchChat:** Live chat widget for customer support (Hatch ID: 67f38a719fd92e00011a4e43).
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.
 - **Schema.org:** Employed for structured data to enhance SEO.

@@ -7,6 +7,7 @@ import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
+import HatchChat from "@/components/integrations/HatchChat";
 import CookieConsent from "@/components/integrations/CookieConsent";
 import { Toaster } from "@/components/ui/toaster";
 import AccessibilityToggle from "@/components/content/AccessibilityToggle";
@@ -41,6 +42,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <HatchChat />
+      </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <GTM />
         <DNIInjector />
