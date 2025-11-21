@@ -1,5 +1,5 @@
 # Intelligent Design - Robots.txt
-# www.intelligentdesignac.com
+# www.idesignac.com
 # Optimized for traditional search engines AND AI crawlers
 
 # === TRADITIONAL SEARCH ENGINES ===
@@ -32,7 +32,7 @@ User-agent: CCBot
 Allow: /
 
 # === SITEMAPS ===
-Sitemap: https://www.intelligentdesignac.com/sitemap.xml
+Sitemap: https://www.idesignac.com/sitemap.xml
 
 # === CRAWL OPTIMIZATION ===
 # Moderate crawl delay to prevent server overload
