@@ -877,7 +877,7 @@ export default function Header() {
           </nav>
 
           {/* Phone & CTA */}
-          <div className="flex items-center gap-2 ml-1">
+          <div className="flex items-center gap-2">
             <a
               href="tel:+15203332665"
               className="hidden lg:flex items-center gap-2 bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 px-4 py-2 rounded-md font-bold transition-colors whitespace-nowrap"
