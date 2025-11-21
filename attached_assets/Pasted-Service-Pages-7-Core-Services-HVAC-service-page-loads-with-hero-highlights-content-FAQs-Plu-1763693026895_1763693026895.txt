@@ -1,0 +1,135 @@
+Service Pages (7 Core Services)
+ HVAC service page loads with hero, highlights, content, FAQs
+ Plumbing service page complete
+ Solar service page complete
+ Electrical service page complete
+ Roofing service page complete
+ Drain/Sewer service page complete
+ All service pages have 11+ FAQ questions
+ Service highlights display 6 cards with green CheckCircle2 icons
+ Hero images load with proper blue gradient overlay
+ Reviews module displays on all service pages
+7. Location Pages (20 Service Areas)
+ Sample 5 location pages load correctly
+ Location-specific content displays properly
+ Zip codes display on location pages
+ Service links from location pages work
+ Location pages have proper schema markup
+ Maps/location content renders correctly
+8. Location + Service Matrix (140 Pages)
+ Sample 10 location+service pages load
+ Combined content (location + service) displays correctly
+ Proper schema markup on matrix pages
+ CTAs function on matrix pages
+ Zip code integration works
+9. Special Offer Pages
+ New Homebuyer Offer page (/new-homebuyer-offer) loads with form
+ REALTORS® Offer page (/realtors-offer) loads with form
+ Drain Clearing Special ($28.88) displays on both drain pages
+ DrainClearingCoupon component renders correctly
+ Offer forms validate and can be submitted
+ No $99 references remain (should be $28.88)
+ Offer schema markup validates
+10. Resource Pages
+ R22 Phaseout page (/r22-phaseout) loads completely
+ Video Education Library (/education-library) embeds YouTube channel
+ AC System FAQs (/ac-system-faqs) displays all 15 questions
+ Knowledge Hub (/knowledge-hub) links to all blog posts
+ Video Testimonials (/video-testimonials) shows all 12 videos
+ Customer Reviews (/customer-reviews) displays review stats and PulseM widget
+11. Contractor Commerce Pages
+ Free HVAC Quote page loads calculator correctly
+ Water Heater Quote page loads calculator correctly
+ Filter Shop page loads e-commerce interface
+ All three pages have proper navigator keys
+ Plugin script loads without errors
+ Alternative CTAs (SchedulerCluster) display properly
+12. Blog System (231 Posts)
+ Blog index/listing works if it exists
+ Sample 5 blog posts load with proper formatting
+ Blog hero images display correctly
+ Markdown content renders properly
+ Blog post meta tags are unique
+ Internal links in blog posts work
+13. Forms & Lead Capture
+ New Homebuyer form validates required fields
+ REALTORS® form validates required fields
+ Forms show error messages for invalid inputs
+ Forms show success messages on submission
+ Form data test submission (if backend exists)
+14. Mobile Responsiveness
+ Homepage responsive on mobile viewport (375px)
+ Navigation menu works on mobile
+ Service pages readable on mobile
+ Floating action bar appears on mobile
+ Forms usable on mobile devices
+ Images scale properly on mobile
+ Text is readable without zooming
+15. Visual Design & Branding
+ Brand colors display correctly (royal blue, red, yellow)
+ Trust indicators visible (22,000+ reviews, 4.97 rating)
+ Google Reviews badge shows 5.0 rating with 5 stars
+ Review counts: "3,500+ reviews" for Google, "22,000+ reviews" for total
+ American flag and company branding consistent
+ Images load without broken placeholders
+ Hero sections have blue gradient overlay
+16. Performance & Loading
+ Homepage loads in under 3 seconds
+ No console errors in browser developer tools
+ No 404 errors for missing resources
+ Images optimize and load progressively
+ No layout shift during page load
+ Workflow starts without errors
+17. Cross-Page Features
+ TrustBar displays on relevant pages
+ ReviewsModule shows on service pages
+ CommonQuestions (AI SEO Q&A) displays where implemented
+ ServiceFAQ accordion functions properly
+ SchedulerCluster renders on quote pages
+ Cross-page conversion CTAs link correctly
+18. URL Structure & Redirects
+ Legacy URLs redirect with 308 status codes
+ /services/[service] routes work for all services
+ /services/[service]-[location] routes work for location+service pages
+ No redirect loops
+ Clean URLs (no trailing slashes inconsistency)
+19. Accessibility
+ Font size controls work (if implemented)
+ High contrast mode toggles (if implemented)
+ Keyboard navigation functional
+ Alt text on images
+ ARIA labels on interactive elements
+ Color contrast meets WCAG AA standards
+20. Legal & Compliance
+ Cookie consent banner functions
+ Privacy policy linked (if exists)
+ Terms of service linked (if exists)
+ GDPR/CCPA compliance (cookie consent)
+ Proper disclaimers on offers (30-day activation, etc.)
+21. Analytics & Tracking
+ Google Tag Manager container loads
+ GTM dataLayer events fire correctly
+ Phone click tracking works
+ Scheduler open tracking works
+ Form submission tracking works
+22. Content Accuracy
+ All phone numbers: (520) 333-2665
+ Company name: Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+ Service areas: Tucson, Oro Valley, Marana, Sahuarita, Vail, etc.
+ Review counts accurate (22,000+ total, 3,500+ Google)
+ Google rating: 4.97 displayed, 5.0 on badge
+ Years in business: Since 1979
+ No Lorem Ipsum or placeholder text
+ No "TODO" or "FIXME" comments visible to users
+ Company Address: 1145 E Fort Lowell Rd, Tucson, AZ 85719
+23. External Links
+ Social media links work (if present)
+ YouTube embeds load properly
+ External vendor links open correctly
+ Manufacturer links work (if present)
+24. Edge Cases
+ 404 page exists and looks good
+ Error handling for failed widget loads
+ Graceful degradation if JavaScript disabled
+ Test with ad blockers enabled
+ Test with slow network connection

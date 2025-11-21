@@ -28,7 +28,7 @@ export const redrockcasagrandeData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Red Rock homes.",
-    "link": "/services/h-v-a-c-tucson"
+    "link": "/services/hvacredrockcasagrande"
   },
   {
     "icon": "Flame",

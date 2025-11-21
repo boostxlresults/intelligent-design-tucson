@@ -27,7 +27,7 @@ export const tucsonestatesData: LocationPageData = {
       "icon": "AirVent",
       "title": "Air Conditioning",
       "description": "Expert AC repair, installation, and maintenance for Tucson Estates homes.",
-      "link": "/services/h-v-a-c-tucson-estates"
+      "link": "/services/hvactucsonestates"
     },
     {
       "icon": "Flame",

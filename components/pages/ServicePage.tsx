@@ -8,6 +8,7 @@ import { ClientSchemas } from "@/components/ClientSchemas";
 import TrustBar from "@/components/content/TrustBar";
 import RichText from "@/components/content/RichText";
 import DrainClearingCoupon from "@/components/specials/DrainClearingCoupon";
+import ServiceFAQ from "@/components/content/ServiceFAQ";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -314,21 +315,15 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
         </div>
       </section>
 
-      {/* FAQs Section */}
+      {/* FAQs Section - Using ServiceFAQ accordion component */}
       {data.faqs?.faqs && data.faqs.faqs.length > 0 && (
-        <section className="py-16">
-          <div className="container mx-auto px-4 max-w-4xl">
-            <h2 className="text-3xl font-bold mb-8">Frequently Asked Questions</h2>
-            <div className="space-y-6">
-              {data.faqs.faqs.map((faq, index) => (
-                <div key={index} className="bg-card border border-border rounded-lg p-6">
-                  <h3 className="text-xl font-semibold mb-3">{faq.question}</h3>
-                  <p className="text-muted-foreground">{faq.answer}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <ServiceFAQ
+          faqs={data.faqs.faqs}
+          sectionHeading="Frequently Asked Questions"
+          sectionDescription={`Get answers to common questions about ${data.serviceName} in Tucson, AZ`}
+          serviceName={data.serviceName}
+          serviceId={data.faqs.serviceId || slug || 'service'}
+        />
       )}
 
       {/* Common Questions Section - AI Search Optimization Layer */}

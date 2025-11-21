@@ -28,7 +28,7 @@ export const easttucsonData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for East Tucson homes.",
-    "link": "/services/h-v-a-c-east-tucson"
+    "link": "/services/hvaceasttucson"
   },
   {
     "icon": "Flame",

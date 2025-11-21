@@ -28,7 +28,7 @@ export const tortolitaData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Tortolita homes.",
-    "link": "/services/h-v-a-c-tortolita"
+    "link": "/services/hvactortolita"
   },
   {
     "icon": "Flame",

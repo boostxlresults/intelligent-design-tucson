@@ -28,7 +28,7 @@ export const maranaData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Marana homes.",
-    "link": "/services/h-v-a-c-marana"
+    "link": "/services/hvacmarana"
   },
   {
     "icon": "Flame",

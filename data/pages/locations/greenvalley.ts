@@ -28,7 +28,7 @@ export const greenvalleyData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Green Valley homes.",
-    "link": "/services/h-v-a-c-green-valley"
+    "link": "/services/hvacgreenvalley"
   },
   {
     "icon": "Flame",

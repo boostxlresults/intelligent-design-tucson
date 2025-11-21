@@ -28,7 +28,7 @@ export const tanqueverdeData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Tanque Verde homes.",
-    "link": "/services/h-v-a-c-tanque-verde"
+    "link": "/services/hvactanqueverde"
   },
   {
     "icon": "Flame",

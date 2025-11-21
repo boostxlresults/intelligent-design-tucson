@@ -28,7 +28,7 @@ export const coronadetucsonData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Corona de Tucson homes.",
-    "link": "/services/h-v-a-c-coronade-tucson"
+    "link": "/services/hvaccoronadetucson"
   },
   {
     "icon": "Flame",

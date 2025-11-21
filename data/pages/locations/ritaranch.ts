@@ -28,7 +28,7 @@ export const ritaranchData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Rita Ranch homes.",
-    "link": "/services/h-v-a-c-rita-ranch"
+    "link": "/services/hvacritaranch"
   },
   {
     "icon": "Flame",

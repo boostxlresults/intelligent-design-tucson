@@ -28,7 +28,7 @@ export const gladdenfarmsData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Gladden Farms homes.",
-    "link": "/services/h-v-a-c-gladden-farms"
+    "link": "/services/hvacgladdenfarms"
   },
   {
     "icon": "Flame",
