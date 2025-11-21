@@ -10,7 +10,7 @@ import RealWorkLabsWidget from '@/components/integrations/RealWorkLabsWidget';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Recent Projects | Real Home Service Results in Tucson AZ',
   description: 'See our latest HVAC, plumbing, solar, electrical, and roofing projects in Tucson. Browse before and after photos, customer testimonials, and project details from Intelligent Design.',
-  canonicalUrl: 'https://intelligentdesignac.com/recent-projects',
+  canonicalUrl: 'https://www.idesignac.com/recent-projects',
   keywords: ['recent projects', 'HVAC installations Tucson', 'before and after', 'customer projects', 'home improvements', 'project gallery', 'Tucson home services'],
 });
 

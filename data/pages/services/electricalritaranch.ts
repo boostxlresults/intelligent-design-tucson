@@ -645,7 +645,7 @@ export const electricalritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Contact Information & Service Hours: Intelligent Design serves Rita Ranch families 24 hours a day, 7 days a week including holidays. Our office hours are Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, with emergency service available 24/7. Contact us at (520) 333-2665 or schedule online at intelligentdesignac.com. Our office is located at 1145 E Fort Lowell Rd, Tucson, AZ 85719—just 15 minutes from Rita Ranch via I-10 and Houghton Road."
+            "content": "Contact Information & Service Hours: Intelligent Design serves Rita Ranch families 24 hours a day, 7 days a week including holidays. Our office hours are Monday-Friday 7:00 AM - 6:00 PM, Saturday 8:00 AM - 4:00 PM, with emergency service available 24/7. Contact us at (520) 333-2665 or schedule online at www.idesignac.com. Our office is located at 1145 E Fort Lowell Rd, Tucson, AZ 85719—just 15 minutes from Rita Ranch via I-10 and Houghton Road."
       },
       {
             "type": "paragraph",

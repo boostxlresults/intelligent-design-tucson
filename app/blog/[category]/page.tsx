@@ -106,7 +106,7 @@ export async function generateMetadata({
   return generateSEOMetadata({
     title: `${categoryName} Blog | Intelligent Design Tucson`,
     description,
-    canonicalUrl: `https://intelligentdesignac.com/blog/${category}`,
+    canonicalUrl: `https://www.idesignac.com/blog/${category}`,
     keywords: [categoryName, 'Tucson', 'Arizona', 'home services', 'blog', 'articles'],
   });
 }

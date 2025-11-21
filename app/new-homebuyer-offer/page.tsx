@@ -8,7 +8,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 export const metadata: Metadata = generateSEOMetadata({
   title: 'New Homebuyer Offer | FREE 2-Year Protection Plan | Intelligent Design Tucson',
   description: 'Congratulations on your new home! Receive a FREE 2-Year Deluxe Family Protection Plan ($1,200 value) with 5 annual inspections covering HVAC, plumbing, electrical, roofing, and water heater. 15% off all repairs, no dispatch fees, and 24/7 emergency service.',
-  canonicalUrl: 'https://intelligentdesignac.com/new-homebuyer-offer',
+  canonicalUrl: 'https://www.idesignac.com/new-homebuyer-offer',
   keywords: ['new homebuyer offer Tucson', 'home protection plan', 'HVAC maintenance plan', 'new home services', 'Tucson homebuyer benefits'],
 });
 

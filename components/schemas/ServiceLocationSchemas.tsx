@@ -41,8 +41,8 @@ export function getServiceLocationSchemas(
 
   // Build canonical URL (omit location segment for service-only pages)
   const canonicalUrl = locationSlug 
-    ? `https://www.intelligentdesignac.com/services/${serviceSlug}/${locationSlug}`
-    : `https://www.intelligentdesignac.com/services/${serviceSlug}`;
+    ? `https://www.idesignac.com/services/${serviceSlug}/${locationSlug}`
+    : `https://www.idesignac.com/services/${serviceSlug}`;
   
   // Extract HowTo data from content sections
   let howToGuide: any = undefined;

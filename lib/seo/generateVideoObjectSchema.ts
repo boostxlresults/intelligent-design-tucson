@@ -42,11 +42,11 @@ export function generateVideoObjectSchema(options: VideoObjectSchemaOptions) {
   // Add publisher (Intelligent Design)
   schema.publisher = {
     "@type": "Organization",
-    "@id": "https://intelligentdesignhvac.com/#organization",
+    "@id": "https://www.idesignac.com/#organization",
     "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://intelligentdesignhvac.com/logo.png"
+      "url": "https://www.idesignac.com/logo.png"
     }
   };
 
@@ -77,7 +77,7 @@ export function generatePlaylistVideoSchemas(
         "embedUrl": `https://www.youtube.com/embed/videoseries?list=${playlistId}`,
         "publisher": {
           "@type": "Organization",
-          "@id": "https://intelligentdesignhvac.com/#organization"
+          "@id": "https://www.idesignac.com/#organization"
         }
       }
     }))

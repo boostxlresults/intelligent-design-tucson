@@ -3,7 +3,7 @@ import serviceManifest from '@/data/pages/services/manifest.json';
 import serviceLocationsManifest from '@/data/pages/service-locations/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
 
-const SITE_URL = 'https://www.intelligentdesignac.com';
+const SITE_URL = 'https://www.idesignac.com';
 
 // Service name mapping for URL generation
 const SERVICE_NAME_REVERSE_MAP: Record<string, string> = {

@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Video Testimonials | Real Customer Stories Tucson AZ',
   description: 'Watch real Tucson homeowners share their experiences with Intelligent Design\'s HVAC, plumbing, solar, and electrical services. See why 22,000+ customers trust us.',
-  canonicalUrl: 'https://intelligentdesignac.com/video-testimonials',
+  canonicalUrl: 'https://www.idesignac.com/video-testimonials',
   keywords: ['customer testimonials', 'HVAC reviews Tucson', 'video reviews', 'customer experiences', 'home services testimonials', 'Tucson AC company reviews'],
 });
 

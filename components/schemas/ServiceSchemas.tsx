@@ -61,7 +61,7 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
       "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.intelligentdesignac.com/logo.png"
+        "url": "https://www.idesignac.com/logo.png"
       }
     },
     "datePublished": section.timeframe,
@@ -101,7 +101,7 @@ export function getServiceSchemas(data: ServicePageData, serviceSlug: string) {
     keyword => serviceSlug.includes(keyword)
   );
 
-  const canonicalUrl = `https://www.intelligentdesignac.com/services/${serviceSlug}`;
+  const canonicalUrl = `https://www.idesignac.com/services/${serviceSlug}`;
 
   // Use comprehensive schema registry for base schemas
   const baseSchemas = getPageSchemas({

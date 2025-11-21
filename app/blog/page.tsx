@@ -121,7 +121,7 @@ export async function generateMetadata(): Promise<Metadata> {
   return generateSEOMetadata({
     title: 'Blog | Intelligent Design Tucson - HVAC, Plumbing, Solar & More',
     description: 'Expert advice and guides on HVAC, plumbing, solar, electrical, and roofing services in Tucson. Get tips from Arizona\'s trusted home services professionals.',
-    canonicalUrl: 'https://intelligentdesignac.com/blog',
+    canonicalUrl: 'https://www.idesignac.com/blog',
     keywords: ['blog', 'HVAC', 'plumbing', 'solar', 'electrical', 'roofing', 'Tucson', 'home services', 'home tips'],
   });
 }

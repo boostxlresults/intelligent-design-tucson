@@ -80,7 +80,7 @@ export async function generateMetadata({
     title: `${blogPost.frontmatter.title} | Intelligent Design Tucson`,
     description: blogPost.frontmatter.description,
     keywords: blogPost.frontmatter.tags,
-    canonicalUrl: `https://intelligentdesignac.com/blog/${category}/${slug}`,
+    canonicalUrl: `https://www.idesignac.com/blog/${category}/${slug}`,
     imageUrl: blogPost.frontmatter.heroImage,
     type: 'article' as const,
     publishedTime: blogPost.frontmatter.publishedAt,

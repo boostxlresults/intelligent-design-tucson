@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Air Conditioning System FAQs | Expert HVAC Answers Tucson',
   description: 'Get expert answers to common air conditioning questions. Learn about AC maintenance, efficiency, troubleshooting, and when to call a professional HVAC technician in Tucson.',
-  canonicalUrl: 'https://intelligentdesignac.com/ac-system-faqs',
+  canonicalUrl: 'https://www.idesignac.com/ac-system-faqs',
   keywords: ['air conditioning FAQs', 'HVAC questions', 'AC maintenance', 'air conditioner troubleshooting', 'AC repair', 'Tucson HVAC', 'AC efficiency'],
 });
 

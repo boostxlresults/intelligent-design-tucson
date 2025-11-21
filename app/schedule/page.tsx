@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Service & Scheduling | Contact Intelligent Design Tucson',
   description: 'Customer Service & Scheduling Made Easy! Over 22,000 Five-Star Reviews. BBB A+ Rated. Free Estimates. 100% Satisfaction Guaranteed!',
-  canonicalUrl: 'https://intelligentdesignac.com/schedule',
+  canonicalUrl: 'https://www.idesignac.com/schedule',
   keywords: ['schedule service', 'customer service', 'contact us', 'book appointment', 'HVAC scheduling Tucson', 'emergency service'],
 });
 
@@ -50,7 +50,7 @@ export default function SchedulePage() {
       description: 'Send us an email and we\'ll respond within one business day.',
       cta: 'Email Us',
       action: 'email',
-      href: 'mailto:info@intelligentdesignac.com',
+      href: 'mailto:info@idesignac.com',
       color: 'text-orange-600',
       bgColor: 'bg-orange-50',
     },

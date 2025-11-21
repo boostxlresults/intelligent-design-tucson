@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Areas We Serve | Professional HVAC, Plumbing, Solar & Electrical Throughout Greater Tucson",
     description,
-    url: "https://intelligentdesignac.com/service-areas",
+    url: "https://www.idesignac.com/service-areas",
     type: "website",
   },
   twitter: {

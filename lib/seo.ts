@@ -12,7 +12,7 @@ import { Metadata } from "next";
  */
 
 const SITE_NAME = "Intelligent Design Tucson";
-const SITE_URL = "https://intelligentdesignac.com";
+const SITE_URL = "https://www.idesignac.com";
 const BUSINESS_PHONE = "(520) 333-2665";
 const BUSINESS_ADDRESS = {
   streetAddress: "1145 E Fort Lowell Rd",

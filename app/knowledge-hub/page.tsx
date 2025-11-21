@@ -10,7 +10,7 @@ import Image from 'next/image';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Intelligent Design Knowledge Hub | Expert Home Services Education Center Tucson AZ',
   description: 'Your comprehensive resource for HVAC, plumbing, solar, electrical, and roofing education. Access 230+ expert articles, video tutorials, FAQs, and guides from Tucson\'s trusted home services company.',
-  canonicalUrl: 'https://intelligentdesignac.com/knowledge-hub',
+  canonicalUrl: 'https://www.idesignac.com/knowledge-hub',
   keywords: ['home services education', 'HVAC guides', 'plumbing tips', 'solar information', 'electrical advice', 'roofing resources', 'Tucson home improvement', 'home maintenance guides'],
 });
 
@@ -128,18 +128,18 @@ export default function KnowledgeHubPage() {
     '@type': 'EducationalOrganization',
     name: 'Intelligent Design - Knowledge Hub',
     description: 'Comprehensive home services education center providing expert resources on HVAC, plumbing, solar, electrical, and roofing systems.',
-    url: 'https://intelligentdesignac.com/knowledge-hub',
+    url: 'https://www.idesignac.com/knowledge-hub',
     publisher: {
       '@type': 'Organization',
       name: 'Intelligent Design',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://intelligentdesignac.com/logo.png',
+        url: 'https://www.idesignac.com/logo.png',
       },
     },
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': 'https://intelligentdesignac.com/knowledge-hub',
+      '@id': 'https://www.idesignac.com/knowledge-hub',
     },
   };
 

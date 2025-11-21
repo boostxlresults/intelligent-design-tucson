@@ -8,7 +8,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 export const metadata: Metadata = generateSEOMetadata({
   title: 'REALTORS® Exclusive Offer | FREE 2-Year Protection Plan Gift | Intelligent Design',
   description: 'Exclusive offer for Tucson REALTORS®: Give your clients a FREE 2-Year Deluxe Family Protection Plan ($1,200 value) as a closing gift. Build loyalty, close deals faster, and increase buyer confidence with 5 annual inspections, 15% off repairs, and 24/7 emergency service.',
-  canonicalUrl: 'https://intelligentdesignac.com/realtors-offer',
+  canonicalUrl: 'https://www.idesignac.com/realtors-offer',
   keywords: ['realtor closing gift', 'real estate agent benefits', 'home protection plan for realtors', 'Tucson realtor partners', 'closing gift ideas'],
 });
 

@@ -16,7 +16,7 @@ export interface BreadcrumbItem {
   url: string;
 }
 
-export function generateBreadcrumbs(items: BreadcrumbItem[], baseUrl: string = 'https://intelligentdesignhvac.com') {
+export function generateBreadcrumbs(items: BreadcrumbItem[], baseUrl: string = 'https://www.idesignac.com') {
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

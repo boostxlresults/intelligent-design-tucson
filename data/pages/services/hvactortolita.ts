@@ -342,7 +342,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Throughout the year, we offer seasonal promotions and special offers designed to make quality HVAC service more affordable. Spring Tune-up Specials ($79-99) prepare your AC for summer heat at discounted rates. Fall Maintenance Promotions ensure heating system reliability before winter. Equipment Replacement Offers during shoulder seasons (spring and fall) provide best pricing on new installations when demand is lower. Referral Rewards thank customers for spreading the word with service credits and equipment discounts. Maintenance Plan Discounts provide year-round savings with priority service, reduced rates, and free seasonal tune-ups. Senior and Military Discounts honor those who've served with special pricing on service and equipment. Check our current offers at [link:/special-offers|intelligentdesignac.com/special-offers] or call (520) 333-2665 to learn about available promotions."
+            "content": "Throughout the year, we offer seasonal promotions and special offers designed to make quality HVAC service more affordable. Spring Tune-up Specials ($79-99) prepare your AC for summer heat at discounted rates. Fall Maintenance Promotions ensure heating system reliability before winter. Equipment Replacement Offers during shoulder seasons (spring and fall) provide best pricing on new installations when demand is lower. Referral Rewards thank customers for spreading the word with service credits and equipment discounts. Maintenance Plan Discounts provide year-round savings with priority service, reduced rates, and free seasonal tune-ups. Senior and Military Discounts honor those who've served with special pricing on service and equipment. Check our current offers at [link:/special-offers|www.idesignac.com/special-offers] or call (520) 333-2665 to learn about available promotions."
       },
       {
             "type": "cta",
@@ -520,7 +520,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Seasonal Promotions & Special Offers: Throughout the year we offer promotions making quality service more affordable. Spring tune-up specials ($79-99) prepare AC for summer. Fall maintenance promotions ensure heating reliability. Equipment replacement offers during shoulder seasons provide best pricing. Referral rewards thank customers with service credits. Maintenance plan discounts provide year-round savings. Military and first responder discounts honor service. Check current offers at intelligentdesignac.com/special-offers or call (520) 333-2665."
+            "content": "Seasonal Promotions & Special Offers: Throughout the year we offer promotions making quality service more affordable. Spring tune-up specials ($79-99) prepare AC for summer. Fall maintenance promotions ensure heating reliability. Equipment replacement offers during shoulder seasons provide best pricing. Referral rewards thank customers with service credits. Maintenance plan discounts provide year-round savings. Military and first responder discounts honor service. Check current offers at www.idesignac.com/special-offers or call (520) 333-2665."
       },
       {
             "type": "heading",

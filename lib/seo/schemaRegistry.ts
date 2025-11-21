@@ -188,7 +188,7 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
   // Extract proper base URL (protocol + domain)
-  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://intelligentdesignhvac.com';
+  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://www.idesignac.com';
   schemas.push(generateBreadcrumbs(breadcrumbItems, baseUrl));
 
   // 5. HowTo Schema (if preparation guide exists) ✅ NEW
@@ -290,7 +290,7 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
   // Extract proper base URL (protocol + domain)
-  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://intelligentdesignhvac.com';
+  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://www.idesignac.com';
   schemas.push(generateBreadcrumbs(breadcrumbItems, baseUrl));
 
   // 6. HowTo Schema (if preparation guide exists) ✅ NEW

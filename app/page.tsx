@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
   description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
   alternates: {
-    canonical: "https://intelligentdesignac.com",
+    canonical: "https://www.idesignac.com",
   },
   robots: {
     index: true,
@@ -29,10 +29,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
     description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
-    url: "https://intelligentdesignac.com",
+    url: "https://www.idesignac.com",
     siteName: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
     images: [{
-      url: "https://intelligentdesignac.com/og-image.jpg",
+      url: "https://www.idesignac.com/og-image.jpg",
       width: 1200,
       height: 630,
       alt: "Intelligent Design - Tucson's Most Trusted Home Services Company",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
     description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
-    images: ["https://intelligentdesignac.com/og-image.jpg"],
+    images: ["https://www.idesignac.com/og-image.jpg"],
   },
 };
 
@@ -53,7 +53,7 @@ export default function Home() {
   // Organization, WebSite, Multi-Category LocalBusiness (x5), Reviews (x3)
   const schemas = getPageSchemas({
     pageType: 'homepage',
-    canonicalUrl: 'https://intelligentdesignac.com'
+    canonicalUrl: 'https://www.idesignac.com'
   });
 
   // Consolidate all schemas into a single @graph block for Turbopack compatibility

@@ -10,7 +10,7 @@ import PulseMWidget from '@/components/integrations/PulseMWidget';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Reviews | 22,000+ Five-Star Reviews | Intelligent Design Tucson',
   description: '22,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
-  canonicalUrl: 'https://intelligentdesignac.com/customer-reviews',
+  canonicalUrl: 'https://www.idesignac.com/customer-reviews',
   keywords: ['customer reviews Tucson', 'HVAC reviews', 'plumbing reviews', 'Google reviews', 'verified reviews', '5-star service Tucson', 'best rated home services'],
 });
 

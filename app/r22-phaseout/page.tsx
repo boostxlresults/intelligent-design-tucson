@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'R22 Phaseout Tucson | Intelligent Design',
   description: 'The Environmental Protection Agency has decided to gradually phase out use of R22 refrigerant because it has a destructive impact on the ozone layer that surrounds the Earth, protecting us from ultraviolet radiation.',
-  canonicalUrl: 'https://intelligentdesignac.com/r22-phaseout',
+  canonicalUrl: 'https://www.idesignac.com/r22-phaseout',
   keywords: ['R22', 'freon', 'refrigerant', 'phaseout', 'air conditioning', 'HVAC', 'Tucson', 'Arizona'],
 });
 

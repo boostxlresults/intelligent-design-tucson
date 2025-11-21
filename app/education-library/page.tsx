@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Video Education Library | Intelligent Design Tucson',
   description: 'Explore our education library to learn about your home\'s systems. Are you curious about how you can take better care of your heating and cooling system? Are you interested in upgrading your current systems?',
-  canonicalUrl: 'https://intelligentdesignac.com/education-library',
+  canonicalUrl: 'https://www.idesignac.com/education-library',
   keywords: ['education', 'videos', 'HVAC', 'plumbing', 'solar', 'home maintenance', 'Tucson'],
 });
 
