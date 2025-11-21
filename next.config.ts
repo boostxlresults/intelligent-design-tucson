@@ -26,7 +26,8 @@ async function generateServiceRedirects() {
       'financing', 'guarantees', 'resources', 'home', 'about',
       'contact', 'careers', 'privacy-policy', 'special-offers',
       'customer-reviews', 'video-testimonials', 'family-protection-plans',
-      'new-homebuyer-offer', 'realtors-offer', 'recent-projects'
+      'new-homebuyer-offer', 'realtors-offer', 'recent-projects',
+      'drain-clearing-special'
     ]);
     
     // Generate redirects for canonical services only
@@ -92,6 +93,11 @@ const nextConfig: NextConfig = {
       {
         source: '/about-intelligent-design',
         destination: '/knowledge-hub',
+        permanent: true
+      },
+      {
+        source: '/services/drain-clearing-special',
+        destination: '/drain-clearing-special',
         permanent: true
       }
     ];
