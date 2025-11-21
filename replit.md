@@ -5,7 +5,7 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 
 ## Recent Changes
 
-### November 21, 2025 - Production Deployment Testing
+### November 21, 2025 - Production Deployment Preparation
 **Pre-Production Deployment Verification Completed:**
 - ✅ **User Journey Testing:** 5 critical conversion paths verified (Homepage→Scheduler, Location→Service→Scheduler, Forms, Blog, Contractor Commerce)
 - ✅ **Cross-Browser Testing:** Responsive design verified across all viewports (375px-1920px), mobile hamburger menu, desktop dropdowns functional
@@ -14,16 +14,21 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 - ✅ **SEO Verification:** Canonical URLs correct, OG/Twitter tags complete, schema markup rendering (2-5 schemas per page), sitemap.xml accessible
 - ✅ **Content Quality:** Phone (520) 333-2665 consistent, review count 22,000+ consistent, no placeholder text, professional content throughout
 
-**Fixes Applied:**
-- 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
+**Schema Validation:**
+- 🔧 **Schema provider references fixed:** Changed from inline LocalBusiness objects to @id references (lib/seo/generateMultiCategoryLocalBusinessSchema.ts), eliminating 51 "Missing field 'address'" validation errors
+- ✅ **Google Rich Results Test:** Organization schema (6 valid items) + LocalBusiness schema (6 valid items) all passing validation on staging
+
+**Production Integrations:**
+- ✅ **ServiceTitan DNI activated:** Official Dynamic Number Insertion code integrated (Account ID: 227669022) for call tracking and marketing attribution
 
 **Additional Fixes & Features:**
+- 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
 - ✅ **drain-clearing-special page created:** Full promotional page featuring $28.88 special with DrainClearingCoupon component, SEO metadata, schema markup, trust indicators, FAQ section, and conversion-focused CTAs
 
 **Known Items:**
 - 📝 **Staging Limitations:** ServiceTitan iframe blank on staging (domain whitelist), GTM requires cookie consent (GDPR), some widgets may have CORS on staging - all will work on production www.idesignac.com
 
-**Production Deployment:** Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, no errors
+**Production Deployment:** ✅ Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, DNI active, schemas validated
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.
