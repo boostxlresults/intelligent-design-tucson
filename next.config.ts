@@ -98,6 +98,11 @@ const nextConfig: NextConfig = {
         source: '/drain-clearing-special',
         destination: '/services/drain-clearing-special',
         permanent: true
+      },
+      {
+        source: '/areas-served',
+        destination: '/service-areas',
+        permanent: true
       }
     ];
     
