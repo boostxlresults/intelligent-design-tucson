@@ -17,11 +17,13 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 **Fixes Applied:**
 - 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
 
-**Known Items for Future:**
-- 📝 **Missing Page:** drain-clearing-special promotional page referenced in documentation but not yet created (app route needed)
+**Additional Fixes & Features:**
+- ✅ **drain-clearing-special page created:** Full promotional page featuring $28.88 special with DrainClearingCoupon component, SEO metadata, schema markup, trust indicators, FAQ section, and conversion-focused CTAs
+
+**Known Items:**
 - 📝 **Staging Limitations:** ServiceTitan iframe blank on staging (domain whitelist), GTM requires cookie consent (GDPR), some widgets may have CORS on staging - all will work on production www.idesignac.com
 
-**Production Deployment:** Scheduled for 10pm MST November 21, 2025 to www.idesignac.com
+**Production Deployment:** Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, no errors
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.
