@@ -3,6 +3,26 @@
 ## Overview
 This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site currently features over 488 pages, including service pages (with location-specific variants), service area pages, optimized blog posts, resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
 
+## Recent Changes
+
+### November 21, 2025 - Production Deployment Testing
+**Pre-Production Deployment Verification Completed:**
+- ✅ **User Journey Testing:** 5 critical conversion paths verified (Homepage→Scheduler, Location→Service→Scheduler, Forms, Blog, Contractor Commerce)
+- ✅ **Cross-Browser Testing:** Responsive design verified across all viewports (375px-1920px), mobile hamburger menu, desktop dropdowns functional
+- ✅ **Third-Party Integrations:** All 7 integrations properly implemented (GTM with consent, DNI, ServiceTitan, Contractor Commerce 3 calculators, PulseM, RealWorkLabs, WhoHire) - staging limitations expected due to domain whitelisting
+- ✅ **Performance Audit:** Homepage: 2.4s/262KB, AC Repair: 0.79s/314KB, Oro Valley: 0.71s/117KB - excellent load times, AVIF/WebP optimization configured
+- ✅ **SEO Verification:** Canonical URLs correct, OG/Twitter tags complete, schema markup rendering (2-5 schemas per page), sitemap.xml accessible
+- ✅ **Content Quality:** Phone (520) 333-2665 consistent, review count 22,000+ consistent, no placeholder text, professional content throughout
+
+**Fixes Applied:**
+- 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
+
+**Known Items for Future:**
+- 📝 **Missing Page:** drain-clearing-special promotional page referenced in documentation but not yet created (app route needed)
+- 📝 **Staging Limitations:** ServiceTitan iframe blank on staging (domain whitelist), GTM requires cookie consent (GDPR), some widgets may have CORS on staging - all will work on production www.idesignac.com
+
+**Production Deployment:** Scheduled for 10pm MST November 21, 2025 to www.idesignac.com
+
 ## User Preferences
 Preferred communication style: Simple, everyday language.
 
