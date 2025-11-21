@@ -81,8 +81,7 @@ export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategory
             "@type": "Service",
             "name": service,
             "provider": {
-              "@type": "LocalBusiness",
-              "name": BUSINESS_INFO.name
+              "@id": `${canonicalUrl}#organization`
             }
           }
         }))
