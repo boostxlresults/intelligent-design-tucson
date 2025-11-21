@@ -8,7 +8,7 @@ import DrainClearingCoupon from '@/components/specials/DrainClearingCoupon';
 export const metadata: Metadata = generateSEOMetadata({
   title: '$28.88 Drain Clearing Special | Same-Day Service | Intelligent Design Tucson',
   description: 'Professional drain clearing for just $28.88 in Tucson! Licensed master plumbers clear stubborn clogs in kitchen sinks, bathroom drains, toilets & tubs. Same-day service available. Family & veteran-owned with 22,000+ 5-star reviews. No hidden fees.',
-  canonicalUrl: 'https://www.idesignac.com/drain-clearing-special',
+  canonicalUrl: 'https://www.idesignac.com/services/drain-clearing-special',
   keywords: ['drain clearing special Tucson', 'cheap drain cleaning', 'affordable plumber Tucson', 'clogged drain service', '$28.88 drain clearing', 'drain rooter service'],
 });
 

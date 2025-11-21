@@ -26,8 +26,7 @@ async function generateServiceRedirects() {
       'financing', 'guarantees', 'resources', 'home', 'about',
       'contact', 'careers', 'privacy-policy', 'special-offers',
       'customer-reviews', 'video-testimonials', 'family-protection-plans',
-      'new-homebuyer-offer', 'realtors-offer', 'recent-projects',
-      'drain-clearing-special'
+      'new-homebuyer-offer', 'realtors-offer', 'recent-projects'
     ]);
     
     // Generate redirects for canonical services only
@@ -96,8 +95,8 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
-        source: '/services/drain-clearing-special',
-        destination: '/drain-clearing-special',
+        source: '/drain-clearing-special',
+        destination: '/services/drain-clearing-special',
         permanent: true
       }
     ];
