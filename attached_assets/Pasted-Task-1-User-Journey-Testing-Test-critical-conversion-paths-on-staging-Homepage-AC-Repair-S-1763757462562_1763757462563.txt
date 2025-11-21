@@ -1,0 +1,99 @@
+Task 1: User Journey Testing
+Test critical conversion paths on staging:
+
+Homepage → AC Repair → ServiceTitan scheduler modal
+Oro Valley location page → HVAC service → scheduler
+New Homebuyer Offer → form submission
+Blog index → blog post → internal links
+Free HVAC Quote → Contractor Commerce calculator
+Task 2: Cross-Browser Testing
+Verify on multiple browsers/devices:
+
+Chrome desktop (1920px, 1024px)
+Safari desktop + iOS mobile (375px, 768px)
+Firefox desktop
+Edge desktop
+Test: Navigation dropdowns, mobile menu, floating action bar, forms
+Midday (12pm-3pm MST) - Integration & Performance
+Task 3: Third-Party Widget Verification
+Test all external integrations on staging:
+
+✅ ServiceTitan scheduler opens in modal
+✅ DNI phone number displays correctly (520) 333-2665
+✅ PulseM reviews widget loads (22,000+ reviews)
+✅ Contractor Commerce calculators functional (HVAC, Water Heater, Filter)
+✅ RealWorkLabs project showcase with zip filtering
+✅ WhoHire careers board displays jobs
+✅ Google Tag Manager events fire correctly
+Task 4: Performance Audit
+Run Lighthouse tests on 5 key pages:
+
+Homepage (target: 90+ performance, 100 accessibility, 100 SEO)
+AC Repair Tucson service page
+Oro Valley location page
+Free HVAC Quote (Contractor Commerce)
+Blog post sample
+Note: If scores are below target, document findings but don't delay deployment—optimize post-launch.
+
+Afternoon (3pm-6pm MST) - SEO & Content QA
+Task 5: SEO Technical Verification
+Check critical SEO elements on 5 random pages:
+
+✅ Canonical URL: <link rel="canonical" href="https://www.idesignac.com/...">
+✅ Open Graph tags: og:url, og:title, og:description, og:image
+✅ Schema markup: Organization, LocalBusiness, Service, FAQPage schemas rendering
+✅ Sitemap accessible: https://intelligent-design-tucson.vercel.app/sitemap.xml
+✅ Robots.txt configured: https://intelligent-design-tucson.vercel.app/robots.txt
+Task 6: Content Spot-Check
+Quick review of 10-15 random pages:
+
+✅ No typos in headlines or CTAs
+✅ All images loading correctly
+✅ Phone number clickable: (520) 333-2665
+✅ CTA buttons functional (scheduler, contact forms)
+✅ Internal links not broken
+✅ Review counts accurate (22,000+ total, 3,500+ Google)
+Evening (6pm-10pm MST) - Pre-Deploy Prep
+Task 7: Deployment Readiness
+Final preparations:
+
+✅ Rollback plan: Verify Replit checkpoint exists for today
+✅ Vercel settings: Confirm production domain points to www.idesignac.com
+✅ DNS verification: Check current DNS records before deployment
+✅ Backup: Take final screenshots of staging site
+✅ Communication: Notify stakeholders of 10pm deployment window
+10pm MST - Production Deployment 🎯
+Task 8: Deploy to Production
+Execute deployment steps:
+
+Merge to production branch (or trigger Vercel production deployment)
+Monitor Vercel deployment logs for errors
+Verify DNS propagation (may take 5-10 minutes)
+First check: Visit www.idesignac.com - does homepage load?
+Post-Deploy (10:15pm-10:45pm MST) - Validation
+Task 9: Production Smoke Test (10:15pm)
+Quick functional test of live site:
+
+✅ Homepage loads without errors
+✅ Test 3 service pages (AC Repair, Plumbing, Solar)
+✅ ServiceTitan scheduler modal opens
+✅ Contact form on New Homebuyer Offer page
+✅ Mobile responsive (test on phone)
+✅ All third-party widgets loading (PulseM, RealWorkLabs, Contractor Commerce)
+Task 10: Analytics Verification (10:30pm)
+Confirm tracking is operational:
+
+✅ Google Tag Manager firing (check browser console)
+✅ ServiceTitan DNI phone tracking active
+✅ Form submission logging correctly
+✅ Page view events in GTM
+✅ Contractor Commerce events tracking
+🎯 Success Criteria
+Deployment is successful when:
+
+✅ www.idesignac.com homepage loads in <3 seconds
+✅ ServiceTitan scheduler functional
+✅ All 488 pages accessible (test 10-15 random URLs)
+✅ Mobile responsive on real devices
+✅ Google Tag Manager events firing
+✅ No console errors on homepage or key pages
