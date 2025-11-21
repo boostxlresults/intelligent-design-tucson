@@ -24,11 +24,16 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 **Additional Fixes & Features:**
 - 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
 - ✅ **drain-clearing-special page created:** Full promotional page featuring $28.88 special with DrainClearingCoupon component, SEO metadata, schema markup, trust indicators, FAQ section, and conversion-focused CTAs
+- 🔧 **/areas-served redirect added:** Created 308 permanent redirect from /areas-served → /service-areas (next.config.ts)
+- 🔧 **Accessibility icon repositioned:** Moved accessibility toggle to avoid covering cookie banner on all viewports:
+  - Mobile: bottom-60 (240px from bottom) - well above floating action bar and cookie banner
+  - Desktop/Tablet: top-24 (96px from top) - upper-left area, away from bottom cookie banner
+  - Panel positioning adjusted to open cleanly (mobile: bottom-80, desktop: top-40)
 
 **Known Items:**
 - 📝 **Staging Limitations:** ServiceTitan iframe blank on staging (domain whitelist), GTM requires cookie consent (GDPR), some widgets may have CORS on staging - all will work on production www.idesignac.com
 
-**Production Deployment:** ✅ Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, DNI active, schemas validated
+**Production Deployment:** ✅ Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, DNI active, schemas validated, accessibility icon repositioned
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.

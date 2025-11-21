@@ -41,10 +41,12 @@ export default function AccessibilityToggle() {
 
   return (
     <>
-      {/* Fixed Position Toggle Button - Bottom Left (leaves bottom-right for chat widget) */}
+      {/* Fixed Position Toggle Button - Positioned to avoid cookie banner */}
+      {/* Mobile: Much higher on left (well above floating action bar and cookie banner - 240px from bottom) */}
+      {/* Tablet/Desktop: Upper-left (below header, away from cookie banner) */}
       <button
         onClick={() => setIsOpen(!isOpen)}
-        className="fixed bottom-6 left-6 z-50 w-14 h-14 rounded-full bg-primary text-primary-foreground shadow-lg hover:bg-primary/90 transition-all hover:scale-110 focus:outline-none focus:ring-4 focus:ring-ring"
+        className="fixed bottom-60 left-6 md:top-24 md:bottom-auto z-50 w-14 h-14 rounded-full bg-primary text-primary-foreground shadow-lg hover:bg-primary/90 transition-all hover:scale-110 focus:outline-none focus:ring-4 focus:ring-ring"
         aria-label="Accessibility Options"
         data-testid="button-accessibility-toggle"
       >
@@ -62,7 +64,8 @@ export default function AccessibilityToggle() {
           />
 
           {/* Panel */}
-          <Card className="fixed bottom-24 left-6 z-50 w-96 max-w-[calc(100vw-3rem)] shadow-2xl">
+          {/* Mobile: Opens well above button (button at bottom-60/240px, panel at bottom-80/320px). Tablet/Desktop: Opens below button */}
+          <Card className="fixed bottom-80 left-6 md:top-40 md:bottom-auto z-50 w-96 max-w-[calc(100vw-3rem)] shadow-2xl">
             <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-4">
               <div>
                 <CardTitle className="text-xl">Accessibility Options</CardTitle>
