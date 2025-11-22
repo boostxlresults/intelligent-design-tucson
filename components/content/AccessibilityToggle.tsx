@@ -15,11 +15,20 @@ import {
 
 export default function AccessibilityToggle() {
   const [isOpen, setIsOpen] = useState(false);
-  const [settings, setSettings] = useState<AccessibilitySettings>(getAccessibilitySettings());
+  const [settings, setSettings] = useState<AccessibilitySettings>({
+    fontSize: 100,
+    highContrast: false,
+    dyslexiaFont: false,
+    keyboardNav: false,
+  });
+  const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    // Apply settings on mount
-    applyAccessibilitySettings(settings);
+    setMounted(true);
+    // Load settings from localStorage after mount
+    const savedSettings = getAccessibilitySettings();
+    setSettings(savedSettings);
+    applyAccessibilitySettings(savedSettings);
   }, []);
 
   const updateSettings = (updates: Partial<AccessibilitySettings>) => {
@@ -38,6 +47,11 @@ export default function AccessibilityToggle() {
   const handleFontSizeChange = (size: 100 | 125 | 150) => {
     updateSettings({ fontSize: size });
   };
+
+  // Don't render until mounted to avoid hydration issues
+  if (!mounted) {
+    return null;
+  }
 
   return (
     <>
