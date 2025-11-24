@@ -330,46 +330,63 @@
      ======================================== */
 
   /* Font Size Controls */
-  .font-size-125 {
-    font-size: 125%;
+  html.font-size-125 {
+    font-size: 125% !important;
   }
 
-  .font-size-150 {
-    font-size: 150%;
+  html.font-size-125 body,
+  html.font-size-125 body * {
+    font-size: inherit !important;
+  }
+
+  html.font-size-150 {
+    font-size: 150% !important;
+  }
+
+  html.font-size-150 body,
+  html.font-size-150 body * {
+    font-size: inherit !important;
   }
 
   /* High Contrast Mode */
-  .high-contrast {
-    filter: contrast(1.3);
+  html.high-contrast {
+    filter: contrast(1.5) brightness(1.1);
   }
 
-  .high-contrast * {
+  html.high-contrast body {
+    background: #000 !important;
+    color: #fff !important;
+  }
+
+  html.high-contrast * {
+    border-color: currentColor !important;
     border-width: 2px !important;
   }
 
-  .high-contrast button,
-  .high-contrast a,
-  .high-contrast input,
-  .high-contrast select,
-  .high-contrast textarea {
-    outline: 2px solid currentColor;
-    outline-offset: 2px;
+  html.high-contrast button,
+  html.high-contrast a,
+  html.high-contrast input,
+  html.high-contrast select,
+  html.high-contrast textarea {
+    outline: 3px solid #ffff00 !important;
+    outline-offset: 3px !important;
   }
 
   /* Dyslexia-Friendly Font */
-  .dyslexia-font,
-  .dyslexia-font * {
+  html.dyslexia-font,
+  html.dyslexia-font * {
     font-family: Arial, Helvetica, sans-serif !important;
-    letter-spacing: 0.05em !important;
-    line-height: 1.8 !important;
+    letter-spacing: 0.08em !important;
+    line-height: 1.9 !important;
+    word-spacing: 0.16em !important;
   }
 
   /* Enhanced Keyboard Navigation Mode */
-  .keyboard-nav-mode *:focus,
-  .keyboard-nav-mode *:focus-visible {
-    outline: 4px solid hsl(var(--ring)) !important;
-    outline-offset: 4px !important;
-    box-shadow: 0 0 0 4px hsl(var(--ring) / 0.3) !important;
+  html.keyboard-nav-mode *:focus,
+  html.keyboard-nav-mode *:focus-visible {
+    outline: 5px solid #ffff00 !important;
+    outline-offset: 5px !important;
+    box-shadow: 0 0 0 8px rgba(255, 255, 0, 0.4) !important;
   }
 
   /* Skip to Content Button */
