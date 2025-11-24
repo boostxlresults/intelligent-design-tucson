@@ -330,12 +330,23 @@
      ======================================== */
 
   /* Font Size Controls */
+  html {
+    --font-scale: 1;
+  }
+
   html.font-size-125 {
-    font-size: 125% !important;
+    --font-scale: 1.25;
   }
 
   html.font-size-150 {
-    font-size: 150% !important;
+    --font-scale: 1.5;
+  }
+
+  html.font-size-125 body,
+  html.font-size-125 body *,
+  html.font-size-150 body,
+  html.font-size-150 body * {
+    font-size: calc(1em * var(--font-scale)) !important;
   }
 
   /* High Contrast Mode */
