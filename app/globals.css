@@ -331,11 +331,17 @@
 
   /* Font Size Controls */
   html.font-size-125 body {
-    zoom: 1.25;
+    transform: scale(1.25);
+    transform-origin: top left;
+    width: 80%; /* Compensate for scaling */
+    height: 80%;
   }
 
   html.font-size-150 body {
-    zoom: 1.5;
+    transform: scale(1.5);
+    transform-origin: top left;
+    width: 66.67%; /* Compensate for scaling */
+    height: 66.67%;
   }
 
   /* High Contrast Mode */
