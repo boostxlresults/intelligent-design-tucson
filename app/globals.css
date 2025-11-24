@@ -334,18 +334,8 @@
     font-size: 125% !important;
   }
 
-  html.font-size-125 body,
-  html.font-size-125 body * {
-    font-size: inherit !important;
-  }
-
   html.font-size-150 {
     font-size: 150% !important;
-  }
-
-  html.font-size-150 body,
-  html.font-size-150 body * {
-    font-size: inherit !important;
   }
 
   /* High Contrast Mode */
