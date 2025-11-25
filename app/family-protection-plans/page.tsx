@@ -110,7 +110,7 @@ export default function FamilyProtectionPlansPage() {
         <section 
           className="relative bg-cover bg-center py-20 md:py-28"
           style={{
-            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.9), rgba(13, 45, 122, 0.9)), url(/images/hvac-hero.jpg)',
+            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/family-protection-hero.png)',
           }}
         >
           <div className="max-w-7xl mx-auto px-4">
@@ -184,7 +184,7 @@ export default function FamilyProtectionPlansPage() {
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-                Give Your Clients More Than A Home, Give Them Peace of Mind
+                Protect and Extend the Life of Your Home's Major Systems
               </h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Choose from our comprehensive protection plans designed to keep your home running smoothly year-round
