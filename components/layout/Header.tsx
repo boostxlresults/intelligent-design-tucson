@@ -108,8 +108,8 @@ export default function Header() {
       { name: "AC Service", href: "/services/ac-service-tucson", icon: Settings },
       { name: "AC Installation", href: "/services/ac-installation-tucson", icon: Package },
       { name: "AC Tune-up", href: "/services/ac-tuneup-tucson", icon: Gauge },
-      { name: "Ductless Mini Split Repair", href: "/services/ductless-mini-split-repair-tucson", icon: Wrench },
-      { name: "Ductless Mini Split Installation", href: "/services/ductless-mini-split-installation-tucson", icon: Package },
+      { name: "Ductless Mini Split Repair", href: "/services/ductless-repair-tucson", icon: Wrench },
+      { name: "Ductless Mini Split Installation", href: "/services/ductless-installation-tucson", icon: Package },
     ],
     column2: [
       { name: "Duct Cleaning", href: "/services/duct-cleaning-tucson", icon: Wind },
@@ -152,7 +152,7 @@ export default function Header() {
     ],
     column2: [
       { name: "Drain Clearing Tucson", href: "/services/drain-clearing", icon: Waves },
-      { name: "$28.88 Drain Clearing Special", href: "/services/drain-clearing-special", icon: DollarSign },
+      { name: "$28.88 Drain Clearing Special", href: "/drain-clearing-special", icon: DollarSign },
       { name: "Rooter Special", href: "/services/rooter-special", icon: Wind },
       { name: "Leak Detection", href: "/services/leak-detection", icon: Search },
       { name: "Water Leak Repair", href: "/services/water-leak-repair", icon: Droplets },
@@ -196,7 +196,7 @@ export default function Header() {
       { name: "Solar Energy Monitoring & Maintenance Plans", href: "/services/solar-maintenance", icon: Gauge },
     ],
     column2: [
-      { name: "Home Energy Audit & Consultation", href: "/services/home-energy-audit", icon: Search },
+      { name: "Home Energy Audit & Consultation", href: "/services/home-energy-audit-tucson", icon: Search },
       { name: "Solar Tax Credits", href: "/services/solar-tax-credits", icon: CircleDot },
       { name: "Solar Panel Costs", href: "/services/solar-panel-costs", icon: Zap },
     ]
@@ -208,7 +208,7 @@ export default function Header() {
       { name: "GENERAC® Home Generator Installation", href: "/services/generac-installation", icon: Package },
       { name: "GENERAC® Home Generator Repair", href: "/services/generac-repair", icon: Settings },
       { name: "Electrical Panel Upgrades", href: "/services/electrical-panel-upgrades", icon: Zap },
-      { name: "Home Energy Upgrades", href: "/services/home-energy-upgrades", icon: Gauge },
+      { name: "Home Energy Upgrades", href: "/services/home-energy-upgrades-tucson", icon: Gauge },
     ],
     column2: [
       { name: "Ceiling Fan Installation", href: "/services/ceiling-fan-installation", icon: Wind },
