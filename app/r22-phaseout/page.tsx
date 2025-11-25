@@ -84,7 +84,7 @@ export default function R22PhaseoutPage() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="max-w-4xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
-              The #1 Rated R22 Phaseout in Tucson
+              Information About the R22 Phaseout in Tucson
             </h1>
             <p className="text-xl text-white/90 mb-8" data-testid="text-hero-description">
               Expert guidance and solutions for the R22 refrigerant phaseout in Tucson, Arizona

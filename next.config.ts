@@ -103,6 +103,11 @@ const nextConfig: NextConfig = {
         source: '/areas-served',
         destination: '/service-areas',
         permanent: true
+      },
+      {
+        source: '/services/why-tucson-chooses-intelligent-design',
+        destination: '/about',
+        permanent: true
       }
     ];
     

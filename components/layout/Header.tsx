@@ -260,7 +260,7 @@ export default function Header() {
 
   const infoSubItems = {
     column1: [
-      { name: "About Us", href: "/services/why-tucson-chooses-intelligent-design", icon: Info },
+      { name: "About Us", href: "/about", icon: Info },
       { name: "Financing", href: "/financing", icon: DollarSign },
       { name: "Careers", href: "/careers", icon: Users },
       { name: "Family Protection Plans", href: "/family-protection-plans", icon: ShieldCheck },
@@ -268,7 +268,7 @@ export default function Header() {
     column2: [
       {
         name: "Why Tucson Chooses Intelligent Design",
-        href: "/services/why-tucson-chooses-intelligent-design",
+        href: "/about",
         icon: Star,
         subItems: [
           { name: "Customer Reviews", href: "/customer-reviews", icon: Star },
