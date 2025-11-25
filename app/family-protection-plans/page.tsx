@@ -186,6 +186,9 @@ export default function FamilyProtectionPlansPage() {
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
                 Protect and Extend the Life of Your Home's Major Systems
               </h2>
+              <p className="text-xl md:text-2xl font-bold text-primary/80 mb-4">
+                HVAC - PLUMBING - ROOFING - SOLAR - ELECTRIC: One Call Covers it ALL!!!
+              </p>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Choose from our comprehensive protection plans designed to keep your home running smoothly year-round
               </p>
