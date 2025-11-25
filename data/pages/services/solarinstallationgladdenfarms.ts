@@ -152,7 +152,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Rodriguez family wanted energy independence without compromising comfort for their growing children. They'd heard solar horror stories from friends about high-pressure salespeople, misleading production estimates, and subpar installations. After researching Tucson solar companies and reading our [link:/services/customer-reviews|extensive customer reviews], they contacted Intelligent Design for a no-pressure consultation. Our energy consultant spent two hours at their home, conducting a thorough [link:/services/home-energy-audit|energy assessment], reviewing their utility bills, and discussing their family's long-term plans for the Gladden Farms community."
+            "content": "The Rodriguez family wanted energy independence without compromising comfort for their growing children. They'd heard solar horror stories from friends about high-pressure salespeople, misleading production estimates, and subpar installations. After researching Tucson solar companies and reading our [link:/customer-reviews|extensive customer reviews], they contacted Intelligent Design for a no-pressure consultation. Our energy consultant spent two hours at their home, conducting a thorough [link:/services/home-energy-audit|energy assessment], reviewing their utility bills, and discussing their family's long-term plans for the Gladden Farms community."
       },
       {
             "type": "paragraph",

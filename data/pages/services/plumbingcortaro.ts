@@ -601,7 +601,7 @@ export const plumbingcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design provides complete home services throughout Cortaro including [link:/services/h-v-a-c-tucson|HVAC services], [link:/services/electrical-tucson|electrical services], [link:/services/roofing-tucson|roofing services], and [link:/services/residential-solar-installation-tucson|solar installation]—all with the same honest, affordable approach and flexible financing options."
+            "content": "Intelligent Design provides complete home services throughout Cortaro including [link:/services/hvac-tucson|HVAC services], [link:/services/electrical-tucson|electrical services], [link:/services/roofing-tucson|roofing services], and [link:/services/residential-solar-installation-tucson|solar installation]—all with the same honest, affordable approach and flexible financing options."
       },
       {
             "type": "heading",

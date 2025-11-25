@@ -458,7 +458,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Multi-Trade Advantage for Complete Home Solutions: Unlike electrical-only contractors, Intelligent Design provides complete electrical, [link:/services/h-v-a-c-oro-valley|HVAC], [link:/services/plumbing-oro-valley|plumbing], and [link:/services/solar-installation-oro-valley|solar] expertise under one trusted company. This multi-trade capability delivers unique advantages including integrated electrical and HVAC upgrades ensuring your panel and circuits support high-efficiency cooling systems, coordinated solar panel electrical integration optimizing self-consumption and grid interaction, plumbing and electrical coordination for water heaters, water softeners, and filtration systems, whole-home energy audits identifying savings across all systems, and single trusted partner for all your home service needs eliminating coordination headaches with multiple contractors."
+        "content": "Multi-Trade Advantage for Complete Home Solutions: Unlike electrical-only contractors, Intelligent Design provides complete electrical, [link:/services/hvac-oro-valley|HVAC], [link:/services/plumbing-oro-valley|plumbing], and [link:/services/solar-installation-oro-valley|solar] expertise under one trusted company. This multi-trade capability delivers unique advantages including integrated electrical and HVAC upgrades ensuring your panel and circuits support high-efficiency cooling systems, coordinated solar panel electrical integration optimizing self-consumption and grid interaction, plumbing and electrical coordination for water heaters, water softeners, and filtration systems, whole-home energy audits identifying savings across all systems, and single trusted partner for all your home service needs eliminating coordination headaches with multiple contractors."
       },
       {
         "type": "paragraph",
@@ -626,7 +626,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Beyond electrical, Intelligent Design provides complete home services in Oro Valley:\n\n[link:/services/h-v-a-c-oro-valley|HVAC Services Oro Valley] - AC installation, repair, maintenance, heating systems\n\n[link:/services/plumbing-oro-valley|Plumbing Services Oro Valley] - Repairs, water heaters, drain cleaning, repiping\n\n[link:/services/solar-installation-oro-valley|Solar Installation Oro Valley] - Residential solar panel systems, battery storage\n\n[link:/services/roofing-oro-valley|Roofing Services Oro Valley] - Roof installation, repair, replacement, coating\n\n[link:/services/family-protection-plans|Family Protection Plan] - Comprehensive maintenance protecting all your home systems"
+        "content": "Beyond electrical, Intelligent Design provides complete home services in Oro Valley:\n\n[link:/services/hvac-oro-valley|HVAC Services Oro Valley] - AC installation, repair, maintenance, heating systems\n\n[link:/services/plumbing-oro-valley|Plumbing Services Oro Valley] - Repairs, water heaters, drain cleaning, repiping\n\n[link:/services/solar-installation-oro-valley|Solar Installation Oro Valley] - Residential solar panel systems, battery storage\n\n[link:/services/roofing-oro-valley|Roofing Services Oro Valley] - Roof installation, repair, replacement, coating\n\n[link:/services/family-protection-plans|Family Protection Plan] - Comprehensive maintenance protecting all your home systems"
       },
       {
         "type": "paragraph",

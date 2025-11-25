@@ -104,7 +104,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real commercial installations at Tucson businesses, not theoretical projections. We track every system's performance through comprehensive monitoring platforms that provide real-time production data, automated performance alerts, and detailed financial reporting. Our commitment to transparency and verified results has earned us [link:/services/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints. Every commercial client receives monthly performance reports comparing actual production against estimates, ensuring accountability and demonstrating the financial returns solar delivers."
+            "content": "These metrics represent real commercial installations at Tucson businesses, not theoretical projections. We track every system's performance through comprehensive monitoring platforms that provide real-time production data, automated performance alerts, and detailed financial reporting. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints. Every commercial client receives monthly performance reports comparing actual production against estimates, ensuring accountability and demonstrating the financial returns solar delivers."
       },
       {
             "type": "heading",

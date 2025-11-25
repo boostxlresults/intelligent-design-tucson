@@ -546,7 +546,7 @@ export const residentialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're certified installers for major roofing manufacturers, qualifying your project for enhanced warranties unavailable with non-certified contractors. Our crews are experienced professionals who take pride in their craftsmanship. We invest in ongoing training, use premium materials, and maintain the highest quality standards. Read more [link:/services/customer-reviews|verified customer reviews] from thousands of satisfied homeowners throughout Tucson."
+            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're certified installers for major roofing manufacturers, qualifying your project for enhanced warranties unavailable with non-certified contractors. Our crews are experienced professionals who take pride in their craftsmanship. We invest in ongoing training, use premium materials, and maintain the highest quality standards. Read more [link:/customer-reviews|verified customer reviews] from thousands of satisfied homeowners throughout Tucson."
       },
       {
             "type": "paragraph",

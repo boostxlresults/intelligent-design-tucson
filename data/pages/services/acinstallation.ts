@@ -75,7 +75,7 @@ export const acinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design, we specialize in professional AC installation throughout the greater Tucson area. Our expert technicians handle every aspect of the installation process, from helping you select the perfect system size and efficiency rating to precise installation that maximizes performance and longevity. We also provide comprehensive [link:/services/ac-repair-tucson|AC repair], [link:/services/ac-tuneup-tucson|AC tune-up services], and complete [link:/services/h-v-a-c-tucson|HVAC solutions] for Tucson homeowners."
+            "content": "At Intelligent Design, we specialize in professional AC installation throughout the greater Tucson area. Our expert technicians handle every aspect of the installation process, from helping you select the perfect system size and efficiency rating to precise installation that maximizes performance and longevity. We also provide comprehensive [link:/services/ac-repair-tucson|AC repair], [link:/services/ac-tuneup-tucson|AC tune-up services], and complete [link:/services/hvac-tucson|HVAC solutions] for Tucson homeowners."
       },
       {
             "type": "paragraph",
@@ -236,7 +236,7 @@ export const acinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over [link:knowledgehub.companyHistory:45 years serving Tucson families], we've completed thousands of successful installations. Our team knows how to handle the unique challenges of Tucson homes, from older construction to modern energy-efficient designs. We also provide complete [link:/services/heating-tucson|heating services] for Tucson's mild winter months and serve communities throughout [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], and the greater metro area. Read our [link:/services/customer-reviews|verified customer reviews] from thousands of satisfied Tucson homeowners."
+            "content": "With over [link:knowledgehub.companyHistory:45 years serving Tucson families], we've completed thousands of successful installations. Our team knows how to handle the unique challenges of Tucson homes, from older construction to modern energy-efficient designs. We also provide complete [link:/services/heating-tucson|heating services] for Tucson's mild winter months and serve communities throughout [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], and the greater metro area. Read our [link:/customer-reviews|verified customer reviews] from thousands of satisfied Tucson homeowners."
       },
       {
             "type": "heading",

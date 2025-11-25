@@ -213,7 +213,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"We thought we just needed solar panels, but Intelligent Design's consultant explained our home was wasting energy through poor insulation and an inefficient air conditioner. Their honest assessment was refreshing - they recommended spending money on efficiency first even though it meant they'd sell us a smaller solar system. That integrity won our trust immediately. After the HVAC upgrade, our home stayed comfortable at 75 degrees instead of struggling to reach 78. The difference was remarkable. Then when they installed solar, the system was perfectly sized for our actual needs. Now we're paying $12-18 monthly for electricity versus $250-285 before. That's over $2,800 in annual savings. On our retirement income, this makes a tremendous difference. We can afford to travel more and help our grandchildren. The monitoring app is easy to use, and we enjoy checking our daily production. Our neighbors have commented on how our home stays comfortable even during the hottest days while their AC runs constantly. Intelligent Design treated us with respect, never talked down to us because we're seniors, and delivered exactly what they promised. Their [link:/services/customer-reviews|commitment to customer satisfaction] is genuine, not just marketing talk. We're grateful we found them.\" - Dorothy Peterson, Drexel Heights"
+            "content": "Customer Testimonial: \"We thought we just needed solar panels, but Intelligent Design's consultant explained our home was wasting energy through poor insulation and an inefficient air conditioner. Their honest assessment was refreshing - they recommended spending money on efficiency first even though it meant they'd sell us a smaller solar system. That integrity won our trust immediately. After the HVAC upgrade, our home stayed comfortable at 75 degrees instead of struggling to reach 78. The difference was remarkable. Then when they installed solar, the system was perfectly sized for our actual needs. Now we're paying $12-18 monthly for electricity versus $250-285 before. That's over $2,800 in annual savings. On our retirement income, this makes a tremendous difference. We can afford to travel more and help our grandchildren. The monitoring app is easy to use, and we enjoy checking our daily production. Our neighbors have commented on how our home stays comfortable even during the hottest days while their AC runs constantly. Intelligent Design treated us with respect, never talked down to us because we're seniors, and delivered exactly what they promised. Their [link:/customer-reviews|commitment to customer satisfaction] is genuine, not just marketing talk. We're grateful we found them.\" - Dorothy Peterson, Drexel Heights"
       },
       {
             "type": "paragraph",
@@ -439,7 +439,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent pricing, detailed proposals, no-pressure consultations. We educate rather than sell. No high-pressure tactics. This integrity made us Drexel Heights's most-referred solar company. Our [link:/services/customer-reviews|customer testimonials] demonstrate dedication to exceeding expectations."
+            "content": "Transparent pricing, detailed proposals, no-pressure consultations. We educate rather than sell. No high-pressure tactics. This integrity made us Drexel Heights's most-referred solar company. Our [link:/customer-reviews|customer testimonials] demonstrate dedication to exceeding expectations."
       },
       {
             "type": "cta",
@@ -643,7 +643,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Drexel Heights and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/services/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Drexel Heights and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
       }
 ]
   },

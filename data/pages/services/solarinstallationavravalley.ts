@@ -64,7 +64,7 @@ export const solarinstallationavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Premier Solar Installation Company: Our track record speaks for itself—over 85,000 satisfied customers across Southern Arizona, a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, and BBB A+ accreditation since 1979. We're not just installers; we're your long-term partners in energy independence. Every Avra Valley solar installation is backed by our comprehensive workmanship warranty and ongoing support. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/about|family-owned, veteran-operated service] commitment."
+            "content": "Tucson's Premier Solar Installation Company: Our track record speaks for itself—over 85,000 satisfied customers across Southern Arizona, a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, and BBB A+ accreditation since 1979. We're not just installers; we're your long-term partners in energy independence. Every Avra Valley solar installation is backed by our comprehensive workmanship warranty and ongoing support. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service] commitment."
       },
       {
             "type": "paragraph",

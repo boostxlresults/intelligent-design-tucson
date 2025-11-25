@@ -69,7 +69,7 @@ export const circuitbreakersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete Electrical Service Integration: Our unique advantage as a full-service HVAC, plumbing, electrical, and [link:/services/solar-installation-tucson|solar company] means we understand the complete electrical demands of modern Tucson homes. When we service your circuit breakers, we can simultaneously assess capacity for planned upgrades—[link:/services/smart-thermostat-installation|smart home automation] requiring additional circuits, high-efficiency [link:/services/h-v-a-c-tucson|HVAC systems] demanding proper breaker sizing, EV charger installations needing dedicated 40-60 amp circuits, or [link:/services/residential-solar-installation|rooftop solar panel systems] requiring AFCI-protected solar inverter connections. This comprehensive approach ensures your circuit breaker service addresses not just immediate problems, but positions your electrical system for future upgrades and long-term reliability."
+            "content": "Complete Electrical Service Integration: Our unique advantage as a full-service HVAC, plumbing, electrical, and [link:/services/solar-installation-tucson|solar company] means we understand the complete electrical demands of modern Tucson homes. When we service your circuit breakers, we can simultaneously assess capacity for planned upgrades—[link:/services/smart-thermostat-installation|smart home automation] requiring additional circuits, high-efficiency [link:/services/hvac-tucson|HVAC systems] demanding proper breaker sizing, EV charger installations needing dedicated 40-60 amp circuits, or [link:/services/residential-solar-installation|rooftop solar panel systems] requiring AFCI-protected solar inverter connections. This comprehensive approach ensures your circuit breaker service addresses not just immediate problems, but positions your electrical system for future upgrades and long-term reliability."
       },
       {
             "type": "cta",
@@ -515,7 +515,7 @@ export const circuitbreakersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Whether you need emergency breaker replacement for safety hazards, want to upgrade to AFCI/GFCI protection for maximum fire and shock prevention, need additional circuits for home improvements or modern appliances, or are planning comprehensive electrical upgrades coordinated with [link:/services/h-v-a-c-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], or [link:/services/solar-installation-tucson|solar installations], Intelligent Design provides the expertise, reliability, and commitment to safety your home deserves."
+            "content": "Whether you need emergency breaker replacement for safety hazards, want to upgrade to AFCI/GFCI protection for maximum fire and shock prevention, need additional circuits for home improvements or modern appliances, or are planning comprehensive electrical upgrades coordinated with [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], or [link:/services/solar-installation-tucson|solar installations], Intelligent Design provides the expertise, reliability, and commitment to safety your home deserves."
       },
       {
             "type": "cta",

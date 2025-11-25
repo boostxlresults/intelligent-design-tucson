@@ -102,7 +102,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every upgrade's performance through utility bill monitoring and homeowner feedback, allowing us to verify actual savings against estimates and ensure families receive the value they were promised. Our commitment to transparency and verified results has earned us [link:/services/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to energy upgrade performance."
+            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every upgrade's performance through utility bill monitoring and homeowner feedback, allowing us to verify actual savings against estimates and ensure families receive the value they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to energy upgrade performance."
       },
       {
             "type": "heading",

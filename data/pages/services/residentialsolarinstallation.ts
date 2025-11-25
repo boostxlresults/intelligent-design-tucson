@@ -101,7 +101,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive monitoring, allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us [link:/services/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints."
+            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive monitoring, allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints."
       },
       {
             "type": "heading",

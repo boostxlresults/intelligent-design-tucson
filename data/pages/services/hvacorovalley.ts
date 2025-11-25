@@ -687,7 +687,7 @@ export const hvacorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete Home Services: As a full-service [link:/services/h-v-a-c-tucson|HVAC], [link:/services/plumbing-oro-valley|plumbing], [link:/services/electrical-oro-valley|electrical], and [link:/services/solar-installation-oro-valley|solar company], we provide integrated solutions other contractors can't match: electrical panel upgrades for larger HVAC systems, whole-home surge protection for equipment investment protection, plumbing solutions for condensate drainage and humidification, solar panel integration for near-zero operating costs, and complete home energy audits identifying all efficiency opportunities."
+            "content": "Complete Home Services: As a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-oro-valley|plumbing], [link:/services/electrical-oro-valley|electrical], and [link:/services/solar-installation-oro-valley|solar company], we provide integrated solutions other contractors can't match: electrical panel upgrades for larger HVAC systems, whole-home surge protection for equipment investment protection, plumbing solutions for condensate drainage and humidification, solar panel integration for near-zero operating costs, and complete home energy audits identifying all efficiency opportunities."
       },
       {
             "type": "paragraph",

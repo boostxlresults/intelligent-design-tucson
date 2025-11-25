@@ -104,7 +104,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent verified results from actual Tucson installations, not theoretical projections or industry averages. We track every tax credit claim through completion, maintaining detailed records of credit amounts, filing timelines, and outcomes. Our 100% success rate on properly documented claims reflects our expertise in IRS Form 5695 requirements, equipment certification standards, and documentation best practices. Our commitment to transparency and verified results has earned us [link:/services/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to tax credit guidance."
+            "content": "These metrics represent verified results from actual Tucson installations, not theoretical projections or industry averages. We track every tax credit claim through completion, maintaining detailed records of credit amounts, filing timelines, and outcomes. Our 100% success rate on properly documented claims reflects our expertise in IRS Form 5695 requirements, equipment certification standards, and documentation best practices. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to tax credit guidance."
       },
       {
             "type": "heading",
@@ -323,7 +323,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Store documents securely with fireproof/waterproof protection for paper copies and encrypted cloud backup for digital copies. Essential records to maintain: all Form 5695s and related tax returns, itemized invoices and payment records, equipment certifications and warranties, PTO letters and completion certificates, carryforward tracking worksheets, and correspondence with tax preparers. We maintain copies of all client documentation in our secure customer management system and can provide duplicate documentation packages if original records are lost—another benefit of our comprehensive [link:/services/customer-reviews|customer service] approach."
+            "content": "Store documents securely with fireproof/waterproof protection for paper copies and encrypted cloud backup for digital copies. Essential records to maintain: all Form 5695s and related tax returns, itemized invoices and payment records, equipment certifications and warranties, PTO letters and completion certificates, carryforward tracking worksheets, and correspondence with tax preparers. We maintain copies of all client documentation in our secure customer management system and can provide duplicate documentation packages if original records are lost—another benefit of our comprehensive [link:/customer-reviews|customer service] approach."
       },
       {
             "type": "heading",
@@ -733,7 +733,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our [link:/services/family-protection-plans|Family Protection Plan]. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/services/customer-reviews|22,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
+            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our [link:/services/family-protection-plans|Family Protection Plan]. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/customer-reviews|22,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
       },
       {
             "type": "cta",

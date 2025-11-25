@@ -65,7 +65,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/about|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",

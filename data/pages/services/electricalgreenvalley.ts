@@ -68,7 +68,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Elite Electrical Expertise & Green Valley Specialization: Our team of 38 Arizona ROC-licensed master electricians (ROC 340962) includes specialists with extensive experience in Green Valley's housing stock, older electrical systems, and retirement community needs. Our electricians average 17+ years of hands-on experience and complete 120+ hours of annual manufacturer training on the latest electrical panel, generator, smart home, and solar integration technologies. We're factory-certified installers for Generac, Square D, Siemens, Eaton, and 10+ major brands, with specialized Green Valley expertise in: panel upgrades from outdated 100-125 amp service to modern 200-amp capacity, Federal Pacific and Zinsco panel replacement (fire hazard elimination), aluminum wiring inspection and remediation, whole-home generator installations ensuring medical equipment power security, [link:/services/residential-solar-installation-green-valley|solar panel integration] reducing fixed-income energy costs, smart home lighting and automation supporting aging-in-place independence, GFCI/AFCI protection upgrades for modern safety, and comprehensive electrical safety inspections identifying hazards before they cause fires or failures. Our unique competitive advantage: as a complete electrical, [link:/services/h-v-a-c-green-valley|HVAC], [link:/services/plumbing-green-valley|plumbing], and solar company, we provide integrated home solutions optimizing comfort, efficiency, and reliability for Green Valley's retirement living."
+            "content": "Elite Electrical Expertise & Green Valley Specialization: Our team of 38 Arizona ROC-licensed master electricians (ROC 340962) includes specialists with extensive experience in Green Valley's housing stock, older electrical systems, and retirement community needs. Our electricians average 17+ years of hands-on experience and complete 120+ hours of annual manufacturer training on the latest electrical panel, generator, smart home, and solar integration technologies. We're factory-certified installers for Generac, Square D, Siemens, Eaton, and 10+ major brands, with specialized Green Valley expertise in: panel upgrades from outdated 100-125 amp service to modern 200-amp capacity, Federal Pacific and Zinsco panel replacement (fire hazard elimination), aluminum wiring inspection and remediation, whole-home generator installations ensuring medical equipment power security, [link:/services/residential-solar-installation-green-valley|solar panel integration] reducing fixed-income energy costs, smart home lighting and automation supporting aging-in-place independence, GFCI/AFCI protection upgrades for modern safety, and comprehensive electrical safety inspections identifying hazards before they cause fires or failures. Our unique competitive advantage: as a complete electrical, [link:/services/hvac-green-valley|HVAC], [link:/services/plumbing-green-valley|plumbing], and solar company, we provide integrated home solutions optimizing comfort, efficiency, and reliability for Green Valley's retirement living."
       },
       {
             "type": "cta",
@@ -500,7 +500,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete Home Services: As a full-service [link:/services/h-v-a-c-green-valley|HVAC], [link:/services/plumbing-green-valley|plumbing], electrical, and [link:/services/residential-solar-installation-green-valley|solar] company, we provide integrated solutions for your home. One trusted company for all your home service needs with consistent quality and coordinated service."
+            "content": "Complete Home Services: As a full-service [link:/services/hvac-green-valley|HVAC], [link:/services/plumbing-green-valley|plumbing], electrical, and [link:/services/residential-solar-installation-green-valley|solar] company, we provide integrated solutions for your home. One trusted company for all your home service needs with consistent quality and coordinated service."
       },
       {
             "type": "heading",
@@ -572,7 +572,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "[link:/services/h-v-a-c-green-valley|HVAC Services]: AC repair, installation, and maintenance | Heating system service | Heat pump installation | [link:/services/smart-thermostat-installation-green-valley|Smart thermostat installation] | Indoor air quality solutions | Duct cleaning and sealing"
+            "content": "[link:/services/hvac-green-valley|HVAC Services]: AC repair, installation, and maintenance | Heating system service | Heat pump installation | [link:/services/smart-thermostat-installation-green-valley|Smart thermostat installation] | Indoor air quality solutions | Duct cleaning and sealing"
       },
       {
             "type": "paragraph",

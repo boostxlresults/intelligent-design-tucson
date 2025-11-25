@@ -141,7 +141,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Harrisons researched solar for over a year but encountered companies that either couldn't navigate HOA requirements or proposed systems that would detract from their home's appearance. After reading our [link:/services/customer-reviews|extensive customer reviews] and learning about our experience with Catalina Foothills HOAs, they chose Intelligent Design. Our family-owned, veteran-operated company has successfully completed hundreds of installations in East Tucson's premium communities, earning recognition as Tucson's #1 rated [link:/services/solar-panel-installation-tucson|solar installation company] for seven consecutive years."
+            "content": "The Harrisons researched solar for over a year but encountered companies that either couldn't navigate HOA requirements or proposed systems that would detract from their home's appearance. After reading our [link:/customer-reviews|extensive customer reviews] and learning about our experience with Catalina Foothills HOAs, they chose Intelligent Design. Our family-owned, veteran-operated company has successfully completed hundreds of installations in East Tucson's premium communities, earning recognition as Tucson's #1 rated [link:/services/solar-panel-installation-tucson|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -213,7 +213,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"We thought solar alone would solve our problems, but Intelligent Design's consultant explained our home was wasting tremendous energy through poor insulation and an inefficient air conditioner. Their recommendation to fix efficiency first surprised us - most companies would just sell us a bigger solar system. But their approach made perfect sense financially. After the HVAC upgrade, our home stays comfortable at 74 degrees instead of struggling at 79. The difference is life-changing at our age. Then when they installed solar, the system was perfectly sized for our reduced needs. Now we pay $10-15 monthly for electricity versus $270-320 before. That's over $3,000 in annual savings on our retirement budget. We can finally afford to visit our grandchildren across the country and help with their college expenses. The monitoring app is simple enough for us to use, and we enjoy checking our daily production. Our neighbors comment on how comfortable our home feels even during the hottest days. Intelligent Design treated us with respect and patience, never talked down to us as seniors, and delivered exactly what they promised. Their [link:/services/customer-reviews|commitment to customer satisfaction] is genuine. We're forever grateful for their honest guidance.\" - Helen Martinez, East Tucson"
+            "content": "Customer Testimonial: \"We thought solar alone would solve our problems, but Intelligent Design's consultant explained our home was wasting tremendous energy through poor insulation and an inefficient air conditioner. Their recommendation to fix efficiency first surprised us - most companies would just sell us a bigger solar system. But their approach made perfect sense financially. After the HVAC upgrade, our home stays comfortable at 74 degrees instead of struggling at 79. The difference is life-changing at our age. Then when they installed solar, the system was perfectly sized for our reduced needs. Now we pay $10-15 monthly for electricity versus $270-320 before. That's over $3,000 in annual savings on our retirement budget. We can finally afford to visit our grandchildren across the country and help with their college expenses. The monitoring app is simple enough for us to use, and we enjoy checking our daily production. Our neighbors comment on how comfortable our home feels even during the hottest days. Intelligent Design treated us with respect and patience, never talked down to us as seniors, and delivered exactly what they promised. Their [link:/customer-reviews|commitment to customer satisfaction] is genuine. We're forever grateful for their honest guidance.\" - Helen Martinez, East Tucson"
       },
       {
             "type": "paragraph",
@@ -439,7 +439,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent pricing, detailed proposals, no-pressure consultations. We educate rather than sell. No high-pressure tactics. This integrity made us East Tucson's most-referred solar company. Our [link:/services/customer-reviews|customer testimonials] demonstrate dedication to excellence."
+            "content": "Transparent pricing, detailed proposals, no-pressure consultations. We educate rather than sell. No high-pressure tactics. This integrity made us East Tucson's most-referred solar company. Our [link:/customer-reviews|customer testimonials] demonstrate dedication to excellence."
       },
       {
             "type": "cta",
@@ -643,7 +643,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve East Tucson and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/services/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve East Tucson and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
       }
 ]
   },

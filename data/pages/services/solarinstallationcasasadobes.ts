@@ -438,7 +438,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a complete home services company, Intelligent Design offers comprehensive solutions for Casas Adobes families beyond solar installation. Our [link:/services/electrical-casas-adobes|electrical services] include panel upgrades often needed before solar, whole-home surge protection for solar investment, electrical repairs and upgrades, and smart home integration. Our [link:/services/h-v-a-c-casas-adobes|HVAC services] provide cooling and heating solutions to complement your solar, energy-efficient AC installations reducing solar system size requirements, maintenance plans keeping systems running efficiently, and heat pump installations maximizing solar value. Our [link:/services/plumbing-casas-adobes|plumbing services] ensure your complete home operates efficiently. Many Casas Adobes families appreciate working with one trusted company for all home service needs—with the convenience of unified service history, coordinated scheduling, and one company to call for anything their home needs."
+            "content": "As a complete home services company, Intelligent Design offers comprehensive solutions for Casas Adobes families beyond solar installation. Our [link:/services/electrical-casas-adobes|electrical services] include panel upgrades often needed before solar, whole-home surge protection for solar investment, electrical repairs and upgrades, and smart home integration. Our [link:/services/hvac-casas-adobes|HVAC services] provide cooling and heating solutions to complement your solar, energy-efficient AC installations reducing solar system size requirements, maintenance plans keeping systems running efficiently, and heat pump installations maximizing solar value. Our [link:/services/plumbing-casas-adobes|plumbing services] ensure your complete home operates efficiently. Many Casas Adobes families appreciate working with one trusted company for all home service needs—with the convenience of unified service history, coordinated scheduling, and one company to call for anything their home needs."
       },
       {
             "type": "heading",
@@ -634,7 +634,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Casas Adobes and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/services/customer-reviews|extensive customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
+            "content": "Visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Casas Adobes and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/customer-reviews|extensive customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
       },
       {
             "type": "heading",
