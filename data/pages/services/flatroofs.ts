@@ -388,7 +388,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We install insulation systems engineered for Tucson's climate including vapor barriers when required by code or design, rigid insulation boards in specified thicknesses, tapered insulation systems creating positive drainage to roof drains, proper fastening or adhesion meeting wind uplift requirements, and sealing of insulation joints to prevent air and moisture infiltration. For Tucson applications, we typically recommend R-30 to R-38 insulation values balancing energy efficiency with cost-effectiveness. Proper insulation not only reduces [link:/services/home-energy-upgrades|energy costs] but also protects your membrane from thermal shock and extends roof lifespan by moderating temperature extremes."
+            "content": "We install insulation systems engineered for Tucson's climate including vapor barriers when required by code or design, rigid insulation boards in specified thicknesses, tapered insulation systems creating positive drainage to roof drains, proper fastening or adhesion meeting wind uplift requirements, and sealing of insulation joints to prevent air and moisture infiltration. For Tucson applications, we typically recommend R-30 to R-38 insulation values balancing energy efficiency with cost-effectiveness. Proper insulation not only reduces [link:/services/home-energy-upgrades-tucson|energy costs] but also protects your membrane from thermal shock and extends roof lifespan by moderating temperature extremes."
       },
       {
             "type": "heading",

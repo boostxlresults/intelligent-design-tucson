@@ -166,11 +166,11 @@ export const roofingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Proper roof ventilation is critical in Red Rock / Casa Grande where summer attic temperatures can exceed 150°F. Inadequate ventilation causes excessive heat transfer into living spaces, premature roof material degradation from extreme heat, shortened [link:/services/hvac-redrockcasagrande|HVAC] equipment life, and ice damming in winter (rare but possible). Our ventilation solutions include ridge vents providing continuous airflow along roof peak, turbine vents for powered ventilation, soffit vents for intake airflow, attic fans (powered or solar) for active cooling, and radiant barriers reflecting heat away from living spaces."
+        "content": "Proper roof ventilation is critical in Red Rock / Casa Grande where summer attic temperatures can exceed 150°F. Inadequate ventilation causes excessive heat transfer into living spaces, premature roof material degradation from extreme heat, shortened [link:/services/hvac-red-rock-casa-grande|HVAC] equipment life, and ice damming in winter (rare but possible). Our ventilation solutions include ridge vents providing continuous airflow along roof peak, turbine vents for powered ventilation, soffit vents for intake airflow, attic fans (powered or solar) for active cooling, and radiant barriers reflecting heat away from living spaces."
       },
       {
         "type": "paragraph",
-        "content": "Improved roof ventilation can reduce attic temperatures by 20-40°F, significantly lowering cooling costs and extending roof and HVAC system life. For Red Rock / Casa Grande homes, we often recommend combining passive ventilation (ridge and soffit vents) with solar-powered attic fans that activate during peak heat without increasing electric bills. Proper ventilation is especially important if you're considering [link:/services/solar-installation-redrockcasagrande|solar panel installation], as panels perform better when roof temperatures are reduced."
+        "content": "Improved roof ventilation can reduce attic temperatures by 20-40°F, significantly lowering cooling costs and extending roof and HVAC system life. For Red Rock / Casa Grande homes, we often recommend combining passive ventilation (ridge and soffit vents) with solar-powered attic fans that activate during peak heat without increasing electric bills. Proper ventilation is especially important if you're considering [link:/services/solar-installation-red-rock-casa-grande|solar panel installation], as panels perform better when roof temperatures are reduced."
       },
       {
         "type": "heading",
@@ -227,7 +227,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-redrockcasagrande|HVAC], [link:/services/plumbing-redrockcasagrande|plumbing], [link:/services/electrical-redrockcasagrande|electrical], and [link:/services/solar-installation-redrockcasagrande|solar] company, we coordinate seamlessly when projects involve multiple trades. Planning [link:/services/solar-installation-redrockcasagrande|solar panel installation] requiring roof work? We handle both in perfect coordination. Need [link:/services/electrical-redrockcasagrande|electrical upgrades] for attic fans or ventilation improvements? We manage it all. This integrated approach saves you time, ensures compatibility between systems, and provides single-source accountability. Schedule your Red Rock / Casa Grande roofing service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-red-rock-casa-grande|HVAC], [link:/services/plumbing-red-rock-casa-grande|plumbing], [link:/services/electrical-red-rock-casa-grande|electrical], and [link:/services/solar-installation-red-rock-casa-grande|solar] company, we coordinate seamlessly when projects involve multiple trades. Planning [link:/services/solar-installation-red-rock-casa-grande|solar panel installation] requiring roof work? We handle both in perfect coordination. Need [link:/services/electrical-red-rock-casa-grande|electrical upgrades] for attic fans or ventilation improvements? We manage it all. This integrated approach saves you time, ensures compatibility between systems, and provides single-source accountability. Schedule your Red Rock / Casa Grande roofing service today by calling (520) 333-2665 or booking online."
       }
     ]
   },

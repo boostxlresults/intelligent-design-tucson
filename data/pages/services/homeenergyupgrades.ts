@@ -68,7 +68,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our approach to home energy upgrades begins with a professional energy assessment that identifies exactly where your home is wasting energy and money. Using thermal imaging cameras, electrical usage analysis, [link:/services/hvac-tucson|HVAC system evaluation], and building envelope inspection, we create a detailed picture of your home's energy performance. Then we recommend a prioritized list of upgrades tailored to your specific home, budget, and energy goals—from simple [link:/services/lighting-upgrades-tucson|LED lighting conversions] to comprehensive whole-home efficiency transformations including [link:/services/residential-solar-installation|solar panel installation] and advanced [link:/services/smart-thermostat-installation|smart home automation]."
+            "content": "Our approach to home energy upgrades begins with a professional energy assessment that identifies exactly where your home is wasting energy and money. Using thermal imaging cameras, electrical usage analysis, [link:/services/hvac-tucson|HVAC system evaluation], and building envelope inspection, we create a detailed picture of your home's energy performance. Then we recommend a prioritized list of upgrades tailored to your specific home, budget, and energy goals—from simple [link:/services/lighting-upgrades|LED lighting conversions] to comprehensive whole-home efficiency transformations including [link:/services/residential-solar-installation|solar panel installation] and advanced [link:/services/smart-thermostat-installation-tucson|smart home automation]."
       },
       {
             "type": "paragraph",
@@ -122,7 +122,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Johnson family contacted us after three consecutive summers with electric bills exceeding $450. Their 15-year-old AC system ran constantly, their attic reached 165°F, and leaky ductwork wasted 30% of cooled air. After our comprehensive [link:/services/home-energy-audit|home energy audit], we identified multiple opportunities for improvement. The old 12 SEER AC was drastically oversized and inefficient. Insufficient attic insulation (R-19) and no radiant barrier allowed extreme heat transfer. Leaking ductwork and poor sealing wasted massive amounts of conditioned air."
+            "content": "The Johnson family contacted us after three consecutive summers with electric bills exceeding $450. Their 15-year-old AC system ran constantly, their attic reached 165°F, and leaky ductwork wasted 30% of cooled air. After our comprehensive [link:/services/home-energy-audit-tucson|home energy audit], we identified multiple opportunities for improvement. The old 12 SEER AC was drastically oversized and inefficient. Insufficient attic insulation (R-19) and no radiant barrier allowed extreme heat transfer. Leaking ductwork and poor sealing wasted massive amounts of conditioned air."
       },
       {
             "type": "paragraph",
@@ -151,11 +151,11 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Williams family wanted to replace their failing 13-year-old AC before the summer heat arrived. Rather than just swapping equipment, we recommended pairing the [link:/services/ac-replacement-tucson|AC replacement] with critical insulation improvements for maximum impact. Our energy assessment revealed their attic insulation had degraded to R-14 effective value (compressed and damaged), their attic reached 170°F on summer afternoons, and air leakage around attic penetrations wasted significant cooling."
+            "content": "The Williams family wanted to replace their failing 13-year-old AC before the summer heat arrived. Rather than just swapping equipment, we recommended pairing the [link:/services/ac-installation-tucson|AC replacement] with critical insulation improvements for maximum impact. Our energy assessment revealed their attic insulation had degraded to R-14 effective value (compressed and damaged), their attic reached 170°F on summer afternoons, and air leakage around attic penetrations wasted significant cooling."
       },
       {
             "type": "paragraph",
-            "content": "We installed a premium 19 SEER heat pump system providing both cooling and heating efficiency. The variable-speed compressor adjusts output to match demand rather than cycling on/off constantly. We removed old deteriorated insulation and installed fresh R-49 blown insulation meeting current energy codes. A radiant barrier installed on roof deck reduces radiant heat transfer by 95%. Professional air sealing around attic access, electrical penetrations, and ductwork eliminated air leakage. A Wi-Fi-enabled [link:/services/smart-thermostat-installation|smart thermostat] provides remote control and learning capabilities."
+            "content": "We installed a premium 19 SEER heat pump system providing both cooling and heating efficiency. The variable-speed compressor adjusts output to match demand rather than cycling on/off constantly. We removed old deteriorated insulation and installed fresh R-49 blown insulation meeting current energy codes. A radiant barrier installed on roof deck reduces radiant heat transfer by 95%. Professional air sealing around attic access, electrical penetrations, and ductwork eliminated air leakage. A Wi-Fi-enabled [link:/services/smart-thermostat-installation-tucson|smart thermostat] provides remote control and learning capabilities."
       },
       {
             "type": "paragraph",
@@ -188,7 +188,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The results demonstrate the power of integrated energy solutions. Annual electricity costs dropped from $4,600 to just $216 in grid connection fees—a 95% reduction. The efficiency improvements meant they needed 30% less solar capacity, saving $9,800 on the solar installation. Combined federal tax credits (30% solar + HVAC credits) and utility rebates totaled $14,200. Net investment of $24,200 saves $4,384 annually, providing a 5.5-year payback. Over 25 years, projected savings exceed $132,000. The home now has near-zero operating costs while maintaining superior comfort. Integration with our [link:/services/solar-ac-tucson|solar AC systems] created the ultimate efficient home."
+            "content": "The results demonstrate the power of integrated energy solutions. Annual electricity costs dropped from $4,600 to just $216 in grid connection fees—a 95% reduction. The efficiency improvements meant they needed 30% less solar capacity, saving $9,800 on the solar installation. Combined federal tax credits (30% solar + HVAC credits) and utility rebates totaled $14,200. Net investment of $24,200 saves $4,384 annually, providing a 5.5-year payback. Over 25 years, projected savings exceed $132,000. The home now has near-zero operating costs while maintaining superior comfort. Integration with our [link:/services/solar-ac|solar AC systems] created the ultimate efficient home."
       },
       {
             "type": "testimonial",
@@ -247,7 +247,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For comprehensive projects involving multiple systems, we sequence work for maximum efficiency and minimum disruption. For example, attic work precedes HVAC installation so new equipment isn't disturbed. [link:/services/electrical-panel-upgrades-tucson|Electrical panel upgrades] happen before solar installation. LED lighting often completes first, immediately beginning savings. We coordinate all trades through a single project manager ensuring seamless execution. You receive a detailed schedule showing when each phase occurs, expected completion dates, and any homeowner preparation needed. This planning prevents surprises and ensures smooth project completion."
+            "content": "For comprehensive projects involving multiple systems, we sequence work for maximum efficiency and minimum disruption. For example, attic work precedes HVAC installation so new equipment isn't disturbed. [link:/services/electrical-panel-upgrades|Electrical panel upgrades] happen before solar installation. LED lighting often completes first, immediately beginning savings. We coordinate all trades through a single project manager ensuring seamless execution. You receive a detailed schedule showing when each phase occurs, expected completion dates, and any homeowner preparation needed. This planning prevents surprises and ensures smooth project completion."
       },
       {
             "type": "heading",
@@ -261,7 +261,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "If you prefer [link:/services/financing-tucson|financing options], we connect you with specialized lenders offering competitive programs for energy upgrades. Options include home improvement loans (7-15 year terms, 5.99-11.99% APR), HELOC (home equity line of credit) often with lower rates, solar-specific loans (10-25 years, 0-6% APR), and PACE financing (Property Assessed Clean Energy) repaid through property taxes. Many homeowners choose financing where monthly loan payments are less than energy bill savings, creating positive cash flow immediately. We help you compare options and select the best fit for your situation."
+            "content": "If you prefer [link:/financing|financing options], we connect you with specialized lenders offering competitive programs for energy upgrades. Options include home improvement loans (7-15 year terms, 5.99-11.99% APR), HELOC (home equity line of credit) often with lower rates, solar-specific loans (10-25 years, 0-6% APR), and PACE financing (Property Assessed Clean Energy) repaid through property taxes. Many homeowners choose financing where monthly loan payments are less than energy bill savings, creating positive cash flow immediately. We help you compare options and select the best fit for your situation."
       },
       {
             "type": "heading",
@@ -337,11 +337,11 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "LED Lighting Conversion - If you still have incandescent or CFL bulbs, this is the fastest ROI available. Whole-home LED conversion typically costs $400-800 and saves $200-400 annually, paying for itself in under 2 years. Added benefits include reduced cooling costs (less heat generation) and virtually eliminating bulb replacement for 10-15 years. Start with high-usage areas: kitchen, living room, outdoor security lights. Our [link:/services/lighting-upgrades-tucson|lighting upgrade specialists] can convert your entire home in a few hours."
+            "content": "LED Lighting Conversion - If you still have incandescent or CFL bulbs, this is the fastest ROI available. Whole-home LED conversion typically costs $400-800 and saves $200-400 annually, paying for itself in under 2 years. Added benefits include reduced cooling costs (less heat generation) and virtually eliminating bulb replacement for 10-15 years. Start with high-usage areas: kitchen, living room, outdoor security lights. Our [link:/services/lighting-upgrades|lighting upgrade specialists] can convert your entire home in a few hours."
       },
       {
             "type": "paragraph",
-            "content": "Smart Thermostat Installation - Investment of $300-500 typically saves $180-350 annually through intelligent scheduling, learning algorithms, and remote control. Payback in 1.5-2.5 years. Essential if your current thermostat is basic or programmable but you don't use programming features. Maximum benefit when paired with existing efficient HVAC—if your AC is old and inefficient, replace it first. [link:/services/smart-thermostat-installation|Smart thermostats] integrate perfectly with solar systems for maximum efficiency."
+            "content": "Smart Thermostat Installation - Investment of $300-500 typically saves $180-350 annually through intelligent scheduling, learning algorithms, and remote control. Payback in 1.5-2.5 years. Essential if your current thermostat is basic or programmable but you don't use programming features. Maximum benefit when paired with existing efficient HVAC—if your AC is old and inefficient, replace it first. [link:/services/smart-thermostat-installation-tucson|Smart thermostats] integrate perfectly with solar systems for maximum efficiency."
       },
       {
             "type": "paragraph",
@@ -419,7 +419,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "This option works well for mid-sized projects ($5,000-25,000), homeowners with good credit (700+ scores get best rates), and those who want predictable monthly payments. Calculate whether monthly loan payment is less than projected energy savings—if yes, you have positive cash flow immediately. For example, a $15,000 upgrade saving $200 monthly financed at 7.99% for 10 years has $180 monthly payment—creating $20 positive cash flow from day one. Our [link:/services/financing-tucson|financing specialists] help you compare loan offers and structure optimal terms."
+            "content": "This option works well for mid-sized projects ($5,000-25,000), homeowners with good credit (700+ scores get best rates), and those who want predictable monthly payments. Calculate whether monthly loan payment is less than projected energy savings—if yes, you have positive cash flow immediately. For example, a $15,000 upgrade saving $200 monthly financed at 7.99% for 10 years has $180 monthly payment—creating $20 positive cash flow from day one. Our [link:/financing|financing specialists] help you compare loan offers and structure optimal terms."
       },
       {
             "type": "heading",
@@ -579,7 +579,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solar prices include premium tier-1 panels, inverters (string or microinverter based on needs), mounting systems engineered for Tucson winds, all electrical integration, permits and inspections, utility interconnection, monitoring systems, and 25-year warranties. [link:/services/electrical-panel-upgrades-tucson|Panel upgrades] add $1,200-2,400 if needed for solar interconnection. Most Tucson homeowners need 7-10 kW systems for substantial offset. Zero-down financing available with monthly payments often less than eliminated electric bills. Our solar division handles all rebate applications and interconnection paperwork."
+            "content": "Solar prices include premium tier-1 panels, inverters (string or microinverter based on needs), mounting systems engineered for Tucson winds, all electrical integration, permits and inspections, utility interconnection, monitoring systems, and 25-year warranties. [link:/services/electrical-panel-upgrades|Panel upgrades] add $1,200-2,400 if needed for solar interconnection. Most Tucson homeowners need 7-10 kW systems for substantial offset. Zero-down financing available with monthly payments often less than eliminated electric bills. Our solar division handles all rebate applications and interconnection paperwork."
       },
       {
             "type": "heading",
@@ -593,7 +593,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "All electrical work performed by ROC-licensed electricians meeting Arizona codes. Prices include permits, inspections, and warranty. Many smart home rebates available through utilities reducing net costs. [link:/services/electrical-repair-tucson|Electrical services] can be bundled with other upgrades for better overall pricing. Our electricians coordinate perfectly with HVAC and solar installations for seamless whole-home upgrades."
+            "content": "All electrical work performed by ROC-licensed electricians meeting Arizona codes. Prices include permits, inspections, and warranty. Many smart home rebates available through utilities reducing net costs. [link:/services/electrical-repair|Electrical services] can be bundled with other upgrades for better overall pricing. Our electricians coordinate perfectly with HVAC and solar installations for seamless whole-home upgrades."
       },
       {
             "type": "heading",
@@ -623,7 +623,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why it matters: Lighting accounts for 10-15% of home energy use, and old bulbs generate significant heat. Converting to [link:/services/lighting-upgrades-tucson|LED lighting] reduces lighting energy consumption by 75% while dramatically reducing the heat load your AC must remove. LED bulbs last 25 times longer than incandescent bulbs, virtually eliminating replacement costs. A whole-home LED conversion typically pays for itself in 18-24 months. Adding smart lighting controls extends savings further by ensuring lights are only on when needed."
+            "content": "Why it matters: Lighting accounts for 10-15% of home energy use, and old bulbs generate significant heat. Converting to [link:/services/lighting-upgrades|LED lighting] reduces lighting energy consumption by 75% while dramatically reducing the heat load your AC must remove. LED bulbs last 25 times longer than incandescent bulbs, virtually eliminating replacement costs. A whole-home LED conversion typically pays for itself in 18-24 months. Adding smart lighting controls extends savings further by ensuring lights are only on when needed."
       },
       {
             "type": "heading",

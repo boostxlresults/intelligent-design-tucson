@@ -571,7 +571,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a complete home services provider, Intelligent Design offers integrated solutions for your entire Green Valley property. [link:/services/hvac-green-valley|HVAC Services Green Valley] - Expert air conditioning and heating service for desert climate comfort. Our [link:/services/ac-repair|AC repair specialists] handle emergency breakdowns with average 73-minute response, while our [link:/services/ac-installation|AC installation experts] replace aging systems with modern high-efficiency equipment reducing cooling costs 30-50%. We also provide complete [link:/services/heating-green-valley|heating services] including furnace repair, heat pump service, and annual maintenance protecting your investment."
+            "content": "As a complete home services provider, Intelligent Design offers integrated solutions for your entire Green Valley property. [link:/services/hvac-green-valley|HVAC Services Green Valley] - Expert air conditioning and heating service for desert climate comfort. Our [link:/services/ac-repair-tucson|AC repair specialists] handle emergency breakdowns with average 73-minute response, while our [link:/services/ac-installation-tucson|AC installation experts] replace aging systems with modern high-efficiency equipment reducing cooling costs 30-50%. We also provide complete [link:/services/heating-green-valley|heating services] including furnace repair, heat pump service, and annual maintenance protecting your investment."
       },
       {
             "type": "paragraph",
@@ -579,7 +579,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "[link:/services/solar-installation-green-valley|Solar Installation Green Valley] - Maximize Green Valley's 340+ annual sunny days with professional solar panel installation reducing electricity costs 60-90%. We integrate solar with [link:/services/solar-ac|solar-powered air conditioning] for maximum efficiency and [link:/services/solar-water-heaters|solar water heating] achieving near-zero operating costs. Our complete HVAC, plumbing, electrical, and solar expertise enables whole-home energy solutions optimizing every system for maximum efficiency and minimum cost."
+            "content": "[link:/services/solar-installation-green-valley|Solar Installation Green Valley] - Maximize Green Valley's 340+ annual sunny days with professional solar panel installation reducing electricity costs 60-90%. We integrate solar with [link:/services/solar-ac|solar-powered air conditioning] for maximum efficiency and [link:/services/solar-ac|solar water heating] achieving near-zero operating costs. Our complete HVAC, plumbing, electrical, and solar expertise enables whole-home energy solutions optimizing every system for maximum efficiency and minimum cost."
       },
       {
             "type": "paragraph",

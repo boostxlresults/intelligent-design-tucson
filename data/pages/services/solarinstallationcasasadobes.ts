@@ -634,7 +634,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Casas Adobes and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/customer-reviews|extensive customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
+            "content": "Visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Casas Adobes and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/customer-reviews|extensive customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
       },
       {
             "type": "heading",

@@ -155,7 +155,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Cool roofing materials can reduce summer cooling costs by 10-25% compared to standard dark roofs—savings of $300-$600 annually for typical Saddle Brooke / Catalina homes. Light-colored tile roofs naturally provide excellent heat reflection, and modern architectural shingles are available with reflective granules that meet Energy Star requirements. For retirees on fixed incomes, energy-efficient roofing provides ongoing savings that help offset the initial investment while maintaining comfortable indoor temperatures. These upgrades also reduce strain on your [link:/services/hvac-saddlebrookecatalina|HVAC system], potentially extending its service life by years."
+        "content": "Cool roofing materials can reduce summer cooling costs by 10-25% compared to standard dark roofs—savings of $300-$600 annually for typical Saddle Brooke / Catalina homes. Light-colored tile roofs naturally provide excellent heat reflection, and modern architectural shingles are available with reflective granules that meet Energy Star requirements. For retirees on fixed incomes, energy-efficient roofing provides ongoing savings that help offset the initial investment while maintaining comfortable indoor temperatures. These upgrades also reduce strain on your [link:/services/hvac-saddle-brooke-catalina|HVAC system], potentially extending its service life by years."
       },
       {
         "type": "heading",
@@ -200,7 +200,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "The Challenge: The Mitchells, longtime Saddle Brooke residents, were dealing with a 22-year-old concrete tile roof showing significant signs of aging. While tile roofs can last 40-50 years, their particular roof had been poorly installed by the original builder with inadequate underlayment and ventilation. They were experiencing several small leaks during monsoon rains, had numerous cracked and broken tiles, and their attic temperatures were extremely high during summer (often 160°F+), placing enormous strain on their [link:/services/hvac-saddlebrookecatalina|HVAC system] and driving up cooling costs. They were also concerned about the roof's condition as they planned to remain in their home throughout retirement. As retirees on a fixed income, they needed to make a smart long-term decision about repair versus replacement."
+        "content": "The Challenge: The Mitchells, longtime Saddle Brooke residents, were dealing with a 22-year-old concrete tile roof showing significant signs of aging. While tile roofs can last 40-50 years, their particular roof had been poorly installed by the original builder with inadequate underlayment and ventilation. They were experiencing several small leaks during monsoon rains, had numerous cracked and broken tiles, and their attic temperatures were extremely high during summer (often 160°F+), placing enormous strain on their [link:/services/hvac-saddle-brooke-catalina|HVAC system] and driving up cooling costs. They were also concerned about the roof's condition as they planned to remain in their home throughout retirement. As retirees on a fixed income, they needed to make a smart long-term decision about repair versus replacement."
       },
       {
         "type": "paragraph",
@@ -226,7 +226,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-saddlebrookecatalina|HVAC], [link:/services/plumbing-saddlebrookecatalina|plumbing], [link:/services/electrical-saddlebrookecatalina|electrical], and roofing company, we handle all your home's major systems with one trusted partner. Need attic ventilation improvements for better [link:/services/hvac-saddlebrookecatalina|HVAC performance]? We coordinate everything seamlessly. Planning [link:/services/solar-installation-saddlebrookecatalina|solar panel installation] that requires roof assessment and potential repairs? We ensure your roof can support solar equipment for decades. This integrated approach saves you time and ensures all systems work together efficiently. Schedule your Saddle Brooke / Catalina roofing service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-saddle-brooke-catalina|HVAC], [link:/services/plumbing-saddle-brooke-catalina|plumbing], [link:/services/electrical-saddle-brooke-catalina|electrical], and roofing company, we handle all your home's major systems with one trusted partner. Need attic ventilation improvements for better [link:/services/hvac-saddle-brooke-catalina|HVAC performance]? We coordinate everything seamlessly. Planning [link:/services/solar-installation-saddle-brooke-catalina|solar panel installation] that requires roof assessment and potential repairs? We ensure your roof can support solar equipment for decades. This integrated approach saves you time and ensures all systems work together efficiently. Schedule your Saddle Brooke / Catalina roofing service today by calling (520) 333-2665 or booking online."
       }
     ]
   },

@@ -174,7 +174,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Heat Pump Systems: Heat pumps providing both cooling and heating require thermostats specifically supporting reversing valve control and auxiliary/emergency heat. All major smart thermostat brands support standard heat pumps, but verify model specifications. [link:/services/heat-pumps|Heat pump] installations often need additional wiring including O/B wire for reversing valve and W2/E wire for auxiliary heat strips. Ecobee and Honeywell T9 excel with heat pump systems offering advanced configuration options for optimal efficiency."
+            "content": "Heat Pump Systems: Heat pumps providing both cooling and heating require thermostats specifically supporting reversing valve control and auxiliary/emergency heat. All major smart thermostat brands support standard heat pumps, but verify model specifications. [link:/services/heat-pumps-tucson|Heat pump] installations often need additional wiring including O/B wire for reversing valve and W2/E wire for auxiliary heat strips. Ecobee and Honeywell T9 excel with heat pump systems offering advanced configuration options for optimal efficiency."
       },
       {
             "type": "paragraph",
@@ -186,7 +186,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ductless Mini-Split Systems: [link:/services/ductless-mini-split-installation-tucson|Ductless mini-split] air conditioners often include manufacturer-specific WiFi control modules rather than traditional thermostat replacement. Mitsubishi, Daikin, and Fujitsu offer native smartphone control apps. For mini-splits with separate thermostat control, verify compatibility with manufacturer before purchasing smart thermostats. Our technicians expertly navigate mini-split control integration for seamless smart home connectivity."
+            "content": "Ductless Mini-Split Systems: [link:/services/ductless-installation-tucson|Ductless mini-split] air conditioners often include manufacturer-specific WiFi control modules rather than traditional thermostat replacement. Mitsubishi, Daikin, and Fujitsu offer native smartphone control apps. For mini-splits with separate thermostat control, verify compatibility with manufacturer before purchasing smart thermostats. Our technicians expertly navigate mini-split control integration for seamless smart home connectivity."
       },
       {
             "type": "heading",
@@ -337,7 +337,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Challenge: Their sophisticated dual-zone HVAC system utilized two independent [link:/services/heat-pumps|heat pump] units, each controlled by separate non-communicating programmable thermostats. Without coordination, zones operated independently creating inefficient scenarios where one zone cooled while other zone was satisfied, or both zones running unnecessarily during mild weather when single zone would suffice. Manual coordination required walking between two thermostat locations. Summer 2022 cooling costs averaged $438 monthly for the large custom home. Guest wing remained empty most of year except holiday visits, yet ran same aggressive cooling schedule as occupied master wing. Home office in guest wing needed daytime cooling while rest of that zone could run reduced, but single thermostat location couldn't detect occupancy differences."
+            "content": "Challenge: Their sophisticated dual-zone HVAC system utilized two independent [link:/services/heat-pumps-tucson|heat pump] units, each controlled by separate non-communicating programmable thermostats. Without coordination, zones operated independently creating inefficient scenarios where one zone cooled while other zone was satisfied, or both zones running unnecessarily during mild weather when single zone would suffice. Manual coordination required walking between two thermostat locations. Summer 2022 cooling costs averaged $438 monthly for the large custom home. Guest wing remained empty most of year except holiday visits, yet ran same aggressive cooling schedule as occupied master wing. Home office in guest wing needed daytime cooling while rest of that zone could run reduced, but single thermostat location couldn't detect occupancy differences."
       },
       {
             "type": "paragraph",
@@ -459,7 +459,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete Multi-Trade Expertise: Unlike HVAC-only companies, our comprehensive capabilities as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], [link:/services/roofing-tucson|roofing], and [link:/services/residential-solar-installation|solar installation] company enables us to address your complete home comfort picture. During smart thermostat installation, we can identify and solve related issues like [link:/services/duct-sealing-tucson|duct leakage] reducing cooling efficiency, [link:/services/electrical-panel-upgrades|electrical panel] upgrades needed for HVAC reliability, [link:/services/indoor-air-quality|indoor air quality] improvements, or solar panel coordination for dramatically reduced energy bills. Our multi-trade advantage means one trusted company handling all your home comfort needs with coordinated solutions rather than juggling multiple contractors."
+            "content": "Complete Multi-Trade Expertise: Unlike HVAC-only companies, our comprehensive capabilities as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], [link:/services/roofing-tucson|roofing], and [link:/services/residential-solar-installation|solar installation] company enables us to address your complete home comfort picture. During smart thermostat installation, we can identify and solve related issues like [link:/services/duct-sealing-tucson|duct leakage] reducing cooling efficiency, [link:/services/electrical-panel-upgrades|electrical panel] upgrades needed for HVAC reliability, [link:/services/indoor-air-quality-tucson|indoor air quality] improvements, or solar panel coordination for dramatically reduced energy bills. Our multi-trade advantage means one trusted company handling all your home comfort needs with coordinated solutions rather than juggling multiple contractors."
       },
       {
             "type": "cta",
@@ -550,7 +550,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Some smart thermostats integrate with whole-home [link:/services/indoor-air-quality|dehumidification systems], coordinating operation for optimal moisture control. During monsoon season when outdoor humidity peaks, the thermostat can activate supplemental dehumidification without excessive AC runtime, maintaining comfortable 40-50% indoor humidity levels that prevent mold growth while minimizing energy consumption."
+            "content": "Some smart thermostats integrate with whole-home [link:/services/indoor-air-quality-tucson|dehumidification systems], coordinating operation for optimal moisture control. During monsoon season when outdoor humidity peaks, the thermostat can activate supplemental dehumidification without excessive AC runtime, maintaining comfortable 40-50% indoor humidity levels that prevent mold growth while minimizing energy consumption."
       },
       {
             "type": "heading",
@@ -620,7 +620,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For homes with [link:/services/heat-pumps|heat pump systems] providing both heating and cooling, smart thermostats optimize heat pump operation by preventing auxiliary electric heat strip usage except when absolutely necessary (heat pumps are 2-3× more efficient than resistance heat), managing defrost cycles efficiently during rare freezing conditions, and automatically switching between heating and cooling modes as daily temperatures fluctuate above and below 70°F."
+            "content": "For homes with [link:/services/heat-pumps-tucson|heat pump systems] providing both heating and cooling, smart thermostats optimize heat pump operation by preventing auxiliary electric heat strip usage except when absolutely necessary (heat pumps are 2-3× more efficient than resistance heat), managing defrost cycles efficiently during rare freezing conditions, and automatically switching between heating and cooling modes as daily temperatures fluctuate above and below 70°F."
       },
       {
             "type": "heading",

@@ -141,7 +141,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "While Saddle Brooke / Catalina's climate is generally mild, reliable heating is important during cool desert evenings and winter months when temperatures can drop into the 30s and 40s. We provide complete [link:/services/heating-saddlebrookecatalina|heating service] including furnace maintenance and tune-ups, heat pump service and repair, thermostat troubleshooting and replacement, heating system repairs for common issues, and emergency heating service when you need it most."
+        "content": "While Saddle Brooke / Catalina's climate is generally mild, reliable heating is important during cool desert evenings and winter months when temperatures can drop into the 30s and 40s. We provide complete [link:/services/heating-saddle-brooke-catalina|heating service] including furnace maintenance and tune-ups, heat pump service and repair, thermostat troubleshooting and replacement, heating system repairs for common issues, and emergency heating service when you need it most."
       },
       {
         "type": "paragraph",
@@ -155,7 +155,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "For Saddle Brooke / Catalina residents, indoor air quality becomes increasingly important for health and comfort, especially for those with respiratory conditions, allergies, or sensitivities. Our indoor air quality solutions integrate seamlessly with your existing HVAC system including high-efficiency air filtration (MERV 11-16 filters) to remove dust, pollen, and allergens, UV air purifiers that eliminate bacteria, viruses, and mold spores, whole-home humidifiers for comfortable humidity during dry winter months, air purification systems for comprehensive air cleaning, [link:/services/duct-cleaning|duct cleaning] to remove accumulated dust and contaminants, and air quality testing to identify specific concerns."
+        "content": "For Saddle Brooke / Catalina residents, indoor air quality becomes increasingly important for health and comfort, especially for those with respiratory conditions, allergies, or sensitivities. Our indoor air quality solutions integrate seamlessly with your existing HVAC system including high-efficiency air filtration (MERV 11-16 filters) to remove dust, pollen, and allergens, UV air purifiers that eliminate bacteria, viruses, and mold spores, whole-home humidifiers for comfortable humidity during dry winter months, air purification systems for comprehensive air cleaning, [link:/services/duct-cleaning-tucson|duct cleaning] to remove accumulated dust and contaminants, and air quality testing to identify specific concerns."
       },
       {
         "type": "paragraph",
@@ -187,7 +187,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Signs your ductwork may need attention include some rooms consistently warmer or cooler than others, high energy bills despite efficient HVAC equipment, excessive dust in your home, and visible gaps or damage in accessible ductwork. Professional duct sealing typically costs $800-$2,000 but can reduce energy costs by 20-30% annually—significant savings for retirees on fixed incomes. We also provide [link:/services/duct-cleaning|duct cleaning] services that remove accumulated dust, allergens, and contaminants, improving indoor air quality and system efficiency."
+        "content": "Signs your ductwork may need attention include some rooms consistently warmer or cooler than others, high energy bills despite efficient HVAC equipment, excessive dust in your home, and visible gaps or damage in accessible ductwork. Professional duct sealing typically costs $800-$2,000 but can reduce energy costs by 20-30% annually—significant savings for retirees on fixed incomes. We also provide [link:/services/duct-cleaning-tucson|duct cleaning] services that remove accumulated dust, allergens, and contaminants, improving indoor air quality and system efficiency."
       },
       {
         "type": "heading",
@@ -244,7 +244,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service HVAC, [link:/services/plumbing-saddlebrookecatalina|plumbing], [link:/services/electrical-saddlebrookecatalina|electrical], and [link:/services/solar-installation-saddlebrookecatalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/electrical-saddlebrookecatalina|electrical upgrades] for new HVAC equipment? We coordinate everything seamlessly. Planning home improvements affecting multiple systems? We ensure everything works together efficiently. This integrated approach saves you time, reduces costs, and provides single-source accountability. Schedule your Saddle Brooke / Catalina HVAC service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service HVAC, [link:/services/plumbing-saddle-brooke-catalina|plumbing], [link:/services/electrical-saddle-brooke-catalina|electrical], and [link:/services/solar-installation-saddle-brooke-catalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/electrical-saddle-brooke-catalina|electrical upgrades] for new HVAC equipment? We coordinate everything seamlessly. Planning home improvements affecting multiple systems? We ensure everything works together efficiently. This integrated approach saves you time, reduces costs, and provides single-source accountability. Schedule your Saddle Brooke / Catalina HVAC service today by calling (520) 333-2665 or booking online."
       }
     ]
   },
@@ -280,7 +280,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Can you improve indoor air quality with my HVAC system?",
-        answer: "Yes, we offer comprehensive indoor air quality solutions including high-efficiency filtration (MERV 11-16) for allergen removal, UV air purifiers that eliminate bacteria and viruses, whole-home humidifiers for comfortable winter humidity (critical in Saddle Brooke / Catalina's dry climate), air purification systems, and [link:/services/duct-cleaning|duct cleaning]. These improvements are particularly valuable for residents with allergies, asthma, COPD, or other respiratory conditions."
+        answer: "Yes, we offer comprehensive indoor air quality solutions including high-efficiency filtration (MERV 11-16) for allergen removal, UV air purifiers that eliminate bacteria and viruses, whole-home humidifiers for comfortable winter humidity (critical in Saddle Brooke / Catalina's dry climate), air purification systems, and [link:/services/duct-cleaning-tucson|duct cleaning]. These improvements are particularly valuable for residents with allergies, asthma, COPD, or other respiratory conditions."
       },
       {
         question: "What thermostats work best for seniors and snowbirds?",

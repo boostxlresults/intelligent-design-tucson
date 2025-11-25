@@ -94,7 +94,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Dirt, ice buildup, and moisture can all be culprits behind air conditioner malfunctions. If components become clogged with dirt or moisture, air cannot move properly throughout your system. Components may become damaged by these types of clogs and buildup. As a result, you may notice less air flowing through your vents or vents blowing air that is not cool enough. Regular [link:/services/ac-tune-up-tucson|AC maintenance and tune-ups] prevent many of these common issues."
+            "content": "Dirt, ice buildup, and moisture can all be culprits behind air conditioner malfunctions. If components become clogged with dirt or moisture, air cannot move properly throughout your system. Components may become damaged by these types of clogs and buildup. As a result, you may notice less air flowing through your vents or vents blowing air that is not cool enough. Regular [link:/services/ac-tuneup-tucson|AC maintenance and tune-ups] prevent many of these common issues."
       },
       {
             "type": "heading",
@@ -136,11 +136,11 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric offers best-in-class [link:/services/hvac-maintenance-plans|HVAC maintenance plans] and comprehensive [link:/services/family-protection-plans|Family Protection Plans] that come with many perks. You can use seasonal maintenance to check for clogs, faulty components, and leaks, then rest easy knowing that your system is working at its best and your family is protected year-round."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric offers best-in-class [link:/services/hvac-tucson-plans|HVAC maintenance plans] and comprehensive [link:/services/family-protection-plans|Family Protection Plans] that come with many perks. You can use seasonal maintenance to check for clogs, faulty components, and leaks, then rest easy knowing that your system is working at its best and your family is protected year-round."
       },
       {
             "type": "paragraph",
-            "content": "Comprehensive HVAC Solutions Beyond AC Repair: While we're Tucson's most trusted AC repair company, our expertise extends across all home comfort systems. We provide complete [link:/services/heating-tucson|heating repair and installation], [link:/services/indoor-air-quality|indoor air quality solutions], and [link:/services/duct-services|duct repair and sealing] services. Our integrated approach ensures every component of your HVAC system works together efficiently, maximizing comfort while minimizing energy costs. Whether you need emergency AC repair, planned system upgrades, or comprehensive home comfort solutions, Intelligent Design is your single-source provider for all HVAC needs in Southern Arizona."
+            "content": "Comprehensive HVAC Solutions Beyond AC Repair: While we're Tucson's most trusted AC repair company, our expertise extends across all home comfort systems. We provide complete [link:/services/heating-tucson|heating repair and installation], [link:/services/indoor-air-quality-tucson|indoor air quality solutions], and [link:/services/duct-services|duct repair and sealing] services. Our integrated approach ensures every component of your HVAC system works together efficiently, maximizing comfort while minimizing energy costs. Whether you need emergency AC repair, planned system upgrades, or comprehensive home comfort solutions, Intelligent Design is your single-source provider for all HVAC needs in Southern Arizona."
       },
       {
             "type": "paragraph",
@@ -164,7 +164,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With our 24/7 Emergency AC Repair Services, you can rest assured that help is only a call away. We provide rapid response times, expert diagnostics, and efficient repairs through our comprehensive [link:/services/hvac-service-tucson|HVAC service programs]. Our goal is to get your AC back up and running as fast as possible, minimizing discomfort and disruption."
+            "content": "With our 24/7 Emergency AC Repair Services, you can rest assured that help is only a call away. We provide rapid response times, expert diagnostics, and efficient repairs through our comprehensive [link:/services/hvac-tucson|HVAC service programs]. Our goal is to get your AC back up and running as fast as possible, minimizing discomfort and disruption."
       },
       {
             "type": "paragraph",
@@ -172,7 +172,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our Emergency AC Repair Services are comprehensive and meticulous. We diagnose the issue, provide clear explanations, and offer the best repair options. We use quality parts and follow industry best practices to ensure lasting repairs. For persistent temperature control issues, we may recommend [link:/services/smart-thermostat-installation|smart thermostat installation] to optimize your system's performance."
+            "content": "Our Emergency AC Repair Services are comprehensive and meticulous. We diagnose the issue, provide clear explanations, and offer the best repair options. We use quality parts and follow industry best practices to ensure lasting repairs. For persistent temperature control issues, we may recommend [link:/services/smart-thermostat-installation-tucson|smart thermostat installation] to optimize your system's performance."
       },
       {
             "type": "heading",

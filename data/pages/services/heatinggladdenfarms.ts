@@ -103,7 +103,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Common emergency repairs we perform in Gladden Farms include igniter replacement for failed furnace startup, flame sensor cleaning and replacement for intermittent operation, gas valve replacement and safety testing, blower motor repair and capacitor replacement, heat exchanger inspection for cracks and carbon monoxide risk, thermostat troubleshooting and replacement especially smart thermostats, reversing valve service for heat pumps stuck in cooling mode, defrost control repair for heat pumps icing up during cold desert mornings, refrigerant leak detection and repair, control board diagnosis and replacement, and limit switch replacement for overheating protection. Our technicians carry backup thermostats, igniters, flame sensors, capacitors, and contactors to restore heat immediately during emergencies. For situations requiring major components not on truck, we prioritize parts ordering and schedule next-day installation to minimize time without heat. Learn more about our comprehensive [link:/services/hvac-maintenance|HVAC maintenance] programs that prevent 85% of emergency breakdowns in Gladden Farms."
+            "content": "Common emergency repairs we perform in Gladden Farms include igniter replacement for failed furnace startup, flame sensor cleaning and replacement for intermittent operation, gas valve replacement and safety testing, blower motor repair and capacitor replacement, heat exchanger inspection for cracks and carbon monoxide risk, thermostat troubleshooting and replacement especially smart thermostats, reversing valve service for heat pumps stuck in cooling mode, defrost control repair for heat pumps icing up during cold desert mornings, refrigerant leak detection and repair, control board diagnosis and replacement, and limit switch replacement for overheating protection. Our technicians carry backup thermostats, igniters, flame sensors, capacitors, and contactors to restore heat immediately during emergencies. For situations requiring major components not on truck, we prioritize parts ordering and schedule next-day installation to minimize time without heat. Learn more about our comprehensive [link:/services/hvac-tucson|HVAC maintenance] programs that prevent 85% of emergency breakdowns in Gladden Farms."
       },
       {
             "type": "heading",
@@ -209,7 +209,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These success stories represent real outcomes from Gladden Farms homeowners who upgraded or repaired their heating systems with Intelligent Design. Every detail is documented in our ServiceTitan system with customer approval to share. Our commitment to [link:/services/heater-repair|expert heating repair] and installation excellence delivers measurable results for northwest Tucson master-planned community families."
+            "content": "These success stories represent real outcomes from Gladden Farms homeowners who upgraded or repaired their heating systems with Intelligent Design. Every detail is documented in our ServiceTitan system with customer approval to share. Our commitment to [link:/services/heater-repair-tucson|expert heating repair] and installation excellence delivers measurable results for northwest Tucson master-planned community families."
       },
       {
             "type": "case_study",
@@ -314,7 +314,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Preparing for your heating service visit helps our technicians diagnose and fix issues faster, minimizing discomfort during cold Gladden Farms winter nights. These practical steps ensure smooth, efficient service and may reduce labor costs by eliminating delays. Learn more about our comprehensive [link:/services/heating-tucson|Tucson heating services] and [link:/services/furnace-maintenance|preventive maintenance programs] serving northwest Tucson master-planned communities."
+            "content": "Preparing for your heating service visit helps our technicians diagnose and fix issues faster, minimizing discomfort during cold Gladden Farms winter nights. These practical steps ensure smooth, efficient service and may reduce labor costs by eliminating delays. Learn more about our comprehensive [link:/services/heating-tucson|Tucson heating services] and [link:/services/furnaces-tucson|preventive maintenance programs] serving northwest Tucson master-planned communities."
       },
       {
             "type": "howto",
@@ -383,7 +383,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Not every furnace issue requires an emergency service call with premium pricing. Use this decision guide to determine appropriate response level for your Gladden Farms heating situation. Intelligent Design offers transparent pricing for both emergency and standard service calls—we'll never pressure you into unnecessary emergency service. Our [link:/services/hvac-repair|HVAC repair experts] are available 24/7 for true emergencies serving Gladden Farms."
+            "content": "Not every furnace issue requires an emergency service call with premium pricing. Use this decision guide to determine appropriate response level for your Gladden Farms heating situation. Intelligent Design offers transparent pricing for both emergency and standard service calls—we'll never pressure you into unnecessary emergency service. Our [link:/services/hvac-tucson|HVAC repair experts] are available 24/7 for true emergencies serving Gladden Farms."
       },
       {
             "type": "heading",
@@ -450,7 +450,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
           },
       {
             "type": "paragraph",
-            "content": "Emergency Service Pricing Transparency for Gladden Farms: Our emergency service calls (nights, weekends, holidays) include a trip charge to compensate technicians for after-hours availability to northwest Tucson communities. However, diagnostic and repair rates are same as standard service. We provide upfront estimates before starting work. Standard service area includes all of Gladden Farms with no additional charges. If unsure whether your situation qualifies as emergency, call our dispatch team at (520) 333-2665—we'll help you decide appropriate service level honestly. Learn more about our [link:/services/furnace-repair|furnace repair services] and [link:/services/heat-pump-repair|heat pump repair]."
+            "content": "Emergency Service Pricing Transparency for Gladden Farms: Our emergency service calls (nights, weekends, holidays) include a trip charge to compensate technicians for after-hours availability to northwest Tucson communities. However, diagnostic and repair rates are same as standard service. We provide upfront estimates before starting work. Standard service area includes all of Gladden Farms with no additional charges. If unsure whether your situation qualifies as emergency, call our dispatch team at (520) 333-2665—we'll help you decide appropriate service level honestly. Learn more about our [link:/services/furnaces-tucson|furnace repair services] and [link:/services/heat-pumps-tucson|heat pump repair]."
       },
       {
             "type": "heading",
@@ -464,7 +464,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When facing major furnace repair in your Gladden Farms home, homeowners struggle with the repair vs. replace decision. This cost comparison helps evaluate whether investing in repairs makes financial sense or if replacement offers better long-term value. Our technicians use these guidelines to provide honest recommendations prioritizing your best interests. Consider our [link:/services/furnace-installation|furnace installation] options if replacement makes sense for your newer Gladden Farms home."
+            "content": "When facing major furnace repair in your Gladden Farms home, homeowners struggle with the repair vs. replace decision. This cost comparison helps evaluate whether investing in repairs makes financial sense or if replacement offers better long-term value. Our technicians use these guidelines to provide honest recommendations prioritizing your best interests. Consider our [link:/services/furnaces-tucson|furnace installation] options if replacement makes sense for your newer Gladden Farms home."
       },
       {
             "type": "heading",
@@ -582,11 +582,11 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We understand common heating challenges specific to different Gladden Farms home types and construction periods. Early Gladden Farms homes (2007-2012) often have builder-grade 80% AFUE furnaces or 13-14 SEER heat pumps offering significant upgrade potential to high-efficiency 95-98% AFUE furnaces or 18-20 SEER heat pumps for 35-45% energy savings. Mid-period homes (2013-2018) feature improved insulation and low-E windows but may still have standard-efficiency equipment worth upgrading. Newer construction (2019-2024) includes modern energy-efficient building envelopes and often has high-efficiency equipment, but may benefit from smart thermostat upgrades or zoning solutions for two-story temperature balancing. Our technicians provide honest assessments of upgrade potential specific to your home's age, construction quality, and current equipment. Many Gladden Farms homeowners are upgrading from builder-grade equipment to high-efficiency systems, reducing energy bills by $400-800 annually while improving comfort in open floor plans and two-story configurations. Explore our complete [link:/services/hvac|HVAC services] and [link:/services/ductless-mini-split|ductless mini-split systems] for zone heating solutions."
+            "content": "We understand common heating challenges specific to different Gladden Farms home types and construction periods. Early Gladden Farms homes (2007-2012) often have builder-grade 80% AFUE furnaces or 13-14 SEER heat pumps offering significant upgrade potential to high-efficiency 95-98% AFUE furnaces or 18-20 SEER heat pumps for 35-45% energy savings. Mid-period homes (2013-2018) feature improved insulation and low-E windows but may still have standard-efficiency equipment worth upgrading. Newer construction (2019-2024) includes modern energy-efficient building envelopes and often has high-efficiency equipment, but may benefit from smart thermostat upgrades or zoning solutions for two-story temperature balancing. Our technicians provide honest assessments of upgrade potential specific to your home's age, construction quality, and current equipment. Many Gladden Farms homeowners are upgrading from builder-grade equipment to high-efficiency systems, reducing energy bills by $400-800 annually while improving comfort in open floor plans and two-story configurations. Explore our complete [link:/services/hvac-tucson|HVAC services] and [link:/services/ductless-installation-tucson|ductless mini-split systems] for zone heating solutions."
       },
       {
             "type": "paragraph",
-            "content": "Gladden Farms master-planned community offers exceptional quality of life with top-rated schools, walking trails, parks, and Town Square amenities. We're proud to serve this growing northwest Tucson community with the same commitment to excellence Gladden Farms families expect. Our technicians live in northwest Tucson and understand the pride Gladden Farms homeowners take in their properties. We coordinate all work to meet HOA requirements for equipment placement, screening, and aesthetics. For comprehensive heating service backed by 45+ years of Tucson expertise and understanding of modern master-planned community standards, trust Intelligent Design. Learn more about our [link:/services/ac-repair|air conditioning repair services], [link:/services/thermostat-installation|smart thermostat installation], and [link:/services/commercial-hvac|commercial HVAC solutions] for Gladden Farms businesses."
+            "content": "Gladden Farms master-planned community offers exceptional quality of life with top-rated schools, walking trails, parks, and Town Square amenities. We're proud to serve this growing northwest Tucson community with the same commitment to excellence Gladden Farms families expect. Our technicians live in northwest Tucson and understand the pride Gladden Farms homeowners take in their properties. We coordinate all work to meet HOA requirements for equipment placement, screening, and aesthetics. For comprehensive heating service backed by 45+ years of Tucson expertise and understanding of modern master-planned community standards, trust Intelligent Design. Learn more about our [link:/services/ac-repair-tucson|air conditioning repair services], [link:/services/smart-thermostat-installation-tucson|smart thermostat installation], and [link:/services/hvac-tucson|commercial HVAC solutions] for Gladden Farms businesses."
       },
       {
             "type": "heading",

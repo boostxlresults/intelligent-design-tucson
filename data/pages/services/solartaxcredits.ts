@@ -64,7 +64,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation-tucson|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income—it's a direct credit reducing your actual tax liability. For a typical $22,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
+            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income—it's a direct credit reducing your actual tax liability. For a typical $22,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
       },
       {
             "type": "paragraph",
@@ -124,7 +124,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Henderson family wanted maximum solar capacity with battery backup for monsoon season outages. Their pre-solar annual electricity costs averaged $3,240 with high summer bills reaching $420. They had sufficient tax liability ($12,800 annual federal taxes owed) to claim the entire $10,260 credit in one year. We designed a premium system including high-efficiency solar panels, battery storage for backup and peak-shaving, and complete integration with their existing [link:/services/electrical-panel-upgrades-tucson|electrical panel upgrade]."
+            "content": "The Henderson family wanted maximum solar capacity with battery backup for monsoon season outages. Their pre-solar annual electricity costs averaged $3,240 with high summer bills reaching $420. They had sufficient tax liability ($12,800 annual federal taxes owed) to claim the entire $10,260 credit in one year. We designed a premium system including high-efficiency solar panels, battery storage for backup and peak-shaving, and complete integration with their existing [link:/services/electrical-panel-upgrades|electrical panel upgrade]."
       },
       {
             "type": "paragraph",
@@ -161,7 +161,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The ongoing property tax exemption provides cumulative value exceeding the one-time federal credit over system lifetime. We documented their installation with Pima County Assessor to ensure exemption appeared on tax assessments. We also set up their [link:/services/solar-maintenance-tucson|solar maintenance plan] and net metering agreement to maximize ongoing savings. Annual property tax savings of $920 plus $2,180 in electricity savings total $3,100 in annual benefits, providing a 4.8-year payback on their $15,732 net investment."
+            "content": "The ongoing property tax exemption provides cumulative value exceeding the one-time federal credit over system lifetime. We documented their installation with Pima County Assessor to ensure exemption appeared on tax assessments. We also set up their [link:/services/solar-maintenance|solar maintenance plan] and net metering agreement to maximize ongoing savings. Annual property tax savings of $920 plus $2,180 in electricity savings total $3,100 in annual benefits, providing a 4.8-year payback on their $15,732 net investment."
       },
       {
             "type": "testimonial",
@@ -225,7 +225,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Confirm your system generates electricity for residential use. Systems solely for heating swimming pools or hot tubs don't qualify, though solar electric systems can power pool equipment. Both grid-tied and off-grid systems qualify. Battery storage systems qualify for the 30% credit only when installed simultaneously with solar panels—standalone battery additions don't qualify. We provide ownership verification documents as part of our standard documentation package for all [link:/services/residential-solar-installation-tucson|residential solar installations]."
+            "content": "Confirm your system generates electricity for residential use. Systems solely for heating swimming pools or hot tubs don't qualify, though solar electric systems can power pool equipment. Both grid-tied and off-grid systems qualify. Battery storage systems qualify for the 30% credit only when installed simultaneously with solar panels—standalone battery additions don't qualify. We provide ownership verification documents as part of our standard documentation package for all [link:/services/residential-solar-installation|residential solar installations]."
       },
       {
             "type": "heading",
@@ -309,7 +309,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Maintain detailed carryforward records showing: original credit amount and tax year claimed, amounts used each year, remaining carryforward balance, and tax returns showing each year's usage. This tracking becomes important if you have multiple years of carryforwards or add battery storage later (which generates additional credits). Some taxpayers strategically manage carryforwards by deferring deductions (increasing tax liability) to use credits faster. We can connect you with [link:/services/financing-tucson|financial advisors] experienced in solar tax credit optimization strategies."
+            "content": "Maintain detailed carryforward records showing: original credit amount and tax year claimed, amounts used each year, remaining carryforward balance, and tax returns showing each year's usage. This tracking becomes important if you have multiple years of carryforwards or add battery storage later (which generates additional credits). Some taxpayers strategically manage carryforwards by deferring deductions (increasing tax liability) to use credits faster. We can connect you with [link:/financing|financial advisors] experienced in solar tax credit optimization strategies."
       },
       {
             "type": "heading",
@@ -465,7 +465,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Electrical Panel Upgrades: Many homes need electrical panel upgrades to accommodate solar interconnection, particularly homes with 100-amp panels or panels at/near capacity. Complete panel upgrades before solar installation to ensure proper interconnection and avoid installation delays. Panel upgrades cost $1,500-$3,500 and typically qualify for inclusion in federal tax credit when performed as part of solar installation. Our [link:/services/electrical-panel-upgrades-tucson|electrical division] evaluates panels during solar consultations, coordinates upgrades before installation, and ensures upgrade costs are included in qualified solar costs for maximum tax credits."
+            "content": "Electrical Panel Upgrades: Many homes need electrical panel upgrades to accommodate solar interconnection, particularly homes with 100-amp panels or panels at/near capacity. Complete panel upgrades before solar installation to ensure proper interconnection and avoid installation delays. Panel upgrades cost $1,500-$3,500 and typically qualify for inclusion in federal tax credit when performed as part of solar installation. Our [link:/services/electrical-panel-upgrades|electrical division] evaluates panels during solar consultations, coordinates upgrades before installation, and ensures upgrade costs are included in qualified solar costs for maximum tax credits."
       },
       {
             "type": "heading",
@@ -589,7 +589,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Fix: Only purchase solar systems outright (cash or financed loans) to qualify for federal tax credits. Verify your contract specifically states you own the equipment and are responsible for maintenance. If considering leases, calculate total 25-year costs including forfeited tax credits—purchased systems almost always provide better financial returns. We exclusively offer ownership-based solar installations, ensuring every customer qualifies for full federal and state incentives. Our [link:/services/financing-tucson|financing options] provide ownership with affordable monthly payments, typically lower than lease payments while preserving tax credit eligibility."
+            "content": "The Fix: Only purchase solar systems outright (cash or financed loans) to qualify for federal tax credits. Verify your contract specifically states you own the equipment and are responsible for maintenance. If considering leases, calculate total 25-year costs including forfeited tax credits—purchased systems almost always provide better financial returns. We exclusively offer ownership-based solar installations, ensuring every customer qualifies for full federal and state incentives. Our [link:/financing|financing options] provide ownership with affordable monthly payments, typically lower than lease payments while preserving tax credit eligibility."
       },
       {
             "type": "heading",
@@ -697,7 +697,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Advantages: Lowest interest rates among financed options, potential tax-deductible interest (consult tax advisors), flexible repayment and draw features, full tax credit eligibility, and competitive with cash purchases for high-tax-bracket itemizers. Who Should Choose Home Equity: Homeowners with significant equity (need at least 20% after loan), those itemizing deductions in high tax brackets (22%+), anyone seeking lowest-cost financing option, or those wanting payment flexibility (HELOCs allow variable payments). Home equity financing represents 6% of our installations, popular with high-income homeowners and those with existing equity lines. We partner with local credit unions offering competitive home equity products for [link:/services/financing-tucson|solar installations]."
+            "content": "Advantages: Lowest interest rates among financed options, potential tax-deductible interest (consult tax advisors), flexible repayment and draw features, full tax credit eligibility, and competitive with cash purchases for high-tax-bracket itemizers. Who Should Choose Home Equity: Homeowners with significant equity (need at least 20% after loan), those itemizing deductions in high tax brackets (22%+), anyone seeking lowest-cost financing option, or those wanting payment flexibility (HELOCs allow variable payments). Home equity financing represents 6% of our installations, popular with high-income homeowners and those with existing equity lines. We partner with local credit unions offering competitive home equity products for [link:/financing|solar installations]."
       },
       {
             "type": "heading",
@@ -711,7 +711,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Choose Home Equity If: You have significant home equity (20%+ after loan), you itemize tax deductions in high tax brackets (22%+), you want lowest interest rates among financed options, or you value repayment flexibility. Our [link:/services/financing-tucson|financing consultants] provide detailed comparisons showing actual costs, savings, and ROI for each option based on your specific financial situation, tax bracket, and goals. We help customers make fully informed decisions, not push toward any particular financing method—our priority is maximizing your long-term financial outcomes."
+            "content": "Choose Home Equity If: You have significant home equity (20%+ after loan), you itemize tax deductions in high tax brackets (22%+), you want lowest interest rates among financed options, or you value repayment flexibility. Our [link:/financing|financing consultants] provide detailed comparisons showing actual costs, savings, and ROI for each option based on your specific financial situation, tax bracket, and goals. We help customers make fully informed decisions, not push toward any particular financing method—our priority is maximizing your long-term financial outcomes."
       },
       {
             "type": "heading",
@@ -721,7 +721,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Maximizing solar tax credits and incentives requires expertise in federal tax law, Arizona state regulations, local incentive programs, utility policies, and proper documentation procedures. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive tax credit support as a standard part of every [link:/services/residential-solar-installation-tucson|residential solar installation]."
+            "content": "Maximizing solar tax credits and incentives requires expertise in federal tax law, Arizona state regulations, local incentive programs, utility policies, and proper documentation procedures. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive tax credit support as a standard part of every [link:/services/residential-solar-installation|residential solar installation]."
       },
       {
             "type": "paragraph",
@@ -729,7 +729,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a family-owned Tucson business since 1979, we understand local conditions and have established relationships with tax professionals, county assessors, and utility representatives. Our multi-trade capabilities allow comprehensive home energy solutions—we coordinate [link:/services/roofing-tucson|roof repairs], [link:/services/electrical-panel-upgrades-tucson|electrical upgrades], and [link:/services/hvac-tucson|HVAC efficiency improvements] to maximize your solar investment. Our [link:/services/financing-tucson|financing specialists] help structure purchases to optimize tax credit timing and utilization."
+            "content": "As a family-owned Tucson business since 1979, we understand local conditions and have established relationships with tax professionals, county assessors, and utility representatives. Our multi-trade capabilities allow comprehensive home energy solutions—we coordinate [link:/services/roofing-tucson|roof repairs], [link:/services/electrical-panel-upgrades|electrical upgrades], and [link:/services/hvac-tucson|HVAC efficiency improvements] to maximize your solar investment. Our [link:/financing|financing specialists] help structure purchases to optimize tax credit timing and utilization."
       },
       {
             "type": "paragraph",

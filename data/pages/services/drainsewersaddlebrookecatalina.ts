@@ -183,7 +183,7 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Preventive drain maintenance typically costs $300-$500 annually but prevents $800-$2,000 emergency drain clearing and cleanup costs. For retirees on fixed incomes, this predictable annual expense allows for budget planning while avoiding unexpected emergency costs that strain household finances. Many Saddle Brooke / Catalina customers enroll in our Family Protection Plan which includes annual drain system inspection and maintenance along with [link:/services/plumbing-saddlebrookecatalina|plumbing system] maintenance, priority scheduling, repair discounts, and no overtime charges—comprehensive protection for your home's critical systems."
+        "content": "Preventive drain maintenance typically costs $300-$500 annually but prevents $800-$2,000 emergency drain clearing and cleanup costs. For retirees on fixed incomes, this predictable annual expense allows for budget planning while avoiding unexpected emergency costs that strain household finances. Many Saddle Brooke / Catalina customers enroll in our Family Protection Plan which includes annual drain system inspection and maintenance along with [link:/services/plumbing-saddle-brooke-catalina|plumbing system] maintenance, priority scheduling, repair discounts, and no overtime charges—comprehensive protection for your home's critical systems."
       },
       {
         "type": "cta",
@@ -226,7 +226,7 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-saddlebrookecatalina|HVAC], [link:/services/plumbing-saddlebrookecatalina|plumbing], [link:/services/electrical-saddlebrookecatalina|electrical], [link:/services/roofing-saddlebrookecatalina|roofing], and [link:/services/solar-installation-saddlebrookecatalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/plumbing-saddlebrookecatalina|plumbing repairs] coordinated with drain work? We handle everything seamlessly. Planning home improvements affecting multiple systems? We ensure all work is coordinated for your convenience. This integrated approach saves you time and provides single-source accountability. Schedule your Saddle Brooke / Catalina drain and sewer service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-saddle-brooke-catalina|HVAC], [link:/services/plumbing-saddle-brooke-catalina|plumbing], [link:/services/electrical-saddle-brooke-catalina|electrical], [link:/services/roofing-saddle-brooke-catalina|roofing], and [link:/services/solar-installation-saddle-brooke-catalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/plumbing-saddle-brooke-catalina|plumbing repairs] coordinated with drain work? We handle everything seamlessly. Planning home improvements affecting multiple systems? We ensure all work is coordinated for your convenience. This integrated approach saves you time and provides single-source accountability. Schedule your Saddle Brooke / Catalina drain and sewer service today by calling (520) 333-2665 or booking online."
       }
     ]
   },

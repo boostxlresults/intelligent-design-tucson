@@ -9,7 +9,7 @@ export const plumbingtucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Tucson Estates AZ | Licensed Plumber',
   description: 'Expert plumbing services in Tucson Estates, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-tucson-estates',
+  slug: 'plumbing-estates',
   
   // Hero Section
   h1: 'Plumbing Services in Tucson Estates, AZ',

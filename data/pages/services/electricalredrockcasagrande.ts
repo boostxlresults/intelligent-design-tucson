@@ -89,7 +89,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande families expand their homes with additions, pools, upgraded [link:/services/hvac-redrockcasagrande|HVAC systems], and EV chargers, existing electrical panels often reach capacity limits. Many homes in growing developments were initially built with 100-150 amp service that's inadequate for today's electrical demands. If you're experiencing frequent circuit breaker trips during peak cooling season, planning to add major appliances or systems, considering [link:/services/solar-installation-redrockcasagrande|solar panel installation], or dealing with an outdated or hazardous panel, a professional electrical panel upgrade provides the capacity and safety your home needs."
+        "content": "As Red Rock / Casa Grande families expand their homes with additions, pools, upgraded [link:/services/hvac-red-rock-casa-grande|HVAC systems], and EV chargers, existing electrical panels often reach capacity limits. Many homes in growing developments were initially built with 100-150 amp service that's inadequate for today's electrical demands. If you're experiencing frequent circuit breaker trips during peak cooling season, planning to add major appliances or systems, considering [link:/services/solar-installation-red-rock-casa-grande|solar panel installation], or dealing with an outdated or hazardous panel, a professional electrical panel upgrade provides the capacity and safety your home needs."
       },
       {
         "type": "paragraph",
@@ -121,7 +121,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "We strongly recommend whole-home surge protection for all Red Rock / Casa Grande homes, especially those with newer appliances and electronics, smart home systems and automation, home office equipment and computers, entertainment systems and gaming consoles, [link:/services/hvac-redrockcasagrande|HVAC equipment] with electronic controls, pool and spa equipment, and solar panel systems that can be damaged by lightning. Professional surge protection systems typically cost $500-$1,200 installed and can prevent tens of thousands of dollars in damage. During Arizona's intense monsoon season (July-September), this protection is essential for safeguarding your investment in home systems and electronics."
+        "content": "We strongly recommend whole-home surge protection for all Red Rock / Casa Grande homes, especially those with newer appliances and electronics, smart home systems and automation, home office equipment and computers, entertainment systems and gaming consoles, [link:/services/hvac-red-rock-casa-grande|HVAC equipment] with electronic controls, pool and spa equipment, and solar panel systems that can be damaged by lightning. Professional surge protection systems typically cost $500-$1,200 installed and can prevent tens of thousands of dollars in damage. During Arizona's intense monsoon season (July-September), this protection is essential for safeguarding your investment in home systems and electronics."
       },
       {
         "type": "cta",
@@ -180,7 +180,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Modern Red Rock / Casa Grande homes increasingly feature smart home technology for convenience, energy efficiency, and enhanced security. We provide the electrical infrastructure and integration services for whole-home automation including smart switches and dimmers for lighting control, voice control integration with Alexa, Google Home, and Apple HomeKit, automated window treatment systems, smart thermostat installation for [link:/services/hvac-redrockcasagrande|HVAC control], security camera and doorbell camera power, garage door opener integration, outdoor lighting control and scheduling, and dedicated circuits for home network equipment and Wi-Fi mesh systems."
+        "content": "Modern Red Rock / Casa Grande homes increasingly feature smart home technology for convenience, energy efficiency, and enhanced security. We provide the electrical infrastructure and integration services for whole-home automation including smart switches and dimmers for lighting control, voice control integration with Alexa, Google Home, and Apple HomeKit, automated window treatment systems, smart thermostat installation for [link:/services/hvac-red-rock-casa-grande|HVAC control], security camera and doorbell camera power, garage door opener integration, outdoor lighting control and scheduling, and dedicated circuits for home network equipment and Wi-Fi mesh systems."
       },
       {
         "type": "paragraph",
@@ -227,7 +227,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-redrockcasagrande|HVAC], [link:/services/plumbing-redrockcasagrande|plumbing], electrical, and [link:/services/solar-installation-redrockcasagrande|solar] company, we can handle all your home's systems with one trusted partner. Need electrical work for an HVAC upgrade? We handle both trades seamlessly. Installing solar panels that require panel upgrades and EV charger installation? We coordinate it all. This integrated approach saves you time, ensures system compatibility, and provides single-source accountability. Schedule your Red Rock / Casa Grande electrical service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-red-rock-casa-grande|HVAC], [link:/services/plumbing-red-rock-casa-grande|plumbing], electrical, and [link:/services/solar-installation-red-rock-casa-grande|solar] company, we can handle all your home's systems with one trusted partner. Need electrical work for an HVAC upgrade? We handle both trades seamlessly. Installing solar panels that require panel upgrades and EV charger installation? We coordinate it all. This integrated approach saves you time, ensures system compatibility, and provides single-source accountability. Schedule your Red Rock / Casa Grande electrical service today by calling (520) 333-2665 or booking online."
       }
     ]
   },

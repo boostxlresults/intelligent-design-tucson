@@ -93,7 +93,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "For water heater replacements in Red Rock / Casa Grande, we offer expert guidance on traditional tank water heaters (40-80 gallon capacity), tankless water heaters for endless hot water and energy savings, hybrid heat pump water heaters for maximum efficiency, and solar water heaters to leverage Arizona's abundant sunshine. Tankless water heaters are increasingly popular in Red Rock / Casa Grande, providing unlimited hot water, 20-30% energy savings, longer lifespan (20+ years vs. 10-12 for tanks), and space savings in utility rooms. We handle complete installation including gas line sizing upgrades if needed, proper venting, [link:/services/electrical-redrockcasagrande|electrical service] upgrades, water softener integration, and expansion tank installation."
+        "content": "For water heater replacements in Red Rock / Casa Grande, we offer expert guidance on traditional tank water heaters (40-80 gallon capacity), tankless water heaters for endless hot water and energy savings, hybrid heat pump water heaters for maximum efficiency, and solar water heaters to leverage Arizona's abundant sunshine. Tankless water heaters are increasingly popular in Red Rock / Casa Grande, providing unlimited hot water, 20-30% energy savings, longer lifespan (20+ years vs. 10-12 for tanks), and space savings in utility rooms. We handle complete installation including gas line sizing upgrades if needed, proper venting, [link:/services/electrical-red-rock-casa-grande|electrical service] upgrades, water softener integration, and expansion tank installation."
       },
       {
         "type": "heading",
@@ -138,7 +138,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Plumbing emergencies demand immediate professional response to prevent water damage and restore essential services. Whether it's a burst pipe flooding your home, backed-up sewer, failed water heater, or major leak, our emergency plumbers are available 24/7 to serve Red Rock / Casa Grande. Common plumbing emergencies we handle include burst pipes causing flooding, sewer backups into home or yard, complete loss of hot water, overflowing toilets that won't stop, major leaks from fixtures or supply lines, frozen pipes (rare but possible in winter), water heater failures with flooding, and [link:/services/drain-sewer-redrockcasagrande|main sewer line] blockages."
+        "content": "Plumbing emergencies demand immediate professional response to prevent water damage and restore essential services. Whether it's a burst pipe flooding your home, backed-up sewer, failed water heater, or major leak, our emergency plumbers are available 24/7 to serve Red Rock / Casa Grande. Common plumbing emergencies we handle include burst pipes causing flooding, sewer backups into home or yard, complete loss of hot water, overflowing toilets that won't stop, major leaks from fixtures or supply lines, frozen pipes (rare but possible in winter), water heater failures with flooding, and [link:/services/drain-sewer-red-rock-casa-grande|main sewer line] blockages."
       },
       {
         "type": "paragraph",
@@ -227,7 +227,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-redrockcasagrande|HVAC], plumbing, [link:/services/electrical-redrockcasagrande|electrical], and [link:/services/solar-installation-redrockcasagrande|solar] company, we can handle all your home's systems with one trusted partner. Need [link:/services/electrical-redrockcasagrande|electrical work] for a water heater upgrade? We handle both trades seamlessly. Planning a bathroom remodel requiring plumbing and electrical? We coordinate everything in-house. Experiencing [link:/services/drain-sewer-redrockcasagrande|drain and sewer issues]? We have specialized equipment and expertise. This integrated approach saves you time, ensures system compatibility, and provides single-source accountability. Schedule your Red Rock / Casa Grande plumbing service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-red-rock-casa-grande|HVAC], plumbing, [link:/services/electrical-red-rock-casa-grande|electrical], and [link:/services/solar-installation-red-rock-casa-grande|solar] company, we can handle all your home's systems with one trusted partner. Need [link:/services/electrical-red-rock-casa-grande|electrical work] for a water heater upgrade? We handle both trades seamlessly. Planning a bathroom remodel requiring plumbing and electrical? We coordinate everything in-house. Experiencing [link:/services/drain-sewer-red-rock-casa-grande|drain and sewer issues]? We have specialized equipment and expertise. This integrated approach saves you time, ensures system compatibility, and provides single-source accountability. Schedule your Red Rock / Casa Grande plumbing service today by calling (520) 333-2665 or booking online."
       }
     ]
   },

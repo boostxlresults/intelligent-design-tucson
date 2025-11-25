@@ -161,7 +161,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "[link:/services/garbage-disposal-installation|Garbage Disposal Service] - For Corona de Tucson homes on septic systems, garbage disposals require special consideration. We provide education on septic-safe disposal use and install septic-compatible garbage disposals ($280-550 installed) including premium InSinkErator models designed for septic systems, Evolution series (quieter, more powerful), and economy Badger series. Repair services include jam clearing, reset switch service, and disposal replacement. Proper disposal use protects septic investment."
+            "content": "[link:/services/garbage-disposal|Garbage Disposal Service] - For Corona de Tucson homes on septic systems, garbage disposals require special consideration. We provide education on septic-safe disposal use and install septic-compatible garbage disposals ($280-550 installed) including premium InSinkErator models designed for septic systems, Evolution series (quieter, more powerful), and economy Badger series. Repair services include jam clearing, reset switch service, and disposal replacement. Proper disposal use protects septic investment."
       },
       {
             "type": "heading",

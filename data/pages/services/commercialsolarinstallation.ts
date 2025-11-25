@@ -72,7 +72,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our [link:/services/knowledgehub|45+ years serving Tucson] gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/commercial-hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our [link:/services/knowledgehub|45+ years serving Tucson] gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
       },
       {
             "type": "heading",
@@ -136,7 +136,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With annual savings of $42,500 and massive first-year tax benefits, the effective payback period is just 4.4 years. The system will generate over $1,187,000 in electricity savings over 25 years (assuming 3% annual utility rate increases). The facility also qualified for additional savings through our [link:/services/commercial-hvac-tucson|commercial HVAC optimization program], reducing cooling costs by an additional $8,200 annually. The warehouse is now exploring [link:/services/electrical-panel-upgrades-tucson|electrical infrastructure upgrades] to support future expansion and EV fleet charging powered by solar."
+            "content": "With annual savings of $42,500 and massive first-year tax benefits, the effective payback period is just 4.4 years. The system will generate over $1,187,000 in electricity savings over 25 years (assuming 3% annual utility rate increases). The facility also qualified for additional savings through our [link:/services/hvac-tucson|commercial HVAC optimization program], reducing cooling costs by an additional $8,200 annually. The warehouse is now exploring [link:/services/electrical-panel-upgrades|electrical infrastructure upgrades] to support future expansion and EV fleet charging powered by solar."
       },
       {
             "type": "testimonial",
@@ -231,7 +231,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every commercial solar project integrates with existing building systems. Our team coordinates with [link:/services/commercial-roofing-tucson|commercial roofing contractors] to assess roof condition and warranty preservation, [link:/services/commercial-hvac-tucson|HVAC technicians] to optimize solar production timing with cooling loads, and [link:/services/commercial-electrical-tucson|electrical engineers] to ensure proper system integration. This comprehensive approach maximizes energy savings beyond just solar production—we identify opportunities for demand charge reduction, time-of-use rate optimization, and energy efficiency improvements that compound solar's financial benefits."
+            "content": "Every commercial solar project integrates with existing building systems. Our team coordinates with [link:/services/roofing-tucson|commercial roofing contractors] to assess roof condition and warranty preservation, [link:/services/hvac-tucson|HVAC technicians] to optimize solar production timing with cooling loads, and [link:/services/electrical-tucson|electrical engineers] to ensure proper system integration. This comprehensive approach maximizes energy savings beyond just solar production—we identify opportunities for demand charge reduction, time-of-use rate optimization, and energy efficiency improvements that compound solar's financial benefits."
       },
       {
             "type": "heading",
@@ -255,7 +255,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our facility assessment evaluates available roof and ground space for solar installations. We examine roof structural capacity, age, condition, and remaining useful life. Installing solar on roofs nearing replacement age is inefficient—we recommend [link:/services/commercial-roof-replacement-tucson|roof replacement] before solar installation to avoid costly panel removal and reinstallation. For ground-mount systems, we assess available land, orientation, shading, soil conditions, and local zoning requirements. We use drone surveys and 3D modeling to map entire facilities, identifying optimal solar locations while avoiding shaded areas and maintaining accessibility for roof maintenance. This assessment integrates with our [link:/services/home-energy-audit-tucson|comprehensive energy audit services] identifying efficiency opportunities beyond solar."
+            "content": "Our facility assessment evaluates available roof and ground space for solar installations. We examine roof structural capacity, age, condition, and remaining useful life. Installing solar on roofs nearing replacement age is inefficient—we recommend [link:/services/commercial-roof-replacement|roof replacement] before solar installation to avoid costly panel removal and reinstallation. For ground-mount systems, we assess available land, orientation, shading, soil conditions, and local zoning requirements. We use drone surveys and 3D modeling to map entire facilities, identifying optimal solar locations while avoiding shaded areas and maintaining accessibility for roof maintenance. This assessment integrates with our [link:/services/home-energy-audit-tucson|comprehensive energy audit services] identifying efficiency opportunities beyond solar."
       },
       {
             "type": "heading",
@@ -269,7 +269,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Structural engineering ensures your building can safely support solar panel weight and wind loads. Commercial roofs vary widely—flat roofs with ballasted mounts, metal roofs with standing seam clamps, or pitched roofs with penetrating mounts. Each requires specific engineering approaches. We provide stamped structural calculations demonstrating code compliance and building safety. Our designs include detailed electrical one-line diagrams, equipment specifications, mounting details, and installation procedures meeting all Tucson building codes and National Electrical Code requirements. Design integration with [link:/services/electrical-panel-upgrades-tucson|electrical panel upgrades] ensures your facility's infrastructure supports solar interconnection and future expansion."
+            "content": "Structural engineering ensures your building can safely support solar panel weight and wind loads. Commercial roofs vary widely—flat roofs with ballasted mounts, metal roofs with standing seam clamps, or pitched roofs with penetrating mounts. Each requires specific engineering approaches. We provide stamped structural calculations demonstrating code compliance and building safety. Our designs include detailed electrical one-line diagrams, equipment specifications, mounting details, and installation procedures meeting all Tucson building codes and National Electrical Code requirements. Design integration with [link:/services/electrical-panel-upgrades|electrical panel upgrades] ensures your facility's infrastructure supports solar interconnection and future expansion."
       },
       {
             "type": "heading",
@@ -283,7 +283,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Commercial solar financing options include cash purchase (highest long-term returns), commercial solar loans (3-7% APR, positive cash flow from day one), equipment financing (preserve capital, predictable payments), and power purchase agreements (zero upfront cost, immediate savings). Each financing structure offers different benefits depending on your tax situation, available capital, and investment objectives. We connect you with specialized commercial solar lenders and help structure financing that aligns with your business goals. Our [link:/services/financing-tucson|flexible financing programs] include options for businesses of all sizes and credit profiles."
+            "content": "Commercial solar financing options include cash purchase (highest long-term returns), commercial solar loans (3-7% APR, positive cash flow from day one), equipment financing (preserve capital, predictable payments), and power purchase agreements (zero upfront cost, immediate savings). Each financing structure offers different benefits depending on your tax situation, available capital, and investment objectives. We connect you with specialized commercial solar lenders and help structure financing that aligns with your business goals. Our [link:/financing|flexible financing programs] include options for businesses of all sizes and credit profiles."
       },
       {
             "type": "heading",
@@ -353,7 +353,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ongoing support includes performance monitoring with automated alerts, priority service for any system issues, annual maintenance inspections, warranty management, and production guarantee verification. Our [link:/services/solar-maintenance-tucson|solar maintenance programs] provide scheduled panel cleaning, electrical connection inspections, inverter health checks, and performance optimization ensuring your system delivers maximum returns for decades. We also offer expansion consulting—as your business grows or energy needs change, we evaluate opportunities for system expansion or additional efficiency upgrades maximizing long-term savings."
+            "content": "Ongoing support includes performance monitoring with automated alerts, priority service for any system issues, annual maintenance inspections, warranty management, and production guarantee verification. Our [link:/services/solar-maintenance|solar maintenance programs] provide scheduled panel cleaning, electrical connection inspections, inverter health checks, and performance optimization ensuring your system delivers maximum returns for decades. We also offer expansion consulting—as your business grows or energy needs change, we evaluate opportunities for system expansion or additional efficiency upgrades maximizing long-term savings."
       },
       {
             "type": "heading",
@@ -391,7 +391,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Structural capacity is determined by roof age, construction type, and engineering analysis. Older commercial roofs may support only 3-5 pounds per square foot additional loading, limiting solar installation to portions of available space or requiring structural reinforcement. Newer commercial roofs typically support 10-20 PSF additional loading, allowing full utilization of available space. Our structural engineers conduct load calculations determining safe solar capacity without building modifications. If your roof lacks capacity for desired system size, options include ballasted mounting systems (distributes weight), partial installation on structurally capable sections, or coordinating solar installation with planned [link:/services/commercial-roof-replacement-tucson|roof replacement] upgrading structural capacity simultaneously."
+            "content": "Structural capacity is determined by roof age, construction type, and engineering analysis. Older commercial roofs may support only 3-5 pounds per square foot additional loading, limiting solar installation to portions of available space or requiring structural reinforcement. Newer commercial roofs typically support 10-20 PSF additional loading, allowing full utilization of available space. Our structural engineers conduct load calculations determining safe solar capacity without building modifications. If your roof lacks capacity for desired system size, options include ballasted mounting systems (distributes weight), partial installation on structurally capable sections, or coordinating solar installation with planned [link:/services/commercial-roof-replacement|roof replacement] upgrading structural capacity simultaneously."
       },
       {
             "type": "heading",
@@ -443,7 +443,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For example, a $100,000 system financed at 5% APR over 15 years requires $790 monthly payments. If the system saves $1,200 monthly in electricity costs, the business has $410 positive monthly cash flow while the loan pays down the solar asset. After 15 years, the loan is retired and the business receives full $1,200 monthly savings for the system's remaining life. Commercial solar loans require good business credit (typically 650+ FICO) and may require personal guarantees for smaller businesses. However, they provide excellent balance between capital preservation and ownership benefits, making solar accessible even for businesses without excess capital. Our [link:/services/financing-tucson|financing partners] specialize in commercial solar loans for Tucson businesses across all industries and credit profiles."
+            "content": "For example, a $100,000 system financed at 5% APR over 15 years requires $790 monthly payments. If the system saves $1,200 monthly in electricity costs, the business has $410 positive monthly cash flow while the loan pays down the solar asset. After 15 years, the loan is retired and the business receives full $1,200 monthly savings for the system's remaining life. Commercial solar loans require good business credit (typically 650+ FICO) and may require personal guarantees for smaller businesses. However, they provide excellent balance between capital preservation and ownership benefits, making solar accessible even for businesses without excess capital. Our [link:/financing|financing partners] specialize in commercial solar loans for Tucson businesses across all industries and credit profiles."
       },
       {
             "type": "heading",
@@ -481,7 +481,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Peak demand charges are particularly problematic for industrial facilities—equipment startup surges can set expensive demand charges affecting bills all month. Solar production during operational hours helps flatten demand curves, reducing these charges significantly. A 250kW system at a manufacturing facility might provide $45,000 annual electricity savings plus $12,000 demand charge reduction—$57,000 total annual value. After federal incentives reducing net investment to $75,000-$100,000, payback periods of 4-5 years are common. Industrial facilities also benefit from combining solar with [link:/services/commercial-hvac-tucson|commercial HVAC optimization] and [link:/services/lighting-upgrades-tucson|LED lighting upgrades], creating comprehensive energy cost reduction programs achieving 40-60% total energy savings."
+            "content": "Peak demand charges are particularly problematic for industrial facilities—equipment startup surges can set expensive demand charges affecting bills all month. Solar production during operational hours helps flatten demand curves, reducing these charges significantly. A 250kW system at a manufacturing facility might provide $45,000 annual electricity savings plus $12,000 demand charge reduction—$57,000 total annual value. After federal incentives reducing net investment to $75,000-$100,000, payback periods of 4-5 years are common. Industrial facilities also benefit from combining solar with [link:/services/hvac-tucson|commercial HVAC optimization] and [link:/services/lighting-upgrades|LED lighting upgrades], creating comprehensive energy cost reduction programs achieving 40-60% total energy savings."
       },
       {
             "type": "heading",
@@ -509,7 +509,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Retail facilities benefit from large roof areas (especially big-box stores and shopping centers) providing substantial solar installation capacity. However, evening operation hours mean some electricity consumption occurs after solar production ends, requiring grid electricity or battery storage. Strategic system sizing focuses on offsetting daytime consumption and peak demand periods rather than 100% consumption offset. Retail solar installations often combine with [link:/services/water-heater-installation-tucson|solar water heating] for restaurants, battery storage for evening peak shaving, and comprehensive lighting retrofits reducing evening electricity consumption when solar isn't producing. This integrated approach maximizes overall energy cost reduction beyond just solar production."
+            "content": "Retail facilities benefit from large roof areas (especially big-box stores and shopping centers) providing substantial solar installation capacity. However, evening operation hours mean some electricity consumption occurs after solar production ends, requiring grid electricity or battery storage. Strategic system sizing focuses on offsetting daytime consumption and peak demand periods rather than 100% consumption offset. Retail solar installations often combine with [link:/services/water-heater-installation|solar water heating] for restaurants, battery storage for evening peak shaving, and comprehensive lighting retrofits reducing evening electricity consumption when solar isn't producing. This integrated approach maximizes overall energy cost reduction beyond just solar production."
       },
       {
             "type": "heading",
@@ -571,7 +571,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commercial solar division integrates seamlessly with other specialties. When we install solar, our [link:/services/commercial-hvac-tucson|HVAC technicians] audit your cooling systems identifying efficiency improvements that reduce solar system size requirements and total project costs. Our [link:/services/commercial-electrical-tucson|licensed electricians] ensure proper electrical integration, panel upgrades when needed, and code-compliant installations. Our [link:/services/commercial-roofing-tucson|roofing partnerships] coordinate roof work with solar installations, avoiding costly future panel removals if roof replacement is needed within 10 years."
+            "content": "Our commercial solar division integrates seamlessly with other specialties. When we install solar, our [link:/services/hvac-tucson|HVAC technicians] audit your cooling systems identifying efficiency improvements that reduce solar system size requirements and total project costs. Our [link:/services/electrical-tucson|licensed electricians] ensure proper electrical integration, panel upgrades when needed, and code-compliant installations. Our [link:/services/roofing-tucson|roofing partnerships] coordinate roof work with solar installations, avoiding costly future panel removals if roof replacement is needed within 10 years."
       },
       {
             "type": "paragraph",
@@ -617,7 +617,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Commercial solar systems require minimal maintenance but benefit from periodic inspections and cleaning ensuring optimal performance. Our [link:/services/solar-maintenance-tucson|commercial solar maintenance programs] include annual inspections examining electrical connections, mounting systems, panel condition, and inverter performance. Inspections identify potential issues before they impact production—loose connections, developing hot spots, degrading equipment, or mounting system corrosion."
+            "content": "Commercial solar systems require minimal maintenance but benefit from periodic inspections and cleaning ensuring optimal performance. Our [link:/services/solar-maintenance|commercial solar maintenance programs] include annual inspections examining electrical connections, mounting systems, panel condition, and inverter performance. Inspections identify potential issues before they impact production—loose connections, developing hot spots, degrading equipment, or mounting system corrosion."
       },
       {
             "type": "paragraph",
@@ -639,7 +639,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Electric vehicle adoption creates new commercial electricity demands that solar can offset. Many businesses install solar systems sized for current usage plus anticipated EV fleet charging needs, avoiding separate future installations. Solar-powered EV charging demonstrates environmental leadership while reducing vehicle operating costs. We coordinate solar installations with [link:/services/electrical-panel-upgrades-tucson|electrical infrastructure upgrades] supporting EV charging, ensuring your facility's electrical systems accommodate both solar production and evolving electricity demands."
+            "content": "Electric vehicle adoption creates new commercial electricity demands that solar can offset. Many businesses install solar systems sized for current usage plus anticipated EV fleet charging needs, avoiding separate future installations. Solar-powered EV charging demonstrates environmental leadership while reducing vehicle operating costs. We coordinate solar installations with [link:/services/electrical-panel-upgrades|electrical infrastructure upgrades] supporting EV charging, ensuring your facility's electrical systems accommodate both solar production and evolving electricity demands."
       },
       {
             "type": "paragraph",

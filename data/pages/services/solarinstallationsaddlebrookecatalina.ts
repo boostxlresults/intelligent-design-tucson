@@ -120,7 +120,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "We use only tier-1 solar panels from manufacturers like LG, Panasonic, and Canadian Solar with 25-year performance warranties, premium inverters from Enphase or SolarEdge with 25-year warranties, and professional racking systems engineered for Arizona wind loads. Our installations meet or exceed all building codes and manufacturer specifications, ensuring reliable operation for decades. We also coordinate with our [link:/services/roofing-saddlebrookecatalina|roofing division] if your roof needs repairs or replacement before solar installation—ensuring your roof can support solar panels for their full 25+ year lifespan."
+        "content": "We use only tier-1 solar panels from manufacturers like LG, Panasonic, and Canadian Solar with 25-year performance warranties, premium inverters from Enphase or SolarEdge with 25-year warranties, and professional racking systems engineered for Arizona wind loads. Our installations meet or exceed all building codes and manufacturer specifications, ensuring reliable operation for decades. We also coordinate with our [link:/services/roofing-saddle-brooke-catalina|roofing division] if your roof needs repairs or replacement before solar installation—ensuring your roof can support solar panels for their full 25+ year lifespan."
       },
       {
         "type": "cta",
@@ -155,7 +155,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "We can design solar systems sized to include EV charging loads, install Level 2 EV chargers (240V) for faster charging, and coordinate [link:/services/electrical-saddlebrookecatalina|electrical service upgrades] if needed for charging equipment. For retirees driving electric golf carts daily within Saddle Brooke, solar panels can easily generate the electricity needed for charging. For those considering electric cars, solar systems can be sized to accommodate most or all charging needs—essentially providing free fuel from the sun for decades. This combination delivers maximum savings and energy independence."
+        "content": "We can design solar systems sized to include EV charging loads, install Level 2 EV chargers (240V) for faster charging, and coordinate [link:/services/electrical-saddle-brooke-catalina|electrical service upgrades] if needed for charging equipment. For retirees driving electric golf carts daily within Saddle Brooke, solar panels can easily generate the electricity needed for charging. For those considering electric cars, solar systems can be sized to accommodate most or all charging needs—essentially providing free fuel from the sun for decades. This combination delivers maximum savings and energy independence."
       },
       {
         "type": "heading",
@@ -200,7 +200,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "The Challenge: The Hendersons, Saddle Brooke residents for 12 years, were frustrated with steadily increasing electric bills that peaked at $380-$420 monthly during summer despite using their [link:/services/hvac-saddlebrookecatalina|HVAC system] conservatively. As retirees on fixed incomes, these bills were consuming a significant portion of their household budget. They planned to remain in their Saddle Brooke home indefinitely and were interested in solar but concerned about the upfront investment, system reliability, and whether the promised savings were realistic. They also had questions about working with their HOA and whether solar made financial sense given their age (both in their early 70s)."
+        "content": "The Challenge: The Hendersons, Saddle Brooke residents for 12 years, were frustrated with steadily increasing electric bills that peaked at $380-$420 monthly during summer despite using their [link:/services/hvac-saddle-brooke-catalina|HVAC system] conservatively. As retirees on fixed incomes, these bills were consuming a significant portion of their household budget. They planned to remain in their Saddle Brooke home indefinitely and were interested in solar but concerned about the upfront investment, system reliability, and whether the promised savings were realistic. They also had questions about working with their HOA and whether solar made financial sense given their age (both in their early 70s)."
       },
       {
         "type": "paragraph",
@@ -226,7 +226,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-saddlebrookecatalina|HVAC], [link:/services/plumbing-saddlebrookecatalina|plumbing], [link:/services/electrical-saddlebrookecatalina|electrical], [link:/services/roofing-saddlebrookecatalina|roofing], and solar company, we coordinate all aspects of solar installation seamlessly. Need [link:/services/electrical-saddlebrookecatalina|electrical panel upgrade] for solar interconnection? We handle it. Require [link:/services/roofing-saddlebrookecatalina|roof repairs] before solar installation? Our roofing division ensures your roof is solar-ready. This integrated approach provides single-source accountability and ensures all systems work together optimally. Schedule your Saddle Brooke / Catalina solar assessment today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-saddle-brooke-catalina|HVAC], [link:/services/plumbing-saddle-brooke-catalina|plumbing], [link:/services/electrical-saddle-brooke-catalina|electrical], [link:/services/roofing-saddle-brooke-catalina|roofing], and solar company, we coordinate all aspects of solar installation seamlessly. Need [link:/services/electrical-saddle-brooke-catalina|electrical panel upgrade] for solar interconnection? We handle it. Require [link:/services/roofing-saddle-brooke-catalina|roof repairs] before solar installation? Our roofing division ensures your roof is solar-ready. This integrated approach provides single-source accountability and ensures all systems work together optimally. Schedule your Saddle Brooke / Catalina solar assessment today by calling (520) 333-2665 or booking online."
       }
     ]
   },
@@ -254,7 +254,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "What if I need a new roof before going solar?",
-        answer: "We coordinate with our [link:/services/roofing-saddlebrookecatalina|roofing division] to assess roof condition before solar installation. If your roof needs replacement within 5-10 years, we typically recommend replacing it first so solar panels can remain in place for their full 25+ year lifespan. We can coordinate roof replacement and solar installation for cost savings and convenience, ensuring your roof can support solar panels for decades."
+        answer: "We coordinate with our [link:/services/roofing-saddle-brooke-catalina|roofing division] to assess roof condition before solar installation. If your roof needs replacement within 5-10 years, we typically recommend replacing it first so solar panels can remain in place for their full 25+ year lifespan. We can coordinate roof replacement and solar installation for cost savings and convenience, ensuring your roof can support solar panels for decades."
       },
       {
         question: "How much electricity will solar produce in Saddle Brooke / Catalina?",
@@ -270,7 +270,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Can solar power my electric golf cart or car?",
-        answer: "Yes, we can design systems sized to include golf cart and electric vehicle charging. For retirees driving golf carts daily within Saddle Brooke, solar easily generates needed charging electricity. For electric cars, properly sized solar systems can provide most or all charging needs—essentially free fuel for decades. We coordinate [link:/services/electrical-saddlebrookecatalina|electrical work] for EV charger installation if needed."
+        answer: "Yes, we can design systems sized to include golf cart and electric vehicle charging. For retirees driving golf carts daily within Saddle Brooke, solar easily generates needed charging electricity. For electric cars, properly sized solar systems can provide most or all charging needs—essentially free fuel for decades. We coordinate [link:/services/electrical-saddle-brooke-catalina|electrical work] for EV charger installation if needed."
       },
       {
         question: "What maintenance do solar systems require?",

@@ -674,7 +674,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our multi-trade expertise sets us apart. Unlike solar-only companies, we handle [link:/services/electrical-repair-tucson|electrical panel upgrades], [link:/services/hvac-tucson|HVAC system coordination], [link:/services/plumbing-tucson|plumbing], and [link:/services/roofing-tucson|roofing]—providing comprehensive home services under one roof. This integration means we can upgrade your electrical panel if needed, coordinate solar with heat pump HVAC installation for maximum efficiency, and ensure your roof is solar-ready—all with one trusted company. Our ServiceTitan customer management system tracks every detail of your installation, ensuring nothing falls through the cracks and providing verified performance data."
+            "content": "Our multi-trade expertise sets us apart. Unlike solar-only companies, we handle [link:/services/electrical-repair|electrical panel upgrades], [link:/services/hvac-tucson|HVAC system coordination], [link:/services/plumbing-tucson|plumbing], and [link:/services/roofing-tucson|roofing]—providing comprehensive home services under one roof. This integration means we can upgrade your electrical panel if needed, coordinate solar with heat pump HVAC installation for maximum efficiency, and ensure your roof is solar-ready—all with one trusted company. Our ServiceTitan customer management system tracks every detail of your installation, ensuring nothing falls through the cracks and providing verified performance data."
       },
       {
             "type": "paragraph",

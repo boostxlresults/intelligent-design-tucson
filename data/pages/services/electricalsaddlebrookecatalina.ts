@@ -102,7 +102,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Many Saddle Brooke / Catalina homes were originally built with 100-150 amp electrical service, adequate when constructed but often insufficient for today's electrical demands. If you've added a second [link:/services/hvac-saddlebrookecatalina|HVAC system] for better temperature control, installed an electric golf cart charger, upgraded to modern appliances, or are experiencing frequent circuit breaker trips, your electrical panel may need upgrading. Modern 200-amp or 400-amp panels provide the capacity and safety features that protect your home and support your lifestyle needs."
+        "content": "Many Saddle Brooke / Catalina homes were originally built with 100-150 amp electrical service, adequate when constructed but often insufficient for today's electrical demands. If you've added a second [link:/services/hvac-saddle-brooke-catalina|HVAC system] for better temperature control, installed an electric golf cart charger, upgraded to modern appliances, or are experiencing frequent circuit breaker trips, your electrical panel may need upgrading. Modern 200-amp or 400-amp panels provide the capacity and safety features that protect your home and support your lifestyle needs."
       },
       {
         "type": "paragraph",
@@ -151,7 +151,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Ceiling fans are essential for comfort in Saddle Brooke / Catalina's desert climate, supplementing your [link:/services/hvac-saddlebrookecatalina|HVAC system] to reduce cooling costs while maintaining comfort. We provide professional ceiling fan installation, replacement, and repair services including installation of new ceiling fans in bedrooms, living areas, and covered patios, replacement of outdated or noisy fans with modern, energy-efficient models, repair of wobbling fans or those making unusual sounds, installation of remote controls for convenient operation, and proper balancing to ensure quiet, efficient operation."
+        "content": "Ceiling fans are essential for comfort in Saddle Brooke / Catalina's desert climate, supplementing your [link:/services/hvac-saddle-brooke-catalina|HVAC system] to reduce cooling costs while maintaining comfort. We provide professional ceiling fan installation, replacement, and repair services including installation of new ceiling fans in bedrooms, living areas, and covered patios, replacement of outdated or noisy fans with modern, energy-efficient models, repair of wobbling fans or those making unusual sounds, installation of remote controls for convenient operation, and proper balancing to ensure quiet, efficient operation."
       },
       {
         "type": "paragraph",
@@ -169,7 +169,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "We strongly recommend whole-home surge protection for Saddle Brooke / Catalina homes with smart home systems and automation, expensive entertainment systems and computers, medical equipment like CPAP machines and oxygen concentrators, [link:/services/hvac-saddlebrookecatalina|HVAC systems] with electronic controls, security systems and monitoring equipment, and garage door openers and gate controls. Professional surge protection typically costs $500-$1,200 installed but can prevent tens of thousands in damage from a single lightning strike. Many homeowners insurance companies offer premium discounts for homes with whole-home surge protection, providing ongoing savings while protecting your valuable equipment."
+        "content": "We strongly recommend whole-home surge protection for Saddle Brooke / Catalina homes with smart home systems and automation, expensive entertainment systems and computers, medical equipment like CPAP machines and oxygen concentrators, [link:/services/hvac-saddle-brooke-catalina|HVAC systems] with electronic controls, security systems and monitoring equipment, and garage door openers and gate controls. Professional surge protection typically costs $500-$1,200 installed but can prevent tens of thousands in damage from a single lightning strike. Many homeowners insurance companies offer premium discounts for homes with whole-home surge protection, providing ongoing savings while protecting your valuable equipment."
       },
       {
         "type": "heading",
@@ -226,7 +226,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-saddlebrookecatalina|HVAC], [link:/services/plumbing-saddlebrookecatalina|plumbing], electrical, and [link:/services/solar-installation-saddlebrookecatalina|solar] company, we can handle all your home's systems with one trusted partner. Need electrical work for an HVAC upgrade? We handle both seamlessly. Planning [link:/services/solar-installation-saddlebrookecatalina|solar panel installation] that requires panel upgrades? We coordinate everything. This integrated approach saves you time and ensures all systems work together efficiently. Schedule your Saddle Brooke / Catalina electrical service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-saddle-brooke-catalina|HVAC], [link:/services/plumbing-saddle-brooke-catalina|plumbing], electrical, and [link:/services/solar-installation-saddle-brooke-catalina|solar] company, we can handle all your home's systems with one trusted partner. Need electrical work for an HVAC upgrade? We handle both seamlessly. Planning [link:/services/solar-installation-saddle-brooke-catalina|solar panel installation] that requires panel upgrades? We coordinate everything. This integrated approach saves you time and ensures all systems work together efficiently. Schedule your Saddle Brooke / Catalina electrical service today by calling (520) 333-2665 or booking online."
       }
     ]
   },
@@ -250,7 +250,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Can you help reduce my electric bills through electrical upgrades?",
-        answer: "Absolutely. For Saddle Brooke / Catalina retirees on fixed incomes, we focus on energy-efficient upgrades that reduce ongoing costs including LED lighting conversion (75-85% reduction in lighting costs), ceiling fan installation to reduce AC usage, smart thermostat installation for optimized [link:/services/hvac-saddlebrookecatalina|HVAC control], whole-home surge protection that prevents costly equipment damage, and electrical panel upgrades that support efficient appliances. Many customers see $40-80 monthly savings from comprehensive electrical efficiency upgrades."
+        answer: "Absolutely. For Saddle Brooke / Catalina retirees on fixed incomes, we focus on energy-efficient upgrades that reduce ongoing costs including LED lighting conversion (75-85% reduction in lighting costs), ceiling fan installation to reduce AC usage, smart thermostat installation for optimized [link:/services/hvac-saddle-brooke-catalina|HVAC control], whole-home surge protection that prevents costly equipment damage, and electrical panel upgrades that support efficient appliances. Many customers see $40-80 monthly savings from comprehensive electrical efficiency upgrades."
       },
       {
         question: "Do you work with Saddle Brooke and Catalina HOA requirements?",
@@ -270,7 +270,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Is whole-home surge protection necessary in Saddle Brooke / Catalina?",
-        answer: "Yes, surge protection is highly recommended for all Saddle Brooke / Catalina homes. Arizona's monsoon lightning strikes pose significant risk to electronics, appliances, and [link:/services/hvac-saddlebrookecatalina|HVAC equipment]. Whole-home surge protection installed at your panel protects everything in your home and typically costs $500-$1,200—far less than replacing damaged equipment. Many insurance companies offer discounts for homes with surge protection."
+        answer: "Yes, surge protection is highly recommended for all Saddle Brooke / Catalina homes. Arizona's monsoon lightning strikes pose significant risk to electronics, appliances, and [link:/services/hvac-saddle-brooke-catalina|HVAC equipment]. Whole-home surge protection installed at your panel protects everything in your home and typically costs $500-$1,200—far less than replacing damaged equipment. Many insurance companies offer discounts for homes with surge protection."
       },
       {
         question: "Can you install smart home electrical controls?",

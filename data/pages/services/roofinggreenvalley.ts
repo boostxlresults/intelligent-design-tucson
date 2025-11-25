@@ -649,7 +649,7 @@ export const roofinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Additional Green Valley Services: [link:/services/hvac-green-valley|HVAC Services] | [link:/services/plumbing-green-valley|Plumbing Services] | [link:/services/electrical-green-valley|Electrical Services] | [link:/services/solar-installation-green-valley|Solar Installation] | [link:/services/home-energy-audit|Home Energy Audits]"
+            "content": "Additional Green Valley Services: [link:/services/hvac-green-valley|HVAC Services] | [link:/services/plumbing-green-valley|Plumbing Services] | [link:/services/electrical-green-valley|Electrical Services] | [link:/services/solar-installation-green-valley|Solar Installation] | [link:/services/home-energy-audit-tucson|Home Energy Audits]"
       }
 ]
   },

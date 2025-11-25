@@ -154,7 +154,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Annual savings of $3,744 plus avoided outage costs provide a payback period of 8.0 years. The battery qualifies for the 30% federal tax credit when installed with solar, making this premium system surprisingly affordable. Dr. Chen also benefits from [link:/services/solar-ac-tucson|Solar AC integration], using solar power to run her high-efficiency heat pump system installed by our HVAC division."
+            "content": "Annual savings of $3,744 plus avoided outage costs provide a payback period of 8.0 years. The battery qualifies for the 30% federal tax credit when installed with solar, making this premium system surprisingly affordable. Dr. Chen also benefits from [link:/services/solar-ac|Solar AC integration], using solar power to run her high-efficiency heat pump system installed by our HVAC division."
       },
       {
             "type": "testimonial",
@@ -183,7 +183,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Annual electricity costs dropped to just $36 in connection fees—a 98% reduction saving $1,644 annually. The strategic oversizing ensured they never purchased grid electricity even during December and January. Their 8.4-year payback provides 16+ years of essentially free electricity thereafter. We also coordinated with our [link:/services/electrical-repair-tucson|electrical services division] to upgrade their main panel, allowing future expansion for an electric vehicle charger."
+            "content": "Annual electricity costs dropped to just $36 in connection fees—a 98% reduction saving $1,644 annually. The strategic oversizing ensured they never purchased grid electricity even during December and January. Their 8.4-year payback provides 16+ years of essentially free electricity thereafter. We also coordinated with our [link:/services/electrical-repair|electrical services division] to upgrade their main panel, allowing future expansion for an electric vehicle charger."
       },
       {
             "type": "testimonial",
@@ -208,7 +208,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We use only tier-1 solar panels from manufacturers with proven track records of reliability and performance. These premium panels come with 25-year performance warranties guaranteeing 85-92% output after 25 years—significantly better than economy panels that may degrade 20-30% over the same period. Our installations include high-efficiency inverters (string or microinverter systems based on your needs), aluminum racking systems engineered for Tucson's monsoon winds, comprehensive monitoring systems, and professional [link:/services/electrical-panel-upgrades-tucson|electrical integration]. Every installation is performed by NABCEP-certified solar installers following strict quality standards and local building codes."
+            "content": "We use only tier-1 solar panels from manufacturers with proven track records of reliability and performance. These premium panels come with 25-year performance warranties guaranteeing 85-92% output after 25 years—significantly better than economy panels that may degrade 20-30% over the same period. Our installations include high-efficiency inverters (string or microinverter systems based on your needs), aluminum racking systems engineered for Tucson's monsoon winds, comprehensive monitoring systems, and professional [link:/services/electrical-panel-upgrades|electrical integration]. Every installation is performed by NABCEP-certified solar installers following strict quality standards and local building codes."
       },
       {
             "type": "heading",
@@ -260,7 +260,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "If you're financing your solar installation, we connect you with specialized solar lenders offering competitive rates and terms. Solar loans typically feature 0-6% APR with terms from 10-25 years. Many homeowners choose loans where monthly payments are lower than their current electricity bills, creating positive cash flow from day one. We assist with loan applications and can coordinate with your preferred lenders or financial institutions. Cash purchases receive special discounts and provide the fastest return on investment. Our [link:/services/financing-tucson|flexible financing options] make solar accessible for every budget."
+            "content": "If you're financing your solar installation, we connect you with specialized solar lenders offering competitive rates and terms. Solar loans typically feature 0-6% APR with terms from 10-25 years. Many homeowners choose loans where monthly payments are lower than their current electricity bills, creating positive cash flow from day one. We assist with loan applications and can coordinate with your preferred lenders or financial institutions. Cash purchases receive special discounts and provide the fastest return on investment. Our [link:/financing|flexible financing options] make solar accessible for every budget."
       },
       {
             "type": "heading",
@@ -334,7 +334,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ongoing support includes system performance monitoring, annual production reviews, warranty support throughout equipment lifespans, and priority service if any issues arise. Many homeowners also enroll in our [link:/services/solar-maintenance-tucson|solar maintenance programs] for periodic panel cleaning and system checkups. Our relationship doesn't end at installation—we're partners in your solar journey for the life of your system. We also coordinate any future additions like [link:/services/commercial-solar-installation-tucson|expanding your system] or adding battery storage."
+            "content": "Ongoing support includes system performance monitoring, annual production reviews, warranty support throughout equipment lifespans, and priority service if any issues arise. Many homeowners also enroll in our [link:/services/solar-maintenance|solar maintenance programs] for periodic panel cleaning and system checkups. Our relationship doesn't end at installation—we're partners in your solar journey for the life of your system. We also coordinate any future additions like [link:/services/commercial-solar-installation|expanding your system] or adding battery storage."
       },
       {
             "type": "cta",
@@ -481,7 +481,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Financing Decision Factors: Choose based on your priorities: Maximize Lifetime Savings: Cash purchase delivers 30-40% more savings than financed systems. Immediate Positive Cash Flow: Solar loan with monthly payment below current electric bill. Lowest Monthly Commitment: 25-year loan minimizes monthly payments (but maximizes total interest). Tax Deduction Benefits: HELOC if you itemize deductions and have equity. Simplicity: Cash purchase avoids ongoing payments and interest. Our [link:/services/financing-tucson|financing specialists] help you compare actual costs and savings for each option based on your specific situation, ensuring you choose the approach that best meets your financial goals."
+            "content": "Financing Decision Factors: Choose based on your priorities: Maximize Lifetime Savings: Cash purchase delivers 30-40% more savings than financed systems. Immediate Positive Cash Flow: Solar loan with monthly payment below current electric bill. Lowest Monthly Commitment: 25-year loan minimizes monthly payments (but maximizes total interest). Tax Deduction Benefits: HELOC if you itemize deductions and have equity. Simplicity: Cash purchase avoids ongoing payments and interest. Our [link:/financing|financing specialists] help you compare actual costs and savings for each option based on your specific situation, ensuring you choose the approach that best meets your financial goals."
       },
       {
             "type": "paragraph",
@@ -520,7 +520,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Price Factors That Increase Costs: Certain installation conditions increase complexity and costs: Complex Roof Designs: Multi-plane roofs, dormers, multiple angles add labor time. Additional cost: $800-$2,000. Tile Roofs: Require careful tile removal/replacement and specialized mounting. Additional cost: $1,200-$2,500. Steep Pitch Roofs: Need additional safety equipment and slower installation. Additional cost: $600-$1,500. Electrical Panel Upgrade: Required if existing panel lacks capacity for solar. Additional cost: $1,500-$3,500 (covered by our [link:/services/electrical-panel-upgrades-tucson|electrical division]). Trenching for Inverter Location: If optimal inverter location requires underground conduit. Additional cost: $500-$1,200. Battery Storage Addition: 13.5 kWh battery system (like Tesla Powerwall). Additional cost: $11,000-$14,000 (qualifies for 30% tax credit). Premium Equipment Upgrades: High-efficiency panels, extended warranties, all-black aesthetics. Additional cost: $1,000-$3,500."
+            "content": "Price Factors That Increase Costs: Certain installation conditions increase complexity and costs: Complex Roof Designs: Multi-plane roofs, dormers, multiple angles add labor time. Additional cost: $800-$2,000. Tile Roofs: Require careful tile removal/replacement and specialized mounting. Additional cost: $1,200-$2,500. Steep Pitch Roofs: Need additional safety equipment and slower installation. Additional cost: $600-$1,500. Electrical Panel Upgrade: Required if existing panel lacks capacity for solar. Additional cost: $1,500-$3,500 (covered by our [link:/services/electrical-panel-upgrades|electrical division]). Trenching for Inverter Location: If optimal inverter location requires underground conduit. Additional cost: $500-$1,200. Battery Storage Addition: 13.5 kWh battery system (like Tesla Powerwall). Additional cost: $11,000-$14,000 (qualifies for 30% tax credit). Premium Equipment Upgrades: High-efficiency panels, extended warranties, all-black aesthetics. Additional cost: $1,000-$3,500."
       },
       {
             "type": "heading",

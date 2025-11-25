@@ -141,7 +141,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Martinez family had researched solar for three years but felt overwhelmed by conflicting information from aggressive solar salespeople. They wanted honest guidance, transparent pricing, and a company they could trust for such a significant investment. After reading hundreds of reviews and checking references, they chose Intelligent Design based on our family-owned, veteran-operated commitment to integrity and our proven track record with thousands of satisfied Tucson-area homeowners. Our [link:/services/solar-panel-installation-tucson|solar installation team] has earned recognition as Tucson's #1 rated solar company for seven consecutive years."
+            "content": "The Martinez family had researched solar for three years but felt overwhelmed by conflicting information from aggressive solar salespeople. They wanted honest guidance, transparent pricing, and a company they could trust for such a significant investment. After reading hundreds of reviews and checking references, they chose Intelligent Design based on our family-owned, veteran-operated commitment to integrity and our proven track record with thousands of satisfied Tucson-area homeowners. Our [link:/services/residential-solar-installation|solar installation team] has earned recognition as Tucson's #1 rated solar company for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -171,7 +171,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Thompsons wanted solar for cost savings but needed backup power to protect their businesses during outages. Standard grid-tied solar systems shut down during outages for safety reasons, providing no backup capability. They considered backup generators but disliked ongoing maintenance, fuel storage, and noise issues. After consulting with multiple solar companies, they selected Intelligent Design because we specialized in integrated solar-plus-storage systems with intelligent load management. Our [link:/services/electrical-panel-upgrade-tucson|electrical expertise] allowed us to design sophisticated backup solutions that traditional solar-only companies couldn't match."
+            "content": "The Thompsons wanted solar for cost savings but needed backup power to protect their businesses during outages. Standard grid-tied solar systems shut down during outages for safety reasons, providing no backup capability. They considered backup generators but disliked ongoing maintenance, fuel storage, and noise issues. After consulting with multiple solar companies, they selected Intelligent Design because we specialized in integrated solar-plus-storage systems with intelligent load management. Our [link:/services/electrical-panel-upgrades|electrical expertise] allowed us to design sophisticated backup solutions that traditional solar-only companies couldn't match."
       },
       {
             "type": "paragraph",
@@ -241,7 +241,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Review your bills for consumption patterns and identify any unusual spikes that might indicate appliance problems or efficiency opportunities. If your summer bills exceed $300 monthly, you may benefit from [link:/services/home-energy-audit|home energy efficiency services] before installing solar. Addressing inefficiency first allows for a smaller, less expensive solar system with better ROI. Many Cortaro homeowners discover their bills vary significantly based on thermostat settings, pool pump schedules, or seasonal occupancy changes."
+            "content": "Review your bills for consumption patterns and identify any unusual spikes that might indicate appliance problems or efficiency opportunities. If your summer bills exceed $300 monthly, you may benefit from [link:/services/home-energy-audit-tucson|home energy efficiency services] before installing solar. Addressing inefficiency first allows for a smaller, less expensive solar system with better ROI. Many Cortaro homeowners discover their bills vary significantly based on thermostat settings, pool pump schedules, or seasonal occupancy changes."
       },
       {
             "type": "heading",
@@ -622,7 +622,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commitment to Cortaro families includes honest system sizing, transparent pricing with detailed ROI analysis, quality workmanship meeting all codes and manufacturer specifications, responsive customer service throughout installation and beyond, and comprehensive warranty support. We're the most-referred solar installer in northwest Tucson. When Cortaro families decide to go solar, they choose Intelligent Design and confidently recommend us to neighbors, friends, and family. Learn more about our complete [link:/services/solar-tucson|solar services], explore [link:/services/financing|flexible financing options], and read our [link:/customer-reviews|customer reviews] to see why Cortaro trusts us with their solar investments."
+            "content": "Our commitment to Cortaro families includes honest system sizing, transparent pricing with detailed ROI analysis, quality workmanship meeting all codes and manufacturer specifications, responsive customer service throughout installation and beyond, and comprehensive warranty support. We're the most-referred solar installer in northwest Tucson. When Cortaro families decide to go solar, they choose Intelligent Design and confidently recommend us to neighbors, friends, and family. Learn more about our complete [link:/services/residential-solar-installation|solar services], explore [link:/services/financing|flexible financing options], and read our [link:/customer-reviews|customer reviews] to see why Cortaro trusts us with their solar investments."
       },
       {
             "type": "heading",
@@ -653,7 +653,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Cortaro and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Cortaro and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
       }
 ]
   },

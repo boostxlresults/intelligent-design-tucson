@@ -58,7 +58,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Vail, Arizona offers one of the nation's best solar resources with 350+ sunny days annually, positioning your home perfectly for exceptional solar energy production and financial returns. Located in the scenic Sonoran Desert valley east of Tucson with stunning views of the Rincon Mountains, Vail combines rural tranquility with modern amenities—and solar panels deliver unmatched value here. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in [link:/services/residential-solar-installation-tucson|professional solar installation] for Vail families since 1979, bringing the expertise, technology, and reliability your solar investment deserves."
+        "content": "Vail, Arizona offers one of the nation's best solar resources with 350+ sunny days annually, positioning your home perfectly for exceptional solar energy production and financial returns. Located in the scenic Sonoran Desert valley east of Tucson with stunning views of the Rincon Mountains, Vail combines rural tranquility with modern amenities—and solar panels deliver unmatched value here. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in [link:/services/residential-solar-installation|professional solar installation] for Vail families since 1979, bringing the expertise, technology, and reliability your solar investment deserves."
       },
       {
         "type": "paragraph",
@@ -407,7 +407,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Complete Multi-Trade Solar Advantage: As Vail's only company offering solar, [link:/services/hvac-vail|HVAC], [link:/services/electrical-vail|electrical], and [link:/services/plumbing-vail|plumbing services], we provide integrated whole-home energy solutions. We perform [link:/services/electrical-panel-upgrades|electrical panel upgrades] included with solar (not outsourced to subcontractors), complete [link:/services/duct-sealing-tucson|duct sealing] reducing AC loads before sizing solar, install [link:/services/smart-thermostat-installation-tucson|smart thermostats] maximizing solar self-consumption, and conduct [link:/services/home-energy-audit|complete home energy audits] identifying every efficiency opportunity. This integrated approach delivers maximum total savings impossible from solar-only companies."
+        "content": "Complete Multi-Trade Solar Advantage: As Vail's only company offering solar, [link:/services/hvac-vail|HVAC], [link:/services/electrical-vail|electrical], and [link:/services/plumbing-vail|plumbing services], we provide integrated whole-home energy solutions. We perform [link:/services/electrical-panel-upgrades|electrical panel upgrades] included with solar (not outsourced to subcontractors), complete [link:/services/duct-sealing-tucson|duct sealing] reducing AC loads before sizing solar, install [link:/services/smart-thermostat-installation-tucson|smart thermostats] maximizing solar self-consumption, and conduct [link:/services/home-energy-audit-tucson|complete home energy audits] identifying every efficiency opportunity. This integrated approach delivers maximum total savings impossible from solar-only companies."
       },
       {
         "type": "paragraph",
@@ -539,7 +539,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "[link:/services/commercial-solar-installation-tucson|Commercial Solar Installation] - Vail businesses benefit significantly from commercial solar with daytime production matching business operations. We design and install systems from 20kW for small offices to multi-megawatt arrays for warehouses and retail. Commercial solar provides immediate operating cost reductions, 30% federal ITC plus accelerated depreciation, sustainability credentials, and 4-7 year typical payback periods."
+        "content": "[link:/services/commercial-solar-installation|Commercial Solar Installation] - Vail businesses benefit significantly from commercial solar with daytime production matching business operations. We design and install systems from 20kW for small offices to multi-megawatt arrays for warehouses and retail. Commercial solar provides immediate operating cost reductions, 30% federal ITC plus accelerated depreciation, sustainability credentials, and 4-7 year typical payback periods."
       },
       {
         "type": "paragraph",
@@ -561,7 +561,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Beyond solar installation, Intelligent Design provides complete home comfort services throughout Vail: [link:/services/hvac-vail|HVAC Services] including AC installation, repair, and maintenance, furnace and heating services, [link:/services/duct-sealing-tucson|duct cleaning and sealing], and [link:/services/indoor-air-quality|indoor air quality] solutions. [link:/services/electrical-vail|Electrical Services] including panel upgrades, whole-home surge protection, ceiling fan installation, and lighting upgrades. [link:/services/plumbing-vail|Plumbing Services] including water heater installation, drain cleaning, leak detection, and water filtration systems. Our [link:/services/family-protection-plans|Family Protection Plans] include annual HVAC maintenance, plumbing inspections, solar system checks, and priority service ensuring your entire home operates efficiently year-round."
+        "content": "Beyond solar installation, Intelligent Design provides complete home comfort services throughout Vail: [link:/services/hvac-vail|HVAC Services] including AC installation, repair, and maintenance, furnace and heating services, [link:/services/duct-sealing-tucson|duct cleaning and sealing], and [link:/services/indoor-air-quality-tucson|indoor air quality] solutions. [link:/services/electrical-vail|Electrical Services] including panel upgrades, whole-home surge protection, ceiling fan installation, and lighting upgrades. [link:/services/plumbing-vail|Plumbing Services] including water heater installation, drain cleaning, leak detection, and water filtration systems. Our [link:/services/family-protection-plans|Family Protection Plans] include annual HVAC maintenance, plumbing inspections, solar system checks, and priority service ensuring your entire home operates efficiently year-round."
       },
       {
         "type": "heading",

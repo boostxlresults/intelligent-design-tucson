@@ -141,7 +141,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Rodriguezes' south-facing roof had excellent solar exposure with minimal shading from nearby mesquite trees. However, they were concerned about upfront costs, roof warranty impacts, and whether solar would genuinely deliver the savings promised by various solar companies. After researching multiple providers, they chose Intelligent Design based on our 22,000+ five-star reviews, transparent pricing, and comprehensive warranties. They particularly valued our family-owned, veteran-operated commitment to honest service that's made us Tucson's #1 rated [link:/services/solar-panel-installation-tucson|solar installation company] for seven consecutive years."
+            "content": "The Rodriguezes' south-facing roof had excellent solar exposure with minimal shading from nearby mesquite trees. However, they were concerned about upfront costs, roof warranty impacts, and whether solar would genuinely deliver the savings promised by various solar companies. After researching multiple providers, they chose Intelligent Design based on our 22,000+ five-star reviews, transparent pricing, and comprehensive warranties. They particularly valued our family-owned, veteran-operated commitment to honest service that's made us Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -171,7 +171,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Chens had considered backup generators but disliked the noise, ongoing fuel costs, and maintenance requirements. They wanted a clean, quiet, automatic backup solution that would keep critical loads running during outages while also reducing their dependence on the grid. Their home featured a metal roof with excellent south and west exposure. The property's rural location meant no shading concerns and maximum solar potential. After consulting with three solar companies, they selected Intelligent Design because we were the only provider offering integrated solar-plus-storage systems with complete [link:/services/electrical-panel-upgrade-tucson|electrical panel upgrades] and critical load management."
+            "content": "The Chens had considered backup generators but disliked the noise, ongoing fuel costs, and maintenance requirements. They wanted a clean, quiet, automatic backup solution that would keep critical loads running during outages while also reducing their dependence on the grid. Their home featured a metal roof with excellent south and west exposure. The property's rural location meant no shading concerns and maximum solar potential. After consulting with three solar companies, they selected Intelligent Design because we were the only provider offering integrated solar-plus-storage systems with complete [link:/services/electrical-panel-upgrades|electrical panel upgrades] and critical load management."
       },
       {
             "type": "paragraph",
@@ -241,7 +241,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Review your bills for consumption patterns and identify any unusual spikes that might indicate appliance problems or efficiency opportunities. If your summer bills exceed $300 monthly, you may benefit from [link:/services/home-energy-audit|home energy audit services] before installing solar. Addressing efficiency issues first allows for a smaller, less expensive solar system that delivers better ROI. Many Corona de Tucson homeowners discover their bills vary significantly based on thermostat settings, occupancy changes, or pool pump operation. Understanding these patterns helps you set realistic expectations for solar production and savings."
+            "content": "Review your bills for consumption patterns and identify any unusual spikes that might indicate appliance problems or efficiency opportunities. If your summer bills exceed $300 monthly, you may benefit from [link:/services/home-energy-audit-tucson|home energy audit services] before installing solar. Addressing efficiency issues first allows for a smaller, less expensive solar system that delivers better ROI. Many Corona de Tucson homeowners discover their bills vary significantly based on thermostat settings, occupancy changes, or pool pump operation. Understanding these patterns helps you set realistic expectations for solar production and savings."
       },
       {
             "type": "heading",
@@ -283,7 +283,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Review the interconnection agreement carefully and ask questions about rate structures, credit rollover policies, and any fees. Current TEP net metering policies provide full retail credit for solar production, making Corona de Tucson an excellent market for solar investment. We submit interconnection applications immediately after permits are approved, typically 2-3 weeks before installation. TEP review and approval usually takes 10-15 business days. Your system cannot legally operate until TEP approves interconnection and installs a bi-directional meter, so timing this properly keeps your project on schedule. Our [link:/services/solar-panel-installation-tucson|experienced solar team] coordinates all utility communications to ensure seamless approval."
+            "content": "Review the interconnection agreement carefully and ask questions about rate structures, credit rollover policies, and any fees. Current TEP net metering policies provide full retail credit for solar production, making Corona de Tucson an excellent market for solar investment. We submit interconnection applications immediately after permits are approved, typically 2-3 weeks before installation. TEP review and approval usually takes 10-15 business days. Your system cannot legally operate until TEP approves interconnection and installs a bi-directional meter, so timing this properly keeps your project on schedule. Our [link:/services/residential-solar-installation|experienced solar team] coordinates all utility communications to ensure seamless approval."
       },
       {
             "type": "heading",
@@ -367,7 +367,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solar panels require minimal maintenance in Corona de Tucson's dry climate. Monsoon rains naturally clean panels, removing dust accumulation. Inspect panels quarterly for debris, bird nests, or physical damage. Trim any vegetation that grows to shade panels. Most inverters have 10-25 year warranties and rarely require service, though monitoring systems alert you to any problems. Our 10-year workmanship warranty covers installation quality, and manufacturer warranties protect equipment. Schedule annual system inspections ($150-$200) to verify connections, mounting hardware, and electrical components remain secure. With proper care, your solar system will produce reliable clean energy for 25-30+ years with virtually zero maintenance. Our [link:/services/solar-panel-installation-tucson|solar maintenance programs] provide worry-free service and ensure your system performs optimally throughout its lifespan."
+            "content": "Solar panels require minimal maintenance in Corona de Tucson's dry climate. Monsoon rains naturally clean panels, removing dust accumulation. Inspect panels quarterly for debris, bird nests, or physical damage. Trim any vegetation that grows to shade panels. Most inverters have 10-25 year warranties and rarely require service, though monitoring systems alert you to any problems. Our 10-year workmanship warranty covers installation quality, and manufacturer warranties protect equipment. Schedule annual system inspections ($150-$200) to verify connections, mounting hardware, and electrical components remain secure. With proper care, your solar system will produce reliable clean energy for 25-30+ years with virtually zero maintenance. Our [link:/services/residential-solar-installation|solar maintenance programs] provide worry-free service and ensure your system performs optimally throughout its lifespan."
       },
       {
             "type": "heading",

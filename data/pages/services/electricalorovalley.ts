@@ -68,7 +68,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Elite Electrical Expertise for Modern Home Technology: Our team of 38 Arizona ROC-licensed master electricians (ROC 340962) averages 17+ years of hands-on electrical experience and completes 120+ hours of annual manufacturer training on the latest electrical panel, generator, EV charger, and smart home technologies. We're factory-certified installers for Tesla Wall Connector, ChargePoint, Generac, Square D, Siemens, Eaton, Lutron, and 10+ other premium brands. Our specialized expertise includes 200-amp panel upgrades optimized for modern electrical loads and future expansion, Level 2 EV charger installations for Tesla and all electric vehicles, whole-home generator systems with automatic transfer switches, smart home electrical integration with Lutron, Caseta, and voice control platforms, outdoor lighting systems designed for Oro Valley's dramatic mountain views, [link:/services/ceiling-fan-installation-tucson|ceiling fan installation] for enhanced comfort and efficiency, and comprehensive electrical safety inspections ensuring code compliance and family protection."
+        "content": "Elite Electrical Expertise for Modern Home Technology: Our team of 38 Arizona ROC-licensed master electricians (ROC 340962) averages 17+ years of hands-on electrical experience and completes 120+ hours of annual manufacturer training on the latest electrical panel, generator, EV charger, and smart home technologies. We're factory-certified installers for Tesla Wall Connector, ChargePoint, Generac, Square D, Siemens, Eaton, Lutron, and 10+ other premium brands. Our specialized expertise includes 200-amp panel upgrades optimized for modern electrical loads and future expansion, Level 2 EV charger installations for Tesla and all electric vehicles, whole-home generator systems with automatic transfer switches, smart home electrical integration with Lutron, Caseta, and voice control platforms, outdoor lighting systems designed for Oro Valley's dramatic mountain views, [link:/services/ceiling-fan-installation|ceiling fan installation] for enhanced comfort and efficiency, and comprehensive electrical safety inspections ensuring code compliance and family protection."
       },
       {
         "type": "cta",
@@ -253,7 +253,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Capacity & Performance Issues (Plan Upgrade Within 3-6 Months): If you're experiencing frequent breaker trips under normal electrical loads, inability to run multiple appliances simultaneously (AC + pool pump + dryer trips breaker), panel lacks available circuit spaces for needed additions (EV charger, generator, pool, workshop), panel is 100-125 amps and you have modern electrical demands, adding electric vehicle requiring 40-50 amp dedicated circuit, installing [link:/services/residential-solar-installation-tucson|solar panels] requiring proper integration and disconnect, planning home addition or major renovation, or lights dimming when major appliances start, your electrical system lacks the capacity for safe, reliable operation. Schedule professional electrical load calculation and panel upgrade planning to prevent overloads and enable modern home features."
+        "content": "Capacity & Performance Issues (Plan Upgrade Within 3-6 Months): If you're experiencing frequent breaker trips under normal electrical loads, inability to run multiple appliances simultaneously (AC + pool pump + dryer trips breaker), panel lacks available circuit spaces for needed additions (EV charger, generator, pool, workshop), panel is 100-125 amps and you have modern electrical demands, adding electric vehicle requiring 40-50 amp dedicated circuit, installing [link:/services/residential-solar-installation|solar panels] requiring proper integration and disconnect, planning home addition or major renovation, or lights dimming when major appliances start, your electrical system lacks the capacity for safe, reliable operation. Schedule professional electrical load calculation and panel upgrade planning to prevent overloads and enable modern home features."
       },
       {
         "type": "paragraph",
@@ -321,7 +321,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "heading",
-        "heading": "[link:/services/generac-installation-tucson|Whole-Home Generator Installation]",
+        "heading": "[link:/services/generac-installation|Whole-Home Generator Installation]",
         "level": 3,
         "content": "Whole-Home Generator Installation"
       },
@@ -341,13 +341,13 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "heading",
-        "heading": "[link:/services/lighting-upgrades-tucson|Interior & Exterior Lighting Installation]",
+        "heading": "[link:/services/lighting-upgrades|Interior & Exterior Lighting Installation]",
         "level": 3,
         "content": "Interior & Exterior Lighting Installation"
       },
       {
         "type": "paragraph",
-        "content": "Proper lighting enhances Oro Valley homes' dramatic mountain views while improving safety, security, and efficiency. Our services include LED recessed lighting (energy-efficient, low-heat, modern aesthetic), pendant and chandelier installation (dining, entry, kitchen), under-cabinet task lighting, [link:/services/ceiling-fan-installation-tucson|ceiling fans with integrated lighting], smart lighting systems (Lutron, Philips Hue, voice control), and comprehensive lighting design. Upgrading to LED reduces lighting consumption by 70-80%, eliminates heat output reducing AC costs, provides 15-25 year lifespan, and delivers superior light quality. [link:/services/outdoor-motion-lighting-tucson|Outdoor lighting] showcases architecture and landscaping while enhancing security with motion sensors, dusk-to-dawn controls, and architectural accents. For Oro Valley's extreme climate, we specify LED fixtures rated for high temperatures, weather-resistant construction, and bronze or powder-coated finishes resisting fading and corrosion. Investment: $1,800-4,500 for comprehensive outdoor lighting depending on fixtures and automation."
+        "content": "Proper lighting enhances Oro Valley homes' dramatic mountain views while improving safety, security, and efficiency. Our services include LED recessed lighting (energy-efficient, low-heat, modern aesthetic), pendant and chandelier installation (dining, entry, kitchen), under-cabinet task lighting, [link:/services/ceiling-fan-installation|ceiling fans with integrated lighting], smart lighting systems (Lutron, Philips Hue, voice control), and comprehensive lighting design. Upgrading to LED reduces lighting consumption by 70-80%, eliminates heat output reducing AC costs, provides 15-25 year lifespan, and delivers superior light quality. [link:/services/outdoor-motion-lighting|Outdoor lighting] showcases architecture and landscaping while enhancing security with motion sensors, dusk-to-dawn controls, and architectural accents. For Oro Valley's extreme climate, we specify LED fixtures rated for high temperatures, weather-resistant construction, and bronze or powder-coated finishes resisting fading and corrosion. Investment: $1,800-4,500 for comprehensive outdoor lighting depending on fixtures and automation."
       },
       {
         "type": "heading",
@@ -361,7 +361,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "heading",
-        "heading": "[link:/services/outlet-switch-installation-tucson|Outlets, Switches & Dedicated Circuits]",
+        "heading": "[link:/services/outlets-switches|Outlets, Switches & Dedicated Circuits]",
         "level": 3,
         "content": "Outlets, Switches & Dedicated Circuits"
       },
@@ -586,7 +586,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "EMERGENCY SERVICE REQUIRED (Call 24/7 Immediately): Sparking from outlets, switches, or electrical panel | Burning smell or smoke from any electrical equipment | Electrical panel too hot to touch or making unusual sounds | Exposed live electrical wiring anywhere in home | Water flooding into or near electrical panel | Suspected electrical shock hazard from any fixture or appliance | Main breaker trips repeatedly and won't stay reset | Evidence of electrical fire or scorch marks. Call (520) 333-2665 for immediate 24/7 emergency dispatch. Average 73-minute response to Oro Valley. Same flat-rate pricing day or night—no overtime charges.\n\nURGENT SAME-DAY SERVICE (Call During Business Hours): Complete power loss to home or critical circuits | Circuit breakers tripping repeatedly | AC electrical failure during summer heat | Generator won't start during power outage | GFCI outlets won't reset | Multiple electrical failures throughout home | Electrical problems preventing normal home use. Call for same-day priority scheduling. Most Oro Valley service requests completed same-day.\n\nROUTINE SERVICE SCHEDULING (1-7 Days): [link:/services/electrical-panel-upgrade-tucson|Panel upgrades] to 200-amp for modern capacity | [link:/services/ev-charger-installation-tucson|EV charger installation] for electric vehicles | [link:/services/generator-installation-tucson|Backup generator installation] | Smart home electrical integration | Solar panel electrical preparation | Landscape and security lighting | Adding dedicated circuits | Ceiling fan installation | [link:/services/electrical-repair-tucson|Preventive electrical maintenance] | Single outlets or switches not working | Code compliance electrical work. Schedule online anytime or call for flexible appointment within 1-7 days."
+        "content": "EMERGENCY SERVICE REQUIRED (Call 24/7 Immediately): Sparking from outlets, switches, or electrical panel | Burning smell or smoke from any electrical equipment | Electrical panel too hot to touch or making unusual sounds | Exposed live electrical wiring anywhere in home | Water flooding into or near electrical panel | Suspected electrical shock hazard from any fixture or appliance | Main breaker trips repeatedly and won't stay reset | Evidence of electrical fire or scorch marks. Call (520) 333-2665 for immediate 24/7 emergency dispatch. Average 73-minute response to Oro Valley. Same flat-rate pricing day or night—no overtime charges.\n\nURGENT SAME-DAY SERVICE (Call During Business Hours): Complete power loss to home or critical circuits | Circuit breakers tripping repeatedly | AC electrical failure during summer heat | Generator won't start during power outage | GFCI outlets won't reset | Multiple electrical failures throughout home | Electrical problems preventing normal home use. Call for same-day priority scheduling. Most Oro Valley service requests completed same-day.\n\nROUTINE SERVICE SCHEDULING (1-7 Days): [link:/services/electrical-panel-upgrades|Panel upgrades] to 200-amp for modern capacity | [link:/services/electrical-tucson|EV charger installation] for electric vehicles | [link:/services/generac-installation|Backup generator installation] | Smart home electrical integration | Solar panel electrical preparation | Landscape and security lighting | Adding dedicated circuits | Ceiling fan installation | [link:/services/electrical-repair|Preventive electrical maintenance] | Single outlets or switches not working | Code compliance electrical work. Schedule online anytime or call for flexible appointment within 1-7 days."
       },
       {
         "type": "paragraph",

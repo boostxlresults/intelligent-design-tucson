@@ -152,7 +152,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Rodriguez family wanted energy independence without compromising comfort for their growing children. They'd heard solar horror stories from friends about high-pressure salespeople, misleading production estimates, and subpar installations. After researching Tucson solar companies and reading our [link:/customer-reviews|extensive customer reviews], they contacted Intelligent Design for a no-pressure consultation. Our energy consultant spent two hours at their home, conducting a thorough [link:/services/home-energy-audit|energy assessment], reviewing their utility bills, and discussing their family's long-term plans for the Gladden Farms community."
+            "content": "The Rodriguez family wanted energy independence without compromising comfort for their growing children. They'd heard solar horror stories from friends about high-pressure salespeople, misleading production estimates, and subpar installations. After researching Tucson solar companies and reading our [link:/customer-reviews|extensive customer reviews], they contacted Intelligent Design for a no-pressure consultation. Our energy consultant spent two hours at their home, conducting a thorough [link:/services/home-energy-audit-tucson|energy assessment], reviewing their utility bills, and discussing their family's long-term plans for the Gladden Farms community."
       },
       {
             "type": "paragraph",
@@ -164,7 +164,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"Intelligent Design turned our energy nightmare into a dream scenario. Our summer bills dropped from $380 to under $15. That's over $4,400 in annual savings while our loan payment is only $1,980 yearly. We're saving $2,420 net in year one, and when the loan is paid off in 12 years, we'll save the full $4,400 every year. The kids love tracking our solar production on the app, learning about renewable energy while saving for their college funds. The installation crew was incredibly professional, finishing in two days despite 95-degree heat. They protected our landscaping with plywood walkways and cleaned everything perfectly. Our [link:/services/solar-panel-installation-tucson|solar consultant] answered every question patiently, never pressured us, and delivered exactly what was promised. We've already referred two neighbors who have since gone solar with Intelligent Design.\" - Jennifer Rodriguez, Gladden Farms"
+            "content": "Customer Testimonial: \"Intelligent Design turned our energy nightmare into a dream scenario. Our summer bills dropped from $380 to under $15. That's over $4,400 in annual savings while our loan payment is only $1,980 yearly. We're saving $2,420 net in year one, and when the loan is paid off in 12 years, we'll save the full $4,400 every year. The kids love tracking our solar production on the app, learning about renewable energy while saving for their college funds. The installation crew was incredibly professional, finishing in two days despite 95-degree heat. They protected our landscaping with plywood walkways and cleaned everything perfectly. Our [link:/services/residential-solar-installation|solar consultant] answered every question patiently, never pressured us, and delivered exactly what was promised. We've already referred two neighbors who have since gone solar with Intelligent Design.\" - Jennifer Rodriguez, Gladden Farms"
       },
       {
             "type": "paragraph",
@@ -194,7 +194,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"Solar was the smartest financial decision of our retirement. We're no longer anxious every time TEP announces rate increases. Our monthly budget is now predictable, letting us enjoy retirement instead of worrying about utility costs. Intelligent Design's senior solar consultant understood our unique situation as retirees on fixed income. He never pressured us toward a bigger system, instead designing exactly what we needed. The installation crew treated our home with such respect, as if it were their own parents' house. They even helped me move patio furniture back into place. Our [link:/services/electrical-panel-upgrade-tucson|electrical panel] didn't need upgrading, saving us thousands. We're saving $2,880 annually on electricity, and over 20 years that's $57,600 in savings we can spend on family instead of utility companies. We only wish we'd done this sooner.\" - Susan Chen, Gladden Farms"
+            "content": "Customer Testimonial: \"Solar was the smartest financial decision of our retirement. We're no longer anxious every time TEP announces rate increases. Our monthly budget is now predictable, letting us enjoy retirement instead of worrying about utility costs. Intelligent Design's senior solar consultant understood our unique situation as retirees on fixed income. He never pressured us toward a bigger system, instead designing exactly what we needed. The installation crew treated our home with such respect, as if it were their own parents' house. They even helped me move patio furniture back into place. Our [link:/services/electrical-panel-upgrades|electrical panel] didn't need upgrading, saving us thousands. We're saving $2,880 annually on electricity, and over 20 years that's $57,600 in savings we can spend on family instead of utility companies. We only wish we'd done this sooner.\" - Susan Chen, Gladden Farms"
       },
       {
             "type": "paragraph",
@@ -259,7 +259,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Calculate your total annual consumption by summing all 12 months. Typical Gladden Farms homes use 11,000-17,000 kWh annually depending on square footage, occupancy, HVAC efficiency, and lifestyle. Identify any unusual consumption spikes that might indicate inefficient appliances, HVAC problems, or behavioral opportunities for reduction. If your bills consistently exceed neighborhood averages, consider scheduling a [link:/services/home-energy-audit|professional energy audit] before solar installation. Addressing efficiency problems first allows for smaller, less expensive solar systems with faster payback periods. Bring these bills to your solar consultation for accurate system sizing and financial projections."
+            "content": "Calculate your total annual consumption by summing all 12 months. Typical Gladden Farms homes use 11,000-17,000 kWh annually depending on square footage, occupancy, HVAC efficiency, and lifestyle. Identify any unusual consumption spikes that might indicate inefficient appliances, HVAC problems, or behavioral opportunities for reduction. If your bills consistently exceed neighborhood averages, consider scheduling a [link:/services/home-energy-audit-tucson|professional energy audit] before solar installation. Addressing efficiency problems first allows for smaller, less expensive solar systems with faster payback periods. Bring these bills to your solar consultation for accurate system sizing and financial projections."
       },
       {
             "type": "heading",
@@ -315,7 +315,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Panel upgrades cost $1,800-$3,500 depending on complexity but deliver multiple benefits beyond solar including increased capacity for future home electrical needs (EV chargers, pool equipment, home additions), elimination of nuisance breaker trips from overloaded circuits, improved electrical safety with modern arc-fault and GFIC protection, and updated code compliance for safer operation. The 30% federal solar tax credit applies to panel upgrades completed as part of solar installation, reducing net upgrade cost by 30%. Our electrical division handles panel upgrades simultaneously with solar installation, minimizing disruption and ensuring all work is completed by licensed Arizona electricians. If you need a [link:/services/electrical-panel-upgrade-tucson|panel upgrade], we'll identify this during consultation and include upgrade costs in your solar proposal."
+            "content": "Panel upgrades cost $1,800-$3,500 depending on complexity but deliver multiple benefits beyond solar including increased capacity for future home electrical needs (EV chargers, pool equipment, home additions), elimination of nuisance breaker trips from overloaded circuits, improved electrical safety with modern arc-fault and GFIC protection, and updated code compliance for safer operation. The 30% federal solar tax credit applies to panel upgrades completed as part of solar installation, reducing net upgrade cost by 30%. Our electrical division handles panel upgrades simultaneously with solar installation, minimizing disruption and ensuring all work is completed by licensed Arizona electricians. If you need a [link:/services/electrical-panel-upgrades|panel upgrade], we'll identify this during consultation and include upgrade costs in your solar proposal."
       },
       {
             "type": "heading",
@@ -503,7 +503,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Consumption optimization: Shift discretionary loads to high-production months and times including scheduling major appliance use for summer daytime hours, operating pool pumps during peak production hours, pre-cooling homes during afternoon production peaks, and concentrating heavy electricity use (visitors, holiday cooking) during high-production summer months. Our [link:/services/solar-tucson|solar team] provides ongoing guidance helping you maximize solar value through all seasons, ensuring your Gladden Farms installation delivers optimal returns throughout its 25-30+ year lifespan."
+            "content": "Consumption optimization: Shift discretionary loads to high-production months and times including scheduling major appliance use for summer daytime hours, operating pool pumps during peak production hours, pre-cooling homes during afternoon production peaks, and concentrating heavy electricity use (visitors, holiday cooking) during high-production summer months. Our [link:/services/residential-solar-installation|solar team] provides ongoing guidance helping you maximize solar value through all seasons, ensuring your Gladden Farms installation delivers optimal returns throughout its 25-30+ year lifespan."
       },
       {
             "type": "heading",
@@ -670,7 +670,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready to start your solar journey? Our Gladden Farms solar experts are standing by to answer questions, schedule free consultations, and help you discover how much you can save with solar energy. Call (520) 333-2665 or visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Gladden Farms and the greater Tucson area with comprehensive solar, HVAC, plumbing, and electrical services. Visit our [link:/services/solar-tucson|solar services page] to learn more about our complete solar offerings."
+            "content": "Ready to start your solar journey? Our Gladden Farms solar experts are standing by to answer questions, schedule free consultations, and help you discover how much you can save with solar energy. Call (520) 333-2665 or visit our Tucson showroom at 1145 E Fort Lowell Rd, Tucson, AZ 85719. We proudly serve Gladden Farms and the greater Tucson area with comprehensive solar, HVAC, plumbing, and electrical services. Visit our [link:/services/residential-solar-installation|solar services page] to learn more about our complete solar offerings."
       }
 ]
   },

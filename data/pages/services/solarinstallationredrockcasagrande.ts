@@ -62,7 +62,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Red Rock / Casa Grande's unobstructed desert location provides ideal solar conditions—averaging over 350 sunny days per year with minimal shading from trees or buildings. This exceptional solar resource means Red Rock / Casa Grande systems generate more electricity per kilowatt installed than almost anywhere in the United States. Combined with federal tax credits (30%), Arizona tax credits (25% up to $1,000), and utility net metering programs, solar investment in Red Rock / Casa Grande typically pays for itself in 5-8 years while providing 25+ years of free electricity. Our comprehensive approach includes [link:/services/electrical-redrockcasagrande|electrical system] evaluation, [link:/services/roofing-redrockcasagrande|roof assessment], premium equipment selection, and professional installation that meets or exceeds all codes and manufacturer requirements."
+        "content": "Red Rock / Casa Grande's unobstructed desert location provides ideal solar conditions—averaging over 350 sunny days per year with minimal shading from trees or buildings. This exceptional solar resource means Red Rock / Casa Grande systems generate more electricity per kilowatt installed than almost anywhere in the United States. Combined with federal tax credits (30%), Arizona tax credits (25% up to $1,000), and utility net metering programs, solar investment in Red Rock / Casa Grande typically pays for itself in 5-8 years while providing 25+ years of free electricity. Our comprehensive approach includes [link:/services/electrical-red-rock-casa-grande|electrical system] evaluation, [link:/services/roofing-red-rock-casa-grande|roof assessment], premium equipment selection, and professional installation that meets or exceeds all codes and manufacturer requirements."
       },
       {
         "type": "cta",
@@ -107,7 +107,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "For inverters (converting DC solar power to AC household power), we install Enphase microinverters (panel-level optimization, superior monitoring, excellent reliability), SolarEdge power optimizers (panel-level monitoring, excellent shade performance), and premium string inverters from SMA and Fronius for larger systems. Microinverter systems are popular in Red Rock / Casa Grande because they maximize production from each panel independently, provide detailed monitoring, and eliminate single points of failure. All equipment is rated for extreme temperatures and carries comprehensive 10-25 year warranties. We handle all [link:/services/electrical-redrockcasagrande|electrical work] including panel upgrades if needed, proper grounding, and code-compliant installations."
+        "content": "For inverters (converting DC solar power to AC household power), we install Enphase microinverters (panel-level optimization, superior monitoring, excellent reliability), SolarEdge power optimizers (panel-level monitoring, excellent shade performance), and premium string inverters from SMA and Fronius for larger systems. Microinverter systems are popular in Red Rock / Casa Grande because they maximize production from each panel independently, provide detailed monitoring, and eliminate single points of failure. All equipment is rated for extreme temperatures and carries comprehensive 10-25 year warranties. We handle all [link:/services/electrical-red-rock-casa-grande|electrical work] including panel upgrades if needed, proper grounding, and code-compliant installations."
       },
       {
         "type": "heading",
@@ -117,7 +117,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our comprehensive solar installation process ensures quality results and hassle-free experience. The process includes initial consultation and site assessment at your Red Rock / Casa Grande home, custom system design and detailed proposal with financing options, signed agreement and project scheduling, permitting with Pinal County and utility applications (handled entirely by us), pre-installation [link:/services/roofing-redrockcasagrande|roof inspection] and any needed repairs, professional installation by licensed contractors (typically 1-2 days), electrical inspection and final approvals, utility interconnection and net metering activation, and comprehensive system training and monitoring setup."
+        "content": "Our comprehensive solar installation process ensures quality results and hassle-free experience. The process includes initial consultation and site assessment at your Red Rock / Casa Grande home, custom system design and detailed proposal with financing options, signed agreement and project scheduling, permitting with Pinal County and utility applications (handled entirely by us), pre-installation [link:/services/roofing-red-rock-casa-grande|roof inspection] and any needed repairs, professional installation by licensed contractors (typically 1-2 days), electrical inspection and final approvals, utility interconnection and net metering activation, and comprehensive system training and monitoring setup."
       },
       {
         "type": "paragraph",
@@ -170,7 +170,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "A typical Red Rock / Casa Grande home uses 30-50 kWh daily, so one or two Powerwall units provide substantial backup capacity. During normal operation, batteries charge from excess solar production during the day, then discharge to power your home in the evening, maximizing self-consumption of solar energy. During grid outages, batteries provide automatic backup power to critical loads (refrigerators, lights, outlets, and even [link:/services/hvac-redrockcasagrande|air conditioning] depending on battery size). Battery storage also qualifies for the federal 30% tax credit when installed with solar, making it more affordable than ever."
+        "content": "A typical Red Rock / Casa Grande home uses 30-50 kWh daily, so one or two Powerwall units provide substantial backup capacity. During normal operation, batteries charge from excess solar production during the day, then discharge to power your home in the evening, maximizing self-consumption of solar energy. During grid outages, batteries provide automatic backup power to critical loads (refrigerators, lights, outlets, and even [link:/services/hvac-red-rock-casa-grande|air conditioning] depending on battery size). Battery storage also qualifies for the federal 30% tax credit when installed with solar, making it more affordable than ever."
       },
       {
         "type": "heading",
@@ -180,11 +180,11 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Building a new home in Red Rock / Casa Grande's growing developments? Solar installation during construction offers significant advantages including optimal solar design integrated into home planning, [link:/services/electrical-redrockcasagrande|electrical panel] sizing for solar from the start, conduit and wiring runs during construction for cleaner installation, coordination with builders and timing, and inclusion in construction financing at lower rates. We work with Red Rock / Casa Grande builders, architects, and homeowners to design solar systems optimized for new home designs."
+        "content": "Building a new home in Red Rock / Casa Grande's growing developments? Solar installation during construction offers significant advantages including optimal solar design integrated into home planning, [link:/services/electrical-red-rock-casa-grande|electrical panel] sizing for solar from the start, conduit and wiring runs during construction for cleaner installation, coordination with builders and timing, and inclusion in construction financing at lower rates. We work with Red Rock / Casa Grande builders, architects, and homeowners to design solar systems optimized for new home designs."
       },
       {
         "type": "paragraph",
-        "content": "New construction solar can be designed for net-zero energy homes where annual solar production equals or exceeds annual consumption. With Red Rock / Casa Grande's excellent solar resource and modern energy-efficient home construction, net-zero is achievable with properly sized systems (typically 8-12 kW). Some buyers include solar in construction loans, spreading the cost over 30 years at mortgage rates (3-7%) rather than higher solar loan rates, making monthly costs extremely attractive. As a full-service contractor handling [link:/services/hvac-redrockcasagrande|HVAC], [link:/services/electrical-redrockcasagrande|electrical], and solar, we coordinate seamlessly with builders to deliver integrated energy solutions."
+        "content": "New construction solar can be designed for net-zero energy homes where annual solar production equals or exceeds annual consumption. With Red Rock / Casa Grande's excellent solar resource and modern energy-efficient home construction, net-zero is achievable with properly sized systems (typically 8-12 kW). Some buyers include solar in construction loans, spreading the cost over 30 years at mortgage rates (3-7%) rather than higher solar loan rates, making monthly costs extremely attractive. As a full-service contractor handling [link:/services/hvac-red-rock-casa-grande|HVAC], [link:/services/electrical-red-rock-casa-grande|electrical], and solar, we coordinate seamlessly with builders to deliver integrated energy solutions."
       },
       {
         "type": "cta",
@@ -205,7 +205,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our Solution: We provided comprehensive assessment including detailed electric bill analysis showing 18,500 kWh annual usage, solar site evaluation confirming excellent conditions (unobstructed south and west roof sections), [link:/services/roofing-redrockcasagrande|roof inspection] verifying 2-year-old tile roof in excellent condition, and financial analysis comparing purchase, loan, and lease options. Our recommended solution: 10.8 kW solar system using 27 Q CELLS 400W panels with Enphase IQ8+ microinverters, estimated production of 18,200 kWh annually (98% bill offset), Tesla Powerwall 13.5 kWh battery for backup power, system total of $38,500 before incentives, and $26,950 net cost after 30% federal credit plus Arizona credit."
+        "content": "Our Solution: We provided comprehensive assessment including detailed electric bill analysis showing 18,500 kWh annual usage, solar site evaluation confirming excellent conditions (unobstructed south and west roof sections), [link:/services/roofing-red-rock-casa-grande|roof inspection] verifying 2-year-old tile roof in excellent condition, and financial analysis comparing purchase, loan, and lease options. Our recommended solution: 10.8 kW solar system using 27 Q CELLS 400W panels with Enphase IQ8+ microinverters, estimated production of 18,200 kWh annually (98% bill offset), Tesla Powerwall 13.5 kWh battery for backup power, system total of $38,500 before incentives, and $26,950 net cost after 30% federal credit plus Arizona credit."
       },
       {
         "type": "paragraph",
@@ -219,7 +219,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande grows rapidly with new family-friendly developments, homeowners want solar installers who deliver professional results and stand behind their work for decades. Our solar division combines 45+ years of HVAC, electrical, and home systems experience with specialized solar expertise, creating a unique advantage. We're licensed contractors (Arizona ROC #340962) with comprehensive training on solar technology, not solar-only companies without broader home systems knowledge. This integrated expertise ensures we properly evaluate your [link:/services/electrical-redrockcasagrande|electrical system] capacity, [link:/services/roofing-redrockcasagrande|roof condition], and [link:/services/hvac-redrockcasagrande|HVAC efficiency] before designing solar systems."
+        "content": "As Red Rock / Casa Grande grows rapidly with new family-friendly developments, homeowners want solar installers who deliver professional results and stand behind their work for decades. Our solar division combines 45+ years of HVAC, electrical, and home systems experience with specialized solar expertise, creating a unique advantage. We're licensed contractors (Arizona ROC #340962) with comprehensive training on solar technology, not solar-only companies without broader home systems knowledge. This integrated expertise ensures we properly evaluate your [link:/services/electrical-red-rock-casa-grande|electrical system] capacity, [link:/services/roofing-red-rock-casa-grande|roof condition], and [link:/services/hvac-red-rock-casa-grande|HVAC efficiency] before designing solar systems."
       },
       {
         "type": "paragraph",
@@ -227,7 +227,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-redrockcasagrande|HVAC], [link:/services/plumbing-redrockcasagrande|plumbing], [link:/services/electrical-redrockcasagrande|electrical], and solar company, we provide integrated solutions Red Rock / Casa Grande homeowners value. Need [link:/services/electrical-redrockcasagrande|electrical panel upgrades] for solar? We handle it. Want to optimize [link:/services/hvac-redrockcasagrande|HVAC efficiency] before sizing your solar system? We provide expert recommendations. Concerned about [link:/services/roofing-redrockcasagrande|roof condition] before installation? We assess and repair if needed. This comprehensive approach ensures optimal solar performance and seamless installation. Schedule your Red Rock / Casa Grande solar consultation today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-red-rock-casa-grande|HVAC], [link:/services/plumbing-red-rock-casa-grande|plumbing], [link:/services/electrical-red-rock-casa-grande|electrical], and solar company, we provide integrated solutions Red Rock / Casa Grande homeowners value. Need [link:/services/electrical-red-rock-casa-grande|electrical panel upgrades] for solar? We handle it. Want to optimize [link:/services/hvac-red-rock-casa-grande|HVAC efficiency] before sizing your solar system? We provide expert recommendations. Concerned about [link:/services/roofing-red-rock-casa-grande|roof condition] before installation? We assess and repair if needed. This comprehensive approach ensures optimal solar performance and seamless installation. Schedule your Red Rock / Casa Grande solar consultation today by calling (520) 333-2665 or booking online."
       }
     ]
   },

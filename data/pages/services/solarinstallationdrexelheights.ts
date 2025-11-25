@@ -141,7 +141,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 45+ years serving Tucson families, 22,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/solar-panel-installation-tucson|solar installation company] for seven consecutive years."
+            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 45+ years serving Tucson families, 22,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -171,7 +171,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Chens researched backup power solutions including traditional generators but preferred solar with battery storage for its environmental benefits, silent operation, and automatic functionality. After consulting with multiple solar companies, they selected Intelligent Design because we specialized in integrated solar-plus-storage systems with sophisticated load management capabilities. Our [link:/services/electrical-panel-upgrade-tucson|electrical engineering expertise] allowed us to design backup solutions that standard solar-only installers couldn't provide."
+            "content": "The Chens researched backup power solutions including traditional generators but preferred solar with battery storage for its environmental benefits, silent operation, and automatic functionality. After consulting with multiple solar companies, they selected Intelligent Design because we specialized in integrated solar-plus-storage systems with sophisticated load management capabilities. Our [link:/services/electrical-panel-upgrades|electrical engineering expertise] allowed us to design backup solutions that standard solar-only installers couldn't provide."
       },
       {
             "type": "paragraph",
@@ -237,7 +237,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Collect one full year of TEP electric bills before your consultation. Bills show monthly kWh usage, costs, seasonal variations, and rates. Drexel Heights homes typically use 900-1,500 kWh monthly, with summer consumption 50-80% higher than winter. Bring bills to your consultation so designers can properly size your system. Review for unusual spikes that might indicate efficiency opportunities. If summer bills exceed $300, consider [link:/services/home-energy-audit|energy efficiency services] before solar for better ROI."
+            "content": "Collect one full year of TEP electric bills before your consultation. Bills show monthly kWh usage, costs, seasonal variations, and rates. Drexel Heights homes typically use 900-1,500 kWh monthly, with summer consumption 50-80% higher than winter. Bring bills to your consultation so designers can properly size your system. Review for unusual spikes that might indicate efficiency opportunities. If summer bills exceed $300, consider [link:/services/home-energy-audit-tucson|energy efficiency services] before solar for better ROI."
       },
       {
             "type": "heading",
@@ -528,7 +528,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Racking Systems: Composition shingle roofs (most common in Drexel Heights) use IronRidge XR aluminum racking with flashed lag bolts securing to roof trusses, engineered for 150 mph winds, with premium EPDM flashing preventing water intrusion. Tile roofs employ QuickMount PV tile hooks slipping under tiles without drilling, distributing weight across multiple tiles while maintaining roof warranties. Metal standing seam roofs utilize S-5! clamps attaching to seams without roof penetrations, preserving warranties and providing weather-tight installations. All systems include proper grounding and lightning protection. Your [link:/services/solar-panel-installation-tucson|solar consultation] includes detailed equipment recommendations tailored to your specific roof type, shading conditions, and budget."
+            "content": "Racking Systems: Composition shingle roofs (most common in Drexel Heights) use IronRidge XR aluminum racking with flashed lag bolts securing to roof trusses, engineered for 150 mph winds, with premium EPDM flashing preventing water intrusion. Tile roofs employ QuickMount PV tile hooks slipping under tiles without drilling, distributing weight across multiple tiles while maintaining roof warranties. Metal standing seam roofs utilize S-5! clamps attaching to seams without roof penetrations, preserving warranties and providing weather-tight installations. All systems include proper grounding and lightning protection. Your [link:/services/residential-solar-installation|solar consultation] includes detailed equipment recommendations tailored to your specific roof type, shading conditions, and budget."
       },
       {
             "type": "heading",
@@ -600,7 +600,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Environmental Impact: The average 7.5 kW Drexel Heights solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, or avoiding 22,000 miles of driving. Over 25 years, your system prevents 210-240 tons of CO2 emissions comparable to preserving 12+ acres of forest. Your solar panels replace electricity from natural gas and coal plants, directly reducing fossil fuel consumption and air pollution including nitrogen oxides, sulfur dioxide, and particulate matter. Water conservation: Thermoelectric power plants require 600-800 gallons per megawatt-hour for cooling. Your system producing 11,250 kWh annually saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Drexel Heights families choose solar for environmental values, leaving cleaner air for children, reducing fossil fuel dependence, and demonstrating community environmental leadership. Learn more about our [link:/services/solar-tucson|complete solar services] for Tucson area homeowners."
+            "content": "Environmental Impact: The average 7.5 kW Drexel Heights solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, or avoiding 22,000 miles of driving. Over 25 years, your system prevents 210-240 tons of CO2 emissions comparable to preserving 12+ acres of forest. Your solar panels replace electricity from natural gas and coal plants, directly reducing fossil fuel consumption and air pollution including nitrogen oxides, sulfur dioxide, and particulate matter. Water conservation: Thermoelectric power plants require 600-800 gallons per megawatt-hour for cooling. Your system producing 11,250 kWh annually saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Drexel Heights families choose solar for environmental values, leaving cleaner air for children, reducing fossil fuel dependence, and demonstrating community environmental leadership. Learn more about our [link:/services/residential-solar-installation|complete solar services] for Tucson area homeowners."
       },
       {
             "type": "heading",
@@ -643,7 +643,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Drexel Heights and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrade-tucson|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Drexel Heights and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
       }
 ]
   },

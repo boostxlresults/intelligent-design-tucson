@@ -116,11 +116,11 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Slow or clogged drains are more than just inconvenient—they can indicate serious plumbing issues requiring professional attention. Our [link:/services/drain-sewer-saddlebrookecatalina|drain and sewer services] include professional drain clearing for sinks, tubs, and showers, main sewer line cleaning and repair, video camera inspections to identify problem sources, hydro-jetting for thorough cleaning of stubborn blockages, tree root removal from sewer lines, and preventive drain maintenance to avoid future clogs."
+        "content": "Slow or clogged drains are more than just inconvenient—they can indicate serious plumbing issues requiring professional attention. Our [link:/services/drain-sewer-saddle-brooke-catalina|drain and sewer services] include professional drain clearing for sinks, tubs, and showers, main sewer line cleaning and repair, video camera inspections to identify problem sources, hydro-jetting for thorough cleaning of stubborn blockages, tree root removal from sewer lines, and preventive drain maintenance to avoid future clogs."
       },
       {
         "type": "paragraph",
-        "content": "Many Saddle Brooke / Catalina homes are 15-25 years old, and sewer lines can develop issues from tree root intrusion, pipe settling, or deterioration. Signs of sewer line problems include multiple drains backing up simultaneously, gurgling sounds from drains or toilets, sewage odors in or around your home, slow drainage throughout the house, and unexplained patches of lush grass in the yard (indicating sewer leaks). We use advanced video camera inspection to diagnose sewer line issues accurately, then recommend the most cost-effective solution—often trenchless repair methods that minimize landscape disruption to your well-maintained property. Our [link:/services/drain-sewer-saddlebrookecatalina|24/7 emergency drain clearing] service provides rapid response when you need it most."
+        "content": "Many Saddle Brooke / Catalina homes are 15-25 years old, and sewer lines can develop issues from tree root intrusion, pipe settling, or deterioration. Signs of sewer line problems include multiple drains backing up simultaneously, gurgling sounds from drains or toilets, sewage odors in or around your home, slow drainage throughout the house, and unexplained patches of lush grass in the yard (indicating sewer leaks). We use advanced video camera inspection to diagnose sewer line issues accurately, then recommend the most cost-effective solution—often trenchless repair methods that minimize landscape disruption to your well-maintained property. Our [link:/services/drain-sewer-saddle-brooke-catalina|24/7 emergency drain clearing] service provides rapid response when you need it most."
       },
       {
         "type": "cta",
@@ -230,7 +230,7 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As a full-service [link:/services/hvac-saddlebrookecatalina|HVAC], plumbing, [link:/services/electrical-saddlebrookecatalina|electrical], and [link:/services/solar-installation-saddlebrookecatalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/electrical-saddlebrookecatalina|electrical work] for water heater installation? We coordinate everything seamlessly. Planning bathroom remodeling that affects plumbing and ventilation? We ensure all systems work together efficiently. This integrated approach saves you time, reduces costs, and provides single-source accountability. Schedule your Saddle Brooke / Catalina plumbing service today by calling (520) 333-2665 or booking online."
+        "content": "As a full-service [link:/services/hvac-saddle-brooke-catalina|HVAC], plumbing, [link:/services/electrical-saddle-brooke-catalina|electrical], and [link:/services/solar-installation-saddle-brooke-catalina|solar] company, we handle all your home's systems with one trusted partner. Need [link:/services/electrical-saddle-brooke-catalina|electrical work] for water heater installation? We coordinate everything seamlessly. Planning bathroom remodeling that affects plumbing and ventilation? We ensure all systems work together efficiently. This integrated approach saves you time, reduces costs, and provides single-source accountability. Schedule your Saddle Brooke / Catalina plumbing service today by calling (520) 333-2665 or booking online."
       }
     ]
   },
@@ -262,7 +262,7 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Do you offer drain clearing and sewer services?",
-        answer: "Yes, we provide complete [link:/services/drain-sewer-saddlebrookecatalina|drain and sewer services] including professional drain clearing, main sewer line cleaning, video camera inspections, hydro-jetting, tree root removal, and 24/7 emergency service. Many Saddle Brooke / Catalina homes have mature landscaping that can cause root intrusion into sewer lines. We use advanced cameras to diagnose issues accurately and often recommend trenchless repair methods that minimize disruption to your landscaping."
+        answer: "Yes, we provide complete [link:/services/drain-sewer-saddle-brooke-catalina|drain and sewer services] including professional drain clearing, main sewer line cleaning, video camera inspections, hydro-jetting, tree root removal, and 24/7 emergency service. Many Saddle Brooke / Catalina homes have mature landscaping that can cause root intrusion into sewer lines. We use advanced cameras to diagnose issues accurately and often recommend trenchless repair methods that minimize disruption to your landscaping."
       },
       {
         question: "Can you make my bathroom more accessible for aging in place?",
