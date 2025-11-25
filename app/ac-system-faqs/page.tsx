@@ -161,7 +161,7 @@ export default function ACSystemFAQsPage() {
               Home
             </Link>
             <ChevronRight className="w-4 h-4" />
-            <Link href="/services/hvac" className="hover:text-foreground" data-testid="link-breadcrumb-hvac">
+            <Link href="/services/hvac-tucson" className="hover:text-foreground" data-testid="link-breadcrumb-hvac">
               Air Conditioning
             </Link>
             <ChevronRight className="w-4 h-4" />

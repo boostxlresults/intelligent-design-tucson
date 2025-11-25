@@ -292,11 +292,11 @@ export default function EducationLibraryPage() {
           <div className="bg-muted/30 rounded-lg p-8 mb-16">
             <p className="text-lg text-foreground/90 leading-relaxed">
               Our education library explains the answers to some of the most common questions we hear. You'll learn how an AC actually works, for example. In addition, you can explore the benefits of{' '}
-              <Link href="/services/solar" className="text-primary hover:underline">
+              <Link href="/services/residential-solar-installation" className="text-primary hover:underline">
                 whole-house energy audits
               </Link>{' '}
               and{' '}
-              <Link href="/services/hvac" className="text-primary hover:underline">
+              <Link href="/services/hvac-tucson" className="text-primary hover:underline">
                 indoor air quality
               </Link>
               . The education library also discusses energy efficiency ratings. These are, of course, a major concern to anyone who would like to reduce their energy bills and their impact on the environment. Additionally, we recommend checking out our videos on solar-powered air conditioners. These allow you to harness the sun's power to cool your home! Furthermore, we explain the basics of HVAC costs.

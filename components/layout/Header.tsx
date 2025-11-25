@@ -260,7 +260,7 @@ export default function Header() {
 
   const infoSubItems = {
     column1: [
-      { name: "About Us", href: "/about-us", icon: Info },
+      { name: "About Us", href: "/services/why-tucson-chooses-intelligent-design", icon: Info },
       { name: "Financing", href: "/financing", icon: DollarSign },
       { name: "Careers", href: "/careers", icon: Users },
       { name: "Family Protection Plans", href: "/family-protection-plans", icon: ShieldCheck },
@@ -268,7 +268,7 @@ export default function Header() {
     column2: [
       {
         name: "Why Tucson Chooses Intelligent Design",
-        href: "/why-tucson-chooses-intelligent-design",
+        href: "/services/why-tucson-chooses-intelligent-design",
         icon: Star,
         subItems: [
           { name: "Customer Reviews", href: "/customer-reviews", icon: Star },
@@ -283,7 +283,7 @@ export default function Header() {
     column3: [
       {
         name: "Areas We Serve",
-        href: "/areas-served",
+        href: "/service-areas",
         icon: MapPin,
         subItems: [
           { 
@@ -311,7 +311,7 @@ export default function Header() {
           { name: "Sahuarita", href: "/service-areas/sahuarita", icon: MapPin },
           { name: "Vail", href: "/service-areas/vail", icon: MapPin },
           { name: "Green Valley", href: "/service-areas/green-valley", icon: MapPin },
-          { name: "Saddlebrooke / Catalina", href: "/service-areas/saddlebrooke-catalina", icon: MapPin },
+          { name: "Saddlebrooke / Catalina", href: "/service-areas/saddle-brooke-catalina", icon: MapPin },
           { 
             name: "East Tucson", 
             href: "/service-areas/east-tucson", 
@@ -338,7 +338,7 @@ export default function Header() {
           { name: "Air Conditioning System FAQs", href: "/ac-system-faqs", icon: MessageSquare },
           { name: "R22 Phaseout", href: "/r22-phaseout", icon: AlertCircle },
           { name: "Privacy Policy", href: "/privacy-policy", icon: Lock },
-          { name: "Intelligent Design Knowledge Hub", href: "/about-intelligent-design", icon: BookOpen },
+          { name: "Intelligent Design Knowledge Hub", href: "/knowledge-hub", icon: BookOpen },
         ]
       },
     ],

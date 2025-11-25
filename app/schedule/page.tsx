@@ -236,7 +236,7 @@ export default function SchedulePage() {
                   </div>
 
                   <Button asChild variant="outline" className="w-full mt-4">
-                    <Link href="/areas-served">
+                    <Link href="/service-areas">
                       View All Service Areas <ChevronRight className="w-4 h-4 ml-2" />
                     </Link>
                   </Button>
