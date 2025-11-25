@@ -8,23 +8,13 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-background.png"
-          alt="Beautiful Tucson Arizona neighborhood with desert landscaping"
+          src="/images/hero-van.webp"
+          alt="Intelligent Design service van and professional technician at a Tucson Arizona home, providing HVAC, plumbing, solar, electrical, and roofing services"
           className="w-full h-full object-cover"
           loading="eager"
         />
         {/* Left-to-right gradient overlay for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 via-blue-900/70 to-blue-900/30"></div>
-      </div>
-
-      {/* Van Image Overlay - positioned on right side */}
-      <div className="absolute right-0 bottom-0 z-[5] hidden md:block pointer-events-none">
-        <img
-          src="/images/van.png"
-          alt="Intelligent Design service van"
-          className="h-[350px] lg:h-[420px] xl:h-[480px] w-auto object-contain drop-shadow-2xl"
-          loading="eager"
-        />
+        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/85 via-blue-900/50 to-blue-900/10"></div>
       </div>
 
       {/* Content - Positioned on left side */}
