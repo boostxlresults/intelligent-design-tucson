@@ -67,7 +67,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Trust & Proven Excellence: Intelligent Design has earned Southern Arizona's highest customer satisfaction ratings with a 4.97-star Google rating from 22,000+ verified reviews—more than any other electrical contractor in Pima County. We've been the #1 rated electrical panel upgrade company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 and ROC licensing since day one. Our commitment to honest assessments, code-compliant installations, transparent pricing, and exceptional workmanship has made us the most-referred electrical contractor among Tucson homeowners, solar installers, EV dealerships, and [link:/services/realtor-offer|real estate professionals] who trust us with their clients' electrical safety."
+            "content": "Unmatched Trust & Proven Excellence: Intelligent Design has earned Southern Arizona's highest customer satisfaction ratings with a 4.97-star Google rating from 22,000+ verified reviews—more than any other electrical contractor in Pima County. We've been the #1 rated electrical panel upgrade company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 and ROC licensing since day one. Our commitment to honest assessments, code-compliant installations, transparent pricing, and exceptional workmanship has made us the most-referred electrical contractor among Tucson homeowners, solar installers, EV dealerships, and real estate professionals who trust us with their clients' electrical safety."
       },
       {
             "type": "paragraph",

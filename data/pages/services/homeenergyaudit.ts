@@ -273,7 +273,7 @@ export const homeenergyauditData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We inventory all major appliances and equipment that consume significant energy, noting age, type, and estimated efficiency compared to modern standards. Water heaters are evaluated for type (tank vs tankless vs heat pump), age, capacity, insulation, and operating efficiency. Traditional tank water heaters work harder in Tucson's heat and often waste significant energy through standby losses. [link:/services/hybrid-water-heaters-tucson|Heat pump water heaters] can reduce water heating costs by 50-70% compared to electric resistance tank heaters. Pool pumps, common in Tucson homes, often run unnecessarily long hours consuming 2,000-4,000 kWh annually. Variable-speed pumps with smart controls can reduce pool pump energy use by 65-75%."
+            "content": "We inventory all major appliances and equipment that consume significant energy, noting age, type, and estimated efficiency compared to modern standards. Water heaters are evaluated for type (tank vs tankless vs heat pump), age, capacity, insulation, and operating efficiency. Traditional tank water heaters work harder in Tucson's heat and often waste significant energy through standby losses. Heat pump water heaters can reduce water heating costs by 50-70% compared to electric resistance tank heaters. Pool pumps, common in Tucson homes, often run unnecessarily long hours consuming 2,000-4,000 kWh annually. Variable-speed pumps with smart controls can reduce pool pump energy use by 65-75%."
       },
       {
             "type": "paragraph",

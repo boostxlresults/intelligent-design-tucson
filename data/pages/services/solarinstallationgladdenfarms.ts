@@ -586,7 +586,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Go Solar in Gladden Farms?",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy. Call (520) 333-2665 or schedule online. We serve Gladden Farms families with [link:/services/about|45+ years of trusted service].",
+            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy. Call (520) 333-2665 or schedule online. We serve Gladden Farms families with 45+ years of trusted service.",
             "buttonText": "Get Free Consultation",
             "buttonLink": "tel:5203332665"
       },

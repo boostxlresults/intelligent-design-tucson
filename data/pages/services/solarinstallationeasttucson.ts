@@ -643,7 +643,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve East Tucson and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our [link:/services/about|45+ year history] serving Southern Arizona families."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve East Tucson and the greater Tucson area with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Check our [link:/customer-reviews|customer reviews] and learn about our 45+ year history serving Southern Arizona families."
       }
 ]
   },

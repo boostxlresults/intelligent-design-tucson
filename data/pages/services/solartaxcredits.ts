@@ -733,7 +733,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our [link:/services/family-protection-plans|Family Protection Plan]. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/customer-reviews|22,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
+            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our Family Protection Plan. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/customer-reviews|22,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
       },
       {
             "type": "cta",

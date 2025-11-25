@@ -154,7 +154,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Annual savings of $3,744 plus avoided outage costs provide a payback period of 8.0 years. The battery qualifies for the 30% federal tax credit when installed with solar, making this premium system surprisingly affordable. Dr. Chen also benefits from [link:/services/solar-ac|Solar AC integration], using solar power to run her high-efficiency heat pump system installed by our HVAC division."
+            "content": "Annual savings of $3,744 plus avoided outage costs provide a payback period of 8.0 years. The battery qualifies for the 30% federal tax credit when installed with solar, making this premium system surprisingly affordable. Dr. Chen also benefits from Solar AC integration, using solar power to run her high-efficiency heat pump system installed by our HVAC division."
       },
       {
             "type": "testimonial",

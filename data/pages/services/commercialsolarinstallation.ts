@@ -72,7 +72,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our [link:/services/knowledgehub|45+ years serving Tucson] gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our 45+ years serving Tucson gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
       },
       {
             "type": "heading",

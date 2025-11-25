@@ -645,7 +645,7 @@ export const electricalcortaroData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Beyond electrical, Intelligent Design provides complete home and ranch services in Cortaro:\n\n[link:/services/hvac-cortaro|HVAC Services Cortaro] - AC installation, repair, maintenance, heating systems for homes and agricultural buildings\n\n[link:/services/plumbing-cortaro|Plumbing Services Cortaro] - Repairs, water heaters, well pump systems, livestock watering, irrigation\n\n[link:/services/solar-installation-cortaro|Solar Installation Cortaro] - Residential and agricultural solar panel systems, battery storage\n\n[link:/services/roofing-cortaro|Roofing Services Cortaro] - Roof installation, repair, replacement for homes and barns\n\n[link:/services/family-protection-plans|Family Protection Plan] - Comprehensive maintenance protecting all your property systems"
+        "content": "Beyond electrical, Intelligent Design provides complete home and ranch services in Cortaro:\n\n[link:/services/hvac-cortaro|HVAC Services Cortaro] - AC installation, repair, maintenance, heating systems for homes and agricultural buildings\n\n[link:/services/plumbing-cortaro|Plumbing Services Cortaro] - Repairs, water heaters, well pump systems, livestock watering, irrigation\n\n[link:/services/solar-installation-cortaro|Solar Installation Cortaro] - Residential and agricultural solar panel systems, battery storage\n\n[link:/services/roofing-cortaro|Roofing Services Cortaro] - Roof installation, repair, replacement for homes and barns\n\nFamily Protection Plan - Comprehensive maintenance protecting all your property systems"
       },
       {
         "type": "paragraph",

@@ -314,7 +314,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Premium Equipment Upgrades: SunPower Maxeon panels (most efficient, best warranties) add $2,500-$4,000, Tesla Powerwall battery storage (13.5kWh) adds $10,000 ($7,000 after tax credit), Enphase IQ Battery (10kWh) adds $9,000 ($6,300 after tax credit), [link:/services/solar-ac|Solar + AC replacement package] adds $4,000-$8,000 depending on AC size, advanced monitoring systems with cellular backup add $400-$800, and extended workmanship warranties (20 years vs. standard 10 years) add $800-$1,200. All pricing includes complete installation, permitting, HOA approvals, utility interconnection, monitoring systems, and warranties. Green Valley tile roof installations typically add $800-$1,500 due to specialized labor but this protects roof integrity for life of system."
+            "content": "Premium Equipment Upgrades: SunPower Maxeon panels (most efficient, best warranties) add $2,500-$4,000, Tesla Powerwall battery storage (13.5kWh) adds $10,000 ($7,000 after tax credit), Enphase IQ Battery (10kWh) adds $9,000 ($6,300 after tax credit), Solar + AC replacement package adds $4,000-$8,000 depending on AC size, advanced monitoring systems with cellular backup add $400-$800, and extended workmanship warranties (20 years vs. standard 10 years) add $800-$1,200. All pricing includes complete installation, permitting, HOA approvals, utility interconnection, monitoring systems, and warranties. Green Valley tile roof installations typically add $800-$1,500 due to specialized labor but this protects roof integrity for life of system."
       },
       {
             "type": "heading",
@@ -499,7 +499,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "[link:/services/solar-ac|Solar + AC Integration & Optimization]: Maximize cooling savings by integrating solar with high-efficiency AC systems. We offer complete packages replacing aging AC equipment with modern 18-20 SEER units reducing consumption by 30-40%, installing smart thermostats optimizing cooling schedules to match solar production, performing duct sealing eliminating 20-30% energy waste, and sizing solar systems based on optimized loads. Integrated solar + AC installations deliver $2,500-$4,500 annual savings with payback periods of just 5-7 years."
+            "content": "Solar + AC Integration & Optimization: Maximize cooling savings by integrating solar with high-efficiency AC systems. We offer complete packages replacing aging AC equipment with modern 18-20 SEER units reducing consumption by 30-40%, installing smart thermostats optimizing cooling schedules to match solar production, performing duct sealing eliminating 20-30% energy waste, and sizing solar systems based on optimized loads. Integrated solar + AC installations deliver $2,500-$4,500 annual savings with payback periods of just 5-7 years."
       },
       {
             "type": "paragraph",

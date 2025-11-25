@@ -626,7 +626,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Beyond electrical, Intelligent Design provides complete home services in Oro Valley:\n\n[link:/services/hvac-oro-valley|HVAC Services Oro Valley] - AC installation, repair, maintenance, heating systems\n\n[link:/services/plumbing-oro-valley|Plumbing Services Oro Valley] - Repairs, water heaters, drain cleaning, repiping\n\n[link:/services/solar-installation-oro-valley|Solar Installation Oro Valley] - Residential solar panel systems, battery storage\n\n[link:/services/roofing-oro-valley|Roofing Services Oro Valley] - Roof installation, repair, replacement, coating\n\n[link:/services/family-protection-plans|Family Protection Plan] - Comprehensive maintenance protecting all your home systems"
+        "content": "Beyond electrical, Intelligent Design provides complete home services in Oro Valley:\n\n[link:/services/hvac-oro-valley|HVAC Services Oro Valley] - AC installation, repair, maintenance, heating systems\n\n[link:/services/plumbing-oro-valley|Plumbing Services Oro Valley] - Repairs, water heaters, drain cleaning, repiping\n\n[link:/services/solar-installation-oro-valley|Solar Installation Oro Valley] - Residential solar panel systems, battery storage\n\n[link:/services/roofing-oro-valley|Roofing Services Oro Valley] - Roof installation, repair, replacement, coating\n\nFamily Protection Plan - Comprehensive maintenance protecting all your home systems"
       },
       {
         "type": "paragraph",

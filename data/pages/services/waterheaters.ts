@@ -77,7 +77,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's hard water and warm climate create unique considerations for water heater selection and maintenance. Our local expertise helps you navigate these factors to choose a system that performs optimally in Southern Arizona's conditions. Whether you're replacing a failed unit, upgrading for efficiency, installing [link:/services/hybrid-water-heaters-tucson|hybrid heat pump water heaters], or installing in new construction, we provide professional service from initial consultation through installation and ongoing maintenance."
+            "content": "Tucson's hard water and warm climate create unique considerations for water heater selection and maintenance. Our local expertise helps you navigate these factors to choose a system that performs optimally in Southern Arizona's conditions. Whether you're replacing a failed unit, upgrading for efficiency, installing hybrid heat pump water heaters, or installing in new construction, we provide professional service from initial consultation through installation and ongoing maintenance."
       },
       {
             "type": "heading",

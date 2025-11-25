@@ -639,7 +639,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Committed to Tucson's Water Conservation: As a locally-owned company serving this community for 45+ years, we're deeply committed to water conservation in water-scarce Southern Arizona. We actively recommend and install WaterSense certified faucets reducing water consumption by 30% without sacrificing performance, help customers access [link:/services/plumbing-rebates-tucson|Tucson Water rebate programs] offsetting fixture costs, and educate homeowners on water-efficient practices that reduce utility bills while conserving our region's most precious resource. Every low-flow faucet we install saves 500-700 gallons annually—multiply that by thousands of installations over 45 years, and our water conservation impact is genuinely meaningful for Tucson's sustainable future."
+            "content": "Committed to Tucson's Water Conservation: As a locally-owned company serving this community for 45+ years, we're deeply committed to water conservation in water-scarce Southern Arizona. We actively recommend and install WaterSense certified faucets reducing water consumption by 30% without sacrificing performance, help customers access Tucson Water rebate programs offsetting fixture costs, and educate homeowners on water-efficient practices that reduce utility bills while conserving our region's most precious resource. Every low-flow faucet we install saves 500-700 gallons annually—multiply that by thousands of installations over 45 years, and our water conservation impact is genuinely meaningful for Tucson's sustainable future."
       },
       {
             "type": "paragraph",

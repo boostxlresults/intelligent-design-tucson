@@ -712,7 +712,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We offer flexible annual maintenance plans starting at $129/year that ensure your water heater receives professional service every year without you having to remember scheduling. Plan members receive priority service, discounted repair pricing, and extended warranties. We also offer comprehensive [link:/services/family-protection-plans|Family Protection Plans] covering water heater maintenance plus [link:/services/drain-clearing|drain cleaning], plumbing inspections, and priority emergency service for complete whole-home protection."
+            "content": "We offer flexible annual maintenance plans starting at $129/year that ensure your water heater receives professional service every year without you having to remember scheduling. Plan members receive priority service, discounted repair pricing, and extended warranties. We also offer comprehensive Family Protection Plans covering water heater maintenance plus [link:/services/drain-clearing|drain cleaning], plumbing inspections, and priority emergency service for complete whole-home protection."
       },
       {
             "type": "paragraph",

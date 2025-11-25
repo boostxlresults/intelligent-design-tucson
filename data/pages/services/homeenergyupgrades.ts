@@ -188,7 +188,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The results demonstrate the power of integrated energy solutions. Annual electricity costs dropped from $4,600 to just $216 in grid connection fees—a 95% reduction. The efficiency improvements meant they needed 30% less solar capacity, saving $9,800 on the solar installation. Combined federal tax credits (30% solar + HVAC credits) and utility rebates totaled $14,200. Net investment of $24,200 saves $4,384 annually, providing a 5.5-year payback. Over 25 years, projected savings exceed $132,000. The home now has near-zero operating costs while maintaining superior comfort. Integration with our [link:/services/solar-ac|solar AC systems] created the ultimate efficient home."
+            "content": "The results demonstrate the power of integrated energy solutions. Annual electricity costs dropped from $4,600 to just $216 in grid connection fees—a 95% reduction. The efficiency improvements meant they needed 30% less solar capacity, saving $9,800 on the solar installation. Combined federal tax credits (30% solar + HVAC credits) and utility rebates totaled $14,200. Net investment of $24,200 saves $4,384 annually, providing a 5.5-year payback. Over 25 years, projected savings exceed $132,000. The home now has near-zero operating costs while maintaining superior comfort. Integration with our solar AC systems created the ultimate efficient home."
       },
       {
             "type": "testimonial",
@@ -313,7 +313,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Your energy upgrade journey doesn't end at installation—we provide ongoing support to ensure sustained savings. We help you track energy savings through utility bill comparison and analysis, energy monitoring system review and interpretation, seasonal adjustment recommendations, and identification of any performance issues early. Our [link:/services/family-protection-plans|Family Protection Plans] offer scheduled maintenance for all upgraded systems including annual HVAC tune-ups, solar panel cleaning and inspection, electrical system checks, and insulation condition assessment."
+            "content": "Your energy upgrade journey doesn't end at installation—we provide ongoing support to ensure sustained savings. We help you track energy savings through utility bill comparison and analysis, energy monitoring system review and interpretation, seasonal adjustment recommendations, and identification of any performance issues early. Our Family Protection Plans offer scheduled maintenance for all upgraded systems including annual HVAC tune-ups, solar panel cleaning and inspection, electrical system checks, and insulation condition assessment."
       },
       {
             "type": "paragraph",
@@ -381,7 +381,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tankless Water Heater - Upgrading from tank-style to tankless costs $2,500-4,500 and saves 24-34% on water heating energy ($120-260 annually). Payback averages 9-15 years, but benefits include unlimited hot water, space savings, 20+ year lifespan vs. 10-12 for tanks, and eliminated risk of tank failure flooding. Best during planned replacement rather than premature replacement of functioning tank heaters. [link:/services/hybrid-water-heaters-tucson|Hybrid heat pump water heaters] offer even greater efficiency."
+            "content": "Tankless Water Heater - Upgrading from tank-style to tankless costs $2,500-4,500 and saves 24-34% on water heating energy ($120-260 annually). Payback averages 9-15 years, but benefits include unlimited hot water, space savings, 20+ year lifespan vs. 10-12 for tanks, and eliminated risk of tank failure flooding. Best during planned replacement rather than premature replacement of functioning tank heaters. Hybrid heat pump water heaters offer even greater efficiency."
       },
       {
             "type": "heading",
@@ -681,7 +681,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We stand behind our work with comprehensive warranties, ongoing maintenance programs through [link:/services/family-protection-plans|Family Protection Plans], 24/7 emergency service if needed, and performance guarantees on energy savings. Our A+ BBB rating, 22,000+ five-star reviews, and zero unresolved complaints demonstrate our commitment to customer satisfaction. When you choose Intelligent Design, you're partnering with Tucson's most trusted name in home services for energy upgrades that deliver real, verified savings year after year."
+            "content": "We stand behind our work with comprehensive warranties, ongoing maintenance programs through Family Protection Plans, 24/7 emergency service if needed, and performance guarantees on energy savings. Our A+ BBB rating, 22,000+ five-star reviews, and zero unresolved complaints demonstrate our commitment to customer satisfaction. When you choose Intelligent Design, you're partnering with Tucson's most trusted name in home services for energy upgrades that deliver real, verified savings year after year."
       },
       {
             "type": "cta",

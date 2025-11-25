@@ -227,7 +227,7 @@ export const sewercamerainspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Situation: First-time homebuyers fell in love with a charming 1968 home in [link:/services/plumbing-sam-hughes|Sam Hughes] neighborhood, listed at $425,000. Their standard home inspection checked visible plumbing fixtures and water pressure but didn't include sewer line evaluation—most don't. Acting on advice from their realtor who had seen sewer problems cost other clients thousands after closing, they scheduled our pre-purchase sewer camera inspection for $325 before finalizing their offer."
+            "content": "The Situation: First-time homebuyers fell in love with a charming 1968 home in Sam Hughes neighborhood, listed at $425,000. Their standard home inspection checked visible plumbing fixtures and water pressure but didn't include sewer line evaluation—most don't. Acting on advice from their realtor who had seen sewer problems cost other clients thousands after closing, they scheduled our pre-purchase sewer camera inspection for $325 before finalizing their offer."
       },
       {
             "type": "paragraph",
@@ -371,7 +371,7 @@ export const sewercamerainspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Pre-Purchase Home Inspection: Always inspect sewer lines before purchasing any home, especially those built before 1990. Standard home inspections rarely include sewer evaluation, leaving you vulnerable to hidden problems costing $8,000-$25,000 to repair. The $275-$425 inspection cost is trivial insurance against catastrophic discoveries after closing. Sewer problems are deal-breakers for many buyers—discovering them before finalizing offers provides negotiating leverage or allows you to walk away from troubled properties. Homes with large mature trees (mesquite, mulberry, palo verde) within 30 feet of sewer lines have near-certain root intrusion by age 15-20 years, making inspection critical for older properties in tree-rich Tucson neighborhoods like [link:/services/plumbing-sam-hughes|Sam Hughes] and [link:/services/plumbing-catalina-foothills|Catalina Foothills]."
+            "content": "Pre-Purchase Home Inspection: Always inspect sewer lines before purchasing any home, especially those built before 1990. Standard home inspections rarely include sewer evaluation, leaving you vulnerable to hidden problems costing $8,000-$25,000 to repair. The $275-$425 inspection cost is trivial insurance against catastrophic discoveries after closing. Sewer problems are deal-breakers for many buyers—discovering them before finalizing offers provides negotiating leverage or allows you to walk away from troubled properties. Homes with large mature trees (mesquite, mulberry, palo verde) within 30 feet of sewer lines have near-certain root intrusion by age 15-20 years, making inspection critical for older properties in tree-rich Tucson neighborhoods like Sam Hughes and [link:/services/plumbing-catalina-foothills|Catalina Foothills]."
       },
       {
             "type": "paragraph",

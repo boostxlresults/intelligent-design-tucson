@@ -370,7 +370,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Annual Professional Inspection (included with [link:/services/family-protection-plans|Family Protection Plan]): Electrical connections - Tighten any loose connections, inspect for corrosion, and verify proper bonding and grounding. Inverter performance - Check error logs, verify proper operation, and confirm firmware is updated. Panel condition - Inspect for physical damage, check mounting hardware tightness, and verify no shading from tree growth. Racking and flashing - Ensure roof attachments remain watertight, check for any roof damage, and verify storm damage not present. Production analysis - Compare actual vs. expected production, identify any underperforming panels, and recommend optimizations. Safety systems - Test rapid shutdown systems, verify proper operation of all disconnects, and confirm monitoring communications."
+        "content": "Annual Professional Inspection (included with Family Protection Plan): Electrical connections - Tighten any loose connections, inspect for corrosion, and verify proper bonding and grounding. Inverter performance - Check error logs, verify proper operation, and confirm firmware is updated. Panel condition - Inspect for physical damage, check mounting hardware tightness, and verify no shading from tree growth. Racking and flashing - Ensure roof attachments remain watertight, check for any roof damage, and verify storm damage not present. Production analysis - Compare actual vs. expected production, identify any underperforming panels, and recommend optimizations. Safety systems - Test rapid shutdown systems, verify proper operation of all disconnects, and confirm monitoring communications."
       },
       {
         "type": "paragraph",
@@ -531,11 +531,11 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "[link:/services/solar-ac|Solar + AC Integration] - Maximize cooling savings by combining solar with high-efficiency AC systems. We size solar to offset peak summer cooling loads, install variable-speed AC units reducing consumption 30-40%, program smart thermostats maximizing solar self-consumption, and integrate battery storage enabling evening solar-powered cooling. Perfect for Vail's extreme summer temperatures where AC represents 50-70% of summer electric bills."
+        "content": "Solar + AC Integration - Maximize cooling savings by combining solar with high-efficiency AC systems. We size solar to offset peak summer cooling loads, install variable-speed AC units reducing consumption 30-40%, program smart thermostats maximizing solar self-consumption, and integrate battery storage enabling evening solar-powered cooling. Perfect for Vail's extreme summer temperatures where AC represents 50-70% of summer electric bills."
       },
       {
         "type": "paragraph",
-        "content": "Solar + Battery Storage Systems - Add energy independence with battery backup. [link:/services/solar-ac|Tesla Powerwall] (13.5kWh), Enphase IQ Battery (10-40+kWh modular), and LG Chem systems provide backup power during Vail's 15-25 annual monsoon outages, evening solar consumption vs. grid power, time-of-use optimization, and increased solar self-consumption from 35% to 85%. Battery systems qualify for 30% federal tax credit when installed with solar."
+        "content": "Solar + Battery Storage Systems - Add energy independence with battery backup. Tesla Powerwall (13.5kWh), Enphase IQ Battery (10-40+kWh modular), and LG Chem systems provide backup power during Vail's 15-25 annual monsoon outages, evening solar consumption vs. grid power, time-of-use optimization, and increased solar self-consumption from 35% to 85%. Battery systems qualify for 30% federal tax credit when installed with solar."
       },
       {
         "type": "paragraph",
@@ -561,7 +561,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Beyond solar installation, Intelligent Design provides complete home comfort services throughout Vail: [link:/services/hvac-vail|HVAC Services] including AC installation, repair, and maintenance, furnace and heating services, [link:/services/duct-sealing-tucson|duct cleaning and sealing], and [link:/services/indoor-air-quality-tucson|indoor air quality] solutions. [link:/services/electrical-vail|Electrical Services] including panel upgrades, whole-home surge protection, ceiling fan installation, and lighting upgrades. [link:/services/plumbing-vail|Plumbing Services] including water heater installation, drain cleaning, leak detection, and water filtration systems. Our [link:/services/family-protection-plans|Family Protection Plans] include annual HVAC maintenance, plumbing inspections, solar system checks, and priority service ensuring your entire home operates efficiently year-round."
+        "content": "Beyond solar installation, Intelligent Design provides complete home comfort services throughout Vail: [link:/services/hvac-vail|HVAC Services] including AC installation, repair, and maintenance, furnace and heating services, [link:/services/duct-sealing-tucson|duct cleaning and sealing], and [link:/services/indoor-air-quality-tucson|indoor air quality] solutions. [link:/services/electrical-vail|Electrical Services] including panel upgrades, whole-home surge protection, ceiling fan installation, and lighting upgrades. [link:/services/plumbing-vail|Plumbing Services] including water heater installation, drain cleaning, leak detection, and water filtration systems. Our Family Protection Plans include annual HVAC maintenance, plumbing inspections, solar system checks, and priority service ensuring your entire home operates efficiently year-round."
       },
       {
         "type": "heading",

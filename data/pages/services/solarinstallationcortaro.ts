@@ -653,7 +653,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Cortaro and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Review our [link:/services/about|45+ year history] serving Southern Arizona families with integrity and excellence."
+            "content": "Visit us at 1145 E Fort Lowell Rd, Tucson, AZ 85719 or call (520) 333-2665. We proudly serve Cortaro and greater Tucson with comprehensive solar, [link:/services/hvac-tucson|HVAC], [link:/services/electrical-panel-upgrades|electrical], and [link:/services/roofing-tucson|roofing] services. Review our 45+ year history serving Southern Arizona families with integrity and excellence."
       }
 ]
   },
