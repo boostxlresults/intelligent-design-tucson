@@ -44,10 +44,6 @@ export default function AccessibilityToggle() {
     applyAccessibilitySettings(defaultSettings);
   };
 
-  const handleFontSizeChange = (size: 100 | 125 | 150) => {
-    updateSettings({ fontSize: size });
-  };
-
   // Don't render until mounted to avoid hydration issues
   if (!mounted) {
     return null;
@@ -97,43 +93,6 @@ export default function AccessibilityToggle() {
             </CardHeader>
 
             <CardContent className="space-y-6">
-              {/* Font Size Control */}
-              <div className="space-y-3">
-                <Label className="flex items-center gap-2 text-base font-semibold">
-                  <Type className="w-5 h-5" />
-                  Font Size
-                </Label>
-                <div className="flex gap-2">
-                  <Button
-                    variant={settings.fontSize === 100 ? 'default' : 'outline'}
-                    size="sm"
-                    onClick={() => handleFontSizeChange(100)}
-                    className="flex-1"
-                    data-testid="button-font-size-100"
-                  >
-                    Normal
-                  </Button>
-                  <Button
-                    variant={settings.fontSize === 125 ? 'default' : 'outline'}
-                    size="sm"
-                    onClick={() => handleFontSizeChange(125)}
-                    className="flex-1"
-                    data-testid="button-font-size-125"
-                  >
-                    125%
-                  </Button>
-                  <Button
-                    variant={settings.fontSize === 150 ? 'default' : 'outline'}
-                    size="sm"
-                    onClick={() => handleFontSizeChange(150)}
-                    className="flex-1"
-                    data-testid="button-font-size-150"
-                  >
-                    150%
-                  </Button>
-                </div>
-              </div>
-
               {/* High Contrast Toggle */}
               <div className="space-y-3">
                 <Label className="flex items-center gap-2 text-base font-semibold">
