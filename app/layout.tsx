@@ -10,7 +10,6 @@ import ContractorCommercePlugin from "@/components/integrations/ContractorCommer
 import HatchChat from "@/components/integrations/HatchChat";
 import CookieConsent from "@/components/integrations/CookieConsent";
 import { Toaster } from "@/components/ui/toaster";
-import AccessibilityToggle from "@/components/content/AccessibilityToggle";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -56,7 +55,6 @@ export default function RootLayout({
         <Footer />
         <MobileFloatingActions />
         <CookieConsent />
-        <AccessibilityToggle />
         <Toaster />
       </body>
     </html>
