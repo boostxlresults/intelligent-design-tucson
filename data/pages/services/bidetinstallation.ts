@@ -200,7 +200,7 @@ export const bidetinstallationData: ServicePageData = {
             "heading": "Ready to Upgrade Your Bathroom with a Bidet?",
             "content": "Get your free consultation with honest product recommendations and transparent pricing. Same-day installation available for most electronic bidet seats. Enjoy superior hygiene, reduce toilet paper costs 75-100%, and benefit from modern comfort features. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -693,7 +693,7 @@ export const bidetinstallationData: ServicePageData = {
             "heading": "Schedule Your Bidet Installation Consultation Today",
             "content": "Discover superior hygiene, dramatic toilet paper savings, and modern bathroom comfort with professional bidet installation. Our licensed plumbers provide honest recommendations, expert installation, and comprehensive training. Same-day service available. Call (520) 333-2665 or schedule online now for your free consultation.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

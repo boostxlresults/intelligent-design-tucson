@@ -77,7 +77,7 @@ export const hvaccasasadobesData: ServicePageData = {
             "heading": "Need AC Service in Casas Adobes Today?",
             "content": "Get fast, expert service from Tucson's highest-rated HVAC company. Call (520) 333-2665 or schedule online for same-day service in Casas Adobes.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -638,7 +638,7 @@ export const hvaccasasadobesData: ServicePageData = {
             "heading": "Ready to Experience the Intelligent Design Difference?",
             "content": "Join thousands of satisfied Casas Adobes families who trust Intelligent Design for complete HVAC solutions. Call (520) 333-2665 or schedule online for same-day service from Tucson's highest-rated HVAC company.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

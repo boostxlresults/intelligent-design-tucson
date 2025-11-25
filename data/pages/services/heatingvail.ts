@@ -77,7 +77,7 @@ export const heatingvailData: ServicePageData = {
             "heading": "Need Heating Service in Vail Today?",
             "content": "Get fast, expert service from Vail's most trusted heating company. Call (520) 333-2665 or schedule online for same-day service to rural properties.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -376,7 +376,7 @@ export const heatingvailData: ServicePageData = {
             "heading": "Ready to Upgrade Your Vail Heating System?",
             "content": "Get a free, no-obligation assessment and detailed quote for your Vail property. Our heating specialists provide honest recommendations, transparent pricing, and comprehensive incentive analysis. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -473,7 +473,7 @@ export const heatingvailData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference for Your Vail Home",
             "content": "For 45+ years, Vail families have trusted Intelligent Design for expert heating solutions delivering comfort, efficiency, and reliability. Our specialized experience with rural properties, larger homes, and Vail's unique climate ensures you receive heating systems perfectly matched to your needs. Call (520) 333-2665 for immediate service or schedule online for a comprehensive heating assessment.",
             "buttonText": "Call for Expert Heating Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -550,7 +550,7 @@ export const heatingvailData: ServicePageData = {
             "heading": "Ready to Schedule Your Free Vail Heating Assessment?",
             "content": "Contact Intelligent Design today for expert heating service from Vail's most trusted HVAC company. Call (520) 333-2665 for immediate scheduling or click below to book online. Our NATE-certified technicians are ready to deliver the comfort, efficiency, and reliability your Vail home deserves.",
             "buttonText": "Schedule Your Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -577,7 +577,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
             "heading": "Ready to Experience the Intelligent Design Difference?",
             "content": "Join hundreds of satisfied Corona de Tucson property owners who trust Intelligent Design for complete electrical solutions. Call (520) 333-2665 or schedule online for same-day service from Tucson's highest-rated electrical contractor.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

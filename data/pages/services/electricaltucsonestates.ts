@@ -75,7 +75,7 @@ export const electricaltucsonestatesData: ServicePageData = {
             "heading": "Need Electrical Service in Tucson Estates Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving Tucson Estates families since 1979. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -248,7 +248,7 @@ export const electricaltucsonestatesData: ServicePageData = {
             "heading": "Ready to Upgrade Your Tucson Estates Home Electrical System?",
             "content": "Contact Southern Arizona's most trusted electrical company serving family homes since 1979. Expert panel upgrades, electrical rewiring, generator installation, EV charger installation, and complete electrical solutions. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Get Started Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -408,7 +408,7 @@ export const electricaltucsonestatesData: ServicePageData = {
             "heading": "Schedule Your Tucson Estates Electrical Service Today",
             "content": "Professional electrical service you can trust. Expert diagnostics, honest recommendations, quality workmanship, and transparent pricing. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Get Started",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -531,7 +531,7 @@ export const electricaltucsonestatesData: ServicePageData = {
             "heading": "Ready to Invest in Your Tucson Estates Home?",
             "content": "Get transparent pricing and honest recommendations from Southern Arizona's most trusted electrical company. Free detailed estimates. Flexible financing options available. Call (520) 333-2665 for your electrical consultation.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -598,7 +598,7 @@ export const electricaltucsonestatesData: ServicePageData = {
             "heading": "Explore Financing Options for Your Electrical Project",
             "content": "Don't delay critical electrical safety improvements or valuable home upgrades due to cost concerns. Our financing specialists help you find affordable payment options. Call (520) 333-2665 to discuss your project and explore financing.",
             "buttonText": "Learn About Financing",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

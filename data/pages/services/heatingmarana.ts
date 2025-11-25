@@ -77,7 +77,7 @@ export const heatingmaranaData: ServicePageData = {
             "heading": "Need Heating Service in Marana Today?",
             "content": "Get fast, expert service from Marana's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -300,7 +300,7 @@ export const heatingmaranaData: ServicePageData = {
             "heading": "Ready to Choose Your Perfect Heating System?",
             "content": "Schedule a free consultation with Marana's heating experts. We'll assess your home, explain your options, and provide honest recommendations. Call (520) 333-2665 today.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -393,7 +393,7 @@ export const heatingmaranaData: ServicePageData = {
             "heading": "Get Your Personalized Heating System Proposal & ROI Analysis",
             "content": "We'll assess your home, calculate exact costs, show available incentives, and provide detailed ROI analysis. Call (520) 333-2665 to schedule your free consultation.",
             "buttonText": "Get Free Proposal",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -434,7 +434,7 @@ export const heatingmaranaData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join 9,500+ satisfied Marana families who trust us with their home comfort. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -601,7 +601,7 @@ export const heatingmaranaData: ServicePageData = {
             "heading": "Protect Your Heating Investment Today",
             "content": "Enroll in our Family Protection Plan for priority service, comprehensive coverage, and guaranteed peace of mind. Call (520) 333-2665 or enroll online.",
             "buttonText": "Enroll Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

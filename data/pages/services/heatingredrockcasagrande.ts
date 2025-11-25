@@ -69,7 +69,7 @@ export const heatingredrockcasagrandeData: ServicePageData = {
         "heading": "Need Heating Service in Red Rock / Casa Grande Today?",
         "content": "Get fast, expert service from licensed HVAC technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const heatingredrockcasagrandeData: ServicePageData = {
         "heading": "Schedule Your Fall Heating Tune-Up Today",
         "content": "Ensure reliable heating when temperatures drop. Our comprehensive tune-ups prevent breakdowns and improve efficiency. Call (520) 333-2665 to schedule.",
         "buttonText": "Book Maintenance",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const heatingredrockcasagrandeData: ServicePageData = {
         "heading": "Upgrade Your Red Rock / Casa Grande Home's Heating System",
         "content": "From furnace replacements to smart thermostats, we deliver reliable heating solutions. Call (520) 333-2665 for expert service today.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

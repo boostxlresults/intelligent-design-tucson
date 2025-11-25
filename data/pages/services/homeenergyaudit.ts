@@ -105,7 +105,7 @@ export const homeenergyauditData: ServicePageData = {
             "heading": "Schedule Your Comprehensive Energy Audit Today",
             "content": "Stop wasting energy and money. Discover exactly where your home loses efficiency and get a clear roadmap to save 25-40% on utility bills. Professional energy audit with detailed written report and prioritized recommendations. Call (520) 333-2665 or schedule online now. Flexible [link:/financing|financing options] available for recommended improvements.",
             "buttonText": "Schedule Audit",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -714,7 +714,7 @@ export const homeenergyauditData: ServicePageData = {
             "heading": "Get Your Comprehensive Home Energy Audit Today",
             "content": "Stop wasting money on high energy bills and start saving 25-40% with a professional energy audit. Advanced diagnostic testing, detailed written report, prioritized recommendations with ROI analysis, and complete implementation support. Schedule your audit now and receive credit toward any implemented improvements. Call (520) 333-2665 or book online. Flexible [link:/financing|financing available] for recommended improvements.",
             "buttonText": "Schedule Energy Audit",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

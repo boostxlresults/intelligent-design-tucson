@@ -69,7 +69,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
         "heading": "Need Electrical Services in Catalina Foothills Today?",
         "content": "Get fast, expert service from licensed technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -142,7 +142,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
         "heading": "Ready to Upgrade Your Catalina Foothills Home's Electrical System?",
         "content": "Our licensed electricians provide expert panel upgrades, EV charger installation, and smart home integration. Call (520) 333-2665 for a free consultation.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -219,7 +219,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
         "heading": "Planning a Catalina Foothills Home Renovation?",
         "content": "Get expert electrical planning and installation from licensed professionals. We coordinate with contractors and designers for seamless remodels. Call (520) 333-2665 today.",
         "buttonText": "Schedule Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

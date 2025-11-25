@@ -76,7 +76,7 @@ export const waterleakrepairData: ServicePageData = {
             "heading": "Need Emergency Water Leak Repair?",
             "content": "We're available 24/7 for water leak emergencies. Don't let water damage destroy your home! Call (520) 333-2665 or schedule online now.",
             "buttonText": "Call For Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -751,7 +751,7 @@ export const waterleakrepairData: ServicePageData = {
             "heading": "Schedule Your Water Leak Detection & Repair",
             "content": "Don't let water leaks damage your home. Call (520) 333-2665 for 24/7 emergency service or schedule convenient leak detection inspection online now.",
             "buttonText": "Schedule Leak Detection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "paragraph",

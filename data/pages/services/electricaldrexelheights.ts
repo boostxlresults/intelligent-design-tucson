@@ -75,7 +75,7 @@ export const electricaldrexelheightsData: ServicePageData = {
         "heading": "Need Electrical Service in Drexel Heights Today?",
         "content": "Get fast, expert service from licensed electricians who know Drexel Heights homes. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -356,7 +356,7 @@ export const electricaldrexelheightsData: ServicePageData = {
         "heading": "Ready to Upgrade Your Drexel Heights Home's Electrical System?",
         "content": "Get honest recommendations, transparent pricing, and expert service from Drexel Heights' most trusted electrician. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

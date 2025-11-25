@@ -68,7 +68,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Need Roofing Services in Saddle Brooke / Catalina Today?",
         "content": "Get professional service from licensed roofing specialists who understand senior community needs. Call (520) 333-2665 for your free roof inspection.",
         "buttonText": "Schedule Free Inspection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -127,7 +127,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Ready to Protect Your Home with a Quality Roof?",
         "content": "From inspections to repairs and complete replacement, our senior-friendly roofing services protect your investment. Call (520) 333-2665 today.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -190,7 +190,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Protect Your Saddle Brooke / Catalina Home Today",
         "content": "Professional roofing services designed for active adult communities. Call (520) 333-2665 for your free roof inspection and estimate.",
         "buttonText": "Call Now for Free Inspection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

@@ -80,7 +80,7 @@ export const ductcleaningData: ServicePageData = {
             "heading": "Schedule Your Duct Cleaning Today",
             "content": "Improve your indoor air quality and HVAC efficiency with professional duct cleaning. Same-day service available. Call (520) 333-2665 or schedule online now. Flexible financing options available through approved credit.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -327,7 +327,7 @@ export const ductcleaningData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Schedule your professional duct cleaning service today and breathe cleaner, healthier air tomorrow. Same-day service available throughout Tucson. Call (520) 333-2665 or book online now.",
             "buttonText": "Schedule Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -604,7 +604,7 @@ export const ductcleaningData: ServicePageData = {
             "heading": "Invest in Your Home's Air Quality Today",
             "content": "Schedule professional duct cleaning and start enjoying cleaner air, lower energy bills, and better health tomorrow. Flexible financing options available through approved credit. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Get Started",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -685,7 +685,7 @@ export const ductcleaningData: ServicePageData = {
             "heading": "Schedule Your Duct Cleaning Service Today",
             "content": "Join over 85,000 satisfied Tucson families who trust Intelligent Design for superior indoor air quality. Same-day service available. Call (520) 333-2665 to schedule your professional duct cleaning, or book online in just minutes. Breathe easier tomorrow—schedule today!",
             "buttonText": "Schedule Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

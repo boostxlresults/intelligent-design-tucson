@@ -76,7 +76,7 @@ export const solarinstallationmaranaData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar?",
             "content": "Get your free solar consultation and custom quote from Marana's highest-rated solar company. Call (520) 333-2665 or schedule online for fast, expert service.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -349,7 +349,7 @@ export const solarinstallationmaranaData: ServicePageData = {
             "heading": "Start Your Solar Journey Today",
             "content": "Join 1,200+ Marana families already saving with solar. Get your free consultation and custom quote from Marana's highest-rated solar company.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -614,7 +614,7 @@ export const solarinstallationmaranaData: ServicePageData = {
             "heading": "Ready to Join 1,200+ Marana Solar Homeowners?",
             "content": "Start saving with clean, renewable solar energy. Get your free consultation and detailed quote from Marana's most trusted solar company. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -77,7 +77,7 @@ export const solarinstallationvailData: ServicePageData = {
         "heading": "Ready to Start Saving with Solar in Vail?",
         "content": "Get your free solar consultation and custom quote from Vail's highest-rated solar company. Call (520) 333-2665 or schedule online for same-day service. Average 73-minute response time guaranteed.",
         "buttonText": "Get Free Solar Quote",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -256,7 +256,7 @@ export const solarinstallationvailData: ServicePageData = {
         "heading": "Start Your Solar Journey Today",
         "content": "Schedule your free consultation with Vail's most trusted solar company. 73-minute average response time. Same-day quotes. NABCEP-certified installers. Call (520) 333-2665 now.",
         "buttonText": "Schedule Free Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -385,7 +385,7 @@ export const solarinstallationvailData: ServicePageData = {
         "heading": "Professional Solar Maintenance in Vail",
         "content": "Keep your solar investment performing optimally with professional maintenance from Intelligent Design. Annual inspections, panel cleaning, and monitoring. Call (520) 333-2665 to schedule.",
         "buttonText": "Schedule Maintenance",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -616,7 +616,7 @@ export const solarinstallationvailData: ServicePageData = {
         "heading": "Get Your Free Solar Quote",
         "content": "Professional solar installation in Vail, AZ. NABCEP certified installers. 30% federal tax credit. $0 down financing. 22,000+ 5-star reviews. Call (520) 333-2665 now.",
         "buttonText": "Call (520) 333-2665",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

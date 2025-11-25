@@ -103,7 +103,7 @@ export const ductsealingData: ServicePageData = {
             "heading": "Schedule Your Duct Sealing Consultation Today",
             "content": "Stop wasting energy and money on leaking ducts. Get verified 20-30% energy savings with professional duct sealing. Free consultation and detailed leak assessment. Call (520) 333-2665 or schedule online now. Flexible [link:/financing|financing options] available through approved credit.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -656,7 +656,7 @@ export const ductsealingData: ServicePageData = {
             "heading": "Get Your Free Duct Sealing Assessment & ROI Analysis",
             "content": "Discover how much you could save with professional duct sealing. We'll provide detailed leak testing, energy savings projections, and personalized ROI analysis showing your specific payback period. Call (520) 333-2665 or schedule online now. Ask about our [link:/financing|financing options] with payments lower than your current energy waste.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

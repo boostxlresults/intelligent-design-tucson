@@ -82,7 +82,7 @@ export const hvacsahuaritaData: ServicePageData = {
             "heading": "Need HVAC Service in Sahuarita Today?",
             "content": "Get fast, expert service from Sahuarita's highest-rated HVAC company. Average 62-minute arrival time. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -220,7 +220,7 @@ export const hvacsahuaritaData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join thousands of satisfied Sahuarita families enjoying superior comfort, efficiency, and service. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Schedule Your Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -647,7 +647,7 @@ export const hvacsahuaritaData: ServicePageData = {
             "heading": "HVAC Emergency? We're Here to Help 24/7",
             "content": "Don't suffer through HVAC emergencies. Call (520) 333-2665 now for immediate dispatch and expert service any time, day or night. Average 75-90 minute response throughout Sahuarita.",
             "buttonText": "Call Emergency Line Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -696,7 +696,7 @@ export const hvacsahuaritaData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference Today",
             "content": "Join 9,800+ satisfied Sahuarita families who trust Intelligent Design for superior HVAC service, comfort, and value. Call (520) 333-2665 or schedule online for fast, expert service with our 100% satisfaction guarantee.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

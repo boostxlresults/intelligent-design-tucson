@@ -77,7 +77,7 @@ export const heatingtucsonData: ServicePageData = {
             "heading": "Need Heating Service Today?",
             "content": "Get fast, expert service from Tucson's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -628,7 +628,7 @@ export const heatingtucsonData: ServicePageData = {
             "heading": "Ready to Upgrade Your Tucson Heating System?",
             "content": "Get your free in-home assessment with detailed ROI analysis and transparent pricing. Discover how much you can save with high-efficiency heating. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Get Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -665,7 +665,7 @@ export const heatingtucsonData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join 85,000+ satisfied Tucson homeowners who trust Intelligent Design for expert heating services. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -80,7 +80,7 @@ export const commercialroofinspectionData: ServicePageData = {
             "heading": "Schedule Your Commercial Roof Inspection Today",
             "content": "Protect your commercial investment with comprehensive professional roof assessment. Our inspection specialists respond within 2-8 hours and deliver detailed digital reports within 24 hours. Free basic visual inspections available. Call (520) 333-2665 now or schedule online.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -218,7 +218,7 @@ export const commercialroofinspectionData: ServicePageData = {
             "heading": "Get Professional Roof Assessment Before Problems Become Emergencies",
             "content": "Whether you're purchasing property, managing assets, or responding to storm damage, professional commercial roof inspection protects your investment. Our inspection specialists deliver comprehensive assessments with detailed reporting within 24 hours. Call (520) 333-2665 for same-day inspection scheduling.",
             "buttonText": "Schedule Inspection Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -415,7 +415,7 @@ export const commercialroofinspectionData: ServicePageData = {
             "heading": "Protect Your Commercial Investment With Professional Roof Inspection",
             "content": "Stop gambling with reactive-only roof maintenance. Our comprehensive inspection programs deliver documented 4-6X ROI through prevented emergencies, extended roof life, and optimized capital planning. Schedule your first inspection today and start protecting your commercial investment. Call (520) 333-2665 now.",
             "buttonText": "Start Preventive Program",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -638,7 +638,7 @@ export const commercialroofinspectionData: ServicePageData = {
             "heading": "Schedule Your Commercial Roof Inspection Today",
             "content": "Protect your commercial property investment with comprehensive professional roof assessment from Tucson's most trusted commercial roofing contractor. Our inspection specialists deliver detailed reports within 24 hours with actionable recommendations protecting your building. Call (520) 333-2665 now or schedule online for fast response.",
             "buttonText": "Call For Free Inspection Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

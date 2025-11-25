@@ -77,7 +77,7 @@ export const heatingorovalleyData: ServicePageData = {
             "heading": "Need Heating Service in Oro Valley Today?",
             "content": "Get fast, expert service from Oro Valley's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -422,7 +422,7 @@ export const heatingorovalleyData: ServicePageData = {
             "heading": "Ready to Upgrade Your Oro Valley Heating System?",
             "content": "Schedule your free in-home assessment and customized proposal from Oro Valley's heating experts. We'll analyze your specific home, calculate exact savings, and identify all available incentives. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -649,7 +649,7 @@ export const heatingorovalleyData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join 12,000+ satisfied Oro Valley families who trust Intelligent Design for expert heating service. Call (520) 333-2665 for same-day service or schedule your free heating assessment online.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

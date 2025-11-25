@@ -76,7 +76,7 @@ export const residentialroofinspectionData: ServicePageData = {
             "heading": "Schedule Your Professional Roof Inspection Today",
             "content": "Protect your home investment with comprehensive professional roof assessment. Our certified inspectors respond within 68 minutes for urgent requests and deliver detailed digital reports within 24 hours. Free inspections with repair approval. Call (520) 333-2665 now or schedule online for same-day or next-day service.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -443,7 +443,7 @@ export const residentialroofinspectionData: ServicePageData = {
             "heading": "Invest in Professional Roof Inspection Today",
             "content": "Protect your home with expert roof assessment providing peace of mind and financial returns averaging 6:1 to 10:1 over ownership period. Our certified inspectors deliver comprehensive reports within 24 hours. Free inspection with approved repairs. Schedule same-day or next-day service now.",
             "buttonText": "Schedule Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -674,7 +674,7 @@ export const residentialroofinspectionData: ServicePageData = {
             "heading": "Schedule Your Expert Roof Inspection Now",
             "content": "Get comprehensive professional roof assessment protecting your Tucson home. Our certified inspectors respond within 68 minutes for urgent requests. Detailed digital reports delivered within 24 hours. Free inspection with approved repairs. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

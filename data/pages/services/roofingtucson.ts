@@ -76,7 +76,7 @@ export const roofingtucsonData: ServicePageData = {
             "heading": "Need Roofing Service Today?",
             "content": "Get fast, expert service from Tucson's highest-rated roofing company. Call (520) 333-2665 or schedule online for same-day emergency service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

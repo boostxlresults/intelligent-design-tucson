@@ -84,7 +84,7 @@ export const waterheaterinstallationData: ServicePageData = {
             "heading": "Need a New Water Heater Installed?",
             "content": "Get your free in-home consultation with expert sizing and transparent pricing. Same-day installation available for emergencies. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "cta",
@@ -210,7 +210,7 @@ export const waterheaterinstallationData: ServicePageData = {
             "heading": "Ready for Professional Water Heater Installation?",
             "content": "Join thousands of satisfied Tucson homeowners who trust Intelligent Design for expert water heater installation. Free consultation, same-day service available, and [link:/services/financing|flexible financing options]. Call (520) 333-2665 now.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -663,7 +663,7 @@ export const waterheaterinstallationData: ServicePageData = {
             "heading": "Schedule Your Free Water Heater Installation Consultation Today",
             "content": "Contact Tucson's most trusted water heater installation company for honest expert advice, transparent pricing, and professional installation. Same-day emergency service available. Call (520) 333-2665 now or schedule your free consultation online.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -722,7 +722,7 @@ export const waterheaterinstallationData: ServicePageData = {
             "heading": "Ready to Install Your New Water Heater?",
             "content": "Join over 85,000 satisfied Tucson families who trust Intelligent Design for expert water heater installation. Free consultation, honest sizing, professional installation, comprehensive warranties. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

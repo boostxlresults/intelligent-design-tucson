@@ -78,7 +78,7 @@ export const rooterspecialData: ServicePageData = {
             "heading": "Schedule Your $28.88 Rooter Special Today",
             "content": "Don't let clogged drains disrupt your day. Professional rooter service with same-day availability. Call (520) 333-2665 or schedule online now. Limited time $28.88 special for standard residential drain clearing. Flexible financing available through approved credit.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -639,7 +639,7 @@ export const rooterspecialData: ServicePageData = {
             "heading": "Schedule Your Rooter Service Today",
             "content": "Don't let clogged drains disrupt your home. Professional rooter service with same-day availability and our $28.88 special for standard clogs. Call (520) 333-2665 or schedule online now. Licensed, experienced plumbers ready to solve your drain problems quickly and effectively.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
     ]
   },

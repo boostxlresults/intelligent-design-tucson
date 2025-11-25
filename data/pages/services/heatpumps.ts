@@ -80,7 +80,7 @@ export const heatpumpsData: ServicePageData = {
             "heading": "Need Heat Pump Service Fast?",
             "content": "Same-day service available. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -193,7 +193,7 @@ export const heatpumpsData: ServicePageData = {
             "heading": "Ready to Switch to Heat Pump Efficiency?",
             "content": "Get your free in-home consultation and estimate. Call (520) 333-2665 or book online.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -568,7 +568,7 @@ export const heatpumpsData: ServicePageData = {
             "heading": "Need Heat Pump Repair or Replacement Guidance?",
             "content": "Our experts provide honest assessments and transparent pricing. Call (520) 333-2665 for service.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

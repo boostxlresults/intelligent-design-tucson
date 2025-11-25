@@ -78,7 +78,7 @@ export const hvacgreenvalleyData: ServicePageData = {
             "heading": "Need Reliable HVAC Service Today?",
             "content": "Get fast, honest service from Green Valley's most trusted HVAC company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -532,7 +532,7 @@ export const hvacgreenvalleyData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join 8,500+ satisfied Green Valley neighbors who trust us for reliable, honest HVAC service. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -641,7 +641,7 @@ export const hvacgreenvalleyData: ServicePageData = {
             "heading": "Get Personalized HVAC Solutions for Your Green Valley Home",
             "content": "Every Green Valley home is unique. Get expert evaluation and tailored recommendations addressing your specific needs, budget, and goals. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Evaluation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

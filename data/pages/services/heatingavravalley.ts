@@ -262,7 +262,7 @@ export const heatingavravalleyData: ServicePageData = {
             "heading": "Ready for Expert Heating Service in Avra Valley?",
             "content": "Don't wait for your next heating emergency. Call (520) 333-2665 for same-day service or schedule online. 24/7 emergency service available.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "howto",

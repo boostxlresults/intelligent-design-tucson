@@ -80,7 +80,7 @@ export const outletsswitchesData: ServicePageData = {
         "heading": "Ready to Upgrade Your Outlets & Switches?",
         "content": "Our licensed electricians install modern, safe outlets and switches that enhance your home's safety, convenience, and value. Same-day appointments available. Call now for upfront pricing.",
         "buttonText": "Schedule Outlet Installation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -464,7 +464,7 @@ export const outletsswitchesData: ServicePageData = {
         "heading": "Get Your Free Outlet & Switch Installation Estimate",
         "content": "Our licensed electricians provide detailed estimates with upfront pricing and no hidden fees. Same-day appointments available. Enhance your home's safety, convenience, and value with professional outlet and switch installation.",
         "buttonText": "Request Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -635,7 +635,7 @@ export const outletsswitchesData: ServicePageData = {
         "heading": "Schedule Your Professional Outlet & Switch Installation Today",
         "content": "Don't risk electrical fires, shocks, or failed DIY installations. Our licensed electricians provide code-compliant outlet and switch installation backed by warranties and guaranteed satisfaction. Same-day appointments available—call now for upfront pricing and expert service.",
         "buttonText": "Call For Installation Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

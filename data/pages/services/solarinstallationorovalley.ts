@@ -146,7 +146,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
             "heading": "Ready to Go Solar in Oro Valley?",
             "content": "Get your free solar consultation and custom quote from Oro Valley's highest-rated solar company. Call (520) 333-2665 or schedule online for fast, expert service.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -360,7 +360,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
             "heading": "Start Your Solar Journey Today",
             "content": "Experience Oro Valley's most comprehensive solar installation process. From consultation through decades of ongoing support, we're with you every step. Call (520) 333-2665 for your free consultation.",
             "buttonText": "Schedule Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -507,7 +507,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
             "heading": "Get Your Custom Oro Valley Solar Proposal",
             "content": "Every Oro Valley home is unique. Get your detailed solar analysis showing exact costs, production projections, and personalized ROI based on your specific home and energy needs. Call (520) 333-2665 for free consultation.",
             "buttonText": "Schedule Free Analysis",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

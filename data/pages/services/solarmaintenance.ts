@@ -80,7 +80,7 @@ export const solarmaintenanceData: ServicePageData = {
             "heading": "Schedule Professional Solar Maintenance Today",
             "content": "Maximize your solar production and protect your investment with expert maintenance. Professional cleaning restores 15-25% lost efficiency. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Maintenance",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -519,7 +519,7 @@ export const solarmaintenanceData: ServicePageData = {
             "heading": "Protect Your Solar Investment with Professional Maintenance",
             "content": "Expert cleaning restores 15-25% lost production. Comprehensive inspections prevent failures. Warranty compliance documentation. Schedule your Tucson solar maintenance today. Call (520) 333-2665 for immediate service.",
             "buttonText": "Get Started",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

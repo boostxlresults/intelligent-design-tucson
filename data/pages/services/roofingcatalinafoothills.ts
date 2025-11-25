@@ -69,7 +69,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
         "heading": "Need Roofing Services in Catalina Foothills Today?",
         "content": "Get fast, expert service from licensed roofers. Call (520) 333-2665 or schedule online for same-day emergency repairs.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
         "heading": "Ready for a New Roof on Your Catalina Foothills Home?",
         "content": "Our licensed roofers provide free inspections, detailed estimates, and expert installation. Call (520) 333-2665 for your free roof assessment.",
         "buttonText": "Get Free Roof Inspection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
         "heading": "Protect Your Catalina Foothills Home with Expert Roofing",
         "content": "Our licensed roofers provide quality installations, repairs, and maintenance with comprehensive warranties. Call (520) 333-2665 to schedule service.",
         "buttonText": "Schedule Roofing Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

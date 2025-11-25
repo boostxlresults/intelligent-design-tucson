@@ -77,7 +77,7 @@ export const solarinstallationsahuaritaData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar?",
             "content": "Get your free solar consultation and custom quote from Sahuarita's highest-rated solar company. Call (520) 333-2665 or schedule online for fast, expert service with same-day appointments available.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -192,7 +192,7 @@ export const solarinstallationsahuaritaData: ServicePageData = {
             "heading": "Start Your Solar Journey Today",
             "content": "Our proven 8-step process makes going solar easy for Sahuarita families. Get your free consultation and see how much you can save. Same-day appointments available.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -405,7 +405,7 @@ export const solarinstallationsahuaritaData: ServicePageData = {
             "heading": "Get Your Custom Solar Quote",
             "content": "Every Sahuarita home is unique. Get your personalized solar design, cost analysis, and financing options. Our solar experts will help you choose the perfect system size and financing for your family's needs and budget.",
             "buttonText": "Get Free Custom Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -76,7 +76,7 @@ export const sewerlinerepairData: ServicePageData = {
             "heading": "Stop Sewage Backups and Foundation Damage",
             "content": "Sewer line problems only get worse and more expensive. Don't wait for a catastrophic failure—call (520) 333-2665 or schedule online for emergency sewer camera inspection and expert repair recommendations.",
             "buttonText": "Schedule Sewer Inspection Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

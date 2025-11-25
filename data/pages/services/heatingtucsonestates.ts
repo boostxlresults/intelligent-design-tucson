@@ -77,7 +77,7 @@ export const heatingtucsonestatesData: ServicePageData = {
             "heading": "Need Heating Service in Tucson Estates Today?",
             "content": "Get fast, expert service from Tucson's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service in Tucson Estates.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -610,7 +610,7 @@ export const heatingtucsonestatesData: ServicePageData = {
             "heading": "Ready to Upgrade Your Tucson Estates Heating System?",
             "content": "Get expert guidance from Tucson's highest-rated heating company. Call (520) 333-2665 for free in-home consultation with load calculations and transparent pricing.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

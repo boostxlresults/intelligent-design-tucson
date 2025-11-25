@@ -75,7 +75,7 @@ export const electricalgreenvalleyData: ServicePageData = {
             "heading": "Need an Electrician in Green Valley Today?",
             "content": "Get fast, expert service from Green Valley's most trusted electrical company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -474,7 +474,7 @@ export const electricalgreenvalleyData: ServicePageData = {
             "heading": "Ready for Expert Electrical Service in Green Valley?",
             "content": "Join over 8,500 Green Valley neighbors who trust Intelligent Design for safe, reliable electrical service. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -665,7 +665,7 @@ export const electricalgreenvalleyData: ServicePageData = {
             "heading": "Schedule Your Green Valley Electrical Service Today",
             "content": "Experience the Intelligent Design difference that over 8,500 Green Valley neighbors trust. Call (520) 333-2665 or schedule online for expert electrical service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

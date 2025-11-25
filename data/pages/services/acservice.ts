@@ -80,7 +80,7 @@ export const acserviceData: ServicePageData = {
             "heading": "Schedule Your AC Service Today",
             "content": "Prevent summer breakdowns with professional maintenance. Same-day service available. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -578,7 +578,7 @@ export const acserviceData: ServicePageData = {
             "heading": "Schedule Your AC Service Appointment Today",
             "content": "Don't wait for a breakdown during summer heat. Professional AC service protects your investment, prevents expensive repairs, and ensures reliable cooling when you need it most. Call (520) 333-2665 or schedule online now for same-day service availability.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

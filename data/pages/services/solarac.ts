@@ -752,7 +752,7 @@ export const solaracData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar AC?",
             "content": "Schedule your free solar AC consultation with Tucson's only dual-licensed HVAC & solar contractor. Get a detailed site assessment, custom system design, accurate savings projection, and comprehensive pricing with all available incentives. Call (520) 333-2665 or schedule online - typically installing within 2-4 weeks of approval!",
             "buttonText": "Get Free Solar AC Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

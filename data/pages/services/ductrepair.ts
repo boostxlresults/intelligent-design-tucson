@@ -76,7 +76,7 @@ export const ductrepairData: ServicePageData = {
             "heading": "Stop Wasting Energy Through Leaky Ducts",
             "content": "Professional duct repair typically pays for itself in 18-24 months through energy savings. Don't wait—call (520) 333-2665 or schedule online for same-day duct inspection and repair.",
             "buttonText": "Schedule Duct Repair Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

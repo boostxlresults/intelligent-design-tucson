@@ -75,7 +75,7 @@ export const electricalrillitoData: ServicePageData = {
             "heading": "Need Electrical Service in Rillito Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving Rillito rural and residential properties since 1979. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -244,7 +244,7 @@ export const electricalrillitoData: ServicePageData = {
             "heading": "Ready to Upgrade Your Rillito Property Electrical System?",
             "content": "Contact Southern Arizona's most trusted electrical company serving rural and residential properties since 1979. Expert well pump service, panel upgrades, generator installation, and complete property electrical solutions. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Get Started Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -430,7 +430,7 @@ export const electricalrillitoData: ServicePageData = {
             "heading": "Ready to Plan Your Rillito Property Electrical Upgrades?",
             "content": "Get expert guidance from Arizona's most trusted rural property electrical specialists. Serving Rillito since 1979. Schedule your comprehensive electrical assessment today. Call (520) 333-2665 or book online.",
             "buttonText": "Schedule Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -626,7 +626,7 @@ export const electricalrillitoData: ServicePageData = {
             "heading": "Get Accurate Pricing for Your Rillito Property Electrical Needs",
             "content": "Every rural property is unique. Schedule your free electrical assessment and receive detailed pricing for your specific requirements. Serving Rillito since 1979. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

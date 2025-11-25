@@ -69,7 +69,7 @@ export const heatingcatalinafoothillsData: ServicePageData = {
         "heading": "Need Heating Services in Catalina Foothills Today?",
         "content": "Get fast, expert service from licensed technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const heatingcatalinafoothillsData: ServicePageData = {
         "heading": "Need Emergency Heating Repair in Catalina Foothills?",
         "content": "24/7 emergency service with no overtime fees. Our licensed technicians respond fast to get your heating system running again. Call (520) 333-2665 now.",
         "buttonText": "Call for Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

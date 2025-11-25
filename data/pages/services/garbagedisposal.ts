@@ -80,7 +80,7 @@ export const garbagedisposalData: ServicePageData = {
             "heading": "Need Garbage Disposal Installation or Repair?",
             "content": "Get your free consultation with honest recommendations and transparent pricing. Same-day installation available. Stop kitchen sink backups, eliminate odors, and enjoy decades of reliable disposal performance. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -163,7 +163,7 @@ export const garbagedisposalData: ServicePageData = {
             "heading": "Ready for Professional Disposal Service?",
             "content": "Whether you need emergency jam clearing, installation of a new high-performance disposal, or expert advice on upgrading your existing unit, we deliver honest recommendations and quality workmanship. Call (520) 333-2665 for same-day service.",
             "buttonText": "Call for Same-Day Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -440,7 +440,7 @@ export const garbagedisposalData: ServicePageData = {
             "heading": "Ready to Install or Upgrade Your Garbage Disposal?",
             "content": "Get expert guidance on selecting the perfect disposal for your household needs and Tucson's hard water. Same-day installation available with upfront pricing and quality workmanship guaranteed. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Installation Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

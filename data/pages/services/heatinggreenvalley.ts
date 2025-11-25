@@ -77,7 +77,7 @@ export const heatinggreenvalleyData: ServicePageData = {
             "heading": "Need Heating Service in Green Valley Today?",
             "content": "Get fast, respectful service from Green Valley's most trusted heating company. Call (520) 333-2665 or schedule online for same-day service. Senior-friendly service guaranteed.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -240,7 +240,7 @@ export const heatinggreenvalleyData: ServicePageData = {
             "heading": "Ready to Get Started with Your Heating System Project?",
             "content": "Schedule your free in-home consultation with Green Valley's most trusted heating experts. We'll perform complete assessment, provide detailed recommendations tailored to your needs and budget, and explain all available rebates and financing options. Call (520) 333-2665 or schedule online today—no obligation, no pressure, just honest expert guidance.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -479,7 +479,7 @@ export const heatinggreenvalleyData: ServicePageData = {
             "heading": "Ready to Improve Your Green Valley Home Comfort?",
             "content": "Get expert heating service from Green Valley's most trusted company. Senior-friendly service, upfront pricing, and flexible financing. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -682,7 +682,7 @@ export const heatinggreenvalleyData: ServicePageData = {
             "heading": "Experience Green Valley's Most Trusted Heating Service",
             "content": "Join over 4,200 satisfied Green Valley homeowners who trust Intelligent Design for reliable, honest, senior-friendly heating service. Call (520) 333-2665 now for same-day service or schedule online 24/7.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

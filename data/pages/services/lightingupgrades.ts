@@ -76,7 +76,7 @@ export const lightingupgradesData: ServicePageData = {
             "heading": "Ready to Upgrade Your Lighting?",
             "content": "Schedule your free lighting consultation and discover how much you can save. Professional installation, premium LED fixtures, and smart home integration. Call (520) 333-2665 or book online for same-day service.",
             "buttonText": "Get Free Lighting Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -657,7 +657,7 @@ export const lightingupgradesData: ServicePageData = {
             "heading": "Schedule Your Lighting Upgrade Consultation Today",
             "content": "Discover how professional lighting upgrades can transform your home while saving $300-500 annually. Free consultation, same-day service available, and expert installation by licensed electricians. Call (520) 333-2665 or book online now.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
   ]
   },

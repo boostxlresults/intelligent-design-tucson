@@ -68,7 +68,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Ready to Eliminate Your Electric Bills?",
         "content": "Get honest solar analysis from specialists who understand senior community needs. Call (520) 333-2665 for your free solar assessment.",
         "buttonText": "Get Free Solar Assessment",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -127,7 +127,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Start Saving with Solar Today",
         "content": "From detailed analysis to professional installation and monitoring, we make going solar simple. Call (520) 333-2665 for your free solar assessment.",
         "buttonText": "Schedule Free Assessment",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -190,7 +190,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Get Your Personalized Solar Analysis",
         "content": "Discover how much you can save with solar. Our detailed assessment shows real numbers for your specific home. Call (520) 333-2665 today.",
         "buttonText": "Call for Free Assessment",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

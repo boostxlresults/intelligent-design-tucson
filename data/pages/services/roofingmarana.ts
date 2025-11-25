@@ -81,7 +81,7 @@ export const roofingmaranaData: ServicePageData = {
             "heading": "Need Roofing Service in Marana Today?",
             "content": "Get fast, expert service from Marana's highest-rated roofing and energy efficiency specialists. Call (520) 333-2665 or schedule online for same-day emergency service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -636,7 +636,7 @@ export const roofingmaranaData: ServicePageData = {
             "heading": "Ready to Protect Your Marana Home?",
             "content": "Get expert roofing service from Marana's most trusted professionals. Call (520) 333-2665 for 24/7 emergency service or schedule online for comprehensive inspection and honest recommendations.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

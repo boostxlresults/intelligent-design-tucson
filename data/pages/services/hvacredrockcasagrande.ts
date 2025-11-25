@@ -69,7 +69,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
         "heading": "Need HVAC Service in Red Rock / Casa Grande Today?",
         "content": "Get fast, expert service from licensed HVAC technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
         "heading": "Schedule Your HVAC Maintenance Before Summer Heat",
         "content": "Prevent breakdowns and reduce energy costs with professional tune-ups. Our maintenance plans save money and ensure reliability. Call (520) 333-2665.",
         "buttonText": "Join Protection Plan",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
         "heading": "Upgrade to High-Efficiency HVAC for Your Red Rock / Casa Grande Home",
         "content": "Save energy and improve comfort with modern HVAC systems. Our experts guide you through selection, installation, and optimization. Call (520) 333-2665.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

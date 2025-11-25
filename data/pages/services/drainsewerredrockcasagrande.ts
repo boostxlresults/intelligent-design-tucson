@@ -69,7 +69,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
         "heading": "Need Drain or Sewer Service in Red Rock / Casa Grande Today?",
         "content": "Get fast, expert service from licensed plumbing professionals. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
         "heading": "Stubborn Drains? Get Professional Hydro-Jetting",
         "content": "Eliminate recurring clogs with thorough hydro-jetting service. Restore full flow and prevent future problems. Call (520) 333-2665 today.",
         "buttonText": "Schedule Hydro-Jetting",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
         "heading": "Prevent Drain Emergencies with Professional Maintenance",
         "content": "Regular maintenance prevents costly failures. Keep your drains flowing freely with expert service. Call (520) 333-2665 to schedule.",
         "buttonText": "Schedule Maintenance",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

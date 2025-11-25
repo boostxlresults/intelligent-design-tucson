@@ -79,7 +79,7 @@ export const roofingtucsonestatesData: ServicePageData = {
             "heading": "Need Emergency Roof Repair in Tucson Estates?",
             "content": "Get fast, expert roofing service from Tucson's highest-rated roofing company. 24/7 emergency response. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Call for Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -71,7 +71,7 @@ export const electricalpicturerocksData: ServicePageData = {
             "heading": "Need Electrical Service in Picture Rocks Today?",
             "content": "Fast, expert service from licensed electricians who understand rural properties. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -506,7 +506,7 @@ export const electricalpicturerocksData: ServicePageData = {
             "heading": "Schedule Your Picture Rocks Electrical Service Today",
             "content": "Expert rural electrical service from licensed electricians who understand desert properties, well pumps, solar, and backup power. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Started Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -645,7 +645,7 @@ export const electricalpicturerocksData: ServicePageData = {
             "heading": "Schedule Your Picture Rocks Electrical Service Today",
             "content": "Join Picture Rocks homeowners who trust Intelligent Design for rural electrical expertise. Call (520) 333-2665 or schedule online for fast, professional service.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

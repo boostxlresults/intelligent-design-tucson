@@ -75,7 +75,7 @@ export const heatingcasasadobesData: ServicePageData = {
             "heading": "Need Heating Service in Casas Adobes Today?",
             "content": "Get fast, expert service from licensed heating technicians who know Casas Adobes homes. Call (520) 333-2665 or schedule online for same-day furnace service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -256,7 +256,7 @@ export const heatingcasasadobesData: ServicePageData = {
             "heading": "Get Expert Heating Service in Casas Adobes Today",
             "content": "Whether you need emergency furnace repair or are considering system replacement, our heating experts provide honest recommendations and quality service. Call (520) 333-2665 for same-day service.",
             "buttonText": "Schedule Heating Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

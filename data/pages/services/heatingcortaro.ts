@@ -77,7 +77,7 @@ export const heatingcortaroData: ServicePageData = {
             "heading": "Need Heating Service in Cortaro Today?",
             "content": "Get fast, expert service from Tucson's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service in Cortaro.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

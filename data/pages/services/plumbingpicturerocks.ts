@@ -77,7 +77,7 @@ export const plumbingpicturerocksData: ServicePageData = {
             "heading": "Need Rural Plumbing Service in Picture Rocks Today?",
             "content": "Get expert service from licensed professionals who understand well systems and rural plumbing. Average 75-minute arrival. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -354,7 +354,7 @@ export const plumbingpicturerocksData: ServicePageData = {
             "heading": "Ready to Invest in Your Picture Rocks Home's Plumbing?",
             "content": "Get expert consultation and transparent pricing from licensed rural plumbing specialists. Well water expertise. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

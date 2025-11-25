@@ -639,7 +639,7 @@ export const heatingtanqueverdeData: ServicePageData = {
             "heading": "Expert Heating Service for Your Tanque Verde Home",
             "content": "Don't wait for heating failure during Tanque Verde's coldest nights. Our NATE-certified technicians provide expert furnace repair, installation, and maintenance with 100% satisfaction guarantee. Call (520) 333-2665 or schedule online for fast, reliable service today.",
             "buttonText": "Schedule Heating Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -194,7 +194,7 @@ export default function ResourcesPage() {
                   Our expert technicians are available 24/7 for emergency service throughout Tucson and surrounding areas.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a href="tel:520-333-2665" data-testid="link-phone-cta">
+                  <a href="tel:+15203332665" data-testid="link-phone-cta">
                     <Button size="lg" variant="secondary" data-testid="button-call-now">
                       Call 520-333-2665
                     </Button>

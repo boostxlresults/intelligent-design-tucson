@@ -678,7 +678,7 @@ export const watersoftenersData: ServicePageData = {
             "heading": "Get Your Free Water Quality Test Today",
             "content": "Discover exactly what's in your Tucson water and get a personalized water softener recommendation from our licensed plumbers. We'll test your water hardness, identify any other quality issues, and provide a no-pressure quote for the perfectly sized system. Call (520) 333-2665 or schedule online for your free consultation.",
             "buttonText": "Schedule Free Water Test",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

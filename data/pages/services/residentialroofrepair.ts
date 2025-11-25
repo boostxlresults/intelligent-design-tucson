@@ -76,7 +76,7 @@ export const residentialroofrepairData: ServicePageData = {
             "heading": "Emergency Roof Leak? Call Now for Immediate Help",
             "content": "We're available 24/7 for roofing emergencies. Active leaks cause thousands in water damage—every hour counts! Call (520) 333-2665 or schedule emergency service online now.",
             "buttonText": "Call For Emergency Repair",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -762,7 +762,7 @@ export const residentialroofrepairData: ServicePageData = {
             "heading": "Schedule Your Free Roof Inspection Today",
             "content": "Don't wait for a small problem to become a major expense. Call (520) 333-2665 or schedule online for your free, no-obligation roof inspection with detailed photo documentation and honest repair recommendations.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -69,7 +69,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
         "heading": "Need Roofing Service in Red Rock / Casa Grande Today?",
         "content": "From emergency leak repairs to complete roof replacements, our licensed contractors deliver reliable solutions. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
         "heading": "Protect Your Red Rock / Casa Grande Home with a New Roof",
         "content": "Expert roof replacement using premium materials built for Arizona's extreme climate. Call (520) 333-2665 for free inspection and estimate.",
         "buttonText": "Schedule Roof Inspection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
         "heading": "Schedule Your Red Rock / Casa Grande Roof Inspection Today",
         "content": "Protect your investment with professional roof inspections and maintenance. Prevent costly damage with early problem detection. Call (520) 333-2665.",
         "buttonText": "Schedule Inspection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

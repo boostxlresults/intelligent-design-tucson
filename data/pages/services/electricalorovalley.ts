@@ -75,7 +75,7 @@ export const electricalorovalleyData: ServicePageData = {
         "heading": "Need Electrical Service in Oro Valley Today?",
         "content": "Get fast, expert service from Oro Valley's highest-rated electrical company. 73-minute average response. Same-day service available. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -440,7 +440,7 @@ export const electricalorovalleyData: ServicePageData = {
         "heading": "Schedule Your Electrical Service in Oro Valley",
         "content": "Get expert electrical service from Oro Valley's highest-rated company. Same-day service available. Call (520) 333-2665 or schedule online now.",
         "buttonText": "Call (520) 333-2665",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

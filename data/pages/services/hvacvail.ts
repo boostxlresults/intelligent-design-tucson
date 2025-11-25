@@ -78,7 +78,7 @@ export const hvacvailData: ServicePageData = {
             heading: "Need HVAC Service in Vail Today?",
             content: "Get fast, expert service from Tucson's highest-rated HVAC company. Call (520) 333-2665 or schedule online for priority Vail service.",
             buttonText: "Schedule Service Now",
-            buttonLink: "tel:5203332665"
+            buttonLink: "tel:+15203332665"
       },
       {
             type: "heading",
@@ -387,7 +387,7 @@ export const hvacvailData: ServicePageData = {
             heading: "Get Expert Guidance for Your HVAC Decision",
             content: "Our HVAC specialists provide free, honest consultations to help you make the right choice for your Vail property. No pressure, just expert advice.",
             buttonText: "Schedule Free Consultation",
-            buttonLink: "tel:5203332665"
+            buttonLink: "tel:+15203332665"
       },
       {
             type: "heading",
@@ -428,7 +428,7 @@ export const hvacvailData: ServicePageData = {
             heading: "Experience the Intelligent Design Difference in Vail",
             content: "Join 850+ satisfied Vail customers who trust us for all their HVAC needs. Call (520) 333-2665 or schedule online for expert service today.",
             buttonText: "Schedule Service Now",
-            buttonLink: "tel:5203332665"
+            buttonLink: "tel:+15203332665"
       },
       {
             type: "heading",
@@ -587,7 +587,7 @@ export const hvacvailData: ServicePageData = {
             heading: "Ready for Complete HVAC Solutions in Vail?",
             content: "From emergency repairs to complete system upgrades and multi-building solutions, we're Vail's trusted HVAC partner. Call (520) 333-2665 for expert service today.",
             buttonText: "Call Now for Service",
-            buttonLink: "tel:5203332665"
+            buttonLink: "tel:+15203332665"
       },
       {
             type: "heading",
@@ -654,7 +654,7 @@ export const hvacvailData: ServicePageData = {
             heading: "Get Vail-Specific HVAC Expertise Today",
             content: "Our 45 years serving Vail means we understand your unique climate, property, and HVAC challenges. Call (520) 333-2665 for expert consultation tailored to Vail conditions.",
             buttonText: "Schedule Consultation",
-            buttonLink: "tel:5203332665"
+            buttonLink: "tel:+15203332665"
       }
 ]
   },

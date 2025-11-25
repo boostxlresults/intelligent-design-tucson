@@ -68,7 +68,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Need HVAC Services in Saddle Brooke / Catalina Today?",
         "content": "Get patient, professional service from NATE-certified technicians who understand senior community needs. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -131,7 +131,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Ready for Reliable, Efficient Comfort?",
         "content": "From maintenance to repairs and new system installation, our senior-friendly HVAC services keep you comfortable year-round. Call (520) 333-2665 today.",
         "buttonText": "Schedule HVAC Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -208,7 +208,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
         "heading": "Need Emergency HVAC Service in Saddle Brooke / Catalina?",
         "content": "Don't wait with HVAC emergencies. Our NATE-certified technicians are available 24/7 with no overtime charges. Call (520) 333-2665 now.",
         "buttonText": "Call for Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

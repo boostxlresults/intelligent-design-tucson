@@ -76,7 +76,7 @@ export const heaterinstallationData: ServicePageData = {
             "heading": "Ready for a New Energy-Efficient Heater?",
             "content": "Get your free in-home estimate with transparent pricing and financing options. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "cta",
@@ -340,7 +340,7 @@ export const heaterinstallationData: ServicePageData = {
             "heading": "Schedule Your Free Heater Installation Consultation",
             "content": "Get expert recommendations, transparent pricing, and financing options. Call (520) 333-2665 or book online today.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -562,7 +562,7 @@ export const heaterinstallationData: ServicePageData = {
             "heading": "Ready to Invest in Efficient, Reliable Heating?",
             "content": "Get your free in-home consultation and detailed estimate. Our experts will help you choose the perfect heating system for your Tucson home and budget. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -745,7 +745,7 @@ export const heaterinstallationData: ServicePageData = {
             "heading": "Schedule Your Free Heater Installation Consultation",
             "content": "Expert recommendations, transparent pricing, and financing options. Call (520) 333-2665 or book online today.",
             "buttonText": "Get Free Estimate Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
     ]
   },

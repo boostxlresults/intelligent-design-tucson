@@ -76,7 +76,7 @@ export const leakdetectionData: ServicePageData = {
             "heading": "Suspect a Hidden Leak?",
             "content": "Don't wait for water damage to worsen. Our certified leak detection specialists use advanced non-invasive technology to find hidden leaks fast. Call (520) 333-2665 for same-day service.",
             "buttonText": "Schedule Leak Detection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -75,7 +75,7 @@ export const electricalcasasadobesData: ServicePageData = {
         "heading": "Need Electrical Service in Casas Adobes Today?",
         "content": "Get fast, expert service from licensed electricians who know Casas Adobes homes. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

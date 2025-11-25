@@ -79,7 +79,7 @@ export const roofingvailData: ServicePageData = {
             "heading": "Need Roofing Service in Vail Today?",
             "content": "Get fast, expert service from Greater Tucson's highest-rated roofing company. Call (520) 333-2665 or schedule online for same-day emergency service throughout Vail and Rita Ranch.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

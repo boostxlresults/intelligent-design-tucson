@@ -76,7 +76,7 @@ export const outdoormotionlightingData: ServicePageData = {
             "heading": "Secure Your Home with Professional Motion Lighting",
             "content": "Schedule your free security lighting consultation and get a detailed assessment of your property's vulnerabilities. Expert installation, premium LED motion fixtures, and optional smart integration. Call (520) 333-2665 or book online for same-day service.",
             "buttonText": "Get Free Security Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -655,7 +655,7 @@ export const outdoormotionlightingData: ServicePageData = {
             "heading": "Schedule Your Free Motion Lighting Security Assessment",
             "content": "Protect your family with professional motion lighting designed specifically for your property. Our licensed electricians provide free security assessments, custom lighting designs, and detailed estimates. Same-day installation available. Call (520) 333-2665 or book online now.",
             "buttonText": "Get Free Security Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
   ]
   },

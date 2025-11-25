@@ -69,7 +69,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
         "heading": "Need HVAC Services in Catalina Foothills Today?",
         "content": "Get fast, expert service from licensed technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
         "heading": "Ready to Upgrade Your Catalina Foothills Home's HVAC System?",
         "content": "Our licensed HVAC experts provide free in-home consultations, energy assessments, and upfront pricing. Call (520) 333-2665 for a free estimate.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -205,7 +205,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
         "heading": "Experiencing HVAC Problems in Catalina Foothills?",
         "content": "Our emergency technicians respond 24/7 with fully-stocked vehicles. No overtime fees. Call (520) 333-2665 now for immediate assistance.",
         "buttonText": "Call For Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

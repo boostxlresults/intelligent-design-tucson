@@ -78,7 +78,7 @@ export const hvactanqueverdeData: ServicePageData = {
             "heading": "Need Premium HVAC Service in Tanque Verde Today?",
             "content": "Get fast, expert service from Tanque Verde's highest-rated HVAC company. Average 60-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

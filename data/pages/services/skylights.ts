@@ -72,7 +72,7 @@ export const skylightsData: ServicePageData = {
             "heading": "Ready to Brighten Your Home with Professional Skylights?",
             "content": "Get expert consultation and honest pricing from Tucson's highest-rated skylight specialists. Call (520) 333-2665 or schedule online for same-day estimates.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -479,7 +479,7 @@ export const skylightsData: ServicePageData = {
             "heading": "Transform Your Home with Professional Skylight Installation",
             "content": "Ready to brighten your home with energy-efficient natural light? Contact Tucson's skylight experts for honest assessment and quality installation. Call (520) 333-2665 or schedule online for free consultation and estimates.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

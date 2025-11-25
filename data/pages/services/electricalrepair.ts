@@ -76,7 +76,7 @@ export const electricalrepairData: ServicePageData = {
         "heading": "Electrical Emergency? We're Available 24/7",
         "content": "Don't risk electrical fires or shocks. Our licensed electricians respond fast with fully-stocked trucks ready to fix your electrical problems safely. Call now—no overtime charges, ever.",
         "buttonText": "Call For Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -688,7 +688,7 @@ export const electricalrepairData: ServicePageData = {
         "heading": "Ready to Solve Your Electrical Problems?",
         "content": "Don't wait for electrical problems to worsen. Our licensed electricians are ready to diagnose and repair your electrical issues quickly and safely. Call 24/7 for emergency service or schedule convenient appointments for non-urgent repairs.",
         "buttonText": "Call Now For Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       }
   ]
   },

@@ -80,7 +80,7 @@ export const electricalcortaroData: ServicePageData = {
         "heading": "Need Electrical Service in Cortaro Today?",
         "content": "Get fast, expert service from licensed electricians who understand Cortaro's unique rural and ranch properties. 62-minute average response. Same-day service available. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -453,7 +453,7 @@ export const electricalcortaroData: ServicePageData = {
         "heading": "Schedule Your Cortaro Electrical Service Today",
         "content": "Ready to upgrade your Cortaro property's electrical system? Whether you need panel upgrades, rural electrical service, generator installation, detached structure electrical, or emergency repairs, Intelligent Design delivers the expertise and reliability your property deserves. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

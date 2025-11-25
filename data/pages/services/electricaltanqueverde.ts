@@ -75,7 +75,7 @@ export const electricaltanqueverdeData: ServicePageData = {
             "heading": "Need Electrical Service in Tanque Verde Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving Tanque Verde's luxury homes since 1979. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -242,7 +242,7 @@ export const electricaltanqueverdeData: ServicePageData = {
             "heading": "Ready to Enhance Your Tanque Verde Luxury Home?",
             "content": "Contact Southern Arizona's most trusted electrical company serving luxury properties since 1979. Expert smart home integration, pool electrical systems, outdoor living solutions, and comprehensive electrical services. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Get Started Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

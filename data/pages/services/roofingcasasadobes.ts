@@ -500,7 +500,7 @@ export const roofingcasasadobesData: ServicePageData = {
             "heading": "Ready to Protect Your Casas Adobes Home with Expert Roofing?",
             "content": "Join thousands of satisfied Casas Adobes families who trust Intelligent Design for complete roofing solutions. Call (520) 333-2665 or schedule online for same-day emergency service or convenient inspection from Tucson's highest-rated roofing company.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

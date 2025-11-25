@@ -76,7 +76,7 @@ export const heatingpicturerocksData: ServicePageData = {
             "heading": "Need Heating Service in Picture Rocks Today?",
             "content": "Get fast, expert service from rural Tucson's most trusted heating company. Average 73-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -516,7 +516,7 @@ export const heatingpicturerocksData: ServicePageData = {
             "heading": "Ready for Reliable Rural Heating?",
             "content": "Schedule your heating service with Picture Rocks' most trusted rural heating specialists. Call (520) 333-2665 or book online now!",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -78,7 +78,7 @@ export const hvacritaranchData: ServicePageData = {
             "heading": "Need HVAC Service in Rita Ranch Today?",
             "content": "Get fast, expert service from Rita Ranch's highest-rated HVAC company. Average 65-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

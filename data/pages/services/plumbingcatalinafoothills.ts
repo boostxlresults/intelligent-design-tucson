@@ -69,7 +69,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
         "heading": "Need Plumbing Services in Catalina Foothills Today?",
         "content": "Get fast, expert service from licensed plumbers. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
         "heading": "Experiencing Plumbing Problems in Catalina Foothills?",
         "content": "Our licensed plumbers provide expert diagnostics and repairs. Call (520) 333-2665 for same-day service on most plumbing issues.",
         "buttonText": "Schedule Plumbing Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
         "heading": "Plumbing Emergency in Catalina Foothills?",
         "content": "Our emergency plumbers respond 24/7 with fully-stocked vehicles. No overtime fees ever. Call (520) 333-2665 now for immediate help.",
         "buttonText": "Call For Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

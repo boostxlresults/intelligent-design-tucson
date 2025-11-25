@@ -328,7 +328,7 @@ export const flatroofsData: ServicePageData = {
             "heading": "Ready for a Superior Flat Roof System?",
             "content": "Get your free flat roof inspection and estimate with transparent pricing and financing options. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

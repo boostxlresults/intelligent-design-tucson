@@ -77,7 +77,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
             "heading": "Need Plumbing Service in Green Valley Today?",
             "content": "Fast, honest service from licensed professionals who understand retirement community needs. Call (520) 333-2665 or schedule online for same-day service throughout Green Valley.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -611,14 +611,14 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Three Easy Ways to Schedule: Call [link:tel:5203332665|(520) 333-2665] for immediate assistance and same-day service availability (24/7 emergency service), schedule online at our website selecting your preferred date and time, or text us for quick responses to questions and appointment scheduling. We offer free estimates on major projects, upfront pricing before work begins, flexible financing making investments manageable, senior-friendly service with clear communication, and 100% satisfaction guarantee on every job."
+            "content": "Three Easy Ways to Schedule: Call [link:tel:+15203332665|(520) 333-2665] for immediate assistance and same-day service availability (24/7 emergency service), schedule online at our website selecting your preferred date and time, or text us for quick responses to questions and appointment scheduling. We offer free estimates on major projects, upfront pricing before work begins, flexible financing making investments manageable, senior-friendly service with clear communication, and 100% satisfaction guarantee on every job."
       },
       {
             "type": "cta",
             "heading": "Ready to Solve Your Green Valley Plumbing Problems?",
             "content": "Get expert service from licensed professionals who understand retirement community needs. Call (520) 333-2665 now for same-day service, or schedule online at your convenience. We're here to help 24/7.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -75,7 +75,7 @@ export const electricalsaddlebrookeData: ServicePageData = {
             "heading": "Need Electrical Service in SaddleBrooke Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving SaddleBrooke's active adult community since 1999. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -238,7 +238,7 @@ export const electricalsaddlebrookeData: ServicePageData = {
             "heading": "Ready to Upgrade Your SaddleBrooke Home Electrical System?",
             "content": "Contact Southern Arizona's most trusted electrical company serving active adult communities since 1979. Expert generator installation, electrical safety, smart home systems, and energy efficiency solutions. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Get Started Today",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -636,7 +636,7 @@ export const plumbingmaintenanceData: ServicePageData = {
             "heading": "Schedule Your Plumbing Maintenance Inspection Today",
             "content": "Protect your Tucson home from plumbing emergencies and expensive repairs with professional preventative maintenance. Our comprehensive 8-step inspection process catches problems early, extends equipment life, and saves you thousands in avoided emergency costs. Call (520) 333-2665 or schedule online to book your maintenance inspection and discover why over 85,000 Tucson-area families trust Intelligent Design with their home plumbing systems.",
             "buttonText": "Schedule Maintenance Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

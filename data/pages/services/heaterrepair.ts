@@ -76,7 +76,7 @@ export const heaterrepairData: ServicePageData = {
             "heading": "Need Emergency Heater Repair?",
             "content": "We're available 24/7 for heating emergencies. Don't spend a cold night without heat! Call (520) 333-2665 or schedule online now.",
             "buttonText": "Call For Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -573,7 +573,7 @@ export const heaterrepairData: ServicePageData = {
             "heading": "Ready to Schedule Your Heater Repair?",
             "content": "Get your heating system running efficiently again with Tucson's most trusted HVAC company. Call (520) 333-2665 or schedule online!",
             "buttonText": "Schedule Heater Repair",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -670,7 +670,7 @@ export const heaterrepairData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join over 85,000 satisfied Tucson families who trust us for all their heating repair needs. Call (520) 333-2665 for fast, reliable heater repair service.",
             "buttonText": "Call For Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
     ]
   },

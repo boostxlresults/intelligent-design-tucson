@@ -340,7 +340,7 @@ export const indoorairqualityData: ServicePageData = {
             "heading": "Schedule Your Free Air Quality Assessment Today",
             "content": "Improve your family's health and comfort with professional indoor air quality solutions. Same-day service available. Call (520) 333-2665 or schedule online now. Flexible [link:/financing|financing options] available through approved credit.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

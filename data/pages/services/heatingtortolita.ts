@@ -76,7 +76,7 @@ export const heatingtortolitaData: ServicePageData = {
             "heading": "Need Heating Service in Tortolita Today?",
             "content": "Get fast, expert service from Tucson's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service in Tortolita.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -237,7 +237,7 @@ export const heatingtortolitaData: ServicePageData = {
             "heading": "Ready to Upgrade Your Tortolita Home's Heating System?",
             "content": "Get a free, no-obligation assessment and detailed cost comparison for your Tortolita home. Our experts will help you select the perfect heating solution. Call (520) 333-2665 today.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

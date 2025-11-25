@@ -639,7 +639,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
             "heading": "Ready to Go Solar in East Tucson?",
             "content": "Get your free solar consultation and custom quote today. Our East Tucson solar experts provide honest assessments, transparent pricing, and quality installations backed by 45+ years of experience. Call (520) 333-2665 or visit our Tucson showroom.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "paragraph",

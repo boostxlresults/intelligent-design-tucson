@@ -76,7 +76,7 @@ export const smartthermostatinstallationData: ServicePageData = {
             "heading": "Schedule Smart Thermostat Installation Today",
             "content": "Save 20-30% on energy bills with professional WiFi thermostat installation. Same-day service available. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Installation Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -466,7 +466,7 @@ export const smartthermostatinstallationData: ServicePageData = {
             "heading": "Ready to Save 20-30% on Energy Bills?",
             "content": "Schedule professional smart thermostat installation today. Expert setup, complete training, and ongoing support. Same-day installation available throughout Tucson.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

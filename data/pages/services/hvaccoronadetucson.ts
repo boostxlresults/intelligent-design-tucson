@@ -77,7 +77,7 @@ export const hvaccoronadetucsonData: ServicePageData = {
             "heading": "Need HVAC Service in Corona de Tucson Today?",
             "content": "Get fast, expert service from Tucson's highest-rated HVAC company. Call (520) 333-2665 or schedule online for same-day service in Corona de Tucson.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

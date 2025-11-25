@@ -79,7 +79,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
             "heading": "Need Electrical Service in Gladden Farms Today?",
             "content": "Fast, expert service from licensed master electricians. Call (520) 333-2665 or schedule online for same-day service in Gladden Farms.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -446,7 +446,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
             "heading": "Schedule Your Electrical Service in Gladden Farms",
             "content": "Experience Tucson's highest-rated electrical service. 45-minute average response. Same-day service available. Call (520) 333-2665 or schedule online.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -641,7 +641,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
             "heading": "Schedule Your Gladden Farms Electrical Service Today",
             "content": "Join hundreds of satisfied Gladden Farms homeowners who trust Intelligent Design for all their electrical needs. Call (520) 333-2665 or schedule online for fast, professional service.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

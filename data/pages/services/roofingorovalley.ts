@@ -77,7 +77,7 @@ export const roofingorovalleyData: ServicePageData = {
             "heading": "Emergency Roofing Service in Oro Valley?",
             "content": "Get expert response from Oro Valley's highest-rated roofing specialists. Call (520) 333-2665 for 24/7 emergency service or schedule online.",
             "buttonText": "Call for Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -606,7 +606,7 @@ export const roofingorovalleyData: ServicePageData = {
             "heading": "Ready to Protect Your Oro Valley Home?",
             "content": "Call (520) 333-2665 now for immediate service or click to schedule online. Same-day emergency service available. Free detailed estimates. Financing options for all budgets.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

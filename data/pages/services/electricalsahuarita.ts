@@ -75,7 +75,7 @@ export const electricalsahuaritaData: ServicePageData = {
         "heading": "Need Electrical Service in Sahuarita Today?",
         "content": "Get fast, expert service from Sahuarita's highest-rated electrical company. 71-minute average response to Rancho Sahuarita, Quail Creek & all Sahuarita neighborhoods. Same-day service available. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -542,7 +542,7 @@ export const electricalsahuaritaData: ServicePageData = {
         "heading": "Ready to Upgrade Your Sahuarita Home's Electrical System?",
         "content": "Get expert electrical service from Sahuarita's most trusted company. Free consultation and detailed proposals. Same-day service available for emergencies. Financing options for qualified homeowners. Call (520) 333-2665 or schedule your electrical assessment online now.",
         "buttonText": "Schedule Free Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

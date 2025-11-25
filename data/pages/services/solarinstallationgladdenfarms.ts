@@ -128,7 +128,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar in Gladden Farms?",
             "content": "Get your free solar consultation and custom system design. See exactly how much you'll save with solar panels on your Gladden Farms home. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Free Solar Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -235,7 +235,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
             "heading": "See Your Gladden Farms Solar Savings Potential",
             "content": "Get a free custom solar design showing exactly how much energy your roof can produce and how much you'll save each year. No-pressure consultation. Transparent pricing. Expert guidance. Call (520) 333-2665.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -588,7 +588,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
             "heading": "Ready to Go Solar in Gladden Farms?",
             "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy. Call (520) 333-2665 or schedule online. We serve Gladden Farms families with 45+ years of trusted service.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

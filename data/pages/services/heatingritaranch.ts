@@ -76,7 +76,7 @@ export const heatingritaranchData: ServicePageData = {
             "heading": "Need Heating Service in Rita Ranch Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated heating company. Serving Rita Ranch families since 2000. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -191,7 +191,7 @@ export const heatingritaranchData: ServicePageData = {
             "heading": "Ready to Improve Your Rita Ranch Home's Heating?",
             "content": "Schedule your comprehensive heating evaluation today. We'll assess your system, identify efficiency opportunities, and provide honest recommendations with upfront pricing. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -676,7 +676,7 @@ export const residentialroofreplacementData: ServicePageData = {
             "heading": "Get Your Free Roof Replacement Estimate Today",
             "content": "Don't wait for costly leaks to force emergency replacement. Schedule your free consultation now and discover how a new energy-efficient roof can protect your home, reduce cooling costs, and enhance property value.",
             "buttonText": "Schedule Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

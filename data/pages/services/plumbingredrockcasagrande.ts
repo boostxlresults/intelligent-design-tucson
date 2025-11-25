@@ -69,7 +69,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
         "heading": "Need Plumbing Service in Red Rock / Casa Grande Today?",
         "content": "Get fast, expert service from licensed plumbers. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
         "heading": "Suspicious Water Bills or Hidden Leaks?",
         "content": "Our advanced leak detection finds hidden problems before they cause major damage. Call (520) 333-2665 for expert leak detection and repair.",
         "buttonText": "Schedule Leak Detection",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
         "heading": "Upgrade Your Red Rock / Casa Grande Home's Plumbing",
         "content": "From water heaters to whole-home repiping, we deliver reliable plumbing solutions. Call (520) 333-2665 for expert service today.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

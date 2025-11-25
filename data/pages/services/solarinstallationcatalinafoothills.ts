@@ -69,7 +69,7 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
         "heading": "Ready to Go Solar in Catalina Foothills?",
         "content": "Get your free solar assessment and energy analysis. Call (520) 333-2665 or schedule online to discover your solar savings potential.",
         "buttonText": "Get Free Solar Assessment",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
         "heading": "Interested in Solar Battery Backup for Your Catalina Foothills Home?",
         "content": "Our solar experts design integrated solar+storage systems for maximum energy independence. Call (520) 333-2665 for your free assessment.",
         "buttonText": "Learn About Solar Batteries",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
         "heading": "Transform Your Catalina Foothills Home with Solar Energy",
         "content": "Our solar experts provide comprehensive assessments, quality installations, and ongoing support. Call (520) 333-2665 for your free solar consultation.",
         "buttonText": "Schedule Solar Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

@@ -77,7 +77,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
             "heading": "Need Plumbing Service in Corona de Tucson Today?",
             "content": "Get expert service from licensed professionals who understand Corona de Tucson's unique requirements. Average 68-minute arrival. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

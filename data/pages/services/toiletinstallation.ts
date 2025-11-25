@@ -84,7 +84,7 @@ export const toiletinstallationData: ServicePageData = {
             "heading": "Need Expert Toilet Installation or Repair?",
             "content": "Get your free consultation with honest recommendations and transparent pricing. Same-day installation available. Save water, reduce bills, and enjoy decades of reliable performance. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -155,7 +155,7 @@ export const toiletinstallationData: ServicePageData = {
             "heading": "Ready for Professional Toilet Installation?",
             "content": "Join thousands of satisfied Tucson homeowners who trust Intelligent Design for expert toilet installation. Free consultation, same-day service available, and [link:/services/financing|flexible financing options]. Call (520) 333-2665 now.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -410,7 +410,7 @@ export const toiletinstallationData: ServicePageData = {
             "heading": "Ready to Save Water and Improve Your Bathroom?",
             "content": "Professional toilet installation from Tucson's most trusted plumbing company. WaterSense certified models saving thousands in water costs. Comfort-height options for accessibility. Same-day installation available. Call (520) 333-2665 for your free consultation.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

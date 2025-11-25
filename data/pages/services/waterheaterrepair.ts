@@ -76,7 +76,7 @@ export const waterheaterrepairData: ServicePageData = {
             "heading": "Emergency Water Heater Repair Needed?",
             "content": "No hot water? Leaking tank? Strange noises? We're available 24/7 for water heater emergencies. Don't let a broken water heater disrupt your family's comfort! Call (520) 333-2665 or schedule online now for same-day service.",
             "buttonText": "Call For Emergency Repair",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "cta",

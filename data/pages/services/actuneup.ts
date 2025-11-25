@@ -76,7 +76,7 @@ export const actuneupData: ServicePageData = {
             "heading": "Schedule Your AC Tune-Up Today",
             "content": "Prevent summer breakdowns with professional maintenance. Same-day service available. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -430,7 +430,7 @@ export const actuneupData: ServicePageData = {
             "heading": "Schedule Your AC Tune-Up Today",
             "content": "Don't wait until summer heat arrives! Schedule spring tune-up service now for optimal cooling season performance. Call (520) 333-2665 or book online for convenient scheduling.",
             "buttonText": "Schedule Service Online",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -76,7 +76,7 @@ export const roofingsahuaritaData: ServicePageData = {
             "heading": "Need Roofing Service in Sahuarita Today?",
             "content": "Get fast, expert service from Sahuarita's highest-rated roofing company. Call (520) 333-2665 for 24/7 emergency service or schedule online.",
             "buttonText": "Call for Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

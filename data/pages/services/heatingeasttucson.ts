@@ -77,7 +77,7 @@ export const heatingeasttucsonData: ServicePageData = {
             "heading": "Need Heating Service in East Tucson Today?",
             "content": "Get fast, expert service from East Tucson's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -238,7 +238,7 @@ export const heatingeasttucsonData: ServicePageData = {
             "heading": "East Tucson Heating Experts Ready to Help",
             "content": "From historic Sam Hughes bungalows to newer Houghton homes, we deliver heating solutions optimized for your East Tucson neighborhood. Call (520) 333-2665 for expert service.",
             "buttonText": "Get Expert Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -70,7 +70,7 @@ export const ceilingfaninstallationData: ServicePageData = {
         "heading": "Ready to Reduce Your Cooling Costs by 40%?",
         "content": "Professional ceiling fan installation provides immediate comfort and long-term energy savings. Our licensed electricians install fans safely and correctly—guaranteed. Call now for same-day installation throughout metro Tucson.",
         "buttonText": "Schedule Ceiling Fan Installation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -451,7 +451,7 @@ export const ceilingfaninstallationData: ServicePageData = {
         "heading": "Professional Ceiling Fan Installation—Guaranteed Results",
         "content": "Stop struggling with DIY installation or living with wobbly, inefficient fans. Our ROC-licensed electricians install ceiling fans correctly the first time—safe, quiet, and energy-efficient. Same-day service available throughout metro Tucson. Call now for free consultation and upfront pricing.",
         "buttonText": "Call For Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -648,7 +648,7 @@ export const ceilingfaninstallationData: ServicePageData = {
         "heading": "Expert Ceiling Fan Installation Throughout Metro Tucson",
         "content": "Ready to reduce your energy bills 30-40% while improving year-round comfort? Our licensed electricians provide professional ceiling fan installation with guaranteed code compliance, proper safety, and optimal performance. Same-day service available. Call now for free consultation and upfront pricing—no hidden fees, no surprises.",
         "buttonText": "Call (520) 333-2665",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       }
   ]
   },

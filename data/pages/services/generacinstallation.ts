@@ -76,7 +76,7 @@ export const generacinstallationData: ServicePageData = {
             "heading": "Ready to Protect Your Home with GENERAC Backup Power?",
             "content": "Get your free in-home generator consultation and detailed installation estimate. Our certified GENERAC specialists will calculate your exact power requirements and recommend the optimal system for your home. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -505,7 +505,7 @@ export const generacinstallationData: ServicePageData = {
             "heading": "Get Your Free GENERAC Generator Consultation",
             "content": "Ready to protect your Tucson home with reliable backup power? Schedule your free in-home consultation today. Our GENERAC-certified specialists will assess your power requirements, recommend the optimal generator size, and provide transparent pricing. Most consultations completed in 60 minutes. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

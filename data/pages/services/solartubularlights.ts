@@ -72,7 +72,7 @@ export const solartubularlightsData: ServicePageData = {
             "heading": "Ready to Eliminate Daytime Lighting Costs with Tubular Skylights?",
             "content": "Get expert consultation and honest pricing from Tucson's highest-rated tubular light specialists. Call (520) 333-2665 or schedule online for same-day estimates.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -565,7 +565,7 @@ export const solartubularlightsData: ServicePageData = {
             "heading": "Ready to Experience the Benefits of Natural Daylighting?",
             "content": "Get expert consultation, accurate pricing, and professional installation from Tucson's tubular skylight specialists. Free estimates, guaranteed leak-free performance, and decades of savings. Call (520) 333-2665 or schedule online today.",
             "buttonText": "Schedule Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -684,7 +684,7 @@ export const solartubularlightsData: ServicePageData = {
             "heading": "Get Expert Tubular Skylight Installation Today",
             "content": "Stop wasting money on daytime electric lighting. Transform your dark interior spaces with brilliant natural daylight. Call (520) 333-2665 for free consultation and accurate pricing from Tucson's tubular skylight experts.",
             "buttonText": "Call Now for Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

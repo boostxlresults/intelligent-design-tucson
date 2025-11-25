@@ -79,7 +79,7 @@ export const electricaleasttucsonData: ServicePageData = {
         "heading": "Need Electrical Service in East Tucson Today?",
         "content": "Get fast, expert service from licensed electricians who know East Tucson homes. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -222,7 +222,7 @@ export const electricaleasttucsonData: ServicePageData = {
         "heading": "Schedule Your East Tucson Electrical Service Today",
         "content": "Experience the Intelligent Design difference. Same-day service available. Fair, upfront pricing. Licensed master electricians. Call (520) 333-2665 or schedule online now.",
         "buttonText": "Get Started Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -315,7 +315,7 @@ export const electricaleasttucsonData: ServicePageData = {
         "heading": "Ready to Upgrade Your East Tucson Home's Electrical System?",
         "content": "Get honest recommendations, transparent pricing, and expert service from East Tucson's most trusted electrician. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

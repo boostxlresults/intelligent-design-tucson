@@ -69,7 +69,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
         "heading": "Need Electrical Services in Red Rock / Casa Grande Today?",
         "content": "Get fast, expert service from licensed technicians. Call (520) 333-2665 or schedule online for same-day service.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
         "heading": "Protect Your Red Rock / Casa Grande Home's Electronics",
         "content": "Professional surge protection and electrical panel upgrades keep your home safe. Call (520) 333-2665 for expert installation.",
         "buttonText": "Get Free Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
         "heading": "Ready to Upgrade Your Red Rock / Casa Grande Home's Electrical System?",
         "content": "From panel upgrades to smart home integration, our licensed electricians deliver safe, reliable electrical solutions. Call (520) 333-2665 today.",
         "buttonText": "Schedule Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

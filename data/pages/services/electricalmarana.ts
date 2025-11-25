@@ -75,7 +75,7 @@ export const electricalmaranaData: ServicePageData = {
         "heading": "Need Electrical Service in Marana Today?",
         "content": "Get fast, expert service from Marana's highest-rated electrical company. 68-minute average response to Gladden Farms, Dove Mountain & all Marana. Same-day service available. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -248,7 +248,7 @@ export const electricalmaranaData: ServicePageData = {
         "heading": "Ready to Experience Our 8-Step Excellence?",
         "content": "Schedule electrical service today and discover why 6,200+ Marana families trust Intelligent Design. Same-day service available. Call (520) 333-2665 or schedule online now.",
         "buttonText": "Get Started Today",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -335,7 +335,7 @@ export const electricalmaranaData: ServicePageData = {
         "heading": "Invest in Quality Electrical Service Today",
         "content": "Experience the Intelligent Design difference with professional electrical service backed by 45+ years expertise, 22,000+ five-star reviews, and industry-leading warranties. 0% financing available. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service & Get Quote",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -376,7 +376,7 @@ export const electricalmaranaData: ServicePageData = {
         "heading": "Experience the Intelligent Design Difference",
         "content": "Join 6,200+ Marana families who trust Intelligent Design for expert electrical service. Schedule today and discover why we're Marana's highest-rated electrical company. Call (520) 333-2665 or schedule online now.",
         "buttonText": "Schedule Your Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

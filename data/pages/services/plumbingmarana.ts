@@ -76,7 +76,7 @@ export const plumbingmaranaData: ServicePageData = {
             "heading": "Need Plumbing Service in Marana Today?",
             "content": "Get expert service from licensed professionals who specialize in Marana's larger homes and hard water challenges. Average 62-minute arrival. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -311,7 +311,7 @@ export const plumbingmaranaData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join 2,400+ Marana families who trust us with their plumbing systems. ServiceTitan-powered fast response. Licensed master plumbers. 22,000+ 5-star reviews. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

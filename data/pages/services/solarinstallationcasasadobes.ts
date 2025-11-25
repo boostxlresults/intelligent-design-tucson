@@ -76,7 +76,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar in Casas Adobes?",
             "content": "Get your free solar consultation and custom system design. See exactly how much you'll save with solar panels on your Casas Adobes home. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Free Solar Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -157,7 +157,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
             "heading": "See Your Casas Adobes Solar Savings Potential",
             "content": "Get a free custom solar design showing exactly how much energy your roof can produce and how much you'll save each year. No-pressure consultation. Transparent pricing. Expert guidance. Call (520) 333-2665.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -210,7 +210,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
             "heading": "Get Your Free Casas Adobes Solar Quote Today",
             "content": "See exactly how much you'll save with solar panels on your Casas Adobes home. Free consultation. Custom design. Transparent pricing. No-pressure guidance from Arizona solar experts. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -557,7 +557,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
             "heading": "Schedule Your Free Solar Consultation",
             "content": "Call (520) 333-2665 or schedule online to start your solar journey. Expert guidance. Premium equipment. Transparent pricing. 45+ years serving Casas Adobes families.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -630,7 +630,7 @@ export const solarinstallationcasasadobesData: ServicePageData = {
             "heading": "Contact Intelligent Design for Casas Adobes Solar Installation",
             "content": "Ready to start your solar journey? Call (520) 333-2665 for your free consultation. Our Casas Adobes solar experts provide honest assessments, transparent pricing, and quality installations backed by 45+ years of trusted service.",
             "buttonText": "Get Free Solar Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "paragraph",

@@ -76,7 +76,7 @@ export const ductinstallationData: ServicePageData = {
             "heading": "Ready for High-Performance Ductwork?",
             "content": "Get your free in-home consultation with transparent pricing and financing options. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -515,7 +515,7 @@ export const ductinstallationData: ServicePageData = {
             "heading": "Ready to Invest in High-Performance Ductwork?",
             "content": "Get your free consultation and detailed cost estimate with ROI analysis. Discover how much you can save with properly designed ductwork. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -76,7 +76,7 @@ export const commercialroofrepairData: ServicePageData = {
             "heading": "Commercial Roof Emergency? Immediate Response Available 24/7",
             "content": "Active roof leaks threaten inventory, equipment, and business operations. Our commercial emergency teams respond in under 90 minutes with equipment to stop water intrusion immediately. Call (520) 333-2665 now or request emergency dispatch online.",
             "buttonText": "Call For Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -707,7 +707,7 @@ export const commercialroofrepairData: ServicePageData = {
             "heading": "Schedule Your Free Commercial Roof Inspection Today",
             "content": "Don't wait for small problems to become emergency disasters. Our comprehensive commercial roof inspections identify issues early, extend roof life, and save you thousands in emergency repairs. Call (520) 333-2665 or schedule your free inspection online now.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

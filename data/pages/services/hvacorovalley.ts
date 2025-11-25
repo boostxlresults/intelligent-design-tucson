@@ -78,7 +78,7 @@ export const hvacorovalleyData: ServicePageData = {
             "heading": "Need HVAC Service in Oro Valley Today?",
             "content": "Get fast, expert service from Oro Valley's highest-rated HVAC company. Average 68-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -724,7 +724,7 @@ export const hvacorovalleyData: ServicePageData = {
             "heading": "Ready to Experience the Intelligent Design Difference?",
             "content": "Schedule your HVAC service with Oro Valley's most trusted team. Call (520) 333-2665 or book online now. Same-day service available!",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

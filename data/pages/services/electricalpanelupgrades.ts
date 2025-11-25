@@ -78,7 +78,7 @@ export const electricalpanelupgradesData: ServicePageData = {
             "heading": "Ready to Upgrade Your Electrical Panel?",
             "content": "Get your free electrical panel assessment and detailed upgrade estimate. Our licensed electricians will calculate your home's exact capacity needs and provide transparent pricing. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -579,7 +579,7 @@ export const electricalpanelupgradesData: ServicePageData = {
             "heading": "Get Your Custom Panel Upgrade Estimate Today",
             "content": "Schedule your free electrical panel assessment and receive a detailed written estimate with transparent pricing and financing options. Our licensed electricians will calculate your exact capacity needs, recommend optimal solutions, and provide honest guidance. Call (520) 333-2665 or book online now.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

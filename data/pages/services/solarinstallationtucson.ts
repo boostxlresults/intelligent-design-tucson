@@ -76,7 +76,7 @@ export const solarinstallationtucsonData: ServicePageData = {
             "heading": "Ready to Start Saving with Solar?",
             "content": "Get your free solar consultation and custom quote from Tucson's highest-rated solar company. Call (520) 333-2665 or schedule online for fast, expert service.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -650,7 +650,7 @@ export const waterheatersData: ServicePageData = {
             "heading": "Ready to Upgrade Your Water Heater?",
             "content": "Get your free in-home consultation with expert sizing recommendations and transparent pricing. Same-day installation available for emergencies. Our water heater specialists will help you choose the perfect system for your home and budget.",
             "buttonText": "Call for Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "cta",

@@ -76,7 +76,7 @@ export const circuitbreakersData: ServicePageData = {
             "heading": "Circuit Breaker Tripping Frequently?",
             "content": "Get immediate circuit breaker diagnosis and repair. Our licensed electricians will identify the root cause—faulty breaker, overloaded circuit, or dangerous wiring—and provide safe, code-compliant solutions. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Breaker Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -217,7 +217,7 @@ export const circuitbreakersData: ServicePageData = {
             "heading": "Emergency Breaker Service Available",
             "content": "Electrical panel and breaker problems can be serious safety hazards. If you're experiencing frequent trips, burning smells, or breakers that won't reset, don't wait. We offer same-day service for urgent electrical issues. Call (520) 333-2665 for immediate assistance.",
             "buttonText": "Call for Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -522,7 +522,7 @@ export const circuitbreakersData: ServicePageData = {
             "heading": "Schedule Your Circuit Breaker Service Today",
             "content": "Don't wait for electrical problems to become safety hazards. Get professional circuit breaker diagnosis, repair, or replacement from Tucson's most trusted electrical contractor. Call (520) 333-2665 or schedule online for same-day service availability.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

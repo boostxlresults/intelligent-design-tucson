@@ -75,7 +75,7 @@ export const electricaltortolitaData: ServicePageData = {
             "heading": "Need Electrical Service in Tortolita Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving Tortolita's modern homes since 1979. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

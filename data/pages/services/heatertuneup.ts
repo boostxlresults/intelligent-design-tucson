@@ -76,7 +76,7 @@ export const heatertuneupData: ServicePageData = {
             "heading": "Schedule Your Heater Tune-Up Today",
             "content": "Prevent winter breakdowns with professional maintenance. Same-day service available. Call (520) 333-2665 or schedule online now with [link:/financing|flexible financing options available].",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -660,7 +660,7 @@ export const heatertuneupData: ServicePageData = {
             "heading": "Schedule Professional Heater Tune-Up Service",
             "content": "Protect your comfort and investment with comprehensive preventive maintenance. Same-day service available throughout Tucson metro. Call (520) 333-2665 or schedule online now with [link:/financing|convenient financing options] available through approved credit for maintenance plans and repairs.",
             "buttonText": "Schedule Service Online",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "paragraph",

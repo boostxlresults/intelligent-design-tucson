@@ -84,7 +84,7 @@ export const sinkrepairinstallationData: ServicePageData = {
             "heading": "Need Expert Sink Installation or Repair?",
             "content": "Get your free consultation with honest recommendations and transparent pricing. Same-day installation available for most projects. Stop leaks, upgrade fixtures, and enjoy beautiful, functional sinks for decades. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -155,7 +155,7 @@ export const sinkrepairinstallationData: ServicePageData = {
             "heading": "Ready for Professional Sink Installation or Repair?",
             "content": "Join thousands of satisfied Tucson homeowners who trust Intelligent Design for expert sink and faucet work. Free consultation, same-day service available, and [link:/services/financing|flexible financing options]. Call (520) 333-2665 now.",
             "buttonText": "Get Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -252,7 +252,7 @@ export const sinkrepairinstallationData: ServicePageData = {
             "heading": "Experience Our Professional Installation Process",
             "content": "See why Tucson homeowners rate our installation process 4.97 stars. Meticulous workmanship, clear communication, and spotless cleanup on every job. Schedule your free consultation today. Call (520) 333-2665.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -429,7 +429,7 @@ export const sinkrepairinstallationData: ServicePageData = {
             "heading": "Ready to Upgrade Your Kitchen or Bathroom Sink?",
             "content": "Get expert consultation on sink selection, transparent pricing, and professional installation backed by 45+ years of Tucson experience. Free consultation, same-day service available, [link:/services/financing|flexible financing], and satisfaction guaranteed. Call (520) 333-2665 now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -650,7 +650,7 @@ export const sinkrepairinstallationData: ServicePageData = {
             "heading": "Experience the Intelligent Design Difference",
             "content": "Join thousands of satisfied Tucson homeowners who trust us for professional sink installation and repair. Free consultation, honest recommendations, transparent pricing, same-day service, and satisfaction guaranteed. Call (520) 333-2665 now or schedule online.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -80,7 +80,7 @@ export const trenchlessrepairData: ServicePageData = {
             "heading": "Save Your Landscaping with Trenchless Technology",
             "content": "Don't let traditional excavation destroy your property. Call (520) 333-2665 or schedule online for a free camera inspection and trenchless repair evaluation. Same-day service available.",
             "buttonText": "Get Free Trenchless Evaluation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -309,7 +309,7 @@ export const trenchlessrepairData: ServicePageData = {
             "heading": "Get Your Custom Trenchless Repair Quote Today",
             "content": "Every property is unique. Schedule a free camera inspection and receive a detailed quote for trenchless repair specific to your situation. Call (520) 333-2665 or book online for same-day service.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -504,7 +504,7 @@ export const trenchlessrepairData: ServicePageData = {
             "heading": "Schedule Your Free Trenchless Evaluation Today",
             "content": "Don't wait for a catastrophic sewer failure. Call (520) 333-2665 or schedule online for a free camera inspection and expert trenchless repair evaluation. Same-day service available throughout metro Tucson.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "paragraph",
@@ -633,7 +633,7 @@ export const trenchlessrepairData: ServicePageData = {
             "heading": "Ready to Save Your Property with Trenchless Technology?",
             "content": "Stop worrying about sewer line problems destroying your landscaping and budget. Call (520) 333-2665 now for your free camera inspection and expert trenchless repair evaluation from Tucson's IPT-certified specialists.",
             "buttonText": "Call Now (520) 333-2665)",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

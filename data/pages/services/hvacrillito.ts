@@ -78,7 +78,7 @@ export const hvacrillitoData: ServicePageData = {
             "heading": "Need HVAC Service in Rillito Today?",
             "content": "Get fast, expert service from Rillito's highest-rated HVAC company. Average 70-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -565,7 +565,7 @@ export const hvacrillitoData: ServicePageData = {
             "heading": "Need Emergency HVAC Service in Rillito?",
             "content": "Don't suffer in extreme temperatures. Our emergency technicians are standing by 24/7 to restore your comfort. Average 70-minute response time.",
             "buttonText": "Call Emergency Service: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -77,7 +77,7 @@ export const plumbingcortaroData: ServicePageData = {
             "heading": "Need a Plumber in Cortaro Today?",
             "content": "Get fast, affordable service from Cortaro's highest-rated plumbing company. Upfront pricing, flexible financing. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -288,7 +288,7 @@ export const plumbingcortaroData: ServicePageData = {
             "heading": "Schedule Your Cortaro Plumbing Service Today",
             "content": "Don't let plumbing problems disrupt your family's routine or drain your wallet. Get honest, affordable service from Cortaro's most trusted plumber. Call (520) 333-2665 or schedule online for same-day service with upfront pricing and flexible financing.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -387,7 +387,7 @@ export const plumbingcortaroData: ServicePageData = {
             "heading": "Schedule Your Cortaro Plumbing Service Today",
             "content": "Don't let plumbing problems disrupt your family's routine or drain your wallet. Get honest, affordable service from Cortaro's most trusted plumber. Call (520) 333-2665 or schedule online for same-day service with upfront pricing and flexible financing.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

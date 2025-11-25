@@ -76,7 +76,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
             "heading": "Ready to Eliminate Your Electric Bill?",
             "content": "Get your free solar consultation and custom quote from Green Valley's highest-rated solar company. Serving retirement community homeowners since 1979. Call (520) 333-2665 or schedule online for fast, expert service.",
             "buttonText": "Get Free Solar Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -238,7 +238,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
             "heading": "Experience Our Proven Process",
             "content": "From consultation to lifetime support, we guide Green Valley retirees through every step of solar installation. Start your journey to energy independence today with a free consultation.",
             "buttonText": "Start Your Solar Journey",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -361,7 +361,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
             "heading": "Get Your Custom Solar Quote",
             "content": "Receive detailed pricing, ROI analysis, and financing options customized for your Green Valley home. Free consultation includes 3D roof modeling, production estimates, and financial projections. No obligation.",
             "buttonText": "Get Free Custom Quote",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

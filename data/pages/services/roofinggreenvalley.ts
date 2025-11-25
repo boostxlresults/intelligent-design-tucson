@@ -76,7 +76,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Need Roofing Service in Green Valley?",
             "content": "Get expert service from Green Valley's retirement community roofing specialists. Senior-friendly consultations, flexible financing, insurance assistance. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -157,7 +157,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Facing Roofing Decisions on Fixed Income?",
             "content": "Get honest assessment from Green Valley's retirement community specialists. We provide options, not pressure. Senior-friendly financing available. Call (520) 333-2665 for free consultation.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -254,7 +254,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Ready to Start Your Roofing Project?",
             "content": "Experience our proven 8-step process delivering exceptional results for Green Valley homeowners. Schedule free comprehensive inspection. Call (520) 333-2665 or book online.",
             "buttonText": "Schedule Free Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -321,7 +321,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Worried About Roofing Costs on Fixed Income?",
             "content": "Get honest assessment with senior-friendly financing options. No pressure, just solutions. 10% senior discount available. Call (520) 333-2665 for free consultation.",
             "buttonText": "Explore Payment Options",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -420,7 +420,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Protect Your Green Valley Home Today",
             "content": "Schedule free comprehensive roofing assessment from Green Valley's retirement community specialists. Honest evaluations, senior-friendly service, flexible financing. Call (520) 333-2665 now.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -627,7 +627,7 @@ export const roofinggreenvalleyData: ServicePageData = {
             "heading": "Want Lower Cooling Costs?",
             "content": "Combine energy-efficient roofing with HVAC optimization for maximum savings. Free home energy assessment available. Call (520) 333-2665 to explore options.",
             "buttonText": "Schedule Energy Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

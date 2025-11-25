@@ -643,7 +643,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
             "heading": "Need Expert Heating Service in Gladden Farms Today?",
             "content": "Contact Intelligent Design for fast, reliable heating service from northwest Tucson's most trusted HVAC company. Call (520) 333-2665 for immediate scheduling or click below to book online. Our NATE-certified technicians serve all of Gladden Farms master-planned community.",
             "buttonText": "Schedule Your Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

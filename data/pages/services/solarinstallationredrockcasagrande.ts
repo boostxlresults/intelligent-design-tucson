@@ -69,7 +69,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
         "heading": "Start Saving with Solar in Red Rock / Casa Grande",
         "content": "Discover how much you can save with solar panels designed for maximum performance. Call (520) 333-2665 for free solar assessment and proposal.",
         "buttonText": "Get Free Solar Estimate",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -128,7 +128,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
         "heading": "Ready to Go Solar in Red Rock / Casa Grande?",
         "content": "Join hundreds of southern Arizona families saving thousands with solar. Expert installation, premium equipment, maximum incentives. Call (520) 333-2665.",
         "buttonText": "Schedule Solar Consultation",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -191,7 +191,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
         "heading": "Maximize Your Solar Investment in Red Rock / Casa Grande",
         "content": "Premium equipment, expert installation, comprehensive monitoring. Join the solar revolution with southern Arizona's most trusted installer. Call (520) 333-2665.",
         "buttonText": "Get Solar Proposal",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

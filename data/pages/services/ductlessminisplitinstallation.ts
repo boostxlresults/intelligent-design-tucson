@@ -78,7 +78,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
             "heading": "Ready for Energy-Efficient Ductless Cooling?",
             "content": "Get your free in-home consultation with transparent pricing and financing options. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -410,7 +410,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
             "heading": "Not Sure Which System Is Right for Your Home?",
             "content": "Get a free in-home consultation with detailed recommendations and transparent pricing for all options. We'll help you choose the perfect solution.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

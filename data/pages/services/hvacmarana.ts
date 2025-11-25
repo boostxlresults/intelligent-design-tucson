@@ -81,7 +81,7 @@ export const hvacmaranaData: ServicePageData = {
             "heading": "Need HVAC Service in Marana Today?",
             "content": "Get fast, expert service from Marana's highest-rated HVAC company. Average 68-minute arrival time. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -245,7 +245,7 @@ export const hvacmaranaData: ServicePageData = {
             "heading": "Experience Our Professional Service Process",
             "content": "See why Marana homeowners choose Intelligent Design for all their HVAC needs. Schedule your service call today.",
             "buttonText": "Schedule Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -462,7 +462,7 @@ export const hvacmaranaData: ServicePageData = {
             "heading": "Ready to Experience the Intelligent Design Difference?",
             "content": "Join over 8,500 Marana families who trust us for all their HVAC needs. Schedule your service or free consultation today.",
             "buttonText": "Schedule Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

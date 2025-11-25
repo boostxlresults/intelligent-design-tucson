@@ -76,7 +76,7 @@ export const plumbingsahuaritaData: ServicePageData = {
             "heading": "Need Plumbing Service in Sahuarita Today?",
             "content": "Get expert service from licensed professionals who specialize in Sahuarita's family homes and modern plumbing systems. Average 68-minute arrival. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -361,7 +361,7 @@ export const plumbingsahuaritaData: ServicePageData = {
             "heading": "Ready to Invest in Your Sahuarita Home's Plumbing?",
             "content": "Get expert consultation and transparent pricing from Sahuarita's most trusted plumbing company. 0% financing available making monthly payments less than your savings. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

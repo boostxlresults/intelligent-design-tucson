@@ -76,7 +76,7 @@ export const plumbingorovalleyData: ServicePageData = {
             "heading": "Need Plumbing Service in Oro Valley Today?",
             "content": "Get expert service from licensed professionals who understand Oro Valley's unique requirements. Average 58-minute arrival. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -393,7 +393,7 @@ export const plumbingorovalleyData: ServicePageData = {
             "heading": "Ready to Invest in Your Oro Valley Home's Plumbing?",
             "content": "Get expert consultation and transparent pricing from Oro Valley's highest-rated plumbing company. 0% financing available. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

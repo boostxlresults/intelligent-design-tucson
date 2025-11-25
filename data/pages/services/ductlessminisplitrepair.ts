@@ -78,7 +78,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
             "heading": "Need Emergency Ductless Mini Split Repair?",
             "content": "We're available 24/7 for ductless system emergencies. Don't let a room stay dangerously hot! Call (520) 333-2665 or schedule online now for same-day service.",
             "buttonText": "Call For Emergency Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

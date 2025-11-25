@@ -80,7 +80,7 @@ export const heaterserviceData: ServicePageData = {
             "heading": "Schedule Your Heater Service Today",
             "content": "Prevent winter breakdowns with professional maintenance. Same-day service available. Call (520) 333-2665 or schedule online now with flexible financing options available through approved credit.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -642,7 +642,7 @@ export const heaterserviceData: ServicePageData = {
             "heading": "Protect Your Heating Investment with Professional Service",
             "content": "Schedule your heater service today and enjoy reliable winter comfort, lower energy bills, and peace of mind. Call (520) 333-2665 or schedule online. Ask about our flexible financing options with approved credit and maintenance plan membership benefits!",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
     ]
   },

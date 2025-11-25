@@ -76,7 +76,7 @@ export const generacrepairData: ServicePageData = {
         "heading": "Generator Failed? Get Emergency Service Now!",
         "content": "Don't wait without backup power. Our GENERAC-certified technicians respond fast with fully-stocked trucks ready to diagnose and repair your generator. Call now for same-day service.",
         "buttonText": "Call For Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -663,7 +663,7 @@ export const generacrepairData: ServicePageData = {
         "heading": "Schedule Your GENERAC Generator Service Today",
         "content": "Don't wait for generator failure during the next power outage. Schedule annual maintenance or emergency repair service with Tucson's highest-rated GENERAC specialists. Factory-trained technicians, genuine parts, and guaranteed satisfaction.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

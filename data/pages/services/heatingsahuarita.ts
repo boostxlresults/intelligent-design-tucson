@@ -77,7 +77,7 @@ export const heatingsahuaritaData: ServicePageData = {
             "heading": "Need Heating Service in Sahuarita Today?",
             "content": "Get fast, expert service from Sahuarita's highest-rated heating company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -366,7 +366,7 @@ export const heatingsahuaritaData: ServicePageData = {
             "heading": "Ready to Optimize Your Sahuarita Home's Heating System?",
             "content": "Schedule your comprehensive heating evaluation with Sahuarita's most trusted heating experts. Get honest recommendations, upfront pricing, and family-budget solutions. Call (520) 333-2665 or book online for fast service.",
             "buttonText": "Schedule Your Heating Evaluation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -563,7 +563,7 @@ export const heatingsahuaritaData: ServicePageData = {
             "heading": "Ready to Upgrade Your Sahuarita Home's Heating System?",
             "content": "Schedule your free comprehensive heating evaluation with Sahuarita's heating experts. Get honest recommendations, detailed cost analysis, and family-budget solutions. Call (520) 333-2665 or book online.",
             "buttonText": "Get Your Free Heating Evaluation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -662,7 +662,7 @@ export const heatingsahuaritaData: ServicePageData = {
             "heading": "Schedule Your Free Sahuarita Heating Consultation Today",
             "content": "Experience the Intelligent Design difference. Get expert evaluation, honest recommendations, and family-budget solutions from Sahuarita's most trusted heating company. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Get Started Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

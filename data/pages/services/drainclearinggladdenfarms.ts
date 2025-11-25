@@ -80,7 +80,7 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
             "heading": "Schedule Your Drain Clearing Today",
             "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $99 drain clearing special available. Flexible financing options through approved credit.",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -641,7 +641,7 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
             "heading": "Schedule Professional Drain Clearing Today",
             "content": "Don't let clogged drains disrupt your life or damage your home. Fast, professional drain clearing with same-day service available throughout Tucson and surrounding areas. Call (520) 333-2665 or schedule online now. Ask about our $99 drain clearing special. Flexible financing options available through approved credit. 24/7 emergency service for urgent situations. 100% satisfaction guaranteed.",
             "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

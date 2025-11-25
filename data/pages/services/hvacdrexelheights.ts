@@ -77,7 +77,7 @@ export const hvacdrexelheightsData: ServicePageData = {
             "heading": "Need AC Service in Drexel Heights Today?",
             "content": "Get fast, expert service from Tucson's highest-rated HVAC company. Call (520) 333-2665 or schedule online for same-day service in Drexel Heights.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

@@ -419,7 +419,7 @@ export const hvactortolitaData: ServicePageData = {
             "heading": "Need Emergency HVAC Service Now?",
             "content": "Don't suffer in discomfort. Call our 24/7 emergency line for immediate assistance: (520) 333-2665",
             "buttonText": "Call Emergency Line",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

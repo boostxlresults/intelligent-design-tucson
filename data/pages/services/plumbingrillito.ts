@@ -76,7 +76,7 @@ export const plumbingrillitoData: ServicePageData = {
             "heading": "Need Plumbing Service in Rillito Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated plumbing company. Serving Rillito since 1979. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -171,7 +171,7 @@ export const plumbingrillitoData: ServicePageData = {
             "heading": "Schedule Your Rillito Plumbing Service Today",
             "content": "Don't wait for plumbing emergencies. Get expert service from Rillito's most trusted plumbing company. Same-day service available. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",

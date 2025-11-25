@@ -75,7 +75,7 @@ export const electricalritaranchData: ServicePageData = {
             "heading": "Need Electrical Service in Rita Ranch Today?",
             "content": "Get fast, expert service from Southern Arizona's highest-rated electrical company. Serving Rita Ranch families since 2000. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -323,7 +323,7 @@ export const electricalritaranchData: ServicePageData = {
             "heading": "Start Planning Your Rita Ranch Home Electrical Upgrades",
             "content": "Schedule your free comprehensive electrical assessment. Our experts will evaluate your current system, discuss your goals, and provide detailed recommendations with transparent pricing. Serving Rita Ranch families since 2000. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -519,7 +519,7 @@ export const electricalritaranchData: ServicePageData = {
             "heading": "Get Accurate Pricing for Your Rita Ranch Electrical Project",
             "content": "Schedule your free electrical assessment and receive detailed pricing tailored to your home and goals. Transparent pricing, expert guidance, same-day service available. Call (520) 333-2665 or schedule online.",
             "buttonText": "Schedule Free Assessment",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -656,7 +656,7 @@ export const electricalritaranchData: ServicePageData = {
             "heading": "Ready to Upgrade Your Rita Ranch Home's Electrical System?",
             "content": "Call (520) 333-2665 now or schedule online for same-day service. Join 1,400+ Rita Ranch families who trust Intelligent Design for all their electrical needs. BBB A+ rated since 1979. ROC #340962 licensed & insured.",
             "buttonText": "Call Now: (520) 333-2665",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -68,7 +68,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
         "heading": "Need Premium Drain or Sewer Service in Catalina Foothills Today?",
         "content": "Experience white-glove service from licensed plumbing professionals who understand luxury homes. Call (520) 333-2665 or schedule online.",
         "buttonText": "Schedule Service Now",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -127,7 +127,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
         "heading": "Protect Your Luxury Home with Professional Hydro-Jetting",
         "content": "Eliminate recurring clogs and maintain optimal drain performance. Premium service for premium homes. Call (520) 333-2665 today.",
         "buttonText": "Schedule Hydro-Jetting",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",
@@ -204,7 +204,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
         "heading": "Emergency Drain Service for Catalina Foothills Estates",
         "content": "Available 24/7 for urgent drain and sewer issues. Fast response, professional service, property protection guaranteed. Call (520) 333-2665 now.",
         "buttonText": "Get Emergency Service",
-        "buttonLink": "tel:5203332665"
+        "buttonLink": "tel:+15203332665"
       },
       {
         "type": "heading",

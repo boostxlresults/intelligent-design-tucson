@@ -76,7 +76,7 @@ export const hybridwaterheatersData: ServicePageData = {
             "heading": "Ready to Cut Your Water Heating Costs by 70%?",
             "content": "Get your free in-home hybrid water heater consultation with expert efficiency analysis and transparent pricing. We'll calculate your exact savings potential and available rebates. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "cta",
@@ -202,7 +202,7 @@ export const hybridwaterheatersData: ServicePageData = {
             "heading": "Join Hundreds of Tucson Families Saving with Hybrid Water Heaters",
             "content": "Get your free consultation and savings analysis. We'll calculate your exact savings, available rebates, and payback period. Same-day installation available. Call (520) 333-2665 now.",
             "buttonText": "Calculate My Savings",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -744,7 +744,7 @@ export const hybridwaterheatersData: ServicePageData = {
             "heading": "Ready to Start Saving with a Hybrid Water Heater?",
             "content": "Get your free in-home consultation with efficiency analysis, rebate planning, and transparent pricing. Same-day installation available. Join thousands of Tucson families saving $300-$500 annually. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Free Consultation",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

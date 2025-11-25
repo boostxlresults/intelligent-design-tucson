@@ -75,7 +75,7 @@ export const electricaltucsonData: ServicePageData = {
             "heading": "Need Electrical Service Today?",
             "content": "Get fast, expert service from Tucson's highest-rated electrical company. Call (520) 333-2665 or schedule online for same-day service.",
             "buttonText": "Schedule Service Now",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -218,7 +218,7 @@ export const electricaltucsonData: ServicePageData = {
             "heading": "Schedule Your Electrical Safety Inspection",
             "content": "Protect your family and home with a professional electrical safety inspection. Call (520) 333-2665 or book online.",
             "buttonText": "Book Inspection",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
@@ -439,7 +439,7 @@ export const electricaltucsonData: ServicePageData = {
             "heading": "Ready to Upgrade Your Electrical System?",
             "content": "Get expert electrical service from Tucson's highest-rated electrical company. Free estimates, upfront pricing, licensed electricians. Call (520) 333-2665 or schedule online.",
             "buttonText": "Get Free Estimate",
-            "buttonLink": "tel:5203332665"
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
