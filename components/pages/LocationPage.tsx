@@ -51,8 +51,6 @@ const iconMap: Record<string, any> = {
 };
 
 export default function LocationPage({ data, schemas }: LocationPageProps) {
-  console.log(`[LocationPage] ${data.slug}: Received ${schemas?.length || 0} schemas`);
-  
   return (
     <article className="min-h-screen">
       {/* JSON-LD Schema Markup - Client component workaround for Next.js script tag limitation */}

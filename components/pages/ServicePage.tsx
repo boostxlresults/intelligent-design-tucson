@@ -30,8 +30,6 @@ interface ServicePageProps {
 }
 
 export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
-  console.log(`[ServicePage] Received ${schemas?.length || 0} schemas`);
-  
   // Show drain clearing special coupon for drain clearing and rooter pages
   const showDrainSpecial = slug === 'drain-clearing-tucson' || slug === 'rooter-special';
   
