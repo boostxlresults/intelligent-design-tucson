@@ -37,15 +37,38 @@ export function parseMarkdown(markdownContent: string): ParsedBlogPost {
   
   const frontmatter = data as BlogPostFrontmatter;
   
-  const htmlContent = convertMarkdownToHTML(content);
+  // Clean up the content:
+  // 1. Remove the first h1 if it matches the title (to avoid duplicate h1s)
+  // 2. Remove "Jump to" table of contents section that was scraped
+  let cleanedContent = content;
+  
+  // Remove first h1 that matches the title (handle leading whitespace/newlines)
+  const firstH1Match = cleanedContent.match(/^\s*#\s+(.+?)[\r\n]/);
+  if (firstH1Match) {
+    const h1Text = firstH1Match[1].trim();
+    const titleNormalized = frontmatter.title.trim().toLowerCase();
+    const h1Normalized = h1Text.toLowerCase();
+    if (h1Normalized === titleNormalized || titleNormalized.includes(h1Normalized) || h1Normalized.includes(titleNormalized)) {
+      cleanedContent = cleanedContent.replace(/^\s*#\s+.+?[\r\n]+/, '');
+    }
+  }
+  
+  // Remove "Jump to" navigation section (scraped artifact)
+  cleanedContent = cleanedContent.replace(/^\*\*Jump to\*\*\s*\[.+?\]\(#\)\s*[\r\n]*/m, '');
+  
+  // Remove table of contents links at the start (numbered section links)
+  // Pattern: [1) Something](#anchor) or [1.1) Something](#anchor)
+  cleanedContent = cleanedContent.replace(/^\[\d+(?:\.\d+)*\)\s+[^\]]+\]\([^)]+\)\s*[\r\n]*/gm, '');
+  
+  const htmlContent = convertMarkdownToHTML(cleanedContent);
   
   const readingTime = calculateReadingTime(content);
   
-  const tableOfContents = extractTableOfContents(content);
+  const tableOfContents = extractTableOfContents(cleanedContent);
   
   return {
     frontmatter,
-    content,
+    content: cleanedContent,
     htmlContent,
     readingTime,
     tableOfContents,
