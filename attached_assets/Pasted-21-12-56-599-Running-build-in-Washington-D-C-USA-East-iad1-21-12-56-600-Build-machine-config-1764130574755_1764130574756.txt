@@ -1,0 +1,109 @@
+21:12:56.599 Running build in Washington, D.C., USA (East) – iad1
+21:12:56.600 Build machine configuration: 4 cores, 8 GB
+21:12:57.064 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: d765419)
+21:13:12.177 Cloning completed: 15.112s
+21:13:12.471 Restored build cache from previous deployment (Gztf7bknxLGAqeVhMqDeJZ6NJ6T2)
+21:13:13.392 Running "vercel build"
+21:13:14.724 Vercel CLI 48.10.5
+21:13:15.286 Installing dependencies...
+21:13:17.067 
+21:13:17.068 up to date in 1s
+21:13:17.068 
+21:13:17.068 176 packages are looking for funding
+21:13:17.068   run `npm fund` for details
+21:13:17.100 Detected Next.js version: 16.0.1
+21:13:17.105 Running "npm run build"
+21:13:17.402 
+21:13:17.402 > intelligent-design-nextjs@1.0.0 build
+21:13:17.403 > next build
+21:13:17.403 
+21:13:19.420 ✅ Generated 775 service redirects (266 canonical, 258 aliases) for SEO preservation
+21:13:19.475    ▲ Next.js 16.0.1 (Turbopack)
+21:13:19.475 
+21:13:19.633 ✅ Generated 775 service redirects (266 canonical, 258 aliases) for SEO preservation
+21:13:19.682    Creating an optimized production build ...
+21:13:34.740  ✓ Compiled successfully in 14.3s
+21:13:34.745    Running TypeScript ...
+21:13:49.089    Collecting page data ...
+21:13:50.192    Generating static pages (0/1074) ...
+21:13:51.340 [StructuredData] Rendering 4 schemas
+21:13:56.066    Generating static pages (268/1074) 
+21:13:59.453    Generating static pages (536/1074) 
+21:14:01.185 [StructuredData] Rendering 1 schemas
+21:14:01.193 [StructuredData] Rendering 1 schemas
+21:14:01.681 [StructuredData] Rendering 1 schemas
+21:14:01.708 [StructuredData] Rendering 1 schemas
+21:14:03.147    Generating static pages (805/1074) 
+21:14:06.648  ✓ Generating static pages (1074/1074) in 16.5s
+21:14:06.723    Finalizing page optimization ...
+21:14:09.364 
+21:14:09.367 Route (app)
+21:14:09.367 ┌ ○ /
+21:14:09.367 ├ ○ /_not-found
+21:14:09.367 ├ ● /[slug]
+21:14:09.367 │ ├ /ac-installation-tucson
+21:14:09.368 │ ├ /ac-repair-tucson
+21:14:09.368 │ ├ /ac-service-tucson
+21:14:09.368 │ └ [+381 more paths]
+21:14:09.368 ├ ○ /about
+21:14:09.368 ├ ○ /ac-repair-tucson
+21:14:09.368 ├ ○ /ac-system-faqs
+21:14:09.368 ├ ○ /blog
+21:14:09.368 ├ ● /blog/[category]
+21:14:09.368 │ ├ /blog/hvac
+21:14:09.368 │ ├ /blog/plumbing
+21:14:09.368 │ ├ /blog/solar
+21:14:09.368 │ └ [+3 more paths]
+21:14:09.368 ├ ● /blog/[category]/[slug]
+21:14:09.368 │ ├ /blog/hvac/10-facts-about-ac-replacement-everyone-should-know
+21:14:09.368 │ ├ /blog/hvac/10-reasons-you-should-always-call-an-ac-repair-specialist
+21:14:09.368 │ ├ /blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t
+21:14:09.368 │ └ [+228 more paths]
+21:14:09.369 ├ ○ /careers
+21:14:09.369 ├ ○ /contact
+21:14:09.369 ├ ○ /customer-reviews
+21:14:09.369 ├ ○ /drain-clearing-special
+21:14:09.369 ├ ○ /education-library
+21:14:09.369 ├ ○ /family-protection-plans
+21:14:09.369 ├ ○ /filter-shop
+21:14:09.369 ├ ○ /financing
+21:14:09.369 ├ ○ /free-hvac-quote
+21:14:09.369 ├ ○ /guarantees
+21:14:09.369 ├ ○ /knowledge-hub
+21:14:09.369 ├ ○ /new-homebuyer-offer
+21:14:09.369 ├ ○ /privacy-policy
+21:14:09.369 ├ ○ /r22-phaseout
+21:14:09.369 ├ ○ /realtors-offer
+21:14:09.369 ├ ○ /recent-projects
+21:14:09.369 ├ ○ /resources
+21:14:09.369 ├ ○ /schedule
+21:14:09.369 ├ ○ /service-areas
+21:14:09.370 ├ ● /service-areas/[slug]
+21:14:09.370 │ ├ /service-areas/avra-valley
+21:14:09.370 │ ├ /service-areas/casas-adobes
+21:14:09.370 │ ├ /service-areas/catalina-foothills
+21:14:09.370 │ └ [+17 more paths]
+21:14:09.370 ├ ● /services/[service]
+21:14:09.370 │ ├ /services/ac-installation-tucson
+21:14:09.370 │ ├ /services/ac-repair-tucson
+21:14:09.371 │ ├ /services/ac-service-tucson
+21:14:09.371 │ └ [+263 more paths]
+21:14:09.371 ├ ● /services/[service]/[location]
+21:14:09.371 │ ├ /services/drainsewer/avravalley
+21:14:09.371 │ ├ /services/drainsewer/casasadobes
+21:14:09.372 │ ├ /services/drainsewer/catalinafoothills
+21:14:09.372 │ └ [+137 more paths]
+21:14:09.372 ├ ○ /services/drain-clearing-special
+21:14:09.372 ├ ○ /sitemap.xml
+21:14:09.372 ├ ○ /special-offers
+21:14:09.372 ├ ○ /video-testimonials
+21:14:09.372 └ ○ /water-heater-quote
+21:14:09.372 
+21:14:09.372 
+21:14:09.372 ○  (Static)  prerendered as static content
+21:14:09.373 ●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+21:14:09.373 
+21:14:12.028 Traced Next.js server files in: 33.227ms
+21:14:12.393 Created all serverless functions in: 365.705ms
+21:14:12.587 Collected static files (public/, static/, .next/static): 53.508ms
+21:14:12.613 Error: ENOENT: no such file or directory, mkdir '/vercel/output/static/attached_assets'
