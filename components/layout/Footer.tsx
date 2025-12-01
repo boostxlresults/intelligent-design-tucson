@@ -10,19 +10,19 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const services = [
-    { name: "HVAC Services", href: "#hvac" },
-    { name: "Plumbing Services", href: "#plumbing" },
-    { name: "Roofing Services", href: "#roofing" },
-    { name: "Solar Solutions", href: "#solar" },
-    { name: "Electrical Services", href: "#electric" },
+    { name: "HVAC Services", href: "/services/hvac" },
+    { name: "Plumbing Services", href: "/services/plumbing" },
+    { name: "Roofing Services", href: "/services/roofing" },
+    { name: "Solar Solutions", href: "/services/solar" },
+    { name: "Electrical Services", href: "/services/electrical" },
   ];
 
   const company = [
-    { name: "About Us", href: "#about" },
-    { name: "Reviews", href: "#reviews" },
-    { name: "Careers", href: "#careers" },
+    { name: "About Us", href: "/about" },
+    { name: "Reviews", href: "/customer-reviews" },
+    { name: "Careers", href: "/careers" },
     { name: "Customer Service & Scheduling", href: "/schedule" },
-    { name: "Contact", href: "#contact" },
+    { name: "Contact", href: "/contact" },
   ];
 
   const legal = [
