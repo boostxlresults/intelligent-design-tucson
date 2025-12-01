@@ -11,16 +11,18 @@ export default function Hero() {
           {/* Desktop: 1280px and up */}
           <source
             media="(min-width: 1280px)"
-            srcSet="/images/hero-family-desktop.png"
+            srcSet="/images/hero-family-desktop.webp"
+            type="image/webp"
           />
           {/* Tablet: 768px to 1279px */}
           <source
             media="(min-width: 768px)"
-            srcSet="/images/hero-family-tablet.png"
+            srcSet="/images/hero-family-tablet.webp"
+            type="image/webp"
           />
           {/* Mobile: under 768px (default) */}
           <img
-            src="/images/hero-family-mobile.png"
+            src="/images/hero-family-mobile.webp"
             alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
             className="w-full h-full object-cover"
             loading="eager"
