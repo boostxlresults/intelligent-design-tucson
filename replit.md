@@ -5,6 +5,25 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 
 ## Recent Changes
 
+### December 1, 2025 - Service Category Pages & Navigation Hierarchy
+**Service Category Pages Created:**
+- ✅ **5 new category landing pages:** /services/hvac, /services/plumbing, /services/solar, /services/electrical, /services/roofing
+- ✅ **ServiceCategoryPage component:** Reusable template with hero, trust bar, sub-service card grid, benefits section, reviews, and scheduler CTA
+- ✅ **Category data structure:** Consolidated in `data/pages/categories/` with descriptions, sub-services, and images
+- ✅ **SEO integration:** All category pages use centralized `getPageSchemas` from schemaRegistry.ts
+
+**Navigation Hierarchy Established:**
+- Homepage ServiceTiles now link to category pages (instead of anchor links)
+- Complete user journey: Homepage → Service Category → Specific Service → Booking
+- E2E tested: HVAC, Plumbing, Roofing flows all verified working
+
+**Files Added/Modified:**
+- `components/pages/ServiceCategoryPage.tsx` - Reusable category page template
+- `data/pages/categories/index.ts` - Category data exports
+- `data/pages/categories/hvac.ts`, `plumbing.ts`, `solar.ts`, `electrical.ts`, `roofing.ts` - Category content
+- `app/services/hvac/page.tsx`, `plumbing/page.tsx`, `solar/page.tsx`, `electrical/page.tsx`, `roofing/page.tsx` - Route pages
+- `components/content/ServiceTiles.tsx` - Updated to link to category pages
+
 ### November 21, 2025 - Production Deployment Preparation
 **Pre-Production Deployment Verification Completed:**
 - ✅ **User Journey Testing:** 5 critical conversion paths verified (Homepage→Scheduler, Location→Service→Scheduler, Forms, Blog, Contractor Commerce)
