@@ -8,8 +8,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-van.webp"
-          alt="Intelligent Design service van and professional technician at a Tucson Arizona home, providing HVAC, plumbing, solar, electrical, and roofing services"
+          src="/images/hero-van-mission.png"
+          alt="Intelligent Design service van in front of San Xavier del Bac Mission in Tucson Arizona, providing HVAC, plumbing, solar, electrical, and roofing services"
           className="w-full h-full object-cover"
           loading="eager"
         />
