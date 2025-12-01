@@ -5,14 +5,27 @@ import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 export default function Hero() {
   return (
     <section className="relative min-h-[450px] md:min-h-[500px] flex items-start overflow-hidden">
-      {/* Background Image */}
+      {/* Background Image - Responsive with art direction */}
       <div className="absolute inset-0 z-0">
-        <img
-          src="/images/hero-van-family-2.png"
-          alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
-          className="w-full h-full object-cover"
-          loading="eager"
-        />
+        <picture>
+          {/* Desktop: 1280px and up */}
+          <source
+            media="(min-width: 1280px)"
+            srcSet="/images/hero-family-desktop.png"
+          />
+          {/* Tablet: 768px to 1279px */}
+          <source
+            media="(min-width: 768px)"
+            srcSet="/images/hero-family-tablet.png"
+          />
+          {/* Mobile: under 768px (default) */}
+          <img
+            src="/images/hero-family-mobile.png"
+            alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
+            className="w-full h-full object-cover"
+            loading="eager"
+          />
+        </picture>
         {/* Left-to-right gradient overlay for text readability */}
         <div className="absolute inset-0 bg-gradient-to-r from-blue-900/85 via-blue-900/50 to-blue-900/10"></div>
       </div>
