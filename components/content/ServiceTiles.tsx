@@ -1,10 +1,12 @@
+import Link from "next/link";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { AirVent, Wrench, Sun, Zap, Home, Check } from "lucide-react";
+import { AirVent, Wrench, Sun, Zap, Home, Check, ArrowRight } from "lucide-react";
 
 const services = [
   {
     id: "hvac",
+    slug: "hvac",
     icon: AirVent,
     title: "HVAC Services",
     benefits: [
@@ -16,6 +18,7 @@ const services = [
   },
   {
     id: "plumbing",
+    slug: "plumbing",
     icon: Wrench,
     title: "Plumbing Services",
     benefits: [
@@ -27,6 +30,7 @@ const services = [
   },
   {
     id: "solar",
+    slug: "solar",
     icon: Sun,
     title: "Solar Solutions",
     benefits: [
@@ -37,7 +41,8 @@ const services = [
     ],
   },
   {
-    id: "electric",
+    id: "electrical",
+    slug: "electrical",
     icon: Zap,
     title: "Electrical Services",
     benefits: [
@@ -49,6 +54,7 @@ const services = [
   },
   {
     id: "roofing",
+    slug: "roofing",
     icon: Home,
     title: "Roofing Services",
     benefits: [
@@ -107,15 +113,16 @@ export default function ServiceTiles() {
               {/* Learn More Link */}
               <Button
                 variant="ghost"
-                className="w-full justify-center"
+                className="w-full justify-between group"
                 asChild
               >
-                <a
-                  href={`#${service.id}`}
+                <Link
+                  href={`/services/${service.slug}`}
                   data-testid={`button-learn-more-${service.id}`}
                 >
                   Learn More
-                </a>
+                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </Link>
               </Button>
             </Card>
           ))}
