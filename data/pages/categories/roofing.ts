@@ -7,7 +7,7 @@ export const roofingCategoryData: ServiceCategoryData = {
   h1: 'Tucson Roofing Services',
   h2Subheading: 'Protect Your Home from Above',
   tagline: 'From roof repairs to complete replacements, our expert roofers protect Tucson homes from monsoons, sun damage, and more.',
-  heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
+  heroImage: '/generated_images/residential_roof_repair_technician_daf39f83.webp',
   heroImageAlt: 'Professional roofer installing new roof on Tucson home',
   categoryName: 'Roofing',
   intro: 'Tucson\'s extreme weather demands expert roofing. Intelligent Design provides complete roofing services to protect your home from intense sun, monsoon storms, and everything in between.',
@@ -16,55 +16,55 @@ export const roofingCategoryData: ServiceCategoryData = {
       name: 'Residential Roof Repair',
       slug: 'residential-roof-repair',
       description: 'Fast roof repair for leaks, storm damage, and wear. Protect your home before problems worsen.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/residential_roof_repair_technician_daf39f83.webp'
     },
     {
       name: 'Residential Roof Installation',
       slug: 'residential-roof-installation',
       description: 'Complete roof installation with quality materials and expert craftsmanship.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/residential_roof_installation_crew_9ad609fb.webp'
     },
     {
       name: 'Roof Replacement',
       slug: 'residential-roof-replacement',
       description: 'Full roof replacement when repair isn\'t enough. Upgrade your home\'s protection.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Roof_replacement_in_progress_e00e92e6.webp'
     },
     {
       name: 'Roof Coating',
       slug: 'residential-roof-coating',
       description: 'Reflective roof coating to extend roof life, reduce cooling costs, and prevent leaks.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/residential_roof_coating_application_05371d89.webp'
     },
     {
       name: 'Roof Inspections',
       slug: 'residential-roof-inspection',
       description: 'Comprehensive roof inspections to identify problems before they become expensive repairs.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/residential_roof_inspection_professional_3249793e.webp'
     },
     {
       name: 'Commercial Roofing',
       slug: 'commercial-roof-repair',
       description: 'Commercial roof repair, installation, and maintenance for Tucson businesses.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/commercial_roof_repair_technician_3329f717.webp'
     },
     {
       name: 'Tile Roofs',
       slug: 'tile-roofs',
       description: 'Tile roof installation, repair, and replacement. Classic Southwest style and durability.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Spanish_clay_tile_roof_6bc33a61.webp'
     },
     {
       name: 'Flat Roofs',
       slug: 'flat-roofs',
       description: 'Flat roof specialists for installation, repair, and coating. Common in Tucson homes.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/commercial_flat_roof_system_7bd54a33.webp'
     },
     {
       name: 'Metal Roofs',
       slug: 'metal-roofs',
       description: 'Durable metal roof installation. Long-lasting protection with modern aesthetics.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/standing_seam_metal_roof_bbc9c9f9.webp'
     }
   ],
   whyChooseUs: [

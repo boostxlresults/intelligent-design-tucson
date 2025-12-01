@@ -7,7 +7,7 @@ export const solarCategoryData: ServiceCategoryData = {
   h1: 'Tucson Solar Services',
   h2Subheading: 'Harness Arizona\'s Sunshine',
   tagline: 'Save money on energy bills with solar panel installation from Tucson\'s trusted home services experts.',
-  heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
+  heroImage: '/generated_images/Residential_solar_panel_installation_23ee301f.webp',
   heroImageAlt: 'Solar panel installation on Tucson residential roof',
   categoryName: 'Solar',
   intro: 'Arizona averages 299 sunny days per year, making solar an excellent investment for Tucson homeowners. Intelligent Design provides complete solar services from initial consultation to installation and maintenance.',
@@ -16,37 +16,37 @@ export const solarCategoryData: ServiceCategoryData = {
       name: 'Residential Solar Installation',
       slug: 'residential-solar-installation',
       description: 'Custom solar panel systems designed for your home. Reduce or eliminate your electric bill.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Residential_solar_panel_installation_23ee301f.webp'
     },
     {
       name: 'Commercial Solar Installation',
       slug: 'commercial-solar-installation',
       description: 'Solar solutions for businesses. Lower operating costs and demonstrate environmental commitment.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Commercial_solar_panel_installation_a8b637e2.webp'
     },
     {
       name: 'Solar Maintenance',
       slug: 'solar-maintenance',
       description: 'Keep your solar system performing at peak efficiency with professional monitoring and maintenance.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Solar_maintenance_and_monitoring_e428ab0f.webp'
     },
     {
       name: 'Home Energy Audit',
       slug: 'home-energy-audit-tucson',
       description: 'Comprehensive energy assessment to identify savings opportunities before going solar.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Home_energy_audit_consultation_c5abfdea.webp'
     },
     {
       name: 'Solar Tax Credits',
       slug: 'solar-tax-credits',
       description: 'Learn about federal and Arizona solar incentives that make solar more affordable.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Solar_tax_credits_savings_a056e008.webp'
     },
     {
       name: 'Solar Panel Costs',
       slug: 'solar-panel-costs',
       description: 'Understand solar panel pricing and financing options to make an informed decision.',
-      image: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp'
+      image: '/generated_images/Solar_panel_costs_investment_bb17047d.webp'
     }
   ],
   whyChooseUs: [
