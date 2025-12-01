@@ -8,8 +8,8 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-van-downtown.png"
-          alt="Intelligent Design service van with downtown Tucson skyline and A Mountain at sunset, providing HVAC, plumbing, solar, electrical, and roofing services"
+          src="/images/hero-van-family.png"
+          alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
           className="w-full h-full object-cover"
           loading="eager"
         />
