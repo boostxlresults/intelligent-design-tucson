@@ -65,7 +65,7 @@ export default function NewHomebuyerOfferPage() {
         <section 
           className="relative bg-cover bg-center py-24 md:py-32"
           style={{
-            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/hvac-hero.jpg)',
+            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.7), rgba(13, 45, 122, 0.7)), url(/generated_images/happy_family_new_home_tucson.webp)',
           }}
         >
           <div className="max-w-7xl mx-auto px-4">
