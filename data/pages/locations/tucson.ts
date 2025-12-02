@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tucsonData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tucson, AZ | #1 Rated Company',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tucson. Serving central Tucson zip codes 85701, 85702, 85705, 85711, 85712, 85713, and more since 1979. 24/7 emergency service. BBB A+ rated.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tucson and all surrounding areas. Serving 38 zip codes across Tucson metro including 85701, 85704, 85710, 85718, 85741, 85746, 85749, and more since 1979. 24/7 emergency service. BBB A+ rated.',
   slug: 'tucson',
   
   // Hero Section
@@ -20,7 +20,12 @@ export const tucsonData: LocationPageData = {
   // Location Info
   locationName: 'Tucson',
   locationDisplayName: 'Tucson, AZ',
-  zipCodes: ['85701', '85702', '85705', '85711', '85712', '85713', '85714', '85715', '85716', '85717', '85719'],
+  zipCodes: [
+    '85193', '85194', '85614', '85622', '85629', '85641', '85645', '85653', '85658',
+    '85701', '85702', '85704', '85705', '85710', '85711', '85712', '85713', '85714', 
+    '85715', '85716', '85717', '85718', '85719', '85730', '85735', '85737', '85739', 
+    '85741', '85742', '85743', '85746', '85747', '85748', '85749', '85750', '85755', '85757'
+  ],
   
   // Services
   services: [
