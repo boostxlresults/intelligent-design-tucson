@@ -12,8 +12,8 @@ export const plumbingtucsonData: ServicePageData = {
   h1: 'Complete Plumbing Services in Tucson, AZ',
   h2Subheading: 'Your Trusted Plumbing Experts Since 1979 | 22,000+ Five-Star Reviews',
   tagline: 'Water Heaters | Drain Cleaning | Leak Detection | Sewer Lines | Repairs | Installations | 24/7 Emergency Service',
-  heroImage: '/generated_images/Emergency_plumbing_service_3773a11e.webp',
-  heroImageAlt: 'Professional plumber providing expert plumbing service in Tucson, Arizona',
+  heroImage: '/generated_images/professional_plumber_fixing_kitchen_sink.webp',
+  heroImageAlt: 'Professional plumber in blue work shirt fixing kitchen sink pipes in Tucson, Arizona',
   
   // Service Info
   serviceName: 'Plumbing Services',
