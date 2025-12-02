@@ -138,7 +138,7 @@ export default function VideoTestimonialsPage() {
       <section 
         className="relative bg-cover bg-center py-24 md:py-32"
         style={{
-          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/hvac-hero.jpg)',
+          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.75), rgba(13, 45, 122, 0.75)), url(/generated_images/happy_family_with_technician_at_home.webp)',
         }}
       >
         <div className="max-w-7xl mx-auto px-4">
