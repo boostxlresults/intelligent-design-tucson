@@ -108,6 +108,11 @@ const nextConfig: NextConfig = {
         source: '/services/why-tucson-chooses-intelligent-design',
         destination: '/about',
         permanent: true
+      },
+      {
+        source: '/service-areas/saddle-brooke-catalina',
+        destination: '/service-areas/saddlebrooke-catalina',
+        permanent: true
       }
     ];
     
