@@ -103,7 +103,7 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
       <section className="bg-gradient-to-b from-gray-50 to-white py-12 md:py-16">
         <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
           <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-8">
-            Why Choose Intelligent Design for <span className="whitespace-nowrap">{data.serviceName}</span>?
+            {data.whyChooseHeading ?? <>Why Choose Intelligent Design for <span className="whitespace-nowrap">{data.serviceName}</span>?</>}
           </h2>
           <div className="grid md:grid-cols-2 gap-4 md:gap-6">
             {data.highlights.map((highlight, index) => (

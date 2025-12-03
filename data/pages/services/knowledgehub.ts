@@ -24,6 +24,7 @@ export const knowledgehubData: ServicePageData = {
   
   // Content
   highlights: [],
+  whyChooseHeading: 'Everything You Need to Know About Intelligent Design',
   content: {
     mainHeading: 'Best Knowledge Hub Company in Tucson, AZ',
     sections: [

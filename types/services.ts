@@ -113,6 +113,7 @@ export interface ServicePageData {
   
   // Content
   highlights: ServiceHighlight[];
+  whyChooseHeading?: string; // Optional custom heading for highlights section
   content: {
     mainHeading: string;
     sections: ContentSection[];
