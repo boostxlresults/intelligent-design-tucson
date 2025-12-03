@@ -54,7 +54,7 @@ export default function KnowledgeHubPage() {
       description: 'Expert guides on air conditioning repair, maintenance, energy efficiency, system selection, and troubleshooting common AC issues in Tucson\'s desert climate.',
       icon: Zap,
       href: '/blog/hvac',
-      count: '92 articles',
+      count: '96 articles',
       color: 'text-blue-600',
     },
     {
@@ -62,7 +62,7 @@ export default function KnowledgeHubPage() {
       description: 'Comprehensive plumbing resources covering water heaters, leak detection, drain clearing, water filtration, fixture installation, and preventive maintenance.',
       icon: Droplets,
       href: '/blog/plumbing',
-      count: '47 articles',
+      count: '50 articles',
       color: 'text-cyan-600',
     },
     {
@@ -70,7 +70,7 @@ export default function KnowledgeHubPage() {
       description: 'Everything you need to know about residential and commercial solar installation, tax credits, energy monitoring, cost analysis, and ROI calculations.',
       icon: Sun,
       href: '/blog/solar',
-      count: '46 articles',
+      count: '41 articles',
       color: 'text-yellow-600',
     },
     {
@@ -78,7 +78,7 @@ export default function KnowledgeHubPage() {
       description: 'Practical homeowner guides for seasonal maintenance, energy savings, indoor air quality, system efficiency, and protecting your home investment.',
       icon: Home,
       href: '/blog/home-tips',
-      count: '43 articles',
+      count: '42 articles',
       color: 'text-green-600',
     },
     {
@@ -94,7 +94,7 @@ export default function KnowledgeHubPage() {
       description: 'Electrical safety tips, panel upgrades, generator installation, lighting efficiency, and understanding your home\'s electrical systems.',
       icon: Lightbulb,
       href: '/blog/electrical',
-      count: '1 article',
+      count: 'Coming soon',
       color: 'text-purple-600',
     },
   ];
