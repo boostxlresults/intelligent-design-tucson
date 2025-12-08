@@ -5,6 +5,25 @@ This project is a conversion-focused marketing website for Intelligent Design, a
 
 ## Recent Changes
 
+### December 8, 2025 - RealWorkLabs Geo-Filtered Maps & Security Update
+**RealWorkLabs Geo-Filtered Project Maps Integration:**
+- ✅ **20 service area pages enhanced:** Each location page now displays a "Recent Projects" section with geo-filtered maps showing completed HVAC, plumbing, solar, electrical, and roofing projects in that specific area
+- ✅ **Location-specific widget IDs:** Mapping system connects each location slug to its corresponding RWL widget ID (e.g., oro-valley → rwl-oro-valley)
+- ✅ **Graceful fallback:** Pages without RWL mappings simply don't show the projects section (no errors)
+- ✅ **E2E tested:** Oro Valley, Tucson, and Marana pages verified with RWL map containers
+
+**Files Added/Modified:**
+- `components/integrations/RealWorkLabs.tsx` - Script loader and map container component
+- `lib/realworklabs-mapping.ts` - Location slug to RWL ID mapping (server-safe)
+- `components/pages/LocationPage.tsx` - Added "Recent Projects" section with RealWorkLabsMap
+- `app/layout.tsx` - Added RealWorkLabs script loader
+
+**Security Update:**
+- ✅ **Next.js 16.0.7:** Updated from 16.0.1 to address CVE-2025-66478 (CVSS 10.0 RCE vulnerability in React Server Components)
+
+**Other Updates:**
+- ✅ **Solar Tubular Lights hero image replaced:** New professional technician installation image
+
 ### December 1, 2025 - Service Category Pages & Navigation Hierarchy
 **Service Category Pages Created:**
 - ✅ **5 new category landing pages:** /services/hvac, /services/plumbing, /services/solar, /services/electrical, /services/roofing
