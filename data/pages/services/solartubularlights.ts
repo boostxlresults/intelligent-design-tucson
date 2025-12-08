@@ -12,7 +12,7 @@ export const solartubularlightsData: ServicePageData = {
   h1: 'Solar Tubular Lights Tucson AZ',
   h2Subheading: 'Expert Solar Tubular Lights in Tucson',
   tagline: 'Natural Daylighting | Energy-Efficient Lighting | Reduce Electricity Costs | No Electric Bills | Free Installation Estimates',
-  heroImage: '/generated_images/solar_tubular_skylight_installation_b66a1121.webp',
+  heroImage: '/generated_images/solar_tubular_light_hero.webp',
   heroImageAlt: 'Solar Tubular Lights in Tucson',
   
   // Service Info
