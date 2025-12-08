@@ -8,6 +8,7 @@ import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import HatchChat from "@/components/integrations/HatchChat";
+import RealWorkLabs from "@/components/integrations/RealWorkLabs";
 import CookieConsent from "@/components/integrations/CookieConsent";
 import { Toaster } from "@/components/ui/toaster";
 
@@ -48,6 +49,7 @@ export default function RootLayout({
         <GTM />
         <DNIInjector />
         <ContractorCommercePlugin />
+        <RealWorkLabs />
         <Header />
         <main className="flex-1">
           {children}
