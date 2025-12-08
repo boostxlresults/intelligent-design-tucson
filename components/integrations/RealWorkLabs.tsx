@@ -1,6 +1,7 @@
 "use client";
 
 import Script from "next/script";
+import { getRealWorkLabsId } from "@/lib/realworklabs-mapping";
 
 const RWL_API_KEY = "Mv2yZInBciS35Sln";
 
@@ -32,31 +33,8 @@ export interface RealWorkLabsMapProps {
   className?: string;
 }
 
-const LOCATION_TO_RWL_ID: Record<string, string> = {
-  "tucson": "rwl-tucson",
-  "tucson-estates": "rwl-tucson-estates",
-  "casas-adobes": "rwl-casas-adobes",
-  "tortolita": "rwl-tortolita",
-  "drexel-heights": "rwl-drexel-heights",
-  "oro-valley": "rwl-oro-valley",
-  "marana": "rwl-marana",
-  "gladden-farms": "rwl-gladden-farms",
-  "avra-valley": "rwl-avra-valley",
-  "picture-rocks": "rwl-picture-rocks",
-  "sahuarita": "rwl-sahuarita",
-  "vail": "rwl-vail",
-  "green-valley": "rwl-2green-valley",
-  "saddlebrooke-catalina": "rwl-saddlebrooke-catalina",
-  "east-tucson": "rwl-east-tucson",
-  "catalina-foothills": "rwl-catalina-foothills",
-  "tanque-verde": "rwl-tanque-verde",
-  "rita-ranch": "rwl-rita-ranch",
-  "corona-de-tucson": "rwl-corona-de-tucson",
-  "red-rock-casa-grande": "rwl-red-rock-casa-grande",
-};
-
 export function RealWorkLabsMap({ locationSlug, className = "" }: RealWorkLabsMapProps) {
-  const rwlId = LOCATION_TO_RWL_ID[locationSlug];
+  const rwlId = getRealWorkLabsId(locationSlug);
   
   if (!rwlId) {
     return null;

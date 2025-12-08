@@ -9,6 +9,8 @@ import { ClientSchemas } from "@/components/ClientSchemas";
 import TrustBar from "@/components/content/TrustBar";
 import RichText from "@/components/content/RichText";
 import type { LocationPageData } from "@/types/services";
+import { RealWorkLabsMap } from "@/components/integrations/RealWorkLabs";
+import { hasRealWorkLabsMap } from "@/lib/realworklabs-mapping";
 import { 
   AirVent, 
   Flame, 
@@ -19,7 +21,8 @@ import {
   Wrench,
   ArrowRight,
   Phone,
-  CheckCircle2
+  CheckCircle2,
+  MapPin
 } from "lucide-react";
 
 /**
@@ -181,6 +184,30 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
           </div>
         </div>
       </section>
+
+      {/* Recent Projects Map - RealWorkLabs Integration (only shown for mapped locations) */}
+      {hasRealWorkLabsMap(data.slug) && (
+        <section className="py-16 bg-muted/30">
+          <div className="container mx-auto px-4 max-w-7xl">
+            <div className="text-center mb-8">
+              <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
+                <MapPin className="w-8 h-8 text-primary" />
+              </div>
+              <h2 className="text-3xl font-bold mb-3" data-testid="heading-recent-projects">
+                Recent Projects in {data.locationName}
+              </h2>
+              <p className="text-muted-foreground max-w-2xl mx-auto">
+                See our completed HVAC, plumbing, solar, electrical, and roofing projects near you. 
+                Real work, real results for {data.locationDisplayName} homeowners.
+              </p>
+            </div>
+            <RealWorkLabsMap 
+              locationSlug={data.slug} 
+              className="min-h-[400px] rounded-lg overflow-hidden"
+            />
+          </div>
+        </section>
+      )}
 
       {/* Service Areas & Zip Codes */}
       {data.zipCodes && data.zipCodes.length > 0 && (
