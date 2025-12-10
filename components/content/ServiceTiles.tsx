@@ -110,7 +110,7 @@ export default function ServiceTiles() {
                 ))}
               </ul>
 
-              {/* Learn More Link */}
+              {/* Service Link - Descriptive text for SEO */}
               <Button
                 variant="ghost"
                 className="w-full justify-between group"
@@ -120,7 +120,7 @@ export default function ServiceTiles() {
                   href={`/services/${service.slug}`}
                   data-testid={`button-learn-more-${service.id}`}
                 >
-                  Learn More
+                  Explore {service.title}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </Link>
               </Button>
