@@ -43,13 +43,15 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <HatchChat />
+        {/* Preconnect to third-party origins for faster subsequent requests */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://static.servicetitan.com" />
+        <link rel="dns-prefetch" href="https://plugin.contractorcommerce.com" />
+        <link rel="dns-prefetch" href="https://app.realworklabs.com" />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <GTM />
         <DNIInjector />
-        <ContractorCommercePlugin />
-        <RealWorkLabs />
         <Header />
         <main className="flex-1">
           {children}
@@ -58,6 +60,10 @@ export default function RootLayout({
         <MobileFloatingActions />
         <CookieConsent />
         <Toaster />
+        {/* Lazy-loaded third-party scripts (load after page is interactive) */}
+        <ContractorCommercePlugin />
+        <RealWorkLabs />
+        <HatchChat />
       </body>
     </html>
   );

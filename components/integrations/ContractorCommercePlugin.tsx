@@ -21,9 +21,7 @@ export default function ContractorCommercePlugin() {
   return (
     <Script
       src={`https://plugin.contractorcommerce.com?key=${PLUGIN_KEY}`}
-      strategy="afterInteractive"
-      async
-      defer
+      strategy="lazyOnload"
     />
   );
 }

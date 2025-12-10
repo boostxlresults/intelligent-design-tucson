@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Phone, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
@@ -5,29 +6,36 @@ import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 export default function Hero() {
   return (
     <section className="relative min-h-[450px] md:min-h-[500px] flex items-start overflow-hidden">
-      {/* Background Image - Responsive with art direction */}
+      {/* Background Image - Responsive hero with mobile-first priority */}
       <div className="absolute inset-0 z-0">
-        <picture>
-          {/* Desktop: 1280px and up */}
-          <source
-            media="(min-width: 1280px)"
-            srcSet="/images/hero-family-desktop.webp"
-            type="image/webp"
-          />
-          {/* Tablet: 768px to 1279px */}
-          <source
-            media="(min-width: 768px)"
-            srcSet="/images/hero-family-tablet.webp"
-            type="image/webp"
-          />
-          {/* Mobile: under 768px (default) */}
-          <img
-            src="/images/hero-family-mobile.webp"
-            alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
-            className="w-full h-full object-cover"
-            loading="eager"
-          />
-        </picture>
+        {/* Mobile hero (default, shown below 768px) - PRIORITY for LCP */}
+        <Image
+          src="/images/hero-family-mobile.webp"
+          alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
+          fill
+          priority
+          fetchPriority="high"
+          sizes="(max-width: 767px) 100vw, 1px"
+          className="object-cover md:hidden"
+        />
+        {/* Tablet hero (768px to 1279px) - lazy loaded */}
+        <Image
+          src="/images/hero-family-tablet.webp"
+          alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
+          fill
+          loading="lazy"
+          sizes="(min-width: 768px) and (max-width: 1279px) 100vw, 1px"
+          className="object-cover hidden md:block xl:hidden"
+        />
+        {/* Desktop hero (1280px and up) - lazy loaded */}
+        <Image
+          src="/images/hero-family-desktop.webp"
+          alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
+          fill
+          loading="lazy"
+          sizes="(min-width: 1280px) 100vw, 1px"
+          className="object-cover hidden xl:block"
+        />
         {/* Left-to-right gradient overlay for text readability */}
         <div className="absolute inset-0 bg-gradient-to-r from-blue-900/85 via-blue-900/50 to-blue-900/10"></div>
       </div>

@@ -9,7 +9,7 @@ export default function RealWorkLabs() {
   return (
     <Script
       id="realworklabs-loader"
-      strategy="afterInteractive"
+      strategy="lazyOnload"
       dangerouslySetInnerHTML={{
         __html: `
           (function(){
