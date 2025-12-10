@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Dialog, DialogContent, DialogTrigger, DialogTitle } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Calendar } from "lucide-react";
@@ -28,33 +28,21 @@ export default function SchedulerEmbed({
   "data-testid": dataTestId = "button-schedule",
 }: SchedulerEmbedProps) {
   const [isOpen, setIsOpen] = useState(false);
-  const [scriptLoaded, setScriptLoaded] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
+  const iframeRef = useRef<HTMLIFrameElement>(null);
 
   useEffect(() => {
-    if (isOpen && !scriptLoaded) {
-      // Load ServiceTitan scheduler script
-      const script = document.createElement('script');
-      script.src = 'https://embed.scheduler.servicetitan.com/scheduler-v1.js';
-      script.async = true;
-      script.defer = true;
-      script.id = 'se-widget-embed';
-      script.setAttribute('data-api-key', 'm1cp1a9zj306h48ohavpwg8w');
-      script.setAttribute('data-schedulerid', 'sched_vwgezlwi56yyvwdb0nzlng14');
-      
-      script.onload = () => {
-        setScriptLoaded(true);
-      };
-
-      document.body.appendChild(script);
-
-      return () => {
-        const existingScript = document.getElementById('se-widget-embed');
-        if (existingScript) {
-          existingScript.remove();
-        }
-      };
+    if (isOpen) {
+      setIsLoading(true);
     }
-  }, [isOpen, scriptLoaded]);
+  }, [isOpen]);
+
+  const handleIframeLoad = () => {
+    setIsLoading(false);
+  };
+
+  // ServiceTitan scheduler embed URL
+  const schedulerUrl = "https://book.servicetitan.com/book?id=3e8xgAePMEe8V8TsAo0ybQ&w=m1cp1a9zj306h48ohavpwg8w";
 
   return (
     <Dialog open={isOpen} onOpenChange={setIsOpen}>
@@ -73,14 +61,22 @@ export default function SchedulerEmbed({
         <VisuallyHidden>
           <DialogTitle>Schedule Service Appointment</DialogTitle>
         </VisuallyHidden>
-        <div className="w-full h-full flex items-center justify-center bg-background">
-          {!scriptLoaded ? (
-            <div className="flex flex-col items-center gap-4 p-8">
+        <div className="w-full h-full flex items-center justify-center bg-background relative">
+          {isLoading && (
+            <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 p-8 bg-background z-10">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
               <p className="text-muted-foreground">Loading scheduler...</p>
             </div>
-          ) : (
-            <div id="servicetitan-scheduler-container" className="w-full h-full" />
+          )}
+          {isOpen && (
+            <iframe
+              ref={iframeRef}
+              src={schedulerUrl}
+              className="w-full h-full border-0"
+              title="Schedule Service Appointment"
+              onLoad={handleIframeLoad}
+              allow="geolocation"
+            />
           )}
         </div>
       </DialogContent>
