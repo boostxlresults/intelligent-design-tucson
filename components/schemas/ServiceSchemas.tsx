@@ -105,7 +105,16 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
     "author": {
       "@type": "Organization",
       "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
-      "url": "https://www.idesignac.com/"
+      "url": "https://www.idesignac.com/",
+      "image": "https://www.idesignac.com/og-image.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1145 E Fort Lowell Rd",
+        "addressLocality": "Tucson",
+        "addressRegion": "AZ",
+        "postalCode": "85719",
+        "addressCountry": "US"
+      }
     },
     "publisher": {
       "@type": "Organization",
@@ -113,6 +122,15 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
       "logo": {
         "@type": "ImageObject",
         "url": "https://www.idesignac.com/logo.png"
+      },
+      "image": "https://www.idesignac.com/og-image.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1145 E Fort Lowell Rd",
+        "addressLocality": "Tucson",
+        "addressRegion": "AZ",
+        "postalCode": "85719",
+        "addressCountry": "US"
       }
     },
     "datePublished": parseTimeframeToISO(section.timeframe),

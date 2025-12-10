@@ -39,6 +39,7 @@ export default function LazyImage({
       height={height || 600}
       priority={priority}
       className={className}
+      style={{ width: 'auto', height: 'auto' }}
     />
   );
 }
