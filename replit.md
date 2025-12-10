@@ -61,7 +61,7 @@ Preferred communication style: Simple, everyday language.
 ## External Dependencies
 
 ### Third-Party Services
-- **ServiceTitan:** Scheduler embed widget and Dynamic Number Insertion (DNI).
+- **ServiceTitan:** Scheduling Pro widget (scheduler-v1.js with `_scheduler.show()` API) and Dynamic Number Insertion (DNI). Script loaded in app/layout.tsx with data-api-key and data-schedulerid attributes.
 - **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales.
 - **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs.
 - **WhoHire:** Job board plugin integration for careers page.
