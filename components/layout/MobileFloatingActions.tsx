@@ -2,20 +2,39 @@
 
 import { Phone, Calendar, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { useToast } from "@/hooks/use-toast";
 import SchedulerEmbed from "../integrations/SchedulerEmbed";
 
-export default function MobileFloatingActions() {
-  const { toast } = useToast();
+declare global {
+  interface Window {
+    hatchChat?: {
+      open?: () => void;
+      toggle?: () => void;
+    };
+  }
+}
 
+export default function MobileFloatingActions() {
   const handleChatClick = () => {
-    // TODO: Integrate with your preferred live chat service
-    // Popular options: Tawk.to, Drift, Intercom, LiveChat, Zendesk Chat
-    console.log("Live Chat button clicked");
-    toast({
-      title: "Live Chat Coming Soon",
-      description: "We're setting up our live chat feature. For immediate assistance, please call us at (520) 333-2665.",
-      duration: 5000,
+    // Try to open the HatchChat widget
+    // HatchChat creates a custom element, so we try to click its button
+    const hatchButton = document.querySelector('hatch-chat')?.shadowRoot?.querySelector('button, .hatch-chat-button, [class*="chat"]');
+    if (hatchButton && hatchButton instanceof HTMLElement) {
+      hatchButton.click();
+      return;
+    }
+    
+    // Fallback: Try common chat widget APIs
+    if (window.hatchChat?.open) {
+      window.hatchChat.open();
+      return;
+    }
+    
+    // Last resort: scroll to bottom where the chat widget usually appears and click it
+    const chatElements = document.querySelectorAll('[class*="hatch"], [id*="hatch"]');
+    chatElements.forEach(el => {
+      if (el instanceof HTMLElement) {
+        el.click();
+      }
     });
   };
 
