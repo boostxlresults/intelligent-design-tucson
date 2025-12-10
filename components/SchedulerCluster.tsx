@@ -11,22 +11,34 @@
  * Usage: <SchedulerCluster position="hero" /> | "middle" | "bottom"
  */
 
+declare global {
+  interface Window {
+    _scheduler?: {
+      show: (options: { schedulerId: string }) => void;
+    };
+  }
+}
+
 interface SchedulerClusterProps {
   position: "hero" | "middle" | "bottom";
   className?: string;
 }
 
 export function SchedulerCluster({ position, className = "" }: SchedulerClusterProps) {
-  // Position-specific styling
   const positionStyles = {
     hero: "mt-6",
     middle: "my-12",
     bottom: "mt-16 mb-8"
   };
 
+  const handleScheduleClick = () => {
+    if (typeof window !== 'undefined' && window._scheduler) {
+      window._scheduler.show({ schedulerId: 'sched_vwgezlwi56yyvwdb0nzlng14' });
+    }
+  };
+
   return (
     <div className={`scheduler-embed ${positionStyles[position]} ${className}`} data-testid={`scheduler-${position}`}>
-      {/* ServiceTitan Scheduler Embed */}
       <div className="max-w-2xl mx-auto">
         <div 
           className="bg-card border border-border rounded-lg p-6 text-center hover-elevate"
@@ -37,6 +49,7 @@ export function SchedulerCluster({ position, className = "" }: SchedulerClusterP
             Fast, reliable service from Tucson's most trusted home services company
           </p>
           <button
+            onClick={handleScheduleClick}
             className="bg-primary text-primary-foreground px-8 py-3 rounded-md font-semibold hover-elevate active-elevate-2"
             data-testid="button-schedule-service"
           >
