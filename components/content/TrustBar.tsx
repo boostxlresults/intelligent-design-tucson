@@ -10,7 +10,7 @@ export default function TrustBar() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12">
           {/* BBB Badge */}
           <a 
-            href="https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractors/intelligent-design-air-conditioning-plumbing-solar-electric-1286-1000028820"
+            href="https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-4 hover:opacity-80 transition-opacity"
