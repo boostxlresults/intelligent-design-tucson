@@ -1,6 +1,5 @@
 'use client';
 
-import { useEffect } from "react";
 import { Button } from "@/components/ui/button";
 import { Calendar } from "lucide-react";
 
@@ -23,8 +22,7 @@ declare global {
   }
 }
 
-const SCHEDULER_ID = process.env.NEXT_PUBLIC_SERVICETITAN_SCHEDULER_ID || 'sched_vwgezlwi56yyvwdb0nzlng14';
-const API_KEY = process.env.NEXT_PUBLIC_SERVICETITAN_API_KEY || 'm1cp1a9zj306h48ohavpwg8w';
+const SCHEDULER_ID = 'sched_vwgezlwi56yyvwdb0nzlng14';
 
 export default function SchedulerEmbed({
   triggerText = "Schedule Now",
@@ -37,25 +35,13 @@ export default function SchedulerEmbed({
   "data-testid": dataTestId = "button-schedule",
 }: SchedulerEmbedProps) {
 
-  useEffect(() => {
-    // Load ServiceTitan Scheduling Pro script
-    const existingScript = document.getElementById('servicetitan-scheduler-script');
-    if (!existingScript) {
-      const script = document.createElement('script');
-      script.id = 'servicetitan-scheduler-script';
-      script.src = `https://book.servicetitan.com/js/sb.min.js?w=${API_KEY}`;
-      script.async = true;
-      document.head.appendChild(script);
-    }
-  }, []);
-
   const handleClick = () => {
     // Use ServiceTitan's official _scheduler.show() method
+    // Script is loaded globally in app/layout.tsx
     if (window._scheduler?.show) {
       window._scheduler.show({ schedulerId: SCHEDULER_ID });
     } else {
-      // Fallback: open in new tab if script hasn't loaded yet
-      window.open(`https://book.servicetitan.com/?w=${API_KEY}`, '_blank', 'noopener,noreferrer');
+      console.error('ServiceTitan scheduler not loaded. Check that the script is in layout.tsx');
     }
   };
 

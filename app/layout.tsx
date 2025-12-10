@@ -64,6 +64,14 @@ export default function RootLayout({
         <ContractorCommercePlugin />
         <RealWorkLabs />
         <HatchChat />
+        {/* ServiceTitan Scheduling Pro - loads _scheduler object */}
+        <script
+          data-api-key="m1cp1a9zj306h48ohavpwg8w"
+          data-schedulerid="sched_vwgezlwi56yyvwdb0nzlng14"
+          defer
+          id="se-widget-embed"
+          src="https://embed.scheduler.servicetitan.com/scheduler-v1.js"
+        />
       </body>
     </html>
   );
