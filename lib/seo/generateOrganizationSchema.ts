@@ -61,7 +61,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
       ...generateZipCodeSchemas()
     ],
     "slogan": "Your Comfort is Our Priority",
-    "foundingDate": "2010",
+    "foundingDate": "1979",
     "knowsAbout": [
       "HVAC Installation",
       "Air Conditioning Repair",
@@ -141,9 +141,8 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
       "https://www.instagram.com/intelligentdesignac/",
       "https://www.linkedin.com/company/intelligent-design-hvac",
       "https://www.youtube.com/@intelligentdesigntucson",
-      // TODO: Replace with actual Google Business Profile URL
-      // Format: https://maps.app.goo.gl/[unique-id] or https://g.page/[business-name]
-      "https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning"
+      "https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256",
+      "https://g.page/r/CajVBZOPuZ56EBE/"
     ];
   }
 
@@ -159,8 +158,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
         "@type": "Organization",
         "name": "Better Business Bureau",
         "alternateName": "BBB",
-        // TODO: Add actual BBB profile URL when available
-        // "url": "https://www.bbb.org/us/az/tucson/profile/[business-id]"
+        "url": "https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256"
       },
       {
         "@type": "Organization",
@@ -170,20 +168,26 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
     ];
   }
 
+  // Add manufacturer brand partnerships for credibility
+  schema.brand = [
+    { "@type": "Brand", "name": "Carrier" },
+    { "@type": "Brand", "name": "Trane" },
+    { "@type": "Brand", "name": "Daikin" },
+    { "@type": "Brand", "name": "Amana" },
+    { "@type": "Brand", "name": "Goodman" },
+    { "@type": "Brand", "name": "American Standard" },
+    { "@type": "Brand", "name": "Desert Shield", "url": "https://desertshield.com" }
+  ];
+
   // Add industry awards and certifications for trust signals
   if (includeAwards) {
     schema.awards = [
       "BBB A+ Rating",
       "22,000+ Five-Star Reviews",
-      "Family-Owned Business",
+      "Family-Owned Business Since 1979",
       "Veteran-Owned Business",
       "Arizona ROC Licensed",
-      // TODO: Add verifiable awards/certifications:
-      // - Carrier Factory Authorized Dealer
-      // - Trane Comfort Specialist
-      // - NATE Certified Technicians
-      // - Better Business Bureau Torch Award (if applicable)
-      // - Angie's List Super Service Award (if applicable)
+      "45+ Years of Experience"
     ];
   }
 

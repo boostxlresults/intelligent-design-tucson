@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { Phone, Clock, Calendar, ChevronRight } from "lucide-react";
+import { Phone, Clock, Calendar, ChevronRight, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
@@ -181,10 +181,25 @@ export default async function BlogPostPage({
               </h1>
 
               {frontmatter.excerpt && (
-                <p className="text-xl text-muted-foreground" data-testid="text-article-excerpt">
+                <p className="text-xl text-muted-foreground mb-6" data-testid="text-article-excerpt">
                   {frontmatter.excerpt}
                 </p>
               )}
+
+              {/* Author Attribution - E-A-T Signal */}
+              <div className="flex items-center gap-3 p-4 bg-muted/50 rounded-lg border border-border">
+                <div className="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center">
+                  <User className="w-5 h-5 text-primary" />
+                </div>
+                <div>
+                  <p className="font-semibold text-foreground" data-testid="text-author-name">
+                    Written by the Intelligent Design Team
+                  </p>
+                  <p className="text-sm text-muted-foreground" data-testid="text-author-credentials">
+                    45+ years of experience | NATE-certified technicians | BBB A+ rated
+                  </p>
+                </div>
+              </div>
             </header>
 
             {/* Article Body */}

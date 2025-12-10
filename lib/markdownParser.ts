@@ -148,16 +148,36 @@ export function generateArticleSchema(
     dateModified: frontmatter.updatedAt || frontmatter.publishedAt,
     author: {
       '@type': 'Organization',
-      name: frontmatter.author || 'Intelligent Design',
+      name: frontmatter.author || 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric',
       url: 'https://www.idesignac.com',
-    },
-    publisher: {
-      '@type': 'Organization',
-      name: 'Intelligent Design',
       logo: {
         '@type': 'ImageObject',
         url: 'https://www.idesignac.com/logo.png',
       },
+      sameAs: [
+        'https://www.facebook.com/IDesignAC',
+        'https://www.instagram.com/intelligentdesignac/',
+        'https://www.youtube.com/@intelligentdesigntucson',
+        'https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256',
+        'https://g.page/r/CajVBZOPuZ56EBE/'
+      ]
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.idesignac.com/logo.png',
+      },
+      foundingDate: '1979',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '1145 E Fort Lowell Rd',
+        addressLocality: 'Tucson',
+        addressRegion: 'AZ',
+        postalCode: '85719',
+        addressCountry: 'US'
+      }
     },
     mainEntityOfPage: {
       '@type': 'WebPage',

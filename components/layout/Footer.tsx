@@ -2,9 +2,18 @@
 
 import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
+import { SiFacebook, SiInstagram, SiLinkedin, SiYoutube, SiGoogle } from "react-icons/si";
 import CookiePreferences from "../integrations/CookiePreferences";
 
 const logoUrl = "/logo.png";
+
+const socialLinks = [
+  { name: "Facebook", href: "https://www.facebook.com/IDesignAC", icon: SiFacebook },
+  { name: "Instagram", href: "https://www.instagram.com/intelligentdesignac/", icon: SiInstagram },
+  { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-hvac", icon: SiLinkedin },
+  { name: "YouTube", href: "https://www.youtube.com/@intelligentdesigntucson", icon: SiYoutube },
+  { name: "Google Business", href: "https://g.page/r/CajVBZOPuZ56EBE/", icon: SiGoogle },
+];
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -49,6 +58,40 @@ export default function Footer() {
             <p className="text-sm text-primary-foreground/80 mb-4">
               Tucson's trusted home services experts since 1979. Family and veteran-owned, locally operated.
             </p>
+            {/* Social Media Links */}
+            <div className="flex gap-3 mb-4">
+              {socialLinks.map((social) => (
+                <a
+                  key={social.name}
+                  href={social.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={`Follow us on ${social.name}`}
+                  className="w-8 h-8 flex items-center justify-center rounded-full bg-primary-foreground/10 hover:bg-primary-foreground/20 transition-colors"
+                  data-testid={`link-social-${social.name.toLowerCase().replace(/\s+/g, '-')}`}
+                >
+                  <social.icon className="w-4 h-4" />
+                </a>
+              ))}
+            </div>
+            {/* BBB Badge Link */}
+            <a
+              href="https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 text-xs text-primary-foreground/80 hover:text-primary-foreground transition-colors"
+              data-testid="link-bbb-profile"
+            >
+              <Image
+                src="/bbb-logo.png"
+                alt="BBB A+ Rated"
+                width={40}
+                height={20}
+                className="h-5 w-auto"
+                style={{ width: 'auto' }}
+              />
+              <span>BBB A+ Rated</span>
+            </a>
           </div>
 
           {/* Services */}

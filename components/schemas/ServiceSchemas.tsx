@@ -43,6 +43,47 @@ function generateHowToSchema(section: HowToSection, canonicalUrl: string) {
 }
 
 /**
+ * Parse timeframe string to ISO 8601 date format
+ * Handles formats like "Summer 2024 (July 18th...)" or "Spring 2024 (May 14th...)"
+ */
+function parseTimeframeToISO(timeframe: string): string {
+  // Try to extract year and month from the timeframe
+  const yearMatch = timeframe.match(/20\d{2}/);
+  const year = yearMatch ? yearMatch[0] : new Date().getFullYear().toString();
+  
+  // Map seasons and months to approximate ISO dates
+  const seasonMap: Record<string, string> = {
+    'january': '01-15',
+    'february': '02-15',
+    'march': '03-15',
+    'april': '04-15',
+    'may': '05-15',
+    'june': '06-15',
+    'july': '07-15',
+    'august': '08-15',
+    'september': '09-15',
+    'october': '10-15',
+    'november': '11-15',
+    'december': '12-15',
+    'winter': '01-15',
+    'spring': '04-15',
+    'summer': '07-15',
+    'fall': '10-15',
+    'autumn': '10-15'
+  };
+  
+  const lowerTimeframe = timeframe.toLowerCase();
+  for (const [key, monthDay] of Object.entries(seasonMap)) {
+    if (lowerTimeframe.includes(key)) {
+      return `${year}-${monthDay}`;
+    }
+  }
+  
+  // Default to mid-year if no match
+  return `${year}-06-15`;
+}
+
+/**
  * Generate schema from CaseStudySection with PropertyValue results
  */
 function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string) {
@@ -54,7 +95,8 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
     "url": canonicalUrl,
     "author": {
       "@type": "Organization",
-      "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
+      "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+      "url": "https://www.idesignac.com"
     },
     "publisher": {
       "@type": "Organization",
@@ -64,7 +106,7 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
         "url": "https://www.idesignac.com/logo.png"
       }
     },
-    "datePublished": section.timeframe,
+    "datePublished": parseTimeframeToISO(section.timeframe),
     "about": {
       "@type": "Service",
       "name": "AC Installation",

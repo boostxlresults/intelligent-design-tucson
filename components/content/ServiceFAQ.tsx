@@ -5,15 +5,15 @@
  * 
  * Renders FAQ section with:
  * - Semantic HTML (H2 section, H3 questions) for AI extraction
- * - Synchronized JSON-LD FAQ schema
  * - Accordion UI for better UX
  * - Standalone answers optimized for LLM summarization
  * 
- * This component eliminates schema/visual duplication and ensures
- * FAQs are optimized for AI search (Gemini, Perplexity, Ask Maps)
+ * NOTE: FAQ JSON-LD schema is generated SERVER-SIDE in schemaRegistry.ts
+ * This component only handles the visual UI - no client-side schema injection
+ * to prevent duplicate FAQPage errors in Google Rich Results Test.
  */
 
-import { useEffect, useId, useState, useRef } from 'react';
+import { useId, useState, useRef, useEffect } from 'react';
 import { ChevronDown } from 'lucide-react';
 import { FAQItem } from '@/data/faqs/types';
 
@@ -41,8 +41,7 @@ interface ServiceFAQProps {
   serviceName?: string;
   
   /**
-   * Unique service ID for schema script ID
-   * Prevents collisions when multiple FAQ sections exist
+   * Unique service ID for component identification
    */
   serviceId?: string;
 }
@@ -57,55 +56,8 @@ export default function ServiceFAQ({
   // Defensive check: ensure faqs is an array
   const safeFaqs = Array.isArray(faqs) ? faqs : [];
   
-  // Generate unique ID for this component instance to prevent schema collisions
+  // Generate unique ID for this component instance
   const componentId = useId();
-  const schemaId = `faq-schema-${serviceId}-${componentId}`.replace(/:/g, '-');
-  
-  useEffect(() => {
-    // Skip schema injection if no FAQs provided
-    if (safeFaqs.length === 0) {
-      console.warn('[ServiceFAQ] No FAQs provided - skipping schema injection');
-      return;
-    }
-    
-    // Generate FAQ Schema dynamically from props
-    const faqSchema = {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": safeFaqs.map((faq) => ({
-        "@type": "Question",
-        "name": faq.question,
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": faq.answer,
-        },
-      })),
-    };
-
-    // Create script element for schema with unique ID and data-schema attribute
-    const script = document.createElement('script');
-    script.type = 'application/ld+json';
-    script.textContent = JSON.stringify(faqSchema);
-    script.id = schemaId;
-    script.setAttribute('data-schema', `${serviceId}-faq-schema`);
-    
-    // Remove existing schema for this component if present (prevent duplicates on re-render)
-    const existing = document.getElementById(schemaId);
-    if (existing) {
-      existing.remove();
-    }
-    
-    // Inject schema into document head
-    document.head.appendChild(script);
-    
-    // Cleanup on unmount
-    return () => {
-      const schemaElement = document.getElementById(schemaId);
-      if (schemaElement) {
-        schemaElement.remove();
-      }
-    };
-  }, [safeFaqs, schemaId]);
 
   // Warning if FAQ count is below AI search minimum
   if (safeFaqs.length < 11 && safeFaqs.length > 0 && process.env.NODE_ENV === 'development') {
