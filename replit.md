@@ -3,77 +3,6 @@
 ## Overview
 This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site currently features over 488 pages, including service pages (with location-specific variants), service area pages, optimized blog posts, resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
 
-## Recent Changes
-
-### December 8, 2025 - RealWorkLabs Geo-Filtered Maps & Security Update
-**RealWorkLabs Geo-Filtered Project Maps Integration:**
-- ✅ **20 service area pages enhanced:** Each location page now displays a "Recent Projects" section with geo-filtered maps showing completed HVAC, plumbing, solar, electrical, and roofing projects in that specific area
-- ✅ **Location-specific widget IDs:** Mapping system connects each location slug to its corresponding RWL widget ID (e.g., oro-valley → rwl-oro-valley)
-- ✅ **Graceful fallback:** Pages without RWL mappings simply don't show the projects section (no errors)
-- ✅ **E2E tested:** Oro Valley, Tucson, and Marana pages verified with RWL map containers
-
-**Files Added/Modified:**
-- `components/integrations/RealWorkLabs.tsx` - Script loader and map container component
-- `lib/realworklabs-mapping.ts` - Location slug to RWL ID mapping (server-safe)
-- `components/pages/LocationPage.tsx` - Added "Recent Projects" section with RealWorkLabsMap
-- `app/layout.tsx` - Added RealWorkLabs script loader
-
-**Security Update:**
-- ✅ **Next.js 16.0.7:** Updated from 16.0.1 to address CVE-2025-66478 (CVSS 10.0 RCE vulnerability in React Server Components)
-
-**Other Updates:**
-- ✅ **Solar Tubular Lights hero image replaced:** New professional technician installation image
-
-### December 1, 2025 - Service Category Pages & Navigation Hierarchy
-**Service Category Pages Created:**
-- ✅ **5 new category landing pages:** /services/hvac, /services/plumbing, /services/solar, /services/electrical, /services/roofing
-- ✅ **ServiceCategoryPage component:** Reusable template with hero, trust bar, sub-service card grid, benefits section, reviews, and scheduler CTA
-- ✅ **Category data structure:** Consolidated in `data/pages/categories/` with descriptions, sub-services, and images
-- ✅ **SEO integration:** All category pages use centralized `getPageSchemas` from schemaRegistry.ts
-
-**Navigation Hierarchy Established:**
-- Homepage ServiceTiles now link to category pages (instead of anchor links)
-- Complete user journey: Homepage → Service Category → Specific Service → Booking
-- E2E tested: HVAC, Plumbing, Roofing flows all verified working
-
-**Files Added/Modified:**
-- `components/pages/ServiceCategoryPage.tsx` - Reusable category page template
-- `data/pages/categories/index.ts` - Category data exports
-- `data/pages/categories/hvac.ts`, `plumbing.ts`, `solar.ts`, `electrical.ts`, `roofing.ts` - Category content
-- `app/services/hvac/page.tsx`, `plumbing/page.tsx`, `solar/page.tsx`, `electrical/page.tsx`, `roofing/page.tsx` - Route pages
-- `components/content/ServiceTiles.tsx` - Updated to link to category pages
-
-### November 21, 2025 - Production Deployment Preparation
-**Pre-Production Deployment Verification Completed:**
-- ✅ **User Journey Testing:** 5 critical conversion paths verified (Homepage→Scheduler, Location→Service→Scheduler, Forms, Blog, Contractor Commerce)
-- ✅ **Cross-Browser Testing:** Responsive design verified across all viewports (375px-1920px), mobile hamburger menu, desktop dropdowns functional
-- ✅ **Third-Party Integrations:** All 8 integrations properly implemented (GTM with consent, DNI, ServiceTitan, Contractor Commerce 3 calculators, PulseM, RealWorkLabs, WhoHire, HatchChat) - staging limitations expected due to domain whitelisting
-- ✅ **Performance Audit:** Homepage: 2.4s/262KB, AC Repair: 0.79s/314KB, Oro Valley: 0.71s/117KB - excellent load times, AVIF/WebP optimization configured
-- ✅ **SEO Verification:** Canonical URLs correct, OG/Twitter tags complete, schema markup rendering (2-5 schemas per page), sitemap.xml accessible
-- ✅ **Content Quality:** Phone (520) 333-2665 consistent, review count 22,000+ consistent, no placeholder text, professional content throughout
-
-**Schema Validation:**
-- 🔧 **Schema provider references fixed:** Changed from inline LocalBusiness objects to @id references (lib/seo/generateMultiCategoryLocalBusinessSchema.ts), eliminating 51 "Missing field 'address'" validation errors
-- ✅ **Google Rich Results Test:** Organization schema (6 valid items) + LocalBusiness schema (6 valid items) all passing validation on staging
-
-**Production Integrations:**
-- ✅ **ServiceTitan DNI activated:** Official Dynamic Number Insertion code integrated (Account ID: 227669022) for call tracking and marketing attribution
-- ✅ **HatchChat live chat installed:** Customer support chat widget integrated in <head> section (Hatch ID: 67f38a719fd92e00011a4e43), displays bottom-right of website
-
-**Additional Fixes & Features:**
-- 🔧 **robots.txt domain corrected:** Changed sitemap URL from intelligentdesignac.com to idesignac.com (production domain)
-- ✅ **drain-clearing-special page created:** Full promotional page featuring $28.88 special with DrainClearingCoupon component, SEO metadata, schema markup, trust indicators, FAQ section, and conversion-focused CTAs
-- 🔧 **/areas-served redirect added:** Created 308 permanent redirect from /areas-served → /service-areas (next.config.ts)
-- 🔧 **Accessibility icon repositioned:** Moved accessibility toggle to avoid covering cookie banner on all viewports:
-  - Mobile: bottom-60 (240px from bottom) - well above floating action bar and cookie banner
-  - Desktop/Tablet: top-24 (96px from top) - upper-left area, away from bottom cookie banner
-  - Panel positioning adjusted to open cleanly (mobile: bottom-80, desktop: top-40)
-
-**Known Items:**
-- 📝 **Staging Limitations:** ServiceTitan iframe blank on staging (domain whitelist), GTM requires cookie consent (GDPR), some widgets may have CORS on staging - all will work on production www.idesignac.com
-
-**Production Deployment:** ✅ Ready for deployment to www.idesignac.com - all pages complete, SEO optimized, DNI active, schemas validated, accessibility icon repositioned
-
 ## User Preferences
 Preferred communication style: Simple, everyday language.
 
@@ -110,9 +39,9 @@ Preferred communication style: Simple, everyday language.
 
 ### Key Architectural Decisions
 - **Mobile-First Conversion:** Floating action bar, sticky header, ServiceTitan scheduler in modal dialogs.
-- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList, HowTo, VideoObject). All meta tags managed via react-helmet-async. Service-location pages generate 7-10+ schemas per page.
+- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList, HowTo, VideoObject). Service-location pages generate 7-10+ schemas per page.
 - **URL Migration & Redirect System:** Programmatic 308 permanent redirect system (next.config.ts) preserves SEO equity from legacy React URLs to Next.js nested structures. Manifest system (`data/pages/services/manifest.json`) maps canonical slugs to data files for Next.js static generation.
-- **Performance:** Vite for optimized builds, font and image optimization, edge-ready configuration.
+- **Performance:** Optimized builds (Vite), font and image optimization (AVIF/WebP), edge-ready configuration.
 - **Design Philosophy:** "Professional reliability with warm approachability," focusing on trust signals and clear calls to action.
 - **Service Pages:** Template includes full-width background hero, 6 highlight cards, extensive service content, review module, and comprehensive FAQ section. CTA sections support ServiceTitan scheduler integration and external link CTAs.
 - **FAQ Components:** `ServiceFAQ` (centralized system with JSON-LD schema) and `CommonQuestions` (conversational Q&A for AI search optimization) are deployed across service pages.
@@ -133,11 +62,11 @@ Preferred communication style: Simple, everyday language.
 
 ### Third-Party Services
 - **ServiceTitan:** Scheduler embed widget and Dynamic Number Insertion (DNI).
-- **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales (API key: D32QhwUokdL5YZLParGpbxc7TuBTkYanGNQSR4zd).
-- **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs (API key: Mv2yZInBciS35Sln).
-- **WhoHire:** Job board plugin integration for careers page (data-slug: intelligentdesignairconditioningplumbingroofingsolarelectric).
+- **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales.
+- **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs.
+- **WhoHire:** Job board plugin integration for careers page.
 - **PulseM:** Review aggregation widget displaying 22,000+ five-star reviews.
-- **HatchChat:** Live chat widget for customer support (Hatch ID: 67f38a719fd92e00011a4e43).
+- **HatchChat:** Live chat widget for customer support.
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.
 - **Schema.org:** Employed for structured data to enhance SEO.
