@@ -1,8 +1,8 @@
 'use client';
 
+import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import CookiePreferences from "../integrations/CookiePreferences";
-import LazyImage from "../content/LazyImage";
 
 const logoUrl = "/logo.png";
 
@@ -37,12 +37,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 mb-12">
           {/* Company Info */}
           <div className="lg:col-span-1">
-            <LazyImage
+            <Image
               src={logoUrl}
               alt="Intelligent Design Tucson"
-              className="h-12 w-auto mb-4"
               width={240}
               height={48}
+              className="h-12 w-auto mb-4"
+              style={{ width: 'auto' }}
+              loading="lazy"
             />
             <p className="text-sm text-primary-foreground/80 mb-4">
               Tucson's trusted home services experts since 1979. Family and veteran-owned, locally operated.

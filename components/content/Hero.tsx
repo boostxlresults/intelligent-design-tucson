@@ -15,25 +15,25 @@ export default function Hero() {
           fill
           priority
           fetchPriority="high"
-          sizes="(max-width: 767px) 100vw, 1px"
+          sizes="100vw"
           className="object-cover md:hidden"
         />
-        {/* Tablet hero (768px to 1279px) - lazy loaded */}
+        {/* Tablet hero (768px to 1279px) */}
         <Image
           src="/images/hero-family-tablet.webp"
           alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
           fill
-          loading="lazy"
-          sizes="(min-width: 768px) and (max-width: 1279px) 100vw, 1px"
+          loading="eager"
+          sizes="100vw"
           className="object-cover hidden md:block xl:hidden"
         />
-        {/* Desktop hero (1280px and up) - lazy loaded */}
+        {/* Desktop hero (1280px and up) */}
         <Image
           src="/images/hero-family-desktop.webp"
           alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
           fill
-          loading="lazy"
-          sizes="(min-width: 1280px) 100vw, 1px"
+          loading="eager"
+          sizes="100vw"
           className="object-cover hidden xl:block"
         />
         {/* Left-to-right gradient overlay for text readability */}

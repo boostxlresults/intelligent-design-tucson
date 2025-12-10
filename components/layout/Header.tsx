@@ -357,15 +357,17 @@ export default function Header() {
     <header className="sticky top-0 z-50 w-full bg-primary shadow-md">
       <div className="pr-4 md:pr-6 lg:pr-8 pl-2 md:pl-3 lg:pl-4">
         <div className="flex items-center py-4 md:py-6 gap-8">
-          {/* Logo */}
+          {/* Logo - Optimized with Next.js Image for automatic resizing */}
           <div className="flex-shrink-0 ml-6 md:ml-10 lg:ml-12">
             <a href="/" className="block" data-testid="link-home">
-              <img
+              <Image
                 src={logoUrl}
                 alt="Intelligent Design Tucson Logo"
+                width={400}
+                height={80}
                 className="h-16 md:h-20 w-auto"
-                width={280}
-                height={56}
+                style={{ width: 'auto' }}
+                priority
               />
             </a>
           </div>
