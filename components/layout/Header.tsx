@@ -382,14 +382,13 @@ export default function Header() {
               >
                 <Popover open={openPopover === service.name}>
                   <PopoverTrigger asChild>
-                    <a
-                      href={service.href}
-                      className="inline-flex items-center justify-center bg-transparent text-primary-foreground hover:bg-primary-foreground/10 h-auto px-2 py-2 text-lg rounded-md transition-colors"
-                      data-testid={`link-${service.name.toLowerCase()}`}
+                    <span
+                      className="inline-flex items-center justify-center bg-transparent text-primary-foreground hover:bg-primary-foreground/10 h-auto px-2 py-2 text-lg rounded-md transition-colors cursor-default"
+                      data-testid={`nav-${service.name.toLowerCase()}`}
                     >
                       {service.name}
                       <ChevronDown className="ml-1 h-4 w-4" />
-                    </a>
+                    </span>
                   </PopoverTrigger>
                   <PopoverContent align="start" className={
                     service.acColumns ? "w-[820px] p-4" : 

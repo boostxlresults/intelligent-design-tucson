@@ -111,19 +111,14 @@ export default function ServiceTiles() {
               </ul>
 
               {/* Service Link - Descriptive text for SEO */}
-              <Button
-                variant="ghost"
-                className="w-full justify-between group"
-                asChild
+              <Link
+                href={`/services/${service.slug}`}
+                className="flex items-center justify-between w-full text-sm font-medium text-primary hover:text-primary/80 transition-colors group"
+                data-testid={`link-explore-${service.id}`}
               >
-                <Link
-                  href={`/services/${service.slug}`}
-                  data-testid={`button-learn-more-${service.id}`}
-                >
-                  Explore {service.title}
-                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                </Link>
-              </Button>
+                <span>Explore {service.title.replace(' Services', '').replace(' Solutions', '')} Services</span>
+                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </Link>
             </Card>
           ))}
         </div>
