@@ -1,0 +1,354 @@
+Test results
+
+Articles
+check_circle
+3 valid items detected
+Valid items are eligible for Google Search's rich results. Learn more
+Details
+Crawl
+check_circle
+Crawled successfully on Dec 10, 2025, 1:01:09 PM
+Detected items
+check_circle
+Emergency Capacitor Replacement Saves Summer Comfort
+3 non-critical issues
+
+Missing field "image" (optional)
+type
+Article
+headline
+Emergency Capacitor Replacement Saves Summer Comfort
+description
+Homeowner's 6-year-old Carrier AC system failed during 112°F heatwave on July 18th, 2024. System hummed but compressor wouldn't start, leaving family with two young children in dangerous heat. With indoor temperatures climbing from 78°F to 95°F in just 2 hours, this was a genuine health emergency requiring immediate response.
+url
+https://www.idesignac.com/services/ac-repair-tucson
+author
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+publisher
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+logo
+type
+ImageObject
+url
+https://www.idesignac.com/logo.png
+datePublished
+2024-07-15
+Invalid datetime value for "datePublished" (optional)
+Datetime property "datePublished" is missing a timezone (optional)
+about
+type
+Service
+name
+AC Installation
+provider
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+areaServed
+type
+City
+name
+Rita Ranch, East Tucson
+mainEntity
+type
+PropertyValue
+name
+Emergency Response Time
+value
+90 minutes from call to arrival
+mainEntity
+type
+PropertyValue
+name
+Diagnosis Time
+value
+10 minutes
+mainEntity
+type
+PropertyValue
+name
+Total Repair Time
+value
+45 minutes on-site
+mainEntity
+type
+PropertyValue
+name
+Repair Cost
+value
+$285 (vs. $1,200+ compressor replacement)
+mainEntity
+type
+PropertyValue
+name
+Temperature Drop
+value
+95°F → 78°F within 30 minutes
+mainEntity
+type
+PropertyValue
+name
+System Lifespan Extended
+value
+5-7 years
+mainEntity
+type
+PropertyValue
+name
+Energy Efficiency Restored
+value
+95% (from 60% degraded performance)
+mainEntity
+type
+PropertyValue
+name
+Monthly Energy Savings
+value
+$40 (verified on next month's bill)
+check_circle
+Refrigerant Leak Repair Prevents $6,500 Replacement
+3 non-critical issues
+
+Missing field "image" (optional)
+type
+Article
+headline
+Refrigerant Leak Repair Prevents $6,500 Replacement
+description
+Homeowner noticed gradual cooling loss over 3 weeks in May 2024. AC ran constantly but couldn't maintain temperature below 80°F even during mild 85°F days. System was an 8-year-old Trane XR16 with no obvious external damage. Electric bills increased from $180/month to $234/month (30% increase) despite reduced cooling performance and increased discomfort.
+url
+https://www.idesignac.com/services/ac-repair-tucson
+author
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+publisher
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+logo
+type
+ImageObject
+url
+https://www.idesignac.com/logo.png
+datePublished
+2024-05-15
+Invalid datetime value for "datePublished" (optional)
+Datetime property "datePublished" is missing a timezone (optional)
+about
+type
+Service
+name
+AC Installation
+provider
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+areaServed
+type
+City
+name
+Oro Valley (near Pusch Ridge)
+mainEntity
+type
+PropertyValue
+name
+Leak Detection Time
+value
+45 minutes (H-10 electronic sniffer)
+mainEntity
+type
+PropertyValue
+name
+Leak Location
+value
+Evaporator coil brazed connection
+mainEntity
+type
+PropertyValue
+name
+Total Repair Cost
+value
+$680 (parts + EPA-compliant labor)
+mainEntity
+type
+PropertyValue
+name
+Replacement Cost Avoided
+value
+$6,500 (competitor's quote)
+mainEntity
+type
+PropertyValue
+name
+Cooling Capacity Restored
+value
+100% (42,000 BTU verified)
+mainEntity
+type
+PropertyValue
+name
+Temperature Performance
+value
+80°F → 72°F setpoint achieved
+mainEntity
+type
+PropertyValue
+name
+Energy Efficiency Improvement
+value
+35% (measured kWh reduction)
+mainEntity
+type
+PropertyValue
+name
+Monthly Energy Savings
+value
+$54/month ($234 → $180)
+mainEntity
+type
+PropertyValue
+name
+Payback Period
+value
+12.5 months vs. replacement
+check_circle
+Honest Compressor Assessment Saves Homeowner Thousands
+3 non-critical issues
+
+Missing field "image" (optional)
+type
+Article
+headline
+Honest Compressor Assessment Saves Homeowner Thousands
+description
+14-year-old Lennox 13 SEER AC system (original 2010 builder-grade installation) experienced complete compressor failure on June 22nd, 2024. Outdoor unit hummed loudly but compressor wouldn't start—classic locked rotor symptom. Another HVAC company quoted $2,800 for compressor replacement on a system nearing end of expected 15-year lifespan. Homeowner unsure whether expensive repair made financial sense on aging equipment that already showed declining efficiency (summer bills had climbed to $385/month).
+url
+https://www.idesignac.com/services/ac-repair-tucson
+author
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+publisher
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+logo
+type
+ImageObject
+url
+https://www.idesignac.com/logo.png
+datePublished
+2024-06-15
+Invalid datetime value for "datePublished" (optional)
+Datetime property "datePublished" is missing a timezone (optional)
+about
+type
+Service
+name
+AC Installation
+provider
+type
+Organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+areaServed
+type
+City
+name
+Gladden Farms, Marana
+mainEntity
+type
+PropertyValue
+name
+Compressor Repair Quote
+value
+$2,800 (14-year-old system)
+mainEntity
+type
+PropertyValue
+name
+New System Investment
+value
+$6,200 (complete installation)
+mainEntity
+type
+PropertyValue
+name
+Net Additional Cost
+value
+$3,400 over repair option
+mainEntity
+type
+PropertyValue
+name
+Old System SEER
+value
+13 SEER (2010 efficiency)
+mainEntity
+type
+PropertyValue
+name
+New System SEER
+value
+18 SEER (2024 efficiency)
+mainEntity
+type
+PropertyValue
+name
+SEER Efficiency Gain
+value
+38.5% improvement
+mainEntity
+type
+PropertyValue
+name
+Monthly Energy Bill
+value
+$385 → $290 ($95 savings)
+mainEntity
+type
+PropertyValue
+name
+Annual Energy Savings
+value
+$1,140/year
+mainEntity
+type
+PropertyValue
+name
+Payback Period
+value
+3.0 years ($3,400 ÷ $1,140)
+mainEntity
+type
+PropertyValue
+name
+New Warranty Coverage
+value
+10 years parts + labor (vs. 90 days repair warranty)
+mainEntity
+type
+PropertyValue
+name
+15-Year Total Savings
+value
+$13,680 in energy costs vs. old system

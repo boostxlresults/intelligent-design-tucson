@@ -43,8 +43,9 @@ function generateHowToSchema(section: HowToSection, canonicalUrl: string) {
 }
 
 /**
- * Parse timeframe string to ISO 8601 date format
+ * Parse timeframe string to full ISO 8601 date format with Arizona timezone
  * Handles formats like "Summer 2024 (July 18th...)" or "Spring 2024 (May 14th...)"
+ * Returns format: "2024-07-15T00:00:00-07:00" (Arizona doesn't observe DST)
  */
 function parseTimeframeToISO(timeframe: string): string {
   // Try to extract year and month from the timeframe
@@ -75,28 +76,36 @@ function parseTimeframeToISO(timeframe: string): string {
   const lowerTimeframe = timeframe.toLowerCase();
   for (const [key, monthDay] of Object.entries(seasonMap)) {
     if (lowerTimeframe.includes(key)) {
-      return `${year}-${monthDay}`;
+      // Return full ISO 8601 with Arizona timezone (UTC-7, no DST)
+      return `${year}-${monthDay}T00:00:00-07:00`;
     }
   }
   
   // Default to mid-year if no match
-  return `${year}-06-15`;
+  return `${year}-06-15T00:00:00-07:00`;
 }
 
 /**
  * Generate schema from CaseStudySection with PropertyValue results
+ * Includes image field for Rich Results validation
  */
-function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string) {
+function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string, heroImage?: string) {
+  // Use case study image if available, otherwise use service hero image or default
+  const imageUrl = heroImage 
+    ? (heroImage.startsWith('http') ? heroImage : `https://www.idesignac.com${heroImage}`)
+    : 'https://www.idesignac.com/images/case-study-default.webp';
+    
   return {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": section.title,
     "description": section.challenge,
+    "image": imageUrl,
     "url": canonicalUrl,
     "author": {
       "@type": "Organization",
       "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
-      "url": "https://www.idesignac.com"
+      "url": "https://www.idesignac.com/"
     },
     "publisher": {
       "@type": "Organization",
@@ -168,11 +177,12 @@ export function getServiceSchemas(data: ServicePageData, serviceSlug: string) {
   );
 
   // Extract Case Study sections and generate schemas
+  // Pass service hero image as fallback for case studies without their own images
   const caseStudySections = data.content.sections.filter(
     (section): section is CaseStudySection => 'type' in section && section.type === 'case_study'
   );
   const caseStudySchemas = caseStudySections.map(section =>
-    generateCaseStudySchema(section, canonicalUrl)
+    generateCaseStudySchema(section, canonicalUrl, data.heroImage)
   );
 
   // Combine all schemas
