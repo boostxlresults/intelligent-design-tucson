@@ -9,15 +9,22 @@ export default function TrustBar() {
       <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-12">
           {/* BBB Badge */}
-          <div className="flex items-center gap-4" data-testid="badge-bbb">
+          <a 
+            href="https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractors/intelligent-design-air-conditioning-plumbing-solar-electric-1286-1000028820"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-4 hover:opacity-80 transition-opacity"
+            data-testid="link-bbb"
+            aria-label="View our BBB A+ Rating"
+          >
             <LazyImage
               src={bbbLogoUrl}
-              alt="BBB A+ Accredited Business"
+              alt="BBB A+ Accredited Business - Click to view our profile"
               className="h-20 md:h-24 w-auto"
               width={100}
               height={96}
             />
-          </div>
+          </a>
 
           {/* Divider */}
           <div className="hidden md:block h-16 w-px bg-border" />
