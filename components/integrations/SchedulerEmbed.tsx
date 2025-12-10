@@ -1,10 +1,18 @@
 'use client';
 
-import { useState, useEffect, useRef } from "react";
-import { Dialog, DialogContent, DialogTrigger, DialogTitle } from "@/components/ui/dialog";
+import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Calendar } from "lucide-react";
-import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
+import Script from "next/script";
+
+declare global {
+  interface Window {
+    SE?: {
+      open?: () => void;
+      toggle?: () => void;
+    };
+  }
+}
 
 interface SchedulerEmbedProps {
   triggerText?: string;
@@ -27,59 +35,55 @@ export default function SchedulerEmbed({
   verticalLayout = false,
   "data-testid": dataTestId = "button-schedule",
 }: SchedulerEmbedProps) {
-  const [isOpen, setIsOpen] = useState(false);
-  const [isLoading, setIsLoading] = useState(true);
-  const iframeRef = useRef<HTMLIFrameElement>(null);
+  const [scriptLoaded, setScriptLoaded] = useState(false);
 
-  useEffect(() => {
-    if (isOpen) {
-      setIsLoading(true);
+  const handleClick = () => {
+    // Try to open ServiceTitan's scheduler widget
+    if (window.SE?.open) {
+      window.SE.open();
+      return;
     }
-  }, [isOpen]);
-
-  const handleIframeLoad = () => {
-    setIsLoading(false);
+    
+    // Look for the ServiceTitan widget button and click it
+    const stButton = document.querySelector('[data-se-widget], .se-widget-button, [class*="servicetitan"], button[onclick*="SE"]');
+    if (stButton instanceof HTMLElement) {
+      stButton.click();
+      return;
+    }
+    
+    // Fallback: Try to find any element with scheduling-related attributes
+    const schedulerElements = document.querySelectorAll('[data-schedulerid], [data-api-key*="m1cp1a9"]');
+    schedulerElements.forEach(el => {
+      if (el instanceof HTMLElement) {
+        el.click();
+      }
+    });
   };
 
-  // ServiceTitan scheduler embed URL
-  const schedulerUrl = "https://book.servicetitan.com/book?id=3e8xgAePMEe8V8TsAo0ybQ&w=m1cp1a9zj306h48ohavpwg8w";
-
   return (
-    <Dialog open={isOpen} onOpenChange={setIsOpen}>
-      <DialogTrigger asChild>
-        <Button 
-          size={size} 
-          variant={variant} 
-          className={className}
-          data-testid={dataTestId}
-        >
-          <Calendar className={verticalLayout ? iconClassName : `${iconClassName} mr-2`} />
-          <span className={textClassName}>{triggerText}</span>
-        </Button>
-      </DialogTrigger>
-      <DialogContent className="max-w-5xl w-full h-[85vh] p-0 overflow-hidden">
-        <VisuallyHidden>
-          <DialogTitle>Schedule Service Appointment</DialogTitle>
-        </VisuallyHidden>
-        <div className="w-full h-full flex items-center justify-center bg-background relative">
-          {isLoading && (
-            <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 p-8 bg-background z-10">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary"></div>
-              <p className="text-muted-foreground">Loading scheduler...</p>
-            </div>
-          )}
-          {isOpen && (
-            <iframe
-              ref={iframeRef}
-              src={schedulerUrl}
-              className="w-full h-full border-0"
-              title="Schedule Service Appointment"
-              onLoad={handleIframeLoad}
-              allow="geolocation"
-            />
-          )}
-        </div>
-      </DialogContent>
-    </Dialog>
+    <>
+      {/* ServiceTitan Scheduling Pro Widget Script */}
+      <Script
+        id="se-widget-embed"
+        src="https://embed.scheduler.servicetitan.com/scheduler-v1.js"
+        strategy="afterInteractive"
+        onLoad={() => setScriptLoaded(true)}
+        data-api-key="m1cp1a9zj306h48ohavpwg8w"
+        data-schedulerid="sched_vwgezlwi56yyvwdb0nzlng14"
+      />
+      <Button 
+        size={size} 
+        variant={variant} 
+        className={className}
+        data-testid={dataTestId}
+        onClick={handleClick}
+        data-se-widget="true"
+        data-api-key="m1cp1a9zj306h48ohavpwg8w"
+        data-schedulerid="sched_vwgezlwi56yyvwdb0nzlng14"
+      >
+        <Calendar className={verticalLayout ? iconClassName : `${iconClassName} mr-2`} />
+        <span className={textClassName}>{triggerText}</span>
+      </Button>
+    </>
   );
 }
