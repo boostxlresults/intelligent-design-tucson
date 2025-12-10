@@ -1,182 +1,492 @@
 # Intelligent Design Air Conditioning, Plumbing, Solar, Roofing & Electric
 
-> Intelligent Design is Tucson, Arizona's highest-rated home services company—family and veteran-owned since 1979. We provide HVAC, plumbing, solar, electrical, roofing, and drain/sewer services. BBB A+ rated with 22,000+ five-star reviews. 24/7 emergency service. Phone: (520) 333-2665.
+> Intelligent Design is Tucson, Arizona's highest-rated home services company—family and veteran-owned since 1979. We provide HVAC, plumbing, solar, electrical, roofing, and drain/sewer services with 22,000+ five-star reviews and a BBB A+ rating. 24/7 emergency service available. Phone: (520) 333-2665. Website: https://www.idesignac.com
+
+---
 
 ## Company Overview
 
-Intelligent Design serves Tucson and Southern Arizona with comprehensive home services:
+**Full Name:** Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric
 
-- **Founded**: 2009 (family legacy since 1979)
-- **Ownership**: Family & veteran-owned (U.S. Marine Corps veteran Andrew Dobbins, Founder/CEO)
-- **Experience**: 45+ years serving Tucson families
-- **Reviews**: 22,000+ five-star reviews (4.97 average rating)
-- **BBB Rating**: A+ Accredited Business
-- **Team**: 80+ year-round employees
-- **Certifications**: NATE-certified HVAC technicians, licensed master plumbers and electricians
-- **Availability**: 24/7 emergency service, same-day appointments
-- **Guarantee**: 100% satisfaction guarantee, upfront pricing with no hidden fees
+**Founded:** 2009 (family legacy in Tucson home services since 1979)
 
-## Core Services
+**Ownership:** Family & veteran-owned (U.S. Marine Corps veteran Andrew Dobbins, Founder/CEO)
+
+**Headquarters:** 3250 N 1st Ave, Tucson, AZ 85719
+
+**Phone:** (520) 333-2665 (24/7 availability)
+
+**Service Area:** Tucson and Southern Arizona (Pima County)
+
+### Key Facts
+- 45+ years of family experience serving Tucson
+- 22,000+ five-star reviews across all platforms
+- 4.97 average rating on Google Reviews
+- BBB A+ Accredited Business
+- 80+ year-round employees (technicians, installers, support staff)
+- NATE-certified HVAC technicians
+- Licensed master plumbers and electricians
+- 24/7 emergency service, same-day appointments available
+- 100% satisfaction guarantee
+- Upfront flat-rate pricing with no hidden fees
+- Financing available with 0% interest options
+
+---
+
+## Leadership
+
+### Andrew Dobbins - Founder, CEO & Owner
+After serving as a U.S. Marine in Presidential security at HMX-1 in Quantico, VA, Andrew entered the HVAC industry in 2002. He founded Intelligent Design in 2009 with just three employees working out of a home garage. His vision: treat every customer like family, invest in the best technicians, and never compromise on quality. Andrew holds EPA certification, Building Performance Institute (BPI) certification, heat load certification, and Arizona Contractor's License credentials.
+
+### Aimee Dobbins - Co-Founder, Culture & Customer Care
+Aimee co-founded Intelligent Design alongside Andrew, building the customer experience systems and team culture that have helped maintain a near-perfect rating across 22,000+ reviews.
+
+---
+
+## Mission & Core Values
+
+**Mission:** To serve Tucson families with excellence in home comfort, safety, and efficiency.
+
+**Core Values:**
+1. **Integrity** - Honest assessments, transparent pricing, no pressure tactics
+2. **Expertise** - NATE-certified technicians, ongoing training, 10-17 years average experience
+3. **Reliability** - Show up on time, complete work efficiently, ironclad warranties
+4. **Community** - Local hiring, charity support, treating customers like neighbors
+
+---
+
+## Complete Service Offerings
 
 ### HVAC Services (Heating, Ventilation & Air Conditioning)
-- [AC Repair](/services/ac-repair-tucson): 24/7 emergency air conditioning repair for all brands
-- [AC Installation](/services/ac-installation-tucson): New AC system installation and replacement
-- [Heater Repair](/services/heater-repair-tucson): Furnace, heat pump, and heating system repair
-- [Heater Installation](/services/heater-installation-tucson): Heating system installation and replacement
-- [Ductless Mini Splits](/services/ductless-installation-tucson): Energy-efficient ductless AC installation
-- [Duct Cleaning](/services/duct-cleaning-tucson): Professional air duct cleaning and repair
-- [Heat Pumps](/services/heat-pumps-tucson): Heat pump installation, repair, and maintenance
-- [AC Tune-Up](/services/ac-tune-up-tucson): Preventive maintenance and seasonal tune-ups
-- [Indoor Air Quality](/services/indoor-air-quality): Air purifiers, filtration, and humidity control
+- **AC Repair** (/services/ac-repair-tucson): 24/7 emergency air conditioning repair for all brands
+- **AC Installation** (/services/ac-installation-tucson): New AC system installation and replacement with Manual J sizing
+- **AC Tune-Up** (/services/ac-tune-up-tucson): 86-point inspection, preventive maintenance
+- **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, and heating system repair
+- **Heater Installation** (/services/heater-installation-tucson): Heating system installation and replacement
+- **Heat Pumps** (/services/heat-pumps-tucson): Heat pump installation, repair, and maintenance
+- **Ductless Mini Splits** (/services/ductless-installation-tucson): Mitsubishi, Daikin, LG ductless systems
+- **Duct Cleaning** (/services/duct-cleaning-tucson): Professional air duct cleaning and sanitizing
+- **Duct Sealing** - Aeroseal Elite Dealer for advanced duct sealing technology
+- **Indoor Air Quality** (/services/indoor-air-quality): Air purifiers, UV lights, HEPA filtration, humidifiers
+- **Smart Thermostat Installation**: Nest, Ecobee, Honeywell, Carrier Infinity, Trane
 
 ### Plumbing Services
-- [Plumbing Services](/services/plumbing-tucson): Full-service residential plumbing
-- [Water Heater Repair](/services/water-heater-repair): Tank and tankless water heater repair
-- [Water Heater Installation](/services/water-heater-installation): Water heater replacement and upgrades
-- [Drain Clearing](/services/drain-clearing): Professional drain cleaning ($28.88 special available)
-- [Leak Detection](/services/leak-detection): Advanced electronic leak detection
-- [Sewer Line Repair](/services/sewer-line-repair): Sewer line repair, replacement, and camera inspection
-- [Water Softeners](/services/water-softeners): Water softener installation for hard water
-- [Water Filtration](/services/water-filtration): Whole-home water filtration and reverse osmosis
-- [Toilet Installation](/services/toilet-installation): Toilet repair and replacement
-- [Garbage Disposal](/services/garbage-disposal-installation): Disposal installation and repair
-- [Re-piping](/services/repiping): Whole-home re-piping services
+- **Full Plumbing Services** (/services/plumbing-tucson): Comprehensive residential plumbing
+- **Water Heater Repair** (/services/water-heater-repair): Tank and tankless water heater repair
+- **Water Heater Installation** (/services/water-heater-installation): Tank, tankless, and hybrid water heaters
+- **Drain Clearing** (/services/drain-clearing): Professional drain cleaning with $28.88 special
+- **Sewer Line Repair** (/services/sewer-line-repair): Sewer line repair, replacement, camera inspection
+- **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video sewer line diagnostics
+- **Leak Detection** (/services/leak-detection): Electronic leak detection, thermal imaging
+- **Water Softeners** (/services/water-softeners): Water softener installation (BritaPro exclusive partner)
+- **Water Filtration** (/services/water-filtration): Whole-home filtration, reverse osmosis systems
+- **Re-piping** (/services/repiping): Whole-home re-piping with PEX or copper
+- **Toilet Installation** (/services/toilet-installation): Toilet repair and replacement
+- **Garbage Disposal** (/services/garbage-disposal-installation): Disposal installation and repair
+- **Bidet Installation**: Bio Bidet, TOTO, Kohler bidet installation
+- **Trenchless Pipe Repair**: No-dig pipe lining and replacement
+- **Hydro Jetting** (/services/hydro-jetting): High-pressure drain cleaning
 
 ### Solar Energy Services
-- [Residential Solar](/services/residential-solar-installation): Home solar panel installation
-- [Commercial Solar](/services/commercial-solar-installation): Business solar solutions
-- [Solar Maintenance](/services/solar-maintenance): Solar system cleaning and maintenance
-- [Solar Tax Credits](/services/solar-tax-credits): Federal and Arizona solar incentives guide
-- [Solar Panel Costs](/services/solar-panel-costs): Solar pricing and ROI information
+- **Residential Solar Installation** (/services/residential-solar-installation): 5kW-15kW home solar systems
+- **Commercial Solar Installation** (/services/commercial-solar-installation): 20kW to multi-megawatt systems
+- **Solar Maintenance** (/services/solar-maintenance): Panel cleaning, monitoring, performance optimization
+- **Solar Tax Credits** (/services/solar-tax-credits): 30% federal ITC through 2032, Arizona incentives
+- **Battery Storage Integration**: Tesla Powerwall, LG Chem, Enphase battery systems
+- **Net Metering Coordination**: TEP utility integration and interconnection
 
 ### Electrical Services
-- [Electrical Repair](/services/electrical-repair): Home electrical repairs and troubleshooting
-- [Panel Upgrades](/services/electrical-panel-upgrades): Electrical panel upgrades (100A to 200A+)
-- [Generator Installation](/services/generac-installation): GENERAC whole-home backup generators
-- [Ceiling Fan Installation](/services/ceiling-fan-installation): Ceiling fan installation and wiring
-- [Lighting Upgrades](/services/lighting-upgrades): LED, recessed, and landscape lighting
-- [EV Charger Installation](/services/ev-charger-installation): Electric vehicle charger installation
-- [Outlet & Switch Repair](/services/outlet-repair): Outlet, switch, and GFCI installation
+- **Electrical Repair** (/services/electrical-repair): Home electrical troubleshooting and repairs
+- **Panel Upgrades** (/services/electrical-panel-upgrades): 100A to 200A+ electrical panel upgrades
+- **Generator Installation** (/services/generac-installation): GENERAC whole-home backup generators (7-150kW)
+- **Ceiling Fan Installation** (/services/ceiling-fan-installation): Ceiling fan installation and wiring
+- **Lighting Upgrades** (/services/lighting-upgrades): LED, recessed, landscape, security lighting
+- **EV Charger Installation** (/services/ev-charger-installation): Electric vehicle charger installation
+- **Outlet & Switch Installation**: Standard, USB, GFCI, AFCI outlets
+- **Whole-Home Surge Protection**: Lightning and surge protection
+- **Electrical Safety Inspections**: Comprehensive home electrical inspections
+- **Rewiring Services**: Aluminum wiring replacement, whole-home rewiring
 
 ### Roofing Services
-- [Roof Repair](/services/residential-roof-repair): Residential roof repair for all types
-- [Roof Installation](/services/residential-roof-installation): New roof installation and replacement
-- [Roof Coating](/services/residential-roof-coating): Reflective roof coating for energy savings
-- [Tile Roofs](/services/tile-roofs): Clay and concrete tile roof specialists
-- [Flat Roofs](/services/flat-roofs): Flat roof repair, coating, and replacement
-- [Metal Roofs](/services/metal-roofs): Metal roof installation and repair
-- [Shingle Roofs](/services/shingle-roofs): Asphalt shingle roof services
-- [Roof Inspection](/services/roof-inspection): Free roof inspections and assessments
+- **Roof Repair** (/services/residential-roof-repair): All roof types - tile, flat, shingle, metal
+- **Roof Installation** (/services/residential-roof-installation): Complete roof replacement
+- **Roof Coating** (/services/residential-roof-coating): Reflective coatings for energy savings
+- **Roof Inspections** (/services/roof-inspection): Free comprehensive inspections
+- **Tile Roofs** (/services/tile-roofs): Clay and concrete tile specialists (50+ year lifespan)
+- **Flat Roofs** (/services/flat-roofs): TPO, EPDM, modified bitumen (15-25 year lifespan)
+- **Shingle Roofs** (/services/shingle-roofs): Architectural and designer shingles
+- **Metal Roofs** (/services/metal-roofs): Standing seam, corrugated (40-70 year lifespan)
+- **Skylight Installation**: Fixed, vented, and tubular skylights
+- **Emergency Roof Repairs**: Storm damage, tarping, emergency response
+- **Commercial Roofing**: TPO, EPDM, built-up roofing systems
 
 ### Drain & Sewer Services
-- [Drain Clearing Special](/services/drain-clearing-special): $28.88 drain clearing promotion
-- [Sewer Camera Inspection](/services/sewer-camera-inspection): Video sewer line inspection
-- [Hydro Jetting](/services/hydro-jetting): High-pressure drain cleaning
+- **$28.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing promotion
+- **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video diagnostics
+- **Hydro Jetting** (/services/hydro-jetting): High-pressure cleaning
+- **Root Removal**: Tree root intrusion clearing
+- **Main Line Cleaning**: Main sewer line service
 
-## Service Areas
+---
 
-Intelligent Design serves the greater Tucson metropolitan area including:
+## Service Areas & Zip Codes
 
-**Primary Service Areas:**
-- Tucson, Oro Valley, Marana, Sahuarita, Vail
-- Green Valley, Catalina Foothills, Casas Adobes
-- Rita Ranch, Tanque Verde, Corona de Tucson
-- Picture Rocks, Avra Valley, Drexel Heights
-- Saddlebrooke, Catalina, Tortolita, Rillito
-- East Tucson, Tucson Estates, Gladden Farms
+Intelligent Design serves the greater Tucson metropolitan area including 20+ communities and 40+ zip codes:
 
-**Zip Codes Served:**
-85701-85757, 85641, 85614, 85629, 85739, 85742-85755, and surrounding areas
+### Tucson (Central Hub)
+- **Zip Codes:** 85193, 85194, 85614, 85622, 85629, 85641, 85645, 85653, 85658, 85701, 85702, 85704, 85705, 85710, 85711, 85712, 85713, 85714, 85715, 85716, 85717, 85718, 85719, 85730, 85735, 85737, 85739, 85741, 85742, 85743, 85746, 85747, 85748, 85749, 85750, 85755, 85757
+- **Areas:** Central Tucson, North Tucson, South Tucson, East Tucson, West Tucson, Midtown
+
+### Oro Valley
+- **Zip Codes:** 85704, 85737, 85739, 85755
+- **Areas:** Steam Pump Village, Rancho Vistoso, Sun City Oro Valley
+
+### Marana
+- **Zip Codes:** 85653, 85658, 85743
+- **Areas:** Dove Mountain, Gladden Farms, Continental Ranch, Tortolita
+
+### Sahuarita
+- **Zip Codes:** 85629, 85614
+- **Areas:** Rancho Sahuarita, Quail Creek
+
+### Green Valley
+- **Zip Codes:** 85614, 85622
+- **Areas:** Canoa Ranch, retirement communities
+
+### Vail
+- **Zip Codes:** 85641, 85629
+- **Areas:** Saguaro Ranch, Rancho Del Lago
+
+### Catalina Foothills
+- **Zip Codes:** 85718, 85750, 85749
+- **Areas:** Luxury homes, foothills neighborhoods
+
+### Casas Adobes
+- **Zip Codes:** 85704, 85741, 85742
+
+### Rita Ranch
+- **Zip Codes:** 85747, 85730
+- **Areas:** Southeast Tucson master-planned community
+
+### Tanque Verde
+- **Zip Codes:** 85749, 85750
+- **Areas:** Near Saguaro National Park East
+
+### Corona de Tucson
+- **Zip Codes:** 85641, 85645
+
+### Picture Rocks
+- **Zip Codes:** 85743, 85735
+
+### Avra Valley
+- **Zip Codes:** 85653, 85735
+
+### SaddleBrooke / Catalina
+- **Zip Codes:** 85739, 85755
+- **Areas:** Active adult retirement community
+
+### Drexel Heights
+- **Zip Codes:** 85746, 85757
+
+### East Tucson
+- **Zip Codes:** 85710, 85730, 85747, 85748
+
+### Gladden Farms
+- **Zip Codes:** 85653, 85658
+- **Areas:** Northwest Marana master-planned community
+
+### Tucson Estates
+- **Zip Codes:** 85735, 85746
+
+### Tortolita
+- **Zip Codes:** 85742, 85755
+
+---
 
 ## Online Tools & Resources
 
-### Free Online Quotes
-- [Free HVAC Quote](/free-hvac-quote): Get instant pricing for AC and heating systems
-- [Free Water Heater Quote](/free-water-heater-quote): Get instant pricing for water heaters
-- [Filter Shop](/filter-shop): Order replacement filters online
+### Free Online Quote Tools
+- **Free HVAC Quote** (/free-hvac-quote): Instant AC and heating system pricing via Contractor Commerce
+- **Free Water Heater Quote** (/free-water-heater-quote): Instant water heater pricing
+- **Filter Shop** (/filter-shop): Order replacement filters online
 
 ### Educational Resources
-- [Knowledge Hub](/knowledge-hub): Comprehensive company information and service details
-- [Video Education Library](/video-education-library): Educational videos about home services
-- [Air Conditioning FAQs](/air-conditioning-system-faqs): Common AC questions answered
-- [R22 Refrigerant Guide](/r22-phaseout): Information about R22 phaseout and replacements
-- [Blog](/blog): 237+ articles on HVAC, plumbing, and home maintenance
+- **Knowledge Hub** (/knowledge-hub): Comprehensive company and service information
+- **Video Education Library** (/video-education-library): Educational home services videos
+- **Air Conditioning FAQs** (/air-conditioning-system-faqs): Common AC questions answered
+- **R22 Refrigerant Guide** (/r22-phaseout): R22 phaseout information and alternatives
+- **Blog** (/blog): 237+ articles on HVAC, plumbing, solar, electrical, roofing
 
 ### Reviews & Testimonials
-- [Customer Reviews](/customer-reviews): 22,000+ verified five-star reviews
-- [Video Testimonials](/video-testimonials): Customer video testimonials
+- **Customer Reviews** (/customer-reviews): 22,000+ verified reviews via PulseM widget
+- **Video Testimonials** (/video-testimonials): Customer video testimonials
 
-## Special Offers & Programs
+### Project Showcase
+- **Recent Projects**: RealWorkLabs widget showing completed installations
 
-### Current Promotions
-- **$28.88 Drain Clearing Special**: Professional drain clearing at an unbeatable price
-- **Free Estimates**: Free in-home estimates for HVAC, roofing, and major installations
-- **Financing Available**: Flexible payment options with approved credit
+---
+
+## Special Offers & Promotions
+
+### Current Specials
+- **$28.88 Drain Clearing Special** (/28-88-drain-clearing-special): Professional drain clearing at unbeatable price
+- **Free Estimates**: Free in-home estimates for HVAC, roofing, solar, and major installations
+- **Seasonal Manufacturer Rebates**: $500-$2,000 on high-efficiency HVAC systems
 
 ### Partner Programs
-- [New Homebuyer Offer](/new-homebuyer-offer): Special discounts for new homeowners
-- [REALTORS Offer](/realtors-offer): Partner program for real estate professionals
+- **New Homebuyer Offer** (/new-homebuyer-offer): Special discounts for new homeowners
+- **REALTORS Offer** (/realtors-offer): Partner program for real estate professionals
 
-### Membership Plans
-- **Silver Membership**: Annual HVAC tune-up, priority scheduling, 15% repair discount
-- **Gold Membership**: Silver benefits + plumbing inspection, 2-year warranty, 20% discount
-- **Platinum Membership**: Gold benefits + electrical/roofing inspection, 3-year warranty, 25% discount
+### Financing Options
+- 0% interest financing for qualified applicants (12-18 months)
+- Extended payment plans up to 120 months
+- Flexible options for major installations
 
-## Manufacturer Partnerships
+### Price Match Guarantee
+We match any written estimate from a licensed, insured competitor for identical equipment and services.
+
+---
+
+## Membership Plans (Family Protection Plan)
+
+### Silver Membership
+- Annual HVAC tune-up with 86-point inspection
+- Priority scheduling
+- 15% discount on all repairs
+- Waived dispatch fees
+
+### Gold Membership
+- All Silver benefits PLUS:
+- Annual plumbing inspection
+- Extended 2-year labor warranty
+- 20% discount on repairs
+
+### Platinum Membership
+- All Gold benefits PLUS:
+- Annual electrical and roofing inspection
+- Extended 3-year labor warranty
+- 25% discount on repairs
+- Lifetime drain clearing
+- SmartAC monitoring eligibility
+- Priority emergency dispatch
+
+---
+
+## Certifications, Licenses & Awards
+
+### Arizona ROC Licenses (Active & Current)
+- **ROC 340962** - HVAC Contracting
+- **ROC 322375** - Plumbing Contracting
+- **ROC 296386** - Roofing Contracting
+- **ROC 276673** - Electrical Contracting
+
+### Industry Certifications
+- **NATE Certification** (North American Technician Excellence) - All HVAC technicians
+- **EPA Section 608 Certification** - Universal refrigerant handling
+- **BPI Certification** (Building Performance Institute) - Whole-home performance analysis
+
+### Manufacturer Certifications & Partnerships
+- Carrier Factory Authorized Dealer
+- Trane Comfort Specialist Dealer
+- Lennox Premier Dealer
+- Rheem ProPartner
+- Generac Authorized Dealer
+- Navien Certified Installer
+- Aeroseal Elite Dealer (exclusive duct sealing technology)
+- BritaPro Exclusive Tucson Partner (water treatment systems)
+
+### Awards & Recognition
+- **BBB A+ Accredited Business** - Highest trust rating
+- **Angi Super Service Award** - Multiple years recipient
+- **22,000+ Five-Star Reviews** - Tucson's highest-rated home services company
+- **Google 5.0 Rating** (rounded from 4.97)
+- **Yelp Elite Status**
+- **Facebook 5.0 Rating**
+
+---
+
+## Manufacturer Partnerships & Brands
 
 ### HVAC Brands (Factory Authorized)
-Carrier, Trane, Lennox, Rheem, Ruud, Goodman, Amana, Daikin, Mitsubishi, Fujitsu
+Carrier, Trane, Lennox, American Standard, Rheem, Ruud, Goodman, Amana, Daikin, Mitsubishi, Fujitsu, Bryant, Payne, York
 
-### Plumbing Brands
-Rheem, Bradford White, A.O. Smith, Navien, Rinnai, Kohler, Moen, Delta
+### Water Heater Brands
+Rheem, Bradford White, A.O. Smith, Navien, Rinnai, Noritz
+
+### Water Treatment Brands
+BritaPro (exclusive Tucson partner), Aquasana, Pelican, APEC, iSpring
+
+### Generator Brands
+Generac (Authorized Dealer), Kohler, Briggs & Stratton, Champion
+
+### Thermostat Brands
+Nest, Ecobee, Honeywell Home, Carrier Infinity, Trane ComfortLink, Lennox iComfort
+
+### Indoor Air Quality Brands
+Aprilaire, Honeywell, Carrier, Lennox PureAir, REME HALO, iWave
 
 ### Roofing Brands
-GAF, Owens Corning, CertainTeed, Carlisle, MCA Tile, Eagle Roofing
+GAF, Owens Corning, CertainTeed, Carlisle, Versico, Firestone, MCA Tile, Eagle Roofing
 
-### Electrical Brands
-Generac (Authorized Dealer), Kohler, Eaton, Square D
+### Plumbing Fixture Brands
+Kohler, Moen, Delta, American Standard, TOTO, InSinkErator, Bio Bidet
 
-## Certifications & Licenses
+---
 
-- **Arizona ROC Licenses**: HVAC (340962), Plumbing (322375), Roofing (296386), Electrical (276673)
-- **Manufacturer Certifications**: Carrier Factory Authorized, Trane Comfort Specialist, Lennox Premier Dealer
-- **Industry Certifications**: NATE-certified technicians, EPA-certified
+## Warranties & Guarantees
 
-## Contact Information
+### 100% Satisfaction Guarantee
+If you're not completely satisfied with our work, we'll make it right—period. No fine print. No exceptions.
 
-- **Phone**: (520) 333-2665 (24/7 availability)
-- **Address**: 3250 N 1st Ave, Tucson, AZ 85719
-- **Website**: https://www.idesignac.com
-- **Online Scheduling**: Available 24/7 at idesignac.com
-- **Live Chat**: Available on website
+### Workmanship Warranties
+- Standard: 1-year labor warranty on all work
+- Gold Members: 2-year extended labor warranty
+- Platinum Members: 3-year extended labor warranty
 
-## Why Choose Intelligent Design?
+### Manufacturer Equipment Warranties
+- HVAC Systems: Typically 10 years on parts
+- Water Heaters: 6-12 years depending on type
+- Solar Panels: 25-year performance warranties
+- Roofing: Varies by material (10-50+ years)
 
-1. **Local & Trusted**: Family and veteran-owned, serving Tucson since 1979
-2. **Highest Rated**: 22,000+ five-star reviews, 4.97 average rating, BBB A+
-3. **One-Stop Shop**: HVAC, plumbing, solar, electrical, and roofing under one roof
-4. **Expert Technicians**: NATE-certified, background-checked, ongoing training
-5. **Upfront Pricing**: No hidden fees, no surprises
-6. **Satisfaction Guarantee**: 100% satisfaction or we make it right
-7. **24/7 Emergency Service**: Always available when you need us
-8. **Industry-Leading Warranties**: Comprehensive parts and labor coverage
+### Roof Penetration Warranty
+25-year warranty on all roof penetrations for solar installations
+
+---
+
+## Emergency Services
+
+### 24/7 Emergency Availability
+- AC failure in extreme heat (95°F+)
+- Complete heating failure below 50°F
+- Active water leaks causing damage
+- Sewage backups
+- Gas odors
+- Electrical sparks or smoke
+- Roof leaks during storms
+
+### Emergency Response
+- Same-day emergency service (typically 2-4 hours)
+- Members receive priority emergency dispatch
+- After-hours premium fees (waived/reduced for members)
+- Emergency tarping for roof leaks
+- Temporary solutions when permanent repairs aren't immediately possible
+
+---
+
+## Seasonal Services for Tucson's Climate
+
+### Pre-Summer AC Preparation (March-May)
+86-point comprehensive AC inspection, coil cleaning, refrigerant check, electrical testing
+
+### Monsoon Roof Inspections (May-June)
+Pre-monsoon roof inspection to identify vulnerabilities before storm season
+
+### Monsoon Season Services (June-September)
+Emergency roof tarping, drain clearing, dehumidification, surge protection
+
+### Fall HVAC & Plumbing Prep (October-November)
+Heating system tune-ups, outdoor faucet winterization, water heater inspection
+
+---
+
+## Company Timeline
+
+- **1979**: Dobbins family legacy in Tucson home services begins
+- **2002**: Andrew Dobbins enters HVAC industry after Marine Corps service
+- **2009**: Intelligent Design founded with 3 employees in home garage
+- **2010-2014**: Rapid reputation growth, team expansion
+- **2013**: New facility purchased at Fort Lowell Rd
+- **2015**: Plumbing services launched
+- **2020**: Electrical and roofing services added
+- **2022**: Solar installation services launched
+- **2024**: 80+ employees, 22,000+ reviews, full-service home provider
+
+---
 
 ## Frequently Asked Questions
 
+### General Questions
+
 **Q: What areas do you serve?**
-A: We serve Tucson and all of Southern Arizona including Oro Valley, Marana, Sahuarita, Green Valley, Vail, and surrounding communities.
+A: We serve Tucson and all of Southern Arizona including Oro Valley, Marana, Sahuarita, Green Valley, Vail, Catalina Foothills, and 20+ surrounding communities across 40+ zip codes.
 
 **Q: Do you offer financing?**
-A: Yes, we offer flexible financing options with approved credit for major installations and repairs.
+A: Yes, we offer flexible financing options including 0% interest for qualified applicants (12-18 months) and extended payment plans up to 120 months.
 
 **Q: Are your technicians licensed and insured?**
-A: Yes, all technicians are licensed, insured, background-checked, and drug-tested. Our HVAC technicians are NATE-certified.
+A: Yes, all technicians are licensed, insured, background-checked, and drug-tested. Our HVAC technicians are NATE-certified, and we hold active Arizona ROC licenses for HVAC, plumbing, roofing, and electrical work.
 
 **Q: Do you offer 24/7 emergency service?**
 A: Yes, we provide 24/7 emergency service for HVAC and plumbing emergencies. Call (520) 333-2665 anytime.
 
 **Q: How do I schedule an appointment?**
-A: You can schedule online at idesignac.com, call (520) 333-2665, or use our live chat feature.
+A: Schedule online at idesignac.com, call (520) 333-2665, or use our live chat feature.
+
+### HVAC Questions
+
+**Q: How much does AC replacement cost in Tucson?**
+A: AC replacement costs range from $5,500-$12,000+ depending on system size, efficiency (SEER rating), and brand. A typical 3-ton, 16-SEER system costs $6,500-$8,500 installed.
+
+**Q: How long do AC systems last in Tucson?**
+A: With proper maintenance, AC systems last 12-17 years in Tucson. Regular annual tune-ups add 3-5 years to system lifespan.
+
+**Q: How often should I have my AC serviced?**
+A: Annual tune-ups before cooling season (March-April) are recommended. Our 86-point inspection prevents 85% of breakdowns.
+
+### Plumbing Questions
+
+**Q: How hard is Tucson's water?**
+A: Tucson's groundwater is classified as "very hard" at 12-16 grains per gallon. Water softeners significantly extend appliance life and improve water quality.
+
+**Q: How long do water heaters last?**
+A: Tank water heaters last 8-12 years in Tucson (shorter due to hard water). Tankless water heaters last 15-20 years.
 
 **Q: What is your $28.88 drain clearing special?**
 A: We offer professional drain clearing for just $28.88—one of the best values in Tucson for this service.
+
+### Solar Questions
+
+**Q: What tax incentives are available for solar?**
+A: The federal Investment Tax Credit (ITC) provides 30% of total system cost through 2032. Arizona also offers property tax exemptions on solar equipment.
+
+**Q: How long does solar installation take?**
+A: Most residential solar installations complete in 2-4 weeks from contract to system activation.
+
+### Roofing Questions
+
+**Q: How long do roofs last in Tucson?**
+A: Tile roofs last 50+ years, flat roofs (TPO/EPDM) last 15-25 years, shingles last 20-25 years, and metal roofs last 40-70 years.
+
+**Q: Do you offer free roof inspections?**
+A: Yes, we provide free comprehensive roof inspections before monsoon season or after storms.
+
+---
+
+## Contact Information
+
+- **Phone:** (520) 333-2665 (24/7 availability)
+- **Address:** 3250 N 1st Ave, Tucson, AZ 85719
+- **Website:** https://www.idesignac.com
+- **Online Scheduling:** Available 24/7 via ServiceTitan
+- **Live Chat:** HatchChat available on website
+- **BBB Profile:** https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256
+
+---
+
+## Why Choose Intelligent Design?
+
+1. **Local & Trusted** - Family and veteran-owned, serving Tucson since 1979
+2. **Highest Rated** - 22,000+ five-star reviews, 4.97 average, BBB A+
+3. **One-Stop Shop** - HVAC, plumbing, solar, electrical, roofing under one roof
+4. **Expert Technicians** - NATE-certified, background-checked, ongoing training
+5. **Upfront Pricing** - Flat-rate pricing, no hidden fees, no surprises
+6. **Satisfaction Guarantee** - 100% satisfaction or we make it right
+7. **24/7 Emergency Service** - Always available when you need us
+8. **Industry-Leading Warranties** - Comprehensive parts and labor coverage
+9. **Member Benefits** - Priority scheduling, extended warranties, discounts
+10. **Community Focused** - Local hiring, charity support, treating customers like neighbors
+
+---
+
+*This document is optimized for AI search engines and provides comprehensive information about Intelligent Design's services, service areas, certifications, and offerings. For the most current information, visit https://www.idesignac.com or call (520) 333-2665.*
