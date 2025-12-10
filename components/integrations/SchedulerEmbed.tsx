@@ -17,12 +17,14 @@ interface SchedulerEmbedProps {
 
 declare global {
   interface Window {
-    ServiceTitan?: {
-      setTrackingInfo?: (info: { key: string }) => void;
-      openBookingWidget?: () => void;
+    _scheduler?: {
+      show: (config: { schedulerId: string }) => void;
     };
   }
 }
+
+const SCHEDULER_ID = process.env.NEXT_PUBLIC_SERVICETITAN_SCHEDULER_ID || 'sched_vwgezlwi56yyvwdb0nzlng14';
+const API_KEY = process.env.NEXT_PUBLIC_SERVICETITAN_API_KEY || 'm1cp1a9zj306h48ohavpwg8w';
 
 export default function SchedulerEmbed({
   triggerText = "Schedule Now",
@@ -34,7 +36,6 @@ export default function SchedulerEmbed({
   verticalLayout = false,
   "data-testid": dataTestId = "button-schedule",
 }: SchedulerEmbedProps) {
-  const apiKey = process.env.NEXT_PUBLIC_SERVICETITAN_API_KEY || 'm1cp1a9zj306h48ohavpwg8w';
 
   useEffect(() => {
     // Load ServiceTitan Scheduling Pro script
@@ -42,25 +43,19 @@ export default function SchedulerEmbed({
     if (!existingScript) {
       const script = document.createElement('script');
       script.id = 'servicetitan-scheduler-script';
-      script.src = 'https://book.servicetitan.com/js/sb.min.js';
+      script.src = `https://book.servicetitan.com/js/sb.min.js?w=${API_KEY}`;
       script.async = true;
-      script.onload = () => {
-        // Initialize with API key once script is loaded
-        if (window.ServiceTitan?.setTrackingInfo) {
-          window.ServiceTitan.setTrackingInfo({ key: apiKey });
-        }
-      };
       document.head.appendChild(script);
     }
-  }, [apiKey]);
+  }, []);
 
   const handleClick = () => {
-    // Try ServiceTitan's built-in widget opener
-    if (window.ServiceTitan?.openBookingWidget) {
-      window.ServiceTitan.openBookingWidget();
+    // Use ServiceTitan's official _scheduler.show() method
+    if (window._scheduler?.show) {
+      window._scheduler.show({ schedulerId: SCHEDULER_ID });
     } else {
-      // Fallback: open in new tab if widget isn't available
-      window.open(`https://book.servicetitan.com/?w=${apiKey}`, '_blank', 'noopener,noreferrer');
+      // Fallback: open in new tab if script hasn't loaded yet
+      window.open(`https://book.servicetitan.com/?w=${API_KEY}`, '_blank', 'noopener,noreferrer');
     }
   };
 
