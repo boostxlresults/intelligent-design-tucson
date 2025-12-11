@@ -334,7 +334,7 @@
   /* Reposition HatchChat bubble above floating action bar on mobile/tablet */
   @media (max-width: 1023px) {
     hatch-chat {
-      bottom: 80px !important;
+      bottom: 100px !important;
     }
   }
 }
