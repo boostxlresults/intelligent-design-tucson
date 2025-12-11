@@ -331,10 +331,22 @@
     max-width: 100vw;
   }
 
-  /* HatchChat launcher is hidden via JS on mobile - this is a fallback */
+  /* Completely hide HatchChat on mobile - we have our own Live Chat button */
   @media (max-width: 1023px) {
     hatch-chat {
-      z-index: 40 !important; /* Below our floating action bar (z-50) */
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      width: 0 !important;
+      height: 0 !important;
+      overflow: hidden !important;
+      position: absolute !important;
+      left: -9999px !important;
     }
+  }
+  
+  /* Ensure mobile floating action bar is always on top */
+  .mobile-floating-bar {
+    z-index: 9999 !important;
   }
 }
