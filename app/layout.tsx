@@ -66,7 +66,7 @@ export default function RootLayout({
         </main>
         <Footer />
         <MobileFloatingActions />
-        <CookieConsent />
+        {/* <CookieConsent /> - Hidden per user request */}
         <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <ContractorCommercePlugin />
