@@ -39,6 +39,7 @@ export interface SchemaRegistryOptions {
     services?: string[];
     faqs?: Array<{ question: string; answer: string }>;
     categories?: string[]; // For multi-category pages
+    category?: string; // Service category for brand/variant matching (HVAC, Plumbing, etc.)
     includeOffers?: boolean;
     zipCodes?: string[]; // Location-specific zip codes for DefinedRegion schema
     howToGuide?: {
@@ -151,13 +152,14 @@ function getHomepageSchemas(canonicalUrl: string) {
 function getServicePageSchemas(canonicalUrl: string, pageData: any) {
   const schemas = [];
 
-  // 1. Service Schema
+  // 1. Service Schema (with hasBrand and hasVariant for AI SEO)
   if (pageData.serviceName && pageData.serviceDescription) {
     schemas.push(generateServiceSchema({
       serviceName: pageData.serviceName,
       description: pageData.serviceDescription,
       services: pageData.services || [],
-      canonicalUrl
+      canonicalUrl,
+      category: pageData.category || pageData.serviceName // Used for brand/variant matching
     }));
   }
 
@@ -239,14 +241,15 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
 function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
   const schemas = [];
 
-  // 1. Service Schema with location
+  // 1. Service Schema with location (with hasBrand and hasVariant for AI SEO)
   if (pageData.serviceName && pageData.serviceDescription && pageData.location) {
     schemas.push(generateServiceSchema({
       serviceName: `${pageData.serviceName} in ${pageData.location}`,
       description: pageData.serviceDescription,
       location: pageData.location,
       services: pageData.services || [],
-      canonicalUrl
+      canonicalUrl,
+      category: pageData.category || pageData.serviceName // Used for brand/variant matching
     }));
   }
 
