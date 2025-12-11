@@ -42,7 +42,7 @@ export default function MobileFloatingActions() {
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-green-600 hover:bg-green-700 text-white border-2 border-green-700"
             asChild
           >
-            <a href="sms:+15203332665" data-testid="button-mobile-chat">
+            <a href="sms:+15206754764" data-testid="button-mobile-chat">
               <MessageCircle className="w-5 h-5" />
               <span className="text-xs font-semibold">Text Us</span>
             </a>
