@@ -15,27 +15,32 @@ declare global {
 
 export default function MobileFloatingActions() {
   const handleChatClick = () => {
-    // Try to open the HatchChat widget
-    // HatchChat creates a custom element, so we try to click its button
-    const hatchButton = document.querySelector('hatch-chat')?.shadowRoot?.querySelector('button, .hatch-chat-button, [class*="chat"]');
-    if (hatchButton && hatchButton instanceof HTMLElement) {
-      hatchButton.click();
+    // HatchChat uses a web component with shadow DOM
+    // Try to click the button inside its shadow root
+    const hatchChat = document.querySelector('hatch-chat');
+    if (hatchChat?.shadowRoot) {
+      const button = hatchChat.shadowRoot.querySelector('button, [role="button"], .chat-button, [class*="button"]');
+      if (button && button instanceof HTMLElement) {
+        button.click();
+        return;
+      }
+    }
+    
+    // Fallback: Try to click the hatch-chat element itself
+    if (hatchChat instanceof HTMLElement) {
+      hatchChat.click();
       return;
     }
     
-    // Fallback: Try common chat widget APIs
+    // Last fallback: Try common chat widget APIs
     if (window.hatchChat?.open) {
       window.hatchChat.open();
       return;
     }
-    
-    // Last resort: scroll to bottom where the chat widget usually appears and click it
-    const chatElements = document.querySelectorAll('[class*="hatch"], [id*="hatch"]');
-    chatElements.forEach(el => {
-      if (el instanceof HTMLElement) {
-        el.click();
-      }
-    });
+    if (window.hatchChat?.toggle) {
+      window.hatchChat.toggle();
+      return;
+    }
   };
 
   return (
@@ -65,6 +70,7 @@ export default function MobileFloatingActions() {
               iconClassName="w-5 h-5"
               textClassName="text-xs font-semibold"
               verticalLayout={true}
+              data-testid="button-mobile-schedule"
             />
           </div>
 
