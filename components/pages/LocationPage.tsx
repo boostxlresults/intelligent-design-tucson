@@ -11,6 +11,8 @@ import RichText from "@/components/content/RichText";
 import type { LocationPageData } from "@/types/services";
 import { RealWorkLabsMap } from "@/components/integrations/RealWorkLabs";
 import { hasRealWorkLabsMap } from "@/lib/realworklabs-mapping";
+import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
+import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 import { 
   AirVent, 
   Flame, 
@@ -24,6 +26,49 @@ import {
   CheckCircle2,
   MapPin
 } from "lucide-react";
+
+function generateSlug(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
+function extractLocationTOCItems(data: LocationPageData): TOCItem[] {
+  const tocItems: TOCItem[] = [];
+  
+  tocItems.push({ id: "services-offered", label: "Services We Offer", level: 2 });
+  
+  if (hasRealWorkLabsMap(data.slug)) {
+    tocItems.push({ id: "recent-projects", label: "Recent Projects", level: 2 });
+  }
+  
+  if (data.zipCodes && data.zipCodes.length > 0) {
+    tocItems.push({ id: "zip-codes", label: "Service Areas & Zip Codes", level: 2 });
+  }
+  
+  data.content?.sections?.forEach((section) => {
+    if ("type" in section && section.type === "heading" && (section.level === 2 || !section.level)) {
+      tocItems.push({
+        id: generateSlug(section.heading),
+        label: section.heading,
+        level: 2
+      });
+    }
+  });
+  
+  tocItems.push({ id: "reviews", label: "Customer Reviews", level: 2 });
+  
+  if (data.faqs && data.faqs.length > 0) {
+    tocItems.push({ id: "faqs", label: "Frequently Asked Questions", level: 2 });
+  }
+  
+  tocItems.push({ id: "schedule", label: "Schedule Service", level: 2 });
+  
+  return tocItems;
+}
 
 /**
  * LocationPage Component
@@ -54,6 +99,8 @@ const iconMap: Record<string, any> = {
 };
 
 export default function LocationPage({ data, schemas }: LocationPageProps) {
+  const tocItems = extractLocationTOCItems(data);
+  
   return (
     <article className="min-h-screen">
       {/* JSON-LD Schema Markup - Client component workaround for Next.js script tag limitation */}
@@ -138,11 +185,28 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
               </div>
             ))}
           </div>
+          
+          {/* Table of Contents - Jump to Section */}
+          {tocItems.length > 0 && (
+            <TableOfContents 
+              items={tocItems} 
+              className="mt-8"
+              defaultExpanded={true}
+            />
+          )}
+          
+          {/* Trigger point for floating TOC button */}
+          <div id="toc-trigger-point" aria-hidden="true" />
         </div>
       </section>
+      
+      {/* Floating TOC Button */}
+      {tocItems.length > 0 && (
+        <FloatingTOCButton items={tocItems} triggerElementId="toc-trigger-point" />
+      )}
 
       {/* Services Offered in This Location */}
-      <section className="py-16 bg-background">
+      <section id="services-offered" className="py-16 bg-background scroll-mt-20">
         <div className="container mx-auto px-4 max-w-7xl">
           <h2 className="text-3xl font-bold mb-3 text-center" data-testid="heading-services-offered">
             Services We Offer in {data.locationName}
@@ -187,7 +251,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
 
       {/* Recent Projects Map - RealWorkLabs Integration (only shown for mapped locations) */}
       {hasRealWorkLabsMap(data.slug) && (
-        <section className="py-16 bg-muted/30">
+        <section id="recent-projects" className="py-16 bg-muted/30 scroll-mt-20">
           <div className="container mx-auto px-4 max-w-7xl">
             <div className="text-center mb-8">
               <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
@@ -211,7 +275,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
 
       {/* Service Areas & Zip Codes */}
       {data.zipCodes && data.zipCodes.length > 0 && (
-        <section className="py-12 bg-muted/30">
+        <section id="zip-codes" className="py-12 bg-muted/30 scroll-mt-20">
           <div className="container mx-auto px-4 max-w-4xl">
             <Card data-testid="card-zip-codes">
               <CardContent className="p-8">
@@ -250,10 +314,12 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
               if ("type" in section) {
                 if (section.type === "heading") {
                   const HeadingTag = `h${section.level || 2}` as keyof JSX.IntrinsicElements;
+                  const headingId = generateSlug(section.heading);
                   return (
                     <HeadingTag 
-                      key={index} 
-                      className="text-3xl font-bold mt-10 mb-4 first:mt-0"
+                      key={index}
+                      id={headingId}
+                      className="text-3xl font-bold mt-10 mb-4 first:mt-0 scroll-mt-24"
                       data-testid={`heading-content-${section.level || 2}`}
                     >
                       {section.heading}
@@ -304,7 +370,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
       </section>
 
       {/* Reviews Module */}
-      <section className="py-16 bg-background">
+      <section id="reviews" className="py-16 bg-background scroll-mt-20">
         <div className="container mx-auto px-4 max-w-7xl">
           <ReviewModule variant="full" />
         </div>
@@ -312,7 +378,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
 
       {/* Location FAQs */}
       {data.faqs && data.faqs.length > 0 && (
-        <section className="py-16 bg-muted/30">
+        <section id="faqs" className="py-16 bg-muted/30 scroll-mt-20">
           <div className="container mx-auto px-4 max-w-4xl">
             <h2 className="text-3xl font-bold mb-8" data-testid="heading-faqs">
               Frequently Asked Questions About Services in {data.locationName}
@@ -332,7 +398,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
       )}
 
       {/* ServiceTitan Scheduler #3 - Bottom before footer */}
-      <section className="py-16 bg-primary/5">
+      <section id="schedule" className="py-16 bg-primary/5 scroll-mt-20">
         <div className="container mx-auto px-4">
           <SchedulerCluster position="bottom" />
         </div>

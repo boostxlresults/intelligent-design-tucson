@@ -1,6 +1,21 @@
 import matter from 'gray-matter';
-import { marked } from 'marked';
+import { marked, Renderer } from 'marked';
 import DOMPurify from 'dompurify';
+
+function generateSlug(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-');
+}
+
+const renderer = new Renderer();
+renderer.heading = ({ text, depth }) => {
+  const id = generateSlug(text);
+  return `<h${depth} id="${id}" class="scroll-mt-24">${text}</h${depth}>`;
+};
+
+marked.use({ renderer });
 
 export interface BlogPostFrontmatter {
   title: string;

@@ -6,6 +6,8 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
 import TrustBar from "@/components/content/TrustBar";
+import TableOfContents from "@/components/navigation/TableOfContents";
+import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 
 import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/markdownParser';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -100,7 +102,14 @@ export default async function BlogPostPage({
     notFound();
   }
 
-  const { frontmatter, htmlContent, readingTime } = blogPost;
+  const { frontmatter, htmlContent, readingTime, tableOfContents } = blogPost;
+  
+  // Convert tableOfContents to TOC items format
+  const tocItems = tableOfContents.map(item => ({
+    id: item.id,
+    label: item.text,
+    level: item.level
+  }));
   const currentUrl = frontmatter.canonicalUrl || `https://www.idesignac.com/blog/${category}/${slug}`;
   const categoryName = categoryNames[category] || category;
 
@@ -200,7 +209,24 @@ export default async function BlogPostPage({
                   </p>
                 </div>
               </div>
+              
+              {/* Table of Contents - Jump to Section */}
+              {tocItems.length > 0 && (
+                <TableOfContents 
+                  items={tocItems} 
+                  className="mt-6"
+                  defaultExpanded={true}
+                />
+              )}
+              
+              {/* Trigger point for floating TOC button */}
+              <div id="toc-trigger-point" aria-hidden="true" />
             </header>
+            
+            {/* Floating TOC Button */}
+            {tocItems.length > 0 && (
+              <FloatingTOCButton items={tocItems} triggerElementId="toc-trigger-point" />
+            )}
 
             {/* Article Body */}
             <div

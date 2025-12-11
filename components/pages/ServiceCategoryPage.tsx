@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Phone, ArrowRight } from "lucide-react";
+import { Phone, ArrowRight, CheckCircle2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
@@ -8,6 +8,18 @@ import TrustBar from "@/components/content/TrustBar";
 import { ReviewModule } from "@/components/ReviewModule";
 import { ClientSchemas } from "@/components/ClientSchemas";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
+import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
+import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
+
+function extractCategoryTOCItems(data: ServiceCategoryData): TOCItem[] {
+  const tocItems: TOCItem[] = [];
+  
+  tocItems.push({ id: "services", label: `${data.categoryName} Services We Offer`, level: 2 });
+  tocItems.push({ id: "reviews", label: "Customer Reviews", level: 2 });
+  tocItems.push({ id: "schedule", label: "Schedule Service", level: 2 });
+  
+  return tocItems;
+}
 
 export interface SubService {
   name: string;
@@ -40,6 +52,8 @@ interface ServiceCategoryPageProps {
 }
 
 export default function ServiceCategoryPage({ data, schemas }: ServiceCategoryPageProps) {
+  const tocItems = extractCategoryTOCItems(data);
+  
   return (
     <article className="min-h-screen">
       {schemas && schemas.length > 0 && <ClientSchemas schemas={schemas} />}
@@ -96,7 +110,48 @@ export default function ServiceCategoryPage({ data, schemas }: ServiceCategoryPa
 
       <TrustBar />
 
-      <section className="py-12 md:py-16 bg-gradient-to-b from-gray-50 to-white">
+      {/* Why Choose Us with TOC */}
+      <section className="bg-gradient-to-b from-gray-50 to-white py-12 md:py-16">
+        <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
+          <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-8">
+            Why Choose Intelligent Design for {data.categoryName}?
+          </h2>
+          <div className="grid md:grid-cols-2 gap-4 md:gap-6">
+            {data.whyChooseUs.map((item, index) => (
+              <div 
+                key={index}
+                className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100"
+                data-testid={`card-why-${index}`}
+              >
+                <CheckCircle2 className="w-6 h-6 text-green-600 flex-shrink-0 mt-0.5" />
+                <div>
+                  <p className="font-semibold text-gray-900 mb-1">{item.title}</p>
+                  <p className="text-sm text-gray-600">{item.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+          
+          {/* Table of Contents - Jump to Section */}
+          {tocItems.length > 0 && (
+            <TableOfContents 
+              items={tocItems} 
+              className="mt-8"
+              defaultExpanded={true}
+            />
+          )}
+          
+          {/* Trigger point for floating TOC button */}
+          <div id="toc-trigger-point" aria-hidden="true" />
+        </div>
+      </section>
+      
+      {/* Floating TOC Button */}
+      {tocItems.length > 0 && (
+        <FloatingTOCButton items={tocItems} triggerElementId="toc-trigger-point" />
+      )}
+
+      <section id="services" className="py-12 md:py-16 scroll-mt-20">
         <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
@@ -147,40 +202,13 @@ export default function ServiceCategoryPage({ data, schemas }: ServiceCategoryPa
         </div>
       </section>
 
-      <section className="py-12 md:py-16">
-        <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-8">
-            Why Choose Intelligent Design for {data.categoryName}?
-          </h2>
-          <div className="grid md:grid-cols-2 gap-4 md:gap-6">
-            {data.whyChooseUs.map((item, index) => (
-              <div 
-                key={index}
-                className="flex gap-3 items-start bg-white p-4 rounded-lg shadow-sm border border-gray-100"
-                data-testid={`card-why-${index}`}
-              >
-                <div className="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center flex-shrink-0">
-                  <svg className="w-5 h-5 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                </div>
-                <div>
-                  <p className="font-semibold text-gray-900 mb-1">{item.title}</p>
-                  <p className="text-sm text-gray-600">{item.description}</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="py-16 bg-muted/30">
+      <section id="reviews" className="py-16 bg-muted/30 scroll-mt-20">
         <div className="container mx-auto px-4 max-w-7xl">
           <ReviewModule variant="full" />
         </div>
       </section>
 
-      <section className="py-16 bg-primary/5">
+      <section id="schedule" className="py-16 bg-primary/5 scroll-mt-20">
         <div className="container mx-auto px-4">
           <SchedulerCluster position="bottom" />
         </div>
