@@ -10,6 +10,7 @@ import RichText from "@/components/content/RichText";
 import DrainClearingCoupon from "@/components/specials/DrainClearingCoupon";
 import ServiceFAQ from "@/components/content/ServiceFAQ";
 import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
+import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -179,8 +180,16 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
               defaultExpanded={true}
             />
           )}
+          
+          {/* Trigger point for floating TOC button - appears after scrolling past this */}
+          <div id="toc-trigger-point" aria-hidden="true" />
         </div>
       </section>
+      
+      {/* Floating TOC Button - appears after scrolling past the TOC section */}
+      {tocItems.length > 0 && (
+        <FloatingTOCButton items={tocItems} triggerElementId="toc-trigger-point" />
+      )}
 
       {/* Main Content Section */}
       <section className="py-16">
