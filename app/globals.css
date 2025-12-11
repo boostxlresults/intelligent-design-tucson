@@ -331,10 +331,10 @@
     max-width: 100vw;
   }
 
-  /* Reposition HatchChat bubble above floating action bar on mobile/tablet */
+  /* HatchChat launcher is hidden via JS on mobile - this is a fallback */
   @media (max-width: 1023px) {
     hatch-chat {
-      bottom: 100px !important;
+      z-index: 40 !important; /* Below our floating action bar (z-50) */
     }
   }
 }
