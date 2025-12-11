@@ -7,71 +7,66 @@ import SchedulerEmbed from "../integrations/SchedulerEmbed";
 
 export default function MobileFloatingActions() {
   const hatchLauncherRef = useRef<HTMLElement | null>(null);
+  const observerRef = useRef<MutationObserver | null>(null);
 
   useEffect(() => {
-    // Only run on mobile/tablet
-    if (window.innerWidth >= 1024) return;
+    // Only run HatchChat hiding on mobile
+    if (typeof window === 'undefined' || window.innerWidth >= 1024) return;
 
     const hideHatchLauncher = () => {
       const hatchChat = document.querySelector('hatch-chat');
       if (!hatchChat?.shadowRoot) return;
 
-      // Find the launcher button inside shadow DOM
-      const launcher = hatchChat.shadowRoot.querySelector('button, [role="button"], .launcher, [class*="launcher"], [class*="bubble"]');
-      if (launcher && launcher instanceof HTMLElement) {
-        hatchLauncherRef.current = launcher;
-        launcher.style.visibility = 'hidden';
-        launcher.style.pointerEvents = 'none';
-        launcher.style.opacity = '0';
-        launcher.style.position = 'fixed';
-        launcher.style.bottom = '-9999px';
+      // Target the root div of the shadow DOM
+      const rootDiv = hatchChat.shadowRoot.querySelector('div');
+      if (rootDiv && rootDiv instanceof HTMLElement) {
+        rootDiv.style.cssText = 'display: none !important;';
+        // Store reference to any button for later clicking
+        const btn = hatchChat.shadowRoot.querySelector('button');
+        if (btn) hatchLauncherRef.current = btn;
       }
     };
 
-    // Wait for HatchChat to load and hide launcher
+    // Poll for HatchChat to load
     const checkInterval = setInterval(() => {
       const hatchChat = document.querySelector('hatch-chat');
       if (hatchChat?.shadowRoot) {
         hideHatchLauncher();
         
-        // Watch for mutations in case widget re-renders
-        const observer = new MutationObserver(() => {
-          hideHatchLauncher();
-        });
-        observer.observe(hatchChat.shadowRoot, { childList: true, subtree: true });
+        // Watch for re-renders
+        if (!observerRef.current) {
+          observerRef.current = new MutationObserver(() => {
+            hideHatchLauncher();
+          });
+          observerRef.current.observe(hatchChat.shadowRoot, { childList: true, subtree: true });
+        }
         
         clearInterval(checkInterval);
       }
-    }, 500);
+    }, 200);
 
-    // Cleanup after 10 seconds if widget never loads
-    const timeout = setTimeout(() => clearInterval(checkInterval), 10000);
+    const timeout = setTimeout(() => clearInterval(checkInterval), 20000);
 
     return () => {
       clearInterval(checkInterval);
       clearTimeout(timeout);
+      observerRef.current?.disconnect();
     };
   }, []);
 
   const handleChatClick = () => {
-    // Click the hidden launcher button to open the chat
-    if (hatchLauncherRef.current) {
-      // Temporarily make it clickable
-      const launcher = hatchLauncherRef.current;
-      const originalPointerEvents = launcher.style.pointerEvents;
-      launcher.style.pointerEvents = 'auto';
-      launcher.click();
-      launcher.style.pointerEvents = originalPointerEvents;
-      return;
-    }
-
-    // Fallback: try to find and click the launcher
     const hatchChat = document.querySelector('hatch-chat');
-    if (hatchChat?.shadowRoot) {
-      const launcher = hatchChat.shadowRoot.querySelector('button, [role="button"]');
-      if (launcher && launcher instanceof HTMLElement) {
-        launcher.click();
-      }
+    if (!hatchChat?.shadowRoot) return;
+
+    // Temporarily show and click
+    const rootDiv = hatchChat.shadowRoot.querySelector('div');
+    const btn = hatchChat.shadowRoot.querySelector('button');
+    
+    if (rootDiv && rootDiv instanceof HTMLElement) {
+      rootDiv.style.cssText = 'display: block !important;';
+    }
+    if (btn && btn instanceof HTMLElement) {
+      btn.click();
     }
   };
 
