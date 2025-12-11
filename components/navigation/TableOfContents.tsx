@@ -53,14 +53,15 @@ export default function TableOfContents({
   };
 
   return (
-    <nav 
-      className={cn(
-        "bg-white border border-gray-200 rounded-lg shadow-sm",
-        className
-      )}
-      aria-label="Table of Contents"
-      data-testid="nav-table-of-contents"
-    >
+    <div className={className}>
+      <h2 className="text-2xl font-bold text-gray-900 mb-4 text-center">
+        Have More Questions? Jump to any topic below:
+      </h2>
+      <nav 
+        className="bg-white border border-gray-200 rounded-lg shadow-sm"
+        aria-label="Table of Contents"
+        data-testid="nav-table-of-contents"
+      >
       {/* Header - Always Visible */}
       <button
         onClick={() => setIsExpanded(!isExpanded)}
@@ -115,7 +116,8 @@ export default function TableOfContents({
           </div>
         </div>
       </div>
-    </nav>
+      </nav>
+    </div>
   );
 }
 
