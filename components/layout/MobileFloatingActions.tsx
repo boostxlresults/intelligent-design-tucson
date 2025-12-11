@@ -1,10 +1,29 @@
 'use client';
 
-import { Phone, MessageCircle } from "lucide-react";
+import { Phone, MessageCircle, Calendar } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import SchedulerEmbed from "../integrations/SchedulerEmbed";
+
+declare global {
+  interface Window {
+    _scheduler?: {
+      show: (config: { schedulerId: string }) => void;
+    };
+  }
+}
+
+const SCHEDULER_ID = 'sched_vwgezlwi56yyvwdb0nzlng14';
 
 export default function MobileFloatingActions() {
+  const handleScheduleClick = () => {
+    if (window._scheduler?.show) {
+      window._scheduler.show({ schedulerId: SCHEDULER_ID });
+    } else {
+      console.error('ServiceTitan scheduler not loaded');
+      // Fallback: open phone call
+      window.location.href = 'tel:+15203332665';
+    }
+  };
+
   return (
     <>
       {/* Mobile Floating Action Bar - Only visible on mobile/tablet */}
@@ -22,19 +41,17 @@ export default function MobileFloatingActions() {
             </a>
           </Button>
 
-          {/* Schedule */}
-          <div className="flex-1">
-            <SchedulerEmbed
-              triggerText="Schedule"
-              variant="destructive"
-              size="sm"
-              className="w-full flex flex-col items-center gap-1 h-auto py-3"
-              iconClassName="w-5 h-5"
-              textClassName="text-xs font-semibold"
-              verticalLayout={true}
-              data-testid="button-mobile-schedule"
-            />
-          </div>
+          {/* Schedule - Direct ServiceTitan trigger */}
+          <Button
+            size="sm"
+            variant="destructive"
+            className="flex-1 flex flex-col items-center gap-1 h-auto py-3"
+            onClick={handleScheduleClick}
+            data-testid="button-mobile-schedule"
+          >
+            <Calendar className="w-5 h-5" />
+            <span className="text-xs font-semibold">Schedule</span>
+          </Button>
 
           {/* Text Us - SMS link since HatchChat is hidden on mobile */}
           <Button
