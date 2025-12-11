@@ -62,7 +62,7 @@ export default function FloatingTOCButton({
           "bg-blue-600 hover:bg-blue-700 text-white",
           "transition-all duration-300 ease-in-out",
           "focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2",
-          "bottom-24 right-4 md:bottom-8 md:right-8",
+          "bottom-24 left-4 md:bottom-8 md:left-8",
           isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"
         )}
         aria-label={isOpen ? "Close table of contents" : "Open table of contents"}
@@ -80,7 +80,7 @@ export default function FloatingTOCButton({
         className={cn(
           "fixed z-40 bg-white rounded-lg shadow-2xl border border-gray-200",
           "transition-all duration-300 ease-in-out",
-          "bottom-40 right-4 md:bottom-24 md:right-8",
+          "bottom-40 left-4 md:bottom-24 md:left-8",
           "w-[calc(100vw-2rem)] max-w-sm md:max-w-md",
           "max-h-[60vh] overflow-y-auto",
           isOpen && isVisible ? "opacity-100 scale-100" : "opacity-0 scale-95 pointer-events-none"
