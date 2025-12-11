@@ -1,7 +1,10 @@
 'use client';
 
+import { useState, useEffect } from "react";
+import { Dialog, DialogContent, DialogTrigger, DialogTitle } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { Calendar } from "lucide-react";
+import { VisuallyHidden } from "@radix-ui/react-visually-hidden";
 
 interface SchedulerEmbedProps {
   triggerText?: string;
@@ -36,8 +39,6 @@ export default function SchedulerEmbed({
 }: SchedulerEmbedProps) {
 
   const handleClick = () => {
-    // Use ServiceTitan's official _scheduler.show() method
-    // Script is loaded globally in app/layout.tsx
     if (window._scheduler?.show) {
       window._scheduler.show({ schedulerId: SCHEDULER_ID });
     } else {
