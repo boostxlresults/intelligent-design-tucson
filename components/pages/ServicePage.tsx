@@ -9,7 +9,54 @@ import TrustBar from "@/components/content/TrustBar";
 import RichText from "@/components/content/RichText";
 import DrainClearingCoupon from "@/components/specials/DrainClearingCoupon";
 import ServiceFAQ from "@/components/content/ServiceFAQ";
+import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
 import type { ServicePageData } from "@/types/services";
+
+/**
+ * Helper function to generate URL-friendly slug from text
+ */
+function generateSlug(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
+/**
+ * Extract TOC items from service page content sections
+ */
+function extractTOCItems(data: ServicePageData): TOCItem[] {
+  const tocItems: TOCItem[] = [];
+  
+  // Extract H2 headings from content sections
+  data.content.sections.forEach((section) => {
+    if ("type" in section && section.type === "heading" && (section.level === 2 || !section.level)) {
+      const id = generateSlug(section.heading);
+      tocItems.push({
+        id,
+        label: section.heading,
+        level: 2
+      });
+    }
+  });
+  
+  // Add standard sections that appear on all service pages
+  tocItems.push({ id: "reviews", label: "Customer Reviews", level: 2 });
+  
+  if (data.faqs?.faqs && data.faqs.faqs.length > 0) {
+    tocItems.push({ id: "faqs", label: "Frequently Asked Questions", level: 2 });
+  }
+  
+  if (data.commonQuestions && data.commonQuestions.length > 0) {
+    tocItems.push({ id: "common-questions", label: "Common Questions", level: 2 });
+  }
+  
+  tocItems.push({ id: "schedule", label: "Schedule Service", level: 2 });
+  
+  return tocItems;
+}
 
 /**
  * ServicePage Component
@@ -32,6 +79,9 @@ interface ServicePageProps {
 export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
   // Show drain clearing special coupon for drain clearing and rooter pages
   const showDrainSpecial = slug === 'drain-clearing-tucson' || slug === 'rooter-special';
+  
+  // Extract TOC items from page content
+  const tocItems = extractTOCItems(data);
   
   return (
     <article className="min-h-screen">
@@ -120,6 +170,15 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
               </div>
             ))}
           </div>
+          
+          {/* Table of Contents - Jump to Section */}
+          {tocItems.length > 0 && (
+            <TableOfContents 
+              items={tocItems} 
+              className="mt-8"
+              defaultExpanded={true}
+            />
+          )}
         </div>
       </section>
 
@@ -131,10 +190,12 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
             if ("type" in section) {
               if (section.type === "heading") {
                 const HeadingTag = `h${section.level || 2}` as keyof JSX.IntrinsicElements;
+                const headingId = generateSlug(section.heading);
                 return (
                   <HeadingTag 
-                    key={index} 
-                    className="text-2xl font-bold mt-8 mb-4"
+                    key={index}
+                    id={headingId}
+                    className="text-2xl font-bold mt-8 mb-4 scroll-mt-24"
                     data-testid={`heading-${section.level || 2}`}
                   >
                     {section.heading}
@@ -307,7 +368,7 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
       </section>
 
       {/* Reviews Module */}
-      <section className="py-16 bg-muted/30">
+      <section id="reviews" className="py-16 bg-muted/30 scroll-mt-20">
         <div className="container mx-auto px-4 max-w-7xl">
           <ReviewModule variant="full" />
         </div>
@@ -315,18 +376,20 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
 
       {/* FAQs Section - Using ServiceFAQ accordion component */}
       {data.faqs?.faqs && data.faqs.faqs.length > 0 && (
-        <ServiceFAQ
-          faqs={data.faqs.faqs}
-          sectionHeading="Frequently Asked Questions"
-          sectionDescription={`Get answers to common questions about ${data.serviceName} in Tucson, AZ`}
-          serviceName={data.serviceName}
-          serviceId={data.faqs.serviceId || slug || 'service'}
-        />
+        <div id="faqs" className="scroll-mt-20">
+          <ServiceFAQ
+            faqs={data.faqs.faqs}
+            sectionHeading="Frequently Asked Questions"
+            sectionDescription={`Get answers to common questions about ${data.serviceName} in Tucson, AZ`}
+            serviceName={data.serviceName}
+            serviceId={data.faqs.serviceId || slug || 'service'}
+          />
+        </div>
       )}
 
       {/* Common Questions Section - AI Search Optimization Layer */}
       {data.commonQuestions && data.commonQuestions.length > 0 && (
-        <section className="py-16 bg-gradient-to-b from-white to-gray-50">
+        <section id="common-questions" className="py-16 bg-gradient-to-b from-white to-gray-50 scroll-mt-20">
           <div className="container mx-auto px-4 max-w-4xl">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold mb-4" data-testid="heading-common-questions">
@@ -357,7 +420,7 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
       )}
 
       {/* ServiceTitan Scheduler #3 - Bottom before footer */}
-      <section className="py-16 bg-primary/5">
+      <section id="schedule" className="py-16 bg-primary/5 scroll-mt-20">
         <div className="container mx-auto px-4">
           <SchedulerCluster position="bottom" />
         </div>
