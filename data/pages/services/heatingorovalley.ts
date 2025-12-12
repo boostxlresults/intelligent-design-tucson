@@ -24,7 +24,7 @@ export const heatingorovalleyData: ServicePageData = {
   highlights: [
   {
     "title": "Oro Valley Heating Specialists",
-    "description": "45+ years serving Oro Valley | Expert in foothill climate heating (2,600-3,200 ft elevation) | Dual-fuel system specialists | Energy efficiency focus"
+    "description": "46+ years serving Oro Valley | Expert in foothill climate heating (2,600-3,200 ft elevation) | Dual-fuel system specialists | Energy efficiency focus"
   },
   {
     "title": "ServiceTitan-Powered Response",
@@ -622,7 +622,7 @@ export const heatingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Oro Valley's Foothill Community: Since 1979, we've specialized in heating solutions optimized for Oro Valley's unique elevation, climate, and homeowner expectations. Our deep community roots mean we understand the challenges of heating at 2,600-3,200 feet elevation, the impact of Oro Valley's 4-6 degree cooler temperatures compared to metro Tucson, the longer November-March heating season common in the foothills, the performance requirements for Oro Valley's larger, newer homes, and the energy efficiency and smart home integration expectations of Oro Valley's tech-savvy, environmentally-conscious residents. We've served over 12,000 Oro Valley families with furnace repair, heat pump installation, dual-fuel systems, and comprehensive maintenance, earning the community's trust through honest recommendations, quality workmanship, and exceptional results."
+            "content": "46+ years Serving Oro Valley's Foothill Community: Since 1979, we've specialized in heating solutions optimized for Oro Valley's unique elevation, climate, and homeowner expectations. Our deep community roots mean we understand the challenges of heating at 2,600-3,200 feet elevation, the impact of Oro Valley's 4-6 degree cooler temperatures compared to metro Tucson, the longer November-March heating season common in the foothills, the performance requirements for Oro Valley's larger, newer homes, and the energy efficiency and smart home integration expectations of Oro Valley's tech-savvy, environmentally-conscious residents. We've served over 12,000 Oro Valley families with furnace repair, heat pump installation, dual-fuel systems, and comprehensive maintenance, earning the community's trust through honest recommendations, quality workmanship, and exceptional results."
       },
       {
             "type": "paragraph",
@@ -642,7 +642,7 @@ export const heatingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Warranties & Guarantees: We stand behind our work with comprehensive warranties protecting your investment: labor warranty: 2-5 years depending on system (most contractors offer only 1 year), manufacturer parts warranty: 5-12 years (we install only top-tier equipment with superior coverage), 100% satisfaction guarantee (if you're not completely satisfied, we make it right at no additional cost), performance guarantee (we document baseline performance and verify systems meet manufacturer specifications), and no-breakdown guarantee on maintenance plan (if maintained system breaks down, we prioritize repair and discount service). Our Family Protection Plan members enjoy extended warranties, priority scheduling, repair discounts, and no-overtime emergency service—delivering peace of mind throughout your heating system's 18-25 year life. These warranties are only as good as the company standing behind them—our 45-year history and BBB A+ rating assure we'll be here honoring our commitments long-term."
+            "content": "Industry-Leading Warranties & Guarantees: We stand behind our work with comprehensive warranties protecting your investment: labor warranty: 2-5 years depending on system (most contractors offer only 1 year), manufacturer parts warranty: 5-12 years (we install only top-tier equipment with superior coverage), 100% satisfaction guarantee (if you're not completely satisfied, we make it right at no additional cost), performance guarantee (we document baseline performance and verify systems meet manufacturer specifications), and no-breakdown guarantee on maintenance plan (if maintained system breaks down, we prioritize repair and discount service). Our Family Protection Plan members enjoy extended warranties, priority scheduling, repair discounts, and no-overtime emergency service—delivering peace of mind throughout your heating system's 18-25 year life. These warranties are only as good as the company standing behind them—our 46-year history and BBB A+ rating assure we'll be here honoring our commitments long-term."
       },
       {
             "type": "cta",

@@ -25,7 +25,7 @@ export const roofingrillitoData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Rillito",
+    "title": "46+ years Serving Rillito",
     "description": "Local expertise since 1979. We know Rillito roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Rillito"
+            "content": "46+ years Serving Rillito"
       },
       {
             "type": "paragraph",

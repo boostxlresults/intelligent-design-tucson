@@ -25,7 +25,7 @@ export const roofingeasttucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving East Tucson",
+    "title": "46+ years Serving East Tucson",
     "description": "Local expertise since 1979. We know East Tucson roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving East Tucson"
+            "content": "46+ years Serving East Tucson"
       },
       {
             "type": "paragraph",

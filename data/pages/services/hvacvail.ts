@@ -24,7 +24,7 @@ export const hvacvailData: ServicePageData = {
   // Content
   highlights: [
   {
-    title: "45+ Years Serving Vail",
+    title: "46+ years Serving Vail",
     description: "Local expertise since 1979. We understand Vail's rural properties, larger homes, extreme heat, and unique dust challenges."
   },
   {
@@ -397,7 +397,7 @@ export const hvacvailData: ServicePageData = {
       },
       {
             type: "paragraph",
-            content: "45+ Years Serving Vail & Southeast Tucson: Since 1979, we've been the HVAC company Vail residents call first for air conditioning and heating needs. We've served over 850 Vail families and businesses, understanding the unique challenges of this growing rural community including larger properties and ranches, extreme desert climate, persistent dust from dirt roads and agriculture, distance from metro Tucson service providers, and multi-building properties with diverse HVAC needs. Our deep Vail experience means we arrive knowing what to expect and how to solve problems efficiently—no learning curve at your expense. We've installed and serviced HVAC systems in every Vail neighborhood from established areas near Colossal Cave to newer developments near Interstate 10, from working ranches to luxury estates. This experience translates to better recommendations, faster service, and solutions that work perfectly for Vail's unique conditions."
+            content: "46+ years Serving Vail & Southeast Tucson: Since 1979, we've been the HVAC company Vail residents call first for air conditioning and heating needs. We've served over 850 Vail families and businesses, understanding the unique challenges of this growing rural community including larger properties and ranches, extreme desert climate, persistent dust from dirt roads and agriculture, distance from metro Tucson service providers, and multi-building properties with diverse HVAC needs. Our deep Vail experience means we arrive knowing what to expect and how to solve problems efficiently—no learning curve at your expense. We've installed and serviced HVAC systems in every Vail neighborhood from established areas near Colossal Cave to newer developments near Interstate 10, from working ranches to luxury estates. This experience translates to better recommendations, faster service, and solutions that work perfectly for Vail's unique conditions."
       },
       {
             type: "paragraph",
@@ -417,7 +417,7 @@ export const hvacvailData: ServicePageData = {
       },
       {
             type: "paragraph",
-            content: "Industry-Leading Warranties & Guarantees: We stand behind every installation and repair with comprehensive warranty coverage including manufacturer equipment warranties (typically 10 years parts, 5-10 years compressor), Intelligent Design workmanship warranty (covers all installation labor), extended warranty options for additional protection, 100 percent satisfaction guarantee (if you're not completely satisfied, we make it right), and price matching (we'll match or beat any comparable written estimate from licensed, insured competitors). Our warranty commitment continues long after installation—we're here when you need us, responding promptly to any warranty issues and standing behind our work completely. We've been in business for 45+ years and plan to be here for 45+ more—our reputation depends on long-term customer satisfaction, not just making the sale."
+            content: "Industry-Leading Warranties & Guarantees: We stand behind every installation and repair with comprehensive warranty coverage including manufacturer equipment warranties (typically 10 years parts, 5-10 years compressor), Intelligent Design workmanship warranty (covers all installation labor), extended warranty options for additional protection, 100 percent satisfaction guarantee (if you're not completely satisfied, we make it right), and price matching (we'll match or beat any comparable written estimate from licensed, insured competitors). Our warranty commitment continues long after installation—we're here when you need us, responding promptly to any warranty issues and standing behind our work completely. We've been in business for 46+ years and plan to be here for 45+ more—our reputation depends on long-term customer satisfaction, not just making the sale."
       },
       {
             type: "paragraph",

@@ -5,13 +5,13 @@ import { commercialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const commercialroofrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Repair Tucson AZ | Business Roof Repair Services',
-  description: 'Expert commercial roof repair in Tucson. Flat roof systems, TPO, EPDM, minimal disruption to business operations. 45+ years experience. Call (520) 333-2665 for free commercial roof inspection.',
+  description: 'Expert commercial roof repair in Tucson. Flat roof systems, TPO, EPDM, minimal disruption to business operations. 46+ years experience. Call (520) 333-2665 for free commercial roof inspection.',
   slug: 'commercial-roof-repair',
   
   // Hero Section
   h1: 'Commercial Roof Repair Tucson AZ',
   h2Subheading: 'Expert Commercial Roof Repair in Tucson',
-  tagline: 'Flat Roof Systems | TPO & EPDM Repair | Minimal Business Disruption | Emergency Service | 45+ Years Experience',
+  tagline: 'Flat Roof Systems | TPO & EPDM Repair | Minimal Business Disruption | Emergency Service | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_repair_technician_3329f717.webp',
   heroImageAlt: 'Commercial Roof Repair in Tucson',
   
@@ -34,7 +34,7 @@ export const commercialroofrepairData: ServicePageData = {
     "description": "Dedicated account managers | Detailed reporting | Online invoicing | Volume pricing available"
   },
   {
-    "title": "45+ Years Commercial Experience",
+    "title": "46+ years Commercial Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Licensed & insured | Trusted since 1979"
   },
   {
@@ -86,7 +86,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Commercial roof emergencies during Tucson's monsoon season (June-September) create immediate business risks that residential roof failures don't face. When water penetrates your commercial building, the consequences cascade rapidly: inventory and product damage within minutes, equipment failure from water exposure, electrical hazards requiring power shutdowns, slip-and-fall liability in customer-accessible areas, tenant complaints and potential lease violations in multi-family properties, business interruption costs from closed areas or suspended operations, and mold development in hidden areas within 24-48 hours. Our 45+ years responding to Tucson commercial roofing emergencies has taught us that rapid professional intervention is the difference between minor repair costs and catastrophic business losses."
+            "content": "Commercial roof emergencies during Tucson's monsoon season (June-September) create immediate business risks that residential roof failures don't face. When water penetrates your commercial building, the consequences cascade rapidly: inventory and product damage within minutes, equipment failure from water exposure, electrical hazards requiring power shutdowns, slip-and-fall liability in customer-accessible areas, tenant complaints and potential lease violations in multi-family properties, business interruption costs from closed areas or suspended operations, and mold development in hidden areas within 24-48 hours. Our 46+ years responding to Tucson commercial roofing emergencies has taught us that rapid professional intervention is the difference between minor repair costs and catastrophic business losses."
       },
       {
             "type": "paragraph",
@@ -260,7 +260,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "One of the most challenging decisions facing commercial property owners is determining when roof repairs make economic sense versus full roof replacement. The wrong decision costs tens of thousands in unnecessary replacement or continued emergency repair cycles. Our 45+ years of Tucson commercial roofing provides clear guidance based on roof age, damage extent, and long-term investment protection."
+            "content": "One of the most challenging decisions facing commercial property owners is determining when roof repairs make economic sense versus full roof replacement. The wrong decision costs tens of thousands in unnecessary replacement or continued emergency repair cycles. Our 46+ years of Tucson commercial roofing provides clear guidance based on roof age, damage extent, and long-term investment protection."
       },
       {
             "type": "heading",
@@ -662,7 +662,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every commercial roof repair includes our standard labor warranty covering our installation workmanship. Standard repairs (membrane patches, flashing replacements, minor work) include 5-year labor warranty covering any defects in our installation work at no charge. Major repairs (section replacements, extensive flashing work, drainage improvements) include 10-year labor warranty covering all workmanship and installation quality. Complete roof replacements include 15-year labor warranty covering installation quality and ensuring your roof performs as designed. Our labor warranty is transferable to new building owners if you sell the property—a valuable selling point that can increase property value. The warranty covers all labor costs for any repairs needed due to installation defects—you'll never pay twice for our mistakes. After 45+ years in business, we stand behind our work because we know our installations are done right the first time."
+            "content": "Every commercial roof repair includes our standard labor warranty covering our installation workmanship. Standard repairs (membrane patches, flashing replacements, minor work) include 5-year labor warranty covering any defects in our installation work at no charge. Major repairs (section replacements, extensive flashing work, drainage improvements) include 10-year labor warranty covering all workmanship and installation quality. Complete roof replacements include 15-year labor warranty covering installation quality and ensuring your roof performs as designed. Our labor warranty is transferable to new building owners if you sell the property—a valuable selling point that can increase property value. The warranty covers all labor costs for any repairs needed due to installation defects—you'll never pay twice for our mistakes. After 46+ years in business, we stand behind our work because we know our installations are done right the first time."
       },
       {
             "type": "heading",

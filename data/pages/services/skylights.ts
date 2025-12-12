@@ -34,7 +34,7 @@ export const skylightsData: ServicePageData = {
     "description": "Design consultation | Permit handling | Roof & interior work | Professional finishing | Cleanup"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Desert climate specialists | Trusted since 1979"
   },
   {
@@ -611,7 +611,7 @@ export const skylightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Roofing & Skylight Expertise: Since 1979, we've served over 85,000 Tucson-area families with comprehensive home services including skylight installation, [link:/services/residential-roof-replacement|roof replacement], [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/residential-solar-installation|solar]. Our roofing crews average 12+ years of hands-on experience and complete 80+ hours of annual manufacturer training on the latest technologies. We're factory-certified installers for Velux, Fakro, Solatube, and other premium skylight manufacturers, qualifying your project for enhanced warranties. Our unique advantage: as Tucson's only complete home services provider, we coordinate skylight installations with roof work, solar panel mounting, attic ventilation upgrades, and electrical improvements—optimizing your entire home's performance and efficiency."
+            "content": "46+ years of Roofing & Skylight Expertise: Since 1979, we've served over 85,000 Tucson-area families with comprehensive home services including skylight installation, [link:/services/residential-roof-replacement|roof replacement], [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/residential-solar-installation|solar]. Our roofing crews average 12+ years of hands-on experience and complete 80+ hours of annual manufacturer training on the latest technologies. We're factory-certified installers for Velux, Fakro, Solatube, and other premium skylight manufacturers, qualifying your project for enhanced warranties. Our unique advantage: as Tucson's only complete home services provider, we coordinate skylight installations with roof work, solar panel mounting, attic ventilation upgrades, and electrical improvements—optimizing your entire home's performance and efficiency."
       },
       {
             "type": "paragraph",

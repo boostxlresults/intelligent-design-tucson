@@ -24,7 +24,7 @@ export const plumbingpicturerocksData: ServicePageData = {
   highlights: [
   {
     "title": "Picture Rocks Rural Plumbing Specialists",
-    "description": "45+ years serving rural northwest Tucson | Well system experts | Septic-safe solutions | Hard water specialists | Distance service pros | 1,200+ Picture Rocks homes serviced"
+    "description": "46+ years serving rural northwest Tucson | Well system experts | Septic-safe solutions | Hard water specialists | Distance service pros | 1,200+ Picture Rocks homes serviced"
   },
   {
     "title": "ServiceTitan Rapid Response",

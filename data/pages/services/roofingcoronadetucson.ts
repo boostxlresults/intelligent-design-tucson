@@ -25,7 +25,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Corona de Tucson",
+    "title": "46+ years Serving Corona de Tucson",
     "description": "Local roofing expertise since 1979. We understand Corona de Tucson's unique desert climate challenges, building codes, and architectural styles inside and out."
   },
   {
@@ -585,7 +585,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design, we provide straightforward guidance based on your best long-term interest. If your roof can be effectively repaired, we'll tell you—even if replacement would generate more revenue for us. Conversely, if we believe replacement is the better value despite higher initial cost, we'll explain our reasoning with complete transparency. Our 45-year reputation in Corona de Tucson and Southern Arizona is built on honesty, not high-pressure sales. We want you as a satisfied customer and referral source for decades to come—that only happens when we put your interests first."
+            "content": "At Intelligent Design, we provide straightforward guidance based on your best long-term interest. If your roof can be effectively repaired, we'll tell you—even if replacement would generate more revenue for us. Conversely, if we believe replacement is the better value despite higher initial cost, we'll explain our reasoning with complete transparency. Our 46-year reputation in Corona de Tucson and Southern Arizona is built on honesty, not high-pressure sales. We want you as a satisfied customer and referral source for decades to come—that only happens when we put your interests first."
       },
       {
             "type": "heading",
@@ -681,7 +681,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Comprehensive Home Protection Beyond Roofing: While we're Corona de Tucson's most trusted roofing specialists, our expertise extends across all home systems critical for desert living. We provide complete [link:/services/hvac-tucson|HVAC services], [link:/services/plumbing-tucson|professional plumbing repair and installation], [link:/services/electrical-tucson|licensed electrical services], and [link:/services/solar-installation-tucson|solar panel installation and maintenance]. Our integrated approach ensures all home systems work together efficiently, maximizing comfort while minimizing energy costs in Corona de Tucson's extreme climate. Whether you need emergency roof repair, complete system replacement, or comprehensive home services, Intelligent Design is your single-source provider for reliable solutions backed by 45+ years of Tucson-area expertise."
+            "content": "Comprehensive Home Protection Beyond Roofing: While we're Corona de Tucson's most trusted roofing specialists, our expertise extends across all home systems critical for desert living. We provide complete [link:/services/hvac-tucson|HVAC services], [link:/services/plumbing-tucson|professional plumbing repair and installation], [link:/services/electrical-tucson|licensed electrical services], and [link:/services/solar-installation-tucson|solar panel installation and maintenance]. Our integrated approach ensures all home systems work together efficiently, maximizing comfort while minimizing energy costs in Corona de Tucson's extreme climate. Whether you need emergency roof repair, complete system replacement, or comprehensive home services, Intelligent Design is your single-source provider for reliable solutions backed by 46+ years of Tucson-area expertise."
       }
 ]
   },

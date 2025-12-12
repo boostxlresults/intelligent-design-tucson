@@ -22,7 +22,7 @@ export const electricalgreenvalleyData: ServicePageData = {
   highlights: [
   {
     "title": "Green Valley Electrical Specialists Since 1979",
-    "description": "45+ years serving retirement communities | Deep expertise in older home electrical systems | Over 8,500 Green Valley customers | Specialized safety protocols for seniors"
+    "description": "46+ years serving retirement communities | Deep expertise in older home electrical systems | Over 8,500 Green Valley customers | Specialized safety protocols for seniors"
   },
   {
     "title": "ServiceTitan-Powered Rapid Response",
@@ -510,7 +510,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We stand behind all our electrical work with comprehensive warranties protecting your investment and ensuring long-term satisfaction. Our warranty program includes workmanship warranties covering all labor and installation for one full year from completion date (covering any installation defects, wiring errors, or connection failures resulting from our work), manufacturer warranties on all electrical equipment, panels, generators, and fixtures we install (typically 1-10 years depending on product—we only install brands with strong warranty support), extended warranty options available on major installations like panel upgrades and generators (providing 3-5 year coverage on parts and labor), and lifetime warranty on certain installations when you enroll in our annual maintenance programs. As a fully licensed electrical contractor (Arizona ROC 340962) with BBB A+ rating and 45+ years in business, we'll be here to honor our warranties long after installation is complete. Unlike handymen or unlicensed electricians who may disappear, Intelligent Design has been serving Green Valley since 1979 and will continue serving the community for decades to come."
+            "content": "We stand behind all our electrical work with comprehensive warranties protecting your investment and ensuring long-term satisfaction. Our warranty program includes workmanship warranties covering all labor and installation for one full year from completion date (covering any installation defects, wiring errors, or connection failures resulting from our work), manufacturer warranties on all electrical equipment, panels, generators, and fixtures we install (typically 1-10 years depending on product—we only install brands with strong warranty support), extended warranty options available on major installations like panel upgrades and generators (providing 3-5 year coverage on parts and labor), and lifetime warranty on certain installations when you enroll in our annual maintenance programs. As a fully licensed electrical contractor (Arizona ROC 340962) with BBB A+ rating and 46+ years in business, we'll be here to honor our warranties long after installation is complete. Unlike handymen or unlicensed electricians who may disappear, Intelligent Design has been serving Green Valley since 1979 and will continue serving the community for decades to come."
       },
       {
             "type": "paragraph",
@@ -534,7 +534,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Green Valley's most trusted electrical service provider for 45+ years, we're deeply involved in the community we serve. We're proud members of Green Valley/Sahuarita Chamber of Commerce, actively support local senior centers and recreation facilities, sponsor Green Valley community events throughout the year, participate in local home shows and community fairs, and provide educational electrical safety seminars for retirement communities. Many of our electricians live in or near Green Valley and serve neighbors, friends, and family members daily. We understand Green Valley's unique culture as a retirement community and respect the values of honesty, reliability, and quality workmanship that matter most to our customers. When you call Intelligent Design, you're supporting a local family-owned business that reinvests in the community and treats every customer like family—not a national chain with no local accountability."
+            "content": "As Green Valley's most trusted electrical service provider for 46+ years, we're deeply involved in the community we serve. We're proud members of Green Valley/Sahuarita Chamber of Commerce, actively support local senior centers and recreation facilities, sponsor Green Valley community events throughout the year, participate in local home shows and community fairs, and provide educational electrical safety seminars for retirement communities. Many of our electricians live in or near Green Valley and serve neighbors, friends, and family members daily. We understand Green Valley's unique culture as a retirement community and respect the values of honesty, reliability, and quality workmanship that matter most to our customers. When you call Intelligent Design, you're supporting a local family-owned business that reinvests in the community and treats every customer like family—not a national chain with no local accountability."
       },
       {
             "type": "paragraph",

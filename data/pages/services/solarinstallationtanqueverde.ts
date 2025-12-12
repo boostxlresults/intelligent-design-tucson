@@ -25,7 +25,7 @@ export const solarinstallationtanqueverdeData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tanque Verde",
+    "title": "46+ years Serving Tanque Verde",
     "description": "Local expertise since 1979. We understand Tanque Verde's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -125,7 +125,7 @@ export const solarinstallationtanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Tanque Verde"
+            "content": "46+ years Serving Tanque Verde"
       },
       {
             "type": "paragraph",

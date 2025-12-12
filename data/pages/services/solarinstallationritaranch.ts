@@ -25,7 +25,7 @@ export const solarinstallationritaranchData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Rita Ranch",
+    "title": "46+ years Serving Rita Ranch",
     "description": "Local expertise since 1979. We understand Rita Ranch's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -125,7 +125,7 @@ export const solarinstallationritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Rita Ranch"
+            "content": "46+ years Serving Rita Ranch"
       },
       {
             "type": "paragraph",

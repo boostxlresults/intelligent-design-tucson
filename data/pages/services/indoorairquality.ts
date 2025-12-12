@@ -43,7 +43,7 @@ export const indoorairqualityData: ServicePageData = {
   },
   {
     "title": "Expert Solutions for Tucson Climate",
-    "description": "45+ years local experience | Custom recommendations | Professional installation | Free consultations"
+    "description": "46+ years local experience | Custom recommendations | Professional installation | Free consultations"
   }
 ],
   content: {

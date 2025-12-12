@@ -23,7 +23,7 @@ export const hvacmaranaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Marana",
+    "title": "46+ years Serving Marana",
     "description": "Local expertise since 1979 | Deep understanding of Marana's rapid growth and newer construction | Expert with modern HVAC technologies | Gladden Farms specialists"
   },
   {
@@ -370,7 +370,7 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Sizing Considerations for Marana's Larger Homes: Proper sizing is critical—oversized systems waste energy and fail to dehumidify, while undersized systems can't cool adequately during 110-degree peak days. We perform detailed Manual J load calculations accounting for your home's specific characteristics: square footage and floor plan layout, insulation levels (R-38+ attic, R-13-19 walls in newer Marana homes), window efficiency and orientation (Low-E, dual-pane standard in newer construction), ceiling heights (many Marana homes feature 10-12' ceilings in main areas), number and location of heat-generating appliances, and actual occupancy patterns. Typical sizing for Marana homes: 1,800-2,200 sq ft = 3-3.5 tons, 2,200-2,800 sq ft = 3.5-4.5 tons, 2,800-3,500 sq ft = 4.5-5.5 tons, 3,500+ sq ft = 5.5-7+ tons (may require multiple systems or zoning). Trust our 45+ years of Marana experience over online calculators or rules-of-thumb."
+            "content": "Sizing Considerations for Marana's Larger Homes: Proper sizing is critical—oversized systems waste energy and fail to dehumidify, while undersized systems can't cool adequately during 110-degree peak days. We perform detailed Manual J load calculations accounting for your home's specific characteristics: square footage and floor plan layout, insulation levels (R-38+ attic, R-13-19 walls in newer Marana homes), window efficiency and orientation (Low-E, dual-pane standard in newer construction), ceiling heights (many Marana homes feature 10-12' ceilings in main areas), number and location of heat-generating appliances, and actual occupancy patterns. Typical sizing for Marana homes: 1,800-2,200 sq ft = 3-3.5 tons, 2,200-2,800 sq ft = 3.5-4.5 tons, 2,800-3,500 sq ft = 4.5-5.5 tons, 3,500+ sq ft = 5.5-7+ tons (may require multiple systems or zoning). Trust our 46+ years of Marana experience over online calculators or rules-of-thumb."
       },
       {
             "type": "heading",
@@ -476,7 +476,7 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What size AC system do I need for my Marana home? Proper sizing is critical and depends on many factors beyond just square footage. We perform detailed Manual J load calculations accounting for your home's specific characteristics: square footage and floor plan layout, insulation levels (R-values for walls, ceilings, floors), window quantity, size, efficiency, and orientation, ceiling heights, occupancy patterns, and heat-generating appliances. Typical sizing for Marana homes: 1,800-2,200 sq ft needs 3-3.5 tons, 2,200-2,800 sq ft needs 3.5-4.5 tons, 2,800-3,500 sq ft needs 4.5-5.5 tons, and 3,500+ sq ft may need 5.5-7+ tons or multiple systems. Oversized systems waste energy and fail to dehumidify, while undersized systems can't cool during 110-degree peaks. Trust our 45+ years of Marana experience over online calculators—we'll get it right."
+            "content": "What size AC system do I need for my Marana home? Proper sizing is critical and depends on many factors beyond just square footage. We perform detailed Manual J load calculations accounting for your home's specific characteristics: square footage and floor plan layout, insulation levels (R-values for walls, ceilings, floors), window quantity, size, efficiency, and orientation, ceiling heights, occupancy patterns, and heat-generating appliances. Typical sizing for Marana homes: 1,800-2,200 sq ft needs 3-3.5 tons, 2,200-2,800 sq ft needs 3.5-4.5 tons, 2,800-3,500 sq ft needs 4.5-5.5 tons, and 3,500+ sq ft may need 5.5-7+ tons or multiple systems. Oversized systems waste energy and fail to dehumidify, while undersized systems can't cool during 110-degree peaks. Trust our 46+ years of Marana experience over online calculators—we'll get it right."
       },
       {
             "type": "paragraph",
@@ -592,7 +592,7 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Maximizing HVAC efficiency in Marana's extreme climate can reduce your energy bills $800-1,800 annually while improving comfort. Here are proven strategies from our 45+ years serving Marana homeowners:"
+            "content": "Maximizing HVAC efficiency in Marana's extreme climate can reduce your energy bills $800-1,800 annually while improving comfort. Here are proven strategies from our 46+ years serving Marana homeowners:"
       },
       {
             "type": "paragraph",

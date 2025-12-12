@@ -23,7 +23,7 @@ export const heatingcoronadetucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Corona de Tucson",
+    "title": "46+ years Serving Corona de Tucson",
     "description": "Local expertise since 1979. We know Corona de Tucson heating systems, climate considerations, and efficiency solutions inside and out."
   },
   {
@@ -115,7 +115,7 @@ export const heatingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Corona de Tucson"
+            "content": "46+ years Serving Corona de Tucson"
       },
       {
             "type": "paragraph",

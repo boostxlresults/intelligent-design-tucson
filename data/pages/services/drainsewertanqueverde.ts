@@ -22,7 +22,7 @@ export const drainsewertanqueverdeData: ServicePageData = {
   highlights: [
     {
       "title": "Tanque Verde Drain Specialists",
-      "description": "45+ years serving Tanque Verde families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Tanque Verde families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

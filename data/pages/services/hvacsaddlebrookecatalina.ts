@@ -22,7 +22,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused HVAC Specialists",
-      "description": "45+ years serving active adult communities | Patient, clear communication | Average 62-minute response time"
+      "description": "46+ years serving active adult communities | Patient, clear communication | Average 62-minute response time"
     },
     {
       "title": "NATE-Certified Technicians",

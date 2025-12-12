@@ -24,7 +24,7 @@ export const heatingsaddlebrookeData: ServicePageData = {
   highlights: [
   {
     "title": "SaddleBrooke Specialists Since 1979",
-    "description": "45+ years serving active adult communities | Senior-focused service approach | Age 55+ community expertise | Respectful, patient technicians | Energy efficiency specialists"
+    "description": "46+ years serving active adult communities | Senior-focused service approach | Age 55+ community expertise | Respectful, patient technicians | Energy efficiency specialists"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -87,7 +87,7 @@ export const heatingsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Active Adult Community Expertise: Since 1979, we've specialized in serving active adult communities throughout greater Tucson, understanding the unique priorities of residents ages 55 and older. Our technicians know how to properly size heating equipment for right-sized SaddleBrooke homes (1,200-3,500 sq ft), optimize energy efficiency for fixed-income budgets, accommodate seasonal residents' schedules and winterization needs, respect HOA requirements and community standards, provide clear, jargon-free explanations of technical issues, and deliver honest recommendations without high-pressure sales tactics. We've installed and serviced over 2,400 heating systems in SaddleBrooke, SaddleBrooke Ranch, and surrounding active adult communities, giving us unmatched understanding of this market's heating needs."
+            "content": "46+ years of Active Adult Community Expertise: Since 1979, we've specialized in serving active adult communities throughout greater Tucson, understanding the unique priorities of residents ages 55 and older. Our technicians know how to properly size heating equipment for right-sized SaddleBrooke homes (1,200-3,500 sq ft), optimize energy efficiency for fixed-income budgets, accommodate seasonal residents' schedules and winterization needs, respect HOA requirements and community standards, provide clear, jargon-free explanations of technical issues, and deliver honest recommendations without high-pressure sales tactics. We've installed and serviced over 2,400 heating systems in SaddleBrooke, SaddleBrooke Ranch, and surrounding active adult communities, giving us unmatched understanding of this market's heating needs."
       },
       {
             "type": "paragraph",
@@ -107,7 +107,7 @@ export const heatingsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Family Values, Military Precision, Senior Respect: As a family-owned and veteran-operated company, we bring military discipline and family values to every SaddleBrooke service call: arrive on time with clear communication, explain technical issues patiently and thoroughly, provide written documentation of all work, respect your home as if it were our own, clean up meticulously after work, and follow up to ensure your complete satisfaction. Our background-checked, drug-tested, uniformed technicians represent our family name on every call. We've earned SaddleBrooke's trust through consistent excellence, honest recommendations, respectful service, and reliable heating solutions for 45+ years. Learn more about our commitment to [link:/customer-reviews|customer satisfaction] and see what your SaddleBrooke neighbors say about our senior-focused service."
+            "content": "Family Values, Military Precision, Senior Respect: As a family-owned and veteran-operated company, we bring military discipline and family values to every SaddleBrooke service call: arrive on time with clear communication, explain technical issues patiently and thoroughly, provide written documentation of all work, respect your home as if it were our own, clean up meticulously after work, and follow up to ensure your complete satisfaction. Our background-checked, drug-tested, uniformed technicians represent our family name on every call. We've earned SaddleBrooke's trust through consistent excellence, honest recommendations, respectful service, and reliable heating solutions for 46+ years. Learn more about our commitment to [link:/customer-reviews|customer satisfaction] and see what your SaddleBrooke neighbors say about our senior-focused service."
       },
       {
             "type": "heading",

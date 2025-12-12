@@ -72,7 +72,7 @@ export const solarCategoryData: ServiceCategoryData = {
     },
     {
       title: 'Proven Track Record',
-      description: '45+ years serving Tucson homes with 22,000+ five-star reviews across all services.'
+      description: '46+ years serving Tucson homes with 22,000+ five-star reviews across all services.'
     }
   ]
 };

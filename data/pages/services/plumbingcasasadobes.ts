@@ -25,7 +25,7 @@ export const plumbingcasasadobesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Casas Adobes Families",
+    "title": "46+ years Serving Casas Adobes Families",
     "description": "Local expertise since 1979 serving three generations of Casas Adobes homeowners. We know the plumbing challenges of 1970s-90s homes and Tucson's hard water conditions inside and out."
   },
   {

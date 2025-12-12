@@ -25,7 +25,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Corona de Tucson",
+    "title": "46+ years Serving Corona de Tucson",
     "description": "Local expertise since 1979. We understand Corona de Tucson's newer developments, equestrian property needs, and rural electrical requirements."
   },
   {
@@ -274,7 +274,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Corona de Tucson - Local expertise since 1979. We understand Corona de Tucson's newer developments, equestrian property needs, and rural electrical requirements inside and out."
+            "content": "46+ years Serving Corona de Tucson - Local expertise since 1979. We understand Corona de Tucson's newer developments, equestrian property needs, and rural electrical requirements inside and out."
       },
       {
             "type": "paragraph",

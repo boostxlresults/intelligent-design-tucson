@@ -28,7 +28,7 @@ const faqs = [
   },
   {
     question: "What makes Intelligent Design different from other Tucson contractors?",
-    answer: "As a family and veteran-owned business serving Tucson for over 45 years, we combine decades of experience with cutting-edge technology and genuine care for our community. With 22,000+ five-star reviews, BBB A+ rating, and our commitment to never upsell unnecessary services, we've built our reputation on honesty and quality workmanship.",
+    answer: "Intelligent Design, founded in 2011, united with Wood's Plumbing (est. 1979) to bring you 46+ years of combined home services expertise. As a family and veteran-owned business, we combine decades of experience with cutting-edge technology and genuine care for our community. With 22,000+ five-star reviews, BBB A+ rating, and our commitment to never upsell unnecessary services, we've built our reputation on honesty and quality workmanship.",
   },
   {
     question: "How much does AC repair cost in Tucson?",

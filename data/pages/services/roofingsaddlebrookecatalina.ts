@@ -22,7 +22,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Roofing Specialists",
-      "description": "45+ years serving active adult communities | Clear communication | Detailed written estimates without pressure"
+      "description": "46+ years serving active adult communities | Clear communication | Detailed written estimates without pressure"
     },
     {
       "title": "Licensed & Fully Insured",

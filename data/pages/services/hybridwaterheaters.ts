@@ -42,7 +42,7 @@ export const hybridwaterheatersData: ServicePageData = {
     "description": "Rheem, AO Smith, Bradford White | Energy Star certified | 10-year warranties | Proven reliability"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Transparent pricing | Satisfaction guaranteed"
   }
 ],
@@ -691,7 +691,7 @@ export const hybridwaterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's unique characteristics make it ideal for hybrid water heater performance. Our climate provides year-round warm temperatures perfect for heat pump efficiency, with ambient garage/utility room temperatures staying in the optimal 50-90°F range even in winter. Tucson's high electricity rates ($0.11-$0.13/kWh) mean greater savings potential compared to regions with cheaper power. Our abundant sunshine makes [link:/services/residential-solar-installation|solar panel integration] highly effective, potentially reducing water heating costs to near-zero. However, Tucson's extreme hard water requires professional installation with proper preparation and consideration for long-term maintenance. Our 45+ years of Tucson experience means we understand exactly how to optimize hybrid water heater installation for maximum performance and longevity in our unique desert environment."
+            "content": "Tucson's unique characteristics make it ideal for hybrid water heater performance. Our climate provides year-round warm temperatures perfect for heat pump efficiency, with ambient garage/utility room temperatures staying in the optimal 50-90°F range even in winter. Tucson's high electricity rates ($0.11-$0.13/kWh) mean greater savings potential compared to regions with cheaper power. Our abundant sunshine makes [link:/services/residential-solar-installation|solar panel integration] highly effective, potentially reducing water heating costs to near-zero. However, Tucson's extreme hard water requires professional installation with proper preparation and consideration for long-term maintenance. Our 46+ years of Tucson experience means we understand exactly how to optimize hybrid water heater installation for maximum performance and longevity in our unique desert environment."
       },
       {
             "type": "heading",

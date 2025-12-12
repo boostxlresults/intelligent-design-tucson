@@ -24,7 +24,7 @@ export const heatingrillitoData: ServicePageData = {
   highlights: [
   {
     "title": "Rural Rillito Heating Specialists",
-    "description": "45+ years serving Rillito | Rural property expertise | Propane & natural gas systems | Desert-rated equipment | Larger home experience | Well water integration"
+    "description": "46+ years serving Rillito | Rural property expertise | Propane & natural gas systems | Desert-rated equipment | Larger home experience | Well water integration"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -87,7 +87,7 @@ export const heatingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Rural Northwest Tucson Expertise: Since 1979, we've specialized in serving rural communities like Rillito, understanding the unique challenges of propane heating systems, larger square footages, rural ductwork requirements, and integration with well water systems. Our technicians know how to properly size heating equipment for 2,500-4,000+ sq ft homes, design efficient ductwork for rural floor plans, optimize propane consumption for cost efficiency, and integrate heating with alternative energy systems. We've installed and serviced over 1,200 heating systems in Rillito and northwest Tucson rural properties, giving us unmatched experience with this area's specific heating needs."
+            "content": "46+ years of Rural Northwest Tucson Expertise: Since 1979, we've specialized in serving rural communities like Rillito, understanding the unique challenges of propane heating systems, larger square footages, rural ductwork requirements, and integration with well water systems. Our technicians know how to properly size heating equipment for 2,500-4,000+ sq ft homes, design efficient ductwork for rural floor plans, optimize propane consumption for cost efficiency, and integrate heating with alternative energy systems. We've installed and serviced over 1,200 heating systems in Rillito and northwest Tucson rural properties, giving us unmatched experience with this area's specific heating needs."
       },
       {
             "type": "paragraph",
@@ -107,7 +107,7 @@ export const heatingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Family Values, Military Precision: As a family-owned and veteran-operated company, we bring military discipline to every rural service call: arrive on time with fully-stocked service vehicles, complete thorough diagnostics before recommending solutions, clean up meticulously after work, follow up to ensure your complete satisfaction, and respect your property as if it were our own. Our background-checked, drug-tested, uniformed technicians represent our family name on every call. We've earned Rillito's trust through consistent excellence, honest recommendations, and reliable service for 45+ years. Learn more about our commitment to [link:/customer-reviews|customer satisfaction] and see what your rural neighbors say about our service."
+            "content": "Family Values, Military Precision: As a family-owned and veteran-operated company, we bring military discipline to every rural service call: arrive on time with fully-stocked service vehicles, complete thorough diagnostics before recommending solutions, clean up meticulously after work, follow up to ensure your complete satisfaction, and respect your property as if it were our own. Our background-checked, drug-tested, uniformed technicians represent our family name on every call. We've earned Rillito's trust through consistent excellence, honest recommendations, and reliable service for 46+ years. Learn more about our commitment to [link:/customer-reviews|customer satisfaction] and see what your rural neighbors say about our service."
       },
       {
             "type": "heading",

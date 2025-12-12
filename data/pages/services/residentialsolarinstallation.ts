@@ -5,13 +5,13 @@ import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 export const residentialsolarinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Solar Installation Tucson AZ | Home Solar Panel Installation',
-  description: 'Professional residential solar installation in Tucson. Premium panels, 30% tax credit, expert design & installation. 45+ years experience. Call (520) 333-2665 for free solar consultation.',
+  description: 'Professional residential solar installation in Tucson. Premium panels, 30% tax credit, expert design & installation. 46+ years experience. Call (520) 333-2665 for free solar consultation.',
   slug: 'residential-solar-installation',
   
   // Hero Section
   h1: 'Residential Solar Installation Tucson AZ',
   h2Subheading: 'Expert Residential Solar Installation in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence | 45+ Years Experience',
+  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence | 46+ years Experience',
   heroImage: '/generated_images/Residential_solar_panel_installation_23ee301f.webp',
   heroImageAlt: 'Residential Solar Installation in Tucson',
   
@@ -34,7 +34,7 @@ export const residentialsolarinstallationData: ServicePageData = {
     "description": "Detailed energy analysis | Optimal panel placement | Shade assessment | Production guarantees"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Local knowledge | Trusted since 1979"
   },
   {
@@ -72,7 +72,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 3,200 Tucson families transition to clean, renewable solar power since expanding our solar division in 2015. Our [link:knowledgehub.companyHistory:45+ years serving Tucson] gives us unique insight into local conditions, utility regulations, and permitting requirements. We design every system to maximize production in Tucson's climate while withstanding our monsoon season winds and extreme temperature swings. Our expertise ensures your solar investment delivers maximum returns for decades to come."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 3,200 Tucson families transition to clean, renewable solar power since expanding our solar division in 2015. Our [link:knowledgehub.companyHistory:46+ years serving Tucson] gives us unique insight into local conditions, utility regulations, and permitting requirements. We design every system to maximize production in Tucson's climate while withstanding our monsoon season winds and extreme temperature swings. Our expertise ensures your solar investment delivers maximum returns for decades to come."
       },
       {
             "type": "heading",

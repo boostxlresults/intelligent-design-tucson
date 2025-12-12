@@ -8,7 +8,7 @@ const badges = [
   },
   {
     icon: Award,
-    title: "45+ Years Experience",
+    title: "46+ Years Experience",
     description: "Serving Tucson since 1979",
   },
   {

@@ -25,7 +25,7 @@ export const electricalpanelupgradesData: ServicePageData = {
   highlights: [
   {
     "title": "Licensed & Experienced Electricians",
-    "description": "ROC licensed professionals | 45+ years experience | Expert panel installations | Code-compliant work"
+    "description": "ROC licensed professionals | 46+ years experience | Expert panel installations | Code-compliant work"
   },
   {
     "title": "Complete Panel Upgrade Services",
@@ -234,7 +234,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Upgrading an electrical panel is a complex process requiring expertise, proper permitting, and coordination with your utility company. At Intelligent Design, we've refined our installation process over 45+ years and thousands of panel upgrades to ensure safety, code compliance, minimal disruption, and long-term reliability. When you choose us for your panel upgrade, we handle every detail from initial assessment through final documentation:"
+            "content": "Upgrading an electrical panel is a complex process requiring expertise, proper permitting, and coordination with your utility company. At Intelligent Design, we've refined our installation process over 46+ years and thousands of panel upgrades to ensure safety, code compliance, minimal disruption, and long-term reliability. When you choose us for your panel upgrade, we handle every detail from initial assessment through final documentation:"
       },
       {
             "type": "heading",
@@ -593,7 +593,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Local Expertise & Reputation: Serving Tucson since 1979 (45+ years), we've completed over 15,000 electrical panel upgrades throughout Pima County—more than any other local electrical contractor. Our 4.97-star rating from 22,000+ verified Google reviews represents the highest customer satisfaction in Southern Arizona's electrical industry. We maintain BBB A+ accreditation, ROC licensing in good standing, full bonding and insurance protecting your property, and memberships in NECA (National Electrical Contractors Association) and IAEI (International Association of Electrical Inspectors). Our family-owned, veteran-operated business prioritizes long-term customer relationships over short-term profits—we'll still be here in 20 years when you need our services again."
+            "content": "Unmatched Local Expertise & Reputation: Serving Tucson since 1979 (46+ years), we've completed over 15,000 electrical panel upgrades throughout Pima County—more than any other local electrical contractor. Our 4.97-star rating from 22,000+ verified Google reviews represents the highest customer satisfaction in Southern Arizona's electrical industry. We maintain BBB A+ accreditation, ROC licensing in good standing, full bonding and insurance protecting your property, and memberships in NECA (National Electrical Contractors Association) and IAEI (International Association of Electrical Inspectors). Our family-owned, veteran-operated business prioritizes long-term customer relationships over short-term profits—we'll still be here in 20 years when you need our services again."
       },
       {
             "type": "paragraph",
@@ -709,7 +709,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Tucson's most-trusted electrical contractor with 45+ years of local experience, we've completed over 15,000 panel upgrades throughout Pima County. Our 4.97-star rating from 22,000+ customer reviews reflects our commitment to quality workmanship, honest service, and customer satisfaction that keeps Tucson families referring us to friends and neighbors year after year. Whether you need emergency panel replacement for safety concerns, planned upgrades to enable home improvements, or proactive modernization of aging electrical systems, we handle every detail with the professionalism and expertise you deserve. Call (520) 333-2665 today to schedule your free electrical panel assessment, or book online at your convenience. Our licensed electricians are ready to answer your questions, assess your electrical system, and provide the expert guidance you need to make informed decisions about your home's electrical future. Trust Tucson's #1 rated electrical contractor for panel upgrades that protect your family, power your home, and provide value for decades to come."
+            "content": "As Tucson's most-trusted electrical contractor with 46+ years of local experience, we've completed over 15,000 panel upgrades throughout Pima County. Our 4.97-star rating from 22,000+ customer reviews reflects our commitment to quality workmanship, honest service, and customer satisfaction that keeps Tucson families referring us to friends and neighbors year after year. Whether you need emergency panel replacement for safety concerns, planned upgrades to enable home improvements, or proactive modernization of aging electrical systems, we handle every detail with the professionalism and expertise you deserve. Call (520) 333-2665 today to schedule your free electrical panel assessment, or book online at your convenience. Our licensed electricians are ready to answer your questions, assess your electrical system, and provide the expert guidance you need to make informed decisions about your home's electrical future. Trust Tucson's #1 rated electrical contractor for panel upgrades that protect your family, power your home, and provide value for decades to come."
       },
   ]
   },

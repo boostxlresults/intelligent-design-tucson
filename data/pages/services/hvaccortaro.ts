@@ -23,7 +23,7 @@ export const hvaccortaroData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Cortaro",
+    "title": "46+ years Serving Cortaro",
     "description": "Local expertise since 1979. We know Cortaro HVAC systems, climate challenges, and energy efficiency solutions inside and out."
   },
   {
@@ -507,7 +507,7 @@ export const hvaccortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Cortaro"
+            "content": "46+ years Serving Cortaro"
       },
       {
             "type": "paragraph",
@@ -579,7 +579,7 @@ export const hvaccortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Cortaro's premier HVAC service provider, we've earned community trust through consistent excellence, transparent service, and unwavering commitment to customer satisfaction. Our 45+ years serving Tucson families demonstrates stability and experience unmatched in the industry. We've completed thousands of Cortaro HVAC installations, repairs, and maintenance services, building deep expertise in area-specific climate challenges and home characteristics. Our 22,000+ five-star reviews across Google, Yelp, and Facebook reflect genuine customer satisfaction, not marketing hype. BBB A+ rating since 1979 with zero unresolved complaints proves our commitment to making things right. Our licensed, bonded, and insured technicians undergo extensive background checks and continuous training ensuring professionalism and expertise. We invest in advanced diagnostic technology and quality tools enabling accurate diagnosis and efficient repairs. Our fully-stocked service vehicles carry extensive parts inventory minimizing return trips and completing most repairs same-day. Upfront, transparent pricing before work begins eliminates surprise charges and builds trust. Comprehensive warranties on both workmanship and equipment demonstrate confidence in our installations and repairs. We maintain manufacturer certifications with leading HVAC brands ensuring proper installation and warranty compliance. Our maintenance programs provide scheduled service, priority emergency response, and discounted repairs protecting your HVAC investment. We're locally owned and operated, living and working in the Tucson community we serve. When you call Intelligent Design for Cortaro HVAC service, you're partnering with a company committed to your long-term comfort, satisfaction, and trust."
+            "content": "As Cortaro's premier HVAC service provider, we've earned community trust through consistent excellence, transparent service, and unwavering commitment to customer satisfaction. Our 46+ years serving Tucson families demonstrates stability and experience unmatched in the industry. We've completed thousands of Cortaro HVAC installations, repairs, and maintenance services, building deep expertise in area-specific climate challenges and home characteristics. Our 22,000+ five-star reviews across Google, Yelp, and Facebook reflect genuine customer satisfaction, not marketing hype. BBB A+ rating since 1979 with zero unresolved complaints proves our commitment to making things right. Our licensed, bonded, and insured technicians undergo extensive background checks and continuous training ensuring professionalism and expertise. We invest in advanced diagnostic technology and quality tools enabling accurate diagnosis and efficient repairs. Our fully-stocked service vehicles carry extensive parts inventory minimizing return trips and completing most repairs same-day. Upfront, transparent pricing before work begins eliminates surprise charges and builds trust. Comprehensive warranties on both workmanship and equipment demonstrate confidence in our installations and repairs. We maintain manufacturer certifications with leading HVAC brands ensuring proper installation and warranty compliance. Our maintenance programs provide scheduled service, priority emergency response, and discounted repairs protecting your HVAC investment. We're locally owned and operated, living and working in the Tucson community we serve. When you call Intelligent Design for Cortaro HVAC service, you're partnering with a company committed to your long-term comfort, satisfaction, and trust."
       },
       {
             "type": "heading",
@@ -609,7 +609,7 @@ export const hvaccortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Beyond HVAC, Intelligent Design provides complete home services in Cortaro:\n\n[link:/services/electrical-cortaro|Electrical Services Cortaro] - Panel upgrades, EV chargers, generators, rural electrical, well pump circuits\n\n[link:/services/plumbing-cortaro|Plumbing Services Cortaro] - Repairs, water heaters, leak detection, drain cleaning, sewer service\n\n[link:/services/solar-installation-cortaro|Solar Installation Cortaro] - Residential and commercial solar panel systems, battery storage, energy independence\n\n[link:/services/roofing-cortaro|Roofing Services Cortaro] - Roof installation, repair, replacement, inspection, coating\n\nFamily Protection Plan - Comprehensive maintenance protecting all your home systems with priority service and discounts\n\nExperience the Intelligent Design difference—Cortaro's most trusted HVAC and home service provider since 1979. Call (520) 333-2665 or schedule online today for expert service backed by 45+ years of excellence."
+            "content": "Beyond HVAC, Intelligent Design provides complete home services in Cortaro:\n\n[link:/services/electrical-cortaro|Electrical Services Cortaro] - Panel upgrades, EV chargers, generators, rural electrical, well pump circuits\n\n[link:/services/plumbing-cortaro|Plumbing Services Cortaro] - Repairs, water heaters, leak detection, drain cleaning, sewer service\n\n[link:/services/solar-installation-cortaro|Solar Installation Cortaro] - Residential and commercial solar panel systems, battery storage, energy independence\n\n[link:/services/roofing-cortaro|Roofing Services Cortaro] - Roof installation, repair, replacement, inspection, coating\n\nFamily Protection Plan - Comprehensive maintenance protecting all your home systems with priority service and discounts\n\nExperience the Intelligent Design difference—Cortaro's most trusted HVAC and home service provider since 1979. Call (520) 333-2665 or schedule online today for expert service backed by 46+ years of excellence."
       },
       {
             "type": "heading",
@@ -629,7 +629,7 @@ export const hvaccortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Cortaro's HVAC service leader, we're committed to delivering exceptional value through expert HVAC craftsmanship, honest recommendations prioritizing your comfort and budget, outstanding customer service from first call to project completion, and reliable performance you can count on year after year. Our 45+ years serving Tucson, 22,000+ five-star reviews, thousands of satisfied Cortaro customers, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency AC repair, system replacement, preventive maintenance, ductwork service, or comprehensive HVAC solutions, Intelligent Design provides the expertise, experience, and reliability your Cortaro home deserves. Trust us to protect your family's comfort, enhance your home's efficiency, and deliver HVAC solutions exceeding your expectations for quality, performance, and value. Call (520) 333-2665 today and experience the Intelligent Design difference that thousands of Cortaro families have trusted since 1979."
+            "content": "As Cortaro's HVAC service leader, we're committed to delivering exceptional value through expert HVAC craftsmanship, honest recommendations prioritizing your comfort and budget, outstanding customer service from first call to project completion, and reliable performance you can count on year after year. Our 46+ years serving Tucson, 22,000+ five-star reviews, thousands of satisfied Cortaro customers, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency AC repair, system replacement, preventive maintenance, ductwork service, or comprehensive HVAC solutions, Intelligent Design provides the expertise, experience, and reliability your Cortaro home deserves. Trust us to protect your family's comfort, enhance your home's efficiency, and deliver HVAC solutions exceeding your expectations for quality, performance, and value. Call (520) 333-2665 today and experience the Intelligent Design difference that thousands of Cortaro families have trusted since 1979."
       },
       {
             "type": "heading",

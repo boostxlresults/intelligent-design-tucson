@@ -39,7 +39,7 @@ export const heatpumpsData: ServicePageData = {
   },
   {
     "title": "Expert Installation & Service",
-    "description": "NATE certified technicians | 45+ years experience | All major brands | Maintenance plans available"
+    "description": "NATE certified technicians | 46+ years experience | All major brands | Maintenance plans available"
   },
   {
     "title": "Free In-Home Consultations",

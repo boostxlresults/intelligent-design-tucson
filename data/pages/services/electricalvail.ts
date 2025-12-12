@@ -22,7 +22,7 @@ export const electricalvailData: ServicePageData = {
   highlights: [
   {
     "title": "Rural & Ranch Electrical Experts",
-    "description": "45+ years serving Vail properties | Well pump electrical systems | Barn & outbuilding wiring | Large property lighting | Irrigation system electrical"
+    "description": "46+ years serving Vail properties | Well pump electrical systems | Barn & outbuilding wiring | Large property lighting | Irrigation system electrical"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -511,7 +511,7 @@ export const electricalvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Rural Electrical Expertise: Unlike general electrical contractors, we specialize in rural Vail properties understanding unique challenges including well pump electrical systems and troubleshooting, long property runs and voltage drop calculations, barn and livestock facility electrical requirements, irrigation system electrical and controls, outdoor electrical withstanding extreme desert conditions, generator systems sized for well pump backup, and solar integration for remote properties reducing costs. Our 45+ years serving rural Pima County properties provides deep expertise solving challenges specific to ranch and agricultural electrical needs."
+            "content": "Rural Electrical Expertise: Unlike general electrical contractors, we specialize in rural Vail properties understanding unique challenges including well pump electrical systems and troubleshooting, long property runs and voltage drop calculations, barn and livestock facility electrical requirements, irrigation system electrical and controls, outdoor electrical withstanding extreme desert conditions, generator systems sized for well pump backup, and solar integration for remote properties reducing costs. Our 46+ years serving rural Pima County properties provides deep expertise solving challenges specific to ranch and agricultural electrical needs."
       },
       {
             "type": "paragraph",
@@ -634,7 +634,7 @@ export const electricalvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Rural Electrical Service You Can Trust: For rural Vail properties where electrical reliability directly impacts daily life—from well pump operation providing water access to generator backup during extended outages to barn and livestock facility electrical supporting agricultural operations—choosing the right electrical service provider is critical. Our 45+ years serving rural Pima County properties, specialized rural electrical expertise, rapid emergency response capabilities, and proven track record of excellence make us the obvious choice for discerning Vail property owners who refuse to compromise on electrical service quality, reliability, or professionalism."
+            "content": "Rural Electrical Service You Can Trust: For rural Vail properties where electrical reliability directly impacts daily life—from well pump operation providing water access to generator backup during extended outages to barn and livestock facility electrical supporting agricultural operations—choosing the right electrical service provider is critical. Our 46+ years serving rural Pima County properties, specialized rural electrical expertise, rapid emergency response capabilities, and proven track record of excellence make us the obvious choice for discerning Vail property owners who refuse to compromise on electrical service quality, reliability, or professionalism."
       },
       {
             "type": "paragraph",
@@ -642,7 +642,7 @@ export const electricalvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Schedule Your Vail Electrical Service: For expert electrical service tailored to rural Vail properties—from well pump electrical and generator installations to panel upgrades and barn wiring—contact Intelligent Design today. Call (520) 333-2665 for immediate assistance or schedule online for convenient same-day service. Experience the difference that 45+ years of rural electrical expertise makes for your Vail property."
+            "content": "Schedule Your Vail Electrical Service: For expert electrical service tailored to rural Vail properties—from well pump electrical and generator installations to panel upgrades and barn wiring—contact Intelligent Design today. Call (520) 333-2665 for immediate assistance or schedule online for convenient same-day service. Experience the difference that 46+ years of rural electrical expertise makes for your Vail property."
       }
 ]
   },

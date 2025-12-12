@@ -25,7 +25,7 @@ export const electricalpicturerocksData: ServicePageData = {
     "description": "Specialized in rural desert properties | Well pump electrical systems | Off-grid & solar solutions | Large property outdoor lighting"
   },
   {
-    "title": "45+ Years Tucson Area Service",
+    "title": "46+ years Tucson Area Service",
     "description": "Serving Picture Rocks since 1979 | 85,000+ satisfied customers | Family-owned and operated | Desert electrical specialists"
   },
   {
@@ -321,7 +321,7 @@ export const electricalpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding electrical equipment options for rural desert properties: Picture Rocks homeowners face numerous electrical equipment decisions impacting system performance, reliability, and longevity in extreme desert conditions. This comprehensive comparison guide helps you make informed choices based on 45+ years of rural electrical experience and hundreds of Picture Rocks installations."
+            "content": "Understanding electrical equipment options for rural desert properties: Picture Rocks homeowners face numerous electrical equipment decisions impacting system performance, reliability, and longevity in extreme desert conditions. This comprehensive comparison guide helps you make informed choices based on 46+ years of rural electrical experience and hundreds of Picture Rocks installations."
       },
       {
             "type": "heading",
@@ -562,7 +562,7 @@ export const electricalpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design meets all these criteria while adding 45+ years of Tucson-area experience, 22,000+ five-star reviews, BBB A+ rating, and complete home service capabilities (electrical, HVAC, plumbing, solar) providing integrated solutions. Our licensed electricians understand Picture Rocks' unique challenges and deliver the quality workmanship your property deserves."
+            "content": "Intelligent Design meets all these criteria while adding 46+ years of Tucson-area experience, 22,000+ five-star reviews, BBB A+ rating, and complete home service capabilities (electrical, HVAC, plumbing, solar) providing integrated solutions. Our licensed electricians understand Picture Rocks' unique challenges and deliver the quality workmanship your property deserves."
       },
       {
             "type": "heading",

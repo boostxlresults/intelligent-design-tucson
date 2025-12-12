@@ -22,7 +22,7 @@ export const drainsewereasttucsonData: ServicePageData = {
   highlights: [
     {
       "title": "East Tucson Drain Specialists",
-      "description": "45+ years serving East Tucson families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving East Tucson families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

@@ -22,7 +22,7 @@ export const electricaltanqueverdeData: ServicePageData = {
   highlights: [
   {
     "title": "Luxury Home Electrical Experts",
-    "description": "45+ years serving Tanque Verde | Custom home specialists | Smart home integration | Pool/spa electrical | Outdoor living systems | High-end installations"
+    "description": "46+ years serving Tanque Verde | Custom home specialists | Smart home integration | Pool/spa electrical | Outdoor living systems | High-end installations"
   },
   {
     "title": "ServiceTitan Rapid Response",

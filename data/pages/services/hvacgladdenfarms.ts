@@ -24,7 +24,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Gladden Farms HVAC Excellence",
+    "title": "46+ years Gladden Farms HVAC Excellence",
     "description": "Local expertise since 1979 | Deep understanding of Marana-area climate challenges | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {

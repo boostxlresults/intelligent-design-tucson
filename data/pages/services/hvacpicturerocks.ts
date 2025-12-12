@@ -24,7 +24,7 @@ export const hvacpicturerocksData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Picture Rocks",
+    "title": "46+ years Serving Picture Rocks",
     "description": "Local expertise since 1979. We know Picture Rocks HVAC systems, climate challenges, and energy efficiency solutions inside and out."
   },
   {
@@ -85,7 +85,7 @@ export const hvacpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Commitment: Intelligent Design has been the #1 rated HVAC company in greater Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from Picture Rocks customers. We're a family-owned, veteran-operated company with deep roots in the Tucson community—not a franchise or national chain prioritizing corporate profits over customer satisfaction. Our commitment to transparent [link:/financing|upfront pricing] means you receive detailed written estimates before any work begins, with no hidden fees, surprise charges, or pressure tactics. We offer multiple repair options when available, honestly advising when repairs make more sense than replacement even if it means smaller revenue for us. Our comprehensive warranties protect your investment including workmanship guarantees on all repairs and installations, manufacturer warranties on equipment and parts, and extended warranty options for added peace of mind. When your Picture Rocks neighbors need HVAC service, they call Intelligent Design and confidently refer us to family and friends—trust built through 45+ years of quality work, honest recommendations, and exceptional customer service."
+            "content": "Proven Track Record & Community Commitment: Intelligent Design has been the #1 rated HVAC company in greater Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from Picture Rocks customers. We're a family-owned, veteran-operated company with deep roots in the Tucson community—not a franchise or national chain prioritizing corporate profits over customer satisfaction. Our commitment to transparent [link:/financing|upfront pricing] means you receive detailed written estimates before any work begins, with no hidden fees, surprise charges, or pressure tactics. We offer multiple repair options when available, honestly advising when repairs make more sense than replacement even if it means smaller revenue for us. Our comprehensive warranties protect your investment including workmanship guarantees on all repairs and installations, manufacturer warranties on equipment and parts, and extended warranty options for added peace of mind. When your Picture Rocks neighbors need HVAC service, they call Intelligent Design and confidently refer us to family and friends—trust built through 46+ years of quality work, honest recommendations, and exceptional customer service."
       },
       {
             "type": "paragraph",

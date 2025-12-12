@@ -8,7 +8,7 @@ export default function SEOContent() {
           </h2>
           
           <p className="text-muted-foreground leading-relaxed mb-6">
-            When your home comfort system needs attention, you need a team you can trust. Intelligent Design has been serving Tucson families and businesses for over 45 years, providing expert HVAC repair, plumbing services, solar installation, electrical work, and roofing solutions throughout the greater Tucson area.
+            When your home comfort system needs attention, you need a team you can trust. Intelligent Design, founded in 2011, united with Wood's Plumbing (est. 1979) to bring you 46+ years of combined home services expertise. We provide expert HVAC repair, plumbing services, solar installation, electrical work, and roofing solutions throughout the greater Tucson area.
           </p>
 
           <h3 className="text-2xl font-bold text-foreground mt-8 mb-4">
@@ -85,7 +85,7 @@ export default function SEOContent() {
             Why Choose Intelligent Design?
           </h3>
           <ul className="list-disc list-inside text-muted-foreground mb-6 space-y-2">
-            <li><strong>45+ Years of Experience:</strong> Family and veteran-owned, serving Tucson since 1979</li>
+            <li><strong>46+ Years of Experience:</strong> Intelligent Design (est. 2011) united with Wood's Plumbing (est. 1979) — serving Tucson's families for over four decades</li>
             <li><strong>22,000+ Five-Star Reviews:</strong> 4.97 rating across multiple platforms</li>
             <li><strong>BBB A+ Rating:</strong> Committed to ethical business practices</li>
             <li><strong>Licensed & Insured:</strong> All technicians fully certified</li>

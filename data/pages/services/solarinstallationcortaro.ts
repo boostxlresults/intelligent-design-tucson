@@ -25,7 +25,7 @@ export const solarinstallationcortaroData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Cortaro",
+    "title": "46+ years Serving Cortaro",
     "description": "Local expertise since 1979. We understand Cortaro's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -514,7 +514,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Cortaro"
+            "content": "46+ years Serving Cortaro"
       },
       {
             "type": "paragraph",
@@ -647,7 +647,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Go Solar in Cortaro?",
-            "content": "Get your free solar consultation and custom quote today. Our Cortaro solar experts provide honest assessments, transparent pricing, and quality installations backed by 45+ years of experience. Call (520) 333-2665 to start saving with solar energy.",
+            "content": "Get your free solar consultation and custom quote today. Our Cortaro solar experts provide honest assessments, transparent pricing, and quality installations backed by 46+ years of experience. Call (520) 333-2665 to start saving with solar energy.",
             "buttonText": "Schedule Free Consultation",
             "buttonLink": "tel:+15203332665"
       },

@@ -25,7 +25,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Corona de Tucson",
+    "title": "46+ years Serving Corona de Tucson",
     "description": "Local expertise since 1979. We understand Corona de Tucson's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -606,7 +606,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Corona de Tucson"
+            "content": "46+ years Serving Corona de Tucson"
       },
       {
             "type": "paragraph",

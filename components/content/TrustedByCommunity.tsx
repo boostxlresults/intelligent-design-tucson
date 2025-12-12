@@ -6,7 +6,7 @@ export default function TrustedByCommunity() {
       icon: Users,
       value: "100,000+",
       label: "Tucson Families Served",
-      description: "Since 1979"
+      description: "Serving the community since 1979"
     },
     {
       icon: Star,
@@ -16,7 +16,7 @@ export default function TrustedByCommunity() {
     },
     {
       icon: Award,
-      value: "45+",
+      value: "46+",
       label: "Years of Excellence",
       description: "Family & veteran-owned"
     },
@@ -35,7 +35,7 @@ export default function TrustedByCommunity() {
     },
     {
       title: "Giving Back to Tucson",
-      description: "We actively support Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs because this community has supported us for over 45 years."
+      description: "We actively support Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs because this community has supported us for over 46 years."
     },
     {
       title: "Creating Local Jobs",
@@ -127,8 +127,8 @@ export default function TrustedByCommunity() {
               <div className="flex items-center gap-2">
                 <Heart className="h-8 w-8 text-primary" data-testid="icon-family" />
                 <div className="text-left">
-                  <div className="font-semibold text-lg">Family-Owned Since 2009</div>
-                  <div className="text-sm text-muted-foreground">Building on a family legacy dating back to 1979</div>
+                  <div className="font-semibold text-lg">Family-Owned Since 2011</div>
+                  <div className="text-sm text-muted-foreground">United with Wood's Plumbing (est. 1979) in 2022</div>
                 </div>
               </div>
             </div>

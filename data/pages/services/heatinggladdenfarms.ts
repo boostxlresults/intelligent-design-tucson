@@ -23,7 +23,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Gladden Farms",
+    "title": "46+ years Serving Gladden Farms",
     "description": "Local expertise since 1979. We know Gladden Farms heating systems, climate considerations, and efficiency solutions inside and out."
   },
   {
@@ -155,7 +155,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Gladden Farms"
+            "content": "46+ years Serving Gladden Farms"
       },
       {
             "type": "paragraph",
@@ -586,7 +586,7 @@ export const heatinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Gladden Farms master-planned community offers exceptional quality of life with top-rated schools, walking trails, parks, and Town Square amenities. We're proud to serve this growing northwest Tucson community with the same commitment to excellence Gladden Farms families expect. Our technicians live in northwest Tucson and understand the pride Gladden Farms homeowners take in their properties. We coordinate all work to meet HOA requirements for equipment placement, screening, and aesthetics. For comprehensive heating service backed by 45+ years of Tucson expertise and understanding of modern master-planned community standards, trust Intelligent Design. Learn more about our [link:/services/ac-repair-tucson|air conditioning repair services], [link:/services/smart-thermostat-installation-tucson|smart thermostat installation], and [link:/services/hvac-tucson|commercial HVAC solutions] for Gladden Farms businesses."
+            "content": "Gladden Farms master-planned community offers exceptional quality of life with top-rated schools, walking trails, parks, and Town Square amenities. We're proud to serve this growing northwest Tucson community with the same commitment to excellence Gladden Farms families expect. Our technicians live in northwest Tucson and understand the pride Gladden Farms homeowners take in their properties. We coordinate all work to meet HOA requirements for equipment placement, screening, and aesthetics. For comprehensive heating service backed by 46+ years of Tucson expertise and understanding of modern master-planned community standards, trust Intelligent Design. Learn more about our [link:/services/ac-repair-tucson|air conditioning repair services], [link:/services/smart-thermostat-installation-tucson|smart thermostat installation], and [link:/services/hvac-tucson|commercial HVAC solutions] for Gladden Farms businesses."
       },
       {
             "type": "heading",

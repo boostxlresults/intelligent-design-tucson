@@ -25,7 +25,7 @@ export const plumbingdrexelheightsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Drexel Heights",
+    "title": "46+ years Serving Drexel Heights",
     "description": "Local expertise since 1979. We know Drexel Heights plumbing systems, water conditions, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const plumbingdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Drexel Heights"
+            "content": "46+ years Serving Drexel Heights"
       },
       {
             "type": "paragraph",

@@ -24,7 +24,7 @@ export const hvacsaddlebrookeData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving SaddleBrooke",
+    "title": "46+ years Serving SaddleBrooke",
     "description": "Local expertise since 1979 | Deep understanding of SaddleBrooke's luxury retirement community | 55+ community specialists | Resort-standard service excellence"
   },
   {
@@ -623,7 +623,7 @@ export const hvacsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What makes Intelligent Design the right choice for SaddleBrooke luxury homes? We've earned SaddleBrooke homeowners' trust through unwavering commitment to luxury service standards, technical excellence, and complete satisfaction. Unmatched experience: 45+ years serving Tucson (since 1979) with 25+ years specifically serving SaddleBrooke's unique luxury market earning trust of hundreds of homeowners. Premium expertise: Factory-certified on ultra-premium brands (Carrier Infinity, Lennox Signature, Trane XV, Mitsubishi) with specialized training in wine room climate control, multi-zone systems, and whole-home automation integration. Quality obsession: BBB A+ rating and 22,000+ five-star reviews reflecting consistent delivery of exceptional service worthy of SaddleBrooke's standards. White-glove service: Senior technicians, immaculate home protection protocols, professional appearance and communication, and meticulous attention to detail protecting your valuable investment. Transparent integrity: Upfront pricing, honest recommendations prioritizing your interests, comprehensive warranties, and 100% satisfaction guarantee. Luxury lifestyle focus: Understanding snowbird needs, coordinating with property managers, flexible scheduling, and emergency support protecting your home during travel. Choosing Intelligent Design means partnering with Tucson's most trusted HVAC company delivering luxury service excellence SaddleBrooke homeowners expect and deserve."
+            "content": "What makes Intelligent Design the right choice for SaddleBrooke luxury homes? We've earned SaddleBrooke homeowners' trust through unwavering commitment to luxury service standards, technical excellence, and complete satisfaction. Unmatched experience: 46+ years serving Tucson (since 1979) with 25+ years specifically serving SaddleBrooke's unique luxury market earning trust of hundreds of homeowners. Premium expertise: Factory-certified on ultra-premium brands (Carrier Infinity, Lennox Signature, Trane XV, Mitsubishi) with specialized training in wine room climate control, multi-zone systems, and whole-home automation integration. Quality obsession: BBB A+ rating and 22,000+ five-star reviews reflecting consistent delivery of exceptional service worthy of SaddleBrooke's standards. White-glove service: Senior technicians, immaculate home protection protocols, professional appearance and communication, and meticulous attention to detail protecting your valuable investment. Transparent integrity: Upfront pricing, honest recommendations prioritizing your interests, comprehensive warranties, and 100% satisfaction guarantee. Luxury lifestyle focus: Understanding snowbird needs, coordinating with property managers, flexible scheduling, and emergency support protecting your home during travel. Choosing Intelligent Design means partnering with Tucson's most trusted HVAC company delivering luxury service excellence SaddleBrooke homeowners expect and deserve."
       },
       {
             "type": "paragraph",

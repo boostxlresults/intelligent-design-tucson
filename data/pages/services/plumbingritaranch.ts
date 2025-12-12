@@ -25,7 +25,7 @@ export const plumbingritaranchData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Rita Ranch",
+    "title": "46+ years Serving Rita Ranch",
     "description": "Local expertise since 1979. We know Rita Ranch plumbing systems, water conditions, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const plumbingritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Rita Ranch"
+            "content": "46+ years Serving Rita Ranch"
       },
       {
             "type": "paragraph",

@@ -42,7 +42,7 @@ export const watersoftenersData: ServicePageData = {
     "description": "7-day automatic maintenance | Prevents stagnant water | Energy saving | Travel with confidence"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | Expert installation | 22,000+ reviews | Free water testing"
   }
 ],

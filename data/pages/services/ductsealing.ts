@@ -42,7 +42,7 @@ export const ductsealingData: ServicePageData = {
     "description": "Eliminate hot/cold rooms | Reduce dust & allergens | Quieter HVAC operation | Healthier home"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ five-star reviews | Free estimates | Satisfaction guaranteed"
   }
 ],

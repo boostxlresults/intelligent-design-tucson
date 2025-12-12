@@ -25,7 +25,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
     "description": "Specialized expertise in Gladden Farms homes | New construction electrical systems | Modern electrical loads | Smart home integration"
   },
   {
-    "title": "45+ Years Tucson Area Expertise",
+    "title": "46+ years Tucson Area Expertise",
     "description": "Serving Marana & Gladden Farms since 1979 | 85,000+ satisfied customers | Family-owned and operated | Deep local electrical knowledge"
   },
   {
@@ -594,7 +594,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready to experience Tucson's highest-rated electrical service? Our licensed master electricians are ready to serve your Gladden Farms home with expert electrical solutions backed by 45+ years of experience, 22,000+ five-star reviews, and our 100% satisfaction guarantee. Whether you need emergency electrical repair, panel upgrade, generator installation, EV charger installation, smart home integration, or any other electrical service, we deliver the quality workmanship and exceptional customer service Gladden Farms families have trusted since 1979."
+            "content": "Ready to experience Tucson's highest-rated electrical service? Our licensed master electricians are ready to serve your Gladden Farms home with expert electrical solutions backed by 46+ years of experience, 22,000+ five-star reviews, and our 100% satisfaction guarantee. Whether you need emergency electrical repair, panel upgrade, generator installation, EV charger installation, smart home integration, or any other electrical service, we deliver the quality workmanship and exceptional customer service Gladden Farms families have trusted since 1979."
       },
       {
             "type": "heading",

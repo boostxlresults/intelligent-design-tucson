@@ -25,7 +25,7 @@ export const roofingpicturerocksData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Picture Rocks",
+    "title": "46+ years Serving Picture Rocks",
     "description": "Local expertise since 1979. We know Picture Rocks roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Picture Rocks"
+            "content": "46+ years Serving Picture Rocks"
       },
       {
             "type": "paragraph",

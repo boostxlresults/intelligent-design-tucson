@@ -23,7 +23,7 @@ export const heatingcortaroData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Cortaro",
+    "title": "46+ years Serving Cortaro",
     "description": "Local expertise since 1979 | Deep understanding of northwest Tucson desert climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -321,11 +321,11 @@ export const heatingcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't let an aging or failing heating system compromise your family's comfort this winter. Whether you need emergency repair for a furnace that's stopped working, professional installation of a new high-efficiency heating system, preventive maintenance to keep your equipment running reliably, or expert advice on the best heating solution for your Cortaro home, Intelligent Design is here to help. Our team of NATE-certified technicians, advanced ServiceTitan dispatch system, fully-stocked service vehicles, and 45+ years of heating expertise ensure you receive the fastest, most professional service available in Cortaro and throughout the Tucson metro area."
+            "content": "Don't let an aging or failing heating system compromise your family's comfort this winter. Whether you need emergency repair for a furnace that's stopped working, professional installation of a new high-efficiency heating system, preventive maintenance to keep your equipment running reliably, or expert advice on the best heating solution for your Cortaro home, Intelligent Design is here to help. Our team of NATE-certified technicians, advanced ServiceTitan dispatch system, fully-stocked service vehicles, and 46+ years of heating expertise ensure you receive the fastest, most professional service available in Cortaro and throughout the Tucson metro area."
       },
       {
             "type": "paragraph",
-            "content": "Contact us today for expert heating service in Cortaro: Call (520) 333-2665 for immediate assistance or emergency service, schedule online for convenient appointment booking and same-day service availability, request a free estimate for new heating system installation or replacement, ask about our maintenance plans for year-round protection and savings, or explore financing options with 0% APR for 60 months on qualifying purchases. When you call, let us know you're in Cortaro, and we'll dispatch the nearest available technician from our fleet of 42 service vehicles to ensure the fastest possible response. Experience the difference that 45+ years of heating expertise, 22,000+ five-star reviews, and BBB A+ accreditation make—choose Intelligent Design for all your Cortaro heating needs."
+            "content": "Contact us today for expert heating service in Cortaro: Call (520) 333-2665 for immediate assistance or emergency service, schedule online for convenient appointment booking and same-day service availability, request a free estimate for new heating system installation or replacement, ask about our maintenance plans for year-round protection and savings, or explore financing options with 0% APR for 60 months on qualifying purchases. When you call, let us know you're in Cortaro, and we'll dispatch the nearest available technician from our fleet of 42 service vehicles to ensure the fastest possible response. Experience the difference that 46+ years of heating expertise, 22,000+ five-star reviews, and BBB A+ accreditation make—choose Intelligent Design for all your Cortaro heating needs."
       }
 ]
   },

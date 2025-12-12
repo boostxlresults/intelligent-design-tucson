@@ -11,7 +11,7 @@ export const commercialroofinspectionData: ServicePageData = {
   // Hero Section
   h1: 'Commercial Roof Inspection Tucson AZ',
   h2Subheading: 'Expert Commercial Roof Inspection in Tucson',
-  tagline: 'Preventative Maintenance | Detailed Reports | Moisture Surveys | Property Management Services | 45+ Years Experience',
+  tagline: 'Preventative Maintenance | Detailed Reports | Moisture Surveys | Property Management Services | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_inspection_professional_ddb06396.webp',
   heroImageAlt: 'Commercial Roof Inspection in Tucson',
   
@@ -34,7 +34,7 @@ export const commercialroofinspectionData: ServicePageData = {
     "description": "Photo documentation | Written findings | Repair recommendations | Cost estimates provided"
   },
   {
-    "title": "45+ Years Inspection Experience",
+    "title": "46+ years Inspection Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Licensed & insured | Trusted since 1979"
   },
   {
@@ -106,7 +106,7 @@ export const commercialroofinspectionData: ServicePageData = {
               {
                 "id": "step-2",
                 "name": "Safety Setup & Roof Access Establishment",
-                "description": "Upon arrival, our licensed commercial roofing inspector establishes comprehensive safety protocols meeting OSHA requirements and protecting your property. We set up warning signage and barriers around building perimeter alerting pedestrians to overhead work and protecting against falling debris. We establish secure roof access using proper ladder placement, fall protection anchors, and personal protective equipment. For multi-story buildings, we coordinate building access, elevator use, and interior passage to roof access points. We inspect roof access hatches, ladders, and permanent access systems for safe condition before use. We document building entry and exit times for security and liability tracking. We identify and mark hazards on roof surface—skylights, roof hatches, low parapets, mechanical equipment—with temporary barriers or caution tape. We establish designated work areas and equipment staging zones minimizing foot traffic across roof surface. For commercial buildings with active HVAC systems, we coordinate with facility management regarding any system shutdowns required for safe inspection. This systematic safety approach, developed over 45+ years of commercial roofing, protects our inspection team, building occupants, and your property throughout the assessment process.",
+                "description": "Upon arrival, our licensed commercial roofing inspector establishes comprehensive safety protocols meeting OSHA requirements and protecting your property. We set up warning signage and barriers around building perimeter alerting pedestrians to overhead work and protecting against falling debris. We establish secure roof access using proper ladder placement, fall protection anchors, and personal protective equipment. For multi-story buildings, we coordinate building access, elevator use, and interior passage to roof access points. We inspect roof access hatches, ladders, and permanent access systems for safe condition before use. We document building entry and exit times for security and liability tracking. We identify and mark hazards on roof surface—skylights, roof hatches, low parapets, mechanical equipment—with temporary barriers or caution tape. We establish designated work areas and equipment staging zones minimizing foot traffic across roof surface. For commercial buildings with active HVAC systems, we coordinate with facility management regarding any system shutdowns required for safe inspection. This systematic safety approach, developed over 46+ years of commercial roofing, protects our inspection team, building occupants, and your property throughout the assessment process.",
                 "duration": "15-20 minutes onsite setup"
               },
               {
@@ -238,7 +238,7 @@ export const commercialroofinspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Optimal commercial roof inspection frequency depends on multiple factors including roof age, system type, building use, warranty requirements, and Tucson climate exposure. Our 45+ years of commercial roofing experience has identified inspection timing strategies maximizing protection while controlling costs across different commercial scenarios."
+            "content": "Optimal commercial roof inspection frequency depends on multiple factors including roof age, system type, building use, warranty requirements, and Tucson climate exposure. Our 46+ years of commercial roofing experience has identified inspection timing strategies maximizing protection while controlling costs across different commercial scenarios."
       },
       {
             "type": "paragraph",

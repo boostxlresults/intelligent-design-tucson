@@ -43,7 +43,7 @@ export const heaterserviceData: ServicePageData = {
   },
   {
     "title": "Expert Technicians",
-    "description": "NATE certified | 45+ years experience | Background-checked professionals | Satisfaction guaranteed"
+    "description": "NATE certified | 46+ years experience | Background-checked professionals | Satisfaction guaranteed"
   }
 ],
   content: {

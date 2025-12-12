@@ -11,7 +11,7 @@ export const solarpanelcostsData: ServicePageData = {
   // Hero Section
   h1: 'Solar Panel Costs Tucson AZ',
   h2Subheading: 'Expert Solar Panel Costs in Tucson',
-  tagline: 'Transparent Pricing | Detailed Cost Breakdown | ROI Analysis | Flexible Financing | 45+ Years Trusted Service',
+  tagline: 'Transparent Pricing | Detailed Cost Breakdown | ROI Analysis | Flexible Financing | 46+ years Trusted Service',
   heroImage: '/generated_images/Solar_panel_costs_investment_bb17047d.webp',
   heroImageAlt: 'Solar Panel Costs in Tucson',
   
@@ -38,7 +38,7 @@ export const solarpanelcostsData: ServicePageData = {
     "description": "Tier-1 panels | 25-year warranties | High efficiency | Best-in-class inverters"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Local pricing knowledge | Trusted since 1979"
   },
   {
@@ -352,7 +352,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Permitting & Interconnection Requirements (Low Impact): Permitting costs are relatively fixed ($600-$1,800) regardless of installer. However, experienced installers like Intelligent Design navigate permitting efficiently, avoiding delays that can extend project timelines by weeks or months. Our 45+ years serving Tucson means we have established relationships with all local permitting authorities, streamlining approvals."
+            "content": "Permitting & Interconnection Requirements (Low Impact): Permitting costs are relatively fixed ($600-$1,800) regardless of installer. However, experienced installers like Intelligent Design navigate permitting efficiently, avoiding delays that can extend project timelines by weeks or months. Our 46+ years serving Tucson means we have established relationships with all local permitting authorities, streamlining approvals."
       },
       {
             "type": "heading",
@@ -444,7 +444,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "10. Work with Established Local Installers: Companies with 10+ years local history are more likely to be around to honor warranties decades from now. Local companies understand Tucson-specific conditions (monsoon wind loads, extreme temperatures, dust accumulation). [link:/services/commercial-solar-installation|Established solar installers] have relationships with local permitting authorities, streamlining approvals and avoiding delays. Our 45+ years serving Tucson families ensures we'll be here to support your solar investment for its entire 25+ year lifespan."
+            "content": "10. Work with Established Local Installers: Companies with 10+ years local history are more likely to be around to honor warranties decades from now. Local companies understand Tucson-specific conditions (monsoon wind loads, extreme temperatures, dust accumulation). [link:/services/commercial-solar-installation|Established solar installers] have relationships with local permitting authorities, streamlining approvals and avoiding delays. Our 46+ years serving Tucson families ensures we'll be here to support your solar investment for its entire 25+ year lifespan."
       },
       {
             "type": "heading",
@@ -506,7 +506,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Lowest-price contractors often cut corners on equipment quality, installation standards, permits, insurance, or support services. These shortcuts create long-term problems including voided warranties, code violations, poor performance, and bankruptcy leaving homeowners without warranty support. Our pricing reflects 45+ years in business, 22,000+ satisfied customers, comprehensive warranties, and ongoing support. This proven track record ensures your solar investment is protected by a stable, reputable company standing behind its work for decades."
+            "content": "Lowest-price contractors often cut corners on equipment quality, installation standards, permits, insurance, or support services. These shortcuts create long-term problems including voided warranties, code violations, poor performance, and bankruptcy leaving homeowners without warranty support. Our pricing reflects 46+ years in business, 22,000+ satisfied customers, comprehensive warranties, and ongoing support. This proven track record ensures your solar investment is protected by a stable, reputable company standing behind its work for decades."
       },
       {
             "type": "heading",
@@ -670,7 +670,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When investing $15,000-$35,000 in solar, choosing the right installer matters enormously. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—45+ years of proven reliability. We're not a fly-by-night solar startup that may disappear before your warranty expires. Our company stability ensures we'll be here supporting your solar investment for its entire 25+ year lifespan. With 22,000+ five-star reviews and A+ BBB rating with zero unresolved complaints, our reputation speaks for itself."
+            "content": "When investing $15,000-$35,000 in solar, choosing the right installer matters enormously. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—46+ years of proven reliability. We're not a fly-by-night solar startup that may disappear before your warranty expires. Our company stability ensures we'll be here supporting your solar investment for its entire 25+ year lifespan. With 22,000+ five-star reviews and A+ BBB rating with zero unresolved complaints, our reputation speaks for itself."
       },
       {
             "type": "paragraph",

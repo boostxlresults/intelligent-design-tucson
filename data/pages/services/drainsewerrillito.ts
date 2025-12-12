@@ -22,7 +22,7 @@ export const drainsewerrillitoData: ServicePageData = {
   highlights: [
     {
       "title": "Rillito Drain Specialists",
-      "description": "45+ years serving Rillito families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Rillito families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

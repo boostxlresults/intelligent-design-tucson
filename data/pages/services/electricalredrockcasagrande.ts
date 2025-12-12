@@ -23,7 +23,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
   highlights: [
     {
       "title": "Red Rock / Casa Grande Electrical Specialists",
-      "description": "45+ years serving Red Rock / Casa Grande families | Expert knowledge of local systems | Average 75-minute response time"
+      "description": "46+ years serving Red Rock / Casa Grande families | Expert knowledge of local systems | Average 75-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",

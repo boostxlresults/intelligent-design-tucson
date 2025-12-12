@@ -22,7 +22,7 @@ export const outdoormotionlightingData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Security Lighting Expertise",
+    "title": "46+ years Security Lighting Expertise",
     "description": "ROC licensed master electricians since 1979 | 22,000+ verified reviews | BBB A+ rated | Trusted by 85,000+ Tucson families"
   },
   {
@@ -443,7 +443,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Trusted Security Lighting Expertise: Since 1979, Intelligent Design has been Tucson's most trusted electrical contractor, completing over 150,000 successful electrical installations including thousands of motion lighting security systems. Our 38 ROC-licensed master electricians (ROC 340962) average 17+ years hands-on experience and complete 120+ hours annual factory training on the latest motion sensor technology, LED fixtures, and smart integration platforms. We're factory-certified installers for Ring, Lutron, GE, Philips, and 15+ premium brands, ensuring expert installation backed by manufacturer warranties. Our 22,000+ verified customer reviews with BBB A+ rating demonstrate our commitment to quality workmanship and customer satisfaction that has served 85,000+ Tucson families over four decades."
+            "content": "46+ years of Trusted Security Lighting Expertise: Since 1979, Intelligent Design has been Tucson's most trusted electrical contractor, completing over 150,000 successful electrical installations including thousands of motion lighting security systems. Our 38 ROC-licensed master electricians (ROC 340962) average 17+ years hands-on experience and complete 120+ hours annual factory training on the latest motion sensor technology, LED fixtures, and smart integration platforms. We're factory-certified installers for Ring, Lutron, GE, Philips, and 15+ premium brands, ensuring expert installation backed by manufacturer warranties. Our 22,000+ verified customer reviews with BBB A+ rating demonstrate our commitment to quality workmanship and customer satisfaction that has served 85,000+ Tucson families over four decades."
       },
       {
             "type": "paragraph",
@@ -455,7 +455,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent Pricing & Ironclad Warranties: We provide detailed written estimates before work begins with itemized costs for fixtures, materials, labor, and permits—never hidden fees or surprise charges. Our pricing is competitive while reflecting the quality fixtures, expert installation, and comprehensive warranties that protect your investment. All installations include manufacturer warranties on LED fixtures and components (typically 3-5 years), labor warranty covering our workmanship (2 years on installations), code compliance guarantee ensuring all work meets or exceeds electrical code requirements, and satisfaction guarantee requiring your approval before we consider job complete. We stand behind every installation with responsive service if any issues arise—our 45-year reputation depends on your complete satisfaction."
+            "content": "Transparent Pricing & Ironclad Warranties: We provide detailed written estimates before work begins with itemized costs for fixtures, materials, labor, and permits—never hidden fees or surprise charges. Our pricing is competitive while reflecting the quality fixtures, expert installation, and comprehensive warranties that protect your investment. All installations include manufacturer warranties on LED fixtures and components (typically 3-5 years), labor warranty covering our workmanship (2 years on installations), code compliance guarantee ensuring all work meets or exceeds electrical code requirements, and satisfaction guarantee requiring your approval before we consider job complete. We stand behind every installation with responsive service if any issues arise—our 46-year reputation depends on your complete satisfaction."
       },
       {
             "type": "paragraph",
@@ -648,7 +648,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't wait until you experience a security incident or dangerous fall to install protective motion lighting. Our comprehensive security assessments identify your property's vulnerabilities and provide custom lighting solutions designed specifically for your needs, budget, and aesthetic preferences. With ServiceTitan-powered dispatch ensuring average 73-minute arrival times and same-day installation availability, protecting your family is just one phone call away. Our 45+ years of Tucson experience, 22,000+ verified customer reviews, and BBB A+ rating demonstrate our commitment to your safety and satisfaction. Call (520) 333-2665 or book online for your free security assessment and discover how professional motion lighting can enhance your home's protection while delivering $500-1,000+ annual energy savings."
+            "content": "Don't wait until you experience a security incident or dangerous fall to install protective motion lighting. Our comprehensive security assessments identify your property's vulnerabilities and provide custom lighting solutions designed specifically for your needs, budget, and aesthetic preferences. With ServiceTitan-powered dispatch ensuring average 73-minute arrival times and same-day installation availability, protecting your family is just one phone call away. Our 46+ years of Tucson experience, 22,000+ verified customer reviews, and BBB A+ rating demonstrate our commitment to your safety and satisfaction. Call (520) 333-2665 or book online for your free security assessment and discover how professional motion lighting can enhance your home's protection while delivering $500-1,000+ annual energy savings."
       },
       {
             "type": "cta",

@@ -22,7 +22,7 @@ export const drainsewergreenvalleyData: ServicePageData = {
   highlights: [
     {
       "title": "Green Valley Drain Specialists",
-      "description": "45+ years serving Green Valley families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Green Valley families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

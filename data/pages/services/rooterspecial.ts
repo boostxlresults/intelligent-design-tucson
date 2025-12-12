@@ -13,7 +13,7 @@ export const rooterspecialData: ServicePageData = {
   // Hero Section
   h1: 'Professional Rooter Services & Drain Clearing in Tucson, AZ',
   h2Subheading: '$28.88 Rooter Special - Limited Time Offer!',
-  tagline: 'Same-Day Service | Clogged Drains & Sewer Lines | Video Camera Inspection | Hydro Jetting | Emergency Service Available | 45+ Years Experience',
+  tagline: 'Same-Day Service | Clogged Drains & Sewer Lines | Video Camera Inspection | Hydro Jetting | Emergency Service Available | 46+ years Experience',
   heroImage: '/generated_images/Professional_rooter_drain_clearing_a93068d8.webp',
   heroImageAlt: 'Professional Rooter Special Service in Tucson',
   
@@ -44,7 +44,7 @@ export const rooterspecialData: ServicePageData = {
     "description": "Kitchen & bathroom drains | Main sewer lines | Storm drains | Floor drains | Toilet backups | Any blockage"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | Licensed master plumbers | 22,000+ five-star reviews | BBB A+ rated | Trusted since 1979"
   }
 ],

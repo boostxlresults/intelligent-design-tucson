@@ -23,7 +23,7 @@ export const hvacavravalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Avra Valley HVAC Expertise",
+    "title": "46+ years Avra Valley HVAC Expertise",
     "description": "Local expertise since 1979 | Deep understanding of northwest Tucson desert climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -658,7 +658,7 @@ export const hvacavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We provide comprehensive HVAC services throughout all Avra Valley residential areas, including homes along Sandario Road, properties near Avra Valley Road, residences in the Picture Rocks area, homes near Saguaro National Park West, manufactured home communities, and all surrounding northwest Tucson rural locations. Our technicians understand Avra Valley's unique rural desert challenges, maintain rapid 73-minute average response despite the distance from metro Tucson, and deliver the same industry-leading service quality to rural homeowners as our urban customers. Whether you're in an established Avra Valley home or new construction in the developing areas, we deliver expert HVAC solutions engineered for our region's most extreme cooling demands. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|45+ years of Tucson HVAC excellence]."
+            "content": "We provide comprehensive HVAC services throughout all Avra Valley residential areas, including homes along Sandario Road, properties near Avra Valley Road, residences in the Picture Rocks area, homes near Saguaro National Park West, manufactured home communities, and all surrounding northwest Tucson rural locations. Our technicians understand Avra Valley's unique rural desert challenges, maintain rapid 73-minute average response despite the distance from metro Tucson, and deliver the same industry-leading service quality to rural homeowners as our urban customers. Whether you're in an established Avra Valley home or new construction in the developing areas, we deliver expert HVAC solutions engineered for our region's most extreme cooling demands. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|46+ years of Tucson HVAC excellence]."
       }
 ]
   },

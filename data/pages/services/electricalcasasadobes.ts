@@ -22,7 +22,7 @@ export const electricalcasasadobesData: ServicePageData = {
   highlights: [
     {
       "title": "Casas Adobes Electrical Specialists",
-      "description": "45+ years serving Casas Adobes families | Expert knowledge of 1970s-1990s home electrical systems | Familiar with Amphi neighborhood layouts | Average 58-minute response time to Casas Adobes"
+      "description": "46+ years serving Casas Adobes families | Expert knowledge of 1970s-1990s home electrical systems | Familiar with Amphi neighborhood layouts | Average 58-minute response time to Casas Adobes"
     },
     {
       "title": "Licensed Master Electricians",

@@ -23,7 +23,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
   highlights: [
     {
       "title": "Red Rock / Casa Grande Solar Specialists",
-      "description": "45+ years serving southern Arizona | Expert solar design & installation | Average 350+ days of sunshine annually"
+      "description": "46+ years serving southern Arizona | Expert solar design & installation | Average 350+ days of sunshine annually"
     },
     {
       "title": "Maximum Solar Incentives",
@@ -219,7 +219,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande grows rapidly with new family-friendly developments, homeowners want solar installers who deliver professional results and stand behind their work for decades. Our solar division combines 45+ years of HVAC, electrical, and home systems experience with specialized solar expertise, creating a unique advantage. We're licensed contractors (Arizona ROC #340962) with comprehensive training on solar technology, not solar-only companies without broader home systems knowledge. This integrated expertise ensures we properly evaluate your [link:/services/electrical-red-rock-casa-grande|electrical system] capacity, [link:/services/roofing-red-rock-casa-grande|roof condition], and [link:/services/hvac-red-rock-casa-grande|HVAC efficiency] before designing solar systems."
+        "content": "As Red Rock / Casa Grande grows rapidly with new family-friendly developments, homeowners want solar installers who deliver professional results and stand behind their work for decades. Our solar division combines 46+ years of HVAC, electrical, and home systems experience with specialized solar expertise, creating a unique advantage. We're licensed contractors (Arizona ROC #340962) with comprehensive training on solar technology, not solar-only companies without broader home systems knowledge. This integrated expertise ensures we properly evaluate your [link:/services/electrical-red-rock-casa-grande|electrical system] capacity, [link:/services/roofing-red-rock-casa-grande|roof condition], and [link:/services/hvac-red-rock-casa-grande|HVAC efficiency] before designing solar systems."
       },
       {
         "type": "paragraph",
@@ -259,7 +259,7 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       },
       {
         question: "What happens to my solar panels during monsoon storms?",
-        answer: "Solar panels are designed and tested to withstand extreme weather including monsoon winds (120+ mph), hail (1-inch diameter or larger), and heavy rain. Our installations use engineered mounting systems specifically rated for Arizona wind loads. All electrical connections are weatherproof and sealed. Panels continue producing during rain (at reduced levels) and resume full production when sun returns. In 45+ years, we've never had properly installed solar systems damaged by monsoons."
+        answer: "Solar panels are designed and tested to withstand extreme weather including monsoon winds (120+ mph), hail (1-inch diameter or larger), and heavy rain. Our installations use engineered mounting systems specifically rated for Arizona wind loads. All electrical connections are weatherproof and sealed. Panels continue producing during rain (at reduced levels) and resume full production when sun returns. In 46+ years, we've never had properly installed solar systems damaged by monsoons."
       },
       {
         question: "Do I need battery storage with my solar panels?",

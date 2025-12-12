@@ -24,7 +24,7 @@ export const hvacsahuaritaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Sahuarita",
+    "title": "46+ years Serving Sahuarita",
     "description": "Local expertise since 1979 | Deep understanding of Sahuarita's newer construction | Expert with modern HVAC technologies | Rancho Sahuarita specialists"
   },
   {
@@ -661,7 +661,7 @@ export const hvacsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Local Expertise: We've served Southern Arizona families since 1979, long before Sahuarita's explosive growth transformed it from agricultural community to thriving suburb. Our deep understanding of Arizona's extreme climate, local building codes, master-planned community requirements, and energy efficiency incentives ensures you receive expert service tailored to Sahuarita's unique needs. We've installed and serviced HVAC systems in virtually every Sahuarita neighborhood from original 1980s homes to brand new 2024 construction, giving us unmatched experience with the area's diverse housing stock."
+            "content": "46+ years of Local Expertise: We've served Southern Arizona families since 1979, long before Sahuarita's explosive growth transformed it from agricultural community to thriving suburb. Our deep understanding of Arizona's extreme climate, local building codes, master-planned community requirements, and energy efficiency incentives ensures you receive expert service tailored to Sahuarita's unique needs. We've installed and serviced HVAC systems in virtually every Sahuarita neighborhood from original 1980s homes to brand new 2024 construction, giving us unmatched experience with the area's diverse housing stock."
       },
       {
             "type": "paragraph",

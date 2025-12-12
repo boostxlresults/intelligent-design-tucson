@@ -35,7 +35,7 @@ export const homeenergyupgradesData: ServicePageData = {
   },
   {
     "title": "Tucson Climate Expertise",
-    "description": "Desert-specific solutions | Monsoon preparation | Extreme heat management | 45+ years local experience"
+    "description": "Desert-specific solutions | Monsoon preparation | Extreme heat management | 46+ years local experience"
   },
   {
     "title": "Licensed & Certified Professionals",
@@ -677,7 +677,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our 45+ years serving Tucson means we understand this climate's unique demands. We know which upgrades deliver maximum value in our extreme heat, how to protect systems from monsoon damage, which local rebates and incentives exist, and how to navigate Pima County permitting efficiently. Our ServiceTitan customer management system tracks every detail of your project, ensuring nothing falls through cracks. Real-time updates keep you informed, while our technicians access complete project history for efficient service."
+            "content": "Our 46+ years serving Tucson means we understand this climate's unique demands. We know which upgrades deliver maximum value in our extreme heat, how to protect systems from monsoon damage, which local rebates and incentives exist, and how to navigate Pima County permitting efficiently. Our ServiceTitan customer management system tracks every detail of your project, ensuring nothing falls through cracks. Real-time updates keep you informed, while our technicians access complete project history for efficient service."
       },
       {
             "type": "paragraph",

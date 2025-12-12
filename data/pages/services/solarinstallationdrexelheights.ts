@@ -25,7 +25,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Drexel Heights",
+    "title": "46+ years Serving Drexel Heights",
     "description": "Local expertise since 1979. We understand Drexel Heights's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -141,7 +141,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 45+ years serving Tucson families, 22,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
+            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 46+ years serving Tucson families, 22,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -450,7 +450,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Drexel Heights"
+            "content": "46+ years Serving Drexel Heights"
       },
       {
             "type": "paragraph",
@@ -637,7 +637,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Go Solar in Drexel Heights?",
-            "content": "Get your free solar consultation and custom quote today. Our Drexel Heights solar experts provide honest assessments, transparent pricing, and quality installations backed by 45+ years of experience. Call (520) 333-2665 or visit our Tucson showroom.",
+            "content": "Get your free solar consultation and custom quote today. Our Drexel Heights solar experts provide honest assessments, transparent pricing, and quality installations backed by 46+ years of experience. Call (520) 333-2665 or visit our Tucson showroom.",
             "buttonText": "Schedule Free Consultation",
             "buttonLink": "tel:+15203332665"
       },

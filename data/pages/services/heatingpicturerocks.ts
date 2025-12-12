@@ -23,7 +23,7 @@ export const heatingpicturerocksData: ServicePageData = {
   highlights: [
   {
     "title": "Rural Desert Heating Specialists",
-    "description": "45+ years serving Picture Rocks | Expert with rural properties | Propane & electric systems | Desert-rated equipment | Large property experience | Off-grid capable"
+    "description": "46+ years serving Picture Rocks | Expert with rural properties | Propane & electric systems | Desert-rated equipment | Large property experience | Off-grid capable"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -479,7 +479,7 @@ export const heatingpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Rural Property Expertise: Our 45+ years serving Picture Rocks and rural northwest Tucson means we understand the specific challenges of desert properties: propane system optimization for maximum efficiency and minimum deliveries, multi-building heating solutions for guest houses and workshops, heat pump performance at our elevation and climate, backup heating planning for properties far from services, and integration with solar power systems increasingly common in rural areas."
+            "content": "Rural Property Expertise: Our 46+ years serving Picture Rocks and rural northwest Tucson means we understand the specific challenges of desert properties: propane system optimization for maximum efficiency and minimum deliveries, multi-building heating solutions for guest houses and workshops, heat pump performance at our elevation and climate, backup heating planning for properties far from services, and integration with solar power systems increasingly common in rural areas."
       },
       {
             "type": "paragraph",

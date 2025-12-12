@@ -21,7 +21,7 @@ export const heatingcasasadobesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Casas Adobes Heating Expertise",
+    "title": "46+ years Casas Adobes Heating Expertise",
     "description": "Local expertise since 1979 | Specialists in north Tucson desert climate | 2,400+ Casas Adobes heating installations | Expert knowledge of 1970s-1990s heating systems"
   },
   {
@@ -60,7 +60,7 @@ export const heatingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding Casas Adobes Heating System Characteristics: Casas Adobes homes present diverse heating equipment based on construction era and energy costs at time of installation. 1970s-1980s homes (Skyline Shadows, Manzanita Park areas) typically have 60-80% AFUE gas furnaces (far less efficient than modern 96-98% AFUE condensing furnaces), original equipment now 35-45+ years old (well past expected lifespan), standing pilot lights wasting gas continuously, basic single-speed blowers, and minimal or no air filtration beyond fiberglass filters. 1985-1995 homes (Painted Hills, Oracle Foothills Estates) generally feature 78-82% AFUE mid-efficiency furnaces, electronic ignition replacing standing pilots, but still single-speed operation and basic thermostats. Common heating upgrade needs across Casas Adobes homes include furnace replacement with high-efficiency 96-98% AFUE models saving 30-40% on heating costs, variable-speed blower motors improving comfort and efficiency, smart thermostat installation reducing energy waste, duct sealing and insulation upgrades (typical duct systems leak 20-30% of heated air into attics), and heat pump systems providing efficient heating plus summer cooling. Our NATE-certified technicians have completed 900+ furnace installations and replacements in Casas Adobes since 2010, understanding the specific requirements, duct characteristics, and optimal solutions for this community's diverse housing stock."
+            "content": "Understanding Casas Adobes Heating System Characteristics: Casas Adobes homes present diverse heating equipment based on construction era and energy costs at time of installation. 1970s-1980s homes (Skyline Shadows, Manzanita Park areas) typically have 60-80% AFUE gas furnaces (far less efficient than modern 96-98% AFUE condensing furnaces), original equipment now 35-46+ years old (well past expected lifespan), standing pilot lights wasting gas continuously, basic single-speed blowers, and minimal or no air filtration beyond fiberglass filters. 1985-1995 homes (Painted Hills, Oracle Foothills Estates) generally feature 78-82% AFUE mid-efficiency furnaces, electronic ignition replacing standing pilots, but still single-speed operation and basic thermostats. Common heating upgrade needs across Casas Adobes homes include furnace replacement with high-efficiency 96-98% AFUE models saving 30-40% on heating costs, variable-speed blower motors improving comfort and efficiency, smart thermostat installation reducing energy waste, duct sealing and insulation upgrades (typical duct systems leak 20-30% of heated air into attics), and heat pump systems providing efficient heating plus summer cooling. Our NATE-certified technicians have completed 900+ furnace installations and replacements in Casas Adobes since 2010, understanding the specific requirements, duct characteristics, and optimal solutions for this community's diverse housing stock."
       },
       {
             "type": "paragraph",

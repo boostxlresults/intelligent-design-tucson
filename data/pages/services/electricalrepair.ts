@@ -27,7 +27,7 @@ export const electricalrepairData: ServicePageData = {
   },
   {
     "title": "Licensed & Insured Electricians",
-    "description": "ROC licensed professionals | Fully insured | Background-checked technicians | 45+ years experience"
+    "description": "ROC licensed professionals | Fully insured | Background-checked technicians | 46+ years experience"
   },
   {
     "title": "All Types of Electrical Repairs",
@@ -655,9 +655,9 @@ export const electricalrepairData: ServicePageData = {
       },
       {
         "type": "heading",
-        "heading": "45+ Years Serving Tucson Families Since 1979",
+        "heading": "46+ years Serving Tucson Families Since 1979",
         "level": 3,
-        "content": "45+ Years Serving Tucson Families Since 1979"
+        "content": "46+ years Serving Tucson Families Since 1979"
       },
       {
         "type": "paragraph",

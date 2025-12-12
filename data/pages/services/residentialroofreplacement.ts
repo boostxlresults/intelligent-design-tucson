@@ -5,13 +5,13 @@ import { residentialRoofReplacementFAQs } from '@/data/faqs/roofing';
 export const residentialroofreplacementData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Replacement Tucson AZ | Complete Home Roof Replacement',
-  description: 'Expert residential roof replacement in Tucson. Complete tear-off & replacement. Tile, shingle, metal & flat roofs. 45+ years experience. Call (520) 333-2665 for free estimate.',
+  description: 'Expert residential roof replacement in Tucson. Complete tear-off & replacement. Tile, shingle, metal & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
   slug: 'residential-roof-replacement',
   
   // Hero Section
   h1: 'Residential Roof Replacement Tucson AZ',
   h2Subheading: 'Expert Residential Roof Replacement in Tucson',
-  tagline: 'Complete Tear-Off & Replacement | All Roof Types | Premium Materials | Expert Installation | 45+ Years Experience',
+  tagline: 'Complete Tear-Off & Replacement | All Roof Types | Premium Materials | Expert Installation | 46+ years Experience',
   heroImage: '/generated_images/Roof_replacement_in_progress_e00e92e6.webp',
   heroImageAlt: 'Residential Roof Replacement in Tucson',
   
@@ -34,7 +34,7 @@ export const residentialroofreplacementData: ServicePageData = {
     "description": "Cool roof technology | Proper ventilation | Radiant barriers | Lower utility bills"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
@@ -69,7 +69,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], [link:/services/metal-roofs|metal], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 22,000+ verified reviews, BBB A+ accreditation for 45+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
+            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], [link:/services/metal-roofs|metal], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 22,000+ verified reviews, BBB A+ accreditation for 46+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
       },
       {
             "type": "heading",
@@ -87,7 +87,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families since 1979. We've been the #1 rated roofing company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation for 45+ years. Our commitment to honest assessments, quality materials, expert craftsmanship, and customer satisfaction has made us the most-referred roof replacement provider in Pima County. When you're investing $15,000-$45,000 in a new roof, you're choosing the company your neighbors have trusted for over four decades with their [link:/knowledge-hub|family-owned, veteran-operated home services]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families since 1979. We've been the #1 rated roofing company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation for 46+ years. Our commitment to honest assessments, quality materials, expert craftsmanship, and customer satisfaction has made us the most-referred roof replacement provider in Pima County. When you're investing $15,000-$45,000 in a new roof, you're choosing the company your neighbors have trusted for over four decades with their [link:/knowledge-hub|family-owned, veteran-operated home services]."
       },
       {
             "type": "paragraph",
@@ -233,7 +233,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our systematic eight-step roof replacement process ensures quality results, protects your property, and provides peace of mind throughout your project. This proven methodology, refined over 45+ years and thousands of successful installations, delivers consistent excellence on every roof replacement."
+            "content": "Our systematic eight-step roof replacement process ensures quality results, protects your property, and provides peace of mind throughout your project. This proven methodology, refined over 46+ years and thousands of successful installations, delivers consistent excellence on every roof replacement."
       },
       {
             "type": "heading",
@@ -433,7 +433,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "If selling your Tucson home, roof replacement timing significantly impacts sale price and buyer negotiations. Optimal timing: 6-18 months before listing. This allows you to enjoy some benefit from the new roof while ensuring home inspections reveal zero roofing concerns. New roofs eliminate buyer hesitation, prevent inspection issues from reducing offers or requiring concessions, enable premium pricing justified by recent major upgrade, and accelerate sales—homes with new roofs sell 15-25% faster than comparable properties with aging roofs. Real estate data shows new roofs return 60-70% of cost in immediate home value increase, with higher returns in seller's markets. A $20,000 roof replacement typically adds $12,000-$16,000 to sale price while eliminating $15,000-$25,000 in price reductions buyers would demand for an aging roof requiring replacement. Don't wait until listing: Replacing roof after listing creates delays (removing home from market 1-2 weeks), signals desperation to buyers who may suspect other deferred maintenance, and prevents you from capturing full value since buyers assume roof replacement was forced by inspection issues. Too old to sell: If your roof is 20+ years old for shingles or 45+ years for tile, you likely cannot sell without replacement or significant price reduction. Buyers' lenders may refuse financing on homes with aging roofs nearing end of lifespan."
+            "content": "If selling your Tucson home, roof replacement timing significantly impacts sale price and buyer negotiations. Optimal timing: 6-18 months before listing. This allows you to enjoy some benefit from the new roof while ensuring home inspections reveal zero roofing concerns. New roofs eliminate buyer hesitation, prevent inspection issues from reducing offers or requiring concessions, enable premium pricing justified by recent major upgrade, and accelerate sales—homes with new roofs sell 15-25% faster than comparable properties with aging roofs. Real estate data shows new roofs return 60-70% of cost in immediate home value increase, with higher returns in seller's markets. A $20,000 roof replacement typically adds $12,000-$16,000 to sale price while eliminating $15,000-$25,000 in price reductions buyers would demand for an aging roof requiring replacement. Don't wait until listing: Replacing roof after listing creates delays (removing home from market 1-2 weeks), signals desperation to buyers who may suspect other deferred maintenance, and prevents you from capturing full value since buyers assume roof replacement was forced by inspection issues. Too old to sell: If your roof is 20+ years old for shingles or 46+ years for tile, you likely cannot sell without replacement or significant price reduction. Buyers' lenders may refuse financing on homes with aging roofs nearing end of lifespan."
       },
       {
             "type": "heading",

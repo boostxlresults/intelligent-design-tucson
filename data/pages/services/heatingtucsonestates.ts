@@ -23,7 +23,7 @@ export const heatingtucsonestatesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Tucson Estates Heating Expertise",
+    "title": "46+ years Tucson Estates Heating Expertise",
     "description": "Local expertise since 1979 | Deep understanding of west Tucson desert climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -620,7 +620,7 @@ export const heatingtucsonestatesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving West Tucson Communities: Since 1979, we've specialized in heating solutions for established west-side neighborhoods like Tucson Estates. We understand the unique challenges of heating older homes (minimal insulation, original ductwork, aging equipment), the importance of honest transparent pricing (many Tucson Estates families are budget-conscious, on fixed incomes, or managing multiple home maintenance priorities), the value of repair vs. replacement guidance (helping homeowners make informed decisions about aging systems), and the community-oriented nature of Tucson Estates (we serve your neighbors, friends, and family—reputation matters). We've installed and serviced thousands of heating systems throughout Tucson Estates, earning deep community trust through quality workmanship, fair pricing, and exceptional service."
+            "content": "46+ years Serving West Tucson Communities: Since 1979, we've specialized in heating solutions for established west-side neighborhoods like Tucson Estates. We understand the unique challenges of heating older homes (minimal insulation, original ductwork, aging equipment), the importance of honest transparent pricing (many Tucson Estates families are budget-conscious, on fixed incomes, or managing multiple home maintenance priorities), the value of repair vs. replacement guidance (helping homeowners make informed decisions about aging systems), and the community-oriented nature of Tucson Estates (we serve your neighbors, friends, and family—reputation matters). We've installed and serviced thousands of heating systems throughout Tucson Estates, earning deep community trust through quality workmanship, fair pricing, and exceptional service."
       },
       {
             "type": "paragraph",

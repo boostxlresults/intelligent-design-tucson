@@ -35,7 +35,7 @@ export const heaterrepairData: ServicePageData = {
   },
   {
     "title": "Expert Certified Technicians",
-    "description": "NATE certified | Factory trained | Background-checked professionals | 45+ years experience"
+    "description": "NATE certified | Factory trained | Background-checked professionals | 46+ years experience"
   },
   {
     "title": "100% Satisfaction Guarantee",

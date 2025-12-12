@@ -25,7 +25,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Picture Rocks",
+    "title": "46+ years Serving Picture Rocks",
     "description": "Local expertise since 1979. We understand Picture Rocks's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -495,7 +495,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Based on 45+ years of experience and Picture Rocks' specific climate conditions, we recommend:\n\nStandard System: Monocrystalline panels (400W) + Enphase IQ8+ microinverters + IronRidge aluminum racking\n\nWhy: Monocrystalline panels perform best in high heat. Microinverters provide superior reliability, monitoring, and performance in Picture Rocks' variable weather (monsoon clouds, dust). IronRidge racking exceeds wind load requirements for monsoon safety.\n\nBudget System: Tier-1 monocrystalline panels (380W) + SolarEdge string inverter + standard aluminum racking\n\nWhy: Reduces costs while maintaining quality. Suitable for simple roof layouts without shading concerns.\n\nPremium System: High-efficiency monocrystalline panels (420-450W) + Enphase IQ8+ microinverters + 2 Tesla Powerwalls + IronRidge racking\n\nWhy: Maximum production, best monitoring, backup power security. Ideal for larger homes or those wanting energy independence.\n\nAll our installations use tier-1 components meeting strict quality standards. We never compromise on equipment quality to win bids. Your solar investment should perform reliably for 25-30 years, and cheap equipment fails to deliver. Learn more about our [link:/services/residential-solar-installation|comprehensive solar solutions] and why quality matters."
+            "content": "Based on 46+ years of experience and Picture Rocks' specific climate conditions, we recommend:\n\nStandard System: Monocrystalline panels (400W) + Enphase IQ8+ microinverters + IronRidge aluminum racking\n\nWhy: Monocrystalline panels perform best in high heat. Microinverters provide superior reliability, monitoring, and performance in Picture Rocks' variable weather (monsoon clouds, dust). IronRidge racking exceeds wind load requirements for monsoon safety.\n\nBudget System: Tier-1 monocrystalline panels (380W) + SolarEdge string inverter + standard aluminum racking\n\nWhy: Reduces costs while maintaining quality. Suitable for simple roof layouts without shading concerns.\n\nPremium System: High-efficiency monocrystalline panels (420-450W) + Enphase IQ8+ microinverters + 2 Tesla Powerwalls + IronRidge racking\n\nWhy: Maximum production, best monitoring, backup power security. Ideal for larger homes or those wanting energy independence.\n\nAll our installations use tier-1 components meeting strict quality standards. We never compromise on equipment quality to win bids. Your solar investment should perform reliably for 25-30 years, and cheap equipment fails to deliver. Learn more about our [link:/services/residential-solar-installation|comprehensive solar solutions] and why quality matters."
       },
       {
             "type": "heading",
@@ -689,7 +689,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Our NABCEP-certified solar specialists will analyze your energy consumption, assess your roof, design an optimized system, and provide transparent pricing showing exactly what you'll save. We'll handle all permitting, HOA approvals, TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us at (520) 333-2665 or schedule online. Start saving on your electric bill with clean, renewable energy backed by our 45+ years of trusted service, 22,000+ five-star reviews, and comprehensive warranties. Picture Rocks families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you why we're Tucson's #1 rated solar installation company for seven consecutive years."
+            "content": "Get your free solar consultation and custom quote today. Our NABCEP-certified solar specialists will analyze your energy consumption, assess your roof, design an optimized system, and provide transparent pricing showing exactly what you'll save. We'll handle all permitting, HOA approvals, TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us at (520) 333-2665 or schedule online. Start saving on your electric bill with clean, renewable energy backed by our 46+ years of trusted service, 22,000+ five-star reviews, and comprehensive warranties. Picture Rocks families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you why we're Tucson's #1 rated solar installation company for seven consecutive years."
       },
       {
             "type": "heading",

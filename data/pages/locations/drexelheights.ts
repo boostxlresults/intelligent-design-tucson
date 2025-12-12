@@ -65,7 +65,7 @@ export const drexelheightsData: LocationPageData = {
   highlights: [
     {
       "title": "BBB A+ Rated Since 1979",
-      "description": "Family and veteran-owned with 45+ years serving Tucson with integrity and expertise."
+      "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
       "title": "22,000+ Five-Star Reviews",

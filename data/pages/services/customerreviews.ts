@@ -35,7 +35,7 @@ export const customerreviewsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 verified five-star reviews across multiple platforms, Intelligent Design has earned the trust of Tucson families for 45+ years. Our commitment to quality service, transparent pricing, and customer satisfaction is reflected in every review."
+            "content": "With over 22,000 verified five-star reviews across multiple platforms, Intelligent Design has earned the trust of Tucson families for 46+ years. Our commitment to quality service, transparent pricing, and customer satisfaction is reflected in every review."
       },
       {
             "type": "paragraph",
@@ -73,9 +73,9 @@ export const customerreviewsData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "45+ Years of Excellence",
+            "heading": "46+ years of Excellence",
             "level": 3,
-            "content": "45+ Years of Excellence"
+            "content": "46+ years of Excellence"
       },
       {
             "type": "paragraph",

@@ -22,7 +22,7 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Heating Specialists",
-      "description": "45+ years serving active adult communities | Patient, detailed service | Average 62-minute response time to Saddle Brooke / Catalina"
+      "description": "46+ years serving active adult communities | Patient, detailed service | Average 62-minute response time to Saddle Brooke / Catalina"
     },
     {
       "title": "Licensed & Background-Checked",

@@ -25,7 +25,7 @@ export const roofingtanqueverdeData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tanque Verde",
+    "title": "46+ years Serving Tanque Verde",
     "description": "Local expertise since 1979. We know Tanque Verde roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingtanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Tanque Verde"
+            "content": "46+ years Serving Tanque Verde"
       },
       {
             "type": "paragraph",

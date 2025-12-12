@@ -198,7 +198,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our proven systematic approach ensures consistent quality, transparency, and customer satisfaction on every Sahuarita roofing project. This comprehensive process has been refined over 45+ years serving Southern Arizona communities, with specific adaptations for Sahuarita's unique challenges including HOA compliance, new construction warranty coordination, and mixed tile/shingle expertise."
+            "content": "Our proven systematic approach ensures consistent quality, transparency, and customer satisfaction on every Sahuarita roofing project. This comprehensive process has been refined over 46+ years serving Southern Arizona communities, with specific adaptations for Sahuarita's unique challenges including HOA compliance, new construction warranty coordination, and mixed tile/shingle expertise."
       },
       {
             "type": "heading",
@@ -494,7 +494,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Sahuarita: Since 1979, we've been Southern Arizona's trusted home services provider, growing alongside Sahuarita from small community to thriving city. We've served three generations of Sahuarita families, completed 3,200+ roofing projects in Sahuarita communities (Rancho Sahuarita, Quail Creek, La Posada, newer developments), and maintained 98% customer satisfaction rating over 45 years. Our longevity proves our commitment to quality, honesty, and customer service. Unlike contractors who come and go, we'll be here for your roof's entire lifespan providing ongoing support, warranty service, and maintenance. Our deep Sahuarita knowledge—understanding every development's unique characteristics, HOA requirements, and common issues—ensures superior service tailored to your community."
+            "content": "46+ years Serving Sahuarita: Since 1979, we've been Southern Arizona's trusted home services provider, growing alongside Sahuarita from small community to thriving city. We've served three generations of Sahuarita families, completed 3,200+ roofing projects in Sahuarita communities (Rancho Sahuarita, Quail Creek, La Posada, newer developments), and maintained 98% customer satisfaction rating over 45 years. Our longevity proves our commitment to quality, honesty, and customer service. Unlike contractors who come and go, we'll be here for your roof's entire lifespan providing ongoing support, warranty service, and maintenance. Our deep Sahuarita knowledge—understanding every development's unique characteristics, HOA requirements, and common issues—ensures superior service tailored to your community."
       },
       {
             "type": "paragraph",
@@ -604,7 +604,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals with 45+ years serving Sahuarita. Same-day emergency service available throughout Rancho Sahuarita, Quail Creek, La Posada, and all Sahuarita communities. Call now or schedule online."
+            "content": "Get expert roofing service from licensed professionals with 46+ years serving Sahuarita. Same-day emergency service available throughout Rancho Sahuarita, Quail Creek, La Posada, and all Sahuarita communities. Call now or schedule online."
       },
       {
             "type": "paragraph",

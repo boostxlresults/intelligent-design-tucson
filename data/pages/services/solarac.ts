@@ -27,7 +27,7 @@ export const solaracData: ServicePageData = {
   },
   {
     "title": "Arizona's Only Dual-Licensed HVAC & Solar Contractor",
-    "description": "45+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
+    "description": "46+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
   },
   {
     "title": "Revolutionary DC Solar Technology",
@@ -69,7 +69,7 @@ export const solaracData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
+            "content": "46+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
       },
       {
             "type": "paragraph",
@@ -483,7 +483,7 @@ export const solaracData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Selecting the optimal solar AC configuration for your specific needs requires evaluating several key factors. Our expert recommendations based on 45+ years serving Tucson homeowners:"
+            "content": "Selecting the optimal solar AC configuration for your specific needs requires evaluating several key factors. Our expert recommendations based on 46+ years serving Tucson homeowners:"
       },
       {
             "type": "heading",

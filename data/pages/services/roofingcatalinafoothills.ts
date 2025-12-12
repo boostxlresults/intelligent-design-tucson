@@ -23,7 +23,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills Roofing Specialists",
-      "description": "45+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
+      "description": "46+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",
@@ -223,7 +223,7 @@ export const roofingcatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our roofing crews are fully trained, use safety equipment on every job, and treat your property with respect. We provide detailed written estimates with material specifications and labor breakdowns—no hidden fees or surprise charges. Our roofing installations and repairs are backed by comprehensive manufacturer warranties plus our workmanship guarantee, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills roofing needs, you're partnering with a company that has 45+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
+        "content": "Our roofing crews are fully trained, use safety equipment on every job, and treat your property with respect. We provide detailed written estimates with material specifications and labor breakdowns—no hidden fees or surprise charges. Our roofing installations and repairs are backed by comprehensive manufacturer warranties plus our workmanship guarantee, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills roofing needs, you're partnering with a company that has 46+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
       },
       {
         "type": "paragraph",

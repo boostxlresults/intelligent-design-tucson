@@ -22,7 +22,7 @@ export const heatingavravalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Avra Valley",
+    "title": "46+ years Serving Avra Valley",
     "description": "Local expertise since 1979. We know Avra Valley heating systems, climate considerations, and efficiency solutions inside and out."
   },
   {

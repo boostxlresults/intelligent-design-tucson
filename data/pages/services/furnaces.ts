@@ -45,7 +45,7 @@ export const furnacesData: ServicePageData = {
   },
   {
     "title": "Complete Service & Support",
-    "description": "Installation, repair & maintenance | 24/7 emergency service | 45+ years experience | Satisfaction guaranteed"
+    "description": "Installation, repair & maintenance | 24/7 emergency service | 46+ years experience | Satisfaction guaranteed"
   }
 ],
   content: {

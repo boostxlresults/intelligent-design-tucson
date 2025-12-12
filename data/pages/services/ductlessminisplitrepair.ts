@@ -40,7 +40,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
     "description": "No hidden fees | Written estimates before repairs | Transparent parts & labor costs"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ five-star reviews | BBB A+ rated | Licensed & insured"
   },
   {

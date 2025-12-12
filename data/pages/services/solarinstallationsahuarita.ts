@@ -27,7 +27,7 @@ export const solarinstallationsahuaritaData: ServicePageData = {
     "description": "Average 73-minute arrival with ServiceTitan dispatch | 6 service vehicles serving Sahuarita | 85% same-day consultation scheduling | Fastest solar quotes in Southern Arizona"
   },
   {
-    "title": "45+ Years Serving Sahuarita",
+    "title": "46+ years Serving Sahuarita",
     "description": "Local expertise since 1979 | Deep understanding of Rancho Sahuarita HOAs | Specialized new construction solar expertise | Family-owned and operated"
   },
   {
@@ -455,7 +455,7 @@ export const solarinstallationsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Quality & Reliability: 45+ years serving Southern Arizona (since 1979), 22,000+ five-star reviews with 4.97-star Google rating, BBB A+ accreditation with zero unresolved complaints, 28 NABCEP-certified installers averaging 17+ years experience, and factory certifications for SunPower, LG, Canadian Solar, Q-Cells, Enphase, SolarEdge, Tesla, and 10+ other premium brands. We exclusively use tier-1 solar panels with 25-year warranties, high-efficiency inverters optimized for Arizona heat, and aluminum racking engineered for 120+ mph monsoon winds."
+            "content": "Proven Quality & Reliability: 46+ years serving Southern Arizona (since 1979), 22,000+ five-star reviews with 4.97-star Google rating, BBB A+ accreditation with zero unresolved complaints, 28 NABCEP-certified installers averaging 17+ years experience, and factory certifications for SunPower, LG, Canadian Solar, Q-Cells, Enphase, SolarEdge, Tesla, and 10+ other premium brands. We exclusively use tier-1 solar panels with 25-year warranties, high-efficiency inverters optimized for Arizona heat, and aluminum racking engineered for 120+ mph monsoon winds."
       },
       {
             "type": "paragraph",

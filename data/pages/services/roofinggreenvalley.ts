@@ -27,7 +27,7 @@ export const roofinggreenvalleyData: ServicePageData = {
   },
   {
     "title": "Retirement Community Specialists",
-    "description": "45+ years serving Green Valley retirees. Deep understanding of aging roof systems, budget considerations, and senior-specific needs."
+    "description": "46+ years serving Green Valley retirees. Deep understanding of aging roof systems, budget considerations, and senior-specific needs."
   },
   {
     "title": "Senior-Friendly Financing",
@@ -387,7 +387,7 @@ export const roofinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Green Valley Expertise: Since 1979, we've built our reputation serving Green Valley's retirement community with honest service, quality workmanship, and respect for retiree needs and budgets. We're not a national chain or franchise—we're locally owned and operated, with deep roots in Southern Arizona and personal investment in our community's wellbeing. Our 3,200+ completed Green Valley roofing projects span every neighborhood from Canoa Ranch to Continental Reserve, every roof type from Spanish clay tile to modern shingles, and every challenge from simple repairs to complex insurance claim restorations."
+            "content": "46+ years Green Valley Expertise: Since 1979, we've built our reputation serving Green Valley's retirement community with honest service, quality workmanship, and respect for retiree needs and budgets. We're not a national chain or franchise—we're locally owned and operated, with deep roots in Southern Arizona and personal investment in our community's wellbeing. Our 3,200+ completed Green Valley roofing projects span every neighborhood from Canoa Ranch to Continental Reserve, every roof type from Spanish clay tile to modern shingles, and every challenge from simple repairs to complex insurance claim restorations."
       },
       {
             "type": "paragraph",

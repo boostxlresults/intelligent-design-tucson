@@ -38,7 +38,7 @@ export const solartaxcreditsData: ServicePageData = {
     "description": "Credit calculators | ROI projections | Payback analysis | Multi-year planning"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Local knowledge | Trusted since 1979"
   },
   {

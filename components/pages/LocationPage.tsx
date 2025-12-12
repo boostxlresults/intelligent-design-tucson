@@ -212,7 +212,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
             Services We Offer in {data.locationName}
           </h2>
           <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-            Serving {data.locationDisplayName} with comprehensive home services since 1979. 
+            Serving {data.locationDisplayName} with 46+ years of combined home services expertise. 
             Family and veteran-owned, BBB A+ rated with 22,000+ five-star reviews.
           </p>
           

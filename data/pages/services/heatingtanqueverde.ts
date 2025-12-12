@@ -24,7 +24,7 @@ export const heatingtanqueverdeData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tanque Verde",
+    "title": "46+ years Serving Tanque Verde",
     "description": "Local expertise since 1979. We know Tanque Verde heating systems, climate considerations, and efficiency solutions inside and out."
   },
   {
@@ -620,7 +620,7 @@ export const heatingtanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Tucson Expertise: Since 1979, Intelligent Design has served Tanque Verde foothill communities with unwavering commitment to technical excellence and customer satisfaction. Our 45+ years of continuous Tucson operation demonstrates stability, reliability, and community trust. We've served multiple generations of Tanque Verde families, maintaining heating systems we installed decades ago and earning referrals from satisfied customers. Our deep Tucson roots mean we understand desert climate challenges, hard water impacts on equipment, foothill elevation factors affecting heating performance, and unique considerations for luxury Tanque Verde properties. We maintain state-of-the-art training facility ensuring our technicians master latest heating technologies, efficiency standards, and diagnostic techniques. Every technician completes rigorous ongoing education including NATE certification, manufacturer-specific training on premium equipment lines, building code updates, and customer service excellence programs. Our investment in training, equipment, and facilities demonstrates long-term commitment to maintaining Tucson's highest service standards."
+            "content": "46+ years of Tucson Expertise: Since 1979, Intelligent Design has served Tanque Verde foothill communities with unwavering commitment to technical excellence and customer satisfaction. Our 46+ years of continuous Tucson operation demonstrates stability, reliability, and community trust. We've served multiple generations of Tanque Verde families, maintaining heating systems we installed decades ago and earning referrals from satisfied customers. Our deep Tucson roots mean we understand desert climate challenges, hard water impacts on equipment, foothill elevation factors affecting heating performance, and unique considerations for luxury Tanque Verde properties. We maintain state-of-the-art training facility ensuring our technicians master latest heating technologies, efficiency standards, and diagnostic techniques. Every technician completes rigorous ongoing education including NATE certification, manufacturer-specific training on premium equipment lines, building code updates, and customer service excellence programs. Our investment in training, equipment, and facilities demonstrates long-term commitment to maintaining Tucson's highest service standards."
       },
       {
             "type": "paragraph",

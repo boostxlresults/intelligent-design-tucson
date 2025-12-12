@@ -22,7 +22,7 @@ export const electricalsaddlebrookeData: ServicePageData = {
   highlights: [
   {
     "title": "Retirement Community Electrical Experts",
-    "description": "45+ years serving SaddleBrooke | Senior-focused electrical solutions | Generator specialists | Medical equipment power | Aging-in-place upgrades | Safety-first approach"
+    "description": "46+ years serving SaddleBrooke | Senior-focused electrical solutions | Generator specialists | Medical equipment power | Aging-in-place upgrades | Safety-first approach"
   },
   {
     "title": "ServiceTitan Rapid Response",

@@ -24,7 +24,7 @@ export const hvactanqueverdeData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tanque Verde",
+    "title": "46+ years Serving Tanque Verde",
     "description": "Local expertise since 1979 | Deep understanding of luxury home HVAC | Catalina Foothills specialists | Advanced system design for executive properties"
   },
   {

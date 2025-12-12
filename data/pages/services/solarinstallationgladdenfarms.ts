@@ -25,7 +25,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Gladden Farms",
+    "title": "46+ years Serving Gladden Farms",
     "description": "Local expertise since 1979. We understand Gladden Farms's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -586,7 +586,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Go Solar in Gladden Farms?",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy. Call (520) 333-2665 or schedule online. We serve Gladden Farms families with 45+ years of trusted service.",
+            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy. Call (520) 333-2665 or schedule online. We serve Gladden Farms families with 46+ years of trusted service.",
             "buttonText": "Get Free Consultation",
             "buttonLink": "tel:+15203332665"
       },
@@ -660,7 +660,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Common questions from Gladden Farms homeowners are addressed in our comprehensive FAQ section. For personalized answers about your specific home and solar potential, schedule a free consultation with our solar experts at (520) 333-2665. We're proud to serve Gladden Farms families with honest guidance and expert installations backed by 45+ years of experience."
+            "content": "Common questions from Gladden Farms homeowners are addressed in our comprehensive FAQ section. For personalized answers about your specific home and solar potential, schedule a free consultation with our solar experts at (520) 333-2665. We're proud to serve Gladden Farms families with honest guidance and expert installations backed by 46+ years of experience."
       },
       {
             "type": "heading",

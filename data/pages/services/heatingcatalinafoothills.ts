@@ -23,7 +23,7 @@ export const heatingcatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills Heating Specialists",
-      "description": "45+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
+      "description": "46+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",

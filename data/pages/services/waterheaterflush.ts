@@ -23,7 +23,7 @@ export const waterheaterflushData: ServicePageData = {
   highlights: [
   {
     "title": "Hard Water Expertise",
-    "description": "Tucson-specific service | Power flushing for mineral removal | 45+ years local experience | Water softener recommendations"
+    "description": "Tucson-specific service | Power flushing for mineral removal | 46+ years local experience | Water softener recommendations"
   },
   {
     "title": "Comprehensive Maintenance",
@@ -216,7 +216,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These symptoms strongly indicated severe sediment buildup causing overheating conditions. Sediment was preventing efficient heat transfer to water, causing the burner to run constantly. The overheating caused water temperature to spike above the thermostat setting, triggering temperature-pressure relief valve discharge to prevent dangerous tank pressure. While many plumbers would have simply replaced the water heater as \"old and failing,\" our 45+ years of Tucson experience suggested the underlying tank might still be structurally sound—just buried under years of sediment."
+            "content": "These symptoms strongly indicated severe sediment buildup causing overheating conditions. Sediment was preventing efficient heat transfer to water, causing the burner to run constantly. The overheating caused water temperature to spike above the thermostat setting, triggering temperature-pressure relief valve discharge to prevent dangerous tank pressure. While many plumbers would have simply replaced the water heater as \"old and failing,\" our 46+ years of Tucson experience suggested the underlying tank might still be structurally sound—just buried under years of sediment."
       },
       {
             "type": "paragraph",
@@ -234,7 +234,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our comprehensive water heater flush service follows a rigorous 8-step process developed over 45+ years of experience with Tucson's hard water conditions. This systematic approach ensures complete sediment removal, component inspection, and long-term reliability—far exceeding basic \"drain and flush\" services some companies offer."
+            "content": "Our comprehensive water heater flush service follows a rigorous 8-step process developed over 46+ years of experience with Tucson's hard water conditions. This systematic approach ensures complete sediment removal, component inspection, and long-term reliability—far exceeding basic \"drain and flush\" services some companies offer."
       },
       {
             "type": "heading",
@@ -354,7 +354,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For Tucson homeowners served by Tucson Water or other municipal sources with 12-16 grains per gallon hardness, we strongly recommend annual water heater flushing. This recommendation is based on 45+ years of field data showing that Tucson water heaters generate 5-10 pounds of sediment annually. Annual service prevents sediment from accumulating to levels that cause efficiency loss, component damage, and premature failure. It also maintains sediment in a soft, easily removable condition rather than allowing it to harden into cement-like deposits."
+            "content": "For Tucson homeowners served by Tucson Water or other municipal sources with 12-16 grains per gallon hardness, we strongly recommend annual water heater flushing. This recommendation is based on 46+ years of field data showing that Tucson water heaters generate 5-10 pounds of sediment annually. Annual service prevents sediment from accumulating to levels that cause efficiency loss, component damage, and premature failure. It also maintains sediment in a soft, easily removable condition rather than allowing it to harden into cement-like deposits."
       },
       {
             "type": "paragraph",

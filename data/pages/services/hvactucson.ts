@@ -24,7 +24,7 @@ export const hvactucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tucson",
+    "title": "46+ years Serving Tucson",
     "description": "Local expertise since 1979 | Deep understanding of Tucson's extreme climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {

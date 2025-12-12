@@ -22,7 +22,7 @@ export const electricalrillitoData: ServicePageData = {
   highlights: [
   {
     "title": "Rural Property Electrical Experts",
-    "description": "45+ years serving Rillito | Well pump electrical specialists | Barn & shop wiring | Agricultural property expertise | Older home rewiring | Property upgrades"
+    "description": "46+ years serving Rillito | Well pump electrical specialists | Barn & shop wiring | Agricultural property expertise | Older home rewiring | Property upgrades"
   },
   {
     "title": "ServiceTitan Rapid Response",

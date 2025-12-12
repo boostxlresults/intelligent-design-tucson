@@ -22,7 +22,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Electrical Specialists",
-      "description": "45+ years serving active adult communities | Patient, clear communication | Average 62-minute response time to Saddle Brooke / Catalina"
+      "description": "46+ years serving active adult communities | Patient, clear communication | Average 62-minute response time to Saddle Brooke / Catalina"
     },
     {
       "title": "Licensed & Background-Checked",

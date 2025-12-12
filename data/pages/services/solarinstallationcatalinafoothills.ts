@@ -223,7 +223,7 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our solar installers are NABCEP-certified, background-checked, and experienced with luxury home installations. We provide detailed proposals showing production estimates, savings projections, and financing options—complete transparency with no high-pressure sales tactics. Our solar installations include 25-30 year panel warranties, 10-15 year inverter warranties, 25-year workmanship warranty, and production guarantees. We maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills solar installation, you're partnering with a company that has 45+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every installation."
+        "content": "Our solar installers are NABCEP-certified, background-checked, and experienced with luxury home installations. We provide detailed proposals showing production estimates, savings projections, and financing options—complete transparency with no high-pressure sales tactics. Our solar installations include 25-30 year panel warranties, 10-15 year inverter warranties, 25-year workmanship warranty, and production guarantees. We maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills solar installation, you're partnering with a company that has 46+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every installation."
       },
       {
         "type": "paragraph",

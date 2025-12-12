@@ -24,7 +24,7 @@ export const hvacorovalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Oro Valley",
+    "title": "46+ years Serving Oro Valley",
     "description": "Local expertise since 1979 | Deep understanding of Oro Valley's energy-efficient construction | Expert with newer HVAC technologies | HOA compliance specialists"
   },
   {

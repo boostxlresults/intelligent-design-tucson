@@ -11,7 +11,7 @@ export const waterheaterinstallationData: ServicePageData = {
   // Hero Section
   h1: 'Water Heater Installation in Tucson, AZ',
   h2Subheading: 'Expert Water Heater Installation in Tucson',
-  tagline: 'Tank, Tankless & Hybrid Installation | Expert Sizing & Permitting | Same-Day Service Available | Free Consultation | 45+ Years Experience',
+  tagline: 'Tank, Tankless & Hybrid Installation | Expert Sizing & Permitting | Same-Day Service Available | Free Consultation | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_installation_service_2f1d92e9.webp',
   heroImageAlt: 'Water Heater Installation in Tucson',
   
@@ -34,7 +34,7 @@ export const waterheaterinstallationData: ServicePageData = {
     "description": "Rheem, Bradford White, AO Smith, Rinnai, Navien | Best-in-class equipment | Manufacturer warranties"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {
@@ -524,7 +524,7 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's unique climate and water conditions create specific considerations for water heater installation. Our 45+ years of local experience means we understand these factors and design installations that perform optimally in Southern Arizona's environment."
+            "content": "Tucson's unique climate and water conditions create specific considerations for water heater installation. Our 46+ years of local experience means we understand these factors and design installations that perform optimally in Southern Arizona's environment."
       },
       {
             "type": "paragraph",
@@ -556,7 +556,7 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and 45+ years serving Tucson exclusively, we've earned the community's trust through consistent quality and honest service. We're a family and veteran-owned business that treats every customer like family—never pushing unnecessary upgrades or oversized equipment to inflate invoices. Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies. This expertise means we handle complex installations confidently—tankless requiring gas line upgrades and new venting systems, hybrid systems needing electrical modifications and condensate drainage, or challenging installations in tight attics, crawl spaces, or closets with limited access. We resolve unexpected challenges efficiently without surprise charges or delays, and our installations consistently pass city inspections on the first attempt because we install to code every single time."
+            "content": "With over 22,000 five-star reviews and 46+ years serving Tucson exclusively, we've earned the community's trust through consistent quality and honest service. We're a family and veteran-owned business that treats every customer like family—never pushing unnecessary upgrades or oversized equipment to inflate invoices. Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies. This expertise means we handle complex installations confidently—tankless requiring gas line upgrades and new venting systems, hybrid systems needing electrical modifications and condensate drainage, or challenging installations in tight attics, crawl spaces, or closets with limited access. We resolve unexpected challenges efficiently without surprise charges or delays, and our installations consistently pass city inspections on the first attempt because we install to code every single time."
       },
       {
             "type": "heading",

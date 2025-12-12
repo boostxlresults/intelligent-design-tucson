@@ -35,7 +35,7 @@ export const roofingorovalleyData: ServicePageData = {
     "description": "Pre-approved materials and colors for all major Oro Valley HOAs. We handle architectural review submissions and ensure complete compliance."
   },
   {
-    "title": "45+ Years Oro Valley Expertise",
+    "title": "46+ years Oro Valley Expertise",
     "description": "Local roofing knowledge since 1979. Deep understanding of Oro Valley's unique climate challenges, building codes, and HOA requirements."
   },
   {
@@ -187,7 +187,7 @@ export const roofingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our proven systematic approach ensures consistent quality, transparency, and customer satisfaction on every Oro Valley roofing project. This comprehensive process has been refined over 45+ years and thousands of successful installations."
+            "content": "Our proven systematic approach ensures consistent quality, transparency, and customer satisfaction on every Oro Valley roofing project. This comprehensive process has been refined over 46+ years and thousands of successful installations."
       },
       {
             "type": "heading",
@@ -383,9 +383,9 @@ export const roofingorovalleyData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "45+ Years Local Expertise: Serving Oro Valley since 1979 with deep knowledge of community standards, climate challenges, and HOA requirements | Tile Roofing Specialists: Over 85% of our Oro Valley projects involve tile roofs—we're the recognized experts in Spanish clay and concrete tile systems | HOA Compliance Mastery: 98% first-submission approval rate with pre-approved materials for 40+ Oro Valley communities | ServiceTitan Performance: 73-minute average response time, 80% same-day completion rate, 42 fully-stocked service vehicles | Licensed Master Roofers: Arizona ROC licensed professionals averaging 17+ years experience with 120+ hours annual training | 22,000+ Five-Star Reviews: 4.97-star Google rating, BBB A+ accreditation, #1 rated roofing company in Oro Valley and greater Tucson | Complete Home Services: Integrated roofing, HVAC, plumbing, electrical, and solar expertise providing whole-home solutions | Comprehensive Warranties: 50-year material warranties, 10-year workmanship warranty, preventive maintenance programs",
+            "content": "46+ years Local Expertise: Serving Oro Valley since 1979 with deep knowledge of community standards, climate challenges, and HOA requirements | Tile Roofing Specialists: Over 85% of our Oro Valley projects involve tile roofs—we're the recognized experts in Spanish clay and concrete tile systems | HOA Compliance Mastery: 98% first-submission approval rate with pre-approved materials for 40+ Oro Valley communities | ServiceTitan Performance: 73-minute average response time, 80% same-day completion rate, 42 fully-stocked service vehicles | Licensed Master Roofers: Arizona ROC licensed professionals averaging 17+ years experience with 120+ hours annual training | 22,000+ Five-Star Reviews: 4.97-star Google rating, BBB A+ accreditation, #1 rated roofing company in Oro Valley and greater Tucson | Complete Home Services: Integrated roofing, HVAC, plumbing, electrical, and solar expertise providing whole-home solutions | Comprehensive Warranties: 50-year material warranties, 10-year workmanship warranty, preventive maintenance programs",
             "items": [
-                  "45+ Years Local Expertise: Serving Oro Valley since 1979 with deep knowledge of community standards, climate challenges, and HOA requirements",
+                  "46+ years Local Expertise: Serving Oro Valley since 1979 with deep knowledge of community standards, climate challenges, and HOA requirements",
                   "Tile Roofing Specialists: Over 85% of our Oro Valley projects involve tile roofs—we're the recognized experts in Spanish clay and concrete tile systems",
                   "HOA Compliance Mastery: 98% first-submission approval rate with pre-approved materials for 40+ Oro Valley communities",
                   "ServiceTitan Performance: 73-minute average response time, 80% same-day completion rate, 42 fully-stocked service vehicles",
@@ -443,7 +443,7 @@ export const roofingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What makes your roofing company different from other Oro Valley contractors? Several factors distinguish Intelligent Design from competitors: 45+ years local expertise serving Oro Valley since 1979 vs. newer companies lacking community knowledge, Tile roofing specialization with 85% of our Oro Valley projects involving tile (we're true tile experts, not generalists), HOA mastery with 98% first-submission approval rate and database of pre-approved materials for 40+ communities, ServiceTitan technology delivering 73-minute average response vs. industry standard 4-6 hours, Multi-trade capabilities providing integrated roofing, HVAC, plumbing, electrical, and solar solutions (optimizing whole-home performance vs. roof-only focus), Licensed master roofers averaging 17+ years experience vs. industry average 8 years, 22,000+ verified five-star reviews (4.97-star Google rating) vs. competitors with hundreds of reviews or unverified testimonials, Complete transparency with itemized pricing, no-pressure consultations, and honest repair-vs-replace guidance, Comprehensive warranties combining 50-year materials, 10-year workmanship, and lifetime support, and Financial stability of family-owned company operating profitably for 45+ years (we'll be here to honor warranties unlike fly-by-night operators). Our combination of technical expertise, technology systems, community knowledge, and proven longevity provides homeowners with confident assurance their roofing investment is protected."
+            "content": "What makes your roofing company different from other Oro Valley contractors? Several factors distinguish Intelligent Design from competitors: 46+ years local expertise serving Oro Valley since 1979 vs. newer companies lacking community knowledge, Tile roofing specialization with 85% of our Oro Valley projects involving tile (we're true tile experts, not generalists), HOA mastery with 98% first-submission approval rate and database of pre-approved materials for 40+ communities, ServiceTitan technology delivering 73-minute average response vs. industry standard 4-6 hours, Multi-trade capabilities providing integrated roofing, HVAC, plumbing, electrical, and solar solutions (optimizing whole-home performance vs. roof-only focus), Licensed master roofers averaging 17+ years experience vs. industry average 8 years, 22,000+ verified five-star reviews (4.97-star Google rating) vs. competitors with hundreds of reviews or unverified testimonials, Complete transparency with itemized pricing, no-pressure consultations, and honest repair-vs-replace guidance, Comprehensive warranties combining 50-year materials, 10-year workmanship, and lifetime support, and Financial stability of family-owned company operating profitably for 46+ years (we'll be here to honor warranties unlike fly-by-night operators). Our combination of technical expertise, technology systems, community knowledge, and proven longevity provides homeowners with confident assurance their roofing investment is protected."
       },
       {
             "type": "paragraph",

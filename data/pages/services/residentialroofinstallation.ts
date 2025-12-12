@@ -5,13 +5,13 @@ import { residentialRoofInstallationFAQs } from '@/data/faqs/roofing';
 export const residentialroofinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Installation Tucson AZ | New Home Roof Installation',
-  description: 'Expert residential roof installation in Tucson. New construction & additions. Tile, shingle, metal & flat roofs. 45+ years experience. Call (520) 333-2665 for free estimate.',
+  description: 'Expert residential roof installation in Tucson. New construction & additions. Tile, shingle, metal & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
   slug: 'residential-roof-installation',
   
   // Hero Section
   h1: 'Residential Roof Installation Tucson AZ',
   h2Subheading: 'Expert Residential Roof Installation in Tucson',
-  tagline: 'New Construction | Custom Homes | Additions | All Roof Types | Expert Installation | 45+ Years Experience',
+  tagline: 'New Construction | Custom Homes | Additions | All Roof Types | Expert Installation | 46+ years Experience',
   heroImage: '/generated_images/residential_roof_installation_crew_9ad609fb.webp',
   heroImageAlt: 'Residential Roof Installation in Tucson',
   
@@ -34,7 +34,7 @@ export const residentialroofinstallationData: ServicePageData = {
     "description": "Material warranties up to lifetime | Labor warranties | Leak guarantees | Transferable protection"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
@@ -516,7 +516,7 @@ export const residentialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not satisfied until you are. Our 100% satisfaction guarantee means if you're not completely happy with any aspect of your roof installation, we'll work with you until it's right. This includes addressing quality concerns, resolving communication issues, correcting aesthetic details, and ensuring complete satisfaction with final results. This commitment has earned us over 22,000 five-star reviews and 4.97 Google rating. Our satisfaction guarantee isn't marketing language—it's how we've operated for 45+ years. Your satisfaction is our success, and we don't consider any job complete until you're thrilled with the results. Learn more about [link:/services/guarantees|our comprehensive guarantee programs] providing additional protection and peace of mind."
+            "content": "We're not satisfied until you are. Our 100% satisfaction guarantee means if you're not completely happy with any aspect of your roof installation, we'll work with you until it's right. This includes addressing quality concerns, resolving communication issues, correcting aesthetic details, and ensuring complete satisfaction with final results. This commitment has earned us over 22,000 five-star reviews and 4.97 Google rating. Our satisfaction guarantee isn't marketing language—it's how we've operated for 46+ years. Your satisfaction is our success, and we don't consider any job complete until you're thrilled with the results. Learn more about [link:/services/guarantees|our comprehensive guarantee programs] providing additional protection and peace of mind."
       },
       {
             "type": "heading",
@@ -538,7 +538,7 @@ export const residentialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Choosing the Right Roofing Contractor is Critical: Your roof represents one of your home's largest investments and most critical components. The contractor you select determines installation quality, long-term performance, warranty validity, and your overall experience. Not all roofing contractors deliver equal results. Some cut corners on materials, skip critical steps like proper ventilation or flashing, rush installations sacrificing quality, or disappear when warranty issues arise. We take the opposite approach: investing in the best materials, following comprehensive installation processes, maintaining meticulous quality control, and standing behind our work for decades. Our 45-year track record, 22,000+ five-star reviews, and industry certifications demonstrate consistent excellence. When you choose Intelligent Design, you're partnering with Tucson's most trusted roofing contractor committed to your complete satisfaction."
+            "content": "Choosing the Right Roofing Contractor is Critical: Your roof represents one of your home's largest investments and most critical components. The contractor you select determines installation quality, long-term performance, warranty validity, and your overall experience. Not all roofing contractors deliver equal results. Some cut corners on materials, skip critical steps like proper ventilation or flashing, rush installations sacrificing quality, or disappear when warranty issues arise. We take the opposite approach: investing in the best materials, following comprehensive installation processes, maintaining meticulous quality control, and standing behind our work for decades. Our 46-year track record, 22,000+ five-star reviews, and industry certifications demonstrate consistent excellence. When you choose Intelligent Design, you're partnering with Tucson's most trusted roofing contractor committed to your complete satisfaction."
       },
       {
             "type": "paragraph",

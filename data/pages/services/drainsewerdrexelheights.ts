@@ -22,7 +22,7 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   highlights: [
     {
       "title": "Drexel Heights Drain Specialists",
-      "description": "45+ years serving Drexel Heights families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Drexel Heights families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

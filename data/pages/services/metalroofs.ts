@@ -5,13 +5,13 @@ import { metalRoofsFAQs } from '@/data/faqs/roofing';
 export const metalroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Metal Roofing Tucson AZ | Standing Seam & Corrugated Metal Roof Installation',
-  description: 'Expert metal roofers in Tucson, AZ specializing in standing seam metal roof install, corrugated metal roofing, 22-24-26 gauge systems. Residential & commercial. 45+ years experience. Call (520) 333-2665.',
+  description: 'Expert metal roofers in Tucson, AZ specializing in standing seam metal roof install, corrugated metal roofing, 22-24-26 gauge systems. Residential & commercial. 46+ years experience. Call (520) 333-2665.',
   slug: 'metal-roofs',
   
   // Hero Section
   h1: 'Metal Roofing Tucson AZ',
   h2Subheading: 'Expert Metal Roofs in Tucson',
-  tagline: 'Standing Seam & Corrugated Metal | 40-70 Year Lifespan | Energy-Efficient Cool Roofs | Residential & Commercial | Free Estimates | 45+ Years Experience',
+  tagline: 'Standing Seam & Corrugated Metal | 40-70 Year Lifespan | Energy-Efficient Cool Roofs | Residential & Commercial | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/standing_seam_metal_roof_bbc9c9f9.webp',
   heroImageAlt: 'Metal Roofs in Tucson',
   
@@ -34,7 +34,7 @@ export const metalroofsData: ServicePageData = {
     "description": "Standing seam | Corrugated metal | Metal shingles | Stone-coated metal tile | Professional-grade thickness & quality"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Desert climate expertise | Trusted since 1979"
   },
   {

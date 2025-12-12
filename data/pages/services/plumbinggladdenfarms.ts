@@ -25,7 +25,7 @@ export const plumbinggladdenfarmsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Gladden Farms",
+    "title": "46+ years Serving Gladden Farms",
     "description": "Local expertise since 1979. We know Gladden Farms plumbing systems, water conditions, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const plumbinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Gladden Farms"
+            "content": "46+ years Serving Gladden Farms"
       },
       {
             "type": "paragraph",

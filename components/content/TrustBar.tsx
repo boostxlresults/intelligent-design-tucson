@@ -50,7 +50,7 @@ export default function TrustBar() {
 
           {/* Family Owned */}
           <div className="text-center">
-            <p className="text-3xl font-bold text-primary" data-testid="text-years">45+</p>
+            <p className="text-3xl font-bold text-primary" data-testid="text-years">46+</p>
             <p className="text-sm text-muted-foreground">Years Serving</p>
             <p className="text-sm text-muted-foreground">Tucson Families</p>
           </div>
@@ -61,7 +61,7 @@ export default function TrustBar() {
           {/* Veteran Owned */}
           <div className="text-center">
             <p className="text-sm font-semibold text-foreground">Family & Veteran-Owned</p>
-            <p className="text-xs text-muted-foreground mt-1">Since 1979</p>
+            <p className="text-xs text-muted-foreground mt-1">Serving Tucson Since 1979</p>
           </div>
         </div>
       </div>

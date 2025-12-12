@@ -22,7 +22,7 @@ export const drainsewercortaroData: ServicePageData = {
   highlights: [
     {
       "title": "Cortaro Drain Specialists",
-      "description": "45+ years serving Cortaro families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Cortaro families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

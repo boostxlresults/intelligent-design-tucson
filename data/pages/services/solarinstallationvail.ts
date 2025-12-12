@@ -26,7 +26,7 @@ export const solarinstallationvailData: ServicePageData = {
       "description": "ServiceTitan-powered dispatch delivers average 73-minute arrival for Vail solar consultations. Real-time GPS tracking and mobile solar design technology means faster quotes and quicker installations."
     },
     {
-      "title": "45+ Years Serving Vail Families",
+      "title": "46+ years Serving Vail Families",
       "description": "Local expertise since 1979. Deep understanding of Vail's unique solar advantages, HOA requirements, Rita Ranch communities, and Colossal Cave area installation challenges."
     },
     {
@@ -66,7 +66,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Proven Vail Expertise & Community Trust: Over our 45+ years serving Vail, we've completed hundreds of residential solar installations throughout Del Webb Rancho Del Lago, Sycamore Canyon Estates, The Preserve at SaddleBrooke, Rita Ranch developments, and rural Vail properties. We understand Vail's unique characteristics: optimal south-facing roof orientations on most homes, minimal shading from Vail's open desert landscape, HOA solar guidelines in Del Webb and other planned communities, tile roof installations common in Vail's Spanish-style architecture, and rural properties requiring special permitting considerations. Our 4.97-star Google rating from 22,000+ verified reviews and BBB A+ accreditation since 1979 make us Vail's highest-rated and most-trusted solar installation company."
+        "content": "Proven Vail Expertise & Community Trust: Over our 46+ years serving Vail, we've completed hundreds of residential solar installations throughout Del Webb Rancho Del Lago, Sycamore Canyon Estates, The Preserve at SaddleBrooke, Rita Ranch developments, and rural Vail properties. We understand Vail's unique characteristics: optimal south-facing roof orientations on most homes, minimal shading from Vail's open desert landscape, HOA solar guidelines in Del Webb and other planned communities, tile roof installations common in Vail's Spanish-style architecture, and rural properties requiring special permitting considerations. Our 4.97-star Google rating from 22,000+ verified reviews and BBB A+ accreditation since 1979 make us Vail's highest-rated and most-trusted solar installation company."
       },
       {
         "type": "paragraph",
@@ -399,7 +399,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "45+ Years of Vail Solar Expertise: Since 1979, we've completed hundreds of Vail solar installations understanding unique local requirements: Del Webb and Rita Ranch HOA approval processes, tile roof installation techniques common in Vail architecture, rural property permitting outside Town limits, optimal panel orientation given Rincon Mountain shading, and TEP interconnection requirements specific to Vail's electrical infrastructure. Our 4.97-star Google rating from 22,000+ reviews and BBB A+ accreditation make us Vail's highest-rated solar company."
+        "content": "46+ years of Vail Solar Expertise: Since 1979, we've completed hundreds of Vail solar installations understanding unique local requirements: Del Webb and Rita Ranch HOA approval processes, tile roof installation techniques common in Vail architecture, rural property permitting outside Town limits, optimal panel orientation given Rincon Mountain shading, and TEP interconnection requirements specific to Vail's electrical infrastructure. Our 4.97-star Google rating from 22,000+ reviews and BBB A+ accreditation make us Vail's highest-rated solar company."
       },
       {
         "type": "paragraph",

@@ -381,7 +381,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding when to service, repair, or replace your AC system saves thousands of dollars over your system's lifecycle while ensuring reliable cooling when you need it most. This decision framework helps Tucson homeowners make informed choices based on system age, condition, repair costs, and long-term value. While every situation is unique, these general guidelines based on our 45+ years serving Tucson families provide valuable context for evaluating your options."
+            "content": "Understanding when to service, repair, or replace your AC system saves thousands of dollars over your system's lifecycle while ensuring reliable cooling when you need it most. This decision framework helps Tucson homeowners make informed choices based on system age, condition, repair costs, and long-term value. While every situation is unique, these general guidelines based on our 46+ years serving Tucson families provide valuable context for evaluating your options."
       },
       {
             "type": "heading",
@@ -479,7 +479,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding the return on investment for preventive AC service helps homeowners make informed maintenance decisions based on financial value rather than just upfront cost. Let's examine real-world scenarios from our 45+ years serving Tucson families, using actual data from our service history to demonstrate how $150-$200 annual preventive service prevents thousands in emergency repairs while reducing monthly operating costs through improved efficiency."
+            "content": "Understanding the return on investment for preventive AC service helps homeowners make informed maintenance decisions based on financial value rather than just upfront cost. Let's examine real-world scenarios from our 46+ years serving Tucson families, using actual data from our service history to demonstrate how $150-$200 annual preventive service prevents thousands in emergency repairs while reducing monthly operating costs through improved efficiency."
       },
       {
             "type": "paragraph",
@@ -571,7 +571,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a family-owned and veteran-operated business serving Tucson since 1979, we understand the importance of reliable air conditioning in the Arizona desert where AC isn't a luxury but a life-safety necessity during extreme summer heat. We treat every home as if it were our own, respecting your property, cleaning up completely after service, and standing behind our work with comprehensive service guarantees. Our nearly perfect 4.97-star Google rating from over 22,000 reviews reflects our unwavering commitment to customer satisfaction, honest recommendations, and quality workmanship that has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're trusting a company with your family's comfort and safety during 110-degree heat, you're choosing the company that has earned and maintained community trust through 45+ years of exceptional service to Tucson families. Learn more about our commitment to quality service and customer satisfaction on our [link:/customer-reviews|customer reviews] page."
+            "content": "As a family-owned and veteran-operated business serving Tucson since 1979, we understand the importance of reliable air conditioning in the Arizona desert where AC isn't a luxury but a life-safety necessity during extreme summer heat. We treat every home as if it were our own, respecting your property, cleaning up completely after service, and standing behind our work with comprehensive service guarantees. Our nearly perfect 4.97-star Google rating from over 22,000 reviews reflects our unwavering commitment to customer satisfaction, honest recommendations, and quality workmanship that has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're trusting a company with your family's comfort and safety during 110-degree heat, you're choosing the company that has earned and maintained community trust through 46+ years of exceptional service to Tucson families. Learn more about our commitment to quality service and customer satisfaction on our [link:/customer-reviews|customer reviews] page."
       },
       {
             "type": "cta",

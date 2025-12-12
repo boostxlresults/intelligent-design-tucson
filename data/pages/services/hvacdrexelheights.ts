@@ -23,7 +23,7 @@ export const hvacdrexelheightsData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Drexel Heights HVAC Excellence",
+    "title": "46+ years Drexel Heights HVAC Excellence",
     "description": "Local expertise since 1979 | Deep understanding of southwest Tucson climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -559,7 +559,7 @@ export const hvacdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We provide expert HVAC services throughout all Drexel Heights communities, including neighborhoods near Drexel Villa Elementary, Mission View High School, Valencia Road corridor, Ajo Way area, Drexel Road residential areas, and all surrounding southwest Tucson locations. Our technicians understand Drexel Heights' diverse housing stock spanning 1960s ranch homes to modern construction, maintain rapid 68-minute average response throughout southwest Tucson, and deliver industry-leading service quality backed by our 45+ years of local expertise. Whether you're in an established Drexel Heights neighborhood or newer development, we provide honest recommendations, quality workmanship, and reliable HVAC solutions engineered for southwest Tucson's desert climate. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|22,000+ five-star reviews] and BBB A+ rating."
+            "content": "We provide expert HVAC services throughout all Drexel Heights communities, including neighborhoods near Drexel Villa Elementary, Mission View High School, Valencia Road corridor, Ajo Way area, Drexel Road residential areas, and all surrounding southwest Tucson locations. Our technicians understand Drexel Heights' diverse housing stock spanning 1960s ranch homes to modern construction, maintain rapid 68-minute average response throughout southwest Tucson, and deliver industry-leading service quality backed by our 46+ years of local expertise. Whether you're in an established Drexel Heights neighborhood or newer development, we provide honest recommendations, quality workmanship, and reliable HVAC solutions engineered for southwest Tucson's desert climate. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|22,000+ five-star reviews] and BBB A+ rating."
       },
       {
             "type": "case_study",

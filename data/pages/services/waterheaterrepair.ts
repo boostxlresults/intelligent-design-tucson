@@ -11,7 +11,7 @@ export const waterheaterrepairData: ServicePageData = {
   // Hero Section
   h1: 'Water Heater Repair in Tucson, AZ',
   h2Subheading: 'Expert Water Heater Repair in Tucson',
-  tagline: 'Same-Day Emergency Repairs | Tank, Tankless & Hybrid | No Hot Water? Leaking? Strange Noises? | Expert Diagnostics | 45+ Years Experience',
+  tagline: 'Same-Day Emergency Repairs | Tank, Tankless & Hybrid | No Hot Water? Leaking? Strange Noises? | Expert Diagnostics | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_repair_service_399fceb7.webp',
   heroImageAlt: 'Water Heater Repair in Tucson',
   
@@ -34,7 +34,7 @@ export const waterheaterrepairData: ServicePageData = {
     "description": "No pressure sales | Transparent pricing | Cost-benefit analysis | Economical recommendations"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {

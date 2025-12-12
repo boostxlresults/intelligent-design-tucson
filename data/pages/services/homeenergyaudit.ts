@@ -11,7 +11,7 @@ export const homeenergyauditData: ServicePageData = {
   // Hero Section
   h1: 'Home Energy Audit Tucson AZ',
   h2Subheading: 'Expert Home Energy Audit in Tucson',
-  tagline: 'Comprehensive Energy Assessment | Identify Savings Opportunities | Solar Readiness Analysis | HVAC Efficiency Testing | 45+ Years Experience',
+  tagline: 'Comprehensive Energy Assessment | Identify Savings Opportunities | Solar Readiness Analysis | HVAC Efficiency Testing | 46+ years Experience',
   heroImage: '/generated_images/Home_energy_audit_consultation_c5abfdea.webp',
   heroImageAlt: 'Home Energy Audit in Tucson',
   
@@ -38,7 +38,7 @@ export const homeenergyauditData: ServicePageData = {
     "description": "Prioritized improvements | Cost-benefit analysis | ROI calculations | Implementation roadmap"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Desert climate specialists | Trusted since 1979"
   },
   {
@@ -565,9 +565,9 @@ export const homeenergyauditData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "45+ Years Tucson Expertise",
+            "heading": "46+ years Tucson Expertise",
             "level": 3,
-            "content": "45+ Years Tucson Expertise"
+            "content": "46+ years Tucson Expertise"
       },
       {
             "type": "paragraph",

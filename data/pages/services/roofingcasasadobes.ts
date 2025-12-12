@@ -25,7 +25,7 @@ export const roofingcasasadobesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Casas Adobes",
+    "title": "46+ years Serving Casas Adobes",
     "description": "Local expertise since 1979. We know Casas Adobes roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Casas Adobes"
+            "content": "46+ years Serving Casas Adobes"
       },
       {
             "type": "paragraph",

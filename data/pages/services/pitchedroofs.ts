@@ -5,13 +5,13 @@ import { pitchedRoofsFAQs } from '@/data/faqs/roofing';
 export const pitchedroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Pitched Roof Installation Tucson AZ | Sloped Roof Systems & Repair',
-  description: 'Expert pitched roof installation in Tucson. Gabled roofs, sloped systems, proper ventilation, residential & commercial. Superior water drainage. 45+ years experience. Call (520) 333-2665.',
+  description: 'Expert pitched roof installation in Tucson. Gabled roofs, sloped systems, proper ventilation, residential & commercial. Superior water drainage. 46+ years experience. Call (520) 333-2665.',
   slug: 'pitched-roofs',
   
   // Hero Section
   h1: 'Pitched Roof Systems Tucson AZ',
   h2Subheading: 'Expert Pitched Roofs in Tucson',
-  tagline: 'Gabled & Hip Roofs | Sloped Roof Systems | Superior Ventilation | Residential & Commercial | Free Estimates | 45+ Years Experience',
+  tagline: 'Gabled & Hip Roofs | Sloped Roof Systems | Superior Ventilation | Residential & Commercial | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/residential_pitched_roof_structure_1a18974e.webp',
   heroImageAlt: 'Pitched Roofs in Tucson',
   
@@ -34,7 +34,7 @@ export const pitchedroofsData: ServicePageData = {
     "description": "Shingles, tile, metal | Budget to premium | Desert-rated materials | Perfect for Tucson climate"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Gable & hip roof experts | Trusted since 1979"
   },
   {
@@ -572,7 +572,7 @@ export const pitchedroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Since 1979, we've installed thousands of pitched roofs throughout greater Tucson—from simple gable roofs on ranch homes to complex multi-pitch tile roofs on luxury Spanish Colonial estates. Our 45+ years of Tucson-specific experience means we understand the unique challenges our climate presents: extreme UV radiation accelerating material degradation, violent monsoon storms testing wind resistance, dramatic temperature swings causing thermal stress, and occasional freezing temperatures requiring proper material selection. We've witnessed how different roofing systems perform over decades in Tucson's climate—this institutional knowledge guides our recommendations ensuring you get optimal materials and design for your specific situation. Our installation crews average 12+ years experience with our company—we don't use temporary subcontractors or inexperienced workers. Every pitched roof installation receives expert attention from licensed professionals who take pride in their craftsmanship. Many contractors claim Tucson experience—we've actually been here nearly half a century proving our commitment to this community."
+            "content": "Since 1979, we've installed thousands of pitched roofs throughout greater Tucson—from simple gable roofs on ranch homes to complex multi-pitch tile roofs on luxury Spanish Colonial estates. Our 46+ years of Tucson-specific experience means we understand the unique challenges our climate presents: extreme UV radiation accelerating material degradation, violent monsoon storms testing wind resistance, dramatic temperature swings causing thermal stress, and occasional freezing temperatures requiring proper material selection. We've witnessed how different roofing systems perform over decades in Tucson's climate—this institutional knowledge guides our recommendations ensuring you get optimal materials and design for your specific situation. Our installation crews average 12+ years experience with our company—we don't use temporary subcontractors or inexperienced workers. Every pitched roof installation receives expert attention from licensed professionals who take pride in their craftsmanship. Many contractors claim Tucson experience—we've actually been here nearly half a century proving our commitment to this community."
       },
       {
             "type": "heading",

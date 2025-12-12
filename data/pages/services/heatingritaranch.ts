@@ -23,7 +23,7 @@ export const heatingritaranchData: ServicePageData = {
   highlights: [
   {
     "title": "Rita Ranch Heating Experts",
-    "description": "45+ years serving Rita Ranch | Family-focused heating solutions | Energy efficiency specialists | New construction expertise | Desert climate optimization"
+    "description": "46+ years serving Rita Ranch | Family-focused heating solutions | Energy efficiency specialists | New construction expertise | Desert climate optimization"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -209,7 +209,7 @@ export const heatingritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Community Involvement & Long-Term Commitment: Intelligent Design isn't a national franchise disappearing after installation—we're a local Tucson company serving Rita Ranch families for decades, with commitment to the community. Our local advantage includes 45+ years serving Southern Arizona (since 1979, family-owned), local ownership (owners live in Tucson, committed to community), community support (we sponsor local schools, youth sports, charitable causes), long-term accountability (we'll be here for warranty service, future needs—not disappearing after installation), extensive local experience (2,800+ Rita Ranch customers, 85,000+ total—we know local homes, climate, codes inside and out), and personal relationships (many technicians serve same Rita Ranch neighborhoods for years, building trust and familiarity). When you choose Intelligent Design, you're not just buying a furnace or service—you're beginning a long-term relationship with a company committed to your comfort, your home's performance, and the Rita Ranch community. We'll be here next month, next year, and next decade to service your equipment, answer questions, and support your home comfort needs."
+            "content": "Community Involvement & Long-Term Commitment: Intelligent Design isn't a national franchise disappearing after installation—we're a local Tucson company serving Rita Ranch families for decades, with commitment to the community. Our local advantage includes 46+ years serving Southern Arizona (since 1979, family-owned), local ownership (owners live in Tucson, committed to community), community support (we sponsor local schools, youth sports, charitable causes), long-term accountability (we'll be here for warranty service, future needs—not disappearing after installation), extensive local experience (2,800+ Rita Ranch customers, 85,000+ total—we know local homes, climate, codes inside and out), and personal relationships (many technicians serve same Rita Ranch neighborhoods for years, building trust and familiarity). When you choose Intelligent Design, you're not just buying a furnace or service—you're beginning a long-term relationship with a company committed to your comfort, your home's performance, and the Rita Ranch community. We'll be here next month, next year, and next decade to service your equipment, answer questions, and support your home comfort needs."
       },
       {
             "type": "heading",

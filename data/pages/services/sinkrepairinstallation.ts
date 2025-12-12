@@ -34,7 +34,7 @@ export const sinkrepairinstallationData: ServicePageData = {
     "description": "Leak repairs | Drain clearing | Faucet repairs | Disposal repairs | Same-day service available"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Licensed plumbers | Trusted since 1979 | ROC #171687"
   },
   {
@@ -57,7 +57,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Your kitchen and bathroom sinks are among the most-used plumbing fixtures in your home, experiencing daily use for cooking, cleaning, hygiene, and countless other essential tasks. Whether you're upgrading to a modern farmhouse sink that transforms your kitchen's aesthetic, replacing a leaking bathroom vanity that's causing cabinet damage, installing a new undermount sink during a kitchen remodel, or repairing a dripping faucet that wastes water and increases utility bills, professional installation and repair ensures long-lasting functionality, prevents costly water damage, and enhances your home's value and appeal. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric, we've been installing and repairing sinks throughout Tucson since 1979, bringing 45+ years of plumbing expertise, manufacturer certifications, and hard water knowledge to every sink installation and repair project."
+            "content": "Your kitchen and bathroom sinks are among the most-used plumbing fixtures in your home, experiencing daily use for cooking, cleaning, hygiene, and countless other essential tasks. Whether you're upgrading to a modern farmhouse sink that transforms your kitchen's aesthetic, replacing a leaking bathroom vanity that's causing cabinet damage, installing a new undermount sink during a kitchen remodel, or repairing a dripping faucet that wastes water and increases utility bills, professional installation and repair ensures long-lasting functionality, prevents costly water damage, and enhances your home's value and appeal. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric, we've been installing and repairing sinks throughout Tucson since 1979, bringing 46+ years of plumbing expertise, manufacturer certifications, and hard water knowledge to every sink installation and repair project."
       },
       {
             "type": "paragraph",
@@ -65,7 +65,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Sink & Faucet Specialists: Modern sink options offer dramatic variety in styles, materials, configurations, and features compared to basic sinks of decades past. Today's homeowners choose from undermount sinks that create seamless countertop transitions and easier cleaning, farmhouse sinks that make bold design statements while providing deep basins for large cookware, vessel sinks that transform bathroom aesthetics into spa-like retreats, and specialized configurations like double-bowl prep sinks, integrated sink-countertops, or commercial-style utility sinks. Matching these options to your lifestyle, design preferences, budget, and Tucson's extremely hard water environment (13-15 grains per gallon among the hardest in the nation) requires genuine expertise in how different sink materials, faucet finishes, and drain configurations perform long-term in Southern Arizona's challenging conditions—expertise our licensed plumbers provide through 72+ hours of annual manufacturer training and 45+ years of local installation experience."
+            "content": "Tucson's Sink & Faucet Specialists: Modern sink options offer dramatic variety in styles, materials, configurations, and features compared to basic sinks of decades past. Today's homeowners choose from undermount sinks that create seamless countertop transitions and easier cleaning, farmhouse sinks that make bold design statements while providing deep basins for large cookware, vessel sinks that transform bathroom aesthetics into spa-like retreats, and specialized configurations like double-bowl prep sinks, integrated sink-countertops, or commercial-style utility sinks. Matching these options to your lifestyle, design preferences, budget, and Tucson's extremely hard water environment (13-15 grains per gallon among the hardest in the nation) requires genuine expertise in how different sink materials, faucet finishes, and drain configurations perform long-term in Southern Arizona's challenging conditions—expertise our licensed plumbers provide through 72+ hours of annual manufacturer training and 46+ years of local installation experience."
       },
       {
             "type": "paragraph",
@@ -352,7 +352,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Your sink style should match your cooking habits, design aesthetic, countertop material, cabinet configuration, and budget. Each style offers specific advantages and limitations affecting daily use, installation complexity, and cost. Here's our guidance based on 45+ years installing every sink style in Tucson homes:"
+            "content": "Your sink style should match your cooking habits, design aesthetic, countertop material, cabinet configuration, and budget. Each style offers specific advantages and limitations affecting daily use, installation complexity, and cost. Here's our guidance based on 46+ years installing every sink style in Tucson homes:"
       },
       {
             "type": "heading",
@@ -392,7 +392,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding sink installation costs and return on investment helps you make informed decisions balancing upfront expenses against long-term value, functionality improvements, and home value enhancement. Prices in Tucson vary based on sink type, material, installation complexity, and any necessary plumbing modifications. Here's transparent pricing information based on our 45+ years of local installations:"
+            "content": "Understanding sink installation costs and return on investment helps you make informed decisions balancing upfront expenses against long-term value, functionality improvements, and home value enhancement. Prices in Tucson vary based on sink type, material, installation complexity, and any necessary plumbing modifications. Here's transparent pricing information based on our 46+ years of local installations:"
       },
       {
             "type": "heading",
@@ -427,7 +427,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Upgrade Your Kitchen or Bathroom Sink?",
-            "content": "Get expert consultation on sink selection, transparent pricing, and professional installation backed by 45+ years of Tucson experience. Free consultation, same-day service available, [link:/services/financing|flexible financing], and satisfaction guaranteed. Call (520) 333-2665 now.",
+            "content": "Get expert consultation on sink selection, transparent pricing, and professional installation backed by 46+ years of Tucson experience. Free consultation, same-day service available, [link:/services/financing|flexible financing], and satisfaction guaranteed. Call (520) 333-2665 now.",
             "buttonText": "Schedule Free Consultation",
             "buttonLink": "tel:+15203332665"
       },
@@ -439,7 +439,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Even quality sinks and faucets eventually require professional attention. Understanding common problems helps you recognize when repairs are needed and prevents minor issues from becoming expensive emergencies. Our licensed plumbers diagnose and repair all sink and faucet problems with expertise gained from 45+ years serving Tucson homes."
+            "content": "Even quality sinks and faucets eventually require professional attention. Understanding common problems helps you recognize when repairs are needed and prevents minor issues from becoming expensive emergencies. Our licensed plumbers diagnose and repair all sink and faucet problems with expertise gained from 46+ years serving Tucson homes."
       },
       {
             "type": "heading",
@@ -529,7 +529,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Bathroom sink selection differs significantly from kitchen sinks, prioritizing aesthetics, space efficiency, and vanity integration over the heavy-duty functionality required in kitchens. Bathrooms experience lighter use but serve as personal retreats where design and ambiance matter enormously. Our 45+ years installing bathroom sinks throughout Tucson provides perspective on which configurations work best for different bathroom sizes, user needs, and design aesthetics."
+            "content": "Bathroom sink selection differs significantly from kitchen sinks, prioritizing aesthetics, space efficiency, and vanity integration over the heavy-duty functionality required in kitchens. Bathrooms experience lighter use but serve as personal retreats where design and ambiance matter enormously. Our 46+ years installing bathroom sinks throughout Tucson provides perspective on which configurations work best for different bathroom sizes, user needs, and design aesthetics."
       },
       {
             "type": "heading",
@@ -639,11 +639,11 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Committed to Tucson's Water Conservation: As a locally-owned company serving this community for 45+ years, we're deeply committed to water conservation in water-scarce Southern Arizona. We actively recommend and install WaterSense certified faucets reducing water consumption by 30% without sacrificing performance, help customers access Tucson Water rebate programs offsetting fixture costs, and educate homeowners on water-efficient practices that reduce utility bills while conserving our region's most precious resource. Every low-flow faucet we install saves 500-700 gallons annually—multiply that by thousands of installations over 45 years, and our water conservation impact is genuinely meaningful for Tucson's sustainable future."
+            "content": "Committed to Tucson's Water Conservation: As a locally-owned company serving this community for 46+ years, we're deeply committed to water conservation in water-scarce Southern Arizona. We actively recommend and install WaterSense certified faucets reducing water consumption by 30% without sacrificing performance, help customers access Tucson Water rebate programs offsetting fixture costs, and educate homeowners on water-efficient practices that reduce utility bills while conserving our region's most precious resource. Every low-flow faucet we install saves 500-700 gallons annually—multiply that by thousands of installations over 45 years, and our water conservation impact is genuinely meaningful for Tucson's sustainable future."
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for sink installation or repair, you're getting more than a plumber—you're getting a trusted advisor, quality craftsperson, and community partner committed to delivering value, performance, and satisfaction that lasts for decades. With over 22,000 five-star reviews, 85,000+ satisfied customers, and 45+ years of continuous service to Tucson families, we've proven our commitment to excellence with every sink, faucet, and disposal we install."
+            "content": "When you choose Intelligent Design for sink installation or repair, you're getting more than a plumber—you're getting a trusted advisor, quality craftsperson, and community partner committed to delivering value, performance, and satisfaction that lasts for decades. With over 22,000 five-star reviews, 85,000+ satisfied customers, and 46+ years of continuous service to Tucson families, we've proven our commitment to excellence with every sink, faucet, and disposal we install."
       },
       {
             "type": "cta",

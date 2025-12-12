@@ -22,7 +22,7 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Plumbing Specialists",
-      "description": "45+ years serving active adult communities | Patient, clear communication | Average 62-minute response time"
+      "description": "46+ years serving active adult communities | Patient, clear communication | Average 62-minute response time"
     },
     {
       "title": "Licensed & Background-Checked",

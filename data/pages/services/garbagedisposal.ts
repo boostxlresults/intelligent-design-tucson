@@ -31,7 +31,7 @@ export const garbagedisposalData: ServicePageData = {
   },
   {
     "title": "Licensed & Experienced",
-    "description": "45+ years serving Tucson | Licensed plumbers & electricians | ROC #171687 | Fully insured | 22,000+ reviews"
+    "description": "46+ years serving Tucson | Licensed plumbers & electricians | ROC #171687 | Fully insured | 22,000+ reviews"
   },
   {
     "title": "Quality Equipment",
@@ -65,7 +65,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Garbage Disposal Experts: Tucson's extremely hard water—measuring 13-15 grains per gallon among the hardest in the nation—creates unique challenges for garbage disposals that don't exist in softer-water regions. Mineral buildup accelerates wear on internal grind components, corrodes mounting assemblies and electrical connections, clogs drain lines connected to disposals, and can cause premature failure in lower-quality units. That's why we recommend and install premium disposal models specifically designed for hard water environments: stainless steel grind chambers offering superior corrosion resistance, sealed motors protected from mineral intrusion, reinforced mounting assemblies resistant to mineral-accelerated corrosion, and robust construction designed to withstand Tucson's harsh water conditions. Proper installation with leak-proof connections, secure electrical wiring meeting National Electrical Code requirements, appropriate drain integration preventing backups, and hard water considerations ensures your investment performs optimally for 10-15 years or longer—expertise our licensed plumbers provide through 72+ hours of annual manufacturer training and 45+ years of local installation experience."
+            "content": "Tucson's Garbage Disposal Experts: Tucson's extremely hard water—measuring 13-15 grains per gallon among the hardest in the nation—creates unique challenges for garbage disposals that don't exist in softer-water regions. Mineral buildup accelerates wear on internal grind components, corrodes mounting assemblies and electrical connections, clogs drain lines connected to disposals, and can cause premature failure in lower-quality units. That's why we recommend and install premium disposal models specifically designed for hard water environments: stainless steel grind chambers offering superior corrosion resistance, sealed motors protected from mineral intrusion, reinforced mounting assemblies resistant to mineral-accelerated corrosion, and robust construction designed to withstand Tucson's harsh water conditions. Proper installation with leak-proof connections, secure electrical wiring meeting National Electrical Code requirements, appropriate drain integration preventing backups, and hard water considerations ensures your investment performs optimally for 10-15 years or longer—expertise our licensed plumbers provide through 72+ hours of annual manufacturer training and 46+ years of local installation experience."
       },
       {
             "type": "paragraph",
@@ -450,7 +450,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Selecting the right disposal brand impacts performance, longevity, warranty coverage, and service availability. We install and service all major brands, providing objective comparisons based on 45+ years of installation experience and thousands of units serviced across Tucson's challenging hard water environment:"
+            "content": "Selecting the right disposal brand impacts performance, longevity, warranty coverage, and service availability. We install and service all major brands, providing objective comparisons based on 46+ years of installation experience and thousands of units serviced across Tucson's challenging hard water environment:"
       },
       {
             "type": "heading",
@@ -648,7 +648,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Tucson Plumbing Expertise: Since 1979, we've installed over 28,000 garbage disposals throughout metro Tucson, developing unmatched expertise in how disposals perform in our unique hard water environment. Our 52 licensed master plumbers average 14+ years hands-on experience and complete 72+ hours annual manufacturer training on latest disposal technologies, installation techniques, and hard water mitigation strategies. We're factory-authorized installers for InSinkErator, Waste King, Moen, KitchenAid, and other major brands—expertise that ensures proper installation, warranty protection, and optimal performance selection matching your household needs and Tucson's challenging water quality."
+            "content": "46+ years of Tucson Plumbing Expertise: Since 1979, we've installed over 28,000 garbage disposals throughout metro Tucson, developing unmatched expertise in how disposals perform in our unique hard water environment. Our 52 licensed master plumbers average 14+ years hands-on experience and complete 72+ hours annual manufacturer training on latest disposal technologies, installation techniques, and hard water mitigation strategies. We're factory-authorized installers for InSinkErator, Waste King, Moen, KitchenAid, and other major brands—expertise that ensures proper installation, warranty protection, and optimal performance selection matching your household needs and Tucson's challenging water quality."
       },
       {
             "type": "paragraph",
@@ -672,7 +672,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you need garbage disposal installation, repair, or replacement in Tucson, choosing Intelligent Design means selecting proven expertise, honest recommendations, hard water knowledge, comprehensive service, and transparent pricing backed by 45+ years of customer satisfaction. Call (520) 333-2665 today or schedule online for same-day service from Tucson's most-trusted [link:/services/plumbing-tucson|plumbing company]."
+            "content": "When you need garbage disposal installation, repair, or replacement in Tucson, choosing Intelligent Design means selecting proven expertise, honest recommendations, hard water knowledge, comprehensive service, and transparent pricing backed by 46+ years of customer satisfaction. Call (520) 333-2665 today or schedule online for same-day service from Tucson's most-trusted [link:/services/plumbing-tucson|plumbing company]."
       }
 ]
   },

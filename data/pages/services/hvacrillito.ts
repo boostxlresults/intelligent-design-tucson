@@ -24,7 +24,7 @@ export const hvacrillitoData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Rillito",
+    "title": "46+ years Serving Rillito",
     "description": "Local expertise since 1979 | Deep understanding of Rillito's rural properties | Expert with horse barn cooling | Specialty livestock climate control"
   },
   {

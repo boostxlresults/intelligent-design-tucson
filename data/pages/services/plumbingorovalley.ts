@@ -23,7 +23,7 @@ export const plumbingorovalleyData: ServicePageData = {
   highlights: [
   {
     "title": "Oro Valley Plumbing Specialists Since 1979",
-    "description": "45+ years serving Oro Valley's newer developments | Expert in modern plumbing systems | HOA compliance specialists | 2,800+ Oro Valley homes serviced annually"
+    "description": "46+ years serving Oro Valley's newer developments | Expert in modern plumbing systems | HOA compliance specialists | 2,800+ Oro Valley homes serviced annually"
   },
   {
     "title": "ServiceTitan-Powered Fast Response",
@@ -647,7 +647,7 @@ export const plumbingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We stand behind every job with our 100% satisfaction guarantee. If you're not completely satisfied with our plumbing service, we're not done. We'll make it right at no additional cost to you. This guarantee reflects our confidence in our technicians' expertise, our commitment to quality workmanship, and our dedication to honest, transparent service. Unlike many plumbing companies that make promises they don't keep, we've built our 45-year reputation on delivering what we promise—every single time."
+            "content": "We stand behind every job with our 100% satisfaction guarantee. If you're not completely satisfied with our plumbing service, we're not done. We'll make it right at no additional cost to you. This guarantee reflects our confidence in our technicians' expertise, our commitment to quality workmanship, and our dedication to honest, transparent service. Unlike many plumbing companies that make promises they don't keep, we've built our 46-year reputation on delivering what we promise—every single time."
       },
       {
             "type": "heading",

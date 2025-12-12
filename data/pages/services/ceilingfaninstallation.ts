@@ -23,7 +23,7 @@ export const ceilingfaninstallationData: ServicePageData = {
   highlights: [
   {
     "title": "Licensed & Experienced Electricians",
-    "description": "ROC licensed professionals | 45+ years experience | Expert fan installations | Code-compliant work"
+    "description": "ROC licensed professionals | 46+ years experience | Expert fan installations | Code-compliant work"
   },
   {
     "title": "Complete Fan Services",

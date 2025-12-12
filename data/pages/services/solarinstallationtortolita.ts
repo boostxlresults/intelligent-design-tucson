@@ -25,7 +25,7 @@ export const solarinstallationtortolitaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tortolita",
+    "title": "46+ years Serving Tortolita",
     "description": "Local expertise since 1979. We understand Tortolita's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -125,7 +125,7 @@ export const solarinstallationtortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Tortolita"
+            "content": "46+ years Serving Tortolita"
       },
       {
             "type": "paragraph",

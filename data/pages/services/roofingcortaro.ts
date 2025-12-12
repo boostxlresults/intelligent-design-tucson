@@ -25,7 +25,7 @@ export const roofingcortaroData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Cortaro",
+    "title": "46+ years Serving Cortaro",
     "description": "Local expertise since 1979. We know Cortaro roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Cortaro"
+            "content": "46+ years Serving Cortaro"
       },
       {
             "type": "paragraph",

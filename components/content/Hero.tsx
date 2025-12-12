@@ -56,7 +56,7 @@ export default function Hero() {
           {/* Subheadline */}
           <div className="mb-4 space-y-2">
             <p className="text-lg md:text-xl text-white font-semibold drop-shadow-[0_8px_24px_rgba(0,0,0,1)] drop-shadow-[0_4px_12px_rgba(0,0,0,1)] drop-shadow-[0_2px_6px_rgba(0,0,0,0.9)]">
-              Family-Owned | Veteran-Owned | Locally Owned Since 1979
+              Family-Owned | Veteran-Owned | Serving Tucson Since 1979
             </p>
             <div className="space-y-2 text-white">
               <p className="text-base md:text-lg flex items-center gap-2 drop-shadow-[0_8px_24px_rgba(0,0,0,1)] drop-shadow-[0_4px_12px_rgba(0,0,0,1)] drop-shadow-[0_2px_6px_rgba(0,0,0,0.9)]">

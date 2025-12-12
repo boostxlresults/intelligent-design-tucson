@@ -22,7 +22,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Green Valley",
+    "title": "46+ years Serving Green Valley",
     "description": "Local expertise since 1979 | 5,200+ Green Valley installations | Deep understanding of retirement community solar needs | Specialists in fixed-income solar planning"
   },
   {
@@ -387,7 +387,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent Pricing & Senior-Friendly Financing: We provide detailed written quotes with complete equipment specifications, installation scope, timeline estimates, and total costs before and after tax credits. There are never hidden fees, surprise charges, or high-pressure sales tactics. Our pricing is typically 10-20% below national solar companies while using the same or better equipment because we eliminate commission-based sales (our consultants are salaried employees), we don't pay for celebrity endorsements or national advertising, and we buy equipment in bulk leveraging 45+ years of manufacturer relationships. For retirees on fixed incomes, we offer $0 down financing with low monthly payments, flexible terms (10-25 years), and lenders who accept Social Security, pension, and retirement account income. We help analyze cash vs. finance decisions and never pressure you toward either option."
+            "content": "Transparent Pricing & Senior-Friendly Financing: We provide detailed written quotes with complete equipment specifications, installation scope, timeline estimates, and total costs before and after tax credits. There are never hidden fees, surprise charges, or high-pressure sales tactics. Our pricing is typically 10-20% below national solar companies while using the same or better equipment because we eliminate commission-based sales (our consultants are salaried employees), we don't pay for celebrity endorsements or national advertising, and we buy equipment in bulk leveraging 46+ years of manufacturer relationships. For retirees on fixed incomes, we offer $0 down financing with low monthly payments, flexible terms (10-25 years), and lenders who accept Social Security, pension, and retirement account income. We help analyze cash vs. finance decisions and never pressure you toward either option."
       },
       {
             "type": "heading",
@@ -681,7 +681,7 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Choose Intelligent Design for Your Green Valley Solar Installation: 45+ years serving Green Valley retirement communities | 5,200+ Green Valley solar installations completed | 22,000+ five-star reviews and BBB A+ rating | 28 NABCEP-certified solar installers and tile roof specialists | Average 73-minute response time with ServiceTitan dispatch | Complete solar, HVAC, electrical & plumbing expertise | Senior-friendly financing with $0 down options | Lifetime customer support and maintenance programs | Most-referred solar company in Green Valley | Zero high-pressure sales - just honest expertise and exceptional service"
+            "content": "Why Choose Intelligent Design for Your Green Valley Solar Installation: 46+ years serving Green Valley retirement communities | 5,200+ Green Valley solar installations completed | 22,000+ five-star reviews and BBB A+ rating | 28 NABCEP-certified solar installers and tile roof specialists | Average 73-minute response time with ServiceTitan dispatch | Complete solar, HVAC, electrical & plumbing expertise | Senior-friendly financing with $0 down options | Lifetime customer support and maintenance programs | Most-referred solar company in Green Valley | Zero high-pressure sales - just honest expertise and exceptional service"
       }
 ]
   },

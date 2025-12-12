@@ -22,7 +22,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills Luxury Home Specialists",
-      "description": "45+ years serving Catalina Foothills estates | Expert drain clearing and sewer repair | White-glove service for high-value properties"
+      "description": "46+ years serving Catalina Foothills estates | Expert drain clearing and sewer repair | White-glove service for high-value properties"
     },
     {
       "title": "Advanced Technology",

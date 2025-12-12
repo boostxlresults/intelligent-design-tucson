@@ -23,7 +23,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills Electrical Specialists",
-      "description": "45+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
+      "description": "46+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",
@@ -251,7 +251,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our electricians arrive in clean uniforms, use floor protection in your home, and treat your property with the respect it deserves. We provide upfront, flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our work is guaranteed with comprehensive warranties, and we're A+ rated by the Better Business Bureau with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills electrical needs, you're choosing a company with 45+ years of local expertise, thousands of satisfied customers, and a reputation for excellence that we protect with every job."
+        "content": "Our electricians arrive in clean uniforms, use floor protection in your home, and treat your property with the respect it deserves. We provide upfront, flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our work is guaranteed with comprehensive warranties, and we're A+ rated by the Better Business Bureau with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills electrical needs, you're choosing a company with 46+ years of local expertise, thousands of satisfied customers, and a reputation for excellence that we protect with every job."
       },
       {
         "type": "paragraph",

@@ -23,7 +23,7 @@ export const plumbingrillitoData: ServicePageData = {
   highlights: [
   {
     "title": "Rillito Plumbing Specialists",
-    "description": "45+ years serving Rillito | Well system expertise | Rural plumbing specialists | Hard water solutions | Septic-safe products | Distance service experts"
+    "description": "46+ years serving Rillito | Well system expertise | Rural plumbing specialists | Hard water solutions | Septic-safe products | Distance service experts"
   },
   {
     "title": "ServiceTitan Rapid Response",

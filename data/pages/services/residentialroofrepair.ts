@@ -5,13 +5,13 @@ import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const residentialroofrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Repair Tucson AZ | Expert Home Roof Repair Services',
-  description: 'Expert residential roof repair in Tucson. Fast leak repairs, tile replacement, shingle repair & emergency services. 45+ years experience. Call (520) 333-2665 for free roof inspection.',
+  description: 'Expert residential roof repair in Tucson. Fast leak repairs, tile replacement, shingle repair & emergency services. 46+ years experience. Call (520) 333-2665 for free roof inspection.',
   slug: 'residential-roof-repair',
   
   // Hero Section
   h1: 'Residential Roof Repair Tucson AZ',
   h2Subheading: 'Expert Residential Roof Repair in Tucson',
-  tagline: 'Fast Leak Repair | Tile & Shingle Repair | Emergency Storm Damage | Free Roof Inspection | 45+ Years Experience',
+  tagline: 'Fast Leak Repair | Tile & Shingle Repair | Emergency Storm Damage | Free Roof Inspection | 46+ years Experience',
   heroImage: '/generated_images/residential_roof_repair_technician_daf39f83.webp',
   heroImageAlt: 'Residential Roof Repair in Tucson',
   
@@ -34,7 +34,7 @@ export const residentialroofrepairData: ServicePageData = {
     "description": "Detailed documentation | Work with adjusters | Maximize coverage | Hassle-free claims"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
@@ -90,7 +90,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our 45+ years of monsoon-season roof repairs have taught us exactly how Tucson roofs fail during summer storms. Wind-driven rain finds its way through the smallest gaps—deteriorated flashing around chimneys and skylights, missing or lifted tiles, worn shingle edges, and parapet wall failures. Older homes with original roofs from the 1970s-1990s face particularly high risk because underlayment beneath tiles has deteriorated from decades of 110°F+ attic temperatures. When intense monsoon rains arrive, water penetrates through compromised underlayment directly to ceilings, causing immediate interior damage. We've responded to thousands of these emergency situations and know how to stop water intrusion fast while planning permanent repairs."
+            "content": "Our 46+ years of monsoon-season roof repairs have taught us exactly how Tucson roofs fail during summer storms. Wind-driven rain finds its way through the smallest gaps—deteriorated flashing around chimneys and skylights, missing or lifted tiles, worn shingle edges, and parapet wall failures. Older homes with original roofs from the 1970s-1990s face particularly high risk because underlayment beneath tiles has deteriorated from decades of 110°F+ attic temperatures. When intense monsoon rains arrive, water penetrates through compromised underlayment directly to ceilings, causing immediate interior damage. We've responded to thousands of these emergency situations and know how to stop water intrusion fast while planning permanent repairs."
       },
       {
             "type": "paragraph",
@@ -575,7 +575,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our service area covers all of Tucson and surrounding communities: [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], [link:/services/roofing-sahuarita|Sahuarita], [link:/services/roofing-green-valley|Green Valley], [link:/services/roofing-catalina-foothills|Catalina Foothills], [link:/services/roofing-vail|Vail], Corona de Tucson, and all areas in between. We're local experts who understand Tucson's monsoon patterns, know which tile profiles were popular in different building eras, understand code requirements for different jurisdictions, and have repaired roofs in every Tucson neighborhood from historic downtown to newest developments. When you need residential roof repair, call the company Tucson has trusted for 45+ years."
+            "content": "Our service area covers all of Tucson and surrounding communities: [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], [link:/services/roofing-sahuarita|Sahuarita], [link:/services/roofing-green-valley|Green Valley], [link:/services/roofing-catalina-foothills|Catalina Foothills], [link:/services/roofing-vail|Vail], Corona de Tucson, and all areas in between. We're local experts who understand Tucson's monsoon patterns, know which tile profiles were popular in different building eras, understand code requirements for different jurisdictions, and have repaired roofs in every Tucson neighborhood from historic downtown to newest developments. When you need residential roof repair, call the company Tucson has trusted for 46+ years."
       },
       {
             "type": "heading",

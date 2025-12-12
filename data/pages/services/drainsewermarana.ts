@@ -22,7 +22,7 @@ export const drainsewermaranaData: ServicePageData = {
   highlights: [
     {
       "title": "Marana Drain Specialists",
-      "description": "45+ years serving Marana families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Marana families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

@@ -11,7 +11,7 @@ export const leakdetectionData: ServicePageData = {
   // Hero Section
   h1: 'Advanced Leak Detection Services in Tucson',
   h2Subheading: 'Expert Leak Detection in Tucson',
-  tagline: 'Non-Invasive Technology | Acoustic & Thermal Imaging | Slab Leak Detection | Underground Leaks | Prevent Water Damage | 45+ Years Experience',
+  tagline: 'Non-Invasive Technology | Acoustic & Thermal Imaging | Slab Leak Detection | Underground Leaks | Prevent Water Damage | 46+ years Experience',
   heroImage: '/generated_images/Advanced_leak_detection_service_2ef26dea.webp',
   heroImageAlt: 'Leak Detection in Tucson',
   
@@ -39,7 +39,7 @@ export const leakdetectionData: ServicePageData = {
   },
   {
     "title": "Expert Technicians",
-    "description": "Certified leak detection specialists | 45+ years experience | Latest training | Licensed master plumbers"
+    "description": "Certified leak detection specialists | 46+ years experience | Latest training | Licensed master plumbers"
   },
   {
     "title": "Insurance Documentation",
@@ -654,7 +654,7 @@ export const leakdetectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Schedule Your Leak Detection Service Now: Call (520) 333-2665 to speak directly with our leak detection specialists, or [link:/contact|schedule online] for convenient appointment times. We provide upfront pricing, detailed written estimates, and complete documentation for insurance claims. Our 100% satisfaction guarantee ensures you're completely happy with our leak detection and repair services. When you choose Intelligent Design, you're choosing Tucson's most experienced, best-equipped leak detection team—backed by 45+ years of local expertise and over 22,000 five-star reviews from satisfied customers throughout Southern Arizona."
+            "content": "Schedule Your Leak Detection Service Now: Call (520) 333-2665 to speak directly with our leak detection specialists, or [link:/contact|schedule online] for convenient appointment times. We provide upfront pricing, detailed written estimates, and complete documentation for insurance claims. Our 100% satisfaction guarantee ensures you're completely happy with our leak detection and repair services. When you choose Intelligent Design, you're choosing Tucson's most experienced, best-equipped leak detection team—backed by 46+ years of local expertise and over 22,000 five-star reviews from satisfied customers throughout Southern Arizona."
       }
 ]
   },

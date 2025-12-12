@@ -159,7 +159,7 @@ export const hvacCTAs = {
     },
     {
       heading: "Ready for Reliable AC Repair?",
-      content: "Experience the Intelligent Design difference. 45+ years serving Tucson, 22,000+ five-star reviews, and guaranteed satisfaction.",
+      content: "Experience the Intelligent Design difference. 46+ years serving Tucson, 22,000+ five-star reviews, and guaranteed satisfaction.",
       buttonText: "Schedule Service",
       buttonLink: "#schedule"
     }

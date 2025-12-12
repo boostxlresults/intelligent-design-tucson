@@ -10,7 +10,7 @@ export const hvacCategoryData: ServiceCategoryData = {
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Tucson home',
   categoryName: 'HVAC',
-  intro: 'Intelligent Design provides comprehensive heating, ventilation, and air conditioning services throughout Tucson and Southern Arizona. With over 45 years of experience and 22,000+ five-star reviews, we\'re the trusted choice for all your home comfort needs.',
+  intro: 'Intelligent Design provides comprehensive heating, ventilation, and air conditioning services throughout Tucson and Southern Arizona. With 46+ years of combined home services expertise and 22,000+ five-star reviews, we\'re the trusted choice for all your home comfort needs.',
   subServices: [
     {
       name: 'AC Repair',
@@ -73,8 +73,8 @@ export const hvacCategoryData: ServiceCategoryData = {
       description: 'Fast response when you need it most. Same-day service available with no overtime charges.'
     },
     {
-      title: '45+ Years Experience',
-      description: 'Family & veteran-owned since 1979. BBB A+ rated with 22,000+ five-star reviews.'
+      title: '46+ Years Experience',
+      description: 'Family & veteran-owned, serving Tucson since 1979. BBB A+ rated with 22,000+ five-star reviews.'
     },
     {
       title: 'Upfront Pricing',

@@ -56,7 +56,7 @@ export default function Footer() {
               loading="lazy"
             />
             <p className="text-sm text-primary-foreground/80 mb-4">
-              Tucson's trusted home services experts since 1979. Family and veteran-owned, locally operated.
+              Intelligent Design (est. 2011) united with Wood's Plumbing (est. 1979) to bring you 46+ years of combined home services expertise. Family and veteran-owned.
             </p>
             {/* Social Media Links */}
             <div className="flex gap-3 mb-4">

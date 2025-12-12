@@ -24,7 +24,7 @@ export const hvacritaranchData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Rita Ranch",
+    "title": "46+ years Serving Rita Ranch",
     "description": "Local expertise since 1979 | Deep understanding of Rita Ranch's master-planned community | HOA compliance specialists | 2000s construction expertise"
   },
   {

@@ -43,7 +43,7 @@ export const ductrepairData: ServicePageData = {
   },
   {
     "title": "Satisfaction Guaranteed",
-    "description": "45+ years experience | 22,000+ five-star reviews | Workmanship warranty | Upfront pricing"
+    "description": "46+ years experience | 22,000+ five-star reviews | Workmanship warranty | Upfront pricing"
   }
 ],
   content: {

@@ -13,7 +13,7 @@ export const plumbingmaintenanceData: ServicePageData = {
   // Hero Section
   h1: 'Plumbing Maintenance & Inspection Services in Tucson',
   h2Subheading: 'Expert Plumbing Maintenance in Tucson',
-  tagline: 'Preventative Plumbing Care | Annual Maintenance Plans | System Health Inspections | Save 70% on Emergency Repairs | 45+ Years Experience',
+  tagline: 'Preventative Plumbing Care | Annual Maintenance Plans | System Health Inspections | Save 70% on Emergency Repairs | 46+ years Experience',
   heroImage: '/generated_images/Plumbing_maintenance_inspection_service_1be685bc.webp',
   heroImageAlt: 'Plumbing Maintenance in Tucson',
   
@@ -37,7 +37,7 @@ export const plumbingmaintenanceData: ServicePageData = {
   },
   {
     "title": "Tucson Hard Water Expertise",
-    "description": "Combat mineral buildup | Extend equipment life | Local knowledge | 45+ years Tucson experience"
+    "description": "Combat mineral buildup | Extend equipment life | Local knowledge | 46+ years Tucson experience"
   },
   {
     "title": "Licensed Master Plumbers",

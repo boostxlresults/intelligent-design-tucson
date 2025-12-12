@@ -21,7 +21,7 @@ export const plumbingavravalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Avra Valley",
+    "title": "46+ years Serving Avra Valley",
     "description": "Local expertise since 1979 | Deep understanding of Avra Valley's well water systems | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {

@@ -23,7 +23,7 @@ export const heatingtucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Tucson Heating Expertise",
+    "title": "46+ years Tucson Heating Expertise",
     "description": "Local expertise since 1979 | Deep understanding of desert climate heating | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -638,7 +638,7 @@ export const heatingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Tucson Heating Expertise: Since 1979, we've specialized in heating solutions optimized for Tucson's unique Sonoran Desert climate. We understand how desert temperature swings, dust storms, hard water, and altitude affect heating equipment. Our technicians know which systems perform best in Tucson conditions, how to size equipment for desert climate, and how to maintain systems for maximum longevity in harsh Arizona environment. This deep local expertise ensures optimal recommendations and superior installations."
+            "content": "46+ years Tucson Heating Expertise: Since 1979, we've specialized in heating solutions optimized for Tucson's unique Sonoran Desert climate. We understand how desert temperature swings, dust storms, hard water, and altitude affect heating equipment. Our technicians know which systems perform best in Tucson conditions, how to size equipment for desert climate, and how to maintain systems for maximum longevity in harsh Arizona environment. This deep local expertise ensures optimal recommendations and superior installations."
       },
       {
             "type": "paragraph",

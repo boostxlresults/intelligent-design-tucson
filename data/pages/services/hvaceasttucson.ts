@@ -23,7 +23,7 @@ export const hvaceasttucsonData: ServicePageData = {
   highlights: [
     {
       "title": "East Tucson HVAC Specialists",
-      "description": "45+ years serving East Tucson communities | Expert in 1960s-2000s HVAC systems | Familiar with Rincon Heights, Tanque Verde, Davis-Monthan AFB area, and foothills neighborhoods | Average 52-minute response time"
+      "description": "46+ years serving East Tucson communities | Expert in 1960s-2000s HVAC systems | Familiar with Rincon Heights, Tanque Verde, Davis-Monthan AFB area, and foothills neighborhoods | Average 52-minute response time"
     },
     {
       "title": "Elite NATE-Certified Technicians",

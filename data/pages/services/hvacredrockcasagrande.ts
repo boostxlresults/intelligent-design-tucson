@@ -23,7 +23,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   highlights: [
     {
       "title": "Red Rock / Casa Grande HVAC Specialists",
-      "description": "45+ years serving Red Rock / Casa Grande families | Expert knowledge of desert climate systems | Average 75-minute response time"
+      "description": "46+ years serving Red Rock / Casa Grande families | Expert knowledge of desert climate systems | Average 75-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",

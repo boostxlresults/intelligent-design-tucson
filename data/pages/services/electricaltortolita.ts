@@ -22,7 +22,7 @@ export const electricaltortolitaData: ServicePageData = {
   highlights: [
   {
     "title": "New Development Electrical Experts",
-    "description": "45+ years serving Tortolita | Modern home electrical systems | New construction support | EV charger specialists | Smart home integration | Energy-efficient upgrades"
+    "description": "46+ years serving Tortolita | Modern home electrical systems | New construction support | EV charger specialists | Smart home integration | Energy-efficient upgrades"
   },
   {
     "title": "ServiceTitan Rapid Response",
@@ -488,7 +488,7 @@ export const electricaltortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Experience & Expertise: With 45+ years serving Southern Arizona and 38 licensed master electricians averaging 17+ years experience, we deliver expertise Tortolita's modern homes demand. Our electricians undergo 120+ hours annual training on emerging technologies (EV chargers, smart home systems, solar integration, battery backup), desert climate electrical installation, energy efficiency optimization, and customer service excellence. We're factory-certified for 12+ premium brands including Tesla, ChargePoint, Generac, Lutron, Square D, and others, ensuring expert installation following manufacturer specifications. Our multi-trade expertise (electrical, HVAC, plumbing, solar) enables integrated solutions optimizing your entire home."
+            "content": "Unmatched Experience & Expertise: With 46+ years serving Southern Arizona and 38 licensed master electricians averaging 17+ years experience, we deliver expertise Tortolita's modern homes demand. Our electricians undergo 120+ hours annual training on emerging technologies (EV chargers, smart home systems, solar integration, battery backup), desert climate electrical installation, energy efficiency optimization, and customer service excellence. We're factory-certified for 12+ premium brands including Tesla, ChargePoint, Generac, Lutron, Square D, and others, ensuring expert installation following manufacturer specifications. Our multi-trade expertise (electrical, HVAC, plumbing, solar) enables integrated solutions optimizing your entire home."
       },
       {
             "type": "paragraph",
@@ -522,7 +522,7 @@ export const electricaltortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Whether you need EV charger installation, panel upgrades, smart home electrical, generator installation, energy efficiency improvements, or emergency electrical service, Intelligent Design delivers the expertise and quality Tortolita's modern homes demand. Our licensed master electricians provide transparent pricing, exceptional service, and comprehensive solutions backed by 45+ years of Southern Arizona trust."
+            "content": "Whether you need EV charger installation, panel upgrades, smart home electrical, generator installation, energy efficiency improvements, or emergency electrical service, Intelligent Design delivers the expertise and quality Tortolita's modern homes demand. Our licensed master electricians provide transparent pricing, exceptional service, and comprehensive solutions backed by 46+ years of Southern Arizona trust."
       },
       {
             "type": "paragraph",

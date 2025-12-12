@@ -25,7 +25,7 @@ export const solarinstallationavravalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Avra Valley",
+    "title": "46+ years Serving Avra Valley",
     "description": "Local expertise since 1979. We understand Avra Valley's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -655,7 +655,7 @@ export const solarinstallationavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every service comes with our 45+ years of Tucson-area experience, BBB A+ rating, and comprehensive workmanship warranties. Whether you need emergency repairs or planned home improvements, our family-owned, veteran-operated company delivers the honest service Avra Valley homeowners deserve."
+            "content": "Every service comes with our 46+ years of Tucson-area experience, BBB A+ rating, and comprehensive workmanship warranties. Whether you need emergency repairs or planned home improvements, our family-owned, veteran-operated company delivers the honest service Avra Valley homeowners deserve."
       },
       {
             "type": "heading",

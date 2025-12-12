@@ -22,7 +22,7 @@ export const electricalritaranchData: ServicePageData = {
   highlights: [
   {
     "title": "Rita Ranch Community Electrical Experts",
-    "description": "45+ years serving Rita Ranch families | Deep understanding of newer home electrical systems | EV charger specialists | Smart home integration experts"
+    "description": "46+ years serving Rita Ranch families | Deep understanding of newer home electrical systems | EV charger specialists | Smart home integration experts"
   },
   {
     "title": "ServiceTitan Rapid Response",

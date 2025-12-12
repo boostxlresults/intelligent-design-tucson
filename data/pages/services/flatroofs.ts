@@ -5,13 +5,13 @@ import { flatRoofsFAQs } from '@/data/faqs/roofing';
 export const flatroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Flat Roof Repair & Installation Tucson AZ | TPO, EPDM, Modified Bitumen',
-  description: 'Expert flat roof systems in Tucson. TPO, EPDM, modified bitumen installation & repair for commercial and residential. Superior drainage solutions. 45+ years experience. Call (520) 333-2665.',
+  description: 'Expert flat roof systems in Tucson. TPO, EPDM, modified bitumen installation & repair for commercial and residential. Superior drainage solutions. 46+ years experience. Call (520) 333-2665.',
   slug: 'flat-roofs',
   
   // Hero Section
   h1: 'Flat Roof Systems Tucson AZ',
   h2Subheading: 'Expert Flat Roofs in Tucson',
-  tagline: 'TPO, EPDM & Modified Bitumen | Commercial & Residential | Superior Drainage Solutions | Free Inspections | 45+ Years Experience',
+  tagline: 'TPO, EPDM & Modified Bitumen | Commercial & Residential | Superior Drainage Solutions | Free Inspections | 46+ years Experience',
   heroImage: '/generated_images/commercial_flat_roof_system_7bd54a33.webp',
   heroImageAlt: 'Flat Roofs in Tucson',
   
@@ -34,7 +34,7 @@ export const flatroofsData: ServicePageData = {
     "description": "All flat roof types | Modern & mid-century homes | Commercial buildings | Professional installation"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Desert climate expertise | Trusted since 1979"
   },
   {
@@ -75,7 +75,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Tucson Experience"
+            "content": "46+ years Tucson Experience"
       },
       {
             "type": "paragraph",
@@ -428,7 +428,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Making informed decisions about flat roofing requires understanding multiple factors unique to Tucson's climate and your specific building requirements. These three comprehensive decision guides help you navigate the most critical choices: selecting the right membrane material, planning effective maintenance programs, and designing drainage systems that prevent costly ponding and leak issues. Each guide provides clear criteria, practical examples, and expert recommendations based on 45+ years serving Tucson's residential and commercial properties."
+            "content": "Making informed decisions about flat roofing requires understanding multiple factors unique to Tucson's climate and your specific building requirements. These three comprehensive decision guides help you navigate the most critical choices: selecting the right membrane material, planning effective maintenance programs, and designing drainage systems that prevent costly ponding and leak issues. Each guide provides clear criteria, practical examples, and expert recommendations based on 46+ years serving Tucson's residential and commercial properties."
       },
       {
             "type": "heading",
@@ -934,7 +934,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't trust your flat roof to inexperienced contractors unfamiliar with Tucson's unique climate challenges. With 45+ years serving Tucson families and businesses, 22,000+ five-star reviews, and thousands of successful flat roof installations, we have the proven expertise to deliver results that last. Call Intelligent Design Air Conditioning, Plumbing, Solar, & Electric at (520) 333-2665 today for your free flat roof consultation, or schedule online now. Let us show you why we're Tucson's highest-rated roofing company and the trusted choice for superior flat roof systems that protect your investment for decades to come."
+            "content": "Don't trust your flat roof to inexperienced contractors unfamiliar with Tucson's unique climate challenges. With 46+ years serving Tucson families and businesses, 22,000+ five-star reviews, and thousands of successful flat roof installations, we have the proven expertise to deliver results that last. Call Intelligent Design Air Conditioning, Plumbing, Solar, & Electric at (520) 333-2665 today for your free flat roof consultation, or schedule online now. Let us show you why we're Tucson's highest-rated roofing company and the trusted choice for superior flat roof systems that protect your investment for decades to come."
       }
 ]
   },

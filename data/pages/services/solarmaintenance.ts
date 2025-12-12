@@ -11,7 +11,7 @@ export const solarmaintenanceData: ServicePageData = {
   // Hero Section
   h1: 'Solar Maintenance Tucson AZ',
   h2Subheading: 'Expert Solar Maintenance in Tucson',
-  tagline: 'Panel Cleaning | System Monitoring | Performance Optimization | Preventive Maintenance | 45+ Years Experience',
+  tagline: 'Panel Cleaning | System Monitoring | Performance Optimization | Preventive Maintenance | 46+ years Experience',
   heroImage: '/generated_images/Solar_maintenance_and_monitoring_e428ab0f.webp',
   heroImageAlt: 'Solar Maintenance in Tucson',
   
@@ -38,7 +38,7 @@ export const solarmaintenanceData: ServicePageData = {
     "description": "Scheduled service visits | Priority scheduling | Discounted rates | Extended equipment life"
   },
   {
-    "title": "45+ Years Tucson Expertise",
+    "title": "46+ years Tucson Expertise",
     "description": "Family & veteran-owned | 22,000+ reviews | Local specialists | Trusted since 1979"
   },
   {
@@ -685,7 +685,7 @@ export const solarmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our multi-trade expertise as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-repair|electrical], [link:/services/roofing-tucson|roofing], and solar company provides comprehensive perspective during maintenance visits. We identify and address issues spanning multiple systems—[link:/services/electrical-panel-upgrades|electrical panel capacity] for solar integration, [link:/services/duct-sealing-tucson|duct sealing] improving efficiency of solar-powered AC systems, roof condition under and around panels, and home energy optimization combining solar production with efficiency improvements. This integrated approach maximizes your entire home's energy performance, not just isolated solar system maintenance. We're the only Tucson company offering coordinated solar and [link:/services/home-energy-upgrades-tucson|whole-home energy services] backed by 45+ years of excellence and industry-leading guarantees."
+            "content": "Our multi-trade expertise as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-repair|electrical], [link:/services/roofing-tucson|roofing], and solar company provides comprehensive perspective during maintenance visits. We identify and address issues spanning multiple systems—[link:/services/electrical-panel-upgrades|electrical panel capacity] for solar integration, [link:/services/duct-sealing-tucson|duct sealing] improving efficiency of solar-powered AC systems, roof condition under and around panels, and home energy optimization combining solar production with efficiency improvements. This integrated approach maximizes your entire home's energy performance, not just isolated solar system maintenance. We're the only Tucson company offering coordinated solar and [link:/services/home-energy-upgrades-tucson|whole-home energy services] backed by 46+ years of excellence and industry-leading guarantees."
       },
       {
             "type": "paragraph",

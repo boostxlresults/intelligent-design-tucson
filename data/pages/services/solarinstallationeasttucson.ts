@@ -25,7 +25,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving East Tucson",
+    "title": "46+ years Serving East Tucson",
     "description": "Local expertise since 1979. We understand East Tucson's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -450,7 +450,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving East Tucson"
+            "content": "46+ years Serving East Tucson"
       },
       {
             "type": "paragraph",
@@ -637,7 +637,7 @@ export const solarinstallationeasttucsonData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready to Go Solar in East Tucson?",
-            "content": "Get your free solar consultation and custom quote today. Our East Tucson solar experts provide honest assessments, transparent pricing, and quality installations backed by 45+ years of experience. Call (520) 333-2665 or visit our Tucson showroom.",
+            "content": "Get your free solar consultation and custom quote today. Our East Tucson solar experts provide honest assessments, transparent pricing, and quality installations backed by 46+ years of experience. Call (520) 333-2665 or visit our Tucson showroom.",
             "buttonText": "Schedule Free Consultation",
             "buttonLink": "tel:+15203332665"
       },

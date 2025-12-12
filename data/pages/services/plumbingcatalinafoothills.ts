@@ -23,7 +23,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills Plumbing Specialists",
-      "description": "45+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
+      "description": "46+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",
@@ -223,7 +223,7 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our plumbers arrive in clean uniforms, use protective floor coverings, and treat your property with respect. We provide upfront flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our plumbing installations and repairs are backed by comprehensive warranties, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills plumbing needs, you're partnering with a company that has 45+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
+        "content": "Our plumbers arrive in clean uniforms, use protective floor coverings, and treat your property with respect. We provide upfront flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our plumbing installations and repairs are backed by comprehensive warranties, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills plumbing needs, you're partnering with a company that has 46+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
       },
       {
         "type": "paragraph",

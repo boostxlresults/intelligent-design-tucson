@@ -24,7 +24,7 @@ export const hvactortolitaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tortolita",
+    "title": "46+ years Serving Tortolita",
     "description": "Local expertise since 1979. We know Tortolita HVAC systems, climate challenges, and energy efficiency solutions inside and out."
   },
   {
@@ -616,7 +616,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What makes Intelligent Design different from other HVAC companies? We stand out from competitors through our unwavering commitment to quality, integrity, and customer satisfaction backed by tangible results. Proven track record: 45+ years serving Tucson (since 1979) with 22,000+ five-star reviews and BBB A+ rating reflecting consistent excellence. Technical expertise: Factory-trained, licensed, certified technicians with decades of combined experience and ongoing manufacturer training. Quality equipment: Factory-authorized dealer for premium brands ensuring genuine parts, manufacturer warranties, and expert installation. Transparent pricing: Upfront written estimates with no hidden fees, surprise charges, or high-pressure sales tactics. Customer focus: 100% satisfaction guarantee, on-time arrival or discounted service, and priority emergency response. Community investment: Family-owned local business (not a national chain) deeply invested in Tortolita and greater Tucson community. Comprehensive service: Complete HVAC solutions from routine maintenance to complex installations backed by comprehensive warranties. Our longevity and exceptional reputation prove we consistently deliver on our promises earning lasting trust from thousands of Tortolita families."
+            "content": "What makes Intelligent Design different from other HVAC companies? We stand out from competitors through our unwavering commitment to quality, integrity, and customer satisfaction backed by tangible results. Proven track record: 46+ years serving Tucson (since 1979) with 22,000+ five-star reviews and BBB A+ rating reflecting consistent excellence. Technical expertise: Factory-trained, licensed, certified technicians with decades of combined experience and ongoing manufacturer training. Quality equipment: Factory-authorized dealer for premium brands ensuring genuine parts, manufacturer warranties, and expert installation. Transparent pricing: Upfront written estimates with no hidden fees, surprise charges, or high-pressure sales tactics. Customer focus: 100% satisfaction guarantee, on-time arrival or discounted service, and priority emergency response. Community investment: Family-owned local business (not a national chain) deeply invested in Tortolita and greater Tucson community. Comprehensive service: Complete HVAC solutions from routine maintenance to complex installations backed by comprehensive warranties. Our longevity and exceptional reputation prove we consistently deliver on our promises earning lasting trust from thousands of Tortolita families."
       },
       {
             "type": "paragraph",

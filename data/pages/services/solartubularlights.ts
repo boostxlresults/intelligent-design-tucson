@@ -34,7 +34,7 @@ export const solartubularlightsData: ServicePageData = {
     "description": "All roof types | Leak-free guaranteed | Proper flashing | 2-3 hour installation | Licensed contractors"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Desert installation expertise | Trusted since 1979"
   },
   {
@@ -593,7 +593,7 @@ export const solartubularlightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years of Tucson Installation Expertise: Since 1979, Intelligent Design has installed hundreds of tubular skylights throughout greater Tucson, developing deep expertise in the unique requirements of our desert climate, common roof types, and residential construction styles. We understand the critical importance of proper flashing on [link:/services/tile-roofs|tile roofs] common in Tucson—90% of skylight leaks result from improper flashing installation. Our technicians receive manufacturer-specific training on Solatube, Velux Sun Tunnel, and other premium tubular skylight systems, ensuring installations meet factory specifications and maintain full warranty coverage. We've developed specialized techniques for minimizing heat transfer through tube assemblies in Tucson's extreme attic temperatures (routinely exceeding 140°F in summer), ensuring your tubular lights provide brilliant daylight without adding cooling loads to your home."
+            "content": "46+ years of Tucson Installation Expertise: Since 1979, Intelligent Design has installed hundreds of tubular skylights throughout greater Tucson, developing deep expertise in the unique requirements of our desert climate, common roof types, and residential construction styles. We understand the critical importance of proper flashing on [link:/services/tile-roofs|tile roofs] common in Tucson—90% of skylight leaks result from improper flashing installation. Our technicians receive manufacturer-specific training on Solatube, Velux Sun Tunnel, and other premium tubular skylight systems, ensuring installations meet factory specifications and maintain full warranty coverage. We've developed specialized techniques for minimizing heat transfer through tube assemblies in Tucson's extreme attic temperatures (routinely exceeding 140°F in summer), ensuring your tubular lights provide brilliant daylight without adding cooling loads to your home."
       },
       {
             "type": "paragraph",
@@ -663,7 +663,7 @@ export const solartubularlightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The tubular skylight's small roof penetration (10-14 inches diameter versus 2-4 feet for traditional skylights) inherently reduces weather exposure and leak risk. The dome's curved profile sheds water efficiently preventing pooling that could test seal integrity. Impact-resistant dome materials withstand hail and wind-blown debris without cracking. Our zero leak warranty claims within first 5 years on properly maintained installations demonstrates the weather-tight performance of professional installations. We guarantee leak-free operation—if leaks occur due to our installation, we repair at no cost including any interior water damage remediation. This guarantee, backed by 45+ years of Tucson installation experience and thousands of leak-free tubular light installations, provides complete peace of mind through decades of monsoon seasons."
+            "content": "The tubular skylight's small roof penetration (10-14 inches diameter versus 2-4 feet for traditional skylights) inherently reduces weather exposure and leak risk. The dome's curved profile sheds water efficiently preventing pooling that could test seal integrity. Impact-resistant dome materials withstand hail and wind-blown debris without cracking. Our zero leak warranty claims within first 5 years on properly maintained installations demonstrates the weather-tight performance of professional installations. We guarantee leak-free operation—if leaks occur due to our installation, we repair at no cost including any interior water damage remediation. This guarantee, backed by 46+ years of Tucson installation experience and thousands of leak-free tubular light installations, provides complete peace of mind through decades of monsoon seasons."
       },
       {
             "type": "heading",

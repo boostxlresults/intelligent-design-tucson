@@ -23,7 +23,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Green Valley",
+    "title": "46+ years Serving Green Valley",
     "description": "Specialized expertise in Green Valley's aging plumbing infrastructure since 1979. We understand retirement community needs and work respectfully with senior homeowners."
   },
   {
@@ -281,7 +281,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Green Valley retirees deserve established companies with proven track records—not here-today-gone-tomorrow operators. Research years in business (10+ years demonstrates stability and expertise), Google reviews and ratings (4.5+ stars from 500+ reviews indicates consistent quality), BBB accreditation and rating (A+ rating with zero unresolved complaints shows ethical business practices), local references (ask neighbors and friends for recommendations), and manufacturer certifications (factory training and authorized installer status). Intelligent Design has served Southern Arizona since 1979 (45+ years of continuous operation), earned 4.97-star Google rating from 22,000+ verified reviews, maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earned Best of Tucson awards for 7 consecutive years, and holds factory certifications from Rheem, Bradford White, Rinnai, Navien, AO Smith, and 8+ other manufacturers. Warning signs of unreliable contractors: recently formed LLC (check at azcc.gov), few or fake online reviews, no physical business address, pressure for immediate cash payment, and unwillingness to provide references."
+            "content": "Green Valley retirees deserve established companies with proven track records—not here-today-gone-tomorrow operators. Research years in business (10+ years demonstrates stability and expertise), Google reviews and ratings (4.5+ stars from 500+ reviews indicates consistent quality), BBB accreditation and rating (A+ rating with zero unresolved complaints shows ethical business practices), local references (ask neighbors and friends for recommendations), and manufacturer certifications (factory training and authorized installer status). Intelligent Design has served Southern Arizona since 1979 (46+ years of continuous operation), earned 4.97-star Google rating from 22,000+ verified reviews, maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earned Best of Tucson awards for 7 consecutive years, and holds factory certifications from Rheem, Bradford White, Rinnai, Navien, AO Smith, and 8+ other manufacturers. Warning signs of unreliable contractors: recently formed LLC (check at azcc.gov), few or fake online reviews, no physical business address, pressure for immediate cash payment, and unwillingness to provide references."
       },
       {
             "type": "heading",
@@ -593,7 +593,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Local Knowledge Since 1979: We've served Green Valley continuously for 45+ years, developing deep expertise in the community's unique plumbing challenges. Our technicians understand local building codes, typical home construction methods from each development era (1960s-1990s), common plumbing materials used in different neighborhoods, and specific water quality issues affecting different Green Valley areas. This local knowledge enables faster accurate diagnosis, appropriate solution recommendations, and efficient repairs using our extensive parts inventory selected specifically for Green Valley homes."
+            "content": "Local Knowledge Since 1979: We've served Green Valley continuously for 46+ years, developing deep expertise in the community's unique plumbing challenges. Our technicians understand local building codes, typical home construction methods from each development era (1960s-1990s), common plumbing materials used in different neighborhoods, and specific water quality issues affecting different Green Valley areas. This local knowledge enables faster accurate diagnosis, appropriate solution recommendations, and efficient repairs using our extensive parts inventory selected specifically for Green Valley homes."
       },
       {
             "type": "paragraph",

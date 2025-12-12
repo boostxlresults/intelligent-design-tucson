@@ -11,7 +11,7 @@ export const waterheatersData: ServicePageData = {
   // Hero Section
   h1: 'Water Heater Services in Tucson, AZ',
   h2Subheading: 'Expert Water Heaters in Tucson',
-  tagline: 'Tank, Tankless & Hybrid Water Heaters | Expert Installation & Repair | Gas & Electric | Free Sizing Consultation | 45+ Years Experience',
+  tagline: 'Tank, Tankless & Hybrid Water Heaters | Expert Installation & Repair | Gas & Electric | Free Sizing Consultation | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_service_overview_f99cdacb.webp',
   heroImageAlt: 'Water Heaters in Tucson',
   
@@ -34,7 +34,7 @@ export const waterheatersData: ServicePageData = {
     "description": "Emergency repairs | All makes & models | Honest assessments | Repair vs replace guidance"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {
@@ -687,7 +687,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson Hard Water Expertise: Tucson's extremely hard water (12-16 grains per gallon) is among the hardest in the nation, causing accelerated wear on water heaters, reduced efficiency, and premature failure if not properly addressed. Our 45+ years of Tucson experience means we understand exactly how to combat these challenges. We recommend tank water heaters with powered anode rods for extended corrosion protection, specify tankless models with robust heat exchangers resistant to scale buildup, advise on proper maintenance intervals for Tucson's conditions (annual flushing and descaling vs every 2-3 years elsewhere), and integrate [link:/services/water-softeners|water softening systems] when appropriate to dramatically extend water heater life and maintain peak efficiency. This local expertise saves you thousands in premature replacements and constant repairs."
+            "content": "Tucson Hard Water Expertise: Tucson's extremely hard water (12-16 grains per gallon) is among the hardest in the nation, causing accelerated wear on water heaters, reduced efficiency, and premature failure if not properly addressed. Our 46+ years of Tucson experience means we understand exactly how to combat these challenges. We recommend tank water heaters with powered anode rods for extended corrosion protection, specify tankless models with robust heat exchangers resistant to scale buildup, advise on proper maintenance intervals for Tucson's conditions (annual flushing and descaling vs every 2-3 years elsewhere), and integrate [link:/services/water-softeners|water softening systems] when appropriate to dramatically extend water heater life and maintain peak efficiency. This local expertise saves you thousands in premature replacements and constant repairs."
       },
       {
             "type": "paragraph",

@@ -38,7 +38,7 @@ export const ductinstallationData: ServicePageData = {
     "description": "New builds | Additions | Remodels | Full duct replacement | System upgrades"
   },
   {
-    "title": "45+ Years Installation Experience",
+    "title": "46+ years Installation Experience",
     "description": "NATE certified technicians | 22,000+ five-star reviews | Licensed & insured | Family & veteran-owned"
   },
   {

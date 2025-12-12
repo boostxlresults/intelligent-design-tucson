@@ -24,7 +24,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
   highlights: [
   {
     "title": "Corona de Tucson Plumbing Specialists Since 1979",
-    "description": "45+ years serving Corona de Tucson | Expert in rural plumbing systems | Septic-safe solutions | 1,500+ Corona de Tucson homes serviced annually"
+    "description": "46+ years serving Corona de Tucson | Expert in rural plumbing systems | Septic-safe solutions | 1,500+ Corona de Tucson homes serviced annually"
   },
   {
     "title": "ServiceTitan-Powered Fast Response",

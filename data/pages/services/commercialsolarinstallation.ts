@@ -5,13 +5,13 @@ import { commercialSolarInstallationFAQs } from '@/data/faqs/solar';
 export const commercialsolarinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Solar Installation Tucson AZ | Business Solar Panel Systems',
-  description: 'Professional commercial solar installation in Tucson. Reduce operating costs, maximize tax incentives, and achieve energy independence for your business. 45+ years experience. Call (520) 333-2665.',
+  description: 'Professional commercial solar installation in Tucson. Reduce operating costs, maximize tax incentives, and achieve energy independence for your business. 46+ years experience. Call (520) 333-2665.',
   slug: 'commercial-solar-installation',
   
   // Hero Section
   h1: 'Commercial Solar Installation Tucson AZ',
   h2Subheading: 'Expert Commercial Solar Installation in Tucson',
-  tagline: 'Reduce Operating Costs | 30% Tax Credit + Accelerated Depreciation | Energy Independence | ROI Analysis | 45+ Years Experience',
+  tagline: 'Reduce Operating Costs | 30% Tax Credit + Accelerated Depreciation | Energy Independence | ROI Analysis | 46+ years Experience',
   heroImage: '/generated_images/Commercial_solar_panel_installation_a8b637e2.webp',
   heroImageAlt: 'Commercial Solar Installation in Tucson',
   
@@ -38,7 +38,7 @@ export const commercialsolarinstallationData: ServicePageData = {
     "description": "Permits & approvals | Utility coordination | Financing assistance | Dedicated project manager"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Commercial expertise | Trusted since 1979"
   },
   {
@@ -72,7 +72,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our 45+ years serving Tucson gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in commercial solar installations ranging from small businesses to large industrial facilities. Our 46+ years serving Tucson gives us unique expertise in commercial building systems, electrical infrastructure, and utility regulations. We've completed over 480 commercial solar installations since 2015, delivering turnkey solutions that maximize financial returns while minimizing business disruption. Every commercial solar project includes comprehensive [link:/services/hvac-tucson|HVAC system analysis] to identify opportunities for combined solar and efficiency upgrades that dramatically improve overall ROI."
       },
       {
             "type": "heading",
@@ -297,7 +297,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Utility interconnection requires submitting detailed applications to Tucson Electric Power or your utility provider. Large commercial systems (over 100kW) may require utility engineering studies, transformer upgrades, or grid impact assessments. We manage all utility communications, attend pre-construction meetings, and coordinate any required utility infrastructure improvements. Our 45+ years working with Tucson utilities means we have established relationships expediting approval processes and navigating occasional complications that arise with large commercial interconnections."
+            "content": "Utility interconnection requires submitting detailed applications to Tucson Electric Power or your utility provider. Large commercial systems (over 100kW) may require utility engineering studies, transformer upgrades, or grid impact assessments. We manage all utility communications, attend pre-construction meetings, and coordinate any required utility infrastructure improvements. Our 46+ years working with Tucson utilities means we have established relationships expediting approval processes and navigating occasional complications that arise with large commercial interconnections."
       },
       {
             "type": "heading",
@@ -567,7 +567,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Selecting the right commercial solar contractor impacts project success, system performance, and long-term financial returns. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our 45+ years serving Tucson businesses provides unique advantages for commercial solar installations. Unlike solar-only contractors, our comprehensive expertise across HVAC, electrical, plumbing, and solar enables integrated energy solutions maximizing total facility efficiency and cost reduction."
+            "content": "Selecting the right commercial solar contractor impacts project success, system performance, and long-term financial returns. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our 46+ years serving Tucson businesses provides unique advantages for commercial solar installations. Unlike solar-only contractors, our comprehensive expertise across HVAC, electrical, plumbing, and solar enables integrated energy solutions maximizing total facility efficiency and cost reduction."
       },
       {
             "type": "paragraph",

@@ -22,7 +22,7 @@ export const heatingtortolitaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Tortolita Heating Expertise",
+    "title": "46+ years Tortolita Heating Expertise",
     "description": "Local expertise since 1979 | Deep understanding of northwest Tucson desert climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {
@@ -247,7 +247,7 @@ export const heatingtortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Northwest Tucson Expertise: Since 1979, we've been the trusted heating partner for thousands of northwest Tucson metro families, growing alongside Tortolita's development from ranch land to thriving residential community. We understand the unique challenges of heating newer desert homes, the importance of climate-appropriate equipment selection, and the value of integrated HVAC solutions. Our deep roots in the community mean we're here for the long term—standing behind our work and supporting your heating system throughout its entire lifecycle."
+            "content": "46+ years Northwest Tucson Expertise: Since 1979, we've been the trusted heating partner for thousands of northwest Tucson metro families, growing alongside Tortolita's development from ranch land to thriving residential community. We understand the unique challenges of heating newer desert homes, the importance of climate-appropriate equipment selection, and the value of integrated HVAC solutions. Our deep roots in the community mean we're here for the long term—standing behind our work and supporting your heating system throughout its entire lifecycle."
       },
       {
             "type": "paragraph",

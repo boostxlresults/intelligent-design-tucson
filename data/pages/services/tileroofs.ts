@@ -5,13 +5,13 @@ import { tileRoofsFAQs } from '@/data/faqs/roofing';
 export const tileroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Tile Roofing Tucson AZ | Clay & Concrete Tile Installation & Repair',
-  description: 'Expert tile roofing in Tucson. Spanish clay tile, concrete tile, mission tile, barrel tile installation & repair. Southwest style specialists. 45+ years experience. Call (520) 333-2665.',
+  description: 'Expert tile roofing in Tucson. Spanish clay tile, concrete tile, mission tile, barrel tile installation & repair. Southwest style specialists. 46+ years experience. Call (520) 333-2665.',
   slug: 'tile-roofs',
   
   // Hero Section
   h1: 'Tile Roofing Tucson AZ',
   h2Subheading: 'Expert Tile Roofs in Tucson',
-  tagline: 'Spanish Clay Tile | Concrete Tile | Mission & Barrel Tiles | Southwest Style Specialists | Free Estimates | 45+ Years Experience',
+  tagline: 'Spanish Clay Tile | Concrete Tile | Mission & Barrel Tiles | Southwest Style Specialists | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/Spanish_clay_tile_roof_6bc33a61.webp',
   heroImageAlt: 'Tile Roofs in Tucson',
   
@@ -34,7 +34,7 @@ export const tileroofsData: ServicePageData = {
     "description": "Extensive tile inventory | Custom color matching | Discontinued tile sourcing | Seamless repairs"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Historic home expertise | Trusted since 1979"
   },
   {

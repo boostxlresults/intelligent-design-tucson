@@ -25,7 +25,7 @@ export const homeData: ServicePageData = {
   // Content
   highlights: [
     {
-      title: "45+ Years Serving Tucson",
+      title: "46+ years Serving Tucson",
       description: "Since 1979 | Family & veteran-owned | Deep roots in the Tucson community | Trusted by generations of homeowners"
     },
     {
@@ -64,13 +64,13 @@ export const homeData: ServicePageData = {
       },
       {
         type: "heading",
-        heading: "Our Story: 45+ Years of Excellence in Tucson",
+        heading: "Our Story: 46+ years of Excellence in Tucson",
         level: 2,
-        content: "Our Story: 45+ Years of Excellence in Tucson"
+        content: "Our Story: 46+ years of Excellence in Tucson"
       },
       {
         type: "paragraph",
-        content: "Family-Owned and Veteran-Owned Since 1979\n\nIntelligent Design began in 1979 with a simple mission: provide Tucson homeowners with honest, expert home services they can trust. As a family-owned and veteran-owned business, we bring military precision and family values to every job.\n\nWhat Sets Us Apart:\n\n- Local Expertise: We've worked in thousands of Tucson homes over 45+ years. We understand the unique challenges of our desert climate—from monsoon preparation to extreme heat management.\n\n- Trusted by Generations: Many of our customers are now second and third-generation clients. Parents who used our services in the 1980s now call us for their own children's homes.\n\n- Community Commitment: We live and work in Tucson. We're invested in this community's success and wellbeing. Your satisfaction is our legacy.\n\n- Military Values: As a veteran-owned company, we bring military-standard accountability, integrity, and attention to detail to every service call.\n\nAward-Winning Service:\n- BBB A+ Rating (highest possible rating)\n- 22,000+ five-star reviews across Google, Yelp, and Facebook\n- 4.97 average Google rating (nearly perfect)\n- Angie's List Super Service Award\n- Tucson's Best HVAC Company (multiple years)\n- Zero unresolved complaints"
+        content: "Family-Owned and Veteran-Owned Since 1979\n\nIntelligent Design began in 1979 with a simple mission: provide Tucson homeowners with honest, expert home services they can trust. As a family-owned and veteran-owned business, we bring military precision and family values to every job.\n\nWhat Sets Us Apart:\n\n- Local Expertise: We've worked in thousands of Tucson homes over 46+ years. We understand the unique challenges of our desert climate—from monsoon preparation to extreme heat management.\n\n- Trusted by Generations: Many of our customers are now second and third-generation clients. Parents who used our services in the 1980s now call us for their own children's homes.\n\n- Community Commitment: We live and work in Tucson. We're invested in this community's success and wellbeing. Your satisfaction is our legacy.\n\n- Military Values: As a veteran-owned company, we bring military-standard accountability, integrity, and attention to detail to every service call.\n\nAward-Winning Service:\n- BBB A+ Rating (highest possible rating)\n- 22,000+ five-star reviews across Google, Yelp, and Facebook\n- 4.97 average Google rating (nearly perfect)\n- Angie's List Super Service Award\n- Tucson's Best HVAC Company (multiple years)\n- Zero unresolved complaints"
       },
       {
         type: "heading",
@@ -180,7 +180,7 @@ export const homeData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Tucson's unique desert climate creates specific challenges for home systems that require local expertise:\n\nExtreme Temperature Swings:\nFrom below freezing on winter nights to 110°F+ in summer, Tucson's temperature extremes stress HVAC systems, plumbing, roofing, and electrical systems more than moderate climates.\n\nIntense UV Exposure:\nTucson receives some of the highest UV radiation in the United States. This intense sunlight degrades roofing materials, outdoor electrical components, and painted surfaces faster than anywhere else.\n\nHard Water and Mineral Content:\nTucson's water is among the hardest in the nation, with high mineral content that damages plumbing fixtures, water heaters, and appliances. Expert water treatment is essential.\n\nMonsoon Season Challenges:\nJuly-September monsoons bring intense downpours, lightning, wind, and flash flooding. Homes need proper drainage, surge protection, and weather-resistant systems.\n\nDust and Allergens:\nDesert dust infiltrates HVAC systems, requiring more frequent filter changes and duct cleaning than humid climates.\n\nWhy Local Experience Matters:\nWe've worked exclusively in Tucson for 45+ years. We know:\n- Which AC systems handle extreme heat best\n- Proper equipment sizing for 4,000+ hour annual AC operation\n- Water treatment solutions for Tucson's hard water\n- Roofing materials that withstand UV and monsoons\n- Electrical surge protection for monsoon lightning\n- Plumbing considerations for our soil and water\n\nThis isn't knowledge from a manual—it's earned through decades serving Tucson homes."
+        content: "Tucson's unique desert climate creates specific challenges for home systems that require local expertise:\n\nExtreme Temperature Swings:\nFrom below freezing on winter nights to 110°F+ in summer, Tucson's temperature extremes stress HVAC systems, plumbing, roofing, and electrical systems more than moderate climates.\n\nIntense UV Exposure:\nTucson receives some of the highest UV radiation in the United States. This intense sunlight degrades roofing materials, outdoor electrical components, and painted surfaces faster than anywhere else.\n\nHard Water and Mineral Content:\nTucson's water is among the hardest in the nation, with high mineral content that damages plumbing fixtures, water heaters, and appliances. Expert water treatment is essential.\n\nMonsoon Season Challenges:\nJuly-September monsoons bring intense downpours, lightning, wind, and flash flooding. Homes need proper drainage, surge protection, and weather-resistant systems.\n\nDust and Allergens:\nDesert dust infiltrates HVAC systems, requiring more frequent filter changes and duct cleaning than humid climates.\n\nWhy Local Experience Matters:\nWe've worked exclusively in Tucson for 46+ years. We know:\n- Which AC systems handle extreme heat best\n- Proper equipment sizing for 4,000+ hour annual AC operation\n- Water treatment solutions for Tucson's hard water\n- Roofing materials that withstand UV and monsoons\n- Electrical surge protection for monsoon lightning\n- Plumbing considerations for our soil and water\n\nThis isn't knowledge from a manual—it's earned through decades serving Tucson homes."
       },
       {
         type: "heading",

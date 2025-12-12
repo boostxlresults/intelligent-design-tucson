@@ -25,7 +25,7 @@ export const roofingtortolitaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tortolita",
+    "title": "46+ years Serving Tortolita",
     "description": "Local expertise since 1979. We know Tortolita roofing systems, climate challenges, and code requirements inside and out."
   },
   {
@@ -117,7 +117,7 @@ export const roofingtortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Tortolita"
+            "content": "46+ years Serving Tortolita"
       },
       {
             "type": "paragraph",

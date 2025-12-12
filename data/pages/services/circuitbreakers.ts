@@ -23,7 +23,7 @@ export const circuitbreakersData: ServicePageData = {
   highlights: [
   {
     "title": "Licensed & Experienced Electricians",
-    "description": "ROC licensed professionals | 45+ years experience | Expert panel service | Code-compliant work"
+    "description": "ROC licensed professionals | 46+ years experience | Expert panel service | Code-compliant work"
   },
   {
     "title": "Complete Breaker Services",

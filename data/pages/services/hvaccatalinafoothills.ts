@@ -23,7 +23,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
   highlights: [
     {
       "title": "Catalina Foothills HVAC Specialists",
-      "description": "45+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
+      "description": "46+ years serving Catalina Foothills families | Expert knowledge of local systems | Average 62-minute response time"
     },
     {
       "title": "Licensed & Insured Technicians",
@@ -237,7 +237,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our HVAC technicians arrive in clean uniforms, use floor protection throughout your home, and treat your property with respect. We provide upfront, flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our installations and repairs are backed by comprehensive warranties, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills HVAC needs, you're partnering with a company that has 45+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
+        "content": "Our HVAC technicians arrive in clean uniforms, use floor protection throughout your home, and treat your property with respect. We provide upfront, flat-rate pricing with no hidden fees—you'll know the exact cost before we start work. Our installations and repairs are backed by comprehensive warranties, and we maintain an A+ Better Business Bureau rating with zero unresolved complaints. When you choose Intelligent Design for your Catalina Foothills HVAC needs, you're partnering with a company that has 46+ years of local expertise, thousands of satisfied customers, and a reputation for excellence we protect with every job."
       },
       {
         "type": "paragraph",

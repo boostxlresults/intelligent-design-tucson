@@ -5,13 +5,13 @@ import { shingleRoofsFAQs } from '@/data/faqs/roofing';
 export const shingleroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Shingle Roofing Tucson AZ | Asphalt Shingle Installation & Repair',
-  description: 'Expert asphalt shingle roofing in Tucson. Architectural shingles, 3-tab, installation, repair & replacement. Energy-efficient solutions. 45+ years experience. Call (520) 333-2665.',
+  description: 'Expert asphalt shingle roofing in Tucson. Architectural shingles, 3-tab, installation, repair & replacement. Energy-efficient solutions. 46+ years experience. Call (520) 333-2665.',
   slug: 'shingle-roofs',
   
   // Hero Section
   h1: 'Asphalt Shingle Roofing Tucson AZ',
   h2Subheading: 'Expert Shingle Roofs in Tucson',
-  tagline: 'Architectural & 3-Tab Shingles | Energy-Efficient Options | Expert Installation & Repair | Free Estimates | 45+ Years Experience',
+  tagline: 'Architectural & 3-Tab Shingles | Energy-Efficient Options | Expert Installation & Repair | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/asphalt_shingle_roof_detail_d24441ea.webp',
   heroImageAlt: 'Shingle Roofs in Tucson',
   
@@ -34,7 +34,7 @@ export const shingleroofsData: ServicePageData = {
     "description": "Manufacturer warranties | Lifetime labor warranty | Transferable coverage | Leak guarantees"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
   },
   {

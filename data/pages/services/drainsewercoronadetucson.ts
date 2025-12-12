@@ -22,7 +22,7 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   highlights: [
     {
       "title": "Corona de Tucson Drain Specialists",
-      "description": "45+ years serving Corona de Tucson families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Corona de Tucson families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

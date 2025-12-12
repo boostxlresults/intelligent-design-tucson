@@ -22,7 +22,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Solar Specialists",
-      "description": "45+ years serving active adult communities | Clear ROI analysis | Patient, detailed explanations without pressure"
+      "description": "46+ years serving active adult communities | Clear ROI analysis | Patient, detailed explanations without pressure"
     },
     {
       "title": "Licensed & Fully Certified",

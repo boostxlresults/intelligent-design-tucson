@@ -668,7 +668,7 @@ export const heatertuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Join Thousands of Satisfied Tucson Homeowners: Don't just take our word for the value of professional heater tune-ups—read verified [link:/customer-reviews|customer reviews] from thousands of Tucson-area families who rely on our maintenance services for year-round comfort, reliability, and peace of mind. Our 4.97-star Google rating from over 22,000 reviews represents real experiences from your neighbors in Oro Valley, Marana, Catalina Foothills, Sahuarita, and throughout metro Tucson. When you choose Intelligent Design, you're choosing the most trusted name in Tucson HVAC service backed by 45+ years of family and veteran-owned integrity, professional expertise, and commitment to your complete satisfaction."
+            "content": "Join Thousands of Satisfied Tucson Homeowners: Don't just take our word for the value of professional heater tune-ups—read verified [link:/customer-reviews|customer reviews] from thousands of Tucson-area families who rely on our maintenance services for year-round comfort, reliability, and peace of mind. Our 4.97-star Google rating from over 22,000 reviews represents real experiences from your neighbors in Oro Valley, Marana, Catalina Foothills, Sahuarita, and throughout metro Tucson. When you choose Intelligent Design, you're choosing the most trusted name in Tucson HVAC service backed by 46+ years of family and veteran-owned integrity, professional expertise, and commitment to your complete satisfaction."
       }
     ]
   },

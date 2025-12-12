@@ -23,7 +23,7 @@ export const hvaccasasadobesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Casas Adobes HVAC Expertise",
+    "title": "46+ years Casas Adobes HVAC Expertise",
     "description": "Local expertise since 1979 | Deep understanding of north Tucson desert climate | Over 85,000 satisfied customers | Family-owned and operated"
   },
   {

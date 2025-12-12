@@ -22,7 +22,7 @@ export const drainseweravravalleyData: ServicePageData = {
   highlights: [
     {
       "title": "Avra Valley Drain Specialists",
-      "description": "45+ years serving Avra Valley families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Avra Valley families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

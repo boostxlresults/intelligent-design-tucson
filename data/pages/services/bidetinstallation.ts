@@ -34,7 +34,7 @@ export const bidetinstallationData: ServicePageData = {
     "description": "Licensed plumbers | Proper connections | Electrical setup if needed | Leak-free installation | Complete testing"
   },
   {
-    "title": "45+ Years Tucson Experience",
+    "title": "46+ years Tucson Experience",
     "description": "Family & veteran-owned | 22,000+ reviews | Modern fixtures expertise | Trusted since 1979 | Licensed ROC #171687"
   },
   {
@@ -552,7 +552,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "First-time bidet users often have questions and concerns about the technology, hygiene, and operation. Our 45+ years of bidet installation experience allows us to address the most common questions we encounter:"
+            "content": "First-time bidet users often have questions and concerns about the technology, hygiene, and operation. Our 46+ years of bidet installation experience allows us to address the most common questions we encounter:"
       },
       {
             "type": "heading",

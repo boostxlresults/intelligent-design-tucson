@@ -22,7 +22,7 @@ export const solarinstallationmaranaData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Marana",
+    "title": "46+ years Serving Marana",
     "description": "Local expertise since 1979 | 1,200+ Marana solar installations | Deep understanding of Gladden Farms, Dove Mountain, Tangerine Farms communities | Family-owned and operated"
   },
   {
@@ -359,7 +359,7 @@ export const solarinstallationmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Local Expertise: With 45+ years serving Marana since 1979, we understand this community like no other solar company. We've installed solar on homes in every Marana neighborhood—from established communities like Saguaro Springs Ranch to fast-growing developments like Gladden Farms, Dove Mountain, and Tangerine Farms. Our experience with Marana's building department ensures smooth permitting (average 2-3 weeks), we maintain 100% HOA approval success rate in all Marana communities, we understand local roof types and construction methods, and our technicians navigate Marana's streets efficiently for rapid response times. We're not a national solar company with minimal local presence—we're your Marana neighbors with deep roots in this community."
+            "content": "Unmatched Local Expertise: With 46+ years serving Marana since 1979, we understand this community like no other solar company. We've installed solar on homes in every Marana neighborhood—from established communities like Saguaro Springs Ranch to fast-growing developments like Gladden Farms, Dove Mountain, and Tangerine Farms. Our experience with Marana's building department ensures smooth permitting (average 2-3 weeks), we maintain 100% HOA approval success rate in all Marana communities, we understand local roof types and construction methods, and our technicians navigate Marana's streets efficiently for rapid response times. We're not a national solar company with minimal local presence—we're your Marana neighbors with deep roots in this community."
       },
       {
             "type": "paragraph",

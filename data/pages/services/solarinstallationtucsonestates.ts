@@ -25,7 +25,7 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "45+ Years Serving Tucson Estates",
+    "title": "46+ years Serving Tucson Estates",
     "description": "Local expertise since 1979. We understand Tucson Estates's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
   },
   {
@@ -125,7 +125,7 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "45+ Years Serving Tucson Estates"
+            "content": "46+ years Serving Tucson Estates"
       },
       {
             "type": "paragraph",

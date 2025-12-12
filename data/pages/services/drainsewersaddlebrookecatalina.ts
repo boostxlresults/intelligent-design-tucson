@@ -22,7 +22,7 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   highlights: [
     {
       "title": "Senior-Focused Drain Specialists",
-      "description": "45+ years serving active adult communities | Patient service | Average 62-minute emergency response"
+      "description": "46+ years serving active adult communities | Patient service | Average 62-minute emergency response"
     },
     {
       "title": "Advanced Technology",

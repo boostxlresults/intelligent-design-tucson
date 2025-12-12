@@ -22,7 +22,7 @@ export const drainsewerpicturerocksData: ServicePageData = {
   highlights: [
     {
       "title": "Picture Rocks Drain Specialists",
-      "description": "45+ years serving Picture Rocks families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
+      "description": "46+ years serving Picture Rocks families | Expert drain clearing and sewer repair | Average 75-minute emergency response"
     },
     {
       "title": "Advanced Technology",

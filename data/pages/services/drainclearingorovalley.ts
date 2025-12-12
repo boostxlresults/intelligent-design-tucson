@@ -11,7 +11,7 @@ export const drainclearingorovalleyData: ServicePageData = {
   // Hero Section
   h1: 'Professional Drain Clearing Services in Oro Valley',
   h2Subheading: 'Expert Drain Clearing in Oro Valley',
-  tagline: 'Fast Clog Removal | Kitchen & Bathroom Drains | Main Sewer Lines | Hydro Jetting | Same-Day Service | 45+ Years Experience',
+  tagline: 'Fast Clog Removal | Kitchen & Bathroom Drains | Main Sewer Lines | Hydro Jetting | Same-Day Service | 46+ years Experience',
   heroImage: '/generated_images/Professional_drain_clearing_service_46ea7cfd.webp',
   heroImageAlt: 'Drain Clearing in Oro Valley',
   
@@ -35,7 +35,7 @@ export const drainclearingorovalleyData: ServicePageData = {
   },
   {
     "title": "Experienced Technicians",
-    "description": "Licensed master plumbers | 45+ years local experience | Expert diagnostics | Honest assessments"
+    "description": "Licensed master plumbers | 46+ years local experience | Expert diagnostics | Honest assessments"
   },
   {
     "title": "Upfront Pricing",
