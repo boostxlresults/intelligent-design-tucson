@@ -716,7 +716,7 @@ export const commercialroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready to Protect Your Investment? Don't wait until minor roof issues become major problems. Contact Intelligent Design today for your free commercial roof assessment. Call (520) 333-2665 or schedule online. Our roofing specialists will evaluate your roof condition, perform moisture surveys, recommend appropriate coating systems, and provide detailed ROI analysis helping you make the best decision for your building. Let us show you why Tucson businesses have trusted Intelligent Design for over 45 years."
+            "content": "Ready to Protect Your Investment? Don't wait until minor roof issues become major problems. Contact Intelligent Design today for your free commercial roof assessment. Call (520) 333-2665 or schedule online. Our roofing specialists will evaluate your roof condition, perform moisture surveys, recommend appropriate coating systems, and provide detailed ROI analysis helping you make the best decision for your building. Let us show you why Tucson businesses have trusted Intelligent Design for over 46 years."
       }
 ]
   },

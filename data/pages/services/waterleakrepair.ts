@@ -732,7 +732,7 @@ export const waterleakrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—over 45 years of trusted emergency plumbing service. We're a family and veteran-owned business with over 85,000 satisfied customers and deep roots in the Southern Arizona community. Our licensed master plumbers have repaired thousands of water leaks throughout Tucson and understand the unique challenges of our region: extremely hard water causing accelerated pipe corrosion, shifting desert soils stressing underground lines, aging housing stock from Tucson's 1970s-1990s growth boom, and temperature swings causing expansion/contraction stress on plumbing systems."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—over 46 years of trusted emergency plumbing service. We're a family and veteran-owned business with over 85,000 satisfied customers and deep roots in the Southern Arizona community. Our licensed master plumbers have repaired thousands of water leaks throughout Tucson and understand the unique challenges of our region: extremely hard water causing accelerated pipe corrosion, shifting desert soils stressing underground lines, aging housing stock from Tucson's 1970s-1990s growth boom, and temperature swings causing expansion/contraction stress on plumbing systems."
       },
       {
             "type": "paragraph",

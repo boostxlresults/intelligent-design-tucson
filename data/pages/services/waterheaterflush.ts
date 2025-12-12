@@ -69,7 +69,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided water heater maintenance services in Tucson since 1979—over 45 years of experience protecting homeowners from hard water damage. Our licensed master plumbers understand exactly how Tucson's mineral-rich water affects different water heater types and what comprehensive maintenance is required to keep them operating efficiently for their full designed lifespan and beyond. We use professional power flushing equipment that completely removes sediment (not just partial flushing that leaves hardened layers behind), inspect and replace critical components like sacrificial anode rods that protect tanks from corrosion, test all safety devices including temperature-pressure relief valves, and provide detailed service reports with photos documenting your water heater's condition and our work."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided water heater maintenance services in Tucson since 1979—over 46 years of experience protecting homeowners from hard water damage. Our licensed master plumbers understand exactly how Tucson's mineral-rich water affects different water heater types and what comprehensive maintenance is required to keep them operating efficiently for their full designed lifespan and beyond. We use professional power flushing equipment that completely removes sediment (not just partial flushing that leaves hardened layers behind), inspect and replace critical components like sacrificial anode rods that protect tanks from corrosion, test all safety devices including temperature-pressure relief valves, and provide detailed service reports with photos documenting your water heater's condition and our work."
       },
       {
             "type": "cta",
@@ -164,7 +164,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Challenge: The Rodriguez family in Catalina Foothills called us for [link:/services/water-heater-installation|water heater replacement] after their 8-year-old 50-gallon gas water heater started making loud rumbling noises and taking 45+ minutes to recover hot water after showers. They assumed the unit was near end-of-life and needed replacement. Previous plumbers had quoted $2,200-$2,800 for a new water heater installation. The family had never performed any maintenance since installation in 2015, and Tucson Water hardness tests showed 15.8 grains per gallon at their location."
+            "content": "Challenge: The Rodriguez family in Catalina Foothills called us for [link:/services/water-heater-installation|water heater replacement] after their 8-year-old 50-gallon gas water heater started making loud rumbling noises and taking 46+ minutes to recover hot water after showers. They assumed the unit was near end-of-life and needed replacement. Previous plumbers had quoted $2,200-$2,800 for a new water heater installation. The family had never performed any maintenance since installation in 2015, and Tucson Water hardness tests showed 15.8 grains per gallon at their location."
       },
       {
             "type": "paragraph",
@@ -700,7 +700,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided comprehensive water heater maintenance services throughout Tucson since 1979—over 45 years of experience protecting homeowners from hard water damage. We're a family and veteran-owned business deeply rooted in the Tucson community. We understand exactly how Tucson's mineral-rich water affects water heaters because we've serviced tens of thousands of local water heaters over four decades. We know what works, what doesn't, and what comprehensive maintenance really requires in our unique desert climate and water conditions."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided comprehensive water heater maintenance services throughout Tucson since 1979—over 46 years of experience protecting homeowners from hard water damage. We're a family and veteran-owned business deeply rooted in the Tucson community. We understand exactly how Tucson's mineral-rich water affects water heaters because we've serviced tens of thousands of local water heaters over four decades. We know what works, what doesn't, and what comprehensive maintenance really requires in our unique desert climate and water conditions."
       },
       {
             "type": "paragraph",

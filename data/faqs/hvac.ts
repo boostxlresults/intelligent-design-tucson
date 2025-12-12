@@ -441,7 +441,7 @@ export const ductInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Do you handle duct design and sizing?",
-      answer: "Yes, proper duct design is critical for system performance and is included with every installation. Technicians perform Manual D calculations considering your home's layout, HVAC capacity, airflow requirements, and static pressure. Intelligent Design's 45+ years of experience ensures ductwork is engineered for optimal comfort and efficiency."
+      answer: "Yes, proper duct design is critical for system performance and is included with every installation. Technicians perform Manual D calculations considering your home's layout, HVAC capacity, airflow requirements, and static pressure. Intelligent Design's 46+ years of experience ensures ductwork is engineered for optimal comfort and efficiency."
     },
     {
       question: "Can you install ducts in a home that never had them?",
@@ -488,7 +488,7 @@ export const ductRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you repair both flex duct and metal ductwork?",
-      answer: "Yes, technicians repair both flex duct and rigid metal ductwork systems. Flex duct repairs often involve replacing damaged sections or re-securing sagging ducts. Metal duct repairs include sealing leaks, replacing rusted sections, and reinforcing connections. With 45+ years of experience, proper repair methods for all duct types are known."
+      answer: "Yes, technicians repair both flex duct and rigid metal ductwork systems. Flex duct repairs often involve replacing damaged sections or re-securing sagging ducts. Metal duct repairs include sealing leaks, replacing rusted sections, and reinforcing connections. With 46+ years of experience, proper repair methods for all duct types are known."
     },
     {
       question: "Will duct repair improve my AC performance?",
@@ -665,7 +665,7 @@ export const indoorAirQualityFAQs: ServiceFAQs = {
     },
     {
       question: "Can you test my indoor air quality?",
-      answer: "Yes, Intelligent Design offers comprehensive indoor air quality assessments including particle counts, humidity measurements, carbon monoxide testing, and VOC detection. Testing identifies specific problems and guides customized solutions. With 45+ years of experience and advanced diagnostic equipment, accurate assessments and effective recommendations are provided for every Tucson home."
+      answer: "Yes, Intelligent Design offers comprehensive indoor air quality assessments including particle counts, humidity measurements, carbon monoxide testing, and VOC detection. Testing identifies specific problems and guides customized solutions. With 46+ years of experience and advanced diagnostic equipment, accurate assessments and effective recommendations are provided for every Tucson home."
     }
   ]
 };
@@ -712,7 +712,7 @@ export const homeEnergyUpgradesFAQs: ServiceFAQs = {
     },
     {
       question: "How are energy upgrades documented for home sales?",
-      answer: "Professional energy upgrades should be properly documented with equipment specifications, efficiency ratings, warranty information, and before/after energy assessments. This documentation is valuable for appraisers, lenders, and buyers. With 45+ years of experience, Intelligent Design provides comprehensive documentation for MLS listings and appraisals, ensuring upgrades are recognized in home valuations."
+      answer: "Professional energy upgrades should be properly documented with equipment specifications, efficiency ratings, warranty information, and before/after energy assessments. This documentation is valuable for appraisers, lenders, and buyers. With 46+ years of experience, Intelligent Design provides comprehensive documentation for MLS listings and appraisals, ensuring upgrades are recognized in home valuations."
     },
     {
       question: "Will energy upgrades help during power outages?",
@@ -767,7 +767,7 @@ export const homeEnergyAuditFAQs: ServiceFAQs = {
     },
     {
       question: "How do energy audits help with home sales?",
-      answer: "Professional energy audits provide comprehensive testing and documentation that validates home performance for buyers, appraisers, and lenders. Detailed audit reports demonstrate energy efficiency, identify completed upgrades, and justify premium pricing. With 45+ years of experience, Intelligent Design conducts thorough audits with professional documentation that supports home valuations and faster sales."
+      answer: "Professional energy audits provide comprehensive testing and documentation that validates home performance for buyers, appraisers, and lenders. Detailed audit reports demonstrate energy efficiency, identify completed upgrades, and justify premium pricing. With 46+ years of experience, Intelligent Design conducts thorough audits with professional documentation that supports home valuations and faster sales."
     }
   ]
 };

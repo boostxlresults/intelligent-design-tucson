@@ -429,7 +429,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For over 45 years, Intelligent Design has earned the trust of thousands of Tortolita families through consistent quality, honest service, and unwavering commitment to customer satisfaction. Our reputation isn't built on marketing promises—it's earned through decades of reliable service, fair pricing, and doing what's right for every customer."
+            "content": "For over 46 years, Intelligent Design has earned the trust of thousands of Tortolita families through consistent quality, honest service, and unwavering commitment to customer satisfaction. Our reputation isn't built on marketing promises—it's earned through decades of reliable service, fair pricing, and doing what's right for every customer."
       },
       {
             "type": "heading",
@@ -624,7 +624,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What references can you provide from Tortolita customers? We're proud to share references from hundreds of satisfied Tortolita customers who've experienced our exceptional service firsthand. Our 22,000+ five-star reviews include testimonials from Tortolita residents praising our professionalism, technical expertise, fair pricing, and responsive service. We maintain BBB A+ rating with zero unresolved complaints demonstrating our commitment to customer satisfaction. Many Tortolita homeowners provide unsolicited referrals to neighbors and friends—our highest compliment. We're happy to provide specific Tortolita references upon request, connecting you with customers who've experienced similar projects or services. Our transparent track record speaks for itself earning trust of thousands of northwest Tucson families over 45 years."
+            "content": "What references can you provide from Tortolita customers? We're proud to share references from hundreds of satisfied Tortolita customers who've experienced our exceptional service firsthand. Our 22,000+ five-star reviews include testimonials from Tortolita residents praising our professionalism, technical expertise, fair pricing, and responsive service. We maintain BBB A+ rating with zero unresolved complaints demonstrating our commitment to customer satisfaction. Many Tortolita homeowners provide unsolicited referrals to neighbors and friends—our highest compliment. We're happy to provide specific Tortolita references upon request, connecting you with customers who've experienced similar projects or services. Our transparent track record speaks for itself earning trust of thousands of northwest Tucson families over 46 years."
       },
       {
             "type": "paragraph",

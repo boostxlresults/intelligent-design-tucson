@@ -276,7 +276,7 @@ In Tucson's climate, [service] emergencies are serious. [Specific local context]
 
 Great question. Here's what genuinely sets us apart:
 
-- **45+ years serving Tucson (since 1979)** - We understand desert climate challenges
+- **46+ years serving Tucson (since 1979)** - We understand desert climate challenges
 - **22,000+ five-star reviews** - Nearly perfect 4.97 Google rating
 - **Family & veteran-owned** - Military precision + family values
 - **Upfront, transparent pricing** - Written estimates, no hidden fees
@@ -512,7 +512,7 @@ For each of the 213 service pages, add the following sections in this order:
 
 ✅ **E-E-A-T Signals:**
 - Specific credentials and certifications
-- Quantified experience (17+ years, 22k reviews, 45+ years in business)
+- Quantified experience (17+ years, 22k reviews, 46+ years in business)
 - Transparent pricing and guarantee commitments
 - Safety guidance demonstrates responsibility
 

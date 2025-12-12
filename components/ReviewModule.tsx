@@ -47,7 +47,7 @@ export function ReviewModule({ variant = "full", className = "" }: ReviewModuleP
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
           <div>
-            <div className="text-3xl font-bold text-primary mb-1">45+</div>
+            <div className="text-3xl font-bold text-primary mb-1">46+</div>
             <div className="text-sm text-muted-foreground">Years Serving Tucson</div>
           </div>
           <div>

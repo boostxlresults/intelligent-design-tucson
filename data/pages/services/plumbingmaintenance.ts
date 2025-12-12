@@ -133,7 +133,7 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our comprehensive plumbing maintenance follows a systematic 8-step process ensuring every component of your plumbing system receives thorough evaluation and care. This proven methodology, refined over 45 years and 85,000+ service calls, catches 95% of developing problems before they become emergencies."
+            "content": "Our comprehensive plumbing maintenance follows a systematic 8-step process ensuring every component of your plumbing system receives thorough evaluation and care. This proven methodology, refined over 46 years and 85,000+ service calls, catches 95% of developing problems before they become emergencies."
       },
       {
             "type": "heading",
@@ -591,7 +591,7 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided plumbing services to Tucson families since 1979. We're a family and veteran-owned business with over 45 years of local experience. Our licensed master plumbers understand Tucson's unique plumbing challenges—hard water damage, aging infrastructure, desert landscaping over sewer lines, and monsoon-related issues. We've maintained plumbing systems in thousands of Tucson homes and know what problems to expect at different home ages and locations."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided plumbing services to Tucson families since 1979. We're a family and veteran-owned business with over 46 years of local experience. Our licensed master plumbers understand Tucson's unique plumbing challenges—hard water damage, aging infrastructure, desert landscaping over sewer lines, and monsoon-related issues. We've maintained plumbing systems in thousands of Tucson homes and know what problems to expect at different home ages and locations."
       },
       {
             "type": "paragraph",

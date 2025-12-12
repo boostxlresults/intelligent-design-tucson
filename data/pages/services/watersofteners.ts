@@ -585,7 +585,7 @@ export const watersoftenersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional plumbing services. Our team includes licensed master plumbers who are extensively trained on Brita PRO water treatment systems and understand the unique challenges of Tucson's hard water."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional plumbing services. Our team includes licensed master plumbers who are extensively trained on Brita PRO water treatment systems and understand the unique challenges of Tucson's hard water."
       },
       {
             "type": "paragraph",

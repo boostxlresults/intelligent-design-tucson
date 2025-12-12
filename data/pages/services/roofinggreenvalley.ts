@@ -167,7 +167,7 @@ export const roofinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding our comprehensive roofing process helps Green Valley homeowners know what to expect from initial contact through project completion and follow-up. We've refined this process over 45 years to minimize disruption, maximize communication, and deliver exceptional results for retirement community homeowners who value thoroughness and professionalism."
+            "content": "Understanding our comprehensive roofing process helps Green Valley homeowners know what to expect from initial contact through project completion and follow-up. We've refined this process over 46 years to minimize disruption, maximize communication, and deliver exceptional results for retirement community homeowners who value thoroughness and professionalism."
       },
       {
             "type": "heading",

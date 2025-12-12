@@ -620,7 +620,7 @@ export const leakdetectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided leak detection services throughout Tucson since 1979. We're a family and veteran-owned business with over 45 years of local experience and deep understanding of Southern Arizona's unique plumbing challenges. Our certified leak detection specialists use the latest technology—thermal imaging cameras, acoustic listening equipment, moisture meters, correlation systems, and pressure testing—to locate hidden leaks with 95%+ accuracy. We invest in ongoing training and equipment upgrades to maintain our position as Tucson's leak detection leaders, with over $450,000 invested in state-of-the-art detection technology."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has provided leak detection services throughout Tucson since 1979. We're a family and veteran-owned business with over 46 years of local experience and deep understanding of Southern Arizona's unique plumbing challenges. Our certified leak detection specialists use the latest technology—thermal imaging cameras, acoustic listening equipment, moisture meters, correlation systems, and pressure testing—to locate hidden leaks with 95%+ accuracy. We invest in ongoing training and equipment upgrades to maintain our position as Tucson's leak detection leaders, with over $450,000 invested in state-of-the-art detection technology."
       },
       {
             "type": "paragraph",

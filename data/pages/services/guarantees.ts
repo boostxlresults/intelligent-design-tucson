@@ -55,9 +55,9 @@ export const guaranteesData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Over 45 Years of Excellence",
+            "heading": "over 46 years of Excellence",
             "level": 3,
-            "content": "Over 45 Years of Excellence"
+            "content": "over 46 years of Excellence"
       },
       {
             "type": "paragraph",

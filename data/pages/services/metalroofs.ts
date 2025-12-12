@@ -709,7 +709,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners and businesses since 1979. We're a family and veteran-owned company with over 45 years of experience providing professional metal roofing Tucson AZ services throughout Southern Arizona. Our licensed metal roofers have installed thousands of metal roofs ranging from residential standing seam to large commercial corrugated installations, understanding the specialized techniques and premium 22-24-26 gauge materials ensuring optimal performance in Tucson's demanding climate."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners and businesses since 1979. We're a family and veteran-owned company with over 46 years of experience providing professional metal roofing Tucson AZ services throughout Southern Arizona. Our licensed metal roofers have installed thousands of metal roofs ranging from residential standing seam to large commercial corrugated installations, understanding the specialized techniques and premium 22-24-26 gauge materials ensuring optimal performance in Tucson's demanding climate."
       },
       {
             "type": "paragraph",
@@ -717,7 +717,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We partner with leading metal roofing manufacturers including McElroy, MBCI, Berridge, and ASC Building Products, ensuring access to quality materials, technical support, and manufacturer warranties. Our experience spans all metal roofing systems—standing seam, corrugated, metal shingles, and specialty profiles—enabling us to recommend optimal solutions for your property. Whether you need [link:/services/residential-roof-installation|new construction roofing], [link:/services/residential-roof-replacement|replacement of aging systems], [link:/services/commercial-roof-installation|commercial installations], or [link:/services/residential-roof-repair|roof repairs], we provide expert guidance and craftsmanship delivering the longevity, energy efficiency, and weather protection metal roofing promises. Your investment deserves the expertise and integrity that has made us Tucson's most trusted roofing professionals for over 45 years."
+            "content": "We partner with leading metal roofing manufacturers including McElroy, MBCI, Berridge, and ASC Building Products, ensuring access to quality materials, technical support, and manufacturer warranties. Our experience spans all metal roofing systems—standing seam, corrugated, metal shingles, and specialty profiles—enabling us to recommend optimal solutions for your property. Whether you need [link:/services/residential-roof-installation|new construction roofing], [link:/services/residential-roof-replacement|replacement of aging systems], [link:/services/commercial-roof-installation|commercial installations], or [link:/services/residential-roof-repair|roof repairs], we provide expert guidance and craftsmanship delivering the longevity, energy efficiency, and weather protection metal roofing promises. Your investment deserves the expertise and integrity that has made us Tucson's most trusted roofing professionals for over 46 years."
       }
 ]
   },

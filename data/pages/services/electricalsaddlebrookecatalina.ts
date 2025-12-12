@@ -218,7 +218,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Saddle Brooke and Catalina residents have specific expectations for service providers working in their active adult communities—professionalism, respect, clear communication, and quality workmanship. Our electrical division has served the Tucson metro area for over 45 years, and we've built strong relationships throughout the Saddle Brooke / Catalina communities based on trust, transparency, and exceptional service. We understand that for many retirees, home service decisions involve careful consideration, and we provide the information and time you need to make confident choices without pressure or confusion."
+        "content": "Saddle Brooke and Catalina residents have specific expectations for service providers working in their active adult communities—professionalism, respect, clear communication, and quality workmanship. Our electrical division has served the Tucson metro area for over 46 years, and we've built strong relationships throughout the Saddle Brooke / Catalina communities based on trust, transparency, and exceptional service. We understand that for many retirees, home service decisions involve careful consideration, and we provide the information and time you need to make confident choices without pressure or confusion."
       },
       {
         "type": "paragraph",

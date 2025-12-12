@@ -665,7 +665,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Our Commitment to Casas Adobes: For over 45 years, Intelligent Design has been the electrical service provider Casas Adobes families trust for safety, reliability, and exceptional value. We're your neighbors, serving your community with the expertise and integrity you deserve."
+        "content": "Our Commitment to Casas Adobes: For over 46 years, Intelligent Design has been the electrical service provider Casas Adobes families trust for safety, reliability, and exceptional value. We're your neighbors, serving your community with the expertise and integrity you deserve."
       }
     ]
   },

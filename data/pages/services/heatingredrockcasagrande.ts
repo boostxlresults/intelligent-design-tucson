@@ -219,7 +219,7 @@ export const heatingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande continues its rapid growth as a family-friendly community, homeowners need a heating service provider who understands both modern HVAC systems and the unique demands of desert climate heating. Our heating division has served the Tucson metro area and surrounding communities for over 45 years, building a reputation for quality workmanship, honest recommendations, and customer service that exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from limited heating season making maintenance critical to newer home systems requiring expert service."
+        "content": "As Red Rock / Casa Grande continues its rapid growth as a family-friendly community, homeowners need a heating service provider who understands both modern HVAC systems and the unique demands of desert climate heating. Our heating division has served the Tucson metro area and surrounding communities for over 46 years, building a reputation for quality workmanship, honest recommendations, and customer service that exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from limited heating season making maintenance critical to newer home systems requiring expert service."
       },
       {
         "type": "paragraph",

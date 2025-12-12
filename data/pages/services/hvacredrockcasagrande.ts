@@ -219,7 +219,7 @@ export const hvacredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande grows as a family-friendly desert community, homeowners need an HVAC service provider who understands both modern high-efficiency systems and the extreme demands of desert climate. Our HVAC division has served the Tucson metro area and surrounding communities for over 45 years, building a reputation for quality workmanship, honest recommendations, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from brutal summer heat stressing HVAC equipment to rapid community growth creating unique service demands."
+        "content": "As Red Rock / Casa Grande grows as a family-friendly desert community, homeowners need an HVAC service provider who understands both modern high-efficiency systems and the extreme demands of desert climate. Our HVAC division has served the Tucson metro area and surrounding communities for over 46 years, building a reputation for quality workmanship, honest recommendations, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from brutal summer heat stressing HVAC equipment to rapid community growth creating unique service demands."
       },
       {
         "type": "paragraph",

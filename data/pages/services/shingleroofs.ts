@@ -640,7 +640,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners since 1979. We're a family and veteran-owned business with over 45 years of experience providing professional roofing services throughout Southern Arizona. Our licensed contractors (ROC #171687) understand the unique challenges of Tucson's climate and have installed thousands of shingle roofs using proven techniques and premium materials engineered for desert conditions."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners since 1979. We're a family and veteran-owned business with over 46 years of experience providing professional roofing services throughout Southern Arizona. Our licensed contractors (ROC #171687) understand the unique challenges of Tucson's climate and have installed thousands of shingle roofs using proven techniques and premium materials engineered for desert conditions."
       },
       {
             "type": "paragraph",

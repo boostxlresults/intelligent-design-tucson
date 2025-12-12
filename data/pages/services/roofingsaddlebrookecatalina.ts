@@ -218,7 +218,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Saddle Brooke and Catalina residents expect roofing contractors who understand active adult communities—professionalism, respect, clear communication, and quality workmanship without high-pressure sales. Our roofing division has served the Tucson metro area for over 45 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and exceptional service. We understand that roofing decisions involve significant investment for retirees, and we provide the detailed information and time you need to make confident choices without pressure or confusion."
+        "content": "Saddle Brooke and Catalina residents expect roofing contractors who understand active adult communities—professionalism, respect, clear communication, and quality workmanship without high-pressure sales. Our roofing division has served the Tucson metro area for over 46 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and exceptional service. We understand that roofing decisions involve significant investment for retirees, and we provide the detailed information and time you need to make confident choices without pressure or confusion."
       },
       {
         "type": "paragraph",
@@ -282,7 +282,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Are you licensed and insured for roofing work?",
-        answer: "Yes, we're fully licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance and workers compensation coverage, and undergo background checks required for age-restricted communities. Our roofing crews are experienced professionals who receive ongoing safety training. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied Saddle Brooke / Catalina customers over 45 years."
+        answer: "Yes, we're fully licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance and workers compensation coverage, and undergo background checks required for age-restricted communities. Our roofing crews are experienced professionals who receive ongoing safety training. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied Saddle Brooke / Catalina customers over 46 years."
       }
     ],
     commonQuestions: []

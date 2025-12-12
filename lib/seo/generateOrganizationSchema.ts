@@ -187,7 +187,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
       "Family-Owned Business Since 1979",
       "Veteran-Owned Business",
       "Arizona ROC Licensed",
-      "45+ Years of Experience"
+      "46+ Years of Experience"
     ];
   }
 

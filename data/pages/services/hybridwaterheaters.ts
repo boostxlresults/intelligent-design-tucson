@@ -579,7 +579,7 @@ export const hybridwaterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our team includes 52 licensed master plumbers who stay current with the latest water heater technology and installation best practices through ongoing training and manufacturer certifications. We've installed over 2,400 hybrid water heaters since 2015, making us Tucson's most experienced hybrid water heater specialists."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our team includes 52 licensed master plumbers who stay current with the latest water heater technology and installation best practices through ongoing training and manufacturer certifications. We've installed over 2,400 hybrid water heaters since 2015, making us Tucson's most experienced hybrid water heater specialists."
       },
       {
             "type": "paragraph",

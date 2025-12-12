@@ -260,7 +260,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Catalina Foothills estates deserve drain and sewer service providers who match the quality and professionalism homeowners expect. Our drain specialists have served the Tucson metro area and Catalina Foothills for over 45 years, building a reputation for discretion, exceptional workmanship, and service that protects high-value properties. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge while minimizing disruption to your property."
+        "content": "Catalina Foothills estates deserve drain and sewer service providers who match the quality and professionalism homeowners expect. Our drain specialists have served the Tucson metro area and Catalina Foothills for over 46 years, building a reputation for discretion, exceptional workmanship, and service that protects high-value properties. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge while minimizing disruption to your property."
       },
       {
         "type": "paragraph",

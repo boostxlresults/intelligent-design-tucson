@@ -219,7 +219,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande continues its growth as a family-friendly desert community, homeowners need drain and sewer service providers who combine advanced technology with decades of experience. Our drain specialists have served the Tucson metro area and surrounding communities for over 45 years, building a reputation for honest assessments, effective solutions, and customer service that exceeds expectations. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge Red Rock / Casa Grande homes present."
+        "content": "As Red Rock / Casa Grande continues its growth as a family-friendly desert community, homeowners need drain and sewer service providers who combine advanced technology with decades of experience. Our drain specialists have served the Tucson metro area and surrounding communities for over 46 years, building a reputation for honest assessments, effective solutions, and customer service that exceeds expectations. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge Red Rock / Casa Grande homes present."
       },
       {
         "type": "paragraph",

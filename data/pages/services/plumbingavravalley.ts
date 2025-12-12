@@ -64,7 +64,7 @@ export const plumbingavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company in Southern Arizona. We've been serving Avra Valley homeowners since 1979, maintaining BBB A+ accreditation for 45+ consecutive years. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred plumbing provider in Northwest Pima County. When you choose Intelligent Design, you're choosing the company your Avra Valley neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company in Southern Arizona. We've been serving Avra Valley homeowners since 1979, maintaining BBB A+ accreditation for 46+ consecutive years. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred plumbing provider in Northwest Pima County. When you choose Intelligent Design, you're choosing the company your Avra Valley neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",
@@ -541,7 +541,7 @@ export const plumbingavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready for Fast, Professional Plumbing Service? Don't let plumbing problems disrupt your Avra Valley home and family. Our licensed, background-checked master plumbers are standing by 24/7/365 to restore your comfort and safety. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple solution options, and a 100% satisfaction guarantee on every plumbing service. Your home's safety and your family's comfort are our top priority—let us prove why Avra Valley homeowners have trusted Intelligent Design for over 45 years."
+            "content": "Ready for Fast, Professional Plumbing Service? Don't let plumbing problems disrupt your Avra Valley home and family. Our licensed, background-checked master plumbers are standing by 24/7/365 to restore your comfort and safety. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple solution options, and a 100% satisfaction guarantee on every plumbing service. Your home's safety and your family's comfort are our top priority—let us prove why Avra Valley homeowners have trusted Intelligent Design for over 46 years."
       },
       {
             "type": "heading",

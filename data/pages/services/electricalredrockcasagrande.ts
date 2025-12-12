@@ -219,7 +219,7 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande continues its rapid growth, homeowners need an electrical service provider who understands both modern construction and the unique demands of desert living. Our electrical division has served the Tucson metro area and surrounding communities for over 45 years, building a reputation for quality workmanship, honest recommendations, and customer service that exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from extreme heat stressing electrical systems to rapid development creating unique service needs."
+        "content": "As Red Rock / Casa Grande continues its rapid growth, homeowners need an electrical service provider who understands both modern construction and the unique demands of desert living. Our electrical division has served the Tucson metro area and surrounding communities for over 46 years, building a reputation for quality workmanship, honest recommendations, and customer service that exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from extreme heat stressing electrical systems to rapid development creating unique service needs."
       },
       {
         "type": "paragraph",

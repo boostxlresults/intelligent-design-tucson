@@ -629,7 +629,7 @@ export const heaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a family and veteran-owned business serving Tucson for over 45 years, we treat every customer like family. We're committed to providing reliable, professional service with integrity and honesty. Our longevity in this community reflects our dedication to quality workmanship and customer satisfaction. We're not a national franchise—we're your Tucson neighbors, and our reputation is built on referrals from satisfied customers. When you call Intelligent Design, you're supporting a local business that gives back to the Tucson community through various charitable initiatives and veteran support programs. Read more [link:/knowledge-hub|about our company values]."
+            "content": "As a family and veteran-owned business serving Tucson for over 46 years, we treat every customer like family. We're committed to providing reliable, professional service with integrity and honesty. Our longevity in this community reflects our dedication to quality workmanship and customer satisfaction. We're not a national franchise—we're your Tucson neighbors, and our reputation is built on referrals from satisfied customers. When you call Intelligent Design, you're supporting a local business that gives back to the Tucson community through various charitable initiatives and veteran support programs. Read more [link:/knowledge-hub|about our company values]."
       },
       {
             "type": "heading",

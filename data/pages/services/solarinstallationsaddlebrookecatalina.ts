@@ -218,7 +218,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Saddle Brooke and Catalina residents expect solar installers who provide honest analysis, realistic expectations, and quality installations—not exaggerated savings claims or high-pressure sales. Our solar division has served the Tucson metro area for over 45 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and systems that deliver the promised performance year after year. We understand that solar decisions involve significant investment for retirees, and we provide detailed, verifiable analysis you can trust."
+        "content": "Saddle Brooke and Catalina residents expect solar installers who provide honest analysis, realistic expectations, and quality installations—not exaggerated savings claims or high-pressure sales. Our solar division has served the Tucson metro area for over 46 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and systems that deliver the promised performance year after year. We understand that solar decisions involve significant investment for retirees, and we provide detailed, verifiable analysis you can trust."
       },
       {
         "type": "paragraph",
@@ -282,7 +282,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         question: "Are your solar installers licensed and certified?",
-        answer: "Yes, all our solar installers are licensed by the Arizona Registrar of Contractors (ROC #340962), NABCEP-certified (North American Board of Certified Energy Practitioners—the gold standard for solar installation), carry comprehensive insurance, and undergo background checks for age-restricted communities. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied solar customers throughout southern Arizona over 45 years."
+        answer: "Yes, all our solar installers are licensed by the Arizona Registrar of Contractors (ROC #340962), NABCEP-certified (North American Board of Certified Energy Practitioners—the gold standard for solar installation), carry comprehensive insurance, and undergo background checks for age-restricted communities. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied solar customers throughout southern Arizona over 46 years."
       }
     ],
     commonQuestions: []

@@ -785,7 +785,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for your Tucson HVAC needs, you're partnering with Southern Arizona's most trusted and experienced comfort specialists. Our 45+ year track record, 22,000+ five-star reviews, and BBB A+ rating since 1979 demonstrate our unwavering commitment to quality, honesty, and customer satisfaction."
+            "content": "When you choose Intelligent Design for your Tucson HVAC needs, you're partnering with Southern Arizona's most trusted and experienced comfort specialists. Our 46+ year track record, 22,000+ five-star reviews, and BBB A+ rating since 1979 demonstrate our unwavering commitment to quality, honesty, and customer satisfaction."
       },
       {
             "type": "paragraph",

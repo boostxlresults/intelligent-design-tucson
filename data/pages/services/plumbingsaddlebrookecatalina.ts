@@ -222,7 +222,7 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Saddle Brooke and Catalina residents expect service providers who understand active adult communities—professionalism, respect, clear communication, and quality workmanship without sales pressure. Our plumbing division has served the Tucson metro area for over 45 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and exceptional service. We understand that plumbing decisions involve careful consideration for retirees managing fixed incomes, and we provide the detailed information and time you need to make confident choices."
+        "content": "Saddle Brooke and Catalina residents expect service providers who understand active adult communities—professionalism, respect, clear communication, and quality workmanship without sales pressure. Our plumbing division has served the Tucson metro area for over 46 years, building strong relationships throughout Saddle Brooke, SaddleBrooke Ranch, and Catalina based on trust, transparency, and exceptional service. We understand that plumbing decisions involve careful consideration for retirees managing fixed incomes, and we provide the detailed information and time you need to make confident choices."
       },
       {
         "type": "paragraph",

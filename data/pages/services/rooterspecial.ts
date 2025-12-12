@@ -620,7 +620,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979 with honest, reliable rooter and [link:/services/plumbing-tucson|plumbing services]. We're a family and veteran-owned business with over 45 years of experience providing professional drain clearing throughout Tucson and surrounding communities. Our team includes 52 licensed master plumbers who have cleared thousands of drains and understand the unique challenges of Tucson's hard water environment, desert trees, and aging infrastructure."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979 with honest, reliable rooter and [link:/services/plumbing-tucson|plumbing services]. We're a family and veteran-owned business with over 46 years of experience providing professional drain clearing throughout Tucson and surrounding communities. Our team includes 52 licensed master plumbers who have cleared thousands of drains and understand the unique challenges of Tucson's hard water environment, desert trees, and aging infrastructure."
       },
       {
             "type": "paragraph",

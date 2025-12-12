@@ -678,7 +678,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing] services. Our licensed master plumbers stay current with modern bathroom fixture technology, including the rapidly evolving bidet market, and we've helped hundreds of Tucson homeowners upgrade to bidet-equipped bathrooms."
+            "content": "Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing] services. Our licensed master plumbers stay current with modern bathroom fixture technology, including the rapidly evolving bidet market, and we've helped hundreds of Tucson homeowners upgrade to bidet-equipped bathrooms."
       },
       {
             "type": "paragraph",

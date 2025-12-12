@@ -205,7 +205,7 @@ export default async function BlogPostPage({
                     Written by the Intelligent Design Team
                   </p>
                   <p className="text-sm text-muted-foreground" data-testid="text-author-credentials">
-                    45+ years of experience | NATE-certified technicians | BBB A+ rated
+                    46+ years of experience | NATE-certified technicians | BBB A+ rated
                   </p>
                 </div>
               </div>

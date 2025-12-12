@@ -14,7 +14,7 @@ export const residentialSolarInstallationFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What factors determine residential solar installation costs in Tucson?",
-      answer: "Solar installation costs depend on system size needed, panel quality selected, inverter type, roof complexity, and electrical upgrades required. After applying available incentives like the 30% federal tax credit, net costs are significantly reduced. Intelligent Design, with 45+ years of experience and 22,000+ customer reviews, provides transparent pricing breakdowns and flexible financing options to make solar affordable for Tucson homeowners."
+      answer: "Solar installation costs depend on system size needed, panel quality selected, inverter type, roof complexity, and electrical upgrades required. After applying available incentives like the 30% federal tax credit, net costs are significantly reduced. Intelligent Design, with 46+ years of experience and 22,000+ customer reviews, provides transparent pricing breakdowns and flexible financing options to make solar affordable for Tucson homeowners."
     },
     {
       question: "How long does solar panel installation take in Tucson?",
@@ -50,7 +50,7 @@ export const residentialSolarInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What warranties come with Intelligent Design solar installations?",
-      answer: "Our installations include 25-year panel performance warranties (typically guaranteeing 85%+ output at year 25), 10-25 year inverter warranties, 25-year roof penetration warranties, and comprehensive workmanship guarantees. As a locally established company serving Tucson for 45+ years, we'll be here to honor warranties and provide ongoing support throughout your system's 25-35+ year lifespan, unlike many solar companies that disappear after installation."
+      answer: "Our installations include 25-year panel performance warranties (typically guaranteeing 85%+ output at year 25), 10-25 year inverter warranties, 25-year roof penetration warranties, and comprehensive workmanship guarantees. As a locally established company serving Tucson for 46+ years, we'll be here to honor warranties and provide ongoing support throughout your system's 25-35+ year lifespan, unlike many solar companies that disappear after installation."
     },
     {
       question: "How do I maintain my solar panels after installation in Tucson?",
@@ -97,7 +97,7 @@ export const commercialSolarInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What warranties come with commercial solar installations?",
-      answer: "Commercial installations include 25-year panel performance warranties, 10-25 year inverter warranties, comprehensive roof warranties covering all penetrations, and workmanship guarantees. We also offer extended maintenance agreements and performance monitoring to protect your investment. With 45+ years serving Tucson businesses and BBB A+ rating, Intelligent Design provides reliable long-term support throughout your system's 25-35+ year operational life."
+      answer: "Commercial installations include 25-year panel performance warranties, 10-25 year inverter warranties, comprehensive roof warranties covering all penetrations, and workmanship guarantees. We also offer extended maintenance agreements and performance monitoring to protect your investment. With 46+ years serving Tucson businesses and BBB A+ rating, Intelligent Design provides reliable long-term support throughout your system's 25-35+ year operational life."
     },
     {
       question: "Can solar help my business meet sustainability goals?",
@@ -148,7 +148,7 @@ export const solarMaintenanceFAQs: ServiceFAQs = {
     },
     {
       question: "Does Intelligent Design offer solar panel maintenance plans?",
-      answer: "Yes, we offer comprehensive solar maintenance plans that include scheduled cleaning (typically quarterly in Tucson), performance monitoring, priority service, discounted repairs, and annual system health inspections. With 45+ years of experience and 22,000+ customer reviews, our maintenance plans ensure your solar investment delivers maximum returns year-round while catching problems before they become expensive emergencies."
+      answer: "Yes, we offer comprehensive solar maintenance plans that include scheduled cleaning (typically quarterly in Tucson), performance monitoring, priority service, discounted repairs, and annual system health inspections. With 46+ years of experience and 22,000+ customer reviews, our maintenance plans ensure your solar investment delivers maximum returns year-round while catching problems before they become expensive emergencies."
     },
     {
       question: "Can maintenance extend my solar panel lifespan?",
@@ -195,7 +195,7 @@ export const solarACIntegrationFAQs: ServiceFAQs = {
     },
     {
       question: "Can Intelligent Design install both solar and a new AC system?",
-      answer: "Absolutely. As full-service HVAC and solar contractors with 45+ years of experience, we install and integrate both systems seamlessly. Installing solar and efficient AC together provides maximum savings, optimized system sizing, coordinated warranties, and single-contractor convenience. Our dual expertise ensures perfect integration for peak performance in Tucson's extreme climate."
+      answer: "Absolutely. As full-service HVAC and solar contractors with 46+ years of experience, we install and integrate both systems seamlessly. Installing solar and efficient AC together provides maximum savings, optimized system sizing, coordinated warranties, and single-contractor convenience. Our dual expertise ensures perfect integration for peak performance in Tucson's extreme climate."
     },
     {
       question: "How does extreme Tucson heat affect solar AC performance?",
@@ -340,7 +340,7 @@ export const solarTubularLightsFAQs: ServiceFAQs = {
     },
     {
       question: "Will Solatubes leak or cause roof damage in Tucson?",
-      answer: "When properly installed by experienced professionals like Intelligent Design, Solatubes are weatherproof and leak-free. We use specialized flashing systems designed for Tucson's intense UV exposure and monsoon rains, with multiple waterproof seals and overlap protection. Our installations are backed by comprehensive roof penetration warranties. With 45+ years of experience, we ensure leak-free, long-lasting installations that protect your home."
+      answer: "When properly installed by experienced professionals like Intelligent Design, Solatubes are weatherproof and leak-free. We use specialized flashing systems designed for Tucson's intense UV exposure and monsoon rains, with multiple waterproof seals and overlap protection. Our installations are backed by comprehensive roof penetration warranties. With 46+ years of experience, we ensure leak-free, long-lasting installations that protect your home."
     },
     {
       question: "Do Solatubes work at night or during monsoons?",
@@ -360,7 +360,7 @@ export const solarTubularLightsFAQs: ServiceFAQs = {
     },
     {
       question: "Does Intelligent Design install Solatubes in Tucson homes?",
-      answer: "Yes, Intelligent Design installs Solatubes and other tubular daylighting systems throughout Tucson and surrounding areas. With 45+ years of experience, 22,000+ customer reviews, and BBB A+ rating, we provide professional installation with comprehensive warranties. Our team handles everything from site assessment and product selection through expert installation and post-installation support, ensuring optimal natural lighting solutions for your home."
+      answer: "Yes, Intelligent Design installs Solatubes and other tubular daylighting systems throughout Tucson and surrounding areas. With 46+ years of experience, 22,000+ customer reviews, and BBB A+ rating, we provide professional installation with comprehensive warranties. Our team handles everything from site assessment and product selection through expert installation and post-installation support, ensuring optimal natural lighting solutions for your home."
     }
   ]
 };

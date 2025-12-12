@@ -60,7 +60,7 @@ export const homeData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "When your air conditioning fails on a 110°F summer day, your water heater springs a leak, or you need expert electrical work, you need a company you can trust completely. That's exactly what Intelligent Design has provided to Tucson families for over 45 years.\n\nSince 1979, we've built our reputation one satisfied customer at a time. Today, with over 22,000 five-star reviews and a near-perfect 4.97 Google rating, we're Tucson's highest-rated home services company. But we're more than just numbers—we're your neighbors, committed to providing honest, expert service that treats your home like our own."
+        content: "When your air conditioning fails on a 110°F summer day, your water heater springs a leak, or you need expert electrical work, you need a company you can trust completely. That's exactly what Intelligent Design has provided to Tucson families for over 46 years.\n\nSince 1979, we've built our reputation one satisfied customer at a time. Today, with over 22,000 five-star reviews and a near-perfect 4.97 Google rating, we're Tucson's highest-rated home services company. But we're more than just numbers—we're your neighbors, committed to providing honest, expert service that treats your home like our own."
       },
       {
         type: "heading",

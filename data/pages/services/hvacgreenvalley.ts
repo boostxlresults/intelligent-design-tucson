@@ -505,7 +505,7 @@ export const hvacgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "46+ years of Local Expertise: Since 1979, we've specialized in serving Green Valley's unique retirement community with HVAC solutions designed for your specific needs—reliable systems that won't fail during extreme heat, energy-efficient equipment that respects fixed-income budgets, clear honest communication without technical jargon or pressure tactics, and service technicians who understand and respect senior customers. We're not a national franchise or fly-by-night contractor—we're your neighbors, with deep roots in the Green Valley community and a reputation built on integrity, quality, and customer satisfaction over 45 years."
+            "content": "46+ years of Local Expertise: Since 1979, we've specialized in serving Green Valley's unique retirement community with HVAC solutions designed for your specific needs—reliable systems that won't fail during extreme heat, energy-efficient equipment that respects fixed-income budgets, clear honest communication without technical jargon or pressure tactics, and service technicians who understand and respect senior customers. We're not a national franchise or fly-by-night contractor—we're your neighbors, with deep roots in the Green Valley community and a reputation built on integrity, quality, and customer satisfaction over 46 years."
       },
       {
             "type": "paragraph",

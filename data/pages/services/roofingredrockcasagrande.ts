@@ -219,7 +219,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande grows as a family-friendly desert community, homeowners need a roofing contractor who understands both modern roofing systems and the extreme demands of Arizona's climate. Our roofing division has served the Tucson metro area and surrounding communities for over 45 years, building a reputation for honest assessments, quality workmanship using premium materials, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from intense UV exposure degrading roofing materials to monsoon storms testing roof integrity."
+        "content": "As Red Rock / Casa Grande grows as a family-friendly desert community, homeowners need a roofing contractor who understands both modern roofing systems and the extreme demands of Arizona's climate. Our roofing division has served the Tucson metro area and surrounding communities for over 46 years, building a reputation for honest assessments, quality workmanship using premium materials, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from intense UV exposure degrading roofing materials to monsoon storms testing roof integrity."
       },
       {
         "type": "paragraph",

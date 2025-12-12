@@ -557,7 +557,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional roofing services. Our licensed contractors (ROC #171687) bring deep expertise with every residential roofing system and understand Tucson's unique climate challenges. We've completed thousands of successful roof replacements throughout Tucson and surrounding areas."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional roofing services. Our licensed contractors (ROC #171687) bring deep expertise with every residential roofing system and understand Tucson's unique climate challenges. We've completed thousands of successful roof replacements throughout Tucson and surrounding areas."
       },
       {
             "type": "paragraph",
@@ -669,7 +669,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Call (520) 333-2665 today or schedule online for your free roof replacement consultation. Our licensed roofing professionals will assess your roof's condition, discuss your goals and budget, and provide clear recommendations to help you make the best decision for your home and family. With over 45 years serving Tucson, 22,000+ five-star reviews, and thousands of successful roof replacements, we're the roofing company your neighbors trust and recommend."
+            "content": "Call (520) 333-2665 today or schedule online for your free roof replacement consultation. Our licensed roofing professionals will assess your roof's condition, discuss your goals and budget, and provide clear recommendations to help you make the best decision for your home and family. With over 46 years serving Tucson, 22,000+ five-star reviews, and thousands of successful roof replacements, we're the roofing company your neighbors trust and recommend."
       },
       {
             "type": "cta",

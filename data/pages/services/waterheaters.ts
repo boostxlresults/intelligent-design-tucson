@@ -667,7 +667,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric] has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional plumbing services. Our licensed master plumbers have installed thousands of water heaters throughout Tucson and understand the unique challenges of Southern Arizona's hard water, warm climate, and local building codes. We're not just a plumbing company—we're your neighbors, committed to delivering the same quality service we'd expect for our own families."
+            "content": "Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric] has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional plumbing services. Our licensed master plumbers have installed thousands of water heaters throughout Tucson and understand the unique challenges of Southern Arizona's hard water, warm climate, and local building codes. We're not just a plumbing company—we're your neighbors, committed to delivering the same quality service we'd expect for our own families."
       },
       {
             "type": "paragraph",

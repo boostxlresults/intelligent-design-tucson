@@ -295,7 +295,7 @@ export const customerReviewsFAQs: ServiceFAQs = {
     },
     {
       question: "How many of your customers are repeat customers?",
-      answer: "The majority of our business comes from repeat customers and referrals—a testament to the trust we've built over 45+ years. Many customers who started with us for AC service now rely on us for all their home needs: plumbing, electrical, solar, roofing. When you deliver exceptional service consistently, customers become loyal advocates who recommend us to family and friends."
+      answer: "The majority of our business comes from repeat customers and referrals—a testament to the trust we've built over 46+ years. Many customers who started with us for AC service now rely on us for all their home needs: plumbing, electrical, solar, roofing. When you deliver exceptional service consistently, customers become loyal advocates who recommend us to family and friends."
     },
     {
       question: "Can I see before-and-after photos of your work?",
@@ -358,7 +358,7 @@ export const realtorOfferFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design different from other contractors for realtors?",
-      answer: "With 45+ years in business, 22,000+ five-star reviews, and BBB A+ rating, we're the stable, trustworthy partner realtors need. We understand closing deadlines, we respond quickly, we provide professional reports, we offer transparent pricing, and we stand behind our work. You can confidently refer us knowing we'll protect your reputation and serve your clients well."
+      answer: "With 46+ years in business, 22,000+ five-star reviews, and BBB A+ rating, we're the stable, trustworthy partner realtors need. We understand closing deadlines, we respond quickly, we provide professional reports, we offer transparent pricing, and we stand behind our work. You can confidently refer us knowing we'll protect your reputation and serve your clients well."
     },
     {
       question: "How quickly can you provide inspection reports?",
@@ -452,7 +452,7 @@ export const whyChooseFAQs: ServiceFAQs = {
     },
     {
       question: "How do you ensure quality and accountability?",
-      answer: "Quality and accountability are built into every step: rigorous hiring and background checks, continuous technician training, upfront transparent pricing with written estimates, comprehensive warranties on parts and workmanship, 100% satisfaction guarantees, licensed and insured professionals, supervisor reviews on major jobs, and prompt response to any concerns. We're accountable to our customers, our community, and our 45-year reputation."
+      answer: "Quality and accountability are built into every step: rigorous hiring and background checks, continuous technician training, upfront transparent pricing with written estimates, comprehensive warranties on parts and workmanship, 100% satisfaction guarantees, licensed and insured professionals, supervisor reviews on major jobs, and prompt response to any concerns. We're accountable to our customers, our community, and our 46-year reputation."
     },
     {
       question: "What community organizations do you support?",
@@ -464,7 +464,7 @@ export const whyChooseFAQs: ServiceFAQs = {
     },
     {
       question: "What sets Intelligent Design apart from national franchise competitors?",
-      answer: "Unlike national franchises with rotating technicians and corporate bureaucracy, we're locally owned with deep community roots. Our technicians are long-term employees (averaging 17 years), not subcontractors. We make decisions locally based on what's right for Tucson customers, not corporate quotas. We've been here 45+ years and aren't going anywhere. When you call, you get a real person in Tucson who knows your neighborhood and cares about your satisfaction—not a call center routing you to the next available franchise."
+      answer: "Unlike national franchises with rotating technicians and corporate bureaucracy, we're locally owned with deep community roots. Our technicians are long-term employees (averaging 17 years), not subcontractors. We make decisions locally based on what's right for Tucson customers, not corporate quotas. We've been here 46+ years and aren't going anywhere. When you call, you get a real person in Tucson who knows your neighborhood and cares about your satisfaction—not a call center routing you to the next available franchise."
     }
   ]
 };

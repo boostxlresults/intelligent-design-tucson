@@ -266,7 +266,7 @@ export const electricaltanqueverdeData: ServicePageData = {
             "results": [
               { "label": "Total Investment", "value": "$32,800 (complete smart home integration)" },
               { "label": "Installation Duration", "value": "12 working days over 3 weeks" },
-              { "label": "Smart Devices Integrated", "value": "145+ devices (lights, locks, cameras, thermostats, audio, pool)" },
+              { "label": "Smart Devices Integrated", "value": "146+ devices (lights, locks, cameras, thermostats, audio, pool)" },
               { "label": "Lighting Scenes Programmed", "value": "18 custom scenes for various activities" },
               { "label": "Energy Cost Reduction", "value": "37% decrease in monthly utility costs" },
               { "label": "Monthly Utility Savings", "value": "$115/month average ($1,380 annually)" },
@@ -638,7 +638,7 @@ export const electricaltanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Your Tanque Verde Electrical Partner: For over 45 years, Intelligent Design has been the trusted electrical partner for discerning Tanque Verde homeowners seeking the highest standards of electrical service. Our local presence, deep community roots, proven track record of excellence, and genuine commitment to customer satisfaction have made us the most-referred electrical company among Tanque Verde's quality-conscious residents. When your luxury home deserves the very best electrical care, choose the company your neighbors have trusted since 1979—choose Intelligent Design for all your Tanque Verde electrical needs."
+            "content": "Your Tanque Verde Electrical Partner: For over 46 years, Intelligent Design has been the trusted electrical partner for discerning Tanque Verde homeowners seeking the highest standards of electrical service. Our local presence, deep community roots, proven track record of excellence, and genuine commitment to customer satisfaction have made us the most-referred electrical company among Tanque Verde's quality-conscious residents. When your luxury home deserves the very best electrical care, choose the company your neighbors have trusted since 1979—choose Intelligent Design for all your Tanque Verde electrical needs."
       },
       {
             "type": "paragraph",

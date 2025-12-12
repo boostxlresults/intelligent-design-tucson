@@ -200,7 +200,7 @@ export const drainsewerpicturerocksData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Picture Rocks continues growing, homeowners need drain and sewer service providers who combine advanced technology with decades of experience. Our drain specialists have served the Tucson metro area and surrounding communities for over 45 years, building a reputation for honest assessments, effective solutions, and customer service that exceeds expectations. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge Picture Rocks homes present."
+        "content": "As Picture Rocks continues growing, homeowners need drain and sewer service providers who combine advanced technology with decades of experience. Our drain specialists have served the Tucson metro area and surrounding communities for over 46 years, building a reputation for honest assessments, effective solutions, and customer service that exceeds expectations. We invest in the latest technology—HD camera systems, professional hydro-jetting equipment, and trenchless repair capabilities—ensuring we can handle any drain or sewer challenge Picture Rocks homes present."
       },
       {
         "type": "paragraph",

@@ -647,7 +647,7 @@ export const electricalavravalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Don't let electrical problems or limitations hold back your rural property potential. Our licensed electricians are ready to solve your electrical challenges with expertise, honesty, and quality workmanship Avra Valley property owners trust. Call (520) 333-2665 now for immediate dispatch on emergencies or same-day service appointments, or schedule online for convenient service timing. We offer upfront pricing, multiple solution options, flexible financing, and complete satisfaction guarantee on every electrical project. Your rural property deserves professional electrical service from licensed experts who understand well pumps, workshops, agricultural needs, and desert electrical challenges—let us prove why Avra Valley property owners have trusted Intelligent Design for over 45 years."
+        "content": "Don't let electrical problems or limitations hold back your rural property potential. Our licensed electricians are ready to solve your electrical challenges with expertise, honesty, and quality workmanship Avra Valley property owners trust. Call (520) 333-2665 now for immediate dispatch on emergencies or same-day service appointments, or schedule online for convenient service timing. We offer upfront pricing, multiple solution options, flexible financing, and complete satisfaction guarantee on every electrical project. Your rural property deserves professional electrical service from licensed experts who understand well pumps, workshops, agricultural needs, and desert electrical challenges—let us prove why Avra Valley property owners have trusted Intelligent Design for over 46 years."
       }
 ]
   },

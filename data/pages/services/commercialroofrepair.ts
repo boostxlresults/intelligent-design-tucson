@@ -104,7 +104,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Not every commercial roof issue requires emergency response. Understanding urgency levels helps property managers and building owners make informed decisions about repair timing, budgeting, and business impact mitigation. Our three-tier commercial urgency classification system, developed over 45 years of Tucson commercial roofing, helps you determine appropriate response times based on actual risk to operations, property, and tenants."
+            "content": "Not every commercial roof issue requires emergency response. Understanding urgency levels helps property managers and building owners make informed decisions about repair timing, budgeting, and business impact mitigation. Our three-tier commercial urgency classification system, developed over 46 years of Tucson commercial roofing, helps you determine appropriate response times based on actual risk to operations, property, and tenants."
       },
       {
             "type": "heading",
@@ -692,7 +692,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson businesses since 1979. We're a family and veteran-owned company with over 45 years of commercial roofing experience. Our licensed contractors understand Tucson's commercial building construction, flat roof systems, and the unique challenges of Southern Arizona's climate. We've repaired roofs on every type of commercial building—office buildings, retail centers, warehouses, industrial facilities, multi-family housing, medical offices, and government facilities."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson businesses since 1979. We're a family and veteran-owned company with over 46 years of commercial roofing experience. Our licensed contractors understand Tucson's commercial building construction, flat roof systems, and the unique challenges of Southern Arizona's climate. We've repaired roofs on every type of commercial building—office buildings, retail centers, warehouses, industrial facilities, multi-family housing, medical offices, and government facilities."
       },
       {
             "type": "paragraph",

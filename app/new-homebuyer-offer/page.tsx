@@ -210,7 +210,7 @@ export default function NewHomebuyerOfferPage() {
               <Card>
                 <CardContent className="p-6 text-center">
                   <Clock className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-3xl font-bold text-primary mb-2">45+</div>
+                  <div className="text-3xl font-bold text-primary mb-2">46+</div>
                   <p className="font-semibold">Years in Business</p>
                   <p className="text-sm text-muted-foreground">Since 1979</p>
                 </CardContent>

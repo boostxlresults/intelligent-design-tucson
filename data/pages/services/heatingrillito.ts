@@ -599,7 +599,7 @@ export const heatingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready for Expert Heating Service? Don't suffer through cold Rillito nights with a malfunctioning furnace. Our licensed, background-checked technicians are available 24/7/365 to restore your comfort. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple service options, and a 100% satisfaction guarantee on every heating repair. Your comfort is our priority—let us prove why Rillito homeowners have trusted Intelligent Design for over 45 years. Learn more [link:/knowledge-hub|about our company] and our commitment to rural northwest Tucson communities."
+            "content": "Ready for Expert Heating Service? Don't suffer through cold Rillito nights with a malfunctioning furnace. Our licensed, background-checked technicians are available 24/7/365 to restore your comfort. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple service options, and a 100% satisfaction guarantee on every heating repair. Your comfort is our priority—let us prove why Rillito homeowners have trusted Intelligent Design for over 46 years. Learn more [link:/knowledge-hub|about our company] and our commitment to rural northwest Tucson communities."
       },
       {
             "type": "heading",

@@ -79,7 +79,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "3,200+ Solar Installations Completed since 2015 across Greater Tucson | $2.73 Average Cost Per Watt after applying all available incentives and discounts | 98.4% Customer Satisfaction Rating from post-installation surveys and follow-up interviews | Average First-Year Savings: $2,140 per household (verified utility bill comparison) | 7.8 Year Average Payback Period for cash purchases after federal tax credit | Average System Production: 112% of Estimate in first year (we underestimate to overdeliver) | Zero Roof Leaks from any installation in our 45+ year company history | 99.2% System Uptime across all monitored installations | $18,400 Average Home Value Increase based on local solar appraisal data | 4.2 Weeks Average Timeline from contract signing to system activation | 15-25 Year Equipment Warranties standard on all installations | $67,000 Average 25-Year Electricity Savings across all system sizes | 30% Federal Tax Credit successfully claimed by 100% of eligible customers | 94% of Customers Choose Solar Loans enabling $0 down installation",
+            "content": "3,200+ Solar Installations Completed since 2015 across Greater Tucson | $2.73 Average Cost Per Watt after applying all available incentives and discounts | 98.4% Customer Satisfaction Rating from post-installation surveys and follow-up interviews | Average First-Year Savings: $2,140 per household (verified utility bill comparison) | 7.8 Year Average Payback Period for cash purchases after federal tax credit | Average System Production: 112% of Estimate in first year (we underestimate to overdeliver) | Zero Roof Leaks from any installation in our 46+ year company history | 99.2% System Uptime across all monitored installations | $18,400 Average Home Value Increase based on local solar appraisal data | 4.2 Weeks Average Timeline from contract signing to system activation | 15-25 Year Equipment Warranties standard on all installations | $67,000 Average 25-Year Electricity Savings across all system sizes | 30% Federal Tax Credit successfully claimed by 100% of eligible customers | 94% of Customers Choose Solar Loans enabling $0 down installation",
             "items": [
                   "3,200+ Solar Installations Completed since 2015 across Greater Tucson",
                   "$2.73 Average Cost Per Watt after applying all available incentives and discounts",
@@ -87,7 +87,7 @@ export const solarpanelcostsData: ServicePageData = {
                   "Average First-Year Savings: $2,140 per household (verified utility bill comparison)",
                   "7.8 Year Average Payback Period for cash purchases after federal tax credit",
                   "Average System Production: 112% of Estimate in first year (we underestimate to overdeliver)",
-                  "Zero Roof Leaks from any installation in our 45+ year company history",
+                  "Zero Roof Leaks from any installation in our 46+ year company history",
                   "99.2% System Uptime across all monitored installations",
                   "$18,400 Average Home Value Increase based on local solar appraisal data",
                   "4.2 Weeks Average Timeline from contract signing to system activation",

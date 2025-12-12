@@ -64,7 +64,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Rising energy costs and Tucson's extreme desert climate make home energy efficiency more important than ever. Tucson homeowners face some of Arizona's highest cooling costs—air conditioning alone accounts for 40-60% of summer electricity bills, with average monthly bills reaching $250-400 during peak months. At Intelligent Design, we specialize in comprehensive home energy upgrades that significantly reduce your monthly utility bills while improving comfort, indoor air quality, and environmental sustainability. With over 45 years of experience serving Tucson homes, we understand exactly which energy efficiency improvements deliver the best return on investment in our unique climate."
+            "content": "Rising energy costs and Tucson's extreme desert climate make home energy efficiency more important than ever. Tucson homeowners face some of Arizona's highest cooling costs—air conditioning alone accounts for 40-60% of summer electricity bills, with average monthly bills reaching $250-400 during peak months. At Intelligent Design, we specialize in comprehensive home energy upgrades that significantly reduce your monthly utility bills while improving comfort, indoor air quality, and environmental sustainability. With over 46 years of experience serving Tucson homes, we understand exactly which energy efficiency improvements deliver the best return on investment in our unique climate."
       },
       {
             "type": "paragraph",

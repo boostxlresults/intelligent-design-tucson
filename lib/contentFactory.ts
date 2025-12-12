@@ -16,7 +16,7 @@ export interface ServiceMetrics {
   sameVisitRepairRate: string; // e.g., "80%"
   googleRating: string; // e.g., "4.97"
   reviewCount: string; // e.g., "22,000+"
-  yearsInBusiness: string; // e.g., "45+"
+  yearsInBusiness: string; // e.g., "46+"
   nateTechs: number; // e.g., 68
   avgExperience: string; // e.g., "17+ years"
 }

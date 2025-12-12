@@ -711,7 +711,7 @@ export const ductrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our ServiceTitan-powered dispatch delivers average 73-minute arrival for emergency duct repairs with 42 fully-stocked service vehicles positioned throughout metro Tucson—enabling same-visit repairs 80% of the time. Whether you need emergency disconnection repair during extreme heat, rodent damage remediation, comprehensive leak sealing, or a complete duct inspection to assess your system's condition, our 68 NATE-certified technicians averaging 17+ years experience are ready to deliver the expert duct repair service Tucson has trusted for over 45 years."
+            "content": "Our ServiceTitan-powered dispatch delivers average 73-minute arrival for emergency duct repairs with 42 fully-stocked service vehicles positioned throughout metro Tucson—enabling same-visit repairs 80% of the time. Whether you need emergency disconnection repair during extreme heat, rodent damage remediation, comprehensive leak sealing, or a complete duct inspection to assess your system's condition, our 68 NATE-certified technicians averaging 17+ years experience are ready to deliver the expert duct repair service Tucson has trusted for over 46 years."
       },
       {
             "type": "paragraph",

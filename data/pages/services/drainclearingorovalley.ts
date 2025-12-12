@@ -61,7 +61,7 @@ export const drainclearingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert technicians provide comprehensive drain clearing services that completely remove clogs, restore proper drainage flow, and prevent future problems. With over 45 years of experience serving Tucson families and earning recognition in thousands of verified [link:/customer-reviews|customer reviews], we understand that desert living and hard water present unique drain challenges. Our professional drain clearing goes far beyond simple plunging or chemical treatments—we use state-of-the-art power cable machines, high-pressure hydro jetting systems, and video camera inspection technology to remove years of accumulated grease, mineral deposits, hair, roots, and debris from your entire drain system, restoring pipes to like-new condition."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert technicians provide comprehensive drain clearing services that completely remove clogs, restore proper drainage flow, and prevent future problems. With over 46 years of experience serving Tucson families and earning recognition in thousands of verified [link:/customer-reviews|customer reviews], we understand that desert living and hard water present unique drain challenges. Our professional drain clearing goes far beyond simple plunging or chemical treatments—we use state-of-the-art power cable machines, high-pressure hydro jetting systems, and video camera inspection technology to remove years of accumulated grease, mineral deposits, hair, roots, and debris from your entire drain system, restoring pipes to like-new condition."
       },
       {
             "type": "paragraph",
@@ -608,7 +608,7 @@ export const drainclearingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has cleared tens of thousands of drains throughout Tucson since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our licensed master plumbers use state-of-the-art equipment—professional power cable machines up to 100 feet, truck-mounted hydro jetting systems generating 3,000-4,000 PSI, and high-resolution video camera inspection technology—to clear drains completely and identify underlying problems."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has cleared tens of thousands of drains throughout Tucson since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our licensed master plumbers use state-of-the-art equipment—professional power cable machines up to 100 feet, truck-mounted hydro jetting systems generating 3,000-4,000 PSI, and high-resolution video camera inspection technology—to clear drains completely and identify underlying problems."
       },
       {
             "type": "paragraph",
@@ -634,7 +634,7 @@ export const drainclearingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design provides professional drain clearing services throughout the greater Tucson metropolitan area. Our strategically positioned service vehicles enable rapid response to drain emergencies in all Tucson neighborhoods and surrounding communities. We serve [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], [link:/services/plumbing-green-valley|Green Valley], [link:/services/plumbing-catalina-foothills|Catalina Foothills], and all areas in between with the same fast response times, professional equipment, and expert service that have made us Tucson's most trusted drain clearing company for over 45 years."
+            "content": "Intelligent Design provides professional drain clearing services throughout the greater Tucson metropolitan area. Our strategically positioned service vehicles enable rapid response to drain emergencies in all Tucson neighborhoods and surrounding communities. We serve [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], [link:/services/plumbing-green-valley|Green Valley], [link:/services/plumbing-catalina-foothills|Catalina Foothills], and all areas in between with the same fast response times, professional equipment, and expert service that have made us Tucson's most trusted drain clearing company for over 46 years."
       },
       {
             "type": "cta",

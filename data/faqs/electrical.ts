@@ -49,7 +49,7 @@ export const electricalRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you guarantee your electrical repair work?",
-      answer: "Yes, we stand behind all electrical repairs with comprehensive workmanship warranties. If an issue arises with our repair work, we'll return to make it right at no additional charge. Our commitment to quality and customer satisfaction has earned us a 4.97-star rating across 22,000+ reviews and 45+ years of trusted service in Tucson."
+      answer: "Yes, we stand behind all electrical repairs with comprehensive workmanship warranties. If an issue arises with our repair work, we'll return to make it right at no additional charge. Our commitment to quality and customer satisfaction has earned us a 4.97-star rating across 22,000+ reviews and 46+ years of trusted service in Tucson."
     },
     {
       question: "Will electrical repairs bring my home up to current code?",

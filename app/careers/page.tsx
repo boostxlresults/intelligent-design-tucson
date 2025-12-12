@@ -53,7 +53,7 @@ export default function CareersPage() {
               
               <div className="bg-card border border-border rounded-lg p-6" data-testid="card-benefit-culture">
                 <h3 className="text-xl font-semibold mb-3">Company Culture</h3>
-                <p className="text-muted-foreground">Family-owned company with 45+ years of stability and growth</p>
+                <p className="text-muted-foreground">Family-owned company with 46+ years of stability and growth</p>
               </div>
             </div>
 

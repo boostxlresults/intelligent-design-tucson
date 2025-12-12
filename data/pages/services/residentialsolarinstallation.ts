@@ -622,7 +622,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Local Expertise & Proven Track Record: We've served Tucson since 1979—over 45 years of local experience. Unlike national solar companies that treat Tucson as just another market, we understand local climate challenges, utility regulations, permitting requirements, and building codes intimately. Our 3,200+ completed solar installations demonstrate proven expertise in Tucson's unique environment. We know how to design systems that withstand monsoon winds, extreme heat, and UV exposure while maximizing production from Tucson's intense sunshine."
+            "content": "Local Expertise & Proven Track Record: We've served Tucson since 1979—over 46 years of local experience. Unlike national solar companies that treat Tucson as just another market, we understand local climate challenges, utility regulations, permitting requirements, and building codes intimately. Our 3,200+ completed solar installations demonstrate proven expertise in Tucson's unique environment. We know how to design systems that withstand monsoon winds, extreme heat, and UV exposure while maximizing production from Tucson's intense sunshine."
       },
       {
             "type": "paragraph",

@@ -670,7 +670,7 @@ export const sewerlinerepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our licensed master plumbers have repaired hundreds of sewer lines throughout Tucson and understand the unique challenges of Southern Arizona's desert soils, aggressive tree roots, and aging housing infrastructure."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional [link:/services/plumbing-tucson|plumbing services]. Our licensed master plumbers have repaired hundreds of sewer lines throughout Tucson and understand the unique challenges of Southern Arizona's desert soils, aggressive tree roots, and aging housing infrastructure."
       },
       {
             "type": "paragraph",

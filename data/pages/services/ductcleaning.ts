@@ -61,7 +61,7 @@ export const ductcleaningData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert technicians provide comprehensive air duct cleaning services that dramatically improve your home's indoor air quality and HVAC system efficiency. With over 45 years of experience serving Tucson families and earning recognition in thousands of verified [link:/customer-reviews|customer reviews], we understand that desert living presents unique ductwork contamination challenges. Our professional duct cleaning goes far beyond simple vacuuming—we use state-of-the-art HEPA-filtered negative air machines, rotary brush systems, and EPA-approved sanitization treatments to remove years of accumulated dust, allergens, mold spores, pet dander, and contaminants from your entire ventilation system."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert technicians provide comprehensive air duct cleaning services that dramatically improve your home's indoor air quality and HVAC system efficiency. With over 46 years of experience serving Tucson families and earning recognition in thousands of verified [link:/customer-reviews|customer reviews], we understand that desert living presents unique ductwork contamination challenges. Our professional duct cleaning goes far beyond simple vacuuming—we use state-of-the-art HEPA-filtered negative air machines, rotary brush systems, and EPA-approved sanitization treatments to remove years of accumulated dust, allergens, mold spores, pet dander, and contaminants from your entire ventilation system."
       },
       {
             "type": "paragraph",

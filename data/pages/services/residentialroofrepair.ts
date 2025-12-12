@@ -563,7 +563,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 45 years of experience providing honest, professional roofing services. Our licensed roofing contractors have repaired every type of residential roof throughout Tucson and understand the unique challenges of Southern Arizona's climate, building styles, and roofing materials. We've completed over 12,500 residential roof repairs—from emergency leak repairs to complex restoration projects."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979. We're a family and veteran-owned business with over 46 years of experience providing honest, professional roofing services. Our licensed roofing contractors have repaired every type of residential roof throughout Tucson and understand the unique challenges of Southern Arizona's climate, building styles, and roofing materials. We've completed over 12,500 residential roof repairs—from emergency leak repairs to complex restoration projects."
       },
       {
             "type": "paragraph",

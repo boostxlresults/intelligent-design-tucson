@@ -49,7 +49,7 @@ export const residentialRoofRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Are your roofers licensed and insured in Arizona?",
-      answer: "Yes, all our roofing technicians are fully licensed (ROC 340962, 322375, 296386, 276673), bonded, and insured to perform roofing work throughout Tucson and Arizona. Our team averages 17 years of experience and understands the unique challenges of Tucson's climate. We're BBB A+ rated with over 22,000 five-star reviews, reflecting our 45+ years of trusted roofing service."
+      answer: "Yes, all our roofing technicians are fully licensed (ROC 340962, 322375, 296386, 276673), bonded, and insured to perform roofing work throughout Tucson and Arizona. Our team averages 17 years of experience and understands the unique challenges of Tucson's climate. We're BBB A+ rated with over 22,000 five-star reviews, reflecting our 46+ years of trusted roofing service."
     },
     {
       question: "Should I repair or replace my roof?",
@@ -296,11 +296,11 @@ export const commercialRoofRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Can you work with my insurance company on commercial roof repairs?",
-      answer: "Yes, we have extensive experience working with commercial insurance claims for storm damage, leaks, and related repairs. We document damage thoroughly with photos and detailed reports, provide estimates to adjusters, and can meet with insurance inspectors. Our professional documentation and licensed contractor status (45+ years in business) help ensure your claim is properly handled and repairs are covered."
+      answer: "Yes, we have extensive experience working with commercial insurance claims for storm damage, leaks, and related repairs. We document damage thoroughly with photos and detailed reports, provide estimates to adjusters, and can meet with insurance inspectors. Our professional documentation and licensed contractor status (46+ years in business) help ensure your claim is properly handled and repairs are covered."
     },
     {
       question: "What warranty do you provide on commercial roof repairs?",
-      answer: "We provide workmanship warranties on commercial roof repairs, with terms varying by repair type and scope. Materials carry manufacturer warranties. We stand behind our work—if issues arise with our repairs, we return to make them right. Our BBB A+ rating and 22,000+ five-star reviews reflect our commitment to quality commercial work and customer satisfaction over our 45+ years serving Tucson businesses."
+      answer: "We provide workmanship warranties on commercial roof repairs, with terms varying by repair type and scope. Materials carry manufacturer warranties. We stand behind our work—if issues arise with our repairs, we return to make them right. Our BBB A+ rating and 22,000+ five-star reviews reflect our commitment to quality commercial work and customer satisfaction over our 46+ years serving Tucson businesses."
     },
     {
       question: "Should I repair or replace my commercial roof?",
@@ -359,7 +359,7 @@ export const commercialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "What sets your commercial roofing apart in Tucson?",
-      answer: "Our 45+ years serving Tucson businesses, BBB A+ rating, 22,000+ five-star reviews, and multiple ROC licenses demonstrate our commitment to commercial excellence. Our technicians average 17 years of experience and understand Tucson's unique climate challenges. We provide detailed project management, clear communication, transparent pricing, and quality workmanship backed by comprehensive warranties. Our commercial clients trust us to protect their investments and minimize disruption."
+      answer: "Our 46+ years serving Tucson businesses, BBB A+ rating, 22,000+ five-star reviews, and multiple ROC licenses demonstrate our commitment to commercial excellence. Our technicians average 17 years of experience and understand Tucson's unique climate challenges. We provide detailed project management, clear communication, transparent pricing, and quality workmanship backed by comprehensive warranties. Our commercial clients trust us to protect their investments and minimize disruption."
     }
   ]
 };

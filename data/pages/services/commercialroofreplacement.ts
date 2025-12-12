@@ -433,7 +433,7 @@ export const commercialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has replaced commercial roofs throughout Tucson since 1979. We're a family and veteran-owned company with over 45 years of commercial roofing experience and comprehensive understanding of Tucson's climate challenges, commercial building requirements, and business operational needs. Our ROC-licensed contractors (ROC #171687) are manufacturer-certified installers for all major roofing systems—GAF, Firestone, Johns Manville, Carlisle—ensuring installations meet specifications for comprehensive warranty coverage."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has replaced commercial roofs throughout Tucson since 1979. We're a family and veteran-owned company with over 46 years of commercial roofing experience and comprehensive understanding of Tucson's climate challenges, commercial building requirements, and business operational needs. Our ROC-licensed contractors (ROC #171687) are manufacturer-certified installers for all major roofing systems—GAF, Firestone, Johns Manville, Carlisle—ensuring installations meet specifications for comprehensive warranty coverage."
       },
       {
             "type": "paragraph",

@@ -423,7 +423,7 @@ export const waterheaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "One of the most common—and important—questions homeowners ask is: \"Should I repair my water heater or replace it?\" This decision significantly impacts your comfort, budget, and home value. The answer depends on multiple factors including your water heater's age, the specific problem and repair cost, your water heater's maintenance history, energy efficiency considerations, and your household's hot water needs. We provide honest, pressure-free guidance backed by over 45 years of Tucson water heater experience to help you make the most economical decision for your unique situation."
+            "content": "One of the most common—and important—questions homeowners ask is: \"Should I repair my water heater or replace it?\" This decision significantly impacts your comfort, budget, and home value. The answer depends on multiple factors including your water heater's age, the specific problem and repair cost, your water heater's maintenance history, energy efficiency considerations, and your household's hot water needs. We provide honest, pressure-free guidance backed by over 46 years of Tucson water heater experience to help you make the most economical decision for your unique situation."
       },
       {
             "type": "heading",

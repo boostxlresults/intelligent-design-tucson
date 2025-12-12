@@ -57,7 +57,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Extreme Climate Demands Reliable AC Repair: With 145+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
+            "content": "Tucson's Extreme Climate Demands Reliable AC Repair: With 146+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
       },
       {
             "type": "paragraph",
@@ -144,7 +144,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready for Fast, Professional AC Repair? Don't suffer through Tucson's heat with a malfunctioning air conditioner. Our licensed, background-checked technicians are standing by 24/7/365 to restore your comfort. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple repair options, and a 100% satisfaction guarantee on every AC repair. Your comfort and safety are our top priority—let us prove why Tucson homeowners have trusted Intelligent Design for over 45 years."
+            "content": "Ready for Fast, Professional AC Repair? Don't suffer through Tucson's heat with a malfunctioning air conditioner. Our licensed, background-checked technicians are standing by 24/7/365 to restore your comfort. Call (520) 333-2665 now for immediate dispatch, or schedule online for same-day or next-day service. We offer upfront pricing, multiple repair options, and a 100% satisfaction guarantee on every AC repair. Your comfort and safety are our top priority—let us prove why Tucson homeowners have trusted Intelligent Design for over 46 years."
       },
       {
             "type": "heading",
@@ -720,7 +720,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a family-owned and veteran-owned business, we bring military precision, family values, and generational expertise to every AC repair call.\n\nWhat Family & Veteran Ownership Means:\n- Integrity: We treat your home like our own family's home\n- Accountability: Our reputation is our legacy—we can't hide behind corporate policies\n- Long-Term Thinking: We're building relationships for decades, not chasing quarterly profits\n- Service Excellence: Military standards of precision, discipline, and attention to detail\n- Community Commitment: We live and work in Tucson. Your neighbors are our neighbors.\n\nWe've been serving Tucson for over 45 years because we do what's right, even when it's not the most profitable choice in the moment."
+            "content": "As a family-owned and veteran-owned business, we bring military precision, family values, and generational expertise to every AC repair call.\n\nWhat Family & Veteran Ownership Means:\n- Integrity: We treat your home like our own family's home\n- Accountability: Our reputation is our legacy—we can't hide behind corporate policies\n- Long-Term Thinking: We're building relationships for decades, not chasing quarterly profits\n- Service Excellence: Military standards of precision, discipline, and attention to detail\n- Community Commitment: We live and work in Tucson. Your neighbors are our neighbors.\n\nWe've been serving Tucson for over 46 years because we do what's right, even when it's not the most profitable choice in the moment."
       },
       {
             "type": "heading",

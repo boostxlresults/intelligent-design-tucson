@@ -219,7 +219,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Red Rock / Casa Grande continues its growth as a family-friendly desert community, homeowners need a plumbing service provider who understands both modern plumbing systems and the unique challenges of hard water and desert conditions. Our plumbing division has served the Tucson metro area and surrounding communities for over 45 years, building a reputation for quality workmanship, honest recommendations, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from hard water damaging fixtures and appliances to newer home plumbing systems requiring expert service."
+        "content": "As Red Rock / Casa Grande continues its growth as a family-friendly desert community, homeowners need a plumbing service provider who understands both modern plumbing systems and the unique challenges of hard water and desert conditions. Our plumbing division has served the Tucson metro area and surrounding communities for over 46 years, building a reputation for quality workmanship, honest recommendations, and customer service that consistently exceeds expectations. We understand the specific challenges Red Rock / Casa Grande homeowners face—from hard water damaging fixtures and appliances to newer home plumbing systems requiring expert service."
       },
       {
         "type": "paragraph",

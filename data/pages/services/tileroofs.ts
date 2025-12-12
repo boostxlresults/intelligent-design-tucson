@@ -623,7 +623,7 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners since 1979. We're a family and veteran-owned business with over 45 years of experience providing professional tile roofing services throughout Southern Arizona. Our licensed contractors (ROC #171687) have installed, repaired, and restored thousands of tile roofs ranging from modest residential homes to prestigious historic properties and commercial buildings. We also provide [link:/services/residential-roof-installation|residential roof installation], [link:/services/residential-roof-repair|residential roof repair], [link:/services/residential-roof-replacement|roof replacement], [link:/services/metal-roofs|metal roofing], [link:/services/flat-roofs|flat roof systems], and [link:/services/residential-roof-coating|roof coating services] throughout the greater Tucson area."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson homeowners since 1979. We're a family and veteran-owned business with over 46 years of experience providing professional tile roofing services throughout Southern Arizona. Our licensed contractors (ROC #171687) have installed, repaired, and restored thousands of tile roofs ranging from modest residential homes to prestigious historic properties and commercial buildings. We also provide [link:/services/residential-roof-installation|residential roof installation], [link:/services/residential-roof-repair|residential roof repair], [link:/services/residential-roof-replacement|roof replacement], [link:/services/metal-roofs|metal roofing], [link:/services/flat-roofs|flat roof systems], and [link:/services/residential-roof-coating|roof coating services] throughout the greater Tucson area."
       },
       {
             "type": "paragraph",
@@ -646,7 +646,7 @@ export const tileroofsData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Ready for Premium Tile Roofing in Tucson?",
-            "content": "Get expert tile roof installation, repair, or restoration from Tucson's most trusted roofing contractor. Over 45 years experience, 22,000+ five-star reviews, comprehensive warranties. Schedule your free consultation and estimate today.",
+            "content": "Get expert tile roof installation, repair, or restoration from Tucson's most trusted roofing contractor. over 46 years experience, 22,000+ five-star reviews, comprehensive warranties. Schedule your free consultation and estimate today.",
             "buttonText": "Get Free Estimate",
             "buttonLink": "#schedule"
       }

@@ -61,7 +61,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert HVAC technicians provide comprehensive air conditioning service that keeps your system running at peak efficiency through Tucson's punishing desert climate. With over 45 years of experience serving Tucson families, we understand the unique demands that Southern Arizona's extreme temperatures and intense UV radiation place on your AC system. Our Tucson AC units work harder and longer than systems anywhere else in the country—running 2,500-3,000 hours annually compared to just 600-800 hours in moderate climates—making professional preventive maintenance absolutely critical for reliability and longevity."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, our expert HVAC technicians provide comprehensive air conditioning service that keeps your system running at peak efficiency through Tucson's punishing desert climate. With over 46 years of experience serving Tucson families, we understand the unique demands that Southern Arizona's extreme temperatures and intense UV radiation place on your AC system. Our Tucson AC units work harder and longer than systems anywhere else in the country—running 2,500-3,000 hours annually compared to just 600-800 hours in moderate climates—making professional preventive maintenance absolutely critical for reliability and longevity."
       },
       {
             "type": "paragraph",

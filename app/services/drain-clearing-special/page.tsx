@@ -152,7 +152,7 @@ export default function DrainClearingSpecialPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Intelligent Design for Drain Clearing?</h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Tucson's most trusted plumbing company for over 45 years
+                Tucson's most trusted plumbing company for over 46 years
               </p>
             </div>
 
@@ -199,7 +199,7 @@ export default function DrainClearingSpecialPage() {
               <Card>
                 <CardContent className="p-6 text-center">
                   <Clock className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-3xl font-bold text-primary mb-2">45+</div>
+                  <div className="text-3xl font-bold text-primary mb-2">46+</div>
                   <p className="font-semibold">Years in Business</p>
                   <p className="text-sm text-muted-foreground">Since 1979</p>
                 </CardContent>

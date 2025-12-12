@@ -485,7 +485,7 @@ export const trenchlessrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—over 45 years of honest, professional service across all trades. We're a family and veteran-owned business deeply rooted in the Southern Arizona community. As one of Tucson's few IPT-certified trenchless repair contractors, we represent the highest level of expertise and quality in no-dig sewer rehabilitation. Our certifications, training, and experience with trenchless technology exceed typical [link:/services/plumbing-tucson|plumbing contractors] who may offer trenchless as a sideline but lack the specialized knowledge and equipment for optimal results."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—over 46 years of honest, professional service across all trades. We're a family and veteran-owned business deeply rooted in the Southern Arizona community. As one of Tucson's few IPT-certified trenchless repair contractors, we represent the highest level of expertise and quality in no-dig sewer rehabilitation. Our certifications, training, and experience with trenchless technology exceed typical [link:/services/plumbing-tucson|plumbing contractors] who may offer trenchless as a sideline but lack the specialized knowledge and equipment for optimal results."
       },
       {
             "type": "paragraph",
