@@ -8,7 +8,7 @@ import { whyChooseFAQs } from '@/data/faqs/general';
 export const whytucsonchoosesintelligentdesignData: ServicePageData = {
   // SEO & Meta
   title: 'Why Tucson Chooses Intelligent Design | Tucson',
-  description: 'Discover why over 22,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned since 2009. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
+  description: 'Discover why over 22,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
   slug: 'why-tucson-chooses-intelligent-design',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Since 2009, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. As a family and veteran-owned company, we understand what matters most to homeowners—reliability, honesty, and exceptional service."
+            "content": "With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners—reliability, honesty, and exceptional service."
       },
       {
             "type": "paragraph",
@@ -75,7 +75,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design was founded in 2009 by a family committed to bringing honest, reliable home services to Tucson. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete."
+            "content": "Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing—a trusted Tucson institution since 1979—creating a powerhouse with 46+ years of combined home services expertise. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete."
       },
       {
             "type": "paragraph",

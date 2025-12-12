@@ -73,7 +73,7 @@ const serviceAreas = [
   {
     name: "Casas Adobes",
     slug: "casas-adobes",
-    description: "Trusted local contractor since 2009"
+    description: "Trusted local contractor since 1979"
   },
   {
     name: "Tucson Estates",
@@ -399,7 +399,7 @@ export default function ServiceAreasPage() {
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Family & Veteran-Owned</h3>
                   <p className="text-muted-foreground">
-                    Local company serving Greater Tucson since 2009 with integrity and professionalism.
+                    Local company serving Greater Tucson since 1979 with 46+ years of combined expertise.
                   </p>
                 </div>
               </div>

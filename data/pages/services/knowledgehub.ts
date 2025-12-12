@@ -44,7 +44,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Founded in 2009 and rooted in a family legacy dating back to 1979, Intelligent Design has evolved from a small HVAC startup operating out of a garage to Tucson's most comprehensive home services provider. Our growth reflects an unwavering commitment to quality, safety, and customer satisfaction. Today, we employ over 80 year-round technicians, installers, and support staff—each rigorously trained, background-checked, and dedicated to upholding the highest standards of professionalism."
+            "content": "Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, Intelligent Design united with Wood's Plumbing (established 1979) in 2022, creating a combined 46+ years of home services expertise. What started as a small HVAC company operating out of a garage has evolved into Tucson's most comprehensive home services provider. Our growth reflects an unwavering commitment to quality, safety, and customer satisfaction. Today, we employ over 80 year-round technicians, installers, and support staff—each rigorously trained, background-checked, and dedicated to upholding the highest standards of professionalism."
       },
       {
             "type": "paragraph",
@@ -122,7 +122,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "After serving as a U.S. Marine in Presidential security at HMX-1 in Quantico, VA, Andrew entered the HVAC industry in 2002 and quickly recognized a gap in the market: homeowners deserved better. Better communication. Better workmanship. Better value. He founded Intelligent Design in 2009 with just three employees working out of a home garage. His vision was simple but revolutionary for the industry—treat every customer like family, invest in the best technicians, and never compromise on quality."
+            "content": "After serving as a U.S. Marine in Presidential security at HMX-1 in Quantico, VA, Andrew entered the HVAC industry in 2002 and quickly recognized a gap in the market: homeowners deserved better. Better communication. Better workmanship. Better value. He founded Intelligent Design in 2011 with just three employees working out of a home garage. His vision was simple but revolutionary for the industry—treat every customer like family, invest in the best technicians, and never compromise on quality."
       },
       {
             "type": "paragraph",
@@ -1666,7 +1666,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're Tucson's only family and veteran-owned company offering all five major home services (HVAC, plumbing, roofing, electrical, solar) under one roof with consistent quality. Our differentiators: 22,000+ five-star reviews and BBB A+ rating (proven track record), family and veteran ownership since 2009 (local accountability, not a national franchise), lifetime warranties on select installations (we stand behind our work), upfront flat-rate pricing (no surprises), rigorous technician training and background checks (trustworthy professionals in your home), 24/7 emergency service availability, same-day service for most issues, membership programs with priority scheduling and extended warranties, and genuine commitment to education over sales pressure. We've built our reputation on treating every customer like family—earning trust through exceptional craftsmanship, transparent communication, and doing what's right for homeowners over the long term."
+            "content": "We're Tucson's only family and veteran-owned company offering all five major home services (HVAC, plumbing, roofing, electrical, solar) under one roof with consistent quality. Our differentiators: 22,000+ five-star reviews and BBB A+ rating (proven track record), family and veteran ownership with 46+ years of combined expertise serving Tucson since 1979 (local accountability, not a national franchise), lifetime warranties on select installations (we stand behind our work), upfront flat-rate pricing (no surprises), rigorous technician training and background checks (trustworthy professionals in your home), 24/7 emergency service availability, same-day service for most issues, membership programs with priority scheduling and extended warranties, and genuine commitment to education over sales pressure. We've built our reputation on treating every customer like family—earning trust through exceptional craftsmanship, transparent communication, and doing what's right for homeowners over the long term."
       },
       {
             "type": "heading",
