@@ -44,7 +44,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, Intelligent Design united with Wood's Plumbing (established 1979) in 2022, creating a combined 46+ years of home services expertise. What started as a small HVAC company operating out of a garage has evolved into Tucson's most comprehensive home services provider. Our growth reflects an unwavering commitment to quality, safety, and customer satisfaction. Today, we employ over 80 year-round technicians, installers, and support staff—each rigorously trained, background-checked, and dedicated to upholding the highest standards of professionalism."
+            "content": "Intelligent Design began in 1979 with a simple mission: provide Tucson homeowners with honest, expert home services they can trust. What started as a small operation has evolved into Tucson's most comprehensive home services provider over the course of 46+ years. Our growth reflects an unwavering commitment to quality, safety, and customer satisfaction. Today, we employ over 80 year-round technicians, installers, and support staff—each rigorously trained, background-checked, and dedicated to upholding the highest standards of professionalism."
       },
       {
             "type": "paragraph",
@@ -122,7 +122,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "After serving as a U.S. Marine in Presidential security at HMX-1 in Quantico, VA, Andrew entered the HVAC industry in 2002 and quickly recognized a gap in the market: homeowners deserved better. Better communication. Better workmanship. Better value. He founded Intelligent Design in 2011 with just three employees working out of a home garage. His vision was simple but revolutionary for the industry—treat every customer like family, invest in the best technicians, and never compromise on quality."
+            "content": "After serving as a U.S. Marine in Presidential security at HMX-1 in Quantico, VA, Andrew entered the HVAC industry and quickly recognized a gap in the market: homeowners deserved better. Better communication. Better workmanship. Better value. His vision was simple but revolutionary for the industry—treat every customer like family, invest in the best technicians, and never compromise on quality. Under his leadership, Intelligent Design has grown into Tucson's most trusted name in home services."
       },
       {
             "type": "paragraph",
