@@ -5,6 +5,23 @@ import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "../integrations/SchedulerEmbed";
 
 export default function MobileFloatingActions() {
+  const handleTextUsClick = () => {
+    document.body.classList.add('hatch-chat-visible');
+    
+    setTimeout(() => {
+      const hatchChat = document.querySelector('hatch-chat');
+      if (hatchChat) {
+        const shadowRoot = hatchChat.shadowRoot;
+        if (shadowRoot) {
+          const chatButton = shadowRoot.querySelector('button, .chat-button, [class*="button"], [class*="trigger"]');
+          if (chatButton && chatButton instanceof HTMLElement) {
+            chatButton.click();
+          }
+        }
+      }
+    }, 100);
+  };
+
   return (
     <>
       {/* Mobile Floating Action Bar - Only visible on mobile/tablet */}
@@ -34,16 +51,15 @@ export default function MobileFloatingActions() {
             data-testid="button-mobile-schedule"
           />
 
-          {/* Text Us - SMS link since HatchChat is hidden on mobile */}
+          {/* Text Us - Reveals HatchChat widget on mobile/tablet */}
           <Button
             size="sm"
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-green-600 hover:bg-green-700 text-white border-2 border-green-700"
-            asChild
+            onClick={handleTextUsClick}
+            data-testid="button-mobile-chat"
           >
-            <a href="sms:+15206754764" data-testid="button-mobile-chat">
-              <MessageCircle className="w-5 h-5" />
-              <span className="text-xs font-semibold">Text Us</span>
-            </a>
+            <MessageCircle className="w-5 h-5" />
+            <span className="text-xs font-semibold">Text Us</span>
           </Button>
         </div>
       </div>
