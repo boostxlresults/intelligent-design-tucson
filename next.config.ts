@@ -130,6 +130,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/heating/heater-repair-tucson',
+        destination: '/services/heater-repair-tucson',
+        permanent: true
+      },
+      {
         source: '/services/why-tucson-chooses-intelligent-design',
         destination: '/about',
         permanent: true

@@ -102,6 +102,11 @@
       "permanent": true
     },
     {
+      "source": "/heating/heater-repair-tucson",
+      "destination": "/services/heater-repair-tucson",
+      "permanent": true
+    },
+    {
       "source": "/solar-tucson",
       "destination": "/services/residential-solar-installation",
       "permanent": true
