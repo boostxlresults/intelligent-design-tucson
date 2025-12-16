@@ -8,42 +8,42 @@
     },
     {
       "source": "/air-conditioning/ac-repair-tucson",
-      "destination": "/services/hvac/ac-repair",
+      "destination": "/services/ac-repair-tucson",
       "permanent": true
     },
     {
       "source": "/air-conditioning/ac-installation-tucson",
-      "destination": "/services/hvac/ac-installation",
+      "destination": "/services/ac-installation-tucson",
       "permanent": true
     },
     {
       "source": "/plumber-tucson/water-heaters-tucson",
-      "destination": "/services/plumbing/water-heater-installation",
+      "destination": "/services/water-heater-installation",
       "permanent": true
     },
     {
       "source": "/plumber-tucson",
-      "destination": "/services/plumbing",
+      "destination": "/services/plumbing-tucson",
       "permanent": true
     },
     {
       "source": "/drain-and-sewer/drain-cleaning-tucson",
-      "destination": "/services/plumbing/drain-cleaning",
+      "destination": "/services/drain-clearing",
       "permanent": true
     },
     {
       "source": "/roofing-tucson-az",
-      "destination": "/services/roofing",
+      "destination": "/services/residential-roof-repair",
       "permanent": true
     },
     {
       "source": "/solar-tucson",
-      "destination": "/services/solar/solar-monitoring",
+      "destination": "/services/residential-solar-installation",
       "permanent": true
     },
     {
       "source": "/electrical-tucson/standby-generator-installation-and-repair",
-      "destination": "/services/electrical/generator-installation",
+      "destination": "/services/generac-installation",
       "permanent": true
     }
   ],

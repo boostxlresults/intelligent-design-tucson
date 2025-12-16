@@ -123,6 +123,66 @@ const nextConfig: NextConfig = {
         source: '/free-online-hvac-quote',
         destination: '/free-hvac-quote',
         permanent: true
+      },
+      // Legacy /services/hvac/ URLs → new flat structure
+      {
+        source: '/services/hvac/ac-repair',
+        destination: '/services/ac-repair-tucson',
+        permanent: true
+      },
+      {
+        source: '/services/hvac/ac-installation',
+        destination: '/services/ac-installation-tucson',
+        permanent: true
+      },
+      {
+        source: '/services/hvac/duct-cleaning',
+        destination: '/services/duct-cleaning',
+        permanent: true
+      },
+      {
+        source: '/services/hvac/:path*',
+        destination: '/services/:path*',
+        permanent: true
+      },
+      // Legacy /services/plumbing/ URLs
+      {
+        source: '/services/plumbing/water-heater-installation',
+        destination: '/services/water-heater-installation',
+        permanent: true
+      },
+      {
+        source: '/services/plumbing/drain-cleaning',
+        destination: '/services/drain-clearing',
+        permanent: true
+      },
+      {
+        source: '/services/plumbing/:path*',
+        destination: '/services/:path*',
+        permanent: true
+      },
+      // Legacy /services/roofing/ URLs
+      {
+        source: '/services/roofing/:path*',
+        destination: '/services/:path*',
+        permanent: true
+      },
+      // Legacy /services/solar/ URLs
+      {
+        source: '/services/solar/:path*',
+        destination: '/services/:path*',
+        permanent: true
+      },
+      // Legacy /services/electrical/ URLs
+      {
+        source: '/services/electrical/generator-installation',
+        destination: '/services/generac-installation',
+        permanent: true
+      },
+      {
+        source: '/services/electrical/:path*',
+        destination: '/services/:path*',
+        permanent: true
       }
     ];
     
