@@ -120,6 +120,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/roofing/residential-roofing',
+        destination: '/services/residential-roof-repair',
+        permanent: true
+      },
+      {
         source: '/heating/heater-installation-tucson',
         destination: '/services/heater-installation-tucson',
         permanent: true
