@@ -234,6 +234,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/services/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs/': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
   '/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
   '/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs/': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
+  
+  // Legacy blog date-based URLs
+  '/blog/2025/january/energy-efficient-hvac-upgrades': '/blog/hvac',
+  '/blog/2025/january/energy-efficient-hvac-upgrades/': '/blog/hvac',
 };
 
 export const STANDALONE_PAGES = new Set([
