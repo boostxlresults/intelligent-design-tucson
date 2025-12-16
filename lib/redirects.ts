@@ -228,6 +228,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/reasons-why-you-should-use-solar-power': '/blog/solar/reasons-why-you-should-use-solar-power',
   '/ways-to-keep-your-ac-unit-running-smoothly-this-summer': '/blog/hvac/ways-to-keep-your-ac-unit-running-smoothly-this-summer',
   '/how-to-make-an-old-home-more-energy-efficient': '/blog/home-tips/how-to-make-an-old-home-more-energy-efficient',
+  
+  // Legacy blog posts that may appear under /services/ incorrectly
+  '/services/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
+  '/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
 };
 
 export const STANDALONE_PAGES = new Set([
