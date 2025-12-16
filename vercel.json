@@ -80,6 +80,11 @@
       "source": "/electrical-tucson/standby-generator-installation-and-repair",
       "destination": "/services/generac-installation",
       "permanent": true
+    },
+    {
+      "source": "/electrical-tucson/electrical-repairs-tucson",
+      "destination": "/services/electrical-repair",
+      "permanent": true
     }
   ],
   "headers": [

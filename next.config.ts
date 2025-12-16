@@ -210,6 +210,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/electrical-tucson/electrical-repairs-tucson',
+        destination: '/services/electrical-repair',
+        permanent: true
+      },
+      {
         source: '/services/electrical/:path*',
         destination: '/services/:path*',
         permanent: true
