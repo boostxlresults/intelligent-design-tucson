@@ -72,6 +72,11 @@
       "permanent": true
     },
     {
+      "source": "/roofing",
+      "destination": "/services/roofing",
+      "permanent": true
+    },
+    {
       "source": "/solar-tucson",
       "destination": "/services/residential-solar-installation",
       "permanent": true

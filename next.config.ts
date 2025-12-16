@@ -110,6 +110,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/roofing',
+        destination: '/services/roofing',
+        permanent: true
+      },
+      {
         source: '/services/why-tucson-chooses-intelligent-design',
         destination: '/about',
         permanent: true
