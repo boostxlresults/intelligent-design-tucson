@@ -172,7 +172,8 @@ export function generateArticleSchema(
       sameAs: [
         'https://www.facebook.com/IDesignAC',
         'https://www.instagram.com/intelligentdesignac/',
-        'https://www.youtube.com/@intelligentdesigntucson',
+        'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
+        'https://www.youtube.com/@Idesignac',
         'https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256',
         'https://g.page/r/CajVBZOPuZ56EBE/'
       ]

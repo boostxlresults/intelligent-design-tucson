@@ -146,7 +146,7 @@ Intelligent Design Air Conditioning & Plumbing
 +1 520-333-2665  
 [email us here](http://www.einpresswire.com/contact_author/679874358)  
 Visit us on social media:  
-[Facebook](https://www.facebook.com/IntelligentDesignAC/)  
-[LinkedIn](https://www.linkedin.com/in/andrew-dobbins-79383554/)  
-[Instagram](https://www.instagram.com/intelligentdesigntucson/)  
-[YouTube](https://www.youtube.com/user/intelligentdesign4u)
+[Facebook](https://www.facebook.com/IDesignAC)  
+[LinkedIn](https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/)  
+[Instagram](https://www.instagram.com/intelligentdesignac/)  
+[YouTube](https://www.youtube.com/@Idesignac)

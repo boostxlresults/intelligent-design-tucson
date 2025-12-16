@@ -10,8 +10,8 @@ const logoUrl = "/logo.png";
 const socialLinks = [
   { name: "Facebook", href: "https://www.facebook.com/IDesignAC", icon: SiFacebook },
   { name: "Instagram", href: "https://www.instagram.com/intelligentdesignac/", icon: SiInstagram },
-  { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-hvac", icon: SiLinkedin },
-  { name: "YouTube", href: "https://www.youtube.com/@intelligentdesigntucson", icon: SiYoutube },
+  { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/", icon: SiLinkedin },
+  { name: "YouTube", href: "https://www.youtube.com/@Idesignac", icon: SiYoutube },
   { name: "Google Business", href: "https://g.page/r/CajVBZOPuZ56EBE/", icon: SiGoogle },
 ];
 
