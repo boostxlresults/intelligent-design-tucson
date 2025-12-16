@@ -152,6 +152,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/plumber-tucson/emergency-water-heater-repair-tucson',
+        destination: '/services/water-heater-repair',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true
