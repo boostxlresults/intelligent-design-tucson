@@ -138,7 +138,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
   if (includeSameAs) {
     schema.sameAs = [
       "https://www.facebook.com/IDesignAC",
-      "https://www.instagram.com/intelligentdesignac/",
+      "https://www.instagram.com/intelligentdesigntucson/",
       "https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/",
       "https://www.youtube.com/@Idesignac",
       "https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256",

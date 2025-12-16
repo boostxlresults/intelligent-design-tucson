@@ -148,5 +148,5 @@ Intelligent Design Air Conditioning & Plumbing
 Visit us on social media:  
 [Facebook](https://www.facebook.com/IDesignAC)  
 [LinkedIn](https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/)  
-[Instagram](https://www.instagram.com/intelligentdesignac/)  
+[Instagram](https://www.instagram.com/intelligentdesigntucson/)  
 [YouTube](https://www.youtube.com/@Idesignac)
