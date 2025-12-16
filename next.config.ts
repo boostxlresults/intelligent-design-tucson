@@ -169,6 +169,11 @@ const nextConfig: NextConfig = {
       },
       // Legacy /services/solar/ URLs
       {
+        source: '/services/solar/solar-monitoring',
+        destination: '/services/solar-maintenance',
+        permanent: true
+      },
+      {
         source: '/services/solar/:path*',
         destination: '/services/:path*',
         permanent: true

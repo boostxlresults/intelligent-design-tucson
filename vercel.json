@@ -42,6 +42,11 @@
       "permanent": true
     },
     {
+      "source": "/services/solar/solar-monitoring",
+      "destination": "/services/solar-maintenance",
+      "permanent": true
+    },
+    {
       "source": "/electrical-tucson/standby-generator-installation-and-repair",
       "destination": "/services/generac-installation",
       "permanent": true
