@@ -27,6 +27,11 @@
       "permanent": true
     },
     {
+      "source": "/services/plumbing/water-heater-installation",
+      "destination": "/services/water-heater-installation",
+      "permanent": true
+    },
+    {
       "source": "/plumber-tucson/emergency-water-heater-repair-tucson",
       "destination": "/services/water-heater-repair",
       "permanent": true
