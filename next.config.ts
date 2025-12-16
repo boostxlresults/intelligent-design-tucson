@@ -167,6 +167,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/plumber-tucson/leak-detection-tucson-az',
+        destination: '/services/leak-detection',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true

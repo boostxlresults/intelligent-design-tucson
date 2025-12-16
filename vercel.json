@@ -42,6 +42,11 @@
       "permanent": true
     },
     {
+      "source": "/plumber-tucson/leak-detection-tucson-az",
+      "destination": "/services/leak-detection",
+      "permanent": true
+    },
+    {
       "source": "/plumber-tucson",
       "destination": "/services/plumbing-tucson",
       "permanent": true
