@@ -162,6 +162,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/plumber-tucson/plumbing-repair-installation-tucson',
+        destination: '/services/plumbing-tucson',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true
