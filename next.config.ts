@@ -177,6 +177,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/plumber-tucson/sink-repair-installation',
+        destination: '/services/sink-repair-installation',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true

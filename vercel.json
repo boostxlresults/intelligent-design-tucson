@@ -47,6 +47,11 @@
       "permanent": true
     },
     {
+      "source": "/plumber-tucson/sink-repair-installation",
+      "destination": "/services/sink-repair-installation",
+      "permanent": true
+    },
+    {
       "source": "/plumber-tucson",
       "destination": "/services/plumbing-tucson",
       "permanent": true
