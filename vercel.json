@@ -72,6 +72,11 @@
       "permanent": true
     },
     {
+      "source": "/drain-and-sewer/trenchless-sewer-repair-replacement-tucson",
+      "destination": "/services/trenchless-repair",
+      "permanent": true
+    },
+    {
       "source": "/roofing-tucson-az",
       "destination": "/services/residential-roof-repair",
       "permanent": true

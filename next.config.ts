@@ -202,6 +202,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/drain-and-sewer/trenchless-sewer-repair-replacement-tucson',
+        destination: '/services/trenchless-repair',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true
