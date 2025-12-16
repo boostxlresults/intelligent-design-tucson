@@ -187,6 +187,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/plumber-tucson/water-filtration-system-tucson',
+        destination: '/services/water-filtration',
+        permanent: true
+      },
+      {
         source: '/services/plumbing/drain-cleaning',
         destination: '/services/drain-clearing',
         permanent: true

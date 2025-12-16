@@ -57,6 +57,11 @@
       "permanent": true
     },
     {
+      "source": "/plumber-tucson/water-filtration-system-tucson",
+      "destination": "/services/water-filtration",
+      "permanent": true
+    },
+    {
       "source": "/plumber-tucson",
       "destination": "/services/plumbing-tucson",
       "permanent": true
