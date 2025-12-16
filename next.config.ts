@@ -113,6 +113,16 @@ const nextConfig: NextConfig = {
         source: '/service-areas/saddle-brooke-catalina',
         destination: '/service-areas/saddlebrooke-catalina',
         permanent: true
+      },
+      {
+        source: '/does-air-conditioning-use-gas-or-electricity',
+        destination: '/blog/electrical/does-air-conditioning-use-gas-or-electricity',
+        permanent: true
+      },
+      {
+        source: '/free-online-hvac-quote',
+        destination: '/free-hvac-quote',
+        permanent: true
       }
     ];
     
