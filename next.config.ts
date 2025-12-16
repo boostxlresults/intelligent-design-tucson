@@ -150,6 +150,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/how-much-does-a-new-ac-unit-cost-in-az',
+        destination: '/blog/hvac/how-much-does-a-new-ac-unit-cost-in-az',
+        permanent: true
+      },
+      {
         source: '/free-online-hvac-quote',
         destination: '/free-hvac-quote',
         permanent: true

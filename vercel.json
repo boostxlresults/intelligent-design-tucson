@@ -135,6 +135,11 @@
       "source": "/repiping-how-its-different-from-pipe-repair-and-why-you-may-need-it-more",
       "destination": "/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-",
       "permanent": true
+    },
+    {
+      "source": "/how-much-does-a-new-ac-unit-cost-in-az",
+      "destination": "/blog/hvac/how-much-does-a-new-ac-unit-cost-in-az",
+      "permanent": true
     }
   ],
   "headers": [
