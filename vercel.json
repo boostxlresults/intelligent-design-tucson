@@ -12,6 +12,11 @@
       "permanent": true
     },
     {
+      "source": "/air-conditioning",
+      "destination": "/services/ac-service-tucson",
+      "permanent": true
+    },
+    {
       "source": "/air-conditioning/ac-installation-tucson",
       "destination": "/services/ac-installation-tucson",
       "permanent": true
