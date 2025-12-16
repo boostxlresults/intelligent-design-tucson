@@ -140,6 +140,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/repiping-how-its-different-from-pipe-repair-and-why-you-may-need-it-more',
+        destination: '/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-',
+        permanent: true
+      },
+      {
         source: '/free-online-hvac-quote',
         destination: '/free-hvac-quote',
         permanent: true

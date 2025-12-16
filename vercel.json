@@ -115,6 +115,11 @@
       "source": "/why-is-my-air-conditioning-working-downstairs-but-not-upstairs",
       "destination": "/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs",
       "permanent": true
+    },
+    {
+      "source": "/repiping-how-its-different-from-pipe-repair-and-why-you-may-need-it-more",
+      "destination": "/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-",
+      "permanent": true
     }
   ],
   "headers": [
