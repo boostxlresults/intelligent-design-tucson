@@ -234,6 +234,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/solar-tucson/solar-installers-tuscon',
+        destination: '/services/residential-solar-installation',
+        permanent: true
+      },
+      {
         source: '/services/solar/:path*',
         destination: '/services/:path*',
         permanent: true

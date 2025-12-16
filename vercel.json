@@ -107,6 +107,11 @@
       "permanent": true
     },
     {
+      "source": "/solar-tucson/solar-installers-tuscon",
+      "destination": "/services/residential-solar-installation",
+      "permanent": true
+    },
+    {
       "source": "/electrical-tucson/standby-generator-installation-and-repair",
       "destination": "/services/generac-installation",
       "permanent": true
