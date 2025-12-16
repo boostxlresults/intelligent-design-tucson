@@ -7,9 +7,10 @@ import * as locationExports from '@/data/pages/locations';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
 import type { ServicePageData, LocationPageData } from '@/types/services';
+import { getRedirectDestination } from '@/lib/redirects';
 
 /**
- * Production-Hardened Proxy: JSON-LD Schema Injection
+ * Production-Hardened Proxy: JSON-LD Schema Injection + Legacy URL Redirects
  * 
  * Injects JSON-LD schemas into HTML responses at the network boundary.
  * This is the recommended workaround for Next.js 16 App Router's limitation
@@ -46,14 +47,28 @@ function normalizeServiceSlug(slug: string): string {
 export default async function proxy(request: NextRequest) {
   const { pathname, searchParams } = request.nextUrl;
   
-  // Skip non-HTML requests (APIs, static assets, images)
+  // Skip static assets early (before any redirect logic)
   if (pathname.startsWith('/_next/') || 
       pathname.startsWith('/api/') || 
-      pathname.match(/\.(ico|png|jpg|jpeg|svg|css|js|json)$/)) {
+      pathname.match(/\.(ico|png|jpg|jpeg|svg|css|js|json|woff|woff2|ttf|eot)$/)) {
     return NextResponse.next();
   }
   
-  // Skip non-GET requests (HEAD, OPTIONS, POST, etc.)
+  // ===========================================
+  // LEGACY URL REDIRECTS (bypasses Vercel's 1,024 limit)
+  // Runs for ALL request methods (GET, HEAD, etc.)
+  // ===========================================
+  const redirectDest = getRedirectDestination(pathname);
+  if (redirectDest) {
+    const url = request.nextUrl.clone();
+    url.pathname = redirectDest;
+    console.log(`[REDIRECT] 308: ${pathname} → ${redirectDest}`);
+    return NextResponse.redirect(url, 308);
+  }
+  
+  // === Schema injection (GET requests only) ===
+  
+  // Skip non-GET requests for schema injection
   if (request.method !== 'GET') {
     return NextResponse.next();
   }
