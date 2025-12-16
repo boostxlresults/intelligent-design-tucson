@@ -409,7 +409,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/the-best-materials-for-repiping-a-home': '/blog/plumbing/the-best-materials-for-repiping-a-home',
   '/impact-of-indoor-air-quality-on-your-health-and-comfort': '/blog/hvac/impact-of-indoor-air-quality-on-your-health-and-comfort',
   '/choosing-the-best-ac-repair-near-me-essential-tips-for-finding-reliable-service': '/blog/hvac/choosing-the-best-ac-repair-near-me-essential-tips-for-finding',
-  '/how-long-should-ac-last-in-arizona': '/blog/hvac/how-long-should-ac-last-in-arizona',
   '/what-to-expect-during-and-after-ac-repair': '/blog/hvac/what-to-expect-during-and-after-ac-repair',
   '/why-solar-energy-is-the-future': '/blog/solar/why-solar-energy-is-the-future',
   '/the-many-ways-plumbers-in-tucson-can-help': '/blog/plumbing/the-many-ways-plumbers-in-tucson-can-help',
@@ -461,7 +460,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/plumber-tucson-10-signs-you-need-a-professional-plumber': '/blog/plumbing/plumber-tucson-10-signs-you-need-a-professional-plumber',
   '/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer': '/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-su',
   '/top-qualifications-to-look-for-in-your-upcoming-solar-panel-installers': '/blog/solar/top-qualifications-to-look-for-in-your-upcoming-solar-panel-i',
-  '/how-to-make-an-old-home-more-energy-efficient': '/blog/home-tips/how-to-make-an-old-home-more-energy-efficient',
   '/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered': '/blog/hvac/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered',
   '/drain-snakes-your-must-have-tool-for-efficient-drain-cleaning': '/blog/plumbing/drain-snakes-your-must-have-tool-for-efficient-drain-cleanin',
   '/diy-guide-to-basic-ac-repairs': '/blog/hvac/diy-guide-to-basic-ac-repairs',
@@ -474,7 +472,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
   '/preparing-your-hvac-system-for-summer-essential-steps-for-optimal-performance': '/blog/hvac',
   '/choosing-the-right-hvac-system-navigating-the-options-when-hvac-systems-fail': '/blog/hvac',
-  '/why-hire-professionals-to-clean-air-conditioner': '/blog/hvac/why-hire-professionals-to-clean-air-conditioner',
   '/advantages-of-using-local-plumbers-in-tucson': '/blog/plumbing/advantages-of-using-local-plumbers-in-tucson',
   '/why-diy-ac-installation-can-cost-you-more-in-the-long-run': '/blog/hvac/why-diy-ac-installation-can-cost-you-more-in-the-long-run',
   '/the-hidden-dangers-of-neglecting-drain-cleaning': '/blog/plumbing/the-hidden-dangers-of-neglecting-drain-cleaning',
@@ -722,6 +719,12 @@ export function getRedirectDestination(pathname: string): string | null {
     }
     // Default to HVAC for AC/heating related
     return '/blog/hvac';
+  }
+  
+  // Handle /service-area/* (singular) → /service-areas/* (plural) redirects
+  const serviceAreaMatch = pathWithoutHash.match(/^\/service-area\/(.+?)\/?$/);
+  if (serviceAreaMatch) {
+    return `/service-areas/${serviceAreaMatch[1]}`;
   }
   
   // Handle legacy /services/hvac/*, /services/plumbing/*, etc. nested paths
