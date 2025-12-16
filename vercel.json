@@ -82,6 +82,11 @@
       "permanent": true
     },
     {
+      "source": "/heating/heater-installation-tucson",
+      "destination": "/services/heater-installation-tucson",
+      "permanent": true
+    },
+    {
       "source": "/solar-tucson",
       "destination": "/services/residential-solar-installation",
       "permanent": true
