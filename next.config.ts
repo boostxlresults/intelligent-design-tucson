@@ -19,6 +19,7 @@ const nextConfig: NextConfig = {
   },
   reactStrictMode: true,
   output: "standalone",
+  allowedDevOrigins: ["*.replit.dev", "*.kirk.replit.dev"],
 };
 
 export default nextConfig;
