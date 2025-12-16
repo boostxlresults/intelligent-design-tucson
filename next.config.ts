@@ -95,6 +95,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/about-us',
+        destination: '/about',
+        permanent: true
+      },
+      {
         source: '/drain-clearing-special',
         destination: '/services/drain-clearing-special',
         permanent: true
