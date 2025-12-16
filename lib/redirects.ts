@@ -231,7 +231,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   
   // Legacy blog posts that may appear under /services/ incorrectly
   '/services/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
+  '/services/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs/': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
   '/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
+  '/tips-to-maintain-your-air-conditioner-and-avoid-costly-repairs/': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
 };
 
 export const STANDALONE_PAGES = new Set([
@@ -264,6 +266,17 @@ export function getRedirectDestination(pathname: string): string | null {
   // Check exact match first
   if (LEGACY_REDIRECTS[pathname]) {
     return LEGACY_REDIRECTS[pathname];
+  }
+  
+  // Check with trailing slash added/removed (Next.js may normalize)
+  const withSlash = pathname.endsWith('/') ? pathname : pathname + '/';
+  const withoutSlash = pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+  
+  if (LEGACY_REDIRECTS[withSlash]) {
+    return LEGACY_REDIRECTS[withSlash];
+  }
+  if (LEGACY_REDIRECTS[withoutSlash]) {
+    return LEGACY_REDIRECTS[withoutSlash];
   }
   
   // Handle legacy /services/hvac/*, /services/plumbing/*, etc. nested paths
