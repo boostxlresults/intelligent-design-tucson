@@ -62,6 +62,11 @@
       "permanent": true
     },
     {
+      "source": "/solar-tucson/solar-panel-installation-cost-tucson",
+      "destination": "/services/solar-panel-costs",
+      "permanent": true
+    },
+    {
       "source": "/electrical-tucson/standby-generator-installation-and-repair",
       "destination": "/services/generac-installation",
       "permanent": true

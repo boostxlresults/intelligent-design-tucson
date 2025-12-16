@@ -189,6 +189,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/solar-tucson/solar-panel-installation-cost-tucson',
+        destination: '/services/solar-panel-costs',
+        permanent: true
+      },
+      {
         source: '/services/solar/:path*',
         destination: '/services/:path*',
         permanent: true
