@@ -85,6 +85,11 @@
       "source": "/electrical-tucson/electrical-repairs-tucson",
       "destination": "/services/electrical-repair",
       "permanent": true
+    },
+    {
+      "source": "/why-is-my-air-conditioning-working-downstairs-but-not-upstairs",
+      "destination": "/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs",
+      "permanent": true
     }
   ],
   "headers": [

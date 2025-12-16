@@ -125,6 +125,11 @@ const nextConfig: NextConfig = {
         permanent: true
       },
       {
+        source: '/why-is-my-air-conditioning-working-downstairs-but-not-upstairs',
+        destination: '/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs',
+        permanent: true
+      },
+      {
         source: '/free-online-hvac-quote',
         destination: '/free-hvac-quote',
         permanent: true
