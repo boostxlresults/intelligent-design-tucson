@@ -9,6 +9,7 @@
 export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== CORE PAGES =====
   '/commercial-maintenance': '/services/commercial-maintenance',
+  '/plumbing': '/services/plumbing',
   '/about-us': '/about',
   '/about-us/guarantees': '/guarantees',
   '/about-us/realtors': '/realtors-offer',
