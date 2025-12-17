@@ -34,6 +34,26 @@ const offerSchema = {
   }
 };
 
+// Video schema for the realtor program video
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "REALTORS® Exclusive Offer - FREE 2-Year Protection Plan",
+  "description": "Learn about Intelligent Design's exclusive REALTORS® program offering a FREE 2-Year Deluxe Family Protection Plan as a closing gift for your clients.",
+  "thumbnailUrl": "https://img.youtube.com/vi/3LQB9xVlaUQ/maxresdefault.jpg",
+  "uploadDate": "2024-01-01",
+  "contentUrl": "https://www.youtube.com/watch?v=3LQB9xVlaUQ",
+  "embedUrl": "https://www.youtube.com/embed/3LQB9xVlaUQ",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.idesignac.com/logo.png"
+    }
+  }
+};
+
 export default function RealtorsOfferPage() {
   const clientBenefits = [
     'Five (5) Full-System Inspections Per Year',
@@ -75,6 +95,12 @@ export default function RealtorsOfferPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(offerSchema)
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(videoSchema)
         }}
       />
 
@@ -209,6 +235,24 @@ export default function RealtorsOfferPage() {
                     </CardContent>
                   </Card>
                 ))}
+              </div>
+            </div>
+
+            {/* Video Section */}
+            <div className="max-w-3xl mx-auto mt-12">
+              <h3 className="text-2xl font-bold mb-6 text-center">Learn More About Our REALTORS® Program</h3>
+              <div className="aspect-video w-full">
+                <iframe 
+                  width="100%" 
+                  height="100%" 
+                  src="https://www.youtube.com/embed/3LQB9xVlaUQ"
+                  title="REALTORS® Exclusive Offer - FREE 2-Year Protection Plan"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                  className="rounded-lg shadow-lg"
+                />
               </div>
             </div>
           </div>
