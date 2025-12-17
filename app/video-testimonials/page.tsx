@@ -46,13 +46,6 @@ export default function VideoTestimonialsPage() {
       duration: '4:44',
     },
     {
-      id: 'dYFZJAMxRoY',
-      title: 'Fast and Reliable HVAC Service',
-      customerName: 'David K.',
-      service: 'HVAC Repair',
-      duration: '3:03',
-    },
-    {
       id: 'V4eDa_vHw-c',
       title: 'Amazing Water Heater Installation',
       customerName: 'Lisa B.',
