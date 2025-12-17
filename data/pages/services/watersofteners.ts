@@ -9,8 +9,8 @@ export const watersoftenersData: ServicePageData = {
   slug: 'water-softeners',
   
   // Hero Section
-  h1: 'Brita PRO Water Softener Installation in Tucson, AZ',
-  h2Subheading: 'Expert Water Softeners in Tucson',
+  h1: 'Brita PRO Water Softener Repair & Installation in Tucson, AZ',
+  h2Subheading: 'Expert Water Softeners Repair & Installation in Tucson',
   tagline: 'Smart Learning Technology | 20-Minute Quick Recharge | Vacation Mode | Eliminate Hard Water Problems | Free Water Testing',
   heroImage: '/generated_images/Water_softener_system_installation_15639327.webp',
   heroImageAlt: 'Clean Water Tucson Logo',
