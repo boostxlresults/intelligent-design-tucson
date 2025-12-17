@@ -13,6 +13,12 @@ heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.p
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs
+video:
+  id: _26u5kPqU4w
+  title: Why Is My AC Working Downstairs But Not Upstairs? | Intelligent Design Tucson
+  description: Discover why your air conditioner cools the downstairs but leaves upstairs warm. Learn about proper AC sizing, ductwork issues, thermostat placement, and solutions from Tucson HVAC experts.
+  duration: PT4M30S
+  uploadDate: '2024-01-15T00:00:00Z'
 ---
 
 # AC Problems: Why Is My AC Working Downstairs But Not Upstairs?
@@ -29,6 +35,8 @@ canonicalUrl: >-
 
 [5) The Location of Your Thermostat](#The_Location_of_Your_Thermostat)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_26u5kPqU4w?si=sb7knJHskDzYrv7v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 “Why is my AC working downstairs but not upstairs?” This is a common issue many homeowners face, especially during the scorching Arizona summers. If you’ve ever wondered why your downstairs feels comfortably cool while the upstairs feels like a sauna, you’re not alone. Understanding the reasons behind this issue can help you find the right solution and ensure your entire home remains comfortably cool.
 
 ### Why Is My AC Working Downstairs But Not Upstairs: The Short Answer
