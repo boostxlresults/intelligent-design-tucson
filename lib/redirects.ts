@@ -46,7 +46,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/ac-install-financing': '/financing',
   '/free-online-hvac-quote': '/free-hvac-quote',
   '/free-online-water-heater-quote': '/water-heater-quote',
-  '/blog': '/blog/hvac',
+  // Note: /blog master page exists - DO NOT redirect it
   '/site-map': '/',
   '/idesign-in-the-news': '/about',
   '/recent-projects': '/customer-reviews',
