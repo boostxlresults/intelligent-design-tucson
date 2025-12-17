@@ -281,6 +281,7 @@ export default function Header() {
           { name: "Guarantees", href: "/guarantees", icon: ShieldCheck },
           { name: "New Homebuyer Offer", href: "/new-homebuyer-offer", icon: Gift },
           { name: "REALTORS® Offer", href: "/realtors-offer", icon: Home },
+          { name: "Special Offers", href: "/special-offers", icon: Gift },
         ]
       },
     ],
