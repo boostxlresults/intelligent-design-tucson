@@ -86,6 +86,14 @@ export const homeenergyauditData: ServicePageData = {
             "content": "What Makes Our Energy Audits Different"
       },
       {
+            "type": "video",
+            "videoId": "yOA5ojTJ1WI",
+            "title": "Home Energy Audit Explained - What to Expect From a Professional Energy Assessment",
+            "description": "Learn what happens during a professional home energy audit, including thermal imaging, blower door testing, duct leakage assessment, and how our certified auditors identify energy savings opportunities for Tucson homeowners.",
+            "duration": "PT7M23S",
+            "uploadDate": "2024-08-15"
+      },
+      {
             "type": "list",
             "content": "✓ Advanced diagnostic equipment including thermal imaging and blower door testing | ✓ Certified energy auditors with 15+ years desert climate experience | ✓ Comprehensive duct leakage testing identifying 20-40% energy waste | ✓ Solar readiness evaluation and system sizing recommendations | ✓ Detailed written reports with prioritized improvements and ROI analysis | ✓ Complete implementation services from HVAC to solar | ✓ Same-day scheduling and next-day appointments available | ✓ Family and veteran-owned since 1979 | ✓ 22,000+ five-star reviews and BBB A+ rating",
             "items": [

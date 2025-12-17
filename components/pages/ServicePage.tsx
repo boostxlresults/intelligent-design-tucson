@@ -356,6 +356,26 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
                   </div>
                 );
               }
+
+              if (section.type === "video") {
+                return (
+                  <div key={index} className="my-12" data-testid={`video-${index}`}>
+                    <div className="aspect-video w-full max-w-2xl mx-auto">
+                      <iframe 
+                        width="100%" 
+                        height="100%" 
+                        src={`https://www.youtube.com/embed/${section.videoId}`}
+                        title={section.title}
+                        frameBorder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerPolicy="strict-origin-when-cross-origin"
+                        allowFullScreen
+                        className="rounded-lg shadow-lg"
+                      />
+                    </div>
+                  </div>
+                );
+              }
             } else {
               // Legacy format
               return (

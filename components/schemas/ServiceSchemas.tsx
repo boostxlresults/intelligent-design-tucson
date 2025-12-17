@@ -7,7 +7,7 @@
 
 import { normalizeFAQs, hasValidFAQs } from './faqHelpers';
 import { getPageSchemas } from '@/lib/seo/schemaRegistry';
-import type { ServicePageData, HowToSection, CaseStudySection } from '@/types/services';
+import type { ServicePageData, HowToSection, CaseStudySection, VideoSection } from '@/types/services';
 
 // Map service categories to GBP categories for multi-category LocalBusiness schemas
 const CATEGORY_MAP: Record<string, string[]> = {
@@ -155,8 +155,36 @@ function generateCaseStudySchema(section: CaseStudySection, canonicalUrl: string
 }
 
 /**
+ * Generate VideoObject schema from VideoSection
+ */
+function generateVideoSchema(section: VideoSection, canonicalUrl: string, thumbnailUrl?: string) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": section.title,
+    "description": section.description,
+    "thumbnailUrl": thumbnailUrl || `https://img.youtube.com/vi/${section.videoId}/maxresdefault.jpg`,
+    "uploadDate": section.uploadDate || new Date().toISOString().split('T')[0],
+    "duration": section.duration || "PT5M",
+    "contentUrl": `https://www.youtube.com/watch?v=${section.videoId}`,
+    "embedUrl": `https://www.youtube.com/embed/${section.videoId}`,
+    "publisher": {
+      "@type": "Organization",
+      "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.idesignac.com/logo.png"
+      }
+    },
+    "inLanguage": "en-US",
+    "isAccessibleForFree": true,
+    "url": canonicalUrl
+  };
+}
+
+/**
  * Generate comprehensive schema array for service pages
- * Returns 5-9+ schemas: Service, LocalBusiness, AggregateRating, FAQ, Offers, HowTo, Case Studies
+ * Returns 5-9+ schemas: Service, LocalBusiness, AggregateRating, FAQ, Offers, HowTo, Case Studies, Video
  */
 export function getServiceSchemas(data: ServicePageData, serviceSlug: string) {
   // Extract and normalize FAQs
@@ -203,6 +231,14 @@ export function getServiceSchemas(data: ServicePageData, serviceSlug: string) {
     generateCaseStudySchema(section, canonicalUrl, data.heroImage)
   );
 
+  // Extract Video sections and generate schemas
+  const videoSections = data.content.sections.filter(
+    (section): section is VideoSection => 'type' in section && section.type === 'video'
+  );
+  const videoSchemas = videoSections.map(section =>
+    generateVideoSchema(section, canonicalUrl, data.heroImage)
+  );
+
   // Combine all schemas
-  return [...baseSchemas, ...howToSchemas, ...caseStudySchemas];
+  return [...baseSchemas, ...howToSchemas, ...caseStudySchemas, ...videoSchemas];
 }

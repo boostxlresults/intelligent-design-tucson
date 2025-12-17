@@ -73,6 +73,15 @@ export type HowToSection = {
   }[];
 };
 
+export type VideoSection = {
+  type: "video";
+  videoId: string;
+  title: string;
+  description: string;
+  duration?: string;
+  uploadDate?: string;
+};
+
 // Legacy format (for backward compatibility)
 export type LegacyContentSection = {
   heading?: string;
@@ -92,6 +101,7 @@ export type ContentSection =
   | TestimonialSection
   | CaseStudySection
   | HowToSection
+  | VideoSection
   | LegacyContentSection;
 
 export interface ServicePageData {
