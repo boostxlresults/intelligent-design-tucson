@@ -88,10 +88,10 @@ export const homeenergyauditData: ServicePageData = {
       {
             "type": "video",
             "videoId": "yOA5ojTJ1WI",
-            "title": "Home Energy Audit Explained - What to Expect From a Professional Energy Assessment",
-            "description": "Learn what happens during a professional home energy audit, including thermal imaging, blower door testing, duct leakage assessment, and how our certified auditors identify energy savings opportunities for Tucson homeowners.",
-            "duration": "PT7M23S",
-            "uploadDate": "2024-08-15"
+            "title": "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit",
+            "description": "Learn the benefits of getting a whole home and solar energy audit for your Tucson home. Home energy audits identify inefficiencies in your home's energy envelope that can be addressed prior to adding solar panels, reducing energy needs and saving money on solar installation.",
+            "duration": "PT2M59S",
+            "uploadDate": "2021-10-06"
       },
       {
             "type": "list",
