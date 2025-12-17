@@ -232,6 +232,7 @@ export { shingleroofsData } from './shingleroofs';
 export { sinkrepairinstallationData } from './sinkrepairinstallation';
 export { skylightsData } from './skylights';
 export { smartthermostatinstallationData } from './smartthermostatinstallation';
+export { smartacData } from './smartac';
 export { solaracData } from './solarac';
 export { solarinstallationavravalleyData } from './solarinstallationavravalley';
 export { solarinstallationcasasadobesData } from './solarinstallationcasasadobes';

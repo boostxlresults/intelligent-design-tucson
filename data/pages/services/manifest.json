@@ -896,6 +896,10 @@
       "dataFile": "smartthermostatinstallation",
       "canonicalSlug": "smart-thermostat-installation-tucson"
     },
+    "smartac-tucson": {
+      "dataFile": "smartac",
+      "canonicalSlug": "smartac-tucson"
+    },
     "solar-a-c": {
       "dataFile": "solarac",
       "canonicalSlug": "solar-a-c"
