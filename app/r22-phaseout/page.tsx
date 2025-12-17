@@ -13,6 +13,26 @@ export const metadata: Metadata = generateSEOMetadata({
   keywords: ['R22', 'freon', 'refrigerant', 'phaseout', 'air conditioning', 'HVAC', 'Tucson', 'Arizona'],
 });
 
+// Video schema for R22 phaseout video
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "R22 Refrigerant Phaseout Explained",
+  "description": "Learn about the R22 refrigerant phaseout, what it means for your air conditioner, and your options for upgrading to a more efficient cooling system.",
+  "thumbnailUrl": "https://img.youtube.com/vi/Rh5NINcgUSg/maxresdefault.jpg",
+  "uploadDate": "2024-01-01",
+  "contentUrl": "https://www.youtube.com/watch?v=Rh5NINcgUSg",
+  "embedUrl": "https://www.youtube.com/embed/Rh5NINcgUSg",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.idesignac.com/logo.png"
+    }
+  }
+};
+
 export default function R22PhaseoutPage() {
   const faqs = [
     {
@@ -73,6 +93,15 @@ export default function R22PhaseoutPage() {
   ];
 
   return (
+    <>
+      {/* Video Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(videoSchema)
+        }}
+      />
+
     <div className="min-h-screen flex flex-col bg-background">
       {/* Hero Section */}
       <section 
@@ -150,6 +179,28 @@ export default function R22PhaseoutPage() {
               ))}
             </ul>
           </Card>
+        </div>
+      </section>
+
+      {/* Video Section */}
+      <section className="py-12 bg-background">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="max-w-3xl mx-auto">
+            <h2 className="text-2xl font-bold mb-6 text-center" data-testid="text-video-title">Watch: R22 Refrigerant Phaseout Explained</h2>
+            <div className="aspect-video w-full">
+              <iframe 
+                width="100%" 
+                height="100%" 
+                src="https://www.youtube.com/embed/Rh5NINcgUSg?si=UIC-j-mAu6ce1V7x"
+                title="R22 Refrigerant Phaseout Explained"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+                className="rounded-lg shadow-lg"
+              />
+            </div>
+          </div>
         </div>
       </section>
 
@@ -247,5 +298,6 @@ export default function R22PhaseoutPage() {
         </div>
       </section>
     </div>
+    </>
   );
 }
