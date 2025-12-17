@@ -267,7 +267,7 @@ export default function Header() {
       { name: "Financing", href: "/financing", icon: DollarSign },
       { name: "Careers", href: "/careers", icon: Users },
       { name: "Family Protection Plans", href: "/family-protection-plans", icon: ShieldCheck },
-      { name: "Commercial Maintenance", href: "/commercial-maintenance", icon: Building2 },
+      { name: "Commercial Maintenance", href: "/services/commercial-maintenance", icon: Building2 },
     ],
     column2: [
       {

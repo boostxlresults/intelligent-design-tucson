@@ -8,7 +8,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Commercial Maintenance Services Tucson | HVAC, Plumbing, Electrical | Intelligent Design',
   description: 'Comprehensive commercial maintenance plans for Tucson businesses. HVAC, plumbing, electrical, roofing, and solar services with priority response, preventive maintenance, and 24/7 emergency support. Reduce downtime and protect your investment.',
-  canonicalUrl: 'https://www.idesignac.com/commercial-maintenance',
+  canonicalUrl: 'https://www.idesignac.com/services/commercial-maintenance',
   keywords: ['commercial HVAC maintenance Tucson', 'commercial plumbing services', 'commercial electrical maintenance', 'business maintenance plans', 'commercial property maintenance Tucson', 'preventive maintenance commercial'],
 });
 
@@ -309,6 +309,10 @@ export default function CommercialMaintenancePage() {
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
               <Link href="/" className="hover:text-foreground" data-testid="link-breadcrumb-home">
                 Home
+              </Link>
+              <ChevronRight className="w-4 h-4" />
+              <Link href="/services" className="hover:text-foreground" data-testid="link-breadcrumb-services">
+                Services
               </Link>
               <ChevronRight className="w-4 h-4" />
               <span className="text-foreground" data-testid="text-breadcrumb-current">
