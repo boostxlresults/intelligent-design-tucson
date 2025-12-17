@@ -65,6 +65,10 @@ export const generacinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
+            "content": "You can feel confident that we are the Top Rated Generac Dealer in Tucson. Just search \"Generac Dealer Near Me\" or \"Generac Dealer Tucson\" and see for yourself why Tucson homeowners trust Intelligent Design for their whole-house backup power needs."
+      },
+      {
+            "type": "paragraph",
             "content": "Unmatched Trust & Proven Excellence: Intelligent Design has earned Southern Arizona's highest customer satisfaction ratings with a 4.97-star Google rating from 22,000+ verified reviews—more than any other generator installation company in Pima County. We've been the #1 rated backup power installation company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 and ROC licensing covering both electrical and HVAC disciplines essential for proper generator integration with home comfort systems. Our commitment to precise load calculations, code-compliant installations, transparent pricing, and exceptional post-installation support has made us the most-referred generator installer among Tucson homeowners, [link:/services/electrical-repair|electricians], solar installers, and real estate professionals who trust us to protect their clients' most valuable asset."
       },
       {
