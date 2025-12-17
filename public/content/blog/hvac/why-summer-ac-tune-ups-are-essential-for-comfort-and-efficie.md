@@ -15,9 +15,19 @@ heroImage: /attached_assets/generated_images/Energy_efficient_AC_system_a620658e
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie
+video:
+  id: a34eWo_fucE
+  title: "What to Expect from a Professional AC Tune-Up – Andrew Dobbins, Intelligent Design"
+  description: "Andrew Dobbins, owner of Intelligent Design, explains what happens during a professional AC tune-up and why regular maintenance is essential for keeping your HVAC system running efficiently in Tucson's extreme heat."
+  duration: PT2M50S
+  uploadDate: "2024-01-15"
 ---
 
 # Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/a34eWo_fucE" title="What to Expect from a Professional AC Tune-Up – Andrew Dobbins, Intelligent Design" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 

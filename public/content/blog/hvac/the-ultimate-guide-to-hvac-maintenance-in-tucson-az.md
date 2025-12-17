@@ -15,9 +15,19 @@ heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-ultimate-guide-to-hvac-maintenance-in-tucson-az
+video:
+  id: dGNiXDZwt_M
+  title: "Home Maintenance Plans Explained w/ Andrew Dobbins from Intelligent Design | What are the Benefits?"
+  description: "Andrew Dobbins, owner of Intelligent Design Plumbing & Air, explains why regular maintenance for your HVAC, plumbing, electrical, and roofing systems prevents costly repairs, extends equipment life, and keeps your home running smoothly."
+  duration: PT3M47S
+  uploadDate: "2024-12-02"
 ---
 
 # The Ultimate Guide to HVAC Maintenance in Tucson, AZ
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/dGNiXDZwt_M" title="Home Maintenance Plans Explained w/ Andrew Dobbins from Intelligent Design | What are the Benefits?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 

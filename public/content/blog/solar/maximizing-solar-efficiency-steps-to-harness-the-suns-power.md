@@ -12,9 +12,19 @@ heroImage: /attached_assets/generated_images/Residential_solar_installation_8a8b
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/maximizing-solar-efficiency-steps-to-harness-the-suns-power
+video:
+  id: yOA5ojTJ1WI
+  title: "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit"
+  description: "Learn about the benefits of getting a whole home and solar energy audit for your home in Tucson. Home energy audits identify inefficiencies in your home energy envelope that should be addressed prior to adding solar panels, reducing the amount of energy needed and saving you money on solar installation."
+  duration: PT2M59S
+  uploadDate: "2021-10-06"
 ---
 
 # Maximizing Solar Efficiency: Steps to Harness the Sun’s Power
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/yOA5ojTJ1WI" title="Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 

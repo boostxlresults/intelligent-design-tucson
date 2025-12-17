@@ -17,9 +17,19 @@ heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-does-a-professional-ac-service-include-a-complete-check
+video:
+  id: QAGoPyG4Cxs
+  title: "How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) | Intelligent Design Explains"
+  description: "Discover how Intelligent Design's SmartAC monitoring system keeps your heating and cooling systems running efficiently with real-time data, predictive alerts, and 24/7 performance tracking to prevent costly AC breakdowns."
+  duration: PT1M56S
+  uploadDate: "2025-05-07"
 ---
 
 # What Does a Professional AC Service Include? A Complete Checklist for Homeowners
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/QAGoPyG4Cxs" title="How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) | Intelligent Design Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 
