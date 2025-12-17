@@ -9,7 +9,7 @@ import TrustBar from "@/components/content/TrustBar";
 import TableOfContents from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 
-import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema } from '@/lib/markdownParser';
+import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema, generateVideoSchema } from '@/lib/markdownParser';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { promises as fs } from 'fs';
 import path from 'path';
@@ -121,6 +121,7 @@ export default async function BlogPostPage({
     { name: categoryName, url: `https://www.idesignac.com/blog/${category}` },
     { name: frontmatter.title, url: currentUrl }
   ]);
+  const videoSchema = frontmatter.video ? generateVideoSchema(frontmatter.video, currentUrl) : null;
 
   // Format date (use publishedAt from frontmatter)
   const publishedDate = new Date(frontmatter.publishedAt).toLocaleDateString('en-US', {
@@ -140,6 +141,12 @@ export default async function BlogPostPage({
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {videoSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }}
+        />
+      )}
 
       <div className="min-h-screen flex flex-col bg-background">
 

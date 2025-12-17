@@ -17,6 +17,14 @@ renderer.heading = ({ text, depth }) => {
 
 marked.use({ renderer });
 
+export interface VideoMetadata {
+  id: string;
+  title: string;
+  description: string;
+  duration?: string;
+  uploadDate?: string;
+}
+
 export interface BlogPostFrontmatter {
   title: string;
   description: string;
@@ -31,6 +39,7 @@ export interface BlogPostFrontmatter {
   canonicalUrl?: string;
   relatedServices?: string[];
   author?: string;
+  video?: VideoMetadata;
 }
 
 export interface ParsedBlogPost {
@@ -222,5 +231,46 @@ export function generateBreadcrumbSchema(
       name: crumb.name,
       item: crumb.url,
     })),
+  };
+}
+
+export function generateVideoSchema(
+  video: VideoMetadata,
+  pageUrl: string
+): Record<string, any> {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'VideoObject',
+    name: video.title,
+    description: video.description,
+    thumbnailUrl: [
+      `https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`,
+      `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`
+    ],
+    uploadDate: video.uploadDate || new Date().toISOString(),
+    duration: video.duration || 'PT5M',
+    contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
+    embedUrl: `https://www.youtube.com/embed/${video.id}`,
+    publisher: {
+      '@type': 'Organization',
+      name: 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://www.idesignac.com/logo.png',
+        width: 240,
+        height: 48
+      },
+      url: 'https://www.idesignac.com',
+      sameAs: [
+        'https://www.facebook.com/IDesignAC',
+        'https://www.instagram.com/intelligentdesigntucson/',
+        'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
+        'https://www.youtube.com/@Idesignac'
+      ]
+    },
+    potentialAction: {
+      '@type': 'WatchAction',
+      target: `https://www.youtube.com/watch?v=${video.id}`
+    }
   };
 }
