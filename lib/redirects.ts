@@ -14,6 +14,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/news': '/blog',
   '/services/hvac-news': '/blog/hvac',
   '/services/hvaceasttucson': '/services/hvac-east-tucson',
+  '/services/hvacredrockcasagrande': '/services/hvac-red-rock-casa-grande',
+  '/services/drain-clearing-red-rock': '/services/drain-clearing-red-rock-casa-grande',
   '/about-us': '/about',
   '/about-us/guarantees': '/guarantees',
   '/about-us/realtors': '/realtors-offer',

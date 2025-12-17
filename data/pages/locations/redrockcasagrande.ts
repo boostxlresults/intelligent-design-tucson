@@ -28,7 +28,7 @@ export const redrockcasagrandeData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Red Rock homes.",
-    "link": "/services/hvacredrockcasagrande"
+    "link": "/services/hvac-red-rock-casa-grande"
   },
   {
     "icon": "Flame",
@@ -64,7 +64,7 @@ export const redrockcasagrandeData: LocationPageData = {
     "icon": "Wrench",
     "title": "Drain & Sewer",
     "description": "Professional drain clearing and sewer repair services.",
-    "link": "/services/drain-clearing-red-rock"
+    "link": "/services/drain-clearing-red-rock-casa-grande"
   },
 ],
   // Highlights
