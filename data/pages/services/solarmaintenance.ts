@@ -9,8 +9,8 @@ export const solarmaintenanceData: ServicePageData = {
   slug: 'solar-maintenance',
   
   // Hero Section
-  h1: 'Solar Maintenance Tucson AZ',
-  h2Subheading: 'Expert Solar Maintenance in Tucson',
+  h1: 'Solar Monitoring & Maintenance Tucson AZ',
+  h2Subheading: 'Expert Solar Monitoring & Maintenance in Tucson',
   tagline: 'Panel Cleaning | System Monitoring | Performance Optimization | Preventive Maintenance | 46+ years Experience',
   heroImage: '/generated_images/Solar_maintenance_and_monitoring_e428ab0f.webp',
   heroImageAlt: 'Solar Maintenance in Tucson',
@@ -81,6 +81,31 @@ export const solarmaintenanceData: ServicePageData = {
             "content": "Maximize your solar production and protect your investment with expert maintenance. Professional cleaning restores 15-25% lost efficiency. Call (520) 333-2665 or schedule online now.",
             "buttonText": "Schedule Maintenance",
             "buttonLink": "tel:+15203332665"
+      },
+      {
+            "type": "heading",
+            "heading": "Solar Monitoring Plan – Just $14.88/Month",
+            "level": 2,
+            "content": "Solar Monitoring Plan – Just $14.88/Month"
+      },
+      {
+            "type": "image",
+            "src": "/images/solar-monitoring-plan.png",
+            "alt": "Intelligent Design Monthly Solar Monitoring Plan - $14.88 per month including annual maintenance, real-time tracking, and 10% off repairs",
+            "caption": "Protect your solar investment with our affordable Monthly Solar Monitoring Plan"
+      },
+      {
+            "type": "paragraph",
+            "content": "Our Monthly Solar Monitoring Plan provides comprehensive protection for your solar investment at just $14.88 per month. This affordable plan includes 24/7 System Monitoring so we can detect and alert you to any performance issues before they become costly problems. You also receive Warranty Assistance to help navigate manufacturer claims and ensure your coverage remains valid. Plan members enjoy 10% Off Solar Repairs for any service needs, plus a Free Annual Inspection to keep your system operating at peak efficiency. Additionally, members receive a Discount on Solar Panel Cleaning to maintain maximum energy production throughout the year. It's the smart, affordable way to protect your $15,000-$35,000 solar investment and maximize your energy savings for decades to come."
+      },
+      {
+            "type": "video",
+            "videoId": "S3q98_reFiE",
+            "title": "Intelligent Design Solar Monitoring & Maintenance Services",
+            "description": "Learn about our comprehensive solar monitoring and maintenance services that help Tucson homeowners protect their solar investment and maximize energy production.",
+            "thumbnailUrl": "https://img.youtube.com/vi/S3q98_reFiE/maxresdefault.jpg",
+            "uploadDate": "2024-01-01",
+            "duration": "PT3M"
       },
       {
             "type": "heading",

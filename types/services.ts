@@ -80,6 +80,14 @@ export type VideoSection = {
   description: string;
   duration?: string;
   uploadDate?: string;
+  thumbnailUrl?: string;
+};
+
+export type ImageSection = {
+  type: "image";
+  src: string;
+  alt: string;
+  caption?: string;
 };
 
 // Legacy format (for backward compatibility)
@@ -102,6 +110,7 @@ export type ContentSection =
   | CaseStudySection
   | HowToSection
   | VideoSection
+  | ImageSection
   | LegacyContentSection;
 
 export interface ServicePageData {

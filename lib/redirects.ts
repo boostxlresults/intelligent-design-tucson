@@ -56,6 +56,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/resources/tax-credits-and-rebates': '/financing',
   '/resources/pearl-certified-contractor': '/about',
 
+  // ===== SOLAR =====
+  '/services/solar-a-c': '/services/solar-ac-tucson',
+
   // ===== AIR CONDITIONING =====
   '/services/ac': '/services/hvac-tucson',
   '/air-conditioning': '/services/ac-service-tucson',

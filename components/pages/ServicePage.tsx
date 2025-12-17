@@ -376,6 +376,25 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
                   </div>
                 );
               }
+
+              if (section.type === "image") {
+                return (
+                  <div key={index} className="my-12 flex flex-col items-center" data-testid={`image-${index}`}>
+                    <div className="max-w-md mx-auto">
+                      <Image 
+                        src={section.src}
+                        alt={section.alt}
+                        width={400}
+                        height={600}
+                        className="rounded-lg shadow-lg"
+                      />
+                    </div>
+                    {section.caption && (
+                      <p className="text-center text-gray-600 mt-4 text-sm italic">{section.caption}</p>
+                    )}
+                  </div>
+                );
+              }
             } else {
               // Legacy format
               return (

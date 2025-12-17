@@ -121,7 +121,7 @@ export default function Header() {
     column3: [
       { name: "Smart Thermostat Installation", href: "/services/smart-thermostat-installation-tucson", icon: Thermometer },
       { name: "SmartAC Monitoring", href: "/services/smartac-tucson", icon: Radio },
-      { name: "Solar AC", href: "/services/solar-a-c", icon: Sun },
+      { name: "Solar AC", href: "/services/solar-ac-tucson", icon: Sun },
     ]
   };
 

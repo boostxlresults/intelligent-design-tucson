@@ -904,9 +904,9 @@
       "dataFile": "smartac",
       "canonicalSlug": "smartac-tucson"
     },
-    "solar-a-c": {
+    "solar-ac-tucson": {
       "dataFile": "solarac",
-      "canonicalSlug": "solar-a-c"
+      "canonicalSlug": "solar-ac-tucson"
     },
     "solar-installation-avra-valley": {
       "dataFile": "solarinstallationavravalley",
@@ -1295,7 +1295,7 @@
     "shingleroofs": "shingle-roofs",
     "sinkrepairinstallation": "sink-repair-installation",
     "smartthermostatinstallation": "smart-thermostat-installation-tucson",
-    "solarac": "solar-a-c",
+    "solarac": "solar-ac-tucson",
     "solarinstallationavravalley": "solar-installation-avra-valley",
     "solarinstallationcasasadobes": "solar-installation-casas-adobes",
     "solarinstallationcatalinafoothills": "solar-installation-catalina-foothills",

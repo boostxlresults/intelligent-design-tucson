@@ -6,7 +6,7 @@ export const solaracData: ServicePageData = {
   // SEO & Meta
   title: 'EG4 Solar Powered Air Conditioner Tucson | Hybrid Mini Split AC Installation | Intelligent Design',
   description: 'Save up to 100% on cooling costs with EG4 hybrid solar-powered AC in Tucson! Expert installation of 12k BTU solar mini-split systems. Runs on solar by day, grid by night. Call (520) 333-2665!',
-  slug: 'solar-a-c',
+  slug: 'solar-ac-tucson',
   
   // Hero Section
   h1: 'EG4 Solar Powered AC in Tucson AZ',
