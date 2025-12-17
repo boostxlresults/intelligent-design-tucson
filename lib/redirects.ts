@@ -57,6 +57,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/resources/pearl-certified-contractor': '/about',
 
   // ===== AIR CONDITIONING =====
+  '/services/ac': '/services/hvac-tucson',
   '/air-conditioning': '/services/ac-service-tucson',
   '/air-conditioning/ac-installation-tucson': '/services/ac-installation-tucson',
   '/air-conditioning/ac-repair-tucson': '/services/ac-repair-tucson',
