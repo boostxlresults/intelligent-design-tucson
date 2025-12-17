@@ -134,7 +134,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== DRAIN & SEWER =====
   '/drain-and-sewer': '/services/drain-sewer-tucson',
   '/drain-and-sewer/drain-cleaning-tucson': '/services/drain-clearing',
-  '/drain-and-sewer/rooter-services-drain-clearing-special': '/drain-clearing-special',
+  '/drain-and-sewer/rooter-services-drain-clearing-special': '/services/rooter-special',
+  '/drain-and-sewer/rooter-services-drain-clearing-special/': '/services/rooter-special',
   '/drain-and-sewer/sewer-camera-inspection': '/services/sewer-camera-inspection',
   '/drain-and-sewer/sewer-camera-inspection-tucson': '/services/sewer-camera-inspection',
   '/drain-and-sewer/sewer-cleaning': '/services/drain-clearing',
