@@ -13,9 +13,19 @@ heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-are-some-effective-strategies-to-reduce-ac-noise
+video:
+  id: 9PIWmP9ACpg
+  title: "Air Conditioner Noise: How to Reduce It"
+  description: "iDesign Answers: What are effective strategies for air conditioner noise reduction? It depends on the underlying problem, which might involve an off-balance wheel or a blower motor that's worn out. Learn about motor noises, intake noises, whistling, furnace noises, and outside unit solutions."
+  duration: PT5M2S
+  uploadDate: "2019-12-15"
 ---
 
 # What Are Some Effective Strategies to Reduce AC Noise?
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/9PIWmP9ACpg" title="Air Conditioner Noise: How to Reduce It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 
