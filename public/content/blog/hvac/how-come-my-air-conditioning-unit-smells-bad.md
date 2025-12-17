@@ -14,9 +14,19 @@ heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-come-my-air-conditioning-unit-smells-bad
+video:
+  id: iMDpnA9XrWA
+  title: "Why Does My AC Smell Bad? Common Causes & Solutions"
+  description: "Learn about the common causes of bad AC smells including mold growth, pest infestations, burning odors, and more. Our HVAC experts explain what each smell means and how to fix it."
+  duration: PT4M32S
+  uploadDate: "2024-06-15"
 ---
 
 # How Come My Air Conditioning Unit Smells Bad?
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iMDpnA9XrWA" title="Why Does My AC Smell Bad? Common Causes & Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 

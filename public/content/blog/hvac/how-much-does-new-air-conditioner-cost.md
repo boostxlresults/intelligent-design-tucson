@@ -22,9 +22,19 @@ relatedServices:
   - ac-service
   - solar-ac
 author: Intelligent Design Team
+video:
+  id: mkAj4xG5ysk
+  title: "How Much Does a New AC Cost in Tucson? Pricing Explained"
+  description: "Get insights on air conditioner costs in Tucson, Arizona. Learn about factors that affect pricing, SEER ratings, system types, and how to get the best value for your investment."
+  duration: PT5M18S
+  uploadDate: "2024-05-20"
 ---
 
 # How Much Does a New Air Conditioner Cost? Complete Pricing Guide for Tucson
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/mkAj4xG5ysk" title="How Much Does a New AC Cost in Tucson? Pricing Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 In Southern Arizona, central air conditioning is a must-have for comfortably surviving summer. If your AC breaks down, one of the first things you'll wonder is: "What does a new air conditioner cost?" There is no question that a brand new central air conditioner will be quite an investment. After all, these are powerful machines capable of transforming the dry, scorching desert air into pleasant, livable conditions.
 
