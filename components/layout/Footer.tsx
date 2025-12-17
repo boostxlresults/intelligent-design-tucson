@@ -177,7 +177,7 @@ export default function Footer() {
 
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-primary-foreground/60">
+          <p className="text-sm text-primary-foreground/60" suppressHydrationWarning>
             © {currentYear} Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. All rights reserved.
           </p>
           <div className="flex flex-wrap gap-4 justify-center items-center">
