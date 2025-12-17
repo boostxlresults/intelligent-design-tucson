@@ -30,6 +30,12 @@ export const tucsonData: LocationPageData = {
   // Services
   services: [
   {
+    "icon": "AirVent",
+    "title": "Air Conditioning",
+    "description": "Expert AC repair, installation, and maintenance for Tucson homes and businesses.",
+    "link": "/services/hvac-tucson"
+  },
+  {
     "icon": "Flame",
     "title": "Heating",
     "description": "Reliable heating services to keep you warm during chilly desert nights.",
