@@ -98,6 +98,14 @@ export const flatroofsData: ServicePageData = {
             "content": "Material & labor coverage | Manufacturer warranties | Leak guarantees | Long-term protection"
       },
       {
+            "type": "video",
+            "videoId": "BhyYzVlxHfc",
+            "title": "Flat Roof Systems Tucson - TPO, EPDM & Modified Bitumen",
+            "description": "Learn about flat roof installation, repair, and maintenance options in Tucson. Our experts explain TPO, EPDM, and modified bitumen roofing systems for commercial and residential applications.",
+            "duration": "PT6M",
+            "uploadDate": "2024-01-01"
+      },
+      {
             "type": "heading",
             "heading": "Expert Flat Roof Installation & Repair in Tucson, AZ",
             "level": 2,
