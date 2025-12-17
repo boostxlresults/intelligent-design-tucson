@@ -2,6 +2,9 @@ import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import serviceLocationsManifest from '@/data/pages/service-locations/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
+import fs from 'fs/promises';
+import path from 'path';
+import matter from 'gray-matter';
 
 const SITE_URL = 'https://www.idesignac.com';
 
@@ -10,7 +13,46 @@ const SERVICE_NAME_REVERSE_MAP: Record<string, string> = {
   'h-v-a-c': 'hvac',
 };
 
-export default function sitemap(): MetadataRoute.Sitemap {
+// Blog categories
+const BLOG_CATEGORIES = ['hvac', 'plumbing', 'solar', 'electrical', 'roofing', 'home-tips'];
+
+async function getBlogPosts(): Promise<{ category: string; slug: string; lastModified: Date }[]> {
+  const posts: { category: string; slug: string; lastModified: Date }[] = [];
+  const blogBasePath = path.join(process.cwd(), 'public', 'content', 'blog');
+
+  for (const category of BLOG_CATEGORIES) {
+    try {
+      const categoryPath = path.join(blogBasePath, category);
+      const files = await fs.readdir(categoryPath);
+      const mdFiles = files.filter(file => file.endsWith('.md'));
+
+      for (const file of mdFiles) {
+        const filePath = path.join(categoryPath, file);
+        const content = await fs.readFile(filePath, 'utf-8');
+        const { data } = matter(content);
+        
+        const slug = file.replace('.md', '');
+        const lastModified = data.updatedAt 
+          ? new Date(data.updatedAt) 
+          : data.publishedAt 
+            ? new Date(data.publishedAt) 
+            : new Date();
+
+        posts.push({
+          category,
+          slug,
+          lastModified,
+        });
+      }
+    } catch (error) {
+      console.error(`Error reading blog category ${category}:`, error);
+    }
+  }
+
+  return posts;
+}
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];
   
   // Homepage
@@ -82,8 +124,26 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   });
 
-  // Blog posts (if you have a blog index)
-  // TODO: Add blog post URLs from blog manifest if needed
+  // Blog category pages
+  BLOG_CATEGORIES.forEach((category) => {
+    entries.push({
+      url: `${SITE_URL}/blog/${category}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.75,
+    });
+  });
+
+  // Individual blog posts
+  const blogPosts = await getBlogPosts();
+  blogPosts.forEach((post) => {
+    entries.push({
+      url: `${SITE_URL}/blog/${post.category}/${post.slug}`,
+      lastModified: post.lastModified,
+      changeFrequency: 'monthly',
+      priority: 0.6,
+    });
+  });
 
   return entries;
 }
