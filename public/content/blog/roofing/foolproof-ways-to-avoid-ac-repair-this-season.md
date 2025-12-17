@@ -42,7 +42,7 @@ A central air conditioner is essential for removing the hot air and circulating 
 
 That’s why it’s essential to have a reliable team of professionals to provide [emergency AC repairs](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/) and get your unit back up and running as soon as possible. Unfortunately, ac repair can be costly and time-consuming. Luckily, you can take some steps to help avoid ac repair altogether! 
 
-## **Why ACs Tend to Break Down**
+## Why ACs Tend to Break Down
 
 Before we dive into our ac repair avoidance strategies, let’s see how ac works. As the temperature outside begins to rise, the warm air can quickly make your home feel uncomfortable and stuffy. The evaporator and condenser coils are critical components of an air conditioning system. 
 
@@ -50,43 +50,43 @@ The evaporator coil, located inside the air handler, absorbs heat from the air i
 
 Unfortunately, these parts can break down due to age, wear and tear, or general misuse. The air filter is one of the ac parts that tend to break easily. They are especially prone to clogging up with dirt and dust; when this happens, your ac won’t be able to cool your home effectively. Other ac problems can be caused by insufficient maintenance, electrical issues, or a leaky refrigerant line.
 
-## **7 Foolproof Ways To Avoid AC Repair**
+## 7 Foolproof Ways To Avoid AC Repair
 
 Now that you know some of the common ac problems, here are seven foolproof ways to avoid ac repair this season:
 
-### **1\. Change the Dirty Air Filter Regularly**
+### 1\. Change the Dirty Air Filter Regularly
 
 This is one of the essential ac maintenance tasks. Most ac filters should be changed every three months or more often if you live in an area with high levels of dust and dirt. Doing this simple task can help your ac run more efficiently and reduce the chances of ac being repaired down the line.
 
-### **2\. Keep the Area Around Your AC Unit Clean and Clear.**
+### 2\. Keep the Area Around Your AC Unit Clean and Clear.
 
 It’s important to keep the area around your ac unit free of debris, leaves, and other obstructions. This will prevent ac repair caused by clogged drainage pathways or blocked air intakes.
 
-### **3\. Schedule Regular AC Maintenance Appointments with a Professional.**
+### 3\. Schedule Regular AC Maintenance Appointments with a Professional.
 
 Central air conditioners tend to break down due to a lack of maintenance. That’s why scheduling regular ac tune-ups with a professional ac technician are important. During these appointments, the technician can check for any ac repair needs and prevent ac problems before they become serious. 
 
 It’s important to have your ac serviced at least once a year by a qualified ac repair technician. This will ensure that your ac is in good working order and can help you identify and fix any potential ac problems before they worsen.
 
-### **4\. Keep Your AC Unit in Tip-top Shape All Season Long.**
+### 4\. Keep Your AC Unit in Tip-top Shape All Season Long.
 
 It’s not enough to just have an ac tune-up once or twice a year—you need to keep your ac unit running all season smoothly! Be sure to clean the exterior of your ac unit regularly, inspect it for any signs of damage, and make sure the electrical connections are secure.
 
-### **5\. Get Familiar with Common AC Problems and Their Solutions.**
+### 5\. Get Familiar with Common AC Problems and Their Solutions.
 
 If you’re familiar with ac repair and maintenance, you can spot ac problems before they become too serious. Get to know the most common ac issues, such as a clogged air filter or an electrical issue, and how to fix them without having to call a professional ac technician.
 
-### **6\. Invest in a Programmable Thermostat.**
+### 6\. Invest in a Programmable Thermostat.
 
 A programmable thermostat can help you save money on your energy bills by automatically adjusting the temperature in your home when you’re not there. This means that your ac doesn’t have to work as hard when no one is home—which can reduce the need for ac repair over time.
 
-### **7\. Contact an AC Repair Specialist if You Have Any Concerns.**
+### 7\. Contact an AC Repair Specialist if You Have Any Concerns.
 
 If you notice any ac problems, don’t wait until it’s too late to call in an ac repair specialist. A professional ac technician can diagnose and fix most ac issues before they become serious.
 
 By following these seven foolproof ac repair avoidance strategies, you can keep your ac running all season!
 
-#### **When to See an Ac Repair Service Technician**
+#### When to See an Ac Repair Service Technician
 
 Do you notice unusual ac noises with your air cooling unit, but you are unsure whether it is a severe problem? To help you be sure of ac repair troubles, here are some common ac noises to look out for when they indicate that you need ac repair help.
 
@@ -106,7 +106,7 @@ Aside from those annoying noises, you should seek professional ac repair service
 
 By being aware of all ac related problems and understanding ac repair avoidance strategies, you can prevent ac issues from happening in the future. However, if you experience ac problems, be sure to Intelligent Design as soon as possible so we can diagnose and fix the issue before it becomes even more serious.
 
-### **Contact Intelligent Design Today!**
+### Contact Intelligent Design Today!
 
 Doing regular ac maintenance is key to avoiding costly ac repairs—so be sure to take the time to inspect your ac unit periodically and make any necessary repairs or adjustments. And when in doubt, don’t hesitate to call in a [professional ac repair specialist](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/)! They will be able to quickly identify the issue and get your ac up and running again. 
 

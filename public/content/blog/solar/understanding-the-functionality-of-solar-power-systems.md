@@ -42,17 +42,17 @@ Solar power systems are becoming increasingly popular as a source of renewable e
 
 In this blog post, we’ll explore the different components that make up a typical solar power system, discuss its functionality, and talk about some potential benefits you can expect when installing one at your home or business. So if you’re considering making the switch to solar energy but don’t know much about it yet, read on!
 
-## **The Basics of Solar Energy**
+## The Basics of Solar Energy
 
 Solar energy is the radiant energy emitted from the sun, which is harnessed and converted into usable electricity using a variety of technologies, the most common being [photovoltaic (PV) solar panels](https://www.nrel.gov/research/re-photovoltaics.html).
 
 The sun has served as the planet’s natural powerhouse for billions of years, providing heat, light, and energy to sustain life. Now, with advancements in technology, we’re increasingly able to leverage this immense, inexhaustible energy source to power our modern lifestyles.
 
-### **What is Solar Energy?**
+### What is Solar Energy?
 
 In its essence, [solar energy](https://www.idesignac.com/services/solar/) is the energy derived from the sun’s radiation. This energy is conveyed in tiny energy packets called photons, which radiate out from the sun in all directions. Solar energy, as vast as it is, is a clean, renewable source of energy that has the potential to satisfy the energy needs of the entire planet if harnessed effectively.
 
-### **Harnessing and Converting Solar Energy**
+### Harnessing and Converting Solar Energy
 
 Harnessing solar energy involves capturing the sun’s energy and converting it into a form that can be used for practical purposes – like powering homes, businesses, or even entire cities. This process is completed through the following steps:
 
@@ -64,13 +64,13 @@ Harnessing solar energy involves capturing the sun’s energy and converting it 
 
 Understanding the basics of solar energy and its conversion process is the first step toward harnessing its full potential. As we transition towards more sustainable energy sources, solar energy stands out as a reliable, abundant, and eco-friendly option that is poised to play a vital role in our energy future.
 
-## **Components of a Solar Power System**
+## Components of a Solar Power System
 
 A solar power system is comprised of several key components, each playing a crucial role in the conversion of sunlight into usable electricity.
 
 These components are interconnected to form a robust system that harnesses and transforms solar energy. The three primary components of a solar power system are the solar panels, the inverter, and the solar battery storage.
 
-### **1\. Solar Panels**
+### 1\. Solar Panels
 
 Solar panels are the front-liners of any [solar power system](https://www.idesignac.com/blog/solar-power-systems-made-simple-how-solar-panels-work/). They consist of photovoltaic cells—small devices that convert sunlight into electricity.
 
@@ -80,7 +80,7 @@ When sunlight strikes these cells, the photovoltaic effect causes the displaceme
 
 These panels are typically installed on rooftops or other sunny areas to maximize exposure to sunlight. Their efficiency depends on several factors, including the angle of installation, shading, and the amount of sunlight they receive.
 
-### **2\. Inverter**
+### 2\. Inverter
 
 The inverter is the workhorse of a solar power system. The DC electricity produced by the solar panels isn’t readily usable by most home or business appliances, which typically run on alternating current (AC). This is where the inverter comes into play. It takes the DC electricity from the solar panels and ‘inverts’ it into AC electricity.
 
@@ -88,7 +88,7 @@ Inverters come in two main types: string inverters and microinverters. String in
 
 Microinverters, on the other hand, are installed on each panel, allowing them to operate independently of each other. This can increase system efficiency, particularly if some panels are shaded or oriented differently.
 
-### **3\. Solar Battery Storage**
+### 3\. Solar Battery Storage
 
 [Solar battery storage](https://www.forbes.com/home-improvement/solar/what-is-a-solar-battery/) is an increasingly important component of solar power systems. While not always included, it’s becoming more popular as technology improves and prices decrease.
 
@@ -102,7 +102,7 @@ Together, these components form a comprehensive solar power system that allows u
 
 By understanding each component, you can ensure you’re getting the most out of your solar system and making an informed investment for your future.
 
-## **The Perks of Going Solar**
+## The Perks of Going Solar
 
 There’s more to solar power systems than just the technicalities. Adopting solar power has numerous benefits, some of which include:
 
@@ -113,7 +113,7 @@ There’s more to solar power systems than just the technicalities. Adopting sol
 
 **_Related Article:_** [_The Many Benefits of Solar Energy_](https://www.idesignac.com/blog/the-many-benefits-of-solar-energy/)
 
-## **Contact Intelligent Design Today**
+## Contact Intelligent Design Today
 
 Solar power systems are an excellent investment for a more sustainable future, providing an efficient way to reduce electricity bills while promoting environmental responsibility.
 

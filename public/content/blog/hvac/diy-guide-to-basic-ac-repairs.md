@@ -52,7 +52,7 @@ Air conditioning becomes necessary in many homes and offices as temperatures ris
 
 The good news is that many basic [AC repairs](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/) can be done with a few tools and some basic knowledge. In this DIY guide, we’ll cover some common AC issues and how you can fix them yourself.
 
-## **Understanding Your Air Conditioning System**
+## Understanding Your Air Conditioning System
 
 An HVAC system (Heating, Ventilation, and Air Conditioning) is a system that is responsible for controlling the temperature, humidity, and quality of the air in a building.
 
@@ -66,9 +66,9 @@ Your AC unit consists of an indoor evaporator coil and an outdoor condenser coil
 
 The refrigerant absorbs heat from inside your home and releases it outside. The system is powered by an electrical motor that runs a compressor to circulate the refrigerant.
 
-## **Troubleshooting Common AC Issues**
+## Troubleshooting Common AC Issues
 
-### **AC Not Turning On**
+### AC Not Turning On
 
 If your AC unit isn’t turning on, the first step is to check your thermostat settings. Ensure it’s set to the “cool” mode and the temperature is set lower than the current room temperature.
 
@@ -76,13 +76,13 @@ If your thermostat is working properly, check your circuit breaker to see if it 
 
 If it has, reset it and see if your AC unit turns on. If none of these steps work, you may have a faulty capacitor, which will need to be replaced by a professional.
 
-### **Weak Airflow**
+### Weak Airflow
 
 If you notice weak airflow coming from your AC vents, the first step is to check and replace your air filter. A dirty filter can restrict airflow and make your AC unit work harder than it needs to.
 
 If your filter is clean and you’re still experiencing weak airflow, a faulty blower motor or ductwork needs to be inspected and repaired by a professional.
 
-### **AC Blowing Warm Air**
+### AC Blowing Warm Air
 
 If your AC is blowing warm air, the first step is to check your thermostat settings and ensure it’s set to the “cool” mode. If it’s set properly, check your outdoor unit to see if it’s running.
 
@@ -90,39 +90,39 @@ If it’s not, you may have a faulty capacitor or compressor that needs to be re
 
 If your outdoor unit is running, but your indoor unit is still blowing warm air, you may have a refrigerant leak, which will require a professional to repair.
 
-### **AC Making Strange Noises**
+### AC Making Strange Noises
 
 If your AC unit is making strange noises, it could be a sign of a problem. A grinding or squealing noise could indicate a faulty motor, while a buzzing noise could indicate an electrical issue.
 
 If you hear any unusual noises from your AC unit, it’s best to call a professional to diagnose and repair the issue.
 
-## **Basic AC Repairs You Can Do Yourself**
+## Basic AC Repairs You Can Do Yourself
 
-### **Cleaning Your AC Unit**
+### Cleaning Your AC Unit
 
 One of the most basic AC repairs you can do yourself is cleaning your air conditioners. Over time, dirt and debris can accumulate on the outdoor condenser coil, which can restrict airflow and reduce the efficiency of your AC unit. 
 
 To clean your AC unit, turn off the power and remove any debris from around the unit. Then, gently spray down the condenser coil using a garden hose to remove any dirt or debris. Be careful not to use too much pressure, which can damage the coil.
 
-### **Replacing Your Air Filter**
+### Replacing Your Air Filter
 
 Replacing your air filter is another basic AC repair you can do yourself. Depending on usage, your air filter should be replaced every one to three months.
 
 To replace your filter, turn off the power to your unit and remove the old filter. Then, insert the new filter according to the manufacturer’s instructions.
 
-### **Cleaning Your Air Ducts**
+### Cleaning Your Air Ducts
 
 Cleaning your air ducts can also improve your AC unit’s efficiency and the air quality in your home. Over time, dust, dirt, and other particles can accumulate in your air ducts, reducing airflow and potentially contributing to poor indoor air quality. 
 
 You can use a vacuum cleaner with a hose attachment to clean your air ducts to remove any visible debris. However, it’s best to hire a professional for a more thorough cleaning.
 
-### **Checking Your Refrigerant Levels**
+### Checking Your Refrigerant Levels
 
 If you suspect your AC unit is low on refrigerant, you can check the levels using a refrigerant gauge. However, it’s important to note that working with refrigerants can be dangerous and should only be done by someone with the proper training and equipment. If you’re unsure how to check your refrigerant levels, it’s best to call in a professional.
 
 Related post: [How to Know When to DIY AC Repair And When to Call the Pros](https://www.idesignac.com/blog/how-to-know-when-to-diy-ac-repair-and-when-to-call-the-pros/)
 
-## **Tips When Repairing AC Units Yourself**
+## Tips When Repairing AC Units Yourself
 
 If you have the knowledge and experience to repair your AC unit yourself, here are some tips to keep in mind to ensure that you do the job safely and effectively:
 
@@ -134,13 +134,13 @@ If you have the knowledge and experience to repair your AC unit yourself, here a
 6.  **Test your repairs:** After completing the repairs, test your AC unit to ensure it functions properly. Turn the power back on and test the unit to see if the problem has been resolved.
 7.  **Know your limits:** If you’re unsure how to proceed with a repair, don’t attempt it. Calling in a professional is better than risking injury or further damage to your AC unit.
 
-## **Why Hire HVAC Contractors?**
+## Why Hire HVAC Contractors?
 
 Local HVAC contractors are professionals who specialize in [AC installing](https://www.idesignac.com/services/air-conditioning/ac-installation-tucson/), AC repairing, and [AC maintaining](https://www.idesignac.com/services/air-conditioning/air-conditioning-service-tucson/) HVAC systems, including cooling systems such as central air conditioning.
 
 These contractors have the knowledge and experience to diagnose and repair any issues with your cooling system, ensuring that your building remains comfortable even during hot weather when hot air can make indoor temperatures unbearable.
 
-## **Conclusion**
+## Conclusion
 
 With some knowledge and the right tools, many basic AC repairs can be done yourself. However, it’s important to know your limits and call in a professional for any repairs beyond your skill level or experience.
 

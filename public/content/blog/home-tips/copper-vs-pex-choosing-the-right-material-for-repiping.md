@@ -52,7 +52,7 @@ The first step in this process is deciding on the type of material you want to u
 
 In this blog post, we’ll discuss both materials so that you can make an informed decision about which one is right for your needs. We’ll look at factors such as cost, durability, installation time, and more so that you can decide whether copper or PEX is best suited for your project.
 
-## **Understanding Repiping**
+## Understanding Repiping
 
 Repiping is the process of completely replacing the existing plumbing system in a property. It involves removing old, corroded, or damaged pipes and installing new ones. But when exactly is repiping necessary? Here are a few situations where you might need to consider repiping:
 
@@ -65,17 +65,17 @@ Remember, repiping is a significant project, so it’s crucial to consult with a
 
 **_Related Article:_** [_Why Repiping Your Home is Essential_](https://www.idesignac.com/blog/why-repiping-your-home-is-essential/)
 
-## **An Introduction to Copper Pipes**
+## An Introduction to Copper Pipes
 
 Copper, the traditional choice for plumbing, has been a staple in the industry for decades. The material is lauded for its resilience, reliability, and overall longevity, which has led to its widespread use in homes and commercial properties alike.
 
 Copper pipes come in three types: M, L, and K. M-type is thin-walled, while L and K types are increasingly thicker and more durable. The choice between the types depends on the location and function of the pipe in your plumbing system.
 
-## **Pros and Cons of Copper Pipes**
+## Pros and Cons of Copper Pipes
 
 Copper has long been a popular material for plumbing systems. To provide a balanced view, let’s dive into the advantages and disadvantages that come with using copper for your repiping project.
 
-### **Pros:**
+### Pros:
 
 1.  **Durability:** Copper is incredibly durable, with resistance to damage and high-pressure water flow. This means fewer leaks and less maintenance over the lifetime of the pipes.
 2.  **Longevity:** With proper care, copper pipes can last for decades, often between 40 to 70 years. This makes them a sound long-term investment for your home.
@@ -83,14 +83,14 @@ Copper has long been a popular material for plumbing systems. To provide a balan
 4.  **Heat Tolerant:** Copper pipes can withstand both hot and cold temperatures, making them suitable for all climates and water temperatures.
 5.  **Environmentally Friendly:** Copper is 100% recyclable and can be repurposed without losing its beneficial properties, reducing its environmental impact.
 
-### **Cons:**
+### Cons:
 
 1.  **Costly:** Copper piping is often more expensive than alternatives like PEX, both in terms of materials and installation, due to the need for skilled labor.
 2.  **Potential for Copper Leaching:** While copper pipes are generally safe, acidic water can cause copper to leach into the water supply, potentially leading to health concerns if consumed in large quantities.
 3.  **Installation Complexity:** Installing copper pipes is a complex process requiring soldering and potentially reworking walls and floors, which can extend the installation timeframe.
 4.  **Susceptible to Acidic Water:** While copper is generally corrosion-resistant, it can corrode in certain conditions, particularly when exposed to acidic water.
 
-## **An Introduction to PEX Pipes**
+## An Introduction to PEX Pipes
 
 PEX, which stands for cross-linked polyethylene, is a versatile and increasingly popular choice in the world of plumbing. Introduced in North America in the 1980s, PEX has made a name for itself due to its flexibility, ease of installation, and cost-effectiveness.
 
@@ -98,11 +98,11 @@ PEX pipes are created by linking the polyethylene molecules through a process ca
 
 This unique process results in a piping material that can withstand the rigors of most household plumbing systems, while also offering numerous benefits that make it an attractive option for many homeowners.
 
-## **Pros and Cons of PEX Pipes**
+## Pros and Cons of PEX Pipes
 
 PEX piping offers a compelling alternative to traditional copper, with several unique advantages and a few considerations. Let’s delve into the pros and cons of choosing PEX for your repiping project.
 
-### **Pros:**
+### Pros:
 
 1.  **Flexibility:** PEX’s most significant selling point is its flexibility. This property allows it to be installed with fewer fittings, navigate corners, and be threaded through walls and floors easily, simplifying the installation process.
 2.  **Cost-Effective:** Compared to copper, PEX is a more affordable option in terms of material cost. Its ease of installation can also translate into savings on labor costs.
@@ -110,42 +110,42 @@ PEX piping offers a compelling alternative to traditional copper, with several u
 4.  **Resistant to Corrosion and Scale Buildup:** Unlike copper and other metals, PEX doesn’t corrode and is resistant to scale buildup. This can lead to better water flow and longevity of the pipe.
 5.  Energy Efficient: PEX has natural insulating properties, reducing heat loss when used for hot water lines. This can contribute to energy efficiency in your home.
 
-### **Cons:**
+### Cons:
 
 1.  **Not Suitable for Outdoor Use:** PEX piping can degrade when exposed to UV light from the sun, meaning it isn’t suitable for outdoor applications unless adequately protected.
 2.  **Cannot Be Recycled:** PEX is not widely recyclable, meaning that old or damaged PEX pipes can end up in the landfill, making it a less environmentally-friendly choice compared to copper.
 3.  **Potential for Contaminants:** While PEX is generally safe for drinking water, some studies have raised concerns about the potential for chemicals to leach from the plastic into the water, especially when the water is heated.
 4.  **Less Durable Than Copper:** While PEX is resistant to many types of damage, it’s generally less durable than copper. Extreme temperatures and mechanical damage can cause PEX pipes to fail.
 
-## **Comparing Copper and PEX for Repiping**
+## Comparing Copper and PEX for Repiping
 
 When it comes to repiping, the choice between copper and PEX is crucial, as it can impact the cost, durability, installation process, and maintenance of your plumbing system. Here, we offer a side-by-side comparison of these two popular materials to help you make an informed decision.
 
-### **Cost**
+### Cost
 
 While the cost of a repiping project can vary based on factors like the size of your property and local labor rates, PEX typically comes out as the more cost-effective option. The materials are less expensive than copper, and its flexibility and ease of installation can result in lower labor costs.
 
 Copper, while more expensive upfront, offers durability that can translate to less frequent replacements and lower maintenance costs over time. Therefore, it could be a more economical choice in the long run.
 
-### **Durability**
+### Durability
 
 Copper has an edge when it comes to durability. Its resistance to corrosion, extreme temperatures, and high water pressure makes it a reliable choice that can last for decades.
 
 On the other hand, PEX is resistant to corrosion and scale buildup. However, it’s generally less durable than copper, especially when exposed to extreme temperatures or mechanical damage.
 
-### **Installation**
+### Installation
 
 PEX shines in the realm of installation. Its flexibility allows for easy threading through walls and floors and the ability to navigate around corners without the need for additional fittings. This results in quicker installation times and less disruption to your home.
 
 Copper, in contrast, requires more skill for installation. Its rigid nature necessitates the use of fittings for corners and more intensive labor to cut and solder the pipes. However, once installed, a copper plumbing system can stand the test of time.
 
-### **Maintenance**
+### Maintenance
 
 Both PEX and copper are low-maintenance materials. PEX’s resistance to corrosion and scale buildup helps maintain strong water flow over time. However, if damaged, PEX might need to be replaced more frequently than copper.
 
 Copper, due to its durability, often requires less frequent replacements. However, in areas with acidic water, there can be a risk of corrosion and subsequent maintenance needs.
 
-## **The Verdict**
+## The Verdict
 
 The choice between copper and PEX boils down to your specific situation and needs. If you’re working on a tight budget and need a quick and easy installation, PEX might be the right choice.
 

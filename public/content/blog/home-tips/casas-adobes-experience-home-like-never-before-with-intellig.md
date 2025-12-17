@@ -36,45 +36,45 @@ canonicalUrl: >-
 
 [6) The Encore](#The_Encore)
 
-## **The Dawn of a New Era in Casas Adobes**
+## The Dawn of a New Era in Casas Adobes
 
 Hello, Casas Adobes! We are [Intelligent Design](https://www.idesignac.com/), and we’re here to revolutionize your home experience. We’re not just another name in the service industry; we’re your community partners aiming to redefine comfort and safety in your homes.
 
 [Learn About Our Casas Adobes Services](https://www.idesignac.com/service-areas/casas-adobes/)
 
-## **AC and Heating: Crafting Your Comfort Zone**
+## AC and Heating: Crafting Your Comfort Zone
 
 Arizona’s climate can be a rollercoaster, but your home shouldn’t be. Our AC and heating services are designed to create a consistent comfort zone, just for you.
 
-### **The Soul of Casas Adobes**
+### The Soul of Casas Adobes
 
 We believe that every comfortable home adds to the soul of Casas Adobes, making it a more vibrant place to live.
 
-## **Plumbing: The Lifeline of Your Home**
+## Plumbing: The Lifeline of Your Home
 
 Water is life, and plumbing is the lifeline of your home. Our services ensure that this lifeline is robust and reliable, day in and day out.
 
-### **The Butterfly Effect**
+### The Butterfly Effect
 
 A small plumbing issue can have big repercussions. We’re here to prevent that, creating a butterfly effect of positivity across Casas Adobes.
 
-## **Solar: Light Up Your World**
+## Solar: Light Up Your World
 
 The Arizona sun is a treasure trove of energy. Our [solar services](https://www.idesignac.com/solar-tucson/) help you tap into this natural wealth, lighting up your world in a sustainable way.
 
-### **Casas Adobes, Shine On!**
+### Casas Adobes, Shine On!
 
 Solar is more than an alternative; it’s a statement. A statement that Casas Adobes is ready to shine brighter than ever.
 
-## **Roofing and Electrical: The Pillars of Your Sanctuary**
+## Roofing and Electrical: The Pillars of Your Sanctuary
 
 Your roof protects you, and your [electrical system](https://www.idesignac.com/electrical/) empowers you. We make sure both are in top form, always.
 
-### **The Foundations of Trust**
+### The Foundations of Trust
 
 In Casas Adobes, we’re laying the [foundations of trust](https://www.idesignac.com/testimonials/), one home at a time, ensuring your sanctuary is as secure as it is comfortable.
 
-## **The Encore**
+## The Encore
 
 Casas Adobes, we’re not just here to provide a service; we’re here to enhance your life. From the ceiling to the floor, we’ve got you covered.
 

@@ -34,24 +34,24 @@ However, you do not want to be met with an unpleasant burning smell when you cha
 
 Do not get panicked if you find yourself in this situation. While some odors may imply a potentially severe problem requiring immediate attention from an HVAC professional, others are more normal.
 
-### **Why Is There a Burning Smell Coming from Your Heater?**
+### Why Is There a Burning Smell Coming from Your Heater?
 
 *   Accumulated dust within furnaces and heating systems over the spring, summer, and fall as the air continues to circulate throughout your forced air heating and cooling system.
 *   When the first cold day comes, and you want to turn on your furnace, this fine layer of dust will burn off furnace components as the system begins to function. So, when you first turn it on, your heater smells like burning due to the smell of burning dust.
 *   Dust buildup on your furnace is the most likely cause of a burning smell when you initially turn on your heater. For homeowners who live in a region with often changing seasons, such as the Mid-Atlantic, the furnace is unlikely to be used all year. During the months when your furnace is not used, dust accumulates on it. When you switch it on for the first time after a long period of time without using it, the dust begins to burn off, causing a burning plastic odor in the house.
 *   If you have central heating and cooling, it is possible that an object fell into your HVAC device or into the ductwork the system used when it was not in use. If you have central heating with several vents throughout your home, tend to separate the burning smell to a specific room. If you are successful, the odor could be caused by something caught inside your vent.
 
-### **Is a Furnace Burning Smell Normal?**
+### Is a Furnace Burning Smell Normal?
 
 It is typical for a heater to emit a burning odor when it is first turned on, and you should not be concerned! This odor usually goes away within an hour or two. This odor is quite natural if the burning smell does not last longer than a day.
 
-### **Can the Burning Smell Be Avoided?**
+### Can the Burning Smell Be Avoided?
 
 *   Some homeowners do not mind a burning smell when they turn on their furnace for the first time, while others do. While the heater smell is a normal part of starting the system for the season, you can take a few measures to reduce it.
 *   Before the heating season begins, have your furnace tuned up. This service includes cleaning the interiors of your heating system, which removes a lot of the dust that generally burns off during the first use. The burning smell will be significantly reduced – if not eliminated – if your heating system is serviced before the first cold day.
 *   Change the furnace filter. The new filter captures the dust particles so that they do not recirculate your living areas while causing the odor to linger. In addition, a clean filter provides for proper airflow, allowing the odor to disappear quickly, whereas a dirty filter can cause it to stick out.
 
-### **Burning Smells That Are Not Normal**
+### Burning Smells That Are Not Normal
 
 *   It is normal if your heater emits a burning smell when it has first turned on. However, this is cause for concern if you detect a distinct burning odor when using your furnace throughout the year.
 *   If the furnace’s components, such as the fan belt or capacitor, are worn out, the result can be a burning plastic odor. Call your [HVAC technician](https://www.idesignac.com/air-conditioning/air-conditioning-service-tucson/) to get them replaced.
@@ -59,13 +59,13 @@ It is typical for a heater to emit a burning odor when it is first turned on, an
 *   An overheated blower motor can also cause an electrical burning smell. Check your filter and change it if it is dirty, as a clogged filter can restrict airflow and cause overheating. If the smell persists, you should contact an HVAC technician.
 *   Furthermore, If the odor lingers, switch the air filter. If the smell still does not go away, contact an HVAC professional to inspect your unit.
 
-### **When You May Need A Furnace Repair**
+### When You May Need A Furnace Repair
 
 *   Many of the odor issues we have already mentioned have quick fixes. However, there are times when you may need a full-on furnace repair. If the burning smell persists after troubleshooting in any of these scenarios. In that case, a more significant issue may be at hand, and you should contact an HVAC specialist as soon as possible.
 *   A heater that emits a burning odor could result from a serious electrical problem or a less serious issue such as structural damage to the unit or a malfunctioning part. If any of these are the source of your unpleasant odor, an HVAC technician may need to repair or replace a part of your furnace before you can safely heat your home again.
 *   If you detect a musty [smell coming](https://www.idesignac.com/how-come-my-air-conditioning-unit-smells-bad/) from your furnace, turn it off immediately. Then, get your filter cleaned or replaced inside your unit, and try rerunning it. Finally, contact an HVAC professional to inspect your unit and ductwork if the smell persists despite a newly cleaned filter.
 
-### **How Intelligent Design Can Help**
+### How Intelligent Design Can Help
 
 The smells coming from heating units can indicate various issues, requiring [intelligent design](https://www.idesignac.com/) professionals.
 

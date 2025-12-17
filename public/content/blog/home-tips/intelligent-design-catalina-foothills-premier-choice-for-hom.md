@@ -38,39 +38,39 @@ canonicalUrl: >-
 
 [6.1) The Encore of Excellence](#The_Encore_of_Excellence)
 
-## **Introduction: A Symphony of Comfort and Elegance in Catalina Foothills**
+## Introduction: A Symphony of Comfort and Elegance in Catalina Foothills
 
 Greetings, Catalina Foothills! We are [Intelligent Design](https://www.idesignac.com/), and we’re here to harmonize your home’s comfort, safety, and sustainability.
 
 [Discover Unmatched Elegance in Catalina Foothills](https://www.idesignac.com/service-areas/catalina-foothills/)
 
-## **Movement I: AC and Heating—The Maestros of Comfort**
+## Movement I: AC and Heating—The Maestros of Comfort
 
-### **The Opus of Indoor Climate**
+### The Opus of Indoor Climate
 
 In the sophisticated landscape of Catalina Foothills, comfort is akin to a well-composed symphony. Our AC and heating services are the maestros, orchestrating your perfect indoor climate.
 
-## **Movement II: Plumbing—The Choreography of Home**
+## Movement II: Plumbing—The Choreography of Home
 
-### **The Ballet of Fluid Mechanics**
+### The Ballet of Fluid Mechanics
 
 Your plumbing system is a complex ballet, each component gracefully interacting with the other. We are the choreographers, ensuring a flawless performance.
 
-## **Movement III: Solar—The Vanguard of Sustainability**
+## Movement III: Solar—The Vanguard of Sustainability
 
-### **The Gallery of Green Innovation**
+### The Gallery of Green Innovation
 
 Solar energy is not just a trend; it’s a masterpiece in the gallery of Catalina Foothills’ future. Our [solar services](https://www.idesignac.com/solar-tucson/) are the curators, showcasing the art of sustainability.
 
-## **Movement IV: Roofing and Electrical—The Architecture of Security**
+## Movement IV: Roofing and Electrical—The Architecture of Security
 
-### **The Blueprint of Fortification**
+### The Blueprint of Fortification
 
 Your roof and [electrical system](https://www.idesignac.com/electrical/) are the architectural marvels that secure your home. We are the architects, drafting the blueprints for your fortress of comfort and safety.
 
-## **Finale: Why Intelligent Design is the Conductor of Your Home’s Symphony**
+## Finale: Why Intelligent Design is the Conductor of Your Home’s Symphony
 
-### **The Encore of Excellence**
+### The Encore of Excellence
 
 We’re not merely service providers; we’re the conductors of your home’s grand symphony. From the rooftop to the basement, we’re committed to delivering an encore of excellence in Catalina Foothills.
 

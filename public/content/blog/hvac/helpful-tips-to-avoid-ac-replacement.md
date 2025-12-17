@@ -44,7 +44,7 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/helpful-tips-to-avoid-ac-repl
 
 Maintaining your HVAC system is essential for ensuring it continues functioning correctly and efficiently. Not only will regular maintenance help to extend the lifespan of your system, but it can also help to reduce energy costs and improve indoor air quality. Here are ten helpful tips to help you maintain your HVAC system and avoid air conditioner replacement.
 
-## **What is HVAC System?**
+## What is HVAC System?
 
 HVAC ([heating](https://www.idesignac.com/heating/), ventilation, and [air conditioning](https://www.idesignac.com/air-conditioning-tucson/)) systems are mechanical systems that control the temperature, humidity, and air quality in buildings. These systems consist of several components, including a furnace, air conditioner, and ductwork, which work together to provide heating and cooling for a building. 
 
@@ -52,37 +52,37 @@ HVAC systems are commonly found in homes, offices, and other types of buildings 
 
 Proper maintenance of an HVAC system is essential for ensuring that it functions effectively and efficiently and can help extend the system’s lifespan.
 
-### **Monthly Filter Checks**
+### Monthly Filter Checks
 
 A monthly check of the HVAC system’s air filters is one of the essential maintenance tasks. Dirty and clogged filters can reduce airflow, causing the system to work harder and use more energy than necessary. It’s recommended that you change your air filter at least every three months, but if your system has a high usage rate, you may need to check and replace it more frequently. 
 
 The air filter is an important component of your air conditioning system that helps to remove dust, debris, and other particles from the air. If the air filter becomes clogged, it can reduce the efficiency of your system and negatively impact indoor air quality. Depending on the type of filter you are using, you may need to change it every month or every few months.
 
-### **Clean Vents and Ducts**
+### Clean Vents and Ducts
 
 Another important maintenance task in your ac system is ensuring the HVAC system’s vents and ducts are free from dust, dirt, and debris. These contaminants can reduce airflow and make the system less efficient if left unchecked. 
 
 Regularly cleaning the vents and ducts of your HVAC system will help to keep them free from debris and improve the overall performance of your system. Consider having your air ducts cleaned by a professional every few years to ensure they are free of debris.
 
-### **Regular Tune-Ups**
+### Regular Tune-Ups
 
 Having a professional perform regular tune-ups on your ac unit is one of the best ways to maintain it. During these tune-ups, a technician will inspect the system for any signs of wear and tear, look for potential issues, and ensure all components are operating properly. 
 
 Regular tune-ups can help extend your HVAC system’s life, reduce energy costs, and improve indoor air quality.
 
-### **Check Refrigerant Levels**
+### Check Refrigerant Levels
 
 The refrigerant levels of an air conditioning unit are essential for ensuring that it functions properly. If the refrigerant level becomes too low, it can cause the system to run inefficiently and waste energy. 
 
 It’s important to have a professional [check your system’s refrigerant](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/) levels at least once per year to ensure they are at the correct level. If you are unsure how to check refrigerant levels or do not feel comfortable doing so, it’s best to have a professional handle this task.
 
-### **Inspect the Condensate Drain System**
+### Inspect the Condensate Drain System
 
 The condensate drain system of an HVAC system helps to remove excess moisture from the air. If this system becomes clogged or leaking, it can cause water damage to the home and pose a health risk. 
 
 Inspecting the condensate drain system of your HVAC system regularly for any signs of leaks or clogs is essential. If you notice any issues, it’s best to have a professional come in and clean or repair your air conditioning units as soon as possible. The technician will be able to identify any potential issues and ensure that the system is functioning correctly.
 
-### **Clean the Outdoor Unit**
+### Clean the Outdoor Unit
 
 The outdoor unit can accumulate dust and debris over time, reducing efficiency. A dirty outdoor unit can lead to reduced indoor air quality, as it may not be able to effectively remove dust and other contaminants from the air. Keeping the unit clean can help to improve indoor air quality. It’s important to clean the outdoor unit of your HVAC system regularly to ensure the following:
 
@@ -91,7 +91,7 @@ The outdoor unit can accumulate dust and debris over time, reducing efficiency. 
 *   The coils are clean and free of any build-up.
 *   The coil fins are straight and undamaged.
 
-### **Check for Proper Airflow**
+### Check for Proper Airflow
 
 Make sure that air is flowing freely through the vents in your home. If you notice that some rooms are not receiving enough airflow, it could be a sign of a problem with your HVAC system.
 
@@ -109,17 +109,17 @@ Make sure that air is flowing freely through the vents in your home. If you noti
 3.  **Improved indoor air quality:** Proper airflow helps circulate fresh air throughout your home, improving indoor air quality.
 4.  **Extended lifespan:** Poor airflow can strain your HVAC system, potentially leading to premature wear and tear. By ensuring proper airflow, you can help to extend the lifespan of your system.
 
-### **Schedule Regular Maintenance**
+### Schedule Regular Maintenance
 
 It is important to have your HVAC unit inspected and serviced by a professional regularly. This can help to catch any potential issues before they become significant problems. Most manufacturers recommend having your system inspected at least once a year.
 
-### **Stay on Top of Repairs**
+### Stay on Top of Repairs
 
 If you notice any HVAC system problems, it is important to address them promptly. Ignoring issues can lead to further damage and more costly repairs in the long run. However, some people aren’t comfortable working on their HVAC systems, so if you do encounter a problem, it is best to contact a professional technician. 
 
 A technician can diagnose the problem and make repairs to ensure your system is running properly.
 
-### **Contact Intelligent Design Today!**
+### Contact Intelligent Design Today!
 
 Performing regular maintenance and repairs on your HVAC system can help you avoid heating and cooling costs, improve efficiency and indoor air quality, and extend the lifespan of your system. These steps can help you save money in the long run and enjoy a comfortable indoor environment all year round.
 

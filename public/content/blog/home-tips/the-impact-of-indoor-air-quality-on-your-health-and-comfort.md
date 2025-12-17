@@ -36,7 +36,7 @@ canonicalUrl: >-
 
 In this blog, we will learn about the impact of Indoor Air Quality on your health, its causes and how to improve it.
 
-## **Indoor Air Quality in America**
+## Indoor Air Quality in America
 
 In America the potential impact of indoor air quality on human health is huge, below mentioned are some of the reasons why:
 
@@ -44,7 +44,7 @@ In America the potential impact of indoor air quality on human health is huge, b
 *   Individuals like young children, older adults, and people suffering from cardiovascular or respiratory disease, tend to spend more time indoors. Exposing themselves more to indoor air pollution.  
 *   Over the last few decades, the concentration of some indoor pollutants has increased due to increased use of synthetic building materials, furnishings, personal care products, pesticides and household cleaners.
 
-## **What are the sources of indoor air pollution?**
+## What are the sources of indoor air pollution?
 
 Several factors are responsible for the poor indoor air quality. Indoor air is generally polluted by the pollutants that penetrate the outdoors and some sources that are unique to the indoor environment. The sources of pollution involve:
 
@@ -52,11 +52,11 @@ Several factors are responsible for the poor indoor air quality. Indoor air is g
 *         Vapors and pollutants released from materials used for construction and building.
 *         Contaminants like mold, viruses, or allergens.
 
-## **What do you need to know about the health effects of Poor Indoor Air Quality?**
+## What do you need to know about the health effects of Poor Indoor Air Quality?
 
 Indoor air quality has a significant impact on overall health. Most people spend most of their time indoors. However, the indoor air might be polluted with invisible pollutants or contaminants, causing serious health conditions.
 
-### **Health Risks Linked to Poor Indoor Air Quality**
+### Health Risks Linked to Poor Indoor Air Quality
 
 1.  **Respiratory Diseases**Breathing in indoor air pollutants can trigger or worsen respiratory conditions. It could lead to:
     *   **Asthma attacks**: Pollutants like dust mites, mold, and pet dander can cause Asthma attacks.
@@ -80,7 +80,7 @@ Besides serious illnesses, indoor air pollution can also cause: 
 
 – Irritation in the eyes, nose, and throat
 
-### **Factors That Influence the Impact of Indoor Air Quality on Health**
+### Factors That Influence the Impact of Indoor Air Quality on Health
 
 1.  **Sensitivity** 
 
@@ -102,7 +102,7 @@ Not paying attention to indoor air quality can slowly but seriously harm your he
 
 Intelligent Design Air Conditioning, Plumbing, Solar, & Electric provides effective ways to improve your home’s air quality. Our services help lower pollution levels inside your home, making it easier for you to breathe. We focus on four key areas: cleaning your air ducts, purifying the air in your entire home with air purifiers, sterilizing the air throughout your house with air sterilizers, and adding humidity to your home with air humidifiers.
 
-#### **FAQs**
+#### FAQs
 
 **How does air quality affect our health?**
 

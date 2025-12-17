@@ -47,7 +47,7 @@ Often, homeowners need clarification about the difference between repiping and p
 
 In this post, we will learn about the difference between repiping and pipe repair. Also, we will know when you should opt for repiping instead of pipe repair.
 
-## **What Is Pipe Repair?**
+## What Is Pipe Repair?
 
 Pipe repair is the process of fixing individual pipes that are damaged or broken. This is usually less invasive and less expensive than repiping, but it may only be possible if the damage is mild.
 
@@ -59,7 +59,7 @@ When doing pipe repair, you need to consider these things:
 
 If you’re unsure whether to choose repiping or pipe repair, it’s always best to consult a [professional plumber](https://www.idesignac.com/plumbers-tucson/). They will be able to assess the situation and recommend the best course of action for your home.
 
-## **What Is Repiping a Plumbing System?**
+## What Is Repiping a Plumbing System?
 
 Repiping is the process of replacing all of the pipes in a home. This is usually done when the current piping is old or damaged beyond repair. Repiping can also be done if a home is undergoing a significant renovation.
 
@@ -67,7 +67,7 @@ Repiping is a more comprehensive service that replaces all of the pipes in a hom
 
 Over time, pipes can become damaged from years of use of hot and cold water and exposure to different elements. When this happens, it’s essential to replace all pipes to prevent further damage to the plumbing system. In some cases, repiping may also be necessary if a home has been flooded or suffered other major water damage.
 
-## **When to Know If Your House Is Due For A Repipe**
+## When to Know If Your House Is Due For A Repipe
 
 There are a few things you can look for to know if your house may need repiping. For example, you may notice:
 
@@ -80,7 +80,7 @@ If you have an older home, your pipes are likely made of materials that are no l
 
 A whole house repipe is the best way to ensure that you have a leak-free plumbing system. By replacing all of the pipes in your home instead of doing minor repairs, you can be confident that your plumbing will work properly for years to come.
 
-## **Does Your Sewer or Septic System Need Repiping?**
+## Does Your Sewer or Septic System Need Repiping?
 
 Most homeowners only think about their home plumbing system once there’s a problem. But, if you want to avoid costly repairs, it’s vital to be proactive about your home’s pipes. One way to do this is to repipe your sewer or septic system every few years. But how do you know if your home needs repiping?
 
@@ -88,35 +88,35 @@ Most homeowners only think about their home plumbing system once there’s a pro
 
 If you need to figure out whether or not repiping is suitable for your home, it’s always best to consult with a professional. A licensed plumber can assess your home’s needs and help you make the best decision for your situation.
 
-## **Types of Pipes You Can Use**
+## Types of Pipes You Can Use
 
-### **Copper Pipes**
+### Copper Pipes
 
 Copper pipes are the way to go if you are looking for a classic option. These types of pipes have been used for centuries and are known for their durability. Copper pipes can last up to 100 years with proper maintenance.
 
-### **PVC Pipes**
+### PVC Pipes
 
 If you want a more affordable option, then PVC pipes are a good choice. PVC pipes are made from plastic and are very popular in home construction. PVC pipes are also easy to install and don’t corrode like metal pipes.
 
-### **Polyethylene Pipes**
+### Polyethylene Pipes
 
 If you are looking for a durable and long-lasting option, then polyethylene pipes are a good choice. These types of pipes are often used in commercial plumbing because they can withstand high temperatures and pressures. Polyethylene pipes are also resistant to corrosion.
 
-### **Galvanized Steel Pipes**
+### Galvanized Steel Pipes
 
 Finally, galvanized steel pipes are a good choice if you are looking for an affordable and durable option. These types of pipes are coated with zinc, which protects them from corrosion. Galvanized steel pipes can last up to 50 years with proper maintenance.
 
-### **Pex Pipes**
+### Pex Pipes
 
 Finally, if you are looking for a flexible and durable option, then Pex pipes are a good choice. These types of pipes are made from cross-linked polyethylene and are very popular in home construction. In addition, Pex pipes are easy to install and don’t corrode like metal pipes. So, a pex pipe might be what you need.
 
-## **How A Plumbing Company Can Help**
+## How A Plumbing Company Can Help
 
 Repiping is a big job, and it’s not one that most people are equipped to handle on their own. That’s where plumbing companies come in. Plumbing companies have the experience and expertise to repipe your home quickly and efficiently.
 
 They’ll also be able to identify any potential problems with your existing pipes and ensure that your new pipes are correctly installed. Plus, if you have questions about repiping or plumbing fixtures, plumbing companies will be more than happy to answer them.
 
-### **Intelligent Design Is Here to Help!**
+### Intelligent Design Is Here to Help!
 
 Are you in need of repiping services? Whether you’re looking for a whole house repipe or need some plumbing repairs, the team at Intelligent Design help. We have a team of professional plumbers who are experienced in entire repiping houses.
 

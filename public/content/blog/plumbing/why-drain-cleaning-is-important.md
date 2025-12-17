@@ -46,7 +46,7 @@ That’s why we’ve put together this blog post on why drain cleaning is import
 
 We’ll also provide some tips on how to keep your drains clean so that they don’t get clogged in the first place.
 
-## **What Causes Clogged Drains**
+## What Causes Clogged Drains
 
 Clogged drains are a common problem in any home or business. Poorly maintained drains can lead to serious problems such as flooding, mold and mildew growth, and even structural damage. If you have noticed that your drain is clogged and you need help cleaning it out, it is important to take action quickly before the issue becomes more serious.
 
@@ -60,45 +60,45 @@ There are several causes of clogged drains, including:
 *   **Cosmetic and cleaning products –** These include creams and gels that can cause blockages when they are flushed down the drains. These also include shampoo and soap scum that gets stuck down the tub drain and the shower drains.
 *   **Paper items –** This includes paper towels, tissues, napkins, and disposable cups that are not disposed of properly.
 
-## **How to Clean Clogged Drains at Home**
+## How to Clean Clogged Drains at Home
 
 If you have partially clogged drains, it can be a huge inconvenience and costly to fix. Whether you’re trying to unclog all the gunk from your kitchen drain or the sink in the bathroom, there are some steps you can take to help clean them yourself.
 
-### **Plunger**
+### Plunger
 
 This is usually done with a special device that allows you to push the plunger firmly down onto the drain opening and then pull it back up slowly to create suction within the pipe. Be careful not to force anything down there; if you do this gently and carefully, it might do the trick!
 
-### **Baking Soda and White Vinegar**
+### Baking Soda and White Vinegar
 
 This DIY drain cleaner is one of the most common ways to clean drains. Simply pour half a cup of baking soda down your drain, followed by half a cup of white vinegar. The chemical reaction between these two will cause foaming action and bubbling sounds, which should help dislodge any clogs that are in there. If you have some time on your hands, let this sit for five minutes before pouring hot water down it.
 
-### **Drain Cleaner**
+### Drain Cleaner
 
 You can use a drain cleaner to unclog your pipes. This is a chemical-based solution that swells up the clogged material in your drains so it can be flushed out. If you’re using this method, be sure to follow all instructions on the bottle carefully; otherwise, it might not work in your kitchen sink drains.
 
-### **Boiling Water**
+### Boiling Water
 
 If you don’t have the budget at hand for a chemical drain cleaner, boiling water is a simple and effective way to unclog your pipes as well. Simply pour boiling water down the drain and let it sit for a few minutes before flushing with cold water. This should help clear out any clogs that are in there.
 
-## **When Should You Call a Drain Cleaning Service?**
+## When Should You Call a Drain Cleaning Service?
 
 While some DIY solutions can help you unclog a drain, they often don’t address the underlying problem and can actually make things worse by causing more damage than good. For example, pouring chemical cleaners into your toilet or sink might clear out the clog temporarily, but it could also damage your pipes and create new problems down the road. And even if you manage to fix the issue, there’s no guarantee that another clog won’t happen again in the future.
 
 So when should you call a drain cleaning service? Here are some situations where we recommend calling one:
 
-### **Foul Odors Coming from the Drain**
+### Foul Odors Coming from the Drain
 
 If you notice a foul smell coming from your drain, it could be an indication that something is wrong. If the smell is stronger than usual and doesn’t go away after flushing or using your garbage disposal, then it’s time to call a professional.
 
-### **Slow Drain**
+### Slow Drain
 
 If your drain takes longer than usual to drain, it could be a sign that something is clogging the pipes. You may even notice that water levels rise after flushing or using your garbage disposal. If slow drains happen regularly and seem like a recurring problem, then you should definitely call a professional.
 
-### **Water Damage**
+### Water Damage
 
 If there’s water damage in your home, such as on walls, floors, ceilings, or furniture, then it could be time for an inspection by a professional. This will help determine what caused the issue and how much repair work needs to be done.
 
-#### **Call Professional Drain Cleaners to Solve Your Clogged Drains**
+#### Call Professional Drain Cleaners to Solve Your Clogged Drains
 
 If you have clogged drains, it’s time to call the pros.
 

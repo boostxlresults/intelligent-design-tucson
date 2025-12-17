@@ -39,7 +39,7 @@ The cost to replace or install your air conditioning in Tucson typically ranges 
 
 In this article, we’ll break down the different factors that affect the cost of a new air conditioning unit so that you can make an informed decision about what’s best for your home.
 
-## **1: Type of AC Unit**
+## 1: Type of AC Unit
 
 There are several types of air conditioning units to choose from, and each has its own set of features and benefits. There are three main types of air conditioners: central, ductless mini-split, and window air conditioners.
 
@@ -51,7 +51,7 @@ Window air conditioners are the least expensive option, but they can be less eff
 
 Get a free service call with one of the best AC and plumbing companies, call [Intelligent Design](https://www.idesignac.com/) today! Our team of experts will help you choose the right air conditioner for your Tucson home and budget.
 
-## **2: Size/Capacity**
+## 2: Size/Capacity
 
 The cost of a new HVAC system will also depend on the size or capacity of the unit. An air conditioner‘s size or capacity is typically measured in tons. The rule of thumb is that the larger the space you need to cool, the more tonnage or capacity you will need. For example, a one-ton unit can cool approximately 400 square feet, while a three-ton unit can cool 1200 square feet.
 
@@ -70,7 +70,7 @@ An HVAC company can do a load calculation for you to ensure you get the best siz
 *   Be sure to ask each company what size unit they are recommending for your home.
 *   Don’t be afraid to get a second opinion if you feel like the company is trying to upsell you on a unit that is too large or too expensive.
 
-## **3: Features** 
+## 3: Features
 
 The features your new system has will also affect its price. Some common features include: 
 
@@ -81,7 +81,7 @@ The features your new system has will also affect its price. Some common feature
 
 If you live in Southern Arizona, then you know how important it is to have a good air conditioner. AC repair is never fun, but it is necessary from time to time. By having a new, energy-efficient AC unit installed, you can rest assured that your home will be cool and comfortable all summer long.
 
-## **4: SEER rating**
+## 4: SEER rating
 
 The Seasonal Energy Efficiency Ratio (SEER) is a measure of how much energy your unit uses compared to other units. The higher the SEER rating, the more efficient your unit is, and the lower your energy bills will be.
 
@@ -91,7 +91,7 @@ Not sure what SEER rating you need? A professional HVAC contractor can help you 
 
 Be sure to check the Better Business Bureau for reviews before hiring an HVAC contractor. You don’t want to end up with costly repairs because of a shoddy installation job.
 
-## **5: Installation Company**
+## 5: Installation Company
 
 Another factor that will affect the cost of your new AC unit is who you choose to install it. It’s important to choose a reputable company with experience installing AC units in Arizona. Proper installation is critical to the performance of your new AC unit. Be sure to get multiple quotes before making a decision so that you can compare costs and find the best deal.
 
@@ -99,7 +99,7 @@ A professional job will cost more than a do-it-yourself installation, but it’s
 
 If you’re not sure who to hire, ask around for recommendations from friends or family. An exceptional service company should have no problem providing you with references.
 
-## **Conclusion**
+## Conclusion
 
 The cost of a new AC unit in Arizona can vary greatly depending on a number of factors. If you are in need of a new AC unit, be sure to consult with a reputable HVAC contractor to get an accurate estimate of what it will cost to cool your home.
 

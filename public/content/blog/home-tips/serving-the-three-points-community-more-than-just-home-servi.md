@@ -34,7 +34,7 @@ canonicalUrl: >-
 
 [4) Conclusion](#Conclusion)
 
-## **Introduction**
+## Introduction
 
 At [Intelligent Design](https://www.idesignac.com/), we’re not just another home service provider. We’re a part of the Three Points community, committed to enhancing the quality of life for each resident through our comprehensive range of services.
 
@@ -42,33 +42,33 @@ From AC and Heating to Plumbing, Solar, Roofing, and Electrical, we’ve got you
 
 [Visit our Three Points Service Area Page](https://www.idesignac.com/service-areas/three-points/)
 
-## **A Full Spectrum of Home Services**
+## A Full Spectrum of Home Services
 
-### **Air Conditioning and Heating**
+### Air Conditioning and Heating
 
 Three Points is known for its fluctuating weather conditions. Our AC and Heating services ensure that you’re comfortable year-round, no matter what Mother Nature has in store.
 
-### **Plumbing**
+### Plumbing
 
 A well-functioning plumbing system is crucial for any home. Our expert plumbers are equipped to handle everything from minor leaks to major installations.
 
-### **Solar Energy Solutions**
+### Solar Energy Solutions
 
 As advocates for sustainable living, we offer top-notch solar solutions that not only reduce your carbon footprint but also cut down your energy bills.
 
-### **Roofing**
+### Roofing
 
 Our roofing services are designed to withstand the unique weather conditions of Three Points, providing durability and peace of mind.
 
-### **Electrical Services**
+### Electrical Services
 
 From simple electrical fixes to complex installations, our certified electricians ensure that your home is both safe and efficient.
 
-## **Community First**
+## Community First
 
 Being a part of the Three Points community means more to us than just business. We actively participate in local events, sponsor community programs, and aim to make a positive impact on the lives of our neighbors.
 
-## **Conclusion**
+## Conclusion
 
 Intelligent Design is more than just a service provider; we’re your neighbors, committed to offering the best in home services while enriching the community that we all call home.
 

@@ -26,11 +26,11 @@ canonicalUrl: >-
 
 [1.3) Let’s Get Started, Shall We?](#Lets_Get_Started_Shall_We)
 
-## **Hey Corona de Tucson, We Get You!**
+## Hey Corona de Tucson, We Get You!
 
 What’s up, Corona de Tucson? We’re Intelligent Design, your go-to for AC, Heating, Plumbing, Solar, Roofing, and Electrical services. But let’s be real; we’re not just here to fix stuff. We’re part of this awesome community, and we totally get what makes it tick.
 
-### **So, What’s the Vibe in Corona de Tucson?**
+### So, What’s the Vibe in Corona de Tucson?
 
 This place is booming, right? Families, young professionals, and folks who’ve seen a few more sunsets—Corona de Tucson has got it all. And let’s not forget, we’re a community that values quality. From our homes to our lifestyle, we choose the best.
 
@@ -44,10 +44,10 @@ We know you’re not a one-size-fits-all kind of community. That’s why we’ve
 *   Roofing: Keep a sturdy roof over your head with our top-notch roofing services.
 *   [Electrical](https://www.idesignac.com/electrical/): From rewiring to installations, we make sure your home is safe and sound.
 
-### **Why Us? Because We’re All About Community**
+### Why Us? Because We’re All About Community
 
 We’re not just here to do a job and leave. We’re invested in Corona de Tucson. From local events to community service, we’re right there with you, making this place even better.
 
-### **Let’s Get Started, Shall We?**
+### Let’s Get Started, Shall We?
 
 Ready for a home service experience that understands you? [Check out our Corona de Tucson services](https://www.idesignac.com/service-areas/corona-de-tucson/) or [swing by our main page](https://www.idesignac.com/) for the full scoop.

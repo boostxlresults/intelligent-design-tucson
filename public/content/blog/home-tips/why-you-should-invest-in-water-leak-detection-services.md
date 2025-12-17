@@ -40,7 +40,7 @@ Moreover, if there is leakage in the walls or underneath the floorboards, it cou
 
 By hiring [professional water leak detection services](https://www.idesignac.com/leak-detection/), residential homeowners and commercial organizations can cut down the frequency of pipe leakages considerably and also save on higher water bills.
 
-### **Why you should invest in water leak detection services?**
+### Why you should invest in water leak detection services?
 
 Some of the key benefits of hiring a company to detect water leakages are:
 
@@ -85,7 +85,7 @@ As seen above there are chances of mold and mildew formation near the areas of l
 
 Regularly getting the pipes inspected will help even the smallest of leaks. You can get the required repairs done before any mold and mildew start growing and contaminating the water.
 
-### **Hire a Professional leak detection services provider**
+### Hire a Professional leak detection services provider
 
 [Intelligent Design](https://www.idesignac.com/) is rated as the number 1 Solar, Plumbing, Air Conditioning Repair & HVAC Company in Tucson. Our team of experts can help you with any plumbing problem you are facing in your house or commercial property.
 

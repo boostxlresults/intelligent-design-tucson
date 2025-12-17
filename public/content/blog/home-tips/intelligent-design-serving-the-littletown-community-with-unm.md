@@ -38,7 +38,7 @@ canonicalUrl: >-
 
 [4) Conclusion](#Conclusion)
 
-## **Introduction**
+## Introduction
 
 Welcome to another blog post from Intelligent Design, your trusted partner for all your home service needs. Today, we’re shining a spotlight on Littletown, a charming community that we’re proud to serve.
 
@@ -46,37 +46,37 @@ While Littletown may be small in size, it’s big on community spirit, and that�
 
 [Visit our Service Areas page for more information.](https://www.idesignac.com/service-areas/little-town/)
 
-## **Our Services**
+## Our Services
 
-### **Air Conditioning**
+### Air Conditioning
 
 When the Arizona sun is blazing, you need an AC system that won’t let you down. Our technicians are trained to handle all types of air conditioning systems, ensuring that your home stays cool and comfortable.
 
-### **Heating**
+### Heating
 
 Don’t let the winter chill get you down. Our [heating services](https://www.idesignac.com/heating/) are designed to keep you cozy, no matter how low the temperature drops.
 
-### **Plumbing**
+### Plumbing
 
 From leaky faucets to major plumbing overhauls, we’ve got you covered. Our plumbing experts are equipped to tackle any issue you may have.
 
-### **Solar**
+### Solar
 
 Looking to make a sustainable choice? Our [solar panel installations](https://www.idesignac.com/solar-tucson/solar-installers-tucson/) are top-notch, helping you save money while protecting the planet.
 
-### **Roofing**
+### Roofing
 
 A sturdy roof is essential for any home. Our roofing services ensure that you’re protected from the elements year-round.
 
-### **Electrical**
+### Electrical
 
 From wiring installations to electrical repairs, our team is skilled in all things electrical. Safety and efficiency are our top priorities.
 
-## **Community First**
+## Community First
 
 At Intelligent Design, we believe in giving back to the community. Whether it’s through local sponsorships or community service, we’re committed to making Littletown a better place to live.
 
-## **Conclusion**
+## Conclusion
 
 We’re not just a service provider; we’re a community partner. With Intelligent Design, you’re not just getting a service; you’re getting a commitment to excellence and community well-being. So the next time you’re in need of any home services, remember that Intelligent Design is just a call away.
 

@@ -37,7 +37,7 @@ A new AC system is always a good idea for your business. If you’er ready for a
 
 However, having your current system evaluated by a professional at least once every two years is also a good idea. Here are some of the most common signs you may need AC replacement or repair.
 
-## **Does Your Air Conditioner Need Cleaning?**
+## Does Your Air Conditioner Need Cleaning?
 
 Is your air conditioner not working as well as it used to? If you notice that the cooling is not as cold, or even worse, if your ac unit seems unable to cool and you’re feeling hot, it’s time for a check-up.
 
@@ -45,7 +45,7 @@ Is your air conditioner not working as well as it used to? If you notice that th
 *   A dirty air filter also affects how well your air conditioners work. When your filter is dirty and clogged, it limits the amount of cold air in your home. 
 *   If you notice that your vents are dusty or they are collecting spider webs, call in a professional for cleaning. This will help reduce allergens in your home and improve air quality overall.
 
-### **Checking the Entire HVAC System**
+### Checking the Entire HVAC System
 
 If your air handler is dirty, it’s time to call a professional for cleaning. A dirty air handler can lead to severe issues with the entire HVAC unit, such as decreased efficiency and energy costs. 
 
@@ -59,7 +59,7 @@ A new HVAC system will come with a warranty, but it is only valid if professiona
 
 The HVAC contractor should also provide maintenance on the new unit to ensure it lasts as long as possible, but you still need to maintain it. In addition, a new HVAC unit requires a professional HVAC contractor to install it for you.
 
-## **Air Conditioner Installation Costs**
+## Air Conditioner Installation Costs
 
 HVAC units can be expensive to install and maintain. Therefore, you should ask your HVAC contractor to estimate the costs of installing a new unit. 
 
@@ -69,7 +69,7 @@ The total cost will depend on what kind of unit you want to install. The average
 
 The total cost will range from [$4,000 to $14,000.](https://modernize.com/hvac/cost-calculator/central-ac-unit-installation) This includes the installation costs.
 
-### **AC Unit Heating and Cooling Costs**
+### AC Unit Heating and Cooling Costs
 
 If you’ve decided to install a new air conditioner in your home, call a professional for help. 
 
@@ -79,7 +79,7 @@ The seasonal energy efficiency ratio will affect costs, considering your central
 
 Taking care of your air conditioning system can help it last longer and use less energy. Energy efficiency will provide you with a longer life expectancy for your air conditioning system.
 
-## **Maintaining Your Air Conditioning System**
+## Maintaining Your Air Conditioning System
 
 Every day, thousands of businesses across the U.S. and Canada trust their commercial HVAC units to keep their employees and businesses cool during hot days. 
 

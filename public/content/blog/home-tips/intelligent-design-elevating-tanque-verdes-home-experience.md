@@ -38,39 +38,39 @@ canonicalUrl: >-
 
 [6.1) Encore: A Standing Ovation for Tanque Verde](#Encore_A_Standing_Ovation_for_Tanque_Verde)
 
-## **Introduction: A New Chapter in Tanque Verde’s Home Services**
+## Introduction: A New Chapter in Tanque Verde’s Home Services
 
 Greetings, Tanque Verde! We are [Intelligent Design](https://www.idesignac.com/), and we’re thrilled to pen a new chapter in home comfort, safety, and eco-friendliness right here in your community.
 
 [Turn the Page to New Possibilities in Tanque Verde](https://www.idesignac.com/service-areas/tanque-verde/)
 
-## **Act I: AC and Heating—The Theater of Comfort**
+## Act I: AC and Heating—The Theater of Comfort
 
-### **Scene 1: Crafting Your Comfort Narrative**
+### Scene 1: Crafting Your Comfort Narrative
 
 In Tanque Verde, comfort isn’t just a backdrop; it’s the main character in your home’s narrative. Our AC and heating services are the scriptwriters, directors, and producers of your indoor climate.
 
-## **Act II: Plumbing—The Orchestra of Your Abode**
+## Act II: Plumbing—The Orchestra of Your Abode
 
-### **Scene 2: Conducting Fluid Harmony**
+### Scene 2: Conducting Fluid Harmony
 
 Think of your [plumbing system](https://www.idesignac.com/plumber-tucson/) as an orchestra, each component a musician in a grand symphony. We’re the conductors, ensuring your plumbing performs a flawless concerto.
 
-## **Act III: Solar—The Spotlight on Sustainability**
+## Act III: Solar—The Spotlight on Sustainability
 
-### **Scene 3: Illuminating a Greener Stage**
+### Scene 3: Illuminating a Greener Stage
 
 Solar energy is the spotlight that can illuminate a sustainable future for Tanque Verde. Our [solar services](https://www.idesignac.com/solar-tucson/) are your stage crew, setting up for an eco-friendly act that steals the show.
 
-## **Act IV: Roofing an d Electrical—The Set and Special Effects**
+## Act IV: Roofing an d Electrical—The Set and Special Effects
 
-### **Scene 4: Building and Electrifying Your Stage**
+### Scene 4: Building and Electrifying Your Stage
 
 Your roof and [electrical system](https://www.idesignac.com/electrical/) are the set and special effects that make your home’s performance captivating. We’re the set designers and tech crew, ensuring every scene is both secure and electrifying.
 
-## **Curtain Call: Why Intelligent Design is Your Perfect Co-Star**
+## Curtain Call: Why Intelligent Design is Your Perfect Co-Star
 
-### **Encore: A Standing Ovation for Tanque Verde**
+### Encore: A Standing Ovation for Tanque Verde
 
 We’re not just service providers; we’re co-stars in your home’s unfolding drama. From the rooftop to the crawl space, we’re committed to giving Tanque Verde a performance worth a standing ovation.
 

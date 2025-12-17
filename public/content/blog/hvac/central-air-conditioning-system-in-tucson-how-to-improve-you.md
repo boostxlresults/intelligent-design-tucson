@@ -41,7 +41,7 @@ When the warm weather hits, there’s nothing quite like having a reliable air c
 
 Like most people, you’ll spend a lot of time indoors this summer. But did you know that your air conditioning system could worsen indoor air quality? This blog post will discuss improving your air quality with your central air conditioning system. Stay cool and comfortable this summer!
 
-## **Buy a High-Quality Central Air Conditioning System**
+## Buy a High-Quality Central Air Conditioning System
 
 Buying a high-quality air conditioner can be a significant investment. You’d want to choose it carefully so you wouldn’t have to purchase a new system yearly. Here are a few things to remember when shopping for an air conditioner to help you make the best decision for your needs.
 
@@ -53,7 +53,7 @@ Finally, be sure to select a reputable brand. When it comes to air conditioners,
 
 You can find the perfect air conditioning unit and a new system for your Tucson home by doing some research.
 
-## **Get Air Filters And Improve Your HVAC System**
+## Get Air Filters And Improve Your HVAC System
 
 Those living in Tucson know that air conditioning is vital to any home. The air conditioning unit provides cool air during those hot summer months, and it helps to improve air quality year-round. However, air conditioners can also be a source of allergies and other respiratory problems.
 
@@ -65,7 +65,7 @@ In addition, a sound HVAC system can help prolong your air conditioner’s life.
 
 When choosing an air filter, be sure to consult with a professional HVAC services company. We can help you choose the right size and type of filter for your air conditioner.
 
-## **Clean the Ducts Regularly**
+## Clean the Ducts Regularly
 
 Most homeowners don’t think about their air ducts until there’s a problem. But the truth is, your air ducts play a vital role in indoor air quality, which can significantly impact your health. Dust, pollen, and other allergens can build up in your air ducts over time, and when your air conditioner or furnace kicks on, those allergens can be circulated throughout your home.
 
@@ -73,7 +73,7 @@ That’s why it’s essential to have your air ducts cleaned regularly by a prof
 
 There are a few different ways to clean the ducts in your air conditioner, but the most important thing is to ensure that you do it regularly. Contact our qualified air conditioning, plumbing company, or HVAC company in Tucson if you have any questions about cleaning the ducts in your air conditioner or need help with any other air conditioning or plumbing issues.
 
-## **Clean or Replace Your Air Conditioning Unit Often**
+## Clean or Replace Your Air Conditioning Unit Often
 
 In southern Arizona, an HVAC company like ours often gets calls to repair or replace air conditioning units. The climate in this region is such that homeowners must be cautious about their AC unit’s maintenance. If you don’t keep up with it, you can find yourself without a working unit when they need it most. 
 
@@ -81,7 +81,7 @@ There are two main things that homeowners need to do to keep their units in good
 
 If you live in southern Arizona and your AC unit needs to be repaired or replaced, it’s best to call an HVAC company specializing in AC repair—like iDesign. Companies like ours have the experience and expertise to do a professional job, and we can usually get the AC repair job done quickly so you can get back to enjoying your cool home.
 
-## **Make Sure Your Vents Aren’t Blocked by Furniture or Drapes**
+## Make Sure Your Vents Aren’t Blocked by Furniture or Drapes
 
 Ensuring that your air conditioning unit is efficient is also a personal responsibility! With AC repair costs being costly, you’d want to do maintenance.
 
@@ -89,13 +89,13 @@ If you notice that your air conditioning vents are blocked by furniture or drape
 
 Keep any furniture or drapes away from your AC unit to prevent this from happening. If there is already an obstruction, move it away from the vent immediately and then contact a professional to help fix the problem. Regular [carpet cleaning](https://www.sparklecleaners.com/carpet-cleaning-tucson/) also helps to keep impurities out of the air in your home.
 
-## **Improve the Air Quality Inside Your Home and Stay Cool This Summer**
+## Improve the Air Quality Inside Your Home and Stay Cool This Summer
 
 If you want your money’s worth and want to ensure that you can use the unit for years to come, it is essential that you keep up with the proper maintenance of your air conditioning. Tucson gets especially hot during the summertime, so make sure you’re investing in an air conditioning system perfect for you and your family!
 
 Whether you hire a professional to fix your air conditioning or do it yourself if it breaks down, always ensure that you follow best practices to use it safely and effectively. This is important to consider for the quality of life and to avoid the dangers that poorly maintained units pose to those living in houses or apartments where they are used.
 
-### **Don’t Wait—Fix Your AC Today**
+### Don’t Wait—Fix Your AC Today
 
 Plumbing companies can also work on your air conditioning since plumbing and air conditioning are closely related. A problem with your plumbing can cause damage to your air conditioner. Moisture, for example, can cause mold and mildew to grow. If not handled in time, this can have disastrous results on indoor air quality and property value.
 
