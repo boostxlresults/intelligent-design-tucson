@@ -243,6 +243,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/electrical-tucson/solar-installation-and-upgrades': '/services/residential-solar-installation',
   '/electrical-tucson/standby-generator-installation-and-repair': '/services/generac-installation',
   '/emergency-electrician-in-tucson': '/services/electrical-repair',
+  '/services/electrician-in-tucson': '/services/electrical-repair',
 
   // ===== SERVICE AREAS =====
   // Valid location slugs per manifest: avra-valley, casas-adobes, catalina-foothills, corona-de-tucson,
