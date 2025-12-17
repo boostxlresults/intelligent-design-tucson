@@ -49,7 +49,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Note: /blog master page exists - DO NOT redirect it
   '/site-map': '/',
   '/idesign-in-the-news': '/about',
-  '/recent-projects': '/customer-reviews',
   '/video-testimonial': '/video-testimonials',
 
   // Resources pages
