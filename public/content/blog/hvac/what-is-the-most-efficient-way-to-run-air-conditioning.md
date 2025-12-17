@@ -14,9 +14,19 @@ heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.p
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-most-efficient-way-to-run-air-conditioning
+video:
+  id: SSql5LzY0Uo
+  title: "What's the best temperature to set your air conditioner at?"
+  description: "Andrew Dobbins discusses the best thermostat temperature settings for your home. Learn about different comfort preferences, smart thermostat solutions with Wi-Fi and app control, and how to keep the peace when family members disagree on temperature."
+  duration: PT3M53S
+  uploadDate: "2020-01-09"
 ---
 
 # What Is the Most Efficient Way to Run Air Conditioning?
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/SSql5LzY0Uo" title="What's the best temperature to set your air conditioner at?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 **Jump to** [Services We Provide](#)
 
