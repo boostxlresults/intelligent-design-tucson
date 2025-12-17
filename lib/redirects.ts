@@ -51,7 +51,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/idesign-in-the-news': '/about',
   '/recent-projects': '/customer-reviews',
   '/video-testimonial': '/video-testimonials',
-  '/video-testimonials': '/video-testimonials',
 
   // Resources pages
   '/resources': '/knowledge-hub',
