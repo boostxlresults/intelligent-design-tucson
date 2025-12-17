@@ -170,6 +170,28 @@ const aggregateRatingSchema = {
   "review": generateReviewSchema()
 };
 
+// VideoObject Schema for Customer Stories video
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Customer Stories: Why Tucson Trusts Intelligent Design",
+  "description": "Hear from real Tucson homeowners about their experiences with Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. 22,000+ five-star reviews from satisfied customers across HVAC, plumbing, solar, electrical, and roofing services.",
+  "thumbnailUrl": "https://img.youtube.com/vi/IKk4kTp_IrQ/maxresdefault.jpg",
+  "uploadDate": "2023-06-15",
+  "duration": "PT2M45S",
+  "contentUrl": "https://www.youtube.com/watch?v=IKk4kTp_IrQ",
+  "embedUrl": "https://www.youtube.com/embed/IKk4kTp_IrQ",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.idesignac.com/#organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.idesignac.com/logo.png"
+    }
+  }
+};
+
 export default function CustomerReviewsPage() {
   return (
     <>
@@ -178,6 +200,12 @@ export default function CustomerReviewsPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(aggregateRatingSchema)
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(videoSchema)
         }}
       />
 
@@ -291,6 +319,32 @@ export default function CustomerReviewsPage() {
                   <p className="text-sm text-muted-foreground">Accredited</p>
                 </CardContent>
               </Card>
+            </div>
+          </div>
+        </section>
+
+        {/* Customer Stories Video Section */}
+        <section className="py-12 bg-muted/20">
+          <div className="max-w-4xl mx-auto px-4">
+            <div className="text-center mb-8">
+              <h2 className="text-2xl md:text-3xl font-bold mb-4">
+                Hear From Our Customers
+              </h2>
+              <p className="text-lg text-muted-foreground">
+                Watch real Tucson homeowners share their experiences with Intelligent Design
+              </p>
+            </div>
+            <div className="relative w-full aspect-video rounded-lg overflow-hidden shadow-lg">
+              <iframe
+                className="absolute inset-0 w-full h-full"
+                src="https://www.youtube.com/embed/IKk4kTp_IrQ?si=zR0oETqzF78GMZ2y"
+                title="Customer Stories: Why Tucson Trusts Intelligent Design"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+                data-testid="video-customer-stories"
+              />
             </div>
           </div>
         </section>
