@@ -162,8 +162,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/roofing-tucson-az/residential-roofing/roof-installation': '/services/residential-roof-installation',
   '/roofing-tucson-az/residential-roofing/roof-repair': '/services/residential-roof-repair',
   '/roofing-tucson-az/residential-roofing/roof-replacements': '/services/residential-roof-replacement',
-  '/roofing-tucson-az/residential-roofing/skylights': '/services/skylight-installation',
-  '/roofing-tucson-az/residential-roofing/solar-tubular-lights': '/services/skylight-installation',
+  '/roofing-tucson-az/residential-roofing/skylights': '/services/skylights',
+  '/roofing-tucson-az/residential-roofing/solar-tubular-lights': '/services/skylights',
   
   // Roofing - Commercial (from /roofing)
   '/roofing/commercial-roofing': '/services/commercial-roof-repair',
@@ -180,8 +180,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/roofing/residential-roofing/roof-installation': '/services/residential-roof-installation',
   '/roofing/residential-roofing/roof-repair': '/services/residential-roof-repair',
   '/roofing/residential-roofing/roof-replacements': '/services/residential-roof-replacement',
-  '/roofing/residential-roofing/skylights': '/services/skylight-installation',
-  '/roofing/residential-roofing/solar-tubular-lights': '/services/skylight-installation',
+  '/roofing/residential-roofing/skylights': '/services/skylights',
+  '/roofing/residential-roofing/solar-tubular-lights': '/services/skylights',
   
   // Roofing - Flat paths (legacy)
   '/residential-roofing': '/services/residential-roof-repair',
@@ -190,8 +190,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/residential-roofing/roof-inspection': '/services/residential-roof-inspection',
   '/residential-roofing/roof-installation': '/services/residential-roof-installation',
   '/residential-roofing/roof-replacements': '/services/residential-roof-replacement',
-  '/residential-roofing/skylights': '/services/skylight-installation',
-  '/residential-roofing/solar-tubular-lights': '/services/skylight-installation',
+  '/residential-roofing/skylights': '/services/skylights',
+  '/residential-roofing/solar-tubular-lights': '/services/skylights',
+  '/services/skylight-installation': '/services/skylights',
   '/residential-roofing/emergency-roof-repair': '/services/residential-roof-repair',
   
   '/commercial-roofing': '/services/commercial-roof-repair',

@@ -8,7 +8,7 @@ export const saddlebrookecatalinaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in SaddleBrooke / Catalina, AZ',
   description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in SaddleBrooke and Catalina. Serving zip codes 85739, 85755 in this beautiful retirement community since 1979. 24/7 emergency service. BBB A+ rated.',
-  slug: 'saddlebrooke-catalina',
+  slug: 'saddle-brooke-catalina',
   
   // Hero Section
   h1: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in SaddleBrooke / Catalina, AZ',
