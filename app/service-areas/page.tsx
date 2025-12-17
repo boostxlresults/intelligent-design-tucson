@@ -293,6 +293,13 @@ export default function ServiceAreasPage() {
                     <div className="flex flex-col gap-2">
                       <p className="text-sm text-muted-foreground">All services available</p>
                       <Link
+                        href={`/service-areas/${area.slug}`}
+                        className="text-sm font-medium text-primary hover:underline"
+                        data-testid={`link-area-${area.slug}`}
+                      >
+                        Learn More →
+                      </Link>
+                      <Link
                         href="/contact"
                         className="text-sm font-medium text-primary hover:underline"
                         data-testid={`link-contact-${area.slug}`}
