@@ -60,6 +60,25 @@ const faqSchema = {
   ]
 };
 
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Family Protection Plans - Intelligent Design Home Maintenance Plans",
+  "description": "Learn about Intelligent Design's Family Protection Plans offering comprehensive home maintenance coverage for HVAC, plumbing, electrical, roofing, and solar systems. Priority service, repair discounts, and 5 free annual visits.",
+  "thumbnailUrl": "https://img.youtube.com/vi/7fvu8D6HN_g/maxresdefault.jpg",
+  "uploadDate": "2024-01-01",
+  "contentUrl": "https://www.youtube.com/watch?v=7fvu8D6HN_g",
+  "embedUrl": "https://www.youtube.com/embed/7fvu8D6HN_g",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.idesignac.com/logo.png"
+    }
+  }
+};
+
 export default function FamilyProtectionPlansPage() {
   const mainPlans = [
     { name: "Basic", image: "/images/plans/basic.jpg" },
@@ -103,6 +122,12 @@ export default function FamilyProtectionPlansPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(faqSchema)
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(videoSchema)
         }}
       />
 
@@ -192,6 +217,22 @@ export default function FamilyProtectionPlansPage() {
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Choose from our comprehensive protection plans designed to keep your home running smoothly year-round
               </p>
+
+              <div className="mt-8 max-w-3xl mx-auto">
+                <div className="aspect-video w-full">
+                  <iframe 
+                    width="100%" 
+                    height="100%" 
+                    src="https://www.youtube.com/embed/7fvu8D6HN_g?si=tzMh4SNWhrFU0ZL7"
+                    title="Family Protection Plans - Intelligent Design Home Maintenance Plans"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerPolicy="strict-origin-when-cross-origin"
+                    allowFullScreen
+                    className="rounded-lg shadow-lg"
+                  />
+                </div>
+              </div>
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
