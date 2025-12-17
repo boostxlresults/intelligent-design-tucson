@@ -50,6 +50,14 @@ export const actuneupData: ServicePageData = {
     mainHeading: 'Best A C Tuneup Company in Tucson, AZ',
     sections: [
       {
+            "type": "video",
+            "videoId": "a34eWo_fucE",
+            "title": "AC Tune-Up Service Tucson - Professional Air Conditioning Maintenance",
+            "description": "Watch our certified HVAC technicians perform a comprehensive AC tune-up in Tucson. Learn about our 23-point inspection process, efficiency optimization, and how regular maintenance prevents breakdowns and extends equipment life.",
+            "duration": "PT5M",
+            "uploadDate": "2024-01-01"
+      },
+      {
             "type": "heading",
             "heading": "Best AC Tune-Up Company in Tucson, AZ",
             "level": 2,
