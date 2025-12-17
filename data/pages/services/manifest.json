@@ -740,6 +740,10 @@
       "dataFile": "privacypolicy",
       "canonicalSlug": "privacy-policy"
     },
+    "repipe-tucson": {
+      "dataFile": "repipetucson",
+      "canonicalSlug": "repipe-tucson"
+    },
     "residential-roof-coating": {
       "dataFile": "residentialroofcoating",
       "canonicalSlug": "residential-roof-coating"
@@ -1023,6 +1027,10 @@
     "tortolita": {
       "dataFile": "tortolita",
       "canonicalSlug": "tortolita"
+    },
+    "tankless-water-heaters": {
+      "dataFile": "tanklesswaterheaters",
+      "canonicalSlug": "tankless-water-heaters"
     },
     "trenchless-repair": {
       "dataFile": "trenchlessrepair",
@@ -1327,6 +1335,8 @@
     "waterheaters": "water-heaters",
     "waterleakrepair": "water-leak-repair",
     "watersofteners": "water-softeners",
-    "whytucsonchoosesintelligentdesign": "why-tucson-chooses-intelligent-design"
+    "whytucsonchoosesintelligentdesign": "why-tucson-chooses-intelligent-design",
+    "repipetucson": "repipe-tucson",
+    "tanklesswaterheaters": "tankless-water-heaters"
   }
 }

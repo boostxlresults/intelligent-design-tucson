@@ -275,3 +275,5 @@ export { waterheatersData } from './waterheaters';
 export { waterleakrepairData } from './waterleakrepair';
 export { watersoftenersData } from './watersofteners';
 export { whytucsonchoosesintelligentdesignData } from './whytucsonchoosesintelligentdesign';
+export { repipetucsonData } from './repipetucson';
+export { tanklesswaterheatersData } from './tanklesswaterheaters';

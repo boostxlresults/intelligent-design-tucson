@@ -147,9 +147,11 @@ export default function Header() {
       { name: "Water Heater Installation", href: "/services/water-heater-installation", icon: Package },
       { name: "Hybrid Water Heater Services", href: "/services/hybrid-water-heaters", icon: Zap },
       { name: "Water Heater Flush", href: "/services/water-heater-flush", icon: Waves },
+      { name: "Tankless Water Heaters", href: "/services/tankless-water-heaters", icon: Zap },
       { name: "Plumbing Maintenance", href: "/services/plumbing-maintenance", icon: Gauge },
       { name: "Sink Repair & Installation", href: "/services/sink-repair-installation", icon: CircleDot },
       { name: "Bidet Installation Tucson", href: "/services/bidet-installation", icon: Bath },
+      { name: "Repipe Specialist", href: "/services/repipe-tucson", icon: Wrench },
     ],
     column2: [
       { name: "Drain Clearing Tucson", href: "/services/drain-clearing", icon: Waves },
