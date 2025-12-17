@@ -24,6 +24,8 @@ canonicalUrl: >-
 
 [4) Is it possible to use solar power for my air conditioner?](#Is_it_possible_to_use_solar_power_for_my_air_conditioner)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CL9iUDjH898?si=m7QmXTT-AOP7aRrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 If you are looking for the answer to the question, “Does air conditioning use gas or electricity?” you might be experiencing an AC malfunction and you aren’t quite sure what to tell the technician. Or, perhaps you are wondering why your utility bill is so high and you are curious about whether your AC is responsible for much of your electricity usage. Whatever the reason is, it is not unusual to be unsure about how your [air conditioning system](https://www.idesignac.com/services/air-conditioning/) or other home systems work. If you ever have any questions about your system, you should always feel free to ask a certified HVAC technician for help. Here at Intelligent Design, we pride ourselves on delivering excellent customer service, including customer education. You can always count on us to answer your questions!
 
 ### Does air conditioning use gas or electricity?
