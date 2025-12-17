@@ -13,12 +13,17 @@ heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-are-some-effective-strategies-to-reduce-ac-noise
-video:
-  id: 9PIWmP9ACpg
-  title: "Air Conditioner Noise: How to Reduce It"
-  description: "iDesign Answers: What are effective strategies for air conditioner noise reduction? It depends on the underlying problem, which might involve an off-balance wheel or a blower motor that's worn out. Learn about motor noises, intake noises, whistling, furnace noises, and outside unit solutions."
-  duration: PT5M2S
-  uploadDate: "2019-12-15"
+videos:
+  - id: 9PIWmP9ACpg
+    title: "Air Conditioner Noise: How to Reduce It"
+    description: "iDesign Answers: What are effective strategies for air conditioner noise reduction? It depends on the underlying problem, which might involve an off-balance wheel or a blower motor that's worn out. Learn about motor noises, intake noises, whistling, furnace noises, and outside unit solutions."
+    duration: PT5M2S
+    uploadDate: "2019-12-15"
+  - id: Jv4B0yaf1F4
+    title: "Why Is My AC Making Noise?"
+    description: "Andrew Dobbins explains common causes of AC noise including motor noise vs air resistance noise, compressor issues, off-balance fan motors, and dirty blower motors. Learn how to identify and fix these problems."
+    duration: PT1M12S
+    uploadDate: "2020-01-09"
 ---
 
 # What Are Some Effective Strategies to Reduce AC Noise?
@@ -40,6 +45,8 @@ video:
 [5) Reduce AC Noise: Outside Unit Noises](#Reduce_AC_Noise_Outside_Unit_Noises)
 
 [6) Reduce AC Noise: Old System Noises](#Reduce_AC_Noise_Old_System_Noises)
+
+[7) Why Is My AC Making Noise?](#Why_Is_My_AC_Making_Noise)
 
 You’ve planned a relaxing day at home, but your AC unit keeps making irritating noises. You’re not alone! It’s a common problem in Southern Arizona homes. There are many strategies designed to reduce AC noise, but the one that will work best for you really depends on exactly what’s causing the problem. One of the friendly HVAC technicians at Intelligent Design can figure out exactly what’s going on and recommend suitable options to facilitate peace and quiet in your home!
 
@@ -74,6 +81,24 @@ If your outside AC unit sounds like a jet engine, the problem could be the compr
 The HVAC technicians at Intelligent Design can work miracles when it comes to noise reduction in AC and furnace units. Unfortunately, if you have a very old unit, the problem might not be fixable; the noise could simply be attributed to the design of the unit. If your unit is over 11 years old and it’s not possible to reduce AC noise with one of our quick fixes, it may just be time to replace the system.
 
 You’d be amazed at how much quieter the new AC units are! With a brand new central AC, you’ll enjoy better energy efficiency, a reduced need for repairs, plus the peace and quiet you crave, both inside and outside your home!
+
+### Why Is My AC Making Noise?
+
+<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Jv4B0yaf1F4" title="Why Is My AC Making Noise?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+When your AC starts making unusual sounds, there are several possible causes to consider. The noise could be coming from one of the motors, but it might also be caused by air resistance. If one of your vents is too small or you've adjusted airflow to push air to another area of the home, or if the intake is undersized, you'll hear air-related noise.
+
+**Motor noise vs. air noise** is an important distinction. For motor-related issues:
+
+- **Compressor noise:** There are solutions to quiet the compressor down, which can also lower amp draw
+- **Fan motor noise:** If the outdoor fan motor is banging around, it may be off-balance and rattling the entire outside unit
+- **Blower motor noise:** Dirt buildup on the blower motor can weight one side, causing it to move around and create a racket
+
+The best approach is to have a professional technician inspect your system to identify exactly what's creating the noise and provide targeted solutions.
+
+
 
 If you’ve been hearing some unusual noises from your air conditioner or furnace, give us a call at [Intelligent Design](https://www.idesignac.com/ac/)! Our certified HVAC technicians have years of experience, and can quickly diagnose the source of the problem and recommend budget-friendly solutions to reduce AC noise. If you’ve decided that the time has come to replace the unit, then call us at [(520) 462-1187](tel:+\(520\)%20462-1187) for a free estimate. We are available in Tucson and the surrounding areas.
 
