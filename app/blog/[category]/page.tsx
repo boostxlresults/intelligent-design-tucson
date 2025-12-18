@@ -161,6 +161,64 @@ export default async function BlogCategoryPage({
           </div>
         </section>
         
+        {/* Featured Post - Solar Category */}
+        {category === 'solar' && posts.find(p => p.slug === 'what-to-do-solar-company-closed-tucson') && (
+          <section className="py-8 md:py-12 border-b border-border">
+            <div className="max-w-7xl mx-auto px-4">
+              {(() => {
+                const featuredPost = posts.find(p => p.slug === 'what-to-do-solar-company-closed-tucson')!;
+                const publishedDate = new Date(featuredPost.publishedAt).toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                });
+                return (
+                  <Link href={`/blog/${category}/${featuredPost.slug}`} className="block group">
+                    <Card className="hover-elevate overflow-hidden" data-testid="card-featured-post">
+                      <div className="grid md:grid-cols-2 gap-0">
+                        {featuredPost.heroImage && (
+                          <div className="aspect-video md:aspect-auto md:h-full bg-muted overflow-hidden">
+                            <img
+                              src={featuredPost.heroImage}
+                              alt={featuredPost.title}
+                              className="w-full h-full object-cover"
+                              data-testid="img-featured-hero"
+                            />
+                          </div>
+                        )}
+                        <div className="p-6 md:p-8 flex flex-col justify-center">
+                          <div className="inline-block mb-3">
+                            <span className="bg-primary text-primary-foreground text-xs font-semibold px-3 py-1 rounded-full">
+                              Featured Article
+                            </span>
+                          </div>
+                          <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-3 group-hover:text-primary transition-colors" data-testid="text-featured-title">
+                            {featuredPost.title}
+                          </h2>
+                          <p className="text-muted-foreground mb-4 line-clamp-3" data-testid="text-featured-excerpt">
+                            {featuredPost.excerpt || featuredPost.description}
+                          </p>
+                          <div className="flex items-center gap-3 text-sm text-muted-foreground">
+                            <div className="flex items-center gap-1">
+                              <Calendar className="w-4 h-4" />
+                              <time dateTime={featuredPost.publishedAt}>{publishedDate}</time>
+                            </div>
+                            <span>•</span>
+                            <div className="flex items-center gap-1">
+                              <Clock className="w-4 h-4" />
+                              <span>{featuredPost.readingTime} min read</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </Card>
+                  </Link>
+                );
+              })()}
+            </div>
+          </section>
+        )}
+
         {/* Blog Posts Grid */}
         <section className="py-12 md:py-16">
           <div className="max-w-7xl mx-auto px-4">
@@ -172,7 +230,7 @@ export default async function BlogCategoryPage({
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {posts.map((post) => {
+                {posts.filter(p => !(category === 'solar' && p.slug === 'what-to-do-solar-company-closed-tucson')).map((post) => {
                   const publishedDate = new Date(post.publishedAt).toLocaleDateString('en-US', {
                     year: 'numeric',
                     month: 'long',
