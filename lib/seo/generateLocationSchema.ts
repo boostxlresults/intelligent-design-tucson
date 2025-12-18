@@ -11,6 +11,7 @@
 import { BUSINESS_INFO } from './constants';
 import { gbpCategoriesData } from '@/data/gbpCategories';
 import { generateZipCodeSchemas } from './zipCodes';
+import { reviewsData } from '@/data/reviews';
 
 export interface LocationSchemaOptions {
   location: string;
@@ -20,7 +21,8 @@ export interface LocationSchemaOptions {
   imageUrl?: string;
   includeGeoCircle?: boolean; // Include service radius (default: true)
   serviceRadius?: number; // Service radius in miles (default: 50)
-  zipCodes?: string[]; // Location-specific zip codes for PostalCodeSpecification
+  zipCodes?: string[]; // Location-specific zip codes for DefinedRegion
+  includeRating?: boolean; // Whether to include aggregateRating (default: true)
 }
 
 export function generateLocationSchema(options: LocationSchemaOptions) {
@@ -32,7 +34,8 @@ export function generateLocationSchema(options: LocationSchemaOptions) {
     imageUrl,
     includeGeoCircle = true,
     serviceRadius = 50,
-    zipCodes
+    zipCodes,
+    includeRating = true
   } = options;
 
   // Get location coordinates if available
@@ -133,6 +136,16 @@ export function generateLocationSchema(options: LocationSchemaOptions) {
           "name": service
         }
       }))
+    };
+  }
+
+  // Add aggregate rating for star snippets in search results
+  if (includeRating) {
+    (schema as any).aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": reviewsData.aggregateRating.ratingValue,
+      "reviewCount": reviewsData.aggregateRating.reviewCount,
+      "bestRating": reviewsData.aggregateRating.bestRating
     };
   }
 

@@ -16,6 +16,7 @@
 import { BUSINESS_INFO } from './constants';
 import { generateZipCodeSchemas, getZipsForArea } from './zipCodes';
 import { getBrandDataForCategory, generateBrandSchemas, generateVariantSchemas } from './serviceBrands';
+import { reviewsData } from '@/data/reviews';
 
 export interface ServiceSchemaOptions {
   serviceName: string;
@@ -28,6 +29,7 @@ export interface ServiceSchemaOptions {
   category?: string; // Service category for brand matching (HVAC, Plumbing, etc.)
   includeBrands?: boolean; // Whether to include hasBrand (default: true)
   includeVariants?: boolean; // Whether to include hasVariant (default: true)
+  includeRating?: boolean; // Whether to include aggregateRating (default: true)
 }
 
 export function generateServiceSchema(options: ServiceSchemaOptions) {
@@ -41,7 +43,8 @@ export function generateServiceSchema(options: ServiceSchemaOptions) {
     imageUrl,
     category,
     includeBrands = true,
-    includeVariants = true
+    includeVariants = true,
+    includeRating = true
   } = options;
 
   // Enhanced areaServed with zip codes for AI search optimization
@@ -125,6 +128,16 @@ export function generateServiceSchema(options: ServiceSchemaOptions) {
           "name": service
         }
       }))
+    };
+  }
+
+  // Add aggregate rating for star snippets in search results
+  if (includeRating) {
+    schema.aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": reviewsData.aggregateRating.ratingValue,
+      "reviewCount": reviewsData.aggregateRating.reviewCount,
+      "bestRating": reviewsData.aggregateRating.bestRating
     };
   }
 
