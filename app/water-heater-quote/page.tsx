@@ -3,6 +3,17 @@ import { generateMetadata as generateFullMetadata } from '@/lib/seo/generateMeta
 import { SchedulerCluster } from '@/components/SchedulerCluster';
 import Link from 'next/link';
 import { CheckCircle2, Droplets, Flame, Zap, Clock, Shield, ThermometerSun, Gauge } from 'lucide-react';
+import { getPageSchemas } from '@/lib/seo/schemaRegistry';
+import { SITE_URL } from '@/lib/constants';
+import ClientSchemas from '@/components/schemas/ClientSchemas';
+
+const productSchemas = getPageSchemas({
+  pageType: 'product',
+  canonicalUrl: `${SITE_URL}/water-heater-quote`,
+  pageData: {
+    productCategory: 'Water Heater'
+  }
+});
 
 export const metadata: Metadata = generateFullMetadata({
   title: 'Free Online Water Heater Quote Tucson | Tank & Tankless Pricing',
@@ -85,6 +96,7 @@ const faqSchema = {
 export default function WaterHeaterQuotePage() {
   return (
     <div className="min-h-screen bg-background">
+      <ClientSchemas schemas={productSchemas} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}

@@ -3,6 +3,17 @@ import { generateMetadata as generateFullMetadata } from '@/lib/seo/generateMeta
 import { SchedulerCluster } from '@/components/SchedulerCluster';
 import Link from 'next/link';
 import { CheckCircle2, Shield, Clock, Award, ThermometerSun, Zap, Leaf, Home } from 'lucide-react';
+import { getPageSchemas } from '@/lib/seo/schemaRegistry';
+import { SITE_URL } from '@/lib/constants';
+import ClientSchemas from '@/components/schemas/ClientSchemas';
+
+const productSchemas = getPageSchemas({
+  pageType: 'product',
+  canonicalUrl: `${SITE_URL}/free-hvac-quote`,
+  pageData: {
+    productCategory: 'HVAC'
+  }
+});
 
 export const metadata: Metadata = generateFullMetadata({
   title: 'Free Online HVAC Quote Tucson | AC System Pricing Calculator',
@@ -85,6 +96,7 @@ const faqSchema = {
 export default function FreeHVACQuotePage() {
   return (
     <div className="min-h-screen bg-background">
+      <ClientSchemas schemas={productSchemas} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
