@@ -145,6 +145,19 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Recent Projects - RealWorkLabs Widget */}
+        <section className="py-12 md:py-16 bg-gray-50">
+          <div className="container mx-auto px-4 max-w-6xl">
+            <h2 className="text-2xl md:text-3xl font-bold text-center text-gray-900 mb-4">
+              Recent Projects in Your Neighborhood
+            </h2>
+            <p className="text-center text-muted-foreground mb-8 max-w-2xl mx-auto">
+              See real installations and repairs we've completed for Tucson homeowners just like you.
+            </p>
+            <div id="rwl-output" className="min-h-[400px]" data-testid="rwl-output-homepage" />
+          </div>
+        </section>
+
         {/* Customer Reviews */}
         <ReviewModule />
 
