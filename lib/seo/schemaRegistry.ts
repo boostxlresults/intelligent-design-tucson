@@ -23,6 +23,7 @@ import { getZipsForArea } from './zipCodes';
 import { generatePlaceSchema } from './generatePlaceSchema';
 import { generateHomeAndConstructionBusinessSchema } from './generateHomeAndConstructionBusinessSchema';
 import { generateImageObjectSchemas } from './generateImageObjectSchema';
+import { generateProductSchema, generateEquipmentProductSchemas } from './generateProductSchema';
 
 export type PageType = 
   | 'homepage'
@@ -30,7 +31,8 @@ export type PageType =
   | 'service-location'
   | 'service-area'
   | 'blog'
-  | 'info';
+  | 'info'
+  | 'product';
 
 export interface SchemaRegistryOptions {
   pageType: PageType;
@@ -65,6 +67,7 @@ export interface SchemaRegistryOptions {
       embedUrl: string;
       duration?: string;
     }>;
+    productCategory?: 'HVAC' | 'Water Heater';
   };
 }
 
@@ -94,6 +97,9 @@ export function getPageSchemas(options: SchemaRegistryOptions): Array<Record<str
     
     case 'info':
       return getInfoPageSchemas(canonicalUrl, pageData);
+    
+    case 'product':
+      return getProductPageSchemas(canonicalUrl, pageData);
     
     default:
       return [];
@@ -447,6 +453,55 @@ function getInfoPageSchemas(canonicalUrl: string, pageData: any) {
   if (pageData.faqs && pageData.faqs.length > 0) {
     schemas.push(generateFAQSchema(pageData.faqs));
   }
+
+  return schemas;
+}
+
+/**
+ * PRODUCT PAGE SCHEMAS (5-10+ schemas)
+ * For equipment quote pages (HVAC systems, Water Heaters)
+ * - Organization
+ * - Product schemas for equipment brands
+ * - FAQPage (if applicable)
+ * - BreadcrumbList
+ */
+function getProductPageSchemas(canonicalUrl: string, pageData: any) {
+  const schemas = [];
+
+  // 1. Organization Schema
+  const baseUrl = canonicalUrl.match(/^https?:\/\/[^\/]+/)?.[0] || 'https://www.idesignac.com';
+  schemas.push(generateOrganizationSchema({
+    canonicalUrl: baseUrl,
+    includeRating: true,
+    includeContactPoints: true,
+    includeSameAs: false
+  }));
+
+  // 2. Product Schemas (multiple for equipment category)
+  if (pageData.productCategory) {
+    const productSchemas = generateEquipmentProductSchemas({
+      category: pageData.productCategory,
+      canonicalUrl
+    });
+    schemas.push(...productSchemas);
+  }
+
+  // 3. FAQPage if applicable
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
+
+  // 4. BreadcrumbList
+  const breadcrumbItems = [
+    { name: 'Home', url: '/' },
+    { name: 'Services', url: '/services' }
+  ];
+  if (pageData.productCategory === 'HVAC') {
+    breadcrumbItems.push({ name: 'Free HVAC Quote', url: canonicalUrl });
+  } else if (pageData.productCategory === 'Water Heater') {
+    breadcrumbItems.push({ name: 'Free Water Heater Quote', url: canonicalUrl });
+  }
+  schemas.push(generateBreadcrumbs(breadcrumbItems, baseUrl));
 
   return schemas;
 }
