@@ -22,6 +22,7 @@ import { generateVideoObjectSchema } from './generateVideoObjectSchema';
 import { getZipsForArea } from './zipCodes';
 import { generatePlaceSchema } from './generatePlaceSchema';
 import { generateHomeAndConstructionBusinessSchema } from './generateHomeAndConstructionBusinessSchema';
+import { generateImageObjectSchemas } from './generateImageObjectSchema';
 
 export type PageType = 
   | 'homepage'
@@ -154,6 +155,10 @@ function getHomepageSchemas(canonicalUrl: string) {
     }
   });
   schemas.push(...reviewSchemas);
+
+  // 11-12. ImageObject Schemas (logo and cover image)
+  const imageSchemas = generateImageObjectSchemas({ canonicalUrl });
+  schemas.push(...imageSchemas);
 
   return schemas;
 }
