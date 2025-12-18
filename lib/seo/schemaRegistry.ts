@@ -19,6 +19,7 @@ import { generateFAQSchema } from './generateFAQSchema';
 import { generateBreadcrumbs } from './generateBreadcrumbs';
 import { generateHowToSchema } from './generateHowToSchema';
 import { generateVideoObjectSchema } from './generateVideoObjectSchema';
+import { getZipsForArea } from './zipCodes';
 
 export type PageType = 
   | 'homepage'
@@ -253,15 +254,19 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     }));
   }
 
-  // 2. Geo-Enhanced LocalBusiness with GeoCircle
+  // 2. Geo-Enhanced LocalBusiness with GeoCircle and location-specific DefinedRegion zip codes
   if (pageData.location) {
+    // Get location-specific zip codes for DefinedRegion schema
+    const locationZips = pageData.zipCodes || getZipsForArea(pageData.location);
+    
     schemas.push(generateLocationSchema({
       location: pageData.location,
       services: pageData.services || [],
       description: pageData.locationDescription,
       canonicalUrl,
       includeGeoCircle: true,
-      serviceRadius: 50
+      serviceRadius: 50,
+      zipCodes: locationZips.length > 0 ? locationZips : undefined
     }));
   }
 
@@ -341,8 +346,11 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
 function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
   const schemas = [];
 
-  // 1. LocalBusiness with GeoCircle and location-specific zip codes
+  // 1. LocalBusiness with GeoCircle and location-specific DefinedRegion zip codes
   if (pageData.location) {
+    // Get location-specific zip codes for DefinedRegion schema
+    const locationZips = pageData.zipCodes || getZipsForArea(pageData.location);
+    
     schemas.push(generateLocationSchema({
       location: pageData.location,
       services: pageData.services || [],
@@ -350,7 +358,7 @@ function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
       canonicalUrl,
       includeGeoCircle: true,
       serviceRadius: 50,
-      zipCodes: pageData.zipCodes // Pass location-specific zip codes
+      zipCodes: locationZips.length > 0 ? locationZips : undefined
     }));
   }
 
