@@ -28,7 +28,7 @@ export const saddlebrookecatalinaData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for SaddleBrooke homes.",
-    "link": "/services/hvacsaddlebrookecatalina"
+    "link": "/services/hvac-saddle-brooke-catalina"
   },
   {
     "icon": "Flame",

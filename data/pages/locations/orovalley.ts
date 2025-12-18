@@ -28,7 +28,7 @@ export const orovalleyData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Oro Valley homes.",
-    "link": "/services/hvacorovalley"
+    "link": "/services/hvac-oro-valley"
   },
   {
     "icon": "Flame",

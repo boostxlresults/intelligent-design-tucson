@@ -25,6 +25,12 @@ export const picturerocksData: LocationPageData = {
   // Services
   services: [
   {
+    "icon": "AirVent",
+    "title": "Air Conditioning",
+    "description": "Expert AC repair, installation, and maintenance for Picture Rocks homes.",
+    "link": "/services/hvac-picture-rocks"
+  },
+  {
     "icon": "Flame",
     "title": "Heating",
     "description": "Reliable heating services to keep you warm during chilly desert nights.",

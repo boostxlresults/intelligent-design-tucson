@@ -28,7 +28,7 @@ export const sahuaritaData: LocationPageData = {
     "icon": "AirVent",
     "title": "Air Conditioning",
     "description": "Expert AC repair, installation, and maintenance for Sahuarita homes.",
-    "link": "/services/hvacsahuarita"
+    "link": "/services/hvac-sahuarita"
   },
   {
     "icon": "Flame",

@@ -25,6 +25,12 @@ export const casasadobesData: LocationPageData = {
   // Services
   services: [
   {
+    "icon": "AirVent",
+    "title": "Air Conditioning",
+    "description": "Expert AC repair, installation, and maintenance for Casas Adobes homes.",
+    "link": "/services/hvac-casas-adobes"
+  },
+  {
     "icon": "Flame",
     "title": "Heating",
     "description": "Reliable heating services to keep you warm during chilly desert nights.",

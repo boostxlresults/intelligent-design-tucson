@@ -25,6 +25,12 @@ export const vailData: LocationPageData = {
   // Services
   services: [
   {
+    "icon": "AirVent",
+    "title": "Air Conditioning",
+    "description": "Expert AC repair, installation, and maintenance for Vail homes.",
+    "link": "/services/hvac-vail"
+  },
+  {
     "icon": "Flame",
     "title": "Heating",
     "description": "Reliable heating services to keep you warm during chilly desert nights.",

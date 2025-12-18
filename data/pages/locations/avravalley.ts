@@ -25,6 +25,12 @@ export const avravalleyData: LocationPageData = {
   // Services
   services: [
   {
+    "icon": "AirVent",
+    "title": "Air Conditioning",
+    "description": "Expert AC repair, installation, and maintenance for Avra Valley homes.",
+    "link": "/services/hvac-avra-valley"
+  },
+  {
     "icon": "Flame",
     "title": "Heating",
     "description": "Reliable heating services to keep you warm during chilly desert nights.",
