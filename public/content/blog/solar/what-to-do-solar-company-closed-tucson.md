@@ -33,7 +33,7 @@ video:
 
 Over the last two years, dozens of solar companies across Arizona have shut their doors — including some of the largest names in the industry. Unfortunately, this has left many **Tucson** homeowners stranded with malfunctioning solar systems, unanswered warranty claims, and no clear path forward. 
 
-If you've found yourself in this situation, you're not alone ([See the Solar Company Closure List](https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures)). This guide will walk you through the exact steps to protect your investment, restore your solar system's performance, and ensure you have ongoing, reliable support from a trusted **solar company in Tucson**.
+If you've found yourself in this situation, you're not alone (<a href="https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures" target="_blank" rel="noopener noreferrer">See the Solar Company Closure List</a>). This guide will walk you through the exact steps to protect your investment, restore your solar system's performance, and ensure you have ongoing, reliable support from a trusted **solar company in Tucson**.
 
 <div class="my-8 aspect-video w-full max-w-2xl mx-auto">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/S3q98_reFiE?si=I5RygkfZ_Fafzf08" title="What to Do If Your Solar Company Closed - Expert Recovery Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
