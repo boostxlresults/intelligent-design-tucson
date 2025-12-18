@@ -69,6 +69,8 @@ export function generateProductSchema(options: ProductSchemaOptions) {
       "name": BUSINESS_INFO.name,
       "telephone": BUSINESS_INFO.phone,
       "url": baseUrl,
+      "image": `${baseUrl}/og-image.jpg`,
+      "logo": `${baseUrl}/logo.png`,
       "address": {
         "@type": "PostalAddress",
         "streetAddress": BUSINESS_INFO.address.street,
@@ -109,7 +111,8 @@ export function generateProductSchema(options: ProductSchemaOptions) {
       "availability": offers.availability || "https://schema.org/InStock",
       "seller": {
         "@type": "Organization",
-        "name": BUSINESS_INFO.name
+        "name": BUSINESS_INFO.name,
+        "image": `${baseUrl}/og-image.jpg`
       },
       "url": canonicalUrl
     };
