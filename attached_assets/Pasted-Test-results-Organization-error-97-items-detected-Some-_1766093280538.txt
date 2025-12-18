@@ -1,0 +1,5158 @@
+Test results
+
+Organization
+error
+97 items detected: Some are invalid
+Invalid items are not eligible for Google Search's rich results. Learn more
+Details
+Crawl
+check_circle
+Crawled successfully on Dec 18, 2025, 2:24:20 PM
+Crawled as
+Google Inspection Tool smartphone
+Crawl allowed?
+Yes
+Page fetch
+Successful
+Indexing allowed?
+Yes
+Detected items
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+slogan
+Your Comfort is Our Priority
+foundingDate
+1979
+alternateName
+Intelligent Design
+alternateName
+Intelligent Design Air Conditioning
+alternateName
+Intelligent Design Tucson
+alternateName
+IDAC
+alternateName
+ID Air Conditioning
+alternateName
+Intelligent Design HVAC
+alternateName
+Intelligent Design Plumbing
+alternateName
+Intelligent Design Solar
+alternateName
+Wood's Plumbing
+knowsAbout
+HVAC Installation
+knowsAbout
+Air Conditioning Repair
+knowsAbout
+Heating System Repair
+knowsAbout
+Furnace Installation
+knowsAbout
+Heat Pump Service
+knowsAbout
+Ductless Mini-Split Systems
+knowsAbout
+Indoor Air Quality
+knowsAbout
+Plumbing Services
+knowsAbout
+Water Heater Installation
+knowsAbout
+Drain Cleaning
+knowsAbout
+Leak Detection
+knowsAbout
+Solar Panel Installation
+knowsAbout
+Solar Energy Systems
+knowsAbout
+Battery Storage
+knowsAbout
+Generator Installation
+knowsAbout
+Electrical Services
+knowsAbout
+Electrical Panel Upgrades
+knowsAbout
+Lighting Installation
+knowsAbout
+Roofing Services
+knowsAbout
+Roof Repair
+knowsAbout
+Roof Coating
+knowsAbout
+Emergency Services
+knowsAbout
+24/7 HVAC Repair
+knowsAbout
+Emergency Plumbing
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-39 Air Conditioning and Refrigeration License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 276673
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-37 Plumbing License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 296386
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-11 Electrical License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 322375
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-42 Roofing License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 340962
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+certification
+name
+Veteran-Owned Business
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+contactPoint
+type
+ContactPoint
+telephone
++1-520-333-2665
+contactType
+customer service
+areaServed
+AZ
+availableLanguage
+English
+availableLanguage
+Spanish
+contactOption
+http://schema.org/TollFree
+contactPoint
+type
+ContactPoint
+telephone
++1-520-333-2665
+contactType
+emergency
+areaServed
+AZ
+availableLanguage
+English
+availableLanguage
+Spanish
+hoursAvailable
+type
+OpeningHoursSpecification
+name
+24/7
+sameAs
+https://www.facebook.com/IDesignAC
+sameAs
+https://www.instagram.com/intelligentdesigntucson/
+sameAs
+https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/
+sameAs
+https://www.youtube.com/@Idesignac
+sameAs
+https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256
+sameAs
+https://g.page/r/CajVBZOPuZ56EBE/
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+memberOf
+type
+Organization
+name
+Better Business Bureau
+alternateName
+BBB
+url
+https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256
+memberOf
+type
+Organization
+name
+Contractor License Board
+alternateName
+Arizona ROC
+brand
+type
+Brand
+name
+Carrier
+brand
+type
+Brand
+name
+Trane
+brand
+type
+Brand
+name
+Daikin
+brand
+type
+Brand
+name
+Amana
+brand
+type
+Brand
+name
+Goodman
+brand
+type
+Brand
+name
+American Standard
+brand
+type
+Brand
+name
+Desert Shield
+url
+https://desertshield.com/
+awards
+BBB A+ Rating
+awards
+22,000+ Five-Star Reviews
+awards
+Family-Owned Business Since 1979
+awards
+Veteran-Owned Business
+awards
+Arizona ROC Licensed
+awards
+46+ Years of Experience
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+type
+HomeAndConstructionBusiness
+id
+https://www.idesignac.com/#homeandconstruction
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+alternateName
+Intelligent Design
+alternateName
+Intelligent Design Tucson
+alternateName
+IDAC
+alternateName
+Wood's Plumbing
+description
+Full-service home improvement contractor providing HVAC, plumbing, electrical, roofing, and solar services. Family and veteran-owned, serving Tucson since 1979 with 22,000+ five-star reviews.
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$
+currenciesAccepted
+USD
+paymentAccepted
+Cash, Credit Card, Financing Available
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+City
+name
+Tucson
+containedIn
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+foundingDate
+1979
+slogan
+Your Comfort is Our Priority
+knowsAbout
+Home Improvement
+knowsAbout
+HVAC Systems
+knowsAbout
+Plumbing Services
+knowsAbout
+Electrical Work
+knowsAbout
+Roofing
+knowsAbout
+Solar Energy
+knowsAbout
+Home Maintenance
+knowsAbout
+Emergency Repairs
+makesOffer
+type
+Offer
+itemOffered
+type
+Service
+name
+HVAC Installation & Repair
+makesOffer
+type
+Offer
+itemOffered
+type
+Service
+name
+Plumbing Services
+makesOffer
+type
+Offer
+itemOffered
+type
+Service
+name
+Electrical Services
+makesOffer
+type
+Offer
+itemOffered
+type
+Service
+name
+Roofing Services
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services available 24/7
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-39 Air Conditioning and Refrigeration License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 276673
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-37 Plumbing License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 296386
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-11 Electrical License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 322375
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+license
+name
+Arizona ROC CR-42 Roofing License
+recognizedBy
+type
+Organization
+name
+Arizona Registrar of Contractors
+identifier
+ROC 340962
+hasCredential
+type
+EducationalOccupationalCredential
+credentialCategory
+certification
+name
+Veteran-Owned Business
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Plumber
+type
+LocalBusiness
+type
+Plumber
+id
+https://www.idesignac.com/#plumbing
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Plumber
+alternateName
+Plumbing Service
+alternateName
+Drain Cleaning Service
+description
+Expert plumbing installation, repair, and emergency services
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+GeoCircle
+geoMidpoint
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+geoRadius
+50 mi
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+hasOfferCatalog
+type
+OfferCatalog
+name
+Plumber Services
+itemListElement
+type
+Offer
+position
+1
+itemOffered
+type
+Service
+name
+Leak Detection & Repair
+provider
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services only
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+knowsAbout
+Leak Detection & Repair
+knowsAbout
+Water Heater Installation
+knowsAbout
+Water Heater Repair
+knowsAbout
+Drain Cleaning
+knowsAbout
+Pipe Repair & Replacement
+knowsAbout
+Fixture Installation
+knowsAbout
+Sewer Line Services
+knowsAbout
+Emergency Plumbing
+knowsAbout
+Water Filtration Systems
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Electrician
+type
+LocalBusiness
+type
+Electrician
+id
+https://www.idesignac.com/#electrical
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Electrician
+alternateName
+Electrical Contractor
+alternateName
+Electrical Service
+description
+Licensed electrical installation, repair, and upgrade services
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+GeoCircle
+geoMidpoint
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+geoRadius
+50 mi
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+hasOfferCatalog
+type
+OfferCatalog
+name
+Electrician Services
+itemListElement
+type
+Offer
+position
+1
+itemOffered
+type
+Service
+name
+Electrical Panel Upgrades
+provider
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services only
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+knowsAbout
+Electrical Panel Upgrades
+knowsAbout
+Generator Installation
+knowsAbout
+Ceiling Fan Installation
+knowsAbout
+Lighting Installation
+knowsAbout
+Electrical Repairs
+knowsAbout
+Circuit Breaker Services
+knowsAbout
+Outlet & Switch Installation
+knowsAbout
+Emergency Electrical Service
+knowsAbout
+EV Charger Installation
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - HVAC Contractor
+1 non-critical issue
+
+Duplicate field "url" (optional)
+type
+LocalBusiness
+type
+HVAC contractor
+id
+https://www.idesignac.com/#hvac
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - HVAC Contractor
+alternateName
+Air Conditioning Contractor
+alternateName
+Heating Contractor
+description
+Professional HVAC installation, repair, and maintenance services
+url
+https://www.idesignac.com/
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+GeoCircle
+geoMidpoint
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+geoRadius
+50 mi
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+hasOfferCatalog
+type
+OfferCatalog
+name
+HVAC Contractor Services
+itemListElement
+type
+Offer
+position
+1
+itemOffered
+type
+Service
+name
+AC Installation
+provider
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services only
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+knowsAbout
+AC Installation
+knowsAbout
+AC Repair
+knowsAbout
+Furnace Installation
+knowsAbout
+Furnace Repair
+knowsAbout
+Heat Pump Installation
+knowsAbout
+Ductless Mini-Split Systems
+knowsAbout
+Air Quality Services
+knowsAbout
+HVAC Maintenance
+knowsAbout
+Emergency HVAC Service
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Roofing Contractor
+1 non-critical issue
+
+Duplicate field "url" (optional)
+type
+LocalBusiness
+type
+Roofing contractor
+id
+https://www.idesignac.com/#roofing
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Roofing Contractor
+alternateName
+Roof Repair Service
+alternateName
+Roof Installation Service
+description
+Professional roofing installation, repair, and maintenance
+url
+https://www.idesignac.com/
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+GeoCircle
+geoMidpoint
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+geoRadius
+50 mi
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+hasOfferCatalog
+type
+OfferCatalog
+name
+Roofing Contractor Services
+itemListElement
+type
+Offer
+position
+1
+itemOffered
+type
+Service
+name
+Roof Installation
+provider
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services only
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+knowsAbout
+Roof Installation
+knowsAbout
+Roof Repair
+knowsAbout
+Roof Inspection
+knowsAbout
+Roof Coating
+knowsAbout
+Tile Roofing
+knowsAbout
+Shingle Roofing
+knowsAbout
+Flat Roofing
+knowsAbout
+Emergency Roof Repair
+knowsAbout
+Storm Damage Repair
+check_circle
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Solar Energy Contractor
+1 non-critical issue
+
+Duplicate field "url" (optional)
+type
+LocalBusiness
+type
+Solar energy equipment supplier
+id
+https://www.idesignac.com/#solar
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - Solar Energy Contractor
+alternateName
+Solar Installation Service
+alternateName
+Solar Panel Installation
+description
+Solar panel installation and renewable energy solutions
+url
+https://www.idesignac.com/
+url
+https://www.idesignac.com/
+telephone
++1-520-333-2665
+email
+info@idesignac.com
+priceRange
+$$$
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+GeoCircle
+geoMidpoint
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+geoRadius
+50 mi
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85701
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85704
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85705
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85706
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85707
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85708
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85710
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85711
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85712
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85714
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85715
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85716
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85718
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85730
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85735
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85736
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85737
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85739
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85741
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85742
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85743
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85745
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85746
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85747
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85748
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85749
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85750
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85755
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85756
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85757
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85614
+addressCountry
+type
+Country
+name
+US
+hasOfferCatalog
+type
+OfferCatalog
+name
+Solar Energy Contractor Services
+itemListElement
+type
+Offer
+position
+1
+itemOffered
+type
+Service
+name
+Solar Panel Installation
+provider
+type
+Organization
+id
+https://www.idesignac.com/#organization
+name
+Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
+url
+https://www.idesignac.com/
+logo
+https://www.idesignac.com/logo.png
+image
+https://www.idesignac.com/og-image.jpg
+description
+Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.
+telephone
++1-520-231-4151
+email
+info@idesignac.com
+address
+type
+PostalAddress
+streetAddress
+1145 E Fort Lowell Rd
+addressLocality
+Tucson
+addressRegion
+AZ
+postalCode
+85719
+addressCountry
+type
+Country
+name
+US
+geo
+type
+GeoCoordinates
+latitude
+32.2655122
+longitude
+-110.9540688
+areaServed
+type
+State
+name
+Arizona
+areaServed
+type
+DefinedRegion
+postalCode
+85622
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85629
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85641
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85653
+addressCountry
+type
+Country
+name
+US
+areaServed
+type
+DefinedRegion
+postalCode
+85658
+addressCountry
+type
+Country
+name
+US
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Monday
+dayOfWeek
+http://schema.org/Tuesday
+dayOfWeek
+http://schema.org/Wednesday
+dayOfWeek
+http://schema.org/Thursday
+dayOfWeek
+http://schema.org/Friday
+opens
+T07:00
+closes
+T19:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Saturday
+opens
+T08:00
+closes
+T17:00
+openingHoursSpecification
+type
+OpeningHoursSpecification
+dayOfWeek
+http://schema.org/Sunday
+opens
+T00:00
+closes
+T23:59
+description
+Emergency services only
+aggregateRating
+type
+AggregateRating
+ratingValue
+5
+reviewCount
+22000
+bestRating
+5
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+hasMap
+https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z
+knowsAbout
+Solar Panel Installation
+knowsAbout
+Solar System Design
+knowsAbout
+Battery Storage Installation
+knowsAbout
+Solar Maintenance
+knowsAbout
+Solar Inspection
+knowsAbout
+Solar Financing
+knowsAbout
+Energy Audits
+knowsAbout
+Solar Monitoring
+knowsAbout
+Solar Consultation
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air
+error
+Intelligent Design Solar, Plumbing, and Air
+1 critical issue
+
+Missing field "address"
+type
+HomeAndConstructionBusiness
+name
+Intelligent Design Solar, Plumbing, and Air

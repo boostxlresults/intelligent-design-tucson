@@ -65,20 +65,7 @@ export function generateProductSchema(options: ProductSchemaOptions) {
     "image": image || `${baseUrl}/og-image.jpg`,
     "category": category,
     "seller": {
-      "@type": "Organization",
-      "name": BUSINESS_INFO.name,
-      "telephone": BUSINESS_INFO.phone,
-      "url": baseUrl,
-      "image": `${baseUrl}/og-image.jpg`,
-      "logo": `${baseUrl}/logo.png`,
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": BUSINESS_INFO.address.street,
-        "addressLocality": BUSINESS_INFO.address.city,
-        "addressRegion": BUSINESS_INFO.address.state,
-        "postalCode": BUSINESS_INFO.address.zip,
-        "addressCountry": "US"
-      }
+      "@id": `${baseUrl}/#organization`
     }
   };
 
@@ -110,9 +97,7 @@ export function generateProductSchema(options: ProductSchemaOptions) {
       "priceCurrency": offers.priceCurrency || "USD",
       "availability": offers.availability || "https://schema.org/InStock",
       "seller": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name,
-        "image": `${baseUrl}/og-image.jpg`
+        "@id": `${baseUrl}/#organization`
       },
       "url": canonicalUrl
     };
