@@ -5,7 +5,6 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
-import RealWorkLabsWidget from '@/components/integrations/RealWorkLabsWidget';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Recent Projects | Real Home Service Results in Tucson AZ',
@@ -13,6 +12,147 @@ export const metadata: Metadata = generateSEOMetadata({
   canonicalUrl: 'https://www.idesignac.com/recent-projects',
   keywords: ['recent projects', 'HVAC installations Tucson', 'before and after', 'customer projects', 'home improvements', 'project gallery', 'Tucson home services'],
 });
+
+const recentProjectsSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Recent Home Service Projects by Intelligent Design",
+  "description": "Browse our latest HVAC, plumbing, solar, electrical, and roofing projects completed for Tucson homeowners",
+  "url": "https://www.idesignac.com/recent-projects",
+  "numberOfItems": 22000,
+  "itemListOrder": "https://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Service",
+        "name": "HVAC Installation & Repair",
+        "description": "AC installations, heater upgrades, ductless mini-splits, and emergency repairs",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Service",
+        "name": "Plumbing Services",
+        "description": "Water heater replacements, repiping, leak detection, and fixture installations",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Service",
+        "name": "Solar Installation",
+        "description": "Residential and commercial solar panel installations with battery storage options",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Service",
+        "name": "Electrical Services",
+        "description": "Panel upgrades, generator installations, lighting, and electrical repairs",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Service",
+        "name": "Roofing Services",
+        "description": "Roof replacements, repairs, coating applications, and skylight installations",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Service",
+        "name": "Drain & Sewer Services",
+        "description": "Sewer line repairs, camera inspections, trenchless pipe repair, and drain clearing",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+          "@id": "https://www.idesignac.com/#organization"
+        },
+        "areaServed": {
+          "@type": "City",
+          "name": "Tucson",
+          "addressRegion": "AZ"
+        }
+      }
+    }
+  ]
+};
+
+const aggregateRatingSchema = {
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+  "@id": "https://www.idesignac.com/#organization",
+  "url": "https://www.idesignac.com",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "22000",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+};
 
 export default function RecentProjectsPage() {
   const projectStats = [
@@ -43,6 +183,17 @@ export default function RecentProjectsPage() {
   ];
 
   return (
+    <>
+      {/* Schema.org structured data for recent projects */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(recentProjectsSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(aggregateRatingSchema) }}
+      />
+      
     <div className="min-h-screen flex flex-col bg-background">
       {/* Hero Section */}
       <section 
@@ -135,13 +286,9 @@ export default function RecentProjectsPage() {
             </p>
           </div>
 
-          {/* RealWorkLabs Widget Container */}
+          {/* RealWorkLabs Widget Container - uses rwl-output shortcode */}
           <div className="bg-card rounded-lg border border-border p-6">
-            <RealWorkLabsWidget 
-              serviceType="all"
-              limit={12}
-              showLoadingState={true}
-            />
+            <div id="rwl-output" className="min-h-[400px]" data-testid="rwl-output-container" />
           </div>
           
           <div className="mt-8 text-center">
@@ -281,5 +428,6 @@ export default function RecentProjectsPage() {
         </div>
       </section>
     </div>
+    </>
   );
 }
