@@ -20,6 +20,8 @@ import { generateBreadcrumbs } from './generateBreadcrumbs';
 import { generateHowToSchema } from './generateHowToSchema';
 import { generateVideoObjectSchema } from './generateVideoObjectSchema';
 import { getZipsForArea } from './zipCodes';
+import { generatePlaceSchema } from './generatePlaceSchema';
+import { generateHomeAndConstructionBusinessSchema } from './generateHomeAndConstructionBusinessSchema';
 
 export type PageType = 
   | 'homepage'
@@ -98,9 +100,11 @@ export function getPageSchemas(options: SchemaRegistryOptions): Array<Record<str
 }
 
 /**
- * HOMEPAGE SCHEMAS (6-8 schemas)
+ * HOMEPAGE SCHEMAS (8-10 schemas)
  * - Organization
  * - WebSite
+ * - Place (for Maps signals)
+ * - HomeAndConstructionBusiness (parent entity)
  * - 5× Multi-Category LocalBusiness (HVAC, Plumbing, Electrical, Roofing, Solar)
  * - AggregateRating
  * - Reviews (top 3)
@@ -118,6 +122,21 @@ function getHomepageSchemas(canonicalUrl: string) {
 
   // 2. WebSite Schema
   schemas.push(generateWebSiteSchema({ url: canonicalUrl }));
+
+  // 3. Place Schema (for Google Maps / Apple Maps signals)
+  schemas.push(generatePlaceSchema({
+    canonicalUrl,
+    includeOpeningHours: true,
+    includeRating: true
+  }));
+
+  // 4. HomeAndConstructionBusiness Schema (parent entity for all services)
+  schemas.push(generateHomeAndConstructionBusinessSchema({
+    canonicalUrl,
+    includeOpeningHours: true,
+    includeRating: true,
+    includeCredentials: true
+  }));
 
   // 3-7. Multi-Category LocalBusiness Schemas (5 categories)
   const multiCategorySchemas = generateMultiCategoryLocalBusinessSchemas({
