@@ -10,7 +10,7 @@ tags:
   - tucson
   - solar-readiness
   - utility-savings
-heroImage: /generated_images/Home_energy_audit_consultation_c5abfdea.webp
+heroImage: /attached_assets/generated_images/energy_auditor_thermal_scan_home.png
 publishedAt: '2025-01-15T10:00:00Z'
 updatedAt: '2025-01-15T10:00:00Z'
 featured: true
