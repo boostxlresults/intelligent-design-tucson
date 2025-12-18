@@ -24,7 +24,10 @@ export function generateBreadcrumbs(items: BreadcrumbItem[], baseUrl: string = '
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": item.url.startsWith('http') ? item.url : `${baseUrl}${item.url}`
+      "item": {
+        "@type": "WebPage",
+        "@id": item.url.startsWith('http') ? item.url : `${baseUrl}${item.url}`
+      }
     }))
   };
 }

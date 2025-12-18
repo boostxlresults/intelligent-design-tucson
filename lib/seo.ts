@@ -246,7 +246,10 @@ export function generateBreadcrumbSchema(
       "@type": "ListItem",
       position: index + 1,
       name: item.name,
-      item: `${SITE_URL}${item.path}`,
+      item: {
+        "@type": "WebPage",
+        "@id": `${SITE_URL}${item.path}`
+      },
     })),
   };
 }
