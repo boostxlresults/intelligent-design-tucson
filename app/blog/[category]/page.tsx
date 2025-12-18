@@ -161,12 +161,22 @@ export default async function BlogCategoryPage({
           </div>
         </section>
         
-        {/* Featured Post - Solar Category */}
-        {category === 'solar' && posts.find(p => p.slug === 'what-to-do-solar-company-closed-tucson') && (
+        {/* Featured Post Section */}
+        {(() => {
+          const featuredSlugs: Record<string, string> = {
+            'solar': 'what-to-do-solar-company-closed-tucson',
+            'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
+            'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
+          };
+          const featuredSlug = featuredSlugs[category];
+          const featuredPost = featuredSlug ? posts.find(p => p.slug === featuredSlug) : null;
+          
+          if (!featuredPost) return null;
+          
+          return (
           <section className="py-8 md:py-12 border-b border-border">
             <div className="max-w-7xl mx-auto px-4">
               {(() => {
-                const featuredPost = posts.find(p => p.slug === 'what-to-do-solar-company-closed-tucson')!;
                 const publishedDate = new Date(featuredPost.publishedAt).toLocaleDateString('en-US', {
                   year: 'numeric',
                   month: 'long',
@@ -217,7 +227,8 @@ export default async function BlogCategoryPage({
               })()}
             </div>
           </section>
-        )}
+          );
+        })()}
 
         {/* Blog Posts Grid */}
         <section className="py-12 md:py-16">
@@ -230,7 +241,14 @@ export default async function BlogCategoryPage({
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {posts.filter(p => !(category === 'solar' && p.slug === 'what-to-do-solar-company-closed-tucson')).map((post) => {
+                {posts.filter(p => {
+                  const featuredSlugs: Record<string, string> = {
+                    'solar': 'what-to-do-solar-company-closed-tucson',
+                    'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
+                    'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
+                  };
+                  return p.slug !== featuredSlugs[category];
+                }).map((post) => {
                   const publishedDate = new Date(post.publishedAt).toLocaleDateString('en-US', {
                     year: 'numeric',
                     month: 'long',

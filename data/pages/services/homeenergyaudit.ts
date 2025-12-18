@@ -19,6 +19,15 @@ export const homeenergyauditData: ServicePageData = {
   serviceName: 'Home Energy Audit',
   category: 'HVAC',
   
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "yOA5ojTJ1WI",
+    title: "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit",
+    description: "Learn the benefits of getting a whole home and solar energy audit for your Tucson home. Home energy audits identify inefficiencies in your home's energy envelope that can be addressed prior to adding solar panels, reducing energy needs and saving money on solar installation.",
+    duration: "PT2M59S",
+    uploadDate: "2021-10-06"
+  },
+  
   // Content
   highlights: [
   {
@@ -84,14 +93,6 @@ export const homeenergyauditData: ServicePageData = {
             "heading": "What Makes Our Energy Audits Different",
             "level": 3,
             "content": "What Makes Our Energy Audits Different"
-      },
-      {
-            "type": "video",
-            "videoId": "yOA5ojTJ1WI",
-            "title": "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit",
-            "description": "Learn the benefits of getting a whole home and solar energy audit for your Tucson home. Home energy audits identify inefficiencies in your home's energy envelope that can be addressed prior to adding solar panels, reducing energy needs and saving money on solar installation.",
-            "duration": "PT2M59S",
-            "uploadDate": "2021-10-06"
       },
       {
             "type": "list",

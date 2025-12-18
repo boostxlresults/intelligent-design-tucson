@@ -138,6 +138,16 @@ export interface ServicePageData {
     sections: ContentSection[];
   };
   
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo?: {
+    videoId: string;
+    title: string;
+    description: string;
+    duration?: string;
+    uploadDate?: string;
+    thumbnailUrl?: string;
+  };
+  
   // Interactive Content
   faqs: ServiceFAQs | null;
   commonQuestions?: CommonQuestion[];

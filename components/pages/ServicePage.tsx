@@ -181,6 +181,29 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
             />
           )}
           
+          {/* Featured Video - Below TOC */}
+          {data.featuredVideo && (
+            <div className="mt-8" data-testid="featured-video">
+              <div className="aspect-video w-full max-w-2xl mx-auto rounded-lg overflow-hidden shadow-lg">
+                <iframe 
+                  width="100%" 
+                  height="100%" 
+                  src={`https://www.youtube.com/embed/${data.featuredVideo.videoId}`}
+                  title={data.featuredVideo.title}
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                  className="w-full h-full"
+                />
+              </div>
+              {data.featuredVideo.description && (
+                <p className="mt-3 text-center text-sm text-muted-foreground max-w-2xl mx-auto">
+                  {data.featuredVideo.description}
+                </p>
+              )}
+            </div>
+          )}
+          
           {/* Trigger point for floating TOC button - appears after scrolling past this */}
           <div id="toc-trigger-point" aria-hidden="true" />
         </div>
