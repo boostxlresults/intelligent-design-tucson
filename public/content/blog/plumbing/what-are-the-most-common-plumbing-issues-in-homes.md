@@ -1,8 +1,10 @@
 ---
 title: What Are the Most Common Plumbing Issues in Homes?
-description: "What Are the Most Common Plumbing Issues in Homes? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide      ..."
+description: >-
+  Learn about the most common plumbing issues in Tucson homes including root-obstructed pipes, 
+  polybutylene piping problems, and water heater scale buildup. Get expert tips on prevention and repair.
 publishedAt: '2025-10-31T19:10:23.126Z'
-updatedAt: '2025-10-31T19:10:23.132Z'
+updatedAt: '2025-01-15T10:00:00Z'
 author: Intelligent Design Team
 category: plumbing
 tags:
@@ -12,9 +14,18 @@ tags:
   - water-heaters
   - tucson
 heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
-featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/plumbing/what-are-the-most-common-plumbing-issues-in-homes
+featured: true
+canonicalUrl: /blog/plumbing/what-are-the-most-common-plumbing-issues-in-homes
+relatedServices:
+  - plumbing-tucson
+  - drain-cleaning-tucson
+  - repiping-tucson
+video:
+  id: 4rUyVArXvO0
+  title: Most Common Plumbing Issues in Homes - Expert Tips
+  description: Learn about the most common plumbing problems homeowners face, including root intrusion, polybutylene piping, and water heater issues. Our licensed Tucson plumbers explain what to look for and how to prevent costly repairs.
+  uploadDate: '2024-06-15T00:00:00Z'
+  duration: PT5M30S
 ---
 
 # What Are the Most Common Plumbing Issues in Homes?
@@ -26,6 +37,10 @@ canonicalUrl: >-
 [2) Major Plumbing Issue: Polybutylene Piping](#Major_Plumbing_Issue_Polybutylene_Piping)
 
 [3) Minor Plumbing Issue: Water Heater Scale Buildup](#Minor_Plumbing_Issue_Water_Heater_Scale_Buildup)
+
+<div class="my-8 aspect-video w-full max-w-2xl mx-auto">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/4rUyVArXvO0?si=zA9sY6E5LOkWmLsk" title="Most Common Plumbing Issues in Homes - Expert Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
+</div>
 
 If you are buying a new home, the possibility of plumbing issues probably isn’t the first thing on your mind. You’re more likely worried about what school district the home is in, how much land it has, and whether the floor plan will fit your family’s needs. Unfortunately, far too many home buyers don’t consider getting a plumbing inspection before making an offer on a property. Here at Intelligent Design, we’ve seen some pretty undesirable situations. For instance, one of our customers discovered she needed thousands of dollars in major repair work done after she’d already purchased the house. Because plumbing issues are a possibility with any property, it’s always best to err on the side of caution. Have our licensed plumbers conduct a thorough inspection so you won’t receive an unpleasant surprise later on.
 

@@ -167,6 +167,7 @@ export default async function BlogCategoryPage({
             'solar': 'what-to-do-solar-company-closed-tucson',
             'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
             'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
+            'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
           };
           const featuredSlug = featuredSlugs[category];
           const featuredPost = featuredSlug ? posts.find(p => p.slug === featuredSlug) : null;
@@ -246,6 +247,7 @@ export default async function BlogCategoryPage({
                     'solar': 'what-to-do-solar-company-closed-tucson',
                     'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
                     'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
+                    'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
                   };
                   return p.slug !== featuredSlugs[category];
                 }).map((post) => {
