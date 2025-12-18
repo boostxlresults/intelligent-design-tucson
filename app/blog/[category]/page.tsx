@@ -168,6 +168,7 @@ export default async function BlogCategoryPage({
             'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
             'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
             'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
+            'roofing': 'preparing-roof-for-spring-storms',
           };
           const featuredSlug = featuredSlugs[category];
           const featuredPost = featuredSlug ? posts.find(p => p.slug === featuredSlug) : null;
@@ -248,6 +249,7 @@ export default async function BlogCategoryPage({
                     'hvac': 'the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
                     'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
                     'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
+                    'roofing': 'preparing-roof-for-spring-storms',
                   };
                   return p.slug !== featuredSlugs[category];
                 }).map((post) => {

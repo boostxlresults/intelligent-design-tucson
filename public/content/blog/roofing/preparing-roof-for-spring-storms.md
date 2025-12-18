@@ -14,7 +14,7 @@ tags:
 heroImage: /attached_assets/generated_images/Roof_repair_Tucson_5156ac7b.png
 publishedAt: '2024-03-15T08:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
-featured: false
+featured: true
 oldUrl: >-
   https://www.idesignac.com/preparing-the-roof-for-spring-storms-ensuring-safety-and-longevity
 canonicalUrl: /blog/roofing/preparing-roof-for-spring-storms
@@ -23,6 +23,12 @@ relatedServices:
   - residential-roof-repair
   - residential-roof-replacement
 author: Intelligent Design Team
+video:
+  id: BhyYzVlxHfc
+  title: Preparing Your Roof for Spring Storms in Tucson
+  description: Learn essential tips for protecting your Tucson home from spring storms. Our roofing experts explain how to inspect, maintain, and prepare your roof for the storm season ahead.
+  uploadDate: '2024-03-15T00:00:00Z'
+  duration: PT4M45S
 ---
 
 # Preparing Your Roof for Spring Storms: Ensuring Safety and Longevity in Tucson
@@ -31,6 +37,10 @@ In Tucson, Arizona, spring brings warmer weather and the possibility of spring s
 
 > "Spring storms can pose significant risks to both the structural integrity of your home and the safety of your family. By taking proactive steps to prepare your roof for the challenges ahead, you can minimize the risk of damage and ensure peace of mind throughout the storm season."  
 > — Andrew Dobbins, Owner of Intelligent Design
+
+<div class="my-8 aspect-video w-full max-w-2xl mx-auto">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/BhyYzVlxHfc?si=G6hcRCf9kUOu3hFA" title="Preparing Your Roof for Spring Storms in Tucson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
+</div>
 
 ## Why Roof Preparation Matters
 
