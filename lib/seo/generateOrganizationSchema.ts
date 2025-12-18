@@ -62,6 +62,17 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
     ],
     "slogan": "Your Comfort is Our Priority",
     "foundingDate": "1979",
+    "alternateName": [
+      "Intelligent Design",
+      "Intelligent Design Air Conditioning",
+      "Intelligent Design Tucson",
+      "IDAC",
+      "ID Air Conditioning",
+      "Intelligent Design HVAC",
+      "Intelligent Design Plumbing",
+      "Intelligent Design Solar",
+      "Wood's Plumbing"
+    ],
     "knowsAbout": [
       "HVAC Installation",
       "Air Conditioning Repair",
