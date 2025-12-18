@@ -30,12 +30,10 @@ export function generateImageObjectSchemas(options: ImageObjectSchemaOptions) {
       "encodingFormat": "image/png",
       "representativeOfPage": false,
       "creator": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name
+        "@id": `${baseUrl}/#organization`
       },
       "copyrightHolder": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name
+        "@id": `${baseUrl}/#organization`
       }
     },
     {
@@ -51,12 +49,10 @@ export function generateImageObjectSchemas(options: ImageObjectSchemaOptions) {
       "encodingFormat": "image/jpeg",
       "representativeOfPage": true,
       "creator": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name
+        "@id": `${baseUrl}/#organization`
       },
       "copyrightHolder": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name
+        "@id": `${baseUrl}/#organization`
       }
     }
   ];

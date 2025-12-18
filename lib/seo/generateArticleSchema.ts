@@ -67,24 +67,10 @@ export function generateArticleSchema(options: ArticleSchemaOptions) {
     "datePublished": publishedDate,
     "dateModified": modifiedDate || publishedDate,
     "author": {
-      "@type": "Organization",
-      "name": BUSINESS_INFO.name,
-      "url": baseUrl,
-      "logo": {
-        "@type": "ImageObject",
-        "url": `${baseUrl}/logo.png`
-      }
+      "@id": `${baseUrl}/#organization`
     },
     "publisher": {
-      "@type": "Organization",
-      "name": BUSINESS_INFO.name,
-      "url": baseUrl,
-      "logo": {
-        "@type": "ImageObject",
-        "url": `${baseUrl}/logo.png`,
-        "width": "512",
-        "height": "512"
-      }
+      "@id": `${baseUrl}/#organization`
     },
     "url": fullCanonicalUrl,
     "mainEntityOfPage": {

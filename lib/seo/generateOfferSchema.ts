@@ -36,18 +36,7 @@ export function generateOfferSchemas(options: OfferSchemaOptions = {}) {
       "validFrom": offer.validFrom,
       "validThrough": offer.validThrough,
       "seller": {
-        "@type": "Organization",
-        "name": BUSINESS_INFO.name,
-        "telephone": BUSINESS_INFO.phone,
-        "image": "https://www.idesignac.com/og-image.jpg",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": BUSINESS_INFO.address.street,
-          "addressLocality": BUSINESS_INFO.address.city,
-          "addressRegion": BUSINESS_INFO.address.state,
-          "postalCode": BUSINESS_INFO.address.zip,
-          "addressCountry": "US"
-        }
+        "@id": "https://www.idesignac.com/#organization"
       }
     };
 
