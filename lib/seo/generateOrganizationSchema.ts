@@ -103,7 +103,42 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
       {
         "@type": "EducationalOccupationalCredential",
         "credentialCategory": "license",
-        "name": "Arizona ROC Licensed Contractor"
+        "name": "Arizona ROC CR-39 Air Conditioning and Refrigeration License",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Arizona Registrar of Contractors"
+        },
+        "identifier": "ROC 276673"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "license",
+        "name": "Arizona ROC CR-37 Plumbing License",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Arizona Registrar of Contractors"
+        },
+        "identifier": "ROC 296386"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "license",
+        "name": "Arizona ROC CR-11 Electrical License",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Arizona Registrar of Contractors"
+        },
+        "identifier": "ROC 322375"
+      },
+      {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "license",
+        "name": "Arizona ROC CR-42 Roofing License",
+        "recognizedBy": {
+          "@type": "Organization",
+          "name": "Arizona Registrar of Contractors"
+        },
+        "identifier": "ROC 340962"
       },
       {
         "@type": "EducationalOccupationalCredential",
