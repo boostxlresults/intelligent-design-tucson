@@ -4,7 +4,7 @@ description: "How to Find Reputable Repiping Contractors: The Factors to Conside
 publishedAt: '2025-10-31T19:11:49.668Z'
 updatedAt: '2025-10-31T19:11:57.333Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
 featured: false

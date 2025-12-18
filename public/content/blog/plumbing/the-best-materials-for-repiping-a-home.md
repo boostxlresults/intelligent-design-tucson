@@ -4,7 +4,7 @@ description: "The Best Materials for Repiping a Home \t\t\t \t\t \t \t \t \t\t\t
 publishedAt: '2025-10-31T19:11:42.064Z'
 updatedAt: '2025-10-31T19:11:46.384Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
 featured: false

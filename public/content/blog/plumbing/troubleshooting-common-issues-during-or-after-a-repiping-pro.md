@@ -4,7 +4,7 @@ description: "Troubleshooting Common Issues During Or After A Repiping Project \
 publishedAt: '2025-10-31T19:11:46.365Z'
 updatedAt: '2025-10-31T19:11:46.390Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
 featured: false

@@ -4,7 +4,7 @@ description: "What to Expect When Repiping Your Home \t\t\t \t\t \t \t \t \t\t\t
 publishedAt: '2025-10-31T19:11:57.326Z'
 updatedAt: '2025-10-31T19:11:57.329Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
 featured: false

@@ -4,7 +4,7 @@ description: "How Repiping Can Improve Your Home’s Water Quality \t\t\t \t\t \
 publishedAt: '2025-10-31T19:11:30.561Z'
 updatedAt: '2025-10-31T19:11:36.386Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/Water_conservation_tips_3e904082.png
 featured: false

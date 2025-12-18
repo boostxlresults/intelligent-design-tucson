@@ -4,7 +4,7 @@ description: "Why Does a Repiping Project Need Professional Help? \t\t\t \t\t \t
 publishedAt: '2025-10-31T19:11:51.700Z'
 updatedAt: '2025-10-31T19:11:57.331Z'
 author: Intelligent Design Team
-category: home-tips
+category: plumbing
 tags: null
 heroImage: /attached_assets/generated_images/DIY_vs_professional_help_bb8590e8.png
 featured: false
