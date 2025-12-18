@@ -24,6 +24,12 @@ relatedServices:
   - solar-maintenance
   - residential-roof-inspection
 author: Intelligent Design Team
+video:
+  id: QUt_t6USgdE
+  title: Preparing Your Home for Summer in Tucson - Expert Tips
+  description: Learn essential tips for preparing your Tucson home for the summer heat. Our experts cover HVAC maintenance, plumbing checks, solar optimization, and energy efficiency tips to keep your home comfortable all summer.
+  uploadDate: '2024-04-20T00:00:00Z'
+  duration: PT6M15S
 ---
 
 # Preparing Your Home for Summer: Essential Tips from Intelligent Design
@@ -31,6 +37,10 @@ author: Intelligent Design Team
 As the temperatures rise and the days grow longer, homeowners across Tucson are gearing up for the summer season. While summer brings sunshine and outdoor activities, it also brings unique challenges for your home's essential systems. From HVAC to plumbing, solar, roofing, electrical, and beyond, ensuring that your home is ready for the summer weather is crucial for maintaining comfort, efficiency, and safety.
 
 Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is here to provide expert guidance on how to prepare your home for the summer months and help avoid costly AC repairs.
+
+<div class="my-8 aspect-video w-full max-w-2xl mx-auto">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/QUt_t6USgdE?si=Yl4TL0tweNnHwl3q" title="Preparing Your Home for Summer in Tucson - Expert Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
+</div>
 
 ## 1. HVAC System Maintenance
 

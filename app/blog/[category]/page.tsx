@@ -169,6 +169,7 @@ export default async function BlogCategoryPage({
             'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
             'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
             'roofing': 'preparing-roof-for-spring-storms',
+            'home-tips': 'preparing-home-for-summer-tucson',
           };
           const featuredSlug = featuredSlugs[category];
           const featuredPost = featuredSlug ? posts.find(p => p.slug === featuredSlug) : null;
@@ -250,6 +251,7 @@ export default async function BlogCategoryPage({
                     'electrical': 'why-you-need-a-whole-home-energy-audit-in-tucson',
                     'plumbing': 'what-are-the-most-common-plumbing-issues-in-homes',
                     'roofing': 'preparing-roof-for-spring-storms',
+                    'home-tips': 'preparing-home-for-summer-tucson',
                   };
                   return p.slug !== featuredSlugs[category];
                 }).map((post) => {
