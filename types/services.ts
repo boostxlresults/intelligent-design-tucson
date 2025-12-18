@@ -90,6 +90,11 @@ export type ImageSection = {
   caption?: string;
 };
 
+export type RealWorkLabsSection = {
+  type: "realworklabs";
+  content: string;
+};
+
 // Legacy format (for backward compatibility)
 export type LegacyContentSection = {
   heading?: string;
@@ -111,6 +116,7 @@ export type ContentSection =
   | HowToSection
   | VideoSection
   | ImageSection
+  | RealWorkLabsSection
   | LegacyContentSection;
 
 export interface ServicePageData {
