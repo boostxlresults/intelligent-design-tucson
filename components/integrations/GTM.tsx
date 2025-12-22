@@ -1,41 +1,7 @@
 "use client";
 
-import { useEffect, useState } from 'react';
-import { hasAnalyticsConsent } from '@/lib/cookieConsent';
-
 export default function GTM() {
   const id = "GTM-WKG99GJ";
-  const [shouldLoad, setShouldLoad] = useState(false);
-  
-  useEffect(() => {
-    const checkConsent = () => {
-      const hasConsent = hasAnalyticsConsent();
-      setShouldLoad(hasConsent);
-      
-      if (hasConsent && typeof window !== 'undefined' && !window.dataLayer) {
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({
-          'gtm.start': new Date().getTime(),
-          event: 'gtm.js'
-        });
-      }
-    };
-    
-    checkConsent();
-    
-    const handleStorageChange = (e: StorageEvent) => {
-      if (e.key === 'id-cookie-consent') {
-        checkConsent();
-      }
-    };
-    
-    window.addEventListener('storage', handleStorageChange);
-    return () => window.removeEventListener('storage', handleStorageChange);
-  }, []);
-
-  if (!shouldLoad) {
-    return null;
-  }
 
   return (
     <>
