@@ -112,6 +112,8 @@ export function generateProductSchema(options: ProductSchemaOptions) {
 
     if (offers.validThrough) {
       schema.offers.validThrough = offers.validThrough;
+      // priceValidUntil is required by Google for product rich results
+      schema.offers.priceValidUntil = offers.validThrough;
     }
   }
 

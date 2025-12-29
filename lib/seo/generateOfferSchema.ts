@@ -35,6 +35,7 @@ export function generateOfferSchemas(options: OfferSchemaOptions = {}) {
       "availability": offer.availability,
       "validFrom": offer.validFrom,
       "validThrough": offer.validThrough,
+      "priceValidUntil": offer.validThrough,
       "seller": {
         "@id": "https://www.idesignac.com/#organization"
       }
