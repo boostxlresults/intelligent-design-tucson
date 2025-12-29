@@ -41,7 +41,7 @@ const videoSchema = {
   "name": "REALTORS® Exclusive Offer - FREE 2-Year Protection Plan",
   "description": "Learn about Intelligent Design's exclusive REALTORS® program offering a FREE 2-Year Deluxe Family Protection Plan as a closing gift for your clients.",
   "thumbnailUrl": "https://img.youtube.com/vi/3LQB9xVlaUQ/maxresdefault.jpg",
-  "uploadDate": "2024-01-01",
+  "uploadDate": "2024-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=3LQB9xVlaUQ",
   "embedUrl": "https://www.youtube.com/embed/3LQB9xVlaUQ",
   "publisher": {

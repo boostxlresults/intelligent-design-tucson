@@ -250,7 +250,7 @@ export function generateVideoSchema(
       `https://i.ytimg.com/vi/${video.id}/maxresdefault.jpg`,
       `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`
     ],
-    uploadDate: video.uploadDate || new Date().toISOString(),
+    uploadDate: video.uploadDate ? (video.uploadDate.includes('T') ? video.uploadDate : `${video.uploadDate}T00:00:00Z`) : new Date().toISOString(),
     duration: video.duration || 'PT5M',
     contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
     embedUrl: `https://www.youtube.com/embed/${video.id}`,

@@ -164,7 +164,7 @@ function generateVideoSchema(section: VideoSection, canonicalUrl: string, thumbn
     "name": section.title,
     "description": section.description,
     "thumbnailUrl": thumbnailUrl || `https://img.youtube.com/vi/${section.videoId}/maxresdefault.jpg`,
-    "uploadDate": section.uploadDate || new Date().toISOString().split('T')[0],
+    "uploadDate": section.uploadDate ? (section.uploadDate.includes('T') ? section.uploadDate : `${section.uploadDate}T00:00:00Z`) : new Date().toISOString(),
     "duration": section.duration || "PT5M",
     "contentUrl": `https://www.youtube.com/watch?v=${section.videoId}`,
     "embedUrl": `https://www.youtube.com/embed/${section.videoId}`,

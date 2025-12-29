@@ -16,6 +16,19 @@ export interface VideoObjectSchemaOptions {
 }
 
 /**
+ * Normalizes date to full ISO 8601 format required by Google
+ * Converts YYYY-MM-DD to YYYY-MM-DDTHH:MM:SSZ
+ */
+function normalizeUploadDate(date: string): string {
+  // If already has time component, return as-is
+  if (date.includes('T')) {
+    return date;
+  }
+  // Add time component for date-only formats
+  return `${date}T00:00:00Z`;
+}
+
+/**
  * Generates VideoObject schema for YouTube embeds
  */
 export function generateVideoObjectSchema(options: VideoObjectSchemaOptions) {
@@ -25,7 +38,7 @@ export function generateVideoObjectSchema(options: VideoObjectSchemaOptions) {
     "name": options.name,
     "description": options.description,
     "thumbnailUrl": options.thumbnailUrl,
-    "uploadDate": options.uploadDate,
+    "uploadDate": normalizeUploadDate(options.uploadDate),
     "embedUrl": options.embedUrl
   };
 

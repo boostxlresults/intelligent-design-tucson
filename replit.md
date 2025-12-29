@@ -54,6 +54,7 @@ Preferred communication style: Simple, everyday language.
 - **Careers Page:** Integrated WhoHire job board plugin.
 - **Core Strategic Architecture:** Clean silo structure with scalable service area logic, optimized for keyword-based and AI-based search visibility (LLM-ready content), static HTML output capability, mobile-first UX, and professional design.
 - **Canonical Schema System:** Centralized system for consistent NAP (Name, Address, Phone) data across all schemas.
+- **VideoObject Schema Date Format:** All VideoObject uploadDate fields use full ISO 8601 format with time component (YYYY-MM-DDTHH:MM:SSZ) to pass Google Rich Results validation. The `normalizeUploadDate()` helper function in `lib/seo/generateVideoObjectSchema.ts` ensures dates without time are converted to proper format.
 - **Accessibility System:** WCAG 2.1 AA compliant system with font size controls, high contrast mode, readable font, and enhanced keyboard focus.
 - **Cookie Consent System:** GDPR/CCPA-compliant system with modal banner, consent persistence, and GTM integration.
 - **AI Search Optimization Strategy:** All pages are optimized for AI search engines with natural language Q&A, structured data, internal linking, and comprehensive local content. Zip code SEO features include location pages with zip code displays and meta descriptions.

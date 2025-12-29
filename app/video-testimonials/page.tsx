@@ -113,7 +113,7 @@ export default function VideoTestimonialsPage() {
       name: video.title,
       description: `${video.customerName} shares their experience with Intelligent Design's ${video.service} service in Tucson, AZ`,
       thumbnailUrl: `https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`,
-      uploadDate: '2024-09-13',
+      uploadDate: '2024-09-13T00:00:00Z',
       contentUrl: `https://www.youtube.com/watch?v=${video.id}`,
       embedUrl: `https://www.youtube.com/embed/${video.id}`,
     })),

@@ -20,7 +20,7 @@ const videoSchema = {
   "name": "R22 Refrigerant Phaseout Explained",
   "description": "Learn about the R22 refrigerant phaseout, what it means for your air conditioner, and your options for upgrading to a more efficient cooling system.",
   "thumbnailUrl": "https://img.youtube.com/vi/Rh5NINcgUSg/maxresdefault.jpg",
-  "uploadDate": "2024-01-01",
+  "uploadDate": "2024-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=Rh5NINcgUSg",
   "embedUrl": "https://www.youtube.com/embed/Rh5NINcgUSg",
   "publisher": {

@@ -18,7 +18,7 @@ const videoSchema = {
   "name": "Commercial Maintenance Services - Intelligent Design",
   "description": "Learn about Intelligent Design's comprehensive commercial maintenance services for Tucson businesses, covering HVAC, plumbing, electrical, roofing, and solar systems.",
   "thumbnailUrl": "https://img.youtube.com/vi/3fO-4mWg3vk/maxresdefault.jpg",
-  "uploadDate": "2024-01-01",
+  "uploadDate": "2024-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=3fO-4mWg3vk",
   "embedUrl": "https://www.youtube.com/embed/3fO-4mWg3vk",
   "publisher": {

@@ -177,7 +177,7 @@ const videoSchema = {
   "name": "Customer Stories: Why Tucson Trusts Intelligent Design",
   "description": "Hear from real Tucson homeowners about their experiences with Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. 22,000+ five-star reviews from satisfied customers across HVAC, plumbing, solar, electrical, and roofing services.",
   "thumbnailUrl": "https://img.youtube.com/vi/IKk4kTp_IrQ/maxresdefault.jpg",
-  "uploadDate": "2023-06-15",
+  "uploadDate": "2023-06-15T00:00:00Z",
   "duration": "PT2M45S",
   "contentUrl": "https://www.youtube.com/watch?v=IKk4kTp_IrQ",
   "embedUrl": "https://www.youtube.com/embed/IKk4kTp_IrQ",

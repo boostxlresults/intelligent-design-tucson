@@ -66,7 +66,7 @@ const videoSchema = {
   "name": "Family Protection Plans - Intelligent Design Home Maintenance Plans",
   "description": "Learn about Intelligent Design's Family Protection Plans offering comprehensive home maintenance coverage for HVAC, plumbing, electrical, roofing, and solar systems. Priority service, repair discounts, and 5 free annual visits.",
   "thumbnailUrl": "https://img.youtube.com/vi/7fvu8D6HN_g/maxresdefault.jpg",
-  "uploadDate": "2024-01-01",
+  "uploadDate": "2024-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=7fvu8D6HN_g",
   "embedUrl": "https://www.youtube.com/embed/7fvu8D6HN_g",
   "publisher": {
