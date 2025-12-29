@@ -16,6 +16,10 @@ export function generateImageObjectSchemas(options: ImageObjectSchemaOptions) {
   const { canonicalUrl } = options;
   const baseUrl = canonicalUrl.split('/').slice(0, 3).join('/');
 
+  const currentYear = new Date().getFullYear();
+  const copyrightNotice = `Copyright ${currentYear} Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. All rights reserved.`;
+  const creditText = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
+
   return [
     {
       "@context": "https://schema.org",
@@ -34,7 +38,11 @@ export function generateImageObjectSchemas(options: ImageObjectSchemaOptions) {
       },
       "copyrightHolder": {
         "@id": `${baseUrl}/#organization`
-      }
+      },
+      "copyrightNotice": copyrightNotice,
+      "creditText": creditText,
+      "license": `${baseUrl}/terms`,
+      "acquireLicensePage": `${baseUrl}/contact`
     },
     {
       "@context": "https://schema.org",
@@ -53,7 +61,11 @@ export function generateImageObjectSchemas(options: ImageObjectSchemaOptions) {
       },
       "copyrightHolder": {
         "@id": `${baseUrl}/#organization`
-      }
+      },
+      "copyrightNotice": copyrightNotice,
+      "creditText": creditText,
+      "license": `${baseUrl}/terms`,
+      "acquireLicensePage": `${baseUrl}/contact`
     }
   ];
 }
