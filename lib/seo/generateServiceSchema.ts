@@ -16,7 +16,6 @@
 import { BUSINESS_INFO } from './constants';
 import { generateZipCodeSchemas, getZipsForArea } from './zipCodes';
 import { getBrandDataForCategory, generateBrandSchemas, generateVariantSchemas } from './serviceBrands';
-import { reviewsData } from '@/data/reviews';
 
 export interface ServiceSchemaOptions {
   serviceName: string;
@@ -29,7 +28,6 @@ export interface ServiceSchemaOptions {
   category?: string; // Service category for brand matching (HVAC, Plumbing, etc.)
   includeBrands?: boolean; // Whether to include hasBrand (default: true)
   includeVariants?: boolean; // Whether to include hasVariant (default: true)
-  includeRating?: boolean; // Whether to include aggregateRating (default: true)
 }
 
 export function generateServiceSchema(options: ServiceSchemaOptions) {
@@ -43,8 +41,7 @@ export function generateServiceSchema(options: ServiceSchemaOptions) {
     imageUrl,
     category,
     includeBrands = true,
-    includeVariants = true,
-    includeRating = true
+    includeVariants = true
   } = options;
 
   // Enhanced areaServed with zip codes for AI search optimization
@@ -131,15 +128,10 @@ export function generateServiceSchema(options: ServiceSchemaOptions) {
     };
   }
 
-  // Add aggregate rating for star snippets in search results
-  if (includeRating) {
-    schema.aggregateRating = {
-      "@type": "AggregateRating",
-      "ratingValue": reviewsData.aggregateRating.ratingValue,
-      "reviewCount": reviewsData.aggregateRating.reviewCount,
-      "bestRating": reviewsData.aggregateRating.bestRating
-    };
-  }
+  // NOTE: aggregateRating removed from Service schema
+  // Service is NOT a valid parent type for Review Snippets in Google Rich Results
+  // The aggregateRating is displayed via the LocalBusiness schemas instead
+  // (generateMultiCategoryLocalBusinessSchema or generateLocationSchema)
 
   return schema;
 }

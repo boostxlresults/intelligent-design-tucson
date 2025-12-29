@@ -131,10 +131,10 @@ function getHomepageSchemas(canonicalUrl: string) {
   schemas.push(generateWebSiteSchema({ url: canonicalUrl }));
 
   // 3. Place Schema (for Google Maps / Apple Maps signals)
+  // Note: Place schema does not include aggregateRating (invalid parent type)
   schemas.push(generatePlaceSchema({
     canonicalUrl,
-    includeOpeningHours: true,
-    includeRating: true
+    includeOpeningHours: true
   }));
 
   // 4. HomeAndConstructionBusiness Schema (parent entity for all services)

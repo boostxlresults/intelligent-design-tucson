@@ -8,19 +8,16 @@
  */
 
 import { BUSINESS_INFO } from './constants';
-import { reviewsData } from '@/data/reviews';
 
 export interface PlaceSchemaOptions {
   canonicalUrl: string;
   includeOpeningHours?: boolean;
-  includeRating?: boolean;
 }
 
 export function generatePlaceSchema(options: PlaceSchemaOptions) {
   const {
     canonicalUrl,
-    includeOpeningHours = true,
-    includeRating = true
+    includeOpeningHours = true
   } = options;
 
   const schema: Record<string, any> = {
@@ -73,14 +70,9 @@ export function generatePlaceSchema(options: PlaceSchemaOptions) {
     ];
   }
 
-  if (includeRating) {
-    schema.aggregateRating = {
-      "@type": "AggregateRating",
-      "ratingValue": reviewsData.aggregateRating.ratingValue,
-      "reviewCount": reviewsData.aggregateRating.reviewCount,
-      "bestRating": reviewsData.aggregateRating.bestRating
-    };
-  }
+  // NOTE: aggregateRating removed from Place schema
+  // Place is NOT a valid parent type for Review Snippets in Google Rich Results
+  // Use LocalBusiness or Organization schemas for rating display instead
 
   return schema;
 }
