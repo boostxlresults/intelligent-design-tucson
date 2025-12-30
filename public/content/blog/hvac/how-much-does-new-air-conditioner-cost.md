@@ -11,7 +11,7 @@ tags:
   - tucson
   - hvac-cost
   - energy-efficiency
-heroImage: /attached_assets/generated_images/Energy_efficient_AC_system_a620658e.png
+heroImage: /generated_images/new_ac_pricing_guide.png
 publishedAt: '2024-05-20T11:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: false

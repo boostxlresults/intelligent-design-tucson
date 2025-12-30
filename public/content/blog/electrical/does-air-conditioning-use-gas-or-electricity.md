@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T18:50:41.627Z'
 author: Intelligent Design Team
 category: electrical
 tags: null
-heroImage: /attached_assets/generated_images/Electrical_service_work_e21d02b3.png
+heroImage: /generated_images/ac_gas_electricity.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/electrical/does-air-conditioning-use-gas-or-electricity

@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T18:49:35.406Z'
 author: Intelligent Design Team
 category: roofing
 tags: null
-heroImage: /attached_assets/generated_images/Roof_repair_Tucson_5156ac7b.png
+heroImage: /generated_images/ac_maintenance_prevention.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/roofing/foolproof-ways-to-avoid-ac-repair-this-season

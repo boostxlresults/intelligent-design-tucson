@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
+heroImage: /generated_images/preventive_ac_maintenance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-ne

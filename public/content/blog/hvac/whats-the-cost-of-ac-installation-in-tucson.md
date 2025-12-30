@@ -8,7 +8,7 @@ category: hvac
 tags:
   - ac-installation
   - tucson
-heroImage: /attached_assets/generated_images/AC_installation_Tucson_home_a4d097e8.png
+heroImage: /generated_images/ac_installation_cost_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/whats-the-cost-of-ac-installation-in-tucson

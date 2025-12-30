@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/Seasonal_AC_preparation_f001c3a6.png
+heroImage: /generated_images/budget_cooling_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/smart-strategies-to-stay-cool-effective-budget-friendly-tips

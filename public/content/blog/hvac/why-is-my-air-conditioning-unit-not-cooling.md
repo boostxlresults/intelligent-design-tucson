@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/Airflow_problem_diagnosis_e435fe1c.png
+heroImage: /generated_images/ac_unit_not_cooling.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-is-my-air-conditioning-unit-not-cooling

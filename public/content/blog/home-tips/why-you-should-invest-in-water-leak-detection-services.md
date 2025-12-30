@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:10:18.944Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Water_conservation_tips_3e904082.png
+heroImage: /generated_images/water_leak_detection.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/why-you-should-invest-in-water-leak-detection-services

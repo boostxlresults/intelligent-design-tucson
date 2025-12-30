@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/ac_summer_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t

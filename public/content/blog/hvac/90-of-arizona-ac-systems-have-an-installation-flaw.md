@@ -10,7 +10,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/ac_installation_flaws.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/90-of-arizona-ac-systems-have-an-installation-flaw

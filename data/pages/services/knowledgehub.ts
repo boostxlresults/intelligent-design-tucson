@@ -1238,75 +1238,99 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We proudly serve Tucson and surrounding communities across Pima County. Our service area includes:"
+            "content": "We proudly serve Tucson and surrounding communities across Pima County. Our comprehensive service area includes the following cities and neighborhoods with their primary zip codes:"
+      },
+      {
+            "type": "heading",
+            "heading": "Tucson Metro Area",
+            "level": 3,
+            "content": "Tucson Metro Area"
+      },
+      {
+            "type": "list",
+            "content": "Central Tucson (85701, 85702, 85705, 85716, 85719) | North Tucson (85704, 85712, 85718) | South Tucson (85706, 85713, 85714, 85756) | East Tucson (85710, 85711, 85715, 85730, 85748, 85749, 85750) | West Tucson / Tucson Estates (85735, 85743, 85745, 85746) | Midtown Tucson (85716, 85719)",
+            "items": [
+                  "Central Tucson (85701, 85702, 85705, 85716, 85719)",
+                  "North Tucson (85704, 85712, 85718)",
+                  "South Tucson (85706, 85713, 85714, 85756)",
+                  "East Tucson (85710, 85711, 85715, 85730, 85748, 85749, 85750)",
+                  "West Tucson / Tucson Estates (85735, 85743, 85745, 85746)",
+                  "Midtown Tucson (85716, 85719)"
+            ]
+      },
+      {
+            "type": "heading",
+            "heading": "Oro Valley & Northwest Communities",
+            "level": 3,
+            "content": "Oro Valley & Northwest Communities"
+      },
+      {
+            "type": "list",
+            "content": "Oro Valley (85737, 85755) - Including Steam Pump Village | Marana (85653, 85658) - Including Dove Mountain, Gladden Farms, Continental Ranch | Catalina (85739) | Catalina Foothills (85718, 85750) | Casas Adobes (85704, 85741, 85742) | Tortolita (85739, 85755) | Picture Rocks (85743) | Rillito (85654)",
+            "items": [
+                  "Oro Valley (85737, 85755) - Including Steam Pump Village",
+                  "Marana (85653, 85658) - Including Dove Mountain, Gladden Farms, Continental Ranch",
+                  "Catalina (85739)",
+                  "Catalina Foothills (85718, 85750)",
+                  "Casas Adobes (85704, 85741, 85742)",
+                  "Tortolita (85739, 85755)",
+                  "Picture Rocks (85743)",
+                  "Rillito (85654)"
+            ]
+      },
+      {
+            "type": "heading",
+            "heading": "South & Southeast Communities",
+            "level": 3,
+            "content": "South & Southeast Communities"
+      },
+      {
+            "type": "list",
+            "content": "Sahuarita (85629) - Including Rancho Sahuarita, Quail Creek | Green Valley (85614, 85622) - Including Canoa Ranch | Vail (85641) - Including Saguaro Ranch, Rancho Del Lago | Corona de Tucson (85641) | Rita Ranch (85747) | Drexel Heights (85746)",
+            "items": [
+                  "Sahuarita (85629) - Including Rancho Sahuarita, Quail Creek",
+                  "Green Valley (85614, 85622) - Including Canoa Ranch",
+                  "Vail (85641) - Including Saguaro Ranch, Rancho Del Lago",
+                  "Corona de Tucson (85641)",
+                  "Rita Ranch (85747)",
+                  "Drexel Heights (85746)"
+            ]
+      },
+      {
+            "type": "heading",
+            "heading": "Southwest & West Communities",
+            "level": 3,
+            "content": "Southwest & West Communities"
+      },
+      {
+            "type": "list",
+            "content": "Three Points (85736) | Avra Valley (85653) | Red Rock (85145) | Cortaro (85652)",
+            "items": [
+                  "Three Points (85736)",
+                  "Avra Valley (85653)",
+                  "Red Rock (85145)",
+                  "Cortaro (85652)"
+            ]
+      },
+      {
+            "type": "heading",
+            "heading": "Extended Service Area",
+            "level": 3,
+            "content": "Extended Service Area"
+      },
+      {
+            "type": "list",
+            "content": "Tanque Verde (85749) | Summit / Mount Lemmon Area (85619) | Saddlebrooke (85739) | Casa Grande (85122, 85193, 85194) - Extended service area",
+            "items": [
+                  "Tanque Verde (85749)",
+                  "Summit / Mount Lemmon Area (85619)",
+                  "Saddlebrooke (85739)",
+                  "Casa Grande (85122, 85193, 85194) - Extended service area"
+            ]
       },
       {
             "type": "paragraph",
-            "content": "Central, North, South, East, West Tucson"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full coverage including Steam Pump Village"
-      },
-      {
-            "type": "paragraph",
-            "content": "Dove Mountain, Gladden Farms, Continental Ranch"
-      },
-      {
-            "type": "paragraph",
-            "content": "Rancho Sahuarita, Quail Creek"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full coverage including Canoa Ranch"
-      },
-      {
-            "type": "paragraph",
-            "content": "Saguaro Ranch, Rancho Del Lago"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full coverage of foothills neighborhoods"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full residential and commercial service"
-      },
-      {
-            "type": "paragraph",
-            "content": "Rural service available"
-      },
-      {
-            "type": "paragraph",
-            "content": "Extended service area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full coverage"
-      },
-      {
-            "type": "paragraph",
-            "content": "Southeast Tucson service"
-      },
-      {
-            "type": "paragraph",
-            "content": "Full service area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Northwest Tucson coverage"
-      },
-      {
-            "type": "paragraph",
-            "content": "Southwest Tucson service"
-      },
-      {
-            "type": "paragraph",
-            "content": "West side coverage"
-      },
-      {
-            "type": "paragraph",
-            "content": "Outside our standard service area? Give us a call—we may still be able to help depending on the service needed and scheduling availability. We occasionally serve areas beyond Pima County for larger projects or emergency situations."
+            "content": "Outside our standard service area? Call us at (520) 333-2665—we may still be able to help depending on the service needed and scheduling availability. We occasionally serve areas beyond Pima County for larger projects or emergency situations."
       },
       {
             "type": "heading",
@@ -1477,6 +1501,44 @@ export const knowledgehubData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "We pass manufacturer rebates directly to customers. Promotions vary by season and equipment type but can include: $500-$2,000 rebates on high-efficiency HVAC systems, utility company rebates for energy-efficient upgrades, and manufacturer financing incentives. Check our website or ask your technician about current promotions."
+      },
+      {
+            "type": "heading",
+            "heading": "Current Special Offers",
+            "level": 3,
+            "content": "Current Special Offers"
+      },
+      {
+            "type": "paragraph",
+            "content": "Take advantage of our current special offers and exclusive promotions:"
+      },
+      {
+            "type": "list",
+            "content": "$28.88 Drain Clearing Special: Professional drain clearing service at an unbeatable price—available for a limited time. Includes standard drain clears for sinks, tubs, showers, and toilets. Visit intelligentdesignair.com/offers/28-88-drain-clearing for details. | New Homebuyer Offer: Recently purchased a home in Tucson? Enjoy exclusive savings on your first service plus a complimentary home systems evaluation. Perfect for understanding your new home's HVAC, plumbing, and electrical condition. Visit intelligentdesignair.com/offers/new-homebuyer-offer for complete details. | REALTORS® Partner Program: Real estate professionals receive exclusive pricing and priority scheduling for their clients' pre-sale inspections, buyer home evaluations, and urgent repair needs. Visit intelligentdesignair.com/offers/realtors-offer to join our REALTORS® program.",
+            "items": [
+                  "$28.88 Drain Clearing Special: Professional drain clearing service at an unbeatable price—available for a limited time. Includes standard drain clears for sinks, tubs, showers, and toilets. Visit intelligentdesignair.com/offers/28-88-drain-clearing for details.",
+                  "New Homebuyer Offer: Recently purchased a home in Tucson? Enjoy exclusive savings on your first service plus a complimentary home systems evaluation. Perfect for understanding your new home's HVAC, plumbing, and electrical condition. Visit intelligentdesignair.com/offers/new-homebuyer-offer for complete details.",
+                  "REALTORS® Partner Program: Real estate professionals receive exclusive pricing and priority scheduling for their clients' pre-sale inspections, buyer home evaluations, and urgent repair needs. Visit intelligentdesignair.com/offers/realtors-offer to join our REALTORS® program."
+            ]
+      },
+      {
+            "type": "heading",
+            "heading": "Free Online Quote Tools",
+            "level": 3,
+            "content": "Free Online Quote Tools"
+      },
+      {
+            "type": "paragraph",
+            "content": "Get instant pricing estimates without scheduling an appointment using our free online quote calculators:"
+      },
+      {
+            "type": "list",
+            "content": "Free Online HVAC Quote: Answer a few questions about your home and receive a personalized AC installation estimate in minutes. Visit intelligentdesignair.com/free-hvac-quote | Free Online Water Heater Quote: Compare tank vs. tankless options and get accurate pricing for water heater replacement. Visit intelligentdesignair.com/water-heater-quote | Online Filter Shop: Order replacement filters for your HVAC system with convenient home delivery. Visit intelligentdesignair.com/filter-shop",
+            "items": [
+                  "Free Online HVAC Quote: Answer a few questions about your home and receive a personalized AC installation estimate in minutes. Visit intelligentdesignair.com/free-hvac-quote",
+                  "Free Online Water Heater Quote: Compare tank vs. tankless options and get accurate pricing for water heater replacement. Visit intelligentdesignair.com/water-heater-quote",
+                  "Online Filter Shop: Order replacement filters for your HVAC system with convenient home delivery. Visit intelligentdesignair.com/filter-shop"
+            ]
       },
       {
             "type": "heading",
@@ -1696,7 +1758,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Three easy ways: call us directly at (520) 622-3205, use our online scheduler on the website, or use the chat feature. We'll ask basic questions about your issue, check technician availability, and schedule a convenient appointment time with a specific arrival window (not \"sometime between 8am-5pm\")."
+            "content": "Three easy ways: call us directly at (520) 333-2665, use our online scheduler on the website, or use the chat feature. We'll ask basic questions about your issue, check technician availability, and schedule a convenient appointment time with a specific arrival window (not \"sometime between 8am-5pm\")."
       },
       {
             "type": "paragraph",
@@ -1886,7 +1948,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Looking to schedule service now? Visit our home page or click any \"Schedule\" button throughout our site to open our ServiceTitan scheduler. You can also call us directly at (520) 622-3205 during business hours or for emergency service."
+            "content": "Looking to schedule service now? Visit our home page or click any \"Schedule\" button throughout our site to open our ServiceTitan scheduler. You can also call us directly at (520) 333-2665 during business hours or for emergency service."
       }
 ,
       {

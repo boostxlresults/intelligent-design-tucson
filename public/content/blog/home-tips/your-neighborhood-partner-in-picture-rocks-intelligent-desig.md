@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:19.491Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/home_services_picture_rocks.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/your-neighborhood-partner-in-picture-rocks-intelligent-desig

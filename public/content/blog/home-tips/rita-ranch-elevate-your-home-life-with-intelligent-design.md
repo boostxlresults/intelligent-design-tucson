@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:27.995Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/home_services_rita_ranch.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/rita-ranch-elevate-your-home-life-with-intelligent-design

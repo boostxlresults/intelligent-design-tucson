@@ -9,7 +9,7 @@ tags:
   - plumbing-repair
   - drain-cleaning
   - repiping
-heroImage: /attached_assets/generated_images/Drain_cleaning_service_35e09460.png
+heroImage: /generated_images/drain_cleaning_importance.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/plumbing/why-drain-cleaning-is-important'
 ---

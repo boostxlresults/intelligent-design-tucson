@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - ac-replacement
   - tucson
-heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
+heroImage: /generated_images/emergency_hvac_services.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/our-emergency-hvac-services-taking-precautions-during-the-pa

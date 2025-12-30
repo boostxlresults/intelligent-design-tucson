@@ -11,7 +11,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/plumber_maintenance_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-importance-of-regular-maintenance-with-a-professional-pl

@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T18:48:23.918Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Home_comfort_improvement_3a6feb26.png
+heroImage: /generated_images/indoor_air_quality_health.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/the-impact-of-indoor-air-quality-on-your-health-and-comfort

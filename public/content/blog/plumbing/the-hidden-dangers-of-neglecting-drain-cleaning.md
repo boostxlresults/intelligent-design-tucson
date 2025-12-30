@@ -10,7 +10,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /attached_assets/generated_images/Drain_cleaning_service_35e09460.png
+heroImage: /generated_images/neglecting_drain_cleaning.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-hidden-dangers-of-neglecting-drain-cleaning

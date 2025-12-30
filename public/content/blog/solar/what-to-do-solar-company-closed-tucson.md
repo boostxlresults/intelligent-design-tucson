@@ -11,7 +11,7 @@ tags:
   - warranty
   - solar-service
   - solar-repair
-heroImage: /attached_assets/generated_images/Solar_system_monitoring_74b86b28.png
+heroImage: /generated_images/solar_company_closed_recovery.png
 publishedAt: '2024-09-15T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

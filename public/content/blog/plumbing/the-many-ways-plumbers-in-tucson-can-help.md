@@ -11,7 +11,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/plumbers_tucson_services.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-many-ways-plumbers-in-tucson-can-help

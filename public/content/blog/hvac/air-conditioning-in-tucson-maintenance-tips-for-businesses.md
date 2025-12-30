@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /attached_assets/generated_images/Commercial_HVAC_service_f5d8b668.png
+heroImage: /generated_images/commercial_ac_maintenance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses

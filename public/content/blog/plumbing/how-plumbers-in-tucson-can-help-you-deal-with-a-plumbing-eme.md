@@ -11,7 +11,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Emergency_plumbing_service_3773a11e.png
+heroImage: /generated_images/plumbing_emergency_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/how-plumbers-in-tucson-can-help-you-deal-with-a-plumbing-eme

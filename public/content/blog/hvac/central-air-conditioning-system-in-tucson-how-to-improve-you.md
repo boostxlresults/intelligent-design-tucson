@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/Indoor_air_quality_service_7d8bfcfd.png
+heroImage: /generated_images/indoor_air_quality.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/central-air-conditioning-system-in-tucson-how-to-improve-you

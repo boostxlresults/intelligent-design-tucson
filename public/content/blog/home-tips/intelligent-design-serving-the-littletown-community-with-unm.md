@@ -8,7 +8,7 @@ updatedAt: '2025-10-31T19:10:44.419Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/home_services_littletown.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-serving-the-littletown-community-with-unm

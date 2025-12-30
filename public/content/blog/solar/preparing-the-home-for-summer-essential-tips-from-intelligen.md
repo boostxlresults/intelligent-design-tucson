@@ -13,7 +13,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/prepare_home_for_summer.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/preparing-the-home-for-summer-essential-tips-from-intelligen

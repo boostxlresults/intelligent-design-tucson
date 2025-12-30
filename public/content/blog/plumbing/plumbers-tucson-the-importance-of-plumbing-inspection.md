@@ -10,7 +10,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/plumbing_inspection.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/plumbers-tucson-the-importance-of-plumbing-inspection

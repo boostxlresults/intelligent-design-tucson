@@ -10,7 +10,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/toilet_running_plumbing.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/why-is-my-toilet-running-and-other-popular-plumbing-question

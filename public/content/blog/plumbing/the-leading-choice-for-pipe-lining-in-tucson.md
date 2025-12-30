@@ -10,7 +10,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/pipe_lining_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-leading-choice-for-pipe-lining-in-tucson

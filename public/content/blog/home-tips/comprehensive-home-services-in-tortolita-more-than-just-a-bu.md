@@ -8,7 +8,7 @@ updatedAt: '2025-10-31T19:11:10.722Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/home_services_tortolita.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/comprehensive-home-services-in-tortolita-more-than-just-a-bu

@@ -13,7 +13,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/common_plumbing_issues.png
 featured: true
 canonicalUrl: /blog/plumbing/what-are-the-most-common-plumbing-issues-in-homes
 relatedServices:

@@ -8,7 +8,7 @@ category: solar
 tags:
   - solar-panels
   - solar-energy
-heroImage: /attached_assets/generated_images/Residential_solar_installation_8a8bfb2c.png
+heroImage: /generated_images/solar_efficiency_maximize.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/maximizing-solar-efficiency-steps-to-harness-the-suns-power

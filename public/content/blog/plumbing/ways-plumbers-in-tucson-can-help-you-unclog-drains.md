@@ -11,7 +11,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Drain_cleaning_service_35e09460.png
+heroImage: /generated_images/unclog_drains_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/ways-plumbers-in-tucson-can-help-you-unclog-drains

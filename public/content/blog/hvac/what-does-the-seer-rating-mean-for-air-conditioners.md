@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - energy-efficiency
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/seer_rating_explained.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-does-the-seer-rating-mean-for-air-conditioners

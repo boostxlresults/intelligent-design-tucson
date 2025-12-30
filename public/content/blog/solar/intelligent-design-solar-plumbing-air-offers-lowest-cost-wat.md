@@ -10,7 +10,7 @@ category: solar
 tags:
   - solar-installation
   - tucson
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/water_filtration_system.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/intelligent-design-solar-plumbing-air-offers-lowest-cost-wat

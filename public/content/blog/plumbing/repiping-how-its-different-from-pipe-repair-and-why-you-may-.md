@@ -9,7 +9,7 @@ tags:
   - plumbing-repair
   - repiping
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/repiping_vs_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-

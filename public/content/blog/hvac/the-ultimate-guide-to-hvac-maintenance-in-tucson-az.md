@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
+heroImage: /generated_images/hvac_maintenance_guide_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-ultimate-guide-to-hvac-maintenance-in-tucson-az

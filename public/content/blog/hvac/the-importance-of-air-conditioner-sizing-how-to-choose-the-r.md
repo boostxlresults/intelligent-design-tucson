@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/Energy_efficient_AC_system_a620658e.png
+heroImage: /generated_images/ac_sizing_importance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-of-air-conditioner-sizing-how-to-choose-the-r

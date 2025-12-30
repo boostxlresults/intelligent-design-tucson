@@ -9,7 +9,7 @@ tags:
   - ac-repair
   - ac-installation
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/fans_vs_ac_cost.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-cost-of-running-fans-vs-air-conditioning

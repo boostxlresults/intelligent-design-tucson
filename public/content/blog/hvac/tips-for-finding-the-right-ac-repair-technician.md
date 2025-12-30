@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/find_ac_repair_technician.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/tips-for-finding-the-right-ac-repair-technician

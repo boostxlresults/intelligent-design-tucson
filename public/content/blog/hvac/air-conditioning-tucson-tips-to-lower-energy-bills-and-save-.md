@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/energy_bill_savings.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-

@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:46.387Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/repiping_house_process.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/what-is-involved-in-repiping-a-house'
 ---

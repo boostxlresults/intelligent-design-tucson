@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:36.386Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/Water_conservation_tips_3e904082.png
+heroImage: /generated_images/repiping_water_quality.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/how-repiping-can-improve-your-homes-water-quality

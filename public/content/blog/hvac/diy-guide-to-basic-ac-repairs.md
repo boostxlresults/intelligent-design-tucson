@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/diy_ac_repairs.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/diy-guide-to-basic-ac-repairs'
 ---

@@ -11,7 +11,7 @@ tags:
   - tucson
   - energy-efficiency
   - hvac-maintenance
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/summer_home_prep_tucson.png
 publishedAt: '2024-04-20T09:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

@@ -9,7 +9,7 @@ tags:
   - plumbing-repair
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Water_heater_repair_service_91aa3eca.png
+heroImage: /generated_images/water_heater_repair_call.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/plumbing/who-to-call-for-water-heater-repair'
 ---

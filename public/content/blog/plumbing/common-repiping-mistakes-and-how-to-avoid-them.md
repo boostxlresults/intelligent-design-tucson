@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:46.380Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/repiping_mistakes.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/common-repiping-mistakes-and-how-to-avoid-them

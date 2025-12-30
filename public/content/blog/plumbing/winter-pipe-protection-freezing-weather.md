@@ -11,7 +11,7 @@ tags:
   - pipe-protection
   - tucson
   - freeze-prevention
-heroImage: /attached_assets/generated_images/Backflow_prevention_testing_bd0d9ac4.png
+heroImage: /generated_images/winter_pipe_protection_tucson.png
 publishedAt: '2024-01-08T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: false

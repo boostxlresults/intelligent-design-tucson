@@ -9,7 +9,7 @@ tags:
   - maintenance
   - tucson
   - hvac-tips
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/complete_ac_repair_guide.png
 publishedAt: '2024-01-15T10:00:00Z'
 updatedAt: '2024-06-01T10:00:00Z'
 featured: true

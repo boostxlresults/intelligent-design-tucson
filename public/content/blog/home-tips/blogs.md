@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:10:44.410Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/hvac_guide_tucson.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/blogs'
 ---

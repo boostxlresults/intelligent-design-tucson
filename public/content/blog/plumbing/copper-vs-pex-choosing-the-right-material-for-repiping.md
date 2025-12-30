@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:46.377Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/copper_vs_pex_repiping.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/copper-vs-pex-choosing-the-right-material-for-repiping

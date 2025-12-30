@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - ac-replacement
   - tucson
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/dirty_air_filter_dangers.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f

@@ -11,7 +11,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/before_installing_solar.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/3-types-of-solar-power-systems-which-one-is-right-for-you

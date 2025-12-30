@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/right_ac_repair_company.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-to-choose-the-right-ac-repair-company'
 ---

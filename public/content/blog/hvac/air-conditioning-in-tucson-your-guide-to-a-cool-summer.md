@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/Seasonal_AC_preparation_f001c3a6.png
+heroImage: /generated_images/cool_summer_guide.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-your-guide-to-a-cool-summer

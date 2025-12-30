@@ -9,7 +9,7 @@ tags:
   - hvac-maintenance
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/Energy_efficient_AC_system_a620658e.png
+heroImage: /generated_images/super_cooling_efficiency.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-s

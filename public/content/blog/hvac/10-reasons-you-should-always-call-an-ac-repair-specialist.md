@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - ac-replacement
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/ac_repair_specialist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/10-reasons-you-should-always-call-an-ac-repair-specialist

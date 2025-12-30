@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/central_ac_installation_cost.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-much-does-it-cost-to-install-central-air-conditioning

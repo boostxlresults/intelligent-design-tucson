@@ -10,7 +10,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/diy_vs_pro_ac_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-know-when-to-diy-ac-repair-and-when-to-call-the-pros

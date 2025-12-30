@@ -13,7 +13,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Home_repiping_service_bf6aeff1.png
+heroImage: /generated_images/plumbing_water_testing.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-crucial-role-of-plumbing-inspections-and-water-testing-b

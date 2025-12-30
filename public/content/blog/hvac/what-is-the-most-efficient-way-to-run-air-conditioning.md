@@ -10,7 +10,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/efficient_ac_running.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-most-efficient-way-to-run-air-conditioning

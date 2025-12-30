@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/Airflow_problem_diagnosis_e435fe1c.png
+heroImage: /generated_images/ac_cooling_guide_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-is-my-ac-not-cooling-the-ultimate-tucson-homeowners-guid

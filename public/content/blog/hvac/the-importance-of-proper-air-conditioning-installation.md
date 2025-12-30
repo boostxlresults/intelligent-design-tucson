@@ -10,7 +10,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/ac_installation_importance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-of-proper-air-conditioning-installation

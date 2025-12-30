@@ -8,7 +8,7 @@ updatedAt: '2025-10-31T19:11:01.407Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Home_comfort_improvement_3a6feb26.png
+heroImage: /generated_images/home_comfort_drexel_alvernon.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-elevating-drexel-alvernons-home-comforts-

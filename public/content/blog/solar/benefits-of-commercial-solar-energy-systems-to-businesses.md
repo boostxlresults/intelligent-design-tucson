@@ -10,7 +10,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /attached_assets/generated_images/Commercial_solar_installation_4f71127b.png
+heroImage: /generated_images/commercial_solar_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses

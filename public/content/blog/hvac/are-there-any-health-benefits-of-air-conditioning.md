@@ -9,7 +9,7 @@ tags:
   - ac-repair
   - hvac-maintenance
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/ac_health_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/are-there-any-health-benefits-of-air-conditioning

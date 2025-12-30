@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:10:18.941Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/Drain_cleaning_service_35e09460.png
+heroImage: /generated_images/intelligent_design_moon_plumbing.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/plumbing/intelligent-design-moon-plumbing'
 ---

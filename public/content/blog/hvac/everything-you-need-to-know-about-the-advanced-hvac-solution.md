@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_repair_service_Tucson_0e76b972.png
+heroImage: /generated_images/advanced_hvac_solutions.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/everything-you-need-to-know-about-the-advanced-hvac-solution

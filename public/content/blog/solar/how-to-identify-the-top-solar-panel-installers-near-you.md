@@ -11,7 +11,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/residential_solar_installation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/how-to-identify-the-top-solar-panel-installers-near-you

@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:10:53.026Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/ac_save_money_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/does-turning-off-your-ac-when-youre-not-home-actually-save-m

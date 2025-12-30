@@ -11,7 +11,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/solar_roi_savings.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/what-are-the-financial-benefits-of-solar-energy

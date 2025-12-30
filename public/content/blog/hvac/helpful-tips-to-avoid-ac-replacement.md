@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/AC_installation_Tucson_home_a4d097e8.png
+heroImage: /generated_images/avoid_ac_replacement.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/helpful-tips-to-avoid-ac-replacement'
 ---

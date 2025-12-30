@@ -10,7 +10,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/how_solar_works.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/solar-power-systems-made-simple-how-solar-panels-work

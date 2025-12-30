@@ -13,7 +13,7 @@ tags:
   - lifestyle
   - real-estate
   - arizona-living
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/move_to_tucson.png
 publishedAt: '2025-01-20T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

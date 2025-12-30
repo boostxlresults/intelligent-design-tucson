@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/AC_maintenance_service_6a47e66a.png
+heroImage: /generated_images/82_point_inspection.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/intelligent-design-elevates-hvac-tune-up-standards-with-unpr

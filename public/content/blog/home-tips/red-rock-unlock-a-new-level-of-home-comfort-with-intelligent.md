@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:27.991Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Home_comfort_improvement_3a6feb26.png
+heroImage: /generated_images/home_comfort_red_rock.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/red-rock-unlock-a-new-level-of-home-comfort-with-intelligent

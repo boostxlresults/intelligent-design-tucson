@@ -11,7 +11,7 @@ tags:
   - tucson
   - water quality
   - home improvement
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/repiping_benefits_tucson.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/plumbing/7-benefits-of-repiping-your-tucson-home'
 ---

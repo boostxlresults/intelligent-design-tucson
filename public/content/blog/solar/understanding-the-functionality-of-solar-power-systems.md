@@ -10,7 +10,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/solar_system_components.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/understanding-the-functionality-of-solar-power-systems

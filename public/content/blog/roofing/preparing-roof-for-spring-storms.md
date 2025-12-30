@@ -11,7 +11,7 @@ tags:
   - tucson
   - storm-protection
   - home-safety
-heroImage: /attached_assets/generated_images/Roof_repair_Tucson_5156ac7b.png
+heroImage: /generated_images/roof_spring_storm_prep.png
 publishedAt: '2024-03-15T08:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

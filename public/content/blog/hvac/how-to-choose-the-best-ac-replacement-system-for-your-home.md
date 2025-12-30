@@ -10,7 +10,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/AC_installation_Tucson_home_a4d097e8.png
+heroImage: /generated_images/best_ac_replacement_system.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-choose-the-best-ac-replacement-system-for-your-home

@@ -10,7 +10,7 @@ category: solar
 tags:
   - solar-energy
   - tucson
-heroImage: /attached_assets/generated_images/Residential_solar_installation_8a8bfb2c.png
+heroImage: /generated_images/monsoon_humidity_ac.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/how-tucsons-monsoon-humidity-impacts-your-central-air-system

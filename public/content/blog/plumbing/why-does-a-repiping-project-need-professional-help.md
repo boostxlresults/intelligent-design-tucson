@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:57.331Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /attached_assets/generated_images/DIY_vs_professional_help_bb8590e8.png
+heroImage: /generated_images/repiping_professional_help.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/why-does-a-repiping-project-need-professional-help

@@ -13,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/Smart_thermostat_installation_6da163f6.png
+heroImage: /generated_images/smart_thermostat_summer.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/optimizing-air-conditioner-use-in-summer-best-practices-and-

@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/Energy_efficient_AC_system_a620658e.png
+heroImage: /generated_images/summer_ac_tune_up.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie

@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/fix_ac_guide.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-fix-your-ac-a-simple-guide-for-everyone

@@ -10,7 +10,7 @@ tags:
   - drain-cleaning
   - water-heaters
   - tucson
-heroImage: /attached_assets/generated_images/Drain_cleaning_service_35e09460.png
+heroImage: /generated_images/choose_best_plumber.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/how-to-choose-the-best-plumber-in-tucson

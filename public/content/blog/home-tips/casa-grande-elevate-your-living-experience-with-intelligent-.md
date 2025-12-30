@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:27.986Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /attached_assets/generated_images/Energy_saving_tips_68ca42a1.png
+heroImage: /generated_images/home_services_casa_grande.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/casa-grande-elevate-your-living-experience-with-intelligent-

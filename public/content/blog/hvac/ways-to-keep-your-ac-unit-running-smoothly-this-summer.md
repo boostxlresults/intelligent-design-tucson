@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/ac_running_smoothly.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/ways-to-keep-your-ac-unit-running-smoothly-this-summer

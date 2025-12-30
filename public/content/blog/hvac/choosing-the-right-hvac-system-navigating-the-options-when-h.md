@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/HVAC_system_upgrade_8cee17a0.png
+heroImage: /generated_images/hvac_system_options.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/choosing-the-right-hvac-system-navigating-the-options-when-h

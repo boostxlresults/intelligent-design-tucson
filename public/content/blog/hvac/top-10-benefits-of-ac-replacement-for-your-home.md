@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /attached_assets/generated_images/AC_installation_Tucson_home_a4d097e8.png
+heroImage: /generated_images/ac_replacement_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/top-10-benefits-of-ac-replacement-for-your-home

@@ -11,7 +11,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /attached_assets/generated_images/AC_installation_Tucson_home_a4d097e8.png
+heroImage: /generated_images/intelligent_design_ac_team.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-choose-intelligent-design-team-for-your-ac-replacement-n

@@ -10,7 +10,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /attached_assets/generated_images/Solar_panel_cost_savings_0fb811b1.png
+heroImage: /generated_images/solar_energy_future.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/why-is-solar-energy-important-for-our-future
