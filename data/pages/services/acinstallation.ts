@@ -19,6 +19,12 @@ export const acinstallationData: ServicePageData = {
   serviceName: 'AC Installation',
   category: 'HVAC',
   
+  // Hero Quote Button
+  heroQuoteButton: {
+    label: 'Free Online HVAC Quote',
+    href: '/free-hvac-quote'
+  },
+  
   // Content
   highlights: [
   {

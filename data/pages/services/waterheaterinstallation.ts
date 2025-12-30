@@ -19,6 +19,12 @@ export const waterheaterinstallationData: ServicePageData = {
   serviceName: 'Water Heater Installation',
   category: 'Plumbing',
   
+  // Hero Quote Button
+  heroQuoteButton: {
+    label: 'Free Online Water Heater Quote',
+    href: '/water-heater-quote'
+  },
+  
   // Content
   highlights: [
   {

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { CheckCircle2, Phone } from "lucide-react";
+import { CheckCircle2, Phone, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
@@ -121,7 +121,7 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
             </p>
             
             {/* CTA Buttons - Match Home Page Hero Styling */}
-            <div className="flex flex-col sm:flex-row gap-4">
+            <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4">
               <SchedulerEmbed
                 triggerText="Schedule Service"
                 variant="destructive"
@@ -140,6 +140,19 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
                   Call: (520) 333-2665
                 </a>
               </Button>
+              {data.heroQuoteButton && (
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="text-lg px-8 py-6 h-auto bg-sky-500 border-2 border-sky-600 text-white hover:bg-sky-600 font-bold"
+                  asChild
+                >
+                  <a href={data.heroQuoteButton.href} data-testid="button-quote-hero">
+                    <FileText className="w-5 h-5 mr-2" />
+                    {data.heroQuoteButton.label}
+                  </a>
+                </Button>
+              )}
             </div>
           </div>
         </div>

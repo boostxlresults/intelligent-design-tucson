@@ -144,6 +144,12 @@ export interface ServicePageData {
     sections: ContentSection[];
   };
   
+  // Hero Quote Button (optional - displayed in hero CTA area)
+  heroQuoteButton?: {
+    label: string;
+    href: string;
+  };
+  
   // Featured Video (displayed after TOC/Jump to Section)
   featuredVideo?: {
     videoId: string;
