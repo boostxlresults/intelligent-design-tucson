@@ -1,12 +1,21 @@
 "use client";
 
+import Script from "next/script";
+
+/**
+ * Google Tag Manager Integration
+ * 
+ * Optimized for INP: Uses afterInteractive strategy to prevent blocking first paint
+ * while still loading early enough for accurate analytics
+ */
 export default function GTM() {
   const id = "GTM-WKG99GJ";
 
   return (
     <>
-      <script
+      <Script
         id="gtm-init"
+        strategy="afterInteractive"
         dangerouslySetInnerHTML={{
           __html: `
             (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
