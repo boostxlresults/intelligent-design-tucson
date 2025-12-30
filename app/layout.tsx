@@ -72,6 +72,11 @@ export default function RootLayout({
             gtag('config', 'G-D10QGY0N5E');
           `}
         </Script>
+        {/* Contentsquare Analytics */}
+        <Script
+          src="https://t.contentsquare.net/uxa/9c3e82c07cad8.js"
+          strategy="afterInteractive"
+        />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         <GTM />
