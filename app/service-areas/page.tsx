@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { Phone, MapPin, Clock, CheckCircle2, Home, Zap, Wrench, Sun, Hammer } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -169,9 +170,23 @@ export default function ServiceAreasPage() {
       />
 
       <main className="min-h-screen">
-        {/* Hero Section */}
-        <section className="relative bg-gradient-to-br from-primary via-primary/90 to-primary/70 text-white py-16 md:py-24">
-          <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+        {/* Hero Section - Optimized with background image for LCP */}
+        <section className="relative text-white py-16 md:py-24 overflow-hidden">
+          {/* Background Image */}
+          <div className="absolute inset-0">
+            <Image
+              src="/images/hero-van-downtown.png"
+              alt="Intelligent Design service van with Tucson Arizona cityscape"
+              fill
+              sizes="100vw"
+              className="object-cover"
+              priority
+              data-testid="img-service-areas-hero"
+            />
+          </div>
+          {/* Left-to-right gradient overlay for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/85 via-blue-900/50 to-blue-900/10" />
+          <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8 relative z-10">
             <div className="max-w-4xl">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight" data-testid="heading-hero">
                 Areas We Serve
