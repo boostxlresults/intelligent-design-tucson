@@ -51,14 +51,23 @@ const highlights = [
 export default function AboutPage() {
   return (
     <div className="min-h-screen flex flex-col bg-background">
-      {/* Hero Section */}
-      <section 
-        className="relative bg-cover bg-center py-24 md:py-32"
-        style={{
-          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/generated_images/happy_Tucson_family_with_technician_74923601.webp)',
-        }}
-      >
-        <div className="max-w-7xl mx-auto px-4">
+      {/* Hero Section - Uses Next.js Image for LCP optimization */}
+      <section className="relative py-24 md:py-32 overflow-hidden">
+        {/* Background Image with Next.js Image for LCP optimization */}
+        <div className="absolute inset-0">
+          <Image
+            src="/generated_images/happy_Tucson_family_with_technician_74923601.webp"
+            alt="Happy Tucson family with Intelligent Design technician"
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+          />
+          {/* Gradient overlay */}
+          <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
+        </div>
+        
+        <div className="relative z-10 max-w-7xl mx-auto px-4">
           <div className="max-w-4xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
               Why Tucson Chooses Intelligent Design

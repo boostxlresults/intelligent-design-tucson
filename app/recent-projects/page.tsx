@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ChevronRight, CheckCircle, Award, Users, Star } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -195,14 +196,22 @@ export default function RecentProjectsPage() {
       />
       
     <div className="min-h-screen flex flex-col bg-background">
-      {/* Hero Section */}
-      <section 
-        className="relative bg-cover bg-center py-24 md:py-32"
-        style={{
-          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.7), rgba(13, 45, 122, 0.7)), url(/images/tucson-projects-map.png)',
-        }}
-      >
-        <div className="max-w-7xl mx-auto px-4">
+      {/* Hero Section - Optimized with Next.js Image for LCP */}
+      <section className="relative py-24 md:py-32 overflow-hidden">
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/images/tucson-projects-map.png"
+            alt="Intelligent Design service area map in Tucson"
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-[rgba(13,45,122,0.7)]" />
+        </div>
+        
+        <div className="relative z-10 max-w-7xl mx-auto px-4">
           <div className="max-w-4xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
               Recent Projects

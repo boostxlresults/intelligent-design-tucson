@@ -132,13 +132,22 @@ export default function FamilyProtectionPlansPage() {
       />
 
       <div className="min-h-screen flex flex-col bg-background">
-        <section 
-          className="relative bg-cover bg-center py-20 md:py-28"
-          style={{
-            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/family-protection-hero.png)',
-          }}
-        >
-          <div className="max-w-7xl mx-auto px-4">
+        {/* Hero Section - Optimized with Next.js Image for LCP */}
+        <section className="relative py-20 md:py-28 overflow-hidden">
+          {/* Background Image */}
+          <div className="absolute inset-0">
+            <Image
+              src="/images/family-protection-hero.png"
+              alt="Family protection plans for your home"
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
+          </div>
+          
+          <div className="relative z-10 max-w-7xl mx-auto px-4">
             <div className="max-w-4xl text-center mx-auto">
               <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4" data-testid="text-hero-title">
                 Intelligent Design Family Protection Plans

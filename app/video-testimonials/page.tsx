@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ChevronRight, Play, Star } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -127,14 +128,22 @@ export default function VideoTestimonialsPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }}
       />
 
-      {/* Hero Section */}
-      <section 
-        className="relative bg-cover bg-center py-24 md:py-32"
-        style={{
-          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.75), rgba(13, 45, 122, 0.75)), url(/generated_images/happy_family_with_technician_at_home.webp)',
-        }}
-      >
-        <div className="max-w-7xl mx-auto px-4">
+      {/* Hero Section - Optimized with Next.js Image for LCP */}
+      <section className="relative py-24 md:py-32 overflow-hidden">
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/generated_images/happy_family_with_technician_at_home.webp"
+            alt="Happy Tucson family with Intelligent Design technician"
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-[rgba(13,45,122,0.75)]" />
+        </div>
+        
+        <div className="relative z-10 max-w-7xl mx-auto px-4">
           <div className="max-w-4xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
               Real Stories from Real Customers

@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ChevronRight, CheckCircle2, Shield, Phone, Clock, Award, Star, Calendar, Wrench, Zap, Droplets, Building2, Sun, Thermometer, Flame, ShowerHead, Lightbulb, Hammer } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -264,13 +265,22 @@ export default function CommercialMaintenancePage() {
       />
 
       <div className="min-h-screen flex flex-col bg-background">
-        <section 
-          className="relative bg-cover bg-center py-20 md:py-28"
-          style={{
-            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/hvac-hero.jpg)',
-          }}
-        >
-          <div className="max-w-7xl mx-auto px-4">
+        {/* Hero Section - Optimized with Next.js Image for LCP */}
+        <section className="relative py-20 md:py-28 overflow-hidden">
+          {/* Background Image */}
+          <div className="absolute inset-0">
+            <Image
+              src="/images/hvac-hero.jpg"
+              alt="Commercial maintenance services in Tucson"
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
+          </div>
+          
+          <div className="relative z-10 max-w-7xl mx-auto px-4">
             <div className="max-w-4xl text-center mx-auto">
               <div className="inline-flex items-center gap-2 bg-yellow-500 text-gray-900 px-4 py-2 rounded-full font-bold mb-6">
                 <Building2 className="w-5 h-5" />

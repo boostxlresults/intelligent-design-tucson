@@ -151,14 +151,22 @@ export default function KnowledgeHubPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
 
-      {/* Hero Section */}
-      <section 
-        className="relative bg-cover bg-center py-24 md:py-32"
-        style={{
-          backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/hvac-hero.jpg)',
-        }}
-      >
-        <div className="max-w-7xl mx-auto px-4">
+      {/* Hero Section - Optimized with Next.js Image for LCP */}
+      <section className="relative py-24 md:py-32 overflow-hidden">
+        {/* Background Image */}
+        <div className="absolute inset-0">
+          <Image
+            src="/images/hvac-hero.jpg"
+            alt="Home services knowledge and education center"
+            fill
+            priority
+            sizes="100vw"
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
+        </div>
+        
+        <div className="relative z-10 max-w-7xl mx-auto px-4">
           <div className="max-w-4xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
               Intelligent Design Knowledge Hub

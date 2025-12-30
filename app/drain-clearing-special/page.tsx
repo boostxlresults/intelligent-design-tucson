@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ChevronRight, CheckCircle2, DollarSign, Phone, Droplets, Shield, Clock, Award } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -82,13 +83,22 @@ export default function DrainClearingSpecialPage() {
       />
 
       <div className="min-h-screen flex flex-col bg-background">
-        <section 
-          className="relative bg-cover bg-center py-24 md:py-32"
-          style={{
-            backgroundImage: 'linear-gradient(rgba(13, 45, 122, 0.85), rgba(13, 45, 122, 0.85)), url(/images/plumbing-hero.jpg)',
-          }}
-        >
-          <div className="max-w-7xl mx-auto px-4">
+        {/* Hero Section - Optimized with Next.js Image for LCP */}
+        <section className="relative py-24 md:py-32 overflow-hidden">
+          {/* Background Image */}
+          <div className="absolute inset-0">
+            <Image
+              src="/images/plumbing-hero.jpg"
+              alt="Drain clearing special offer in Tucson"
+              fill
+              priority
+              sizes="100vw"
+              className="object-cover"
+            />
+            <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
+          </div>
+          
+          <div className="relative z-10 max-w-7xl mx-auto px-4">
             <div className="max-w-4xl">
               <div className="inline-flex items-center gap-2 bg-yellow-500 text-gray-900 px-4 py-2 rounded-full font-bold mb-6">
                 <DollarSign className="w-5 h-5" />
