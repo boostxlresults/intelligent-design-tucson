@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Phone, Star } from "lucide-react";
+import { Phone, Star, Tag } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
@@ -105,7 +105,7 @@ export default function Hero() {
           </div>
 
           {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row gap-4">
+          <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4">
             <SchedulerEmbed
               triggerText="Schedule Service"
               variant="destructive"
@@ -121,6 +121,17 @@ export default function Hero() {
               <a href="tel:+15203332665" data-testid="button-call-emergency">
                 <Phone className="w-5 h-5 mr-2" />
                 Call: (520) 333-2665
+              </a>
+            </Button>
+            <Button
+              size="lg"
+              variant="outline"
+              className="text-lg px-8 py-6 h-auto bg-green-600 border-2 border-green-700 text-white hover:bg-green-700 font-bold"
+              asChild
+            >
+              <a href="/special-offers" data-testid="button-special-offers">
+                <Tag className="w-5 h-5 mr-2" />
+                Special Offers
               </a>
             </Button>
           </div>
