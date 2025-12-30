@@ -766,6 +766,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/how-does-solar-energy-work': '/blog/solar/how-does-solar-energy-work',
   '/blog/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t',
 
+  // Repiping blog post redirects
+  '/blog/plumbing/repiping-the-pros-and-cons-of-having-your-homes-piping-repla': '/blog/plumbing/7-benefits-of-repiping-your-tucson-home',
+
   // Root-level blog posts (missing /blog/ prefix)
   '/air-conditioner-solutions-by-intelligent-design': '/blog/hvac/air-conditioner-solutions-by-intelligent-design',
   '/our-emergency-hvac-services-taking-precautions-during-the-pandemic': '/services/hvac-tucson',
