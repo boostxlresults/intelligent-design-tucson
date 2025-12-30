@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { Phone, Star, Tag } from "lucide-react";
+import { Phone, Star, Tag, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
@@ -132,6 +132,17 @@ export default function Hero() {
               <a href="/special-offers" data-testid="button-special-offers">
                 <Tag className="w-5 h-5 mr-2" />
                 Special Offers
+              </a>
+            </Button>
+            <Button
+              size="lg"
+              variant="outline"
+              className="text-lg px-8 py-6 h-auto bg-sky-500 border-2 border-sky-600 text-white hover:bg-sky-600 font-bold"
+              asChild
+            >
+              <a href="/special-offers" data-testid="button-free-quotes">
+                <FileText className="w-5 h-5 mr-2" />
+                Free Online Quotes
               </a>
             </Button>
           </div>
