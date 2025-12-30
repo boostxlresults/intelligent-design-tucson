@@ -1,6 +1,5 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
-import serviceLocationsManifest from '@/data/pages/service-locations/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
 import fs from 'fs/promises';
 import path from 'path';
@@ -88,7 +87,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   });
 
-  // Service pages (standalone services from services object)
+  // Service pages (from services manifest - all need /services/ prefix for canonical URLs)
   Object.keys(serviceManifest.services).forEach((serviceKey) => {
     // Skip internal keys that aren't actual pages
     if (serviceKey.startsWith('_')) return;
@@ -97,27 +96,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     const urlSlug = SERVICE_NAME_REVERSE_MAP[serviceKey] || serviceKey;
     
     entries.push({
-      url: `${SITE_URL}/${urlSlug}`,
+      url: `${SITE_URL}/services/${urlSlug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.9,
     });
   });
 
-  // Service + Location pages (from service-locations manifest)
-  serviceLocationsManifest.forEach((entry) => {
-    entries.push({
-      url: `${SITE_URL}/${entry.service}-${entry.location}`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.9,
-    });
-  });
+  // NOTE: Service + Location pages are already included via serviceManifest.services above
+  // The service-locations manifest uses legacy slugs without hyphens (e.g., "casasadobes")
+  // which don't match the actual page URLs (e.g., "casas-adobes"), so we skip it.
 
-  // Location pages
+  // Location pages (service area pages - canonical URL uses /service-areas/ prefix)
   Object.keys(locationManifest.locations).forEach((locationSlug) => {
     entries.push({
-      url: `${SITE_URL}/${locationSlug}`,
+      url: `${SITE_URL}/service-areas/${locationSlug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.85,
