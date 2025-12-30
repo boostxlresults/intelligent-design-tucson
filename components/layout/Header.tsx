@@ -367,7 +367,7 @@ export default function Header() {
             <a href="/" className="block" data-testid="link-home">
               <Image
                 src={logoUrl}
-                alt="Intelligent Design Tucson Logo"
+                alt="Intelligent Design Air Conditioning, Plumbing, Solar & Electric company logo"
                 width={400}
                 height={80}
                 className="h-16 md:h-20 w-auto"
