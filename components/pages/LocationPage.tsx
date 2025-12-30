@@ -114,6 +114,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
             src={data.heroImage}
             alt={data.heroImageAlt}
             fill
+            sizes="100vw"
             className="object-cover"
             priority
             data-testid="img-location-hero"

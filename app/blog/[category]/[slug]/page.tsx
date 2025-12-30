@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Phone, Clock, Calendar, ChevronRight, User } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -23,6 +24,16 @@ const categoryNames: Record<string, string> = {
   electrical: 'Electrical',
   'home-tips': 'Home Tips',
 };
+
+// Transform attached_assets paths to public paths for Next.js Image
+function normalizeHeroImagePath(imagePath: string | undefined): string | undefined {
+  if (!imagePath) return undefined;
+  // Convert /attached_assets/generated_images/... to /generated_images/...
+  if (imagePath.startsWith('/attached_assets/generated_images/')) {
+    return imagePath.replace('/attached_assets/generated_images/', '/generated_images/');
+  }
+  return imagePath;
+}
 
 // Generate static params for all blog posts
 export async function generateStaticParams() {
@@ -151,6 +162,22 @@ export default async function BlogPostPage({
       <div className="min-h-screen flex flex-col bg-background">
 
         <main className="flex-1">
+          {/* Hero Image Section - Optimized for LCP */}
+          {normalizeHeroImagePath(frontmatter.heroImage) && (
+            <section className="relative h-64 md:h-80 lg:h-96 overflow-hidden">
+              <Image
+                src={normalizeHeroImagePath(frontmatter.heroImage)!}
+                alt={frontmatter.title}
+                fill
+                priority
+                sizes="100vw"
+                className="object-cover"
+                data-testid="img-blog-hero"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
+            </section>
+          )}
+
           {/* Breadcrumb Navigation */}
           <nav className="border-b border-border bg-card">
             <div className="max-w-4xl mx-auto px-4 py-3">
