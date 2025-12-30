@@ -19,7 +19,7 @@ video:
   title: "What's the best temperature to set your air conditioner at?"
   description: "Andrew Dobbins discusses the best thermostat temperature settings for your home. Learn about different comfort preferences, smart thermostat solutions with Wi-Fi and app control, and how to keep the peace when family members disagree on temperature."
   duration: PT3M53S
-  uploadDate: "2020-01-09"
+  uploadDate: "2020-01-09T00:00:00Z"
 ---
 
 # What Is the Most Efficient Way to Run Air Conditioning?

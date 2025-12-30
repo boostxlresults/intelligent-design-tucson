@@ -122,7 +122,7 @@ export const smartacData: ServicePageData = {
         title: "SmartAC 24/7 AC Health Monitoring System | Prevent AC Breakdowns in Tucson",
         description: "Learn how SmartAC 24/7 monitoring technology protects your Tucson home from unexpected AC breakdowns. Intelligent Design is the exclusive Tucson partner for SmartAC.com, providing proactive AC health monitoring and real-time alerts.",
         duration: "PT3M26S",
-        uploadDate: "2022-04-21"
+        uploadDate: "2022-04-21T00:00:00Z"
       },
       {
         type: "paragraph",

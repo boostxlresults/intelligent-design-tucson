@@ -17,7 +17,7 @@ video:
   title: "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit"
   description: "Learn about the benefits of getting a whole home and solar energy audit for your home in Tucson. Home energy audits identify inefficiencies in your home energy envelope that should be addressed prior to adding solar panels, reducing the amount of energy needed and saving you money on solar installation."
   duration: PT2M59S
-  uploadDate: "2021-10-06"
+  uploadDate: "2021-10-06T00:00:00Z"
 ---
 
 # Maximizing Solar Efficiency: Steps to Harness the Sun’s Power

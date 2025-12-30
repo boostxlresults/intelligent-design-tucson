@@ -19,7 +19,7 @@ video:
   title: 'Common AC Repairs Explained | What to Expect from Your AC Repair'
   description: 'Learn about the most common AC repairs including compressor replacement, condenser issues, refrigerant recharge, and expansion valve problems. Intelligent Design explains what to expect during your AC repair service in Tucson.'
   duration: PT4M12S
-  uploadDate: '2022-08-15'
+  uploadDate: '2022-08-15T00:00:00Z'
 ---
 
 # Most Common AC Repair And What to Expect

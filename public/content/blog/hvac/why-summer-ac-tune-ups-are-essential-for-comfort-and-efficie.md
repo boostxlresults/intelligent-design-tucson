@@ -20,7 +20,7 @@ video:
   title: "What to Expect from a Professional AC Tune-Up – Andrew Dobbins, Intelligent Design"
   description: "Andrew Dobbins, owner of Intelligent Design, explains what happens during a professional AC tune-up and why regular maintenance is essential for keeping your HVAC system running efficiently in Tucson's extreme heat."
   duration: PT2M50S
-  uploadDate: "2024-01-15"
+  uploadDate: "2024-01-15T00:00:00Z"
 ---
 
 # Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency

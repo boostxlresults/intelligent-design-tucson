@@ -18,12 +18,12 @@ videos:
     title: "Air Conditioner Noise: How to Reduce It"
     description: "iDesign Answers: What are effective strategies for air conditioner noise reduction? It depends on the underlying problem, which might involve an off-balance wheel or a blower motor that's worn out. Learn about motor noises, intake noises, whistling, furnace noises, and outside unit solutions."
     duration: PT5M2S
-    uploadDate: "2019-12-15"
+    uploadDate: "2019-12-15T00:00:00Z"
   - id: Jv4B0yaf1F4
     title: "Why Is My AC Making Noise?"
     description: "Andrew Dobbins explains common causes of AC noise including motor noise vs air resistance noise, compressor issues, off-balance fan motors, and dirty blower motors. Learn how to identify and fix these problems."
     duration: PT1M12S
-    uploadDate: "2020-01-09"
+    uploadDate: "2020-01-09T00:00:00Z"
 ---
 
 # What Are Some Effective Strategies to Reduce AC Noise?

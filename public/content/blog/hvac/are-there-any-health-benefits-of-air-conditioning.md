@@ -18,7 +18,7 @@ video:
   title: "Are there any health benefits of Air Conditioning?"
   description: "Andrew Dobbins discusses how air conditioning systems can improve your quality of life, including protection from heat-related illnesses, better air quality, and improved sleep in the Arizona heat."
   duration: PT2M21S
-  uploadDate: "2020-01-02"
+  uploadDate: "2020-01-02T00:00:00Z"
 ---
 
 # Are There Any Health Benefits of Air Conditioning?

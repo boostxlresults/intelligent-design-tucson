@@ -103,7 +103,7 @@ export const flatroofsData: ServicePageData = {
             "title": "Flat Roof Systems Tucson - TPO, EPDM & Modified Bitumen",
             "description": "Learn about flat roof installation, repair, and maintenance options in Tucson. Our experts explain TPO, EPDM, and modified bitumen roofing systems for commercial and residential applications.",
             "duration": "PT6M",
-            "uploadDate": "2024-01-01"
+            "uploadDate": "2024-01-01T00:00:00Z"
       },
       {
             "type": "heading",

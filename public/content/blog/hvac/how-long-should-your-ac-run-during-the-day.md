@@ -20,7 +20,7 @@ video:
   title: "How Long Should My AC Run During the Day?"
   description: "Andrew Dobbins explains how long your AC should run during the day. A properly sized system should run continuously during peak summer temperatures. If your AC is kicking on and off frequently, it may be oversized, causing premature motor wear and shorter system life."
   duration: PT1M19S
-  uploadDate: "2019-09-08"
+  uploadDate: "2019-09-08T00:00:00Z"
 ---
 
 # How Long Should Your AC Run During the Day?

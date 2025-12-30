@@ -22,7 +22,7 @@ video:
   title: "How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) | Intelligent Design Explains"
   description: "Discover how Intelligent Design's SmartAC monitoring system keeps your heating and cooling systems running efficiently with real-time data, predictive alerts, and 24/7 performance tracking to prevent costly AC breakdowns."
   duration: PT1M56S
-  uploadDate: "2025-05-07"
+  uploadDate: "2025-05-07T00:00:00Z"
 ---
 
 # What Does a Professional AC Service Include? A Complete Checklist for Homeowners

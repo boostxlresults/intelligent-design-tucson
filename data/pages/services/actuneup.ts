@@ -55,7 +55,7 @@ export const actuneupData: ServicePageData = {
             "title": "AC Tune-Up Service Tucson - Professional Air Conditioning Maintenance",
             "description": "Watch our certified HVAC technicians perform a comprehensive AC tune-up in Tucson. Learn about our 23-point inspection process, efficiency optimization, and how regular maintenance prevents breakdowns and extends equipment life.",
             "duration": "PT5M",
-            "uploadDate": "2024-01-01"
+            "uploadDate": "2024-01-01T00:00:00Z"
       },
       {
             "type": "heading",

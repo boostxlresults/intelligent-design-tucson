@@ -104,7 +104,7 @@ export const solarmaintenanceData: ServicePageData = {
             "title": "Intelligent Design Solar Monitoring & Maintenance Services",
             "description": "Learn about our comprehensive solar monitoring and maintenance services that help Tucson homeowners protect their solar investment and maximize energy production.",
             "thumbnailUrl": "https://img.youtube.com/vi/S3q98_reFiE/maxresdefault.jpg",
-            "uploadDate": "2024-01-01",
+            "uploadDate": "2024-01-01T00:00:00Z",
             "duration": "PT3M"
       },
       {

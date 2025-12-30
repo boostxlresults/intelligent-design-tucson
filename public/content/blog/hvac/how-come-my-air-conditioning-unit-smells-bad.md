@@ -19,7 +19,7 @@ video:
   title: "Why Does My AC Smell Bad? Common Causes & Solutions"
   description: "Learn about the common causes of bad AC smells including mold growth, pest infestations, burning odors, and more. Our HVAC experts explain what each smell means and how to fix it."
   duration: PT4M32S
-  uploadDate: "2024-06-15"
+  uploadDate: "2024-06-15T00:00:00Z"
 ---
 
 # How Come My Air Conditioning Unit Smells Bad?

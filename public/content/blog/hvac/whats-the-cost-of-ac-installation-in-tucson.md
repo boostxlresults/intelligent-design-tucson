@@ -17,7 +17,7 @@ video:
   title: "AC Installation Cost: Here's Why You'll Need an Estimate"
   description: "Explore what goes into developing an AC installation cost estimate and learn why it's necessary to schedule an in-person appointment. Andrew Dobbins explains factors like efficiency, brand, warranty, ductwork, and proper sizing that affect your total AC installation cost."
   duration: PT2M40S
-  uploadDate: "2019-12-19"
+  uploadDate: "2019-12-19T00:00:00Z"
 ---
 
 # What’s the Cost of AC Installation in Tucson?

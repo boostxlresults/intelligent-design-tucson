@@ -19,7 +19,7 @@ video:
   title: "SEER Ratings for AC: What Does It Mean?"
   description: "Andrew Dobbins explains SEER ratings for air conditioners - the government's Seasonal Energy Efficiency Rating. Learn why proper installation matters more than buying a high-SEER unit, and how ductwork, sizing, and refrigerant charge affect your AC's true efficiency."
   duration: PT1M42S
-  uploadDate: "2019-09-11"
+  uploadDate: "2019-09-11T00:00:00Z"
 ---
 
 # What Does the SEER Rating Mean for Air Conditioners?

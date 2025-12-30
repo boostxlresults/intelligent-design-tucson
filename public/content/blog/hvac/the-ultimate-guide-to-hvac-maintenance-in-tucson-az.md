@@ -20,7 +20,7 @@ video:
   title: "Home Maintenance Plans Explained w/ Andrew Dobbins from Intelligent Design | What are the Benefits?"
   description: "Andrew Dobbins, owner of Intelligent Design Plumbing & Air, explains why regular maintenance for your HVAC, plumbing, electrical, and roofing systems prevents costly repairs, extends equipment life, and keeps your home running smoothly."
   duration: PT3M47S
-  uploadDate: "2024-12-02"
+  uploadDate: "2024-12-02T00:00:00Z"
 ---
 
 # The Ultimate Guide to HVAC Maintenance in Tucson, AZ

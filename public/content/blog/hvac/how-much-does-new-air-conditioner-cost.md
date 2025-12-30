@@ -27,7 +27,7 @@ video:
   title: "How Much Does a New AC Cost in Tucson? Pricing Explained"
   description: "Get insights on air conditioner costs in Tucson, Arizona. Learn about factors that affect pricing, SEER ratings, system types, and how to get the best value for your investment."
   duration: PT5M18S
-  uploadDate: "2024-05-20"
+  uploadDate: "2024-05-20T00:00:00Z"
 ---
 
 # How Much Does a New Air Conditioner Cost? Complete Pricing Guide for Tucson

@@ -25,7 +25,7 @@ export const homeenergyauditData: ServicePageData = {
     title: "Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit",
     description: "Learn the benefits of getting a whole home and solar energy audit for your Tucson home. Home energy audits identify inefficiencies in your home's energy envelope that can be addressed prior to adding solar panels, reducing energy needs and saving money on solar installation.",
     duration: "PT2M59S",
-    uploadDate: "2021-10-06"
+    uploadDate: "2021-10-06T00:00:00Z"
   },
   
   // Content
