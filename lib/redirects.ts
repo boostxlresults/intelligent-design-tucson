@@ -635,6 +635,144 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/2025': '/blog/hvac',
   '/blog/2025/january': '/blog/hvac',
   '/blog/2022/april': '/blog/hvac',
+
+  // ===== 404 URLS FROM GOOGLE SEARCH CONSOLE (December 2025) =====
+  
+  // HVAC location pages (old format without hyphens)
+  '/hvac-avravalley': '/services/hvac-avra-valley',
+  '/hvac-casasadobes': '/services/hvac-casas-adobes',
+  '/hvac-catalinafoothills': '/services/hvac-catalina-foothills',
+  '/hvac-coronadetucson': '/services/hvac-corona-de-tucson',
+  '/hvac-drexelheights': '/services/hvac-drexel-heights',
+  '/hvac-easttucson': '/services/hvac-east-tucson',
+  '/hvac-gladdenfarms': '/services/hvac-gladden-farms',
+  '/hvac-orovalley': '/services/hvac-oro-valley',
+
+  // Heating location pages (old format without hyphens)
+  '/heating-casasadobes': '/services/heating-casas-adobes',
+  '/heating-catalinafoothills': '/services/heating-catalina-foothills',
+  '/heating-coronadetucson': '/services/heating-corona-de-tucson',
+  '/heating-drexelheights': '/services/heating-drexel-heights',
+  '/heating-easttucson': '/services/heating-east-tucson',
+  '/heating-greenvalley': '/services/heating-green-valley',
+  '/heating-picturerocks': '/services/heating-picture-rocks',
+  '/heating-ritaranch': '/services/heating-rita-ranch',
+  '/heating-saddlebrookecatalina': '/services/heating-saddle-brooke-catalina',
+  '/heating-tanqueverde': '/services/heating-tanque-verde',
+
+  // Plumbing location pages (old format without hyphens)
+  '/plumbing-coronadetucson': '/services/plumbing-corona-de-tucson',
+  '/plumbing-easttucson': '/services/plumbing-east-tucson',
+  '/plumbing-gladdenfarms': '/services/plumbing-gladden-farms',
+  '/plumbing-greenvalley': '/services/plumbing-green-valley',
+  '/plumbing-orovalley': '/services/plumbing-oro-valley',
+  '/plumbing-redrockcasagrande': '/services/plumbing-red-rock-casa-grande',
+  '/plumbing-ritaranch': '/services/plumbing-rita-ranch',
+  '/plumbing-saddlebrookecatalina': '/services/plumbing-saddle-brooke-catalina',
+  '/plumbing-tanqueverde': '/services/plumbing-tanque-verde',
+
+  // Electrical location pages (old format without hyphens)
+  '/electrical-coronadetucson': '/services/electrical-corona-de-tucson',
+  '/electrical-drexelheights': '/services/electrical-drexel-heights',
+  '/electrical-gladdenfarms': '/services/electrical-gladden-farms',
+  '/electrical-orovalley': '/services/electrical-oro-valley',
+  '/electrical-tanqueverde': '/services/electrical-tanque-verde',
+
+  // Roofing location pages (old format without hyphens)
+  '/roofing-catalinafoothills': '/services/roofing-catalina-foothills',
+  '/roofing-coronadetucson': '/services/roofing-corona-de-tucson',
+  '/roofing-drexelheights': '/services/roofing-drexel-heights',
+  '/roofing-easttucson': '/services/roofing-east-tucson',
+  '/roofing-gladdenfarms': '/services/roofing-gladden-farms',
+  '/roofing-greenvalley': '/services/roofing-green-valley',
+  '/roofing-orovalley': '/services/roofing-oro-valley',
+  '/roofing-picturerocks': '/services/roofing-picture-rocks',
+  '/roofing-redrockcasagrande': '/services/roofing-red-rock-casa-grande',
+  '/roofing-saddlebrookecatalina': '/services/roofing-saddle-brooke-catalina',
+
+  // Solar location pages (old format without hyphens) - corrected to solar-installation-{location}
+  '/solarinstallation-avravalley': '/services/solar-installation-avra-valley',
+  '/solarinstallation-casasadobes': '/services/solar-installation-casas-adobes',
+  '/solarinstallation-cortaro': '/services/solar-installation-cortaro',
+  '/solarinstallation-drexelheights': '/services/solar-installation-drexel-heights',
+  '/solarinstallation-easttucson': '/services/solar-installation-east-tucson',
+  '/solarinstallation-gladdenfarms': '/services/solar-installation-gladden-farms',
+  '/solarinstallation-marana': '/services/solar-installation-marana',
+  '/solarinstallation-orovalley': '/services/solar-installation-oro-valley',
+  '/solarinstallation-picturerocks': '/services/solar-installation-picture-rocks',
+  '/solarinstallation-redrockcasagrande': '/services/solar-installation-red-rock-casa-grande',
+  '/solarinstallation-ritaranch': '/services/solar-installation-rita-ranch',
+  '/solarinstallation-saddlebrookecatalina': '/services/solar-installation-saddle-brooke-catalina',
+  '/solarinstallation-sahuarita': '/services/solar-installation-sahuarita',
+  '/solarinstallation-vail': '/services/solar-installation-vail',
+
+  // Drain/Sewer location pages (old format without hyphens)
+  '/drainsewer-casasadobes': '/services/drain-clearing-casas-adobes',
+  '/drainsewer-drexelheights': '/services/drain-clearing-drexel-heights',
+  '/drainsewer-greenvalley': '/services/drain-clearing-green-valley',
+  '/drainsewer-marana': '/services/drain-clearing-marana',
+  '/drainsewer-picturerocks': '/services/drain-clearing-picture-rocks',
+  '/drainsewer-redrockcasagrande': '/services/drain-clearing-red-rock-casa-grande',
+  '/drainsewer-rillito': '/services/drain-clearing-marana',
+  '/drainsewer-vail': '/services/drain-clearing-vail',
+
+  // Service area pages
+  '/service-areas/cortaro': '/service-areas/marana',
+  '/service-areas/littletown': '/service-areas/tucson',
+  '/cortaro': '/service-areas/marana',
+  '/services/drain-clearing-saddle-brooke': '/services/drain-clearing-saddle-brooke-catalina',
+  '/services/family-protection-plans': '/family-protection-plans',
+
+  // Legacy service pages (nested paths)
+  '/air-conditioning/ductless-mini-split-ac-repair-installation-tucson': '/services/ductless-repair-tucson',
+  '/air-conditioning/improve-indoor-air-quality': '/services/indoor-air-quality-tucson',
+  '/air-conditioning/r22-phaseout': '/r22-phaseout',
+  '/electrical/ceiling-fan-installation': '/services/ceiling-fan-installation',
+  '/electrical/circuit-breakers': '/services/circuit-breakers',
+  '/electrical/electrical-repairs': '/services/electrical-repair',
+  '/electrical/outlets-switches': '/services/outlets-switches',
+  '/plumber-tucson/drain-cleaning-tucson': '/services/drain-clearing',
+  '/plumber-tucson/trenchless-sewer-repair-replacement': '/services/trenchless-repair',
+  '/solar-tucson/commercial-solar-installations': '/services/commercial-solar-installation',
+  '/roofing/metal-roofing': '/services/metal-roofs',
+  '/roofing/roof-types/metal-roofing': '/services/metal-roofs',
+  '/services/plumbing/burst-pipe-and-sewer-line-repair-tucson': '/services/sewer-line-repair',
+
+  // Core/misc pages
+  '/home': '/',
+  '/services': '/services/hvac',
+  '/services/air-conditioning': '/services/hvac-tucson',
+  '/solar': '/services/residential-solar-installation',
+  '/ac': '/services/hvac-tucson',
+  '/air-conditioning-tucson': '/services/ac-service-tucson',
+  '/drain-cleaning-tucson': '/services/drain-clearing',
+  '/duct-services': '/services/duct-cleaning-tucson',
+  '/ductless-mini-split-ac-repair': '/services/ductless-repair-tucson',
+  '/emergency-ac-repair-tucson': '/services/ac-repair-tucson',
+  '/heater-service': '/services/heater-service-tucson',
+  '/solar-energy-solutions': '/services/residential-solar-installation',
+  '/plumber-': '/services/plumbing-tucson',
+
+  // Resources pages
+  '/resources/education-library': '/education-library',
+  '/resources/video-testimonial': '/video-testimonials',
+
+  // Blog posts (date-based URLs)
+  '/blog/2024/august/reasons-why-home-owners-need-residential-drain-c': '/blog/plumbing/reasons-why-home-owners-need-residential-drain-cleaning',
+  '/blog/2024/august/your-neighborhood-partner-in-picture-rocks-intel': '/service-areas/picture-rocks',
+  '/blog/categories/solar': '/blog/solar',
+  '/blog/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
+  '/blog/drain-cleaning-solutions-that-actually-work': '/blog/plumbing/drain-cleaning-solutions-that-actually-work',
+  '/blog/how-does-solar-energy-work': '/blog/solar/how-does-solar-energy-work',
+  '/blog/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t',
+
+  // Root-level blog posts (missing /blog/ prefix)
+  '/air-conditioner-solutions-by-intelligent-design': '/blog/hvac/air-conditioner-solutions-by-intelligent-design',
+  '/our-emergency-hvac-services-taking-precautions-during-the-pandemic': '/services/hvac-tucson',
+  '/top-signs-you-need-ac-replacement-for-your-business': '/blog/hvac',
+  '/solar-panel-installers-should-you-diy-your-solar-panel-installation': '/blog/solar',
+  '/troubleshooting-common-issues-during-or-after-a-repiping-project': '/blog/plumbing/troubleshooting-common-issues-during-or-after-a-repiping-pro',
+  '/what-to-expect-when-working-with-a-solar-panel-installer': '/blog/solar',
 };
 
 /**
