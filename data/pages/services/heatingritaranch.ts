@@ -34,7 +34,7 @@ export const heatingritaranchData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 15+ years average experience | Furnace and heat pump certified | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated HVAC company | Preferred by Rita Ranch homeowners"
   },
   {
@@ -65,7 +65,7 @@ export const heatingritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Rita Ranch Community Trust: Intelligent Design has earned the trust of over 1,900 Rita Ranch-area homeowners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company serving Pima County. We've been the #1 rated HVAC service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, respectful service (we treat your Rita Ranch home like our own), and exceptional customer care has made us the most-referred heating company among Rita Ranch's growing family community. When you choose Intelligent Design, you're selecting the company your Rita Ranch neighbors have trusted with their [link:/customer-reviews|furnace installations, heating repairs, and home comfort] for over two decades."
+            "content": "Proven Track Record & Rita Ranch Community Trust: Intelligent Design has earned the trust of over 1,900 Rita Ranch-area homeowners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company serving Pima County. We've been the #1 rated HVAC service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, respectful service (we treat your Rita Ranch home like our own), and exceptional customer care has made us the most-referred heating company among Rita Ranch's growing family community. When you choose Intelligent Design, you're selecting the company your Rita Ranch neighbors have trusted with their [link:/customer-reviews|furnace installations, heating repairs, and home comfort] for over two decades."
       },
       {
             "type": "paragraph",

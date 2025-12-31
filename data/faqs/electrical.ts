@@ -41,7 +41,7 @@ export const electricalRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Are your electricians licensed to work in Tucson?",
-      answer: "Absolutely. All our electricians are fully licensed (ROC 276673), bonded, and insured to perform electrical work throughout Tucson and Pima County. They average 17 years of experience and stay current with all Arizona electrical codes and safety regulations. We're also BBB A+ rated with over 22,000 five-star reviews reflecting our commitment to quality and safety."
+      answer: "Absolutely. All our electricians are fully licensed (ROC 276673), bonded, and insured to perform electrical work throughout Tucson and Pima County. They average 17 years of experience and stay current with all Arizona electrical codes and safety regulations. We're also BBB A+ rated with over 23,000 five-star reviews reflecting our commitment to quality and safety."
     },
     {
       question: "Can electrical repairs help lower my energy bills?",
@@ -49,7 +49,7 @@ export const electricalRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you guarantee your electrical repair work?",
-      answer: "Yes, we stand behind all electrical repairs with comprehensive workmanship warranties. If an issue arises with our repair work, we'll return to make it right at no additional charge. Our commitment to quality and customer satisfaction has earned us a 4.97-star rating across 22,000+ reviews and 46+ years of trusted service in Tucson."
+      answer: "Yes, we stand behind all electrical repairs with comprehensive workmanship warranties. If an issue arises with our repair work, we'll return to make it right at no additional charge. Our commitment to quality and customer satisfaction has earned us a 4.97-star rating across 23,000+ reviews and 46+ years of trusted service in Tucson."
     },
     {
       question: "Will electrical repairs bring my home up to current code?",

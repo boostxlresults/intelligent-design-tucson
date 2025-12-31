@@ -77,7 +77,7 @@ function extractLocationTOCItems(data: LocationPageData): TOCItem[] {
  * Automatically includes:
  * - ServiceTitan scheduler 3x (hero, middle, bottom)
  * - Service tiles linking to all 6+ services
- * - Reviews module (22,000+)
+ * - Reviews module (23,000+)
  * - Location-specific FAQs
  * - SEO-optimized content structure
  */
@@ -214,7 +214,7 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
           </h2>
           <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
             Serving {data.locationDisplayName} with 46+ years of combined home services expertise. 
-            Family and veteran-owned, BBB A+ rated with 22,000+ five-star reviews.
+            Family and veteran-owned, BBB A+ rated with 23,000+ five-star reviews.
           </p>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

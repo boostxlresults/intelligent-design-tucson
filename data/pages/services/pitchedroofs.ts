@@ -35,7 +35,7 @@ export const pitchedroofsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Gable & hip roof experts | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Gable & hip roof experts | Trusted since 1979"
   },
   {
     "title": "Custom Roof Design",
@@ -137,7 +137,7 @@ export const pitchedroofsData: ServicePageData = {
               {"label": "Attic Temperature", "value": "40°F reduction (165°F to 125°F)"},
               {"label": "Energy Savings", "value": "32% cooling cost reduction"},
               {"label": "Leak Elimination", "value": "Zero leaks in 2 years since completion"},
-              {"label": "Home Value", "value": "$22,000 appraisal increase"}
+              {"label": "Home Value", "value": "$23,000 appraisal increase"}
             ]
       },
       {
@@ -586,13 +586,13 @@ export const pitchedroofsData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Verified Customer Satisfaction - 22,000+ Reviews",
+            "heading": "Verified Customer Satisfaction - 23,000+ Reviews",
             "level": 3,
-            "content": "Verified Customer Satisfaction - 22,000+ Reviews"
+            "content": "Verified Customer Satisfaction - 23,000+ Reviews"
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 verified five-star customer reviews and 4.97 average Google rating, our customer satisfaction record speaks for itself. These aren't manufactured testimonials—they're real reviews from real customers across every service we provide. Our Better Business Bureau A+ rating with zero unresolved complaints demonstrates our commitment to making things right when issues arise. We track customer satisfaction meticulously through our ServiceTitan business management platform—96% of customers rate our pitched roofing services as \"excellent\" or \"outstanding,\" 95% would recommend us to family and friends, and 92% become repeat customers for other home services. Many roofing contractors have few or no verified reviews, inconsistent quality, or history of complaints—red flags indicating potential problems. Our review volume and consistency demonstrate we deliver excellent results project after project, year after year. We encourage you to read our reviews, call our references, and compare our reputation to any competitor."
+            "content": "With over 23,000 verified five-star customer reviews and 4.97 average Google rating, our customer satisfaction record speaks for itself. These aren't manufactured testimonials—they're real reviews from real customers across every service we provide. Our Better Business Bureau A+ rating with zero unresolved complaints demonstrates our commitment to making things right when issues arise. We track customer satisfaction meticulously through our ServiceTitan business management platform—96% of customers rate our pitched roofing services as \"excellent\" or \"outstanding,\" 95% would recommend us to family and friends, and 92% become repeat customers for other home services. Many roofing contractors have few or no verified reviews, inconsistent quality, or history of complaints—red flags indicating potential problems. Our review volume and consistency demonstrate we deliver excellent results project after project, year after year. We encourage you to read our reviews, call our references, and compare our reputation to any competitor."
       },
       {
             "type": "heading",
@@ -664,7 +664,7 @@ export const pitchedroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, honest guidance, and exceptional service. When you choose Intelligent Design for pitched roofing, you receive: free comprehensive consultations and estimates, expert roof design optimizing pitch, ventilation, and materials, structural evaluation ensuring adequate support, professional installation by experienced licensed roofers, comprehensive warranties on materials and labor, proper ventilation design and installation exceeding code minimums, energy efficiency optimization reducing cooling costs, and responsive service addressing any concerns promptly."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, honest guidance, and exceptional service. When you choose Intelligent Design for pitched roofing, you receive: free comprehensive consultations and estimates, expert roof design optimizing pitch, ventilation, and materials, structural evaluation ensuring adequate support, professional installation by experienced licensed roofers, comprehensive warranties on materials and labor, proper ventilation design and installation exceeding code minimums, energy efficiency optimization reducing cooling costs, and responsive service addressing any concerns promptly."
       },
       {
             "type": "paragraph",

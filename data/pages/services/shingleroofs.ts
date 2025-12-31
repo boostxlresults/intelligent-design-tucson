@@ -35,7 +35,7 @@ export const shingleroofsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
     "title": "Complete Roof Replacement",
@@ -72,7 +72,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Performance Metrics: Our commitment to shingle roofing excellence is measurable through our ServiceTitan-tracked performance data. We maintain a 97.9% first-time shingle installation success rate, average 4.97-star ratings across 22,000+ verified customer reviews, complete 96% of shingle roof projects within estimated timelines, and achieve zero warranty claims on properly maintained shingle installations within the first five years. Our ServiceTitan business management platform tracks every installation metric including average project completion time of 2.3 days for typical residential shingle roofs, 98.1% customer satisfaction scores on post-installation surveys, 1.8-hour average response time for shingle repair requests, and 95.2% of customers who would recommend our shingle roofing services to family and friends. These metrics represent thousands of satisfied Tucson homeowners enjoying reliable shingle roof performance year after year."
+            "content": "Industry-Leading Performance Metrics: Our commitment to shingle roofing excellence is measurable through our ServiceTitan-tracked performance data. We maintain a 97.9% first-time shingle installation success rate, average 4.97-star ratings across 23,000+ verified customer reviews, complete 96% of shingle roof projects within estimated timelines, and achieve zero warranty claims on properly maintained shingle installations within the first five years. Our ServiceTitan business management platform tracks every installation metric including average project completion time of 2.3 days for typical residential shingle roofs, 98.1% customer satisfaction scores on post-installation surveys, 1.8-hour average response time for shingle repair requests, and 95.2% of customers who would recommend our shingle roofing services to family and friends. These metrics represent thousands of satisfied Tucson homeowners enjoying reliable shingle roof performance year after year."
       },
       {
             "type": "paragraph",
@@ -590,7 +590,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For aging shingle roofs showing widespread deterioration, we provide honest assessments of repair versus replacement economics. Generally, if repairs cost more than 30% of replacement and the roof is 15+ years old, replacement provides better value through improved energy efficiency, enhanced aesthetics, comprehensive warranty coverage, and decades of maintenance-free performance. We'll never pressure you into unnecessary replacement, but we will provide the information needed for informed decisions protecting your investment and your home. Our reputation for honest guidance has earned over 22,000 five-star reviews from satisfied Tucson homeowners. Schedule a [link:/services/residential-roof-inspection|professional roof inspection] to assess your roof's condition."
+            "content": "For aging shingle roofs showing widespread deterioration, we provide honest assessments of repair versus replacement economics. Generally, if repairs cost more than 30% of replacement and the roof is 15+ years old, replacement provides better value through improved energy efficiency, enhanced aesthetics, comprehensive warranty coverage, and decades of maintenance-free performance. We'll never pressure you into unnecessary replacement, but we will provide the information needed for informed decisions protecting your investment and your home. Our reputation for honest guidance has earned over 23,000 five-star reviews from satisfied Tucson homeowners. Schedule a [link:/services/residential-roof-inspection|professional roof inspection] to assess your roof's condition."
       },
       {
             "type": "heading",
@@ -644,7 +644,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've earned our reputation for quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for shingle roofing, you receive: free comprehensive estimates with multiple material options, expert material selection for Tucson's climate, professional installation by certified technicians, lifetime workmanship warranty on labor, manufacturer warranties on materials (typically 30-50 years), proper ventilation design and installation, insurance claim assistance and documentation, and responsive service addressing any concerns promptly. We also provide comprehensive [link:/services/tile-roofs|tile roofing], [link:/services/metal-roofs|metal roofing], and [link:/services/flat-roofs|flat roofing services] for all your roofing needs."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've earned our reputation for quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for shingle roofing, you receive: free comprehensive estimates with multiple material options, expert material selection for Tucson's climate, professional installation by certified technicians, lifetime workmanship warranty on labor, manufacturer warranties on materials (typically 30-50 years), proper ventilation design and installation, insurance claim assistance and documentation, and responsive service addressing any concerns promptly. We also provide comprehensive [link:/services/tile-roofs|tile roofing], [link:/services/metal-roofs|metal roofing], and [link:/services/flat-roofs|flat roofing services] for all your roofing needs."
       },
       {
             "type": "paragraph",

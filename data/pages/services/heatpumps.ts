@@ -10,7 +10,7 @@ export const heatpumpsData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Heat Pump Services in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Installation, Repair & Service | Year-Round Comfort | Energy Efficient | Expert Technicians',
   heroImage: '/generated_images/Heat_pump_hero_background_29dc8aa3.webp',
   heroImageAlt: 'Professional heat pump installation and service in Tucson, Arizona',
@@ -69,7 +69,7 @@ export const heatpumpsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred heat pump installation and service provider in Pima County. When you're ready to eliminate dual heating/cooling costs and maximize efficiency, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred heat pump installation and service provider in Pima County. When you're ready to eliminate dual heating/cooling costs and maximize efficiency, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
       },
       {
             "type": "paragraph",
@@ -229,7 +229,7 @@ export const heatpumpsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We believe in complete pricing transparency: you'll receive upfront estimates before any work begins, including detailed breakdowns of parts, labor, and any additional services needed. When repairs are needed, we provide written estimates showing both repair and replacement options with honest assessments of remaining system lifespan, projected repair frequency, and total cost of ownership for each path. If a $400 reversing valve replacement gives you 5+ more years of reliable service, we'll recommend that option even though selling you a new $12,000 heat pump would earn us more revenue. This integrity-first approach has earned us 22,000+ five-star reviews from Tucson homeowners who trust us with their heat pump, [link:/services/ac-repair-tucson|AC repair], and complete HVAC needs. Read our [link:/customer-reviews|verified customer reviews] to see why we're Tucson's most-trusted HVAC company."
+            "content": "We believe in complete pricing transparency: you'll receive upfront estimates before any work begins, including detailed breakdowns of parts, labor, and any additional services needed. When repairs are needed, we provide written estimates showing both repair and replacement options with honest assessments of remaining system lifespan, projected repair frequency, and total cost of ownership for each path. If a $400 reversing valve replacement gives you 5+ more years of reliable service, we'll recommend that option even though selling you a new $12,000 heat pump would earn us more revenue. This integrity-first approach has earned us 23,000+ five-star reviews from Tucson homeowners who trust us with their heat pump, [link:/services/ac-repair-tucson|AC repair], and complete HVAC needs. Read our [link:/customer-reviews|verified customer reviews] to see why we're Tucson's most-trusted HVAC company."
       },
       {
             "type": "heading",
@@ -527,7 +527,7 @@ export const heatpumpsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Standard air source heat pump installation: $8,500-$18,000 depending on system size (tonnage), efficiency rating (SEER2/HSPF2), brand selection, and installation complexity. Entry-level 15 SEER2 systems start around $8,500 installed for smaller homes, while premium 22 SEER2 variable-speed systems with advanced features cost $15,000-$18,000 for larger homes. These prices include equipment, professional installation, refrigerant, electrical connections, thermostat, startup, and warranty registration. Additional costs may apply for electrical panel upgrades ($800-$2,000), ductwork modifications ($500-$2,500), or smart thermostat integration ($300-$600).\n\nDuctless mini-split installation: $3,500-$7,500 for single-zone systems (one outdoor unit + one indoor head) or $7,000-$15,000 for multi-zone systems (one outdoor unit + 2-4 indoor heads). Ductless systems cost more per ton than ducted heat pumps but eliminate duct losses and provide superior zone control.\n\nDual-fuel heat pump systems: $12,000-$22,000 including heat pump, gas furnace backup, smart controls, and complete installation. While more expensive initially, dual-fuel systems optimize operating costs in all weather conditions and provide maximum comfort reliability."
+            "content": "Standard air source heat pump installation: $8,500-$18,000 depending on system size (tonnage), efficiency rating (SEER2/HSPF2), brand selection, and installation complexity. Entry-level 15 SEER2 systems start around $8,500 installed for smaller homes, while premium 22 SEER2 variable-speed systems with advanced features cost $15,000-$18,000 for larger homes. These prices include equipment, professional installation, refrigerant, electrical connections, thermostat, startup, and warranty registration. Additional costs may apply for electrical panel upgrades ($800-$2,000), ductwork modifications ($500-$2,500), or smart thermostat integration ($300-$600).\n\nDuctless mini-split installation: $3,500-$7,500 for single-zone systems (one outdoor unit + one indoor head) or $7,000-$15,000 for multi-zone systems (one outdoor unit + 2-4 indoor heads). Ductless systems cost more per ton than ducted heat pumps but eliminate duct losses and provide superior zone control.\n\nDual-fuel heat pump systems: $12,000-$23,000 including heat pump, gas furnace backup, smart controls, and complete installation. While more expensive initially, dual-fuel systems optimize operating costs in all weather conditions and provide maximum comfort reliability."
       },
       {
             "type": "heading",
@@ -561,7 +561,7 @@ export const heatpumpsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When evaluating repair vs. replacement, our technicians provide written estimates showing BOTH options with transparent cost breakdowns. We include applicable rebates, tax credits, financing terms, projected energy savings, and total cost of ownership calculations over 10 years so you can make informed decisions. We'll never pressure you into unnecessary replacement—if a $500 reversing valve repair gives you 4-6 more years of reliable service, we'll recommend that option even though heat pump replacement would earn us more revenue. This integrity-first approach has earned us 22,000+ five-star reviews and made us Tucson's #1 rated HVAC company for 7 consecutive years. For expert guidance on [link:/services/heater-installation-tucson|heat pump replacement options and pricing], schedule a free in-home consultation."
+            "content": "When evaluating repair vs. replacement, our technicians provide written estimates showing BOTH options with transparent cost breakdowns. We include applicable rebates, tax credits, financing terms, projected energy savings, and total cost of ownership calculations over 10 years so you can make informed decisions. We'll never pressure you into unnecessary replacement—if a $500 reversing valve repair gives you 4-6 more years of reliable service, we'll recommend that option even though heat pump replacement would earn us more revenue. This integrity-first approach has earned us 23,000+ five-star reviews and made us Tucson's #1 rated HVAC company for 7 consecutive years. For expert guidance on [link:/services/heater-installation-tucson|heat pump replacement options and pricing], schedule a free in-home consultation."
       },
       {
             "type": "cta",

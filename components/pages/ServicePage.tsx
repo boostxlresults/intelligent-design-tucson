@@ -66,7 +66,7 @@ function extractTOCItems(data: ServicePageData): TOCItem[] {
  * Automatically includes:
  * - ServiceTitan scheduler 3x (hero, middle, bottom)
  * - DNI phone tracking (via root layout)
- * - 22,000+ reviews module
+ * - 23,000+ reviews module
  * - SEO-optimized content structure
  * - JSON-LD schema markup for AI SEO
  */

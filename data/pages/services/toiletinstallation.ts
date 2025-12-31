@@ -31,7 +31,7 @@ export const toiletinstallationData: ServicePageData = {
   },
   {
     "title": "Licensed & Experienced",
-    "description": "46+ years serving Tucson | Licensed plumbers | ROC #171687 | Fully insured | 22,000+ reviews | BBB A+ rated"
+    "description": "46+ years serving Tucson | Licensed plumbers | ROC #171687 | Fully insured | 23,000+ reviews | BBB A+ rated"
   },
   {
     "title": "Water-Efficient Models",
@@ -69,7 +69,7 @@ export const toiletinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us the most-referred toilet installation provider in Pima County. When investing in a new toilet, you're choosing the company your neighbors trust with their home comfort and water conservation goals."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us the most-referred toilet installation provider in Pima County. When investing in a new toilet, you're choosing the company your neighbors trust with their home comfort and water conservation goals."
       },
       {
             "type": "paragraph",
@@ -165,7 +165,7 @@ export const toiletinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your toilet installation project. This systematic approach has earned us over 22,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona for plumbing installations."
+            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your toilet installation project. This systematic approach has earned us over 23,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona for plumbing installations."
       },
       {
             "type": "heading",

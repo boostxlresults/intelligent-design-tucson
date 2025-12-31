@@ -8,13 +8,13 @@ import { homepageFAQs } from '@/data/faqs/general';
 export const homeData: ServicePageData = {
   // SEO & Meta
   title: 'Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ | Intelligent Design',
-  description: 'Tucson\'s most trusted home services company since 1979. Expert HVAC, plumbing, solar, electrical & roofing. 22,000+ five-star reviews, BBB A+, family & veteran-owned. 24/7 emergency service. Call (520) 333-2665.',
+  description: 'Tucson\'s most trusted home services company since 1979. Expert HVAC, plumbing, solar, electrical & roofing. 23,000+ five-star reviews, BBB A+, family & veteran-owned. 24/7 emergency service. Call (520) 333-2665.',
   slug: 'home',
   
   // Hero Section
   h1: 'Tucson\'s Most Trusted Home Service Experts Since 1979',
   h2Subheading: 'Expert HVAC, Plumbing, Solar, Electrical & Roofing Services',
-  tagline: 'Family & Veteran-Owned | 24/7 Emergency Service | 22,000+ Five-Star Reviews',
+  tagline: 'Family & Veteran-Owned | 24/7 Emergency Service | 23,000+ Five-Star Reviews',
   heroImage: '/images/hero-van.webp',
   heroImageAlt: 'Intelligent Design service van and professional technician in Tucson, Arizona',
   
@@ -29,7 +29,7 @@ export const homeData: ServicePageData = {
       description: "Since 1979 | Family & veteran-owned | Deep roots in the Tucson community | Trusted by generations of homeowners"
     },
     {
-      title: "22,000+ Five-Star Reviews",
+      title: "23,000+ Five-Star Reviews",
       description: "4.97 Google rating | BBB A+ accredited | Award-winning service | Nearly perfect customer satisfaction"
     },
     {
@@ -60,7 +60,7 @@ export const homeData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "When your air conditioning fails on a 110°F summer day, your water heater springs a leak, or you need expert electrical work, you need a company you can trust completely. That's exactly what Intelligent Design provides to Tucson families.\n\nFounded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022—creating 46+ years of combined home services expertise. Today, with over 22,000 five-star reviews and a near-perfect 4.97 Google rating, we're Tucson's highest-rated home services company. But we're more than just numbers—we're your neighbors, committed to providing honest, expert service that treats your home like our own."
+        content: "When your air conditioning fails on a 110°F summer day, your water heater springs a leak, or you need expert electrical work, you need a company you can trust completely. That's exactly what Intelligent Design provides to Tucson families.\n\nFounded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022—creating 46+ years of combined home services expertise. Today, with over 23,000 five-star reviews and a near-perfect 4.97 Google rating, we're Tucson's highest-rated home services company. But we're more than just numbers—we're your neighbors, committed to providing honest, expert service that treats your home like our own."
       },
       {
         type: "realworklabs",
@@ -74,7 +74,7 @@ export const homeData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Family-Owned and Veteran-Owned with 46+ Years of Combined Expertise\n\nIntelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing—a trusted Tucson institution since 1979—creating a powerhouse with 46+ years of combined home services expertise.\n\nWhat Sets Us Apart:\n\n- Local Expertise: We've worked in thousands of Tucson homes. We understand the unique challenges of our desert climate—from monsoon preparation to extreme heat management.\n\n- Trusted by Generations: Many of our customers are now second and third-generation clients who have trusted our combined legacy of service.\n\n- Community Commitment: We live and work in Tucson. We're invested in this community's success and wellbeing. Your satisfaction is our legacy.\n\n- Military Values: As a veteran-owned company founded by a U.S. Marine, we bring military-standard accountability, integrity, and attention to detail to every service call.\n\nAward-Winning Service:\n- BBB A+ Rating (highest possible rating)\n- 22,000+ five-star reviews across Google, Yelp, and Facebook\n- 4.97 average Google rating (nearly perfect)\n- Angie's List Super Service Award\n- Tucson's Best HVAC Company (multiple years)\n- Zero unresolved complaints"
+        content: "Family-Owned and Veteran-Owned with 46+ Years of Combined Expertise\n\nIntelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing—a trusted Tucson institution since 1979—creating a powerhouse with 46+ years of combined home services expertise.\n\nWhat Sets Us Apart:\n\n- Local Expertise: We've worked in thousands of Tucson homes. We understand the unique challenges of our desert climate—from monsoon preparation to extreme heat management.\n\n- Trusted by Generations: Many of our customers are now second and third-generation clients who have trusted our combined legacy of service.\n\n- Community Commitment: We live and work in Tucson. We're invested in this community's success and wellbeing. Your satisfaction is our legacy.\n\n- Military Values: As a veteran-owned company founded by a U.S. Marine, we bring military-standard accountability, integrity, and attention to detail to every service call.\n\nAward-Winning Service:\n- BBB A+ Rating (highest possible rating)\n- 23,000+ five-star reviews across Google, Yelp, and Facebook\n- 4.97 average Google rating (nearly perfect)\n- Angie's List Super Service Award\n- Tucson's Best HVAC Company (multiple years)\n- Zero unresolved complaints"
       },
       {
         type: "heading",
@@ -194,7 +194,7 @@ export const homeData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Whether you need routine maintenance, a major installation, or emergency service right now, Intelligent Design is here for you.\n\nSchedule Service:\n- Call 24/7: (520) 333-2665\n- Online Scheduling: Book service appointments online\n- Free Estimates: No-obligation quotes for installations and major work\n\nWhat to Expect When You Call:\n1. Speak with a real person (not voicemail)\n2. Schedule convenient appointment time\n3. Receive confirmation and technician details\n4. Expert technician arrives on time\n5. Written estimate before work begins\n6. Quality service, guaranteed satisfaction\n7. Follow-up to ensure everything is perfect\n\nJoin the 22,000+ Tucson families who trust Intelligent Design for all their home service needs."
+        content: "Whether you need routine maintenance, a major installation, or emergency service right now, Intelligent Design is here for you.\n\nSchedule Service:\n- Call 24/7: (520) 333-2665\n- Online Scheduling: Book service appointments online\n- Free Estimates: No-obligation quotes for installations and major work\n\nWhat to Expect When You Call:\n1. Speak with a real person (not voicemail)\n2. Schedule convenient appointment time\n3. Receive confirmation and technician details\n4. Expert technician arrives on time\n5. Written estimate before work begins\n6. Quality service, guaranteed satisfaction\n7. Follow-up to ensure everything is perfect\n\nJoin the 23,000+ Tucson families who trust Intelligent Design for all their home service needs."
       }
     ]
   },

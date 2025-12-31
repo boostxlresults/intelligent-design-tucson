@@ -5,7 +5,7 @@ import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const roofingsahuaritaData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Services Sahuarita AZ | Tile & Shingle Roof Repair & Replacement | HOA Approved',
-  description: 'Expert roofing services in Sahuarita, AZ since 1979. Tile & shingle specialists. Rancho Sahuarita HOA approved. 24/7 emergency monsoon repairs. New construction warranties. 22,000+ 5-star reviews. Licensed master roofers.',
+  description: 'Expert roofing services in Sahuarita, AZ since 1979. Tile & shingle specialists. Rancho Sahuarita HOA approved. 24/7 emergency monsoon repairs. New construction warranties. 23,000+ 5-star reviews. Licensed master roofers.',
   slug: 'roofing-sahuarita',
   
   // Hero Section
@@ -42,7 +42,7 @@ export const roofingsahuaritaData: ServicePageData = {
     "description": "Pre-monsoon inspection programs and storm-damage emergency response. 80% same-day emergency repairs completed during monsoon season."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating from verified Sahuarita customers. BBB A+ accredited since 1979. #1 rated roofing company in Southern Pima County."
   }
 ],
@@ -57,7 +57,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Sahuarita represents one of Southern Arizona's fastest-growing communities, with unique roofing challenges stemming from rapid development, diverse roofing materials, strict HOA standards, and Southern Arizona's intense desert climate. Since 1979, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has been Sahuarita's trusted roofing partner, serving established communities like Quail Creek, Rancho Sahuarita, La Posada at Rancho Del Lago, Madera Highlands, and Rancho Vistoso, plus hundreds of newer developments built since 2010. Our 22,000+ five-star reviews and 4.97-star Google rating reflect decades of delivering exceptional quality, honest service, and complete customer satisfaction to Sahuarita homeowners."
+            "content": "Sahuarita represents one of Southern Arizona's fastest-growing communities, with unique roofing challenges stemming from rapid development, diverse roofing materials, strict HOA standards, and Southern Arizona's intense desert climate. Since 1979, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has been Sahuarita's trusted roofing partner, serving established communities like Quail Creek, Rancho Sahuarita, La Posada at Rancho Del Lago, Madera Highlands, and Rancho Vistoso, plus hundreds of newer developments built since 2010. Our 23,000+ five-star reviews and 4.97-star Google rating reflect decades of delivering exceptional quality, honest service, and complete customer satisfaction to Sahuarita homeowners."
       },
       {
             "type": "paragraph",
@@ -334,7 +334,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Shingle Roof Replacement Costs (Sahuarita): Complete architectural shingle roof replacement for typical Sahuarita home (2,200-2,800 sq ft) ranges $17,600-$36,400 depending on shingle quality and upgrades. Cost breakdown: Standard architectural shingles with basic underlayment: $8-10 per sq ft ($17,600-$28,000), Premium architectural shingles with upgraded underlayment: $10-12 per sq ft ($22,000-$33,600), Designer shingles with premium materials and ventilation: $12-14 per sq ft ($26,400-$39,200). Return on investment: Shingle roof replacement typically returns 60-75% of cost at resale, prevents water damage and interior repairs, eliminates repair costs for aging failing roofs, provides insurance benefits, and offers comprehensive warranties (30-50 year materials, 10-year workmanship)."
+            "content": "Shingle Roof Replacement Costs (Sahuarita): Complete architectural shingle roof replacement for typical Sahuarita home (2,200-2,800 sq ft) ranges $17,600-$36,400 depending on shingle quality and upgrades. Cost breakdown: Standard architectural shingles with basic underlayment: $8-10 per sq ft ($17,600-$28,000), Premium architectural shingles with upgraded underlayment: $10-12 per sq ft ($23,000-$33,600), Designer shingles with premium materials and ventilation: $12-14 per sq ft ($26,400-$39,200). Return on investment: Shingle roof replacement typically returns 60-75% of cost at resale, prevents water damage and interior repairs, eliminates repair costs for aging failing roofs, provides insurance benefits, and offers comprehensive warranties (30-50 year materials, 10-year workmanship)."
       },
       {
             "type": "paragraph",
@@ -608,7 +608,7 @@ export const roofingsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Sahuarita Homeowners Trust Us: Our commitment to Sahuarita extends beyond quality roofing—we're invested in this community's success and growth. We've served Sahuarita since its transformation from small town to thriving city, watching families grow and neighborhoods flourish. Our technicians live in and around Sahuarita, understanding firsthand the roofing challenges facing local homeowners. When monsoon storms damage roofs, when summer heat tests materials, when HOA requirements seem complex, we're here providing expert solutions tailored to Sahuarita's unique needs. Our 22,000+ five-star reviews reflect decades of delivering on our promises: rapid emergency response when you need it most, honest assessments prioritizing your best interests over our profits, quality workmanship backed by comprehensive warranties, and ongoing support throughout your roof's entire lifespan. We're not just your roofer—we're your long-term partner protecting your most valuable investment, your Sahuarita home."
+            "content": "Why Sahuarita Homeowners Trust Us: Our commitment to Sahuarita extends beyond quality roofing—we're invested in this community's success and growth. We've served Sahuarita since its transformation from small town to thriving city, watching families grow and neighborhoods flourish. Our technicians live in and around Sahuarita, understanding firsthand the roofing challenges facing local homeowners. When monsoon storms damage roofs, when summer heat tests materials, when HOA requirements seem complex, we're here providing expert solutions tailored to Sahuarita's unique needs. Our 23,000+ five-star reviews reflect decades of delivering on our promises: rapid emergency response when you need it most, honest assessments prioritizing your best interests over our profits, quality workmanship backed by comprehensive warranties, and ongoing support throughout your roof's entire lifespan. We're not just your roofer—we're your long-term partner protecting your most valuable investment, your Sahuarita home."
       },
       {
             "type": "paragraph",

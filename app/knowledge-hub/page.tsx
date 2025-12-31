@@ -107,7 +107,7 @@ export default function KnowledgeHubPage() {
     },
     {
       icon: Users,
-      title: '22,000+ Happy Customers',
+      title: '23,000+ Happy Customers',
       description: 'Over two decades of trusted service with a 5.0-star Google rating and thousands of satisfied homeowners.',
     },
     {
@@ -175,7 +175,7 @@ export default function KnowledgeHubPage() {
               Your Complete Home Services Education Center
             </p>
             <p className="text-lg text-white/80 mb-8" data-testid="text-hero-description">
-              Access 230+ expert articles, video tutorials, comprehensive FAQs, and professional guides covering HVAC, plumbing, solar, electrical, and roofing systems. Learn from Tucson's most trusted home services company with over 22,000 satisfied customers.
+              Access 230+ expert articles, video tutorials, comprehensive FAQs, and professional guides covering HVAC, plumbing, solar, electrical, and roofing systems. Learn from Tucson's most trusted home services company with over 23,000 satisfied customers.
             </p>
             <div className="flex flex-wrap gap-4">
               <SchedulerEmbed 

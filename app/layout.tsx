@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     default: "Intelligent Design - HVAC, Plumbing, Solar, Electrical & Roofing | Tucson, AZ",
     template: "%s | Intelligent Design",
   },
-  description: "Family and veteran-owned home services company serving Tucson and surrounding areas. Expert HVAC, plumbing, solar, electrical, and roofing services with 22,000+ 5-star reviews.",
+  description: "Family and veteran-owned home services company serving Tucson and surrounding areas. Expert HVAC, plumbing, solar, electrical, and roofing services with 23,000+ 5-star reviews.",
   metadataBase: new URL("https://www.idesignac.com"),
   icons: {
     icon: [

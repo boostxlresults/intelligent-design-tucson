@@ -5,13 +5,13 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 
 export const hvacavravalleyData: ServicePageData = {
   // SEO & Meta
-  title: 'HVAC & AC Services Avra Valley AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
-  description: 'Expert HVAC & air conditioning services in Avra Valley, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for northwest Tucson.',
+  title: 'HVAC & AC Services Avra Valley AZ | Air Conditioning Repair & Installation | 23,000+ Reviews',
+  description: 'Expert HVAC & air conditioning services in Avra Valley, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for northwest Tucson.',
   slug: 'hvac-avra-valley',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Avra Valley, AZ',
-  h2Subheading: 'Your Trusted Avra Valley HVAC Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Avra Valley HVAC Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_air_handler_service_c253226f.webp',
   heroImageAlt: 'Professional HVAC technician servicing air handler in Avra Valley, Arizona home',
@@ -35,7 +35,7 @@ export const hvacavravalleyData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Expert AC & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const hvacavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we'll repair when possible instead of automatically recommending replacement), quality workmanship using best practices, transparent pricing with no hidden fees, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Avra Valley home, you're selecting the company your neighbors across northwest Tucson have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we'll repair when possible instead of automatically recommending replacement), quality workmanship using best practices, transparent pricing with no hidden fees, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Avra Valley home, you're selecting the company your neighbors across northwest Tucson have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -211,7 +211,7 @@ export const hvacavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"The first company said our 11-year-old AC 'wasn't worth fixing' and quoted $6,800 for replacement. David from Intelligent Design found the exact leak, repaired it professionally for $825, and our Trane has been running perfectly for 9 months now with much lower electric bills. He showed us the UV dye under the light, explained exactly what failed and why, and even cleaned our filthy outdoor coil for free. This is honest, expert service—they could have sold us a new system but instead saved us $6,000 with a proper repair. That's why they have 22,000 five-star reviews.\" - Jennifer Thompson, Avra Valley"
+            "content": "Customer Testimonial: \"The first company said our 11-year-old AC 'wasn't worth fixing' and quoted $6,800 for replacement. David from Intelligent Design found the exact leak, repaired it professionally for $825, and our Trane has been running perfectly for 9 months now with much lower electric bills. He showed us the UV dye under the light, explained exactly what failed and why, and even cleaned our filthy outdoor coil for free. This is honest, expert service—they could have sold us a new system but instead saved us $6,000 with a proper repair. That's why they have 23,000 five-star reviews.\" - Jennifer Thompson, Avra Valley"
       },
       {
             "type": "heading",

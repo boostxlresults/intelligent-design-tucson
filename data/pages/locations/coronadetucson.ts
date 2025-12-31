@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const coronadetucsonData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Corona de Tucson, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Corona de Tucson. Serving zip codes 85641, 85645 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Corona de Tucson. Serving zip codes 85641, 85645 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'corona-de-tucson',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const coronadetucsonData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {
@@ -117,7 +117,7 @@ export const coronadetucsonData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 1,450 Corona de Tucson families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company serving southeast Tucson and Pima County. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Corona de Tucson for five consecutive years (2020-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, respect for semi-rural properties, and exceptional customer service has made us the preferred home service partner for Corona de Tucson\'s diverse community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Corona de Tucson have trusted with their [link:/customer-reviews|family comfort and home investments]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 1,450 Corona de Tucson families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated home service company serving southeast Tucson and Pima County. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Corona de Tucson for five consecutive years (2020-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, respect for semi-rural properties, and exceptional customer service has made us the preferred home service partner for Corona de Tucson\'s diverse community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Corona de Tucson have trusted with their [link:/customer-reviews|family comfort and home investments]."
       },
       {
             "type": "cta",
@@ -290,13 +290,13 @@ export const coronadetucsonData: LocationPageData = {
       },
       {
             "type": "list",
-            "content": "Semi-Rural Expertise: Our technicians receive specialized training in well water systems, septic-safe plumbing, propane service, rural electrical challenges, and diverse property types—ensuring expert service for Corona de Tucson\'s unique infrastructure. | Reliable Response Times: Our strategic location and dedicated southeast Tucson service vehicles enable average 78-minute arrival time throughout Corona de Tucson including same-day appointments for urgent needs and priority emergency response. | Honest Recommendations: We provide transparent pricing and honest recommendations prioritizing your long-term value over short-term profit—never pushing unnecessary work but always offering quality solutions within your budget. | Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing (including well systems), electrical, solar, and roofing services—simplifying home service needs and ensuring all systems work together optimally. | BBB A+ Rated Excellence: Over 22,000 five-star reviews demonstrate our commitment to quality workmanship, honest service, fair pricing, and exceptional customer care earning trust throughout Pima County. | Flexible Payment Options: We offer multiple payment options including financing programs, senior discounts, and flexible terms making quality home services affordable for all Corona de Tucson families regardless of budget constraints.",
+            "content": "Semi-Rural Expertise: Our technicians receive specialized training in well water systems, septic-safe plumbing, propane service, rural electrical challenges, and diverse property types—ensuring expert service for Corona de Tucson\'s unique infrastructure. | Reliable Response Times: Our strategic location and dedicated southeast Tucson service vehicles enable average 78-minute arrival time throughout Corona de Tucson including same-day appointments for urgent needs and priority emergency response. | Honest Recommendations: We provide transparent pricing and honest recommendations prioritizing your long-term value over short-term profit—never pushing unnecessary work but always offering quality solutions within your budget. | Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing (including well systems), electrical, solar, and roofing services—simplifying home service needs and ensuring all systems work together optimally. | BBB A+ Rated Excellence: Over 23,000 five-star reviews demonstrate our commitment to quality workmanship, honest service, fair pricing, and exceptional customer care earning trust throughout Pima County. | Flexible Payment Options: We offer multiple payment options including financing programs, senior discounts, and flexible terms making quality home services affordable for all Corona de Tucson families regardless of budget constraints.",
             "items": [
                   "Semi-Rural Expertise: Our technicians receive specialized training in well water systems, septic-safe plumbing, propane service, rural electrical challenges, and diverse property types—ensuring expert service for Corona de Tucson\'s unique infrastructure.",
                   "Reliable Response Times: Our strategic location and dedicated southeast Tucson service vehicles enable average 78-minute arrival time throughout Corona de Tucson including same-day appointments for urgent needs and priority emergency response.",
                   "Honest Recommendations: We provide transparent pricing and honest recommendations prioritizing your long-term value over short-term profit—never pushing unnecessary work but always offering quality solutions within your budget.",
                   "Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing (including well systems), electrical, solar, and roofing services—simplifying home service needs and ensuring all systems work together optimally.",
-                  "BBB A+ Rated Excellence: Over 22,000 five-star reviews demonstrate our commitment to quality workmanship, honest service, fair pricing, and exceptional customer care earning trust throughout Pima County.",
+                  "BBB A+ Rated Excellence: Over 23,000 five-star reviews demonstrate our commitment to quality workmanship, honest service, fair pricing, and exceptional customer care earning trust throughout Pima County.",
                   "Flexible Payment Options: We offer multiple payment options including financing programs, senior discounts, and flexible terms making quality home services affordable for all Corona de Tucson families regardless of budget constraints."
             ]
       },

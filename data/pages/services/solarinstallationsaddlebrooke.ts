@@ -37,7 +37,7 @@ export const solarinstallationsaddlebrookeData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for SaddleBrooke's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied SaddleBrooke customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -149,7 +149,7 @@ export const solarinstallationsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

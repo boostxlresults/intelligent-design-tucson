@@ -43,7 +43,7 @@ export const trenchlessrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | Licensed plumbers | 22,000+ reviews | Satisfaction guaranteed"
+    "description": "Family & veteran-owned | Licensed plumbers | 23,000+ reviews | Satisfaction guaranteed"
   }
 ],
   content: {
@@ -276,7 +276,7 @@ export const trenchlessrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: An [link:/services/plumbing-oro-valley|Oro Valley] homeowner faced a difficult situation: their 1972-built home had a collapsed cast iron sewer line running directly under a three-car garage driveway. The 80-foot sewer line exhibited complete collapse in one 12-foot section (making CIPP lining impossible), severe corrosion throughout with wall thickness reduced 60-70%, multiple separation points at joints, and heavy root intrusion through corroded areas. The concrete driveway was recently sealed and refinished—replacement value $18,000-$22,000. Traditional excavation would require saw-cutting and removing 80 linear feet of 12-foot-wide driveway (960 square feet of concrete demolition), excavating 4-5 feet deep through base material, replacing the entire sewer line, then repouriing 960 square feet of concrete with proper finishing and curing time. This approach would have blocked driveway access for 7-10 days and cost an estimated $6,800 for pipe work + $19,000-$24,000 for concrete removal and replacement."
+            "content": "The Challenge: An [link:/services/plumbing-oro-valley|Oro Valley] homeowner faced a difficult situation: their 1972-built home had a collapsed cast iron sewer line running directly under a three-car garage driveway. The 80-foot sewer line exhibited complete collapse in one 12-foot section (making CIPP lining impossible), severe corrosion throughout with wall thickness reduced 60-70%, multiple separation points at joints, and heavy root intrusion through corroded areas. The concrete driveway was recently sealed and refinished—replacement value $18,000-$23,000. Traditional excavation would require saw-cutting and removing 80 linear feet of 12-foot-wide driveway (960 square feet of concrete demolition), excavating 4-5 feet deep through base material, replacing the entire sewer line, then repouriing 960 square feet of concrete with proper finishing and curing time. This approach would have blocked driveway access for 7-10 days and cost an estimated $6,800 for pipe work + $19,000-$24,000 for concrete removal and replacement."
       },
       {
             "type": "paragraph",
@@ -489,7 +489,7 @@ export const trenchlessrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service that creates lifetime customers. When you choose Intelligent Design for your trenchless sewer repair, you're getting IPT-certified technicians with rigorous training on advanced CIPP lining technology, premium materials backed by industry-leading 50-year warranties, comprehensive video documentation before and after repair showing the complete transformation, professional installation that meets or exceeds all manufacturer and industry standards, ServiceTitan-tracked quality metrics ensuring consistent excellence across every project, and full-service capabilities allowing us to address related [link:/services/plumbing-maintenance|plumbing], [link:/services/water-leak-repair|water line], and [link:/services/plumbing-tucson|repiping issues] during the same visit."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service that creates lifetime customers. When you choose Intelligent Design for your trenchless sewer repair, you're getting IPT-certified technicians with rigorous training on advanced CIPP lining technology, premium materials backed by industry-leading 50-year warranties, comprehensive video documentation before and after repair showing the complete transformation, professional installation that meets or exceeds all manufacturer and industry standards, ServiceTitan-tracked quality metrics ensuring consistent excellence across every project, and full-service capabilities allowing us to address related [link:/services/plumbing-maintenance|plumbing], [link:/services/water-leak-repair|water line], and [link:/services/plumbing-tucson|repiping issues] during the same visit."
       },
       {
             "type": "paragraph",

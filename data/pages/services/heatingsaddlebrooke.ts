@@ -35,7 +35,7 @@ export const heatingsaddlebrookeData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 18+ years average experience | Senior service specialists | Background-checked professionals | Military veteran-owned"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated HVAC company | Preferred by SaddleBrooke residents"
   },
   {
@@ -66,7 +66,7 @@ export const heatingsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record in Active Adult Communities: Intelligent Design has earned the trust of over 85,000 Tucson-area families including thousands in SaddleBrooke, SaddleBrooke Ranch, and Sun City Oro Valley with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our specialized experience with senior-focused service, energy efficiency optimization, and seasonal home maintenance makes us SaddleBrooke's most-referred heating service provider. When you choose Intelligent Design, you're choosing the company your neighbors trust with their comfort. Learn more about our [link:/knowledge-hub|family-owned, veteran-operated commitment] to serving active adult communities with respect and excellence."
+            "content": "Proven Track Record in Active Adult Communities: Intelligent Design has earned the trust of over 85,000 Tucson-area families including thousands in SaddleBrooke, SaddleBrooke Ranch, and Sun City Oro Valley with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our specialized experience with senior-focused service, energy efficiency optimization, and seasonal home maintenance makes us SaddleBrooke's most-referred heating service provider. When you choose Intelligent Design, you're choosing the company your neighbors trust with their comfort. Learn more about our [link:/knowledge-hub|family-owned, veteran-operated commitment] to serving active adult communities with respect and excellence."
       },
       {
             "type": "paragraph",

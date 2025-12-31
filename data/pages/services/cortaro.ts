@@ -8,7 +8,7 @@ import { generalAreaFAQs } from '@/data/faqs/general';
 export const cortaroData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Cortaro, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Cortaro. Serving this residential area northwest of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Cortaro. Serving this residential area northwest of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'cortaro',
   
   // Hero Section

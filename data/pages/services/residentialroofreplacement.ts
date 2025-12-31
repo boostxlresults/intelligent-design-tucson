@@ -35,7 +35,7 @@ export const residentialroofreplacementData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
     "title": "Comprehensive Warranties",
@@ -69,7 +69,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], [link:/services/metal-roofs|metal], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 22,000+ verified reviews, BBB A+ accreditation for 46+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
+            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], [link:/services/metal-roofs|metal], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 23,000+ verified reviews, BBB A+ accreditation for 46+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
       },
       {
             "type": "heading",
@@ -83,7 +83,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Fast Response for Roof Replacement Projects: Our ServiceTitan-powered project management system enables industry-leading coordination and communication for roof replacement projects across metro Tucson. We maintain 52 licensed roofing professionals and complete average roof replacement in 4-6 days from tear-off to final inspection. Our fleet of 42 fully-equipped service vehicles positions crews strategically throughout [link:/services/roofing-tucson|Tucson], [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], and surrounding communities, enabling us to respond quickly when you need emergency replacement after monsoon damage or discover urgent roof failure. With 4.97-star Google rating from 22,000+ verified reviews, we're Tucson's highest-rated residential roofing company."
+            "content": "Fast Response for Roof Replacement Projects: Our ServiceTitan-powered project management system enables industry-leading coordination and communication for roof replacement projects across metro Tucson. We maintain 52 licensed roofing professionals and complete average roof replacement in 4-6 days from tear-off to final inspection. Our fleet of 42 fully-equipped service vehicles positions crews strategically throughout [link:/services/roofing-tucson|Tucson], [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], and surrounding communities, enabling us to respond quickly when you need emergency replacement after monsoon damage or discover urgent roof failure. With 4.97-star Google rating from 23,000+ verified reviews, we're Tucson's highest-rated residential roofing company."
       },
       {
             "type": "paragraph",
@@ -205,7 +205,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Results: The family immediately noticed 28% reduction in summer cooling costs (saving $65-$85 per month May-September) due to reflective tile and improved ventilation—savings that nearly offset their monthly financing payment. The improved curb appeal with designer tiles increased their home's appraised value by $16,000 based on recent refinance appraisal. Most importantly, they've eliminated roof replacement concerns for 40+ years, avoiding future expense and hassle. Over their planned 25-year ownership, they'll save an estimated $18,000-$22,000 compared to replacing asphalt shingles twice during that period. This case demonstrates how investing in quality roofing materials delivers compounding financial benefits for homeowners planning long-term ownership."
+            "content": "The Results: The family immediately noticed 28% reduction in summer cooling costs (saving $65-$85 per month May-September) due to reflective tile and improved ventilation—savings that nearly offset their monthly financing payment. The improved curb appeal with designer tiles increased their home's appraised value by $16,000 based on recent refinance appraisal. Most importantly, they've eliminated roof replacement concerns for 40+ years, avoiding future expense and hassle. Over their planned 25-year ownership, they'll save an estimated $18,000-$23,000 compared to replacing asphalt shingles twice during that period. This case demonstrates how investing in quality roofing materials delivers compounding financial benefits for homeowners planning long-term ownership."
       },
       {
             "type": "heading",
@@ -505,7 +505,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Real estate studies consistently show new roofs increase home values by 60-70% of replacement cost. This means: A $15,000 shingle roof replacement adds $9,000-$10,500 to home value. A $22,000 tile roof replacement adds $13,200-$15,400 to home value. A $30,000 metal roof replacement adds $18,000-$21,000 to home value. In seller's markets with limited inventory, new roofs can return 75-85% of cost as buyers compete for turnkey homes requiring zero immediate investment. Beyond the appraisal impact, new roofs deliver additional selling advantages: Homes sell 15-25% faster than comparable properties with aging roofs. Buyers pay premium prices for homes without deferred maintenance concerns. Inspections reveal zero roofing issues, eliminating renegotiation opportunities. Sellers avoid price reductions or concessions for roof replacement. Buyers' lenders readily approve financing without requiring roof repairs/replacement. The combined effect often exceeds the direct value increase—a $20,000 roof replacement might prevent a $30,000 price reduction negotiated by buyers concerned about aging roof requiring replacement."
+            "content": "Real estate studies consistently show new roofs increase home values by 60-70% of replacement cost. This means: A $15,000 shingle roof replacement adds $9,000-$10,500 to home value. A $23,000 tile roof replacement adds $13,200-$15,400 to home value. A $30,000 metal roof replacement adds $18,000-$21,000 to home value. In seller's markets with limited inventory, new roofs can return 75-85% of cost as buyers compete for turnkey homes requiring zero immediate investment. Beyond the appraisal impact, new roofs deliver additional selling advantages: Homes sell 15-25% faster than comparable properties with aging roofs. Buyers pay premium prices for homes without deferred maintenance concerns. Inspections reveal zero roofing issues, eliminating renegotiation opportunities. Sellers avoid price reductions or concessions for roof replacement. Buyers' lenders readily approve financing without requiring roof repairs/replacement. The combined effect often exceeds the direct value increase—a $20,000 roof replacement might prevent a $30,000 price reduction negotiated by buyers concerned about aging roof requiring replacement."
       },
       {
             "type": "heading",
@@ -561,7 +561,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're certified installers for major roofing manufacturers, qualifying your project for enhanced warranties. Our crews are experienced professionals who respect your property and take pride in their craftsmanship. We invest in ongoing training and maintain the highest quality standards."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're certified installers for major roofing manufacturers, qualifying your project for enhanced warranties. Our crews are experienced professionals who respect your property and take pride in their craftsmanship. We invest in ongoing training and maintain the highest quality standards."
       },
       {
             "type": "paragraph",
@@ -669,7 +669,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Call (520) 333-2665 today or schedule online for your free roof replacement consultation. Our licensed roofing professionals will assess your roof's condition, discuss your goals and budget, and provide clear recommendations to help you make the best decision for your home and family. With over 46 years serving Tucson, 22,000+ five-star reviews, and thousands of successful roof replacements, we're the roofing company your neighbors trust and recommend."
+            "content": "Call (520) 333-2665 today or schedule online for your free roof replacement consultation. Our licensed roofing professionals will assess your roof's condition, discuss your goals and budget, and provide clear recommendations to help you make the best decision for your home and family. With over 46 years serving Tucson, 23,000+ five-star reviews, and thousands of successful roof replacements, we're the roofing company your neighbors trust and recommend."
       },
       {
             "type": "cta",

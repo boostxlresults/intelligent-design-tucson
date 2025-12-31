@@ -12,7 +12,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Ductless Mini Split Repair in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Fast, reliable ductless mini split repairs from Tucson\'s most trusted HVAC experts. 24/7 emergency service, all brands serviced, same-day repairs available.',
   heroImage: '/generated_images/Ductless_mini_split_repair_Tucson_153fb3a3.webp',
   heroImageAlt: 'Professional technician repairing ductless mini split AC system',
@@ -41,7 +41,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ five-star reviews | BBB A+ rated | Licensed & insured"
+    "description": "Family & veteran-owned | 23,000+ five-star reviews | BBB A+ rated | Licensed & insured"
   },
   {
     "title": "Satisfaction Guaranteed",
@@ -67,7 +67,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated ductless mini split repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ductless-installation-tucson|ductless mini split service] provider in Pima County. When your ductless system fails and specific rooms are becoming dangerously hot, you're choosing the company your neighbors trust with their [link:/customer-reviews|family-owned, veteran-operated comfort service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated ductless mini split repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ductless-installation-tucson|ductless mini split service] provider in Pima County. When your ductless system fails and specific rooms are becoming dangerously hot, you're choosing the company your neighbors trust with their [link:/customer-reviews|family-owned, veteran-operated comfort service]."
       },
       {
             "type": "paragraph",
@@ -174,7 +174,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our certified technicians average about 17 years of experience each and have comprehensive knowledge of all ductless mini split systems. We're a BBB A+ rated company with over 22,000 five-star reviews and a 4.97 rating on Google. When you choose Intelligent Design, you're choosing reliability, expertise, and a commitment to your comfort."
+            "content": "Our certified technicians average about 17 years of experience each and have comprehensive knowledge of all ductless mini split systems. We're a BBB A+ rated company with over 23,000 five-star reviews and a 4.97 rating on Google. When you choose Intelligent Design, you're choosing reliability, expertise, and a commitment to your comfort."
       },
       {
             "type": "heading",

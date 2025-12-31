@@ -37,7 +37,7 @@ export const solarinstallationritaranchData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Rita Ranch's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -149,7 +149,7 @@ export const solarinstallationritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

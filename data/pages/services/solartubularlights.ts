@@ -35,7 +35,7 @@ export const solartubularlightsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert installation expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert installation expertise | Trusted since 1979"
   },
   {
     "title": "Premium Quality Systems",
@@ -601,7 +601,7 @@ export const solartubularlightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Family-Owned Commitment and Proven Track Record: As a family and veteran-owned business serving Tucson since 1979, we've built our reputation on honest service, quality workmanship, and long-term customer relationships. Our 22,000+ customer reviews with consistently high ratings reflect this commitment. We provide accurate upfront pricing with no surprise charges, use only premium materials from reputable manufacturers, and back all installations with comprehensive warranties. Our ServiceTitan business management platform ensures efficient scheduling, real-time communication, and on-time project completion. We're properly licensed (#ROC 154133), fully insured, and maintain an A+ Better Business Bureau rating. When you choose Intelligent Design for tubular skylight installation, you're partnering with Tucson's most trusted home services company—we'll be here decades from now if you ever need service or have questions about your installation."
+            "content": "Family-Owned Commitment and Proven Track Record: As a family and veteran-owned business serving Tucson since 1979, we've built our reputation on honest service, quality workmanship, and long-term customer relationships. Our 23,000+ customer reviews with consistently high ratings reflect this commitment. We provide accurate upfront pricing with no surprise charges, use only premium materials from reputable manufacturers, and back all installations with comprehensive warranties. Our ServiceTitan business management platform ensures efficient scheduling, real-time communication, and on-time project completion. We're properly licensed (#ROC 154133), fully insured, and maintain an A+ Better Business Bureau rating. When you choose Intelligent Design for tubular skylight installation, you're partnering with Tucson's most trusted home services company—we'll be here decades from now if you ever need service or have questions about your installation."
       },
       {
             "type": "heading",

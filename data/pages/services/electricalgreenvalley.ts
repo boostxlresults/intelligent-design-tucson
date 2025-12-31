@@ -4,7 +4,7 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricalgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Green Valley AZ | Panel Upgrades | Safety Inspections | Generator Installation',
-  description: 'Licensed electrician serving Green Valley retirement community since 1979. Panel upgrades for older homes, safety inspections, generator installation, smart home retrofits. 22,000+ 5-star reviews. BBB A+ rated. Specializing in retiree electrical safety.',
+  description: 'Licensed electrician serving Green Valley retirement community since 1979. Panel upgrades for older homes, safety inspections, generator installation, smart home retrofits. 23,000+ 5-star reviews. BBB A+ rated. Specializing in retiree electrical safety.',
   slug: 'electrical-green-valley',
   
   // Hero Section
@@ -33,7 +33,7 @@ export const electricalgreenvalleyData: ServicePageData = {
     "description": "Arizona ROC licensed & insured | 17+ years average experience | Senior-friendly communication | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | Most-referred electrician in Green Valley | Trusted by your neighbors"
   },
   {
@@ -64,7 +64,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record in Green Valley Community: Intelligent Design has earned deep trust throughout Green Valley with over 8,500 local customers and a nearly perfect 4.97-star Google rating from 22,000+ verified reviews across Southern Arizona—the highest-rated electrical company serving retirement communities. We're the #1 most-referred electrician in Green Valley based on customer satisfaction and word-of-mouth recommendations from your neighbors. Our BBB A+ accreditation since 1979 with zero unresolved complaints reflects our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service. We understand Green Valley residents' priorities: clear communication, respect for your home and time, safety-first approach, transparent pricing with no surprises, and technicians who take time to explain work and answer questions thoroughly. When you choose Intelligent Design, you're selecting the company your Green Valley neighbors have trusted with their [link:/customer-reviews|home electrical safety and comfort] for over four decades."
+            "content": "Proven Track Record in Green Valley Community: Intelligent Design has earned deep trust throughout Green Valley with over 8,500 local customers and a nearly perfect 4.97-star Google rating from 23,000+ verified reviews across Southern Arizona—the highest-rated electrical company serving retirement communities. We're the #1 most-referred electrician in Green Valley based on customer satisfaction and word-of-mouth recommendations from your neighbors. Our BBB A+ accreditation since 1979 with zero unresolved complaints reflects our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service. We understand Green Valley residents' priorities: clear communication, respect for your home and time, safety-first approach, transparent pricing with no surprises, and technicians who take time to explain work and answer questions thoroughly. When you choose Intelligent Design, you're selecting the company your Green Valley neighbors have trusted with their [link:/customer-reviews|home electrical safety and comfort] for over four decades."
       },
       {
             "type": "paragraph",
@@ -514,7 +514,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our 100% Satisfaction Guarantee: We're not satisfied until you're completely happy with our electrical service. If any aspect of our work doesn't meet your expectations, we'll make it right at no additional charge. This guarantee covers workmanship quality, cleanliness of job site, communication and courtesy, pricing transparency (no hidden charges ever), and on-time arrival within scheduled service windows. We maintain our 4.97-star rating from 22,000+ reviews because we resolve every customer concern quickly and professionally—your satisfaction is our top priority and the foundation of our reputation in Green Valley."
+            "content": "Our 100% Satisfaction Guarantee: We're not satisfied until you're completely happy with our electrical service. If any aspect of our work doesn't meet your expectations, we'll make it right at no additional charge. This guarantee covers workmanship quality, cleanliness of job site, communication and courtesy, pricing transparency (no hidden charges ever), and on-time arrival within scheduled service windows. We maintain our 4.97-star rating from 23,000+ reviews because we resolve every customer concern quickly and professionally—your satisfaction is our top priority and the foundation of our reputation in Green Valley."
       },
       {
             "type": "heading",
@@ -658,7 +658,7 @@ export const electricalgreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Online Scheduling: Visit our website to schedule service online 24/7 | Same-day appointments available | [link:/customer-reviews|Read our 22,000+ five-star reviews]"
+            "content": "Online Scheduling: Visit our website to schedule service online 24/7 | Same-day appointments available | [link:/customer-reviews|Read our 23,000+ five-star reviews]"
       },
       {
             "type": "cta",

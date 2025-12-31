@@ -708,7 +708,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've earned Tucson's trust through quality workmanship, honest service, and exceptional customer care. Our ServiceTitan-powered dispatch system delivers average 68-minute arrival times and same-day service for 89% of appointments. We maintain 42 fully-stocked service vehicles positioned throughout metro Tucson for rapid response. Every service technician carries extensive parts inventory so most component replacements happen during the initial visit without return trips or delays."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've earned Tucson's trust through quality workmanship, honest service, and exceptional customer care. Our ServiceTitan-powered dispatch system delivers average 68-minute arrival times and same-day service for 89% of appointments. We maintain 42 fully-stocked service vehicles positioned throughout metro Tucson for rapid response. Every service technician carries extensive parts inventory so most component replacements happen during the initial visit without return trips or delays."
       },
       {
             "type": "paragraph",

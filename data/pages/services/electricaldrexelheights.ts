@@ -4,7 +4,7 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricaldrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Drexel Heights AZ | Panel Upgrades | EV Chargers | Licensed Electrical Services',
-  description: 'Expert electrician serving Drexel Heights, AZ since 1979. Panel upgrades, EV charger installation, generator service, lighting, emergency repairs. 22,000+ 5-star reviews. BBB A+ rated. Same-day service available.',
+  description: 'Expert electrician serving Drexel Heights, AZ since 1979. Panel upgrades, EV charger installation, generator service, lighting, emergency repairs. 23,000+ 5-star reviews. BBB A+ rated. Same-day service available.',
   slug: 'electrical-drexel-heights',
   
   // Hero Section
@@ -30,7 +30,7 @@ export const electricaldrexelheightsData: ServicePageData = {
     },
     {
       "title": "Drexel Heights Community Trust",
-      "description": "4,200+ Drexel Heights customers served | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation since 1979 | Most-referred electrician in southwest Tucson"
+      "description": "4,200+ Drexel Heights customers served | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation since 1979 | Most-referred electrician in southwest Tucson"
     },
     {
       "title": "Comprehensive Electrical Services",
@@ -68,7 +68,7 @@ export const electricaldrexelheightsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Drexel Heights families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, including hundreds from your Drexel Heights neighbors. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated electrical service provider in the Drexel Heights and southwest Tucson area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees), quality workmanship (all work warrantied), and exceptional customer service has made us the most-referred electrical company among Drexel Heights homeowners. When your Drexel Heights neighbors need electrical service, they call Intelligent Design—and proudly refer us to their family and friends. Our [link:/customer-reviews|extensive Drexel Heights testimonials] demonstrate our capability and community commitment."
+        "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Drexel Heights families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, including hundreds from your Drexel Heights neighbors. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated electrical service provider in the Drexel Heights and southwest Tucson area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees), quality workmanship (all work warrantied), and exceptional customer service has made us the most-referred electrical company among Drexel Heights homeowners. When your Drexel Heights neighbors need electrical service, they call Intelligent Design—and proudly refer us to their family and friends. Our [link:/customer-reviews|extensive Drexel Heights testimonials] demonstrate our capability and community commitment."
       },
       {
         "type": "cta",
@@ -584,7 +584,7 @@ export const electricaldrexelheightsData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "We're not a fly-by-night contractor or national chain—we've served Tucson families from our Fort Lowell location for over 46 years and plan to continue for decades more. Our BBB A+ accreditation since 1979 with zero unresolved complaints demonstrates our commitment to making things right when rare problems occur. Our 4.97-star Google rating from 22,000+ verified reviews including hundreds from Drexel Heights neighbors reflects consistent excellence. Our lifetime warranty on workmanship means if our installation ever has problems, we fix it at no charge regardless of how many years have passed. Our comprehensive insurance and bonding protects homeowners from any liability. Our ROC #340962 state licensing ensures we meet Arizona's highest electrical contractor standards. When you hire Intelligent Design, you're hiring a company accountable to this community—your neighbors have trusted us for decades, and we protect that reputation through excellent service every single day."
+        "content": "We're not a fly-by-night contractor or national chain—we've served Tucson families from our Fort Lowell location for over 46 years and plan to continue for decades more. Our BBB A+ accreditation since 1979 with zero unresolved complaints demonstrates our commitment to making things right when rare problems occur. Our 4.97-star Google rating from 23,000+ verified reviews including hundreds from Drexel Heights neighbors reflects consistent excellence. Our lifetime warranty on workmanship means if our installation ever has problems, we fix it at no charge regardless of how many years have passed. Our comprehensive insurance and bonding protects homeowners from any liability. Our ROC #340962 state licensing ensures we meet Arizona's highest electrical contractor standards. When you hire Intelligent Design, you're hiring a company accountable to this community—your neighbors have trusted us for decades, and we protect that reputation through excellent service every single day."
       },
       {
         "type": "heading",

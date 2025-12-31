@@ -6,7 +6,7 @@ import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Oro Valley AZ | Furnace Repair & Heat Pump Installation',
-  description: 'Expert heating services in Oro Valley, AZ since 1979. Furnace repair, heat pump installation, dual-fuel systems for foothill climate. 22,000+ 5-star reviews. BBB A+ rated. Specialized service for Oro Valley\'s cooler winters.',
+  description: 'Expert heating services in Oro Valley, AZ since 1979. Furnace repair, heat pump installation, dual-fuel systems for foothill climate. 23,000+ 5-star reviews. BBB A+ rated. Specialized service for Oro Valley\'s cooler winters.',
   slug: 'heating-oro-valley',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const heatingorovalleyData: ServicePageData = {
     "description": "Oro Valley-based heating experts | 18+ years average experience | 120+ hours annual training | Heat pump & dual-fuel specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | #1 rated in Oro Valley | Most trusted by foothill homeowners"
   },
   {
@@ -66,7 +66,7 @@ export const heatingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Oro Valley Community Trust: Intelligent Design has earned the trust of over 12,000 Oro Valley families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews across Southern Arizona—the highest-rated heating company serving Oro Valley. We've been Oro Valley's #1 rated heating service provider for 8 consecutive years (2017-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from Oro Valley customers. Our deep understanding of Oro Valley's unique foothill climate, newer home construction standards, energy-conscious community values, and premium service expectations has made us the most-referred heating company in Northwest Pima County. When you choose Intelligent Design, you're selecting the company your Oro Valley neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
+            "content": "Proven Track Record & Oro Valley Community Trust: Intelligent Design has earned the trust of over 12,000 Oro Valley families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews across Southern Arizona—the highest-rated heating company serving Oro Valley. We've been Oro Valley's #1 rated heating service provider for 8 consecutive years (2017-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from Oro Valley customers. Our deep understanding of Oro Valley's unique foothill climate, newer home construction standards, energy-conscious community values, and premium service expectations has made us the most-referred heating company in Northwest Pima County. When you choose Intelligent Design, you're selecting the company your Oro Valley neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -203,7 +203,7 @@ export const heatingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Measurable Results: The installation delivered premium performance matching the home's quality: Heating costs 67% lower than comparable Oro Valley homes ($85/month average vs. $260 for similar size homes with standard furnaces), perfect comfort with modulating technology maintaining ±0.3°F temperature consistency, library-quiet operation measuring 37 dB at the air handler (quieter than refrigerator), rapid temperature recovery reaching setpoint 40% faster than standard furnaces, optimized humidity control maintaining comfortable 35-40% winter humidity levels (addressing Oro Valley's 15-20% winter humidity), $1,600 in incentives (TEP high-efficiency rebate $700, federal tax credit $900), enhanced [link:/services/indoor-air-quality-tucson|indoor air quality] with MERV 16 filtration removing 95% of particles, and increased home value (appraiser noted $18,000-22,000 value premium from top-tier HVAC system—important for resale in Oro Valley's competitive market). The 98% AFUE furnace saves approximately $175 annually compared to an 80% AFUE furnace, paying for the upgrade within 8 years while providing superior comfort for the system's 20-25 year expected life. The homeowners stated, 'This furnace is an engineering marvel—we barely know it's running, the temperature is always perfect, and our heating bills are remarkably low for a home at our elevation. The modulating technology is exactly what our well-sealed home needed.'"
+            "content": "Measurable Results: The installation delivered premium performance matching the home's quality: Heating costs 67% lower than comparable Oro Valley homes ($85/month average vs. $260 for similar size homes with standard furnaces), perfect comfort with modulating technology maintaining ±0.3°F temperature consistency, library-quiet operation measuring 37 dB at the air handler (quieter than refrigerator), rapid temperature recovery reaching setpoint 40% faster than standard furnaces, optimized humidity control maintaining comfortable 35-40% winter humidity levels (addressing Oro Valley's 15-20% winter humidity), $1,600 in incentives (TEP high-efficiency rebate $700, federal tax credit $900), enhanced [link:/services/indoor-air-quality-tucson|indoor air quality] with MERV 16 filtration removing 95% of particles, and increased home value (appraiser noted $18,000-23,000 value premium from top-tier HVAC system—important for resale in Oro Valley's competitive market). The 98% AFUE furnace saves approximately $175 annually compared to an 80% AFUE furnace, paying for the upgrade within 8 years while providing superior comfort for the system's 20-25 year expected life. The homeowners stated, 'This furnace is an engineering marvel—we barely know it's running, the temperature is always perfect, and our heating bills are remarkably low for a home at our elevation. The modulating technology is exactly what our well-sealed home needed.'"
       },
       {
             "type": "heading",
@@ -634,7 +634,7 @@ export const heatingorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent Pricing & Customer-First Values: We provide detailed written estimates before starting any work, explaining exactly what you're paying for and why specific equipment and services are recommended for your Oro Valley home. Our proposals include equipment specifications (exact models, SEER/AFUE ratings), detailed scope of work (installation steps, materials, timeline), comprehensive pricing (line-item breakdown, no hidden fees), available incentives (rebates, tax credits, financing), and performance expectations (efficiency, comfort, noise levels). You'll never experience high-pressure sales tactics, limited-time-only pricing (our prices are consistent year-round), or bait-and-switch equipment substitutions. Our [link:/customer-reviews|22,000+ five-star reviews] and BBB A+ rating since 1979 reflect our commitment to honest recommendations focused on your best interests, not maximizing our profit."
+            "content": "Transparent Pricing & Customer-First Values: We provide detailed written estimates before starting any work, explaining exactly what you're paying for and why specific equipment and services are recommended for your Oro Valley home. Our proposals include equipment specifications (exact models, SEER/AFUE ratings), detailed scope of work (installation steps, materials, timeline), comprehensive pricing (line-item breakdown, no hidden fees), available incentives (rebates, tax credits, financing), and performance expectations (efficiency, comfort, noise levels). You'll never experience high-pressure sales tactics, limited-time-only pricing (our prices are consistent year-round), or bait-and-switch equipment substitutions. Our [link:/customer-reviews|23,000+ five-star reviews] and BBB A+ rating since 1979 reflect our commitment to honest recommendations focused on your best interests, not maximizing our profit."
       },
       {
             "type": "paragraph",

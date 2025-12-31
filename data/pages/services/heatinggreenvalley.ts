@@ -35,7 +35,7 @@ export const heatinggreenvalleyData: ServicePageData = {
     "description": "Patient, respectful technicians | Clear communication | Budget-conscious options | Fixed-income friendly financing | No high-pressure sales"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | Most-referred heating company in Green Valley | Trusted by retirees"
   },
   {
@@ -66,7 +66,7 @@ export const heatinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 4,200 Green Valley families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company serving Southern Arizona retirement communities. We've been the preferred heating service provider for Green Valley homeowners for over four decades, maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, senior-friendly service, transparent pricing, and exceptional customer care has made us the most-referred heating company among Green Valley retirees. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home comfort and heating investments] throughout their retirement years."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 4,200 Green Valley families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company serving Southern Arizona retirement communities. We've been the preferred heating service provider for Green Valley homeowners for over four decades, maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, senior-friendly service, transparent pricing, and exceptional customer care has made us the most-referred heating company among Green Valley retirees. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home comfort and heating investments] throughout their retirement years."
       },
       {
             "type": "paragraph",
@@ -501,7 +501,7 @@ export const heatinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Quality and Reliability: Our 4.97-star Google rating from 22,000+ reviews, BBB A+ accreditation maintained since 1979, NATE-certified technicians averaging 17+ years experience, factory authorization from all major manufacturers, and membership in leading industry associations demonstrate our commitment to excellence. We're licensed, bonded, and insured with comprehensive liability protection. Our work meets or exceeds all manufacturer specifications and local building codes. We stand behind every installation with industry-leading warranties and our 100% satisfaction guarantee."
+            "content": "Proven Quality and Reliability: Our 4.97-star Google rating from 23,000+ reviews, BBB A+ accreditation maintained since 1979, NATE-certified technicians averaging 17+ years experience, factory authorization from all major manufacturers, and membership in leading industry associations demonstrate our commitment to excellence. We're licensed, bonded, and insured with comprehensive liability protection. Our work meets or exceeds all manufacturer specifications and local building codes. We stand behind every installation with industry-leading warranties and our 100% satisfaction guarantee."
       },
       {
             "type": "paragraph",

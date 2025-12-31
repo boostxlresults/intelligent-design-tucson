@@ -33,7 +33,7 @@ export const electricalritaranchData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 17+ years average experience | Modern electrical expertise | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated electrical company"
   },
   {
@@ -64,7 +64,7 @@ export const electricalritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Rita Ranch Community Trust: Intelligent Design has earned the trust of over 1,400 Rita Ranch-area families and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company serving southeast Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Rita Ranch's family-oriented homeowners. When you choose Intelligent Design, you're selecting the company your Rita Ranch neighbors have trusted with their [link:/customer-reviews|family home electrical systems, EV charger installations, and modern home upgrades] for over two decades."
+            "content": "Proven Track Record & Rita Ranch Community Trust: Intelligent Design has earned the trust of over 1,400 Rita Ranch-area families and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company serving southeast Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Rita Ranch's family-oriented homeowners. When you choose Intelligent Design, you're selecting the company your Rita Ranch neighbors have trusted with their [link:/customer-reviews|family home electrical systems, EV charger installations, and modern home upgrades] for over two decades."
       },
       {
             "type": "paragraph",

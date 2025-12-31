@@ -10,7 +10,7 @@ export const solaracData: ServicePageData = {
   
   // Hero Section
   h1: 'EG4 Solar Powered AC in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Revolutionary Hybrid Solar Mini-Split | Runs on Sun by Day, Grid by Night | Free Assessment',
   heroImage: '/generated_images/Solar_panels_with_AC_unit_043e3f3d.webp',
   heroImageAlt: 'Intelligent Design technician installing EG4 hybrid solar-powered mini-split air conditioning system in Tucson',
@@ -27,7 +27,7 @@ export const solaracData: ServicePageData = {
   },
   {
     "title": "Arizona's Only Dual-Licensed HVAC & Solar Contractor",
-    "description": "46+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
+    "description": "46+ years expertise | 23,000+ five-star reviews | Seamless installation coordination"
   },
   {
     "title": "Revolutionary DC Solar Technology",
@@ -69,7 +69,7 @@ export const solaracData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "46+ years expertise | 22,000+ five-star reviews | Seamless installation coordination"
+            "content": "46+ years expertise | 23,000+ five-star reviews | Seamless installation coordination"
       },
       {
             "type": "paragraph",

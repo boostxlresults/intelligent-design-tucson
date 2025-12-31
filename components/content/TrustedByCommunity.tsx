@@ -10,7 +10,7 @@ export default function TrustedByCommunity() {
     },
     {
       icon: Star,
-      value: "22,000+",
+      value: "23,000+",
       label: "Five-Star Reviews",
       description: "4.97 average rating"
     },

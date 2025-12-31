@@ -35,7 +35,7 @@ export const heatingrillitoData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 16+ years average experience | Rural heating specialists | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated HVAC company | Preferred by Rillito homeowners"
   },
   {
@@ -66,7 +66,7 @@ export const heatingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record in Rural Communities: Intelligent Design has earned the trust of over 85,000 Tucson-area families including hundreds in Rillito with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our specialized experience with rural properties, propane systems, larger homes, and off-grid capable equipment makes us Rillito's most-referred heating service provider. When you choose Intelligent Design, you're choosing the company your rural neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record in Rural Communities: Intelligent Design has earned the trust of over 85,000 Tucson-area families including hundreds in Rillito with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our specialized experience with rural properties, propane systems, larger homes, and off-grid capable equipment makes us Rillito's most-referred heating service provider. When you choose Intelligent Design, you're choosing the company your rural neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",

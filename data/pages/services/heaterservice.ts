@@ -10,7 +10,7 @@ export const heaterserviceData: ServicePageData = {
   
   // Hero Section
   h1: 'Professional Heater Service in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Annual Maintenance | System Tune-Ups | Efficiency Optimization | Safety Inspections',
   heroImage: '/generated_images/Heater_service_maintenance_image_927f5159.webp',
   heroImageAlt: 'Professional heater service technician performing maintenance on heating system in Tucson, Arizona',
@@ -69,7 +69,7 @@ export const heaterserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heater-tuneup-tucson|heater tune-up] and maintenance provider in Pima County. When you're trusting a company with your family's comfort during cold desert nights, you're choosing the company your neighbors rely on for their [link:/customer-reviews|family-owned, veteran-operated service with industry-leading guarantees]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heater-tuneup-tucson|heater tune-up] and maintenance provider in Pima County. When you're trusting a company with your family's comfort during cold desert nights, you're choosing the company your neighbors rely on for their [link:/customer-reviews|family-owned, veteran-operated service with industry-leading guarantees]."
       },
       {
             "type": "paragraph",
@@ -605,7 +605,7 @@ export const heaterserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commitment to transparency builds lasting customer relationships based on trust, not one-time transactions. We provide upfront, written pricing before performing any service or repairs—no hidden fees, surprise charges, or pressure tactics. Our technicians explain findings clearly using photos and videos showing actual system conditions, helping you understand recommendations and make informed decisions. We never recommend unnecessary services or replacement when quality repairs extend your current system's life. This honest approach has earned us a nearly perfect 4.97-star rating from over 22,000 verified Google reviews, BBB A+ accreditation maintained since 1979, and recognition as Tucson's #1 rated HVAC company for seven consecutive years. Our family-owned, veteran-operated company treats every customer's home as we would our own family's property—with respect, professionalism, and genuine care for your comfort and safety. This reputation for integrity is why over 65% of our new customers come from referrals by satisfied existing customers who trust us enough to recommend our services to friends, family, and neighbors."
+            "content": "Our commitment to transparency builds lasting customer relationships based on trust, not one-time transactions. We provide upfront, written pricing before performing any service or repairs—no hidden fees, surprise charges, or pressure tactics. Our technicians explain findings clearly using photos and videos showing actual system conditions, helping you understand recommendations and make informed decisions. We never recommend unnecessary services or replacement when quality repairs extend your current system's life. This honest approach has earned us a nearly perfect 4.97-star rating from over 23,000 verified Google reviews, BBB A+ accreditation maintained since 1979, and recognition as Tucson's #1 rated HVAC company for seven consecutive years. Our family-owned, veteran-operated company treats every customer's home as we would our own family's property—with respect, professionalism, and genuine care for your comfort and safety. This reputation for integrity is why over 65% of our new customers come from referrals by satisfied existing customers who trust us enough to recommend our services to friends, family, and neighbors."
       },
       {
             "type": "heading",

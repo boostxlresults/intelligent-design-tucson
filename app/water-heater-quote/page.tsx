@@ -325,7 +325,7 @@ export default function WaterHeaterQuotePage() {
             </h2>
             <div className="grid md:grid-cols-4 gap-6">
               <div className="text-center" data-testid="stat-reviews">
-                <div className="text-4xl font-bold text-primary mb-2" data-testid="text-reviews-count">22,000+</div>
+                <div className="text-4xl font-bold text-primary mb-2" data-testid="text-reviews-count">23,000+</div>
                 <h3 className="text-lg font-semibold mb-1">Five-Star Reviews</h3>
                 <p className="text-muted-foreground text-sm">
                   Thousands of satisfied customers

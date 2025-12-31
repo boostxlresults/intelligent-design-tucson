@@ -10,7 +10,7 @@ interface GoogleReviewsBadgeProps {
 
 export default function GoogleReviewsBadge({
   rating = 5.0,
-  reviewCount = "22,000+",
+  reviewCount = "23,000+",
   variant = "full",
   className = "",
 }: GoogleReviewsBadgeProps) {

@@ -35,7 +35,7 @@ export const commercialroofinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Commercial Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Licensed & insured | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Licensed & insured | Trusted since 1979"
   },
   {
     "title": "Energy Efficiency Focus",
@@ -88,7 +88,7 @@ export const commercialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Commercial Roofing Performance: Our commitment to excellence is measurable through our ServiceTitan-tracked performance data across commercial installations. We maintain a 97.4% first-time installation success rate for commercial roofing projects, average 4.96-star ratings across 22,000+ verified customer reviews (including 8,000+ commercial client reviews), complete 92% of commercial installations within estimated timelines despite complex scheduling requirements, and achieve zero warranty claims on properly maintained commercial installations within the first seven years. Our ServiceTitan business management platform tracks every commercial installation metric including average project completion time of 8.3 days for 10,000 sq ft TPO installations, 97.8% customer satisfaction scores on post-installation surveys from commercial property managers and owners, 1.4-hour average response time for commercial consultation requests, and 96.2% of commercial clients who would recommend our services. These metrics represent thousands of satisfied Tucson business owners, property managers, and commercial real estate investors enjoying reliable roof performance and energy savings."
+            "content": "Industry-Leading Commercial Roofing Performance: Our commitment to excellence is measurable through our ServiceTitan-tracked performance data across commercial installations. We maintain a 97.4% first-time installation success rate for commercial roofing projects, average 4.96-star ratings across 23,000+ verified customer reviews (including 8,000+ commercial client reviews), complete 92% of commercial installations within estimated timelines despite complex scheduling requirements, and achieve zero warranty claims on properly maintained commercial installations within the first seven years. Our ServiceTitan business management platform tracks every commercial installation metric including average project completion time of 8.3 days for 10,000 sq ft TPO installations, 97.8% customer satisfaction scores on post-installation surveys from commercial property managers and owners, 1.4-hour average response time for commercial consultation requests, and 96.2% of commercial clients who would recommend our services. These metrics represent thousands of satisfied Tucson business owners, property managers, and commercial real estate investors enjoying reliable roof performance and energy savings."
       },
       {
             "type": "paragraph",
@@ -635,7 +635,7 @@ export const commercialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for commercial roof installation, you're partnering with Tucson's most experienced and trusted commercial roofing contractor. Our 46+ years serving Tucson businesses have built an unmatched reputation for quality, reliability, and customer service. We're family and veteran-owned with deep roots in the Tucson community—we live and work here, and our reputation depends on delivering exceptional results for every client. Our 22,000+ five-star reviews reflect thousands of satisfied commercial property owners who trust us to protect their most valuable assets."
+            "content": "When you choose Intelligent Design for commercial roof installation, you're partnering with Tucson's most experienced and trusted commercial roofing contractor. Our 46+ years serving Tucson businesses have built an unmatched reputation for quality, reliability, and customer service. We're family and veteran-owned with deep roots in the Tucson community—we live and work here, and our reputation depends on delivering exceptional results for every client. Our 23,000+ five-star reviews reflect thousands of satisfied commercial property owners who trust us to protect their most valuable assets."
       },
       {
             "type": "paragraph",

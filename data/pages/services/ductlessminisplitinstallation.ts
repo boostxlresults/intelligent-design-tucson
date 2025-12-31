@@ -12,7 +12,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
   
   // Hero Section
   h1: '#1 Rated Ductless Mini Split Installation in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Energy-efficient ductless mini split installations by Tucson\'s most trusted HVAC experts. Superior comfort, lower bills, professional installation guaranteed.',
   heroImage: '/generated_images/Ductless_mini_split_installation_Tucson_d37599e5.webp',
   heroImageAlt: 'Professional technician installing ductless mini split AC system',
@@ -67,7 +67,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 6,200 ductless mini split installations since 2015, making us the most experienced ductless installer in Pima County. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us a Mitsubishi Diamond Contractor—the highest certification level recognizing installation excellence and customer service. When you're investing in a ductless system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 6,200 ductless mini split installations since 2015, making us the most experienced ductless installer in Pima County. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us a Mitsubishi Diamond Contractor—the highest certification level recognizing installation excellence and customer service. When you're investing in a ductless system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
       },
       {
             "type": "paragraph",
@@ -174,7 +174,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: The Thompson family's 1960s Marana ranch home (1,850 sq ft) was built without air conditioning or ductwork. They'd been limping along with six noisy window AC units consuming massive electricity ($380+ monthly in summer), providing uneven cooling, and creating security concerns with ground-floor windows propped open. Installing central AC would require demolishing walls and ceilings to run ductwork throughout the home—quoted at $22,000-$28,000 with 3-4 weeks of construction disruption."
+            "content": "The Challenge: The Thompson family's 1960s Marana ranch home (1,850 sq ft) was built without air conditioning or ductwork. They'd been limping along with six noisy window AC units consuming massive electricity ($380+ monthly in summer), providing uneven cooling, and creating security concerns with ground-floor windows propped open. Installing central AC would require demolishing walls and ceilings to run ductwork throughout the home—quoted at $23,000-$28,000 with 3-4 weeks of construction disruption."
       },
       {
             "type": "paragraph",
@@ -182,7 +182,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Results: The Thompson family now enjoys consistent 74°F comfort throughout their entire home with zone control allowing each family member to set their preferred bedroom temperature. Summer electricity costs dropped to $195 monthly—a 51% reduction saving $185 per month ($1,665 annually). The system operates so quietly they forget it's running, and security improved with windows now properly locked. Their ductless system will pay for itself in 8.5 years through energy savings, while avoiding the $22,000+ cost and disruption of traditional ductwork installation. \"We should have done this years ago,\" Mrs. Thompson reported. \"It's completely transformed our home comfort.\""
+            "content": "The Results: The Thompson family now enjoys consistent 74°F comfort throughout their entire home with zone control allowing each family member to set their preferred bedroom temperature. Summer electricity costs dropped to $195 monthly—a 51% reduction saving $185 per month ($1,665 annually). The system operates so quietly they forget it's running, and security improved with windows now properly locked. Their ductless system will pay for itself in 8.5 years through energy savings, while avoiding the $23,000+ cost and disruption of traditional ductwork installation. \"We should have done this years ago,\" Mrs. Thompson reported. \"It's completely transformed our home comfort.\""
       },
       {
             "type": "heading",

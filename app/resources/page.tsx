@@ -86,7 +86,7 @@ export default function ResourcesPage() {
     },
     {
       title: 'Customer Reviews',
-      description: 'Read what our 22,000+ satisfied customers have to say',
+      description: 'Read what our 23,000+ satisfied customers have to say',
       link: '/customer-reviews',
       icon: FileText,
     },

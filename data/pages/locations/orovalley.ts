@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const orovalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Oro Valley, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Oro Valley. Serving zip codes 85704, 85737, 85739, 85755 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Oro Valley. Serving zip codes 85704, 85737, 85739, 85755 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'oro-valley',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const orovalleyData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {

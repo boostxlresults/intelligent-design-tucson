@@ -39,7 +39,7 @@ export const solarpanelcostsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local pricing knowledge | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local pricing knowledge | Trusted since 1979"
   },
   {
     "title": "Complete Installation Services",
@@ -61,7 +61,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We provide detailed, itemized proposals showing exactly where every dollar goes—equipment costs, installation labor, permits, inspections, and warranties. Unlike competitors who quote artificially low prices then add fees during installation, our proposals include all costs upfront. We've been serving Tucson families since 1979, building trust through honest pricing and exceptional service. Our 22,000+ five-star reviews reflect our commitment to transparency and value. When you choose Intelligent Design for your solar investment, you'll receive a comprehensive financial analysis showing projected production, savings, payback periods, and 25-year ROI—all backed by verified performance data from our ServiceTitan customer management system."
+            "content": "We provide detailed, itemized proposals showing exactly where every dollar goes—equipment costs, installation labor, permits, inspections, and warranties. Unlike competitors who quote artificially low prices then add fees during installation, our proposals include all costs upfront. We've been serving Tucson families since 1979, building trust through honest pricing and exceptional service. Our 23,000+ five-star reviews reflect our commitment to transparency and value. When you choose Intelligent Design for your solar investment, you'll receive a comprehensive financial analysis showing projected production, savings, payback periods, and 25-year ROI—all backed by verified performance data from our ServiceTitan customer management system."
       },
       {
             "type": "paragraph",
@@ -99,7 +99,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive [link:/services/solar-maintenance|solar monitoring and maintenance], allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us over 22,000 five-star reviews and an A+ BBB rating with zero unresolved complaints."
+            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive [link:/services/solar-maintenance|solar monitoring and maintenance], allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us over 23,000 five-star reviews and an A+ BBB rating with zero unresolved complaints."
       },
       {
             "type": "heading",
@@ -506,7 +506,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Lowest-price contractors often cut corners on equipment quality, installation standards, permits, insurance, or support services. These shortcuts create long-term problems including voided warranties, code violations, poor performance, and bankruptcy leaving homeowners without warranty support. Our pricing reflects 46+ years in business, 22,000+ satisfied customers, comprehensive warranties, and ongoing support. This proven track record ensures your solar investment is protected by a stable, reputable company standing behind its work for decades."
+            "content": "Lowest-price contractors often cut corners on equipment quality, installation standards, permits, insurance, or support services. These shortcuts create long-term problems including voided warranties, code violations, poor performance, and bankruptcy leaving homeowners without warranty support. Our pricing reflects 46+ years in business, 23,000+ satisfied customers, comprehensive warranties, and ongoing support. This proven track record ensures your solar investment is protected by a stable, reputable company standing behind its work for decades."
       },
       {
             "type": "heading",
@@ -670,7 +670,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When investing $15,000-$35,000 in solar, choosing the right installer matters enormously. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—46+ years of proven reliability. We're not a fly-by-night solar startup that may disappear before your warranty expires. Our company stability ensures we'll be here supporting your solar investment for its entire 25+ year lifespan. With 22,000+ five-star reviews and A+ BBB rating with zero unresolved complaints, our reputation speaks for itself."
+            "content": "When investing $15,000-$35,000 in solar, choosing the right installer matters enormously. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has served Tucson families since 1979—46+ years of proven reliability. We're not a fly-by-night solar startup that may disappear before your warranty expires. Our company stability ensures we'll be here supporting your solar investment for its entire 25+ year lifespan. With 23,000+ five-star reviews and A+ BBB rating with zero unresolved complaints, our reputation speaks for itself."
       },
       {
             "type": "paragraph",

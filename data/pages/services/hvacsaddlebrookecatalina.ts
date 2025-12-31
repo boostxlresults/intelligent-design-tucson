@@ -30,7 +30,7 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
     },
     {
       "title": "Trusted by Saddle Brooke / Catalina",
-      "description": "Hundreds of active adult customers | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Hundreds of active adult customers | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Reliability-Focused Service",

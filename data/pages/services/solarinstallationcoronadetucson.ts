@@ -37,7 +37,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Corona de Tucson's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Corona de Tucson customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -141,7 +141,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Rodriguezes' south-facing roof had excellent solar exposure with minimal shading from nearby mesquite trees. However, they were concerned about upfront costs, roof warranty impacts, and whether solar would genuinely deliver the savings promised by various solar companies. After researching multiple providers, they chose Intelligent Design based on our 22,000+ five-star reviews, transparent pricing, and comprehensive warranties. They particularly valued our family-owned, veteran-operated commitment to honest service that's made us Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
+            "content": "The Rodriguezes' south-facing roof had excellent solar exposure with minimal shading from nearby mesquite trees. However, they were concerned about upfront costs, roof warranty impacts, and whether solar would genuinely deliver the savings promised by various solar companies. After researching multiple providers, they chose Intelligent Design based on our 23,000+ five-star reviews, transparent pricing, and comprehensive warranties. They particularly valued our family-owned, veteran-operated commitment to honest service that's made us Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -157,7 +157,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Detailed Results After 24 Months:\n\n- Monthly electricity costs: $350 average → $15 TEP connection fee (95.7% reduction)\n- Annual electricity savings: $3,220 (first year), projected $3,380 (year two with rate increases)\n- System production: 19,840 kWh annually (exceeding 18,600 kWh projection by 6.7%)\n- Peak summer production: 72 kWh daily (June-July average)\n- Winter production: 48 kWh daily (December-January average)\n- Federal tax credit: $9,360 (30% ITC)\n- Net system cost after incentives: $21,840\n- Simple payback period: 6.8 years (improved from 7.2-year projection)\n- 25-year projected savings: $95,600 (accounting for 3.5% annual TEP rate increases)\n- Home value increase: $22,000 (appraiser-verified)\n- Carbon offset: 14.8 tons CO2 annually (equivalent to planting 345 trees)\n- System uptime: 99.97% (only 3 hours offline during monsoon power outage)\n- Inverter efficiency: 97.2% average\n- Zero maintenance costs (panels self-clean during monsoon rains)\n- Customer satisfaction: 10/10, would recommend to friends and family"
+            "content": "Detailed Results After 24 Months:\n\n- Monthly electricity costs: $350 average → $15 TEP connection fee (95.7% reduction)\n- Annual electricity savings: $3,220 (first year), projected $3,380 (year two with rate increases)\n- System production: 19,840 kWh annually (exceeding 18,600 kWh projection by 6.7%)\n- Peak summer production: 72 kWh daily (June-July average)\n- Winter production: 48 kWh daily (December-January average)\n- Federal tax credit: $9,360 (30% ITC)\n- Net system cost after incentives: $21,840\n- Simple payback period: 6.8 years (improved from 7.2-year projection)\n- 25-year projected savings: $95,600 (accounting for 3.5% annual TEP rate increases)\n- Home value increase: $23,000 (appraiser-verified)\n- Carbon offset: 14.8 tons CO2 annually (equivalent to planting 345 trees)\n- System uptime: 99.97% (only 3 hours offline during monsoon power outage)\n- Inverter efficiency: 97.2% average\n- Zero maintenance costs (panels self-clean during monsoon rains)\n- Customer satisfaction: 10/10, would recommend to friends and family"
       },
       {
             "type": "heading",
@@ -583,7 +583,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design has served Corona de Tucson homeowners since 1979, building trust through honest service, quality workmanship, and exceptional customer care. Our family-owned, veteran-operated company maintains the highest standards in the solar industry. With over 22,000 five-star reviews and BBB A+ rating, we've earned recognition as Tucson's #1 solar installation company for seven consecutive years. Our NABCEP-certified installers average 12+ years of solar experience and complete ongoing manufacturer training to stay current with evolving technology."
+            "content": "Intelligent Design has served Corona de Tucson homeowners since 1979, building trust through honest service, quality workmanship, and exceptional customer care. Our family-owned, veteran-operated company maintains the highest standards in the solar industry. With over 23,000 five-star reviews and BBB A+ rating, we've earned recognition as Tucson's #1 solar installation company for seven consecutive years. Our NABCEP-certified installers average 12+ years of solar experience and complete ongoing manufacturer training to stay current with evolving technology."
       },
       {
             "type": "paragraph",
@@ -630,7 +630,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

@@ -34,7 +34,7 @@ export const heatingpicturerocksData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 18+ years average experience | Desert climate experts | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated heating company | Preferred by rural homeowners"
   },
   {
@@ -69,7 +69,7 @@ export const heatingpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Rural Community Trust: Intelligent Design has earned the trust of Picture Rocks families and rural property owners for over four decades with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company serving northwest Tucson's rural areas. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred heating service provider among Picture Rocks residents who value reliability, expertise, and honest service. Our commitment to appropriate equipment selection, quality workmanship, transparent pricing, and genuine understanding of rural heating challenges has made us the preferred heating partner for Picture Rocks' independent homeowners. When you choose Intelligent Design, you're selecting the company your neighbors throughout Picture Rocks, Avra Valley, and rural northwest Tucson have trusted with their [link:/customer-reviews|heating reliability and property comfort] for over 46 years."
+            "content": "Proven Track Record & Rural Community Trust: Intelligent Design has earned the trust of Picture Rocks families and rural property owners for over four decades with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company serving northwest Tucson's rural areas. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred heating service provider among Picture Rocks residents who value reliability, expertise, and honest service. Our commitment to appropriate equipment selection, quality workmanship, transparent pricing, and genuine understanding of rural heating challenges has made us the preferred heating partner for Picture Rocks' independent homeowners. When you choose Intelligent Design, you're selecting the company your neighbors throughout Picture Rocks, Avra Valley, and rural northwest Tucson have trusted with their [link:/customer-reviews|heating reliability and property comfort] for over 46 years."
       },
       {
             "type": "cta",
@@ -317,7 +317,7 @@ export const heatingpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain propane efficiency and consumption monitoring, review maintenance requirements and desert-specific care, provide written documentation of all work performed with photos, answer all questions about system operation and troubleshooting, and schedule recommended seasonal maintenance. For rural properties, we also provide guidance on propane tank monitoring, backup heating options, and emergency procedures. Within 24-48 hours, you'll receive a follow-up call to verify satisfaction, answer additional questions, provide seasonal maintenance reminders, and ensure your complete confidence in your heating system. This commitment to rural customer service excellence is why we maintain a 4.97-star rating from over 22,000 verified reviews."
+            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain propane efficiency and consumption monitoring, review maintenance requirements and desert-specific care, provide written documentation of all work performed with photos, answer all questions about system operation and troubleshooting, and schedule recommended seasonal maintenance. For rural properties, we also provide guidance on propane tank monitoring, backup heating options, and emergency procedures. Within 24-48 hours, you'll receive a follow-up call to verify satisfaction, answer additional questions, provide seasonal maintenance reminders, and ensure your complete confidence in your heating system. This commitment to rural customer service excellence is why we maintain a 4.97-star rating from over 23,000 verified reviews."
       },
       {
             "type": "heading",
@@ -509,7 +509,7 @@ export const heatingpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Join hundreds of satisfied Picture Rocks rural property owners who trust Intelligent Design for all their heating needs. Experience the difference professional service, rural expertise, propane optimization, and genuine customer care make. Schedule your service today and discover why we're rural Tucson's highest-rated heating company with 22,000+ five-star reviews!"
+            "content": "Join hundreds of satisfied Picture Rocks rural property owners who trust Intelligent Design for all their heating needs. Experience the difference professional service, rural expertise, propane optimization, and genuine customer care make. Schedule your service today and discover why we're rural Tucson's highest-rated heating company with 23,000+ five-star reviews!"
       },
       {
             "type": "cta",

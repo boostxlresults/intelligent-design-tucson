@@ -34,7 +34,7 @@ export const resourcesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Welcome to Intelligent Design's Resource Center—your trusted source for expert information on HVAC, plumbing, solar, electrical, and roofing services. As Tucson's most trusted home services company with over 22,000 five-star reviews, we're committed to educating homeowners with practical guides, maintenance tips, and industry insights."
+            "content": "Welcome to Intelligent Design's Resource Center—your trusted source for expert information on HVAC, plumbing, solar, electrical, and roofing services. As Tucson's most trusted home services company with over 23,000 five-star reviews, we're committed to educating homeowners with practical guides, maintenance tips, and industry insights."
       },
       {
             "type": "paragraph",

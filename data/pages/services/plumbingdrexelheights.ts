@@ -37,7 +37,7 @@ export const plumbingdrexelheightsData: ServicePageData = {
     "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation speaks to our quality and service."
   },
   {
@@ -141,7 +141,7 @@ export const plumbingdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

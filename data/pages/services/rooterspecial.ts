@@ -45,7 +45,7 @@ export const rooterspecialData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | Licensed master plumbers | 22,000+ five-star reviews | BBB A+ rated | Trusted since 1979"
+    "description": "Family & veteran-owned | Licensed master plumbers | 23,000+ five-star reviews | BBB A+ rated | Trusted since 1979"
   }
 ],
   content: {
@@ -63,7 +63,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Since 1979, Tucson homeowners have trusted Intelligent Design for honest, reliable rooter service backed by our nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We arrive fully equipped with professional rooter machines, hydro jetting equipment, and video camera inspection technology. Our technicians diagnose the cause of your clog, explain your options, and provide upfront pricing before starting work. We don't upsell unnecessary services—we solve your drainage problem efficiently and get you back to normal as quickly as possible. With over 85,000 Tucson-area families served and BBB A+ accreditation maintained since 1979, you're choosing the company your neighbors trust for emergency drain clearing and preventative [link:/services/plumbing-maintenance|plumbing maintenance]."
+            "content": "Since 1979, Tucson homeowners have trusted Intelligent Design for honest, reliable rooter service backed by our nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We arrive fully equipped with professional rooter machines, hydro jetting equipment, and video camera inspection technology. Our technicians diagnose the cause of your clog, explain your options, and provide upfront pricing before starting work. We don't upsell unnecessary services—we solve your drainage problem efficiently and get you back to normal as quickly as possible. With over 85,000 Tucson-area families served and BBB A+ accreditation maintained since 1979, you're choosing the company your neighbors trust for emergency drain clearing and preventative [link:/services/plumbing-maintenance|plumbing maintenance]."
       },
       {
             "type": "paragraph",
@@ -624,7 +624,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation as the highest-rated plumbing company in Southern Arizona on quality workmanship, fair pricing, and exceptional customer service. We've been voted Best of Tucson for drain clearing service 9 consecutive years (2016-2024) and maintain BBB A+ accreditation since 1979. When you call Intelligent Design for rooter service, you're getting same-day service availability for most clogs with average 68-minute response time, upfront pricing with no hidden fees and our $28.88 Rooter Special for standard clogs, professional equipment including power cable machines, hydro jetting systems, and camera inspection, licensed master plumbers with 15+ years average experience, honest diagnosis without upselling unnecessary services, and satisfaction guaranteed on all work performed with warranties on workmanship."
+            "content": "With over 23,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation as the highest-rated plumbing company in Southern Arizona on quality workmanship, fair pricing, and exceptional customer service. We've been voted Best of Tucson for drain clearing service 9 consecutive years (2016-2024) and maintain BBB A+ accreditation since 1979. When you call Intelligent Design for rooter service, you're getting same-day service availability for most clogs with average 68-minute response time, upfront pricing with no hidden fees and our $28.88 Rooter Special for standard clogs, professional equipment including power cable machines, hydro jetting systems, and camera inspection, licensed master plumbers with 15+ years average experience, honest diagnosis without upselling unnecessary services, and satisfaction guaranteed on all work performed with warranties on workmanship."
       },
       {
             "type": "paragraph",

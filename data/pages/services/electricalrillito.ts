@@ -33,7 +33,7 @@ export const electricalrillitoData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 17+ years average experience | Rural electrical expertise | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated electrical company"
   },
   {
@@ -64,7 +64,7 @@ export const electricalrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Rillito Community Trust: Intelligent Design has earned the trust of over 600 Rillito-area property owners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company serving northwest Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Rillito's property owners. When you choose Intelligent Design, you're selecting the company your Rillito neighbors have trusted with their [link:/customer-reviews|well pump electrical, panel upgrades, and rural property electrical systems] for over four decades."
+            "content": "Proven Track Record & Rillito Community Trust: Intelligent Design has earned the trust of over 600 Rillito-area property owners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company serving northwest Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Rillito's property owners. When you choose Intelligent Design, you're selecting the company your Rillito neighbors have trusted with their [link:/customer-reviews|well pump electrical, panel upgrades, and rural property electrical systems] for over four decades."
       },
       {
             "type": "paragraph",
@@ -619,7 +619,7 @@ export const electricalrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Package Pricing for Common Rural Property Scenarios: Complete new property electrical setup (main panel, well pump protection, basic barn, property lighting): $8,500-14,000. Comprehensive property electrical upgrade (200-amp panel, well protection, workshop, barn, generator, lighting): $22,000-38,000. Well pump emergency protection package (lightning protection, surge protection, circuit upgrade): $1,500-2,200. Workshop startup package (sub-panel, circuits, lighting): $4,500-7,500. Property security and lighting package: $3,500-8,000. All pricing includes professional licensed installation, quality materials, required permits and inspections, and workmanship warranty. Financing available for qualified homeowners. Multiple-service discounts available when combining electrical work with [link:/services/hvac-rillito|HVAC], [link:/services/plumbing-rillito|plumbing], or [link:/services/solar-installation-rillito|solar services]."
+            "content": "Package Pricing for Common Rural Property Scenarios: Complete new property electrical setup (main panel, well pump protection, basic barn, property lighting): $8,500-14,000. Comprehensive property electrical upgrade (200-amp panel, well protection, workshop, barn, generator, lighting): $23,000-38,000. Well pump emergency protection package (lightning protection, surge protection, circuit upgrade): $1,500-2,200. Workshop startup package (sub-panel, circuits, lighting): $4,500-7,500. Property security and lighting package: $3,500-8,000. All pricing includes professional licensed installation, quality materials, required permits and inspections, and workmanship warranty. Financing available for qualified homeowners. Multiple-service discounts available when combining electrical work with [link:/services/hvac-rillito|HVAC], [link:/services/plumbing-rillito|plumbing], or [link:/services/solar-installation-rillito|solar services]."
       },
       {
             "type": "cta",
@@ -672,7 +672,7 @@ export const electricalrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric\n\n1145 E Fort Lowell Rd\nTucson, AZ 85719\n\nPhone: (520) 333-2665\n\nLicensed, Bonded & Insured | ROC #340962\nBBB A+ Rating | 22,000+ Five-Star Reviews\n24/7 Emergency Service Available"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric\n\n1145 E Fort Lowell Rd\nTucson, AZ 85719\n\nPhone: (520) 333-2665\n\nLicensed, Bonded & Insured | ROC #340962\nBBB A+ Rating | 23,000+ Five-Star Reviews\n24/7 Emergency Service Available"
       }
 ]
   },

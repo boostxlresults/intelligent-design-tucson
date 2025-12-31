@@ -5,12 +5,12 @@ import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 export const plumbingtucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Tucson AZ | Licensed Plumbers | Water Heaters | Drains',
-  description: 'Complete plumbing services in Tucson, AZ since 1979. Water heater installation, drain cleaning, leak detection, sewer line repair. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert plumbers for all your home needs.',
+  description: 'Complete plumbing services in Tucson, AZ since 1979. Water heater installation, drain cleaning, leak detection, sewer line repair. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert plumbers for all your home needs.',
   slug: 'plumbing-tucson',
   
   // Hero Section
   h1: 'Complete Plumbing Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted Plumbing Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Plumbing Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Water Heaters | Drain Cleaning | Leak Detection | Sewer Lines | Repairs | Installations | 24/7 Emergency Service',
   heroImage: '/generated_images/professional_plumber_fixing_kitchen_sink.webp',
   heroImageAlt: 'Professional plumber in blue work shirt fixing kitchen sink pipes in Tucson, Arizona',
@@ -34,7 +34,7 @@ export const plumbingtucsonData: ServicePageData = {
     "description": "Arizona ROC licensed & insured | 17+ years average experience | 120+ hours annual training | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated plumbing company in Tucson | Most-referred in Pima County"
   },
   {
@@ -65,7 +65,7 @@ export const plumbingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated plumbing service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred plumbing company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home plumbing systems and water quality] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated plumbing service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred plumbing company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home plumbing systems and water quality] for over four decades."
       },
       {
             "type": "paragraph",
@@ -688,7 +688,7 @@ export const plumbingtucsonData: ServicePageData = {
     },
     {
       question: "How long does a typical toilet or faucet installation take, and do I need to be home the whole time?",
-      answer: "Most straightforward toilet installations take 1-2 hours from start to finish, while faucet installations typically take 45 minutes to 1.5 hours, depending on configuration and existing conditions. You don't need to be present the entire time, but someone over 18 should be home to grant access, show the plumber to the work area, approve the work, and handle payment. Here's what's involved in each: Toilet installation includes removing your old toilet (disposal included), inspecting and repairing the floor flange if needed (common in Tucson homes with shifting foundations), installing a new wax ring, setting and securing the new toilet, connecting water supply, testing for leaks and proper operation, and caulking around the base. Complications adding time include rotted subfloors requiring repair ($150-$400 extra), damaged or outdated floor flanges needing replacement, or water supply valve replacements if old valves won't shut off. Faucet installation involves removing the old faucet and cleaning the surface, installing the new faucet body and handles, connecting hot/cold water supplies, installing the drain assembly (pop-up or grid strainer), testing for leaks and proper operation, and cleanup. Kitchen faucet installations take longer than bathroom due to garbage disposal connections, sprayer hoses, and under-sink space constraints. Simple toilet replacement costs $200-$350 installed, while faucet installations run $200-$400 depending on complexity and fixture type. Both services include proper disposal of old fixtures and testing. We also provide owner training on proper operation. With 22,000+ satisfied customers and BBB A+ rating since 1979, we complete installations right the first time. Call (520) 333-2665 to schedule convenient installation service."
+      answer: "Most straightforward toilet installations take 1-2 hours from start to finish, while faucet installations typically take 45 minutes to 1.5 hours, depending on configuration and existing conditions. You don't need to be present the entire time, but someone over 18 should be home to grant access, show the plumber to the work area, approve the work, and handle payment. Here's what's involved in each: Toilet installation includes removing your old toilet (disposal included), inspecting and repairing the floor flange if needed (common in Tucson homes with shifting foundations), installing a new wax ring, setting and securing the new toilet, connecting water supply, testing for leaks and proper operation, and caulking around the base. Complications adding time include rotted subfloors requiring repair ($150-$400 extra), damaged or outdated floor flanges needing replacement, or water supply valve replacements if old valves won't shut off. Faucet installation involves removing the old faucet and cleaning the surface, installing the new faucet body and handles, connecting hot/cold water supplies, installing the drain assembly (pop-up or grid strainer), testing for leaks and proper operation, and cleanup. Kitchen faucet installations take longer than bathroom due to garbage disposal connections, sprayer hoses, and under-sink space constraints. Simple toilet replacement costs $200-$350 installed, while faucet installations run $200-$400 depending on complexity and fixture type. Both services include proper disposal of old fixtures and testing. We also provide owner training on proper operation. With 23,000+ satisfied customers and BBB A+ rating since 1979, we complete installations right the first time. Call (520) 333-2665 to schedule convenient installation service."
     },
     {
       question: "What exactly is a slab leak, and how do I know if I have one before it causes major damage to my house?",

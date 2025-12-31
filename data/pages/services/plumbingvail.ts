@@ -5,12 +5,12 @@ import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 export const plumbingvailData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Vail AZ | Licensed Plumber | Water Heaters | Hard Water Solutions',
-  description: 'Expert plumbing services in Vail, AZ since 1979. Water heater installation, drain cleaning, leak detection, hard water solutions. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Desert plumbing specialists.',
+  description: 'Expert plumbing services in Vail, AZ since 1979. Water heater installation, drain cleaning, leak detection, hard water solutions. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Desert plumbing specialists.',
   slug: 'plumbing-vail',
   
   // Hero Section
   h1: 'Professional Plumbing Services in Vail, AZ',
-  h2Subheading: 'Desert Plumbing Experts Since 1979 | Hard Water Solutions | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Desert Plumbing Experts Since 1979 | Hard Water Solutions | 23,000+ Five-Star Reviews',
   tagline: 'Water Heaters | Hard Water Treatment | Drain Cleaning | Leak Detection | Sewer Lines | 24/7 Emergency Service',
   heroImage: '/generated_images/Vail_Arizona_desert_landscape_74c9ba44.webp',
   heroImageAlt: 'Professional plumbing service in Vail, Arizona desert community',
@@ -38,7 +38,7 @@ export const plumbingvailData: ServicePageData = {
     "description": "Arizona ROC licensed & insured | 17+ years average experience | 120+ hours annual training | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | #1 rated in Southeast Tucson | Most-referred in Vail area"
   },
   {
@@ -65,7 +65,7 @@ export const plumbingvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record in Vail Community: Intelligent Design has earned the trust of over 4,200 Vail-area families and businesses with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews. We're the #1 rated plumbing service provider in Southeast Tucson (including Vail, Rita Ranch, Corona de Tucson) for 6 consecutive years (2019-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred plumbing company in the Vail area. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|home plumbing systems and hard water solutions] for over four decades."
+            "content": "Proven Track Record in Vail Community: Intelligent Design has earned the trust of over 4,200 Vail-area families and businesses with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews. We're the #1 rated plumbing service provider in Southeast Tucson (including Vail, Rita Ranch, Corona de Tucson) for 6 consecutive years (2019-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred plumbing company in the Vail area. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|home plumbing systems and hard water solutions] for over four decades."
       },
       {
             "type": "paragraph",
@@ -494,7 +494,7 @@ export const plumbingvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Real-Time Service Tracking & Communication: Our ServiceTitan dispatch platform delivers measurable customer benefits through GPS-tracked service vehicles with real-time location updates, automated text and email notifications (technician on the way, arrival time updates, service completion confirmation), live technician tracking with accurate ETAs, digital communication reducing phone tag and missed appointments, and mobile technology enabling technicians to access complete service history, technical resources, and parts inventory from your home. Vail-specific performance metrics tracked through ServiceTitan: average 68-minute arrival time from service call to technician arrival (faster than metro Tucson's 73-minute average due to our strategic southeast positioning and dedicated Vail fleet), 85% same-day service completion rate for scheduled appointments (industry average 60-65%), 91% first-call resolution rate meaning most repairs completed on first visit without return trips, 87% same-visit repair completion rate in Vail enabled by extensive parts inventory on every truck (180+ water heater components, 120+ drain cleaning parts, 90+ fixture repair components, plus specialized hard water treatment parts specific to Vail needs), and 4.97-star average Google rating from 22,000+ verified reviews demonstrating consistent service excellence."
+            "content": "Real-Time Service Tracking & Communication: Our ServiceTitan dispatch platform delivers measurable customer benefits through GPS-tracked service vehicles with real-time location updates, automated text and email notifications (technician on the way, arrival time updates, service completion confirmation), live technician tracking with accurate ETAs, digital communication reducing phone tag and missed appointments, and mobile technology enabling technicians to access complete service history, technical resources, and parts inventory from your home. Vail-specific performance metrics tracked through ServiceTitan: average 68-minute arrival time from service call to technician arrival (faster than metro Tucson's 73-minute average due to our strategic southeast positioning and dedicated Vail fleet), 85% same-day service completion rate for scheduled appointments (industry average 60-65%), 91% first-call resolution rate meaning most repairs completed on first visit without return trips, 87% same-visit repair completion rate in Vail enabled by extensive parts inventory on every truck (180+ water heater components, 120+ drain cleaning parts, 90+ fixture repair components, plus specialized hard water treatment parts specific to Vail needs), and 4.97-star average Google rating from 23,000+ verified reviews demonstrating consistent service excellence."
       },
       {
             "type": "paragraph",
@@ -524,7 +524,7 @@ export const plumbingvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews & Community Trust: Our reputation speaks through customer feedback with 4.97-star Google rating from 22,000+ verified reviews (highest in Southern Arizona plumbing), BBB A+ accreditation since 1979 with zero unresolved complaints over 46+ years, #1 rated plumbing company in Southeast Tucson including Vail, Rita Ranch, and Corona de Tucson for 6 consecutive years (2019-2024), most-referred plumbing company in Vail area (65% of new customers from referrals), and featured service provider for Vail homebuilders and realtors. What customers say: 'Best plumbing company we've ever worked with - honest, professional, and expert service' - Sarah M., Vail | 'They saved us thousands with water softener recommendation that prevented tankless water heater damage' - David T., Rita Ranch | 'Emergency sewer repair completed same-day with minimal disruption and fair pricing' - Robert K., Vail | 'Intelligent Design is the only company I trust with my well water system' - Karen P., eastern Vail. Community commitment: Vail youth sports sponsorships, Vail school partnerships, local employment (12 Vail-area employees), environmental stewardship and water conservation education, and long-term community relationships spanning generations of Vail families."
+            "content": "23,000+ Five-Star Reviews & Community Trust: Our reputation speaks through customer feedback with 4.97-star Google rating from 23,000+ verified reviews (highest in Southern Arizona plumbing), BBB A+ accreditation since 1979 with zero unresolved complaints over 46+ years, #1 rated plumbing company in Southeast Tucson including Vail, Rita Ranch, and Corona de Tucson for 6 consecutive years (2019-2024), most-referred plumbing company in Vail area (65% of new customers from referrals), and featured service provider for Vail homebuilders and realtors. What customers say: 'Best plumbing company we've ever worked with - honest, professional, and expert service' - Sarah M., Vail | 'They saved us thousands with water softener recommendation that prevented tankless water heater damage' - David T., Rita Ranch | 'Emergency sewer repair completed same-day with minimal disruption and fair pricing' - Robert K., Vail | 'Intelligent Design is the only company I trust with my well water system' - Karen P., eastern Vail. Community commitment: Vail youth sports sponsorships, Vail school partnerships, local employment (12 Vail-area employees), environmental stewardship and water conservation education, and long-term community relationships spanning generations of Vail families."
       },
       {
             "type": "paragraph",

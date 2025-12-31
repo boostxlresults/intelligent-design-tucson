@@ -33,7 +33,7 @@ export const plumbingavravalleyData: ServicePageData = {
     "description": "Video camera inspection | Electronic leak detection | Hydro-jetting | Trenchless sewer repair | Latest diagnostic equipment"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | Most-referred plumber in Northwest Tucson | Thousands of Avra Valley customers served"
   },
   {
@@ -64,7 +64,7 @@ export const plumbingavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company in Southern Arizona. We've been serving Avra Valley homeowners since 1979, maintaining BBB A+ accreditation for 46+ consecutive years. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred plumbing provider in Northwest Pima County. When you choose Intelligent Design, you're choosing the company your Avra Valley neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated home service company in Southern Arizona. We've been serving Avra Valley homeowners since 1979, maintaining BBB A+ accreditation for 46+ consecutive years. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred plumbing provider in Northwest Pima County. When you choose Intelligent Design, you're choosing the company your Avra Valley neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",

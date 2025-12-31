@@ -95,11 +95,11 @@ export const easttucsonData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "Local Expertise: Serving East Tucson since 1979, we understand the unique needs of homes in this area from newer Rita Ranch developments to established Tanque Verde properties. | Fast Response Times: Our location enables quick service throughout East Tucson including same-day appointments and 1-2 hour emergency response. | BBB A+ Rated: Over 22,000 five-star reviews from satisfied customers throughout the Tucson area demonstrate our commitment to excellence.",
+            "content": "Local Expertise: Serving East Tucson since 1979, we understand the unique needs of homes in this area from newer Rita Ranch developments to established Tanque Verde properties. | Fast Response Times: Our location enables quick service throughout East Tucson including same-day appointments and 1-2 hour emergency response. | BBB A+ Rated: Over 23,000 five-star reviews from satisfied customers throughout the Tucson area demonstrate our commitment to excellence.",
             "items": [
                   "Local Expertise: Serving East Tucson since 1979, we understand the unique needs of homes in this area from newer Rita Ranch developments to established Tanque Verde properties.",
                   "Fast Response Times: Our location enables quick service throughout East Tucson including same-day appointments and 1-2 hour emergency response.",
-                  "BBB A+ Rated: Over 22,000 five-star reviews from satisfied customers throughout the Tucson area demonstrate our commitment to excellence."
+                  "BBB A+ Rated: Over 23,000 five-star reviews from satisfied customers throughout the Tucson area demonstrate our commitment to excellence."
             ]
       },
       {

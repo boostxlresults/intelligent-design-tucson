@@ -5,7 +5,7 @@ import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 export const solarinstallationvailData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Vail AZ | #1 Rated Solar Panel Installation Company',
-  description: 'Expert solar panel installation in Vail, AZ since 1979. 73-minute average response time. NABCEP certified installers. 30% federal tax credit assistance. 22,000+ 5-star reviews. Complete solar solutions from design to activation.',
+  description: 'Expert solar panel installation in Vail, AZ since 1979. 73-minute average response time. NABCEP certified installers. 30% federal tax credit assistance. 23,000+ 5-star reviews. Complete solar solutions from design to activation.',
   slug: 'solar-installation-vail',
   
   // Hero Section
@@ -34,7 +34,7 @@ export const solarinstallationvailData: ServicePageData = {
       "description": "Industry's most rigorous certification. 17+ years average experience. 120+ hours annual training on latest solar technology. Factory-certified for 10+ premium solar brands."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "4.97-star Google rating. BBB A+ accredited since 1979. Most-referred solar company in Vail and Eastern Pima County. Proven track record of quality installations and customer satisfaction."
     },
     {
@@ -66,7 +66,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Proven Vail Expertise & Community Trust: Over our 46+ years serving Vail, we've completed hundreds of residential solar installations throughout Del Webb Rancho Del Lago, Sycamore Canyon Estates, The Preserve at SaddleBrooke, Rita Ranch developments, and rural Vail properties. We understand Vail's unique characteristics: optimal south-facing roof orientations on most homes, minimal shading from Vail's open desert landscape, HOA solar guidelines in Del Webb and other planned communities, tile roof installations common in Vail's Spanish-style architecture, and rural properties requiring special permitting considerations. Our 4.97-star Google rating from 22,000+ verified reviews and BBB A+ accreditation since 1979 make us Vail's highest-rated and most-trusted solar installation company."
+        "content": "Proven Vail Expertise & Community Trust: Over our 46+ years serving Vail, we've completed hundreds of residential solar installations throughout Del Webb Rancho Del Lago, Sycamore Canyon Estates, The Preserve at SaddleBrooke, Rita Ranch developments, and rural Vail properties. We understand Vail's unique characteristics: optimal south-facing roof orientations on most homes, minimal shading from Vail's open desert landscape, HOA solar guidelines in Del Webb and other planned communities, tile roof installations common in Vail's Spanish-style architecture, and rural properties requiring special permitting considerations. Our 4.97-star Google rating from 23,000+ verified reviews and BBB A+ accreditation since 1979 make us Vail's highest-rated and most-trusted solar installation company."
       },
       {
         "type": "paragraph",
@@ -155,7 +155,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Project Overview: Large estate home on 5-acre lot east of Vail near Colossal Cave with pool and separate guest casita faced $420-580 monthly summer electric bills from dual AC systems plus pool equipment. Annual consumption exceeded 22,000 kWh costing $4,680 annually. Homeowners wanted comprehensive solar solution eliminating both electric bills and natural gas pool heating costs."
+        "content": "Project Overview: Large estate home on 5-acre lot east of Vail near Colossal Cave with pool and separate guest casita faced $420-580 monthly summer electric bills from dual AC systems plus pool equipment. Annual consumption exceeded 23,000 kWh costing $4,680 annually. Homeowners wanted comprehensive solar solution eliminating both electric bills and natural gas pool heating costs."
       },
       {
         "type": "paragraph",
@@ -399,7 +399,7 @@ export const solarinstallationvailData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "46+ years of Vail Solar Expertise: Since 1979, we've completed hundreds of Vail solar installations understanding unique local requirements: Del Webb and Rita Ranch HOA approval processes, tile roof installation techniques common in Vail architecture, rural property permitting outside Town limits, optimal panel orientation given Rincon Mountain shading, and TEP interconnection requirements specific to Vail's electrical infrastructure. Our 4.97-star Google rating from 22,000+ reviews and BBB A+ accreditation make us Vail's highest-rated solar company."
+        "content": "46+ years of Vail Solar Expertise: Since 1979, we've completed hundreds of Vail solar installations understanding unique local requirements: Del Webb and Rita Ranch HOA approval processes, tile roof installation techniques common in Vail architecture, rural property permitting outside Town limits, optimal panel orientation given Rincon Mountain shading, and TEP interconnection requirements specific to Vail's electrical infrastructure. Our 4.97-star Google rating from 23,000+ reviews and BBB A+ accreditation make us Vail's highest-rated solar company."
       },
       {
         "type": "paragraph",
@@ -614,7 +614,7 @@ export const solarinstallationvailData: ServicePageData = {
       {
         "type": "cta",
         "heading": "Get Your Free Solar Quote",
-        "content": "Professional solar installation in Vail, AZ. NABCEP certified installers. 30% federal tax credit. $0 down financing. 22,000+ 5-star reviews. Call (520) 333-2665 now.",
+        "content": "Professional solar installation in Vail, AZ. NABCEP certified installers. 30% federal tax credit. $0 down financing. 23,000+ 5-star reviews. Call (520) 333-2665 now.",
         "buttonText": "Call (520) 333-2665",
         "buttonLink": "tel:+15203332665"
       },

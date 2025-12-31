@@ -74,7 +74,7 @@ export default function ReviewCarousel() {
         {/* Google Reviews CTA */}
         <div className="text-center mt-12">
           <p className="text-muted-foreground mb-4">
-            See all <span className="font-bold text-foreground">22,000+ five-star reviews</span> across multiple platforms
+            See all <span className="font-bold text-foreground">23,000+ five-star reviews</span> across multiple platforms
           </p>
           <a
             href="https://maps.app.goo.gl/eLz89dNv9q3MdQ9s8"

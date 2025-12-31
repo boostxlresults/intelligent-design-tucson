@@ -17,7 +17,7 @@ const productSchemas = getPageSchemas({
 
 export const metadata: Metadata = generateFullMetadata({
   title: 'Free Online HVAC Quote Tucson | AC System Pricing Calculator',
-  description: 'Get a free HVAC quote online in under 2 minutes. See real pricing for central AC, heat pumps, and ductless systems in Tucson. No sales pressure—just honest estimates from Arizona\'s #1-rated HVAC company with 22,000+ five-star reviews.',
+  description: 'Get a free HVAC quote online in under 2 minutes. See real pricing for central AC, heat pumps, and ductless systems in Tucson. No sales pressure—just honest estimates from Arizona\'s #1-rated HVAC company with 23,000+ five-star reviews.',
   canonicalUrl: '/free-hvac-quote',
   type: 'website'
 });
@@ -218,7 +218,7 @@ export default function FreeHVACQuotePage() {
             </h2>
             <div className="grid md:grid-cols-3 gap-8">
               <div className="text-center" data-testid="stat-reviews">
-                <div className="text-5xl font-bold text-primary mb-4" data-testid="text-reviews-count">22,000+</div>
+                <div className="text-5xl font-bold text-primary mb-4" data-testid="text-reviews-count">23,000+</div>
                 <h3 className="text-xl font-semibold mb-2">Five-Star Reviews</h3>
                 <p className="text-muted-foreground">
                   More verified reviews than any HVAC company in Southern Arizona—real feedback from your neighbors

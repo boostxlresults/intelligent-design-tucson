@@ -12,7 +12,7 @@ export const hvacsahuaritaData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Sahuarita, AZ',
-  h2Subheading: 'Expert HVAC Solutions for Sahuarita\'s Family-Friendly Communities | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert HVAC Solutions for Sahuarita\'s Family-Friendly Communities | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | New Home Specialists | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_maintenance_check_1_7125b76e.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Sahuarita, Arizona',
@@ -36,7 +36,7 @@ export const hvacsahuaritaData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | Factory-authorized for 12+ brands | Background-checked and uniformed"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Sahuarita | Most-referred HVAC company in southern Tucson"
   },
   {
@@ -71,7 +71,7 @@ export const hvacsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 9,800 Sahuarita families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in southern Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Sahuarita for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, family-focused service, and exceptional customer care has made us the preferred HVAC partner for Sahuarita's master-planned communities. When you choose Intelligent Design, you're selecting the company your neighbors at Rancho Sahuarita, Quail Creek, Madera Highlands, and Mountain View Ranches have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 9,800 Sahuarita families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in southern Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Sahuarita for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, family-focused service, and exceptional customer care has made us the preferred HVAC partner for Sahuarita's master-planned communities. When you choose Intelligent Design, you're selecting the company your neighbors at Rancho Sahuarita, Quail Creek, Madera Highlands, and Mountain View Ranches have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -669,7 +669,7 @@ export const hvacsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Honest, Pressure-Free Service: Our technicians are paid hourly rather than commission specifically to eliminate sales pressure and ensure honest recommendations. We'll never push unnecessary repairs or oversized systems, never use scare tactics or false urgency, and never surprise you with hidden fees. If your 14-year-old system only needs a $280 capacitor replacement, we'll tell you honestly—even though selling you a new $12,000 system would generate more revenue. This integrity has earned us 22,000+ five-star reviews and BBB A+ accreditation with zero unresolved complaints in 45 years."
+            "content": "Honest, Pressure-Free Service: Our technicians are paid hourly rather than commission specifically to eliminate sales pressure and ensure honest recommendations. We'll never push unnecessary repairs or oversized systems, never use scare tactics or false urgency, and never surprise you with hidden fees. If your 14-year-old system only needs a $280 capacitor replacement, we'll tell you honestly—even though selling you a new $12,000 system would generate more revenue. This integrity has earned us 23,000+ five-star reviews and BBB A+ accreditation with zero unresolved complaints in 45 years."
       },
       {
             "type": "paragraph",
@@ -685,11 +685,11 @@ export const hvacsahuaritaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Exceptional Customer Care: From your initial contact through post-service follow-up, we deliver service excellence at every touchpoint: friendly, knowledgeable customer service representatives available 7am-7pm daily; guaranteed 2-hour arrival windows with 30-minute advance notification and GPS tracking; uniformed, background-checked technicians with photo ID and company vehicles; complete respect for your home with shoe covers, drop cloths, and thorough cleanup; transparent communication with detailed explanations and photo documentation; flexible scheduling accommodating busy family schedules; comprehensive warranties on all work; convenient [link:/services/financing|financing options] with approved credit; and dedicated follow-up ensuring complete satisfaction. We treat your family and home with the care and respect we'd expect for our own—earning us 4.97-star rating from 22,000+ reviews with comments frequently praising our professionalism, courtesy, and attention to detail."
+            "content": "Exceptional Customer Care: From your initial contact through post-service follow-up, we deliver service excellence at every touchpoint: friendly, knowledgeable customer service representatives available 7am-7pm daily; guaranteed 2-hour arrival windows with 30-minute advance notification and GPS tracking; uniformed, background-checked technicians with photo ID and company vehicles; complete respect for your home with shoe covers, drop cloths, and thorough cleanup; transparent communication with detailed explanations and photo documentation; flexible scheduling accommodating busy family schedules; comprehensive warranties on all work; convenient [link:/services/financing|financing options] with approved credit; and dedicated follow-up ensuring complete satisfaction. We treat your family and home with the care and respect we'd expect for our own—earning us 4.97-star rating from 23,000+ reviews with comments frequently praising our professionalism, courtesy, and attention to detail."
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record of Excellence: With over 85,000 satisfied customers across Southern Arizona including 9,800+ Sahuarita families, BBB A+ accreditation since 1979, 4.97-star Google rating from 22,000+ verified reviews, #1 rated HVAC company in Sahuarita (2019-2024), most-referred HVAC service provider in southern Tucson, Diamond-level manufacturer certifications, and zero unresolved complaints in 45 years, our track record speaks for itself. We've earned the trust of Sahuarita families through consistent delivery of quality workmanship, honest service, fair pricing, and exceptional results—creating long-term relationships spanning decades rather than one-time transactional service."
+            "content": "Proven Track Record of Excellence: With over 85,000 satisfied customers across Southern Arizona including 9,800+ Sahuarita families, BBB A+ accreditation since 1979, 4.97-star Google rating from 23,000+ verified reviews, #1 rated HVAC company in Sahuarita (2019-2024), most-referred HVAC service provider in southern Tucson, Diamond-level manufacturer certifications, and zero unresolved complaints in 45 years, our track record speaks for itself. We've earned the trust of Sahuarita families through consistent delivery of quality workmanship, honest service, fair pricing, and exceptional results—creating long-term relationships spanning decades rather than one-time transactional service."
       },
       {
             "type": "cta",

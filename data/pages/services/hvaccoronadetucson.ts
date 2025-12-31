@@ -5,13 +5,13 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 
 export const hvaccoronadetucsonData: ServicePageData = {
   // SEO & Meta
-  title: 'HVAC & AC Services Corona de Tucson AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
-  description: 'Expert HVAC & air conditioning services in Corona de Tucson, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated. Serving southeast Tucson metro area.',
+  title: 'HVAC & AC Services Corona de Tucson AZ | Air Conditioning Repair & Installation | 23,000+ Reviews',
+  description: 'Expert HVAC & air conditioning services in Corona de Tucson, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 24/7 emergency service. 23,000+ 5-star reviews. BBB A+ rated. Serving southeast Tucson metro area.',
   slug: 'hvac-corona-de-tucson',
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Corona de Tucson, AZ',
-  h2Subheading: 'Trusted Corona de Tucson HVAC Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Trusted Corona de Tucson HVAC Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_successful_completion_bd112b6c.webp',
   heroImageAlt: 'Professional HVAC technician completing AC service in Corona de Tucson, Arizona',
@@ -35,7 +35,7 @@ export const hvaccoronadetucsonData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | 120+ hours annual training | Expert AC & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const hvaccoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we'll repair when possible instead of automatically recommending replacement), quality workmanship using best practices, transparent pricing with no hidden fees, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Corona de Tucson home, you're selecting the company your neighbors throughout southeast Tucson have trusted with their [link:/customer-reviews|family comfort and critical HVAC system investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we'll repair when possible instead of automatically recommending replacement), quality workmanship using best practices, transparent pricing with no hidden fees, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Corona de Tucson home, you're selecting the company your neighbors throughout southeast Tucson have trusted with their [link:/customer-reviews|family comfort and critical HVAC system investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -840,7 +840,7 @@ export const hvaccoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Corona de Tucson's trusted HVAC service leader, we're committed to delivering exceptional value through expert HVAC craftsmanship, honest recommendations prioritizing your comfort and budget, outstanding customer service from first call to project completion, and reliable performance you can count on year after year. Our 46+ years serving Tucson, 22,000+ five-star reviews, thousands of satisfied Corona de Tucson customers, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency HVAC repair, system replacement, preventive maintenance, ductwork service, or comprehensive comfort solutions, Intelligent Design provides the expertise, experience, and reliability your Corona de Tucson home deserves. Trust us to protect your family's comfort, enhance your home's efficiency, and deliver HVAC solutions exceeding your expectations for quality, performance, and value. Call (520) 333-2665 today and experience the Intelligent Design difference that thousands of Corona de Tucson families have trusted since 1979."
+            "content": "As Corona de Tucson's trusted HVAC service leader, we're committed to delivering exceptional value through expert HVAC craftsmanship, honest recommendations prioritizing your comfort and budget, outstanding customer service from first call to project completion, and reliable performance you can count on year after year. Our 46+ years serving Tucson, 23,000+ five-star reviews, thousands of satisfied Corona de Tucson customers, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency HVAC repair, system replacement, preventive maintenance, ductwork service, or comprehensive comfort solutions, Intelligent Design provides the expertise, experience, and reliability your Corona de Tucson home deserves. Trust us to protect your family's comfort, enhance your home's efficiency, and deliver HVAC solutions exceeding your expectations for quality, performance, and value. Call (520) 333-2665 today and experience the Intelligent Design difference that thousands of Corona de Tucson families have trusted since 1979."
       },
       {
             "type": "heading",

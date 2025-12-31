@@ -71,7 +71,7 @@ export default function DrainClearingCoupon() {
                   
                   <div className="bg-blue-50 border-l-4 border-blue-600 p-4 rounded-r-lg mb-6">
                     <p className="text-sm text-gray-700">
-                      <strong className="text-blue-900">46+ Years Serving Tucson</strong> • 22,000+ Five-Star Reviews • 
+                      <strong className="text-blue-900">46+ Years Serving Tucson</strong> • 23,000+ Five-Star Reviews • 
                       Family & Veteran-Owned • BBB A+ Rated • Licensed & Insured
                     </p>
                   </div>

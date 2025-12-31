@@ -4,7 +4,7 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricalorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Oro Valley AZ | Panel Upgrades | EV Chargers | Smart Home | Emergency Service',
-  description: 'Expert electrician in Oro Valley, AZ since 1979. Panel upgrades for modern homes, EV charger installation, smart home integration, emergency repairs. 22,000+ 5-star reviews. Same-day service. Licensed ROC 340962.',
+  description: 'Expert electrician in Oro Valley, AZ since 1979. Panel upgrades for modern homes, EV charger installation, smart home integration, emergency repairs. 23,000+ 5-star reviews. Same-day service. Licensed ROC 340962.',
   slug: 'electrical-oro-valley',
   
   // Hero Section
@@ -37,7 +37,7 @@ export const electricalorovalleyData: ServicePageData = {
       "description": "Lutron certified installers | Whole-home automation | Energy monitoring systems | Voice control integration | App-based management"
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "4.97-star Google rating | BBB A+ since 1979 | #1 rated in Oro Valley | ROC 340962 licensed & insured | Background-checked electricians"
     },
     {
@@ -64,7 +64,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Oro Valley families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company in Oro Valley and greater Tucson. We've been the #1 rated electrical service provider in Oro Valley for 6 consecutive years (2019-2024 Best of Oro Valley awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints in the past decade. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company in Oro Valley. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety] for over four decades."
+        "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Oro Valley families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company in Oro Valley and greater Tucson. We've been the #1 rated electrical service provider in Oro Valley for 6 consecutive years (2019-2024 Best of Oro Valley awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints in the past decade. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company in Oro Valley. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety] for over four decades."
       },
       {
         "type": "paragraph",
@@ -450,7 +450,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "46+ years Serving Oro Valley Families: Since 1979, Intelligent Design has been the trusted electrical service provider for Oro Valley homes, accumulating over 46 years of local expertise understanding the unique electrical requirements of our community. We've served over 8,500 Oro Valley families with electrical installations, upgrades, and repairs, earning a nearly perfect 4.97-star Google rating from 22,000+ verified customer reviews. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional service has made us the #1 rated electrical company in Oro Valley for 6 consecutive years (2019-2024 Best of Oro Valley awards). We maintain BBB A+ accreditation with zero unresolved complaints, demonstrating our commitment to customer satisfaction and ethical business practices."
+        "content": "46+ years Serving Oro Valley Families: Since 1979, Intelligent Design has been the trusted electrical service provider for Oro Valley homes, accumulating over 46 years of local expertise understanding the unique electrical requirements of our community. We've served over 8,500 Oro Valley families with electrical installations, upgrades, and repairs, earning a nearly perfect 4.97-star Google rating from 23,000+ verified customer reviews. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional service has made us the #1 rated electrical company in Oro Valley for 6 consecutive years (2019-2024 Best of Oro Valley awards). We maintain BBB A+ accreditation with zero unresolved complaints, demonstrating our commitment to customer satisfaction and ethical business practices."
       },
       {
         "type": "paragraph",
@@ -640,7 +640,7 @@ export const electricalorovalleyData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "As Oro Valley's electrical service leader, we're committed to delivering exceptional value through expert craftsmanship, honest recommendations, and outstanding customer service. Our 46+ years serving the community, 22,000+ five-star reviews, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency electrical service, panel upgrades for modern demands, EV charger installation, smart home integration, or comprehensive electrical solutions, Intelligent Design provides the expertise, technology, and reliability your Oro Valley home deserves. Trust us to protect your family, enhance your home, and deliver electrical solutions that exceed your expectations."
+        "content": "As Oro Valley's electrical service leader, we're committed to delivering exceptional value through expert craftsmanship, honest recommendations, and outstanding customer service. Our 46+ years serving the community, 23,000+ five-star reviews, and BBB A+ rating demonstrate our unwavering commitment to excellence. Whether you need emergency electrical service, panel upgrades for modern demands, EV charger installation, smart home integration, or comprehensive electrical solutions, Intelligent Design provides the expertise, technology, and reliability your Oro Valley home deserves. Trust us to protect your family, enhance your home, and deliver electrical solutions that exceed your expectations."
       }
     ]
   },

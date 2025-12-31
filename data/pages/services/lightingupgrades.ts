@@ -5,7 +5,7 @@ import { lightingUpgradesFAQs } from '@/data/faqs/electrical';
 export const lightingupgradesData: ServicePageData = {
   // SEO & Meta
   title: 'Lighting Upgrades Tucson AZ | LED Conversion | Smart Lighting | Recessed Lighting Installation',
-  description: 'Professional lighting upgrades in Tucson since 1979. LED conversion saves $300-500/year. Recessed lighting, dimmers, smart controls, outdoor lighting. Licensed electricians. 22,000+ reviews. Same-day service. Call (520) 333-2665.',
+  description: 'Professional lighting upgrades in Tucson since 1979. LED conversion saves $300-500/year. Recessed lighting, dimmers, smart controls, outdoor lighting. Licensed electricians. 23,000+ reviews. Same-day service. Call (520) 333-2665.',
   slug: 'lighting-upgrades',
   
   // Hero Section
@@ -23,7 +23,7 @@ export const lightingupgradesData: ServicePageData = {
   highlights: [
   {
     "title": "46+ years Lighting Expertise",
-    "description": "Licensed master electricians since 1979 | 22,000+ verified reviews | BBB A+ rated | Trusted by 85,000+ Tucson families"
+    "description": "Licensed master electricians since 1979 | 23,000+ verified reviews | BBB A+ rated | Trusted by 85,000+ Tucson families"
   },
   {
     "title": "ServiceTitan-Powered Response",
@@ -634,7 +634,7 @@ export const lightingupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "46+ years Tucson Electrical Expertise & 22,000+ Verified Reviews: Since 1979, Intelligent Design has been Tucson's most trusted electrical service provider with 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We've served over 85,000 Tucson families with [link:/services/electrical-repair|electrical repairs], [link:/services/electrical-panel-upgrades|panel upgrades], lighting installations, and complete home electrical services. Our BBB A+ accreditation maintained continuously since 1979 with zero unresolved complaints reflects our commitment to honest service, quality workmanship, and customer satisfaction. We're family and veteran-owned with deep roots in the Tucson community, earning our reputation as the most-referred electrical contractor in Pima County through consistent excellence and integrity."
+            "content": "46+ years Tucson Electrical Expertise & 23,000+ Verified Reviews: Since 1979, Intelligent Design has been Tucson's most trusted electrical service provider with 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We've served over 85,000 Tucson families with [link:/services/electrical-repair|electrical repairs], [link:/services/electrical-panel-upgrades|panel upgrades], lighting installations, and complete home electrical services. Our BBB A+ accreditation maintained continuously since 1979 with zero unresolved complaints reflects our commitment to honest service, quality workmanship, and customer satisfaction. We're family and veteran-owned with deep roots in the Tucson community, earning our reputation as the most-referred electrical contractor in Pima County through consistent excellence and integrity."
       },
       {
             "type": "paragraph",

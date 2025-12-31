@@ -79,7 +79,7 @@ export const tucsonData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {

@@ -6,7 +6,7 @@ import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 export const plumbingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Corona de Tucson AZ | Licensed Plumber | 24/7 Emergency',
-  description: 'Expert plumbing services in Corona de Tucson, AZ since 1979. Water heater installation, drain cleaning, leak detection, sewer repair. Specializing in rural homes & septic systems. 22,000+ 5-star reviews. BBB A+ rated. Licensed, bonded, insured. Same-day service available.',
+  description: 'Expert plumbing services in Corona de Tucson, AZ since 1979. Water heater installation, drain cleaning, leak detection, sewer repair. Specializing in rural homes & septic systems. 23,000+ 5-star reviews. BBB A+ rated. Licensed, bonded, insured. Same-day service available.',
   slug: 'plumbing-corona-de-tucson',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
     "description": "ROC licensed & insured professionals | 18+ years average experience | 120+ hours annual training | Background-checked & drug-tested technicians"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated plumbing company in Southeast Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson Track Record & Community Trust: Intelligent Design has earned the trust of over 1,500 Corona de Tucson families annually with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—making us the highest-rated plumbing company in Southeast Pima County. Our technicians are familiar with Corona de Tucson's infrastructure including septic system requirements, hard water challenges, mix of older and newer construction, and longer service runs common in the area. We understand the unique challenges of Corona de Tucson homes from hard water causing scale buildup, septic systems requiring special care, occasional well water systems, and mix of home ages creating diverse plumbing infrastructure. When you choose Intelligent Design, you're selecting the company your Corona de Tucson neighbors have trusted with their [link:/customer-reviews|plumbing systems] for over four decades."
+            "content": "Corona de Tucson Track Record & Community Trust: Intelligent Design has earned the trust of over 1,500 Corona de Tucson families annually with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—making us the highest-rated plumbing company in Southeast Pima County. Our technicians are familiar with Corona de Tucson's infrastructure including septic system requirements, hard water challenges, mix of older and newer construction, and longer service runs common in the area. We understand the unique challenges of Corona de Tucson homes from hard water causing scale buildup, septic systems requiring special care, occasional well water systems, and mix of home ages creating diverse plumbing infrastructure. When you choose Intelligent Design, you're selecting the company your Corona de Tucson neighbors have trusted with their [link:/customer-reviews|plumbing systems] for over four decades."
       },
       {
             "type": "paragraph",
@@ -507,7 +507,7 @@ export const plumbingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Excellence: Our 22,000+ five-star reviews and 4.97-star Google rating reflect consistent quality, reliability, and customer satisfaction. We've been BBB A+ accredited since 1979 with zero unresolved complaints. Corona de Tucson homeowners trust us because we've earned that trust through decades of honest, professional service."
+            "content": "Proven Excellence: Our 23,000+ five-star reviews and 4.97-star Google rating reflect consistent quality, reliability, and customer satisfaction. We've been BBB A+ accredited since 1979 with zero unresolved complaints. Corona de Tucson homeowners trust us because we've earned that trust through decades of honest, professional service."
       },
       {
             "type": "paragraph",

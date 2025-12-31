@@ -30,7 +30,7 @@ export const drainsewercortaroData: ServicePageData = {
     },
     {
       "title": "Cortaro Community Trust",
-      "description": "Local service partner | 4.97-star rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Local service partner | 4.97-star rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Complete Drain Services",

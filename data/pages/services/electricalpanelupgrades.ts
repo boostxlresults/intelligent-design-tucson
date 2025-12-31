@@ -45,7 +45,7 @@ export const electricalpanelupgradesData: ServicePageData = {
   },
   {
     "title": "Trusted Tucson Company",
-    "description": "Family & veteran-owned | 22,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
   content: {
@@ -67,7 +67,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Trust & Proven Excellence: Intelligent Design has earned Southern Arizona's highest customer satisfaction ratings with a 4.97-star Google rating from 22,000+ verified reviews—more than any other electrical contractor in Pima County. We've been the #1 rated electrical panel upgrade company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 and ROC licensing since day one. Our commitment to honest assessments, code-compliant installations, transparent pricing, and exceptional workmanship has made us the most-referred electrical contractor among Tucson homeowners, solar installers, EV dealerships, and real estate professionals who trust us with their clients' electrical safety."
+            "content": "Unmatched Trust & Proven Excellence: Intelligent Design has earned Southern Arizona's highest customer satisfaction ratings with a 4.97-star Google rating from 23,000+ verified reviews—more than any other electrical contractor in Pima County. We've been the #1 rated electrical panel upgrade company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 and ROC licensing since day one. Our commitment to honest assessments, code-compliant installations, transparent pricing, and exceptional workmanship has made us the most-referred electrical contractor among Tucson homeowners, solar installers, EV dealerships, and real estate professionals who trust us with their clients' electrical safety."
       },
       {
             "type": "paragraph",
@@ -593,7 +593,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Local Expertise & Reputation: Serving Tucson since 1979 (46+ years), we've completed over 15,000 electrical panel upgrades throughout Pima County—more than any other local electrical contractor. Our 4.97-star rating from 22,000+ verified Google reviews represents the highest customer satisfaction in Southern Arizona's electrical industry. We maintain BBB A+ accreditation, ROC licensing in good standing, full bonding and insurance protecting your property, and memberships in NECA (National Electrical Contractors Association) and IAEI (International Association of Electrical Inspectors). Our family-owned, veteran-operated business prioritizes long-term customer relationships over short-term profits—we'll still be here in 20 years when you need our services again."
+            "content": "Unmatched Local Expertise & Reputation: Serving Tucson since 1979 (46+ years), we've completed over 15,000 electrical panel upgrades throughout Pima County—more than any other local electrical contractor. Our 4.97-star rating from 23,000+ verified Google reviews represents the highest customer satisfaction in Southern Arizona's electrical industry. We maintain BBB A+ accreditation, ROC licensing in good standing, full bonding and insurance protecting your property, and memberships in NECA (National Electrical Contractors Association) and IAEI (International Association of Electrical Inspectors). Our family-owned, veteran-operated business prioritizes long-term customer relationships over short-term profits—we'll still be here in 20 years when you need our services again."
       },
       {
             "type": "paragraph",
@@ -709,7 +709,7 @@ export const electricalpanelupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As Tucson's most-trusted electrical contractor with 46+ years of local experience, we've completed over 15,000 panel upgrades throughout Pima County. Our 4.97-star rating from 22,000+ customer reviews reflects our commitment to quality workmanship, honest service, and customer satisfaction that keeps Tucson families referring us to friends and neighbors year after year. Whether you need emergency panel replacement for safety concerns, planned upgrades to enable home improvements, or proactive modernization of aging electrical systems, we handle every detail with the professionalism and expertise you deserve. Call (520) 333-2665 today to schedule your free electrical panel assessment, or book online at your convenience. Our licensed electricians are ready to answer your questions, assess your electrical system, and provide the expert guidance you need to make informed decisions about your home's electrical future. Trust Tucson's #1 rated electrical contractor for panel upgrades that protect your family, power your home, and provide value for decades to come."
+            "content": "As Tucson's most-trusted electrical contractor with 46+ years of local experience, we've completed over 15,000 panel upgrades throughout Pima County. Our 4.97-star rating from 23,000+ customer reviews reflects our commitment to quality workmanship, honest service, and customer satisfaction that keeps Tucson families referring us to friends and neighbors year after year. Whether you need emergency panel replacement for safety concerns, planned upgrades to enable home improvements, or proactive modernization of aging electrical systems, we handle every detail with the professionalism and expertise you deserve. Call (520) 333-2665 today to schedule your free electrical panel assessment, or book online at your convenience. Our licensed electricians are ready to answer your questions, assess your electrical system, and provide the expert guidance you need to make informed decisions about your home's electrical future. Trust Tucson's #1 rated electrical contractor for panel upgrades that protect your family, power your home, and provide value for decades to come."
       },
   ]
   },

@@ -203,7 +203,7 @@ export default function NewHomebuyerOfferPage() {
                   <Star className="w-12 h-12 mx-auto mb-3 fill-yellow-400 text-yellow-400" />
                   <div className="text-3xl font-bold text-primary mb-2">5.0</div>
                   <p className="font-semibold">Google Rating</p>
-                  <p className="text-sm text-muted-foreground">22,000+ Reviews</p>
+                  <p className="text-sm text-muted-foreground">23,000+ Reviews</p>
                 </CardContent>
               </Card>
 

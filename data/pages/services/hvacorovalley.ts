@@ -12,7 +12,7 @@ export const hvacorovalleyData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Oro Valley, AZ',
-  h2Subheading: 'Expert HVAC Solutions for Oro Valley\'s Energy-Efficient Homes | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert HVAC Solutions for Oro Valley\'s Energy-Efficient Homes | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | HOA-Compliant Systems | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_professional_portrait_1_7cfc258c.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Oro Valley, Arizona',
@@ -36,7 +36,7 @@ export const hvacorovalleyData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | Factory-authorized for 12+ brands | Background-checked and uniformed"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Oro Valley | Most-referred HVAC company in northwest Tucson"
   },
   {
@@ -71,7 +71,7 @@ export const hvacorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 12,500 Oro Valley families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Oro Valley for seven consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred HVAC partner for Oro Valley's master-planned communities. When you choose Intelligent Design, you're selecting the company your neighbors at Rancho Vistoso, Stone Canyon, Tohono Chul, and Oro Valley Country Club Estates have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 12,500 Oro Valley families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Oro Valley for seven consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred HVAC partner for Oro Valley's master-planned communities. When you choose Intelligent Design, you're selecting the company your neighbors at Rancho Vistoso, Stone Canyon, Tohono Chul, and Oro Valley Country Club Estates have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
       },
       {
             "type": "cta",
@@ -235,7 +235,7 @@ export const hvacorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain maintenance requirements and schedules, review warranty coverage and registration, provide written documentation of all work performed with photos, answer all questions about system operation and efficiency, and schedule any recommended follow-up service or seasonal maintenance. Within 24-48 hours, you'll receive a follow-up call or email to verify satisfaction, answer any additional questions, provide maintenance reminders, and ensure your complete satisfaction. This commitment to service excellence is why we maintain a 4.97-star rating from over 22,000 verified customer reviews."
+            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain maintenance requirements and schedules, review warranty coverage and registration, provide written documentation of all work performed with photos, answer all questions about system operation and efficiency, and schedule any recommended follow-up service or seasonal maintenance. Within 24-48 hours, you'll receive a follow-up call or email to verify satisfaction, answer any additional questions, provide maintenance reminders, and ensure your complete satisfaction. This commitment to service excellence is why we maintain a 4.97-star rating from over 23,000 verified customer reviews."
       },
       {
             "type": "heading",
@@ -699,7 +699,7 @@ export const hvacorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Commitment to Excellence: Our 22,000+ five-star reviews speak to our dedication: NATE-certified technicians with extensive training, background-checked and drug-tested employees, uniformed professionals representing our company with pride, ongoing technical training exceeding 120 hours annually per technician, and investment in latest diagnostic tools and equipment."
+            "content": "Commitment to Excellence: Our 23,000+ five-star reviews speak to our dedication: NATE-certified technicians with extensive training, background-checked and drug-tested employees, uniformed professionals representing our company with pride, ongoing technical training exceeding 120 hours annually per technician, and investment in latest diagnostic tools and equipment."
       },
       {
             "type": "heading",
@@ -717,7 +717,7 @@ export const hvacorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Join over 12,500 satisfied Oro Valley customers who trust Intelligent Design for all their HVAC needs. Experience the difference professional service, advanced technology, and genuine customer care make. Schedule your service today and discover why we're Oro Valley's highest-rated HVAC company with 22,000+ five-star reviews!"
+            "content": "Join over 12,500 satisfied Oro Valley customers who trust Intelligent Design for all their HVAC needs. Experience the difference professional service, advanced technology, and genuine customer care make. Schedule your service today and discover why we're Oro Valley's highest-rated HVAC company with 23,000+ five-star reviews!"
       },
       {
             "type": "cta",

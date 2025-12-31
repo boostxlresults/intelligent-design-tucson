@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const gladdenfarmsData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Gladden Farms, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Gladden Farms. Serving zip codes 85653, 85658 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Gladden Farms. Serving zip codes 85653, 85658 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'gladden-farms',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const gladdenfarmsData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {
@@ -117,7 +117,7 @@ export const gladdenfarmsData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 1,850 Gladden Farms families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company in Marana and northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Gladden Farms for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred home service partner for Gladden Farms' modern community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Gladden Farms have trusted with their [link:/customer-reviews|family comfort and home investments]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 1,850 Gladden Farms families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated home service company in Marana and northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Gladden Farms for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred home service partner for Gladden Farms' modern community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Gladden Farms have trusted with their [link:/customer-reviews|family comfort and home investments]."
       },
       {
             "type": "cta",
@@ -294,13 +294,13 @@ export const gladdenfarmsData: LocationPageData = {
       },
       {
             "type": "list",
-            "content": "Modern Home Expertise: Our technicians receive specialized training in newer construction HVAC systems, advanced diagnostics, smart home technology integration, and HOA compliance—ensuring expert service for Gladden Farms' modern homes. | Rapid Response Times: Our strategic location and dedicated northwest Tucson service vehicles enable average 62-minute arrival time throughout Gladden Farms including same-day appointments for urgent needs and priority emergency response. | HOA Compliance Specialists: We understand Gladden Farms HOA requirements for equipment placement, visual screening, permitting documentation, and aesthetic considerations—providing complete assistance navigating approval processes. | Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing, electrical, solar, and roofing services under one roof—simplifying home service needs and ensuring all systems work together optimally. | BBB A+ Rated Excellence: Over 22,000 five-star reviews demonstrate our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service earning trust throughout Tucson. | Flexible Financing Options: We offer multiple financing programs making premium equipment affordable including special financing, utility rebate assistance maximizing available incentives, and payment plans fitting all budgets.",
+            "content": "Modern Home Expertise: Our technicians receive specialized training in newer construction HVAC systems, advanced diagnostics, smart home technology integration, and HOA compliance—ensuring expert service for Gladden Farms' modern homes. | Rapid Response Times: Our strategic location and dedicated northwest Tucson service vehicles enable average 62-minute arrival time throughout Gladden Farms including same-day appointments for urgent needs and priority emergency response. | HOA Compliance Specialists: We understand Gladden Farms HOA requirements for equipment placement, visual screening, permitting documentation, and aesthetic considerations—providing complete assistance navigating approval processes. | Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing, electrical, solar, and roofing services under one roof—simplifying home service needs and ensuring all systems work together optimally. | BBB A+ Rated Excellence: Over 23,000 five-star reviews demonstrate our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service earning trust throughout Tucson. | Flexible Financing Options: We offer multiple financing programs making premium equipment affordable including special financing, utility rebate assistance maximizing available incentives, and payment plans fitting all budgets.",
             "items": [
                   "Modern Home Expertise: Our technicians receive specialized training in newer construction HVAC systems, advanced diagnostics, smart home technology integration, and HOA compliance—ensuring expert service for Gladden Farms' modern homes.",
                   "Rapid Response Times: Our strategic location and dedicated northwest Tucson service vehicles enable average 62-minute arrival time throughout Gladden Farms including same-day appointments for urgent needs and priority emergency response.",
                   "HOA Compliance Specialists: We understand Gladden Farms HOA requirements for equipment placement, visual screening, permitting documentation, and aesthetic considerations—providing complete assistance navigating approval processes.",
                   "Comprehensive Capabilities: Unlike single-trade contractors, we provide expert HVAC, plumbing, electrical, solar, and roofing services under one roof—simplifying home service needs and ensuring all systems work together optimally.",
-                  "BBB A+ Rated Excellence: Over 22,000 five-star reviews demonstrate our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service earning trust throughout Tucson.",
+                  "BBB A+ Rated Excellence: Over 23,000 five-star reviews demonstrate our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service earning trust throughout Tucson.",
                   "Flexible Financing Options: We offer multiple financing programs making premium equipment affordable including special financing, utility rebate assistance maximizing available incentives, and payment plans fitting all budgets."
             ]
       },

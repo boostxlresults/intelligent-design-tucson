@@ -40,7 +40,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric is Tucson's highest-rated home services company—family-owned, veteran-owned, and locally trusted since 1979. We deliver fast, reliable service across HVAC, plumbing, roofing, solar installation, and electrical—supported by industry-leading warranties, straightforward pricing, and a relentless commitment to 5-star workmanship. With over 22,000 five-star reviews and a BBB A+ rating , our mission is to protect your comfort, health, safety, and efficiency at home—365 days a year."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric is Tucson's highest-rated home services company—family-owned, veteran-owned, and locally trusted since 1979. We deliver fast, reliable service across HVAC, plumbing, roofing, solar installation, and electrical—supported by industry-leading warranties, straightforward pricing, and a relentless commitment to 5-star workmanship. With over 23,000 five-star reviews and a BBB A+ rating , our mission is to protect your comfort, health, safety, and efficiency at home—365 days a year."
       },
       {
             "type": "paragraph",
@@ -144,7 +144,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "She established the company's customer care protocols, membership programs, and quality assurance processes that have helped Intelligent Design maintain a near-perfect rating across more than 22,000 reviews. Aimee's people-first philosophy extends to employees as well—she champions continuous training, competitive compensation, and a workplace culture where technicians take pride in their work and genuinely care about the customers they serve."
+            "content": "She established the company's customer care protocols, membership programs, and quality assurance processes that have helped Intelligent Design maintain a near-perfect rating across more than 23,000 reviews. Aimee's people-first philosophy extends to employees as well—she champions continuous training, competitive compensation, and a workplace culture where technicians take pride in their work and genuinely care about the customers they serve."
       },
       {
             "type": "heading",
@@ -1199,7 +1199,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 average rating , Intelligent Design is consistently recognized as Tucson's most trusted home services provider. We encourage you to read what our customers are saying and see why homeowners choose us for reliable, high-quality work—every time."
+            "content": "With over 23,000 five-star reviews and a 4.97 average rating , Intelligent Design is consistently recognized as Tucson's most trusted home services provider. We encourage you to read what our customers are saying and see why homeowners choose us for reliable, high-quality work—every time."
       },
       {
             "type": "paragraph",
@@ -1217,9 +1217,9 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "Google Reviews: 22,000+ verified customer reviews with 4.97 average rating | Better Business Bureau: A+ rating with excellent complaint resolution history | Angi (formerly Angie's List): Super Service Award recipient multiple years | Yelp: Elite status with hundreds of detailed reviews | Facebook: 5.0 rating from local community members",
+            "content": "Google Reviews: 23,000+ verified customer reviews with 4.97 average rating | Better Business Bureau: A+ rating with excellent complaint resolution history | Angi (formerly Angie's List): Super Service Award recipient multiple years | Yelp: Elite status with hundreds of detailed reviews | Facebook: 5.0 rating from local community members",
             "items": [
-                  "Google Reviews: 22,000+ verified customer reviews with 4.97 average rating",
+                  "Google Reviews: 23,000+ verified customer reviews with 4.97 average rating",
                   "Better Business Bureau: A+ rating with excellent complaint resolution history",
                   "Angi (formerly Angie's List): Super Service Award recipient multiple years",
                   "Yelp: Elite status with hundreds of detailed reviews",
@@ -1430,7 +1430,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Today, Intelligent Design serves thousands of Tucson families each year with a team of 80+ skilled professionals, a fleet of fully-equipped service vehicles, and a reputation built on more than 22,000 five-star reviews. We've achieved BBB A+ accreditation, multiple ROC licenses, and recognition as Tucson's most trusted name in home services—all while maintaining the same family values and commitment to excellence that defined our first day in business."
+            "content": "Today, Intelligent Design serves thousands of Tucson families each year with a team of 80+ skilled professionals, a fleet of fully-equipped service vehicles, and a reputation built on more than 23,000 five-star reviews. We've achieved BBB A+ accreditation, multiple ROC licenses, and recognition as Tucson's most trusted name in home services—all while maintaining the same family values and commitment to excellence that defined our first day in business."
       },
       {
             "type": "heading",
@@ -1728,7 +1728,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're Tucson's only family and veteran-owned company offering all five major home services (HVAC, plumbing, roofing, electrical, solar) under one roof with consistent quality. Our differentiators: 22,000+ five-star reviews and BBB A+ rating (proven track record), family and veteran ownership with 46+ years of combined expertise serving Tucson since 1979 (local accountability, not a national franchise), lifetime warranties on select installations (we stand behind our work), upfront flat-rate pricing (no surprises), rigorous technician training and background checks (trustworthy professionals in your home), 24/7 emergency service availability, same-day service for most issues, membership programs with priority scheduling and extended warranties, and genuine commitment to education over sales pressure. We've built our reputation on treating every customer like family—earning trust through exceptional craftsmanship, transparent communication, and doing what's right for homeowners over the long term."
+            "content": "We're Tucson's only family and veteran-owned company offering all five major home services (HVAC, plumbing, roofing, electrical, solar) under one roof with consistent quality. Our differentiators: 23,000+ five-star reviews and BBB A+ rating (proven track record), family and veteran ownership with 46+ years of combined expertise serving Tucson since 1979 (local accountability, not a national franchise), lifetime warranties on select installations (we stand behind our work), upfront flat-rate pricing (no surprises), rigorous technician training and background checks (trustworthy professionals in your home), 24/7 emergency service availability, same-day service for most issues, membership programs with priority scheduling and extended warranties, and genuine commitment to education over sales pressure. We've built our reputation on treating every customer like family—earning trust through exceptional craftsmanship, transparent communication, and doing what's right for homeowners over the long term."
       },
       {
             "type": "heading",
@@ -2134,9 +2134,9 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "Google Reviews: 22,000+ verified customer reviews with 4.97 average rating | Better Business Bureau: A+ rating with excellent complaint resolution history | Angi (formerly Angie's List): Super Service Award recipient multiple years | Yelp: Elite status with hundreds of detailed reviews | Facebook: 5.0 rating from local community members",
+            "content": "Google Reviews: 23,000+ verified customer reviews with 4.97 average rating | Better Business Bureau: A+ rating with excellent complaint resolution history | Angi (formerly Angie's List): Super Service Award recipient multiple years | Yelp: Elite status with hundreds of detailed reviews | Facebook: 5.0 rating from local community members",
             "items": [
-                  "Google Reviews: 22,000+ verified customer reviews with 4.97 average rating",
+                  "Google Reviews: 23,000+ verified customer reviews with 4.97 average rating",
                   "Better Business Bureau: A+ rating with excellent complaint resolution history",
                   "Angi (formerly Angie's List): Super Service Award recipient multiple years",
                   "Yelp: Elite status with hundreds of detailed reviews",

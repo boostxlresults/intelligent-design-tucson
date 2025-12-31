@@ -10,7 +10,7 @@ export const waterleakrepairData: ServicePageData = {
   
   // Hero Section
   h1: 'Emergency Water Leak Repair in Tucson, AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency Service | Advanced Leak Detection | Slab Leaks | Pinhole Leaks | Water Damage Prevention',
   heroImage: '/generated_images/Water_leak_repair_service_7bc4fcdb.webp',
   heroImageAlt: 'Professional water leak repair technician using advanced detection equipment in Tucson home',
@@ -35,7 +35,7 @@ export const waterleakrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Hard water expertise | Trusted since 1979 | Licensed ROC #171687"
+    "description": "Family & veteran-owned | 23,000+ reviews | Hard water expertise | Trusted since 1979 | Licensed ROC #171687"
   },
   {
     "title": "Comprehensive Solutions",
@@ -65,7 +65,7 @@ export const waterleakrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated leak detection and repair company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, advanced technology, and customer satisfaction has made us the most-referred [link:/services/plumbing-tucson|plumbing service] provider in Pima County. When your home is flooding and you need water stopped fast, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated emergency service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated leak detection and repair company in Tucson for 8 consecutive years (2017-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, advanced technology, and customer satisfaction has made us the most-referred [link:/services/plumbing-tucson|plumbing service] provider in Pima County. When your home is flooding and you need water stopped fast, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated emergency service]."
       },
       {
             "type": "paragraph",
@@ -682,7 +682,7 @@ export const waterleakrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Satisfaction Guarantee: We're not satisfied until you're satisfied. If anything about your leak repair service doesn't meet your expectations, we'll make it right. This includes repair quality, communication, cleanliness, respect for your home and property, and overall service experience. Our 4.97-star rating from 22,000+ reviews reflects our commitment to customer satisfaction. We follow up after every repair to ensure you're completely satisfied and answer any questions about maintaining your plumbing system to prevent future leaks."
+            "content": "Satisfaction Guarantee: We're not satisfied until you're satisfied. If anything about your leak repair service doesn't meet your expectations, we'll make it right. This includes repair quality, communication, cleanliness, respect for your home and property, and overall service experience. Our 4.97-star rating from 23,000+ reviews reflects our commitment to customer satisfaction. We follow up after every repair to ensure you're completely satisfied and answer any questions about maintaining your plumbing system to prevent future leaks."
       },
       {
             "type": "heading",
@@ -736,7 +736,7 @@ export const waterleakrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Highest Customer Satisfaction in Southern Arizona: With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We've been voted Best of Tucson for leak detection and plumbing repair for 8 consecutive years (2017-2024). BBB A+ accreditation since 1979. When you choose Intelligent Design for water leak repair, you're getting: Advanced electronic leak detection equipment operated by extensively trained technicians, 24/7 emergency service for urgent leak situations with average 68-minute response time, All pipe types repaired including copper, PEX, PVC, CPVC, and all connection methods, Minimal disruption with precisely targeted repairs and professional restoration, Honest assessments of repair vs. repipe options with clear explanations, Comprehensive warranties on all materials and labor, Transparent upfront pricing before work begins, Licensed, bonded, and insured (ROC #171687) with full liability coverage, and a team that stands behind every repair."
+            "content": "Highest Customer Satisfaction in Southern Arizona: With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We've been voted Best of Tucson for leak detection and plumbing repair for 8 consecutive years (2017-2024). BBB A+ accreditation since 1979. When you choose Intelligent Design for water leak repair, you're getting: Advanced electronic leak detection equipment operated by extensively trained technicians, 24/7 emergency service for urgent leak situations with average 68-minute response time, All pipe types repaired including copper, PEX, PVC, CPVC, and all connection methods, Minimal disruption with precisely targeted repairs and professional restoration, Honest assessments of repair vs. repipe options with clear explanations, Comprehensive warranties on all materials and labor, Transparent upfront pricing before work begins, Licensed, bonded, and insured (ROC #171687) with full liability coverage, and a team that stands behind every repair."
       },
       {
             "type": "paragraph",

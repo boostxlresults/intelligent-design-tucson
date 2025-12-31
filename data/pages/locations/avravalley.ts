@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const avravalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Avra Valley, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Avra Valley. Serving zip codes 85653, 85735 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Avra Valley. Serving zip codes 85653, 85735 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'avra-valley',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const avravalleyData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {

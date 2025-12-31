@@ -13,7 +13,7 @@ import {
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 import { generateFAQSchema, generateBreadcrumbSchema } from "@/lib/seo";
 
-const description = "Intelligent Design serves all of Greater Tucson including Oro Valley, Marana, Sahuarita, Green Valley, Vail & 10+ communities. 24/7 emergency service, same-day appointments, fast response times. Over 22,000 five-star reviews.";
+const description = "Intelligent Design serves all of Greater Tucson including Oro Valley, Marana, Sahuarita, Green Valley, Vail & 10+ communities. 24/7 emergency service, same-day appointments, fast response times. Over 23,000 five-star reviews.";
 
 export const metadata: Metadata = {
   title: "Areas We Serve | Professional HVAC, Plumbing, Solar & Electrical Throughout Greater Tucson",
@@ -377,7 +377,7 @@ export default function ServiceAreasPage() {
                   </div>
                 </div>
                 <div>
-                  <h3 className="text-xl font-semibold mb-2">22,000+ 5-Star Reviews</h3>
+                  <h3 className="text-xl font-semibold mb-2">23,000+ 5-Star Reviews</h3>
                   <p className="text-muted-foreground">
                     Trusted by thousands of homeowners throughout Greater Tucson for quality service and fair pricing.
                   </p>

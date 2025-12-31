@@ -3,13 +3,13 @@ import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingcasasadobesData: ServicePageData = {
   // SEO & Meta
-  title: 'Heating Services Casas Adobes AZ | Furnace Repair & Installation | 22,000+ Reviews',
+  title: 'Heating Services Casas Adobes AZ | Furnace Repair & Installation | 23,000+ Reviews',
   description: 'Expert heating & furnace services in Casas Adobes, AZ since 1979. Furnace repair, installation, heat pumps, maintenance. 24/7 emergency heater service. BBB A+ rated. Serving north Tucson families.',
   slug: 'heating-casas-adobes',
   
   // Hero Section
   h1: 'Professional Heating & Furnace Services in Casas Adobes, AZ',
-  h2Subheading: 'Your Trusted Casas Adobes Heating Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Casas Adobes Heating Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Furnace Repair | Installation | Maintenance | Heat Pumps | Gas Furnaces | 24/7 Emergency Service',
   heroImage: '/generated_images/Heating_tech_furnace_maintenance_1_0ed2be02.webp',
   heroImageAlt: 'Professional heating technician servicing furnace in Casas Adobes, Arizona home',
@@ -33,7 +33,7 @@ export const heatingcasasadobesData: ServicePageData = {
     "description": "Average 62-minute arrival to Casas Adobes | 84% same-day service completion | Real-time GPS tracking | 24/7 emergency availability"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated heating company in north Tucson | Most-referred in Amphi/Flowing Wells area"
   },
   {
@@ -68,7 +68,7 @@ export const heatingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Casas Adobes families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, including hundreds from your Casas Adobes neighbors specifically about our heating services. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated heating service provider in the Amphi/Flowing Wells/Casas Adobes area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement based on equipment age and condition), transparent upfront pricing (flat-rate pricing with no hidden fees or surprise charges), quality workmanship (all installations warrantied), comprehensive safety inspections (every visit includes carbon monoxide testing and heat exchanger inspection), and exceptional customer service has made us the most-referred heating company among Casas Adobes homeowners. When your Casas Adobes neighbors need heating service, they call Intelligent Design."
+            "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Casas Adobes families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, including hundreds from your Casas Adobes neighbors specifically about our heating services. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated heating service provider in the Amphi/Flowing Wells/Casas Adobes area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement based on equipment age and condition), transparent upfront pricing (flat-rate pricing with no hidden fees or surprise charges), quality workmanship (all installations warrantied), comprehensive safety inspections (every visit includes carbon monoxide testing and heat exchanger inspection), and exceptional customer service has made us the most-referred heating company among Casas Adobes homeowners. When your Casas Adobes neighbors need heating service, they call Intelligent Design."
       },
       {
             "type": "cta",

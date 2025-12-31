@@ -42,7 +42,7 @@ export default function TrustBar() {
             <p className="text-2xl font-bold text-foreground" data-testid="text-google-rating">
               4.97 Rating
             </p>
-            <p className="text-sm text-muted-foreground">22,000+ Five-Star Reviews</p>
+            <p className="text-sm text-muted-foreground">23,000+ Five-Star Reviews</p>
           </div>
 
           {/* Divider */}

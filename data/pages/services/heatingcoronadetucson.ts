@@ -35,7 +35,7 @@ export const heatingcoronadetucsonData: ServicePageData = {
     "description": "Top-rated furnaces and heat pumps from Carrier, Trane, Lennox, and other leading manufacturers, all sized and installed correctly."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Corona de Tucson customers. Our reputation speaks to our quality and service."
   },
   {
@@ -139,7 +139,7 @@ export const heatingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

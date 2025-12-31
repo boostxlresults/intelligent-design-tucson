@@ -159,7 +159,7 @@ export default function RecentProjectsPage() {
   const projectStats = [
     {
       icon: CheckCircle,
-      number: '22,000+',
+      number: '23,000+',
       label: 'Projects Completed',
       description: 'Successfully completed home service projects',
     },
@@ -220,7 +220,7 @@ export default function RecentProjectsPage() {
               See Our Latest Home Service Installations & Repairs
             </p>
             <p className="text-lg text-white/80 mb-8" data-testid="text-hero-description">
-              Browse real projects from Tucson homeowners who trusted Intelligent Design for HVAC, plumbing, solar, electrical, and roofing services. See the quality craftsmanship and attention to detail that has earned us 22,000+ satisfied customers.
+              Browse real projects from Tucson homeowners who trusted Intelligent Design for HVAC, plumbing, solar, electrical, and roofing services. See the quality craftsmanship and attention to detail that has earned us 23,000+ satisfied customers.
             </p>
             <div className="flex flex-wrap gap-4">
               <SchedulerEmbed 

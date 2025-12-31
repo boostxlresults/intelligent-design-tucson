@@ -10,7 +10,7 @@ export const ductrepairData: ServicePageData = {
   
   // Hero Section
   h1: 'Trusted Air Duct Repair Services in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Same-Day Service Available | Expert Leak Sealing | Certified Technicians',
   heroImage: '/generated_images/Duct_repair_service_Tucson_Arizona_363c7550.webp',
   heroImageAlt: 'Professional duct repair technician sealing air duct leaks in Tucson home attic',
@@ -43,7 +43,7 @@ export const ductrepairData: ServicePageData = {
   },
   {
     "title": "Satisfaction Guaranteed",
-    "description": "46+ years experience | 22,000+ five-star reviews | Workmanship warranty | Upfront pricing"
+    "description": "46+ years experience | 23,000+ five-star reviews | Workmanship warranty | Upfront pricing"
   }
 ],
   content: {
@@ -65,7 +65,7 @@ export const ductrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/hvac-tucson|HVAC company] in Southern Arizona. We've been the #1 rated duct repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/duct-sealing-tucson|duct sealing] and [link:/services/duct-cleaning-tucson|duct cleaning] provider in Pima County. When your energy bills are climbing and comfort is declining, you're choosing the company your neighbors trust with their [link:/customer-reviews|family-owned, veteran-operated duct services]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/hvac-tucson|HVAC company] in Southern Arizona. We've been the #1 rated duct repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/duct-sealing-tucson|duct sealing] and [link:/services/duct-cleaning-tucson|duct cleaning] provider in Pima County. When your energy bills are climbing and comfort is declining, you're choosing the company your neighbors trust with their [link:/customer-reviews|family-owned, veteran-operated duct services]."
       },
       {
             "type": "paragraph",
@@ -689,14 +689,14 @@ export const ductrepairData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "✓ Certified HVAC technicians with 17+ years average experience | ✓ Advanced diagnostic equipment for accurate problem identification | ✓ Industry-leading repair materials and methods | ✓ Transparent pricing with detailed written estimates | ✓ 100% satisfaction guarantee on all work | ✓ 22,000+ five-star reviews from satisfied Tucson customers",
+            "content": "✓ Certified HVAC technicians with 17+ years average experience | ✓ Advanced diagnostic equipment for accurate problem identification | ✓ Industry-leading repair materials and methods | ✓ Transparent pricing with detailed written estimates | ✓ 100% satisfaction guarantee on all work | ✓ 23,000+ five-star reviews from satisfied Tucson customers",
             "items": [
                   "✓ Certified HVAC technicians with 17+ years average experience",
                   "✓ Advanced diagnostic equipment for accurate problem identification",
                   "✓ Industry-leading repair materials and methods",
                   "✓ Transparent pricing with detailed written estimates",
                   "✓ 100% satisfaction guarantee on all work",
-                  "✓ 22,000+ five-star reviews from satisfied Tucson customers"
+                  "✓ 23,000+ five-star reviews from satisfied Tucson customers"
             ]
       },
       {
@@ -715,7 +715,7 @@ export const ductrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With our 4.97-star Google rating from 22,000+ verified reviews, BBB A+ accreditation, upfront pricing, and [link:/guarantees|satisfaction guarantee], you're choosing the company your neighbors trust with their most important home comfort investments. We also offer [link:/financing|flexible financing options] that make comprehensive duct solutions affordable—often with monthly payments lower than your current energy waste."
+            "content": "With our 4.97-star Google rating from 23,000+ verified reviews, BBB A+ accreditation, upfront pricing, and [link:/guarantees|satisfaction guarantee], you're choosing the company your neighbors trust with their most important home comfort investments. We also offer [link:/financing|flexible financing options] that make comprehensive duct solutions affordable—often with monthly payments lower than your current energy waste."
       },
       {
             "type": "paragraph",

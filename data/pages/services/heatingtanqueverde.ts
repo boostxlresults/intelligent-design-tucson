@@ -36,7 +36,7 @@ export const heatingtanqueverdeData: ServicePageData = {
     "description": "Top-rated furnaces and heat pumps from Carrier, Trane, Lennox, and other leading manufacturers, all sized and installed correctly."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation speaks to our quality and service."
   },
   {
@@ -215,7 +215,7 @@ export const heatingtanqueverdeData: ServicePageData = {
               { "label": "Simple Payback", "value": "2.8 years (net cost ÷ annual savings)" },
               { "label": "ROI After 15 Years", "value": "$48,560 savings - $11,200 cost = $37,360 net benefit (235% ROI)" },
               { "label": "Comfort Improvement", "value": "Perfect 72°F winter, 76°F summer, zero temperature swings, 45% humidity maintained" },
-              { "label": "Home Value Increase", "value": "$18,000-22,000 (Pearl certified energy efficiency)" },
+              { "label": "Home Value Increase", "value": "$18,000-23,000 (Pearl certified energy efficiency)" },
               { "label": "Environmental Impact", "value": "6.8 tons CO2 reduction annually (equivalent to planting 112 trees)" }
             ]
       },
@@ -283,7 +283,7 @@ export const heatingtanqueverdeData: ServicePageData = {
               { "label": "ROI After 15 Years", "value": "$58,390 savings - $10,600 cost = $47,790 net benefit (351% ROI)" },
               { "label": "Comfort Improvement", "value": "Perfect 74°F winter & summer, 42-48% humidity, zero hot/cold spots" },
               { "label": "Environmental Impact", "value": "8.4 tons CO2 reduction annually vs. electric resistance heat" },
-              { "label": "Home Value Increase", "value": "$22,000-28,000 (Pearl certified + premium Lennox system)" }
+              { "label": "Home Value Increase", "value": "$23,000-28,000 (Pearl certified + premium Lennox system)" }
             ]
       },
       {
@@ -628,7 +628,7 @@ export const heatingtanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer-Focused Service Excellence: Every Tanque Verde heating service reflects our commitment to exceptional customer experience from first contact through project completion and beyond. Our friendly customer service team answers calls promptly providing knowledgeable assistance without high-pressure sales tactics. Convenient scheduling includes same-day emergency service, next-day appointments for repairs, evening and weekend availability, and precise appointment windows respecting your valuable time. Our technicians arrive in clearly marked company vehicles, wear professional uniforms with photo ID badges, and call 30 minutes before arrival. Every service visit includes courtesy floor protection, respectful treatment of your luxury home, thorough cleanup leaving work areas cleaner than found, and detailed explanation of all work performed. We provide upfront flat-rate pricing before work begins eliminating surprise charges and ensuring transparency. Our 100% satisfaction guarantee means if you're not completely satisfied with our service, we make it right. Post-service follow-up ensures continued satisfaction and addresses any questions. These service standards have earned us 22,000+ five-star reviews, BBB A+ rating since 1979, and trusted referrals from generations of satisfied Tanque Verde families."
+            "content": "Customer-Focused Service Excellence: Every Tanque Verde heating service reflects our commitment to exceptional customer experience from first contact through project completion and beyond. Our friendly customer service team answers calls promptly providing knowledgeable assistance without high-pressure sales tactics. Convenient scheduling includes same-day emergency service, next-day appointments for repairs, evening and weekend availability, and precise appointment windows respecting your valuable time. Our technicians arrive in clearly marked company vehicles, wear professional uniforms with photo ID badges, and call 30 minutes before arrival. Every service visit includes courtesy floor protection, respectful treatment of your luxury home, thorough cleanup leaving work areas cleaner than found, and detailed explanation of all work performed. We provide upfront flat-rate pricing before work begins eliminating surprise charges and ensuring transparency. Our 100% satisfaction guarantee means if you're not completely satisfied with our service, we make it right. Post-service follow-up ensures continued satisfaction and addresses any questions. These service standards have earned us 23,000+ five-star reviews, BBB A+ rating since 1979, and trusted referrals from generations of satisfied Tanque Verde families."
       },
       {
             "type": "paragraph",

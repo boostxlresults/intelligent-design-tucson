@@ -37,7 +37,7 @@ export const solarinstallationrillitoData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Rillito's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Rillito customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -391,7 +391,7 @@ export const solarinstallationrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Small System (5-7 kW / 13-18 panels):\n\n- Gross Cost: $15,000 - $21,000\n- Net Cost After 30% Federal ITC: $10,500 - $14,700\n- Typical Monthly Production: 650-900 kWh\n- Best For: 1,200-1,800 sq ft homes, low-moderate electricity usage\n- Annual Savings: $1,000-1,600\n- Payback Period: 6.5-9 years\n- 25-Year Savings: $30,000-$48,000\n\nMedium System (8-11 kW / 20-28 panels):\n\n- Gross Cost: $22,000 - $33,000\n- Net Cost After 30% Federal ITC: $15,400 - $23,100\n- Typical Monthly Production: 1,050-1,450 kWh\n- Best For: 1,800-2,600 sq ft homes, moderate-high electricity usage\n- Annual Savings: $1,700-2,400\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $51,000-$72,000\n\nLarge System (12-16 kW / 30-40 panels):\n\n- Gross Cost: $34,000 - $48,000\n- Net Cost After 30% Federal ITC: $23,800 - $33,600\n- Typical Monthly Production: 1,600-2,100 kWh\n- Best For: 2,600+ sq ft homes, high usage, multiple AC units, pools\n- Annual Savings: $2,600-3,500\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $78,000-$105,000"
+            "content": "Small System (5-7 kW / 13-18 panels):\n\n- Gross Cost: $15,000 - $21,000\n- Net Cost After 30% Federal ITC: $10,500 - $14,700\n- Typical Monthly Production: 650-900 kWh\n- Best For: 1,200-1,800 sq ft homes, low-moderate electricity usage\n- Annual Savings: $1,000-1,600\n- Payback Period: 6.5-9 years\n- 25-Year Savings: $30,000-$48,000\n\nMedium System (8-11 kW / 20-28 panels):\n\n- Gross Cost: $23,000 - $33,000\n- Net Cost After 30% Federal ITC: $15,400 - $23,100\n- Typical Monthly Production: 1,050-1,450 kWh\n- Best For: 1,800-2,600 sq ft homes, moderate-high electricity usage\n- Annual Savings: $1,700-2,400\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $51,000-$72,000\n\nLarge System (12-16 kW / 30-40 panels):\n\n- Gross Cost: $34,000 - $48,000\n- Net Cost After 30% Federal ITC: $23,800 - $33,600\n- Typical Monthly Production: 1,600-2,100 kWh\n- Best For: 2,600+ sq ft homes, high usage, multiple AC units, pools\n- Annual Savings: $2,600-3,500\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $78,000-$105,000"
       },
       {
             "type": "heading",
@@ -685,7 +685,7 @@ export const solarinstallationrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Get your free solar consultation and comprehensive custom quote today. Our NABCEP-certified solar specialists will thoroughly analyze your energy consumption patterns, professionally assess your roof characteristics, design an optimized system specifically for your home, and provide completely transparent pricing showing exactly what you'll save monthly and over decades. We'll expertly handle all permitting, HOA approvals if applicable, complete TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us directly at (520) 333-2665 or conveniently schedule online. Start dramatically reducing your electric bills with clean, renewable solar energy backed by our 46+ years of trusted service, 22,000+ verified five-star reviews, and comprehensive industry-leading warranties. Rillito families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you exactly why we're Tucson's #1 rated solar installation company for seven consecutive years running."
+            "content": "Get your free solar consultation and comprehensive custom quote today. Our NABCEP-certified solar specialists will thoroughly analyze your energy consumption patterns, professionally assess your roof characteristics, design an optimized system specifically for your home, and provide completely transparent pricing showing exactly what you'll save monthly and over decades. We'll expertly handle all permitting, HOA approvals if applicable, complete TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us directly at (520) 333-2665 or conveniently schedule online. Start dramatically reducing your electric bills with clean, renewable solar energy backed by our 46+ years of trusted service, 23,000+ verified five-star reviews, and comprehensive industry-leading warranties. Rillito families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you exactly why we're Tucson's #1 rated solar installation company for seven consecutive years running."
       },
       {
             "type": "heading",

@@ -10,7 +10,7 @@ export const ductsealingData: ServicePageData = {
   
   // Hero Section
   h1: 'Elite Aeroseal Duct Sealing in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Certified Elite Aeroseal Dealer | Reduce Energy Bills Up to 30% | Advanced Technology',
   heroImage: '/generated_images/Professional_duct_sealing_service_670e8275.webp',
   heroImageAlt: 'Professional HVAC technician sealing ductwork in Tucson home',
@@ -43,7 +43,7 @@ export const ductsealingData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ five-star reviews | Free estimates | Satisfaction guaranteed"
+    "description": "Family & veteran-owned | 23,000+ five-star reviews | Free estimates | Satisfaction guaranteed"
   }
 ],
   content: {
@@ -73,7 +73,7 @@ export const ductsealingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/hvac-tucson|HVAC] and energy efficiency company in Southern Arizona. We've been the #1 rated duct sealing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, verified results through documented leak testing, and customer satisfaction has made us the most-referred duct sealing provider in Pima County. When you're investing in energy efficiency improvements that will save thousands of dollars over your system's lifetime, you're choosing the company your neighbors trust for family-owned, veteran-operated service with industry-leading performance guarantees."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/hvac-tucson|HVAC] and energy efficiency company in Southern Arizona. We've been the #1 rated duct sealing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, verified results through documented leak testing, and customer satisfaction has made us the most-referred duct sealing provider in Pima County. When you're investing in energy efficiency improvements that will save thousands of dollars over your system's lifetime, you're choosing the company your neighbors trust for family-owned, veteran-operated service with industry-leading performance guarantees."
       },
       {
             "type": "paragraph",
@@ -167,7 +167,7 @@ export const ductsealingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Challenge: A 4,100 sq ft luxury home in Catalina Foothills built in 2002 experienced escalating energy costs despite relatively new dual-zone [link:/services/hvac-tucson|HVAC systems]. The homeowners, recent transplants from a moderate climate, were shocked when summer electric bills reached $580-$650 monthly. After consulting with neighbors in similar homes paying $350-$400 monthly, they realized something was drastically wrong with their home's energy performance. They had already invested in [link:/services/heater-service-tucson|HVAC maintenance], upgraded insulation, and installed a smart thermostat—yet bills remained stubbornly high. Energy auditors identified the duct system as the likely culprit but recommended expensive duct replacement costing $18,000-$22,000."
+            "content": "Challenge: A 4,100 sq ft luxury home in Catalina Foothills built in 2002 experienced escalating energy costs despite relatively new dual-zone [link:/services/hvac-tucson|HVAC systems]. The homeowners, recent transplants from a moderate climate, were shocked when summer electric bills reached $580-$650 monthly. After consulting with neighbors in similar homes paying $350-$400 monthly, they realized something was drastically wrong with their home's energy performance. They had already invested in [link:/services/heater-service-tucson|HVAC maintenance], upgraded insulation, and installed a smart thermostat—yet bills remained stubbornly high. Energy auditors identified the duct system as the likely culprit but recommended expensive duct replacement costing $18,000-$23,000."
       },
       {
             "type": "paragraph",
@@ -175,7 +175,7 @@ export const ductsealingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solution: Rather than pursuing the recommended $18,000-$22,000 duct replacement, we proposed comprehensive Aeroseal sealing for both zones at a fraction of the cost. The project took two days to complete due to the system's size and complexity. We sealed both zones independently, achieving final measurements of 81 CFM25 combined—an 87% reduction in total duct leakage. We also performed extensive airflow rebalancing across both zones and installed additional return air pathways to improve overall system efficiency."
+            "content": "Solution: Rather than pursuing the recommended $18,000-$23,000 duct replacement, we proposed comprehensive Aeroseal sealing for both zones at a fraction of the cost. The project took two days to complete due to the system's size and complexity. We sealed both zones independently, achieving final measurements of 81 CFM25 combined—an 87% reduction in total duct leakage. We also performed extensive airflow rebalancing across both zones and installed additional return air pathways to improve overall system efficiency."
       },
       {
             "type": "paragraph",

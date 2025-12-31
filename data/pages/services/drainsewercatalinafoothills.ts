@@ -30,7 +30,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
     },
     {
       "title": "Catalina Foothills Community Trust",
-      "description": "Thousands of upscale homes serviced | 4.97-star rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Thousands of upscale homes serviced | 4.97-star rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Complete Luxury Drain Services",

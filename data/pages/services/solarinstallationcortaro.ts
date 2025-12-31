@@ -37,7 +37,7 @@ export const solarinstallationcortaroData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Cortaro's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Cortaro customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -137,7 +137,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: Tom and Jennifer Martinez own a 2,600-square-foot ranch-style home in Cortaro on Avra Valley Road, built in 2015. Their open-concept floor plan with vaulted ceilings and large west-facing windows created cooling challenges during Tucson's intense summer heat. Running their air conditioning system nearly continuously from May through September resulted in electric bills frequently exceeding $380 monthly. With both working from home full-time and operating multiple computers, printers, and network equipment, their annual electricity consumption topped 22,000 kWh, costing over $3,400 annually."
+            "content": "The Challenge: Tom and Jennifer Martinez own a 2,600-square-foot ranch-style home in Cortaro on Avra Valley Road, built in 2015. Their open-concept floor plan with vaulted ceilings and large west-facing windows created cooling challenges during Tucson's intense summer heat. Running their air conditioning system nearly continuously from May through September resulted in electric bills frequently exceeding $380 monthly. With both working from home full-time and operating multiple computers, printers, and network equipment, their annual electricity consumption topped 23,000 kWh, costing over $3,400 annually."
       },
       {
             "type": "paragraph",
@@ -495,7 +495,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design has served Cortaro homeowners since 1979, building trust through honest service and quality workmanship. Our family-owned, veteran-operated company maintains the highest industry standards. With over 22,000 five-star reviews and BBB A+ rating, we've earned recognition as Tucson's #1 solar company for seven consecutive years. Our NABCEP-certified installers average 12+ years solar experience."
+            "content": "Intelligent Design has served Cortaro homeowners since 1979, building trust through honest service and quality workmanship. Our family-owned, veteran-operated company maintains the highest industry standards. With over 23,000 five-star reviews and BBB A+ rating, we've earned recognition as Tucson's #1 solar company for seven consecutive years. Our NABCEP-certified installers average 12+ years solar experience."
       },
       {
             "type": "paragraph",
@@ -538,7 +538,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",
@@ -618,7 +618,7 @@ export const solarinstallationcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solar panels require minimal maintenance with no moving parts. Cortaro's desert conditions warrant panel cleaning 2-3 times yearly (October after monsoon, March before summer peak, July mid-monsoon) improving production 3-8%. Use standard garden hose in early morning or evening avoiding thermal shock. Trim trees semi-annually ensuring no shade 9am-3pm. Monitor weekly via smartphone app for sudden production drops exceeding 20%. Professional inspections every 3-5 years ($145-$195) verify connections, inverter operation, panel condition, and racking integrity. Environmental Benefits: The average 7.5 kW Cortaro system eliminates 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 cars from roads, or avoiding 22,000 miles of driving. Over 25 years: 210-240 tons of CO2 prevented, comparable to preserving 12+ acres of forest. Your panels replace fossil fuel electricity, directly reducing air pollution (nitrogen oxides, sulfur dioxide, particulate matter). Water conservation: Power plants require 600-800 gallons per megawatt-hour for cooling. Your 11,250 kWh annual production saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Cortaro families choose solar for environmental values, leaving cleaner air for children and demonstrating community leadership in renewable energy adoption."
+            "content": "Solar panels require minimal maintenance with no moving parts. Cortaro's desert conditions warrant panel cleaning 2-3 times yearly (October after monsoon, March before summer peak, July mid-monsoon) improving production 3-8%. Use standard garden hose in early morning or evening avoiding thermal shock. Trim trees semi-annually ensuring no shade 9am-3pm. Monitor weekly via smartphone app for sudden production drops exceeding 20%. Professional inspections every 3-5 years ($145-$195) verify connections, inverter operation, panel condition, and racking integrity. Environmental Benefits: The average 7.5 kW Cortaro system eliminates 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 cars from roads, or avoiding 23,000 miles of driving. Over 25 years: 210-240 tons of CO2 prevented, comparable to preserving 12+ acres of forest. Your panels replace fossil fuel electricity, directly reducing air pollution (nitrogen oxides, sulfur dioxide, particulate matter). Water conservation: Power plants require 600-800 gallons per megawatt-hour for cooling. Your 11,250 kWh annual production saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Cortaro families choose solar for environmental values, leaving cleaner air for children and demonstrating community leadership in renewable energy adoption."
       },
       {
             "type": "paragraph",

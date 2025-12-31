@@ -6,7 +6,7 @@ import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 export const plumbinggreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Green Valley AZ | Licensed Plumber | Water Heaters | Repiping',
-  description: 'Expert plumbing services for Green Valley retirement community since 1979. Water heater specialists, copper to PEX repiping, hard water solutions, leak detection. 22,000+ reviews. Senior-friendly service with transparent pricing. Licensed, bonded, insured.',
+  description: 'Expert plumbing services for Green Valley retirement community since 1979. Water heater specialists, copper to PEX repiping, hard water solutions, leak detection. 23,000+ reviews. Senior-friendly service with transparent pricing. Licensed, bonded, insured.',
   slug: 'plumbing-green-valley',
   
   // Hero Section
@@ -39,7 +39,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
     "description": "Specialists in whole-home repiping for 1960s-1980s Green Valley homes. Minimal disruption, professional drywall repair, transparent pricing for retirees."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated since 1979. Highest-rated plumbing company in Southern Arizona. Trusted by thousands of Green Valley families and retirees."
   },
   {
@@ -66,7 +66,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record in Green Valley: Intelligent Design has earned the trust of 4,200+ Green Valley households with a near-perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earning recognition as #1 rated plumbing service in Pima County for 7 consecutive years (2018-2024 Best of Tucson awards). Our commitment to honest recommendations, quality workmanship, senior-friendly pricing, and exceptional customer service has made us the most-referred plumbing company in Green Valley. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/services/water-heater-installation|water heater replacements], whole-home repiping projects, and emergency repairs for over four decades."
+            "content": "Proven Track Record in Green Valley: Intelligent Design has earned the trust of 4,200+ Green Valley households with a near-perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earning recognition as #1 rated plumbing service in Pima County for 7 consecutive years (2018-2024 Best of Tucson awards). Our commitment to honest recommendations, quality workmanship, senior-friendly pricing, and exceptional customer service has made us the most-referred plumbing company in Green Valley. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/services/water-heater-installation|water heater replacements], whole-home repiping projects, and emergency repairs for over four decades."
       },
       {
             "type": "paragraph",
@@ -281,7 +281,7 @@ export const plumbinggreenvalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Green Valley retirees deserve established companies with proven track records—not here-today-gone-tomorrow operators. Research years in business (10+ years demonstrates stability and expertise), Google reviews and ratings (4.5+ stars from 500+ reviews indicates consistent quality), BBB accreditation and rating (A+ rating with zero unresolved complaints shows ethical business practices), local references (ask neighbors and friends for recommendations), and manufacturer certifications (factory training and authorized installer status). Intelligent Design has served Southern Arizona since 1979 (46+ years of continuous operation), earned 4.97-star Google rating from 22,000+ verified reviews, maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earned Best of Tucson awards for 7 consecutive years, and holds factory certifications from Rheem, Bradford White, Rinnai, Navien, AO Smith, and 8+ other manufacturers. Warning signs of unreliable contractors: recently formed LLC (check at azcc.gov), few or fake online reviews, no physical business address, pressure for immediate cash payment, and unwillingness to provide references."
+            "content": "Green Valley retirees deserve established companies with proven track records—not here-today-gone-tomorrow operators. Research years in business (10+ years demonstrates stability and expertise), Google reviews and ratings (4.5+ stars from 500+ reviews indicates consistent quality), BBB accreditation and rating (A+ rating with zero unresolved complaints shows ethical business practices), local references (ask neighbors and friends for recommendations), and manufacturer certifications (factory training and authorized installer status). Intelligent Design has served Southern Arizona since 1979 (46+ years of continuous operation), earned 4.97-star Google rating from 23,000+ verified reviews, maintained BBB A+ accreditation since 1979 with zero unresolved complaints, earned Best of Tucson awards for 7 consecutive years, and holds factory certifications from Rheem, Bradford White, Rinnai, Navien, AO Smith, and 8+ other manufacturers. Warning signs of unreliable contractors: recently formed LLC (check at azcc.gov), few or fake online reviews, no physical business address, pressure for immediate cash payment, and unwillingness to provide references."
       },
       {
             "type": "heading",

@@ -43,7 +43,7 @@ export const ceilingfaninstallationData: ServicePageData = {
   },
   {
     "title": "Trusted Tucson Company",
-    "description": "Family & veteran-owned | 22,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
   content: {
@@ -59,7 +59,7 @@ export const ceilingfaninstallationData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Unmatched Expertise & Community Trust: Intelligent Design has earned the confidence of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical contractor in Southern Arizona. Our 34 ROC-licensed electricians average 14+ years of field experience and complete specialized training in ceiling fan installation techniques, structural load requirements, National Electrical Code (NEC) compliance, wobble diagnosis and correction, and energy-efficient fan selection. We've completed over 12,400 ceiling fan installations since 2019 with zero safety incidents and 96% customer satisfaction. We've been the #1 rated electrical service company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. When ceiling fan installation quality and safety matter, you're choosing Tucson's most trusted name."
+        "content": "Unmatched Expertise & Community Trust: Intelligent Design has earned the confidence of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical contractor in Southern Arizona. Our 34 ROC-licensed electricians average 14+ years of field experience and complete specialized training in ceiling fan installation techniques, structural load requirements, National Electrical Code (NEC) compliance, wobble diagnosis and correction, and energy-efficient fan selection. We've completed over 12,400 ceiling fan installations since 2019 with zero safety incidents and 96% customer satisfaction. We've been the #1 rated electrical service company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. When ceiling fan installation quality and safety matter, you're choosing Tucson's most trusted name."
       },
       {
         "type": "paragraph",

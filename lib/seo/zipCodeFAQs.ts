@@ -31,7 +31,7 @@ export function generateZipCodeFAQs(
   // FAQ 1: Service area coverage with zip codes
   faqs.push({
     question: `What zip codes does Intelligent Design serve in ${locationName}?`,
-    answer: `We provide comprehensive home services to all ${locationName} residents in zip codes ${zipList}. Our service vehicles are strategically positioned to ensure fast response times throughout the entire ${locationName} area, typically arriving within 60-90 minutes of your call. Whether you're in ${primaryZip} or any other ${locationName} zip code, you'll receive the same high-quality service that has earned us over 22,000 five-star reviews.`
+    answer: `We provide comprehensive home services to all ${locationName} residents in zip codes ${zipList}. Our service vehicles are strategically positioned to ensure fast response times throughout the entire ${locationName} area, typically arriving within 60-90 minutes of your call. Whether you're in ${primaryZip} or any other ${locationName} zip code, you'll receive the same high-quality service that has earned us over 23,000 five-star reviews.`
   });
 
   // FAQ 2: Specific service availability in zip codes
@@ -92,7 +92,7 @@ export function generateServiceZipCodeFAQ(
 
   return {
     question: `Does Intelligent Design provide ${serviceName} service in ${locationName} zip code ${primaryZip}?`,
-    answer: `Yes! We provide expert ${serviceName} services throughout ${locationName}, including zip codes ${zipList}. Our licensed technicians are familiar with the unique characteristics of ${locationName} homes and deliver the same high-quality service to every neighborhood we serve. With our average 62-minute response time and 22,000+ five-star reviews, you can trust us for all your ${serviceName} needs in ${primaryZip} and throughout ${locationName}.`
+    answer: `Yes! We provide expert ${serviceName} services throughout ${locationName}, including zip codes ${zipList}. Our licensed technicians are familiar with the unique characteristics of ${locationName} homes and deliver the same high-quality service to every neighborhood we serve. With our average 62-minute response time and 23,000+ five-star reviews, you can trust us for all your ${serviceName} needs in ${primaryZip} and throughout ${locationName}.`
   };
 }
 

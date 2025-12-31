@@ -6,12 +6,12 @@ import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingtucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Tucson Estates AZ | Furnace Repair & Installation | Heat Pumps',
-  description: 'Expert heating services in Tucson Estates, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for west Tucson families.',
+  description: 'Expert heating services in Tucson Estates, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for west Tucson families.',
   slug: 'heating-tucson-estates',
   
   // Hero Section
   h1: 'Professional Heating Services in Tucson Estates, AZ',
-  h2Subheading: 'Your Trusted Tucson Estates Heating Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Tucson Estates Heating Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Furnace Repair | Installation | Heat Pumps | Dual-Fuel Systems | Maintenance | 24/7 Emergency Service',
   heroImage: '/generated_images/Heating_tech_thermostat_install_7412ffd1.webp',
   heroImageAlt: 'Professional heating technician installing smart thermostat in Tucson Estates, Arizona home',
@@ -35,7 +35,7 @@ export const heatingtucsonestatesData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Expert furnace & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated heating company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const heatingtucsonestatesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design for your Tucson Estates home, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design for your Tucson Estates home, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
       },
       {
             "type": "paragraph",

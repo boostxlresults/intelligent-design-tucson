@@ -35,7 +35,7 @@ export const residentialsolarinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local knowledge | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local knowledge | Trusted since 1979"
   },
   {
     "title": "Complete Installation Services",
@@ -101,7 +101,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive monitoring, allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints."
+            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every system's performance through comprehensive monitoring, allowing us to verify actual production against estimates and ensure homeowners receive the savings they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 23,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints."
       },
       {
             "type": "heading",
@@ -534,7 +534,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Cash Purchase Payback Example: 7.5 kW System Details: Total installation cost: $22,000 | 30% federal tax credit: -$6,600 | Net investment: $15,400 | Annual production: 12,375 kWh | Current electric rate: $0.125/kWh average | First-Year Savings Calculation: Electricity offset: 12,375 kWh × $0.125 = $1,547 | Avoided monthly connection fee: -$36 | Net annual savings: $1,511 | Simple Payback: $15,400 ÷ $1,511 = 10.2 years | But This Doesn't Account for Rate Increases..."
+            "content": "Cash Purchase Payback Example: 7.5 kW System Details: Total installation cost: $23,000 | 30% federal tax credit: -$6,600 | Net investment: $15,400 | Annual production: 12,375 kWh | Current electric rate: $0.125/kWh average | First-Year Savings Calculation: Electricity offset: 12,375 kWh × $0.125 = $1,547 | Avoided monthly connection fee: -$36 | Net annual savings: $1,511 | Simple Payback: $15,400 ÷ $1,511 = 10.2 years | But This Doesn't Account for Rate Increases..."
       },
       {
             "type": "paragraph",
@@ -542,7 +542,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Financed System Payback Example: Same 7.5 kW System, 15-Year Solar Loan at 4.99% APR: Total installation cost: $22,000 | 30% tax credit claimed by homeowner: -$6,600 | Monthly loan payment: $174 | Current average monthly electric bill: $195 | Monthly Cash Flow Analysis: Electric bill savings: $195 | Loan payment: -$174 | Net positive monthly cash flow: $21 | You're saving money from day one! Total Loan Interest Paid: $9,320 over 15 years | Effective Total Cost: $22,000 + $9,320 interest - $6,600 tax credit = $24,720 | Cumulative Electricity Savings (15 years with 3.2% annual rate increases): $32,880 | Net Benefit After Loan Payoff: $8,160 | Then 10+ Years of Free Electricity: Years 16-25 provide completely free electricity worth another $28,000-$35,000."
+            "content": "Financed System Payback Example: Same 7.5 kW System, 15-Year Solar Loan at 4.99% APR: Total installation cost: $23,000 | 30% tax credit claimed by homeowner: -$6,600 | Monthly loan payment: $174 | Current average monthly electric bill: $195 | Monthly Cash Flow Analysis: Electric bill savings: $195 | Loan payment: -$174 | Net positive monthly cash flow: $21 | You're saving money from day one! Total Loan Interest Paid: $9,320 over 15 years | Effective Total Cost: $23,000 + $9,320 interest - $6,600 tax credit = $24,720 | Cumulative Electricity Savings (15 years with 3.2% annual rate increases): $32,880 | Net Benefit After Loan Payoff: $8,160 | Then 10+ Years of Free Electricity: Years 16-25 provide completely free electricity worth another $28,000-$35,000."
       },
       {
             "type": "heading",
@@ -642,7 +642,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Verified Customer Satisfaction: Our track record speaks for itself: 22,000+ five-star customer reviews across all services, A+ BBB rating with zero unresolved complaints, 98.4% customer satisfaction rating from verified post-installation surveys, Thousands of local referrals from satisfied solar customers, Featured in local media for solar expertise and customer service excellence. We've earned Tucson's trust through consistent delivery of exceptional results—one installation at a time."
+            "content": "Verified Customer Satisfaction: Our track record speaks for itself: 23,000+ five-star customer reviews across all services, A+ BBB rating with zero unresolved complaints, 98.4% customer satisfaction rating from verified post-installation surveys, Thousands of local referrals from satisfied solar customers, Featured in local media for solar expertise and customer service excellence. We've earned Tucson's trust through consistent delivery of exceptional results—one installation at a time."
       },
       {
             "type": "testimonial",

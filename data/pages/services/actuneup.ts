@@ -10,7 +10,7 @@ export const actuneupData: ServicePageData = {
   
   // Hero Section
   h1: 'Highest-Rated AC Tune-Up in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Pre-Season Tune-Ups | Complete System Inspection | Efficiency Optimization | Prevent Breakdowns',
   heroImage: '/generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.webp',
   heroImageAlt: 'Professional AC tune-up maintenance service in Tucson home',
@@ -73,7 +73,7 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ac-service-tucson|AC maintenance] provider in Pima County. When you're trusting a company with your family's comfort during 110-degree heat, you're choosing the company your neighbors rely on for their [link:/guarantees|family-owned, veteran-operated service with industry-leading guarantees]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ac-service-tucson|AC maintenance] provider in Pima County. When you're trusting a company with your family's comfort during 110-degree heat, you're choosing the company your neighbors rely on for their [link:/guarantees|family-owned, veteran-operated service with industry-leading guarantees]."
       },
       {
             "type": "paragraph",
@@ -405,13 +405,13 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "22,000+ Five-Star Reviews, 4.97-Star Google Rating",
+            "heading": "23,000+ Five-Star Reviews, 4.97-Star Google Rating",
             "level": 3,
-            "content": "22,000+ Five-Star Reviews, 4.97-Star Google Rating"
+            "content": "23,000+ Five-Star Reviews, 4.97-Star Google Rating"
       },
       {
             "type": "paragraph",
-            "content": "Our nearly perfect 4.97-star rating from 22,000+ verified Google reviews represents the highest customer satisfaction of any HVAC company in Southern Arizona. These aren't purchased or incentivized reviews—they're genuine feedback from real Tucson homeowners describing their experiences with our service. Customers consistently mention our technicians' professionalism and expertise, transparent pricing with no surprise charges, respect for their homes and property, thorough explanations of work performed, and fair recommendations without high-pressure sales tactics. We've been voted Best of Tucson for HVAC service 7 consecutive years (2018-2024), and our Net Promoter Score of 87 places us in the top 1% of home service companies nationally for customer loyalty and referrals."
+            "content": "Our nearly perfect 4.97-star rating from 23,000+ verified Google reviews represents the highest customer satisfaction of any HVAC company in Southern Arizona. These aren't purchased or incentivized reviews—they're genuine feedback from real Tucson homeowners describing their experiences with our service. Customers consistently mention our technicians' professionalism and expertise, transparent pricing with no surprise charges, respect for their homes and property, thorough explanations of work performed, and fair recommendations without high-pressure sales tactics. We've been voted Best of Tucson for HVAC service 7 consecutive years (2018-2024), and our Net Promoter Score of 87 places us in the top 1% of home service companies nationally for customer loyalty and referrals."
       },
       {
             "type": "heading",

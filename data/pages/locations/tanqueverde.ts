@@ -74,7 +74,7 @@ export const tanqueverdeData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {
@@ -165,11 +165,11 @@ export const tanqueverdeData: LocationPageData = {
       },
       {
             "type": "list",
-            "content": "Local Knowledge: We've been serving Tanque Verde since 1979, understanding the unique needs of homes in this desert environment from older established properties to newer developments. | Quick Service: Our location enables fast response throughout Tanque Verde with same-day appointments and 1-2 hour emergency response times when you need us most. | Trusted Excellence: With over 22,000 five-star reviews and BBB A+ rating, we've earned the confidence of families throughout the Tucson area through consistent quality and integrity.",
+            "content": "Local Knowledge: We've been serving Tanque Verde since 1979, understanding the unique needs of homes in this desert environment from older established properties to newer developments. | Quick Service: Our location enables fast response throughout Tanque Verde with same-day appointments and 1-2 hour emergency response times when you need us most. | Trusted Excellence: With over 23,000 five-star reviews and BBB A+ rating, we've earned the confidence of families throughout the Tucson area through consistent quality and integrity.",
             "items": [
                   "Local Knowledge: We've been serving Tanque Verde since 1979, understanding the unique needs of homes in this desert environment from older established properties to newer developments.",
                   "Quick Service: Our location enables fast response throughout Tanque Verde with same-day appointments and 1-2 hour emergency response times when you need us most.",
-                  "Trusted Excellence: With over 22,000 five-star reviews and BBB A+ rating, we've earned the confidence of families throughout the Tucson area through consistent quality and integrity."
+                  "Trusted Excellence: With over 23,000 five-star reviews and BBB A+ rating, we've earned the confidence of families throughout the Tucson area through consistent quality and integrity."
     ]
   },
 ]

@@ -9,8 +9,8 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 import PulseMWidget from '@/components/integrations/PulseMWidget';
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Customer Reviews | 22,000+ Five-Star Reviews | Intelligent Design Tucson',
-  description: '22,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
+  title: 'Customer Reviews | 23,000+ Five-Star Reviews | Intelligent Design Tucson',
+  description: '23,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
   canonicalUrl: 'https://www.idesignac.com/customer-reviews',
   keywords: ['customer reviews Tucson', 'HVAC reviews', 'plumbing reviews', 'Google reviews', 'verified reviews', '5-star service Tucson', 'best rated home services'],
 });
@@ -176,7 +176,7 @@ const videoSchema = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": "Customer Stories: Why Tucson Trusts Intelligent Design",
-  "description": "Hear from real Tucson homeowners about their experiences with Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. 22,000+ five-star reviews from satisfied customers across HVAC, plumbing, solar, electrical, and roofing services.",
+  "description": "Hear from real Tucson homeowners about their experiences with Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. 23,000+ five-star reviews from satisfied customers across HVAC, plumbing, solar, electrical, and roofing services.",
   "thumbnailUrl": "https://img.youtube.com/vi/IKk4kTp_IrQ/maxresdefault.jpg",
   "uploadDate": "2023-06-15T00:00:00Z",
   "duration": "PT2M45S",
@@ -229,13 +229,13 @@ export default function CustomerReviewsPage() {
           <div className="relative z-10 max-w-7xl mx-auto px-4">
             <div className="max-w-4xl">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
-                22,000+ Five-Star Customer Reviews
+                23,000+ Five-Star Customer Reviews
               </h1>
               <p className="text-xl md:text-2xl text-white/90 mb-4" data-testid="text-hero-subtitle">
                 See Why Tucson Trusts Intelligent Design
               </p>
               <p className="text-lg text-white/80 mb-8" data-testid="text-hero-description">
-                Real reviews from real customers. Discover why over 22,000 Tucson homeowners have given us 5-star ratings for our HVAC, plumbing, solar, electrical, and roofing services.
+                Real reviews from real customers. Discover why over 23,000 Tucson homeowners have given us 5-star ratings for our HVAC, plumbing, solar, electrical, and roofing services.
               </p>
               
               {/* Rating Display */}
@@ -250,7 +250,7 @@ export default function CustomerReviewsPage() {
                 </div>
                 <div className="h-12 w-px bg-white/30"></div>
                 <div>
-                  <div className="text-3xl font-bold">22,000+</div>
+                  <div className="text-3xl font-bold">23,000+</div>
                   <div className="text-sm text-white/80">Five-Star Reviews</div>
                 </div>
                 <div className="h-12 w-px bg-white/30"></div>
@@ -305,7 +305,7 @@ export default function CustomerReviewsPage() {
               <Card>
                 <CardContent className="p-6 text-center">
                   <ThumbsUp className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-4xl font-bold text-primary mb-2">22,000+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">23,000+</div>
                   <p className="font-semibold">Five-Star Reviews</p>
                   <p className="text-sm text-muted-foreground">All platforms</p>
                 </CardContent>
@@ -425,7 +425,7 @@ export default function CustomerReviewsPage() {
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-all-reviews-title">
-                22,000+ Five-Star Reviews Across All Platforms
+                23,000+ Five-Star Reviews Across All Platforms
               </h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Browse reviews from Google, Yelp, Facebook, BBB, and more. See what real customers are saying about our HVAC, plumbing, solar, electrical, and roofing services.
@@ -436,7 +436,7 @@ export default function CustomerReviewsPage() {
                   <strong className="text-foreground">3,500+ Google Reviews</strong>
                 </span>
                 <span className="text-muted-foreground">•</span>
-                <span><strong className="text-foreground">22,000+ Total Five-Star Reviews</strong></span>
+                <span><strong className="text-foreground">23,000+ Total Five-Star Reviews</strong></span>
                 <span className="text-muted-foreground">•</span>
                 <span><strong className="text-foreground">5.0 Average Rating</strong></span>
               </div>
@@ -453,7 +453,7 @@ export default function CustomerReviewsPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Tucson Chooses Intelligent Design</h2>
               <p className="text-xl text-muted-foreground">
-                The reasons behind our 22,000+ five-star reviews
+                The reasons behind our 23,000+ five-star reviews
               </p>
             </div>
 
@@ -500,7 +500,7 @@ export default function CustomerReviewsPage() {
               <div>
                 <h3 className="text-xl font-semibold mb-2">How many customer reviews does Intelligent Design have?</h3>
                 <p className="text-muted-foreground">
-                  Intelligent Design has over 22,000 verified five-star customer reviews across all platforms including Google (3,500+ reviews), BBB, Yelp, Facebook, and more. This makes us one of the highest-rated home service companies in Tucson and all of Southern Arizona.
+                  Intelligent Design has over 23,000 verified five-star customer reviews across all platforms including Google (3,500+ reviews), BBB, Yelp, Facebook, and more. This makes us one of the highest-rated home service companies in Tucson and all of Southern Arizona.
                 </p>
               </div>
 
@@ -549,7 +549,7 @@ export default function CustomerReviewsPage() {
               Experience 5-Star Service Yourself
             </h2>
             <p className="text-xl mb-8 max-w-3xl mx-auto" data-testid="text-cta-description">
-              Join 22,000+ satisfied customers in Tucson. Schedule your service today and discover why families trust Intelligent Design for all their home service needs.
+              Join 23,000+ satisfied customers in Tucson. Schedule your service today and discover why families trust Intelligent Design for all their home service needs.
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <SchedulerEmbed 

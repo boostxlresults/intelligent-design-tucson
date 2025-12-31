@@ -36,7 +36,7 @@ export const hvacpicturerocksData: ServicePageData = {
     "description": "Top-rated AC systems from Carrier, Trane, Lennox, and other leading manufacturers, all sized and installed correctly."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Picture Rocks customers. Our reputation speaks to our quality and service."
   },
   {
@@ -81,7 +81,7 @@ export const hvacpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Elite Technical Expertise Serving Picture Rocks Since 1979: Our 68 NATE-certified HVAC technicians average 17+ years of hands-on heating and cooling experience working with both vintage equipment common in older Picture Rocks homes and cutting-edge high-efficiency systems homeowners install when replacing aging equipment. Every technician completes 120+ hours of annual manufacturer training on the latest AC technology, heat pump systems, ductless mini-splits, smart thermostats, and indoor air quality equipment. We're factory-authorized dealers for Carrier, Trane, Lennox, Goodman, Rheem, American Standard, and 15+ other major brands, ensuring genuine OEM parts, manufacturer warranty coverage, and technical support for any HVAC system. Our technicians undergo extensive training in Picture Rocks-specific challenges including extreme dust management, solar power system integration common in off-grid homes, heat pump sizing for all-electric properties, and ductwork sealing techniques for homes on shifting desert soils. We've earned the trust of over 850 Picture Rocks families with our 4.97-star Google rating from 22,000+ total reviews—the highest-rated HVAC company serving northwest Tucson. Our [link:/customer-reviews|verified customer testimonials] demonstrate our capability, reliability, and commitment to honest service that has made us the most-referred HVAC provider in Picture Rocks."
+            "content": "Elite Technical Expertise Serving Picture Rocks Since 1979: Our 68 NATE-certified HVAC technicians average 17+ years of hands-on heating and cooling experience working with both vintage equipment common in older Picture Rocks homes and cutting-edge high-efficiency systems homeowners install when replacing aging equipment. Every technician completes 120+ hours of annual manufacturer training on the latest AC technology, heat pump systems, ductless mini-splits, smart thermostats, and indoor air quality equipment. We're factory-authorized dealers for Carrier, Trane, Lennox, Goodman, Rheem, American Standard, and 15+ other major brands, ensuring genuine OEM parts, manufacturer warranty coverage, and technical support for any HVAC system. Our technicians undergo extensive training in Picture Rocks-specific challenges including extreme dust management, solar power system integration common in off-grid homes, heat pump sizing for all-electric properties, and ductwork sealing techniques for homes on shifting desert soils. We've earned the trust of over 850 Picture Rocks families with our 4.97-star Google rating from 23,000+ total reviews—the highest-rated HVAC company serving northwest Tucson. Our [link:/customer-reviews|verified customer testimonials] demonstrate our capability, reliability, and commitment to honest service that has made us the most-referred HVAC provider in Picture Rocks."
       },
       {
             "type": "paragraph",

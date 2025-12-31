@@ -8,7 +8,7 @@ import { generalAreaFAQs } from '@/data/faqs/general';
 export const tortolitaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tortolita, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tortolita. Serving this growing community northwest of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tortolita. Serving this growing community northwest of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'tortolita',
   
   // Hero Section

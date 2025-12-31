@@ -160,7 +160,7 @@ export default function SpecialOffersPage() {
               </h1>
             </div>
             <p className="text-xl text-muted-foreground max-w-3xl">
-              Save on expert HVAC, plumbing, solar, electrical, and roofing services in Tucson. Family and veteran-owned company with over 22,000 satisfied customers.
+              Save on expert HVAC, plumbing, solar, electrical, and roofing services in Tucson. Family and veteran-owned company with over 23,000 satisfied customers.
             </p>
           </div>
         </section>
@@ -235,7 +235,7 @@ export default function SpecialOffersPage() {
               
               <Card className="p-6 text-center">
                 <Phone className="w-12 h-12 text-primary mx-auto mb-4" />
-                <h3 className="font-bold text-foreground mb-2">22,000+ Happy Customers</h3>
+                <h3 className="font-bold text-foreground mb-2">23,000+ Happy Customers</h3>
                 <p className="text-sm text-muted-foreground">Trusted by Tucson families since day one</p>
               </Card>
               

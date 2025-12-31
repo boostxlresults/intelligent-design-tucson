@@ -31,7 +31,7 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
     },
     {
       "title": "Red Rock / Casa Grande Community Trust",
-      "description": "Growing community partner | 4.97-star rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Growing community partner | 4.97-star rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Complete Drain Services",

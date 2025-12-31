@@ -6,12 +6,12 @@ import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingcortaroData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Cortaro AZ | Furnace Repair & Installation | Heat Pumps',
-  description: 'Expert heating services in Cortaro, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Specialized heating solutions for Cortaro homes.',
+  description: 'Expert heating services in Cortaro, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Specialized heating solutions for Cortaro homes.',
   slug: 'heating-cortaro',
   
   // Hero Section
   h1: 'Complete Heating Services in Cortaro, AZ',
-  h2Subheading: 'Your Trusted Cortaro Heating Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Cortaro Heating Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Furnace Repair | Installation | Heat Pumps | Dual-Fuel Systems | Maintenance | 24/7 Emergency Service',
   heroImage: '/generated_images/Heating_tech_annual_inspection_2e793a47.webp',
   heroImageAlt: 'Professional heating technician providing expert furnace service in Cortaro, Arizona',
@@ -35,7 +35,7 @@ export const heatingcortaroData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Expert furnace & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated heating company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const heatingcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families including thousands in Cortaro, with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design, you're selecting the company your Cortaro neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families including thousands in Cortaro, with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design, you're selecting the company your Cortaro neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -325,7 +325,7 @@ export const heatingcortaroData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Contact us today for expert heating service in Cortaro: Call (520) 333-2665 for immediate assistance or emergency service, schedule online for convenient appointment booking and same-day service availability, request a free estimate for new heating system installation or replacement, ask about our maintenance plans for year-round protection and savings, or explore financing options with 0% APR for 60 months on qualifying purchases. When you call, let us know you're in Cortaro, and we'll dispatch the nearest available technician from our fleet of 42 service vehicles to ensure the fastest possible response. Experience the difference that 46+ years of heating expertise, 22,000+ five-star reviews, and BBB A+ accreditation make—choose Intelligent Design for all your Cortaro heating needs."
+            "content": "Contact us today for expert heating service in Cortaro: Call (520) 333-2665 for immediate assistance or emergency service, schedule online for convenient appointment booking and same-day service availability, request a free estimate for new heating system installation or replacement, ask about our maintenance plans for year-round protection and savings, or explore financing options with 0% APR for 60 months on qualifying purchases. When you call, let us know you're in Cortaro, and we'll dispatch the nearest available technician from our fleet of 42 service vehicles to ensure the fastest possible response. Experience the difference that 46+ years of heating expertise, 23,000+ five-star reviews, and BBB A+ accreditation make—choose Intelligent Design for all your Cortaro heating needs."
       }
 ]
   },

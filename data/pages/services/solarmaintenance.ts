@@ -39,7 +39,7 @@ export const solarmaintenanceData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local specialists | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local specialists | Trusted since 1979"
   },
   {
     "title": "Maximize Investment Protection",
@@ -69,7 +69,7 @@ export const solarmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Excellence & Industry-Leading Trust: Intelligent Design has earned the confidence of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/residential-solar-installation|solar company] in Southern Arizona. We've been Tucson's #1 rated solar maintenance provider for 5 consecutive years (2020-2024), maintaining BBB A+ accreditation since 1979 with zero solar-related complaints. Our commitment to transparent pricing, meticulous workmanship, and customer satisfaction has made us the most-referred solar maintenance provider in Pima County. When you're protecting a $15,000-$35,000 solar investment that should produce clean energy and electricity savings for 25-30 years, you're choosing the company your neighbors trust for their [link:/customer-reviews|family-owned, veteran-operated service with comprehensive satisfaction guarantees]."
+            "content": "Proven Excellence & Industry-Leading Trust: Intelligent Design has earned the confidence of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/residential-solar-installation|solar company] in Southern Arizona. We've been Tucson's #1 rated solar maintenance provider for 5 consecutive years (2020-2024), maintaining BBB A+ accreditation since 1979 with zero solar-related complaints. Our commitment to transparent pricing, meticulous workmanship, and customer satisfaction has made us the most-referred solar maintenance provider in Pima County. When you're protecting a $15,000-$35,000 solar investment that should produce clean energy and electricity savings for 25-30 years, you're choosing the company your neighbors trust for their [link:/customer-reviews|family-owned, veteran-operated service with comprehensive satisfaction guarantees]."
       },
       {
             "type": "paragraph",
@@ -706,7 +706,7 @@ export const solarmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design stands apart as Tucson's premier solar maintenance provider through our unique combination of deep local experience, comprehensive multi-trade capabilities, and proven commitment to customer satisfaction. Since 1979, we've served over 85,000 Tucson-area families, building reputation and expertise that reflects in our industry-leading 4.97-star rating from 22,000+ verified reviews. Our solar division launched in 2007, making us among Tucson's earliest solar adopters with 17+ years of photovoltaic experience. This longevity means we've maintained systems through multiple equipment generations, understand long-term performance patterns, and bring depth of experience solving problems newer companies haven't encountered."
+            "content": "Intelligent Design stands apart as Tucson's premier solar maintenance provider through our unique combination of deep local experience, comprehensive multi-trade capabilities, and proven commitment to customer satisfaction. Since 1979, we've served over 85,000 Tucson-area families, building reputation and expertise that reflects in our industry-leading 4.97-star rating from 23,000+ verified reviews. Our solar division launched in 2007, making us among Tucson's earliest solar adopters with 17+ years of photovoltaic experience. This longevity means we've maintained systems through multiple equipment generations, understand long-term performance patterns, and bring depth of experience solving problems newer companies haven't encountered."
       },
       {
             "type": "paragraph",

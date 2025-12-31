@@ -10,7 +10,7 @@ export const ductinstallationData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Duct Installation Services in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'New Construction | Whole-Home Replacement | Proper Sizing & Design',
   heroImage: '/generated_images/Duct_installation_service_Tucson_home_0e426c42.webp',
   heroImageAlt: 'Professional HVAC technicians installing new ductwork in Tucson home',
@@ -39,7 +39,7 @@ export const ductinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Installation Experience",
-    "description": "NATE certified technicians | 22,000+ five-star reviews | Licensed & insured | Family & veteran-owned"
+    "description": "NATE certified technicians | 23,000+ five-star reviews | Licensed & insured | Family & veteran-owned"
   },
   {
     "title": "Free Estimates & Financing",
@@ -65,7 +65,7 @@ export const ductinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 8,400 duct installation projects since 2005, from compact 1,200-square-foot starter homes to expansive 5,000+ square-foot luxury estates in the Catalina Foothills. Our commitment to proper design, quality materials, and meticulous installation has made us the preferred ductwork contractor for Tucson's leading home builders, architects, and homeowners who demand the best. When you're investing in new ductwork, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 8,400 duct installation projects since 2005, from compact 1,200-square-foot starter homes to expansive 5,000+ square-foot luxury estates in the Catalina Foothills. Our commitment to proper design, quality materials, and meticulous installation has made us the preferred ductwork contractor for Tucson's leading home builders, architects, and homeowners who demand the best. When you're investing in new ductwork, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
       },
       {
             "type": "paragraph",
@@ -665,7 +665,7 @@ export const ductinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Satisfaction: Our 22,000+ five-star reviews and 4.97-star average rating reflect our unwavering commitment to customer satisfaction. We don't consider a project complete until you're thrilled with the results. Read what your neighbors say about our service on our [link:/customer-reviews|customer reviews] page."
+            "content": "Customer Satisfaction: Our 23,000+ five-star reviews and 4.97-star average rating reflect our unwavering commitment to customer satisfaction. We don't consider a project complete until you're thrilled with the results. Read what your neighbors say about our service on our [link:/customer-reviews|customer reviews] page."
       }
 ]
   },

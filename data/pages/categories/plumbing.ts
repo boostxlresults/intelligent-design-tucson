@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const plumbingCategoryData: ServiceCategoryData = {
   title: 'Plumbing Services Tucson | Water Heaters, Drains & More | Intelligent Design',
-  description: 'Professional plumbing services in Tucson, AZ. Water heater repair, drain clearing, leak detection & more. Family & veteran-owned with 22,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Professional plumbing services in Tucson, AZ. Water heater repair, drain clearing, leak detection & more. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'plumbing',
   h1: 'Tucson Plumbing Services',
   h2Subheading: 'Expert Plumbers You Can Trust',

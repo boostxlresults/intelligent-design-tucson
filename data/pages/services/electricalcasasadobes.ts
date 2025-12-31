@@ -4,7 +4,7 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricalcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Casas Adobes AZ | Panel Upgrades | EV Chargers | Licensed Electrical Services',
-  description: 'Expert electrician serving Casas Adobes, AZ since 1979. Panel upgrades, EV charger installation, generator service, lighting, emergency repairs. 22,000+ 5-star reviews. BBB A+ rated. Same-day service available.',
+  description: 'Expert electrician serving Casas Adobes, AZ since 1979. Panel upgrades, EV charger installation, generator service, lighting, emergency repairs. 23,000+ 5-star reviews. BBB A+ rated. Same-day service available.',
   slug: 'electrical-casas-adobes',
   
   // Hero Section
@@ -30,7 +30,7 @@ export const electricalcasasadobesData: ServicePageData = {
     },
     {
       "title": "Casas Adobes Community Trust",
-      "description": "3,800+ Casas Adobes customers served | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation since 1979 | Most-referred electrician in Amphi/Flowing Wells area"
+      "description": "3,800+ Casas Adobes customers served | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation since 1979 | Most-referred electrician in Amphi/Flowing Wells area"
     },
     {
       "title": "Comprehensive Electrical Services",
@@ -68,7 +68,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Casas Adobes families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, including hundreds from your Casas Adobes neighbors. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated electrical service provider in the Amphi/Flowing Wells/Casas Adobes area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees), quality workmanship (all work warrantied), and exceptional customer service has made us the most-referred electrical company among Casas Adobes homeowners. When your Casas Adobes neighbors need electrical service, they call Intelligent Design."
+        "content": "Community Trust & Proven Track Record: Intelligent Design has earned the trust of Casas Adobes families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, including hundreds from your Casas Adobes neighbors. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and have been the #1 rated electrical service provider in the Amphi/Flowing Wells/Casas Adobes area for 7 consecutive years. Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees), quality workmanship (all work warrantied), and exceptional customer service has made us the most-referred electrical company among Casas Adobes homeowners. When your Casas Adobes neighbors need electrical service, they call Intelligent Design."
       },
       {
         "type": "cta",
@@ -495,7 +495,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Painted Hills - Solar & EV Charger Integration: *'After 25 years in our Painted Hills home, we decided to go green with solar panels and electric vehicle. Intelligent Design designed integrated solution: 8.5kW solar system, 200-amp panel upgrade (needed for both solar and EV charger), Tesla Wall Connector installation, whole-home energy monitoring, and smart electrical optimization. The results have been incredible: monthly electric bills reduced from $280 average to $18-35, eliminated $2,400 annually in gasoline costs with our Model Y, home value increased substantially (realtor estimated $22,000-28,000), and we're offsetting 11 tons of CO2 annually. The project seemed complex, but Intelligent Design handled everything: TEP interconnection, permits, installations, inspections, and training us on the systems. The integrated approach saved us money versus separate contractors, and everything works flawlessly together. Best home improvement we've ever made, and the Intelligent Design team made it effortless.'* — Robert & Patricia M., Painted Hills"
+        "content": "Painted Hills - Solar & EV Charger Integration: *'After 25 years in our Painted Hills home, we decided to go green with solar panels and electric vehicle. Intelligent Design designed integrated solution: 8.5kW solar system, 200-amp panel upgrade (needed for both solar and EV charger), Tesla Wall Connector installation, whole-home energy monitoring, and smart electrical optimization. The results have been incredible: monthly electric bills reduced from $280 average to $18-35, eliminated $2,400 annually in gasoline costs with our Model Y, home value increased substantially (realtor estimated $23,000-28,000), and we're offsetting 11 tons of CO2 annually. The project seemed complex, but Intelligent Design handled everything: TEP interconnection, permits, installations, inspections, and training us on the systems. The integrated approach saved us money versus separate contractors, and everything works flawlessly together. Best home improvement we've ever made, and the Intelligent Design team made it effortless.'* — Robert & Patricia M., Painted Hills"
       },
       {
         "type": "paragraph",
@@ -523,7 +523,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Painted Hills (Mid 1980s-Early 1990s): This attractive neighborhood features well-maintained single-story homes (1,700-2,200 sq ft) with tile roofs and desert landscaping, popular with empty-nesters and professional families. Electrical characteristics include 125-150 amp panels (better than older neighborhoods but often still inadequate for solar + EV chargers), copper wiring throughout (avoiding aluminum wiring complications), better GFCI protection than older neighborhoods (but still lacking modern AFCI protection), higher-end electrical fixtures original to homes (quality but outdated styling), solar-ready roof orientations (many homes ideal for solar), and professional demographic prioritizing technology and sustainability. Popular electrical upgrades: 200-amp panel upgrades preparing for solar and EV chargers ($2,800-4,600), residential solar installation (7-10kW systems $15,000-22,000 after tax credits), Level 2 EV charger installation supporting professional's electric vehicles ($1,400-2,200), whole-home automation and smart electrical ($2,200-5,500), outdoor living electrical for entertaining spaces ($1,200-3,800), and energy monitoring systems for tech-forward homeowners ($400-800). Painted Hills electrical projects emphasize energy efficiency, sustainability, and smart home technology."
+        "content": "Painted Hills (Mid 1980s-Early 1990s): This attractive neighborhood features well-maintained single-story homes (1,700-2,200 sq ft) with tile roofs and desert landscaping, popular with empty-nesters and professional families. Electrical characteristics include 125-150 amp panels (better than older neighborhoods but often still inadequate for solar + EV chargers), copper wiring throughout (avoiding aluminum wiring complications), better GFCI protection than older neighborhoods (but still lacking modern AFCI protection), higher-end electrical fixtures original to homes (quality but outdated styling), solar-ready roof orientations (many homes ideal for solar), and professional demographic prioritizing technology and sustainability. Popular electrical upgrades: 200-amp panel upgrades preparing for solar and EV chargers ($2,800-4,600), residential solar installation (7-10kW systems $15,000-23,000 after tax credits), Level 2 EV charger installation supporting professional's electric vehicles ($1,400-2,200), whole-home automation and smart electrical ($2,200-5,500), outdoor living electrical for entertaining spaces ($1,200-3,800), and energy monitoring systems for tech-forward homeowners ($400-800). Painted Hills electrical projects emphasize energy efficiency, sustainability, and smart home technology."
       },
       {
         "type": "paragraph",
@@ -629,7 +629,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "What to Expect from Your Electrical Service Visit: When you schedule electrical service with Intelligent Design, expect professional, efficient service from start to finish: Before the Visit - confirmation call or text 30-60 minutes before arrival providing technician name and photo, real-time GPS tracking showing arrival time, and opportunity to ask questions or add service requests. During the Visit - licensed, uniformed electrician arrives in clearly marked company vehicle, completes thorough evaluation and diagnosis of your electrical needs, provides detailed explanation of findings and all available options, presents upfront flat-rate pricing before starting work (you approve all work and costs), completes work efficiently using quality materials and professional techniques, tests all work ensuring safe, reliable operation, cleans work area leaving your home cleaner than found, and answers all questions ensuring your complete understanding. After the Visit - detailed invoice documenting all work performed, warranty information and service records, follow-up call ensuring your complete satisfaction, and priority scheduling for any future service needs. This comprehensive approach has earned us 22,000+ five-star reviews from Tucson homeowners including hundreds of your Casas Adobes neighbors."
+        "content": "What to Expect from Your Electrical Service Visit: When you schedule electrical service with Intelligent Design, expect professional, efficient service from start to finish: Before the Visit - confirmation call or text 30-60 minutes before arrival providing technician name and photo, real-time GPS tracking showing arrival time, and opportunity to ask questions or add service requests. During the Visit - licensed, uniformed electrician arrives in clearly marked company vehicle, completes thorough evaluation and diagnosis of your electrical needs, provides detailed explanation of findings and all available options, presents upfront flat-rate pricing before starting work (you approve all work and costs), completes work efficiently using quality materials and professional techniques, tests all work ensuring safe, reliable operation, cleans work area leaving your home cleaner than found, and answers all questions ensuring your complete understanding. After the Visit - detailed invoice documenting all work performed, warranty information and service records, follow-up call ensuring your complete satisfaction, and priority scheduling for any future service needs. This comprehensive approach has earned us 23,000+ five-star reviews from Tucson homeowners including hundreds of your Casas Adobes neighbors."
       },
       {
         "type": "paragraph",
@@ -657,7 +657,7 @@ export const electricalcasasadobesData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Arizona ROC Licensed & Insured | ROC #340962 (Electrical, HVAC, Plumbing) | BBB A+ Accredited Business | 22,000+ Five-Star Google Reviews | Family Owned & Operated Since 1979"
+        "content": "Arizona ROC Licensed & Insured | ROC #340962 (Electrical, HVAC, Plumbing) | BBB A+ Accredited Business | 23,000+ Five-Star Google Reviews | Family Owned & Operated Since 1979"
       },
       {
         "type": "paragraph",

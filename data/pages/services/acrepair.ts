@@ -10,7 +10,7 @@ export const acrepairData: ServicePageData = {
   
   // Hero Section
   h1: 'Highest-Rated AC Repair in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency AC Repair | Fast Response Times | Expert Technicians',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
   heroImageAlt: 'Professional AC repair technician servicing air conditioning unit in Tucson, Arizona',
@@ -27,7 +27,7 @@ export const acrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ five-star reviews | BBB A+ rated since 1979"
+    "description": "Family & veteran-owned | 23,000+ five-star reviews | BBB A+ rated since 1979"
   },
   {
     "title": "Upfront, Transparent Pricing",
@@ -65,7 +65,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",
@@ -610,7 +610,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "\"Why should I choose you over other AC repair companies?\"\n\nGreat question. Here's what genuinely sets us apart:\n\n46+ years Serving Tucson (Since 1979): We understand Tucson's unique desert climate challenges intimately. We've seen how extreme heat, monsoons, dust storms, and hard water affect AC systems. This experience means better diagnostics and longer-lasting repairs.\n\n22,000+ Five-Star Reviews: Our reputation speaks for itself. Nearly perfect 4.97 Google rating across thousands of reviews isn't luck—it's the result of treating every customer fairly and doing excellent work consistently.\n\nFamily & Veteran-Owned: We bring military precision and family values to every service call. We're not a national franchise pushing sales quotas—we're your neighbors building relationships for decades.\n\nUpfront, Transparent Pricing: Written estimates before work begins. No hidden fees, no surprise charges, no pressure tactics. If you approve the estimate, that's what you pay. If not, you owe only the diagnostic fee.\n\nExpert Certified Technicians: Our technicians average 17+ years of experience each. NATE certified, factory-trained on all major brands, background-checked, drug-tested, and committed to ongoing education.\n\n100% Satisfaction Guarantee: If we don't get it right, we make it right. Our warranty covers parts and labor. Your complete satisfaction is our reputation.\n\n24/7 Emergency Service with No Overtime: AC emergencies don't wait for business hours. Neither do we. Call anytime—our pricing stays the same around the clock.\n\nHonest Recommendations: If replacement makes more financial sense than repair, we'll tell you—even if it means a longer sales process instead of a quick repair. Your trust is worth more than any single transaction."
+            "content": "\"Why should I choose you over other AC repair companies?\"\n\nGreat question. Here's what genuinely sets us apart:\n\n46+ years Serving Tucson (Since 1979): We understand Tucson's unique desert climate challenges intimately. We've seen how extreme heat, monsoons, dust storms, and hard water affect AC systems. This experience means better diagnostics and longer-lasting repairs.\n\n23,000+ Five-Star Reviews: Our reputation speaks for itself. Nearly perfect 4.97 Google rating across thousands of reviews isn't luck—it's the result of treating every customer fairly and doing excellent work consistently.\n\nFamily & Veteran-Owned: We bring military precision and family values to every service call. We're not a national franchise pushing sales quotas—we're your neighbors building relationships for decades.\n\nUpfront, Transparent Pricing: Written estimates before work begins. No hidden fees, no surprise charges, no pressure tactics. If you approve the estimate, that's what you pay. If not, you owe only the diagnostic fee.\n\nExpert Certified Technicians: Our technicians average 17+ years of experience each. NATE certified, factory-trained on all major brands, background-checked, drug-tested, and committed to ongoing education.\n\n100% Satisfaction Guarantee: If we don't get it right, we make it right. Our warranty covers parts and labor. Your complete satisfaction is our reputation.\n\n24/7 Emergency Service with No Overtime: AC emergencies don't wait for business hours. Neither do we. Call anytime—our pricing stays the same around the clock.\n\nHonest Recommendations: If replacement makes more financial sense than repair, we'll tell you—even if it means a longer sales process instead of a quick repair. Your trust is worth more than any single transaction."
       },
       {
             "type": "heading",
@@ -730,7 +730,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews: Our reputation is built on decades of excellent service. Nearly perfect 4.97 Google rating across thousands of reviews.\n\nBBB A+ Rating: Accredited business with the highest possible rating from the Better Business Bureau.\n\nAward-Winning: Tucson's #1 HVAC company for 7 consecutive years.\n\nCommunity Trust: Thousands of Tucson families rely on us for their home comfort and safety.\n\nWhat This Means for You:\n- Proven track record of customer satisfaction\n- Consistent quality across thousands of service calls\n- Trustworthy company that stands behind our work\n- Local reputation we protect fiercely\n\nYour AC repair isn't just another job to us—it's an opportunity to earn your trust and add to our legacy of excellence in Tucson."
+            "content": "23,000+ Five-Star Reviews: Our reputation is built on decades of excellent service. Nearly perfect 4.97 Google rating across thousands of reviews.\n\nBBB A+ Rating: Accredited business with the highest possible rating from the Better Business Bureau.\n\nAward-Winning: Tucson's #1 HVAC company for 7 consecutive years.\n\nCommunity Trust: Thousands of Tucson families rely on us for their home comfort and safety.\n\nWhat This Means for You:\n- Proven track record of customer satisfaction\n- Consistent quality across thousands of service calls\n- Trustworthy company that stands behind our work\n- Local reputation we protect fiercely\n\nYour AC repair isn't just another job to us—it's an opportunity to earn your trust and add to our legacy of excellence in Tucson."
       },
       {
             "type": "heading",
@@ -740,7 +740,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't suffer through Tucson's extreme heat with a malfunctioning AC system. Whether you need emergency repair, routine maintenance, or expert advice, Intelligent Design is here to help 24/7.\n\nCall (520) 333-2665 Now or Schedule Online\n\nWhy Choose Intelligent Design for AC Repair:\n✓ 46+ years serving Tucson (since 1979)\n✓ 22,000+ five-star reviews (4.97 Google rating)\n✓ 24/7 emergency service with no overtime charges\n✓ Expert NATE-certified technicians (avg. 17+ years experience)\n✓ Upfront, transparent pricing—no hidden fees\n✓ 100% satisfaction guarantee\n✓ Family & veteran-owned\n✓ All major brands serviced\n\nSame-Day Service Available | Financing Options | Licensed & Insured\n\nExperience the Intelligent Design difference. Call now or schedule online—we're ready to restore your comfort!"
+            "content": "Don't suffer through Tucson's extreme heat with a malfunctioning AC system. Whether you need emergency repair, routine maintenance, or expert advice, Intelligent Design is here to help 24/7.\n\nCall (520) 333-2665 Now or Schedule Online\n\nWhy Choose Intelligent Design for AC Repair:\n✓ 46+ years serving Tucson (since 1979)\n✓ 23,000+ five-star reviews (4.97 Google rating)\n✓ 24/7 emergency service with no overtime charges\n✓ Expert NATE-certified technicians (avg. 17+ years experience)\n✓ Upfront, transparent pricing—no hidden fees\n✓ 100% satisfaction guarantee\n✓ Family & veteran-owned\n✓ All major brands serviced\n\nSame-Day Service Available | Financing Options | Licensed & Insured\n\nExperience the Intelligent Design difference. Call now or schedule online—we're ready to restore your comfort!"
       }
 ]
   },

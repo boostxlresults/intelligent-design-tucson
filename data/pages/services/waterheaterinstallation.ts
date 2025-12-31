@@ -41,7 +41,7 @@ export const waterheaterinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {
     "title": "Transparent Pricing",
@@ -71,7 +71,7 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater installation company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/plumbing-tucson|plumbing installation provider] in Pima County. When you're investing in a new water heater, you're choosing the company your neighbors trust with their home comfort and safety."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater installation company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/plumbing-tucson|plumbing installation provider] in Pima County. When you're investing in a new water heater, you're choosing the company your neighbors trust with their home comfort and safety."
       },
       {
             "type": "paragraph",
@@ -226,7 +226,7 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your water heater installation project. This systematic approach has earned us over 22,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona."
+            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your water heater installation project. This systematic approach has earned us over 23,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona."
       },
       {
             "type": "heading",
@@ -562,7 +562,7 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and 46+ years serving Tucson exclusively, we've earned the community's trust through consistent quality and honest service. We're a family and veteran-owned business that treats every customer like family—never pushing unnecessary upgrades or oversized equipment to inflate invoices. Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies. This expertise means we handle complex installations confidently—tankless requiring gas line upgrades and new venting systems, hybrid systems needing electrical modifications and condensate drainage, or challenging installations in tight attics, crawl spaces, or closets with limited access. We resolve unexpected challenges efficiently without surprise charges or delays, and our installations consistently pass city inspections on the first attempt because we install to code every single time."
+            "content": "With over 23,000 five-star reviews and 46+ years serving Tucson exclusively, we've earned the community's trust through consistent quality and honest service. We're a family and veteran-owned business that treats every customer like family—never pushing unnecessary upgrades or oversized equipment to inflate invoices. Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies. This expertise means we handle complex installations confidently—tankless requiring gas line upgrades and new venting systems, hybrid systems needing electrical modifications and condensate drainage, or challenging installations in tight attics, crawl spaces, or closets with limited access. We resolve unexpected challenges efficiently without surprise charges or delays, and our installations consistently pass city inspections on the first attempt because we install to code every single time."
       },
       {
             "type": "heading",

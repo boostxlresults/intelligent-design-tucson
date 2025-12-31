@@ -6,7 +6,7 @@ import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingeasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services East Tucson AZ | Furnace Repair & Heat Pump Installation',
-  description: 'Expert heating services in East Tucson, AZ since 1979. Furnace repair, heat pump installation, system replacement for established neighborhoods. 22,000+ 5-star reviews. BBB A+ rated. Specialized service for East Tucson\'s diverse housing stock and established communities.',
+  description: 'Expert heating services in East Tucson, AZ since 1979. Furnace repair, heat pump installation, system replacement for established neighborhoods. 23,000+ 5-star reviews. BBB A+ rated. Specialized service for East Tucson\'s diverse housing stock and established communities.',
   slug: 'heating-east-tucson',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const heatingeasttucsonData: ServicePageData = {
     "description": "East Tucson-based heating experts | 19+ years average experience | 120+ hours annual training | Furnace & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | #1 rated in East Tucson | Most trusted by local families"
   },
   {
@@ -66,7 +66,7 @@ export const heatingeasttucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & East Tucson Community Trust: Intelligent Design has earned the trust of over 18,500 East Tucson families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews across Southern Arizona—the highest-rated heating company serving East Tucson. We've been East Tucson's #1 rated heating service provider for 8 consecutive years (2017-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from East Tucson customers. Our deep understanding of East Tucson's unique established neighborhood character, diverse housing stock ranging from historic bungalows to modern construction, mature community infrastructure, and mixed demographic needs has made us the most-referred heating company in East Pima County. When you choose Intelligent Design, you're selecting the company your East Tucson neighbors in Sam Hughes, Rincon Heights, Broadway Village, Doolen-Fruitvale, and Jefferson Park have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
+            "content": "Proven Track Record & East Tucson Community Trust: Intelligent Design has earned the trust of over 18,500 East Tucson families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews across Southern Arizona—the highest-rated heating company serving East Tucson. We've been East Tucson's #1 rated heating service provider for 8 consecutive years (2017-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints from East Tucson customers. Our deep understanding of East Tucson's unique established neighborhood character, diverse housing stock ranging from historic bungalows to modern construction, mature community infrastructure, and mixed demographic needs has made us the most-referred heating company in East Pima County. When you choose Intelligent Design, you're selecting the company your East Tucson neighbors in Sam Hughes, Rincon Heights, Broadway Village, Doolen-Fruitvale, and Jefferson Park have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
       },
       {
             "type": "paragraph",

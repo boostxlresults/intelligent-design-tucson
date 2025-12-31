@@ -5,7 +5,7 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 export const hvaceasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services East Tucson AZ | Air Conditioning Repair & Installation Since 1979',
-  description: 'Expert HVAC & air conditioning services in East Tucson, AZ since 1979. AC repair, installation, maintenance for Davis-Monthan AFB area and diverse housing. Ductless mini-splits, heat pumps. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated.',
+  description: 'Expert HVAC & air conditioning services in East Tucson, AZ since 1979. AC repair, installation, maintenance for Davis-Monthan AFB area and diverse housing. Ductless mini-splits, heat pumps. 24/7 emergency service. 23,000+ 5-star reviews. BBB A+ rated.',
   slug: 'hvac-east-tucson',
   
   // Hero Section
@@ -31,7 +31,7 @@ export const hvaceasttucsonData: ServicePageData = {
     },
     {
       "title": "East Tucson Community Trust",
-      "description": "12,500+ East Tucson customers served | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation since 1979 | #1 rated HVAC company in East Tucson"
+      "description": "12,500+ East Tucson customers served | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation since 1979 | #1 rated HVAC company in East Tucson"
     },
     {
       "title": "ServiceTitan-Powered Response",
@@ -73,7 +73,7 @@ export const hvaceasttucsonData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Community Trust & Proven East Tucson Track Record: Intelligent Design has earned the trust of East Tucson families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, including over 850 reviews from your East Tucson neighbors across Rincon Heights, Tanque Verde, Davis-Monthan AFB area, Dorado Country Club, and foothills communities. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints from East Tucson customers and have been the #1 rated HVAC service provider in East Tucson for 8 consecutive years (2017-2024). Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees or surprise charges), quality workmanship (using premium equipment and following strict installation standards), comprehensive warranties (protecting your investment in new equipment), and exceptional customer service has made us the most-referred HVAC company among East Tucson homeowners. When your East Tucson neighbors need HVAC service, they call Intelligent Design—and confidently refer us to family and friends. Our [link:/customer-reviews|extensive East Tucson testimonials] demonstrate our capability, reliability, and community commitment spanning over four decades."
+        "content": "Community Trust & Proven East Tucson Track Record: Intelligent Design has earned the trust of East Tucson families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, including over 850 reviews from your East Tucson neighbors across Rincon Heights, Tanque Verde, Davis-Monthan AFB area, Dorado Country Club, and foothills communities. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints from East Tucson customers and have been the #1 rated HVAC service provider in East Tucson for 8 consecutive years (2017-2024). Our commitment to honest recommendations (we'll tell you when repairs make more sense than replacement), transparent upfront pricing (flat-rate pricing with no hidden fees or surprise charges), quality workmanship (using premium equipment and following strict installation standards), comprehensive warranties (protecting your investment in new equipment), and exceptional customer service has made us the most-referred HVAC company among East Tucson homeowners. When your East Tucson neighbors need HVAC service, they call Intelligent Design—and confidently refer us to family and friends. Our [link:/customer-reviews|extensive East Tucson testimonials] demonstrate our capability, reliability, and community commitment spanning over four decades."
       },
       {
         "type": "cta",

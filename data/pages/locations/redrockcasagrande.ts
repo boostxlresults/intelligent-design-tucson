@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const redrockcasagrandeData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Red Rock / Casa Grande, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Red Rock and Casa Grande. Serving zip codes 85194, 85193 between Tucson and Phoenix since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Red Rock and Casa Grande. Serving zip codes 85194, 85193 between Tucson and Phoenix since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'red-rock-casa-grande',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const redrockcasagrandeData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {

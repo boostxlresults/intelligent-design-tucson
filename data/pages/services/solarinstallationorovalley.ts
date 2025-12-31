@@ -4,13 +4,13 @@ import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 export const solarinstallationorovalleyData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation Oro Valley AZ | #1 Rated Solar Company | 22,000+ Reviews',
+  title: 'Solar Installation Oro Valley AZ | #1 Rated Solar Company | 23,000+ Reviews',
   description: 'Expert solar panel installation in Oro Valley, AZ since 1979. Specialized in tile roofs, HOA approvals, and affluent neighborhoods. 30% federal tax credit, premium equipment, BBB A+ rated. 73-minute average response. ServiceTitan dispatch excellence.',
   slug: 'solar-installation-oro-valley',
   
   // Hero Section
   h1: 'Professional Solar Installation in Oro Valley, AZ',
-  h2Subheading: 'Oro Valley\'s Most Trusted Solar Partner Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Oro Valley\'s Most Trusted Solar Partner Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Tile Roof Specialists | HOA Approval Experts | Premium Solar Panels | 30% Tax Credit | Energy Independence',
   heroImage: '/generated_images/Oro_Valley_residential_area_b0254757.webp',
   heroImageAlt: 'Professional solar panel installation on Oro Valley home with Catalina Mountain views',
@@ -34,7 +34,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
     "description": "28 NABCEP-certified installers | 17+ years average experience | 120+ hours annual training | Factory-certified for SunPower, LG, Q-Cells, Enphase, SolarEdge & more"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated solar company in Oro Valley | Most-referred in Pima County"
   },
   {
@@ -65,7 +65,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,800 Oro Valley families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated solar company in Southern Arizona. We've been Oro Valley's #1 rated solar installation provider for 6 consecutive years (2019-2024 Best of Tucson Solar awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest energy assessments (we never oversize systems), transparent pricing with detailed line-item quotes, quality installations using only tier-1 premium equipment, and exceptional customer service has made us the most-referred solar company in Oro Valley. When you choose Intelligent Design for solar, you're selecting the company your Oro Valley neighbors have trusted with their [link:/customer-reviews|energy independence and substantial home investments] for over four decades. Our Oro Valley client base includes prominent business leaders, medical professionals, corporate executives, and retirees who demand excellence and receive it."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,800 Oro Valley families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated solar company in Southern Arizona. We've been Oro Valley's #1 rated solar installation provider for 6 consecutive years (2019-2024 Best of Tucson Solar awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest energy assessments (we never oversize systems), transparent pricing with detailed line-item quotes, quality installations using only tier-1 premium equipment, and exceptional customer service has made us the most-referred solar company in Oro Valley. When you choose Intelligent Design for solar, you're selecting the company your Oro Valley neighbors have trusted with their [link:/customer-reviews|energy independence and substantial home investments] for over four decades. Our Oro Valley client base includes prominent business leaders, medical professionals, corporate executives, and retirees who demand excellence and receive it."
       },
       {
             "type": "paragraph",
@@ -164,7 +164,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Property Values & Investment Quality: Oro Valley's strong real estate market amplifies solar's property value benefits. Lawrence Berkeley National Laboratory research shows solar adds $3-4 per watt of installed capacity to home values, but Oro Valley's affluent market commands premium valuations. Our experience with Oro Valley home sales shows buyers pay $18,000-$28,000 premiums for solar-equipped homes (vs. $15,000-$22,000 metro Tucson average), with luxury home buyers particularly valuing solar as demonstrating home modernity, environmental consciousness, and ongoing cost savings. Oro Valley solar homes sell 22% faster than comparable non-solar homes and receive 97% of asking price vs. 92% for non-solar homes. For Oro Valley's status-conscious buyers, solar represents not just financial savings but alignment with sustainable living values increasingly important to affluent demographics. Real estate agents report solar as a top-3 feature luxury home buyers seek, alongside gourmet kitchens and premium outdoor living spaces."
+            "content": "Property Values & Investment Quality: Oro Valley's strong real estate market amplifies solar's property value benefits. Lawrence Berkeley National Laboratory research shows solar adds $3-4 per watt of installed capacity to home values, but Oro Valley's affluent market commands premium valuations. Our experience with Oro Valley home sales shows buyers pay $18,000-$28,000 premiums for solar-equipped homes (vs. $15,000-$23,000 metro Tucson average), with luxury home buyers particularly valuing solar as demonstrating home modernity, environmental consciousness, and ongoing cost savings. Oro Valley solar homes sell 22% faster than comparable non-solar homes and receive 97% of asking price vs. 92% for non-solar homes. For Oro Valley's status-conscious buyers, solar represents not just financial savings but alignment with sustainable living values increasingly important to affluent demographics. Real estate agents report solar as a top-3 feature luxury home buyers seek, alongside gourmet kitchens and premium outdoor living spaces."
       },
       {
             "type": "paragraph",
@@ -470,7 +470,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solar's financial returns depend on system cost, energy production, electric rates, and consumption patterns. We provide detailed ROI scenarios for typical Oro Valley installations. Small Home Scenario (6kW System): Home Profile: 1,800 sq ft, no pool, monthly consumption 950 kWh average, current TEP bills $135-$155 monthly. System Details: 6kW system using 15 Q-Cells 400W panels, SolarEdge inverter with optimizers, gross cost $18,000, net cost after tax credit $12,600, annual production 9,400-10,200 kWh (offsetting 90% of consumption). Financial Results: Annual savings $1,740 (current rates), payback period 7.2 years, 25-year total savings $43,500, 25-year ROI 245%, and property value increase $18,000-$22,000."
+            "content": "Solar's financial returns depend on system cost, energy production, electric rates, and consumption patterns. We provide detailed ROI scenarios for typical Oro Valley installations. Small Home Scenario (6kW System): Home Profile: 1,800 sq ft, no pool, monthly consumption 950 kWh average, current TEP bills $135-$155 monthly. System Details: 6kW system using 15 Q-Cells 400W panels, SolarEdge inverter with optimizers, gross cost $18,000, net cost after tax credit $12,600, annual production 9,400-10,200 kWh (offsetting 90% of consumption). Financial Results: Annual savings $1,740 (current rates), payback period 7.2 years, 25-year total savings $43,500, 25-year ROI 245%, and property value increase $18,000-$23,000."
       },
       {
             "type": "paragraph",
@@ -619,7 +619,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Repair Makes Sense When:\n- Single component failure (one panel, one microinverter, one string optimizer)\n- System is under 15 years old\n- Panels still producing 85%+ of original output\n- Roof has 10+ years remaining lifespan\n- Repair cost under $2,000\n- Overall system meets your energy needs\n\nConsider Upgrades/Expansion When:\n- System is 15-20+ years old and multiple components failing\n- Panels degraded below 75% original output\n- Your energy needs increased significantly (added EV, pool, home addition)\n- New solar technology offers compelling advantages (significantly higher efficiency)\n- You're re-roofing anyway (opportunity to upgrade at lower incremental cost)\n- Battery storage becomes economically attractive\n\nReal-World Scenarios for Oro Valley Homeowners:\n\nScenario 1: System is 18 years old, string inverter fails, panels producing 82% of original output. Decision: Replace string inverter ($3,000), continue operating 7+ more years until panels reach end of practical life. Total investment $22,000 in 2007, produced $45,000 in savings by 2025, new inverter provides 7+ more years (additional $12,000 savings). Repair is clear choice.\n\nScenario 2: System is 25 years old, panels producing 74% output, planning to add pool and two EVs doubling energy consumption. Decision: Complete system replacement with doubled capacity (20kW system vs. original 10kW). New system provides 100% coverage of increased loads, modern panel efficiency, battery storage for EV time-of-use charging, and qualifies for current 30% federal tax credit. Original system paid for itself 3× over, new system designed for next 30 years serving expanded needs.\n\nScenario 3: System is 8 years old, one microinverter failed, panels performing excellently at 97% output. Decision: Replace failed microinverter ($200 + service call), continue operating. System has 17+ years of strong production ahead. Minor repair preserves long-term value."
+            "content": "Repair Makes Sense When:\n- Single component failure (one panel, one microinverter, one string optimizer)\n- System is under 15 years old\n- Panels still producing 85%+ of original output\n- Roof has 10+ years remaining lifespan\n- Repair cost under $2,000\n- Overall system meets your energy needs\n\nConsider Upgrades/Expansion When:\n- System is 15-20+ years old and multiple components failing\n- Panels degraded below 75% original output\n- Your energy needs increased significantly (added EV, pool, home addition)\n- New solar technology offers compelling advantages (significantly higher efficiency)\n- You're re-roofing anyway (opportunity to upgrade at lower incremental cost)\n- Battery storage becomes economically attractive\n\nReal-World Scenarios for Oro Valley Homeowners:\n\nScenario 1: System is 18 years old, string inverter fails, panels producing 82% of original output. Decision: Replace string inverter ($3,000), continue operating 7+ more years until panels reach end of practical life. Total investment $23,000 in 2007, produced $45,000 in savings by 2025, new inverter provides 7+ more years (additional $12,000 savings). Repair is clear choice.\n\nScenario 2: System is 25 years old, panels producing 74% output, planning to add pool and two EVs doubling energy consumption. Decision: Complete system replacement with doubled capacity (20kW system vs. original 10kW). New system provides 100% coverage of increased loads, modern panel efficiency, battery storage for EV time-of-use charging, and qualifies for current 30% federal tax credit. Original system paid for itself 3× over, new system designed for next 30 years serving expanded needs.\n\nScenario 3: System is 8 years old, one microinverter failed, panels performing excellently at 97% output. Decision: Replace failed microinverter ($200 + service call), continue operating. System has 17+ years of strong production ahead. Minor repair preserves long-term value."
       },
       {
             "type": "heading",
@@ -673,7 +673,7 @@ export const solarinstallationorovalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Choose Intelligent Design for Oro Valley Solar: 46+ years serving Oro Valley since 1979 | 2,800+ Oro Valley solar installations completed | 22,000+ five-star reviews with 4.97-star Google rating | BBB A+ accreditation with zero unresolved complaints | NABCEP-certified installers averaging 17+ years experience | ServiceTitan dispatch with 73-minute average response | 100% HOA approval rate for Oro Valley communities | Tile roof specialists with zero-damage guarantee | Complete multi-trade expertise (solar, HVAC, electrical, plumbing) | 30-day satisfaction guarantee and comprehensive warranties | Most-referred solar company in Oro Valley"
+            "content": "Why Choose Intelligent Design for Oro Valley Solar: 46+ years serving Oro Valley since 1979 | 2,800+ Oro Valley solar installations completed | 23,000+ five-star reviews with 4.97-star Google rating | BBB A+ accreditation with zero unresolved complaints | NABCEP-certified installers averaging 17+ years experience | ServiceTitan dispatch with 73-minute average response | 100% HOA approval rate for Oro Valley communities | Tile roof specialists with zero-damage guarantee | Complete multi-trade expertise (solar, HVAC, electrical, plumbing) | 30-day satisfaction guarantee and comprehensive warranties | Most-referred solar company in Oro Valley"
       },
       {
             "type": "paragraph",

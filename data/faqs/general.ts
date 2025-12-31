@@ -193,7 +193,7 @@ export const generalAreaFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design different from other contractors?",
-      answer: "With over 45 years serving Tucson, 22,000+ five-star reviews (4.97 rating), BBB A+ rating, and family/veteran ownership, we combine deep local expertise with exceptional service. We offer upfront transparent pricing with no hidden fees, comprehensive warranties, and 100% satisfaction guarantees. Our technicians don't work on commission, so you get honest recommendations focused on your needs."
+      answer: "With over 45 years serving Tucson, 23,000+ five-star reviews (4.97 rating), BBB A+ rating, and family/veteran ownership, we combine deep local expertise with exceptional service. We offer upfront transparent pricing with no hidden fees, comprehensive warranties, and 100% satisfaction guarantees. Our technicians don't work on commission, so you get honest recommendations focused on your needs."
     },
     {
       question: "Do you offer maintenance plans?",
@@ -228,7 +228,7 @@ export const homepageFAQs: ServiceFAQs = {
     },
     {
       question: "Why should I choose Intelligent Design over other contractors?",
-      answer: "With 22,000+ five-star reviews (4.97 rating), BBB A+ rating since 1979, and family/veteran ownership, we combine exceptional service with deep local expertise. Our technicians average 17 years of experience, we offer transparent upfront pricing with no hidden fees, comprehensive warranties, 100% satisfaction guarantees, and our technicians don't work on commission—so you get honest recommendations focused on your needs, not sales."
+      answer: "With 23,000+ five-star reviews (4.97 rating), BBB A+ rating since 1979, and family/veteran ownership, we combine exceptional service with deep local expertise. Our technicians average 17 years of experience, we offer transparent upfront pricing with no hidden fees, comprehensive warranties, 100% satisfaction guarantees, and our technicians don't work on commission—so you get honest recommendations focused on your needs, not sales."
     },
     {
       question: "Are you licensed and insured in Arizona?",
@@ -271,11 +271,11 @@ export const customerReviewsFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "Are your customer reviews real?",
-      answer: "Absolutely! Every review you see comes from real customers who hired us for HVAC, plumbing, electrical, solar, or roofing services. We don't filter negative reviews or pay for fake testimonials. Our 22,000+ reviews across Google, Facebook, Yelp, and other platforms represent genuine experiences from Tucson homeowners and businesses we've served since 1979."
+      answer: "Absolutely! Every review you see comes from real customers who hired us for HVAC, plumbing, electrical, solar, or roofing services. We don't filter negative reviews or pay for fake testimonials. Our 23,000+ reviews across Google, Facebook, Yelp, and other platforms represent genuine experiences from Tucson homeowners and businesses we've served since 1979."
     },
     {
       question: "Where can I read your reviews?",
-      answer: "Our reviews are available on Google (4.97 rating with 22,000+ reviews), Facebook, Yelp, HomeAdvisor, Angi, and the Better Business Bureau. We're proud of our consistent high ratings across all platforms. You can also find video testimonials from customers on our website and YouTube channel showing real people sharing their experiences."
+      answer: "Our reviews are available on Google (4.97 rating with 23,000+ reviews), Facebook, Yelp, HomeAdvisor, Angi, and the Better Business Bureau. We're proud of our consistent high ratings across all platforms. You can also find video testimonials from customers on our website and YouTube channel showing real people sharing their experiences."
     },
     {
       question: "How do you have so many five-star reviews?",
@@ -358,7 +358,7 @@ export const realtorOfferFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design different from other contractors for realtors?",
-      answer: "With 46+ years in business, 22,000+ five-star reviews, and BBB A+ rating, we're the stable, trustworthy partner realtors need. We understand closing deadlines, we respond quickly, we provide professional reports, we offer transparent pricing, and we stand behind our work. You can confidently refer us knowing we'll protect your reputation and serve your clients well."
+      answer: "With 46+ years in business, 23,000+ five-star reviews, and BBB A+ rating, we're the stable, trustworthy partner realtors need. We understand closing deadlines, we respond quickly, we provide professional reports, we offer transparent pricing, and we stand behind our work. You can confidently refer us knowing we'll protect your reputation and serve your clients well."
     },
     {
       question: "How quickly can you provide inspection reports?",
@@ -424,7 +424,7 @@ export const whyChooseFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "Why should I choose Intelligent Design over other Tucson contractors?",
-      answer: "With over 45 years serving Tucson since 1979, we've built an unmatched reputation: 22,000+ five-star reviews (4.97 rating), BBB A+ rating, family and veteran ownership, and deep community roots. Our technicians average 17 years of experience, don't work on commission (so you get honest recommendations), and we offer transparent upfront pricing with no hidden fees. We're the stable, trustworthy contractor Tucson families rely on."
+      answer: "With over 45 years serving Tucson since 1979, we've built an unmatched reputation: 23,000+ five-star reviews (4.97 rating), BBB A+ rating, family and veteran ownership, and deep community roots. Our technicians average 17 years of experience, don't work on commission (so you get honest recommendations), and we offer transparent upfront pricing with no hidden fees. We're the stable, trustworthy contractor Tucson families rely on."
     },
     {
       question: "What makes Intelligent Design a trusted Tucson company?",
@@ -440,7 +440,7 @@ export const whyChooseFAQs: ServiceFAQs = {
     },
     {
       question: "What is your customer satisfaction rating?",
-      answer: "We maintain a 4.97 out of 5.0 rating across 22,000+ verified customer reviews on Google, Facebook, Yelp, and other platforms. We're also BBB A+ rated since 1979. These aren't paid testimonials—they're real experiences from Tucson homeowners and businesses. Our consistency across all review platforms demonstrates our commitment to excellence on every single job, whether it's a simple repair or major installation."
+      answer: "We maintain a 4.97 out of 5.0 rating across 23,000+ verified customer reviews on Google, Facebook, Yelp, and other platforms. We're also BBB A+ rated since 1979. These aren't paid testimonials—they're real experiences from Tucson homeowners and businesses. Our consistency across all review platforms demonstrates our commitment to excellence on every single job, whether it's a simple repair or major installation."
     },
     {
       question: "How does being family-owned benefit customers?",

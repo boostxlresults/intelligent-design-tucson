@@ -37,7 +37,7 @@ export const roofingcasasadobesData: ServicePageData = {
     "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Casas Adobes customers. Our reputation speaks to our quality and service."
   },
   {
@@ -141,7 +141,7 @@ export const roofingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",
@@ -293,7 +293,7 @@ export const roofingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Roof replacement costs vary significantly by material choice, roof size and complexity, and structural considerations. Pricing is per 'square' (100 square feet of roof area). Typical Casas Adobes home roofing costs: 1,500 sq ft home (approximately 17-20 squares accounting for pitch and waste): Architectural shingles $8,500-12,500 complete, Concrete tile $14,000-18,000 complete, Metal roofing $15,000-20,000 complete. 2,000 sq ft home (approximately 22-26 squares): Architectural shingles $12,000-16,500 complete, Concrete tile $18,000-25,000 complete, Metal roofing $20,000-28,000 complete. 2,500+ sq ft home (approximately 28-35 squares): Architectural shingles $15,000-22,000 complete, Concrete tile $24,000-35,000 complete, Metal roofing $28,000-40,000 complete."
+            "content": "Roof replacement costs vary significantly by material choice, roof size and complexity, and structural considerations. Pricing is per 'square' (100 square feet of roof area). Typical Casas Adobes home roofing costs: 1,500 sq ft home (approximately 17-20 squares accounting for pitch and waste): Architectural shingles $8,500-12,500 complete, Concrete tile $14,000-18,000 complete, Metal roofing $15,000-20,000 complete. 2,000 sq ft home (approximately 22-26 squares): Architectural shingles $12,000-16,500 complete, Concrete tile $18,000-25,000 complete, Metal roofing $20,000-28,000 complete. 2,500+ sq ft home (approximately 28-35 squares): Architectural shingles $15,000-23,000 complete, Concrete tile $24,000-35,000 complete, Metal roofing $28,000-40,000 complete."
       },
       {
             "type": "paragraph",
@@ -347,7 +347,7 @@ export const roofingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commitment to Casas Adobes families extends beyond roofing expertise to exceptional customer service and complete home solutions. We provide Arizona ROC-licensed roofing contractors (not unlicensed crews), manufacturer-certified installers for GAF, Owens Corning, and major tile manufacturers, comprehensive warranties on materials and workmanship, transparent pricing with detailed explanations before work begins, insurance claim assistance navigating the claims process and documentation, financing options making necessary roof work affordable, and multi-trade capabilities coordinating roofing with [link:/services/hvac-casas-adobes|HVAC], [link:/services/electrical-casas-adobes|electrical], [link:/services/plumbing-casas-adobes|plumbing], and [link:/services/solar-installation-casas-adobes|solar services]. Our 22,000+ five-star reviews include hundreds from Casas Adobes neighbors who trust us for roof repairs, complete roof replacement, emergency leak response, and all roofing needs."
+            "content": "Our commitment to Casas Adobes families extends beyond roofing expertise to exceptional customer service and complete home solutions. We provide Arizona ROC-licensed roofing contractors (not unlicensed crews), manufacturer-certified installers for GAF, Owens Corning, and major tile manufacturers, comprehensive warranties on materials and workmanship, transparent pricing with detailed explanations before work begins, insurance claim assistance navigating the claims process and documentation, financing options making necessary roof work affordable, and multi-trade capabilities coordinating roofing with [link:/services/hvac-casas-adobes|HVAC], [link:/services/electrical-casas-adobes|electrical], [link:/services/plumbing-casas-adobes|plumbing], and [link:/services/solar-installation-casas-adobes|solar services]. Our 23,000+ five-star reviews include hundreds from Casas Adobes neighbors who trust us for roof repairs, complete roof replacement, emergency leak response, and all roofing needs."
       },
       {
             "type": "heading",

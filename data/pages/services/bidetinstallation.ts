@@ -35,7 +35,7 @@ export const bidetinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Modern fixtures expertise | Trusted since 1979 | Licensed ROC #171687"
+    "description": "Family & veteran-owned | 23,000+ reviews | Modern fixtures expertise | Trusted since 1979 | Licensed ROC #171687"
   },
   {
     "title": "Advanced Features",
@@ -69,7 +69,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and installed bidets in over 1,200 Tucson homes during the past five years alone as bidet adoption accelerated nationwide. Our comprehensive product knowledge spans all major brands—TOTO, BioBidet, Brondell, Kohler, American Standard, Alpha—and our licensed plumbers provide honest recommendations based on your specific needs, budget, and existing [link:/services/plumbing-tucson|plumbing] configuration rather than pushing expensive upgrades you don't need."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and installed bidets in over 1,200 Tucson homes during the past five years alone as bidet adoption accelerated nationwide. Our comprehensive product knowledge spans all major brands—TOTO, BioBidet, Brondell, Kohler, American Standard, Alpha—and our licensed plumbers provide honest recommendations based on your specific needs, budget, and existing [link:/services/plumbing-tucson|plumbing] configuration rather than pushing expensive upgrades you don't need."
       },
       {
             "type": "paragraph",
@@ -682,7 +682,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for bidet installation, you're getting: expert product recommendations matching your needs and budget without pushing expensive upgrades, professional installation with proper [link:/services/plumbing-tucson|plumbing] and [link:/services/electrical-tucson|electrical] connections meeting all codes, thorough compatibility assessment preventing installation problems and surprise costs, comprehensive training on feature operation and maintenance ensuring confidence, warranty protection on installation workmanship and manufacturer support coordination, and respectful service that treats your home with care and leaves your bathroom spotless."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for bidet installation, you're getting: expert product recommendations matching your needs and budget without pushing expensive upgrades, professional installation with proper [link:/services/plumbing-tucson|plumbing] and [link:/services/electrical-tucson|electrical] connections meeting all codes, thorough compatibility assessment preventing installation problems and surprise costs, comprehensive training on feature operation and maintenance ensuring confidence, warranty protection on installation workmanship and manufacturer support coordination, and respectful service that treats your home with care and leaves your bathroom spotless."
       },
       {
             "type": "paragraph",

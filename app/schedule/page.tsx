@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Service & Scheduling | Contact Intelligent Design Tucson',
-  description: 'Customer Service & Scheduling Made Easy! Over 22,000 Five-Star Reviews. BBB A+ Rated. Free Estimates. 100% Satisfaction Guaranteed!',
+  description: 'Customer Service & Scheduling Made Easy! Over 23,000 Five-Star Reviews. BBB A+ Rated. Free Estimates. 100% Satisfaction Guaranteed!',
   canonicalUrl: 'https://www.idesignac.com/schedule',
   keywords: ['schedule service', 'customer service', 'contact us', 'book appointment', 'HVAC scheduling Tucson', 'emergency service'],
 });
@@ -99,7 +99,7 @@ export default function SchedulePage() {
               </div>
               <div className="flex items-center gap-2">
                 <Star className="w-6 h-6 fill-yellow-400 text-yellow-400" />
-                <span className="font-semibold">22,000+ Reviews</span>
+                <span className="font-semibold">23,000+ Reviews</span>
               </div>
               <div className="flex items-center gap-2">
                 <Star className="w-6 h-6 fill-yellow-400 text-yellow-400" />
@@ -269,7 +269,7 @@ export default function SchedulePage() {
           <div className="grid md:grid-cols-4 gap-6">
             <Card>
               <CardContent className="p-6 text-center">
-                <div className="text-4xl font-bold text-primary mb-2">22,000+</div>
+                <div className="text-4xl font-bold text-primary mb-2">23,000+</div>
                 <p className="font-semibold mb-1">Five-Star Reviews</p>
                 <p className="text-sm text-muted-foreground">
                   Real customers, real results

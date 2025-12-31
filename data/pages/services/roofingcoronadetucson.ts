@@ -8,7 +8,7 @@ import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const roofingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Services Corona de Tucson AZ | Professional Roofer | Tile, Shingle & Flat Roof Experts',
-  description: 'Professional roofing services in Corona de Tucson, AZ since 1979. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. 22,000+ 5-star reviews. BBB A+ rated. Licensed & insured.',
+  description: 'Professional roofing services in Corona de Tucson, AZ since 1979. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. 23,000+ 5-star reviews. BBB A+ rated. Licensed & insured.',
   slug: 'roofing-corona-de-tucson',
   
   // Hero Section
@@ -37,7 +37,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
     "description": "Premium roofing products from GAF, Owens Corning, CertainTeed, and specialty tile manufacturers—all rated for Arizona's extreme UV and heat."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ accredited with 4.97-star Google rating. Thousands of satisfied Corona de Tucson customers. Tucson's highest-rated roofing company 7 years running."
   },
   {
@@ -68,7 +68,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Corona de Tucson Community Trust: Intelligent Design has earned the confidence of Corona de Tucson families through four decades of exceptional roofing service. Our 4.97-star Google rating from 22,000+ verified reviews represents the highest customer satisfaction rating of any roofing company serving Pima County. We've completed over 950 roofing projects specifically in Corona de Tucson and surrounding southeast areas, from emergency monsoon leak repairs to complete tile roof replacements on custom desert ranch-style homes. Our BBB A+ accreditation since 1979, along with our family-owned, veteran-operated commitment to honest service, has made us the most-referred roofing contractor in the region. When you choose Intelligent Design for your Corona de Tucson roofing needs, you're choosing the company your neighbors have trusted for generations."
+            "content": "Proven Track Record & Corona de Tucson Community Trust: Intelligent Design has earned the confidence of Corona de Tucson families through four decades of exceptional roofing service. Our 4.97-star Google rating from 23,000+ verified reviews represents the highest customer satisfaction rating of any roofing company serving Pima County. We've completed over 950 roofing projects specifically in Corona de Tucson and surrounding southeast areas, from emergency monsoon leak repairs to complete tile roof replacements on custom desert ranch-style homes. Our BBB A+ accreditation since 1979, along with our family-owned, veteran-operated commitment to honest service, has made us the most-referred roofing contractor in the region. When you choose Intelligent Design for your Corona de Tucson roofing needs, you're choosing the company your neighbors have trusted for generations."
       },
       {
             "type": "paragraph",

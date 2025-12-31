@@ -35,7 +35,7 @@ export const tanklesswaterheatersData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Hard water expertise | Trusted since 1979 | BBB A+ rated"
+    "description": "Family & veteran-owned | 23,000+ reviews | Hard water expertise | Trusted since 1979 | BBB A+ rated"
   },
   {
     "title": "Space-Saving Design",
@@ -65,7 +65,7 @@ export const tanklesswaterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/water-heaters|water heater company] in Southern Arizona. We've been the #1 rated plumbing company in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations and quality workmanship has made us the most-referred [link:/services/water-heater-installation|water heater installation] provider in Pima County."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/water-heaters|water heater company] in Southern Arizona. We've been the #1 rated plumbing company in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations and quality workmanship has made us the most-referred [link:/services/water-heater-installation|water heater installation] provider in Pima County."
       },
       {
             "type": "heading",

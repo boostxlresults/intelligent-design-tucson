@@ -43,7 +43,7 @@ export const hybridwaterheatersData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Transparent pricing | Satisfaction guaranteed"
+    "description": "Family & veteran-owned | 23,000+ reviews | Transparent pricing | Satisfaction guaranteed"
   }
 ],
   content: {
@@ -61,7 +61,7 @@ export const hybridwaterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Hybrid Water Heater Expertise in Tucson: Our ServiceTitan-powered dispatch system delivers average 72-minute response times for hybrid water heater consultations and installations across metro Tucson, with 42 fully-stocked service vehicles strategically positioned throughout [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], Sahuarita, and Vail. Our 52 licensed master plumbers complete 84% of hybrid water heater installations in 4-6 hours, including electrical upgrades, condensate drainage, and complete system programming. We've installed over 2,400 hybrid water heaters in Tucson since 2015, making us the region's most experienced hybrid water heater specialists. With a 4.97-star Google rating from 22,000+ verified reviews, we're the highest-rated [link:/services/water-heater-installation|water heater installation company] in Southern Arizona."
+            "content": "Industry-Leading Hybrid Water Heater Expertise in Tucson: Our ServiceTitan-powered dispatch system delivers average 72-minute response times for hybrid water heater consultations and installations across metro Tucson, with 42 fully-stocked service vehicles strategically positioned throughout [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], Sahuarita, and Vail. Our 52 licensed master plumbers complete 84% of hybrid water heater installations in 4-6 hours, including electrical upgrades, condensate drainage, and complete system programming. We've installed over 2,400 hybrid water heaters in Tucson since 2015, making us the region's most experienced hybrid water heater specialists. With a 4.97-star Google rating from 23,000+ verified reviews, we're the highest-rated [link:/services/water-heater-installation|water heater installation company] in Southern Arizona."
       },
       {
             "type": "paragraph",
@@ -583,7 +583,7 @@ export const hybridwaterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your hybrid water heater installation, you're getting factory-trained technicians with specialized hybrid water heater expertise, premium equipment from top manufacturers, professional installation following all codes and best practices, complete warranty coverage and ongoing support, rebate and tax credit assistance maximizing your incentives, and a team that stands behind every installation with our satisfaction guarantee."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your hybrid water heater installation, you're getting factory-trained technicians with specialized hybrid water heater expertise, premium equipment from top manufacturers, professional installation following all codes and best practices, complete warranty coverage and ongoing support, rebate and tax credit assistance maximizing your incentives, and a team that stands behind every installation with our satisfaction guarantee."
       },
       {
             "type": "paragraph",

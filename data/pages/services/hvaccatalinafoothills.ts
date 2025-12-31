@@ -31,7 +31,7 @@ export const hvaccatalinafoothillsData: ServicePageData = {
     },
     {
       "title": "Catalina Foothills Community Trust",
-      "description": "Thousands of Catalina Foothills customers served | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Thousands of Catalina Foothills customers served | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Comprehensive HVAC Services",

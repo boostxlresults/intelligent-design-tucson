@@ -30,7 +30,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
     },
     {
       "title": "Trusted by Saddle Brooke / Catalina",
-      "description": "Hundreds of active adult customers | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Hundreds of active adult customers | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Excellent ROI for Long-Term Residents",
@@ -208,7 +208,7 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "The Results: The Hendersons now enjoy essentially zero electric bills year-round with significant long-term savings. Their 8.5 kW system produces approximately 14,200 kWh annually (108% of their usage), completely eliminating $3,680 annual electric bills, the total system cost was $22,100 ($15,470 after 30% federal tax credit), annual savings of $3,680 provides 4.2-year payback period, over 25 years, they'll save approximately $135,000-$160,000 (accounting for avoided utility rate increases of 3-4% annually), their home value increased by an estimated $18,000-$22,000, and they have complete peace of mind with 25-year panel and inverter warranties. The Hendersons financed their system with a 12-year solar loan at 4.9% APR—monthly payments of $140 compared to previous electric bills of $300+ monthly, providing immediate positive cash flow of $160+ monthly. They particularly appreciated our honest, transparent analysis and patient explanations that helped them understand exactly what to expect. They've referred multiple Saddle Brooke neighbors who were also frustrated with rising electric bills. Eighteen months after installation, their system has performed exactly as projected, producing slightly more electricity than we estimated."
+        "content": "The Results: The Hendersons now enjoy essentially zero electric bills year-round with significant long-term savings. Their 8.5 kW system produces approximately 14,200 kWh annually (108% of their usage), completely eliminating $3,680 annual electric bills, the total system cost was $22,100 ($15,470 after 30% federal tax credit), annual savings of $3,680 provides 4.2-year payback period, over 25 years, they'll save approximately $135,000-$160,000 (accounting for avoided utility rate increases of 3-4% annually), their home value increased by an estimated $18,000-$23,000, and they have complete peace of mind with 25-year panel and inverter warranties. The Hendersons financed their system with a 12-year solar loan at 4.9% APR—monthly payments of $140 compared to previous electric bills of $300+ monthly, providing immediate positive cash flow of $160+ monthly. They particularly appreciated our honest, transparent analysis and patient explanations that helped them understand exactly what to expect. They've referred multiple Saddle Brooke neighbors who were also frustrated with rising electric bills. Eighteen months after installation, their system has performed exactly as projected, producing slightly more electricity than we estimated."
       },
       {
         "type": "heading",

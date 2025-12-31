@@ -74,7 +74,7 @@ export const tucsonestatesData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson's highest-rated home services company with verified customer satisfaction."
     },
     {
@@ -118,7 +118,7 @@ export const tucsonestatesData: LocationPageData = {
       },
       {
         "type": "paragraph",
-        "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,100 Tucson Estates families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated home service company in southwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Tucson Estates for seven consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the preferred home service partner for Tucson Estates' family-oriented community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Tucson Estates have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
+        "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,100 Tucson Estates families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated home service company in southwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred home service provider in Tucson Estates for seven consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the preferred home service partner for Tucson Estates' family-oriented community. When you choose Intelligent Design, you're selecting the company your neighbors throughout Tucson Estates have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
       },
       {
         "type": "cta",
@@ -234,7 +234,7 @@ export const tucsonestatesData: LocationPageData = {
       },
       {
         "type": "paragraph",
-        "content": "Industry-Leading Warranties & Guarantees: We stand behind our work with comprehensive warranties and guarantees exceeding industry standards. Our warranties include manufacturer warranties on all equipment and parts (up to 12 years on premium HVAC systems, 25 years on solar panels), workmanship warranties on all installations (up to 10 years on complete system replacements), satisfaction guarantees on all service and repairs, and warranty transfer to new homeowners increasing home value. If you're not completely satisfied with our work, we'll make it right—period. This commitment to customer satisfaction has earned us 22,000+ five-star reviews and makes us the most trusted home service company in Tucson Estates and throughout Southern Arizona."
+        "content": "Industry-Leading Warranties & Guarantees: We stand behind our work with comprehensive warranties and guarantees exceeding industry standards. Our warranties include manufacturer warranties on all equipment and parts (up to 12 years on premium HVAC systems, 25 years on solar panels), workmanship warranties on all installations (up to 10 years on complete system replacements), satisfaction guarantees on all service and repairs, and warranty transfer to new homeowners increasing home value. If you're not completely satisfied with our work, we'll make it right—period. This commitment to customer satisfaction has earned us 23,000+ five-star reviews and makes us the most trusted home service company in Tucson Estates and throughout Southern Arizona."
       },
       {
         "type": "cta",

@@ -13,7 +13,7 @@ import { homeData } from "@/data/pages/services/home";
 
 export const metadata: Metadata = {
   title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-  description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
+  description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
   alternates: {
     canonical: "https://www.idesignac.com",
   },
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
+    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
     url: "https://www.idesignac.com",
     siteName: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
     images: [{
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 22,000+ 5-star reviews.",
+    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
     images: ["https://www.idesignac.com/og-image.jpg"],
   },
 };

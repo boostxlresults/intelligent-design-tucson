@@ -43,7 +43,7 @@ export const homeenergyupgradesData: ServicePageData = {
   },
   {
     "title": "Trusted Tucson Company",
-    "description": "Family & veteran-owned | 22,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
   content: {
@@ -102,7 +102,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every upgrade's performance through utility bill monitoring and homeowner feedback, allowing us to verify actual savings against estimates and ensure families receive the value they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to energy upgrade performance."
+            "content": "These metrics represent real installations at Tucson homes, not theoretical projections. We track every upgrade's performance through utility bill monitoring and homeowner feedback, allowing us to verify actual savings against estimates and ensure families receive the value they were promised. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 23,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to energy upgrade performance."
       },
       {
             "type": "heading",
@@ -681,7 +681,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We stand behind our work with comprehensive warranties, ongoing maintenance programs through Family Protection Plans, 24/7 emergency service if needed, and performance guarantees on energy savings. Our A+ BBB rating, 22,000+ five-star reviews, and zero unresolved complaints demonstrate our commitment to customer satisfaction. When you choose Intelligent Design, you're partnering with Tucson's most trusted name in home services for energy upgrades that deliver real, verified savings year after year."
+            "content": "We stand behind our work with comprehensive warranties, ongoing maintenance programs through Family Protection Plans, 24/7 emergency service if needed, and performance guarantees on energy savings. Our A+ BBB rating, 23,000+ five-star reviews, and zero unresolved complaints demonstrate our commitment to customer satisfaction. When you choose Intelligent Design, you're partnering with Tucson's most trusted name in home services for energy upgrades that deliver real, verified savings year after year."
       },
       {
             "type": "cta",

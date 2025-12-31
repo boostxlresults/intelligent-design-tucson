@@ -12,7 +12,7 @@ export const furnacesData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Furnace Installation & Service in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'High-Efficiency Furnaces | Expert Installation | Professional Service | Trusted Technicians',
   heroImage: '/generated_images/Furnace_systems_hero_background_a983faa1.webp',
   heroImageAlt: 'Professional furnace installation and service in Tucson, Arizona',
@@ -67,7 +67,7 @@ export const furnacesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred furnace installation and repair provider in Pima County. When your furnace fails on a cold January night or you need expert guidance on replacing an aging system, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated heating service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred furnace installation and repair provider in Pima County. When your furnace fails on a cold January night or you need expert guidance on replacing an aging system, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated heating service]."
       },
       {
             "type": "paragraph",
@@ -629,7 +629,7 @@ export const furnacesData: ServicePageData = {
           },
       {
             "type": "paragraph",
-            "content": "Our Honest Recommendation Process: When evaluating repair vs. replacement, our technicians provide a written estimate showing BOTH options with transparent cost breakdowns. We include applicable rebates, tax credits, financing terms, and payback period calculations so you can make an informed decision. We'll never pressure you into unnecessary replacement—if a $300 repair gives you 3-5 more years of reliable service, we'll recommend that option even though furnace replacement would earn us more revenue. This integrity-first approach has earned us 22,000+ five-star reviews and made us Tucson's #1 rated HVAC company for 7 consecutive years. For expert guidance on [link:/services/heater-installation-tucson|furnace replacement options and pricing], schedule a free in-home consultation."
+            "content": "Our Honest Recommendation Process: When evaluating repair vs. replacement, our technicians provide a written estimate showing BOTH options with transparent cost breakdowns. We include applicable rebates, tax credits, financing terms, and payback period calculations so you can make an informed decision. We'll never pressure you into unnecessary replacement—if a $300 repair gives you 3-5 more years of reliable service, we'll recommend that option even though furnace replacement would earn us more revenue. This integrity-first approach has earned us 23,000+ five-star reviews and made us Tucson's #1 rated HVAC company for 7 consecutive years. For expert guidance on [link:/services/heater-installation-tucson|furnace replacement options and pricing], schedule a free in-home consultation."
       },
       {
             "type": "cta",

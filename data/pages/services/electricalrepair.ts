@@ -43,7 +43,7 @@ export const electricalrepairData: ServicePageData = {
   },
   {
     "title": "Trusted Tucson Company",
-    "description": "Family & veteran-owned | 22,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
   content: {
@@ -65,7 +65,7 @@ export const electricalrepairData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Unmatched Electrical Expertise & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical contractor in Southern Arizona. Our 34 ROC-licensed electricians average 14+ years of field experience and complete 80+ hours of annual continuing education on National Electrical Code (NEC) updates, advanced troubleshooting techniques, smart home integration, and [link:/services/electrical-panel-upgrades|electrical panel upgrade] procedures. We've been the #1 rated electrical repair company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. When electrical safety matters most, you're choosing the company your neighbors trust with their family's protection."
+        "content": "Unmatched Electrical Expertise & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical contractor in Southern Arizona. Our 34 ROC-licensed electricians average 14+ years of field experience and complete 80+ hours of annual continuing education on National Electrical Code (NEC) updates, advanced troubleshooting techniques, smart home integration, and [link:/services/electrical-panel-upgrades|electrical panel upgrade] procedures. We've been the #1 rated electrical repair company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. When electrical safety matters most, you're choosing the company your neighbors trust with their family's protection."
       },
       {
         "type": "paragraph",
@@ -571,7 +571,7 @@ export const electricalrepairData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Research customer reviews on Google, Yelp, BBB, and Home Advisor to understand electrician quality and reliability. Look for consistent patterns in reviews: do they arrive on time? Provide accurate estimates? Complete work professionally? Clean up thoroughly? Stand behind their work? Be cautious of contractors with few reviews, all 5-star ratings (possibly fake), recent negative patterns, or unresolved BBB complaints. Check BBB accreditation and rating—A+ rating indicates commitment to customer satisfaction and ethical business practices. Ask for references from recent similar projects. Our 22,000+ verified Google reviews (4.97-star average) and BBB A+ rating since 1979 demonstrate our consistent commitment to electrical service excellence across decades of Tucson electrical service."
+        "content": "Research customer reviews on Google, Yelp, BBB, and Home Advisor to understand electrician quality and reliability. Look for consistent patterns in reviews: do they arrive on time? Provide accurate estimates? Complete work professionally? Clean up thoroughly? Stand behind their work? Be cautious of contractors with few reviews, all 5-star ratings (possibly fake), recent negative patterns, or unresolved BBB complaints. Check BBB accreditation and rating—A+ rating indicates commitment to customer satisfaction and ethical business practices. Ask for references from recent similar projects. Our 23,000+ verified Google reviews (4.97-star average) and BBB A+ rating since 1979 demonstrate our consistent commitment to electrical service excellence across decades of Tucson electrical service."
       },
       {
         "type": "heading",
@@ -661,7 +661,7 @@ export const electricalrepairData: ServicePageData = {
       },
       {
         "type": "paragraph",
-        "content": "Family and veteran-owned since 1979, Intelligent Design has served multiple generations of Tucson families with honest, reliable electrical services. Our longevity proves our commitment to quality workmanship, fair pricing, and customer satisfaction. We've built our reputation one satisfied customer at a time through referrals and repeat business—not flashy marketing. Our 22,000+ verified Google reviews (4.97-star average) represent real Tucson homeowners who trusted us with their electrical repairs and were satisfied enough to recommend us publicly. This depth of community trust comes from consistently delivering exceptional service year after year, decade after decade."
+        "content": "Family and veteran-owned since 1979, Intelligent Design has served multiple generations of Tucson families with honest, reliable electrical services. Our longevity proves our commitment to quality workmanship, fair pricing, and customer satisfaction. We've built our reputation one satisfied customer at a time through referrals and repeat business—not flashy marketing. Our 23,000+ verified Google reviews (4.97-star average) represent real Tucson homeowners who trusted us with their electrical repairs and were satisfied enough to recommend us publicly. This depth of community trust comes from consistently delivering exceptional service year after year, decade after decade."
       },
       {
         "type": "heading",

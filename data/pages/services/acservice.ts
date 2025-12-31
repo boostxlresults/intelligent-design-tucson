@@ -10,7 +10,7 @@ export const acserviceData: ServicePageData = {
   
   // Hero Section
   h1: 'Highest-Rated Air Conditioning Service in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Professional AC Maintenance | Tune-Ups | System Optimization | 24/7 Service',
   heroImage: '/generated_images/AC_maintenance_service_in_Tucson_d21947d9.webp',
   heroImageAlt: 'HVAC technician performing professional air conditioning service and maintenance in Tucson home',
@@ -69,7 +69,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ac-tuneup-tucson|AC tune-up] and maintenance provider in Pima County. When you're trusting a company with your family's comfort during 110-degree heat, you're choosing the company your neighbors rely on for their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ac-tuneup-tucson|AC tune-up] and maintenance provider in Pima County. When you're trusting a company with your family's comfort during 110-degree heat, you're choosing the company your neighbors rely on for their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",
@@ -571,7 +571,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "As a family-owned and veteran-operated business serving Tucson since 1979, we understand the importance of reliable air conditioning in the Arizona desert where AC isn't a luxury but a life-safety necessity during extreme summer heat. We treat every home as if it were our own, respecting your property, cleaning up completely after service, and standing behind our work with comprehensive service guarantees. Our nearly perfect 4.97-star Google rating from over 22,000 reviews reflects our unwavering commitment to customer satisfaction, honest recommendations, and quality workmanship that has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're trusting a company with your family's comfort and safety during 110-degree heat, you're choosing the company that has earned and maintained community trust through 46+ years of exceptional service to Tucson families. Learn more about our commitment to quality service and customer satisfaction on our [link:/customer-reviews|customer reviews] page."
+            "content": "As a family-owned and veteran-operated business serving Tucson since 1979, we understand the importance of reliable air conditioning in the Arizona desert where AC isn't a luxury but a life-safety necessity during extreme summer heat. We treat every home as if it were our own, respecting your property, cleaning up completely after service, and standing behind our work with comprehensive service guarantees. Our nearly perfect 4.97-star Google rating from over 23,000 reviews reflects our unwavering commitment to customer satisfaction, honest recommendations, and quality workmanship that has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're trusting a company with your family's comfort and safety during 110-degree heat, you're choosing the company that has earned and maintained community trust through 46+ years of exceptional service to Tucson families. Learn more about our commitment to quality service and customer satisfaction on our [link:/customer-reviews|customer reviews] page."
       },
       {
             "type": "cta",

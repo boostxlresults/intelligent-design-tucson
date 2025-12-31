@@ -35,7 +35,7 @@ export const waterheatersData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {
     "title": "Energy Efficiency Experts",
@@ -65,7 +65,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/water-heater-installation|water heater installation] and [link:/services/water-heater-repair|repair provider] in Pima County."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/water-heater-installation|water heater installation] and [link:/services/water-heater-repair|repair provider] in Pima County."
       },
       {
             "type": "paragraph",
@@ -671,7 +671,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Expertise & Customer Satisfaction: With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. Our 52 licensed master plumbers average 14+ years of experience and undergo continuous training on the latest water heater technologies, installation techniques, and Tucson-specific best practices for hard water environments. We're factory-certified installers for every major brand, ensuring proper installation that protects your manufacturer warranty and maximizes equipment lifespan."
+            "content": "Unmatched Expertise & Customer Satisfaction: With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. Our 52 licensed master plumbers average 14+ years of experience and undergo continuous training on the latest water heater technologies, installation techniques, and Tucson-specific best practices for hard water environments. We're factory-certified installers for every major brand, ensuring proper installation that protects your manufacturer warranty and maximizes equipment lifespan."
       },
       {
             "type": "paragraph",

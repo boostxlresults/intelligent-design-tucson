@@ -31,7 +31,7 @@ export const garbagedisposalData: ServicePageData = {
   },
   {
     "title": "Licensed & Experienced",
-    "description": "46+ years serving Tucson | Licensed plumbers & electricians | ROC #171687 | Fully insured | 22,000+ reviews"
+    "description": "46+ years serving Tucson | Licensed plumbers & electricians | ROC #171687 | Fully insured | 23,000+ reviews"
   },
   {
     "title": "Quality Equipment",
@@ -69,7 +69,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations (we'll tell you when a $95 jam clearing solves your problem instead of selling you a $450 new disposal), quality workmanship, and customer satisfaction has made us the most-referred garbage disposal installation and repair provider in Pima County. When dealing with disposal problems or planning kitchen upgrades, you're choosing the company your neighbors trust with their home's plumbing and their hard-earned money."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations (we'll tell you when a $95 jam clearing solves your problem instead of selling you a $450 new disposal), quality workmanship, and customer satisfaction has made us the most-referred garbage disposal installation and repair provider in Pima County. When dealing with disposal problems or planning kitchen upgrades, you're choosing the company your neighbors trust with their home's plumbing and their hard-earned money."
       },
       {
             "type": "paragraph",
@@ -652,7 +652,7 @@ export const garbagedisposalData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Honest Recommendations That Save You Money: Our plumbers are evaluated on customer satisfaction and long-term relationships—not on maximizing individual invoice amounts or selling most expensive options. We'll recommend a $95 jam clearing when that solves your problem instead of selling you an unnecessary $450 disposal replacement. We'll explain when your 8-year-old budget disposal should be replaced rather than repaired—and when your 12-year-old premium disposal is worth a $165 repair providing another 3+ years of service. This honesty has earned us a 4.97-star rating from 22,000+ Google reviews and made us the most-referred plumbing company in Southern Arizona. Our customers trust us because we consistently prove we have their best interests at heart, not just our bottom line."
+            "content": "Honest Recommendations That Save You Money: Our plumbers are evaluated on customer satisfaction and long-term relationships—not on maximizing individual invoice amounts or selling most expensive options. We'll recommend a $95 jam clearing when that solves your problem instead of selling you an unnecessary $450 disposal replacement. We'll explain when your 8-year-old budget disposal should be replaced rather than repaired—and when your 12-year-old premium disposal is worth a $165 repair providing another 3+ years of service. This honesty has earned us a 4.97-star rating from 23,000+ Google reviews and made us the most-referred plumbing company in Southern Arizona. Our customers trust us because we consistently prove we have their best interests at heart, not just our bottom line."
       },
       {
             "type": "paragraph",

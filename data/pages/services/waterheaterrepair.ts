@@ -35,7 +35,7 @@ export const waterheaterrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Tucson hard water expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Tucson hard water expertise | Trusted since 1979"
   },
   {
     "title": "Fully Stocked Service Trucks",
@@ -65,7 +65,7 @@ export const waterheaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Tucson Hard Water Expertise: With a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, Intelligent Design has earned the trust of over 85,000 Tucson-area families since 1979. Our licensed master plumbers have repaired every brand and type of water heater available in the Tucson market—tank (gas and electric), tankless (gas and electric), [link:/services/hybrid-water-heaters|hybrid/heat pump models], and solar water heating systems. We've been the #1 rated plumbing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation for over 40 years. Our unique advantage: deep understanding of Tucson's hard water conditions (250-350+ ppm mineral content) that accelerate sediment buildup and component failure. We don't just repair symptoms—we address the root causes specific to Southern Arizona's challenging water chemistry."
+            "content": "Proven Track Record & Tucson Hard Water Expertise: With a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, Intelligent Design has earned the trust of over 85,000 Tucson-area families since 1979. Our licensed master plumbers have repaired every brand and type of water heater available in the Tucson market—tank (gas and electric), tankless (gas and electric), [link:/services/hybrid-water-heaters|hybrid/heat pump models], and solar water heating systems. We've been the #1 rated plumbing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation for over 40 years. Our unique advantage: deep understanding of Tucson's hard water conditions (250-350+ ppm mineral content) that accelerate sediment buildup and component failure. We don't just repair symptoms—we address the root causes specific to Southern Arizona's challenging water chemistry."
       },
       {
             "type": "paragraph",
@@ -565,7 +565,7 @@ export const waterheaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Service Metrics: With a nearly perfect 4.97-star Google rating from 22,000+ verified reviews, we've built our reputation on measurable service excellence: 73-minute average emergency response time across metro Tucson (faster than 94% of competitors), 80% same-visit repair rate (we fix it right the first time), 98.7% customer satisfaction rate for water heater repairs, zero pressure sales—our technicians provide education and options, you make the decision, and BBB A+ rating maintained since 1979. These aren't marketing claims—they're verified ServiceTitan metrics from actual service calls. When you call us for water heater repair, you're getting the highest-rated, fastest-responding plumbing company in Southern Arizona."
+            "content": "Industry-Leading Service Metrics: With a nearly perfect 4.97-star Google rating from 23,000+ verified reviews, we've built our reputation on measurable service excellence: 73-minute average emergency response time across metro Tucson (faster than 94% of competitors), 80% same-visit repair rate (we fix it right the first time), 98.7% customer satisfaction rate for water heater repairs, zero pressure sales—our technicians provide education and options, you make the decision, and BBB A+ rating maintained since 1979. These aren't marketing claims—they're verified ServiceTitan metrics from actual service calls. When you call us for water heater repair, you're getting the highest-rated, fastest-responding plumbing company in Southern Arizona."
       },
       {
             "type": "paragraph",

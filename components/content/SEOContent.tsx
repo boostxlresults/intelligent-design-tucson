@@ -86,7 +86,7 @@ export default function SEOContent() {
           </h3>
           <ul className="list-disc list-inside text-muted-foreground mb-6 space-y-2">
             <li><strong>46+ Years of Experience:</strong> Intelligent Design (est. 2011) united with Wood's Plumbing (est. 1979) — serving Tucson's families for over four decades</li>
-            <li><strong>22,000+ Five-Star Reviews:</strong> 4.97 rating across multiple platforms</li>
+            <li><strong>23,000+ Five-Star Reviews:</strong> 4.97 rating across multiple platforms</li>
             <li><strong>BBB A+ Rating:</strong> Committed to ethical business practices</li>
             <li><strong>Licensed & Insured:</strong> All technicians fully certified</li>
             <li><strong>Transparent Pricing:</strong> No hidden fees, honest estimates</li>

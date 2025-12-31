@@ -6,13 +6,13 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 
 export const hvacgladdenfarmsData: ServicePageData = {
   // SEO & Meta
-  title: 'HVAC & AC Services Gladden Farms AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
-  description: 'Expert HVAC & air conditioning services in Gladden Farms, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for Marana area.',
+  title: 'HVAC & AC Services Gladden Farms AZ | Air Conditioning Repair & Installation | 23,000+ Reviews',
+  description: 'Expert HVAC & air conditioning services in Gladden Farms, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for Marana area.',
   slug: 'hvac-gladden-farms',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Gladden Farms, AZ',
-  h2Subheading: 'Trusted Gladden Farms HVAC Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Trusted Gladden Farms HVAC Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_smart_thermostat_1_fbd9439f.webp',
   heroImageAlt: 'Professional HVAC technician installing smart thermostat in Gladden Farms, Arizona home',
@@ -36,7 +36,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | 120+ hours annual training | Expert AC & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -67,7 +67,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your Gladden Farms neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred HVAC service provider in Pima County. When you choose Intelligent Design, you're choosing the company your Gladden Farms neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated service]."
       },
       {
             "type": "paragraph",
@@ -158,7 +158,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
             "solution": "Used Bacharach H-10 electronic leak detector and UV dye to identify slow evaporator coil leak at factory brazing joint. Performed EPA Section 608-compliant leak repair using nitrogen pressure testing (350 PSI hold test for 20 minutes—no pressure drop). Evacuated system to 450 microns vacuum to remove all moisture and contaminants, recharged with precise 8.5 lbs R-410A refrigerant per Carrier specifications, verified proper subcooling (11.2°F) and superheat (10.8°F), tested full Infinity system features including variable-speed operation, and verified cooling capacity restored to 100% (48,000 BTU measured output vs. 48,500 BTU rated).",
             "timeframe": "Spring 2024 (May 18th diagnostic, May 19th repair)",
             "equipment": "R-410A refrigerant recharge (8.5 lbs) for Carrier Infinity 16 SEER 4-ton system, brazing repair at evaporator coil factory joint",
-            "customerQuote": "The other company said our 10-year-old system wasn't worth fixing and quoted $7,200 for replacement. Intelligent Design found the exact leak location, fixed it for $745, and our Carrier Infinity has been running perfectly for 7 months now with lower electric bills than before the problem started. They honored our extended warranty on parts and only charged for labor. Complete honesty and expertise—that's why they have 22,000+ five-star reviews.",
+            "customerQuote": "The other company said our 10-year-old system wasn't worth fixing and quoted $7,200 for replacement. Intelligent Design found the exact leak location, fixed it for $745, and our Carrier Infinity has been running perfectly for 7 months now with lower electric bills than before the problem started. They honored our extended warranty on parts and only charged for labor. Complete honesty and expertise—that's why they have 23,000+ five-star reviews.",
             "results": [
               { "label": "Leak Detection Time", "value": "52 minutes (H-10 electronic + UV dye)" },
               { "label": "Leak Location", "value": "Evaporator coil factory brazing joint" },
@@ -365,7 +365,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We'll Always Give You Straight Answers:\nIf replacement makes more sense for your situation, we'll tell you—even if it means a longer conversation instead of a quick repair sale. If repair is the smart choice, we'll explain why and provide options at different price points when available. Your long-term satisfaction and trust matter more to us than short-term revenue. This commitment to honesty is why we maintain 22,000+ five-star reviews and why Gladden Farms homeowners refer us to their neighbors year after year.\n\nWhen we recommend replacement, we'll provide:\n- Side-by-side comparison of repair vs. replacement costs and benefits\n- Multiple equipment options at different efficiency levels and price points\n- Detailed analysis of energy savings with new high-efficiency equipment\n- Information about available rebates, tax credits, and financing options\n- No-pressure timeline—take time to make the right decision for your family\n- Written proposal you can review and compare\n\nRead our [link:/customer-reviews|verified customer reviews] to see how we've helped hundreds of Gladden Farms homeowners make confident decisions about their HVAC systems."
+            "content": "We'll Always Give You Straight Answers:\nIf replacement makes more sense for your situation, we'll tell you—even if it means a longer conversation instead of a quick repair sale. If repair is the smart choice, we'll explain why and provide options at different price points when available. Your long-term satisfaction and trust matter more to us than short-term revenue. This commitment to honesty is why we maintain 23,000+ five-star reviews and why Gladden Farms homeowners refer us to their neighbors year after year.\n\nWhen we recommend replacement, we'll provide:\n- Side-by-side comparison of repair vs. replacement costs and benefits\n- Multiple equipment options at different efficiency levels and price points\n- Detailed analysis of energy savings with new high-efficiency equipment\n- Information about available rebates, tax credits, and financing options\n- No-pressure timeline—take time to make the right decision for your family\n- Written proposal you can review and compare\n\nRead our [link:/customer-reviews|verified customer reviews] to see how we've helped hundreds of Gladden Farms homeowners make confident decisions about their HVAC systems."
       },
       {
             "type": "heading",

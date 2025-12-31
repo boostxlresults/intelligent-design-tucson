@@ -34,7 +34,7 @@ export const plumbingrillitoData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 18+ years average experience | Well system certified | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated plumbing company | Preferred by Rillito homeowners"
   },
   {
@@ -65,7 +65,7 @@ export const plumbingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Rillito Community Trust: Intelligent Design has earned the trust of over 800 Rillito-area homeowners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company serving northwest Pima County. We've been the #1 rated plumbing service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, respect for rural properties (we clean up thoroughly and protect your desert landscaping), and exceptional customer service has made us the most-referred plumbing company among Rillito's homeowners. When you choose Intelligent Design, you're selecting the company your Rillito neighbors have trusted with their [link:/customer-reviews|water heaters, well systems, and plumbing emergencies] for over four decades."
+            "content": "Proven Track Record & Rillito Community Trust: Intelligent Design has earned the trust of over 800 Rillito-area homeowners and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company serving northwest Pima County. We've been the #1 rated plumbing service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, respect for rural properties (we clean up thoroughly and protect your desert landscaping), and exceptional customer service has made us the most-referred plumbing company among Rillito's homeowners. When you choose Intelligent Design, you're selecting the company your Rillito neighbors have trusted with their [link:/customer-reviews|water heaters, well systems, and plumbing emergencies] for over four decades."
       },
       {
             "type": "paragraph",
@@ -213,7 +213,7 @@ export const plumbingrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Rillito Homeowners Choose Intelligent Design: Our commitment to Rillito's community shows in measurable results: 72-minute average response time (faster than competitors serving rural areas), 78% same-day completion (resolving most issues on first visit despite distance), 18+ years average plumber experience (expertise handling complex rural plumbing), ROC #340962 licensed and insured (full compliance with Arizona regulations), 4.97-star Google rating from 22,000+ reviews (highest-rated plumbing company in Pima County), BBB A+ accreditation since 1979 (proven reliability and ethical business practices), upfront pricing (no surprise charges or hidden fees), comprehensive warranties (10-year water heater warranties, 1-2 year labor warranties), clean, respectful service (protecting your property and landscaping), and complete home solutions (one company for plumbing, HVAC, electrical, and solar needs). When you choose Intelligent Design for your Rillito plumbing needs, you're selecting the company your neighbors have trusted for over 40 years to deliver honest recommendations, quality workmanship, and exceptional service every single time."
+            "content": "Why Rillito Homeowners Choose Intelligent Design: Our commitment to Rillito's community shows in measurable results: 72-minute average response time (faster than competitors serving rural areas), 78% same-day completion (resolving most issues on first visit despite distance), 18+ years average plumber experience (expertise handling complex rural plumbing), ROC #340962 licensed and insured (full compliance with Arizona regulations), 4.97-star Google rating from 23,000+ reviews (highest-rated plumbing company in Pima County), BBB A+ accreditation since 1979 (proven reliability and ethical business practices), upfront pricing (no surprise charges or hidden fees), comprehensive warranties (10-year water heater warranties, 1-2 year labor warranties), clean, respectful service (protecting your property and landscaping), and complete home solutions (one company for plumbing, HVAC, electrical, and solar needs). When you choose Intelligent Design for your Rillito plumbing needs, you're selecting the company your neighbors have trusted for over 40 years to deliver honest recommendations, quality workmanship, and exceptional service every single time."
       },
       {
             "type": "heading",

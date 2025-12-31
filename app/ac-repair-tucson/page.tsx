@@ -16,7 +16,7 @@ import {
  * Pilot page demonstrating full Next.js architecture:
  * - Server-Side Rendering (SSR)
  * - ServiceTitan scheduler 3x (hero, middle, bottom)
- * - 22,000+ reviews module
+ * - 23,000+ reviews module
  * - Complete SEO metadata and structured data
  * - DNI phone tracking
  */

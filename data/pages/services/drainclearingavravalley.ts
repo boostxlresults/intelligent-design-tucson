@@ -69,7 +69,7 @@ export const drainclearingavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated drain clearing service in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, effective clearing methods, and permanent solutions has made us the most-referred drain clearing provider in Pima County. When you're dealing with a backed-up drain emergency or recurring clog problems, you're choosing the company your neighbors trust for their family-owned, veteran-operated service with industry-leading satisfaction guarantees."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated drain clearing service in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, effective clearing methods, and permanent solutions has made us the most-referred drain clearing provider in Pima County. When you're dealing with a backed-up drain emergency or recurring clog problems, you're choosing the company your neighbors trust for their family-owned, veteran-operated service with industry-leading satisfaction guarantees."
       },
       {
             "type": "paragraph",
@@ -612,7 +612,7 @@ export const drainclearingavravalleyData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on fast response times (average 68-minute emergency response), effective clearing methods that solve problems permanently, upfront pricing with no hidden fees, and honest recommendations that prioritize your best interests. We don't just clear the immediate clog—we investigate why it happened, explain root causes clearly, and help you prevent future problems through maintenance advice, preventative service options, and system upgrades when beneficial."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on fast response times (average 68-minute emergency response), effective clearing methods that solve problems permanently, upfront pricing with no hidden fees, and honest recommendations that prioritize your best interests. We don't just clear the immediate clog—we investigate why it happened, explain root causes clearly, and help you prevent future problems through maintenance advice, preventative service options, and system upgrades when beneficial."
       },
       {
             "type": "paragraph",

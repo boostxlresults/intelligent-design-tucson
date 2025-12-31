@@ -12,7 +12,7 @@ export const hvacrillitoData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Rillito, AZ',
-  h2Subheading: 'Expert HVAC Solutions for Rillito\'s Horse Properties & Rural Homes | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert HVAC Solutions for Rillito\'s Horse Properties & Rural Homes | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | Barn & Stable Cooling | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_filter_replacement_14b14933.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Rillito, Arizona',
@@ -36,7 +36,7 @@ export const hvacrillitoData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | Factory-authorized for 12+ brands | Background-checked and uniformed"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Rillito area | Most-referred HVAC company in northwest Tucson"
   },
   {
@@ -71,7 +71,7 @@ export const hvacrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 3,800 Rillito families and businesses with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company serving Rillito. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Rillito for eight consecutive years (2017-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, rural property expertise, and exceptional customer service has made us the preferred HVAC partner for Rillito's horse owners, ranchers, and homesteaders. When you choose Intelligent Design, you're selecting the company your neighbors on Camino de Oeste, Ina Road, Cortaro Farms Road, and throughout the Rillito community have trusted with their [link:/customer-reviews|family comfort and property investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 3,800 Rillito families and businesses with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company serving Rillito. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Rillito for eight consecutive years (2017-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, rural property expertise, and exceptional customer service has made us the preferred HVAC partner for Rillito's horse owners, ranchers, and homesteaders. When you choose Intelligent Design, you're selecting the company your neighbors on Camino de Oeste, Ina Road, Cortaro Farms Road, and throughout the Rillito community have trusted with their [link:/customer-reviews|family comfort and property investments] for over four decades."
       },
       {
             "type": "cta",
@@ -239,7 +239,7 @@ export const hvacrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain maintenance requirements and schedules specific to Rillito's dust conditions, review warranty coverage and registration, provide written documentation of all work performed with photos, answer all questions about system operation and efficiency, and schedule any recommended follow-up service or seasonal maintenance. Within 24-48 hours, you'll receive a follow-up call or email to verify satisfaction, answer any additional questions, provide maintenance reminders, and ensure your complete satisfaction. This commitment to service excellence is why we maintain a 4.97-star rating from over 22,000 verified customer reviews."
+            "content": "Before leaving, we provide comprehensive system operation training on any new equipment or controls, explain maintenance requirements and schedules specific to Rillito's dust conditions, review warranty coverage and registration, provide written documentation of all work performed with photos, answer all questions about system operation and efficiency, and schedule any recommended follow-up service or seasonal maintenance. Within 24-48 hours, you'll receive a follow-up call or email to verify satisfaction, answer any additional questions, provide maintenance reminders, and ensure your complete satisfaction. This commitment to service excellence is why we maintain a 4.97-star rating from over 23,000 verified customer reviews."
       },
       {
             "type": "heading",
@@ -263,7 +263,7 @@ export const hvacrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Results: The Martinez family achieved remarkable property-wide improvements: main house cooling costs reduced 46% through high-efficiency heat pump, workshop now comfortably air-conditioned for year-round use, tack room stays cool and comfortable protecting leather equipment, elimination of all emergency repair costs, annual energy costs reduced from $5,100 to $2,940 (42% reduction, saving $2,160 annually), exceptional indoor air quality with specialized filtration controlling dust and dander, remote control of all systems via smartphone, simple payback of 9.4 years through energy savings alone, and increased property value by approximately $22,000. Three years later, all systems operate flawlessly with zero service calls beyond routine maintenance. Mrs. Martinez states: 'Intelligent Design transformed our entire property. The workshop is now usable in summer, our horses are more comfortable, and our home air quality is incredible. Best investment we've made in our place.'"
+            "content": "The Results: The Martinez family achieved remarkable property-wide improvements: main house cooling costs reduced 46% through high-efficiency heat pump, workshop now comfortably air-conditioned for year-round use, tack room stays cool and comfortable protecting leather equipment, elimination of all emergency repair costs, annual energy costs reduced from $5,100 to $2,940 (42% reduction, saving $2,160 annually), exceptional indoor air quality with specialized filtration controlling dust and dander, remote control of all systems via smartphone, simple payback of 9.4 years through energy savings alone, and increased property value by approximately $23,000. Three years later, all systems operate flawlessly with zero service calls beyond routine maintenance. Mrs. Martinez states: 'Intelligent Design transformed our entire property. The workshop is now usable in summer, our horses are more comfortable, and our home air quality is incredible. Best investment we've made in our place.'"
       },
       {
             "type": "heading",
@@ -432,7 +432,7 @@ export const hvacrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Total ROI Example - Typical Rillito Multi-Structure Property: Investment: $24,800 comprehensive system including main house upgrade, workshop mini-split, and barn cooling. Less rebates/credits: -$4,400. Net cost: $20,400. Annual energy savings: $2,160. Annual avoided repairs: $650 (average years 8-15). Increased property productivity (year-round workshop use): $3,000+ annually. Total annual benefit: $5,810. Simple payback: 3.5 years. 15-year total savings: $87,150. 15-year ROI: 427%. Plus property value increase: $22,000-28,000. Total financial benefit: $109,150-115,150 over 15 years on $20,400 net investment."
+            "content": "Total ROI Example - Typical Rillito Multi-Structure Property: Investment: $24,800 comprehensive system including main house upgrade, workshop mini-split, and barn cooling. Less rebates/credits: -$4,400. Net cost: $20,400. Annual energy savings: $2,160. Annual avoided repairs: $650 (average years 8-15). Increased property productivity (year-round workshop use): $3,000+ annually. Total annual benefit: $5,810. Simple payback: 3.5 years. 15-year total savings: $87,150. 15-year ROI: 427%. Plus property value increase: $23,000-28,000. Total financial benefit: $109,150-115,150 over 15 years on $20,400 net investment."
       },
       {
             "type": "heading",
@@ -536,7 +536,7 @@ export const hvacrillitoData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 1-10 years depending on equipment package selected, Repair labor warranty 1-2 years on all repair work performed, Ductwork modification warranty 2 years on all duct sealing and renovation, Refrigerant recharge warranty 1 year when performed by our technicians, and Lifetime warranty on workmanship for premium installations ($15,000+). We stand behind our work unconditionally - if something's not right, we make it right at no charge. Our 4.97-star rating from 22,000+ reviews reflects our commitment to quality work and customer satisfaction."
+            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 1-10 years depending on equipment package selected, Repair labor warranty 1-2 years on all repair work performed, Ductwork modification warranty 2 years on all duct sealing and renovation, Refrigerant recharge warranty 1 year when performed by our technicians, and Lifetime warranty on workmanship for premium installations ($15,000+). We stand behind our work unconditionally - if something's not right, we make it right at no charge. Our 4.97-star rating from 23,000+ reviews reflects our commitment to quality work and customer satisfaction."
       },
       {
             "type": "paragraph",

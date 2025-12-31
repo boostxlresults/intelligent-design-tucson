@@ -49,7 +49,7 @@ export const residentialRoofRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Are your roofers licensed and insured in Arizona?",
-      answer: "Yes, all our roofing technicians are fully licensed (ROC 340962, 322375, 296386, 276673), bonded, and insured to perform roofing work throughout Tucson and Arizona. Our team averages 17 years of experience and understands the unique challenges of Tucson's climate. We're BBB A+ rated with over 22,000 five-star reviews, reflecting our 46+ years of trusted roofing service."
+      answer: "Yes, all our roofing technicians are fully licensed (ROC 340962, 322375, 296386, 276673), bonded, and insured to perform roofing work throughout Tucson and Arizona. Our team averages 17 years of experience and understands the unique challenges of Tucson's climate. We're BBB A+ rated with over 23,000 five-star reviews, reflecting our 46+ years of trusted roofing service."
     },
     {
       question: "Should I repair or replace my roof?",
@@ -143,7 +143,7 @@ export const residentialRoofInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Are your roof installers licensed and experienced?",
-      answer: "Yes, all our roofing crews are supervised by licensed contractors (ROC 340962, 322375, 296386, 276673) and our installation team averages 17 years of experience. They're trained in Tucson-specific installation techniques including high-wind attachment, extreme heat considerations, and proper flashing for monsoon protection. Our BBB A+ rating and 22,000+ five-star reviews reflect our commitment to installation excellence and customer satisfaction."
+      answer: "Yes, all our roofing crews are supervised by licensed contractors (ROC 340962, 322375, 296386, 276673) and our installation team averages 17 years of experience. They're trained in Tucson-specific installation techniques including high-wind attachment, extreme heat considerations, and proper flashing for monsoon protection. Our BBB A+ rating and 23,000+ five-star reviews reflect our commitment to installation excellence and customer satisfaction."
     },
     {
       question: "What happens to my old roof materials?",
@@ -300,7 +300,7 @@ export const commercialRoofRepairFAQs: ServiceFAQs = {
     },
     {
       question: "What warranty do you provide on commercial roof repairs?",
-      answer: "We provide workmanship warranties on commercial roof repairs, with terms varying by repair type and scope. Materials carry manufacturer warranties. We stand behind our work—if issues arise with our repairs, we return to make them right. Our BBB A+ rating and 22,000+ five-star reviews reflect our commitment to quality commercial work and customer satisfaction over our 46+ years serving Tucson businesses."
+      answer: "We provide workmanship warranties on commercial roof repairs, with terms varying by repair type and scope. Materials carry manufacturer warranties. We stand behind our work—if issues arise with our repairs, we return to make them right. Our BBB A+ rating and 23,000+ five-star reviews reflect our commitment to quality commercial work and customer satisfaction over our 46+ years serving Tucson businesses."
     },
     {
       question: "Should I repair or replace my commercial roof?",
@@ -359,7 +359,7 @@ export const commercialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "What sets your commercial roofing apart in Tucson?",
-      answer: "Our 46+ years serving Tucson businesses, BBB A+ rating, 22,000+ five-star reviews, and multiple ROC licenses demonstrate our commitment to commercial excellence. Our technicians average 17 years of experience and understand Tucson's unique climate challenges. We provide detailed project management, clear communication, transparent pricing, and quality workmanship backed by comprehensive warranties. Our commercial clients trust us to protect their investments and minimize disruption."
+      answer: "Our 46+ years serving Tucson businesses, BBB A+ rating, 23,000+ five-star reviews, and multiple ROC licenses demonstrate our commitment to commercial excellence. Our technicians average 17 years of experience and understand Tucson's unique climate challenges. We provide detailed project management, clear communication, transparent pricing, and quality workmanship backed by comprehensive warranties. Our commercial clients trust us to protect their investments and minimize disruption."
     }
   ]
 };

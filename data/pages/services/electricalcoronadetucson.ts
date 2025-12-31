@@ -37,7 +37,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
     "description": "From smart home integration to barn wiring, we handle residential and agricultural electrical needs for Corona de Tucson properties."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Corona de Tucson homeowners. Our reputation speaks to our quality and reliable service."
   },
   {
@@ -286,7 +286,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews - BBB A+ rated with thousands of satisfied Corona de Tucson homeowners. Our reputation speaks to our quality workmanship and reliable service."
+            "content": "23,000+ Five-Star Reviews - BBB A+ rated with thousands of satisfied Corona de Tucson homeowners. Our reputation speaks to our quality workmanship and reliable service."
       },
       {
             "type": "paragraph",
@@ -570,7 +570,7 @@ export const electricalcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For over four decades, Intelligent Design has been the electrical contractor Corona de Tucson property owners trust for everything from emergency repairs to complex whole-property electrical systems. Our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service has earned us more than 22,000 five-star reviews and an A+ rating from the Better Business Bureau. When you choose Intelligent Design, you're choosing Arizona ROC-licensed electricians who treat your property with the same care and professionalism we'd want for our own families. From routine electrical maintenance to major electrical upgrades and everything in between, we deliver the expertise and reliability that protects Corona de Tucson homes, families, and investments."
+            "content": "For over four decades, Intelligent Design has been the electrical contractor Corona de Tucson property owners trust for everything from emergency repairs to complex whole-property electrical systems. Our commitment to quality workmanship, honest recommendations, transparent pricing, and exceptional customer service has earned us more than 23,000 five-star reviews and an A+ rating from the Better Business Bureau. When you choose Intelligent Design, you're choosing Arizona ROC-licensed electricians who treat your property with the same care and professionalism we'd want for our own families. From routine electrical maintenance to major electrical upgrades and everything in between, we deliver the expertise and reliability that protects Corona de Tucson homes, families, and investments."
       },
       {
             "type": "cta",

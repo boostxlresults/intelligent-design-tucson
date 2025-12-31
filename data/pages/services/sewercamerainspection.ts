@@ -35,7 +35,7 @@ export const sewercamerainspectionData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Expert technicians | Trusted since 1979 | All pipe types"
+    "description": "Family & veteran-owned | 23,000+ reviews | Expert technicians | Trusted since 1979 | All pipe types"
   },
   {
     "title": "Post-Repair Verification",
@@ -651,7 +651,7 @@ export const sewercamerainspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for sewer camera inspection, you're getting: professional HD camera equipment providing crystal-clear images, experienced technicians who understand what they're seeing and can explain it clearly, comprehensive written reports with video documentation for your records, honest assessments and repair recommendations without pressure tactics, all pipe types and diameters inspected professionally, and follow-up repair services if problems are identified."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for sewer camera inspection, you're getting: professional HD camera equipment providing crystal-clear images, experienced technicians who understand what they're seeing and can explain it clearly, comprehensive written reports with video documentation for your records, honest assessments and repair recommendations without pressure tactics, all pipe types and diameters inspected professionally, and follow-up repair services if problems are identified."
       },
       {
             "type": "paragraph",

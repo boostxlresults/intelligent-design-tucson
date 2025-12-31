@@ -35,7 +35,7 @@ export const residentialroofrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local expertise | Trusted since 1979"
   },
   {
     "title": "Comprehensive Warranties",
@@ -65,7 +65,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area homeowners with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've completed over 12,500 residential roof repairs since 1979, making us Tucson's most experienced [link:/services/roofing-tucson|roofing service] provider. Our commitment to honest assessments, transparent pricing, quality workmanship, and comprehensive warranties has made us the most-referred residential roofing company in Pima County. When your home is threatened by roof damage and water intrusion, you're choosing the company your neighbors trust with their most valuable investment."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area homeowners with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've completed over 12,500 residential roof repairs since 1979, making us Tucson's most experienced [link:/services/roofing-tucson|roofing service] provider. Our commitment to honest assessments, transparent pricing, quality workmanship, and comprehensive warranties has made us the most-referred residential roofing company in Pima County. When your home is threatened by roof damage and water intrusion, you're choosing the company your neighbors trust with their most valuable investment."
       },
       {
             "type": "paragraph",
@@ -545,7 +545,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Avoided Damage Costs: The primary ROI from emergency roof repair is avoided water damage that grows exponentially without intervention. A $3,500 roof repair typically prevents $15,000-$45,000 in interior damage including ceiling replacement, drywall repair, carpet replacement, furniture damage, mold remediation, paint and texture matching, and [link:/services/electrical-tucson|electrical repairs] if water affects outlets or fixtures. Insurance claims data shows average interior water damage from delayed roof leak repairs costs $22,000 in Tucson—making prompt repair incredibly valuable. Home Value Protection: Buyers and home inspectors scrutinize roof condition carefully. Home sale data in Tucson shows: homes with documented recent [link:/services/residential-roof-inspection|roof inspections] and repairs sell 8-12% faster than homes with deferred maintenance, leaking roofs reduce home sale price by average $18,000-$32,000 or require seller credits, properly repaired roofs restore full property value versus unrepaired issues, and comprehensive roof inspection reports with recent repair documentation provide buyer confidence reducing negotiation resistance."
+            "content": "Avoided Damage Costs: The primary ROI from emergency roof repair is avoided water damage that grows exponentially without intervention. A $3,500 roof repair typically prevents $15,000-$45,000 in interior damage including ceiling replacement, drywall repair, carpet replacement, furniture damage, mold remediation, paint and texture matching, and [link:/services/electrical-tucson|electrical repairs] if water affects outlets or fixtures. Insurance claims data shows average interior water damage from delayed roof leak repairs costs $23,000 in Tucson—making prompt repair incredibly valuable. Home Value Protection: Buyers and home inspectors scrutinize roof condition carefully. Home sale data in Tucson shows: homes with documented recent [link:/services/residential-roof-inspection|roof inspections] and repairs sell 8-12% faster than homes with deferred maintenance, leaking roofs reduce home sale price by average $18,000-$32,000 or require seller credits, properly repaired roofs restore full property value versus unrepaired issues, and comprehensive roof inspection reports with recent repair documentation provide buyer confidence reducing negotiation resistance."
       },
       {
             "type": "paragraph",
@@ -567,7 +567,7 @@ export const residentialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're the highest-rated roofing company in Southern Arizona and the most-referred residential roofing service in Pima County. When you choose Intelligent Design for roof repairs, you receive: free inspections with detailed photo documentation and thermal imaging when needed, honest assessment of repair versus replacement options without pressure sales tactics, transparent pricing with detailed written estimates explaining all costs, expert repairs using proper materials and techniques from licensed contractors, comprehensive warranties on labor (2-5 years depending on scope) and materials (per manufacturer specs), insurance claim assistance with detailed documentation and adjuster coordination, responsive communication throughout the repair process with dedicated project manager, and satisfaction guarantee—if it's not right, we make it right."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. We're the highest-rated roofing company in Southern Arizona and the most-referred residential roofing service in Pima County. When you choose Intelligent Design for roof repairs, you receive: free inspections with detailed photo documentation and thermal imaging when needed, honest assessment of repair versus replacement options without pressure sales tactics, transparent pricing with detailed written estimates explaining all costs, expert repairs using proper materials and techniques from licensed contractors, comprehensive warranties on labor (2-5 years depending on scope) and materials (per manufacturer specs), insurance claim assistance with detailed documentation and adjuster coordination, responsive communication throughout the repair process with dedicated project manager, and satisfaction guarantee—if it's not right, we make it right."
       },
       {
             "type": "paragraph",

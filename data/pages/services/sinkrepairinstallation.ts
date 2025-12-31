@@ -35,7 +35,7 @@ export const sinkrepairinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Licensed plumbers | Trusted since 1979 | ROC #171687"
+    "description": "Family & veteran-owned | 23,000+ reviews | Licensed plumbers | Trusted since 1979 | ROC #171687"
   },
   {
     "title": "Fixture Upgrades",
@@ -69,7 +69,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations (we'll tell you when a $150 faucet cartridge replacement solves your problem instead of selling you a $700 new faucet), quality workmanship, and customer satisfaction has made us the most-referred sink installation and repair provider in Pima County. When investing in sink installation or dealing with urgent repairs, you're choosing the company your neighbors trust with their home's plumbing and their hard-earned money."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and been recognized as Tucson's #1 rated plumbing installation company for 6 consecutive years (2019-2024 Best of Tucson awards). Our commitment to honest recommendations (we'll tell you when a $150 faucet cartridge replacement solves your problem instead of selling you a $700 new faucet), quality workmanship, and customer satisfaction has made us the most-referred sink installation and repair provider in Pima County. When investing in sink installation or dealing with urgent repairs, you're choosing the company your neighbors trust with their home's plumbing and their hard-earned money."
       },
       {
             "type": "paragraph",
@@ -165,7 +165,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, code compliance, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your sink installation or repair project. This systematic approach has earned us over 22,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona for [link:/services/plumbing-tucson|plumbing installations]."
+            "content": "At Intelligent Design, we follow a meticulous 8-step installation process that ensures quality, safety, code compliance, and your complete satisfaction. From initial consultation through final testing and cleanup, we maintain clear communication and professional standards throughout your sink installation or repair project. This systematic approach has earned us over 23,000 five-star reviews and the highest customer satisfaction ratings in Southern Arizona for [link:/services/plumbing-tucson|plumbing installations]."
       },
       {
             "type": "heading",
@@ -619,7 +619,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Since 1979, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has been Tucson's most trusted name for [link:/services/plumbing-tucson|plumbing services], earning over 22,000 five-star reviews and a 4.97 Google rating—the highest-rated plumbing company in Southern Arizona. Our family and veteran-owned business has installed thousands of sinks, faucets, and garbage disposals throughout Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], and surrounding communities, building our reputation on honest recommendations, quality workmanship, and exceptional customer service that keeps families referring us to their neighbors year after year."
+            "content": "Since 1979, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric has been Tucson's most trusted name for [link:/services/plumbing-tucson|plumbing services], earning over 23,000 five-star reviews and a 4.97 Google rating—the highest-rated plumbing company in Southern Arizona. Our family and veteran-owned business has installed thousands of sinks, faucets, and garbage disposals throughout Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], and surrounding communities, building our reputation on honest recommendations, quality workmanship, and exceptional customer service that keeps families referring us to their neighbors year after year."
       },
       {
             "type": "paragraph",
@@ -643,7 +643,7 @@ export const sinkrepairinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for sink installation or repair, you're getting more than a plumber—you're getting a trusted advisor, quality craftsperson, and community partner committed to delivering value, performance, and satisfaction that lasts for decades. With over 22,000 five-star reviews, 85,000+ satisfied customers, and 46+ years of continuous service to Tucson families, we've proven our commitment to excellence with every sink, faucet, and disposal we install."
+            "content": "When you choose Intelligent Design for sink installation or repair, you're getting more than a plumber—you're getting a trusted advisor, quality craftsperson, and community partner committed to delivering value, performance, and satisfaction that lasts for decades. With over 23,000 five-star reviews, 85,000+ satisfied customers, and 46+ years of continuous service to Tucson families, we've proven our commitment to excellence with every sink, faucet, and disposal we install."
       },
       {
             "type": "cta",

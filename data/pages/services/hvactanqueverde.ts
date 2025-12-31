@@ -12,7 +12,7 @@ export const hvactanqueverdeData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tanque Verde, AZ',
-  h2Subheading: 'Premium HVAC Solutions for Tanque Verde\'s Luxury Homes & Mountain Properties | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Premium HVAC Solutions for Tanque Verde\'s Luxury Homes & Mountain Properties | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Zone Control Systems | High-Efficiency Heat Pumps | Smart Home Integration | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_new_AC_installation_e3fa92fa.webp',
   heroImageAlt: 'Professional HVAC technician installing premium air conditioning system in luxury Tanque Verde, Arizona home',
@@ -36,7 +36,7 @@ export const hvactanqueverdeData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | Expert in zone control systems | Factory-authorized for premium brands | Advanced smart home integration"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Tanque Verde area | Most-referred HVAC company in Catalina Foothills"
   },
   {
@@ -71,7 +71,7 @@ export const hvactanqueverdeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,400 Tanque Verde families and luxury properties with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company serving Tanque Verde and Catalina Foothills. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Tanque Verde for nine consecutive years (2016-2024). Our commitment to premium equipment, expert installation, transparent pricing, luxury home expertise, and exceptional customer service has made us the preferred HVAC partner for Tanque Verde's homeowners, custom builders, and luxury real estate professionals. When you choose Intelligent Design, you're selecting the company your neighbors on Sabino Canyon Road, Catalina Highway, Snyder Road, and throughout the Tanque Verde community have trusted with their [link:/customer-reviews|luxury home comfort and property investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,400 Tanque Verde families and luxury properties with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company serving Tanque Verde and Catalina Foothills. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Tanque Verde for nine consecutive years (2016-2024). Our commitment to premium equipment, expert installation, transparent pricing, luxury home expertise, and exceptional customer service has made us the preferred HVAC partner for Tanque Verde's homeowners, custom builders, and luxury real estate professionals. When you choose Intelligent Design, you're selecting the company your neighbors on Sabino Canyon Road, Catalina Highway, Snyder Road, and throughout the Tanque Verde community have trusted with their [link:/customer-reviews|luxury home comfort and property investments] for over four decades."
       },
       {
             "type": "cta",

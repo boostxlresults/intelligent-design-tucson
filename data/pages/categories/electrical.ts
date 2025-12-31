@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const electricalCategoryData: ServiceCategoryData = {
   title: 'Electrical Services Tucson | Electricians & Repairs | Intelligent Design',
-  description: 'Professional electrical services in Tucson, AZ. Panel upgrades, generators, lighting & repairs. Licensed electricians with 22,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Professional electrical services in Tucson, AZ. Panel upgrades, generators, lighting & repairs. Licensed electricians with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'electrical',
   h1: 'Tucson Electrical Services',
   h2Subheading: 'Licensed Electricians You Can Trust',

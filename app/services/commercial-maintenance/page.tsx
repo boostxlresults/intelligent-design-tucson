@@ -398,7 +398,7 @@ export default function CommercialMaintenancePage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div className="flex flex-col items-center">
                 <Star className="w-10 h-10 text-yellow-500 mb-2" />
-                <p className="font-bold text-sm">Over 22,000 Five Star Reviews</p>
+                <p className="font-bold text-sm">Over 23,000 Five Star Reviews</p>
               </div>
               <div className="flex flex-col items-center">
                 <Award className="w-10 h-10 text-primary mb-2" />

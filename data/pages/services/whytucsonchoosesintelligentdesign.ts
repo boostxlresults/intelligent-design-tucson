@@ -8,7 +8,7 @@ import { whyChooseFAQs } from '@/data/faqs/general';
 export const whytucsonchoosesintelligentdesignData: ServicePageData = {
   // SEO & Meta
   title: 'Why Tucson Chooses Intelligent Design | Tucson',
-  description: 'Discover why over 22,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
+  description: 'Discover why over 23,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
   slug: 'why-tucson-chooses-intelligent-design',
   
   // Hero Section
@@ -39,7 +39,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a BBB A+ rating, our reputation speaks for itself. Our team of 80+ highly trained technicians is available 24/7 to serve you, and we're the only company in Tucson offering all five major trades under one roof."
+            "content": "With over 23,000 five-star reviews and a BBB A+ rating, our reputation speaks for itself. Our team of 80+ highly trained technicians is available 24/7 to serve you, and we're the only company in Tucson offering all five major trades under one roof."
       },
       {
             "type": "paragraph",
@@ -89,7 +89,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "From day one, we've focused on earning trust through exceptional service. Our 22,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer."
+            "content": "From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer."
       },
       {
             "type": "paragraph",

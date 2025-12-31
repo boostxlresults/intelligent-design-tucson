@@ -10,7 +10,7 @@ export const heatertuneupData: ServicePageData = {
   
   // Hero Section
   h1: 'Professional Heater Tune-Up in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Annual Maintenance | Peak Efficiency | Prevent Breakdowns | Expert Technicians',
   heroImage: '/generated_images/Heater_tune-up_hero_background_6548d67f.webp',
   heroImageAlt: 'Professional heater tune-up technician performing maintenance on heating system in Tucson, Arizona',
@@ -65,7 +65,7 @@ export const heatertuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heater-service-tucson|heater service] provider in Pima County. When you're trusting a company with your family's winter comfort and safety, you're choosing the company your neighbors rely on for their [link:/guarantees|family-owned, veteran-operated service with industry-leading guarantees]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heater-service-tucson|heater service] provider in Pima County. When you're trusting a company with your family's winter comfort and safety, you're choosing the company your neighbors rely on for their [link:/guarantees|family-owned, veteran-operated service with industry-leading guarantees]."
       },
       {
             "type": "paragraph",
@@ -668,7 +668,7 @@ export const heatertuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Join Thousands of Satisfied Tucson Homeowners: Don't just take our word for the value of professional heater tune-ups—read verified [link:/customer-reviews|customer reviews] from thousands of Tucson-area families who rely on our maintenance services for year-round comfort, reliability, and peace of mind. Our 4.97-star Google rating from over 22,000 reviews represents real experiences from your neighbors in Oro Valley, Marana, Catalina Foothills, Sahuarita, and throughout metro Tucson. When you choose Intelligent Design, you're choosing the most trusted name in Tucson HVAC service backed by 46+ years of family and veteran-owned integrity, professional expertise, and commitment to your complete satisfaction."
+            "content": "Join Thousands of Satisfied Tucson Homeowners: Don't just take our word for the value of professional heater tune-ups—read verified [link:/customer-reviews|customer reviews] from thousands of Tucson-area families who rely on our maintenance services for year-round comfort, reliability, and peace of mind. Our 4.97-star Google rating from over 23,000 reviews represents real experiences from your neighbors in Oro Valley, Marana, Catalina Foothills, Sahuarita, and throughout metro Tucson. When you choose Intelligent Design, you're choosing the most trusted name in Tucson HVAC service backed by 46+ years of family and veteran-owned integrity, professional expertise, and commitment to your complete satisfaction."
       }
     ]
   },

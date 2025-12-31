@@ -10,7 +10,7 @@ export const indoorairqualityData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Indoor Air Quality Solutions & Humidifiers in Tucson, AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Breathe Cleaner, Healthier Air with Professional Air Purification, Filtration & Whole House Humidifier Systems',
   heroImage: '/generated_images/Clean_home_air_quality_system_c083313f.webp',
   heroImageAlt: 'Professional HVAC technician installing indoor air quality system and humidifier in Tucson home',
@@ -69,7 +69,7 @@ export const indoorairqualityData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC and indoor air quality company in Southern Arizona. We've been the #1 rated IAQ solutions provider in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest assessments, effective solutions, and customer education has made us the most-referred indoor air quality provider in Pima County. When you're trusting a company with your family's respiratory health and indoor comfort, you're choosing the company your neighbors rely on for their family-owned, veteran-operated service with industry-leading satisfaction guarantees."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC and indoor air quality company in Southern Arizona. We've been the #1 rated IAQ solutions provider in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest assessments, effective solutions, and customer education has made us the most-referred indoor air quality provider in Pima County. When you're trusting a company with your family's respiratory health and indoor comfort, you're choosing the company your neighbors rely on for their family-owned, veteran-operated service with industry-leading satisfaction guarantees."
       },
       {
             "type": "paragraph",
@@ -83,7 +83,7 @@ export const indoorairqualityData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "✓ Comprehensive air quality testing and assessment | ✓ Expert installation of all major IAQ brands | ✓ Whole house humidifiers for desert climate | ✓ Advanced HEPA and UV air purification | ✓ Reduce energy bills and extend HVAC life | ✓ Family and veteran-owned since 1979 | ✓ Over 22,000 5-star reviews from happy customers",
+            "content": "✓ Comprehensive air quality testing and assessment | ✓ Expert installation of all major IAQ brands | ✓ Whole house humidifiers for desert climate | ✓ Advanced HEPA and UV air purification | ✓ Reduce energy bills and extend HVAC life | ✓ Family and veteran-owned since 1979 | ✓ Over 23,000 5-star reviews from happy customers",
             "items": [
                   "✓ Comprehensive air quality testing and assessment",
                   "✓ Expert installation of all major IAQ brands",
@@ -91,7 +91,7 @@ export const indoorairqualityData: ServicePageData = {
                   "✓ Advanced HEPA and UV air purification",
                   "✓ Reduce energy bills and extend HVAC life",
                   "✓ Family and veteran-owned since 1979",
-                  "✓ Over 22,000 5-star reviews from happy customers"
+                  "✓ Over 23,000 5-star reviews from happy customers"
             ]
       },
       {
@@ -184,7 +184,7 @@ export const indoorairqualityData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for indoor air quality solutions, you're choosing a company with over 22,000 five-star reviews, an A+ Better Business Bureau rating, and four generations of family ownership committed to Tucson's wellbeing. We're available 24/7 for emergency service, offer upfront pricing with no hidden fees, and stand behind every installation with comprehensive warranties. Experience the difference that truly clean, properly balanced air makes in your home."
+            "content": "When you choose Intelligent Design for indoor air quality solutions, you're choosing a company with over 23,000 five-star reviews, an A+ Better Business Bureau rating, and four generations of family ownership committed to Tucson's wellbeing. We're available 24/7 for emergency service, offer upfront pricing with no hidden fees, and stand behind every installation with comprehensive warranties. Experience the difference that truly clean, properly balanced air makes in your home."
       },
       {
             "type": "heading",

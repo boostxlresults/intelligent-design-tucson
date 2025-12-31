@@ -10,7 +10,7 @@ import { whyChooseFAQs } from '@/data/faqs/general';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'About Intelligent Design | Tucson\'s Most Trusted Home Services Company',
-  description: 'Discover why over 22,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
+  description: 'Discover why over 23,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
   canonicalUrl: 'https://www.idesignac.com/about',
   keywords: ['About Intelligent Design', 'Tucson home services', 'family owned', 'veteran owned', 'HVAC company', 'plumbing company', 'BBB A+'],
 });
@@ -18,7 +18,7 @@ export const metadata: Metadata = generateSEOMetadata({
 const highlights = [
   {
     icon: Star,
-    title: '22,000+ Five-Star Reviews',
+    title: '23,000+ Five-Star Reviews',
     description: 'Trusted by thousands of Tucson families',
   },
   {
@@ -73,7 +73,7 @@ export default function AboutPage() {
               Why Tucson Chooses Intelligent Design
             </h1>
             <p className="text-xl text-white/90 mb-8" data-testid="text-hero-description">
-              Family & Veteran-Owned • BBB A+ Rated • 22,000+ Five-Star Reviews
+              Family & Veteran-Owned • BBB A+ Rated • 23,000+ Five-Star Reviews
             </p>
             <div className="flex flex-wrap gap-4">
               <SchedulerEmbed 
@@ -139,7 +139,7 @@ export default function AboutPage() {
               With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners—reliability, honesty, and exceptional service.
             </p>
             <p>
-              With over 22,000 five-star reviews and a BBB A+ rating, our reputation speaks for itself. Our team of 80+ highly trained technicians is available 24/7 to serve you, and we're the only company in Tucson offering all five major trades under one roof.
+              With over 23,000 five-star reviews and a BBB A+ rating, our reputation speaks for itself. Our team of 80+ highly trained technicians is available 24/7 to serve you, and we're the only company in Tucson offering all five major trades under one roof.
             </p>
             <p>
               We're not just contractors—we're your neighbors. We live here, work here, and are committed to making Tucson homes more comfortable, efficient, and valuable. When you choose Intelligent Design, you're choosing a company that treats every customer like family.
@@ -207,7 +207,7 @@ export default function AboutPage() {
             
             <h3 className="text-xl font-bold text-foreground mt-8">Growth Built on Trust</h3>
             <p>
-              From day one, we've focused on earning trust through exceptional service. Our 22,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer.
+              From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer.
             </p>
             <p>
               Today, our team of 80+ technicians serves thousands of Tucson families across all five major trades: HVAC, plumbing, electrical, solar, and roofing. This makes us unique in Southern Arizona—one company you can trust for all your home service needs.

@@ -37,7 +37,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Gladden Farms's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -620,7 +620,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Beyond financial benefits, Gladden Farms solar installations deliver substantial environmental advantages reducing carbon footprint and contributing to cleaner air for our community. Carbon emissions reduction: The average 7.5 kW Gladden Farms solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, avoiding 22,000 miles of driving, or preventing 1,000 gallons of gasoline from being burned. Over 25 years, your solar system prevents 210-240 tons of CO2 emissions, delivering environmental impact comparable to preserving 12+ acres of forest."
+            "content": "Beyond financial benefits, Gladden Farms solar installations deliver substantial environmental advantages reducing carbon footprint and contributing to cleaner air for our community. Carbon emissions reduction: The average 7.5 kW Gladden Farms solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, avoiding 23,000 miles of driving, or preventing 1,000 gallons of gasoline from being burned. Over 25 years, your solar system prevents 210-240 tons of CO2 emissions, delivering environmental impact comparable to preserving 12+ acres of forest."
       },
       {
             "type": "paragraph",

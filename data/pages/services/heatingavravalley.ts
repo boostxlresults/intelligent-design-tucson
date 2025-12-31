@@ -34,7 +34,7 @@ export const heatingavravalleyData: ServicePageData = {
     "description": "Top-rated furnaces and heat pumps from Carrier, Trane, Lennox, and other leading manufacturers, all sized and installed correctly."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Avra Valley customers. Our reputation speaks to our quality and service."
   },
   {

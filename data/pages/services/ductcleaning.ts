@@ -10,7 +10,7 @@ export const ductcleaningData: ServicePageData = {
   
   // Hero Section
   h1: 'Highest-Rated Air Duct Cleaning in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Professional Duct Cleaning | Improved Air Quality | Same-Day Service Available',
   heroImage: '/generated_images/Duct_cleaning_service_Tucson_home_755876f7.webp',
   heroImageAlt: 'Professional technician performing air duct cleaning service in Tucson home',
@@ -39,7 +39,7 @@ export const ductcleaningData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ five-star reviews | Background-checked technicians | Licensed & insured"
+    "description": "Family & veteran-owned | 23,000+ five-star reviews | Background-checked technicians | Licensed & insured"
   },
   {
     "title": "Transparent Pricing & Same-Day Service",
@@ -69,7 +69,7 @@ export const ductcleaningData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC and indoor air quality company in Southern Arizona. We've been the #1 rated duct cleaning company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, thorough cleaning processes, and customer satisfaction has made us the most-referred air duct cleaning provider in Pima County. When you're trusting a company with your family's indoor air quality and health, you're choosing the company your neighbors rely on for their family-owned, veteran-operated service with industry-leading quality guarantees."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC and indoor air quality company in Southern Arizona. We've been the #1 rated duct cleaning company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, thorough cleaning processes, and customer satisfaction has made us the most-referred air duct cleaning provider in Pima County. When you're trusting a company with your family's indoor air quality and health, you're choosing the company your neighbors rely on for their family-owned, veteran-operated service with industry-leading quality guarantees."
       },
       {
             "type": "paragraph",

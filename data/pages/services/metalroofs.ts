@@ -35,7 +35,7 @@ export const metalroofsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert climate expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert climate expertise | Trusted since 1979"
   },
   {
     "title": "Superior Wind & Weather Resistance",
@@ -86,7 +86,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Metal Roofing Performance Data: Our commitment to excellence is measurable through verified ServiceTitan performance data tracking every metal roofing project. We maintain a 99.1% first-time installation success rate for metal roofs, average 4.97-star ratings from 22,000+ verified customer reviews, complete 97% of metal installations within estimated timelines, and achieve zero roof leaks from metal installations in our company history when properly maintained. Our ServiceTitan business management platform tracks critical metal roofing metrics including average project completion time of 3.2 days for residential standing seam installations, 98.6% customer satisfaction scores on post-installation surveys, 1.9-hour average response time for metal roof consultation requests, and 97.1% of customers who would recommend our metal roofing services to family and friends."
+            "content": "Industry-Leading Metal Roofing Performance Data: Our commitment to excellence is measurable through verified ServiceTitan performance data tracking every metal roofing project. We maintain a 99.1% first-time installation success rate for metal roofs, average 4.97-star ratings from 23,000+ verified customer reviews, complete 97% of metal installations within estimated timelines, and achieve zero roof leaks from metal installations in our company history when properly maintained. Our ServiceTitan business management platform tracks critical metal roofing metrics including average project completion time of 3.2 days for residential standing seam installations, 98.6% customer satisfaction scores on post-installation surveys, 1.9-hour average response time for metal roof consultation requests, and 97.1% of customers who would recommend our metal roofing services to family and friends."
       },
       {
             "type": "paragraph",
@@ -565,7 +565,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Asphalt Shingles (50 Years): Initial installation: $15,000. Replacement #1 (year 18): $18,000. Replacement #2 (year 35): $22,000. Total installation costs: $55,000. Maintenance over 50 years: $8,000. Energy costs (baseline): $0. Insurance costs (baseline): $0. Total 50-year cost: $63,000. Home value impact: Neutral (roof nearing replacement)."
+            "content": "Asphalt Shingles (50 Years): Initial installation: $15,000. Replacement #1 (year 18): $18,000. Replacement #2 (year 35): $23,000. Total installation costs: $55,000. Maintenance over 50 years: $8,000. Energy costs (baseline): $0. Insurance costs (baseline): $0. Total 50-year cost: $63,000. Home value impact: Neutral (roof nearing replacement)."
       },
       {
             "type": "paragraph",
@@ -713,7 +713,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on superior craftsmanship, honest guidance, and exceptional service. When you choose Intelligent Design for metal roof install services, you receive: free comprehensive consultations and estimates, expert system selection for your needs and budget, energy efficiency analysis and recommendations, professional installation by experienced standing seam metal roofers, comprehensive warranties on materials and workmanship, proper thermal design preventing issues, cool roof optimization for maximum savings, and responsive service addressing concerns promptly."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on superior craftsmanship, honest guidance, and exceptional service. When you choose Intelligent Design for metal roof install services, you receive: free comprehensive consultations and estimates, expert system selection for your needs and budget, energy efficiency analysis and recommendations, professional installation by experienced standing seam metal roofers, comprehensive warranties on materials and workmanship, proper thermal design preventing issues, cool roof optimization for maximum savings, and responsive service addressing concerns promptly."
       },
       {
             "type": "paragraph",

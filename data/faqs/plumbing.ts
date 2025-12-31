@@ -1030,7 +1030,7 @@ export const plumbingLocationGeneralFAQs: ServiceFAQs = {
     },
     {
       question: "Why should I choose Intelligent Design for my plumbing needs?",
-      answer: "With over 45 years serving Tucson and 22,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our plumbers average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
+      answer: "With over 45 years serving Tucson and 23,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our plumbers average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
     }
   ]
 };

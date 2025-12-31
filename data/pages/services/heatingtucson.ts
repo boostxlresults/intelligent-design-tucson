@@ -6,12 +6,12 @@ import { heatingLocationFAQs } from '@/data/faqs/hvac';
 export const heatingtucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Tucson AZ | Furnace Repair & Installation | Heat Pumps',
-  description: 'Complete heating services in Tucson, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert heating solutions for desert climate.',
+  description: 'Complete heating services in Tucson, AZ since 1979. Furnace repair, installation, heat pumps, dual-fuel systems. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert heating solutions for desert climate.',
   slug: 'heating-tucson',
   
   // Hero Section
   h1: 'Complete Heating Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted Heating Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Heating Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Furnace Repair | Installation | Heat Pumps | Dual-Fuel Systems | Maintenance | 24/7 Emergency Service',
   heroImage: '/generated_images/Heating_tech_heat_pump_install_ad4fa012.webp',
   heroImageAlt: 'Professional heating technician installing efficient heat pump system in Tucson, Arizona',
@@ -35,7 +35,7 @@ export const heatingtucsonData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Expert furnace & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated heating company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const heatingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated heating company in Southern Arizona. We've been the #1 rated heating service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred heating company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home heating investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -405,7 +405,7 @@ export const heatingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Gas Furnace Sizing: Furnaces should be sized 15-25% above calculated heat load to ensure adequate capacity during coldest conditions while avoiding excessive oversizing. A home with 48,000 BTU calculated load needs 55,000-60,000 BTU furnace capacity (not 80,000-100,000 BTU common with rule-of-thumb sizing). Two-stage or modulating furnaces can be sized closer to calculated load since they operate at reduced capacity most of the time. Heat Pump Sizing: Heat pumps should be sized primarily for cooling requirements (Tucson's dominant load), then heating capacity verified adequate for winter conditions. A 2-ton heat pump (24,000 BTU cooling) typically provides 20,000-22,000 BTU heating at 47°F—adequate for homes with 18,000-20,000 BTU heating loads. Verify heating capacity at 32°F design temperature meets or exceeds calculated heating load. Dual-Fuel Sizing: Heat pump component sized for cooling load, gas furnace sized for heating load—each component can be optimally sized for its primary function. Provides best comfort and efficiency in Tucson's climate with extreme cooling and moderate heating requirements."
+            "content": "Gas Furnace Sizing: Furnaces should be sized 15-25% above calculated heat load to ensure adequate capacity during coldest conditions while avoiding excessive oversizing. A home with 48,000 BTU calculated load needs 55,000-60,000 BTU furnace capacity (not 80,000-100,000 BTU common with rule-of-thumb sizing). Two-stage or modulating furnaces can be sized closer to calculated load since they operate at reduced capacity most of the time. Heat Pump Sizing: Heat pumps should be sized primarily for cooling requirements (Tucson's dominant load), then heating capacity verified adequate for winter conditions. A 2-ton heat pump (24,000 BTU cooling) typically provides 20,000-23,000 BTU heating at 47°F—adequate for homes with 18,000-20,000 BTU heating loads. Verify heating capacity at 32°F design temperature meets or exceeds calculated heating load. Dual-Fuel Sizing: Heat pump component sized for cooling load, gas furnace sized for heating load—each component can be optimally sized for its primary function. Provides best comfort and efficiency in Tucson's climate with extreme cooling and moderate heating requirements."
       },
       {
             "type": "heading",
@@ -646,7 +646,7 @@ export const heatingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Customer Satisfaction: Our 22,000+ five-star reviews and 4.97 Google rating demonstrate consistent service excellence. BBB A+ rating since 1979 with zero unresolved complaints proves our commitment to customer satisfaction. We've been voted Best of Tucson #1 HVAC company seven consecutive years. Most of our business comes from referrals—satisfied customers recommending us to family and friends. This reputation was earned through honest recommendations (no unnecessary upselling), quality workmanship (proper installations, thorough repairs), transparent pricing (detailed estimates, no hidden fees), exceptional service (respect for your home and time), and standing behind our work (comprehensive warranties, responsive support)."
+            "content": "Proven Customer Satisfaction: Our 23,000+ five-star reviews and 4.97 Google rating demonstrate consistent service excellence. BBB A+ rating since 1979 with zero unresolved complaints proves our commitment to customer satisfaction. We've been voted Best of Tucson #1 HVAC company seven consecutive years. Most of our business comes from referrals—satisfied customers recommending us to family and friends. This reputation was earned through honest recommendations (no unnecessary upselling), quality workmanship (proper installations, thorough repairs), transparent pricing (detailed estimates, no hidden fees), exceptional service (respect for your home and time), and standing behind our work (comprehensive warranties, responsive support)."
       },
       {
             "type": "paragraph",

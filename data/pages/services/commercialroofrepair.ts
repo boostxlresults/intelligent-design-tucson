@@ -35,7 +35,7 @@ export const commercialroofrepairData: ServicePageData = {
   },
   {
     "title": "46+ years Commercial Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Licensed & insured | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Licensed & insured | Trusted since 1979"
   },
   {
     "title": "Comprehensive Warranties",
@@ -65,7 +65,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Commercial Roofing Expertise & Trust: Intelligent Design has completed over 8,700 commercial roof repairs since 1979, serving Tucson's most demanding commercial properties including office buildings, retail centers, industrial warehouses, medical facilities, multi-family housing complexes, and government buildings. Our nearly perfect 4.97-star rating from 22,000+ verified reviews reflects our commitment to quality workmanship, honest assessments, and exceptional customer service. We're the #1 commercial roofing contractor trusted by property managers, facility directors, and building owners throughout Southern Arizona. Our unique advantage as a comprehensive building services provider offering [link:/services/hvac-tucson|commercial HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/commercial-solar-installation|solar services] means we can address roof-mounted equipment issues, penetration sealing, drainage system repairs, and building envelope integrations that single-trade roofing companies cannot—ensuring completely waterproof, professionally integrated commercial roof repairs."
+            "content": "Proven Commercial Roofing Expertise & Trust: Intelligent Design has completed over 8,700 commercial roof repairs since 1979, serving Tucson's most demanding commercial properties including office buildings, retail centers, industrial warehouses, medical facilities, multi-family housing complexes, and government buildings. Our nearly perfect 4.97-star rating from 23,000+ verified reviews reflects our commitment to quality workmanship, honest assessments, and exceptional customer service. We're the #1 commercial roofing contractor trusted by property managers, facility directors, and building owners throughout Southern Arizona. Our unique advantage as a comprehensive building services provider offering [link:/services/hvac-tucson|commercial HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/commercial-solar-installation|solar services] means we can address roof-mounted equipment issues, penetration sealing, drainage system repairs, and building envelope integrations that single-trade roofing companies cannot—ensuring completely waterproof, professionally integrated commercial roof repairs."
       },
       {
             "type": "paragraph",
@@ -696,7 +696,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, minimal business disruption, and exceptional customer service. When you choose Intelligent Design for commercial roof repairs, you receive: free comprehensive roof inspections with photo documentation and thermal imaging, honest assessment of repair versus replacement economics, transparent pricing with detailed written proposals, expert repairs using proper commercial roofing techniques and premium materials, flexible scheduling to minimize operational impact and accommodate business hours, comprehensive warranties on labor and materials with transferable options, insurance claim assistance and thorough documentation, dedicated account management for property managers and building owners, and integrated building services addressing [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and roofing needs comprehensively."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, minimal business disruption, and exceptional customer service. When you choose Intelligent Design for commercial roof repairs, you receive: free comprehensive roof inspections with photo documentation and thermal imaging, honest assessment of repair versus replacement economics, transparent pricing with detailed written proposals, expert repairs using proper commercial roofing techniques and premium materials, flexible scheduling to minimize operational impact and accommodate business hours, comprehensive warranties on labor and materials with transferable options, insurance claim assistance and thorough documentation, dedicated account management for property managers and building owners, and integrated building services addressing [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and roofing needs comprehensively."
       },
       {
             "type": "paragraph",

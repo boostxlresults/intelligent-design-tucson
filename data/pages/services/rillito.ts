@@ -8,7 +8,7 @@ import { generalAreaFAQs } from '@/data/faqs/general';
 export const rillitoData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Rillito, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Rillito. Serving this quiet community north of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Rillito. Serving this quiet community north of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'rillito',
   
   // Hero Section

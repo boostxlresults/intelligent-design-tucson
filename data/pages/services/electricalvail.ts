@@ -33,7 +33,7 @@ export const electricalvailData: ServicePageData = {
     "description": "Arizona ROC #340962 licensed & insured | 17+ years average experience | Rural electrical expertise | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ since 1979 | Most-trusted in Pima County | #1 rated electrical company"
   },
   {
@@ -64,7 +64,7 @@ export const electricalvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Vail Community Trust: Intelligent Design has earned the trust of over 1,200 Vail-area families and ranchers and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company serving rural Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Vail's close-knit ranch community. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|well pumps, barn electrical, and rural property safety] for over four decades."
+            "content": "Proven Track Record & Vail Community Trust: Intelligent Design has earned the trust of over 1,200 Vail-area families and ranchers and 85,000+ total Southern Arizona customers with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company serving rural Pima County. We've been the #1 rated electrical service provider in the Tucson area for 7 consecutive years (2018-2024), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company among Vail's close-knit ranch community. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|well pumps, barn electrical, and rural property safety] for over four decades."
       },
       {
             "type": "paragraph",
@@ -523,7 +523,7 @@ export const electricalvailData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Our 22,000+ five-star reviews, BBB A+ rating since 1979, and 4.97-star Google rating demonstrate consistent delivery of expert service, fair pricing, and customer satisfaction. Over 1,200 Vail-area families and ranchers trust us with their electrical systems, well pumps, and property infrastructure. When you choose Intelligent Design, you're selecting the company your neighbors have trusted for over four decades."
+            "content": "Proven Track Record & Community Trust: Our 23,000+ five-star reviews, BBB A+ rating since 1979, and 4.97-star Google rating demonstrate consistent delivery of expert service, fair pricing, and customer satisfaction. Over 1,200 Vail-area families and ranchers trust us with their electrical systems, well pumps, and property infrastructure. When you choose Intelligent Design, you're selecting the company your neighbors have trusted for over four decades."
       },
       {
             "type": "cta",

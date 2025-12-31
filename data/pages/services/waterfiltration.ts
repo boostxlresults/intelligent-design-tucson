@@ -43,7 +43,7 @@ export const waterfiltrationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | Licensed plumbers | 22,000+ reviews | Same-day installation available"
+    "description": "Family & veteran-owned | Licensed plumbers | 23,000+ reviews | Same-day installation available"
   }
 ],
   content: {
@@ -643,7 +643,7 @@ export const waterfiltrationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your Brita PRO water filtration system, you're getting factory-authorized installation, genuine equipment, expert service, and a team that stands behind every installation."
+            "content": "With over 23,000 five-star reviews and a nearly perfect 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your Brita PRO water filtration system, you're getting factory-authorized installation, genuine equipment, expert service, and a team that stands behind every installation."
       },
       {
             "type": "paragraph",

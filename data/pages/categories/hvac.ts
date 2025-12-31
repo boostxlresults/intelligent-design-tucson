@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const hvacCategoryData: ServiceCategoryData = {
   title: 'HVAC Services Tucson | Heating & Air Conditioning | Intelligent Design',
-  description: 'Complete HVAC services in Tucson, AZ. AC repair, heating, ductwork, indoor air quality & more. Family & veteran-owned with 22,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Complete HVAC services in Tucson, AZ. AC repair, heating, ductwork, indoor air quality & more. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'hvac',
   h1: 'Tucson HVAC Services',
   h2Subheading: 'Heating & Air Conditioning Experts',
@@ -10,7 +10,7 @@ export const hvacCategoryData: ServiceCategoryData = {
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Tucson home',
   categoryName: 'HVAC',
-  intro: 'Intelligent Design provides comprehensive heating, ventilation, and air conditioning services throughout Tucson and Southern Arizona. With 46+ years of combined home services expertise and 22,000+ five-star reviews, we\'re the trusted choice for all your home comfort needs.',
+  intro: 'Intelligent Design provides comprehensive heating, ventilation, and air conditioning services throughout Tucson and Southern Arizona. With 46+ years of combined home services expertise and 23,000+ five-star reviews, we\'re the trusted choice for all your home comfort needs.',
   subServices: [
     {
       name: 'AC Repair',
@@ -74,7 +74,7 @@ export const hvacCategoryData: ServiceCategoryData = {
     },
     {
       title: '46+ Years Experience',
-      description: 'Family & veteran-owned, serving Tucson since 1979. BBB A+ rated with 22,000+ five-star reviews.'
+      description: 'Family & veteran-owned, serving Tucson since 1979. BBB A+ rated with 23,000+ five-star reviews.'
     },
     {
       title: 'Upfront Pricing',

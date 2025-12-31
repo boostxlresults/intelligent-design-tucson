@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const roofingCategoryData: ServiceCategoryData = {
   title: 'Roofing Services Tucson | Roof Repair & Installation | Intelligent Design',
-  description: 'Expert roofing services in Tucson, AZ. Roof repair, replacement, coating & inspections. Residential & commercial. Family & veteran-owned with 22,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Expert roofing services in Tucson, AZ. Roof repair, replacement, coating & inspections. Residential & commercial. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'roofing',
   h1: 'Tucson Roofing Services',
   h2Subheading: 'Protect Your Home from Above',

@@ -11,7 +11,7 @@ export const smartacFAQs = {
     },
     {
       question: "Why is Intelligent Design the exclusive Tucson partner for SmartAC?",
-      answer: "Intelligent Design was selected as the exclusive Tucson SmartAC partner based on our 46+ years of HVAC expertise, BBB A+ rating since 1979, 22,000+ five-star customer reviews, and our commitment to innovative technology that benefits homeowners. As a family and veteran-owned company, we prioritize solutions that protect our customers from unexpected breakdowns and costly emergency repairs—making SmartAC a perfect fit for our service philosophy."
+      answer: "Intelligent Design was selected as the exclusive Tucson SmartAC partner based on our 46+ years of HVAC expertise, BBB A+ rating since 1979, 23,000+ five-star customer reviews, and our commitment to innovative technology that benefits homeowners. As a family and veteran-owned company, we prioritize solutions that protect our customers from unexpected breakdowns and costly emergency repairs—making SmartAC a perfect fit for our service philosophy."
     },
     {
       question: "How much does SmartAC monitoring cost in Tucson?",
@@ -85,7 +85,7 @@ export const smartacData: ServicePageData = {
     },
     {
       title: "46+ Years Tucson Expertise",
-      description: "Family & veteran-owned | 22,000+ reviews | BBB A+ rated since 1979"
+      description: "Family & veteran-owned | 23,000+ reviews | BBB A+ rated since 1979"
     },
     {
       title: "Proactive Service Response",
@@ -173,7 +173,7 @@ export const smartacData: ServicePageData = {
           "✓ 46+ years of Tucson HVAC expertise",
           "✓ Factory-certified SmartAC installation technicians",
           "✓ Integration with your existing [link:/family-protection-plans|Family Protection Plan] membership",
-          "✓ 22,000+ five-star customer reviews",
+          "✓ 23,000+ five-star customer reviews",
           "✓ BBB A+ rating since 1979"
         ]
       },

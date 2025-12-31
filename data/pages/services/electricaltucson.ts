@@ -4,12 +4,12 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricaltucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Electrical Services Tucson AZ | Licensed Electricians | Panel Upgrades | Repairs',
-  description: 'Complete electrical services in Tucson, AZ since 1979. Panel upgrades, generator installation, EV chargers, lighting, repairs. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert electricians for all your home needs.',
+  description: 'Complete electrical services in Tucson, AZ since 1979. Panel upgrades, generator installation, EV chargers, lighting, repairs. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert electricians for all your home needs.',
   slug: 'electrical-tucson',
   
   // Hero Section
   h1: 'Complete Electrical Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted Electrical Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Electrical Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Panel Upgrades | Generator Installation | EV Chargers | Lighting | Repairs | Inspections | 24/7 Emergency Service',
   heroImage: '/generated_images/Electrical_service_work_e21d02b3.webp',
   heroImageAlt: 'Professional electrician providing expert electrical service in Tucson, Arizona',
@@ -33,7 +33,7 @@ export const electricaltucsonData: ServicePageData = {
     "description": "Arizona ROC licensed & insured | 17+ years average experience | 120+ hours annual training | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated electrical company in Tucson | Most-referred in Pima County"
   },
   {
@@ -64,7 +64,7 @@ export const electricaltucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We've been the #1 rated electrical service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We've been the #1 rated electrical service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred electrical company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety] for over four decades."
       },
       {
             "type": "paragraph",
@@ -244,7 +244,7 @@ export const electricaltucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: The Johnsons purchased a 1958 ranch home in Tucson's Broadmoor-Broadway neighborhood planning extensive renovation. Pre-purchase inspection revealed outdated cloth-insulated wiring, ungrounded two-prong outlets throughout, lack of GFCI protection, undersized 60-amp service, aluminum branch wiring in kitchen and dining room, and knob-and-tube wiring remaining in attic spaces. Multiple fire hazards made home uninsurable without electrical updates. The Solution: We coordinated whole-home rewire during their renovation including complete removal of all outdated wiring, new 200-amp main panel with modern safety features, all-new copper wiring throughout home (NM-B 12/2 and 14/2), grounded three-prong outlets in all locations, GFCI protection in kitchen, bathrooms, garage, and outdoor areas, AFCI protection in all bedrooms and living areas, dedicated circuits for all major appliances, recessed LED lighting throughout (cool-running, energy-efficient), outdoor GFCI outlets and lighting circuits, and comprehensive whole-home surge protection. The Results: Whole-home rewire cost $18,500 (1,850 sq ft home during renovation minimizing drywall damage). Permits and inspections cost additional $850. Insurance company issued policy with preferred rates (saving $400/year vs. quotes for unrewired home). Energy consumption reduced 25% from LED lighting and elimination of power waste from defective wiring. Home value increased $22,000 with complete electrical upgrade plus renovation. Family has modern, safe, code-compliant electrical system supporting comfortable desert living for decades. Added value: Peace of mind, safe electrical system, increased resale value, lower insurance costs, and reduced energy consumption delivering ongoing benefits."
+            "content": "The Challenge: The Johnsons purchased a 1958 ranch home in Tucson's Broadmoor-Broadway neighborhood planning extensive renovation. Pre-purchase inspection revealed outdated cloth-insulated wiring, ungrounded two-prong outlets throughout, lack of GFCI protection, undersized 60-amp service, aluminum branch wiring in kitchen and dining room, and knob-and-tube wiring remaining in attic spaces. Multiple fire hazards made home uninsurable without electrical updates. The Solution: We coordinated whole-home rewire during their renovation including complete removal of all outdated wiring, new 200-amp main panel with modern safety features, all-new copper wiring throughout home (NM-B 12/2 and 14/2), grounded three-prong outlets in all locations, GFCI protection in kitchen, bathrooms, garage, and outdoor areas, AFCI protection in all bedrooms and living areas, dedicated circuits for all major appliances, recessed LED lighting throughout (cool-running, energy-efficient), outdoor GFCI outlets and lighting circuits, and comprehensive whole-home surge protection. The Results: Whole-home rewire cost $18,500 (1,850 sq ft home during renovation minimizing drywall damage). Permits and inspections cost additional $850. Insurance company issued policy with preferred rates (saving $400/year vs. quotes for unrewired home). Energy consumption reduced 25% from LED lighting and elimination of power waste from defective wiring. Home value increased $23,000 with complete electrical upgrade plus renovation. Family has modern, safe, code-compliant electrical system supporting comfortable desert living for decades. Added value: Peace of mind, safe electrical system, increased resale value, lower insurance costs, and reduced energy consumption delivering ongoing benefits."
       },
       {
             "type": "heading",
@@ -340,7 +340,7 @@ export const electricaltucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Selecting a qualified, reputable electrician protects you from unsafe work, code violations, and costly problems. Essential qualifications: Valid Arizona ROC electrical contractor license (verify at roc.az.gov). Liability insurance and workers' compensation coverage. Established local business with verifiable history. Quality indicators: Strong online reputation with verified reviews. BBB accreditation and rating. Factory certifications from manufacturers. Detailed written estimates before work begins. Clear warranties on parts and labor. Professional communication and customer service. Warning signs to avoid: No valid contractor license. Cash-only pricing or pressure for payment before work. Vague estimates without detailed scope. Reluctance to obtain permits. Prices significantly below market rates. Unwillingness to provide references. At Intelligent Design, our ROC 340962 license, 46+ years serving Tucson, 22,000+ five-star reviews, BBB A+ rating, factory certifications, and comprehensive warranties demonstrate our commitment to quality, safety, and customer satisfaction in every electrical project we complete."
+            "content": "Selecting a qualified, reputable electrician protects you from unsafe work, code violations, and costly problems. Essential qualifications: Valid Arizona ROC electrical contractor license (verify at roc.az.gov). Liability insurance and workers' compensation coverage. Established local business with verifiable history. Quality indicators: Strong online reputation with verified reviews. BBB accreditation and rating. Factory certifications from manufacturers. Detailed written estimates before work begins. Clear warranties on parts and labor. Professional communication and customer service. Warning signs to avoid: No valid contractor license. Cash-only pricing or pressure for payment before work. Vague estimates without detailed scope. Reluctance to obtain permits. Prices significantly below market rates. Unwillingness to provide references. At Intelligent Design, our ROC 340962 license, 46+ years serving Tucson, 23,000+ five-star reviews, BBB A+ rating, factory certifications, and comprehensive warranties demonstrate our commitment to quality, safety, and customer satisfaction in every electrical project we complete."
       },
       {
             "type": "heading",
@@ -547,7 +547,7 @@ export const electricaltucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews & Proven Reliability: Our nearly perfect 4.97-star Google rating from 22,000+ verified reviews demonstrates consistent excellence across tens of thousands of electrical projects. We've maintained BBB A+ accreditation since 1979 with zero unresolved complaints—a track record of integrity and customer satisfaction spanning 46+ years. Our customer reviews consistently highlight our electricians' professionalism and expertise, transparent pricing and honest recommendations, clean, careful work respecting your home, effective communication and punctuality, thorough problem-solving and lasting repairs, and exceptional customer service before, during, and after projects. When you choose Intelligent Design, you're selecting the electrical contractor Tucson families trust most for safety, quality, and reliability."
+            "content": "23,000+ Five-Star Reviews & Proven Reliability: Our nearly perfect 4.97-star Google rating from 23,000+ verified reviews demonstrates consistent excellence across tens of thousands of electrical projects. We've maintained BBB A+ accreditation since 1979 with zero unresolved complaints—a track record of integrity and customer satisfaction spanning 46+ years. Our customer reviews consistently highlight our electricians' professionalism and expertise, transparent pricing and honest recommendations, clean, careful work respecting your home, effective communication and punctuality, thorough problem-solving and lasting repairs, and exceptional customer service before, during, and after projects. When you choose Intelligent Design, you're selecting the electrical contractor Tucson families trust most for safety, quality, and reliability."
       },
       {
             "type": "paragraph",
@@ -607,7 +607,7 @@ export const electricaltucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you need electrical panel upgrades, generator installation, EV charger installation, electrical repairs, lighting upgrades, smart home integration, or any electrical service in Tucson, AZ, trust the electrical contractor with 46+ years of proven expertise, 22,000+ five-star reviews, BBB A+ rating, and ROC 340962 licensed professionals. Call (520) 333-2665 or [link:/contact|schedule online] for same-day electrical service, free estimates, and expert solutions for all your electrical needs. Experience the Intelligent Design difference—where electrical expertise, customer service, and community trust have defined excellence in Tucson electrical services since 1979."
+            "content": "When you need electrical panel upgrades, generator installation, EV charger installation, electrical repairs, lighting upgrades, smart home integration, or any electrical service in Tucson, AZ, trust the electrical contractor with 46+ years of proven expertise, 23,000+ five-star reviews, BBB A+ rating, and ROC 340962 licensed professionals. Call (520) 333-2665 or [link:/contact|schedule online] for same-day electrical service, free estimates, and expert solutions for all your electrical needs. Experience the Intelligent Design difference—where electrical expertise, customer service, and community trust have defined excellence in Tucson electrical services since 1979."
       },
       {
             "type": "heading",

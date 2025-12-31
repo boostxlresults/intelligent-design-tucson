@@ -10,7 +10,7 @@ export const heaterinstallationData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Heater Installation in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'New Furnace Installation | System Replacement | Energy-Efficient Upgrades',
   heroImage: '/generated_images/Heater_installation_service_image_64d22e49.webp',
   heroImageAlt: 'Professional heater installation technicians installing new heating system in Tucson, Arizona',
@@ -65,7 +65,7 @@ export const heaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heater installation company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us the most-referred heating installation provider in Pima County. When you're investing in a new heating system, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heater installation company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us the most-referred heating installation provider in Pima County. When you're investing in a new heating system, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
       },
       {
             "type": "paragraph",
@@ -632,7 +632,7 @@ export const heaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every heater installation includes manufacturer's equipment warranty (5-10 years parts, lifetime heat exchanger for premium furnaces), our workmanship warranty covering installation quality, and complete satisfaction guarantee. If you're not completely satisfied with any aspect of our installation or service, we'll make it right at no additional charge. Our commitment to your satisfaction has earned us a 4.97-star rating from over 22,000 verified reviews—the highest in Southern Arizona. We stand behind our work because we know quality installation protects your investment and ensures years of reliable, efficient comfort. When you choose Intelligent Design for heater installation, you're choosing a partner committed to your long-term satisfaction."
+            "content": "Every heater installation includes manufacturer's equipment warranty (5-10 years parts, lifetime heat exchanger for premium furnaces), our workmanship warranty covering installation quality, and complete satisfaction guarantee. If you're not completely satisfied with any aspect of our installation or service, we'll make it right at no additional charge. Our commitment to your satisfaction has earned us a 4.97-star rating from over 23,000 verified reviews—the highest in Southern Arizona. We stand behind our work because we know quality installation protects your investment and ensures years of reliable, efficient comfort. When you choose Intelligent Design for heater installation, you're choosing a partner committed to your long-term satisfaction."
       },
       {
             "type": "heading",
@@ -728,7 +728,7 @@ export const heaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design provides expert heater installation throughout metro Tucson and surrounding communities. Our 42 fully-stocked service vehicles are strategically positioned to serve [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], Sahuarita, Vail, Catalina, Catalina Foothills, Tanque Verde, Rita Ranch, and all Tucson neighborhoods. Whether you're in established central Tucson neighborhoods, growing northwest communities, or newer developments in Vail and Sahuarita, we deliver the same expert service, quality workmanship, and customer satisfaction that's earned us over 22,000 five-star reviews. Our local presence means faster response times for consultations, same-day installation availability when you need it, and convenient service for warranty support and future maintenance."
+            "content": "Intelligent Design provides expert heater installation throughout metro Tucson and surrounding communities. Our 42 fully-stocked service vehicles are strategically positioned to serve [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], Sahuarita, Vail, Catalina, Catalina Foothills, Tanque Verde, Rita Ranch, and all Tucson neighborhoods. Whether you're in established central Tucson neighborhoods, growing northwest communities, or newer developments in Vail and Sahuarita, we deliver the same expert service, quality workmanship, and customer satisfaction that's earned us over 23,000 five-star reviews. Our local presence means faster response times for consultations, same-day installation availability when you need it, and convenient service for warranty support and future maintenance."
       },
       {
             "type": "heading",

@@ -37,7 +37,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
     "url": canonicalUrl,
     "logo": `${canonicalUrl}/logo.png`,
     "image": `${canonicalUrl}/og-image.jpg`,
-    "description": "Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 22,000 customers.",
+    "description": "Family and veteran-owned home services company providing HVAC, plumbing, solar, electrical, and roofing services in Tucson, Arizona. Licensed, insured, and trusted by over 23,000 customers.",
     "telephone": BUSINESS_INFO.phone,
     "email": BUSINESS_INFO.email,
     "address": {
@@ -229,7 +229,7 @@ export function generateOrganizationSchema(options: OrganizationSchemaOptions) {
   if (includeAwards) {
     schema.awards = [
       "BBB A+ Rating",
-      "22,000+ Five-Star Reviews",
+      "23,000+ Five-Star Reviews",
       "Family-Owned Business Since 1979",
       "Veteran-Owned Business",
       "Arizona ROC Licensed",

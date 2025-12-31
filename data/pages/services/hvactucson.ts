@@ -7,12 +7,12 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 export const hvactucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC Services Tucson AZ | Air Conditioning & Heating Experts | Intelligent Design',
-  description: 'Complete HVAC services in Tucson, AZ since 1979. AC & heating repair, installation, maintenance. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert technicians for all your comfort needs.',
+  description: 'Complete HVAC services in Tucson, AZ since 1979. AC & heating repair, installation, maintenance. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert technicians for all your comfort needs.',
   slug: 'hvac-tucson',
   
   // Hero Section
   h1: 'Complete HVAC Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted HVAC Partner Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted HVAC Partner Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Air Conditioning | Heating | Installation | Repair | Maintenance | Indoor Air Quality | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_AC_repair_1_f17630c6.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Tucson, Arizona',
@@ -36,7 +36,7 @@ export const hvactucsonData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Factory-authorized for 12+ major brands"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -67,7 +67,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -365,7 +365,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "How It Works: Combines heat pump for everyday heating/cooling with gas furnace backup. Smart controls automatically select the most efficient heating method based on outdoor temperature and energy costs. Heat pump handles cooling and heating above ~30°F, gas furnace provides backup below that temperature. Best For: Homeowners with natural gas service seeking optimal year-round efficiency, those wanting best of both technologies, homes in Tucson areas experiencing occasional extreme cold, and situations where maximum flexibility is valued. Advantages: Optimal efficiency year-round by using best technology for conditions, heat pump efficiency during typical 35-50°F Tucson winters, reliable gas backup for rare cold snaps, lowest total operating costs of any system type, and redundancy—if one system needs service, the other provides backup. Efficiency: Achieves 18-21 SEER cooling, 9-10 HSPF heat pump heating, plus 96-98% AFUE gas backup. Considerations: Highest upfront cost of any option, requires both gas connection and adequate electrical service, and most complex installation. Typical Cost: $12,000-22,000 depending on size and efficiency level. Highest savings potential."
+            "content": "How It Works: Combines heat pump for everyday heating/cooling with gas furnace backup. Smart controls automatically select the most efficient heating method based on outdoor temperature and energy costs. Heat pump handles cooling and heating above ~30°F, gas furnace provides backup below that temperature. Best For: Homeowners with natural gas service seeking optimal year-round efficiency, those wanting best of both technologies, homes in Tucson areas experiencing occasional extreme cold, and situations where maximum flexibility is valued. Advantages: Optimal efficiency year-round by using best technology for conditions, heat pump efficiency during typical 35-50°F Tucson winters, reliable gas backup for rare cold snaps, lowest total operating costs of any system type, and redundancy—if one system needs service, the other provides backup. Efficiency: Achieves 18-21 SEER cooling, 9-10 HSPF heat pump heating, plus 96-98% AFUE gas backup. Considerations: Highest upfront cost of any option, requires both gas connection and adequate electrical service, and most complex installation. Typical Cost: $12,000-23,000 depending on size and efficiency level. Highest savings potential."
       },
       {
             "type": "heading",
@@ -648,7 +648,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Single-Zone Systems: 9,000-12,000 BTU: $3,000-4,500 | 15,000-18,000 BTU: $3,500-5,500 | 24,000-30,000 BTU: $4,500-6,500. Includes one outdoor compressor, one indoor air handler, up to 25 feet refrigerant line installation, wall mounting, and electrical connection. Multi-Zone Systems: 2-zone (up to 24,000 BTU total): $6,500-9,500 | 3-zone (up to 36,000 BTU total): $9,000-13,500 | 4-zone (up to 48,000 BTU total): $12,000-17,500 | 5+ zones: $15,000-22,000. Includes single larger outdoor unit, multiple indoor air handlers, independent zone control, and complex refrigerant line installation. Ductless systems offer highest SEER ratings (up to 30+ SEER possible), room-by-room control reducing energy waste, and no duct losses (saving 20-40% energy)."
+            "content": "Single-Zone Systems: 9,000-12,000 BTU: $3,000-4,500 | 15,000-18,000 BTU: $3,500-5,500 | 24,000-30,000 BTU: $4,500-6,500. Includes one outdoor compressor, one indoor air handler, up to 25 feet refrigerant line installation, wall mounting, and electrical connection. Multi-Zone Systems: 2-zone (up to 24,000 BTU total): $6,500-9,500 | 3-zone (up to 36,000 BTU total): $9,000-13,500 | 4-zone (up to 48,000 BTU total): $12,000-17,500 | 5+ zones: $15,000-23,000. Includes single larger outdoor unit, multiple indoor air handlers, independent zone control, and complex refrigerant line installation. Ductless systems offer highest SEER ratings (up to 30+ SEER possible), room-by-room control reducing energy waste, and no duct losses (saving 20-40% energy)."
       },
       {
             "type": "heading",
@@ -785,7 +785,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When you choose Intelligent Design for your Tucson HVAC needs, you're partnering with Southern Arizona's most trusted and experienced comfort specialists. Our 46+ year track record, 22,000+ five-star reviews, and BBB A+ rating since 1979 demonstrate our unwavering commitment to quality, honesty, and customer satisfaction."
+            "content": "When you choose Intelligent Design for your Tucson HVAC needs, you're partnering with Southern Arizona's most trusted and experienced comfort specialists. Our 46+ year track record, 23,000+ five-star reviews, and BBB A+ rating since 1979 demonstrate our unwavering commitment to quality, honesty, and customer satisfaction."
       },
       {
             "type": "paragraph",

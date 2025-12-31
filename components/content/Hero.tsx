@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { Phone, Star, Tag, FileText } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
@@ -79,9 +80,9 @@ export default function Hero() {
                 <Star className="w-5 h-5 fill-yellow-400 text-yellow-400" />
                 <span className="font-semibold text-lg">4.97 Rating</span>
               </div>
-              <div className="font-semibold text-lg" data-testid="text-reviews">
-                22,000+ <span className="text-2xl">⭐⭐⭐⭐⭐</span> Reviews
-              </div>
+              <Link href="/customer-reviews" className="font-semibold text-lg hover:underline" data-testid="link-reviews">
+                23,000+ <span className="text-2xl">⭐⭐⭐⭐⭐</span> Reviews
+              </Link>
               <div className="flex items-center gap-4 mt-2">
                 <span className="font-semibold text-lg" data-testid="text-bbb">BBB A+</span>
                 <span className="text-gray-300/80">•</span>
@@ -96,7 +97,7 @@ export default function Hero() {
                 <span className="font-semibold text-lg">4.97 Rating</span>
               </div>
               <span className="text-gray-300/80">•</span>
-              <span className="font-semibold text-lg" data-testid="text-reviews">22,000+ ⭐⭐⭐⭐⭐ Reviews</span>
+              <Link href="/customer-reviews" className="font-semibold text-lg hover:underline" data-testid="link-reviews">23,000+ ⭐⭐⭐⭐⭐ Reviews</Link>
               <span className="text-gray-300/80">•</span>
               <span className="font-semibold text-lg" data-testid="text-bbb">BBB A+</span>
               <span className="text-gray-300/80">•</span>

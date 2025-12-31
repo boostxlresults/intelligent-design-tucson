@@ -23,7 +23,7 @@ export const outdoormotionlightingData: ServicePageData = {
   highlights: [
   {
     "title": "46+ years Security Lighting Expertise",
-    "description": "ROC licensed master electricians since 1979 | 22,000+ verified reviews | BBB A+ rated | Trusted by 85,000+ Tucson families"
+    "description": "ROC licensed master electricians since 1979 | 23,000+ verified reviews | BBB A+ rated | Trusted by 85,000+ Tucson families"
   },
   {
     "title": "ServiceTitan-Powered Response",
@@ -443,7 +443,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "46+ years of Trusted Security Lighting Expertise: Since 1979, Intelligent Design has been Tucson's most trusted electrical contractor, completing over 150,000 successful electrical installations including thousands of motion lighting security systems. Our 38 ROC-licensed master electricians (ROC 340962) average 17+ years hands-on experience and complete 120+ hours annual factory training on the latest motion sensor technology, LED fixtures, and smart integration platforms. We're factory-certified installers for Ring, Lutron, GE, Philips, and 15+ premium brands, ensuring expert installation backed by manufacturer warranties. Our 22,000+ verified customer reviews with BBB A+ rating demonstrate our commitment to quality workmanship and customer satisfaction that has served 85,000+ Tucson families over four decades."
+            "content": "46+ years of Trusted Security Lighting Expertise: Since 1979, Intelligent Design has been Tucson's most trusted electrical contractor, completing over 150,000 successful electrical installations including thousands of motion lighting security systems. Our 38 ROC-licensed master electricians (ROC 340962) average 17+ years hands-on experience and complete 120+ hours annual factory training on the latest motion sensor technology, LED fixtures, and smart integration platforms. We're factory-certified installers for Ring, Lutron, GE, Philips, and 15+ premium brands, ensuring expert installation backed by manufacturer warranties. Our 23,000+ verified customer reviews with BBB A+ rating demonstrate our commitment to quality workmanship and customer satisfaction that has served 85,000+ Tucson families over four decades."
       },
       {
             "type": "paragraph",
@@ -459,7 +459,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Most Trusted Name Since 1979: Family and veteran-owned business rooted in Tucson community for over four decades, BBB A+ rating maintained consistently throughout our history, 22,000+ verified customer reviews with 4.8/5 average rating across all platforms, active community involvement supporting local schools, veterans organizations, and charitable causes, and comprehensive insurance coverage protecting your property and our workers during all installations. We're not a franchise or national chain—we're your Tucson neighbors with vested interest in community reputation and your long-term satisfaction. Our technicians are background-checked employees (not subcontractors), uniformed and clearly identified for your security, trained in customer service excellence and professionalism, and empowered to resolve any concerns immediately without bureaucratic delays. When you choose Intelligent Design, you're choosing Tucson's most trusted name for security lighting excellence."
+            "content": "Tucson's Most Trusted Name Since 1979: Family and veteran-owned business rooted in Tucson community for over four decades, BBB A+ rating maintained consistently throughout our history, 23,000+ verified customer reviews with 4.8/5 average rating across all platforms, active community involvement supporting local schools, veterans organizations, and charitable causes, and comprehensive insurance coverage protecting your property and our workers during all installations. We're not a franchise or national chain—we're your Tucson neighbors with vested interest in community reputation and your long-term satisfaction. Our technicians are background-checked employees (not subcontractors), uniformed and clearly identified for your security, trained in customer service excellence and professionalism, and empowered to resolve any concerns immediately without bureaucratic delays. When you choose Intelligent Design, you're choosing Tucson's most trusted name for security lighting excellence."
       },
       {
             "type": "heading",
@@ -648,7 +648,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't wait until you experience a security incident or dangerous fall to install protective motion lighting. Our comprehensive security assessments identify your property's vulnerabilities and provide custom lighting solutions designed specifically for your needs, budget, and aesthetic preferences. With ServiceTitan-powered dispatch ensuring average 73-minute arrival times and same-day installation availability, protecting your family is just one phone call away. Our 46+ years of Tucson experience, 22,000+ verified customer reviews, and BBB A+ rating demonstrate our commitment to your safety and satisfaction. Call (520) 333-2665 or book online for your free security assessment and discover how professional motion lighting can enhance your home's protection while delivering $500-1,000+ annual energy savings."
+            "content": "Don't wait until you experience a security incident or dangerous fall to install protective motion lighting. Our comprehensive security assessments identify your property's vulnerabilities and provide custom lighting solutions designed specifically for your needs, budget, and aesthetic preferences. With ServiceTitan-powered dispatch ensuring average 73-minute arrival times and same-day installation availability, protecting your family is just one phone call away. Our 46+ years of Tucson experience, 23,000+ verified customer reviews, and BBB A+ rating demonstrate our commitment to your safety and satisfaction. Call (520) 333-2665 or book online for your free security assessment and discover how professional motion lighting can enhance your home's protection while delivering $500-1,000+ annual energy savings."
       },
       {
             "type": "cta",

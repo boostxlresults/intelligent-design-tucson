@@ -5,7 +5,7 @@ import { Star } from "lucide-react";
 /**
  * ReviewModule Component
  * 
- * Displays the company's 22,000+ five-star reviews
+ * Displays the company's 23,000+ five-star reviews
  * Appears on every page to build trust and credibility
  */
 
@@ -15,7 +15,7 @@ interface ReviewModuleProps {
 }
 
 export function ReviewModule({ variant = "full", className = "" }: ReviewModuleProps) {
-  const reviewCount = "22,000+";
+  const reviewCount = "23,000+";
   const rating = "5.0";
 
   if (variant === "compact") {

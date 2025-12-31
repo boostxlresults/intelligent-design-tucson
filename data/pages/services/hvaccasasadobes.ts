@@ -5,13 +5,13 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 
 export const hvaccasasadobesData: ServicePageData = {
   // SEO & Meta
-  title: 'HVAC & AC Services Casas Adobes AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
-  description: 'Expert HVAC & air conditioning services in Casas Adobes, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for north Tucson.',
+  title: 'HVAC & AC Services Casas Adobes AZ | Air Conditioning Repair & Installation | 23,000+ Reviews',
+  description: 'Expert HVAC & air conditioning services in Casas Adobes, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for north Tucson.',
   slug: 'hvac-casas-adobes',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Casas Adobes, AZ',
-  h2Subheading: 'Your Trusted Casas Adobes HVAC Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Casas Adobes HVAC Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_emergency_repair_1_a75d5cf1.webp',
   heroImageAlt: 'Professional HVAC technician performing emergency AC repair in Casas Adobes, Arizona home',
@@ -35,7 +35,7 @@ export const hvaccasasadobesData: ServicePageData = {
     "description": "68 NATE-certified technicians | 17+ years average experience | 120+ hours annual training | Expert AC & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const hvaccasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Casas Adobes home, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Casas Adobes home, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -553,7 +553,7 @@ export const hvaccasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commitment to Casas Adobes families extends beyond technical expertise to exceptional customer service and community involvement. We provide 100% upfront pricing with no hidden fees or surprises (you approve the exact cost before work begins), same-day service for 80% of calls during cooling season (while other companies may require 3-5 day waits), clean, professional service with background-checked, drug-tested, uniformed technicians (protecting your family and property), comprehensive warranties on all installations (industry-leading parts and labor coverage), flexible financing making comfort affordable (approved credit, multiple term options), honest recommendations prioritizing your best interests (we'll tell you when repair makes more sense than replacement), and community commitment supporting Casas Adobes schools, youth sports, and local charities. Our 22,000+ five-star Google reviews include hundreds from your Casas Adobes neighbors, making us the most-referred HVAC company in north Tucson."
+            "content": "Our commitment to Casas Adobes families extends beyond technical expertise to exceptional customer service and community involvement. We provide 100% upfront pricing with no hidden fees or surprises (you approve the exact cost before work begins), same-day service for 80% of calls during cooling season (while other companies may require 3-5 day waits), clean, professional service with background-checked, drug-tested, uniformed technicians (protecting your family and property), comprehensive warranties on all installations (industry-leading parts and labor coverage), flexible financing making comfort affordable (approved credit, multiple term options), honest recommendations prioritizing your best interests (we'll tell you when repair makes more sense than replacement), and community commitment supporting Casas Adobes schools, youth sports, and local charities. Our 23,000+ five-star Google reviews include hundreds from your Casas Adobes neighbors, making us the most-referred HVAC company in north Tucson."
       },
       {
             "type": "heading",

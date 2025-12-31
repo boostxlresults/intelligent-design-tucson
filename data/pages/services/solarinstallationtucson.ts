@@ -5,12 +5,12 @@ import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 export const solarinstallationtucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Tucson AZ | #1 Solar Panel Installation Company',
-  description: 'Expert solar panel installation in Tucson, AZ since 1979. 300+ sunny days = maximum savings. 30% tax credit, TEP net metering, premium equipment. 22,000+ 5-star reviews. BBB A+ rated. Complete solar solutions from Tucson\'s most trusted solar company.',
+  description: 'Expert solar panel installation in Tucson, AZ since 1979. 300+ sunny days = maximum savings. 30% tax credit, TEP net metering, premium equipment. 23,000+ 5-star reviews. BBB A+ rated. Complete solar solutions from Tucson\'s most trusted solar company.',
   slug: 'solar-installation-tucson',
   
   // Hero Section
   h1: 'Complete Solar Installation Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted Solar Partner Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Solar Partner Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Residential Solar | Commercial Solar | Solar + Storage | Pool Solar | Solar + AC | Net Metering | 30% Tax Credit',
   heroImage: '/generated_images/Residential_solar_installation_8a8bfb2c.webp',
   heroImageAlt: 'Professional solar panel installation on Tucson home with desert mountain views',
@@ -34,7 +34,7 @@ export const solarinstallationtucsonData: ServicePageData = {
     "description": "28 NABCEP-certified installers | 17+ years average experience | 120+ hours annual training | Factory-certified for 10+ major solar brands"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated solar company in Tucson | Most-referred in Pima County"
   },
   {
@@ -65,7 +65,7 @@ export const solarinstallationtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated solar company in Southern Arizona. We've been the #1 rated solar installation provider in Tucson for 5 consecutive years (2020-2024 Best of Tucson Solar awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest energy assessments, transparent solar pricing, quality installations using premium equipment, and exceptional customer service has made us the most-referred solar company in Pima County. When you choose Intelligent Design for solar, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|energy independence and home investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated solar company in Southern Arizona. We've been the #1 rated solar installation provider in Tucson for 5 consecutive years (2020-2024 Best of Tucson Solar awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest energy assessments, transparent solar pricing, quality installations using premium equipment, and exceptional customer service has made us the most-referred solar company in Pima County. When you choose Intelligent Design for solar, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|energy independence and home investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -293,7 +293,7 @@ export const solarinstallationtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Satisfaction Guarantee: We guarantee your complete satisfaction with our solar installation process and final results. If any aspect of your installation doesn't meet your expectations, we'll make it right at no additional cost—correcting any concerns about workmanship, addressing aesthetic issues, resolving performance questions, or improving any element not meeting our quality standards. Our 4.97-star rating from 22,000+ reviews and 85,000+ satisfied customers over 46+ years demonstrate our commitment to customer satisfaction on every project."
+            "content": "Satisfaction Guarantee: We guarantee your complete satisfaction with our solar installation process and final results. If any aspect of your installation doesn't meet your expectations, we'll make it right at no additional cost—correcting any concerns about workmanship, addressing aesthetic issues, resolving performance questions, or improving any element not meeting our quality standards. Our 4.97-star rating from 23,000+ reviews and 85,000+ satisfied customers over 46+ years demonstrate our commitment to customer satisfaction on every project."
       },
       {
             "type": "heading",
@@ -409,7 +409,7 @@ export const solarinstallationtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "2024 Tucson Solar Installation Costs: Current solar installation costs in Tucson average $2.75-$3.85 per watt installed for complete turn-key residential systems depending on system size (larger systems benefit from economies of scale), equipment quality (premium vs. value brands), roof complexity (tile roofs cost more than composition shingle), electrical upgrades required, and installer experience and reputation. Typical system costs are: 5kW system: $13,750-$19,250 (average $16,500), 7kW system: $19,250-$26,950 (average $23,100), 8kW system: $22,000-$30,800 (average $26,400), 10kW system: $27,500-$38,500 (average $33,000), and 12kW system: $33,000-$46,200 (average $39,600). These prices include all equipment (panels, inverters, racking, wiring, monitoring), installation labor, permitting fees, HOA approval assistance, utility interconnection, final inspections, and workmanship warranty. After applying the 30% federal tax credit, net costs reduce to $1.93-$2.70 per watt making solar economics even more compelling."
+            "content": "2024 Tucson Solar Installation Costs: Current solar installation costs in Tucson average $2.75-$3.85 per watt installed for complete turn-key residential systems depending on system size (larger systems benefit from economies of scale), equipment quality (premium vs. value brands), roof complexity (tile roofs cost more than composition shingle), electrical upgrades required, and installer experience and reputation. Typical system costs are: 5kW system: $13,750-$19,250 (average $16,500), 7kW system: $19,250-$26,950 (average $23,100), 8kW system: $23,000-$30,800 (average $26,400), 10kW system: $27,500-$38,500 (average $33,000), and 12kW system: $33,000-$46,200 (average $39,600). These prices include all equipment (panels, inverters, racking, wiring, monitoring), installation labor, permitting fees, HOA approval assistance, utility interconnection, final inspections, and workmanship warranty. After applying the 30% federal tax credit, net costs reduce to $1.93-$2.70 per watt making solar economics even more compelling."
       },
       {
             "type": "paragraph",
@@ -622,7 +622,7 @@ export const solarinstallationtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Repair Makes Sense When:\n- Single component failure (one panel, one microinverter, one string optimizer)\n- System is under 15 years old\n- Panels still producing 85%+ of original output\n- Roof has 10+ years remaining lifespan\n- Repair cost under $2,000\n- Overall system meets your energy needs\n\nConsider Upgrades/Expansion When:\n- System is 15-20+ years old and multiple components failing\n- Panels degraded below 75% original output\n- Your energy needs increased significantly (added EV, pool, home addition)\n- New solar technology offers compelling advantages (significantly higher efficiency)\n- You're re-roofing anyway (opportunity to upgrade at lower incremental cost)\n- Battery storage becomes economically attractive\n\nReal-World Scenarios for Tucson Homeowners:\n\nScenario 1: System is 18 years old, string inverter fails, panels producing 82% of original output. Decision: Replace string inverter ($3,000), continue operating 7+ more years until panels reach end of practical life. Total investment $22,000 in 2007, produced $45,000 in savings by 2025, new inverter provides 7+ more years (additional $12,000 savings). Repair is clear choice.\n\nScenario 2: System is 25 years old, panels producing 74% output, considering adding battery storage and EV charger for new Tesla. Decision: Complete system replacement with battery integration. New 12kW system with 2x Powerwall batteries provides expanded capacity, battery backup during outages, EV charging optimization, and qualifies for current 30% federal tax credit on entire installation. Original system paid for itself 3× over, new system designed for next 30 years with modern technology.\n\nScenario 3: System is 8 years old, one microinverter failed, panels performing excellently at 97% output. Decision: Replace failed microinverter ($200 + service call), continue operating. System has 17+ years of strong production ahead. Minor repair preserves long-term value."
+            "content": "Repair Makes Sense When:\n- Single component failure (one panel, one microinverter, one string optimizer)\n- System is under 15 years old\n- Panels still producing 85%+ of original output\n- Roof has 10+ years remaining lifespan\n- Repair cost under $2,000\n- Overall system meets your energy needs\n\nConsider Upgrades/Expansion When:\n- System is 15-20+ years old and multiple components failing\n- Panels degraded below 75% original output\n- Your energy needs increased significantly (added EV, pool, home addition)\n- New solar technology offers compelling advantages (significantly higher efficiency)\n- You're re-roofing anyway (opportunity to upgrade at lower incremental cost)\n- Battery storage becomes economically attractive\n\nReal-World Scenarios for Tucson Homeowners:\n\nScenario 1: System is 18 years old, string inverter fails, panels producing 82% of original output. Decision: Replace string inverter ($3,000), continue operating 7+ more years until panels reach end of practical life. Total investment $23,000 in 2007, produced $45,000 in savings by 2025, new inverter provides 7+ more years (additional $12,000 savings). Repair is clear choice.\n\nScenario 2: System is 25 years old, panels producing 74% output, considering adding battery storage and EV charger for new Tesla. Decision: Complete system replacement with battery integration. New 12kW system with 2x Powerwall batteries provides expanded capacity, battery backup during outages, EV charging optimization, and qualifies for current 30% federal tax credit on entire installation. Original system paid for itself 3× over, new system designed for next 30 years with modern technology.\n\nScenario 3: System is 8 years old, one microinverter failed, panels performing excellently at 97% output. Decision: Replace failed microinverter ($200 + service call), continue operating. System has 17+ years of strong production ahead. Minor repair preserves long-term value."
       },
       {
             "type": "heading",

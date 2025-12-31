@@ -8,7 +8,7 @@ import { generalAreaFAQs } from '@/data/faqs/general';
 export const coronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Corona de Tucson, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Corona de Tucson. Serving this growing community southeast of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 22,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Corona de Tucson. Serving this growing community southeast of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
   slug: 'corona-de-tucson',
   
   // Hero Section

@@ -37,7 +37,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Drexel Heights's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -141,7 +141,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 46+ years serving Tucson families, 22,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
+            "content": "The Garcia family wanted to reduce their electric bills but were concerned about solar installation quality and long-term reliability. After researching multiple solar companies and reading hundreds of customer reviews, they chose Intelligent Design based on our 46+ years serving Tucson families, 23,000+ five-star reviews, and comprehensive warranties. They valued our family-owned, veteran-operated commitment to honest service and our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years."
       },
       {
             "type": "paragraph",
@@ -431,7 +431,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design has served Drexel Heights since 1979. Family-owned, veteran-operated with 22,000+ five-star reviews and BBB A+ rating. Tucson's #1 solar company for seven consecutive years. NABCEP-certified installers with 12+ years average experience. Tier-1 equipment with industry-leading warranties: 25-year panels, 25-year microinverters, 10-year workmanship."
+            "content": "Intelligent Design has served Drexel Heights since 1979. Family-owned, veteran-operated with 23,000+ five-star reviews and BBB A+ rating. Tucson's #1 solar company for seven consecutive years. NABCEP-certified installers with 12+ years average experience. Tier-1 equipment with industry-leading warranties: 25-year panels, 25-year microinverters, 10-year workmanship."
       },
       {
             "type": "paragraph",
@@ -474,7 +474,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",
@@ -600,7 +600,7 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Environmental Impact: The average 7.5 kW Drexel Heights solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, or avoiding 22,000 miles of driving. Over 25 years, your system prevents 210-240 tons of CO2 emissions comparable to preserving 12+ acres of forest. Your solar panels replace electricity from natural gas and coal plants, directly reducing fossil fuel consumption and air pollution including nitrogen oxides, sulfur dioxide, and particulate matter. Water conservation: Thermoelectric power plants require 600-800 gallons per megawatt-hour for cooling. Your system producing 11,250 kWh annually saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Drexel Heights families choose solar for environmental values, leaving cleaner air for children, reducing fossil fuel dependence, and demonstrating community environmental leadership. Learn more about our [link:/services/residential-solar-installation|complete solar services] for Tucson area homeowners."
+            "content": "Environmental Impact: The average 7.5 kW Drexel Heights solar system eliminates approximately 8.5-9.5 tons of CO2 annually, equivalent to planting 220+ trees, removing 2 passenger vehicles from roads, or avoiding 23,000 miles of driving. Over 25 years, your system prevents 210-240 tons of CO2 emissions comparable to preserving 12+ acres of forest. Your solar panels replace electricity from natural gas and coal plants, directly reducing fossil fuel consumption and air pollution including nitrogen oxides, sulfur dioxide, and particulate matter. Water conservation: Thermoelectric power plants require 600-800 gallons per megawatt-hour for cooling. Your system producing 11,250 kWh annually saves 6,750-9,000 gallons yearly, totaling 170,000-225,000 gallons over 25 years. Many Drexel Heights families choose solar for environmental values, leaving cleaner air for children, reducing fossil fuel dependence, and demonstrating community environmental leadership. Learn more about our [link:/services/residential-solar-installation|complete solar services] for Tucson area homeowners."
       },
       {
             "type": "heading",

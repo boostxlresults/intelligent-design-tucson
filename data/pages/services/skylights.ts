@@ -35,7 +35,7 @@ export const skylightsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert climate specialists | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert climate specialists | Trusted since 1979"
   },
   {
     "title": "Energy-Efficient Options",
@@ -615,7 +615,7 @@ export const skylightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design maintains a nearly perfect 4.97-star Google rating from 22,000+ verified customer reviews—the highest-rated home service provider in Southern Arizona. We've earned BBB A+ accreditation for 46+ consecutive years with zero unresolved complaints. Our commitment to honest assessments (we'll tell you if skylights aren't the right solution for your situation), transparent pricing with detailed written estimates, quality materials from trusted manufacturers, expert installation following manufacturer specifications, and exceptional customer service has made us the most-referred skylight installer in Pima County. When you're investing $1,500-$6,000 in skylight installations, choose the company your neighbors have trusted for over four decades with their homes and families. Read more about our commitment to quality and customer satisfaction in our [link:/customer-reviews|customer reviews and testimonials]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design maintains a nearly perfect 4.97-star Google rating from 23,000+ verified customer reviews—the highest-rated home service provider in Southern Arizona. We've earned BBB A+ accreditation for 46+ consecutive years with zero unresolved complaints. Our commitment to honest assessments (we'll tell you if skylights aren't the right solution for your situation), transparent pricing with detailed written estimates, quality materials from trusted manufacturers, expert installation following manufacturer specifications, and exceptional customer service has made us the most-referred skylight installer in Pima County. When you're investing $1,500-$6,000 in skylight installations, choose the company your neighbors have trusted for over four decades with their homes and families. Read more about our commitment to quality and customer satisfaction in our [link:/customer-reviews|customer reviews and testimonials]."
       },
       {
             "type": "paragraph",

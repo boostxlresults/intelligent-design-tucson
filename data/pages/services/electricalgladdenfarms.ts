@@ -4,7 +4,7 @@ import { electricalRepairFAQs } from '@/data/faqs/electrical';
 export const electricalgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Gladden Farms AZ | Licensed Electrical Services | Panel Upgrades',
-  description: 'Licensed electrician serving Gladden Farms, AZ since 1979. Panel upgrades for new homes, generator installation, EV chargers, smart home lighting. 22,000+ 5-star reviews. BBB A+ rated. Same-day service.',
+  description: 'Licensed electrician serving Gladden Farms, AZ since 1979. Panel upgrades for new homes, generator installation, EV chargers, smart home lighting. 23,000+ 5-star reviews. BBB A+ rated. Same-day service.',
   slug: 'electrical-gladden-farms',
   
   // Hero Section
@@ -33,7 +33,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
     "description": "Average 45-minute arrival time | 24/7 emergency availability | Fully stocked service vehicles | Same-day service completion"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation | #1 rated electrical company | Most-referred in Pima County"
   },
   {
@@ -68,7 +68,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of hundreds of Gladden Farms families with our nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints. Our transparent pricing, quality workmanship, and exceptional customer service have made us the most-referred electrical company in the Gladden Farms community. We're active community members who understand the specific needs of this master-planned development, from HOA compliance requirements to the high standards Gladden Farms homeowners expect. When you choose Intelligent Design, you're selecting the company your Gladden Farms neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of hundreds of Gladden Farms families with our nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated electrical company in Southern Arizona. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints. Our transparent pricing, quality workmanship, and exceptional customer service have made us the most-referred electrical company in the Gladden Farms community. We're active community members who understand the specific needs of this master-planned development, from HOA compliance requirements to the high standards Gladden Farms homeowners expect. When you choose Intelligent Design, you're selecting the company your Gladden Farms neighbors have trusted with their [link:/customer-reviews|home electrical systems and family safety]."
       },
       {
             "type": "paragraph",
@@ -594,7 +594,7 @@ export const electricalgladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ready to experience Tucson's highest-rated electrical service? Our licensed master electricians are ready to serve your Gladden Farms home with expert electrical solutions backed by 46+ years of experience, 22,000+ five-star reviews, and our 100% satisfaction guarantee. Whether you need emergency electrical repair, panel upgrade, generator installation, EV charger installation, smart home integration, or any other electrical service, we deliver the quality workmanship and exceptional customer service Gladden Farms families have trusted since 1979."
+            "content": "Ready to experience Tucson's highest-rated electrical service? Our licensed master electricians are ready to serve your Gladden Farms home with expert electrical solutions backed by 46+ years of experience, 23,000+ five-star reviews, and our 100% satisfaction guarantee. Whether you need emergency electrical repair, panel upgrade, generator installation, EV charger installation, smart home integration, or any other electrical service, we deliver the quality workmanship and exceptional customer service Gladden Farms families have trusted since 1979."
       },
       {
             "type": "heading",

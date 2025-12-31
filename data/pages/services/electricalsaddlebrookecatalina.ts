@@ -30,7 +30,7 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
     },
     {
       "title": "Trusted by Saddle Brooke / Catalina Residents",
-      "description": "Hundreds of active adult community customers | 4.97-star Google rating from 22,000+ reviews | BBB A+ accreditation"
+      "description": "Hundreds of active adult community customers | 4.97-star Google rating from 23,000+ reviews | BBB A+ accreditation"
     },
     {
       "title": "Safety-First Electrical Service",

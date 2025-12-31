@@ -65,7 +65,7 @@ export const leakdetectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on accurate detection, honest assessments, and exceptional customer service. We're the #1 rated plumbing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Many homeowners live with hidden leaks for months or years before discovering them, by which time significant damage has occurred. A slow slab leak under your foundation can waste $50-$300 worth of water monthly while silently undermining your home's structural integrity, creating moisture that attracts termites and promotes mold growth, and saturating soil that causes foundation cracks and floor tile damage. Early detection saves thousands in damage repair and prevents health hazards from mold exposure. When you choose Intelligent Design for [link:/services/water-leak-repair|water leak detection and repair], you're choosing the company your neighbors trust."
+            "content": "Proven Track Record & Community Trust: With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on accurate detection, honest assessments, and exceptional customer service. We're the #1 rated plumbing company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Many homeowners live with hidden leaks for months or years before discovering them, by which time significant damage has occurred. A slow slab leak under your foundation can waste $50-$300 worth of water monthly while silently undermining your home's structural integrity, creating moisture that attracts termites and promotes mold growth, and saturating soil that causes foundation cracks and floor tile damage. Early detection saves thousands in damage repair and prevents health hazards from mold exposure. When you choose Intelligent Design for [link:/services/water-leak-repair|water leak detection and repair], you're choosing the company your neighbors trust."
       },
       {
             "type": "paragraph",
@@ -624,7 +624,7 @@ export const leakdetectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on accurate detection, honest assessments, and customer service. We understand the stress of suspected leaks—the worry about water damage, the frustration of rising bills, and the fear of expensive repairs. Our technicians explain findings clearly, provide detailed documentation for insurance claims, and offer repair options with transparent pricing. We work with insurance companies regularly and provide the documentation needed for successful claims. Our ServiceTitan-powered dispatch delivers average 89-minute emergency response across metro Tucson—the fastest in Southern Arizona."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on accurate detection, honest assessments, and customer service. We understand the stress of suspected leaks—the worry about water damage, the frustration of rising bills, and the fear of expensive repairs. Our technicians explain findings clearly, provide detailed documentation for insurance claims, and offer repair options with transparent pricing. We work with insurance companies regularly and provide the documentation needed for successful claims. Our ServiceTitan-powered dispatch delivers average 89-minute emergency response across metro Tucson—the fastest in Southern Arizona."
       },
       {
             "type": "paragraph",
@@ -654,7 +654,7 @@ export const leakdetectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Schedule Your Leak Detection Service Now: Call (520) 333-2665 to speak directly with our leak detection specialists, or [link:/contact|schedule online] for convenient appointment times. We provide upfront pricing, detailed written estimates, and complete documentation for insurance claims. Our 100% satisfaction guarantee ensures you're completely happy with our leak detection and repair services. When you choose Intelligent Design, you're choosing Tucson's most experienced, best-equipped leak detection team—backed by 46+ years of local expertise and over 22,000 five-star reviews from satisfied customers throughout Southern Arizona."
+            "content": "Schedule Your Leak Detection Service Now: Call (520) 333-2665 to speak directly with our leak detection specialists, or [link:/contact|schedule online] for convenient appointment times. We provide upfront pricing, detailed written estimates, and complete documentation for insurance claims. Our 100% satisfaction guarantee ensures you're completely happy with our leak detection and repair services. When you choose Intelligent Design, you're choosing Tucson's most experienced, best-equipped leak detection team—backed by 46+ years of local expertise and over 23,000 five-star reviews from satisfied customers throughout Southern Arizona."
       }
 ]
   },

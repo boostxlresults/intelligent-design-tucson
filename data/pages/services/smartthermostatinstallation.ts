@@ -10,7 +10,7 @@ export const smartthermostatinstallationData: ServicePageData = {
   
   // Hero Section
   h1: 'Expert Smart Thermostat Installation in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Upgrade to a WiFi thermostat and save 20-30% on your energy bills. Professional installation of Nest, Ecobee, Honeywell, and all major brands. Same-day service available throughout Tucson.',
   heroImage: '/generated_images/Smart_thermostat_on_wall_6b58a71c.webp',
   heroImageAlt: 'Professional HVAC technician installing smart WiFi thermostat in Tucson home',
@@ -439,11 +439,11 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Community Trust & Track Record: Intelligent Design has earned the confidence of over 85,000 Tucson-area families since 1979, maintaining an exceptional 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been voted #1 AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards) and maintain BBB A+ accreditation with zero unresolved complaints. Our commitment to honest pricing, quality workmanship, and genuine customer care has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're investing in home comfort technology, choose the company your neighbors trust for their family's comfort needs."
+            "content": "Proven Community Trust & Track Record: Intelligent Design has earned the confidence of over 85,000 Tucson-area families since 1979, maintaining an exceptional 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been voted #1 AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards) and maintain BBB A+ accreditation with zero unresolved complaints. Our commitment to honest pricing, quality workmanship, and genuine customer care has made us the most-referred [link:/services/hvac-tucson|HVAC service] provider in Pima County. When you're investing in home comfort technology, choose the company your neighbors trust for their family's comfort needs."
       },
       {
             "type": "paragraph",
-            "content": "Over 22,000 Five-Star Reviews: Our near-perfect rating reflects consistently excellent service across thousands of smart thermostat installations, [link:/services/ac-repair-tucson|AC repairs], system installations, and maintenance visits. We don't just install your thermostat and leave—we ensure you're completely comfortable using all features, provide ongoing support, and follow up to verify you're achieving expected energy savings and comfort improvements."
+            "content": "Over 23,000 Five-Star Reviews: Our near-perfect rating reflects consistently excellent service across thousands of smart thermostat installations, [link:/services/ac-repair-tucson|AC repairs], system installations, and maintenance visits. We don't just install your thermostat and leave—we ensure you're completely comfortable using all features, provide ongoing support, and follow up to verify you're achieving expected energy savings and comfort improvements."
       },
       {
             "type": "paragraph",

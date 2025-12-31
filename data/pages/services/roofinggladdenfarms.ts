@@ -37,7 +37,7 @@ export const roofinggladdenfarmsData: ServicePageData = {
     "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation speaks to our quality and service."
   },
   {
@@ -141,7 +141,7 @@ export const roofinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",

@@ -11,7 +11,7 @@ export const hvacmaranaData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Marana, AZ',
-  h2Subheading: 'Expert HVAC Solutions for Marana\'s Fast-Growing Community | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert HVAC Solutions for Marana\'s Fast-Growing Community | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | New Construction Specialists | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_customer_service_1_fd01aaab.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Marana, Arizona',
@@ -35,7 +35,7 @@ export const hvacmaranaData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | Factory-authorized for 12+ brands | Background-checked and uniformed"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Marana | Most-referred HVAC company in northwest Tucson"
   },
   {
@@ -70,7 +70,7 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Marana families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Marana for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, new construction expertise, and exceptional customer service has made us the preferred HVAC partner for Marana's growing communities. When you choose Intelligent Design, you're selecting the company your neighbors at Gladden Farms, Dove Mountain, Saguaro Springs, and Heritage Highlands have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Marana families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in northwest Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Marana for six consecutive years (2019-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, new construction expertise, and exceptional customer service has made us the preferred HVAC partner for Marana's growing communities. When you choose Intelligent Design, you're selecting the company your neighbors at Gladden Farms, Dove Mountain, Saguaro Springs, and Heritage Highlands have trusted with their [link:/customer-reviews|family comfort and home investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -297,11 +297,11 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: The Thompson family's 3,600 sq ft Heritage Highlands home had persistent comfort problems despite relatively new HVAC equipment installed just 6 years earlier. They struggled with master bedroom suite consistently 10-12 degrees warmer than living areas in summer (unbearable for sleeping), home office and guest wing on opposite end of house freezing in winter while main living areas overheated, teenage son's bonus room over garage reaching 88°F requiring a window unit for basic comfort, single thermostat in hallway unable to balance temperatures across the sprawling floor plan with 12-foot ceilings in main areas, and monthly energy bills averaging $520 in summer despite constant discomfort. Previous HVAC contractors suggested replacing the entire system with a larger unit for $22,000+, but the Thompsons questioned whether a bigger system would actually solve their zoning issues."
+            "content": "The Challenge: The Thompson family's 3,600 sq ft Heritage Highlands home had persistent comfort problems despite relatively new HVAC equipment installed just 6 years earlier. They struggled with master bedroom suite consistently 10-12 degrees warmer than living areas in summer (unbearable for sleeping), home office and guest wing on opposite end of house freezing in winter while main living areas overheated, teenage son's bonus room over garage reaching 88°F requiring a window unit for basic comfort, single thermostat in hallway unable to balance temperatures across the sprawling floor plan with 12-foot ceilings in main areas, and monthly energy bills averaging $520 in summer despite constant discomfort. Previous HVAC contractors suggested replacing the entire system with a larger unit for $23,000+, but the Thompsons questioned whether a bigger system would actually solve their zoning issues."
       },
       {
             "type": "paragraph",
-            "content": "Our Solution: Our comprehensive assessment quickly identified that the existing system was actually properly sized, but the home's layout and single-zone design created impossible-to-solve temperature imbalances. Rather than expensive complete replacement, we designed a targeted multi-zone solution perfect for Marana's larger homes: ductless mini-split system for master bedroom suite providing independent temperature control and whisper-quiet operation, ductless unit for home office/guest wing creating a second independent zone, ductless unit for bonus room over garage eliminating need for window unit, optimization and rebalancing of existing central system to serve main living areas efficiently, and smart thermostat for each zone with scheduling and remote control capability. Total investment was $18,500 versus $22,000+ for complete system replacement that wouldn't have solved the zoning issues."
+            "content": "Our Solution: Our comprehensive assessment quickly identified that the existing system was actually properly sized, but the home's layout and single-zone design created impossible-to-solve temperature imbalances. Rather than expensive complete replacement, we designed a targeted multi-zone solution perfect for Marana's larger homes: ductless mini-split system for master bedroom suite providing independent temperature control and whisper-quiet operation, ductless unit for home office/guest wing creating a second independent zone, ductless unit for bonus room over garage eliminating need for window unit, optimization and rebalancing of existing central system to serve main living areas efficiently, and smart thermostat for each zone with scheduling and remote control capability. Total investment was $18,500 versus $23,000+ for complete system replacement that wouldn't have solved the zoning issues."
       },
       {
             "type": "paragraph",
@@ -612,7 +612,7 @@ export const hvacmaranaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Solar Integration: Marana's abundant sunshine makes solar panels ideal for offsetting HVAC operating costs: 6-8kW solar array offsetting 70-90% of HVAC electricity use ($15,000-22,000 after federal tax credits), battery storage providing backup power during outages and time-of-use rate optimization ($10,000-15,000 additional), and complete energy independence possible with properly sized solar + battery system. Solar ROI analysis: $250-400 monthly summer electric bills reduced to $40-80 with solar, 6-8 year payback on solar investment through energy savings, 25-30 year solar panel lifespan providing 15+ years of free electricity after payback, and increased home value averaging $15,000-25,000 for installed solar system. Our [link:/services/solar-installation-marana|solar installation team] provides integrated HVAC + solar solutions maximizing efficiency and ROI. Many Marana homeowners install solar specifically to offset air conditioning costs—the two technologies work exceptionally well together."
+            "content": "Solar Integration: Marana's abundant sunshine makes solar panels ideal for offsetting HVAC operating costs: 6-8kW solar array offsetting 70-90% of HVAC electricity use ($15,000-23,000 after federal tax credits), battery storage providing backup power during outages and time-of-use rate optimization ($10,000-15,000 additional), and complete energy independence possible with properly sized solar + battery system. Solar ROI analysis: $250-400 monthly summer electric bills reduced to $40-80 with solar, 6-8 year payback on solar investment through energy savings, 25-30 year solar panel lifespan providing 15+ years of free electricity after payback, and increased home value averaging $15,000-25,000 for installed solar system. Our [link:/services/solar-installation-marana|solar installation team] provides integrated HVAC + solar solutions maximizing efficiency and ROI. Many Marana homeowners install solar specifically to offset air conditioning costs—the two technologies work exceptionally well together."
       },
       {
             "type": "cta",

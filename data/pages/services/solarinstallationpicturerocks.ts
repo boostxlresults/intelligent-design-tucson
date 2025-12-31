@@ -37,7 +37,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
     "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Picture Rocks's climate."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Picture Rocks customers. Our reputation is built on quality work and exceptional service."
   },
   {
@@ -141,7 +141,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Andersons' rural Picture Rocks location meant they dealt with occasional power outages during monsoon storms, sometimes lasting several hours. Their well pump required electricity to provide water for their home and small orchard. They wanted a solar solution that would dramatically reduce electric costs while providing backup power capability during grid outages. The home's metal roof had excellent south and west exposure with no shading from vegetation, making it ideal for solar installation. After researching multiple solar providers and attending three in-home consultations, they chose Intelligent Design based on our 22,000+ five-star reviews, transparent pricing, and expertise with solar-plus-storage systems. Our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years gave them confidence in their investment."
+            "content": "The Andersons' rural Picture Rocks location meant they dealt with occasional power outages during monsoon storms, sometimes lasting several hours. Their well pump required electricity to provide water for their home and small orchard. They wanted a solar solution that would dramatically reduce electric costs while providing backup power capability during grid outages. The home's metal roof had excellent south and west exposure with no shading from vegetation, making it ideal for solar installation. After researching multiple solar providers and attending three in-home consultations, they chose Intelligent Design based on our 23,000+ five-star reviews, transparent pricing, and expertise with solar-plus-storage systems. Our reputation as Tucson's #1 rated [link:/services/residential-solar-installation|solar installation company] for seven consecutive years gave them confidence in their investment."
       },
       {
             "type": "paragraph",
@@ -395,7 +395,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Small System (5-7 kW / 13-18 panels):\n\n- Gross Cost: $15,000 - $21,000\n- Net Cost After 30% Federal ITC: $10,500 - $14,700\n- Typical Monthly Production: 650-900 kWh\n- Best For: 1,200-1,800 sq ft homes, low-moderate usage\n- Annual Savings: $1,000-1,600\n- Payback Period: 6.5-9 years\n- 25-Year Savings: $30,000-$48,000\n\nMedium System (8-11 kW / 20-28 panels):\n\n- Gross Cost: $22,000 - $33,000\n- Net Cost After 30% Federal ITC: $15,400 - $23,100\n- Typical Monthly Production: 1,050-1,450 kWh\n- Best For: 1,800-2,600 sq ft homes, moderate-high usage\n- Annual Savings: $1,700-2,400\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $51,000-$72,000\n\nLarge System (12-16 kW / 30-40 panels):\n\n- Gross Cost: $34,000 - $48,000\n- Net Cost After 30% Federal ITC: $23,800 - $33,600\n- Typical Monthly Production: 1,600-2,100 kWh\n- Best For: 2,600+ sq ft homes, high usage, multiple AC units\n- Annual Savings: $2,600-3,500\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $78,000-$105,000"
+            "content": "Small System (5-7 kW / 13-18 panels):\n\n- Gross Cost: $15,000 - $21,000\n- Net Cost After 30% Federal ITC: $10,500 - $14,700\n- Typical Monthly Production: 650-900 kWh\n- Best For: 1,200-1,800 sq ft homes, low-moderate usage\n- Annual Savings: $1,000-1,600\n- Payback Period: 6.5-9 years\n- 25-Year Savings: $30,000-$48,000\n\nMedium System (8-11 kW / 20-28 panels):\n\n- Gross Cost: $23,000 - $33,000\n- Net Cost After 30% Federal ITC: $15,400 - $23,100\n- Typical Monthly Production: 1,050-1,450 kWh\n- Best For: 1,800-2,600 sq ft homes, moderate-high usage\n- Annual Savings: $1,700-2,400\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $51,000-$72,000\n\nLarge System (12-16 kW / 30-40 panels):\n\n- Gross Cost: $34,000 - $48,000\n- Net Cost After 30% Federal ITC: $23,800 - $33,600\n- Typical Monthly Production: 1,600-2,100 kWh\n- Best For: 2,600+ sq ft homes, high usage, multiple AC units\n- Annual Savings: $2,600-3,500\n- Payback Period: 6.5-9.5 years\n- 25-Year Savings: $78,000-$105,000"
       },
       {
             "type": "heading",
@@ -689,7 +689,7 @@ export const solarinstallationpicturerocksData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Our NABCEP-certified solar specialists will analyze your energy consumption, assess your roof, design an optimized system, and provide transparent pricing showing exactly what you'll save. We'll handle all permitting, HOA approvals, TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us at (520) 333-2665 or schedule online. Start saving on your electric bill with clean, renewable energy backed by our 46+ years of trusted service, 22,000+ five-star reviews, and comprehensive warranties. Picture Rocks families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you why we're Tucson's #1 rated solar installation company for seven consecutive years."
+            "content": "Get your free solar consultation and custom quote today. Our NABCEP-certified solar specialists will analyze your energy consumption, assess your roof, design an optimized system, and provide transparent pricing showing exactly what you'll save. We'll handle all permitting, HOA approvals, TEP interconnection, and professional installation. Your solar journey starts with a simple conversation. Contact us at (520) 333-2665 or schedule online. Start saving on your electric bill with clean, renewable energy backed by our 46+ years of trusted service, 23,000+ five-star reviews, and comprehensive warranties. Picture Rocks families have relied on Intelligent Design since 1979 for honest, expert home services. Let us show you why we're Tucson's #1 rated solar installation company for seven consecutive years."
       },
       {
             "type": "heading",

@@ -35,7 +35,7 @@ export const commercialroofinspectionData: ServicePageData = {
   },
   {
     "title": "46+ years Inspection Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Licensed & insured | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Licensed & insured | Trusted since 1979"
   },
   {
     "title": "Property Management Services",
@@ -65,7 +65,7 @@ export const commercialroofinspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Commercial Roofing Expertise & Trust: Intelligent Design has inspected over 8,700 commercial roofs since 1979, serving Tucson's most demanding commercial properties including office buildings and business parks, retail centers and shopping complexes, industrial warehouses and manufacturing facilities, medical buildings and healthcare facilities, multi-family housing and apartment complexes, educational institutions and government buildings, and hospitality properties. Our nearly perfect 4.97-star rating from 22,000+ verified reviews reflects our commitment to thorough assessments, honest recommendations, and professional documentation. We're the #1 commercial inspection contractor trusted by property managers, facility directors, real estate professionals, and building owners throughout Southern Arizona. Our unique advantage as a comprehensive building services provider offering [link:/services/hvac-tucson|commercial HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/commercial-solar-installation|solar services] means we can assess roof-mounted equipment conditions, evaluate penetration sealing, identify drainage system issues, and analyze building envelope integration—providing holistic building assessment that single-trade roofing inspectors cannot deliver."
+            "content": "Proven Commercial Roofing Expertise & Trust: Intelligent Design has inspected over 8,700 commercial roofs since 1979, serving Tucson's most demanding commercial properties including office buildings and business parks, retail centers and shopping complexes, industrial warehouses and manufacturing facilities, medical buildings and healthcare facilities, multi-family housing and apartment complexes, educational institutions and government buildings, and hospitality properties. Our nearly perfect 4.97-star rating from 23,000+ verified reviews reflects our commitment to thorough assessments, honest recommendations, and professional documentation. We're the #1 commercial inspection contractor trusted by property managers, facility directors, real estate professionals, and building owners throughout Southern Arizona. Our unique advantage as a comprehensive building services provider offering [link:/services/hvac-tucson|commercial HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and [link:/services/commercial-solar-installation|solar services] means we can assess roof-mounted equipment conditions, evaluate penetration sealing, identify drainage system issues, and analyze building envelope integration—providing holistic building assessment that single-trade roofing inspectors cannot deliver."
       },
       {
             "type": "paragraph",
@@ -623,7 +623,7 @@ export const commercialroofinspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on honest assessments, thorough documentation, and professional service. When you choose Intelligent Design for commercial roof inspection, you receive: comprehensive visual assessment of all roof systems and components, infrared thermography moisture surveys when appropriate, extensive photo documentation with location-specific images, detailed written reports with prioritized findings, repair and maintenance recommendations with cost estimates, remaining service life assessments, warranty compliance documentation, and ongoing support for maintenance planning and capital budgeting."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on honest assessments, thorough documentation, and professional service. When you choose Intelligent Design for commercial roof inspection, you receive: comprehensive visual assessment of all roof systems and components, infrared thermography moisture surveys when appropriate, extensive photo documentation with location-specific images, detailed written reports with prioritized findings, repair and maintenance recommendations with cost estimates, remaining service life assessments, warranty compliance documentation, and ongoing support for maintenance planning and capital budgeting."
       },
       {
             "type": "paragraph",

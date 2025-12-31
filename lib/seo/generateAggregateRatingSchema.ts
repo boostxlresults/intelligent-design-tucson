@@ -1,6 +1,6 @@
 /**
  * AggregateRating Schema Generator
- * Displays 5.0 star rating with 22,000+ reviews across all relevant pages
+ * Displays 5.0 star rating with 23,000+ reviews across all relevant pages
  */
 
 import { reviewsData } from '@/data/reviews';

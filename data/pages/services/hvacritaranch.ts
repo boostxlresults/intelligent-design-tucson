@@ -12,7 +12,7 @@ export const hvacritaranchData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Rita Ranch, AZ',
-  h2Subheading: 'Expert HVAC Solutions for Rita Ranch Master-Planned Community | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert HVAC Solutions for Rita Ranch Master-Planned Community | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | HOA Compliant | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_refrigerant_check_e01028f3.webp',
   heroImageAlt: 'Professional HVAC technician servicing air conditioning system in Rita Ranch, Arizona',
@@ -36,7 +36,7 @@ export const hvacritaranchData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | Factory-authorized for 12+ brands | Background-checked and uniformed"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated in Rita Ranch area | Most-referred HVAC company in Vail communities"
   },
   {
@@ -71,7 +71,7 @@ export const hvacritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,100 Rita Ranch families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company serving Rita Ranch. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Rita Ranch for six consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred HVAC partner for Rita Ranch families throughout the community. When you choose Intelligent Design, you're selecting the company your neighbors on Camino Loma Alta, Rita Ranch Crossing, throughout Rita Ranch Estates, and across the entire community have trusted with their [link:/customer-reviews|family comfort and home investments] for over a decade."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 2,100 Rita Ranch families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company serving Rita Ranch. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred HVAC service provider in Rita Ranch for six consecutive years (2018-2024). Our commitment to honest recommendations, quality workmanship, transparent pricing, HOA compliance expertise, and exceptional customer service has made us the preferred HVAC partner for Rita Ranch families throughout the community. When you choose Intelligent Design, you're selecting the company your neighbors on Camino Loma Alta, Rita Ranch Crossing, throughout Rita Ranch Estates, and across the entire community have trusted with their [link:/customer-reviews|family comfort and home investments] for over a decade."
       },
       {
             "type": "cta",
@@ -573,7 +573,7 @@ export const hvacritaranchData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 1-10 years depending on equipment package selected, Repair labor warranty 1-2 years on all repair work performed, Ductwork modification warranty 2 years on all duct sealing and renovation, Refrigerant recharge warranty 1 year when performed by our technicians, and Lifetime warranty on workmanship for premium installations ($15,000+). We stand behind our work unconditionally - if something's not right, we make it right at no charge. Our 4.97-star rating from 22,000+ reviews reflects our commitment to quality work and customer satisfaction that Rita Ranch families trust."
+            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 1-10 years depending on equipment package selected, Repair labor warranty 1-2 years on all repair work performed, Ductwork modification warranty 2 years on all duct sealing and renovation, Refrigerant recharge warranty 1 year when performed by our technicians, and Lifetime warranty on workmanship for premium installations ($15,000+). We stand behind our work unconditionally - if something's not right, we make it right at no charge. Our 4.97-star rating from 23,000+ reviews reflects our commitment to quality work and customer satisfaction that Rita Ranch families trust."
       },
       {
             "type": "paragraph",

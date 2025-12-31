@@ -595,7 +595,7 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on thorough inspections, honest assessments, and exceptional service. Our maintenance technicians average 17+ years of hands-on experience and complete 120+ hours of annual training on the latest technologies, techniques, and industry best practices. They're trained to identify problems, explain them clearly, provide repair cost estimates, and help you make informed decisions. We never use pressure sales tactics or recommend unnecessary work. Our goal is building long-term relationships through trustworthy service, not maximizing single-visit revenue."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on thorough inspections, honest assessments, and exceptional service. Our maintenance technicians average 17+ years of hands-on experience and complete 120+ hours of annual training on the latest technologies, techniques, and industry best practices. They're trained to identify problems, explain them clearly, provide repair cost estimates, and help you make informed decisions. We never use pressure sales tactics or recommend unnecessary work. Our goal is building long-term relationships through trustworthy service, not maximizing single-visit revenue."
       },
       {
             "type": "paragraph",

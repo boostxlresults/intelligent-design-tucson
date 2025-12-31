@@ -43,7 +43,7 @@ export const watersoftenersData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | Expert installation | 22,000+ reviews | Free water testing"
+    "description": "Family & veteran-owned | Expert installation | 23,000+ reviews | Free water testing"
   }
 ],
   content: {
@@ -589,7 +589,7 @@ export const watersoftenersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your [link:/services/water-softeners|water softener installation], you're getting free professional water testing and analysis, expert system sizing based on your specific needs, professional installation by licensed plumbers, comprehensive warranty coverage on equipment and labor, ongoing support and maintenance services, and a team that stands behind every installation."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for your [link:/services/water-softeners|water softener installation], you're getting free professional water testing and analysis, expert system sizing based on your specific needs, professional installation by licensed plumbers, comprehensive warranty coverage on equipment and labor, ongoing support and maintenance services, and a team that stands behind every installation."
       },
       {
             "type": "paragraph",

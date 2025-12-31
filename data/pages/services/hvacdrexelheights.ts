@@ -5,13 +5,13 @@ import { hvacLocationFAQs } from '@/data/faqs/hvac';
 
 export const hvacdrexelheightsData: ServicePageData = {
   // SEO & Meta
-  title: 'HVAC & AC Services Drexel Heights AZ | Air Conditioning Repair & Installation | 22,000+ Reviews',
-  description: 'Expert HVAC & air conditioning services in Drexel Heights, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for southwest Tucson.',
+  title: 'HVAC & AC Services Drexel Heights AZ | Air Conditioning Repair & Installation | 23,000+ Reviews',
+  description: 'Expert HVAC & air conditioning services in Drexel Heights, AZ since 1979. AC repair, installation, ductless mini-splits, heat pumps. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service for southwest Tucson.',
   slug: 'hvac-drexel-heights',
   
   // Hero Section
   h1: 'Professional HVAC & Air Conditioning Services in Drexel Heights, AZ',
-  h2Subheading: 'Trusted Drexel Heights HVAC Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Trusted Drexel Heights HVAC Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_condenser_repair_1_d670661c.webp',
   heroImageAlt: 'Professional HVAC technician repairing outdoor AC condenser unit in Drexel Heights, Arizona',
@@ -35,7 +35,7 @@ export const hvacdrexelheightsData: ServicePageData = {
     "description": "68 NATE-certified HVAC professionals | 17+ years average experience | 120+ hours annual training | Expert AC & heat pump specialists"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated HVAC company in Tucson | Most-referred in Pima County"
   },
   {
@@ -66,7 +66,7 @@ export const hvacdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we repair 12-year-old systems when it makes financial sense instead of automatically pushing replacement sales), quality workmanship using industry best practices and proper Manual J load calculations, transparent pricing with written estimates before any work begins, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Drexel Heights home, you're selecting the company your neighbors across southwest Tucson have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated HVAC service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations (we repair 12-year-old systems when it makes financial sense instead of automatically pushing replacement sales), quality workmanship using industry best practices and proper Manual J load calculations, transparent pricing with written estimates before any work begins, and exceptional customer service has made us the most-referred HVAC company in Pima County. When you choose Intelligent Design for your Drexel Heights home, you're selecting the company your neighbors across southwest Tucson have trusted with their [link:/customer-reviews|family comfort and critical cooling system investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -222,7 +222,7 @@ export const hvacdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Customer Testimonial: \"The first company said we needed a $7,200 system replacement for a 'bad leaking coil'—diagnosed over the phone without even seeing our AC. James came out, found a simple valve leak in 20 minutes, repaired it for $675, and our 12-year-old Carrier has run perfectly for 10 months now with way lower electric bills. He showed us the UV dye highlighting the exact leak point and explained every step. This is honest HVAC service—they easily could have sold us a new system but instead gave us 6-8 more years from our existing equipment for under $700. That's why Intelligent Design has 22,000 five-star reviews while other companies push unnecessary sales.\" - David Williams, Drexel Heights"
+            "content": "Customer Testimonial: \"The first company said we needed a $7,200 system replacement for a 'bad leaking coil'—diagnosed over the phone without even seeing our AC. James came out, found a simple valve leak in 20 minutes, repaired it for $675, and our 12-year-old Carrier has run perfectly for 10 months now with way lower electric bills. He showed us the UV dye highlighting the exact leak point and explained every step. This is honest HVAC service—they easily could have sold us a new system but instead gave us 6-8 more years from our existing equipment for under $700. That's why Intelligent Design has 23,000 five-star reviews while other companies push unnecessary sales.\" - David Williams, Drexel Heights"
       },
       {
             "type": "heading",
@@ -559,7 +559,7 @@ export const hvacdrexelheightsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We provide expert HVAC services throughout all Drexel Heights communities, including neighborhoods near Drexel Villa Elementary, Mission View High School, Valencia Road corridor, Ajo Way area, Drexel Road residential areas, and all surrounding southwest Tucson locations. Our technicians understand Drexel Heights' diverse housing stock spanning 1960s ranch homes to modern construction, maintain rapid 68-minute average response throughout southwest Tucson, and deliver industry-leading service quality backed by our 46+ years of local expertise. Whether you're in an established Drexel Heights neighborhood or newer development, we provide honest recommendations, quality workmanship, and reliable HVAC solutions engineered for southwest Tucson's desert climate. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|22,000+ five-star reviews] and BBB A+ rating."
+            "content": "We provide expert HVAC services throughout all Drexel Heights communities, including neighborhoods near Drexel Villa Elementary, Mission View High School, Valencia Road corridor, Ajo Way area, Drexel Road residential areas, and all surrounding southwest Tucson locations. Our technicians understand Drexel Heights' diverse housing stock spanning 1960s ranch homes to modern construction, maintain rapid 68-minute average response throughout southwest Tucson, and deliver industry-leading service quality backed by our 46+ years of local expertise. Whether you're in an established Drexel Heights neighborhood or newer development, we provide honest recommendations, quality workmanship, and reliable HVAC solutions engineered for southwest Tucson's desert climate. Contact Intelligent Design today at (520) 333-2665 or schedule online for fast, professional service backed by our [link:/knowledge-hub|23,000+ five-star reviews] and BBB A+ rating."
       },
       {
             "type": "case_study",

@@ -39,7 +39,7 @@ export const solartaxcreditsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Local knowledge | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Local knowledge | Trusted since 1979"
   },
   {
     "title": "Ongoing Incentive Updates",
@@ -64,7 +64,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income—it's a direct credit reducing your actual tax liability. For a typical $22,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
+            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income—it's a direct credit reducing your actual tax liability. For a typical $23,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
       },
       {
             "type": "paragraph",
@@ -104,7 +104,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent verified results from actual Tucson installations, not theoretical projections or industry averages. We track every tax credit claim through completion, maintaining detailed records of credit amounts, filing timelines, and outcomes. Our 100% success rate on properly documented claims reflects our expertise in IRS Form 5695 requirements, equipment certification standards, and documentation best practices. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to tax credit guidance."
+            "content": "These metrics represent verified results from actual Tucson installations, not theoretical projections or industry averages. We track every tax credit claim through completion, maintaining detailed records of credit amounts, filing timelines, and outcomes. Our 100% success rate on properly documented claims reflects our expertise in IRS Form 5695 requirements, equipment certification standards, and documentation best practices. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 23,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints related to tax credit guidance."
       },
       {
             "type": "heading",
@@ -153,7 +153,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Rodriguez couple researched solar extensively and understood the value of Arizona's property tax exemption for solar equipment. Their home's assessed value would normally increase $22,000 from solar installation (typical appreciation from solar in their neighborhood), resulting in approximately $920 annually in additional property taxes. Arizona's solar exemption eliminates this assessment, providing $920 in annual savings for as long as they own the home—worth $23,000 over 25 years."
+            "content": "The Rodriguez couple researched solar extensively and understood the value of Arizona's property tax exemption for solar equipment. Their home's assessed value would normally increase $23,000 from solar installation (typical appreciation from solar in their neighborhood), resulting in approximately $920 annually in additional property taxes. Arizona's solar exemption eliminates this assessment, providing $920 in annual savings for as long as they own the home—worth $23,000 over 25 years."
       },
       {
             "type": "paragraph",
@@ -361,7 +361,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Success Strategy: One Tucson couple with $22,000 solar investment generating $6,600 credit had only $2,800 annual tax liability from retirement income. They used $2,800 in year one, $2,400 in year two (after Required Minimum Distributions increased), and $1,400 in year three. They fully recovered their credit over three years while enjoying solar savings immediately. The carryforward eliminated any urgency to force artificial income increases. We model multi-year credit scenarios showing exactly when homeowners will fully recover credits based on projected tax situations."
+            "content": "Success Strategy: One Tucson couple with $23,000 solar investment generating $6,600 credit had only $2,800 annual tax liability from retirement income. They used $2,800 in year one, $2,400 in year two (after Required Minimum Distributions increased), and $1,400 in year three. They fully recovered their credit over three years while enjoying solar savings immediately. The carryforward eliminated any urgency to force artificial income increases. We model multi-year credit scenarios showing exactly when homeowners will fully recover credits based on projected tax situations."
       },
       {
             "type": "heading",
@@ -543,7 +543,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "This analysis uses conservative assumptions: 3% annual utility rate increases (Tucson has averaged 3.2%), no equipment failures requiring replacement (though panels are warrantied 25 years), and no additional benefits from solar increasing home resale value (typical appreciation adds $15,000-$22,000 to home value). Adding these factors increases total returns further. We provide personalized 25-year savings projections based on your actual electricity usage, utility rates, and system specifications during free [link:/services/home-energy-audit-tucson|solar consultations]."
+            "content": "This analysis uses conservative assumptions: 3% annual utility rate increases (Tucson has averaged 3.2%), no equipment failures requiring replacement (though panels are warrantied 25 years), and no additional benefits from solar increasing home resale value (typical appreciation adds $15,000-$23,000 to home value). Adding these factors increases total returns further. We provide personalized 25-year savings projections based on your actual electricity usage, utility rates, and system specifications during free [link:/services/home-energy-audit-tucson|solar consultations]."
       },
       {
             "type": "heading",
@@ -561,7 +561,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Middle-Income Households ($75,000-$150,000 Annual Income): Typically have $5,000-$12,000 annual federal tax liability. Usually claim full credit within 1-2 years. Experience slight ROI delay but still receive entire credit. May benefit from choosing smaller systems or waiting for high-income years. Example: Couple earning $95,000 annually with $7,500 tax liability installs $22,000 solar system. They claim $6,600 credit: $6,600 used in year one (full credit immediately). Some years they might use $6,000 in year one and carry forward $600 to year two."
+            "content": "Middle-Income Households ($75,000-$150,000 Annual Income): Typically have $5,000-$12,000 annual federal tax liability. Usually claim full credit within 1-2 years. Experience slight ROI delay but still receive entire credit. May benefit from choosing smaller systems or waiting for high-income years. Example: Couple earning $95,000 annually with $7,500 tax liability installs $23,000 solar system. They claim $6,600 credit: $6,600 used in year one (full credit immediately). Some years they might use $6,000 in year one and carry forward $600 to year two."
       },
       {
             "type": "paragraph",
@@ -733,7 +733,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our Family Protection Plan. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/customer-reviews|22,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
+            "content": "Every installation includes lifetime system monitoring, 25-year panel warranties, 10-year workmanship guarantees, and priority service as part of our Family Protection Plan. We don't just install solar systems—we partner with you throughout the entire lifecycle, ensuring you receive every available tax credit, incentive, and savings dollar. Our [link:/customer-reviews|23,000+ five-star reviews] reflect our commitment to transparency, accuracy, and customer success."
       },
       {
             "type": "cta",

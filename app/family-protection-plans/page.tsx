@@ -153,7 +153,7 @@ export default function FamilyProtectionPlansPage() {
                 Intelligent Design Family Protection Plans
               </h1>
               <p className="text-lg md:text-xl text-white/90 mb-2" data-testid="text-hero-reviews">
-                Over 22,000 Five-Star Reviews
+                Over 23,000 Five-Star Reviews
               </p>
               <p className="text-xl md:text-2xl text-yellow-400 font-bold mb-6" data-testid="text-hero-subtitle">
                 Give Your Family Peace of Mind
@@ -196,7 +196,7 @@ export default function FamilyProtectionPlansPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div className="flex flex-col items-center">
                 <Star className="w-10 h-10 text-yellow-500 mb-2" />
-                <p className="font-bold text-sm">Over 22,000 Five Star Reviews</p>
+                <p className="font-bold text-sm">Over 23,000 Five Star Reviews</p>
               </div>
               <div className="flex flex-col items-center">
                 <Award className="w-10 h-10 text-primary mb-2" />

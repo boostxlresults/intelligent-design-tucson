@@ -35,7 +35,7 @@ export const flatroofsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert climate expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert climate expertise | Trusted since 1979"
   },
   {
     "title": "Energy Efficiency Focus",
@@ -79,7 +79,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Family & veteran-owned | 22,000+ reviews | Desert climate expertise | Trusted since 1979"
+            "content": "Family & veteran-owned | 23,000+ reviews | Desert climate expertise | Trusted since 1979"
       },
       {
             "type": "paragraph",
@@ -121,7 +121,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families and businesses with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've completed over 3,200 flat roof installations and replacements since 2005, from compact 1,500-square-foot residential applications to expansive 45,000+ square-foot commercial buildings. Our commitment to proper material selection, superior drainage design, and meticulous installation has made us the preferred flat roofing contractor for Tucson's leading commercial developers, architects, and homeowners who demand the best. When you're investing in a flat roof system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families and businesses with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've completed over 3,200 flat roof installations and replacements since 2005, from compact 1,500-square-foot residential applications to expansive 45,000+ square-foot commercial buildings. Our commitment to proper material selection, superior drainage design, and meticulous installation has made us the preferred flat roofing contractor for Tucson's leading commercial developers, architects, and homeowners who demand the best. When you're investing in a flat roof system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
       },
       {
             "type": "paragraph",
@@ -920,7 +920,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, honest pricing, and exceptional service. When you choose Intelligent Design for flat roofing, you receive: free consultations and roof assessments, expert material selection for your specific needs, professional installation by certified technicians, comprehensive warranties on materials and labor, energy efficiency optimization reducing cooling costs, proper drainage design preventing ponding, and ongoing maintenance programs extending roof life."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, honest pricing, and exceptional service. When you choose Intelligent Design for flat roofing, you receive: free consultations and roof assessments, expert material selection for your specific needs, professional installation by certified technicians, comprehensive warranties on materials and labor, energy efficiency optimization reducing cooling costs, proper drainage design preventing ponding, and ongoing maintenance programs extending roof life."
       },
       {
             "type": "paragraph",
@@ -942,7 +942,7 @@ export const flatroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't trust your flat roof to inexperienced contractors unfamiliar with Tucson's unique climate challenges. With 46+ years serving Tucson families and businesses, 22,000+ five-star reviews, and thousands of successful flat roof installations, we have the proven expertise to deliver results that last. Call Intelligent Design Air Conditioning, Plumbing, Solar, & Electric at (520) 333-2665 today for your free flat roof consultation, or schedule online now. Let us show you why we're Tucson's highest-rated roofing company and the trusted choice for superior flat roof systems that protect your investment for decades to come."
+            "content": "Don't trust your flat roof to inexperienced contractors unfamiliar with Tucson's unique climate challenges. With 46+ years serving Tucson families and businesses, 23,000+ five-star reviews, and thousands of successful flat roof installations, we have the proven expertise to deliver results that last. Call Intelligent Design Air Conditioning, Plumbing, Solar, & Electric at (520) 333-2665 today for your free flat roof consultation, or schedule online now. Let us show you why we're Tucson's highest-rated roofing company and the trusted choice for superior flat roof systems that protect your investment for decades to come."
       }
 ]
   },

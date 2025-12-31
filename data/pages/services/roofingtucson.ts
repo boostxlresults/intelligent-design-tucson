@@ -5,12 +5,12 @@ import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const roofingtucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Services Tucson AZ | Roof Repair, Replacement, Installation | Licensed Roofers',
-  description: 'Complete roofing services in Tucson, AZ since 1979. Tile, shingle, flat, metal roof repair, replacement, inspection, coating. 22,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert roofers for all your roofing needs.',
+  description: 'Complete roofing services in Tucson, AZ since 1979. Tile, shingle, flat, metal roof repair, replacement, inspection, coating. 23,000+ 5-star reviews. BBB A+ rated. 24/7 emergency service. Expert roofers for all your roofing needs.',
   slug: 'roofing-tucson',
   
   // Hero Section
   h1: 'Complete Roofing Services in Tucson, AZ',
-  h2Subheading: 'Your Trusted Roofing Experts Since 1979 | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Your Trusted Roofing Experts Since 1979 | 23,000+ Five-Star Reviews',
   tagline: 'Tile Roofs | Shingle Roofs | Flat Roofs | Metal Roofs | Repair | Replacement | Coating | Inspection | 24/7 Emergency Service',
   heroImage: '/generated_images/residential_roof_installation_crew_9ad609fb.webp',
   heroImageAlt: 'Professional roofing crew installing new roof in Tucson, Arizona',
@@ -34,7 +34,7 @@ export const roofingtucsonData: ServicePageData = {
     "description": "Arizona ROC licensed & insured | 17+ years average experience | 120+ hours annual training | Background-checked professionals"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accreditation since 1979 | #1 rated roofing company in Tucson | Most-referred in Pima County"
   },
   {
@@ -65,7 +65,7 @@ export const roofingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've been the #1 rated roofing service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred roofing company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home protection and roofing investments] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated roofing company in Southern Arizona. We've been the #1 rated roofing service provider in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979 with zero unresolved complaints. Our commitment to honest recommendations, quality workmanship, transparent pricing, and exceptional customer service has made us the most-referred roofing company in Pima County. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|home protection and roofing investments] for over four decades."
       },
       {
             "type": "paragraph",
@@ -453,7 +453,7 @@ export const roofingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Transparent Pricing & Honest Recommendations: We've built our reputation on integrity and transparency, never recommending unnecessary services or using high-pressure sales tactics. Our process: Comprehensive free inspection with detailed findings, honest assessment whether repair or replacement provides better value, clear written estimates breaking down all costs (no hidden fees), material options at multiple price points with honest pros/cons, financing solutions making projects affordable, and no-pressure consultation allowing you to make informed decisions. We provide repair vs. replace analysis showing projected costs over next 5-10 years, helping you make the economically sound choice for your situation. Our 22,000+ five-star reviews consistently mention our honesty and educational approach—we want you fully informed and confident in your decision."
+            "content": "Transparent Pricing & Honest Recommendations: We've built our reputation on integrity and transparency, never recommending unnecessary services or using high-pressure sales tactics. Our process: Comprehensive free inspection with detailed findings, honest assessment whether repair or replacement provides better value, clear written estimates breaking down all costs (no hidden fees), material options at multiple price points with honest pros/cons, financing solutions making projects affordable, and no-pressure consultation allowing you to make informed decisions. We provide repair vs. replace analysis showing projected costs over next 5-10 years, helping you make the economically sound choice for your situation. Our 23,000+ five-star reviews consistently mention our honesty and educational approach—we want you fully informed and confident in your decision."
       },
       {
             "type": "paragraph",
@@ -686,7 +686,7 @@ export const roofingtucsonData: ServicePageData = {
     },
     {
       question: "How do I know if I need roof repairs or full replacement, and will roofers try to upsell me into replacement when repair would work?",
-      answer: "We provide honest assessments because our reputation depends on trust—we'll always recommend repair over replacement when it's the right solution. Here's how to objectively evaluate repair versus replacement for Tucson roofs: Age is the primary factor: Tile roofs under 30 years typically need repairs only (loose tiles, flashing, underlayment sections). Over 40 years may need replacement especially if underlayment is failing widespread. Composition shingles under 12 years usually need repairs. Over 15 years in Tucson often need replacement due to UV deterioration. Flat roofs under 12 years typically repair well. Over 18-20 years usually need replacement. Damage extent matters: Localized damage (one valley, specific penetration flashing, isolated wind damage) favors repair ($400-$2,500). Widespread issues (multiple leak locations, extensive tile cracking, general deterioration) favor replacement. Repair makes sense when 70%+ of roofing material is sound, structural decking is dry and intact, damage is limited to specific repairable areas, roof is well under expected lifespan, and repairs cost less than 30% of replacement. Replacement makes sense when over 30% of roof shows deterioration, multiple previous repairs haven't solved problems, structural decking has water damage or rot, roof has exceeded expected lifespan for material type, and repair costs approach 40-50% of replacement cost. Red flags for dishonest contractors: Pressure tactics demanding immediate decisions, reluctance to show damage or explain reasoning, unwillingness to provide repair options alongside replacement quotes, and scare tactics without evidence. Our process: comprehensive inspection with photos, written reports explaining findings, separate quotes for repair and replacement options (when both are viable), honest recommendations prioritizing your budget and needs, and no-pressure consultation. We've maintained BBB A+ rating for 46+ years and 22,000+ five-star reviews by earning trust through honesty. Call (520) 333-2665 for a pressure-free roof evaluation."
+      answer: "We provide honest assessments because our reputation depends on trust—we'll always recommend repair over replacement when it's the right solution. Here's how to objectively evaluate repair versus replacement for Tucson roofs: Age is the primary factor: Tile roofs under 30 years typically need repairs only (loose tiles, flashing, underlayment sections). Over 40 years may need replacement especially if underlayment is failing widespread. Composition shingles under 12 years usually need repairs. Over 15 years in Tucson often need replacement due to UV deterioration. Flat roofs under 12 years typically repair well. Over 18-20 years usually need replacement. Damage extent matters: Localized damage (one valley, specific penetration flashing, isolated wind damage) favors repair ($400-$2,500). Widespread issues (multiple leak locations, extensive tile cracking, general deterioration) favor replacement. Repair makes sense when 70%+ of roofing material is sound, structural decking is dry and intact, damage is limited to specific repairable areas, roof is well under expected lifespan, and repairs cost less than 30% of replacement. Replacement makes sense when over 30% of roof shows deterioration, multiple previous repairs haven't solved problems, structural decking has water damage or rot, roof has exceeded expected lifespan for material type, and repair costs approach 40-50% of replacement cost. Red flags for dishonest contractors: Pressure tactics demanding immediate decisions, reluctance to show damage or explain reasoning, unwillingness to provide repair options alongside replacement quotes, and scare tactics without evidence. Our process: comprehensive inspection with photos, written reports explaining findings, separate quotes for repair and replacement options (when both are viable), honest recommendations prioritizing your budget and needs, and no-pressure consultation. We've maintained BBB A+ rating for 46+ years and 23,000+ five-star reviews by earning trust through honesty. Call (520) 333-2665 for a pressure-free roof evaluation."
     },
     {
       question: "What should I do immediately if I discover a roof leak during a monsoon storm, and how quickly can you get someone out?",

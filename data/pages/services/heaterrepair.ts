@@ -10,7 +10,7 @@ export const heaterrepairData: ServicePageData = {
   
   // Hero Section
   h1: 'Top-Rated Heater Repair in Tucson AZ',
-  h2Subheading: 'Over 22,000 5-Star Reviews',
+  h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency Heater Repair | Fast Response Times | Expert Technicians',
   heroImage: '/generated_images/Heater_repair_hero_background_2abaeefe.webp',
   heroImageAlt: 'Professional heater repair technician servicing heating system in Tucson, Arizona',
@@ -43,7 +43,7 @@ export const heaterrepairData: ServicePageData = {
   },
   {
     "title": "Family & Veteran-Owned Since 1979",
-    "description": "Trusted Tucson company | 22,000+ five-star reviews | BBB A+ rated | Licensed & insured"
+    "description": "Trusted Tucson company | 23,000+ five-star reviews | BBB A+ rated | Licensed & insured"
   }
 ],
   content: {
@@ -65,7 +65,7 @@ export const heaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heating-tucson|heating service] provider in Pima County. When your family is cold and you need heat restored fast, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated heating repair company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/heating-tucson|heating service] provider in Pima County. When your family is cold and you need heat restored fast, you're choosing the company your neighbors trust with their [link:/knowledge-hub|family-owned, veteran-operated comfort service]."
       },
       {
             "type": "paragraph",
@@ -619,7 +619,7 @@ export const heaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "No surprises or hidden fees—ever. We provide clear, upfront pricing with detailed written estimates before beginning any repair work. You'll always know what your heater repair will cost, what parts are needed, and what warranty applies before we start. Our estimates include parts, labor, testing, and cleanup with no add-on charges. We also offer flexible financing options for larger repairs, making quality heating service affordable for every budget. This transparency has earned us the trust of over 85,000 Tucson families and a nearly perfect 4.97-star rating from 22,000+ [link:/customer-reviews|verified reviews]."
+            "content": "No surprises or hidden fees—ever. We provide clear, upfront pricing with detailed written estimates before beginning any repair work. You'll always know what your heater repair will cost, what parts are needed, and what warranty applies before we start. Our estimates include parts, labor, testing, and cleanup with no add-on charges. We also offer flexible financing options for larger repairs, making quality heating service affordable for every budget. This transparency has earned us the trust of over 85,000 Tucson families and a nearly perfect 4.97-star rating from 23,000+ [link:/customer-reviews|verified reviews]."
       },
       {
             "type": "heading",

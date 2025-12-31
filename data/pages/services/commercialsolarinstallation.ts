@@ -39,7 +39,7 @@ export const commercialsolarinstallationData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Commercial expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Commercial expertise | Trusted since 1979"
   },
   {
     "title": "Long-Term Support & Monitoring",
@@ -104,7 +104,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "These metrics represent real commercial installations at Tucson businesses, not theoretical projections. We track every system's performance through comprehensive monitoring platforms that provide real-time production data, automated performance alerts, and detailed financial reporting. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 22,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints. Every commercial client receives monthly performance reports comparing actual production against estimates, ensuring accountability and demonstrating the financial returns solar delivers."
+            "content": "These metrics represent real commercial installations at Tucson businesses, not theoretical projections. We track every system's performance through comprehensive monitoring platforms that provide real-time production data, automated performance alerts, and detailed financial reporting. Our commitment to transparency and verified results has earned us [link:/customer-reviews|over 23,000 five-star reviews] and an A+ BBB rating with zero unresolved complaints. Every commercial client receives monthly performance reports comparing actual production against estimates, ensuring accountability and demonstrating the financial returns solar delivers."
       },
       {
             "type": "heading",
@@ -186,7 +186,7 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Business: Oracle Road Retail Center, North Tucson | Facility: 54,000 sq ft retail strip center with 9 tenant spaces | Installation Date: September 2023 | System Size: 150 kW solar (375 panels) + LED lighting retrofit | Equipment: 400W tier-1 panels, commercial string inverters, LED lighting upgrade | Total Investment: $397,000 ($375,000 solar + $22,000 LED) | Net Cost After Incentives: $119,100 | Annual Production: 255,000 kWh | Annual Savings: $38,250 (combined solar + lighting efficiency)"
+            "content": "Business: Oracle Road Retail Center, North Tucson | Facility: 54,000 sq ft retail strip center with 9 tenant spaces | Installation Date: September 2023 | System Size: 150 kW solar (375 panels) + LED lighting retrofit | Equipment: 400W tier-1 panels, commercial string inverters, LED lighting upgrade | Total Investment: $397,000 ($375,000 solar + $23,000 LED) | Net Cost After Incentives: $119,100 | Annual Production: 255,000 kWh | Annual Savings: $38,250 (combined solar + lighting efficiency)"
       },
       {
             "type": "paragraph",

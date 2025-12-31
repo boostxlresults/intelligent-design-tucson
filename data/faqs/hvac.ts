@@ -37,7 +37,7 @@ export const acRepairFAQs: ServiceFAQs = {
     },
     {
       question: "How experienced are your AC repair technicians?",
-      answer: "Our HVAC technicians average about 17 years of experience each and have seen all types of AC system issues. They continuously train on new HVAC technology and follow industry best practices. We're a BBB A+ rated company with over 22,000 five-star reviews and a 4.97 rating."
+      answer: "Our HVAC technicians average about 17 years of experience each and have seen all types of AC system issues. They continuously train on new HVAC technology and follow industry best practices. We're a BBB A+ rated company with over 23,000 five-star reviews and a 4.97 rating."
     },
     {
       question: "What are the most common AC problems in Tucson's climate?",
@@ -104,7 +104,7 @@ export const acInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design the best choice for AC installation in Tucson?",
-      answer: "With over 45 years serving Tucson and 22,000+ five-star reviews, we combine expertise, transparency, and quality workmanship. We're family and veteran-owned, BBB A+ rated, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every installation with comprehensive warranties."
+      answer: "With over 45 years serving Tucson and 23,000+ five-star reviews, we combine expertise, transparency, and quality workmanship. We're family and veteran-owned, BBB A+ rated, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every installation with comprehensive warranties."
     }
   ]
 };
@@ -308,7 +308,7 @@ export const ductlessMiniSplitInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design the best choice for ductless installation in Tucson?",
-      answer: "With over 45 years serving Tucson and 22,000+ five-star reviews, we combine expertise, quality equipment, and transparent pricing. We're family and veteran-owned, BBB A+ rated, and our technicians average 17 years of experience. We stand behind every installation with comprehensive warranties and ongoing support."
+      answer: "With over 45 years serving Tucson and 23,000+ five-star reviews, we combine expertise, quality equipment, and transparent pricing. We're family and veteran-owned, BBB A+ rated, and our technicians average 17 years of experience. We stand behind every installation with comprehensive warranties and ongoing support."
     }
   ]
 };
@@ -512,7 +512,7 @@ export const ductRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer warranties on duct repairs?",
-      answer: "Yes, all duct repairs come with comprehensive workmanship warranties. Warranty terms vary by repair type but typically cover labor and materials for 1-2 years. As a BBB A+ rated company with over 22,000 five-star reviews, Intelligent Design stands behind every repair with quality guaranteed."
+      answer: "Yes, all duct repairs come with comprehensive workmanship warranties. Warranty terms vary by repair type but typically cover labor and materials for 1-2 years. As a BBB A+ rated company with over 23,000 five-star reviews, Intelligent Design stands behind every repair with quality guaranteed."
     }
   ]
 };
@@ -614,7 +614,7 @@ export const smartThermostatInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What warranty comes with smart thermostat installation?",
-      answer: "Smart thermostats typically include manufacturer warranties of 1-3 years depending on brand and model. Intelligent Design also provides workmanship warranties on installation labor. As a BBB A+ rated company with 22,000+ five-star reviews, quality installation and ongoing support are guaranteed. Extended warranties may be available."
+      answer: "Smart thermostats typically include manufacturer warranties of 1-3 years depending on brand and model. Intelligent Design also provides workmanship warranties on installation labor. As a BBB A+ rated company with 23,000+ five-star reviews, quality installation and ongoing support are guaranteed. Extended warranties may be available."
     }
   ]
 };
@@ -818,7 +818,7 @@ export const hvacLocationFAQs: ServiceFAQs = {
     },
     {
       question: "Why should I choose Intelligent Design for my HVAC needs?",
-      answer: "With over 45 years serving Tucson and 22,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
+      answer: "With over 45 years serving Tucson and 23,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
     }
   ]
 };
@@ -869,7 +869,7 @@ export const heatingLocationFAQs: ServiceFAQs = {
     },
     {
       question: "Why should I choose Intelligent Design for my heating needs?",
-      answer: "With over 45 years serving Tucson and 22,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
+      answer: "With over 45 years serving Tucson and 23,000+ five-star reviews (4.97 rating), we combine expertise, transparency, and quality workmanship. We're BBB A+ rated, family and veteran-owned, and offer upfront pricing with no hidden fees. Our technicians average 17 years of experience, and we stand behind every job with comprehensive warranties and a 100% satisfaction guarantee."
     }
   ]
 };

@@ -19,7 +19,7 @@ Preferred communication style: Simple, everyday language.
 - Google Reviews Badge: Always display 5.0 rating with all 5 stars filled (actual rating is 4.97).
 - Review Count Distinction:
   - Google Reviews: "3,500+ reviews" (Google Business Profile specifically)
-  - Total Five-Star Reviews: "22,000+ reviews" (all platforms combined: Google, Yelp, Facebook, BBB, etc.)
+  - Total Five-Star Reviews: "23,000+ reviews" (all platforms combined: Google, Yelp, Facebook, BBB, etc.)
 - Google Maps: Use official Google Business Profile embed code to show full business listing with reviews, photos, and business information.
 - PulseM Widget: Displays aggregated reviews from all platforms on Customer Reviews page.
 
@@ -67,7 +67,7 @@ Preferred communication style: Simple, everyday language.
 - **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales.
 - **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs.
 - **WhoHire:** Job board plugin integration for careers page.
-- **PulseM:** Review aggregation widget displaying 22,000+ five-star reviews.
+- **PulseM:** Review aggregation widget displaying 23,000+ five-star reviews.
 - **HatchChat:** Live chat widget for customer support.
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.

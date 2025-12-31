@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const solarCategoryData: ServiceCategoryData = {
   title: 'Solar Panel Installation Tucson | Solar Energy Services | Intelligent Design',
-  description: 'Expert solar panel installation in Tucson, AZ. Residential & commercial solar, energy audits & maintenance. Family & veteran-owned with 22,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Expert solar panel installation in Tucson, AZ. Residential & commercial solar, energy audits & maintenance. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'solar',
   h1: 'Tucson Solar Services',
   h2Subheading: 'Harness Arizona\'s Sunshine',
@@ -72,7 +72,7 @@ export const solarCategoryData: ServiceCategoryData = {
     },
     {
       title: 'Proven Track Record',
-      description: '46+ years serving Tucson homes with 22,000+ five-star reviews across all services.'
+      description: '46+ years serving Tucson homes with 23,000+ five-star reviews across all services.'
     }
   ]
 };

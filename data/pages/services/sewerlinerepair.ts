@@ -35,7 +35,7 @@ export const sewerlinerepairData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert soil expertise | Trusted since 1979 | All permits handled"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert soil expertise | Trusted since 1979 | All permits handled"
   },
   {
     "title": "Cast Iron Pipe Experts",
@@ -65,7 +65,7 @@ export const sewerlinerepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've been the #1 rated sewer repair company in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/sewer-camera-inspection|sewer camera inspection] and [link:/services/drain-clearing|drain clearing] provider in Pima County. When your sewer system is failing and you need solutions you can trust, you're choosing the company your neighbors have relied on for over four decades with their [link:/customer-reviews|family-owned, veteran-operated sewer services]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated [link:/services/plumbing-tucson|plumbing company] in Southern Arizona. We've been the #1 rated sewer repair company in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/sewer-camera-inspection|sewer camera inspection] and [link:/services/drain-clearing|drain clearing] provider in Pima County. When your sewer system is failing and you need solutions you can trust, you're choosing the company your neighbors have relied on for over four decades with their [link:/customer-reviews|family-owned, veteran-operated sewer services]."
       },
       {
             "type": "paragraph",
@@ -674,7 +674,7 @@ export const sewerlinerepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for [link:/services/sewer-line-repair|sewer line repair], you're getting: high-definition video camera inspection to diagnose all problems accurately, both trenchless and traditional repair options explained clearly with honest recommendations, expert root intrusion removal and prevention, cast iron pipe rehabilitation specialists, emergency response available 24/7 for sewer backups, all permits and inspections handled professionally, comprehensive warranties on materials and labor, [link:/financing|flexible financing] to make necessary repairs accessible, and clean, professional work with complete site restoration."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've built our reputation on quality workmanship, transparent pricing, and exceptional customer service. When you choose Intelligent Design for [link:/services/sewer-line-repair|sewer line repair], you're getting: high-definition video camera inspection to diagnose all problems accurately, both trenchless and traditional repair options explained clearly with honest recommendations, expert root intrusion removal and prevention, cast iron pipe rehabilitation specialists, emergency response available 24/7 for sewer backups, all permits and inspections handled professionally, comprehensive warranties on materials and labor, [link:/financing|flexible financing] to make necessary repairs accessible, and clean, professional work with complete site restoration."
       },
       {
             "type": "paragraph",

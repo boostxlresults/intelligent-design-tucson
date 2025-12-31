@@ -8,12 +8,12 @@ import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 export const roofingtucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: 'Roofing Services Tucson Estates AZ | Professional Roofer & Roof Repair',
-  description: 'Expert roofing services in Tucson Estates, AZ. Professional roof repair, replacement, inspection, coating for tile, shingle & flat roofs. 24/7 emergency service. BBB A+ rated since 1979. 22,000+ five-star reviews.',
+  description: 'Expert roofing services in Tucson Estates, AZ. Professional roof repair, replacement, inspection, coating for tile, shingle & flat roofs. 24/7 emergency service. BBB A+ rated since 1979. 23,000+ five-star reviews.',
   slug: 'roofing-tucson-estates',
   
   // Hero Section
   h1: 'Professional Roofing Services in Tucson Estates, AZ',
-  h2Subheading: 'Expert Roofing Solutions for Tucson Estates Homes | 22,000+ Five-Star Reviews',
+  h2Subheading: 'Expert Roofing Solutions for Tucson Estates Homes | 23,000+ Five-Star Reviews',
   tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle Roofs | Flat Roof Specialists | 24/7 Emergency Service',
   heroImage: '/generated_images/residential_roof_repair_technician_daf39f83.webp',
   heroImageAlt: 'Professional roofer performing expert roof repair service in Tucson Estates, Arizona',
@@ -37,7 +37,7 @@ export const roofingtucsonestatesData: ServicePageData = {
     "description": "Arizona ROC-licensed professionals | 15+ years average roofing experience | Factory-certified installers | Background-checked and uniformed teams"
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "4.97-star Google rating | BBB A+ accredited since 1979 | #1 rated roofing company in Tucson | Most-referred roofer in Pima County"
   },
   {
@@ -72,7 +72,7 @@ export const roofingtucsonestatesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Tucson Estates families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated roofing company in west Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred roofing service provider in Tucson Estates for over a decade. Our commitment to honest roof assessments (repair vs. replace guidance), quality workmanship using premium materials, transparent pricing with no hidden costs, and exceptional customer service has made us the preferred roofing partner for Tucson Estates homeowners. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|most valuable home investment] for over four decades."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 8,500 Tucson Estates families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated roofing company in west Tucson. We maintain BBB A+ accreditation since 1979 with zero unresolved complaints and are the most-referred roofing service provider in Tucson Estates for over a decade. Our commitment to honest roof assessments (repair vs. replace guidance), quality workmanship using premium materials, transparent pricing with no hidden costs, and exceptional customer service has made us the preferred roofing partner for Tucson Estates homeowners. When you choose Intelligent Design, you're selecting the company your neighbors have trusted with their [link:/customer-reviews|most valuable home investment] for over four decades."
       },
       {
             "type": "cta",
@@ -371,7 +371,7 @@ export const roofingtucsonestatesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Roofing Material Comparison for Tucson Estates Homes: Clay tile roofing ($15,000-28,000 for typical home) offers authentic Southwestern aesthetics, exceptional 50+ year lifespan, natural cooling properties reducing heat transfer, Class A fire resistance, excellent wind resistance when properly installed, and low maintenance requirements, but requires adequate structural support (850-1,000 lbs per square), costs more than alternatives, and individual tiles can crack from impact. Best for: homeowners prioritizing authentic aesthetics, long-term value, and traditional Tucson architecture. Concrete tile roofing ($11,000-22,000 for typical home) provides similar aesthetics to clay at lower cost, good 30-50 year lifespan, wide variety of profiles and colors, good energy efficiency, and easier tile replacement availability, but weighs slightly more than clay (900-1,100 lbs per square) and has slightly shorter lifespan. Best for: homeowners seeking tile aesthetics with lower upfront investment and good long-term value."
+            "content": "Roofing Material Comparison for Tucson Estates Homes: Clay tile roofing ($15,000-28,000 for typical home) offers authentic Southwestern aesthetics, exceptional 50+ year lifespan, natural cooling properties reducing heat transfer, Class A fire resistance, excellent wind resistance when properly installed, and low maintenance requirements, but requires adequate structural support (850-1,000 lbs per square), costs more than alternatives, and individual tiles can crack from impact. Best for: homeowners prioritizing authentic aesthetics, long-term value, and traditional Tucson architecture. Concrete tile roofing ($11,000-23,000 for typical home) provides similar aesthetics to clay at lower cost, good 30-50 year lifespan, wide variety of profiles and colors, good energy efficiency, and easier tile replacement availability, but weighs slightly more than clay (900-1,100 lbs per square) and has slightly shorter lifespan. Best for: homeowners seeking tile aesthetics with lower upfront investment and good long-term value."
       },
       {
             "type": "paragraph",

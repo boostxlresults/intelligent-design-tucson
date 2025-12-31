@@ -36,7 +36,7 @@ export const hvacvailData: ServicePageData = {
     description: "Arizona-licensed HVAC professionals averaging 17+ years experience. Specialized training for larger rural properties and ranches."
   },
   {
-    title: "22,000+ Five-Star Reviews",
+    title: "23,000+ Five-Star Reviews",
     description: "BBB A+ rated with 4.97-star Google rating. Tucson's most-referred HVAC company serving Vail families and businesses."
   },
   {
@@ -67,7 +67,7 @@ export const hvacvailData: ServicePageData = {
       },
       {
             type: "paragraph",
-            content: "Proven Track Record & Vail Community Trust: Intelligent Design has earned the trust of over 850 Vail-area families and businesses as part of our 85,000+ customers throughout Southern Arizona, maintaining a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated HVAC company in the Tucson metropolitan area. We've been serving Vail residents, [link:/services/hvac-rita-ranch|Rita Ranch] neighbors, and [link:/services/hvac-corona-de-tucson|Corona de Tucson] communities since the earliest days of Vail's development, with BBB A+ accreditation since 1979 and zero unresolved complaints. Our commitment to honest recommendations for rural properties, quality workmanship on larger installations, transparent pricing regardless of location, and exceptional customer service has made us the most-referred HVAC company in eastern Pima County. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|family comfort and property investments] for over four decades."
+            content: "Proven Track Record & Vail Community Trust: Intelligent Design has earned the trust of over 850 Vail-area families and businesses as part of our 85,000+ customers throughout Southern Arizona, maintaining a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in the Tucson metropolitan area. We've been serving Vail residents, [link:/services/hvac-rita-ranch|Rita Ranch] neighbors, and [link:/services/hvac-corona-de-tucson|Corona de Tucson] communities since the earliest days of Vail's development, with BBB A+ accreditation since 1979 and zero unresolved complaints. Our commitment to honest recommendations for rural properties, quality workmanship on larger installations, transparent pricing regardless of location, and exceptional customer service has made us the most-referred HVAC company in eastern Pima County. When you choose Intelligent Design, you're selecting the company your Vail neighbors have trusted with their [link:/customer-reviews|family comfort and property investments] for over four decades."
       },
       {
             type: "paragraph",

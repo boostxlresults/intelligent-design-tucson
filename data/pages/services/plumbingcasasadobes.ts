@@ -46,7 +46,7 @@ export const plumbingcasasadobesData: ServicePageData = {
   },
   {
     "title": "Complete Peace of Mind",
-    "description": "Industry-leading warranties on workmanship and parts, backed by our 100% satisfaction guarantee and BBB A+ rating with 22,000+ five-star reviews."
+    "description": "Industry-leading warranties on workmanship and parts, backed by our 100% satisfaction guarantee and BBB A+ rating with 23,000+ five-star reviews."
   }
 ],
   content: {
@@ -269,7 +269,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete Peace of Mind - Every plumbing service we provide is backed by comprehensive warranties on both workmanship and parts. Our work is guaranteed to meet or exceed all applicable codes and standards. If you're not completely satisfied with our service, we'll make it right—that's our 100% satisfaction guarantee. With over 22,000 five-star reviews and an A+ rating from the Better Business Bureau, Casas Adobes families know they can trust us to deliver on our promises."
+            "content": "Complete Peace of Mind - Every plumbing service we provide is backed by comprehensive warranties on both workmanship and parts. Our work is guaranteed to meet or exceed all applicable codes and standards. If you're not completely satisfied with our service, we'll make it right—that's our 100% satisfaction guarantee. With over 23,000 five-star reviews and an A+ rating from the Better Business Bureau, Casas Adobes families know they can trust us to deliver on our promises."
       },
       {
             "type": "heading",
@@ -307,7 +307,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't just take our word for it—listen to what your Casas Adobes neighbors say about our plumbing services. With over 22,000 five-star reviews and an A+ rating from the Better Business Bureau, we've earned the trust of thousands of Tucson-area families. Customers consistently praise our professionalism and courtesy, upfront honest pricing with no hidden fees, skilled technicians who fix problems right the first time, respect for their homes (we use shoe covers and clean up thoroughly), clear communication throughout the service process, and follow-up to ensure complete satisfaction."
+            "content": "Don't just take our word for it—listen to what your Casas Adobes neighbors say about our plumbing services. With over 23,000 five-star reviews and an A+ rating from the Better Business Bureau, we've earned the trust of thousands of Tucson-area families. Customers consistently praise our professionalism and courtesy, upfront honest pricing with no hidden fees, skilled technicians who fix problems right the first time, respect for their homes (we use shoe covers and clean up thoroughly), clear communication throughout the service process, and follow-up to ensure complete satisfaction."
       },
       {
             "type": "paragraph",
@@ -359,7 +359,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Challenge: A Casas Adobes family in a 1,900 sq ft home built in 1982 faced escalating plumbing problems from their home's original galvanized steel water supply pipes. Morning showers produced rusty brown water for the first 30-60 seconds, water pressure had declined noticeably over recent years making it difficult to run multiple fixtures simultaneously, and their home inspector during a recent refinance noted that the 40-year-old galvanized pipes were nearing end of life and recommended budgeting for replacement. Two previous plumbing estimates quoted $18,000-22,000 for complete repiping with warnings about extensive wall and ceiling damage, lengthy disruption, and complex drywall repairs. The family needed expert [link:/services/plumbing-tucson|whole-house repiping] that would modernize their plumbing system while minimizing disruption and cost."
+            "content": "The Challenge: A Casas Adobes family in a 1,900 sq ft home built in 1982 faced escalating plumbing problems from their home's original galvanized steel water supply pipes. Morning showers produced rusty brown water for the first 30-60 seconds, water pressure had declined noticeably over recent years making it difficult to run multiple fixtures simultaneously, and their home inspector during a recent refinance noted that the 40-year-old galvanized pipes were nearing end of life and recommended budgeting for replacement. Two previous plumbing estimates quoted $18,000-23,000 for complete repiping with warnings about extensive wall and ceiling damage, lengthy disruption, and complex drywall repairs. The family needed expert [link:/services/plumbing-tucson|whole-house repiping] that would modernize their plumbing system while minimizing disruption and cost."
       },
       {
             "type": "paragraph",
@@ -367,7 +367,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Measurable Results: The whole-home repipe transformed the Casas Adobes family's plumbing system and home value. They achieved crystal clear water immediately with zero discoloration even first thing in morning, dramatically improved water pressure increasing from 35 PSI to 62 PSI throughout home (enabling multiple showers simultaneously), modern reliability eliminating risk of catastrophic pipe failures common in aging galvanized systems, increased home value appraising $12,000-15,000 higher with modern plumbing versus aging galvanized system, lower cost than expected at $14,900 complete versus $18,000-22,000 competitor quotes (saving $3,100-7,100), minimal disruption with family remaining in home throughout 3-day project, and energy efficiency with insulated PEX lines reducing heat loss from hot water pipes. The homeowners shared, 'We dreaded this project thinking it would be a nightmare of torn-up walls and huge expense. Intelligent Design made it surprisingly painless—their crew was clean, professional, and efficient. The water pressure improvement is amazing, and knowing we have modern plumbing that will last decades gives us such peace of mind. Worth every penny and completed for less than other quotes.'"
+            "content": "Measurable Results: The whole-home repipe transformed the Casas Adobes family's plumbing system and home value. They achieved crystal clear water immediately with zero discoloration even first thing in morning, dramatically improved water pressure increasing from 35 PSI to 62 PSI throughout home (enabling multiple showers simultaneously), modern reliability eliminating risk of catastrophic pipe failures common in aging galvanized systems, increased home value appraising $12,000-15,000 higher with modern plumbing versus aging galvanized system, lower cost than expected at $14,900 complete versus $18,000-23,000 competitor quotes (saving $3,100-7,100), minimal disruption with family remaining in home throughout 3-day project, and energy efficiency with insulated PEX lines reducing heat loss from hot water pipes. The homeowners shared, 'We dreaded this project thinking it would be a nightmare of torn-up walls and huge expense. Intelligent Design made it surprisingly painless—their crew was clean, professional, and efficient. The water pressure improvement is amazing, and knowing we have modern plumbing that will last decades gives us such peace of mind. Worth every penny and completed for less than other quotes.'"
       },
       {
             "type": "heading",
@@ -477,7 +477,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Complete home repiping costs for Casas Adobes homes depend on size, accessibility, and material choices. 1,200-1,600 sq ft homes typically cost $8,500-12,000 for complete PEX repipe including all water supply lines, shutoff valves, minimal demolition and complete drywall repair. 1,800-2,200 sq ft homes run $12,000-16,000 complete. 2,400-3,000 sq ft homes cost $16,000-22,000. Partial repiping options include hot water lines only ($4,500-7,500, solves issues when only hot side has problems), specific problem areas ($2,500-5,000 depending on scope), and main line replacement ($1,800-3,500). Material choices affect cost—PEX (most popular, best value, 25-year warranty, easiest installation), copper (premium option, highest cost, longest lifespan), and CPVC (middle option, less popular). Most Casas Adobes families choose PEX for optimal value, reliability, and warranty coverage."
+            "content": "Complete home repiping costs for Casas Adobes homes depend on size, accessibility, and material choices. 1,200-1,600 sq ft homes typically cost $8,500-12,000 for complete PEX repipe including all water supply lines, shutoff valves, minimal demolition and complete drywall repair. 1,800-2,200 sq ft homes run $12,000-16,000 complete. 2,400-3,000 sq ft homes cost $16,000-23,000. Partial repiping options include hot water lines only ($4,500-7,500, solves issues when only hot side has problems), specific problem areas ($2,500-5,000 depending on scope), and main line replacement ($1,800-3,500). Material choices affect cost—PEX (most popular, best value, 25-year warranty, easiest installation), copper (premium option, highest cost, longest lifespan), and CPVC (middle option, less popular). Most Casas Adobes families choose PEX for optimal value, reliability, and warranty coverage."
       },
       {
             "type": "heading",
@@ -541,7 +541,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our commitment to Casas Adobes families extends beyond technical plumbing expertise to exceptional customer service. We provide Arizona ROC-licensed master plumbers (not apprentices or unlicensed technicians), upfront pricing before work begins (no surprises), same-day service for most plumbing needs (while others require 2-4 day waits), clean professional service with background-checked uniformed technicians, comprehensive warranties on workmanship and parts, flexible financing making necessary repairs affordable, and honest recommendations about repair vs. replace decisions. Our 22,000+ five-star reviews include hundreds from Casas Adobes neighbors who trust us for emergency repairs, water heater replacements, whole-house repiping, and all plumbing needs."
+            "content": "Our commitment to Casas Adobes families extends beyond technical plumbing expertise to exceptional customer service. We provide Arizona ROC-licensed master plumbers (not apprentices or unlicensed technicians), upfront pricing before work begins (no surprises), same-day service for most plumbing needs (while others require 2-4 day waits), clean professional service with background-checked uniformed technicians, comprehensive warranties on workmanship and parts, flexible financing making necessary repairs affordable, and honest recommendations about repair vs. replace decisions. Our 23,000+ five-star reviews include hundreds from Casas Adobes neighbors who trust us for emergency repairs, water heater replacements, whole-house repiping, and all plumbing needs."
       },
       {
             "type": "heading",
@@ -647,7 +647,7 @@ export const plumbingcasasadobesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "BBB A+ Rating | 22,000+ Five-Star Reviews"
+            "content": "BBB A+ Rating | 23,000+ Five-Star Reviews"
       }
 ]
   },

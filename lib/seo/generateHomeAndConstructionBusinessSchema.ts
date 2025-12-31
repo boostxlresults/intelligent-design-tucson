@@ -39,7 +39,7 @@ export function generateHomeAndConstructionBusinessSchema(options: HomeAndConstr
       "IDAC",
       "Wood's Plumbing"
     ],
-    "description": "Full-service home improvement contractor providing HVAC, plumbing, electrical, roofing, and solar services. Family and veteran-owned, serving Tucson since 1979 with 22,000+ five-star reviews.",
+    "description": "Full-service home improvement contractor providing HVAC, plumbing, electrical, roofing, and solar services. Family and veteran-owned, serving Tucson since 1979 with 23,000+ five-star reviews.",
     "url": canonicalUrl,
     "telephone": BUSINESS_INFO.phone,
     "email": BUSINESS_INFO.email,
@@ -210,7 +210,7 @@ export function generateHomeAndConstructionBusinessSchema(options: HomeAndConstr
 
     schema.award = [
       "BBB A+ Rating",
-      "22,000+ Five-Star Reviews",
+      "23,000+ Five-Star Reviews",
       "Family-Owned Business Since 1979",
       "Veteran-Owned Business",
       "46+ Years of Experience"

@@ -36,7 +36,7 @@ export const hvactortolitaData: ServicePageData = {
     "description": "Top-rated AC systems from Carrier, Trane, Lennox, and other leading manufacturers, all sized and installed correctly."
   },
   {
-    "title": "22,000+ Five-Star Reviews",
+    "title": "23,000+ Five-Star Reviews",
     "description": "BBB A+ rated with thousands of satisfied Tortolita customers. Our reputation speaks to our quality and service."
   },
   {
@@ -443,13 +443,13 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "22,000+ Five-Star Reviews",
+            "heading": "23,000+ Five-Star Reviews",
             "level": 3,
-            "content": "22,000+ Five-Star Reviews"
+            "content": "23,000+ Five-Star Reviews"
       },
       {
             "type": "paragraph",
-            "content": "Our 4.97-star average rating from over 22,000 verified customer reviews represents authentic feedback from real Tortolita families we've served. These reviews consistently praise our technicians' professionalism, quality of workmanship, fair pricing, respectful service, and commitment to customer satisfaction. We don't just collect reviews—we earn them through exceptional service on every call."
+            "content": "Our 4.97-star average rating from over 23,000 verified customer reviews represents authentic feedback from real Tortolita families we've served. These reviews consistently praise our technicians' professionalism, quality of workmanship, fair pricing, respectful service, and commitment to customer satisfaction. We don't just collect reviews—we earn them through exceptional service on every call."
       },
       {
             "type": "heading",
@@ -534,7 +534,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 2-5 years depending on equipment package, Repair labor warranty 1 year on all repair work performed, Extended labor warranties available on premium installations, and Premium installation warranty 5 years on high-efficiency systems. We stand behind our work unconditionally—if something's not right, we make it right at no charge. Our 4.97-star rating from 22,000+ reviews reflects our commitment to quality work and customer satisfaction earning Tortolita residents' trust."
+            "content": "Intelligent Design Labor Warranties: Our workmanship guarantees back every installation and repair: Installation labor warranty 2-5 years depending on equipment package, Repair labor warranty 1 year on all repair work performed, Extended labor warranties available on premium installations, and Premium installation warranty 5 years on high-efficiency systems. We stand behind our work unconditionally—if something's not right, we make it right at no charge. Our 4.97-star rating from 23,000+ reviews reflects our commitment to quality work and customer satisfaction earning Tortolita residents' trust."
       },
       {
             "type": "paragraph",
@@ -556,7 +556,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "How much does AC replacement cost in Tortolita? Complete HVAC system replacement for typical Tortolita home ranges from $7,800 for basic 14 SEER equipment to $22,000+ for premium variable-speed systems with advanced features. Most homeowners invest $10,500-16,000 for quality 16-18 SEER equipment balancing efficiency, features, and value. Costs vary based on equipment efficiency level (14-22 SEER) and brand selection, system size required for your home, existing ductwork condition (repairs may be needed), electrical service capacity (upgrades occasionally required), permit fees and inspection costs, and installation complexity including equipment placement and refrigerant line routing. Available rebates ($800-1,400) and tax credits (up to $2,000) significantly reduce net costs by $1,500-3,400. We provide detailed written estimates before any work begins, explaining all costs clearly with no hidden fees or surprise charges. Flexible [link:/services/financing|financing options] make quality equipment accessible for every Tortolita family budget."
+            "content": "How much does AC replacement cost in Tortolita? Complete HVAC system replacement for typical Tortolita home ranges from $7,800 for basic 14 SEER equipment to $23,000+ for premium variable-speed systems with advanced features. Most homeowners invest $10,500-16,000 for quality 16-18 SEER equipment balancing efficiency, features, and value. Costs vary based on equipment efficiency level (14-22 SEER) and brand selection, system size required for your home, existing ductwork condition (repairs may be needed), electrical service capacity (upgrades occasionally required), permit fees and inspection costs, and installation complexity including equipment placement and refrigerant line routing. Available rebates ($800-1,400) and tax credits (up to $2,000) significantly reduce net costs by $1,500-3,400. We provide detailed written estimates before any work begins, explaining all costs clearly with no hidden fees or surprise charges. Flexible [link:/services/financing|financing options] make quality equipment accessible for every Tortolita family budget."
       },
       {
             "type": "paragraph",
@@ -616,7 +616,7 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What makes Intelligent Design different from other HVAC companies? We stand out from competitors through our unwavering commitment to quality, integrity, and customer satisfaction backed by tangible results. Proven track record: 46+ years serving Tucson (since 1979) with 22,000+ five-star reviews and BBB A+ rating reflecting consistent excellence. Technical expertise: Factory-trained, licensed, certified technicians with decades of combined experience and ongoing manufacturer training. Quality equipment: Factory-authorized dealer for premium brands ensuring genuine parts, manufacturer warranties, and expert installation. Transparent pricing: Upfront written estimates with no hidden fees, surprise charges, or high-pressure sales tactics. Customer focus: 100% satisfaction guarantee, on-time arrival or discounted service, and priority emergency response. Community investment: Family-owned local business (not a national chain) deeply invested in Tortolita and greater Tucson community. Comprehensive service: Complete HVAC solutions from routine maintenance to complex installations backed by comprehensive warranties. Our longevity and exceptional reputation prove we consistently deliver on our promises earning lasting trust from thousands of Tortolita families."
+            "content": "What makes Intelligent Design different from other HVAC companies? We stand out from competitors through our unwavering commitment to quality, integrity, and customer satisfaction backed by tangible results. Proven track record: 46+ years serving Tucson (since 1979) with 23,000+ five-star reviews and BBB A+ rating reflecting consistent excellence. Technical expertise: Factory-trained, licensed, certified technicians with decades of combined experience and ongoing manufacturer training. Quality equipment: Factory-authorized dealer for premium brands ensuring genuine parts, manufacturer warranties, and expert installation. Transparent pricing: Upfront written estimates with no hidden fees, surprise charges, or high-pressure sales tactics. Customer focus: 100% satisfaction guarantee, on-time arrival or discounted service, and priority emergency response. Community investment: Family-owned local business (not a national chain) deeply invested in Tortolita and greater Tucson community. Comprehensive service: Complete HVAC solutions from routine maintenance to complex installations backed by comprehensive warranties. Our longevity and exceptional reputation prove we consistently deliver on our promises earning lasting trust from thousands of Tortolita families."
       },
       {
             "type": "paragraph",
@@ -624,11 +624,11 @@ export const hvactortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What references can you provide from Tortolita customers? We're proud to share references from hundreds of satisfied Tortolita customers who've experienced our exceptional service firsthand. Our 22,000+ five-star reviews include testimonials from Tortolita residents praising our professionalism, technical expertise, fair pricing, and responsive service. We maintain BBB A+ rating with zero unresolved complaints demonstrating our commitment to customer satisfaction. Many Tortolita homeowners provide unsolicited referrals to neighbors and friends—our highest compliment. We're happy to provide specific Tortolita references upon request, connecting you with customers who've experienced similar projects or services. Our transparent track record speaks for itself earning trust of thousands of northwest Tucson families over 46 years."
+            "content": "What references can you provide from Tortolita customers? We're proud to share references from hundreds of satisfied Tortolita customers who've experienced our exceptional service firsthand. Our 23,000+ five-star reviews include testimonials from Tortolita residents praising our professionalism, technical expertise, fair pricing, and responsive service. We maintain BBB A+ rating with zero unresolved complaints demonstrating our commitment to customer satisfaction. Many Tortolita homeowners provide unsolicited referrals to neighbors and friends—our highest compliment. We're happy to provide specific Tortolita references upon request, connecting you with customers who've experienced similar projects or services. Our transparent track record speaks for itself earning trust of thousands of northwest Tucson families over 46 years."
       },
       {
             "type": "paragraph",
-            "content": "What sets your pricing apart from competitors? Our pricing philosophy emphasizes transparency, fairness, and long-term value rather than lowest initial price. We provide detailed written estimates itemizing all equipment, materials, labor, permits, and fees before work begins—never pressure sales or bait-and-switch tactics. Our pricing includes quality premium-brand equipment built to last (not cheap off-brands), professional installation by licensed experienced technicians (not subcontractors), comprehensive warranties and ongoing service support, and upfront honest recommendations prioritizing your best interests. While we may not always be the absolute lowest quote, we consistently provide best overall value through quality equipment, expert installation, comprehensive warranties, and exceptional ongoing service. Tortolita homeowners choosing us based solely on price alone often return after experiencing the difference that quality service makes. Our 45 years in business and 22,000+ five-star reviews prove we deliver lasting value earning Tortolita families' trust and loyalty generation after generation."
+            "content": "What sets your pricing apart from competitors? Our pricing philosophy emphasizes transparency, fairness, and long-term value rather than lowest initial price. We provide detailed written estimates itemizing all equipment, materials, labor, permits, and fees before work begins—never pressure sales or bait-and-switch tactics. Our pricing includes quality premium-brand equipment built to last (not cheap off-brands), professional installation by licensed experienced technicians (not subcontractors), comprehensive warranties and ongoing service support, and upfront honest recommendations prioritizing your best interests. While we may not always be the absolute lowest quote, we consistently provide best overall value through quality equipment, expert installation, comprehensive warranties, and exceptional ongoing service. Tortolita homeowners choosing us based solely on price alone often return after experiencing the difference that quality service makes. Our 45 years in business and 23,000+ five-star reviews prove we deliver lasting value earning Tortolita families' trust and loyalty generation after generation."
       },
       {
             "type": "paragraph",

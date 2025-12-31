@@ -9,7 +9,7 @@ import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Video Testimonials | Real Customer Stories Tucson AZ',
-  description: 'Watch real Tucson homeowners share their experiences with Intelligent Design\'s HVAC, plumbing, solar, and electrical services. See why 22,000+ customers trust us.',
+  description: 'Watch real Tucson homeowners share their experiences with Intelligent Design\'s HVAC, plumbing, solar, and electrical services. See why 23,000+ customers trust us.',
   canonicalUrl: 'https://www.idesignac.com/video-testimonials',
   keywords: ['customer testimonials', 'HVAC reviews Tucson', 'video reviews', 'customer experiences', 'home services testimonials', 'Tucson AC company reviews'],
 });
@@ -152,7 +152,7 @@ export default function VideoTestimonialsPage() {
               Watch Tucson homeowners share their experiences with Intelligent Design
             </p>
             <p className="text-lg text-white/80 mb-8" data-testid="text-hero-description">
-              See why over 22,000 Tucson-area families trust us for HVAC, plumbing, solar, electrical, and roofing services. Our customers' authentic stories speak louder than any advertisement.
+              See why over 23,000 Tucson-area families trust us for HVAC, plumbing, solar, electrical, and roofing services. Our customers' authentic stories speak louder than any advertisement.
             </p>
             <div className="flex flex-wrap gap-4">
               <SchedulerEmbed 
@@ -205,7 +205,7 @@ export default function VideoTestimonialsPage() {
               <p className="text-muted-foreground">Google Reviews</p>
             </div>
             <div>
-              <p className="text-4xl font-bold text-primary">22,000+</p>
+              <p className="text-4xl font-bold text-primary">23,000+</p>
               <p className="text-muted-foreground">Happy Customers</p>
             </div>
             <div>

@@ -35,7 +35,7 @@ export const tileroofsData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Experience",
-    "description": "Family & veteran-owned | 22,000+ reviews | Historic home expertise | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Historic home expertise | Trusted since 1979"
   },
   {
     "title": "Energy Efficiency",
@@ -61,7 +61,7 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Tile Roofing Performance Metrics: Our commitment to excellence is measurable through verified ServiceTitan performance data tracking every tile roofing project. We maintain a 98.9% first-time installation success rate for tile roofs, average 4.97-star ratings from 22,000+ verified customer reviews, complete 96% of tile installations within estimated timelines, and achieve zero warranty claims on properly maintained tile installations within the first 10 years. Our ServiceTitan business management platform tracks critical tile roofing metrics including average project completion time of 6.2 days for residential tile installations, 99.1% customer satisfaction scores on post-installation surveys, 2.1-hour average response time for tile roof consultation requests, and 96.3% of customers who would recommend our tile roofing services to family and friends. These metrics represent thousands of satisfied Tucson homeowners enjoying tile roofs that will protect their homes for 50-100+ years."
+            "content": "Industry-Leading Tile Roofing Performance Metrics: Our commitment to excellence is measurable through verified ServiceTitan performance data tracking every tile roofing project. We maintain a 98.9% first-time installation success rate for tile roofs, average 4.97-star ratings from 23,000+ verified customer reviews, complete 96% of tile installations within estimated timelines, and achieve zero warranty claims on properly maintained tile installations within the first 10 years. Our ServiceTitan business management platform tracks critical tile roofing metrics including average project completion time of 6.2 days for residential tile installations, 99.1% customer satisfaction scores on post-installation surveys, 2.1-hour average response time for tile roof consultation requests, and 96.3% of customers who would recommend our tile roofing services to family and friends. These metrics represent thousands of satisfied Tucson homeowners enjoying tile roofs that will protect their homes for 50-100+ years."
       },
       {
             "type": "heading",
@@ -253,7 +253,7 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Underlayment replacement—necessary every 20-30 years even when tiles remain sound—involves removing tiles in affected sections, installing new premium underlayment, and replacing tiles in their original positions. This substantial investment ($8,000-$20,000+ depending on roof size) extends tile roof life another 20-30 years at a fraction of complete replacement cost. We provide honest assessments helping you determine whether repairs, underlayment replacement, or complete reroof provides best value. Our reputation for integrity has earned over 22,000 five-star reviews from homeowners who trust our guidance on these important decisions."
+            "content": "Underlayment replacement—necessary every 20-30 years even when tiles remain sound—involves removing tiles in affected sections, installing new premium underlayment, and replacing tiles in their original positions. This substantial investment ($8,000-$20,000+ depending on roof size) extends tile roof life another 20-30 years at a fraction of complete replacement cost. We provide honest assessments helping you determine whether repairs, underlayment replacement, or complete reroof provides best value. Our reputation for integrity has earned over 23,000 five-star reviews from homeowners who trust our guidance on these important decisions."
       },
       {
             "type": "heading",
@@ -561,7 +561,7 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Cost Comparison: Tile vs. Alternative Roofing Materials (30-Year Analysis): Let's compare lifetime costs for a typical 2,500 sq ft Tucson home over 30 years. Tile Roofing (Concrete): Initial installation: $32,000. Maintenance years 1-30: $3,500 (inspections, minor repairs). Total 30-year cost: $35,500. Condition at year 30: Excellent, 20-45 years remaining life. Asphalt Shingles: Initial installation: $12,000. Replacement #1 (year 15): $13,500. Maintenance years 1-30: $4,500. Total 30-year cost: $30,000. Condition at year 30: Requires replacement within 3-5 years. Metal Roofing: Initial installation: $22,000. Maintenance years 1-30: $2,000. Total 30-year cost: $24,000. Condition at year 30: Good, 15-25 years remaining life."
+            "content": "Cost Comparison: Tile vs. Alternative Roofing Materials (30-Year Analysis): Let's compare lifetime costs for a typical 2,500 sq ft Tucson home over 30 years. Tile Roofing (Concrete): Initial installation: $32,000. Maintenance years 1-30: $3,500 (inspections, minor repairs). Total 30-year cost: $35,500. Condition at year 30: Excellent, 20-45 years remaining life. Asphalt Shingles: Initial installation: $12,000. Replacement #1 (year 15): $13,500. Maintenance years 1-30: $4,500. Total 30-year cost: $30,000. Condition at year 30: Requires replacement within 3-5 years. Metal Roofing: Initial installation: $23,000. Maintenance years 1-30: $2,000. Total 30-year cost: $24,000. Condition at year 30: Good, 15-25 years remaining life."
       },
       {
             "type": "paragraph",
@@ -627,7 +627,7 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 five-star reviews and a 4.97 Google rating, we've earned our reputation for superior craftsmanship, honest guidance, and exceptional service. When you choose Intelligent Design for tile roofing, you receive: free comprehensive consultations and estimates, expert material selection for your architectural style and budget, structural evaluation and reinforcement recommendations, professional installation by experienced tile roofers, comprehensive warranties on materials and workmanship, perfect tile matching for repairs using extensive inventory, historic preservation expertise for period properties, and responsive service addressing concerns promptly."
+            "content": "With over 23,000 five-star reviews and a 4.97 Google rating, we've earned our reputation for superior craftsmanship, honest guidance, and exceptional service. When you choose Intelligent Design for tile roofing, you receive: free comprehensive consultations and estimates, expert material selection for your architectural style and budget, structural evaluation and reinforcement recommendations, professional installation by experienced tile roofers, comprehensive warranties on materials and workmanship, perfect tile matching for repairs using extensive inventory, historic preservation expertise for period properties, and responsive service addressing concerns promptly."
       },
       {
             "type": "paragraph",
@@ -641,12 +641,12 @@ export const tileroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design provides expert tile roofing services throughout greater Tucson and Southern Arizona. Our service area includes [link:/service-areas/tucson|Tucson], [link:/service-areas/oro-valley|Oro Valley], [link:/service-areas/marana|Marana], [link:/service-areas/catalina-foothills|Catalina Foothills], [link:/service-areas/sahuarita|Sahuarita], [link:/service-areas/vail|Vail], [link:/service-areas/green-valley|Green Valley], and surrounding communities. We maintain strategically positioned service vehicles throughout the metro area enabling rapid response for consultations, inspections, and emergency repairs. Whether you're located in historic downtown neighborhoods with Spanish Colonial architecture, foothills communities with luxury custom homes, or growing suburban areas with contemporary Southwest designs, our experienced tile roofing crews serve your area with the same commitment to quality and service excellence that has earned us over 22,000 five-star reviews. Contact us today for tile roofing service anywhere in Southern Arizona—we're your local tile roofing experts with the experience, expertise, and commitment to quality you deserve."
+            "content": "Intelligent Design provides expert tile roofing services throughout greater Tucson and Southern Arizona. Our service area includes [link:/service-areas/tucson|Tucson], [link:/service-areas/oro-valley|Oro Valley], [link:/service-areas/marana|Marana], [link:/service-areas/catalina-foothills|Catalina Foothills], [link:/service-areas/sahuarita|Sahuarita], [link:/service-areas/vail|Vail], [link:/service-areas/green-valley|Green Valley], and surrounding communities. We maintain strategically positioned service vehicles throughout the metro area enabling rapid response for consultations, inspections, and emergency repairs. Whether you're located in historic downtown neighborhoods with Spanish Colonial architecture, foothills communities with luxury custom homes, or growing suburban areas with contemporary Southwest designs, our experienced tile roofing crews serve your area with the same commitment to quality and service excellence that has earned us over 23,000 five-star reviews. Contact us today for tile roofing service anywhere in Southern Arizona—we're your local tile roofing experts with the experience, expertise, and commitment to quality you deserve."
       },
       {
             "type": "cta",
             "heading": "Ready for Premium Tile Roofing in Tucson?",
-            "content": "Get expert tile roof installation, repair, or restoration from Tucson's most trusted roofing contractor. over 46 years experience, 22,000+ five-star reviews, comprehensive warranties. Schedule your free consultation and estimate today.",
+            "content": "Get expert tile roof installation, repair, or restoration from Tucson's most trusted roofing contractor. over 46 years experience, 23,000+ five-star reviews, comprehensive warranties. Schedule your free consultation and estimate today.",
             "buttonText": "Get Free Estimate",
             "buttonLink": "#schedule"
       }

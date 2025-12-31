@@ -152,7 +152,7 @@ export default function DrainClearingSpecialPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Why Choose Intelligent Design?</h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Tucson's trusted plumbing experts with 22,000+ five-star reviews
+                Tucson's trusted plumbing experts with 23,000+ five-star reviews
               </p>
             </div>
 
@@ -161,7 +161,7 @@ export default function DrainClearingSpecialPage() {
                 { icon: Droplets, title: "Expert Plumbers", description: "Licensed, background-checked technicians with years of experience" },
                 { icon: Clock, title: "Fast Service", description: "Same-day service available, we work around your schedule" },
                 { icon: Shield, title: "Guaranteed Work", description: "100% satisfaction guaranteed on all drain clearing services" },
-                { icon: Award, title: "22,000+ Reviews", description: "Trusted by thousands of Tucson homeowners" },
+                { icon: Award, title: "23,000+ Reviews", description: "Trusted by thousands of Tucson homeowners" },
                 { icon: DollarSign, title: "Upfront Pricing", description: "No hidden fees, no surprises - just honest pricing" },
                 { icon: Phone, title: "24/7 Available", description: "Emergency drain service when you need it most" },
               ].map((item, index) => (

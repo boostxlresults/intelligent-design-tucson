@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const catalinafoothillsData: LocationPageData = {
   // SEO & Meta
   title: 'Premium HVAC, Plumbing & Solar Services in Catalina Foothills, AZ',
-  description: 'Luxury home services in Catalina Foothills. Serving zip codes 85718, 85750, 85749 with expert HVAC, plumbing, solar, electrical & roofing. 24/7 emergency service. BBB A+ rated with 22,000+ reviews.',
+  description: 'Luxury home services in Catalina Foothills. Serving zip codes 85718, 85750, 85749 with expert HVAC, plumbing, solar, electrical & roofing. 24/7 emergency service. BBB A+ rated with 23,000+ reviews.',
   slug: 'catalina-foothills',
   
   // Hero Section
@@ -74,7 +74,7 @@ export const catalinafoothillsData: LocationPageData = {
       "description": "Family and veteran-owned with 46+ years serving Tucson with integrity and expertise."
     },
     {
-      "title": "22,000+ Five-Star Reviews",
+      "title": "23,000+ Five-Star Reviews",
       "description": "Tucson\'s highest-rated home services company with verified customer satisfaction."
     },
     {
@@ -169,11 +169,11 @@ export const catalinafoothillsData: LocationPageData = {
       },
       {
             "type": "list",
-            "content": "Luxury Home Expertise: We specialize in serving high-end properties with advanced HVAC systems, premium fixtures, and sophisticated home automation. Our technicians understand the unique requirements of luxury homes. | Professional Discretion: We provide discreet, professional service that respects your privacy and property. Our team is background-checked, fully insured, and trained to work in upscale environments. | Excellence & Reliability: With over 22,000 five-star reviews and BBB A+ rating, we've earned the trust of Tucson\'s most discerning homeowners through consistent excellence and superior service.",
+            "content": "Luxury Home Expertise: We specialize in serving high-end properties with advanced HVAC systems, premium fixtures, and sophisticated home automation. Our technicians understand the unique requirements of luxury homes. | Professional Discretion: We provide discreet, professional service that respects your privacy and property. Our team is background-checked, fully insured, and trained to work in upscale environments. | Excellence & Reliability: With over 23,000 five-star reviews and BBB A+ rating, we've earned the trust of Tucson\'s most discerning homeowners through consistent excellence and superior service.",
             "items": [
                   "Luxury Home Expertise: We specialize in serving high-end properties with advanced HVAC systems, premium fixtures, and sophisticated home automation. Our technicians understand the unique requirements of luxury homes.",
                   "Professional Discretion: We provide discreet, professional service that respects your privacy and property. Our team is background-checked, fully insured, and trained to work in upscale environments.",
-                  "Excellence & Reliability: With over 22,000 five-star reviews and BBB A+ rating, we've earned the trust of Tucson\'s most discerning homeowners through consistent excellence and superior service."
+                  "Excellence & Reliability: With over 23,000 five-star reviews and BBB A+ rating, we've earned the trust of Tucson\'s most discerning homeowners through consistent excellence and superior service."
     ]
   },
 ]

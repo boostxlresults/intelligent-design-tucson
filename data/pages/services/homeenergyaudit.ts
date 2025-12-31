@@ -48,7 +48,7 @@ export const homeenergyauditData: ServicePageData = {
   },
   {
     "title": "46+ years Tucson Expertise",
-    "description": "Family & veteran-owned | 22,000+ reviews | Desert climate specialists | Trusted since 1979"
+    "description": "Family & veteran-owned | 23,000+ reviews | Desert climate specialists | Trusted since 1979"
   },
   {
     "title": "Complete Solutions Provider",
@@ -82,7 +82,7 @@ export const homeenergyauditData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 22,000+ verified reviews—the highest-rated energy efficiency and [link:/services/hvac-tucson|HVAC] company in Southern Arizona. We've been the #1 rated home energy audit provider in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest assessments, verified results through documented testing, and customer satisfaction has made us the most-referred energy audit provider in Pima County. When you're investing in efficiency improvements that will save thousands of dollars over your home's lifetime, you're choosing the company your neighbors trust for family-owned, veteran-operated service with industry-leading expertise and guaranteed results."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated energy efficiency and [link:/services/hvac-tucson|HVAC] company in Southern Arizona. We've been the #1 rated home energy audit provider in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest assessments, verified results through documented testing, and customer satisfaction has made us the most-referred energy audit provider in Pima County. When you're investing in efficiency improvements that will save thousands of dollars over your home's lifetime, you're choosing the company your neighbors trust for family-owned, veteran-operated service with industry-leading expertise and guaranteed results."
       },
       {
             "type": "paragraph",
@@ -96,7 +96,7 @@ export const homeenergyauditData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "✓ Advanced diagnostic equipment including thermal imaging and blower door testing | ✓ Certified energy auditors with 15+ years desert climate experience | ✓ Comprehensive duct leakage testing identifying 20-40% energy waste | ✓ Solar readiness evaluation and system sizing recommendations | ✓ Detailed written reports with prioritized improvements and ROI analysis | ✓ Complete implementation services from HVAC to solar | ✓ Same-day scheduling and next-day appointments available | ✓ Family and veteran-owned since 1979 | ✓ 22,000+ five-star reviews and BBB A+ rating",
+            "content": "✓ Advanced diagnostic equipment including thermal imaging and blower door testing | ✓ Certified energy auditors with 15+ years desert climate experience | ✓ Comprehensive duct leakage testing identifying 20-40% energy waste | ✓ Solar readiness evaluation and system sizing recommendations | ✓ Detailed written reports with prioritized improvements and ROI analysis | ✓ Complete implementation services from HVAC to solar | ✓ Same-day scheduling and next-day appointments available | ✓ Family and veteran-owned since 1979 | ✓ 23,000+ five-star reviews and BBB A+ rating",
             "items": [
                   "✓ Advanced diagnostic equipment including thermal imaging and blower door testing",
                   "✓ Certified energy auditors with 15+ years desert climate experience",
@@ -106,7 +106,7 @@ export const homeenergyauditData: ServicePageData = {
                   "✓ Complete implementation services from HVAC to solar",
                   "✓ Same-day scheduling and next-day appointments available",
                   "✓ Family and veteran-owned since 1979",
-                  "✓ 22,000+ five-star reviews and BBB A+ rating"
+                  "✓ 23,000+ five-star reviews and BBB A+ rating"
             ]
       },
       {
@@ -590,7 +590,7 @@ export const homeenergyauditData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our 4.97-star Google rating from over 22,000 verified reviews represents real customer experiences and satisfaction—the highest rating of any HVAC and energy efficiency company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and earned Best of Tucson awards for 6 consecutive years (2019-2024). This track record demonstrates consistent delivery of quality service, honest communication, and reliable results that keep customers satisfied long after projects are completed. When investing in efficiency improvements that will impact your home for decades, you're choosing the company your neighbors trust."
+            "content": "Our 4.97-star Google rating from over 23,000 verified reviews represents real customer experiences and satisfaction—the highest rating of any HVAC and energy efficiency company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and earned Best of Tucson awards for 6 consecutive years (2019-2024). This track record demonstrates consistent delivery of quality service, honest communication, and reliable results that keep customers satisfied long after projects are completed. When investing in efficiency improvements that will impact your home for decades, you're choosing the company your neighbors trust."
       },
       {
             "type": "heading",

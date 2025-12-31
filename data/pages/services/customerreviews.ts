@@ -8,12 +8,12 @@ import { customerReviewsFAQs } from '@/data/faqs/general';
 export const customerreviewsData: ServicePageData = {
   // SEO & Meta
   title: 'Customer Reviews',
-  description: 'Read 22,000+ five-star reviews from Tucson families who trust Intelligent Design for HVAC, plumbing, electrical, solar & roofing. BBB A+ rated since 1979. See why we',
+  description: 'Read 23,000+ five-star reviews from Tucson families who trust Intelligent Design for HVAC, plumbing, electrical, solar & roofing. BBB A+ rated since 1979. See why we',
   slug: 'customer-reviews',
   
   // Hero Section
   h1: "Customer Reviews",
-  h2Subheading: "Over 22,000 Five-Star Reviews",
+  h2Subheading: "Over 23,000 Five-Star Reviews",
   tagline: "Tucson's Most Reviewed & Highest-Rated Home Services Company Since 1979",
   heroImage: "/generated_images/five-star_customer_reviews_and_testimonials_df17abb2.webp",
   heroImageAlt: "Customer Reviews in Tucson",
@@ -35,7 +35,7 @@ export const customerreviewsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With over 22,000 verified five-star reviews across multiple platforms, Intelligent Design has earned the trust of Tucson families for 46+ years. Our commitment to quality service, transparent pricing, and customer satisfaction is reflected in every review."
+            "content": "With over 23,000 verified five-star reviews across multiple platforms, Intelligent Design has earned the trust of Tucson families for 46+ years. Our commitment to quality service, transparent pricing, and customer satisfaction is reflected in every review."
       },
       {
             "type": "paragraph",
@@ -129,7 +129,7 @@ export const customerreviewsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "22,000+ five-star reviews demonstrate consistent, reliable service quality."
+            "content": "23,000+ five-star reviews demonstrate consistent, reliable service quality."
       },
       {
             "type": "heading",
