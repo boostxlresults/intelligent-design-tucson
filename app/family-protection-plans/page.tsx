@@ -25,7 +25,9 @@ const planSchema = {
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "USD",
-    "offerCount": "7"
+    "lowPrice": "9.99",
+    "highPrice": "49.99",
+    "offerCount": 7
   }
 };
 
