@@ -25,6 +25,16 @@ const categoryIcons: Record<string, typeof Thermometer> = {
   'home-tips': Lightbulb,
 };
 
+// Default hero images for each category when specific post image is missing
+const categoryDefaultImages: Record<string, string> = {
+  'hvac': '/generated_images/ac_maintenance_expert_tips.png',
+  'plumbing': '/generated_images/choosing_right_plumber.png',
+  'solar': '/generated_images/choosing_solar_installer_steps.png',
+  'electrical': '/generated_images/electrical_panel_upgrade.png',
+  'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
+  'home-tips': '/generated_images/home_energy_audit.png',
+};
+
 // Check if an image file exists in the public directory
 async function imageExists(imagePath: string | undefined): Promise<boolean> {
   if (!imagePath) return false;
@@ -201,6 +211,19 @@ export default async function BlogPostPage({
                   sizes="100vw"
                   className="object-cover"
                   data-testid="img-blog-hero"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
+              </>
+            ) : categoryDefaultImages[category] ? (
+              <>
+                <Image
+                  src={categoryDefaultImages[category]}
+                  alt={`${categoryName} article`}
+                  fill
+                  priority
+                  sizes="100vw"
+                  className="object-cover opacity-90"
+                  data-testid="img-blog-hero-default"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
               </>

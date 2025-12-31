@@ -19,6 +19,16 @@ const categoryIcons = {
   'home-tips': Lightbulb,
 };
 
+// Default hero images for each category when specific post image is missing
+const categoryDefaultImages: Record<string, string> = {
+  'hvac': '/generated_images/ac_maintenance_expert_tips.png',
+  'plumbing': '/generated_images/choosing_right_plumber.png',
+  'solar': '/generated_images/choosing_solar_installer_steps.png',
+  'electrical': '/generated_images/electrical_panel_upgrade.png',
+  'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
+  'home-tips': '/generated_images/home_energy_audit.png',
+};
+
 const categories = [
   {
     slug: 'hvac',
@@ -256,6 +266,13 @@ export default async function BlogIndexPage() {
                               alt={post.title}
                               className="w-full h-full object-cover"
                               data-testid={`img-hero-${post.slug}`}
+                            />
+                          ) : categoryDefaultImages[post.category] ? (
+                            <img
+                              src={categoryDefaultImages[post.category]}
+                              alt={`${categories.find(c => c.slug === post.category)?.name || post.category} article`}
+                              className="w-full h-full object-cover opacity-90"
+                              data-testid={`img-hero-default-${post.slug}`}
                             />
                           ) : (
                             <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useCallback } from 'react';
+import { useEffect, useCallback, useRef } from 'react';
 import { usePathname } from 'next/navigation';
 
 interface PulseMWidgetProps {
@@ -13,8 +13,9 @@ export default function PulseMWidget({
   className = ''
 }: PulseMWidgetProps) {
   const pathname = usePathname();
+  const observerRef = useRef<MutationObserver | null>(null);
 
-  // Cleanup function to remove all PulseM elements
+  // Aggressive cleanup function to remove all PulseM elements
   const cleanupPulseM = useCallback(() => {
     // Clear the container
     const container = document.getElementById(containerId);
@@ -22,54 +23,120 @@ export default function PulseMWidget({
       container.innerHTML = '';
     }
 
-    // Remove the script to prevent it from running on other pages
+    // Remove the main script
     const scriptEl = document.getElementById('pulsem-embed-gsd');
     if (scriptEl) {
       scriptEl.remove();
     }
+    
+    // Remove the widget script
+    const widgetScript = document.getElementById('pulsem-embed-widget-review');
+    if (widgetScript) {
+      widgetScript.remove();
+    }
 
-    // Remove any PulseM/Speetra elements that may have been added to body
-    const pulsemElements = document.querySelectorAll('[id*="pulsem"], [class*="pulsem"], [id*="speetra"], [class*="speetra"], [data-pulsem], [class*="gsd-"]');
-    pulsemElements.forEach(el => el.remove());
+    // Remove any PulseM/Speetra scripts and elements
+    document.querySelectorAll('script[src*="speetra"], script[src*="pulsem"]').forEach(el => el.remove());
+    document.querySelectorAll('[id*="pulsem"], [class*="pulsem"], [id*="speetra"], [class*="speetra"], [data-pulsem], [class*="gsd-"]').forEach(el => el.remove());
+    document.querySelectorAll('iframe[src*="speetra"], iframe[src*="pulsem"]').forEach(el => el.remove());
 
-    // Also check for any iframes or floating widgets PulseM might create
-    const floatingWidgets = document.querySelectorAll('iframe[src*="speetra"], iframe[src*="pulsem"]');
-    floatingWidgets.forEach(el => el.remove());
-
-    // Remove any fixed-position buttons or divs that might be the floating badge
-    // Target the specific "23K Reviews" floating button
-    const allButtons = document.querySelectorAll('button');
-    allButtons.forEach(btn => {
-      const text = btn.textContent || '';
-      if (text.includes('23K') || (text.includes('Reviews') && btn.style.position === 'fixed')) {
-        btn.remove();
-      }
-    });
-
-    // Remove any fixed elements containing review-related text
-    const allElements = document.querySelectorAll('*');
-    allElements.forEach(el => {
+    // Remove any fixed-position elements with review-related content
+    document.querySelectorAll('*').forEach(el => {
       const htmlEl = el as HTMLElement;
-      const computedStyle = window.getComputedStyle(htmlEl);
-      if (computedStyle.position === 'fixed') {
-        const text = htmlEl.textContent || '';
-        // Check if this is the PulseM floating badge (23K Reviews)
-        if (text.includes('23K') && text.includes('Reviews')) {
-          htmlEl.remove();
+      try {
+        const computedStyle = window.getComputedStyle(htmlEl);
+        if (computedStyle.position === 'fixed') {
+          const text = htmlEl.textContent || '';
+          const innerHTML = htmlEl.innerHTML || '';
+          // Check for PulseM floating badge indicators
+          if (
+            (text.includes('23K') && text.includes('Review')) ||
+            (text.includes('23000') && text.includes('Review')) ||
+            innerHTML.includes('pulsem') ||
+            innerHTML.includes('speetra') ||
+            htmlEl.id.includes('pulsem') ||
+            htmlEl.id.includes('speetra') ||
+            htmlEl.className.includes('pulsem') ||
+            htmlEl.className.includes('speetra')
+          ) {
+            htmlEl.remove();
+          }
         }
+      } catch {
+        // Ignore errors from getComputedStyle
       }
     });
   }, [containerId]);
 
-  // Load script effect
-  useEffect(() => {
-    // Only load on customer-reviews page
-    if (pathname !== '/customer-reviews') {
-      cleanupPulseM();
-      return;
+  // Start a MutationObserver to continuously remove PulseM elements on non-reviews pages
+  const startObserver = useCallback(() => {
+    if (observerRef.current) {
+      observerRef.current.disconnect();
     }
 
-    // Only load the script when on the customer-reviews page
+    observerRef.current = new MutationObserver((mutations) => {
+      let needsCleanup = false;
+      for (const mutation of mutations) {
+        for (const node of Array.from(mutation.addedNodes)) {
+          if (node instanceof HTMLElement) {
+            const id = node.id || '';
+            const className = node.className || '';
+            const innerHTML = node.innerHTML || '';
+            if (
+              id.includes('pulsem') ||
+              id.includes('speetra') ||
+              (typeof className === 'string' && (className.includes('pulsem') || className.includes('speetra'))) ||
+              innerHTML.includes('pulsem') ||
+              innerHTML.includes('speetra') ||
+              innerHTML.includes('23K')
+            ) {
+              needsCleanup = true;
+              break;
+            }
+          }
+        }
+        if (needsCleanup) break;
+      }
+      if (needsCleanup) {
+        cleanupPulseM();
+      }
+    });
+
+    observerRef.current.observe(document.body, {
+      childList: true,
+      subtree: true,
+    });
+  }, [cleanupPulseM]);
+
+  const stopObserver = useCallback(() => {
+    if (observerRef.current) {
+      observerRef.current.disconnect();
+      observerRef.current = null;
+    }
+  }, []);
+
+  // Main effect for loading/cleanup based on pathname
+  useEffect(() => {
+    // Not on customer-reviews page - cleanup and start observer
+    if (pathname !== '/customer-reviews') {
+      cleanupPulseM();
+      startObserver();
+      
+      // Run cleanup periodically for the first few seconds after navigation
+      const intervals = [100, 500, 1000, 2000, 3000];
+      const timeouts = intervals.map(delay => 
+        setTimeout(cleanupPulseM, delay)
+      );
+      
+      return () => {
+        timeouts.forEach(clearTimeout);
+        stopObserver();
+      };
+    }
+
+    // On customer-reviews page - load the widget
+    stopObserver();
+    
     const existingScript = document.getElementById('pulsem-embed-gsd');
     
     if (!existingScript) {
@@ -81,11 +148,11 @@ export default function PulseMWidget({
       document.body.appendChild(script);
     }
 
-    // Cleanup on unmount or pathname change
+    // Cleanup on unmount
     return () => {
       cleanupPulseM();
     };
-  }, [pathname, cleanupPulseM]);
+  }, [pathname, cleanupPulseM, startObserver, stopObserver]);
 
   // Don't render anything if not on customer-reviews page
   if (pathname !== '/customer-reviews') {
