@@ -60,8 +60,22 @@ interface BlogPostSummary {
   publishedAt: string;
   readingTime: number;
   heroImage?: string;
+  heroImageExists: boolean;
   tags?: string[];
   excerpt?: string;
+}
+
+// Check if an image file exists in the public directory
+async function imageExists(imagePath: string | undefined): Promise<boolean> {
+  if (!imagePath) return false;
+  try {
+    // Remove leading slash for file path
+    const filePath = path.join(process.cwd(), 'public', imagePath.replace(/^\//, ''));
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
@@ -86,6 +100,9 @@ async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
             const words = content.trim().split(/\s+/).length;
             const readingTime = Math.ceil(words / wordsPerMinute);
             
+            // Check if hero image actually exists
+            const heroImageExists = await imageExists(data.heroImage);
+            
             return {
               slug: file.replace('.md', ''),
               category: category.slug,
@@ -94,6 +111,7 @@ async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
               publishedAt: data.publishedAt || data.date || new Date().toISOString(),
               readingTime,
               heroImage: data.heroImage,
+              heroImageExists,
               tags: data.tags || [],
               excerpt: data.excerpt || data.description,
             };
@@ -222,6 +240,8 @@ export default async function BlogIndexPage() {
                   
                   const categoryName = categories.find(c => c.slug === post.category)?.name || post.category;
                   
+                  const CategoryIcon = categoryIcons[post.category as keyof typeof categoryIcons] || Lightbulb;
+                  
                   return (
                     <Card
                       key={`${post.category}-${post.slug}`}
@@ -229,16 +249,20 @@ export default async function BlogIndexPage() {
                       data-testid={`card-post-${post.slug}`}
                     >
                       <Link href={`/blog/${post.category}/${post.slug}`} className="flex flex-col h-full">
-                        {post.heroImage && (
-                          <div className="aspect-video bg-muted overflow-hidden">
+                        <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 overflow-hidden relative">
+                          {post.heroImage && post.heroImageExists ? (
                             <img
                               src={post.heroImage}
                               alt={post.title}
                               className="w-full h-full object-cover"
                               data-testid={`img-hero-${post.slug}`}
                             />
-                          </div>
-                        )}
+                          ) : (
+                            <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
+                              <CategoryIcon className="w-16 h-16 text-primary/40" />
+                            </div>
+                          )}
+                        </div>
                         
                         <div className="p-6 flex flex-col flex-1">
                           <div className="mb-3">

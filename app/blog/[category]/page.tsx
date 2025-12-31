@@ -1,13 +1,23 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { Calendar, Clock, ChevronRight } from 'lucide-react';
+import { Calendar, Clock, ChevronRight, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { promises as fs } from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+
+// Category icons for fallback display
+const categoryIcons: Record<string, typeof Thermometer> = {
+  'hvac': Thermometer,
+  'plumbing': Droplets,
+  'solar': Sun,
+  'electrical': Zap,
+  'roofing': HomeIcon,
+  'home-tips': Lightbulb,
+};
 
 // Category name mapping
 const categoryNames: Record<string, string> = {
@@ -35,8 +45,21 @@ interface BlogPostSummary {
   publishedAt: string;
   readingTime: number;
   heroImage?: string;
+  heroImageExists: boolean;
   tags?: string[];
   excerpt?: string;
+}
+
+// Check if an image file exists in the public directory
+async function imageExists(imagePath: string | undefined): Promise<boolean> {
+  if (!imagePath) return false;
+  try {
+    const filePath = path.join(process.cwd(), 'public', imagePath.replace(/^\//, ''));
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 // Generate static params for all blog categories
@@ -63,6 +86,9 @@ async function getCategoryPosts(category: string): Promise<BlogPostSummary[]> {
         const words = content.trim().split(/\s+/).length;
         const readingTime = Math.ceil(words / wordsPerMinute);
         
+        // Check if hero image actually exists
+        const heroImageExists = await imageExists(data.heroImage);
+        
         return {
           slug: file.replace('.md', ''),
           title: data.title || 'Untitled',
@@ -70,6 +96,7 @@ async function getCategoryPosts(category: string): Promise<BlogPostSummary[]> {
           publishedAt: data.publishedAt || data.date || new Date().toISOString(),
           readingTime,
           heroImage: data.heroImage,
+          heroImageExists,
           tags: data.tags || [],
           excerpt: data.excerpt || data.description,
         };
@@ -185,20 +212,25 @@ export default async function BlogCategoryPage({
                   month: 'long',
                   day: 'numeric',
                 });
+                const CategoryIcon = categoryIcons[category] || Lightbulb;
                 return (
                   <Link href={`/blog/${category}/${featuredPost.slug}`} className="block group">
                     <Card className="hover-elevate overflow-hidden" data-testid="card-featured-post">
                       <div className="grid md:grid-cols-2 gap-0">
-                        {featuredPost.heroImage && (
-                          <div className="aspect-video md:aspect-auto md:h-full bg-muted overflow-hidden">
+                        <div className="aspect-video md:aspect-auto md:h-full bg-gradient-to-br from-primary/10 to-primary/5 overflow-hidden">
+                          {featuredPost.heroImage && featuredPost.heroImageExists ? (
                             <img
                               src={featuredPost.heroImage}
                               alt={featuredPost.title}
                               className="w-full h-full object-cover"
                               data-testid="img-featured-hero"
                             />
-                          </div>
-                        )}
+                          ) : (
+                            <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
+                              <CategoryIcon className="w-24 h-24 text-primary/40" />
+                            </div>
+                          )}
+                        </div>
                         <div className="p-6 md:p-8 flex flex-col justify-center">
                           <div className="inline-block mb-3">
                             <span className="bg-primary text-primary-foreground text-xs font-semibold px-3 py-1 rounded-full">
@@ -260,6 +292,7 @@ export default async function BlogCategoryPage({
                     month: 'long',
                     day: 'numeric',
                   });
+                  const CategoryIcon = categoryIcons[category] || Lightbulb;
                   
                   return (
                     <Card
@@ -268,16 +301,20 @@ export default async function BlogCategoryPage({
                       data-testid={`card-post-${post.slug}`}
                     >
                       <Link href={`/blog/${category}/${post.slug}`} className="flex flex-col h-full">
-                        {post.heroImage && (
-                          <div className="aspect-video bg-muted overflow-hidden">
+                        <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 overflow-hidden">
+                          {post.heroImage && post.heroImageExists ? (
                             <img
                               src={post.heroImage}
                               alt={post.title}
                               className="w-full h-full object-cover"
                               data-testid={`img-hero-${post.slug}`}
                             />
-                          </div>
-                        )}
+                          ) : (
+                            <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
+                              <CategoryIcon className="w-16 h-16 text-primary/40" />
+                            </div>
+                          )}
+                        </div>
                         
                         <div className="p-6 flex flex-col flex-1">
                           <div className="flex items-center gap-3 text-sm text-muted-foreground mb-3">
