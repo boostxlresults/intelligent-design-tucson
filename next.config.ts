@@ -20,6 +20,15 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   output: "standalone",
   allowedDevOrigins: ["*.replit.dev", "*.kirk.replit.dev"],
+  outputFileTracingExcludes: {
+    "*": [
+      "./public/generated_images/**",
+      "./public/content/**",
+      "./attached_assets/**",
+      "./node_modules/@swc/**",
+      "./node_modules/sharp/**",
+    ],
+  },
 };
 
 export default nextConfig;

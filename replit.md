@@ -48,7 +48,8 @@ Preferred communication style: Simple, everyday language.
 - **FAQ Components:** `ServiceFAQ` (centralized system with JSON-LD schema) and `CommonQuestions` (conversational Q&A for AI search optimization) are deployed across service pages.
 - **Cross-Page Conversion CTAs:** Strategic CTA buttons linking service pages to Contractor Commerce quote tools.
 - **Location + Service Matrix:** Architecture covering 7 core services across 20 service areas for maximum local SEO, including location-specific content, zip code integration, schema markup, and conversion-focused CTAs.
-- **Blog System:** Automated WordPress scraping, markdown-based content, AI-generated hero images, and SEO-optimized frontmatter.
+- **Blog System:** Automated WordPress scraping, markdown-based content, AI-generated hero images, and SEO-optimized frontmatter. Blog pages include graceful fallback for missing hero images (category-specific icons with gradient backgrounds). The `imageExists()` helper checks if image files exist at build time.
+- **Vercel Bundle Optimization:** `outputFileTracingExcludes` in next.config.ts excludes large directories (public/generated_images, public/content, attached_assets) from serverless function bundles to stay under Vercel's 300MB limit.
 - **Resource Pages:** Dedicated informational pages including R22 Phaseout guide, Video Education Library, Air Conditioning System FAQs, Knowledge Hub, Video Testimonials, and Customer Reviews pages.
 - **Contractor Commerce Integration Pages:** Three interactive quote/shopping pages powered by Contractor Commerce plugin: Free Online HVAC Quote, Free Online Water Heater Quote, and Filter Shop.
 - **Promotional Offer Pages:** New Homebuyer Offer, REALTORS® Offer, and $28.88 Drain Clearing Special (with dedicated component).
