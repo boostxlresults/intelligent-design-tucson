@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Phone, Clock, Calendar, ChevronRight, User } from "lucide-react";
+import { Phone, Clock, Calendar, ChevronRight, User, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
@@ -14,6 +14,28 @@ import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBrea
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { promises as fs } from 'fs';
 import path from 'path';
+
+// Category icons for fallback display
+const categoryIcons: Record<string, typeof Thermometer> = {
+  'hvac': Thermometer,
+  'plumbing': Droplets,
+  'solar': Sun,
+  'electrical': Zap,
+  'roofing': HomeIcon,
+  'home-tips': Lightbulb,
+};
+
+// Check if an image file exists in the public directory
+async function imageExists(imagePath: string | undefined): Promise<boolean> {
+  if (!imagePath) return false;
+  try {
+    const filePath = path.join(process.cwd(), 'public', imagePath.replace(/^\//, ''));
+    await fs.access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 // Category name mapping
 const categoryNames: Record<string, string> = {
@@ -115,6 +137,11 @@ export default async function BlogPostPage({
 
   const { frontmatter, htmlContent, readingTime, tableOfContents } = blogPost;
   
+  // Check if hero image exists
+  const normalizedHeroImage = normalizeHeroImagePath(frontmatter.heroImage);
+  const heroImageExists = await imageExists(normalizedHeroImage);
+  const CategoryIcon = categoryIcons[category] || Lightbulb;
+  
   // Convert tableOfContents to TOC items format
   const tocItems = tableOfContents.map(item => ({
     id: item.id,
@@ -163,20 +190,26 @@ export default async function BlogPostPage({
 
         <main className="flex-1">
           {/* Hero Image Section - Optimized for LCP */}
-          {normalizeHeroImagePath(frontmatter.heroImage) && (
-            <section className="relative h-64 md:h-80 lg:h-96 overflow-hidden">
-              <Image
-                src={normalizeHeroImagePath(frontmatter.heroImage)!}
-                alt={frontmatter.title}
-                fill
-                priority
-                sizes="100vw"
-                className="object-cover"
-                data-testid="img-blog-hero"
-              />
-              <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
-            </section>
-          )}
+          <section className="relative h-64 md:h-80 lg:h-96 overflow-hidden">
+            {normalizedHeroImage && heroImageExists ? (
+              <>
+                <Image
+                  src={normalizedHeroImage}
+                  alt={frontmatter.title}
+                  fill
+                  priority
+                  sizes="100vw"
+                  className="object-cover"
+                  data-testid="img-blog-hero"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-background via-background/20 to-transparent" />
+              </>
+            ) : (
+              <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
+                <CategoryIcon className="w-32 h-32 text-primary/40" />
+              </div>
+            )}
+          </section>
 
           {/* Breadcrumb Navigation */}
           <nav className="border-b border-border bg-card">
