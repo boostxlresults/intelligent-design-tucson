@@ -1,0 +1,34 @@
+13:27:14.445 Running build in Washington, D.C., USA (East) – iad1
+13:27:14.446 Build machine configuration: 4 cores, 8 GB
+13:27:16.207 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 04428b1)
+13:27:37.543 Cloning completed: 21.335s
+13:27:38.464 Restored build cache from previous deployment (GpXYea4pn43CiZJtJAkwxvd25d8r)
+13:27:39.814 Running "vercel build"
+13:27:40.276 Vercel CLI 50.1.3
+13:27:40.836 Installing dependencies...
+13:27:42.743 
+13:27:42.743 up to date in 2s
+13:27:42.744 
+13:27:42.744 176 packages are looking for funding
+13:27:42.744   run `npm fund` for details
+13:27:42.796 Detected Next.js version: 16.0.10
+13:27:42.796 Running "cp -r attached_assets public/attached_assets && next build"
+13:27:44.306    ▲ Next.js 16.0.10 (Turbopack)
+13:27:44.306 
+13:27:44.405    Creating an optimized production build ...
+13:28:03.258  ✓ Compiled successfully in 17.6s
+13:28:03.263    Running TypeScript ...
+13:28:20.461 Failed to compile.
+13:28:20.461 
+13:28:20.461 ./lib/redirects.ts:931:3
+13:28:20.461 Type error: An object literal cannot have multiple properties with the same name.
+13:28:20.461 
+13:28:20.461 [0m [90m 929 |[39m
+13:28:20.461  [90m 930 |[39m   [90m// Blog content redirects (root-level blog posts without /blog/ prefix)[39m
+13:28:20.461 [31m[1m>[22m[39m[90m 931 |[39m   [32m'/how-do-i-qualify-for-the-new-ac-unit-rebates'[39m[33m:[39m [32m'/blog/hvac'[39m[33m,[39m
+13:28:20.461  [90m     |[39m   [31m[1m^[22m[39m
+13:28:20.461  [90m 932 |[39m   [32m'/what-does-a-professional-ac-service-include-a-complete-checklist'[39m[33m:[39m [32m'/blog/hvac'[39m[33m,[39m
+13:28:20.461  [90m 933 |[39m   [32m'/how-solar-power-systems-can-benefit-commercial-property-owners'[39m[33m:[39m [32m'/blog/solar'[39m[33m,[39m
+13:28:20.462  [90m 934 |[39m   [32m'/how-often-should-i-schedule-air-conditioning-service'[39m[33m:[39m [32m'/blog/hvac'[39m[33m,[39m[0m
+13:28:20.523 Next.js build worker exited with code: 1 and signal: null
+13:28:20.565 Error: Command "cp -r attached_assets public/attached_assets && next build" exited with 1
