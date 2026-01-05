@@ -29,6 +29,34 @@ const nextConfig: NextConfig = {
       "./node_modules/sharp/**",
     ],
   },
+  // Tell search engines not to index Next.js static assets (JS/CSS chunks)
+  // This helps clean up "Crawled - Currently Not Indexed" reports in Google Search Console
+  async headers() {
+    return [
+      {
+        source: '/_next/:path*',
+        headers: [
+          {
+            key: 'X-Robots-Tag',
+            value: 'noindex, nofollow',
+          },
+        ],
+      },
+      {
+        source: '/_next/static/:path*',
+        headers: [
+          {
+            key: 'X-Robots-Tag',
+            value: 'noindex, nofollow',
+          },
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ];
+  },
 };
 
 export default nextConfig;

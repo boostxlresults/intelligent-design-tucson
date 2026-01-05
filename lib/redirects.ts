@@ -1155,6 +1155,11 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/drain-cleaning-solutions-that-actually-work': '/blog/plumbing/drain-cleaning-solutions-that-actually-work',
   '/blog/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
   '/blog/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t',
+
+  // ===== ADDITIONAL REDIRECTS FROM GSC "Crawled - Not Indexed" REPORT =====
+
+  // Solar pages with typos or old URL structures
+  '/solar-tucson/solar-installers-tuscon': '/services/residential-solar-installation',
 };
 
 /**
