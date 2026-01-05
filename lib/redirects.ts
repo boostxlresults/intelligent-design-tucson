@@ -1160,6 +1160,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // Solar pages with typos or old URL structures
   '/solar-tucson/solar-installers-tuscon': '/services/residential-solar-installation',
+
+  // Pages that were "Blocked by robots.txt" in old WordPress site
+  '/air-conditioning/solar-air-conditioner': '/services/ac-service-tucson',
+  '/plumber-tucson/plumbing-maintenance': '/services/plumbing-tucson',
 };
 
 /**
