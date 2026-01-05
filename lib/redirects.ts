@@ -924,6 +924,237 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // Resources/library pages (unique entries only)
   '/duct-cleaning': '/services/duct-cleaning-tucson',
+
+  // ===== ADDITIONAL LEGACY URL REDIRECTS (January 2026 - Batch 2) =====
+
+  // Blog content redirects (root-level blog posts without /blog/ prefix)
+  '/how-do-i-qualify-for-the-new-ac-unit-rebates': '/blog/hvac',
+  '/what-does-a-professional-ac-service-include-a-complete-checklist': '/blog/hvac',
+  '/how-solar-power-systems-can-benefit-commercial-property-owners': '/blog/solar',
+  '/how-often-should-i-schedule-air-conditioning-service': '/blog/hvac',
+  '/desert-shield-water-filtration-the-smart-choice-for-tucson-homes': '/blog/plumbing',
+  '/8-important-questions-to-ask-solar-panel-installers-before-hiring-them': '/blog/solar',
+  '/impact-of-indoor-air-quality-on-your-health-and-comfort': '/blog/hvac',
+  '/8-reasons-why-you-should-use-solar-power': '/blog/solar',
+  '/choosing-the-best-ac-repair-near-me-essential-tips-for-finding-reliable-service': '/blog/hvac',
+  '/why-did-hot-water-come-out-of-my-cold-water-tap': '/blog/plumbing',
+  '/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered': '/blog/hvac',
+  '/how-solar-power-systems-work-everything-you-need-to-know': '/blog/solar',
+  '/how-long-do-ac-units-last': '/blog/hvac/how-long-should-ac-last-in-arizona',
+  '/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficiency': '/blog/hvac',
+  '/why-hire-professionals-to-clean-air-conditioner': '/blog/hvac',
+  '/how-does-ac-work': '/blog/hvac/how-does-ac-work',
+  '/the-benefits-of-hiring-the-1-rated-best-solar-panel-installers-in-tucson': '/blog/solar',
+  '/what-should-i-expect-when-i-ask-for-an-hvac-estimate': '/blog/hvac',
+  '/does-turning-off-your-a-c-when-youre-not-home-actually-save-money': '/blog/hvac/does-turning-off-your-a-c-when-youre-not-home-actually-save-mo',
+  '/benefits-of-routine-air-conditioner-maintenance': '/blog/hvac',
+  '/permit-to-install-a-new-water-heater': '/blog/plumbing',
+  '/what-kind-of-air-conditioning-preventive-maintenance-do-i-need': '/blog/hvac',
+  '/intelligent-design-your-home-service-partner-in-rillito-arizona': '/service-areas/tucson',
+  '/how-repiping-can-improve-your-home-water-quality': '/blog/plumbing',
+  '/what-temperature-should-i-set-my-thermostat': '/blog/hvac',
+  '/the-best-types-of-air-conditioners-for-tucson-arizona': '/blog/hvac/the-best-types-of-air-conditioners-for-tucson-arizona',
+  '/why-every-home-needs-water-filtration-a-must-read-guide': '/blog/plumbing',
+  '/why-solar-energy-is-the-future': '/blog/solar',
+  '/can-you-lower-your-ac-costs-with-suntrac-air-conditioning-systems': '/blog/hvac',
+  '/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer': '/blog/hvac',
+  '/how-long-should-ac-last-in-arizona': '/blog/hvac/how-long-should-ac-last-in-arizona',
+  '/cost-of-ac-installation-in-tucson': '/blog/hvac',
+  '/everything-you-need-to-know-about-advanced-hvac-solutions': '/blog/hvac',
+  '/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money': '/blog/hvac',
+  '/how-solar-panel-installers-can-benefit-homeowners': '/blog/solar',
+  '/what-does-a-professional-ac-service-include-a-complete-checklist': '/blog/hvac',
+
+  // Drain/Sewer location pages (no hyphen format)
+  '/drainsewer-tucson': '/services/drain-sewer-tucson',
+  '/drainsewer-saddlebrookecatalina': '/services/drain-clearing-saddle-brooke-catalina',
+  '/drainsewer-cortaro': '/services/drain-clearing-cortaro',
+  '/drainsewer-ritaranch': '/services/drain-clearing-rita-ranch',
+  '/drainsewer-catalinafoothills': '/services/drain-clearing-catalina-foothills',
+  '/drainsewer-drexelheights': '/services/drain-clearing-drexel-heights',
+  '/drainsewer-greenvalley': '/services/drain-clearing-green-valley',
+  '/drainsewer-casasadobes': '/services/drain-clearing-casas-adobes',
+  '/drainsewer-picturerocks': '/services/drain-clearing-picture-rocks',
+  '/drainsewer-redrockcasagrande': '/services/drain-clearing-red-rock-casa-grande',
+  '/drainsewer-vail': '/services/drain-clearing-vail',
+  '/drainsewer-rillito': '/services/drain-clearing-rillito',
+  '/drainsewer-marana': '/services/drain-clearing-marana',
+
+  // Solar installation location pages (no hyphen format)
+  '/solarinstallation-tucson': '/services/residential-solar-installation',
+  '/solarinstallation-catalinafoothills': '/services/solar-installation-catalina-foothills',
+  '/solarinstallation-saddlebrookecatalina': '/services/solar-installation-saddle-brooke-catalina',
+  '/solarinstallation-greenvalley': '/services/solar-installation-green-valley',
+  '/solarinstallation-picturerocks': '/services/solar-installation-picture-rocks',
+  '/solarinstallation-marana': '/services/solar-installation-marana',
+  '/solarinstallation-sahuarita': '/services/solar-installation-sahuarita',
+  '/solarinstallation-ritaranch': '/services/solar-installation-rita-ranch',
+  '/solarinstallation-orovalley': '/services/solar-installation-oro-valley',
+  '/solarinstallation-redrockcasagrande': '/services/solar-installation-red-rock-casa-grande',
+  '/solarinstallation-drexelheights': '/services/solar-installation-drexel-heights',
+  '/solarinstallation-easttucson': '/services/solar-installation-east-tucson',
+  '/solarinstallation-vail': '/services/solar-installation-vail',
+  '/solarinstallation-gladdenfarms': '/services/solar-installation-gladden-farms',
+  '/solarinstallation-avravalley': '/services/solar-installation-avra-valley',
+  '/solarinstallation-casasadobes': '/services/solar-installation-casas-adobes',
+  '/solarinstallation-cortaro': '/services/solar-installation-cortaro',
+
+  // Heating location pages (no hyphen format)
+  '/heating-gladdenfarms': '/services/heating-gladden-farms',
+  '/heating-avravalley': '/services/heating-avra-valley',
+  '/heating-orovalley': '/services/heating-oro-valley',
+  '/heating-greenvalley': '/services/heating-green-valley',
+  '/heating-saddlebrookecatalina': '/services/heating-saddle-brooke-catalina',
+  '/heating-tanqueverde': '/services/heating-tanque-verde',
+  '/heating-catalinafoothills': '/services/heating-catalina-foothills',
+  '/heating-coronadetucson': '/services/heating-corona-de-tucson',
+
+  // HVAC location pages (no hyphen format)
+  '/hvac-saddlebrookecatalina': '/services/hvac-saddle-brooke-catalina',
+  '/hvac-coronadetucson': '/services/hvac-corona-de-tucson',
+  '/hvac-drexelheights': '/services/hvac-drexel-heights',
+  '/hvac-gladdenfarms': '/services/hvac-gladden-farms',
+  '/hvac-easttucson': '/services/hvac-east-tucson',
+  '/hvac-casasadobes': '/services/hvac-casas-adobes',
+  '/hvac-catalinafoothills': '/services/hvac-catalina-foothills',
+
+  // Plumbing location pages (no hyphen format)
+  '/plumbing-drexelheights': '/services/plumbing-drexel-heights',
+  '/plumbing-coronadetucson': '/services/plumbing-corona-de-tucson',
+  '/plumbing-tanqueverde': '/services/plumbing-tanque-verde',
+  '/plumbing-orovalley': '/services/plumbing-oro-valley',
+  '/plumbing-saddlebrookecatalina': '/services/plumbing-saddle-brooke-catalina',
+  '/plumbing-gladdenfarms': '/services/plumbing-gladden-farms',
+
+  // Roofing location pages (no hyphen format)
+  '/roofing-easttucson': '/services/roofing-east-tucson',
+  '/roofing-greenvalley': '/services/roofing-green-valley',
+  '/roofing-avravalley': '/services/roofing-avra-valley',
+  '/roofing-gladdenfarms': '/services/roofing-gladden-farms',
+  '/roofing-redrockcasagrande': '/services/roofing-red-rock-casa-grande',
+  '/roofing-orovalley': '/services/roofing-oro-valley',
+  '/roofing-drexelheights': '/services/roofing-drexel-heights',
+  '/roofing-saddlebrookecatalina': '/services/roofing-saddle-brooke-catalina',
+  '/roofing-coronadetucson': '/services/roofing-corona-de-tucson',
+
+  // Electrical location pages (no hyphen format)
+  '/electrical-avravalley': '/services/electrical-avra-valley',
+  '/electrical-tanqueverde': '/services/electrical-tanque-verde',
+  '/electrical-gladdenfarms': '/services/electrical-gladden-farms',
+  '/electrical-coronadetucson': '/services/electrical-corona-de-tucson',
+  '/electrical-drexelheights': '/services/electrical-drexel-heights',
+  '/electrical-orovalley': '/services/electrical-oro-valley',
+
+  // /electrical/ nested paths
+  '/electrical/electrical-repairs-tucson': '/services/electrical-repair',
+  '/electrical/electrical-repairs': '/services/electrical-repair',
+  '/electrical/lighting-upgrades-tucson': '/services/lighting-upgrades',
+  '/electrical/lighting-upgrades': '/services/lighting-upgrades',
+  '/electrical/panel-upgrades-tucson': '/services/electrical-panel-upgrades',
+  '/electrical/ceiling-fan-installation': '/services/ceiling-fan-installation',
+  '/electrical/circuit-breakers': '/services/electrical-panel-upgrades',
+  '/electrical/outlets-switches': '/services/outlets-switches',
+
+  // /air-conditioning/ nested paths
+  '/air-conditioning/ductless-mini-split-ac-repair-installation-tucson': '/services/ductless-repair-tucson',
+  '/air-conditioning/improve-indoor-air-quality': '/services/indoor-air-quality-tucson',
+  '/air-conditioning/r22-phaseout': '/resources/r22-phaseout',
+
+  // /heating/ nested paths
+  '/heating/heat-pumps': '/services/heat-pumps',
+  '/heating/heater-tune-up': '/services/heater-service-tucson',
+
+  // /drain-and-sewer/ nested paths
+  '/drain-and-sewer/sewer-camera-inspection': '/services/sewer-camera-inspection',
+
+  // /roofing/ nested paths
+  '/roofing/metal-roofing': '/services/metal-roofing',
+  '/roofing/roof-types/metal-roofing': '/services/metal-roofing',
+
+  // /residential-roofing/ and /commercial-roofing/ nested paths
+  '/residential-roofing/roof-coating': '/services/residential-roof-coating',
+  '/residential-roofing/solar-tubular-lights': '/services/skylights',
+  '/commercial-roofing/roof-coating': '/services/commercial-roof-coating',
+
+  // /solar-tucson/ nested paths
+  '/solar-tucson/commercial-solar-installations': '/services/commercial-solar-installation',
+
+  // /plumber-tucson/ nested paths
+  '/plumber-tucson/drain-cleaning-tucson': '/services/drain-clearing',
+  '/plumber-tucson/trenchless-sewer-repair-replacement': '/services/trenchless-repair',
+
+  // Service area and location redirects
+  '/cortaro': '/service-areas/cortaro',
+  '/service-areas/littletown': '/service-areas/tucson',
+
+  // Careers pages
+  '/careers/plumbing-jobs-tucson': '/careers',
+  '/careers/hvac-lead-installer': '/careers',
+  '/careers/plumbing-apprentice': '/careers',
+  '/careers/plumbing-technician': '/careers',
+
+  // Resource and info pages
+  '/resources/education-library': '/resources/video-education-library',
+  '/resources/video-testimonial': '/video-testimonials',
+  '/video-center/careers': '/careers',
+  '/video-center/education-library/duct-sealing-methods-spotlight-on-aeroseal': '/resources/video-education-library',
+  '/video-center/education-library/hvac-cost-how-much-will-a-new-hvac-system-cost-': '/resources/video-education-library',
+  '/video-center/education-library/lennox-sun-source-system-reduce-cooling-costs-wi': '/resources/video-education-library',
+  '/video-center/testimonials/ray-and-teri-from-saddlebrook-az-satisfied-ac-se': '/video-testimonials',
+
+  // Service pages
+  '/air-conditioning-service-tucson': '/services/ac-service-tucson',
+  '/air-conditioning-tucson': '/services/ac-service-tucson',
+  '/duct-services': '/services/duct-cleaning-tucson',
+  '/ductless-mini-split-ac-repair': '/services/ductless-repair-tucson',
+  '/emergency-ac-repair-tucson': '/services/ac-repair-tucson',
+  '/drain-cleaning-tucson': '/services/drain-clearing',
+  '/heater-service': '/services/heater-service-tucson',
+  '/solar-energy-solutions': '/services/residential-solar-installation',
+  '/solar': '/services/residential-solar-installation',
+
+  // Services landing pages
+  '/services': '/',
+  '/services/air-conditioning': '/services/ac-service-tucson',
+  '/services/air-conditioning/ac-repair-tucson': '/services/ac-repair-tucson',
+  '/services/family-protection-plans': '/family-protection-plans',
+  '/services/plumbing/burst-pipe-and-sewer-line-repair-tucson': '/services/plumbing-tucson',
+
+  // Corona de Tucson service pages (typo in original URL)
+  '/services/drain-clearing-coronade-tucson': '/services/drain-clearing-corona-de-tucson',
+  '/services/heating-coronade-tucson': '/services/heating-corona-de-tucson',
+  '/services/plumbing-coronade-tucson': '/services/plumbing-corona-de-tucson',
+  '/services/solar-installation-coronade-tucson': '/services/solar-installation-corona-de-tucson',
+  '/services/electrical-coronade-tucson': '/services/electrical-corona-de-tucson',
+  '/services/roofing-coronade-tucson': '/services/roofing-corona-de-tucson',
+
+  // Saddle Brooke service page
+  '/services/drain-clearing-saddle-brooke': '/services/drain-clearing-saddle-brooke-catalina',
+
+  // Misc redirects
+  '/home': '/',
+  '/contact-us': '/contact',
+  '/covid-19-response': '/',
+  '/hello-world': '/',
+  '/site-search': '/',
+  '/plumber-': '/services/plumbing-tucson',
+
+  // Blog category pages
+  '/blog/categories/solar': '/blog/solar',
+  '/blog/categories/electrical': '/blog/electrical',
+  '/blog/categories/company-news': '/blog',
+
+  // Blog archive pages (year and month) - redirect to main blog
+  '/blog/2017': '/blog',
+  '/blog/2020': '/blog',
+  '/blog/2022': '/blog',
+  '/blog/2024': '/blog',
+
+  // Blog date paths - specific posts
+  '/blog/permit-to-install-a-new-water-heater': '/blog/plumbing',
+  '/blog/drain-cleaning-solutions-that-actually-work': '/blog/plumbing/drain-cleaning-solutions-that-actually-work',
+  '/blog/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
+  '/blog/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t',
 };
 
 /**
