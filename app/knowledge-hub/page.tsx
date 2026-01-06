@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { ChevronRight, BookOpen, Video, MessageSquare, AlertCircle, FileText, Zap, Droplets, Sun, Wrench, Home, Lightbulb, Award, Users, ShieldCheck, CheckCircle } from 'lucide-react';
+import { ChevronRight, BookOpen, Video, MessageSquare, AlertCircle, FileText, Zap, Droplets, Sun, Wrench, Home, Lightbulb, Award, Users, ShieldCheck, CheckCircle, Shield, DollarSign, Clock, Sparkles } from 'lucide-react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -45,6 +45,13 @@ export default function KnowledgeHubPage() {
       icon: AlertCircle,
       href: '/r22-phaseout',
       color: 'text-orange-600',
+    },
+    {
+      title: 'Family Protection Plans',
+      description: 'Comprehensive home maintenance plans starting at $14.88/month. Save up to 20% on repairs, get 5 annual inspections, extended warranties, and priority 24/7 service.',
+      icon: Shield,
+      href: '/family-protection-plans',
+      color: 'text-green-600',
     },
   ];
 
@@ -333,8 +340,180 @@ export default function KnowledgeHubPage() {
         </div>
       </section>
 
-      {/* Topics We Cover Section */}
+      {/* Family Protection Plans Section */}
       <section className="py-16">
+        <div className="max-w-7xl mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-plans-title">
+              Family Protection Plans
+            </h2>
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+              Protect and extend the life of your home's major systems with our comprehensive maintenance plans
+            </p>
+          </div>
+
+          {/* Plan Benefits Overview */}
+          <div className="grid md:grid-cols-4 gap-6 mb-12">
+            <Card className="text-center">
+              <CardContent className="pt-6">
+                <Shield className="w-10 h-10 mx-auto mb-3 text-primary" />
+                <p className="font-bold text-lg">5 Annual Inspections</p>
+                <p className="text-sm text-muted-foreground">HVAC, Plumbing, Electrical, Roofing</p>
+              </CardContent>
+            </Card>
+            <Card className="text-center">
+              <CardContent className="pt-6">
+                <DollarSign className="w-10 h-10 mx-auto mb-3 text-green-600" />
+                <p className="font-bold text-lg">Up to 20% Off</p>
+                <p className="text-sm text-muted-foreground">All Repairs & Services</p>
+              </CardContent>
+            </Card>
+            <Card className="text-center">
+              <CardContent className="pt-6">
+                <Clock className="w-10 h-10 mx-auto mb-3 text-blue-600" />
+                <p className="font-bold text-lg">24/7 Priority</p>
+                <p className="text-sm text-muted-foreground">Emergency Response</p>
+              </CardContent>
+            </Card>
+            <Card className="text-center">
+              <CardContent className="pt-6">
+                <Sparkles className="w-10 h-10 mx-auto mb-3 text-yellow-600" />
+                <p className="font-bold text-lg">Extended Warranties</p>
+                <p className="text-sm text-muted-foreground">Up to 3 Years</p>
+              </CardContent>
+            </Card>
+          </div>
+
+          {/* Comprehensive Plans */}
+          <div className="mb-12">
+            <h3 className="text-2xl font-bold text-center mb-6">Comprehensive Plans</h3>
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <CardTitle className="text-xl text-primary">Premium</CardTitle>
+                  <p className="text-3xl font-bold">$68.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5 Annual Inspections</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 20% Repair Discounts</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 3-Year Extended Warranties</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> ZERO Service Call Fees</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5-Year Inflation Protection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Replacement Vouchers up to $4,000</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Premium Complimentary Services</p>
+                </CardContent>
+              </Card>
+
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <CardTitle className="text-xl text-primary">Deluxe</CardTitle>
+                  <p className="text-3xl font-bold">$48.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5 Annual Inspections</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 15% Repair Discounts</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 2-Year Extended Warranties</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> ZERO Service Call Fees</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 3-Year Inflation Protection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Replacement Vouchers up to $2,250</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Deluxe Complimentary Services</p>
+                </CardContent>
+              </Card>
+
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <CardTitle className="text-xl text-primary">Classic</CardTitle>
+                  <p className="text-3xl font-bold">$38.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5 Annual Inspections</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 10% Repair Discounts</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 1-Year Extended Warranties</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 50% Off Service Call Fees</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Replacement Vouchers up to $1,100</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Water Testing & Thermal Imaging</p>
+                </CardContent>
+              </Card>
+
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <CardTitle className="text-xl text-primary">Basic</CardTitle>
+                  <p className="text-3xl font-bold">$28.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5 Annual Inspections</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 5% Repair Discounts</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 1-Year Repair Warranties</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Priority Scheduling</p>
+                </CardContent>
+              </Card>
+            </div>
+            <p className="text-center text-sm text-muted-foreground mt-4">*All comprehensive plan prices include first HVAC system. Additional units half off.</p>
+          </div>
+
+          {/* Single-Service Plans */}
+          <div className="mb-12">
+            <h3 className="text-2xl font-bold text-center mb-6">Single-Service Plans</h3>
+            <div className="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <Zap className="w-8 h-8 mx-auto mb-2 text-blue-600" />
+                  <CardTitle className="text-lg">HVAC Only</CardTitle>
+                  <p className="text-2xl font-bold">$22.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Annual Heating Inspection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Annual Cooling Inspection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 10% Off HVAC Repairs</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 2-Year Extended Warranty</p>
+                </CardContent>
+              </Card>
+
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <Droplets className="w-8 h-8 mx-auto mb-2 text-cyan-600" />
+                  <CardTitle className="text-lg">Plumbing Only</CardTitle>
+                  <p className="text-2xl font-bold">$14.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Annual Plumbing Inspection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Water Heater Flush</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 10% Off Plumbing Repairs</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 2-Year Extended Warranty</p>
+                </CardContent>
+              </Card>
+
+              <Card className="hover-elevate">
+                <CardHeader className="text-center pb-2">
+                  <Sun className="w-8 h-8 mx-auto mb-2 text-yellow-600" />
+                  <CardTitle className="text-lg">Solar Monitoring</CardTitle>
+                  <p className="text-2xl font-bold">$14.88<span className="text-sm font-normal text-muted-foreground">/mo</span></p>
+                </CardHeader>
+                <CardContent className="text-sm space-y-2">
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Annual Solar Inspection</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> SolarEdge/Enphase Monitoring</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> 10% Off Solar Repairs</p>
+                  <p className="flex items-start gap-2"><CheckCircle className="w-4 h-4 text-green-600 mt-0.5 flex-shrink-0" /> Warranty Assistance</p>
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+
+          <div className="text-center">
+            <Button asChild size="lg" data-testid="button-view-plans">
+              <Link href="/family-protection-plans">
+                View All Plan Details <ChevronRight className="w-4 h-4 ml-2" />
+              </Link>
+            </Button>
+            <p className="mt-4 text-muted-foreground">
+              Call <a href="tel:+1520-333-2665" className="text-primary font-semibold hover:underline">(520) 333-2665</a> to speak with a Family Protection Plan Expert
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Topics We Cover Section */}
+      <section className="py-16 bg-muted/30">
         <div className="max-w-7xl mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-topics-title">
