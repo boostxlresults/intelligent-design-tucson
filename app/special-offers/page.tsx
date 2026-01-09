@@ -23,9 +23,9 @@ export default function SpecialOffersPage() {
 
   const offers = [
     {
-      id: 'hvac-inspection',
-      title: '86-Point HVAC System Inspection',
-      description: 'Comprehensive inspection of your heating and cooling system to identify issues before they become costly repairs.',
+      id: 'hvac-tuneup',
+      title: '86-Point HVAC Tune-Up',
+      description: 'Professional cleaning, inspection, and system refresh to identify potential issues early and keep your heating and cooling system running efficiently for years to come.',
       price: '$28.88',
       badge: 'Most Popular',
       features: [
@@ -35,7 +35,7 @@ export default function SpecialOffersPage() {
         'Refrigerant level assessment',
         'Written report with recommendations',
       ],
-      cta: 'Schedule Inspection',
+      cta: 'Schedule Tune-Up',
       link: '/contact',
     },
     {
