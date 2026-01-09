@@ -60,7 +60,7 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 ### HVAC Services (Heating, Ventilation & Air Conditioning)
 - **AC Repair** (/services/ac-repair-tucson): 24/7 emergency air conditioning repair for all brands
 - **AC Installation** (/services/ac-installation-tucson): New AC system installation and replacement with Manual J sizing
-- **AC Tune-Up** (/services/ac-tune-up-tucson): 86-point inspection, preventive maintenance
+- **AC Tune-Up** (/services/ac-tune-up-tucson): 86-Point HVAC Tune-Up ($28.88), professional cleaning, inspection, and preventive maintenance
 - **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, and heating system repair
 - **Heater Installation** (/services/heater-installation-tucson): Heating system installation and replacement
 - **Heat Pumps** (/services/heat-pumps-tucson): Heat pump installation, repair, and maintenance
@@ -226,10 +226,15 @@ Intelligent Design serves the greater Tucson metropolitan area including 20+ com
 
 ---
 
-## Special Offers & Promotions
+## Special Offers & Promotions (/special-offers)
 
 ### Current Specials
-- **$28.88 Drain Clearing Special** (/28-88-drain-clearing-special): Professional drain clearing at unbeatable price
+- **86-Point HVAC Tune-Up** ($28.88): Professional cleaning, inspection, and system refresh to identify potential issues and keep your system running efficiently. Most Popular offer.
+- **$28.88 Drain Clearing Special** (/drain-clearing-special): Professional drain clearing at unbeatable price
+- **Free Roof Inspection** (/contact): Comprehensive roof assessment with written report and recommendations. No obligation.
+- **Free Online HVAC Quote** (/free-hvac-quote): Instant AC and heating system pricing via Contractor Commerce
+- **Free Online Water Heater Quote** (/free-water-heater-quote): Instant water heater pricing with tank and tankless options
+- **Free Solar Consultation** (/contact): Energy usage analysis, custom solar system design, and savings projection
 - **Free Estimates**: Free in-home estimates for HVAC, roofing, solar, and major installations
 - **Seasonal Manufacturer Rebates**: $500-$2,000 on high-efficiency HVAC systems
 
@@ -237,10 +242,11 @@ Intelligent Design serves the greater Tucson metropolitan area including 20+ com
 - **New Homebuyer Offer** (/new-homebuyer-offer): Special discounts for new homeowners
 - **REALTORS Offer** (/realtors-offer): Partner program for real estate professionals
 
-### Financing Options
-- 0% interest financing for qualified applicants (12-18 months)
+### Financing Options (/financing)
+- 0% APR financing for qualified applicants (12-18 months)
 - Extended payment plans up to 120 months
 - Flexible options for major installations
+- Quick approval process
 
 ### Price Match Guarantee
 We match any written estimate from a licensed, insured competitor for identical equipment and services.
@@ -425,7 +431,7 @@ If you're not completely satisfied with our work, we'll make it right—period. 
 ## Seasonal Services for Tucson's Climate
 
 ### Pre-Summer AC Preparation (March-May)
-86-point comprehensive AC inspection, coil cleaning, refrigerant check, electrical testing
+86-Point HVAC Tune-Up: comprehensive cleaning, inspection, coil cleaning, refrigerant check, electrical testing
 
 ### Monsoon Roof Inspections (May-June)
 Pre-monsoon roof inspection to identify vulnerabilities before storm season
@@ -480,7 +486,7 @@ A: AC replacement costs range from $5,500-$12,000+ depending on system size, eff
 A: With proper maintenance, AC systems last 12-17 years in Tucson. Regular annual tune-ups add 3-5 years to system lifespan.
 
 **Q: How often should I have my AC serviced?**
-A: Annual tune-ups before cooling season (March-April) are recommended. Our 86-point inspection prevents 85% of breakdowns.
+A: Annual tune-ups before cooling season (March-April) are recommended. Our 86-Point HVAC Tune-Up prevents 85% of breakdowns.
 
 ### Plumbing Questions
 
