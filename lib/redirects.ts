@@ -1023,9 +1023,28 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // Blog archive pages (year and month) - redirect to main blog
   '/blog/2017': '/blog',
+  '/blog/2018': '/blog',
+  '/blog/2019': '/blog',
   '/blog/2020': '/blog',
+  '/blog/2020/april': '/blog',
+  '/blog/2021': '/blog',
   '/blog/2022': '/blog',
+  '/blog/2022/june': '/blog',
+  '/blog/2023': '/blog',
+  '/blog/2023/february': '/blog',
+  '/blog/2023/january': '/blog',
   '/blog/2024': '/blog',
+  '/blog/2024/may': '/blog',
+  '/blog/2024/october': '/blog',
+  '/blog/2025': '/blog',
+
+  // Truncated blog post URLs (incomplete slugs)
+  '/blog/2022/june/repiping-the-pros-and-cons-of-having-your-homes-': '/blog/plumbing',
+  '/blog/2023/february/7-advantages-of-using-local-plumbers-in-tucson': '/blog/plumbing',
+  '/blog/2023/february/the-best-materials-for-repiping-a-home': '/blog/plumbing',
+  '/blog/2023/january/what-to-expect-during-after-air-conditioning-rep': '/blog/hvac',
+  '/blog/2024/may/intelligent-design-air-conditioning-expands-serv': '/blog',
+  '/blog/2024/october/what-to-do-if-your-solar-company-has-gone-out-of': '/blog/solar',
 
   // Blog date paths - specific posts
   '/blog/permit-to-install-a-new-water-heater': '/blog/plumbing',
