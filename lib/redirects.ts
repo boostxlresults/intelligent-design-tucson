@@ -972,16 +972,48 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // /heating/ nested paths
   '/heating/heat-pumps': '/services/heat-pumps',
   '/heating/heater-tune-up': '/services/heater-service-tucson',
+  '/heating/heater-installation': '/services/heater-installation-tucson',
+  '/heating/heater-installation-': '/services/heater-installation-tucson',
+  '/heating/heater-maintenance': '/services/heater-service-tucson',
+  '/heating/heater-repair': '/services/heater-repair-tucson',
+  '/heating/heater-tune-up-': '/services/heater-service-tucson',
+  '/heater-repair': '/services/heater-repair-tucson',
 
   // /drain-and-sewer/ nested paths
 
   // /roofing/ nested paths
+  '/roofing/residential-roofing/roof-replacement': '/services/roof-replacements-tucson',
+  '/roofing/residential-roofing-tucson': '/services/roofing-tucson',
 
   // /residential-roofing/ and /commercial-roofing/ nested paths
 
   // /solar-tucson/ nested paths
+  '/solar-tucson/residential-solar-panels': '/services/residential-solar-installation',
+  '/solar-tucson/solar-calculator-tucson': '/services/residential-solar-installation',
+  '/solar-tucson/solar-company-tucson-az': '/services/residential-solar-installation',
+  '/solar-tucson/solar-energy-solutions': '/services/residential-solar-installation',
+  '/solar-tucson/solar-tax-credit-arizona': '/services/residential-solar-installation',
 
   // /plumber-tucson/ nested paths
+  '/plumber-tucson/backflow-testing-tucson': '/services/backflow-testing-tucson',
+  '/plumber-tucson/plumbing-repair-install': '/services/plumbing-tucson',
+  '/plumber-tucson/tankless-water-heater': '/services/tankless-water-heaters-tucson',
+  '/plumber-tucson/water-heaters': '/services/water-heater-service-tucson',
+
+  // Location-based service redirects (flat format)
+  '/hvac-tucson': '/services/hvac-tucson',
+  '/hvac-tortolita': '/services/hvac-tortolita',
+  '/hvac-tucson-estates': '/services/hvac-tucson',
+  '/plumbing-tucson': '/services/plumbing-tucson',
+  '/plumbing-saddle-brooke': '/services/plumbing-saddle-brooke-catalina',
+  '/plumbing-tanque-verde': '/services/plumbing-tanque-verde',
+  '/plumbing-vail': '/services/plumbing-vail',
+  '/heating-oro-valley': '/services/heating-oro-valley',
+  '/roofing-drexel-heights': '/services/roofing-drexel-heights',
+  '/roofing-rillito': '/services/roofing-rillito',
+  '/solar-installation-avra-valley': '/services/solar-installation-avra-valley',
+  '/solar-ac-tucson': '/services/hvac-tucson',
+  '/solar-a-c': '/services/hvac-tucson',
 
   // Service area and location redirects
 
@@ -1001,6 +1033,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // Services landing pages
   '/services/air-conditioning/ac-repair-tucson': '/services/ac-repair-tucson',
+  '/services/air-conditioning/ac-installation-tucson': '/services/ac-installation-tucson',
+  '/services/electrical/lighting-upgrades': '/services/lighting-upgrades',
 
   // Corona de Tucson service pages (typo in original URL)
   '/services/drain-clearing-coronade-tucson': '/services/drain-clearing-corona-de-tucson',
@@ -1016,6 +1050,21 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/covid-19-response': '/',
   '/hello-world': '/',
   '/site-search': '/',
+  '/ac-service': '/services/ac-service-tucson',
+  '/ac-tune-up': '/services/ac-tune-up-tucson',
+  '/water-heaters': '/services/water-heater-service-tucson',
+  '/water-softeners': '/services/water-softeners-tucson',
+  '/smart-thermostat-installation': '/services/smart-thermostat-installation',
+  '/trenchless-repair': '/services/trenchless-sewer-repair-tucson',
+  '/generac-installation': '/services/generac-home-standby-generators-tucson',
+  '/hybrid-water-heaters': '/services/hybrid-water-heater-installation',
+  '/tucson': '/service-areas/tucson',
+  '/sahuarita': '/service-areas/sahuarita',
+  '/why-tucson-chooses-intelligent-design': '/about',
+  '/recent-projects': '/recent-projects',
+  '/2025/09': '/blog',
+  '/web-stories/8-signs-your-air-conditioner-needs-repair': '/blog/hvac',
+  '/web-stories/stay-cool-in-tucson-expert-ac-repair-tips': '/blog/hvac',
 
   // Blog category pages
   '/blog/categories/electrical': '/blog/electrical',
