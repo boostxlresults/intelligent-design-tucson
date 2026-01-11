@@ -995,6 +995,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // Service pages
   '/air-conditioning-service-tucson': '/services/ac-service-tucson',
+  '/heater-tuneup-tucson': '/services/heater-tuneup-tucson',
+  '/outdoor-motion-lighting': '/services/outdoor-motion-lighting',
+  '/solar-installation-saddle-brooke': '/services/solar-installation-saddle-brooke-catalina',
 
   // Services landing pages
   '/services/air-conditioning/ac-repair-tucson': '/services/ac-repair-tucson',
