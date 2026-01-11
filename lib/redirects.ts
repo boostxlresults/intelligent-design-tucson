@@ -995,10 +995,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/solar-tucson/solar-tax-credit-arizona': '/services/residential-solar-installation',
 
   // /plumber-tucson/ nested paths
-  '/plumber-tucson/backflow-testing-tucson': '/services/backflow-testing-tucson',
+  '/plumber-tucson/backflow-testing-tucson': '/services/plumbing-tucson',
   '/plumber-tucson/plumbing-repair-install': '/services/plumbing-tucson',
-  '/plumber-tucson/tankless-water-heater': '/services/tankless-water-heaters-tucson',
-  '/plumber-tucson/water-heaters': '/services/water-heater-service-tucson',
+  '/plumber-tucson/tankless-water-heater': '/services/tankless-water-heaters',
+  '/plumber-tucson/water-heaters': '/services/water-heater-installation',
 
   // Location-based service redirects (flat format)
   '/hvac-tucson': '/services/hvac-tucson',
@@ -1052,12 +1052,12 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/site-search': '/',
   '/ac-service': '/services/ac-service-tucson',
   '/ac-tune-up': '/services/ac-tune-up-tucson',
-  '/water-heaters': '/services/water-heater-service-tucson',
-  '/water-softeners': '/services/water-softeners-tucson',
-  '/smart-thermostat-installation': '/services/smart-thermostat-installation',
-  '/trenchless-repair': '/services/trenchless-sewer-repair-tucson',
-  '/generac-installation': '/services/generac-home-standby-generators-tucson',
-  '/hybrid-water-heaters': '/services/hybrid-water-heater-installation',
+  '/water-heaters': '/services/water-heater-installation',
+  '/water-softeners': '/services/water-softeners',
+  '/smart-thermostat-installation': '/services/smart-thermostat-installation-tucson',
+  '/trenchless-repair': '/services/trenchless-repair',
+  '/generac-installation': '/services/generac-installation',
+  '/hybrid-water-heaters': '/services/hybrid-water-heaters',
   '/tucson': '/service-areas/tucson',
   '/sahuarita': '/service-areas/sahuarita',
   '/why-tucson-chooses-intelligent-design': '/about',
