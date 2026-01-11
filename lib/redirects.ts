@@ -1063,8 +1063,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/why-tucson-chooses-intelligent-design': '/about',
   '/recent-projects': '/recent-projects',
   '/2025/09': '/blog',
-  '/web-stories/8-signs-your-air-conditioner-needs-repair': '/blog/hvac',
-  '/web-stories/stay-cool-in-tucson-expert-ac-repair-tips': '/blog/hvac',
 
   // Blog category pages
   '/blog/categories/electrical': '/blog/electrical',
@@ -1073,10 +1071,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Blog archive pages (year and month) - redirect to main blog
   '/blog/2017': '/blog',
   '/blog/2018': '/blog',
-  '/blog/2019': '/blog',
   '/blog/2020': '/blog',
   '/blog/2020/april': '/blog',
-  '/blog/2021': '/blog',
   '/blog/2022': '/blog',
   '/blog/2022/june': '/blog',
   '/blog/2023': '/blog',
@@ -1085,7 +1081,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/2024': '/blog',
   '/blog/2024/may': '/blog',
   '/blog/2024/october': '/blog',
-  '/blog/2025': '/blog',
 
   // Truncated blog post URLs (incomplete slugs)
   '/blog/2022/june/repiping-the-pros-and-cons-of-having-your-homes-': '/blog/plumbing',

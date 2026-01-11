@@ -1,0 +1,34 @@
+12:50:26.327 Running build in Washington, D.C., USA (East) – iad1
+12:50:26.327 Build machine configuration: 4 cores, 8 GB
+12:50:26.430 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: a59f33e)
+12:50:48.342 Cloning completed: 21.912s
+12:50:49.434 Restored build cache from previous deployment (5BgbVodbNN4h4tQNyG8v1hPwbdNR)
+12:50:50.405 Running "vercel build"
+12:50:51.180 Vercel CLI 50.1.6
+12:50:51.687 Installing dependencies...
+12:50:53.367 
+12:50:53.367 up to date in 1s
+12:50:53.367 
+12:50:53.368 176 packages are looking for funding
+12:50:53.368   run `npm fund` for details
+12:50:53.401 Detected Next.js version: 16.0.10
+12:50:53.402 Running "cp -r attached_assets public/attached_assets && next build"
+12:50:54.496    ▲ Next.js 16.0.10 (Turbopack)
+12:50:54.496 
+12:50:54.570    Creating an optimized production build ...
+12:51:11.354  ✓ Compiled successfully in 16.2s
+12:51:11.360    Running TypeScript ...
+12:51:27.309 Failed to compile.
+12:51:27.310 
+12:51:27.310 ./lib/redirects.ts:1067:3
+12:51:27.310 Type error: An object literal cannot have multiple properties with the same name.
+12:51:27.310 
+12:51:27.310 [0m [90m 1065 |[39m   [32m'/2025/09'[39m[33m:[39m [32m'/blog'[39m[33m,[39m
+12:51:27.310  [90m 1066 |[39m   [32m'/web-stories/8-signs-your-air-conditioner-needs-repair'[39m[33m:[39m [32m'/blog/hvac'[39m[33m,[39m
+12:51:27.310 [31m[1m>[22m[39m[90m 1067 |[39m   [32m'/web-stories/stay-cool-in-tucson-expert-ac-repair-tips'[39m[33m:[39m [32m'/blog/hvac'[39m[33m,[39m
+12:51:27.310  [90m      |[39m   [31m[1m^[22m[39m
+12:51:27.310  [90m 1068 |[39m
+12:51:27.311  [90m 1069 |[39m   [90m// Blog category pages[39m
+12:51:27.311  [90m 1070 |[39m   [32m'/blog/categories/electrical'[39m[33m:[39m [32m'/blog/electrical'[39m[33m,[39m[0m
+12:51:27.367 Next.js build worker exited with code: 1 and signal: null
+12:51:27.407 Error: Command "cp -r attached_assets public/attached_assets && next build" exited with 1
