@@ -43,3 +43,6 @@ args = "HOSTNAME=0.0.0.0 npx next dev -p 5000 --webpack"
 [userenv.shared]
 NEXT_PUBLIC_SERVICETITAN_API_KEY = "m1cp1a9zj306h48ohavpwg8w"
 NEXT_PUBLIC_SERVICETITAN_SCHEDULER_ID = "sched_vwgezlwi56yyvwdb0nzlng14"
+
+[agent]
+integrations = ["google-mail:1.0.0"]
