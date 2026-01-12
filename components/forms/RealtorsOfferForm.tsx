@@ -48,10 +48,19 @@ export function RealtorsOfferForm() {
         body: JSON.stringify(formData),
       });
 
-      const result = await response.json();
+      let result;
+      try {
+        result = await response.json();
+      } catch {
+        if (response.ok) {
+          setIsSuccess(true);
+          return;
+        }
+        throw new Error('Failed to process registration');
+      }
 
       if (!response.ok) {
-        throw new Error(result.error || 'Failed to submit form');
+        throw new Error(result?.error || 'Failed to submit form');
       }
 
       setIsSuccess(true);

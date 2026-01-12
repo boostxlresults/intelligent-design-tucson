@@ -49,8 +49,14 @@ export function NewHomebuyerForm() {
       });
 
       if (!response.ok) {
-        const data = await response.json();
-        throw new Error(data.error || 'Failed to submit form');
+        let errorMessage = 'Failed to submit form';
+        try {
+          const data = await response.json();
+          errorMessage = data?.error || errorMessage;
+        } catch {
+          // Response wasn't JSON
+        }
+        throw new Error(errorMessage);
       }
 
       setIsSuccess(true);
