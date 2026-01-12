@@ -5,6 +5,7 @@ import { ChevronRight, CheckCircle2, Gift, Shield, Clock, Award, Star, Sparkles,
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
+import { RealtorsOfferForm } from '@/components/forms/RealtorsOfferForm';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'REALTORS® Exclusive Offer | FREE 2-Year Protection Plan Gift | Intelligent Design',
@@ -326,136 +327,7 @@ export default function RealtorsOfferPage() {
               </p>
             </div>
 
-            <Card>
-              <CardContent className="p-8">
-                <form className="space-y-6">
-                  <div className="bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6">
-                    <p className="text-sm font-semibold text-yellow-900">
-                      <Award className="w-5 h-5 inline mr-2" />
-                      Important: Client details must be submitted within 30 days of the home sale closing date.
-                    </p>
-                  </div>
-
-                  <div className="grid md:grid-cols-2 gap-6">
-                    <div>
-                      <label htmlFor="clientFirstName" className="block text-sm font-medium mb-2">
-                        Client First Name <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="text"
-                        id="clientFirstName"
-                        name="clientFirstName"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-clientFirstName"
-                      />
-                    </div>
-
-                    <div>
-                      <label htmlFor="clientLastName" className="block text-sm font-medium mb-2">
-                        Client Last Name <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="text"
-                        id="clientLastName"
-                        name="clientLastName"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-clientLastName"
-                      />
-                    </div>
-                  </div>
-
-                  <div>
-                    <label htmlFor="realtorName" className="block text-sm font-medium mb-2">
-                      Your Name (Realtor/Agent) <span className="text-red-500">*</span>
-                    </label>
-                    <input
-                      type="text"
-                      id="realtorName"
-                      name="realtorName"
-                      required
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-realtorName"
-                    />
-                  </div>
-
-                  <div className="grid md:grid-cols-2 gap-6">
-                    <div>
-                      <label htmlFor="clientEmail" className="block text-sm font-medium mb-2">
-                        Client Email <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="email"
-                        id="clientEmail"
-                        name="clientEmail"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-clientEmail"
-                      />
-                    </div>
-
-                    <div>
-                      <label htmlFor="clientPhone" className="block text-sm font-medium mb-2">
-                        Client Phone <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="tel"
-                        id="clientPhone"
-                        name="clientPhone"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-clientPhone"
-                      />
-                    </div>
-                  </div>
-
-                  <div>
-                    <label htmlFor="propertyAddress" className="block text-sm font-medium mb-2">
-                      Property Address <span className="text-red-500">*</span>
-                    </label>
-                    <input
-                      type="text"
-                      id="propertyAddress"
-                      name="propertyAddress"
-                      required
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-propertyAddress"
-                    />
-                  </div>
-
-                  <div>
-                    <label htmlFor="zipCode" className="block text-sm font-medium mb-2">
-                      ZIP Code <span className="text-red-500">*</span>
-                    </label>
-                    <input
-                      type="text"
-                      id="zipCode"
-                      name="zipCode"
-                      required
-                      pattern="[0-9]{5}"
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-zipCode"
-                    />
-                  </div>
-
-                  <div className="bg-muted/50 p-4 rounded-md">
-                    <p className="text-sm text-muted-foreground">
-                      <strong>Disclaimer:</strong> Client details must be provided within 30 days of the sale closing date to activate the protection plan. By submitting this form, you confirm that the information provided is accurate and that your client has agreed to be contacted by Intelligent Design.
-                    </p>
-                  </div>
-
-                  <Button 
-                    type="submit" 
-                    size="lg" 
-                    className="w-full bg-yellow-500 hover:bg-yellow-600 text-gray-900 text-lg py-6 h-auto"
-                    data-testid="button-submit-form"
-                  >
-                    Register Client & Activate Plan <Gift className="w-5 h-5 ml-2" />
-                  </Button>
-                </form>
-              </CardContent>
-            </Card>
+            <RealtorsOfferForm />
           </div>
         </section>
 
