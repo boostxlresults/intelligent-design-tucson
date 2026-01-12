@@ -1384,16 +1384,6 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "2023: New Facility Purchase",
-            "level": 3,
-            "content": "2023: New Facility Purchase"
-      },
-      {
-            "type": "paragraph",
-            "content": "Growth necessitated a proper facility. Intelligent Design purchased property at 1145 E Fort Lowell Rd in Tucson—a permanent home for operations, training, and administration. This investment demonstrated confidence in the company's future and commitment to the Tucson community."
-      },
-      {
-            "type": "heading",
             "heading": "2015: Solar Services Launched",
             "level": 3,
             "content": "2015: Solar Services Launched"
@@ -1421,6 +1411,16 @@ export const knowledgehubData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "Intelligent Design united with Wood's Plumbing (established 1979), combining 46+ years of home services expertise. This strategic partnership brought Wood's legacy of plumbing excellence under the Intelligent Design umbrella, creating Tucson's most comprehensive home services provider."
+      },
+      {
+            "type": "heading",
+            "heading": "2023: New Facility Purchase",
+            "level": 3,
+            "content": "2023: New Facility Purchase"
+      },
+      {
+            "type": "paragraph",
+            "content": "Growth necessitated a proper facility. Intelligent Design purchased property at 1145 E Fort Lowell Rd in Tucson—a permanent home for operations, training, and administration. This investment demonstrated confidence in the company's future and commitment to the Tucson community."
       },
       {
             "type": "heading",
