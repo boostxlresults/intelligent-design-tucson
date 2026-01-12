@@ -1384,9 +1384,9 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "2013: New Facility Purchase",
+            "heading": "2023: New Facility Purchase",
             "level": 3,
-            "content": "2013: New Facility Purchase"
+            "content": "2023: New Facility Purchase"
       },
       {
             "type": "paragraph",
