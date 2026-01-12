@@ -1344,13 +1344,13 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "1979: Family Legacy Begins",
+            "heading": "1979: Wood's Plumbing Legacy Begins",
             "level": 3,
-            "content": "1979: Family Legacy Begins"
+            "content": "1979: Wood's Plumbing Legacy Begins"
       },
       {
             "type": "paragraph",
-            "content": "The Dobbins family's involvement in Tucson's home services industry dates back to 1979, establishing a foundation of technical expertise and customer service that would later define Intelligent Design. This early experience in HVAC and home comfort systems shaped Andrew Dobbins' understanding of what homeowners truly need—and what the industry too often fails to provide."
+            "content": "Wood's Plumbing began serving the Tucson community in 1979, establishing a foundation of technical excellence and customer service that would later become part of the Intelligent Design family. With decades of plumbing expertise, Wood's Plumbing built an outstanding reputation that continues today under the Intelligent Design banner."
       },
       {
             "type": "heading",
@@ -1364,9 +1364,9 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "2009: Intelligent Design Founded",
+            "heading": "2011: Intelligent Design Founded",
             "level": 3,
-            "content": "2009: Intelligent Design Founded"
+            "content": "2011: Intelligent Design Founded"
       },
       {
             "type": "paragraph",
@@ -1394,13 +1394,13 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "2015: Plumbing Services Launched",
+            "heading": "2015: Solar Services Launched",
             "level": 3,
-            "content": "2015: Plumbing Services Launched"
+            "content": "2015: Solar Services Launched"
       },
       {
             "type": "paragraph",
-            "content": "Recognizing that homeowners needed a single trusted partner for all home systems, Intelligent Design expanded into plumbing. The same quality standards applied—licensed technicians, transparent pricing, guaranteed satisfaction. Customers loved having one company they could call for both HVAC and plumbing needs."
+            "content": "With solar adoption accelerating in Southern Arizona, Intelligent Design launched professional solar installation services for residential and commercial properties. Leveraging electrical expertise and commitment to quality, we provide turnkey solar solutions backed by comprehensive warranties and ongoing support."
       },
       {
             "type": "heading",
@@ -1414,13 +1414,13 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "2022: Solar Installation Services Launched",
+            "heading": "2022: United with Wood's Plumbing",
             "level": 3,
-            "content": "2022: Solar Installation Services Launched"
+            "content": "2022: United with Wood's Plumbing"
       },
       {
             "type": "paragraph",
-            "content": "With solar adoption accelerating in Southern Arizona and homeowners seeking trusted local installers, Intelligent Design launched professional solar installation services for both residential and commercial properties. Leveraging electrical expertise and commitment to quality, we provide turnkey solar solutions backed by comprehensive warranties and ongoing support. This expansion positioned Intelligent Design as Tucson's only complete home energy solutions provider."
+            "content": "Intelligent Design united with Wood's Plumbing (established 1979), combining 46+ years of home services expertise. This strategic partnership brought Wood's legacy of plumbing excellence under the Intelligent Design umbrella, creating Tucson's most comprehensive home services provider."
       },
       {
             "type": "heading",
