@@ -114,7 +114,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Indoor air quality
   '/indoor-air-quality': '/services/indoor-air-quality-tucson',
   '/indoor-air-quality/humidifiers': '/services/indoor-air-quality-tucson',
-  '/indoor-air-quality/smart-thermostat-installation': '/services/smart-thermostat-installation',
+  '/indoor-air-quality/smart-thermostat-installation': '/services/smart-thermostat-installation-tucson',
 
   // ===== HEATING =====
   '/heating': '/services/heating-tucson',
@@ -369,14 +369,14 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/services/solar/solar-monitoring': '/services/solar-maintenance',
   '/services/electrical/generator-installation': '/services/generac-installation',
   '/services/why-tucson-chooses-intelligent-design': '/about',
-  '/ac-heating-plumbing-solar-roofing-electrical': '/services',
+  '/ac-heating-plumbing-solar-roofing-electrical': '/',
 
   // ===== BLOG POSTS - ROOT LEVEL (no /blog/ prefix) =====
   '/does-air-conditioning-use-gas-or-electricity': '/blog/electrical/does-air-conditioning-use-gas-or-electricity',
   '/why-is-my-air-conditioning-working-downstairs-but-not-upstairs': '/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs',
   '/how-much-does-a-new-ac-unit-cost-in-az': '/blog/hvac/how-much-does-a-new-ac-unit-cost-in-az',
   '/repiping-how-its-different-from-pipe-repair-and-why-you-may-need-it-more': '/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-',
-  '/repiping-the-pros-and-cons-of-having-your-homes-piping-replaced': '/blog/plumbing/repiping-the-pros-and-cons-of-having-your-homes-piping-repla',
+  '/repiping-the-pros-and-cons-of-having-your-homes-piping-replaced': '/blog/plumbing/7-benefits-of-repiping-your-tucson-home',
   '/how-long-do-air-conditioners-last': '/blog/hvac/how-long-do-air-conditioners-last',
   '/why-is-my-air-conditioning-unit-not-cooling': '/blog/hvac/why-is-my-air-conditioning-unit-not-cooling',
   '/why-is-my-ac-not-cooling': '/blog/hvac/why-is-my-air-conditioning-unit-not-cooling',
@@ -1061,7 +1061,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/tucson': '/service-areas/tucson',
   '/sahuarita': '/service-areas/sahuarita',
   '/why-tucson-chooses-intelligent-design': '/about',
-  '/recent-projects': '/recent-projects',
   '/2025/09': '/blog',
 
   // Blog category pages

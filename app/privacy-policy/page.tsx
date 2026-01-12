@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { generateBreadcrumbSchema } from '@/lib/seo';
+import PrivacyContactSection from '@/components/contact/PrivacyContactSection';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Privacy Policy | Intelligent Design',
@@ -130,18 +131,7 @@ export default function PrivacyPolicyPage() {
               </p>
             </section>
 
-            <section>
-              <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
-              <p className="mb-4">
-                If you have questions about this Privacy Policy or wish to exercise your privacy rights, please contact us:
-              </p>
-              <div className="bg-card p-6 rounded-md border space-y-2">
-                <p><strong>Intelligent Design Air Conditioning, Plumbing, Solar & Electric</strong></p>
-                <p>Phone: <a href="tel:+15203332665" className="text-primary hover:underline" data-testid="link-phone">520-333-2665</a></p>
-                <p>Email: <a href="mailto:info@idesignac.com" className="text-primary hover:underline" data-testid="link-email">info@idesignac.com</a></p>
-                <p>Address: Tucson, AZ 85701</p>
-              </div>
-            </section>
+            <PrivacyContactSection />
           </div>
         </div>
       </div>

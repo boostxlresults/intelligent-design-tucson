@@ -4,6 +4,7 @@ import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { SiFacebook, SiInstagram, SiLinkedin, SiYoutube, SiGoogle } from "react-icons/si";
 import CookiePreferences from "../integrations/CookiePreferences";
+import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
 
 const logoUrl = "/logo.png";
 
@@ -153,13 +154,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-5 h-5 flex-shrink-0" />
-                <a
-                  href="mailto:info@idesignac.com"
-                  className="hover-elevate px-2 py-1 rounded-md inline-block"
-                  data-testid="link-footer-email"
-                >
-                  info@idesignac.com
-                </a>
+                <ObfuscatedEmail data-testid="link-footer-email" />
               </li>
               <li className="mt-4 text-xs">
                 Licensed, Bonded & Insured<br />
