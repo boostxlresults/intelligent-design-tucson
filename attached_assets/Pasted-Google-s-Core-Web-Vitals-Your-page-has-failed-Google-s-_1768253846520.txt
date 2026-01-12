@@ -1,0 +1,55 @@
+Google's Core Web Vitals
+Your page has failed Google's Core Web Vitals assessment.
+Core Web Vitals are UI metrics created by Google that measure page experience and are becoming increasingly important as a ranking factor.
+Largest Contentful Paint
+(LCP)
+2.0s
+Interaction To Next Paint
+(INP)
+263ms
+Cumulative Layout Shift
+(CLS)
+0.00
+Use of Mobile Viewports
+Your page specifies a Viewport matching the device's size, allowing it to render appropriately across devices.
+Google's PageSpeed Insights - Mobile
+Google is indicating that your page is scoring poorly on their Mobile PageSpeed Insights evaluation.
+
+Note that this evaluation is being performed from US servers and the results may differ slightly from an evaluation carried out from Google's PageSpeed Web Interface as that reporting localizes to the region in which you are running the report.
+Google has indicated that the performance of a webpage is becoming more important from a user and subsequently ranking perspective.
+Lab Data	Value
+First Contentful Paint	1.4 s
+Speed Index	7.2 s
+Largest Contentful Paint	5.4 s
+Time to Interactive	26 s
+Total Blocking Time	2 s
+Cumulative Layout Shift	0
+Opportunities	Estimated Savings
+Avoid multiple page redirects	0.63 s
+Reduce unused JavaScript	0.45 s
+Reduce unused CSS	0.3 s
+Google's PageSpeed Insights - Desktop
+Google is indicating that your page is scoring poorly on their Desktop PageSpeed Insights evaluation.
+Google has indicated that the performance of a webpage is becoming more important from a user and subsequently ranking perspective.
+Lab Data	Value
+First Contentful Paint	0.4 s
+Speed Index	3 s
+Largest Contentful Paint	0.9 s
+Time to Interactive	6.3 s
+Total Blocking Time	1.46 s
+Cumulative Layout Shift	0.002
+Opportunities	Estimated Savings
+Avoid multiple page redirects	0.19 s
+Flash Used?
+No Flash content has been identified on your page.
+iFrames Used?
+There are no iFrames detected on your page.
+Favicon
+Your page has specified a Favicon.
+Email Privacy
+Email addresses have been found in plain text.
+We recommend removing any plain text email addresses and replacing them with images or contact forms. Plain text email addresses can be susceptible to scrapers and email spammers.
+Legible Font Sizes
+The text on your page appears to be legible across devices.
+Tap Target Sizing
+The links and buttons on your page appear to be appropriately sized for a user to easily tap on a touchscreen.
