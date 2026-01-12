@@ -103,7 +103,7 @@ Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })
 
     // Send email notification
     await sendEmail({
-      to: 'info@idesignac.com',
+      to: 'csrteam@idesignac.com',
       subject: `New Homebuyer Offer: ${data.firstName} ${data.lastName} - ${data.zipCode}`,
       htmlBody,
       textBody,
