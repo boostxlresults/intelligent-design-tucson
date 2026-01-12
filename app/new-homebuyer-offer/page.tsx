@@ -5,6 +5,7 @@ import { ChevronRight, CheckCircle2, Gift, Shield, Clock, Award, Star, Sparkles 
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
+import { NewHomebuyerForm } from '@/components/forms/NewHomebuyerForm';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'New Homebuyer Offer | FREE 2-Year Protection Plan | Intelligent Design Tucson',
@@ -249,128 +250,7 @@ export default function NewHomebuyerOfferPage() {
               </p>
             </div>
 
-            <Card>
-              <CardContent className="p-8">
-                <form className="space-y-6">
-                  <div className="grid md:grid-cols-2 gap-6">
-                    <div>
-                      <label htmlFor="firstName" className="block text-sm font-medium mb-2">
-                        First Name <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="text"
-                        id="firstName"
-                        name="firstName"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-firstName"
-                      />
-                    </div>
-
-                    <div>
-                      <label htmlFor="lastName" className="block text-sm font-medium mb-2">
-                        Last Name <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="text"
-                        id="lastName"
-                        name="lastName"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-lastName"
-                      />
-                    </div>
-                  </div>
-
-                  <div>
-                    <label htmlFor="realtorName" className="block text-sm font-medium mb-2">
-                      Realtor/Agent Name (Optional)
-                    </label>
-                    <input
-                      type="text"
-                      id="realtorName"
-                      name="realtorName"
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-realtorName"
-                    />
-                  </div>
-
-                  <div className="grid md:grid-cols-2 gap-6">
-                    <div>
-                      <label htmlFor="email" className="block text-sm font-medium mb-2">
-                        Email <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="email"
-                        id="email"
-                        name="email"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-email"
-                      />
-                    </div>
-
-                    <div>
-                      <label htmlFor="phone" className="block text-sm font-medium mb-2">
-                        Phone <span className="text-red-500">*</span>
-                      </label>
-                      <input
-                        type="tel"
-                        id="phone"
-                        name="phone"
-                        required
-                        className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                        data-testid="input-phone"
-                      />
-                    </div>
-                  </div>
-
-                  <div>
-                    <label htmlFor="address" className="block text-sm font-medium mb-2">
-                      Street Address <span className="text-red-500">*</span>
-                    </label>
-                    <input
-                      type="text"
-                      id="address"
-                      name="address"
-                      required
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-address"
-                    />
-                  </div>
-
-                  <div>
-                    <label htmlFor="zipCode" className="block text-sm font-medium mb-2">
-                      ZIP Code <span className="text-red-500">*</span>
-                    </label>
-                    <input
-                      type="text"
-                      id="zipCode"
-                      name="zipCode"
-                      required
-                      pattern="[0-9]{5}"
-                      className="w-full px-4 py-3 border border-input rounded-md focus:outline-none focus:ring-2 focus:ring-primary bg-background"
-                      data-testid="input-zipCode"
-                    />
-                  </div>
-
-                  <div className="bg-muted/50 p-4 rounded-md">
-                    <p className="text-sm text-muted-foreground">
-                      <strong>Note:</strong> By submitting this form, you agree to be contacted by Intelligent Design regarding your FREE 2-Year Deluxe Family Protection Plan. Your information will be kept confidential and never shared with third parties.
-                    </p>
-                  </div>
-
-                  <Button 
-                    type="submit" 
-                    size="lg" 
-                    className="w-full bg-yellow-500 hover:bg-yellow-600 text-gray-900 text-lg py-6 h-auto"
-                    data-testid="button-submit-form"
-                  >
-                    Claim My FREE Protection Plan <Gift className="w-5 h-5 ml-2" />
-                  </Button>
-                </form>
-              </CardContent>
-            </Card>
+            <NewHomebuyerForm />
           </div>
         </section>
 

@@ -1,27 +1,60 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { sendEmail } from '@/lib/gmail';
+import { z } from 'zod';
 
-interface FormData {
-  firstName: string;
-  lastName: string;
-  email: string;
-  phone: string;
-  address: string;
-  zipCode: string;
-  realtorName?: string;
+const formSchema = z.object({
+  firstName: z.string().min(1, 'First name is required').max(100).trim(),
+  lastName: z.string().min(1, 'Last name is required').max(100).trim(),
+  email: z.string().email('Invalid email address').max(255).trim(),
+  phone: z.string().min(10, 'Phone number must be at least 10 digits').max(20).trim(),
+  address: z.string().min(1, 'Address is required').max(500).trim(),
+  zipCode: z.string().regex(/^[0-9]{5}$/, 'ZIP code must be 5 digits'),
+  realtorName: z.string().max(200).trim().optional().default(''),
+});
+
+function escapeHtml(text: string): string {
+  const htmlEntities: Record<string, string> = {
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    '"': '&quot;',
+    "'": '&#39;',
+  };
+  return text.replace(/[&<>"']/g, (char) => htmlEntities[char] || char);
 }
 
 export async function POST(request: NextRequest) {
+  let rawData: unknown;
+  
   try {
-    const data: FormData = await request.json();
-    
-    // Validate required fields
-    if (!data.firstName || !data.lastName || !data.email || !data.phone || !data.address || !data.zipCode) {
-      return NextResponse.json(
-        { error: 'Missing required fields' },
-        { status: 400 }
-      );
-    }
+    rawData = await request.json();
+  } catch {
+    return NextResponse.json(
+      { error: 'Invalid JSON payload' },
+      { status: 400 }
+    );
+  }
+
+  const parseResult = formSchema.safeParse(rawData);
+  
+  if (!parseResult.success) {
+    const errors = parseResult.error.errors.map(e => e.message).join(', ');
+    return NextResponse.json(
+      { error: `Validation failed: ${errors}` },
+      { status: 400 }
+    );
+  }
+
+  const data = parseResult.data;
+
+  try {
+    const safeFirstName = escapeHtml(data.firstName);
+    const safeLastName = escapeHtml(data.lastName);
+    const safeEmail = escapeHtml(data.email);
+    const safePhone = escapeHtml(data.phone);
+    const safeAddress = escapeHtml(data.address);
+    const safeZipCode = escapeHtml(data.zipCode);
+    const safeRealtorName = data.realtorName ? escapeHtml(data.realtorName) : '';
 
     // Format the email content
     const htmlBody = `
@@ -38,28 +71,28 @@ export async function POST(request: NextRequest) {
           <table style="width: 100%; border-collapse: collapse;">
             <tr>
               <td style="padding: 10px 0; font-weight: bold; width: 150px;">Name:</td>
-              <td style="padding: 10px 0;">${data.firstName} ${data.lastName}</td>
+              <td style="padding: 10px 0;">${safeFirstName} ${safeLastName}</td>
             </tr>
             <tr>
               <td style="padding: 10px 0; font-weight: bold;">Email:</td>
-              <td style="padding: 10px 0;"><a href="mailto:${data.email}">${data.email}</a></td>
+              <td style="padding: 10px 0;"><a href="mailto:${safeEmail}">${safeEmail}</a></td>
             </tr>
             <tr>
               <td style="padding: 10px 0; font-weight: bold;">Phone:</td>
-              <td style="padding: 10px 0;"><a href="tel:${data.phone}">${data.phone}</a></td>
+              <td style="padding: 10px 0;"><a href="tel:${safePhone}">${safePhone}</a></td>
             </tr>
             <tr>
               <td style="padding: 10px 0; font-weight: bold;">Address:</td>
-              <td style="padding: 10px 0;">${data.address}</td>
+              <td style="padding: 10px 0;">${safeAddress}</td>
             </tr>
             <tr>
               <td style="padding: 10px 0; font-weight: bold;">ZIP Code:</td>
-              <td style="padding: 10px 0;">${data.zipCode}</td>
+              <td style="padding: 10px 0;">${safeZipCode}</td>
             </tr>
-            ${data.realtorName ? `
+            ${safeRealtorName ? `
             <tr>
               <td style="padding: 10px 0; font-weight: bold;">Realtor/Agent:</td>
-              <td style="padding: 10px 0;">${data.realtorName}</td>
+              <td style="padding: 10px 0;">${safeRealtorName}</td>
             </tr>
             ` : ''}
           </table>
@@ -104,7 +137,7 @@ Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })
     // Send email notification
     await sendEmail({
       to: 'csrteam@idesignac.com',
-      subject: `New Homebuyer Offer: ${data.firstName} ${data.lastName} - ${data.zipCode}`,
+      subject: `New Homebuyer Offer: ${safeFirstName} ${safeLastName} - ${safeZipCode}`,
       htmlBody,
       textBody,
     });
