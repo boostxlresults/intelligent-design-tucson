@@ -82,9 +82,9 @@ export function RealtorsOfferForm() {
       <Card>
         <CardContent className="p-8 text-center">
           <CheckCircle className="w-16 h-16 mx-auto mb-4 text-green-600" />
-          <h3 className="text-2xl font-bold mb-2" data-testid="text-success-title">Client Registered!</h3>
+          <h3 className="text-2xl font-bold mb-2" data-testid="text-success-title">Thank You!</h3>
           <p className="text-muted-foreground mb-4" data-testid="text-success-message">
-            Your client's FREE 2-Year Protection Plan has been activated. We'll contact them shortly to schedule their first inspection.
+            Your client's FREE 2-Year Protection Plan has been activated. A Customer Care Specialist will reach out to them shortly to get them scheduled.
           </p>
           <p className="text-sm text-muted-foreground">
             A scheduling window should open momentarily...

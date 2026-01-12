@@ -80,7 +80,7 @@ export function NewHomebuyerForm() {
           <CheckCircle className="w-16 h-16 mx-auto mb-4 text-green-600" />
           <h3 className="text-2xl font-bold mb-2">Thank You!</h3>
           <p className="text-muted-foreground mb-4">
-            Your FREE 2-Year Protection Plan has been activated. Our team will contact you shortly.
+            Your FREE 2-Year Protection Plan has been activated. A Customer Care Specialist will reach out to you shortly to get you scheduled.
           </p>
           <p className="text-sm text-muted-foreground">
             The scheduling window will open automatically so you can book your first inspection...
