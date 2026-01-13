@@ -1,31 +1,56 @@
 "use client";
 
-import Script from "next/script";
+import { useEffect, useState, useRef, useCallback } from "react";
 import { getRealWorkLabsId } from "@/lib/realworklabs-mapping";
 
 const RWL_API_KEY = "Mv2yZInBciS35Sln";
+const RWL_BASE_URL = "https://app.realworklabs.com";
+
+let rwlScriptLoaded = false;
+let rwlScriptLoading = false;
+let rwlInitialized = false;
+const pendingCallbacks: (() => void)[] = [];
+
+function loadRealWorkLabsScript(onReady?: () => void) {
+  if (onReady) {
+    if (rwlInitialized) {
+      onReady();
+      return;
+    }
+    pendingCallbacks.push(onReady);
+  }
+
+  if (rwlScriptLoaded || rwlScriptLoading) return;
+  rwlScriptLoading = true;
+
+  const script = document.createElement("script");
+  script.src = `${RWL_BASE_URL}/static/plugin/loader.js?v=${Date.now()}`;
+  script.async = true;
+  
+  window.addEventListener("rwlPluginReady", () => {
+    rwlScriptLoaded = true;
+    if ((window as any).rwlPlugin) {
+      (window as any).rwlPlugin.init(RWL_BASE_URL, RWL_API_KEY);
+      rwlInitialized = true;
+      pendingCallbacks.forEach(cb => cb());
+      pendingCallbacks.length = 0;
+    }
+  }, { once: true });
+
+  document.body.appendChild(script);
+}
+
+function reinitializeWidget(elementId: string) {
+  const rwlPlugin = (window as any).rwlPlugin;
+  if (rwlPlugin && typeof rwlPlugin.refresh === "function") {
+    rwlPlugin.refresh();
+  } else if (rwlPlugin && typeof rwlPlugin.init === "function") {
+    rwlPlugin.init(RWL_BASE_URL, RWL_API_KEY);
+  }
+}
 
 export default function RealWorkLabs() {
-  return (
-    <Script
-      id="realworklabs-loader"
-      strategy="lazyOnload"
-      dangerouslySetInnerHTML={{
-        __html: `
-          (function(){
-            var d = document, t = 'script',
-                o = d.createElement(t),
-                s = d.getElementsByTagName(t)[0];
-            o.src = 'https://app.realworklabs.com/static/plugin/loader.js?v=' + new Date().getTime();
-            window.addEventListener('rwlPluginReady', function () {
-              window.rwlPlugin.init('https://app.realworklabs.com', '${RWL_API_KEY}');
-            }, false);
-            s.parentNode.insertBefore(o, s);
-          }());
-        `,
-      }}
-    />
-  );
+  return null;
 }
 
 export interface RealWorkLabsMapProps {
@@ -35,16 +60,44 @@ export interface RealWorkLabsMapProps {
 
 export function RealWorkLabsMap({ locationSlug, className = "" }: RealWorkLabsMapProps) {
   const rwlId = getRealWorkLabsId(locationSlug);
-  
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [isVisible, setIsVisible] = useState(false);
+
+  const initWidget = useCallback(() => {
+    if (rwlId) {
+      setTimeout(() => reinitializeWidget(rwlId), 100);
+    }
+  }, [rwlId]);
+
+  useEffect(() => {
+    if (!rwlId || !containerRef.current) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setIsVisible(true);
+          loadRealWorkLabsScript(initWidget);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: "200px" }
+    );
+
+    observer.observe(containerRef.current);
+    return () => observer.disconnect();
+  }, [rwlId, initWidget]);
+
   if (!rwlId) {
     return null;
   }
 
   return (
-    <div 
-      id={rwlId} 
+    <div
+      ref={containerRef}
+      id={rwlId}
       className={className}
       data-testid={`rwl-map-${locationSlug}`}
+      style={{ minHeight: isVisible ? undefined : "300px" }}
     />
   );
 }

@@ -799,6 +799,8 @@ export default function Header() {
                                                 onClick={() => toggleArea(subItem.name)}
                                                 className="flex items-center justify-center px-2 py-1.5 hover:bg-accent rounded-md transition-colors"
                                                 data-testid={`button-expand-${subItem.name.toLowerCase().replace(/\s+/g, '-')}`}
+                                                aria-label={`Expand ${subItem.name} locations`}
+                                                aria-expanded={expandedAreas[subItem.name] || false}
                                               >
                                                 <ChevronDown className={`w-3 h-3 transition-transform ${expandedAreas[subItem.name] ? 'rotate-180' : ''}`} />
                                               </button>
@@ -910,6 +912,7 @@ export default function Header() {
                   variant="ghost"
                   className="lg:hidden text-primary-foreground hover:bg-primary-foreground/10 h-20 w-20 p-0 flex items-center justify-center"
                   data-testid="button-menu"
+                  aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
                 >
                   {mobileMenuOpen ? (
                     <X className="!w-16 !h-16" />

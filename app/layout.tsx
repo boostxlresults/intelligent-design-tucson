@@ -9,8 +9,8 @@ import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import HatchChat from "@/components/integrations/HatchChat";
-import RealWorkLabs from "@/components/integrations/RealWorkLabs";
 import CookieConsent from "@/components/integrations/CookieConsent";
+import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({
@@ -72,10 +72,10 @@ export default function RootLayout({
             gtag('config', 'G-D10QGY0N5E');
           `}
         </Script>
-        {/* Contentsquare Analytics */}
+        {/* Contentsquare Analytics - deferred to reduce main thread blocking */}
         <Script
           src="https://t.contentsquare.net/uxa/9c3e82c07cad8.js"
-          strategy="afterInteractive"
+          strategy="lazyOnload"
         />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
@@ -91,16 +91,9 @@ export default function RootLayout({
         <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <ContractorCommercePlugin />
-        <RealWorkLabs />
         <HatchChat />
-        {/* ServiceTitan Scheduling Pro - uses lazyOnload for better INP */}
-        <Script
-          id="se-widget-embed"
-          src="https://embed.scheduler.servicetitan.com/scheduler-v1.js"
-          strategy="lazyOnload"
-          data-api-key="m1cp1a9zj306h48ohavpwg8w"
-          data-schedulerid="sched_vwgezlwi56yyvwdb0nzlng14"
-        />
+        {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
+        <ServiceTitanScheduler />
       </body>
     </html>
   );

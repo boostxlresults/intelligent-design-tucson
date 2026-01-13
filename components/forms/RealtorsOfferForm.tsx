@@ -1,11 +1,10 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Gift, Loader2, CheckCircle, Award } from 'lucide-react';
-
-const SCHEDULER_ID = 'sched_vwgezlwi56yyvwdb0nzlng14';
+import { useScheduler } from '@/components/integrations/ServiceTitanScheduler';
 
 interface FormData {
   clientFirstName: string;
@@ -30,6 +29,7 @@ export function RealtorsOfferForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSuccess, setIsSuccess] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const { openScheduler } = useScheduler();
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -66,9 +66,7 @@ export function RealtorsOfferForm() {
       setIsSuccess(true);
 
       setTimeout(() => {
-        if (typeof window !== 'undefined' && (window as any)._scheduler?.show) {
-          (window as any)._scheduler.show({ schedulerId: SCHEDULER_ID });
-        }
+        openScheduler();
       }, 1500);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Something went wrong');
