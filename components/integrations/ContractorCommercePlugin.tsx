@@ -1,27 +1,24 @@
 "use client";
 
 import Script from 'next/script';
+import { usePathname } from 'next/navigation';
 
-/**
- * ContractorCommercePlugin Component
- * 
- * Loads the Contractor Commerce plugin globally in the <head>
- * This enables interactive quote calculators and e-commerce functionality
- * 
- * Usage: Add to root layout for site-wide availability
- * 
- * Plugin supports:
- * - HVAC system quote calculator (navigator-key: NzdTlJWvihCCWjsf)
- * - Water heater quote calculator (navigator-key: ugVQLX7twEC3x7nG)
- * - Air filter shop (navigator-key: uaab4SY6TlT6rnz5)
- */
+const HIGH_PRIORITY_ROUTES = [
+  '/free-online-hvac-quote',
+  '/free-online-water-heater-quote',
+  '/filter-shop',
+];
+
 export default function ContractorCommercePlugin() {
+  const pathname = usePathname();
   const PLUGIN_KEY = "D32QhwUokdL5YZLParGpbxc7TuBTkYanGNQSR4zd";
+  
+  const isHighPriority = HIGH_PRIORITY_ROUTES.some(route => pathname?.startsWith(route));
   
   return (
     <Script
       src={`https://plugin.contractorcommerce.com?key=${PLUGIN_KEY}`}
-      strategy="lazyOnload"
+      strategy={isHighPriority ? "afterInteractive" : "lazyOnload"}
     />
   );
 }
