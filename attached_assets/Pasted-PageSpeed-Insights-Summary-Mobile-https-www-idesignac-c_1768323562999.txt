@@ -1,0 +1,141 @@
+PageSpeed Insights Summary (Mobile) — https://www.idesignac.com/
+Overall
+
+Core Web Vitals (field / CrUX): FAIL
+
+Field metrics shown: LCP 2.0s, INP 263ms, CLS 0
+
+Note: Lab results are much worse than field, which suggests heavy JS/3rd-party + device/network variability is hurting many users even if the median looks OK.
+
+Lighthouse Scores (Mobile)
+
+Performance: 29 (Fail)
+
+Accessibility: 87
+
+Best Practices: 81
+
+SEO: 92
+
+Lab Metrics (Mobile Lighthouse / Slow 4G / Moto G Power)
+
+FCP: 5.8s
+
+LCP: 12.8s (major problem)
+
+TBT: 2,030ms (major problem)
+
+Speed Index: 9.2s
+
+CLS: 0 (good)
+
+Primary Causes (what’s tanking performance)
+1) Excessive 3rd-party JS + main-thread blocking (biggest issue)
+
+Top offenders by main-thread time / transfer size:
+
+realworklabs (~436 KiB, ~856ms main thread, forced reflow ~487ms)
+
+outreachgenius.ai (~117 KiB, ~503ms main thread)
+
+Google Tag Manager / gtag (~409 KiB, ~348ms main thread)
+
+ContentSquare (~121 KiB, ~221ms main thread)
+
+ServiceTitan scheduler (very large: ~898 KiB total across files; also unused CSS/JS flagged)
+
+Plus: Facebook pixel, Google Maps JS (~302 KiB), Clarity, Posthog, etc.
+
+Lighthouse flags:
+
+“Minimize main-thread work” (6.7s total)
+
+“Reduce JavaScript execution time” (3.7s)
+
+“Avoid long main-thread tasks” (17 long tasks)
+
+“Reduce unused JavaScript” (~1,207 KiB potential savings)
+
+“Avoid enormous network payloads” (~3.5MB total)
+
+2) LCP is delayed mostly by render delay (not download)
+
+LCP breakdown shows a large element render delay (~1,860ms).
+
+LCP element appears to be the mobile hero image (hero-family-mobile.webp) with fetchpriority="high", but it’s still waiting behind JS/layout work.
+
+3) Caching + render blocking resources
+
+“Use efficient cache lifetimes” (sizable savings; many 3rd-party assets have no/low TTL)
+
+“Render blocking requests” (two first-party CSS chunk files delaying render)
+
+4) DOM is too large (affects style/layout cost + responsiveness)
+
+“Optimize DOM size”: ~7,356 elements, max depth 24, one widget has 189 children.
+
+This contributes to slower style calculation/layout and more expensive reflows.
+
+5) Smaller items
+
+Image optimization: logo served larger than needed (resize/responsive image)
+
+Legacy JS / polyfills flagged
+
+Some minification opportunity in a 3rd-party script
+
+SEO / Accessibility issues to fix (not the main performance blockers, but should be addressed)
+SEO
+
+“Links are not crawlable”: a large list of anchor tags missing proper href (looks like “Areas” list). These should be real <a href="/..."> links for crawl/discovery.
+
+Accessibility
+
+Buttons missing accessible names (add aria-label or visible text)
+
+Contrast issues on CTA/buttons (adjust colors)
+
+Touch targets too small (carousel bullets / slide controls)
+
+Some alt text redundancy (minor)
+
+Recommended Fix Plan (priority order)
+Priority 1 — Reduce TBT / JS blocking (biggest win)
+
+Defer/delay non-critical 3rd-party scripts until after first paint / user interaction:
+
+realworklabs, ContentSquare, OutreachGenius, Posthog surveys, Clarity, Facebook, etc.
+
+Audit GTM tags and remove/merge duplicates; load gtag/gtm as late as possible.
+
+Do not load ServiceTitan scheduler bundle sitewide unless needed above the fold (lazy-load on “Schedule” click or when scheduler section is near viewport).
+
+Lazy-load Google Maps JS (only on map interaction / map section visibility).
+
+Priority 2 — Improve LCP (hero)
+
+Ensure hero image is correctly sized for mobile and efficiently served (it’s already webp, but confirm real rendered size vs requested size).
+
+Remove anything above-the-fold that forces layout thrash.
+
+Keep CSS for hero/above-fold minimal and ensure it’s not blocked by slow CSS chunk loading.
+
+Priority 3 — Cache + critical rendering path
+
+Set long-lived caching headers for first-party assets (/_next/static/*) and confirm 3rd-party caching where possible.
+
+Reduce render-blocking CSS (combine critical CSS / reduce unused CSS).
+
+Priority 4 — DOM reduction
+
+Trim homepage DOM complexity (especially the large widget section). Consider:
+
+Pagination/virtualization for long lists
+
+Collapsing/hydrating below-the-fold sections later
+
+Priority 5 — Cleanup
+
+Fix crawlable links in the “Areas” section
+
+Accessibility fixes (aria labels, contrast, touch targets)
