@@ -2,6 +2,9 @@ import { NextRequest, NextResponse } from 'next/server';
 import { sendEmail } from '@/lib/gmail';
 import { z } from 'zod';
 
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
+
 const formSchema = z.object({
   firstName: z.string().min(1, 'First name is required').max(100).trim(),
   lastName: z.string().min(1, 'Last name is required').max(100).trim(),
