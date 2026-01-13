@@ -60,11 +60,17 @@ Preferred communication style: Simple, everyday language.
 - **Accessibility System:** WCAG 2.1 AA compliant system with font size controls, high contrast mode, readable font, and enhanced keyboard focus.
 - **Cookie Consent System:** GDPR/CCPA-compliant system with modal banner, consent persistence, and GTM integration.
 - **AI Search Optimization Strategy:** All pages are optimized for AI search engines with natural language Q&A, structured data, internal linking, and comprehensive local content. Zip code SEO features include location pages with zip code displays and meta descriptions.
+- **Script Lazy Loading Strategy:** Third-party scripts are lazy-loaded for optimal PageSpeed scores:
+  - **ServiceTitan Scheduler:** Loads on-demand via `useScheduler` hook only when user clicks Schedule buttons (saves ~898 KiB)
+  - **RealWorkLabs:** Uses IntersectionObserver to load script when map widgets enter viewport, with callback queue for re-initialization
+  - **ContentSquare:** Uses Next.js Script strategy="lazyOnload" for post-load execution
+  - **HatchChat:** Uses lazyOnload strategy for deferred chat widget loading
+- **Known Development Issue:** Webpack HMR error ("Cannot read properties of undefined (reading 'call')") may appear during hot reload in development. This is a Next.js 16 / React 19 Server Components limitation and does not affect production builds.
 
 ## External Dependencies
 
 ### Third-Party Services
-- **ServiceTitan:** Scheduling Pro widget (scheduler-v1.js with `_scheduler.show()` API) and Dynamic Number Insertion (DNI). Script loaded in app/layout.tsx with data-api-key and data-schedulerid attributes.
+- **ServiceTitan:** Scheduling Pro widget (scheduler-v1.js with `_scheduler.show()` API) and Dynamic Number Insertion (DNI). Scheduler script loads on-demand via `useScheduler` hook when user clicks Schedule buttons. DNI script uses afterInteractive strategy.
 - **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales.
 - **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs.
 - **WhoHire:** Job board plugin integration for careers page.
