@@ -1,8 +1,8 @@
 "use client";
 
-import { useState } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { Button } from '@/components/ui/button';
-import { useToast } from '@/hooks/use-toast';
+import { Loader2 } from 'lucide-react';
 
 declare global {
   interface Window {
@@ -27,28 +27,54 @@ export default function QuoteCallout({
   description = 'Answer a few quick questions, get an instant on-screen quote, and schedule a home visit.',
   buttonText = "Let's Go!",
 }: QuoteCalloutProps) {
-  const [isLoading, setIsLoading] = useState(false);
-  const { toast } = useToast();
+  const [isReady, setIsReady] = useState(false);
+  const [isWaiting, setIsWaiting] = useState(false);
+  const pendingClickRef = useRef(false);
+
+  const startJourney = useCallback(() => {
+    if (window.ContractorCommerce?.Journey) {
+      window.ContractorCommerce.Journey.start(journeyType);
+      setIsWaiting(false);
+      pendingClickRef.current = false;
+    }
+  }, [journeyType]);
+
+  useEffect(() => {
+    const checkReady = () => {
+      if (window.ContractorCommerce?.Journey) {
+        setIsReady(true);
+        if (pendingClickRef.current) {
+          startJourney();
+        }
+        return true;
+      }
+      return false;
+    };
+
+    if (checkReady()) return;
+
+    const interval = setInterval(() => {
+      if (checkReady()) {
+        clearInterval(interval);
+      }
+    }, 300);
+
+    const timeout = setTimeout(() => {
+      clearInterval(interval);
+    }, 30000);
+
+    return () => {
+      clearInterval(interval);
+      clearTimeout(timeout);
+    };
+  }, [startJourney]);
 
   const handleClick = () => {
-    if (window.ContractorCommerce?.Journey) {
-      setIsLoading(true);
-      try {
-        window.ContractorCommerce.Journey.start(journeyType);
-      } catch (error) {
-        toast({
-          title: "Quote Tool Loading",
-          description: "Please wait a moment and try again, or call us at (520) 333-2712.",
-          variant: "destructive",
-        });
-      } finally {
-        setIsLoading(false);
-      }
+    if (isReady) {
+      startJourney();
     } else {
-      toast({
-        title: "Quote Tool Loading",
-        description: "The quote tool is still loading. Please wait a moment or call us at (520) 333-2712.",
-      });
+      setIsWaiting(true);
+      pendingClickRef.current = true;
     }
   };
 
@@ -65,11 +91,16 @@ export default function QuoteCallout({
           <Button
             size="lg"
             onClick={handleClick}
-            disabled={isLoading}
+            disabled={isWaiting}
             className="bg-[#c41230] hover:bg-[#a10f28] text-white text-lg px-12 py-6 h-auto rounded-md font-semibold shadow-lg"
             data-testid="button-quote-callout"
           >
-            {isLoading ? 'Loading...' : buttonText}
+            {isWaiting ? (
+              <>
+                <Loader2 className="mr-2 h-5 w-5 animate-spin" />
+                Loading Quote Tool...
+              </>
+            ) : buttonText}
           </Button>
           <p className="mt-6 text-sm text-muted-foreground">
             Powered by{' '}
