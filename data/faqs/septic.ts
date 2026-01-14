@@ -9,7 +9,7 @@ import { ServiceFAQs } from './types';
 
 export const septicRepairFAQs: ServiceFAQs = {
   serviceId: 'septic-repair',
-  serviceName: 'Septic Repair',
+  serviceName: 'Septic Tank Repair',
   faqs: [
     {
       question: "What are the signs that my septic system needs repair in Tucson?",

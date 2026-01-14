@@ -44,7 +44,7 @@ export const septicrepairData: ServicePageData = {
   ],
 
   content: {
-    mainHeading: 'Best Septic Repair Company in Tucson, AZ',
+    mainHeading: 'Best Septic Tank Repair Company in Tucson, AZ',
     sections: [
       {
         type: "heading",
