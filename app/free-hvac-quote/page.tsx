@@ -6,6 +6,7 @@ import { CheckCircle2, Shield, Clock, Award, ThermometerSun, Zap, Leaf, Home } f
 import { getPageSchemas } from '@/lib/seo/schemaRegistry';
 import { SITE_URL } from '@/lib/constants';
 import ClientSchemas from '@/components/schemas/ClientSchemas';
+import QuoteCallout from '@/components/integrations/QuoteCallout';
 
 const productSchemas = getPageSchemas({
   pageType: 'product',
@@ -124,6 +125,14 @@ export default function FreeHVACQuotePage() {
           </div>
         </div>
       </section>
+
+      {/* Failsafe Quote CTA */}
+      <QuoteCallout
+        journeyType="systemQuote"
+        heading="Get a System Quote."
+        description="Answer a few quick questions, get an instant on-screen quote, and schedule a home visit."
+        buttonText="Let's Go!"
+      />
 
       {/* Intro Content Section */}
       <section className="py-12 md:py-16 border-b">
