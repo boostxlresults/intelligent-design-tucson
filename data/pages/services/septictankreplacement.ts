@@ -3,15 +3,15 @@ import type { ServicePageData } from '@/types/services';
 import { septicReplacementFAQs } from '@/data/faqs/septic';
 
 export const septictankreplacementData: ServicePageData = {
-  title: 'Septic Tank Replacement Tucson AZ | Tank & System Replacement Services',
-  description: 'Professional septic tank replacement in Tucson and Pima County. Old tank removal, new tank installation, drain field evaluation. Pima County permits handled. Call (520) 333-2665.',
+  title: 'Septic Tank Replacement Cost Tucson AZ | Septic System Replacement Cost',
+  description: 'Septic tank replacement cost & septic system replacement cost in Tucson. Professional tank removal and new installation with Pima County permits. Free estimates. Call (520) 333-2665.',
   slug: 'septic-tank-replacement',
   
-  h1: 'Professional Septic Tank Replacement in Tucson, AZ',
-  h2Subheading: 'Expert Septic Tank & System Replacement in Pima County',
-  tagline: 'Failed Tank Replacement | System Upgrades | Old Tank Removal | Pima County PDEQ Permits | Drain Field Evaluation | Licensed ROC #171687',
+  h1: 'Septic Tank Replacement Cost in Tucson, AZ',
+  h2Subheading: 'Septic System Replacement Cost - Honest Pricing',
+  tagline: 'Septic Tank Replacement Cost | Septic System Replacement Cost | Tank Removal | New Installation | Pima County Permits | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',
-  heroImageAlt: 'Septic Tank Replacement in Tucson',
+  heroImageAlt: 'Septic Tank Replacement Cost in Tucson AZ',
   
   serviceName: 'Septic Tank Replacement',
   category: 'Plumbing',

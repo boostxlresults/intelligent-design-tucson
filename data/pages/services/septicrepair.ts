@@ -3,17 +3,17 @@ import type { ServicePageData } from '@/types/services';
 import { septicRepairFAQs } from '@/data/faqs/septic';
 
 export const septicrepairData: ServicePageData = {
-  title: 'Septic Repair Tucson AZ | Emergency Septic System Repair & Drain Field Services',
-  description: 'Expert septic repair in Tucson and Pima County. Emergency service, drain field repair, pump replacement, root removal. Licensed & insured. Call (520) 333-2665 for septic repair.',
+  title: 'Septic Tank Repair Tucson AZ | Septic System Repair Near Me | Emergency Service',
+  description: 'Professional septic tank repair and septic system repair in Tucson & Pima County. Septic repair near me with 24/7 emergency service. Licensed septic system repair contractors. Call (520) 333-2665.',
   slug: 'septic-repair',
   
-  h1: 'Professional Septic Repair Services in Tucson, AZ',
-  h2Subheading: 'Expert Septic System Repair in Tucson',
-  tagline: 'Emergency Septic Repair | Drain Field Restoration | Pump Replacement | Root Removal | Pima County Permits | Licensed ROC #171687',
+  h1: 'Septic Tank Repair Services in Tucson, AZ',
+  h2Subheading: 'Expert Septic System Repair Contractors Near You',
+  tagline: 'Septic Tank Repair | Septic System Repair | Septic Repair Near Me | Emergency 24/7 Service | Pima County Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',
-  heroImageAlt: 'Septic Repair Services in Tucson',
+  heroImageAlt: 'Septic Tank Repair Services in Tucson AZ',
   
-  serviceName: 'Septic Repair',
+  serviceName: 'Septic Tank Repair',
   category: 'Plumbing',
   
   highlights: [

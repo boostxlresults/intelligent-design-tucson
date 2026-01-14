@@ -3,15 +3,15 @@ import type { ServicePageData } from '@/types/services';
 import { septicInstallationFAQs } from '@/data/faqs/septic';
 
 export const septictankinstallationData: ServicePageData = {
-  title: 'Septic Tank Installation Tucson AZ | New Septic System Installation & Permitting',
-  description: 'Professional septic tank installation in Tucson and Pima County. Site evaluation, perc testing, PDEQ permits, complete system installation. Call (520) 333-2665 for septic installation.',
+  title: 'Septic Tank Installation Cost Tucson AZ | Septic System Installation Near Me',
+  description: 'Septic tank installation cost & septic system installation cost in Tucson. Cost of putting in a septic tank with permits included. Septic tank installation near me. Call (520) 333-2665 for free estimate.',
   slug: 'septic-tank-installation',
   
-  h1: 'Professional Septic Tank Installation in Tucson, AZ',
-  h2Subheading: 'Expert Septic System Installation in Pima County',
-  tagline: 'New Construction Septic | Site Evaluation | Perc Testing | Pima County PDEQ Permits | Drain Field Design | Licensed ROC #171687',
+  h1: 'Septic Tank Installation & Cost in Tucson, AZ',
+  h2Subheading: 'Septic System Installation Near You - Affordable Pricing',
+  tagline: 'Septic Tank Installation | Septic System Installation | Cost to Install Septic System | Septic Tank Installation Near Me | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',
-  heroImageAlt: 'Septic Tank Installation in Tucson',
+  heroImageAlt: 'Septic Tank Installation Near Me in Tucson AZ',
   
   serviceName: 'Septic Tank Installation',
   category: 'Plumbing',
