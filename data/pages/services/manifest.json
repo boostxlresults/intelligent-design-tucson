@@ -884,6 +884,22 @@
       "dataFile": "sewerlinerepair",
       "canonicalSlug": "sewer-line-repair"
     },
+    "septic-repair": {
+      "dataFile": "septicrepair",
+      "canonicalSlug": "septic-repair"
+    },
+    "septic-tank-installation": {
+      "dataFile": "septictankinstallation",
+      "canonicalSlug": "septic-tank-installation"
+    },
+    "septic-tank-replacement": {
+      "dataFile": "septictankreplacement",
+      "canonicalSlug": "septic-tank-replacement"
+    },
+    "septic-permitting": {
+      "dataFile": "septicpermitting",
+      "canonicalSlug": "septic-permitting"
+    },
     "shingle-roofs": {
       "dataFile": "shingleroofs",
       "canonicalSlug": "shingle-roofs"

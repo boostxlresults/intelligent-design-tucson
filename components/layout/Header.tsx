@@ -163,6 +163,10 @@ export default function Header() {
       { name: "Sewer Camera Inspection", href: "/services/sewer-camera-inspection", icon: Radio },
       { name: "Trenchless Repair", href: "/services/trenchless-repair", icon: Settings },
       { name: "Water Softeners", href: "/services/water-softeners", icon: Droplets },
+      { name: "Septic Repair", href: "/services/septic-repair", icon: Wrench },
+      { name: "Septic Tank Installation", href: "/services/septic-tank-installation", icon: Package },
+      { name: "Septic Tank Replacement", href: "/services/septic-tank-replacement", icon: Settings },
+      { name: "Septic Permitting", href: "/services/septic-permitting", icon: Shield },
     ]
   };
 
