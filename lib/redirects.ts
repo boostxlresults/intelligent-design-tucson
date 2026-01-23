@@ -1097,6 +1097,35 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Solar pages with typos or old URL structures
 
   // Pages that were "Blocked by robots.txt" in old WordPress site
+
+  // ===== NEW REDIRECTS FROM GSC 404 ANALYSIS (Jan 2026) =====
+  
+  // Blog Post Redirects
+  '/spotlight-on-solar-air-conditioner': '/services/solar-ac-tucson',
+  '/why-you-should-consider-repiping-your-home': '/blog/plumbing/why-you-should-consider-repiping-your-home',
+  '/maximizing-solar-efficiency-steps-to-harness-the-suns-power': '/blog/solar/maximizing-solar-efficiency',
+  
+  // Service-Location Redirects (flat URL to hyphenated format)
+  '/electrical-greenvalley': '/services/electrical-green-valley',
+  '/plumbing-avravalley': '/services/plumbing-avra-valley',
+  '/electrical-picturerocks': '/services/electrical-picture-rocks',
+  '/drainsewer-sahuarita': '/services/drain-sewer-sahuarita',
+  '/hvac-redrockcasagrande': '/services/hvac-red-rock-casa-grande',
+  '/solarinstallation-rillito': '/services/solar-installation-rillito',
+  '/roofing-tanqueverde': '/services/roofing-tanque-verde',
+  '/drainsewer-coronadetucson': '/services/drain-sewer-corona-de-tucson',
+  '/hvac-picturerocks': '/services/hvac-picture-rocks',
+  '/roofing-casasadobes': '/services/roofing-casas-adobes',
+  '/drainsewer-avravalley': '/services/drain-sewer-avra-valley',
+  '/drainsewer-gladdenfarms': '/services/drain-sewer-gladden-farms',
+  '/roofing-ritaranch': '/services/roofing-rita-ranch',
+  '/electrical-ritaranch': '/services/electrical-rita-ranch',
+  
+  // Service Path Redirects
+  '/services/heating': '/services/hvac',
+  '/roofing/roof-types/pitched-roofs': '/services/pitched-roofs',
+  '/heater-installation': '/services/heater-installation-tucson',
+  '/heating/heater-service': '/services/heater-service-tucson',
 };
 
 /**
