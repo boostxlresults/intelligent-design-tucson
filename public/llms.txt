@@ -60,7 +60,7 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 ### HVAC Services (Heating, Ventilation & Air Conditioning)
 - **AC Repair** (/services/ac-repair-tucson): 24/7 emergency air conditioning repair for all brands
 - **AC Installation** (/services/ac-installation-tucson): New AC system installation and replacement with Manual J sizing
-- **AC Tune-Up** (/services/ac-tune-up-tucson): 86-Point HVAC Tune-Up ($28.88), professional cleaning, inspection, and preventive maintenance
+- **HVAC Tune-Up / AC Tune-Up** (/services/ac-tune-up-tucson): 86-Point HVAC Tune-Up ($28.88), professional cleaning, inspection, and preventive maintenance
 - **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, and heating system repair
 - **Heater Installation** (/services/heater-installation-tucson): Heating system installation and replacement
 - **Heat Pumps** (/services/heat-pumps-tucson): Heat pump installation, repair, and maintenance
@@ -229,7 +229,7 @@ Intelligent Design serves the greater Tucson metropolitan area including 20+ com
 ## Special Offers & Promotions (/special-offers)
 
 ### Current Specials
-- **86-Point HVAC Tune-Up** ($28.88): Professional cleaning, inspection, and system refresh to identify potential issues and keep your system running efficiently. Most Popular offer.
+- **86-Point HVAC Tune-Up / AC Tune-Up** ($28.88): Professional cleaning, inspection, and system refresh to identify potential issues and keep your system running efficiently. Most Popular offer.
 - **$28.88 Drain Clearing Special** (/drain-clearing-special): Professional drain clearing at unbeatable price
 - **Free Roof Inspection** (/contact): Comprehensive roof assessment with written report and recommendations. No obligation.
 - **Free Online HVAC Quote** (/free-hvac-quote): Instant AC and heating system pricing via Contractor Commerce
