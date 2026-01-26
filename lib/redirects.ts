@@ -7,6 +7,9 @@
  */
 
 export const LEGACY_REDIRECTS: Record<string, string> = {
+  // ===== URGENT REDIRECTS =====
+  '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing/preparing-roof-for-spring-storms',
+
   // ===== CORE PAGES =====
   '/commercial-maintenance': '/services/commercial-maintenance',
   '/plumbing': '/services/plumbing',
@@ -521,7 +524,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/air-conditioning-tucson-the-many-benefits-of-hiring-the-right-hvac-company': '/blog/hvac',
   '/preparing-the-home-for-summer-essential-tips-from-intelligent-design-air-conditioning-plumbing-solar-electric': '/blog/hvac',
   '/tips-for-finding-the-right-ac-repair-technician': '/blog/hvac/tips-for-finding-the-right-ac-repair-technician',
-  '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing/choosing-the-right-roofing-company-a-comprehensive-guide',
+  // Moved to top: '/choosing-the-right-roofing-company-a-comprehensive-guide' -> '/blog/roofing/preparing-roof-for-spring-storms'
   '/how-plumbers-in-tucson-can-help-business-owners': '/blog/plumbing/how-plumbers-in-tucson-can-help-business-owners',
   '/how-often-does-ac-need-to-be-replaced': '/blog/hvac/how-often-does-ac-need-to-be-replaced',
   '/how-to-choose-the-best-ac-replacement-system-for-your-home': '/blog/hvac/how-to-choose-the-best-ac-replacement-system-for-your-home',
