@@ -22,7 +22,7 @@ export default function EducationLibraryPage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hvac-hero.jpg"
+            src="/images/hero-background.png"
             alt="HVAC education and home services learning"
             fill
             priority

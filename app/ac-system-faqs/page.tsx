@@ -122,7 +122,7 @@ export default function ACSystemFAQsPage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hvac-hero.jpg"
+            src="/images/hero-background.png"
             alt="Air conditioning system FAQs and expert answers"
             fill
             priority

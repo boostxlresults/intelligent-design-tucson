@@ -270,7 +270,7 @@ export default function CommercialMaintenancePage() {
           {/* Background Image */}
           <div className="absolute inset-0">
             <Image
-              src="/images/hvac-hero.jpg"
+              src="/images/hero-background.png"
               alt="Commercial maintenance services in Tucson"
               fill
               priority

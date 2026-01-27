@@ -71,7 +71,7 @@ export default function SchedulePage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hvac-hero.jpg"
+            src="/images/hero-background.png"
             alt="Customer service and scheduling for home services"
             fill
             priority

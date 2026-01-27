@@ -109,7 +109,7 @@ export default function R22PhaseoutPage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hvac-hero.jpg"
+            src="/images/hero-background.png"
             alt="R22 refrigerant phaseout information for Tucson homeowners"
             fill
             priority

@@ -170,7 +170,7 @@ export default function KnowledgeHubPage() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <Image
-            src="/images/hvac-hero.jpg"
+            src="/images/hero-background.png"
             alt="Home services knowledge and education center"
             fill
             priority
