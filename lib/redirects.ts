@@ -1129,6 +1129,32 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/roofing/roof-types/pitched-roofs': '/services/pitched-roofs',
   '/heater-installation': '/services/heater-installation-tucson',
   '/heating/heater-service': '/services/heater-service-tucson',
+  
+  // ===== GSC PENDING VALIDATION BATCH (Jan 29, 2026) =====
+  // Only adding NEW redirects not already in the file above
+  
+  '/hvac-ritaranch': '/services/hvac-rita-ranch',
+  '/services/heating/': '/services/heating-tucson',
+  '/solar-energy-the-sustainable-energy-solution-for-home-and-business': '/blog/solar/solar-energy-the-sustainable-energy-solution-for-home-and-business',
+  
+  // Date Archive Redirects (to main blog page)
+  '/2020/10': '/blog',
+  '/2021/09': '/blog',
+  '/2021/11': '/blog',
+  '/2021/12': '/blog',
+  '/2022/01': '/blog',
+  '/2022/04': '/blog',
+  '/2022/06': '/blog',
+  '/2022/07': '/blog',
+  '/2022/08': '/blog',
+  '/2022/09': '/blog',
+  '/2022/11': '/blog',
+  '/2022/12': '/blog',
+  '/2023/03': '/blog',
+  '/2023/09': '/blog',
+  '/2023/10': '/blog',
+  '/2024/06': '/blog',
+  '/2025/06': '/blog',
 };
 
 /**
