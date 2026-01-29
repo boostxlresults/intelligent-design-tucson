@@ -1,6 +1,9 @@
 ---
 title: Why Solar Energy is the Best Source of Energy?
-description: 'Why Solar Energy is the Best Source of Energy? information for Arizona residents. Explore top recommendations with Intelligent Design''s solar installation ex...'
+description: >-
+  Why Solar Energy is the Best Source of Energy? information for Arizona
+  residents. Explore top recommendations with Intelligent Design's solar
+  installation ex...
 publishedAt: '2025-10-31T19:00:17.484Z'
 updatedAt: '2025-10-31T19:00:22.257Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/best_energy_source.png
+heroImage: /generated_images/choosing_solar_installer_steps.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/why-solar-energy-is-the-best-source-of-energy

@@ -1,6 +1,9 @@
 ---
 title: Top Questions to Ask Your AC Repair Technician
-description: 'Expert Top Questions to Ask Your AC Repair Technician guide for Tucson homeowners. Learn about top recommendations, repair solutions from Intelligent Design''...'
+description: >-
+  Expert Top Questions to Ask Your AC Repair Technician guide for Tucson
+  homeowners. Learn about top recommendations, repair solutions from Intelligent
+  Design'...
 publishedAt: '2025-10-31T18:48:58.974Z'
 updatedAt: '2025-10-31T18:49:05.439Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_repair_questions.png
+heroImage: /generated_images/commercial_ac_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/top-questions-to-ask-your-ac-repair-technician

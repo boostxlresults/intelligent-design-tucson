@@ -11,7 +11,7 @@ tags:
   - warranty
   - solar-service
   - solar-repair
-heroImage: /generated_images/solar_company_closed_recovery.png
+heroImage: /generated_images/Commercial_solar_panel_installation_a8b637e2.png
 publishedAt: '2024-09-15T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true
@@ -24,7 +24,11 @@ author: Intelligent Design Team
 video:
   id: S3q98_reFiE
   title: What to Do If Your Solar Company Closed - Expert Recovery Tips
-  description: Learn the essential steps to protect your solar investment when your installer goes out of business. Our expert team explains how to recover warranties, restore system performance, and find reliable ongoing support in Tucson.
+  description: >-
+    Learn the essential steps to protect your solar investment when your
+    installer goes out of business. Our expert team explains how to recover
+    warranties, restore system performance, and find reliable ongoing support in
+    Tucson.
   uploadDate: '2024-09-15T10:00:00Z'
   duration: PT8M30S
 ---

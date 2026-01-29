@@ -1,6 +1,9 @@
 ---
 title: The Ultimate Guide To Drain Cleaning
-description: 'The Ultimate Guide To Drain Cleaning solutions for Tucson properties. Learn about comprehensive information from Intelligent Design''s professional drain clea…'
+description: >-
+  The Ultimate Guide To Drain Cleaning solutions for Tucson properties. Learn
+  about comprehensive information from Intelligent Design's professional drain
+  clea…
 publishedAt: '2025-10-31T19:10:00.077Z'
 updatedAt: '2025-10-31T19:10:01.527Z'
 author: Intelligent Design Team
@@ -9,9 +12,10 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/ultimate_drain_cleaning_guide.png
+heroImage: /generated_images/Plumbing_maintenance_inspection_service_1be685bc.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/drain-sewer/the-ultimate-guide-to-drain-cleaning'
+canonicalUrl: >-
+  https://www.idesignac.com/blog/drain-sewer/the-ultimate-guide-to-drain-cleaning
 ---
 
 # The Ultimate Guide To Drain Cleaning

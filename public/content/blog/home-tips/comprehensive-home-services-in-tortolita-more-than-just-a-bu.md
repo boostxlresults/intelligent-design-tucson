@@ -2,13 +2,16 @@
 title: >-
   Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a
   Community Commitment
-description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
+description: >-
+  >- for Tucson homeowners. Get practical advice on expert solutions,
+  professional recommendations from Intelligent Design's home maintenance
+  specialists.
 publishedAt: '2025-10-31T19:11:06.986Z'
 updatedAt: '2025-10-31T19:11:10.722Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_tortolita.png
+heroImage: /generated_images/ecobee_smart_thermostat.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/comprehensive-home-services-in-tortolita-more-than-just-a-bu

@@ -1,6 +1,9 @@
 ---
 title: Plumbing Emergencies You Should Never Ignore in Plumbers Tucson
-description: 'Professional Plumbing Emergencies You Should Never Ignore in Plumbers Tucson advice for Tucson homes. Discover expert solutions, professional recommendations...'
+description: >-
+  Professional Plumbing Emergencies You Should Never Ignore in Plumbers Tucson
+  advice for Tucson homes. Discover expert solutions, professional
+  recommendations...
 publishedAt: '2025-10-31T19:09:57.167Z'
 updatedAt: '2025-10-31T19:10:01.530Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/plumbing_emergencies.png
+heroImage: /generated_images/trenchless_sewer_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/plumbing-emergencies-you-should-never-ignore-in-plumbers-tuc

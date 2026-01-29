@@ -1,6 +1,9 @@
 ---
 title: The Importance of Proper AC Installation Tucson
-description: 'Expert The Importance of Proper AC Installation Tucson guide for Tucson homeowners. Learn about installation options from Intelligent Design''s HVAC specialis...'
+description: >-
+  Expert The Importance of Proper AC Installation Tucson guide for Tucson
+  homeowners. Learn about installation options from Intelligent Design's HVAC
+  specialis...
 publishedAt: '2025-10-31T18:50:21.774Z'
 updatedAt: '2025-10-31T18:50:23.407Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /generated_images/proper_ac_installation.png
+heroImage: /generated_images/Blue-uniformed_HVAC_installers_working_82f3dc0d.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-of-proper-ac-installation-tucson

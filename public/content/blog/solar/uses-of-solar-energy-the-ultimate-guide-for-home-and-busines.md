@@ -1,6 +1,9 @@
 ---
 title: 'Uses of Solar Energy: The Ultimate Guide for Home And Business Owners'
-description: 'Uses of Solar Energy - The Ultimate Guide for Home And Business Owners information for Arizona residents. Explore comprehensive information with Intelligent ...'
+description: >-
+  Uses of Solar Energy - The Ultimate Guide for Home And Business Owners
+  information for Arizona residents. Explore comprehensive information with
+  Intelligent ...
 publishedAt: '2025-10-31T19:00:07.434Z'
 updatedAt: '2025-10-31T19:00:13.303Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_energy_uses.png
+heroImage: /generated_images/solar_installer_services.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/uses-of-solar-energy-the-ultimate-guide-for-home-and-busines

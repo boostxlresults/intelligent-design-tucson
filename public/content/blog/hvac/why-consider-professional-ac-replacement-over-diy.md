@@ -1,6 +1,9 @@
 ---
 title: Why Consider Professional AC Replacement Over DIY
-description: 'Expert Why Consider Professional AC Replacement Over DIY guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelli...'
+description: >-
+  Expert Why Consider Professional AC Replacement Over DIY guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intelli...
 publishedAt: '2025-10-31T18:49:18.955Z'
 updatedAt: '2025-10-31T18:49:26.275Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/professional_vs_diy_ac.png
+heroImage: /generated_images/ac_compressor_types.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-consider-professional-ac-replacement-over-diy

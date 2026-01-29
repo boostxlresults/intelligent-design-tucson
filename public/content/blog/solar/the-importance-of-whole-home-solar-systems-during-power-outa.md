@@ -1,6 +1,9 @@
 ---
 title: The Importance of Whole Home Solar Systems During Power Outages
-description: 'The Importance of Whole Home Solar Systems During Power Outages information for Arizona residents. Explore expert solutions, professional recommendations wit...'
+description: >-
+  The Importance of Whole Home Solar Systems During Power Outages information
+  for Arizona residents. Explore expert solutions, professional recommendations
+  wit...
 publishedAt: '2025-10-31T19:00:02.870Z'
 updatedAt: '2025-10-31T19:00:04.790Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_battery_backup.png
+heroImage: /generated_images/questions_for_solar_installers.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/the-importance-of-whole-home-solar-systems-during-power-outa

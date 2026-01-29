@@ -1,6 +1,9 @@
 ---
 title: 9 Warning Signs You Need a Drain Cleaning Service
-description: '9 Warning Signs You Need a Drain Cleaning Service solutions for Tucson properties. Learn about warning signs to watch for from Intelligent Design''s professio…'
+description: >-
+  9 Warning Signs You Need a Drain Cleaning Service solutions for Tucson
+  properties. Learn about warning signs to watch for from Intelligent Design's
+  professio…
 publishedAt: '2025-10-31T19:10:01.523Z'
 updatedAt: '2025-10-31T19:10:01.536Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/drain_cleaning_warning_signs.png
+heroImage: /generated_images/drain_cleaning_service.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/9-warning-signs-you-need-a-drain-cleaning-service

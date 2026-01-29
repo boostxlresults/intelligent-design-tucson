@@ -1,6 +1,9 @@
 ---
 title: How Do I Choose an Air Conditioning Unit?
-description: 'Expert How Do I Choose an Air Conditioning Unit? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Des...'
+description: >-
+  Expert How Do I Choose an Air Conditioning Unit? guide for Tucson homeowners.
+  Learn about expert solutions, professional recommendations from Intelligent
+  Des...
 publishedAt: '2025-10-31T18:50:44.723Z'
 updatedAt: '2025-10-31T18:50:51.049Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/choose_ac_unit.png
+heroImage: /generated_images/dual_fuel_heat_pump.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-do-i-choose-an-air-conditioning-unit'
 ---

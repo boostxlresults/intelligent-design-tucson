@@ -1,12 +1,15 @@
 ---
 title: Why Does a Repiping Project Need Professional Help?
-description: 'Professional Why Does a Repiping Project Need Professional Help? advice for Tucson homes. Discover expert solutions, professional recommendations with Intell...'
+description: >-
+  Professional Why Does a Repiping Project Need Professional Help? advice for
+  Tucson homes. Discover expert solutions, professional recommendations with
+  Intell...
 publishedAt: '2025-10-31T19:11:51.700Z'
 updatedAt: '2025-10-31T19:11:57.331Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_professional_help.png
+heroImage: /generated_images/commercial_plumbing_services.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/why-does-a-repiping-project-need-professional-help

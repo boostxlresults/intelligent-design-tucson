@@ -1,6 +1,9 @@
 ---
 title: Preparing Your HVAC System for Summer Essential Steps for Optimal Performance
-description: 'Expert Preparing Your HVAC System for Summer Essential Steps for Optimal Performance guide for Tucson homeowners. Learn about expert solutions, professional ...'
+description: >-
+  Expert Preparing Your HVAC System for Summer Essential Steps for Optimal
+  Performance guide for Tucson homeowners. Learn about expert solutions,
+  professional ...
 publishedAt: '2025-10-31T18:48:31.141Z'
 updatedAt: '2025-10-31T18:48:32.544Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/hvac_summer_prep.png
+heroImage: /generated_images/ac_solutions_provider.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/preparing-your-hvac-system-for-summer-essential-steps-for-op

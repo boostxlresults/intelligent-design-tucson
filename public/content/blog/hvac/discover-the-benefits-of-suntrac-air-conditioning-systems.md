@@ -1,6 +1,9 @@
 ---
 title: Discover the Benefits of SunTrac Air Conditioning Systems
-description: 'Expert Discover the Benefits of SunTrac Air Conditioning Systems guide for Tucson homeowners. Learn about key benefits and savings from Intelligent Design''s ...'
+description: >-
+  Expert Discover the Benefits of SunTrac Air Conditioning Systems guide for
+  Tucson homeowners. Learn about key benefits and savings from Intelligent
+  Design's ...
 publishedAt: '2025-10-31T18:50:30.726Z'
 updatedAt: '2025-10-31T18:50:32.509Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/suntrac_benefits.png
+heroImage: /generated_images/AC_repair_service_Tucson_0e76b972.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems

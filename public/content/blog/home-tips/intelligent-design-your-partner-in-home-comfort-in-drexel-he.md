@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Your Partner in Home Comfort in Drexel Heights'
-description: 'Intelligent Design - Your Partner in Home Comfort in Drexel Heights for Tucson homeowners. Get practical advice on expert solutions, professional recommendat...'
+description: >-
+  Intelligent Design - Your Partner in Home Comfort in Drexel Heights for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendat...
 publishedAt: '2025-10-31T19:11:16.365Z'
 updatedAt: '2025-10-31T19:11:19.498Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_comfort_drexel_heights.png
+heroImage: /generated_images/green_home_improvements.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-your-partner-in-home-comfort-in-drexel-he

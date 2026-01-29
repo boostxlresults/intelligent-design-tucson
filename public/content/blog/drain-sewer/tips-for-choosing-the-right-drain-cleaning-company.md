@@ -1,6 +1,9 @@
 ---
 title: Tips For Choosing The Right Drain Cleaning Company
-description: 'Tips For Choosing The Right Drain Cleaning Company solutions for Tucson properties. Learn about practical tips from Intelligent Design''s professional drain c…'
+description: >-
+  Tips For Choosing The Right Drain Cleaning Company solutions for Tucson
+  properties. Learn about practical tips from Intelligent Design's professional
+  drain c…
 publishedAt: '2025-10-31T19:09:51.482Z'
 updatedAt: '2025-10-31T19:09:52.929Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/choosing_drain_company.png
+heroImage: /generated_images/plumbing_mistakes_to_avoid.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/tips-for-choosing-the-right-drain-cleaning-company

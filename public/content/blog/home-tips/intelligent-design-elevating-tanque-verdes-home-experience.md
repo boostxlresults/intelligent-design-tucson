@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Elevating Tanque Verde’s Home Experience'
-description: 'Intelligent Design - Elevating Tanque Verde’s Home Experience for Tucson homeowners. Get practical advice on expert solutions, professional recommendations f...'
+description: >-
+  Intelligent Design - Elevating Tanque Verde’s Home Experience for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendations f...
 publishedAt: '2025-10-31T19:11:00.012Z'
 updatedAt: '2025-10-31T19:11:01.411Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_tanque_verde.png
+heroImage: /generated_images/activated_carbon_filter.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-elevating-tanque-verdes-home-experience

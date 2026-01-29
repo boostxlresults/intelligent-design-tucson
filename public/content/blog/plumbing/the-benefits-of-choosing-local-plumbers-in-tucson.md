@@ -1,6 +1,9 @@
 ---
 title: The Benefits of Choosing Local Plumbers in Tucson
-description: 'Professional The Benefits of Choosing Local Plumbers in Tucson advice for Tucson homes. Discover key benefits and savings with Intelligent Design''s licensed ...'
+description: >-
+  Professional The Benefits of Choosing Local Plumbers in Tucson advice for
+  Tucson homes. Discover key benefits and savings with Intelligent Design's
+  licensed ...
 publishedAt: '2025-10-31T19:09:52.920Z'
 updatedAt: '2025-10-31T19:09:52.923Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/local_plumbers_benefits.png
+heroImage: /generated_images/greywater_recycling_system.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-benefits-of-choosing-local-plumbers-in-tucson

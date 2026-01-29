@@ -1,6 +1,9 @@
 ---
 title: 'Choosing the Right HVAC System: Navigating The Options When HVAC Systems Fail'
-description: 'Expert Choosing the Right HVAC System - Navigating The Options When HVAC Systems Fail guide for Tucson homeowners. Learn about expert solutions, professional...'
+description: >-
+  Expert Choosing the Right HVAC System - Navigating The Options When HVAC
+  Systems Fail guide for Tucson homeowners. Learn about expert solutions,
+  professional...
 publishedAt: '2025-10-31T18:48:36.866Z'
 updatedAt: '2025-10-31T18:48:42.523Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/hvac_system_options.png
+heroImage: /generated_images/ac_solutions_provider.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/choosing-the-right-hvac-system-navigating-the-options-when-h

@@ -1,6 +1,9 @@
 ---
 title: 'Drain Snakes: Your Must-Have Tool for Efficient Drain Cleaning'
-description: 'Drain Snakes - Your Must-Have Tool for Efficient Drain Cleaning solutions for Tucson properties. Learn about expert solutions, professional recommendations f...'
+description: >-
+  Drain Snakes - Your Must-Have Tool for Efficient Drain Cleaning solutions for
+  Tucson properties. Learn about expert solutions, professional recommendations
+  f...
 publishedAt: '2025-10-31T19:08:54.551Z'
 updatedAt: '2025-10-31T19:09:04.505Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/drain_snake_tool.png
+heroImage: /generated_images/Professional_rooter_drain_clearing_a93068d8.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/drain-snakes-your-must-have-tool-for-efficient-drain-cleanin

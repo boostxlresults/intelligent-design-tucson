@@ -2,13 +2,16 @@
 title: >-
   Intelligent Design: Serving the Littletown Community with Unmatched Home
   Services
-description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
+description: >-
+  >- for Tucson homeowners. Get practical advice on expert solutions,
+  professional recommendations from Intelligent Design's home maintenance
+  specialists.
 publishedAt: '2025-10-31T19:10:41.165Z'
 updatedAt: '2025-10-31T19:10:44.419Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_littletown.png
+heroImage: /generated_images/Clean_home_air_quality_system_c083313f.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-serving-the-littletown-community-with-unm

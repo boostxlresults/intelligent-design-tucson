@@ -1,6 +1,9 @@
 ---
 title: DIY Guide to Basic AC Repairs
-description: 'Expert DIY Guide to Basic AC Repairs guide for Tucson homeowners. Learn about comprehensive information, repair solutions from Intelligent Design''s HVAC spec...'
+description: >-
+  Expert DIY Guide to Basic AC Repairs guide for Tucson homeowners. Learn about
+  comprehensive information, repair solutions from Intelligent Design's HVAC
+  spec...
 publishedAt: '2025-10-31T18:49:02.084Z'
 updatedAt: '2025-10-31T18:49:05.444Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/diy_ac_repairs.png
+heroImage: /generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/diy-guide-to-basic-ac-repairs'
 ---

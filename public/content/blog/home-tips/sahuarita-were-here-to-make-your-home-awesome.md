@@ -1,12 +1,15 @@
 ---
 title: 'Sahuarita, We’re Here to Make Your Home Awesome!'
-description: 'Sahuarita, We’re Here to Make Your Home Awesome! for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intellige...'
+description: >-
+  Sahuarita, We’re Here to Make Your Home Awesome! for Tucson homeowners. Get
+  practical advice on expert solutions, professional recommendations from
+  Intellige...
 publishedAt: '2025-10-31T19:11:23.580Z'
 updatedAt: '2025-10-31T19:11:27.997Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_sahuarita.png
+heroImage: /generated_images/energy_star_equipment.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/sahuarita-were-here-to-make-your-home-awesome

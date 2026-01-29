@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Your Trusted Home Service Provider in Summit, Arizona'
-description: 'Intelligent Design - Your Trusted Home Service Provider in Summit, Arizona for Tucson homeowners. Get practical advice on expert solutions, professional reco...'
+description: >-
+  Intelligent Design - Your Trusted Home Service Provider in Summit, Arizona for
+  Tucson homeowners. Get practical advice on expert solutions, professional
+  reco...
 publishedAt: '2025-10-31T19:11:04.033Z'
 updatedAt: '2025-10-31T19:11:10.720Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_summit_arizona.png
+heroImage: /generated_images/electrical_safety_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-your-trusted-home-service-provider-in-sum

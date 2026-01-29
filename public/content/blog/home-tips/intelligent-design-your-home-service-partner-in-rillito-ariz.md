@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Your Home Service Partner in Rillito, Arizona'
-description: 'Intelligent Design - Your Home Service Partner in Rillito, Arizona for Tucson homeowners. Get practical advice on expert solutions, professional recommendati...'
+description: >-
+  Intelligent Design - Your Home Service Partner in Rillito, Arizona for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendati...
 publishedAt: '2025-10-31T19:11:01.395Z'
 updatedAt: '2025-10-31T19:11:01.404Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_rillito.png
+heroImage: /generated_images/happy_family_with_technician_at_home.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-your-home-service-partner-in-rillito-ariz

@@ -1,6 +1,9 @@
 ---
 title: Why You Shouldn’t Overlook Drain Cleaning?
-description: 'Why You Shouldn’t Overlook Drain Cleaning? solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent Desig...'
+description: >-
+  Why You Shouldn’t Overlook Drain Cleaning? solutions for Tucson properties.
+  Learn about expert solutions, professional recommendations from Intelligent
+  Desig...
 publishedAt: '2025-10-31T19:09:35.334Z'
 updatedAt: '2025-10-31T19:09:35.351Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/dont_overlook_drain_cleaning.png
+heroImage: /generated_images/kitchen_plumbing_remodel.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/why-you-shouldnt-overlook-drain-cleaning

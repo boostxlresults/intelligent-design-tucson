@@ -1,12 +1,15 @@
 ---
 title: 'Serving the Three Points Community: More Than Just Home Services'
-description: 'Serving the Three Points Community - More Than Just Home Services for Tucson homeowners. Get practical advice on expert solutions, professional recommendatio...'
+description: >-
+  Serving the Three Points Community - More Than Just Home Services for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendatio...
 publishedAt: '2025-10-31T19:11:08.614Z'
 updatedAt: '2025-10-31T19:11:10.715Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_three_points.png
+heroImage: /generated_images/finding_ac_technician_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/serving-the-three-points-community-more-than-just-home-servi

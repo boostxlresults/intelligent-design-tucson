@@ -1,12 +1,15 @@
 ---
 title: Troubleshooting Common Issues During Or After A Repiping Project
-description: 'Professional Troubleshooting Common Issues During Or After A Repiping Project advice for Tucson homes. Discover expert solutions, professional recommendation...'
+description: >-
+  Professional Troubleshooting Common Issues During Or After A Repiping Project
+  advice for Tucson homes. Discover expert solutions, professional
+  recommendation...
 publishedAt: '2025-10-31T19:11:46.365Z'
 updatedAt: '2025-10-31T19:11:46.390Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_troubleshooting.png
+heroImage: /generated_images/plumbing_maintenance_checklist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/troubleshooting-common-issues-during-or-after-a-repiping-pro

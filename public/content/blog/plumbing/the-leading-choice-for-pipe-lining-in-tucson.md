@@ -1,6 +1,9 @@
 ---
 title: The Leading Choice for Pipe Lining in Tucson
-description: 'Professional The Leading Choice for Pipe Lining in Tucson advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent D...'
+description: >-
+  Professional The Leading Choice for Pipe Lining in Tucson advice for Tucson
+  homes. Discover expert solutions, professional recommendations with
+  Intelligent D...
 publishedAt: '2025-10-31T19:09:58.675Z'
 updatedAt: '2025-10-31T19:10:01.533Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/pipe_lining_tucson.png
+heroImage: /generated_images/pipe_repair_repiping.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-leading-choice-for-pipe-lining-in-tucson

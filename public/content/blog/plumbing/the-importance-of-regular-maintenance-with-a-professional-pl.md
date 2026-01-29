@@ -1,6 +1,9 @@
 ---
 title: The Importance of Regular Maintenance with a Professional Plumber in Tucson
-description: 'Professional The Importance of Regular Maintenance with a Professional Plumber in Tucson advice for Tucson homes. Discover maintenance best practices with In...'
+description: >-
+  Professional The Importance of Regular Maintenance with a Professional Plumber
+  in Tucson advice for Tucson homes. Discover maintenance best practices with
+  In...
 publishedAt: '2025-10-31T19:09:10.097Z'
 updatedAt: '2025-10-31T19:09:16.795Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/plumber_maintenance_tucson.png
+heroImage: /generated_images/plumbing_inspection_service.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-importance-of-regular-maintenance-with-a-professional-pl

@@ -1,6 +1,9 @@
 ---
 title: What You Need to Know About Hiring Solar Panel Installers
-description: 'What You Need to Know About Hiring Solar Panel Installers information for Arizona residents. Explore installation options with Intelligent Design''s solar ins...'
+description: >-
+  What You Need to Know About Hiring Solar Panel Installers information for
+  Arizona residents. Explore installation options with Intelligent Design's
+  solar ins...
 publishedAt: '2025-10-31T19:01:01.863Z'
 updatedAt: '2025-10-31T19:01:08.095Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/hiring_solar_installer.png
+heroImage: /generated_images/residential_solar_installation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/what-you-need-to-know-about-hiring-solar-panel-installers

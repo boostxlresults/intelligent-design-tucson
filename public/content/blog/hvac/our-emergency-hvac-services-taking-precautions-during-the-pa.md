@@ -1,6 +1,9 @@
 ---
 title: 'Our Emergency HVAC Services: Taking Precautions During the Pandemic'
-description: 'Expert Our Emergency HVAC Services - Taking Precautions During the Pandemic guide for Tucson homeowners. Learn about expert solutions, professional recommend...'
+description: >-
+  Expert Our Emergency HVAC Services - Taking Precautions During the Pandemic
+  guide for Tucson homeowners. Learn about expert solutions, professional
+  recommend...
 publishedAt: '2025-10-31T18:50:23.400Z'
 updatedAt: '2025-10-31T18:50:23.409Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - hvac-maintenance
   - ac-replacement
   - tucson
-heroImage: /generated_images/emergency_hvac_services.png
+heroImage: /generated_images/ac_contactor_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/our-emergency-hvac-services-taking-precautions-during-the-pa

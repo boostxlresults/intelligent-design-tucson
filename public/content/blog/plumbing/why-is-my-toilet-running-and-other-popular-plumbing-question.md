@@ -1,6 +1,9 @@
 ---
 title: Why Is My Toilet Running? And Other Popular Plumbing Questions
-description: 'Professional Why Is My Toilet Running? And Other Popular Plumbing Questions advice for Tucson homes. Discover expert solutions, professional recommendations ...'
+description: >-
+  Professional Why Is My Toilet Running? And Other Popular Plumbing Questions
+  advice for Tucson homes. Discover expert solutions, professional
+  recommendations ...
 publishedAt: '2025-10-31T19:10:04.244Z'
 updatedAt: '2025-10-31T19:10:10.186Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/toilet_running_plumbing.png
+heroImage: /generated_images/Water_filtration_system_installation_b800de70.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/why-is-my-toilet-running-and-other-popular-plumbing-question

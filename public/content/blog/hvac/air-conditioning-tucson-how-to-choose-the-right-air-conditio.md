@@ -2,7 +2,10 @@
 title: >-
   Air Conditioning Tucson: How to Choose the Right Air Conditioning Unit for
   Your Home
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:35.326Z'
 updatedAt: '2025-10-31T18:48:42.526Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/choosing_right_ac.png
+heroImage: /generated_images/ac_repair_faqs_answered.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-tucson-how-to-choose-the-right-air-conditio

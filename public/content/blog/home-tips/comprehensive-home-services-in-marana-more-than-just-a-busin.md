@@ -2,13 +2,16 @@
 title: >-
   Comprehensive Home Services in Marana: More Than Just a Business, We’re Your
   Neighbors
-description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
+description: >-
+  >- for Tucson homeowners. Get practical advice on expert solutions,
+  professional recommendations from Intelligent Design's home maintenance
+  specialists.
 publishedAt: '2025-10-31T19:11:36.355Z'
 updatedAt: '2025-10-31T19:11:36.370Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_marana.png
+heroImage: /generated_images/energy_auditor_thermal_scan_home.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/comprehensive-home-services-in-marana-more-than-just-a-busin

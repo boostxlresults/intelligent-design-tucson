@@ -1,6 +1,9 @@
 ---
 title: Is It Safe to Use Chemical Drain Cleaners?
-description: 'Is It Safe to Use Chemical Drain Cleaners? solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent Desig...'
+description: >-
+  Is It Safe to Use Chemical Drain Cleaners? solutions for Tucson properties.
+  Learn about expert solutions, professional recommendations from Intelligent
+  Desig...
 publishedAt: '2025-10-31T19:10:21.621Z'
 updatedAt: '2025-10-31T19:10:23.128Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/chemical_drain_cleaners_safety.png
+heroImage: /generated_images/Sewer_line_repair_service_6973017c.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/is-it-safe-to-use-chemical-drain-cleaners

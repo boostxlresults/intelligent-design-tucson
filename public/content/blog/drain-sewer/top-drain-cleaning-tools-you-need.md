@@ -1,6 +1,9 @@
 ---
 title: Top Drain Cleaning Tools You Need
-description: 'Top Drain Cleaning Tools You Need solutions for Tucson properties. Learn about top recommendations from Intelligent Design''s professional drain cleaning team.'
+description: >-
+  Top Drain Cleaning Tools You Need solutions for Tucson properties. Learn about
+  top recommendations from Intelligent Design's professional drain cleaning
+  team.
 publishedAt: '2025-10-31T19:09:24.767Z'
 updatedAt: '2025-10-31T19:09:26.267Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - plumbing-repair
   - drain-cleaning
   - repiping
-heroImage: /generated_images/drain_cleaning_tools.png
+heroImage: /generated_images/professional_plumber_fixing_kitchen_sink.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/drain-sewer/top-drain-cleaning-tools-you-need'
 ---

@@ -1,6 +1,9 @@
 ---
 title: Steps to Take When Choosing a Solar Panel Installer
-description: 'Steps to Take When Choosing a Solar Panel Installer information for Arizona residents. Explore installation options with Intelligent Design''s solar installat...'
+description: >-
+  Steps to Take When Choosing a Solar Panel Installer information for Arizona
+  residents. Explore installation options with Intelligent Design's solar
+  installat...
 publishedAt: '2025-10-31T19:00:29.822Z'
 updatedAt: '2025-10-31T19:00:31.243Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_installer_checklist.png
+heroImage: /generated_images/off-grid_solar_system.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/steps-to-take-when-choosing-a-solar-panel-installer

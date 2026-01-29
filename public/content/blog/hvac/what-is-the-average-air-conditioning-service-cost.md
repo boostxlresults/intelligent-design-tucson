@@ -1,6 +1,9 @@
 ---
 title: What Is the Average Air Conditioning Service Cost?
-description: 'Expert What Is the Average Air Conditioning Service Cost? guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s HVAC s...'
+description: >-
+  Expert What Is the Average Air Conditioning Service Cost? guide for Tucson
+  homeowners. Learn about costs and pricing factors from Intelligent Design's
+  HVAC s...
 publishedAt: '2025-10-31T18:50:40.109Z'
 updatedAt: '2025-10-31T18:50:41.631Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - hvac-maintenance
   - ac-replacement
   - tucson
-heroImage: /generated_images/ac_service_cost.png
+heroImage: /generated_images/ac_health_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-average-air-conditioning-service-cost

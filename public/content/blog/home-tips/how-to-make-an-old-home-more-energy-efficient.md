@@ -10,7 +10,7 @@ tags:
   - home-improvement
   - insulation
   - tucson
-heroImage: /generated_images/home_energy_audit.png
+heroImage: /generated_images/attic_ventilation_improvement.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/how-to-make-an-old-home-more-energy-efficient'
 ---

@@ -1,6 +1,9 @@
 ---
 title: Why Choose Intelligent Design Team for Your AC Replacement Needs
-description: 'Expert Why Choose Intelligent Design Team for Your AC Replacement Needs guide for Tucson homeowners. Learn about expert solutions, professional recommendatio...'
+description: >-
+  Expert Why Choose Intelligent Design Team for Your AC Replacement Needs guide
+  for Tucson homeowners. Learn about expert solutions, professional
+  recommendatio...
 publishedAt: '2025-10-31T18:49:00.435Z'
 updatedAt: '2025-10-31T18:49:05.442Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/intelligent_design_ac_team.png
+heroImage: /generated_images/ac_capacitor_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-choose-intelligent-design-team-for-your-ac-replacement-n

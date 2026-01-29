@@ -1,6 +1,9 @@
 ---
 title: 'Repair or Replace: Making the Right Decision for HVAC Systems'
-description: 'Expert Repair or Replace - Making the Right Decision for HVAC Systems guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVA...'
+description: >-
+  Expert Repair or Replace - Making the Right Decision for HVAC Systems guide
+  for Tucson homeowners. Learn about repair solutions from Intelligent Design's
+  HVA...
 publishedAt: '2025-10-31T18:48:28.250Z'
 updatedAt: '2025-10-31T18:48:32.539Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/repair_vs_replace_hvac.png
+heroImage: /generated_images/AC_installation_Tucson_home_a4d097e8.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/repair-or-replace-making-the-right-decision-for-hvac-systems

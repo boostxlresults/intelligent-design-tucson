@@ -1,6 +1,9 @@
 ---
 title: Understanding the Importance of Air Conditioning in the Tucson Climate
-description: 'Expert Understanding the Importance of Air Conditioning in the Tucson Climate guide for Tucson homeowners. Learn about expert solutions, professional recomme...'
+description: >-
+  Expert Understanding the Importance of Air Conditioning in the Tucson Climate
+  guide for Tucson homeowners. Learn about expert solutions, professional
+  recomme...
 publishedAt: '2025-10-31T18:48:48.294Z'
 updatedAt: '2025-10-31T18:48:56.011Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_importance_tucson.png
+heroImage: /generated_images/emergency_ac_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/understanding-the-importance-of-air-conditioning-in-the-tucs

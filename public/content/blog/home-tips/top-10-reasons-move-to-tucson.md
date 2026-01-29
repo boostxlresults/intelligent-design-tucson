@@ -13,7 +13,7 @@ tags:
   - lifestyle
   - real-estate
   - arizona-living
-heroImage: /generated_images/move_to_tucson.png
+heroImage: /generated_images/geothermal_heat_pump.png
 publishedAt: '2025-01-20T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

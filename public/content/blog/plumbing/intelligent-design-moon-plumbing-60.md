@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:10:18.947Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/intelligent_design_plumbing.png
+heroImage: /generated_images/commercial_plumbing_services.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/plumbing/intelligent-design-moon-plumbing-60'
 ---

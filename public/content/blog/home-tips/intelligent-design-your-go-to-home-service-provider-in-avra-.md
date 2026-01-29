@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Your Go-To Home Service Provider in Avra Valley'
-description: 'Intelligent Design - Your Go-To Home Service Provider in Avra Valley for Tucson homeowners. Get practical advice on expert solutions, professional recommenda...'
+description: >-
+  Intelligent Design - Your Go-To Home Service Provider in Avra Valley for
+  Tucson homeowners. Get practical advice on expert solutions, professional
+  recommenda...
 publishedAt: '2025-10-31T19:11:05.403Z'
 updatedAt: '2025-10-31T19:11:10.717Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_avra_valley.png
+heroImage: /generated_images/family_enjoying_home_comfort.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-your-go-to-home-service-provider-in-avra-

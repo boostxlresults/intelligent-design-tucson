@@ -2,7 +2,10 @@
 title: >-
   Choosing the Best AC Repair Near Me: Essential Tips for Finding Reliable
   Service
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:32.535Z'
 updatedAt: '2025-10-31T18:48:32.546Z'
 author: Intelligent Design Team
@@ -12,7 +15,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/best_ac_repair_near_me.png
+heroImage: /generated_images/ac_maintenance_plan_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/choosing-the-best-ac-repair-near-me-essential-tips-for-findi

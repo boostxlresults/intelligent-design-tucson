@@ -10,7 +10,7 @@ category: solar
 tags:
   - solar-energy
   - tucson
-heroImage: /generated_images/tucson_home_services_excellence.png
+heroImage: /generated_images/before_installing_solar.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/serving-tucson-with-excellence-your-one-stop-solution-for-ac

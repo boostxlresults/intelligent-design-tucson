@@ -1,6 +1,9 @@
 ---
 title: How Come My Air Conditioning Unit Smells Bad?
-description: 'Expert How Come My Air Conditioning Unit Smells Bad? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent...'
+description: >-
+  Expert How Come My Air Conditioning Unit Smells Bad? guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intelligent...
 publishedAt: '2025-10-31T18:50:41.622Z'
 updatedAt: '2025-10-31T18:50:41.623Z'
 author: Intelligent Design Team
@@ -10,16 +13,19 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_bad_smell.png
+heroImage: /generated_images/cool_summer_in_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-come-my-air-conditioning-unit-smells-bad
 video:
   id: iMDpnA9XrWA
-  title: "Why Does My AC Smell Bad? Common Causes & Solutions"
-  description: "Learn about the common causes of bad AC smells including mold growth, pest infestations, burning odors, and more. Our HVAC experts explain what each smell means and how to fix it."
+  title: Why Does My AC Smell Bad? Common Causes & Solutions
+  description: >-
+    Learn about the common causes of bad AC smells including mold growth, pest
+    infestations, burning odors, and more. Our HVAC experts explain what each
+    smell means and how to fix it.
   duration: PT4M32S
-  uploadDate: "2024-06-15T00:00:00Z"
+  uploadDate: '2024-06-15T00:00:00Z'
 ---
 
 # How Come My Air Conditioning Unit Smells Bad?

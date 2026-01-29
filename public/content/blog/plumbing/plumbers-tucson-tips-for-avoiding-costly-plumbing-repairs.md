@@ -1,6 +1,9 @@
 ---
 title: 'Plumbers Tucson: Tips for Avoiding Costly Plumbing Repairs'
-description: 'Professional Plumbers Tucson - Tips for Avoiding Costly Plumbing Repairs advice for Tucson homes. Discover costs and pricing factors, practical tips with Int...'
+description: >-
+  Professional Plumbers Tucson - Tips for Avoiding Costly Plumbing Repairs
+  advice for Tucson homes. Discover costs and pricing factors, practical tips
+  with Int...
 publishedAt: '2025-10-31T19:10:08.558Z'
 updatedAt: '2025-10-31T19:10:10.176Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/avoid_plumbing_repairs.png
+heroImage: /generated_images/gas_line_installation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/plumbers-tucson-tips-for-avoiding-costly-plumbing-repairs

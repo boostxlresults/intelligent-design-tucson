@@ -1,6 +1,9 @@
 ---
 title: Questions to Ask When Getting Quotes for AC Replacement in Tucson
-description: 'Expert Questions to Ask When Getting Quotes for AC Replacement in Tucson guide for Tucson homeowners. Learn about expert solutions, professional recommendati...'
+description: >-
+  Expert Questions to Ask When Getting Quotes for AC Replacement in Tucson guide
+  for Tucson homeowners. Learn about expert solutions, professional
+  recommendati...
 publishedAt: '2025-10-31T18:49:50.238Z'
 updatedAt: '2025-10-31T18:49:53.360Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_replacement_quotes.png
+heroImage: /generated_images/AC_installation_Tucson_home_423faef7.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/questions-to-ask-when-getting-quotes-for-ac-replacement-in-t

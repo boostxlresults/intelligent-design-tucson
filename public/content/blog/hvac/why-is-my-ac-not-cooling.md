@@ -11,7 +11,7 @@ tags:
   - tucson
   - cooling-problems
   - hvac-maintenance
-heroImage: /generated_images/ac_not_cooling_solutions.png
+heroImage: /generated_images/ac_solutions_provider.png
 publishedAt: '2024-08-10T09:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

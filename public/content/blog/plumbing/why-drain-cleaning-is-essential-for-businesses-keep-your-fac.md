@@ -2,7 +2,10 @@
 title: >-
   Why Drain Cleaning Is Essential for Businesses: Keep Your Facility Running
   Smoothly
-description: 'Professional >- advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent Design''s licensed plumbers serving the comm...'
+description: >-
+  Professional >- advice for Tucson homes. Discover expert solutions,
+  professional recommendations with Intelligent Design's licensed plumbers
+  serving the comm...
 publishedAt: '2025-10-31T19:09:44.140Z'
 updatedAt: '2025-10-31T19:09:44.154Z'
 author: Intelligent Design Team
@@ -12,7 +15,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/commercial_drain_cleaning.png
+heroImage: /generated_images/kitchen_plumbing_remodel.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/why-drain-cleaning-is-essential-for-businesses-keep-your-fac

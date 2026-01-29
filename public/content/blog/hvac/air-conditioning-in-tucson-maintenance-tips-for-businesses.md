@@ -1,6 +1,9 @@
 ---
 title: 'Air Conditioning in Tucson: Maintenance Tips for Businesses'
-description: 'Expert Air Conditioning in Tucson - Maintenance Tips for Businesses guide for Tucson homeowners. Learn about practical tips, maintenance best practices from ...'
+description: >-
+  Expert Air Conditioning in Tucson - Maintenance Tips for Businesses guide for
+  Tucson homeowners. Learn about practical tips, maintenance best practices from
+  ...
 publishedAt: '2025-10-31T18:49:43.974Z'
 updatedAt: '2025-10-31T18:49:43.995Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/commercial_ac_maintenance.png
+heroImage: /generated_images/ac_not_cooling_upstairs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses

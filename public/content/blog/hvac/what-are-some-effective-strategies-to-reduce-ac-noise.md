@@ -1,6 +1,9 @@
 ---
 title: What Are Some Effective Strategies to Reduce AC Noise?
-description: 'Expert What Are Some Effective Strategies to Reduce AC Noise? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from In...'
+description: >-
+  Expert What Are Some Effective Strategies to Reduce AC Noise? guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  In...
 publishedAt: '2025-10-31T18:47:57.975Z'
 updatedAt: '2025-10-31T18:48:04.979Z'
 author: Intelligent Design Team
@@ -9,21 +12,29 @@ tags:
   - ac-repair
   - ac-replacement
   - tucson
-heroImage: /generated_images/reduce_ac_noise.png
+heroImage: /generated_images/ac_repair_specialist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-are-some-effective-strategies-to-reduce-ac-noise
 videos:
   - id: 9PIWmP9ACpg
-    title: "Air Conditioner Noise: How to Reduce It"
-    description: "iDesign Answers: What are effective strategies for air conditioner noise reduction? It depends on the underlying problem, which might involve an off-balance wheel or a blower motor that's worn out. Learn about motor noises, intake noises, whistling, furnace noises, and outside unit solutions."
+    title: 'Air Conditioner Noise: How to Reduce It'
+    description: >-
+      iDesign Answers: What are effective strategies for air conditioner noise
+      reduction? It depends on the underlying problem, which might involve an
+      off-balance wheel or a blower motor that's worn out. Learn about motor
+      noises, intake noises, whistling, furnace noises, and outside unit
+      solutions.
     duration: PT5M2S
-    uploadDate: "2019-12-15T00:00:00Z"
+    uploadDate: '2019-12-15T00:00:00Z'
   - id: Jv4B0yaf1F4
-    title: "Why Is My AC Making Noise?"
-    description: "Andrew Dobbins explains common causes of AC noise including motor noise vs air resistance noise, compressor issues, off-balance fan motors, and dirty blower motors. Learn how to identify and fix these problems."
+    title: Why Is My AC Making Noise?
+    description: >-
+      Andrew Dobbins explains common causes of AC noise including motor noise vs
+      air resistance noise, compressor issues, off-balance fan motors, and dirty
+      blower motors. Learn how to identify and fix these problems.
     duration: PT1M12S
-    uploadDate: "2020-01-09T00:00:00Z"
+    uploadDate: '2020-01-09T00:00:00Z'
 ---
 
 # What Are Some Effective Strategies to Reduce AC Noise?

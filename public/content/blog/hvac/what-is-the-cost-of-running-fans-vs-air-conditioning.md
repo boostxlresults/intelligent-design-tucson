@@ -1,6 +1,9 @@
 ---
 title: What Is the Cost of Running Fans vs. Air Conditioning?
-description: 'Expert What Is the Cost of Running Fans vs. Air Conditioning? guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s HV...'
+description: >-
+  Expert What Is the Cost of Running Fans vs. Air Conditioning? guide for Tucson
+  homeowners. Learn about costs and pricing factors from Intelligent Design's
+  HV...
 publishedAt: '2025-10-31T18:50:38.630Z'
 updatedAt: '2025-10-31T18:50:41.625Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - ac-repair
   - ac-installation
   - tucson
-heroImage: /generated_images/fans_vs_ac_cost.png
+heroImage: /generated_images/ac_health_risks.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-cost-of-running-fans-vs-air-conditioning

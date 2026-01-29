@@ -1,6 +1,9 @@
 ---
 title: Mastering Winter Pipe Protection in Freezing Weather
-description: 'Professional Mastering Winter Pipe Protection in Freezing Weather advice for Tucson homes. Discover expert solutions, professional recommendations with Intel...'
+description: >-
+  Professional Mastering Winter Pipe Protection in Freezing Weather advice for
+  Tucson homes. Discover expert solutions, professional recommendations with
+  Intel...
 publishedAt: '2025-10-31T19:08:57.127Z'
 updatedAt: '2025-10-31T19:09:04.499Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - plumbing-repair
   - repiping
   - tucson
-heroImage: /generated_images/winter_pipe_protection.png
+heroImage: /generated_images/water_conservation_arizona.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/mastering-winter-pipe-protection-in-freezing-weather

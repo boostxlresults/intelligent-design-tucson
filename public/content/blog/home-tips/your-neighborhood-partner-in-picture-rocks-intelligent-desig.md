@@ -1,12 +1,15 @@
 ---
 title: 'Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services'
-description: 'Your Neighborhood Partner in Picture Rocks - Intelligent Design’s Home Services for Tucson homeowners. Get practical advice on expert solutions, professional...'
+description: >-
+  Your Neighborhood Partner in Picture Rocks - Intelligent Design’s Home
+  Services for Tucson homeowners. Get practical advice on expert solutions,
+  professional...
 publishedAt: '2025-10-31T19:11:13.560Z'
 updatedAt: '2025-10-31T19:11:19.491Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_picture_rocks.png
+heroImage: /generated_images/energy_efficient_home_upgrades.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/your-neighborhood-partner-in-picture-rocks-intelligent-desig

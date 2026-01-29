@@ -1,6 +1,9 @@
 ---
 title: Air Conditioner Solutions by Intelligent Design
-description: 'Expert Air Conditioner Solutions by Intelligent Design guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intellige...'
+description: >-
+  Expert Air Conditioner Solutions by Intelligent Design guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intellige...
 publishedAt: '2025-10-31T19:10:44.409Z'
 updatedAt: '2025-10-31T19:10:44.424Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_solutions.png
+heroImage: /generated_images/ac_health_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioner-solutions-by-intelligent-design

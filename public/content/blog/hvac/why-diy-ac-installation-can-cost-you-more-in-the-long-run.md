@@ -1,6 +1,9 @@
 ---
 title: Why DIY AC Installation Can Cost You More in the Long Run
-description: 'Expert Why DIY AC Installation Can Cost You More in the Long Run guide for Tucson homeowners. Learn about costs and pricing factors, installation options fro...'
+description: >-
+  Expert Why DIY AC Installation Can Cost You More in the Long Run guide for
+  Tucson homeowners. Learn about costs and pricing factors, installation options
+  fro...
 publishedAt: '2025-10-31T18:48:07.694Z'
 updatedAt: '2025-10-31T18:48:13.907Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/diy_ac_installation_cost.png
+heroImage: /generated_images/ac_contactor_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-diy-ac-installation-can-cost-you-more-in-the-long-run

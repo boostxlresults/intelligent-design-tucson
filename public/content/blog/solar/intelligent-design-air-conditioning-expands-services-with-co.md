@@ -2,7 +2,10 @@
 title: >-
   Intelligent Design Air Conditioning Expands Services with Comprehensive Solar
   Solutions
-description: '>- information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Design''s solar installation experts in Tucson.'
+description: >-
+  >- information for Arizona residents. Explore expert solutions, professional
+  recommendations with Intelligent Design's solar installation experts in
+  Tucson.
 publishedAt: '2025-10-31T18:48:20.705Z'
 updatedAt: '2025-10-31T18:48:23.915Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/idesign_solar_services.png
+heroImage: /generated_images/solar_energy_advantages.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/intelligent-design-air-conditioning-expands-services-with-co

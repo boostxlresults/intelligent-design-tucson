@@ -1,6 +1,9 @@
 ---
 title: The Importance of Hiring the Right Drain Company
-description: 'The Importance of Hiring the Right Drain Company solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent...'
+description: >-
+  The Importance of Hiring the Right Drain Company solutions for Tucson
+  properties. Learn about expert solutions, professional recommendations from
+  Intelligent...
 publishedAt: '2025-10-31T19:09:48.556Z'
 updatedAt: '2025-10-31T19:09:52.925Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/hiring_drain_company.png
+heroImage: /generated_images/plumbing_maintenance_checklist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/the-importance-of-hiring-the-right-drain-company

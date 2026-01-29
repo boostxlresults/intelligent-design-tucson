@@ -1,6 +1,9 @@
 ---
 title: 'Plumbers Tucson: The Importance of Plumbing Inspection'
-description: 'Professional Plumbers Tucson - The Importance of Plumbing Inspection advice for Tucson homes. Discover expert solutions, professional recommendations with In...'
+description: >-
+  Professional Plumbers Tucson - The Importance of Plumbing Inspection advice
+  for Tucson homes. Discover expert solutions, professional recommendations with
+  In...
 publishedAt: '2025-10-31T19:09:55.681Z'
 updatedAt: '2025-10-31T19:10:01.525Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/plumbing_inspection.png
+heroImage: /generated_images/Water_conservation_tips_3e904082.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/plumbers-tucson-the-importance-of-plumbing-inspection

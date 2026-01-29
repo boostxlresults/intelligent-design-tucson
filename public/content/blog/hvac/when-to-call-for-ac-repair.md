@@ -1,6 +1,9 @@
 ---
 title: When to Call for AC Repair
-description: 'Expert When to Call for AC Repair guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVAC specialists with 46+ years of expe...'
+description: >-
+  Expert When to Call for AC Repair guide for Tucson homeowners. Learn about
+  repair solutions from Intelligent Design's HVAC specialists with 46+ years of
+  expe...
 publishedAt: '2025-10-31T18:49:22.614Z'
 updatedAt: '2025-10-31T18:49:26.270Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/when_call_ac_repair.png
+heroImage: /generated_images/ac_broken_symptoms.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/when-to-call-for-ac-repair'
 ---

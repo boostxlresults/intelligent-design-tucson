@@ -1,6 +1,9 @@
 ---
 title: How Much Does It Cost to Install Central Air Conditioning?
-description: 'Expert How Much Does It Cost to Install Central Air Conditioning? guide for Tucson homeowners. Learn about costs and pricing factors, installation options fr...'
+description: >-
+  Expert How Much Does It Cost to Install Central Air Conditioning? guide for
+  Tucson homeowners. Learn about costs and pricing factors, installation options
+  fr...
 publishedAt: '2025-10-31T18:50:49.553Z'
 updatedAt: '2025-10-31T18:50:51.045Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/central_ac_installation_cost.png
+heroImage: /generated_images/emergency_ac_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-much-does-it-cost-to-install-central-air-conditioning

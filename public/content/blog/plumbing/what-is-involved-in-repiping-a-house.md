@@ -1,12 +1,15 @@
 ---
 title: What Is Involved in Repiping a House?
-description: 'Professional What Is Involved in Repiping a House? advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent Design''s...'
+description: >-
+  Professional What Is Involved in Repiping a House? advice for Tucson homes.
+  Discover expert solutions, professional recommendations with Intelligent
+  Design's...
 publishedAt: '2025-10-31T19:11:44.013Z'
 updatedAt: '2025-10-31T19:11:46.387Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_house_process.png
+heroImage: /generated_images/plumbing_mistakes_to_avoid.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/what-is-involved-in-repiping-a-house'
 ---

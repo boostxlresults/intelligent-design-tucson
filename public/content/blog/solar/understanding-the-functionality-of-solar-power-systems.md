@@ -1,6 +1,9 @@
 ---
 title: Understanding the Functionality of Solar Power Systems
-description: 'Understanding the Functionality of Solar Power Systems information for Arizona residents. Explore expert solutions, professional recommendations with Intelli...'
+description: >-
+  Understanding the Functionality of Solar Power Systems information for Arizona
+  residents. Explore expert solutions, professional recommendations with
+  Intelli...
 publishedAt: '2025-10-31T19:00:20.794Z'
 updatedAt: '2025-10-31T19:00:22.262Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_system_components.png
+heroImage: /generated_images/solar_attic_fan.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/understanding-the-functionality-of-solar-power-systems

@@ -1,6 +1,9 @@
 ---
 title: What’s the Cost of AC Installation in Tucson?
-description: 'Expert What’s the Cost of AC Installation in Tucson? guide for Tucson homeowners. Learn about costs and pricing factors, installation options from Intelligen...'
+description: >-
+  Expert What’s the Cost of AC Installation in Tucson? guide for Tucson
+  homeowners. Learn about costs and pricing factors, installation options from
+  Intelligen...
 publishedAt: '2025-10-31T18:48:42.521Z'
 updatedAt: '2025-10-31T18:48:42.530Z'
 author: Intelligent Design Team
@@ -8,16 +11,20 @@ category: hvac
 tags:
   - ac-installation
   - tucson
-heroImage: /generated_images/ac_installation_cost_tucson.png
+heroImage: /generated_images/ac_repair_faqs_answered.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/whats-the-cost-of-ac-installation-in-tucson
 video:
   id: WtDzRCs7OSo
-  title: "AC Installation Cost: Here's Why You'll Need an Estimate"
-  description: "Explore what goes into developing an AC installation cost estimate and learn why it's necessary to schedule an in-person appointment. Andrew Dobbins explains factors like efficiency, brand, warranty, ductwork, and proper sizing that affect your total AC installation cost."
+  title: 'AC Installation Cost: Here''s Why You''ll Need an Estimate'
+  description: >-
+    Explore what goes into developing an AC installation cost estimate and learn
+    why it's necessary to schedule an in-person appointment. Andrew Dobbins
+    explains factors like efficiency, brand, warranty, ductwork, and proper
+    sizing that affect your total AC installation cost.
   duration: PT2M40S
-  uploadDate: "2019-12-19T00:00:00Z"
+  uploadDate: '2019-12-19T00:00:00Z'
 ---
 
 # What’s the Cost of AC Installation in Tucson?

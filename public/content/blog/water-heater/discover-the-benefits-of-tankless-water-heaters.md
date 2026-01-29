@@ -1,6 +1,9 @@
 ---
 title: Discover the Benefits of Tankless Water Heaters
-description: 'Discover the Benefits of Tankless Water Heaters guide for Arizona homeowners. Get expert advice on key benefits and savings from Intelligent Design''s water h...'
+description: >-
+  Discover the Benefits of Tankless Water Heaters guide for Arizona homeowners.
+  Get expert advice on key benefits and savings from Intelligent Design's water
+  h...
 publishedAt: '2025-10-31T19:10:17.277Z'
 updatedAt: '2025-10-31T19:10:18.950Z'
 author: Intelligent Design Team
@@ -8,7 +11,7 @@ category: water-heater
 tags:
   - water-heaters
   - tucson
-heroImage: /generated_images/tankless_water_heater_benefits.png
+heroImage: /generated_images/bradford_white_water_heater.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/water-heater/discover-the-benefits-of-tankless-water-heaters

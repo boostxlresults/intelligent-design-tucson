@@ -1,6 +1,9 @@
 ---
 title: Schedule an Air Conditioning Service in Tucson
-description: 'Expert Schedule an Air Conditioning Service in Tucson guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligen...'
+description: >-
+  Expert Schedule an Air Conditioning Service in Tucson guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intelligen...
 publishedAt: '2025-10-31T18:50:29.263Z'
 updatedAt: '2025-10-31T18:50:32.502Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/schedule_ac_service.png
+heroImage: /generated_images/AC_maintenance_service_6a47e66a.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/schedule-an-air-conditioning-service-in-tucson

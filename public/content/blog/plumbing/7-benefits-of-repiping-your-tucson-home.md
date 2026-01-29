@@ -1,6 +1,9 @@
 ---
 title: 7 Benefits of Repiping Your Tucson Home
-description: 'Professional 7 Benefits of Repiping Your Tucson Home advice for Tucson homes. Discover key benefits and savings with Intelligent Design''s licensed plumbers s...'
+description: >-
+  Professional 7 Benefits of Repiping Your Tucson Home advice for Tucson homes.
+  Discover key benefits and savings with Intelligent Design's licensed plumbers
+  s...
 publishedAt: '2024-03-15T12:00:00.000Z'
 updatedAt: '2024-12-30T12:00:00.000Z'
 author: Intelligent Design Team
@@ -11,9 +14,10 @@ tags:
   - tucson
   - water quality
   - home improvement
-heroImage: /generated_images/repiping_benefits_tucson.png
+heroImage: /generated_images/choosing_right_plumber.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/plumbing/7-benefits-of-repiping-your-tucson-home'
+canonicalUrl: >-
+  https://www.idesignac.com/blog/plumbing/7-benefits-of-repiping-your-tucson-home
 ---
 
 # 7 Benefits of Repiping Your Tucson Home

@@ -1,6 +1,9 @@
 ---
 title: 8 Tips for Managing Your Air Conditioning in Tucson During the Summer
-description: 'Expert 8 Tips for Managing Your Air Conditioning in Tucson During the Summer guide for Tucson homeowners. Learn about practical tips from Intelligent Design''...'
+description: >-
+  Expert 8 Tips for Managing Your Air Conditioning in Tucson During the Summer
+  guide for Tucson homeowners. Learn about practical tips from Intelligent
+  Design'...
 publishedAt: '2025-10-31T18:49:56.099Z'
 updatedAt: '2025-10-31T18:50:02.489Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_summer_tips.png
+heroImage: /generated_images/ac_maintenance_expert_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t

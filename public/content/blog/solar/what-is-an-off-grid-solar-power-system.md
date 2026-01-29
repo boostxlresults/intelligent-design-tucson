@@ -1,6 +1,9 @@
 ---
 title: What Is an Off-Grid Solar Power System?
-description: 'What Is an Off-Grid Solar Power System? information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Design''s s...'
+description: >-
+  What Is an Off-Grid Solar Power System? information for Arizona residents.
+  Explore expert solutions, professional recommendations with Intelligent
+  Design's s...
 publishedAt: '2025-10-31T18:59:59.082Z'
 updatedAt: '2025-10-31T19:00:04.792Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/off_grid_solar_system.png
+heroImage: /generated_images/Commercial_solar_installation_4f71127b.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/solar/what-is-an-off-grid-solar-power-system'
 ---

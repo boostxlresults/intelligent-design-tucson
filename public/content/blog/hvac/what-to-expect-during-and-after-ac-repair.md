@@ -1,6 +1,9 @@
 ---
 title: What To Expect During And After AC Repair
-description: 'Expert What To Expect During And After AC Repair guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVAC specialists with 46...'
+description: >-
+  Expert What To Expect During And After AC Repair guide for Tucson homeowners.
+  Learn about repair solutions from Intelligent Design's HVAC specialists with
+  46...
 publishedAt: '2025-10-31T18:49:24.586Z'
 updatedAt: '2025-10-31T18:49:26.278Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_repair_expectations.png
+heroImage: /generated_images/ac_not_repaired_consequences.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/what-to-expect-during-and-after-ac-repair'
 ---

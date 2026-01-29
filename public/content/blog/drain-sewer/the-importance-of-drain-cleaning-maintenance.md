@@ -1,6 +1,9 @@
 ---
 title: The Importance of Drain Cleaning Maintenance
-description: 'The Importance of Drain Cleaning Maintenance solutions for Tucson properties. Learn about maintenance best practices from Intelligent Design''s professional d…'
+description: >-
+  The Importance of Drain Cleaning Maintenance solutions for Tucson properties.
+  Learn about maintenance best practices from Intelligent Design's professional
+  d…
 publishedAt: '2025-10-31T19:10:05.658Z'
 updatedAt: '2025-10-31T19:10:10.180Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/drain_cleaning_maintenance.png
+heroImage: /generated_images/emergency_plumbing_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/the-importance-of-drain-cleaning-maintenance

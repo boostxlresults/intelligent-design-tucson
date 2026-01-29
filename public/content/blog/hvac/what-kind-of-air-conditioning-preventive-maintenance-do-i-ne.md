@@ -1,6 +1,9 @@
 ---
 title: What Kind of Air Conditioning Preventive Maintenance Do I Need?
-description: 'Expert What Kind of Air Conditioning Preventive Maintenance Do I Need? guide for Tucson homeowners. Learn about maintenance best practices from Intelligent D...'
+description: >-
+  Expert What Kind of Air Conditioning Preventive Maintenance Do I Need? guide
+  for Tucson homeowners. Learn about maintenance best practices from Intelligent
+  D...
 publishedAt: '2025-10-31T18:50:48.129Z'
 updatedAt: '2025-10-31T18:50:51.048Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /generated_images/preventive_ac_maintenance.png
+heroImage: /generated_images/ac_not_cooling_upstairs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-ne

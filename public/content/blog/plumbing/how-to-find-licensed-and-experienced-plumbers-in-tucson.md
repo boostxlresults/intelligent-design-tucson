@@ -1,6 +1,9 @@
 ---
 title: How to Find Licensed and Experienced Plumbers in Tucson
-description: 'Professional How to Find Licensed and Experienced Plumbers in Tucson advice for Tucson homes. Discover step-by-step instructions with Intelligent Design''s li...'
+description: >-
+  Professional How to Find Licensed and Experienced Plumbers in Tucson advice
+  for Tucson homes. Discover step-by-step instructions with Intelligent Design's
+  li...
 publishedAt: '2025-10-31T19:09:23.333Z'
 updatedAt: '2025-10-31T19:09:26.260Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/licensed_plumbers_tucson.png
+heroImage: /generated_images/plumbing_mistakes_to_avoid.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/how-to-find-licensed-and-experienced-plumbers-in-tucson

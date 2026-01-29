@@ -1,6 +1,9 @@
 ---
 title: 'How to Fix Your AC: A Simple Guide for Everyone'
-description: 'Expert How to Fix Your AC - A Simple Guide for Everyone guide for Tucson homeowners. Learn about step-by-step instructions, comprehensive information from In...'
+description: >-
+  Expert How to Fix Your AC - A Simple Guide for Everyone guide for Tucson
+  homeowners. Learn about step-by-step instructions, comprehensive information
+  from In...
 publishedAt: '2025-10-31T18:48:29.709Z'
 updatedAt: '2025-10-31T18:48:32.536Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/fix_ac_guide.png
+heroImage: /generated_images/ac_not_cooling_upstairs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-fix-your-ac-a-simple-guide-for-everyone

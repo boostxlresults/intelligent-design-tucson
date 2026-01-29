@@ -1,12 +1,15 @@
 ---
 title: Spotlight on the Indoor Air Purifier
-description: 'Spotlight on the Indoor Air Purifier for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s ...'
+description: >-
+  Spotlight on the Indoor Air Purifier for Tucson homeowners. Get practical
+  advice on expert solutions, professional recommendations from Intelligent
+  Design's ...
 publishedAt: '2025-10-31T18:50:32.493Z'
 updatedAt: '2025-10-31T18:50:32.497Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/indoor_air_purifier.png
+heroImage: /generated_images/Heating_tech_thermostat_install_7412ffd1.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/spotlight-on-the-indoor-air-purifier'
 ---

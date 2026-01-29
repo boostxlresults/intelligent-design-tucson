@@ -1,6 +1,9 @@
 ---
 title: Most Common AC Repair And What to Expect
-description: 'Expert Most Common AC Repair And What to Expect guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVAC specialists with 46+...'
+description: >-
+  Expert Most Common AC Repair And What to Expect guide for Tucson homeowners.
+  Learn about repair solutions from Intelligent Design's HVAC specialists with
+  46+...
 publishedAt: '2025-10-31T18:49:12.864Z'
 updatedAt: '2025-10-31T18:49:15.128Z'
 author: Intelligent Design Team
@@ -11,13 +14,17 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/common_ac_repairs.png
+heroImage: /generated_images/ac_capacitor_replacement.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/most-common-ac-repair-and-what-to-expect'
 video:
   id: nkSvK3rhX94
-  title: 'Common AC Repairs Explained | What to Expect from Your AC Repair'
-  description: 'Learn about the most common AC repairs including compressor replacement, condenser issues, refrigerant recharge, and expansion valve problems. Intelligent Design explains what to expect during your AC repair service in Tucson.'
+  title: Common AC Repairs Explained | What to Expect from Your AC Repair
+  description: >-
+    Learn about the most common AC repairs including compressor replacement,
+    condenser issues, refrigerant recharge, and expansion valve problems.
+    Intelligent Design explains what to expect during your AC repair service in
+    Tucson.
   duration: PT4M12S
   uploadDate: '2022-08-15T00:00:00Z'
 ---

@@ -1,6 +1,9 @@
 ---
 title: 'Repiping: How It’s Different From Pipe Repair And Why You May Need It More'
-description: 'Professional Repiping - How It’s Different From Pipe Repair And Why You May Need It More advice for Tucson homes. Discover repair solutions with Intelligent ...'
+description: >-
+  Professional Repiping - How It’s Different From Pipe Repair And Why You May
+  Need It More advice for Tucson homes. Discover repair solutions with
+  Intelligent ...
 publishedAt: '2025-10-31T19:09:26.257Z'
 updatedAt: '2025-10-31T19:09:26.264Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - plumbing-repair
   - repiping
   - tucson
-heroImage: /generated_images/repiping_vs_repair.png
+heroImage: /generated_images/hydrojetting_drain_cleaning.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/repiping-how-its-different-from-pipe-repair-and-why-you-may-

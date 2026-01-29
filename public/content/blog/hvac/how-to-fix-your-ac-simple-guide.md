@@ -11,7 +11,7 @@ tags:
   - tucson
   - diy-tips
   - hvac-service
-heroImage: /generated_images/simple_ac_fix_guide.png
+heroImage: /generated_images/ac_not_repaired_consequences.png
 publishedAt: '2024-06-10T09:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: false

@@ -1,12 +1,15 @@
 ---
 title: Does Turning Off Your A/C When You’re Not Home Actually Save Money?
-description: 'Does Turning Off Your A/C When You’re Not Home Actually Save Money? for Tucson homeowners. Get practical advice on expert solutions, professional recommendat...'
+description: >-
+  Does Turning Off Your A/C When You’re Not Home Actually Save Money? for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendat...
 publishedAt: '2025-10-31T19:10:48.711Z'
 updatedAt: '2025-10-31T19:10:53.026Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/ac_save_money_tips.png
+heroImage: /generated_images/ceiling_fan_installation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/does-turning-off-your-ac-when-youre-not-home-actually-save-m

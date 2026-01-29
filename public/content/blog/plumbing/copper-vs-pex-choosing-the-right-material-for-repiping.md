@@ -1,12 +1,15 @@
 ---
 title: 'Copper vs. PEX: Choosing the Right Material for Repiping'
-description: 'Professional Copper vs. PEX - Choosing the Right Material for Repiping advice for Tucson homes. Discover expert solutions, professional recommendations with ...'
+description: >-
+  Professional Copper vs. PEX - Choosing the Right Material for Repiping advice
+  for Tucson homes. Discover expert solutions, professional recommendations with
+  ...
 publishedAt: '2025-10-31T19:11:39.002Z'
 updatedAt: '2025-10-31T19:11:46.377Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/copper_vs_pex_repiping.png
+heroImage: /generated_images/pipe_repair_repiping.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/copper-vs-pex-choosing-the-right-material-for-repiping

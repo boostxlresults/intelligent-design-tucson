@@ -1,6 +1,9 @@
 ---
 title: Tips for Your Home AC Replacement
-description: 'Expert Tips for Your Home AC Replacement guide for Tucson homeowners. Learn about practical tips from Intelligent Design''s HVAC specialists with 46+ years of...'
+description: >-
+  Expert Tips for Your Home AC Replacement guide for Tucson homeowners. Learn
+  about practical tips from Intelligent Design's HVAC specialists with 46+ years
+  of...
 publishedAt: '2025-10-31T18:49:26.265Z'
 updatedAt: '2025-10-31T18:49:26.272Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/home_ac_replacement_tips.png
+heroImage: /generated_images/hvac_company_benefits.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/tips-for-your-home-ac-replacement'
 ---

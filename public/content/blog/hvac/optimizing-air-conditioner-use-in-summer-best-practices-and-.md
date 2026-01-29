@@ -2,7 +2,10 @@
 title: >-
   Optimizing Air Conditioner Use in Summer: Best Practices and the Role of Smart
   Thermostats
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T19:10:47.236Z'
 updatedAt: '2025-10-31T19:10:53.023Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/smart_thermostat_summer.png
+heroImage: /generated_images/ac_compressor_types.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/optimizing-air-conditioner-use-in-summer-best-practices-and-

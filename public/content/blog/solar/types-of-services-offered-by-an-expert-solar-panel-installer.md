@@ -1,6 +1,9 @@
 ---
 title: Types of Services Offered by an Expert Solar Panel Installer
-description: 'Types of Services Offered by an Expert Solar Panel Installer information for Arizona residents. Explore installation options with Intelligent Design''s solar ...'
+description: >-
+  Types of Services Offered by an Expert Solar Panel Installer information for
+  Arizona residents. Explore installation options with Intelligent Design's
+  solar ...
 publishedAt: '2025-10-31T19:00:38.494Z'
 updatedAt: '2025-10-31T19:00:40.004Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_installation_services.png
+heroImage: /generated_images/signs_need_solar_installers.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/types-of-services-offered-by-an-expert-solar-panel-installer

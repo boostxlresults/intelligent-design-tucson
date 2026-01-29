@@ -2,7 +2,10 @@
 title: >-
   Choosing the Right HVAC System: What Homeowners Need to Know for Comfort and
   Efficiency
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:23.914Z'
 updatedAt: '2025-10-31T18:48:23.922Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/hvac_homeowner_guide.png
+heroImage: /generated_images/AC_installation_Tucson_home_423faef7.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/choosing-the-right-hvac-system-what-homeowners-need-to-know-

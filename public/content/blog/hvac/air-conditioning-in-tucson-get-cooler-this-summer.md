@@ -1,6 +1,9 @@
 ---
 title: 'Air Conditioning in Tucson: Get Cooler This Summer'
-description: 'Expert Air Conditioning in Tucson - Get Cooler This Summer guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intel...'
+description: >-
+  Expert Air Conditioning in Tucson - Get Cooler This Summer guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intel...
 publishedAt: '2025-10-31T18:50:05.181Z'
 updatedAt: '2025-10-31T18:50:13.390Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/tucson_summer_cooling.png
+heroImage: /generated_images/ac_health_risks.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-get-cooler-this-summer

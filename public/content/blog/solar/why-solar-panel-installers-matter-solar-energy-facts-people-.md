@@ -1,6 +1,9 @@
 ---
 title: 'Why Solar Panel Installers Matter: Solar Energy Facts People Should Know'
-description: 'Why Solar Panel Installers Matter - Solar Energy Facts People Should Know information for Arizona residents. Explore installation options with Intelligent De...'
+description: >-
+  Why Solar Panel Installers Matter - Solar Energy Facts People Should Know
+  information for Arizona residents. Explore installation options with
+  Intelligent De...
 publishedAt: '2025-10-31T19:00:57.527Z'
 updatedAt: '2025-10-31T19:00:59.176Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_facts_you_should_know.png
+heroImage: /generated_images/how_solar_energy_works.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/why-solar-panel-installers-matter-solar-energy-facts-people-

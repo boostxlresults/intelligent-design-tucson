@@ -2,7 +2,10 @@
 title: >-
   Air Conditioning in Tucson: How Can You Save Money By Maximizing Your AC
   Efficiency
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:49:30.797Z'
 updatedAt: '2025-10-31T18:49:35.398Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_efficiency_savings.png
+heroImage: /generated_images/ac_needs_repair_signs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-how-can-you-save-money-by-maximiz

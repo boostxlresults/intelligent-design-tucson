@@ -1,6 +1,9 @@
 ---
 title: The Importance and Benefits of Hiring an AC Repair Specialist
-description: 'Expert The Importance and Benefits of Hiring an AC Repair Specialist guide for Tucson homeowners. Learn about key benefits and savings, repair solutions from...'
+description: >-
+  Expert The Importance and Benefits of Hiring an AC Repair Specialist guide for
+  Tucson homeowners. Learn about key benefits and savings, repair solutions
+  from...
 publishedAt: '2025-10-31T18:49:39.532Z'
 updatedAt: '2025-10-31T18:49:43.979Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_repair_specialist_benefits.png
+heroImage: /generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-and-benefits-of-hiring-an-ac-repair-specialis

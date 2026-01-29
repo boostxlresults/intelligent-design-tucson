@@ -1,6 +1,9 @@
 ---
 title: How to Know When to DIY AC Repair and When to Call the Pros
-description: 'Expert How to Know When to DIY AC Repair and When to Call the Pros guide for Tucson homeowners. Learn about step-by-step instructions, repair solutions from ...'
+description: >-
+  Expert How to Know When to DIY AC Repair and When to Call the Pros guide for
+  Tucson homeowners. Learn about step-by-step instructions, repair solutions
+  from ...
 publishedAt: '2025-10-31T18:49:03.959Z'
 updatedAt: '2025-10-31T18:49:05.446Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/diy_vs_pro_ac_repair.png
+heroImage: /generated_images/ac_repair_faqs_answered.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-know-when-to-diy-ac-repair-and-when-to-call-the-pros

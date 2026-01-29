@@ -1,6 +1,9 @@
 ---
 title: 'Solar Power Systems: A Quick Guide to Going Solar'
-description: 'Solar Power Systems - A Quick Guide to Going Solar information for Arizona residents. Explore comprehensive information with Intelligent Design''s solar insta...'
+description: >-
+  Solar Power Systems - A Quick Guide to Going Solar information for Arizona
+  residents. Explore comprehensive information with Intelligent Design's solar
+  insta...
 publishedAt: '2025-10-31T19:00:49.458Z'
 updatedAt: '2025-10-31T19:00:49.467Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/going_solar_guide.png
+heroImage: /generated_images/maximizing_solar_efficiency.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/solar-power-systems-a-quick-guide-to-going-solar

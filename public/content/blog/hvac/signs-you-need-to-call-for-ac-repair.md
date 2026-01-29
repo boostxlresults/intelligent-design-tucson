@@ -1,6 +1,9 @@
 ---
 title: Signs You Need to Call for AC Repair
-description: 'Expert Signs You Need to Call for AC Repair guide for Tucson homeowners. Learn about warning signs to watch for, repair solutions from Intelligent Design''s H...'
+description: >-
+  Expert Signs You Need to Call for AC Repair guide for Tucson homeowners. Learn
+  about warning signs to watch for, repair solutions from Intelligent Design's
+  H...
 publishedAt: '2025-10-31T18:50:16.529Z'
 updatedAt: '2025-10-31T18:50:23.401Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_repair_signs.png
+heroImage: /generated_images/AC_maintenance_service_in_Tucson_d21947d9.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/signs-you-need-to-call-for-ac-repair'
 ---

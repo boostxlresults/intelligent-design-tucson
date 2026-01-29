@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Catalina Foothills’ Premier Choice for Home Services'
-description: 'Intelligent Design - Catalina Foothills’ Premier Choice for Home Services for Tucson homeowners. Get practical advice on expert solutions, professional recom...'
+description: >-
+  Intelligent Design - Catalina Foothills’ Premier Choice for Home Services for
+  Tucson homeowners. Get practical advice on expert solutions, professional
+  recom...
 publishedAt: '2025-10-31T19:11:17.734Z'
 updatedAt: '2025-10-31T19:11:19.496Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_catalina_foothills.png
+heroImage: /generated_images/blown-in_insulation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-catalina-foothills-premier-choice-for-hom

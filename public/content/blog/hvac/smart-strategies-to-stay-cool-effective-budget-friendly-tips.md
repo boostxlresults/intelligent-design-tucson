@@ -2,7 +2,10 @@
 title: >-
   Smart Strategies to Stay Cool: Effective, Budget-Friendly Tips for Summer Home
   Cooling
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T19:10:51.551Z'
 updatedAt: '2025-10-31T19:10:53.030Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/budget_cooling_tips.png
+heroImage: /generated_images/AC_repair_service_Tucson_0e76b972.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/smart-strategies-to-stay-cool-effective-budget-friendly-tips

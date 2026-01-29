@@ -1,6 +1,9 @@
 ---
 title: Benefits of Commercial Solar Energy Systems to Businesses
-description: 'Benefits of Commercial Solar Energy Systems to Businesses information for Arizona residents. Explore key benefits and savings with Intelligent Design''s solar...'
+description: >-
+  Benefits of Commercial Solar Energy Systems to Businesses information for
+  Arizona residents. Explore key benefits and savings with Intelligent Design's
+  solar...
 publishedAt: '2025-10-31T19:00:55.919Z'
 updatedAt: '2025-10-31T19:00:59.179Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/commercial_solar_benefits.png
+heroImage: /generated_images/choosing_solar_installer_steps.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses

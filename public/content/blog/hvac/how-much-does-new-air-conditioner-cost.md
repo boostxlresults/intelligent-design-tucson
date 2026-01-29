@@ -11,7 +11,7 @@ tags:
   - tucson
   - hvac-cost
   - energy-efficiency
-heroImage: /generated_images/new_ac_pricing_guide.png
+heroImage: /generated_images/ac_maintenance_expert_tips.png
 publishedAt: '2024-05-20T11:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: false
@@ -24,10 +24,13 @@ relatedServices:
 author: Intelligent Design Team
 video:
   id: mkAj4xG5ysk
-  title: "How Much Does a New AC Cost in Tucson? Pricing Explained"
-  description: "Get insights on air conditioner costs in Tucson, Arizona. Learn about factors that affect pricing, SEER ratings, system types, and how to get the best value for your investment."
+  title: How Much Does a New AC Cost in Tucson? Pricing Explained
+  description: >-
+    Get insights on air conditioner costs in Tucson, Arizona. Learn about
+    factors that affect pricing, SEER ratings, system types, and how to get the
+    best value for your investment.
   duration: PT5M18S
-  uploadDate: "2024-05-20T00:00:00Z"
+  uploadDate: '2024-05-20T00:00:00Z'
 ---
 
 # How Much Does a New Air Conditioner Cost? Complete Pricing Guide for Tucson

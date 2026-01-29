@@ -11,7 +11,7 @@ tags:
   - pipe-protection
   - tucson
   - freeze-prevention
-heroImage: /generated_images/winter_pipe_protection_tucson.png
+heroImage: /generated_images/Water_conservation_tips_3e904082.png
 publishedAt: '2024-01-08T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: false

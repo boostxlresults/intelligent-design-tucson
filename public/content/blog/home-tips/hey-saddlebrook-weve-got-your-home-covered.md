@@ -1,12 +1,15 @@
 ---
 title: 'Hey Saddlebrook, We’ve Got Your Home Covered!'
-description: 'Hey Saddlebrook, We’ve Got Your Home Covered! for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent ...'
+description: >-
+  Hey Saddlebrook, We’ve Got Your Home Covered! for Tucson homeowners. Get
+  practical advice on expert solutions, professional recommendations from
+  Intelligent ...
 publishedAt: '2025-10-31T19:11:32.025Z'
 updatedAt: '2025-10-31T19:11:36.358Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_saddlebrook.png
+heroImage: /generated_images/Ceiling_fan_installation_service_45fdef2d.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/hey-saddlebrook-weve-got-your-home-covered

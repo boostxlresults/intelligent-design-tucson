@@ -1,12 +1,15 @@
 ---
 title: Why Repiping Your Home is Essential
-description: 'Professional Why Repiping Your Home is Essential advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent Design''s l...'
+description: >-
+  Professional Why Repiping Your Home is Essential advice for Tucson homes.
+  Discover expert solutions, professional recommendations with Intelligent
+  Design's l...
 publishedAt: '2025-10-31T19:11:54.175Z'
 updatedAt: '2025-10-31T19:11:57.335Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/essential_repiping.png
+heroImage: /generated_images/water_conservation_arizona.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/why-repiping-your-home-is-essential'
 ---

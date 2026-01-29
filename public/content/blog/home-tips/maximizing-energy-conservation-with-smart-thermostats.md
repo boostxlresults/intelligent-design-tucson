@@ -1,12 +1,15 @@
 ---
 title: Maximizing Energy Conservation with Smart Thermostats
-description: 'Maximizing Energy Conservation with Smart Thermostats for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Inte...'
+description: >-
+  Maximizing Energy Conservation with Smart Thermostats for Tucson homeowners.
+  Get practical advice on expert solutions, professional recommendations from
+  Inte...
 publishedAt: '2025-10-31T19:10:50.150Z'
 updatedAt: '2025-10-31T19:10:53.028Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/smart_thermostat_energy.png
+heroImage: /generated_images/Home_comfort_improvement_3a6feb26.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/maximizing-energy-conservation-with-smart-thermostats

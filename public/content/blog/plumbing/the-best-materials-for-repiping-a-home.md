@@ -1,12 +1,15 @@
 ---
 title: The Best Materials for Repiping a Home
-description: 'Professional The Best Materials for Repiping a Home advice for Tucson homes. Discover top recommendations with Intelligent Design''s licensed plumbers serving...'
+description: >-
+  Professional The Best Materials for Repiping a Home advice for Tucson homes.
+  Discover top recommendations with Intelligent Design's licensed plumbers
+  serving...
 publishedAt: '2025-10-31T19:11:42.064Z'
 updatedAt: '2025-10-31T19:11:46.384Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_materials.png
+heroImage: /generated_images/rainwater_harvesting_arizona.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/the-best-materials-for-repiping-a-home

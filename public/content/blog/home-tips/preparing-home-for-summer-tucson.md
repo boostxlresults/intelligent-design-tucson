@@ -11,7 +11,7 @@ tags:
   - tucson
   - energy-efficiency
   - hvac-maintenance
-heroImage: /generated_images/summer_home_prep_tucson.png
+heroImage: /generated_images/complete_home_services.png
 publishedAt: '2024-04-20T09:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true
@@ -27,7 +27,10 @@ author: Intelligent Design Team
 video:
   id: QUt_t6USgdE
   title: Preparing Your Home for Summer in Tucson - Expert Tips
-  description: Learn essential tips for preparing your Tucson home for the summer heat. Our experts cover HVAC maintenance, plumbing checks, solar optimization, and energy efficiency tips to keep your home comfortable all summer.
+  description: >-
+    Learn essential tips for preparing your Tucson home for the summer heat. Our
+    experts cover HVAC maintenance, plumbing checks, solar optimization, and
+    energy efficiency tips to keep your home comfortable all summer.
   uploadDate: '2024-04-20T00:00:00Z'
   duration: PT6M15S
 ---

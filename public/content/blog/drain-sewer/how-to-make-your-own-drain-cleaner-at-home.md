@@ -1,6 +1,9 @@
 ---
 title: How to Make Your Own Drain Cleaner at Home ?
-description: 'How to Make Your Own Drain Cleaner at Home ? solutions for Tucson properties. Learn about step-by-step instructions from Intelligent Design''s professional dr…'
+description: >-
+  How to Make Your Own Drain Cleaner at Home ? solutions for Tucson properties.
+  Learn about step-by-step instructions from Intelligent Design's professional
+  dr…
 publishedAt: '2025-10-31T19:09:12.185Z'
 updatedAt: '2025-10-31T19:09:16.800Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/diy_drain_cleaner.png
+heroImage: /generated_images/sewer_line_inspection.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/how-to-make-your-own-drain-cleaner-at-home

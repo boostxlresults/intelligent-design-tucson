@@ -1,12 +1,15 @@
 ---
 title: Common Repiping Mistakes and How to Avoid Them
-description: 'Professional Common Repiping Mistakes and How to Avoid Them advice for Tucson homes. Discover step-by-step instructions with Intelligent Design''s licensed pl...'
+description: >-
+  Professional Common Repiping Mistakes and How to Avoid Them advice for Tucson
+  homes. Discover step-by-step instructions with Intelligent Design's licensed
+  pl...
 publishedAt: '2025-10-31T19:11:40.459Z'
 updatedAt: '2025-10-31T19:11:46.380Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_mistakes.png
+heroImage: /generated_images/plumbing_inspection_service.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/common-repiping-mistakes-and-how-to-avoid-them

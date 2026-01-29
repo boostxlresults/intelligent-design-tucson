@@ -1,6 +1,9 @@
 ---
 title: How Much Does a New AC Unit Cost in AZ
-description: 'Expert How Much Does a New AC Unit Cost in AZ guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s HVAC specialists w...'
+description: >-
+  Expert How Much Does a New AC Unit Cost in AZ guide for Tucson homeowners.
+  Learn about costs and pricing factors from Intelligent Design's HVAC
+  specialists w...
 publishedAt: '2025-10-31T18:48:09.269Z'
 updatedAt: '2025-10-31T18:48:13.904Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_unit_cost_az.png
+heroImage: /generated_images/professional_ac_installation.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-much-does-a-new-ac-unit-cost-in-az'
 ---

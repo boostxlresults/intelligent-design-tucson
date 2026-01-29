@@ -1,6 +1,9 @@
 ---
 title: Top 10 Benefits of AC Replacement for Your Home
-description: 'Expert Top 10 Benefits of AC Replacement for Your Home guide for Tucson homeowners. Learn about key benefits and savings, top recommendations from Intelligen...'
+description: >-
+  Expert Top 10 Benefits of AC Replacement for Your Home guide for Tucson
+  homeowners. Learn about key benefits and savings, top recommendations from
+  Intelligen...
 publishedAt: '2025-10-31T18:50:09.033Z'
 updatedAt: '2025-10-31T18:50:13.395Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_replacement_benefits.png
+heroImage: /generated_images/professional_ac_installation.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/top-10-benefits-of-ac-replacement-for-your-home

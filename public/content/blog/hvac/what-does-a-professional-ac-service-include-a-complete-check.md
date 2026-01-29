@@ -2,7 +2,10 @@
 title: >-
   What Does a Professional AC Service Include? A Complete Checklist for
   Homeowners
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:04.969Z'
 updatedAt: '2025-10-31T18:48:04.989Z'
 author: Intelligent Design Team
@@ -13,16 +16,22 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/professional_ac_service.png
+heroImage: /generated_images/ac_replacement_facts.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-does-a-professional-ac-service-include-a-complete-check
 video:
   id: QAGoPyG4Cxs
-  title: "How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) | Intelligent Design Explains"
-  description: "Discover how Intelligent Design's SmartAC monitoring system keeps your heating and cooling systems running efficiently with real-time data, predictive alerts, and 24/7 performance tracking to prevent costly AC breakdowns."
+  title: >-
+    How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) |
+    Intelligent Design Explains
+  description: >-
+    Discover how Intelligent Design's SmartAC monitoring system keeps your
+    heating and cooling systems running efficiently with real-time data,
+    predictive alerts, and 24/7 performance tracking to prevent costly AC
+    breakdowns.
   duration: PT1M56S
-  uploadDate: "2025-05-07T00:00:00Z"
+  uploadDate: '2025-05-07T00:00:00Z'
 ---
 
 # What Does a Professional AC Service Include? A Complete Checklist for Homeowners

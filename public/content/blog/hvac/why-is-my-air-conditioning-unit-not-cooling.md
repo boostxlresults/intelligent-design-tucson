@@ -1,6 +1,9 @@
 ---
 title: Why Is My Air Conditioning Unit Not Cooling?
-description: 'Expert Why Is My Air Conditioning Unit Not Cooling? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent ...'
+description: >-
+  Expert Why Is My Air Conditioning Unit Not Cooling? guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Intelligent ...
 publishedAt: '2025-10-31T18:50:27.880Z'
 updatedAt: '2025-10-31T18:50:32.527Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_unit_not_cooling.png
+heroImage: /generated_images/AC_installation_Tucson_home_423faef7.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-is-my-air-conditioning-unit-not-cooling

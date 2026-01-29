@@ -1,6 +1,9 @@
 ---
 title: What Does the SEER Rating Mean for Air Conditioners?
-description: 'Expert What Does the SEER Rating Mean for Air Conditioners? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Inte...'
+description: >-
+  Expert What Does the SEER Rating Mean for Air Conditioners? guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  Inte...
 publishedAt: '2019-09-11T12:00:00.000Z'
 updatedAt: '2025-12-17T12:00:00.000Z'
 author: Intelligent Design Team
@@ -10,16 +13,20 @@ tags:
   - hvac-maintenance
   - energy-efficiency
   - tucson
-heroImage: /generated_images/seer_rating_explained.png
+heroImage: /generated_images/ac_replacement_importance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-does-the-seer-rating-mean-for-air-conditioners
 video:
   id: tgIwjtHXGkc
-  title: "SEER Ratings for AC: What Does It Mean?"
-  description: "Andrew Dobbins explains SEER ratings for air conditioners - the government's Seasonal Energy Efficiency Rating. Learn why proper installation matters more than buying a high-SEER unit, and how ductwork, sizing, and refrigerant charge affect your AC's true efficiency."
+  title: 'SEER Ratings for AC: What Does It Mean?'
+  description: >-
+    Andrew Dobbins explains SEER ratings for air conditioners - the government's
+    Seasonal Energy Efficiency Rating. Learn why proper installation matters
+    more than buying a high-SEER unit, and how ductwork, sizing, and refrigerant
+    charge affect your AC's true efficiency.
   duration: PT1M42S
-  uploadDate: "2019-09-11T00:00:00Z"
+  uploadDate: '2019-09-11T00:00:00Z'
 ---
 
 # What Does the SEER Rating Mean for Air Conditioners?

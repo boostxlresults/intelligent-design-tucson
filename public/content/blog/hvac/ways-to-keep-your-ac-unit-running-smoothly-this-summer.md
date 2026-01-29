@@ -1,6 +1,9 @@
 ---
 title: Ways To Keep Your AC Unit Running Smoothly This Summer
-description: 'Expert Ways To Keep Your AC Unit Running Smoothly This Summer guide for Tucson homeowners. Learn about expert solutions, professional recommendations from In...'
+description: >-
+  Expert Ways To Keep Your AC Unit Running Smoothly This Summer guide for Tucson
+  homeowners. Learn about expert solutions, professional recommendations from
+  In...
 publishedAt: '2025-10-31T18:50:19.805Z'
 updatedAt: '2025-10-31T18:50:23.405Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_running_smoothly.png
+heroImage: /generated_images/ac_maintenance_expert_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/ways-to-keep-your-ac-unit-running-smoothly-this-summer

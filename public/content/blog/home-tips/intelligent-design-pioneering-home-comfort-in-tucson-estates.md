@@ -1,12 +1,15 @@
 ---
 title: 'Intelligent Design: Pioneering Home Comfort in Tucson Estates'
-description: 'Intelligent Design - Pioneering Home Comfort in Tucson Estates for Tucson homeowners. Get practical advice on expert solutions, professional recommendations ...'
+description: >-
+  Intelligent Design - Pioneering Home Comfort in Tucson Estates for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendations ...
 publishedAt: '2025-10-31T19:11:14.985Z'
 updatedAt: '2025-10-31T19:11:19.500Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_comfort_tucson_estates.png
+heroImage: /generated_images/hepa_filter_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-pioneering-home-comfort-in-tucson-estates

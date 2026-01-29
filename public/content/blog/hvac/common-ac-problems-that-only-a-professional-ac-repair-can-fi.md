@@ -1,6 +1,9 @@
 ---
 title: Common AC Problems That Only a Professional AC Repair Can Fix
-description: 'Expert Common AC Problems That Only a Professional AC Repair Can Fix guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVAC...'
+description: >-
+  Expert Common AC Problems That Only a Professional AC Repair Can Fix guide for
+  Tucson homeowners. Learn about repair solutions from Intelligent Design's
+  HVAC...
 publishedAt: '2025-10-31T18:50:02.488Z'
 updatedAt: '2025-10-31T18:50:02.498Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_problems_professional.png
+heroImage: /generated_images/AC_installation_Tucson_home_a4d097e8.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/common-ac-problems-that-only-a-professional-ac-repair-can-fi

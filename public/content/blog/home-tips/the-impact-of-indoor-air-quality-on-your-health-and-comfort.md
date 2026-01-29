@@ -1,12 +1,15 @@
 ---
 title: The Impact of Indoor Air Quality on Your Health and Comfort
-description: 'The Impact of Indoor Air Quality on Your Health and Comfort for Tucson homeowners. Get practical advice on expert solutions, professional recommendations fro...'
+description: >-
+  The Impact of Indoor Air Quality on Your Health and Comfort for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendations fro...
 publishedAt: '2025-10-31T18:48:22.545Z'
 updatedAt: '2025-10-31T18:48:23.918Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/indoor_air_quality_health.png
+heroImage: /generated_images/ev_charging_station_home.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/the-impact-of-indoor-air-quality-on-your-health-and-comfort

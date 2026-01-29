@@ -1,12 +1,15 @@
 ---
 title: 'Red Rock, Unlock a New Level of Home Comfort with Intelligent Design'
-description: 'Red Rock, Unlock a New Level of Home Comfort with Intelligent Design for Tucson homeowners. Get practical advice on expert solutions, professional recommenda...'
+description: >-
+  Red Rock, Unlock a New Level of Home Comfort with Intelligent Design for
+  Tucson homeowners. Get practical advice on expert solutions, professional
+  recommenda...
 publishedAt: '2025-10-31T19:11:22.100Z'
 updatedAt: '2025-10-31T19:11:27.991Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_comfort_red_rock.png
+heroImage: /generated_images/Duct_cleaning_service_Tucson_home_755876f7.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/red-rock-unlock-a-new-level-of-home-comfort-with-intelligent

@@ -1,6 +1,9 @@
 ---
 title: What Is the Most Efficient Way to Run Air Conditioning?
-description: 'Expert What Is the Most Efficient Way to Run Air Conditioning? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from I...'
+description: >-
+  Expert What Is the Most Efficient Way to Run Air Conditioning? guide for
+  Tucson homeowners. Learn about expert solutions, professional recommendations
+  from I...
 publishedAt: '2025-10-31T18:50:18.123Z'
 updatedAt: '2025-10-31T18:50:23.403Z'
 author: Intelligent Design Team
@@ -10,16 +13,20 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/efficient_ac_running.png
+heroImage: /generated_images/ac_needs_repair_signs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/what-is-the-most-efficient-way-to-run-air-conditioning
 video:
   id: SSql5LzY0Uo
-  title: "What's the best temperature to set your air conditioner at?"
-  description: "Andrew Dobbins discusses the best thermostat temperature settings for your home. Learn about different comfort preferences, smart thermostat solutions with Wi-Fi and app control, and how to keep the peace when family members disagree on temperature."
+  title: What's the best temperature to set your air conditioner at?
+  description: >-
+    Andrew Dobbins discusses the best thermostat temperature settings for your
+    home. Learn about different comfort preferences, smart thermostat solutions
+    with Wi-Fi and app control, and how to keep the peace when family members
+    disagree on temperature.
   duration: PT3M53S
-  uploadDate: "2020-01-09T00:00:00Z"
+  uploadDate: '2020-01-09T00:00:00Z'
 ---
 
 # What Is the Most Efficient Way to Run Air Conditioning?

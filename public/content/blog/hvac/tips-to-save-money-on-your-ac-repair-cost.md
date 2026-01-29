@@ -1,6 +1,9 @@
 ---
 title: Tips to Save Money on Your AC Repair Cost
-description: 'Expert Tips to Save Money on Your AC Repair Cost guide for Tucson homeowners. Learn about costs and pricing factors, practical tips from Intelligent Design''s...'
+description: >-
+  Expert Tips to Save Money on Your AC Repair Cost guide for Tucson homeowners.
+  Learn about costs and pricing factors, practical tips from Intelligent
+  Design's...
 publishedAt: '2025-10-31T18:49:40.971Z'
 updatedAt: '2025-10-31T18:49:43.992Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/save_money_ac_repair.png
+heroImage: /generated_images/mini_split_installation.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/tips-to-save-money-on-your-ac-repair-cost'
 ---

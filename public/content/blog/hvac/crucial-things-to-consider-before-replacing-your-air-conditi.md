@@ -1,6 +1,9 @@
 ---
 title: Crucial Things to Consider Before Replacing Your Air Conditioning System
-description: 'Expert Crucial Things to Consider Before Replacing Your Air Conditioning System guide for Tucson homeowners. Learn about expert solutions, professional recom...'
+description: >-
+  Expert Crucial Things to Consider Before Replacing Your Air Conditioning
+  System guide for Tucson homeowners. Learn about expert solutions, professional
+  recom...
 publishedAt: '2025-10-31T18:48:51.102Z'
 updatedAt: '2025-10-31T18:48:56.007Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_replacement_considerations.png
+heroImage: /generated_images/AC_maintenance_service_in_Tucson_d21947d9.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/crucial-things-to-consider-before-replacing-your-air-conditi

@@ -1,6 +1,9 @@
 ---
 title: Why Take Advantage of Solar Energy
-description: 'Why Take Advantage of Solar Energy information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Design''s solar ...'
+description: >-
+  Why Take Advantage of Solar Energy information for Arizona residents. Explore
+  expert solutions, professional recommendations with Intelligent Design's solar
+  ...
 publishedAt: '2025-10-31T19:00:52.538Z'
 updatedAt: '2025-10-31T19:00:59.174Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_advantage.png
+heroImage: /generated_images/solar_energy_advantages.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/solar/why-take-advantage-of-solar-energy'
 ---

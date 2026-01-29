@@ -1,6 +1,9 @@
 ---
 title: What Are the Financial Benefits of Solar Energy?
-description: 'What Are the Financial Benefits of Solar Energy? information for Arizona residents. Explore key benefits and savings with Intelligent Design''s solar installa...'
+description: >-
+  What Are the Financial Benefits of Solar Energy? information for Arizona
+  residents. Explore key benefits and savings with Intelligent Design's solar
+  installa...
 publishedAt: '2025-10-31T19:00:31.228Z'
 updatedAt: '2025-10-31T19:00:31.234Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_roi_savings.png
+heroImage: /generated_images/solar_panel_efficiency.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/what-are-the-financial-benefits-of-solar-energy

@@ -1,6 +1,9 @@
 ---
 title: Who To Call For Water Heater Repair?
-description: 'Who To Call For Water Heater Repair? guide for Arizona homeowners. Get expert advice on repair solutions from Intelligent Design''s water heater specialists i...'
+description: >-
+  Who To Call For Water Heater Repair? guide for Arizona homeowners. Get expert
+  advice on repair solutions from Intelligent Design's water heater specialists
+  i...
 publishedAt: '2025-10-31T19:10:10.173Z'
 updatedAt: '2025-10-31T19:10:10.189Z'
 author: Intelligent Design Team
@@ -9,9 +12,10 @@ tags:
   - plumbing-repair
   - water-heaters
   - tucson
-heroImage: /generated_images/water_heater_repair_call.png
+heroImage: /generated_images/heat_pump_water_heater.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/water-heater/who-to-call-for-water-heater-repair'
+canonicalUrl: >-
+  https://www.idesignac.com/blog/water-heater/who-to-call-for-water-heater-repair
 ---
 
 # Who To Call For Water Heater Repair?

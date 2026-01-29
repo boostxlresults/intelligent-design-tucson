@@ -2,7 +2,10 @@
 title: >-
   Central Air Conditioning System in Tucson: How To Improve Your Indoor Air
   Quality This Summer
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:49:33.887Z'
 updatedAt: '2025-10-31T18:49:35.408Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/indoor_air_quality.png
+heroImage: /generated_images/ac_contactor_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/central-air-conditioning-system-in-tucson-how-to-improve-you

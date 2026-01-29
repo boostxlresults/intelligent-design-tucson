@@ -1,6 +1,9 @@
 ---
 title: How to Choose the Best AC Replacement System for Your Home
-description: 'Expert How to Choose the Best AC Replacement System for Your Home guide for Tucson homeowners. Learn about step-by-step instructions, top recommendations fro...'
+description: >-
+  Expert How to Choose the Best AC Replacement System for Your Home guide for
+  Tucson homeowners. Learn about step-by-step instructions, top recommendations
+  fro...
 publishedAt: '2025-10-31T18:49:48.677Z'
 updatedAt: '2025-10-31T18:49:53.353Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/best_ac_replacement_system.png
+heroImage: /generated_images/ac_replacement_importance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-choose-the-best-ac-replacement-system-for-your-home

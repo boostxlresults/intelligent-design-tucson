@@ -1,6 +1,9 @@
 ---
 title: 'Out With The Old, In With The New. Is AC Replacement The One For You?'
-description: 'Expert Out With The Old, In With The New. Is AC Replacement The One For You? guide for Tucson homeowners. Learn about expert solutions, professional recommen...'
+description: >-
+  Expert Out With The Old, In With The New. Is AC Replacement The One For You?
+  guide for Tucson homeowners. Learn about expert solutions, professional
+  recommen...
 publishedAt: '2025-10-31T18:50:01.015Z'
 updatedAt: '2025-10-31T18:50:02.500Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/old_vs_new_ac.png
+heroImage: /generated_images/ac_maintenance_plan_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/out-with-the-old-in-with-the-new-is-ac-replacement-the-one-f

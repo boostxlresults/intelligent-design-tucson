@@ -1,6 +1,9 @@
 ---
 title: Key Questions to Ask Before Hiring a Plumber In Tucson
-description: 'Professional Key Questions to Ask Before Hiring a Plumber In Tucson advice for Tucson homes. Discover expert solutions, professional recommendations with Int...'
+description: >-
+  Professional Key Questions to Ask Before Hiring a Plumber In Tucson advice for
+  Tucson homes. Discover expert solutions, professional recommendations with
+  Int...
 publishedAt: '2025-10-31T19:09:14.244Z'
 updatedAt: '2025-10-31T19:09:16.802Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/hiring_plumber_questions.png
+heroImage: /generated_images/Water_filtration_system_installation_b800de70.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/key-questions-to-ask-before-hiring-a-plumber-in-tucson

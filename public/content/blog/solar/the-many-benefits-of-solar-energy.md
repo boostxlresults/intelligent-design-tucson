@@ -1,6 +1,9 @@
 ---
 title: The Many Benefits of Solar Energy
-description: 'The Many Benefits of Solar Energy information for Arizona residents. Explore key benefits and savings with Intelligent Design''s solar installation experts in...'
+description: >-
+  The Many Benefits of Solar Energy information for Arizona residents. Explore
+  key benefits and savings with Intelligent Design's solar installation experts
+  in...
 publishedAt: '2025-10-31T19:01:08.086Z'
 updatedAt: '2025-10-31T19:01:08.113Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_energy_benefits.png
+heroImage: /generated_images/quick_guide_to_solar.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/solar/the-many-benefits-of-solar-energy'
 ---

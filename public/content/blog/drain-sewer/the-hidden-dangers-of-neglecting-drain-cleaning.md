@@ -1,6 +1,9 @@
 ---
 title: The Hidden Dangers of Neglecting Drain Cleaning
-description: 'The Hidden Dangers of Neglecting Drain Cleaning solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent ...'
+description: >-
+  The Hidden Dangers of Neglecting Drain Cleaning solutions for Tucson
+  properties. Learn about expert solutions, professional recommendations from
+  Intelligent ...
 publishedAt: '2025-10-31T19:09:02.089Z'
 updatedAt: '2025-10-31T19:09:04.509Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/neglecting_drain_cleaning.png
+heroImage: /generated_images/plumbing_inspection_service.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/the-hidden-dangers-of-neglecting-drain-cleaning

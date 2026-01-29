@@ -1,6 +1,9 @@
 ---
 title: Reasons Why Home Owners Need Residential Drain Cleaning
-description: 'Reasons Why Home Owners Need Residential Drain Cleaning solutions for Tucson properties. Learn about expert solutions, professional recommendations from Inte...'
+description: >-
+  Reasons Why Home Owners Need Residential Drain Cleaning solutions for Tucson
+  properties. Learn about expert solutions, professional recommendations from
+  Inte...
 publishedAt: '2025-10-31T19:09:32.125Z'
 updatedAt: '2025-10-31T19:09:35.339Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/residential_drain_cleaning.png
+heroImage: /generated_images/Drain_cleaning_service_35e09460.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/reasons-why-home-owners-need-residential-drain-cleaning

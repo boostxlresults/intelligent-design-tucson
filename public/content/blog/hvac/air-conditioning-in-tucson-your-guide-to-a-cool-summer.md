@@ -1,6 +1,9 @@
 ---
 title: 'Air Conditioning in Tucson: Your Guide to a Cool Summer'
-description: 'Expert Air Conditioning in Tucson - Your Guide to a Cool Summer guide for Tucson homeowners. Learn about comprehensive information from Intelligent Design''s ...'
+description: >-
+  Expert Air Conditioning in Tucson - Your Guide to a Cool Summer guide for
+  Tucson homeowners. Learn about comprehensive information from Intelligent
+  Design's ...
 publishedAt: '2025-10-31T18:49:59.541Z'
 updatedAt: '2025-10-31T18:50:02.495Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/cool_summer_guide.png
+heroImage: /generated_images/ac_not_repaired_consequences.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-your-guide-to-a-cool-summer

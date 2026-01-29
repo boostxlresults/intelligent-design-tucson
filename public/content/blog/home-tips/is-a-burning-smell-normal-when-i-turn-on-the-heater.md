@@ -1,12 +1,15 @@
 ---
 title: Is a Burning Smell Normal When I Turn on the Heater?
-description: 'Is a Burning Smell Normal When I Turn on the Heater? for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intel...'
+description: >-
+  Is a Burning Smell Normal When I Turn on the Heater? for Tucson homeowners.
+  Get practical advice on expert solutions, professional recommendations from
+  Intel...
 publishedAt: '2025-10-31T19:10:53.022Z'
 updatedAt: '2025-10-31T19:10:53.032Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/heater_burning_smell.png
+heroImage: /generated_images/first_time_homebuyer_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/is-a-burning-smell-normal-when-i-turn-on-the-heater

@@ -1,6 +1,9 @@
 ---
 title: Can SunTrac Air Conditioning Systems Lower Your AC Costs?
-description: 'Expert Can SunTrac Air Conditioning Systems Lower Your AC Costs? guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s...'
+description: >-
+  Expert Can SunTrac Air Conditioning Systems Lower Your AC Costs? guide for
+  Tucson homeowners. Learn about costs and pricing factors from Intelligent
+  Design's...
 publishedAt: '2025-10-31T18:48:01.764Z'
 updatedAt: '2025-10-31T18:48:04.983Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/suntrac_ac_system.png
+heroImage: /generated_images/ac_compressor_types.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/can-suntrac-air-conditioning-systems-lower-your-ac-costs

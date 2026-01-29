@@ -1,6 +1,9 @@
 ---
 title: Helpful Tips to Avoid AC Replacement
-description: 'Expert Helpful Tips to Avoid AC Replacement guide for Tucson homeowners. Learn about practical tips from Intelligent Design''s HVAC specialists with 46+ years...'
+description: >-
+  Expert Helpful Tips to Avoid AC Replacement guide for Tucson homeowners. Learn
+  about practical tips from Intelligent Design's HVAC specialists with 46+
+  years...
 publishedAt: '2025-10-31T18:49:29.108Z'
 updatedAt: '2025-10-31T18:49:35.403Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/avoid_ac_replacement.png
+heroImage: /generated_images/central_vs_ductless_ac.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/helpful-tips-to-avoid-ac-replacement'
 ---

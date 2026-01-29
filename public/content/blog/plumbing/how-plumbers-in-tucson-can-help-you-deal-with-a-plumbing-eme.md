@@ -1,6 +1,9 @@
 ---
 title: How Plumbers in Tucson Can Help You Deal With a Plumbing Emergency
-description: 'Professional How Plumbers in Tucson Can Help You Deal With a Plumbing Emergency advice for Tucson homes. Discover expert solutions, professional recommendati...'
+description: >-
+  Professional How Plumbers in Tucson Can Help You Deal With a Plumbing
+  Emergency advice for Tucson homes. Discover expert solutions, professional
+  recommendati...
 publishedAt: '2025-10-31T19:09:21.793Z'
 updatedAt: '2025-10-31T19:09:26.262Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/plumbing_emergency_tucson.png
+heroImage: /generated_images/Emergency_plumbing_service_3773a11e.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/how-plumbers-in-tucson-can-help-you-deal-with-a-plumbing-eme

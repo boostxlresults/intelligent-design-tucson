@@ -1,6 +1,9 @@
 ---
 title: How Often Does AC Need to be Replaced ?
-description: 'Expert How Often Does AC Need to be Replaced ? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Desig...'
+description: >-
+  Expert How Often Does AC Need to be Replaced ? guide for Tucson homeowners.
+  Learn about expert solutions, professional recommendations from Intelligent
+  Desig...
 publishedAt: '2025-10-31T18:49:05.437Z'
 updatedAt: '2025-10-31T18:49:05.448Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_replacement_frequency.png
+heroImage: /generated_images/ac_repair_specialist.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-often-does-ac-need-to-be-replaced'
 ---

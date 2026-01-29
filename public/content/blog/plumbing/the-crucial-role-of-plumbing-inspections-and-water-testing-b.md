@@ -2,7 +2,10 @@
 title: >-
   The Crucial Role of Plumbing Inspections and Water Testing Before the School
   Year and Holiday Season
-description: 'Professional >- advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent Design''s licensed plumbers serving the comm...'
+description: >-
+  Professional >- advice for Tucson homes. Discover expert solutions,
+  professional recommendations with Intelligent Design's licensed plumbers
+  serving the comm...
 publishedAt: '2025-10-31T19:08:59.837Z'
 updatedAt: '2025-10-31T19:09:04.503Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/plumbing_water_testing.png
+heroImage: /generated_images/choosing_right_plumber.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-crucial-role-of-plumbing-inspections-and-water-testing-b

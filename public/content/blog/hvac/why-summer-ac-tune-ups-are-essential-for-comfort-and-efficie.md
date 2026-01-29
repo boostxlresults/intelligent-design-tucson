@@ -1,6 +1,9 @@
 ---
 title: Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency
-description: 'Expert Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency guide for Tucson homeowners. Learn about expert solutions, professional recommendation...'
+description: >-
+  Expert Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency guide
+  for Tucson homeowners. Learn about expert solutions, professional
+  recommendation...
 publishedAt: '2025-10-31T18:48:18.962Z'
 updatedAt: '2025-10-31T18:48:23.925Z'
 author: Intelligent Design Team
@@ -11,16 +14,21 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/summer_ac_tune_up.png
+heroImage: /generated_images/AC_installation_Tucson_home_a4d097e8.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie
 video:
   id: a34eWo_fucE
-  title: "What to Expect from a Professional AC Tune-Up – Andrew Dobbins, Intelligent Design"
-  description: "Andrew Dobbins, owner of Intelligent Design, explains what happens during a professional AC tune-up and why regular maintenance is essential for keeping your HVAC system running efficiently in Tucson's extreme heat."
+  title: >-
+    What to Expect from a Professional AC Tune-Up – Andrew Dobbins, Intelligent
+    Design
+  description: >-
+    Andrew Dobbins, owner of Intelligent Design, explains what happens during a
+    professional AC tune-up and why regular maintenance is essential for keeping
+    your HVAC system running efficiently in Tucson's extreme heat.
   duration: PT2M50S
-  uploadDate: "2024-01-15T00:00:00Z"
+  uploadDate: '2024-01-15T00:00:00Z'
 ---
 
 # Why Summer AC Tune-Ups Are Essential for Comfort and Efficiency

@@ -2,13 +2,16 @@
 title: >-
   Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a
   Time
-description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
+description: >-
+  >- for Tucson homeowners. Get practical advice on expert solutions,
+  professional recommendations from Intelligent Design's home maintenance
+  specialists.
 publishedAt: '2025-10-31T19:10:57.221Z'
 updatedAt: '2025-10-31T19:11:01.407Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_comfort_drexel_alvernon.png
+heroImage: /generated_images/air_filter_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/intelligent-design-elevating-drexel-alvernons-home-comforts-

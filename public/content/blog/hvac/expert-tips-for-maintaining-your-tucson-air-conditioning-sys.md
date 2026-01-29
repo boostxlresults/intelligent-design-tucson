@@ -1,6 +1,9 @@
 ---
 title: Expert Tips for Maintaining Your Tucson Air Conditioning System
-description: 'Expert Expert Tips for Maintaining Your Tucson Air Conditioning System guide for Tucson homeowners. Learn about practical tips from Intelligent Design''s HVAC...'
+description: >-
+  Expert Expert Tips for Maintaining Your Tucson Air Conditioning System guide
+  for Tucson homeowners. Learn about practical tips from Intelligent Design's
+  HVAC...
 publishedAt: '2025-10-31T18:48:46.060Z'
 updatedAt: '2025-10-31T18:48:56.009Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_maintenance_tips.png
+heroImage: /generated_images/Blue-uniformed_HVAC_installers_working_82f3dc0d.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys

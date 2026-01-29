@@ -11,7 +11,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/ac_repair_savings.png
+heroImage: /generated_images/Commercial_HVAC_service_f5d8b668.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-ac-repair-can-actually-save-you-money'
 ---

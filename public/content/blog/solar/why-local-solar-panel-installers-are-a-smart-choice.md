@@ -1,6 +1,9 @@
 ---
 title: Why Local Solar Panel Installers are a Smart Choice
-description: 'Why Local Solar Panel Installers are a Smart Choice information for Arizona residents. Explore installation options with Intelligent Design''s solar installat...'
+description: >-
+  Why Local Solar Panel Installers are a Smart Choice information for Arizona
+  residents. Explore installation options with Intelligent Design's solar
+  installat...
 publishedAt: '2025-10-31T19:00:22.251Z'
 updatedAt: '2025-10-31T19:00:22.264Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/local_solar_installers.png
+heroImage: /generated_images/Residential_solar_panel_installation_23ee301f.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/why-local-solar-panel-installers-are-a-smart-choice

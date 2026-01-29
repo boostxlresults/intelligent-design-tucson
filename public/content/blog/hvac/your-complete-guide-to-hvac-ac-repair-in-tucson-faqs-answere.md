@@ -1,6 +1,9 @@
 ---
 title: Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered
-description: 'Expert Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered guide for Tucson homeowners. Learn about comprehensive information, repair solutions...'
+description: >-
+  Expert Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered guide
+  for Tucson homeowners. Learn about comprehensive information, repair
+  solutions...
 publishedAt: '2025-10-31T18:48:03.338Z'
 updatedAt: '2025-10-31T18:48:04.985Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/hvac_repair_guide_faqs.png
+heroImage: /generated_images/AC_maintenance_service_6a47e66a.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/your-complete-guide-to-hvac-ac-repair-in-tucson-faqs-answere

@@ -1,6 +1,9 @@
 ---
 title: 'AC Problems: Why Is My AC Working Downstairs But Not Upstairs?'
-description: 'Expert AC Problems - Why Is My AC Working Downstairs But Not Upstairs? guide for Tucson homeowners. Learn about expert solutions, professional recommendation...'
+description: >-
+  Expert AC Problems - Why Is My AC Working Downstairs But Not Upstairs? guide
+  for Tucson homeowners. Learn about expert solutions, professional
+  recommendation...
 publishedAt: '2025-10-31T18:48:26.652Z'
 updatedAt: '2025-10-31T18:48:32.541Z'
 author: Intelligent Design Team
@@ -9,14 +12,19 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/ac_uneven_cooling.png
+heroImage: /generated_images/ac_replacement_facts.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/ac-problems-why-is-my-ac-working-downstairs-but-not-upstairs
 video:
   id: _26u5kPqU4w
-  title: Why Is My AC Working Downstairs But Not Upstairs? | Intelligent Design Tucson
-  description: Discover why your air conditioner cools the downstairs but leaves upstairs warm. Learn about proper AC sizing, ductwork issues, thermostat placement, and solutions from Tucson HVAC experts.
+  title: >-
+    Why Is My AC Working Downstairs But Not Upstairs? | Intelligent Design
+    Tucson
+  description: >-
+    Discover why your air conditioner cools the downstairs but leaves upstairs
+    warm. Learn about proper AC sizing, ductwork issues, thermostat placement,
+    and solutions from Tucson HVAC experts.
   duration: PT4M30S
   uploadDate: '2024-01-15T00:00:00Z'
 ---

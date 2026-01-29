@@ -2,7 +2,10 @@
 title: >-
   The Importance of Air Conditioner Sizing: How to Choose the Right AC Unit for
   Optimal Comfort and Efficiency
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:16.947Z'
 updatedAt: '2025-10-31T18:48:23.920Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_sizing_importance.png
+heroImage: /generated_images/Air_duct_cleaning_service_dd4fa139.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-importance-of-air-conditioner-sizing-how-to-choose-the-r

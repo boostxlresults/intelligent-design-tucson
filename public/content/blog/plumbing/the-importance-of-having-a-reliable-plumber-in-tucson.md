@@ -1,6 +1,9 @@
 ---
 title: The Importance of Having a Reliable Plumber in Tucson
-description: 'Professional The Importance of Having a Reliable Plumber in Tucson advice for Tucson homes. Discover expert solutions, professional recommendations with Inte...'
+description: >-
+  Professional The Importance of Having a Reliable Plumber in Tucson advice for
+  Tucson homes. Discover expert solutions, professional recommendations with
+  Inte...
 publishedAt: '2025-10-31T19:09:47.020Z'
 updatedAt: '2025-10-31T19:09:52.927Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/reliable_plumber_tucson.png
+heroImage: /generated_images/professional_plumber_fixing_kitchen_sink.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/the-importance-of-having-a-reliable-plumber-in-tucson

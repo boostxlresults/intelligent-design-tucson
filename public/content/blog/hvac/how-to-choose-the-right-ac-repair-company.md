@@ -1,6 +1,9 @@
 ---
 title: How to Choose the Right AC Repair Company
-description: 'Expert How to Choose the Right AC Repair Company guide for Tucson homeowners. Learn about step-by-step instructions, repair solutions from Intelligent Design...'
+description: >-
+  Expert How to Choose the Right AC Repair Company guide for Tucson homeowners.
+  Learn about step-by-step instructions, repair solutions from Intelligent
+  Design...
 publishedAt: '2025-10-31T18:49:51.769Z'
 updatedAt: '2025-10-31T18:49:53.355Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/right_ac_repair_company.png
+heroImage: /generated_images/ac_health_risks.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-to-choose-the-right-ac-repair-company'
 ---

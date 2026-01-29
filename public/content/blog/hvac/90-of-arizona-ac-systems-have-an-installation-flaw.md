@@ -1,6 +1,9 @@
 ---
 title: 90% of Arizona AC Systems Have an Installation Flaw
-description: 'Expert 90% of Arizona AC Systems Have an Installation Flaw guide for Tucson homeowners. Learn about installation options from Intelligent Design''s HVAC speci...'
+description: >-
+  Expert 90% of Arizona AC Systems Have an Installation Flaw guide for Tucson
+  homeowners. Learn about installation options from Intelligent Design's HVAC
+  speci...
 publishedAt: '2025-10-31T18:50:51.041Z'
 updatedAt: '2025-10-31T18:50:51.060Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/ac_installation_flaws.png
+heroImage: /generated_images/ac_repair_specialist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/90-of-arizona-ac-systems-have-an-installation-flaw

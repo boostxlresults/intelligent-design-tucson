@@ -1,6 +1,9 @@
 ---
 title: Common Drain Cleaning Mistakes You Must Avoid
-description: 'Common Drain Cleaning Mistakes You Must Avoid solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent De...'
+description: >-
+  Common Drain Cleaning Mistakes You Must Avoid solutions for Tucson properties.
+  Learn about expert solutions, professional recommendations from Intelligent
+  De...
 publishedAt: '2025-10-31T19:09:04.493Z'
 updatedAt: '2025-10-31T19:09:04.511Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/drain_cleaning_mistakes.png
+heroImage: /generated_images/hydrojetting_drain_cleaning.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/common-drain-cleaning-mistakes-you-must-avoid

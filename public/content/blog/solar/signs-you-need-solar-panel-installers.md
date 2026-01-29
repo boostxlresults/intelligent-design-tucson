@@ -1,6 +1,9 @@
 ---
 title: Signs You Need Solar Panel Installers
-description: 'Signs You Need Solar Panel Installers information for Arizona residents. Explore warning signs to watch for, installation options with Intelligent Design''s s...'
+description: >-
+  Signs You Need Solar Panel Installers information for Arizona residents.
+  Explore warning signs to watch for, installation options with Intelligent
+  Design's s...
 publishedAt: '2025-10-31T19:01:06.545Z'
 updatedAt: '2025-10-31T19:01:08.089Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - solar-energy
   - cost-savings
   - tucson
-heroImage: /generated_images/solar_installation_guide.png
+heroImage: /generated_images/local_solar_installers_tucson.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/solar/signs-you-need-solar-panel-installers'
 ---

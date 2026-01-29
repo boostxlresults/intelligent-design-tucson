@@ -6,7 +6,7 @@ updatedAt: '2025-10-31T19:11:57.327Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/intelligent_design_heart.png
+heroImage: /generated_images/fire_prevention_tips.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/home-tips/intelligentdesign-heart-forever-60'
 ---

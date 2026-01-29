@@ -1,6 +1,9 @@
 ---
 title: How to Determine if It’s Time for an AC Replacement
-description: 'Expert How to Determine if It’s Time for an AC Replacement guide for Tucson homeowners. Learn about step-by-step instructions from Intelligent Design''s HVAC ...'
+description: >-
+  Expert How to Determine if It’s Time for an AC Replacement guide for Tucson
+  homeowners. Learn about step-by-step instructions from Intelligent Design's
+  HVAC ...
 publishedAt: '2025-10-31T18:49:38.059Z'
 updatedAt: '2025-10-31T18:49:43.990Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_replacement_time.png
+heroImage: /generated_images/ac_needs_repair_signs.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-to-determine-if-its-time-for-an-ac-replacement

@@ -1,6 +1,9 @@
 ---
 title: 'The Ultimate Guide to HVAC Maintenance in Tucson, AZ'
-description: 'Expert The Ultimate Guide to HVAC Maintenance in Tucson, AZ guide for Tucson homeowners. Learn about comprehensive information, maintenance best practices fr...'
+description: >-
+  Expert The Ultimate Guide to HVAC Maintenance in Tucson, AZ guide for Tucson
+  homeowners. Learn about comprehensive information, maintenance best practices
+  fr...
 publishedAt: '2025-10-31T18:48:56.001Z'
 updatedAt: '2025-10-31T18:48:56.002Z'
 author: Intelligent Design Team
@@ -11,16 +14,22 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /generated_images/hvac_maintenance_guide_tucson.png
+heroImage: /generated_images/cool_summer_in_tucson.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/the-ultimate-guide-to-hvac-maintenance-in-tucson-az
 video:
   id: dGNiXDZwt_M
-  title: "Home Maintenance Plans Explained w/ Andrew Dobbins from Intelligent Design | What are the Benefits?"
-  description: "Andrew Dobbins, owner of Intelligent Design Plumbing & Air, explains why regular maintenance for your HVAC, plumbing, electrical, and roofing systems prevents costly repairs, extends equipment life, and keeps your home running smoothly."
+  title: >-
+    Home Maintenance Plans Explained w/ Andrew Dobbins from Intelligent Design |
+    What are the Benefits?
+  description: >-
+    Andrew Dobbins, owner of Intelligent Design Plumbing & Air, explains why
+    regular maintenance for your HVAC, plumbing, electrical, and roofing systems
+    prevents costly repairs, extends equipment life, and keeps your home running
+    smoothly.
   duration: PT3M47S
-  uploadDate: "2024-12-02T00:00:00Z"
+  uploadDate: '2024-12-02T00:00:00Z'
 ---
 
 # The Ultimate Guide to HVAC Maintenance in Tucson, AZ

@@ -1,6 +1,9 @@
 ---
 title: 'Solar Power Systems Made Simple: How Solar Panels Work'
-description: 'Solar Power Systems Made Simple - How Solar Panels Work information for Arizona residents. Explore expert solutions, professional recommendations with Intell...'
+description: >-
+  Solar Power Systems Made Simple - How Solar Panels Work information for
+  Arizona residents. Explore expert solutions, professional recommendations with
+  Intell...
 publishedAt: '2025-10-31T19:01:03.274Z'
 updatedAt: '2025-10-31T19:01:08.117Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/how_solar_works.png
+heroImage: /generated_images/maximum_solar_energy_savings.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/solar-power-systems-made-simple-how-solar-panels-work

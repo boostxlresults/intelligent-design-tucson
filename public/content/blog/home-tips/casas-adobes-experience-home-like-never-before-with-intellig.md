@@ -1,12 +1,15 @@
 ---
 title: 'Casas Adobes, Experience Home Like Never Before with Intelligent Design'
-description: 'Casas Adobes, Experience Home Like Never Before with Intelligent Design for Tucson homeowners. Get practical advice on expert solutions, professional recomme...'
+description: >-
+  Casas Adobes, Experience Home Like Never Before with Intelligent Design for
+  Tucson homeowners. Get practical advice on expert solutions, professional
+  recomme...
 publishedAt: '2025-10-31T19:11:26.536Z'
 updatedAt: '2025-10-31T19:11:27.993Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_casas_adobes.png
+heroImage: /generated_images/energy_efficient_home_upgrades.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/casas-adobes-experience-home-like-never-before-with-intellig

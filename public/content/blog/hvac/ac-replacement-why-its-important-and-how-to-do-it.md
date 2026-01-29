@@ -1,6 +1,9 @@
 ---
 title: 'AC Replacement: Why It’s Important and How to Do It'
-description: 'Expert AC Replacement - Why It’s Important and How to Do It guide for Tucson homeowners. Learn about step-by-step instructions from Intelligent Design''s HVAC...'
+description: >-
+  Expert AC Replacement - Why It’s Important and How to Do It guide for Tucson
+  homeowners. Learn about step-by-step instructions from Intelligent Design's
+  HVAC...
 publishedAt: '2025-10-31T18:50:11.048Z'
 updatedAt: '2025-10-31T18:50:13.401Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_replacement_guide.png
+heroImage: /generated_images/ac_replacement_importance.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/ac-replacement-why-its-important-and-how-to-do-it

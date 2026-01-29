@@ -1,8 +1,9 @@
 ---
 title: What Are the Most Common Plumbing Issues in Homes?
 description: >-
-  Learn about the most common plumbing issues in Tucson homes including root-obstructed pipes, 
-  polybutylene piping problems, and water heater scale buildup. Get expert tips on prevention and repair.
+  Learn about the most common plumbing issues in Tucson homes including
+  root-obstructed pipes,  polybutylene piping problems, and water heater scale
+  buildup. Get expert tips on prevention and repair.
 publishedAt: '2025-10-31T19:10:23.126Z'
 updatedAt: '2025-01-15T10:00:00Z'
 author: Intelligent Design Team
@@ -13,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/common_plumbing_issues.png
+heroImage: /generated_images/Plumbing_maintenance_inspection_service_1be685bc.png
 featured: true
 canonicalUrl: /blog/plumbing/what-are-the-most-common-plumbing-issues-in-homes
 relatedServices:
@@ -23,7 +24,10 @@ relatedServices:
 video:
   id: 4rUyVArXvO0
   title: Most Common Plumbing Issues in Homes - Expert Tips
-  description: Learn about the most common plumbing problems homeowners face, including root intrusion, polybutylene piping, and water heater issues. Our licensed Tucson plumbers explain what to look for and how to prevent costly repairs.
+  description: >-
+    Learn about the most common plumbing problems homeowners face, including
+    root intrusion, polybutylene piping, and water heater issues. Our licensed
+    Tucson plumbers explain what to look for and how to prevent costly repairs.
   uploadDate: '2024-06-15T00:00:00Z'
   duration: PT5M30S
 ---

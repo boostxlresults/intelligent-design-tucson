@@ -11,7 +11,7 @@ tags:
   - maintenance
   - tucson
   - faq
-heroImage: /generated_images/hvac_repair_faqs.png
+heroImage: /generated_images/AC_maintenance_service_6a47e66a.png
 publishedAt: '2024-06-15T10:00:00Z'
 updatedAt: '2025-01-31T10:00:00Z'
 featured: true

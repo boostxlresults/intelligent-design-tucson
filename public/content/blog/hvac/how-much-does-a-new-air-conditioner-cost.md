@@ -1,6 +1,9 @@
 ---
 title: How Much Does a New Air Conditioner Cost?
-description: 'Expert How Much Does a New Air Conditioner Cost? guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s HVAC specialist...'
+description: >-
+  Expert How Much Does a New Air Conditioner Cost? guide for Tucson homeowners.
+  Learn about costs and pricing factors from Intelligent Design's HVAC
+  specialist...
 publishedAt: '2025-10-31T19:10:42.747Z'
 updatedAt: '2025-10-31T19:10:44.415Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - tucson
-heroImage: /generated_images/ac_cost_estimate.png
+heroImage: /generated_images/commercial_ac_replacement.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-much-does-a-new-air-conditioner-cost'
 ---

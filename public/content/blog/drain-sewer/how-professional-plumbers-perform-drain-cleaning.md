@@ -1,6 +1,9 @@
 ---
 title: How Professional Plumbers Perform Drain Cleaning
-description: 'How Professional Plumbers Perform Drain Cleaning solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent...'
+description: >-
+  How Professional Plumbers Perform Drain Cleaning solutions for Tucson
+  properties. Learn about expert solutions, professional recommendations from
+  Intelligent...
 publishedAt: '2025-10-31T19:09:30.492Z'
 updatedAt: '2025-10-31T19:09:35.344Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/professional_drain_cleaning.png
+heroImage: /generated_images/Sewer_camera_inspection_service_9e9380c7.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/how-professional-plumbers-perform-drain-cleaning

@@ -1,6 +1,9 @@
 ---
 title: Why Drain Cleaning Is Important
-description: 'Why Drain Cleaning Is Important solutions for Tucson properties. Learn about expert solutions, professional recommendations from Intelligent Design''s profess…'
+description: >-
+  Why Drain Cleaning Is Important solutions for Tucson properties. Learn about
+  expert solutions, professional recommendations from Intelligent Design's
+  profess…
 publishedAt: '2025-10-31T19:09:39.490Z'
 updatedAt: '2025-10-31T19:09:44.147Z'
 author: Intelligent Design Team
@@ -9,7 +12,7 @@ tags:
   - plumbing-repair
   - drain-cleaning
   - repiping
-heroImage: /generated_images/drain_cleaning_importance.png
+heroImage: /generated_images/commercial_plumbing_services.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/drain-sewer/why-drain-cleaning-is-important'
 ---

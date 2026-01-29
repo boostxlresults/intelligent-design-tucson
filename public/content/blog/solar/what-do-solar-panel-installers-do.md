@@ -1,6 +1,9 @@
 ---
 title: What Do Solar Panel Installers Do
-description: 'What Do Solar Panel Installers Do information for Arizona residents. Explore installation options with Intelligent Design''s solar installation experts in Tuc...'
+description: >-
+  What Do Solar Panel Installers Do information for Arizona residents. Explore
+  installation options with Intelligent Design's solar installation experts in
+  Tuc...
 publishedAt: '2025-10-31T19:00:42.645Z'
 updatedAt: '2025-10-31T19:00:49.471Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_installer_work.png
+heroImage: /generated_images/commercial_solar_installation.png
 featured: false
 canonicalUrl: 'https://www.idesignac.com/blog/solar/what-do-solar-panel-installers-do'
 ---

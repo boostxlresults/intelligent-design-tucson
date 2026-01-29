@@ -1,12 +1,15 @@
 ---
 title: 'Serving Catalina, Arizona: More Than Just Home Services, It’s About Community'
-description: 'Serving Catalina, Arizona - More Than Just Home Services, It’s About Community for Tucson homeowners. Get practical advice on expert solutions, professional ...'
+description: >-
+  Serving Catalina, Arizona - More Than Just Home Services, It’s About Community
+  for Tucson homeowners. Get practical advice on expert solutions, professional
+  ...
 publishedAt: '2025-10-31T19:11:19.484Z'
 updatedAt: '2025-10-31T19:11:19.494Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_catalina_az.png
+heroImage: /generated_images/buying_new_ac_tips.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/serving-catalina-arizona-more-than-just-home-services-its-ab

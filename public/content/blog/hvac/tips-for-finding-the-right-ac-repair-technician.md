@@ -1,6 +1,9 @@
 ---
 title: Tips for Finding the Right AC Repair Technician
-description: 'Expert Tips for Finding the Right AC Repair Technician guide for Tucson homeowners. Learn about practical tips, repair solutions from Intelligent Design''s HV...'
+description: >-
+  Expert Tips for Finding the Right AC Repair Technician guide for Tucson
+  homeowners. Learn about practical tips, repair solutions from Intelligent
+  Design's HV...
 publishedAt: '2025-10-31T18:49:09.578Z'
 updatedAt: '2025-10-31T18:49:15.004Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-replacement
   - cooling
   - tucson
-heroImage: /generated_images/find_ac_repair_technician.png
+heroImage: /generated_images/dual_fuel_heat_pump.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/tips-for-finding-the-right-ac-repair-technician

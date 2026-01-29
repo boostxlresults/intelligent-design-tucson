@@ -1,12 +1,15 @@
 ---
 title: 'Casa Grande, Elevate Your Living Experience with Intelligent Design'
-description: 'Casa Grande, Elevate Your Living Experience with Intelligent Design for Tucson homeowners. Get practical advice on expert solutions, professional recommendat...'
+description: >-
+  Casa Grande, Elevate Your Living Experience with Intelligent Design for Tucson
+  homeowners. Get practical advice on expert solutions, professional
+  recommendat...
 publishedAt: '2025-10-31T19:11:27.985Z'
 updatedAt: '2025-10-31T19:11:27.986Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/home_services_casa_grande.png
+heroImage: /generated_images/home_comfort_improvement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/casa-grande-elevate-your-living-experience-with-intelligent-

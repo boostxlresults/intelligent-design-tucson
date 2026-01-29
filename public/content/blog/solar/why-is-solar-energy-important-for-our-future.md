@@ -1,6 +1,9 @@
 ---
 title: Why is Solar Energy Important for Our Future?
-description: 'Why is Solar Energy Important for Our Future? information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Desi...'
+description: >-
+  Why is Solar Energy Important for Our Future? information for Arizona
+  residents. Explore expert solutions, professional recommendations with
+  Intelligent Desi...
 publishedAt: '2025-10-31T19:00:45.626Z'
 updatedAt: '2025-10-31T19:00:49.462Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - solar-installation
   - solar-energy
   - cost-savings
-heroImage: /generated_images/solar_energy_future.png
+heroImage: /generated_images/Residential_solar_installation_8a8bfb2c.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/solar/why-is-solar-energy-important-for-our-future

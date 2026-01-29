@@ -2,7 +2,10 @@
 title: >-
   Intelligent Design Elevates HVAC Tune Up Standards with Unprecedented 82-Point
   AC System Inspection
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:10.765Z'
 updatedAt: '2025-10-31T18:48:13.914Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/82_point_inspection.png
+heroImage: /generated_images/ac_broken_symptoms.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/intelligent-design-elevates-hvac-tune-up-standards-with-unpr

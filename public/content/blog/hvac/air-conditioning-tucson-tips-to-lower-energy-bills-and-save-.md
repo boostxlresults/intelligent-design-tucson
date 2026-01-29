@@ -1,6 +1,9 @@
 ---
 title: 'Air Conditioning Tucson: Tips to Lower Energy Bills and Save Money'
-description: 'Expert Air Conditioning Tucson - Tips to Lower Energy Bills and Save Money guide for Tucson homeowners. Learn about practical tips from Intelligent Design''s ...'
+description: >-
+  Expert Air Conditioning Tucson - Tips to Lower Energy Bills and Save Money
+  guide for Tucson homeowners. Learn about practical tips from Intelligent
+  Design's ...
 publishedAt: '2025-10-31T18:48:40.121Z'
 updatedAt: '2025-10-31T18:48:42.528Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - cooling
   - tucson
-heroImage: /generated_images/energy_bill_savings.png
+heroImage: /generated_images/ac_broken_symptoms.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-

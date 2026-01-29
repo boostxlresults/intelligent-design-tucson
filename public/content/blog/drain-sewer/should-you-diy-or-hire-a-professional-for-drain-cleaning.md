@@ -1,6 +1,9 @@
 ---
 title: Should You DIY or Hire a Professional for Drain Cleaning?
-description: 'Should You DIY or Hire a Professional for Drain Cleaning? solutions for Tucson properties. Learn about expert solutions, professional recommendations from In...'
+description: >-
+  Should You DIY or Hire a Professional for Drain Cleaning? solutions for Tucson
+  properties. Learn about expert solutions, professional recommendations from
+  In...
 publishedAt: '2025-10-31T19:09:20.285Z'
 updatedAt: '2025-10-31T19:09:26.258Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - drain-cleaning
   - repiping
   - tucson
-heroImage: /generated_images/diy_vs_professional_drain.png
+heroImage: /generated_images/pipe_repair_repiping.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/drain-sewer/should-you-diy-or-hire-a-professional-for-drain-cleaning

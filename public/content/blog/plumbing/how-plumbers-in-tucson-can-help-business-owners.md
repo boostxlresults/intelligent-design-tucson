@@ -1,6 +1,9 @@
 ---
 title: How Plumbers in Tucson Can Help Business Owners
-description: 'Professional How Plumbers in Tucson Can Help Business Owners advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligen...'
+description: >-
+  Professional How Plumbers in Tucson Can Help Business Owners advice for Tucson
+  homes. Discover expert solutions, professional recommendations with
+  Intelligen...
 publishedAt: '2025-10-31T19:09:42.407Z'
 updatedAt: '2025-10-31T19:09:44.150Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - repiping
   - water-heaters
   - tucson
-heroImage: /generated_images/commercial_plumbing_tucson.png
+heroImage: /generated_images/emergency_plumbing_repair.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/plumbing/how-plumbers-in-tucson-can-help-business-owners

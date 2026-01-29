@@ -1,12 +1,15 @@
 ---
 title: How Repiping Can Improve Your Home’s Water Quality
-description: 'Professional How Repiping Can Improve Your Home’s Water Quality advice for Tucson homes. Discover expert solutions, professional recommendations with Intelli...'
+description: >-
+  Professional How Repiping Can Improve Your Home’s Water Quality advice for
+  Tucson homes. Discover expert solutions, professional recommendations with
+  Intelli...
 publishedAt: '2025-10-31T19:11:30.561Z'
 updatedAt: '2025-10-31T19:11:36.386Z'
 author: Intelligent Design Team
 category: plumbing
 tags: null
-heroImage: /generated_images/repiping_water_quality.png
+heroImage: /generated_images/plumbing_maintenance_checklist.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/how-repiping-can-improve-your-homes-water-quality

@@ -2,7 +2,10 @@
 title: >-
   Why is My AC Not Cooling? The Ultimate Tucson Homeowner’s Guide to a Chilly
   Home
-description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
+description: >-
+  Expert >- guide for Tucson homeowners. Learn about expert solutions,
+  professional recommendations from Intelligent Design's HVAC specialists with
+  46+ years o...
 publishedAt: '2025-10-31T18:48:12.282Z'
 updatedAt: '2025-10-31T18:48:13.911Z'
 author: Intelligent Design Team
@@ -13,7 +16,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/ac_cooling_guide_tucson.png
+heroImage: /generated_images/ac_maintenance_plan_benefits.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/why-is-my-ac-not-cooling-the-ultimate-tucson-homeowners-guid

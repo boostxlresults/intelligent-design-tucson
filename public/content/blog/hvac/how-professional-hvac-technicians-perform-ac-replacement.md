@@ -1,6 +1,9 @@
 ---
 title: How Professional HVAC Technicians Perform AC Replacement
-description: 'Expert How Professional HVAC Technicians Perform AC Replacement guide for Tucson homeowners. Learn about expert solutions, professional recommendations from ...'
+description: >-
+  Expert How Professional HVAC Technicians Perform AC Replacement guide for
+  Tucson homeowners. Learn about expert solutions, professional recommendations
+  from ...
 publishedAt: '2025-10-31T18:49:42.398Z'
 updatedAt: '2025-10-31T18:49:43.983Z'
 author: Intelligent Design Team
@@ -11,7 +14,7 @@ tags:
   - ac-installation
   - ac-replacement
   - cooling
-heroImage: /generated_images/professional_ac_replacement.png
+heroImage: /generated_images/ac_replacement_facts.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/how-professional-hvac-technicians-perform-ac-replacement

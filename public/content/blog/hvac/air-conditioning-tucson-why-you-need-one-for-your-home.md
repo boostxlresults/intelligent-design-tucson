@@ -1,6 +1,9 @@
 ---
 title: 'Air Conditioning Tucson: Why You Need One for Your Home'
-description: 'Expert Air Conditioning Tucson - Why You Need One for Your Home guide for Tucson homeowners. Learn about expert solutions, professional recommendations from ...'
+description: >-
+  Expert Air Conditioning Tucson - Why You Need One for Your Home guide for
+  Tucson homeowners. Learn about expert solutions, professional recommendations
+  from ...
 publishedAt: '2025-10-31T18:49:08.131Z'
 updatedAt: '2025-10-31T18:49:15.118Z'
 author: Intelligent Design Team
@@ -10,7 +13,7 @@ tags:
   - hvac-maintenance
   - ac-installation
   - tucson
-heroImage: /generated_images/home_ac_need.png
+heroImage: /generated_images/ac_capacitor_replacement.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/hvac/air-conditioning-tucson-why-you-need-one-for-your-home

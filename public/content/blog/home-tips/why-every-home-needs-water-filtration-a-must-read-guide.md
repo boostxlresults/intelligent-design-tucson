@@ -1,12 +1,15 @@
 ---
 title: 'Why Every Home Needs Water Filtration: A Must-Read Guide'
-description: 'Why Every Home Needs Water Filtration - A Must-Read Guide for Tucson homeowners. Get practical advice on comprehensive information from Intelligent Design''s ...'
+description: >-
+  Why Every Home Needs Water Filtration - A Must-Read Guide for Tucson
+  homeowners. Get practical advice on comprehensive information from Intelligent
+  Design's ...
 publishedAt: '2025-10-31T19:11:34.896Z'
 updatedAt: '2025-10-31T19:11:36.375Z'
 author: Intelligent Design Team
 category: home-tips
 tags: null
-heroImage: /generated_images/water_filtration_guide.png
+heroImage: /generated_images/home_energy_audit.png
 featured: false
 canonicalUrl: >-
   https://www.idesignac.com/blog/home-tips/why-every-home-needs-water-filtration-a-must-read-guide

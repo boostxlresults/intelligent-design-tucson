@@ -1,7 +1,9 @@
 ---
 title: How Long Should Your AC Run During the Day?
 description: >-
-  Learn how long your AC should run during summer in Tucson. Andrew Dobbins explains proper AC sizing, why short cycling is problematic, and when to call for a heat load calculation.
+  Learn how long your AC should run during summer in Tucson. Andrew Dobbins
+  explains proper AC sizing, why short cycling is problematic, and when to call
+  for a heat load calculation.
 publishedAt: '2019-09-08T12:00:00.000Z'
 updatedAt: '2025-12-17T10:00:00.000Z'
 author: Intelligent Design Team
@@ -11,16 +13,19 @@ tags:
   - ac-maintenance
   - tucson
   - energy-efficiency
-heroImage: /generated_images/ac_runtime.png
+heroImage: /generated_images/mini_split_installation.png
 featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/how-long-should-your-ac-run-during-the-day
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-long-should-your-ac-run-during-the-day'
 video:
   id: NrkzFeoLtoQ
-  title: "How Long Should My AC Run During the Day?"
-  description: "Andrew Dobbins explains how long your AC should run during the day. A properly sized system should run continuously during peak summer temperatures. If your AC is kicking on and off frequently, it may be oversized, causing premature motor wear and shorter system life."
+  title: How Long Should My AC Run During the Day?
+  description: >-
+    Andrew Dobbins explains how long your AC should run during the day. A
+    properly sized system should run continuously during peak summer
+    temperatures. If your AC is kicking on and off frequently, it may be
+    oversized, causing premature motor wear and shorter system life.
   duration: PT1M19S
-  uploadDate: "2019-09-08T00:00:00Z"
+  uploadDate: '2019-09-08T00:00:00Z'
 ---
 
 # How Long Should Your AC Run During the Day?
