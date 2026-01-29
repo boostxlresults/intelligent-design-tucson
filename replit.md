@@ -149,3 +149,8 @@ Preferred communication style: Simple, everyday language.
 - Affected categories: HVAC (40), Solar (25), Plumbing (13), Drain-Sewer (7), Home-Tips (7), Water-Heater (3), Roofing (1)
 - Solution: Escaped internal apostrophes using YAML's single-quote escaping (`''`)
 - All 279 blog posts now parse correctly with gray-matter
+
+### Category Default Image Fix (January 2026)
+- Updated categoryDefaultImages to use images that actually exist in /generated_images/
+- Fixed fallback images for: water-heater, drain-sewer, indoor-air-quality
+- New defaults: bradford_white_water_heater.png, drain_cleaning_service.png, Air_duct_cleaning_service_dd4fa139.png

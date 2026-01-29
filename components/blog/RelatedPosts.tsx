@@ -23,9 +23,9 @@ const categoryDefaultImages: Record<string, string> = {
   'electrical': '/generated_images/electrical_panel_upgrade.png',
   'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
   'home-tips': '/generated_images/home_energy_audit.png',
-  'water-heater': '/generated_images/tankless_water_heater_benefits.png',
-  'drain-sewer': '/generated_images/drain_cleaning_tools_guide.png',
-  'indoor-air-quality': '/generated_images/indoor_air_quality_health.png',
+  'water-heater': '/generated_images/bradford_white_water_heater.png',
+  'drain-sewer': '/generated_images/drain_cleaning_service.png',
+  'indoor-air-quality': '/generated_images/Air_duct_cleaning_service_dd4fa139.png',
 };
 
 function normalizeHeroImagePath(imagePath: string | undefined): string | undefined {
