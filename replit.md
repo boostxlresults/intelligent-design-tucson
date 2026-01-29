@@ -1,7 +1,7 @@
 # Intelligent Design Tucson - Home Services Website
 
 ## Overview
-This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. **Company History:** Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins. In 2022, the company united with Wood's Plumbing (established 1979) to create a combined 46+ years of home services expertise serving the Tucson community. The schema foundingDate remains 1979 as approved by BBB and Google. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site currently features over 488 pages, including service pages (with location-specific variants), service area pages, optimized blog posts, resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
+This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. **Company History:** Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins. In 2022, the company united with Wood's Plumbing (established 1979) to create a combined 46+ years of home services expertise serving the Tucson community. The schema foundingDate remains 1979 as approved by BBB and Google. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site currently features over 500 pages, including service pages (with location-specific variants), service area pages, 279 optimized blog posts across 6 categories (HVAC, plumbing, solar, home-tips, electrical, roofing), resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.
@@ -88,3 +88,29 @@ Preferred communication style: Simple, everyday language.
 ### Development Tools
 - **Zod:** Used for schema validation.
 - **Drizzle ORM:** TypeScript ORM for PostgreSQL.
+
+## Recent Changes (January 2026)
+
+### Blog Rebuild - Phase 1 Complete
+- Increased blog post count from 247 to 279 posts (+32 new posts)
+- Created SEO-optimized content covering high-value topics:
+  - HVAC: AC lifespan, installation costs, maintenance, thermostat settings, repair guides, rebates, efficiency tips
+  - Plumbing: Toilet repair, water heater maintenance, water quality, leak detection, repiping benefits
+  - Solar: Solar AC benefits, installation considerations, reasons to go solar
+  - Home Tips: Energy efficiency for older homes
+- All new posts follow clean frontmatter structure with proper canonical URLs
+- Blog posts use markdown format in `public/content/blog/[category]/` directories
+- URL structure: `/blog/[category]/[slug]`
+
+### Blog Post Distribution
+- HVAC: 115 posts
+- Plumbing: 66 posts
+- Solar: 50 posts
+- Home Tips: 34 posts
+- Electrical: 7 posts
+- Roofing: 7 posts
+
+### Redirect Cleanup
+- Removed 180+ duplicate redirects from lib/redirects.ts
+- Added 21 new redirects for date archives and missing content
+- All redirects verified working with 308 permanent status
