@@ -1,6 +1,6 @@
 ---
 title: Why Is My Toilet Running? And Other Popular Plumbing Questions
-description: "Why Is My Toilet Running? And Other Popular Plumbing Questions \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'Professional Why Is My Toilet Running? And Other Popular Plumbing Questions advice for Tucson homes. Discover expert solutions, professional recommendations ...'
 publishedAt: '2025-10-31T19:10:04.244Z'
 updatedAt: '2025-10-31T19:10:10.186Z'
 author: Intelligent Design Team
@@ -17,32 +17,6 @@ canonicalUrl: >-
 ---
 
 # Why Is My Toilet Running? And Other Popular Plumbing Questions
-
-**Jump to** [Services We Provide](#)
-
-[1) Answers to Your Common Plumbing Questions](#Answers_to_Your_Common_Plumbing_Questions)
-
-[2) Why is my toilet running?](#Why_is_my_toilet_running)
-
-[3) What should I do if my toilet is clogged?](#What_should_I_do_if_my_toilet_is_clogged)
-
-[4) How do I know if my toilet is leaking?](#How_do_I_know_if_my_toilet_is_leaking)
-
-[5) Why are my faucets turning on when I’m in the shower?](#Why_are_my_faucets_turning_on_when_Im_in_the_shower)
-
-[6) Why is my water pressure so low?](#Why_is_my_water_pressure_so_low)
-
-[7) Does my bathroom plumbing need maintenance?](#Does_my_bathroom_plumbing_need_maintenance)
-
-[8) Why does my garbage disposal keep clogging?](#Why_does_my_garbage_disposal_keep_clogging)
-
-[9) What should I do if my garbage disposal is clogged?](#What_should_I_do_if_my_garbage_disposal_is_clogged)
-
-[10) What can I do about odors in my dishwasher?](#What_can_I_do_about_odors_in_my_dishwasher)
-
-[11) Does my kitchen plumbing need maintenance?](#Does_my_kitchen_plumbing_need_maintenance)
-
-[12) Trust Our Skilled Plumbers for Your Maintenance and Repair Needs](#Trust_Our_Skilled_Plumbers_for_Your_Maintenance_and_Repair_Needs)
 
 ### Answers to Your Common Plumbing Questions
 

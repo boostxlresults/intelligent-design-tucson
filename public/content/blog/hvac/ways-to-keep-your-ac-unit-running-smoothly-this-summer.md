@@ -1,6 +1,6 @@
 ---
 title: Ways To Keep Your AC Unit Running Smoothly This Summer
-description: "Ways To Keep Your AC Unit Running Smoothly This Summer \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide  ..."
+description: 'Expert Ways To Keep Your AC Unit Running Smoothly This Summer guide for Tucson homeowners. Learn about expert solutions, professional recommendations from In...'
 publishedAt: '2025-10-31T18:50:19.805Z'
 updatedAt: '2025-10-31T18:50:23.405Z'
 author: Intelligent Design Team
@@ -18,26 +18,6 @@ canonicalUrl: >-
 ---
 
 # Ways To Keep Your AC Unit Running Smoothly This Summer
-
-**Jump to** [Services We Provide](#)
-
-[1) Understand How Your Air Conditioner Works](#Understand_How_Your_Air_Conditioner_Works)
-
-[2) Change Your Filters Regularly](#Change_Your_Filters_Regularly)
-
-[3) Create Shade for the Outdoor Unit](#Create_Shade_for_the_Outdoor_Unit)
-
-[4) Keep the Area Around the Unit Clean](#Keep_the_Area_Around_the_Unit_Clean)
-
-[5) Cover Your Windows](#Cover_Your_Windows)
-
-[6) Use a Programmable Thermostat](#Use_a_Programmable_Thermostat)
-
-[7) Install a Ceiling Fan](#Install_a_Ceiling_Fan)
-
-[8) Regularly Service Your AC Unit](#Regularly_Service_Your_AC_Unit)
-
-[9) How Intelligent Design Can Help](#How_Intelligent_Design_Can_Help)
 
 The summer heat is bearing down on us, and if you’re like most people, you’re probably cranking up the AC to stay cool. But did you know that all that extra use can damage your air conditioning unit?
 

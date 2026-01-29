@@ -18,12 +18,6 @@ canonicalUrl: >-
 
 # Serving Tucson with Excellence: Your One-Stop Solution for AC, Heating, Plumbing, Solar, Roofing, and Electrical Services
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) The Importance of Home Services in Tucson](#The_Importance_of_Home_Services_in_Tucson)
-
 [2.1) AC and Heating: More Than Just Comfort](#AC_and_Heating_More_Than_Just_Comfort)
 
 [2.2) Plumbing: The Lifeline of Your Home](#Plumbing_The_Lifeline_of_Your_Home)
@@ -32,21 +26,15 @@ canonicalUrl: >-
 
 [2.4) Roofing and Electrical Services: Safety First](#Roofing_and_Electrical_Services_Safety_First)
 
-[3) Serving the Tucson Community: More Than Just a Business](#Serving_the_Tucson_Community_More_Than_Just_a_Business)
-
 [3.1) Community Involvement: Beyond Business](#Community_Involvement_Beyond_Business)
 
 [3.2) Special Offers for Tucson Residents](#Special_Offers_for_Tucson_Residents)
-
-[4) Why Choose iDesignAC for Your Home Services in Tucson?](#Why_Choose_iDesignAC_for_Your_Home_Services_in_Tucson)
 
 [4.1) Expertise and Experience](#Expertise_and_Experience)
 
 [4.2) Customer-Centric Approach](#Customer-Centric_Approach)
 
 [4.3) Serving with Integrity](#Serving_with_Integrity)
-
-[5) Conclusion](#Conclusion)
 
 ## Introduction
 

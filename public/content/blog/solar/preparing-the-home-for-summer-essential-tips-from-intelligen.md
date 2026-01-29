@@ -21,10 +21,6 @@ canonicalUrl: >-
 
 # Preparing The Home for Summer: Essential Tips from Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
 
-**Jump to** [Services We Provide](#)
-
-[1) 1\. HVAC System Maintenance](#1_HVAC_System_Maintenance)
-
 [1.1) 2\. Plumbing Check-Up](#2_Plumbing_Check-Up)
 
 [1.2) 3\. Solar Panel Maintenance](#3_Solar_Panel_Maintenance)

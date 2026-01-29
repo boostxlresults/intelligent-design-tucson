@@ -1,6 +1,6 @@
 ---
 title: 'Solar Power Systems: A Quick Guide to Going Solar'
-description: "Solar Power Systems: A Quick Guide to Going Solar \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide       ..."
+description: 'Solar Power Systems - A Quick Guide to Going Solar information for Arizona residents. Explore comprehensive information with Intelligent Design''s solar insta...'
 publishedAt: '2025-10-31T19:00:49.458Z'
 updatedAt: '2025-10-31T19:00:49.467Z'
 author: Intelligent Design Team
@@ -18,34 +18,6 @@ canonicalUrl: >-
 ---
 
 # Solar Power Systems: A Quick Guide to Going Solar
-
-**Jump to** [Services We Provide](#)
-
-[1) Step 1: Do Some Research](#Step_1_Do_Some_Research)
-
-[2) Step 2: Calculate Your Solar Savings](#Step_2_Calculate_Your_Solar_Savings)
-
-[3) Step 3: Select a Solar Power System](#Step_3_Select_a_Solar_Power_System)
-
-[4) Step 4: Find a Reputable Company](#Step_4_Find_a_Reputable_Company)
-
-[5) Step 5: Get Quotes and Compare Prices](#Step_5_Get_Quotes_and_Compare_Prices)
-
-[6) Step 6: Start Going Solar](#Step_6_Start_Going_Solar)
-
-[7) Step 7: Signing Documents](#Step_7_Signing_Documents)
-
-[8) Step 8: Final Inspection](#Step_8_Final_Inspection)
-
-[9) Step 9: Activate Your Solar Power System](#Step_9_Activate_Your_Solar_Power_System)
-
-[10) Step 10: Set Up Your Solar Monitoring System](#Step_10_Set_Up_Your_Solar_Monitoring_System)
-
-[11) Step 11: Start Saving Money With Solar Power](#Step_11_Start_Saving_Money_With_Solar_Power)
-
-[12) How to Spot Solar Scams](#How_to_Spot_Solar_Scams)
-
-[13) Contact Intelligent Design For Your Solar Needs](#Contact_Intelligent_Design_For_Your_Solar_Needs)
 
 Are you interested in solar energy but don’t know where to start? You’ve come to the right place! As we all know, solar energy is the most abundant energy source on the planet, and solar power systems are a great way to tap into this renewable resource. That is why many homeowners and businesses have been switching to solar electricity in recent years.
 

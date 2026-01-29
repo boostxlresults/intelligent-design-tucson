@@ -1,6 +1,6 @@
 ---
 title: Top Questions to Ask Your AC Repair Technician
-description: "Top Questions to Ask Your AC Repair Technician \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide          ..."
+description: 'Expert Top Questions to Ask Your AC Repair Technician guide for Tucson homeowners. Learn about top recommendations, repair solutions from Intelligent Design''...'
 publishedAt: '2025-10-31T18:48:58.974Z'
 updatedAt: '2025-10-31T18:49:05.439Z'
 author: Intelligent Design Team
@@ -18,10 +18,6 @@ canonicalUrl: >-
 ---
 
 # Top Questions to Ask Your AC Repair Technician
-
-**Jump to** [Services We Provide](#)
-
-[1) Why Do We Need to Ask Questions?](#Why_Do_We_Need_to_Ask_Questions)
 
 [1.1) 1\. Are You Licensed, Bonded, and Insured?](#1_Are_You_Licensed_Bonded_and_Insured)
 

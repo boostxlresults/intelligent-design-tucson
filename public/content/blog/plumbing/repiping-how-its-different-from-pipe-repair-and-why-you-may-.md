@@ -1,6 +1,6 @@
 ---
 title: 'Repiping: How It’s Different From Pipe Repair And Why You May Need It More'
-description: "Repiping: How It’s Different From Pipe Repair And Why You May Need It More \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                     ..."
+description: 'Professional Repiping - How It’s Different From Pipe Repair And Why You May Need It More advice for Tucson homes. Discover repair solutions with Intelligent ...'
 publishedAt: '2025-10-31T19:09:26.257Z'
 updatedAt: '2025-10-31T19:09:26.264Z'
 author: Intelligent Design Team
@@ -17,18 +17,6 @@ canonicalUrl: >-
 
 # Repiping: How It’s Different From Pipe Repair And Why You May Need It More
 
-**Jump to** [Services We Provide](#)
-
-[1) What Is Pipe Repair?](#What_Is_Pipe_Repair)
-
-[2) What Is Repiping a Plumbing System?](#What_Is_Repiping_a_Plumbing_System)
-
-[3) When to Know If Your House Is Due For A Repipe](#When_to_Know_If_Your_House_Is_Due_For_A_Repipe)
-
-[4) Does Your Sewer or Septic System Need Repiping?](#Does_Your_Sewer_or_Septic_System_Need_Repiping)
-
-[5) Types of Pipes You Can Use](#Types_of_Pipes_You_Can_Use)
-
 [5.1) Copper Pipes](#Copper_Pipes)
 
 [5.2) PVC Pipes](#PVC_Pipes)
@@ -38,8 +26,6 @@ canonicalUrl: >-
 [5.4) Galvanized Steel Pipes](#Galvanized_Steel_Pipes)
 
 [5.5) Pex Pipes](#Pex_Pipes)
-
-[6) How A Plumbing Company Can Help](#How_A_Plumbing_Company_Can_Help)
 
 [6.1) Intelligent Design Is Here to Help!](#Intelligent_Design_Is_Here_to_Help)
 

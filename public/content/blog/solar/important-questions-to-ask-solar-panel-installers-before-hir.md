@@ -1,6 +1,6 @@
 ---
 title: Important Questions to Ask Solar Panel Installers Before Hiring Them
-description: "Important Questions to Ask Solar Panel Installers Before Hiring Them \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                     ..."
+description: 'Important Questions to Ask Solar Panel Installers Before Hiring Them information for Arizona residents. Explore installation options with Intelligent Design''...'
 publishedAt: '2025-10-31T19:00:04.781Z'
 updatedAt: '2025-10-31T19:00:04.794Z'
 author: Intelligent Design Team
@@ -18,26 +18,6 @@ canonicalUrl: >-
 ---
 
 # Important Questions to Ask Solar Panel Installers Before Hiring Them
-
-**Jump to** [Services We Provide](#)
-
-[1) 1\. How Long Have You Been in Business Installing Solar Panels?](#1_How_Long_Have_You_Been_in_Business_Installing_Solar_Panels)
-
-[2) 2\. What Solar Incentives Are Available in My Area?](#2_What_Solar_Incentives_Are_Available_in_My_Area)
-
-[3) 3\. Are You Licensed, Bonded, and Insured?](#3_Are_You_Licensed_Bonded_and_Insured)
-
-[4) 4\. How Does Your Solar Installation Integrate With The Utility Grid?](#4_How_Does_Your_Solar_Installation_Integrate_With_The_Utility_Grid)
-
-[5) 5\. How Do Your Company Warranties Work?](#5_How_Do_Your_Company_Warranties_Work)
-
-[6) 6\. Will You Install the Panels, or a Subcontractor?](#6_Will_You_Install_the_Panels_or_a_Subcontractor)
-
-[7) 7\. Do You Have Home Solar Installation References?](#7_Do_You_Have_Home_Solar_Installation_References)
-
-[8) 8\. Who Do We Call If There’s a Problem?](#8_Who_Do_We_Call_If_Theres_a_Problem)
-
-[9) Get a Trustworthy Contractor to Help You Go Solar](#Get_a_Trustworthy_Contractor_to_Help_You_Go_Solar)
 
 Are you considering solar panels for your home? If so, you’ll want to be sure to hire a qualified solar panel installer. There are many solar panel installers to choose from, so it’s important to ask the right questions before making a decision. This blog post will list questions that you should ask solar panel installers and solar photovoltaic installers before hiring them. Solar panel installers should be able to answer these questions. If they can’t, you might want to consider another installer.
 

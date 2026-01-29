@@ -1,6 +1,6 @@
 ---
 title: Things You Need To Know Before Installing A Solar Power System
-description: "Things You Need To Know Before Installing A Solar Power System \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'Things You Need To Know Before Installing A Solar Power System information for Arizona residents. Explore installation options with Intelligent Design''s sola...'
 publishedAt: '2025-10-31T19:00:54.281Z'
 updatedAt: '2025-10-31T19:00:59.181Z'
 author: Intelligent Design Team
@@ -18,12 +18,6 @@ canonicalUrl: >-
 ---
 
 # Things You Need To Know Before Installing A Solar Power System
-
-**Jump to** [Services We Provide](#)
-
-[1) What is a Solar Power System: How Does it Work?](#What_is_a_Solar_Power_System_How_Does_it_Work)
-
-[2) Important Things You Need to Know Before Installing Solar Power Systems](#Important_Things_You_Need_to_Know_Before_Installing_Solar_Power_Systems)
 
 [2.1) The Cost of Solar Power Systems](#The_Cost_of_Solar_Power_Systems)
 

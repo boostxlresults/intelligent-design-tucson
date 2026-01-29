@@ -1,6 +1,6 @@
 ---
 title: What You Need to Know About Hiring Solar Panel Installers
-description: "What You Need to Know About Hiring Solar Panel Installers \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'What You Need to Know About Hiring Solar Panel Installers information for Arizona residents. Explore installation options with Intelligent Design''s solar ins...'
 publishedAt: '2025-10-31T19:01:01.863Z'
 updatedAt: '2025-10-31T19:01:08.095Z'
 author: Intelligent Design Team
@@ -18,10 +18,6 @@ canonicalUrl: >-
 ---
 
 # What You Need to Know About Hiring Solar Panel Installers
-
-**Jump to** [Services We Provide](#)
-
-[1) What is a Solar Panel Installation?](#What_is_a_Solar_Panel_Installation)
 
 [1.1) Types of Solar Installation](#Types_of_Solar_Installation)
 

@@ -1,6 +1,6 @@
 ---
 title: 'Repair or Replace: Making the Right Decision for HVAC Systems'
-description: "Repair or Replace: Making the Right Decision for HVAC Systems \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'Expert Repair or Replace - Making the Right Decision for HVAC Systems guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVA...'
 publishedAt: '2025-10-31T18:48:28.250Z'
 updatedAt: '2025-10-31T18:48:32.539Z'
 author: Intelligent Design Team
@@ -18,10 +18,6 @@ canonicalUrl: >-
 ---
 
 # Repair or Replace: Making the Right Decision for HVAC Systems
-
-**Jump to** [Services We Provide](#)
-
-[1) Understanding the Repair vs. Replace Decision](#Understanding_the_Repair_vs_Replace_Decision)
 
 [1.1) Factors Influencing the Decision](#Factors_Influencing_the_Decision)
 

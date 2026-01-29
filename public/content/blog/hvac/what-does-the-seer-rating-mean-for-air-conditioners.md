@@ -1,6 +1,6 @@
 ---
 title: What Does the SEER Rating Mean for Air Conditioners?
-description: "Learn what SEER ratings mean for air conditioners and why proper installation matters more than a high SEER unit. Andrew Dobbins from Intelligent Design explains the Seasonal Energy Efficiency Ratio and how it affects your energy bills."
+description: 'Expert What Does the SEER Rating Mean for Air Conditioners? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Inte...'
 publishedAt: '2019-09-11T12:00:00.000Z'
 updatedAt: '2025-12-17T12:00:00.000Z'
 author: Intelligent Design Team

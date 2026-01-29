@@ -1,6 +1,6 @@
 ---
 title: Does Air Conditioning Use Gas or Electricity?
-description: "Does Air Conditioning Use Gas or Electricity? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide           ..."
+description: 'Does Air Conditioning Use Gas or Electricity? tips for Tucson homeowners. Get professional guidance on expert solutions, professional recommendations from In...'
 publishedAt: '2025-10-31T18:50:35.247Z'
 updatedAt: '2025-10-31T18:50:41.627Z'
 author: Intelligent Design Team
@@ -19,16 +19,6 @@ video:
 ---
 
 # Does Air Conditioning Use Gas or Electricity?
-
-**Jump to** [Services We Provide](#)
-
-[1) Does air conditioning use gas or electricity?](#Does_air_conditioning_use_gas_or_electricity)
-
-[2) What does my heat pump use?](#What_does_my_heat_pump_use)
-
-[3) How can I manage my electricity costs in the summer?](#How_can_I_manage_my_electricity_costs_in_the_summer)
-
-[4) Is it possible to use solar power for my air conditioner?](#Is_it_possible_to_use_solar_power_for_my_air_conditioner)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CL9iUDjH898?si=m7QmXTT-AOP7aRrG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

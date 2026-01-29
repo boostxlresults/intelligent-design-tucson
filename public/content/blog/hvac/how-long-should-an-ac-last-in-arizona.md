@@ -1,6 +1,6 @@
 ---
 title: How Long Should an AC Last in Arizona?
-description: "How Long Should an AC Last in Arizona? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                  ..."
+description: 'Expert How Long Should an AC Last in Arizona? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design...'
 publishedAt: '2025-10-31T18:49:14.949Z'
 updatedAt: '2025-10-31T18:49:14.973Z'
 author: Intelligent Design Team
@@ -17,10 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-long-should-an-ac-last-in
 ---
 
 # How Long Should an AC Last in Arizona?
-
-**Jump to** [Services We Provide](#)
-
-[1) Factors That Impact the Lifespan of an AC Unit in Arizona](#Factors_That_Impact_the_Lifespan_of_an_AC_Unit_in_Arizona)
 
 [1.1) Maintenance Tips to Make Your AC Last Longer in Arizona](#Maintenance_Tips_to_Make_Your_AC_Last_Longer_in_Arizona)
 

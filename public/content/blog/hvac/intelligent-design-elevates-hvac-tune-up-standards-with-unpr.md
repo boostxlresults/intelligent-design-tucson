@@ -2,7 +2,7 @@
 title: >-
   Intelligent Design Elevates HVAC Tune Up Standards with Unprecedented 82-Point
   AC System Inspection
-description: "Intelligent Design Elevates HVAC Tune Up Standards with Unprecedented 82-Point AC System Inspection \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to              ..."
+description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
 publishedAt: '2025-10-31T18:48:10.765Z'
 updatedAt: '2025-10-31T18:48:13.914Z'
 author: Intelligent Design Team
@@ -20,10 +20,6 @@ canonicalUrl: >-
 ---
 
 # Intelligent Design Elevates HVAC Tune Up Standards with Unprecedented 82-Point AC System Inspection
-
-**Jump to** [Services We Provide](#)
-
-[1) The Critical Importance of Entrusting The AC Service to a Meticulous Maintenance Provider](#The_Critical_Importance_of_Entrusting_The_AC_Service_to_a_Meticulous_Maintenance_Provider)
 
 [1.1) A Deep Dive into the 82-Point Inspection, the inspection that every AC Tune Up company in America should be doing.](#A_Deep_Dive_into_the_82-Point_Inspection_the_inspection_that_every_AC_Tune_Up_company_in_America_should_be_doing)
 

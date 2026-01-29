@@ -4,7 +4,7 @@ description: Learn about Tucson's permit requirements for water heater installat
 publishedAt: '2025-01-29T12:00:00.000Z'
 updatedAt: '2025-01-29T12:00:00.000Z'
 author: Intelligent Design Team
-category: plumbing
+category: water-heater
 tags:
   - water-heater
   - permits
@@ -12,7 +12,7 @@ tags:
   - tucson
 heroImage: /generated_images/choosing_right_plumber.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/plumbing/permit-to-install-a-new-water-heater'
+canonicalUrl: 'https://www.idesignac.com/blog/water-heater/permit-to-install-a-new-water-heater'
 ---
 
 # Do You Need a Permit to Install a New Water Heater in Tucson?

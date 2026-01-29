@@ -102,15 +102,50 @@ Preferred communication style: Simple, everyday language.
 - Blog posts use markdown format in `public/content/blog/[category]/` directories
 - URL structure: `/blog/[category]/[slug]`
 
-### Blog Post Distribution
-- HVAC: 115 posts
-- Plumbing: 66 posts
+### Blog Post Distribution (Updated January 2026)
+- HVAC: 113 posts
+- Plumbing: 42 posts
+- Water Heater: 5 posts (NEW CATEGORY)
+- Drain & Sewer: 19 posts (NEW CATEGORY)
+- Indoor Air Quality: 2 posts (NEW CATEGORY)
 - Solar: 50 posts
 - Home Tips: 34 posts
 - Electrical: 7 posts
 - Roofing: 7 posts
 
+### Blog Rebuild - Phase 2-4 Complete (January 2026)
+
+**Phase 2: Category Restructuring**
+- Created 3 new specialized categories: water-heater, drain-sewer, indoor-air-quality
+- Migrated 26 posts from plumbing/hvac to appropriate new categories
+- Added 26 redirect mappings in lib/redirects.ts for SEO equity preservation
+- Updated category configuration in all blog page components
+
+**Phase 3: SEO Improvements**
+- Cleaned 214 posts removing "Jump to" artifacts from frontmatter descriptions
+- Optimized meta descriptions for AI search with category-specific templates
+- All descriptions now include location keywords and company trust signals
+
+**Phase 4: New Features**
+- Blog Search: Client-side search component (components/blog/BlogSearch.tsx) with real-time filtering
+- Category Filtering: Interactive category filter badges (components/blog/CategoryFilter.tsx)
+- Related Posts: Automatic recommendations from same category (components/blog/RelatedPosts.tsx)
+- BlogListClient: Combined search/filter wrapper for main blog page
+
+### Blog Component Architecture
+- `components/blog/BlogSearch.tsx` - Client-side search with debounce
+- `components/blog/CategoryFilter.tsx` - Category badge filtering
+- `components/blog/RelatedPosts.tsx` - Related posts recommendations
+- `components/blog/BlogListClient.tsx` - Main blog list with search/filter
+
 ### Redirect Cleanup
 - Removed 180+ duplicate redirects from lib/redirects.ts
 - Added 21 new redirects for date archives and missing content
+- Added 26 category migration redirects for new blog categories
 - All redirects verified working with 308 permanent status
+
+### YAML Frontmatter Fix (January 2026)
+- Fixed 89 blog posts with YAML parsing errors caused by unescaped apostrophes in single-quoted description strings
+- Affected categories: HVAC (40), Solar (25), Plumbing (13), Drain-Sewer (7), Home-Tips (7), Water-Heater (3), Roofing (1)
+- Solution: Escaped internal apostrophes using YAML's single-quote escaping (`''`)
+- All 279 blog posts now parse correctly with gray-matter

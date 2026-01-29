@@ -1,6 +1,6 @@
 ---
 title: 'Sahuarita, We’re Here to Make Your Home Awesome!'
-description: "Sahuarita, We’re Here to Make Your Home Awesome! \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide        ..."
+description: 'Sahuarita, We’re Here to Make Your Home Awesome! for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intellige...'
 publishedAt: '2025-10-31T19:11:23.580Z'
 updatedAt: '2025-10-31T19:11:27.997Z'
 author: Intelligent Design Team
@@ -14,27 +14,13 @@ canonicalUrl: >-
 
 # Sahuarita, We’re Here to Make Your Home Awesome!
 
-**Jump to** [Services We Provide](#)
-
-[1) Hey Sahuarita, What’s Up?](#Hey_Sahuarita_Whats_Up)
-
-[2) AC and Heating: Chill Out or Warm Up, We Got You!](#AC_and_Heating_Chill_Out_or_Warm_Up_We_Got_You)
-
 [2.1) Your Voice Matters](#Your_Voice_Matters)
-
-[3) Plumbing: Say Goodbye to Drips and Drains](#Plumbing_Say_Goodbye_to_Drips_and_Drains)
 
 [3.1) Good Times Rollin’](#Good_Times_Rollin)
 
-[4) Solar: Let’s Catch Some Rays!](#Solar_Lets_Catch_Some_Rays)
-
 [4.1) Sun + Sahuarita = Epic](#Sun_Sahuarita_Epic)
 
-[5) Roofing and Electrical: Your Home’s Superheroes](#Roofing_and_Electrical_Your_Homes_Superheroes)
-
 [5.1) Safety and Smiles](#Safety_and_Smiles)
-
-[6) The Grand Finale](#The_Grand_Finale)
 
 ## Hey Sahuarita, What’s Up?
 

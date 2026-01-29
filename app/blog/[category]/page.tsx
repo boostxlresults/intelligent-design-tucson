@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { Calendar, Clock, ChevronRight, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb } from 'lucide-react';
+import { Calendar, Clock, ChevronRight, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb, Flame, PipetteIcon, Wind } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -17,6 +17,9 @@ const categoryIcons: Record<string, typeof Thermometer> = {
   'electrical': Zap,
   'roofing': HomeIcon,
   'home-tips': Lightbulb,
+  'water-heater': Flame,
+  'drain-sewer': PipetteIcon,
+  'indoor-air-quality': Wind,
 };
 
 // Default hero images for each category when specific post image is missing
@@ -27,6 +30,9 @@ const categoryDefaultImages: Record<string, string> = {
   'electrical': '/generated_images/electrical_panel_upgrade.png',
   'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
   'home-tips': '/generated_images/home_energy_audit.png',
+  'water-heater': '/generated_images/tankless_water_heater_benefits.png',
+  'drain-sewer': '/generated_images/drain_cleaning_tools_guide.png',
+  'indoor-air-quality': '/generated_images/indoor_air_quality_health.png',
 };
 
 // Category name mapping
@@ -37,15 +43,21 @@ const categoryNames: Record<string, string> = {
   'electrical': 'Electrical',
   'roofing': 'Roofing',
   'home-tips': 'Home Tips',
+  'water-heater': 'Water Heater',
+  'drain-sewer': 'Drain & Sewer',
+  'indoor-air-quality': 'Indoor Air Quality',
 };
 
 const categoryDescriptions: Record<string, string> = {
   'hvac': 'Expert HVAC tips, guides, and advice for Tucson homeowners. Learn about air conditioning, heating, and indoor air quality.',
-  'plumbing': 'Professional plumbing advice and solutions for common household issues. From drain cleaning to water heater repair.',
+  'plumbing': 'Professional plumbing advice and solutions for common household issues. Pipes, fixtures, and general plumbing maintenance.',
   'solar': 'Everything you need to know about solar energy in Arizona. Installation guides, cost breakdowns, and solar incentives.',
   'electrical': 'Electrical safety tips, troubleshooting guides, and expert advice for your home electrical system.',
   'roofing': 'Roofing maintenance, repair, and replacement guides for Arizona homes. Protect your home from the desert sun.',
   'home-tips': 'General home maintenance tips and seasonal guides to keep your Tucson home in perfect condition year-round.',
+  'water-heater': 'Water heater guides, maintenance tips, and installation advice. Tank and tankless water heater solutions for Tucson homes.',
+  'drain-sewer': 'Drain cleaning tips, sewer maintenance, and clog prevention guides. Keep your drains flowing smoothly.',
+  'indoor-air-quality': 'Indoor air quality guides and tips for healthier home environments. Air filtration, duct cleaning, and allergen control.',
 };
 
 interface BlogPostSummary {

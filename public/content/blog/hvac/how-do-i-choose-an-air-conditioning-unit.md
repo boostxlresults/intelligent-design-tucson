@@ -1,6 +1,6 @@
 ---
 title: How Do I Choose an Air Conditioning Unit?
-description: "How Do I Choose an Air Conditioning Unit? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide               ..."
+description: 'Expert How Do I Choose an Air Conditioning Unit? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Des...'
 publishedAt: '2025-10-31T18:50:44.723Z'
 updatedAt: '2025-10-31T18:50:51.049Z'
 author: Intelligent Design Team
@@ -15,18 +15,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-do-i-choose-an-air-condit
 ---
 
 # How Do I Choose an Air Conditioning Unit?
-
-**Jump to** [Services We Provide](#)
-
-[1) Choosing an Air Conditioning Unit: Considering Energy Efficiency](#Choosing_an_Air_Conditioning_Unit_Considering_Energy_Efficiency)
-
-[2) Choosing an Air Conditioning Unit: Evaluating Warranties](#Choosing_an_Air_Conditioning_Unit_Evaluating_Warranties)
-
-[3) Choosing an Air Conditioning Unit: Checking Out Different Features](#Choosing_an_Air_Conditioning_Unit_Checking_Out_Different_Features)
-
-[4) Choosing an Air Conditioning Unit: Considering Solar Power](#Choosing_an_Air_Conditioning_Unit_Considering_Solar_Power)
-
-[5) Choosing an Air Conditioning Unit: Scheduling a Free Estimate](#Choosing_an_Air_Conditioning_Unit_Scheduling_a_Free_Estimate)
 
 The average air conditioning unit may last anywhere from 12 to 15 years. However, the lifespan of any given unit will depend on how much use it gets, how well it’s maintained, and how precisely it’s installed. (Improperly sized units die much sooner due to short cycling.) If your current unit is at the end of its life, it’s time to seek some guidance on choosing an air conditioning unit. There are many factors to consider, such as your goals for energy efficiency, the size of your home, and your preferred features.
 

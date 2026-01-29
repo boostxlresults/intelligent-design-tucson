@@ -2,7 +2,7 @@
 title: >-
   Air Conditioning Tucson: How to Choose the Right Air Conditioning Unit for
   Your Home
-description: "Air Conditioning Tucson: How to Choose the Right Air Conditioning Unit for Your Home \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                             ..."
+description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
 publishedAt: '2025-10-31T18:48:35.326Z'
 updatedAt: '2025-10-31T18:48:42.526Z'
 author: Intelligent Design Team
@@ -21,16 +21,6 @@ canonicalUrl: >-
 
 # Air Conditioning Tucson: How to Choose the Right Air Conditioning Unit for Your Home
 
-**Jump to** [Services We Provide](#)
-
-[1) Basics of Central Air Conditioning System](#Basics_of_Central_Air_Conditioning_System)
-
-[2) Determine What Size Air Conditioner You Require](#Determine_What_Size_Air_Conditioner_You_Require)
-
-[3) Considering the Climate in Tucson AZ](#Considering_the_Climate_in_Tucson_AZ)
-
-[4) Choose the Type of Central Air Conditioner You Want](#Choose_the_Type_of_Central_Air_Conditioner_You_Want)
-
 [4.1) 1\. Packaged Central Air Conditioners](#1_Packaged_Central_Air_Conditioners)
 
 [4.2) 2\. Split-System Central Air Conditioners](#2_Split-System_Central_Air_Conditioners)
@@ -38,12 +28,6 @@ canonicalUrl: >-
 [4.3) 3\. Mini-Split/Ductless Air Conditioners](#3_Mini-SplitDuctless_Air_Conditioners)
 
 [4.4) 4\. Geothermal Heat Pumps](#4_Geothermal_Heat_Pumps)
-
-[5) Choose an Energy Efficiency Rating](#Choose_an_Energy_Efficiency_Rating)
-
-[6) What Happens if I Buy and Install the Wrong AC Unit Size?](#What_Happens_if_I_Buy_and_Install_the_Wrong_AC_Unit_Size)
-
-[7) Conclusion](#Conclusion)
 
 Summer is right around the corner, and that means one thing: it’s time to start thinking about air conditioning! If you’re living in Tucson, you know how hot it can get during the summer months. This year, don’t let the heat get to you – invest in a good air conditioning unit for your home. But with so many options on the market, how do you choose the right one? There are a variety of factors you need to consider when making your decision, including size, type, and brand.
 

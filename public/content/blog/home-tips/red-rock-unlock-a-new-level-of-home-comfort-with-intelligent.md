@@ -1,6 +1,6 @@
 ---
 title: 'Red Rock, Unlock a New Level of Home Comfort with Intelligent Design'
-description: "Red Rock, Unlock a New Level of Home Comfort with Intelligent Design \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                     ..."
+description: 'Red Rock, Unlock a New Level of Home Comfort with Intelligent Design for Tucson homeowners. Get practical advice on expert solutions, professional recommenda...'
 publishedAt: '2025-10-31T19:11:22.100Z'
 updatedAt: '2025-10-31T19:11:27.991Z'
 author: Intelligent Design Team
@@ -14,27 +14,13 @@ canonicalUrl: >-
 
 # Red Rock, Unlock a New Level of Home Comfort with Intelligent Design
 
-**Jump to** [Services We Provide](#)
-
-[1) Welcome to the Future, Red Rock!](#Welcome_to_the_Future_Red_Rock)
-
-[2) AC and Heating: Your Personal Climate Control](#AC_and_Heating_Your_Personal_Climate_Control)
-
 [2.1) The Essence of Red Rock](#The_Essence_of_Red_Rock)
-
-[3) Plumbing: The Veins of Your Home](#Plumbing_The_Veins_of_Your_Home)
 
 [3.1) The Chain Reaction](#The_Chain_Reaction)
 
-[4) Solar: The Power of Tomorrow](#Solar_The_Power_of_Tomorrow)
-
 [4.1) Red Rock, Meet the Future](#Red_Rock_Meet_the_Future)
 
-[5) Roofing and Electrical: The Shield and Sword of Your Home](#Roofing_and_Electrical_The_Shield_and_Sword_of_Your_Home)
-
 [5.1) The Bedrock of Security](#The_Bedrock_of_Security)
-
-[6) The Grand Finale](#The_Grand_Finale)
 
 ## Welcome to the Future, Red Rock!
 

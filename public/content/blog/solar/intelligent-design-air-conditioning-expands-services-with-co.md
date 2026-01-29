@@ -2,7 +2,7 @@
 title: >-
   Intelligent Design Air Conditioning Expands Services with Comprehensive Solar
   Solutions
-description: "Intelligent Design Air Conditioning Expands Services with Comprehensive Solar Solutions \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                          ..."
+description: '>- information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Design''s solar installation experts in Tucson.'
 publishedAt: '2025-10-31T18:48:20.705Z'
 updatedAt: '2025-10-31T18:48:23.915Z'
 author: Intelligent Design Team
@@ -20,10 +20,6 @@ canonicalUrl: >-
 ---
 
 # Intelligent Design Air Conditioning Expands Services with Comprehensive Solar Solutions
-
-**Jump to** [Services We Provide](#)
-
-[1) Harnessing the Power of the Sun: Intelligent Design’s Solar Solutions](#Harnessing_the_Power_of_the_Sun_Intelligent_Designs_Solar_Solutions)
 
 [1.1) Intelligent Design: The Trusted Partner in Solar Energy](#Intelligent_Design_The_Trusted_Partner_in_Solar_Energy)
 

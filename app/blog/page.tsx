@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 
-import { Calendar, Clock, ChevronRight, ArrowRight, Snowflake, Wrench, Sun, Zap, Home, Lightbulb } from 'lucide-react';
+import { Calendar, Clock, ChevronRight, ArrowRight, Snowflake, Wrench, Sun, Zap, Home, Lightbulb, Flame, PipetteIcon, Wind } from 'lucide-react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
@@ -9,6 +9,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 import { promises as fs } from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import BlogListClient from '@/components/blog/BlogListClient';
 
 const categoryIcons = {
   'hvac': Snowflake,
@@ -17,6 +18,9 @@ const categoryIcons = {
   'electrical': Zap,
   'roofing': Home,
   'home-tips': Lightbulb,
+  'water-heater': Flame,
+  'drain-sewer': PipetteIcon,
+  'indoor-air-quality': Wind,
 };
 
 // Default hero images for each category when specific post image is missing
@@ -27,6 +31,9 @@ const categoryDefaultImages: Record<string, string> = {
   'electrical': '/generated_images/electrical_panel_upgrade.png',
   'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
   'home-tips': '/generated_images/home_energy_audit.png',
+  'water-heater': '/generated_images/tankless_water_heater_benefits.png',
+  'drain-sewer': '/generated_images/drain_cleaning_tools_guide.png',
+  'indoor-air-quality': '/generated_images/indoor_air_quality_health.png',
 };
 
 const categories = [
@@ -39,6 +46,16 @@ const categories = [
     slug: 'plumbing',
     name: 'Plumbing',
     description: 'Expert plumbing advice and solutions',
+  },
+  {
+    slug: 'water-heater',
+    name: 'Water Heater',
+    description: 'Water heater guides and installation tips',
+  },
+  {
+    slug: 'drain-sewer',
+    name: 'Drain & Sewer',
+    description: 'Drain cleaning and sewer maintenance guides',
   },
   {
     slug: 'solar',
@@ -54,6 +71,11 @@ const categories = [
     slug: 'roofing',
     name: 'Roofing',
     description: 'Roofing repair and maintenance advice',
+  },
+  {
+    slug: 'indoor-air-quality',
+    name: 'Indoor Air Quality',
+    description: 'Air filtration and indoor air quality guides',
   },
   {
     slug: 'home-tips',
@@ -88,7 +110,7 @@ async function imageExists(imagePath: string | undefined): Promise<boolean> {
   }
 }
 
-async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
+async function getAllPosts(): Promise<BlogPostSummary[]> {
   try {
     const blogBasePath = path.join(process.cwd(), 'public', 'content', 'blog');
     const allPosts: BlogPostSummary[] = [];
@@ -105,12 +127,10 @@ async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
             const content = await fs.readFile(filePath, 'utf-8');
             const { data } = matter(content);
             
-            // Calculate reading time
             const wordsPerMinute = 200;
             const words = content.trim().split(/\s+/).length;
             const readingTime = Math.ceil(words / wordsPerMinute);
             
-            // Check if hero image actually exists
             const heroImageExists = await imageExists(data.heroImage);
             
             return {
@@ -134,12 +154,9 @@ async function getRecentPosts(limit: number = 12): Promise<BlogPostSummary[]> {
       }
     }
     
-    // Sort by date, newest first, and limit
-    return allPosts
-      .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
-      .slice(0, limit);
+    return allPosts.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
   } catch (error) {
-    console.error('Error loading recent posts:', error);
+    console.error('Error loading posts:', error);
     return [];
   }
 }
@@ -155,7 +172,7 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function BlogIndexPage() {
-  const recentPosts = await getRecentPosts(12);
+  const allPosts = await getAllPosts();
   
   return (
     <div className="min-h-screen flex flex-col bg-background">
@@ -226,106 +243,18 @@ export default async function BlogIndexPage() {
           </div>
         </section>
         
-        {/* Recent Posts */}
+        {/* All Articles with Search and Filter */}
         <section className="py-12 md:py-16">
           <div className="max-w-7xl mx-auto px-4">
-            <h2 className="text-3xl font-bold text-foreground mb-8" data-testid="text-recent-heading">
-              Recent Articles
+            <h2 className="text-3xl font-bold text-foreground mb-8" data-testid="text-all-articles-heading">
+              All Articles
             </h2>
             
-            {recentPosts.length === 0 ? (
-              <div className="text-center py-12">
-                <p className="text-xl text-muted-foreground" data-testid="text-no-posts">
-                  No articles available yet.
-                </p>
-              </div>
-            ) : (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {recentPosts.map((post) => {
-                  const publishedDate = new Date(post.publishedAt).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'long',
-                    day: 'numeric',
-                  });
-                  
-                  const categoryName = categories.find(c => c.slug === post.category)?.name || post.category;
-                  
-                  const CategoryIcon = categoryIcons[post.category as keyof typeof categoryIcons] || Lightbulb;
-                  
-                  return (
-                    <Card
-                      key={`${post.category}-${post.slug}`}
-                      className="hover-elevate overflow-hidden flex flex-col"
-                      data-testid={`card-post-${post.slug}`}
-                    >
-                      <Link href={`/blog/${post.category}/${post.slug}`} className="flex flex-col h-full">
-                        <div className="aspect-video bg-gradient-to-br from-primary/10 to-primary/5 overflow-hidden relative">
-                          {post.heroImage && post.heroImageExists ? (
-                            <img
-                              src={post.heroImage}
-                              alt={post.title}
-                              className="w-full h-full object-cover"
-                              data-testid={`img-hero-${post.slug}`}
-                            />
-                          ) : categoryDefaultImages[post.category] ? (
-                            <img
-                              src={categoryDefaultImages[post.category]}
-                              alt={`${categories.find(c => c.slug === post.category)?.name || post.category} article`}
-                              className="w-full h-full object-cover opacity-90"
-                              data-testid={`img-hero-default-${post.slug}`}
-                            />
-                          ) : (
-                            <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-primary/20 to-primary/5">
-                              <CategoryIcon className="w-16 h-16 text-primary/40" />
-                            </div>
-                          )}
-                        </div>
-                        
-                        <div className="p-6 flex flex-col flex-1">
-                          <div className="mb-3">
-                            <Badge variant="secondary" data-testid={`badge-category-${post.slug}`}>
-                              {categoryName}
-                            </Badge>
-                          </div>
-                          
-                          <div className="flex items-center gap-3 text-sm text-muted-foreground mb-3">
-                            <div className="flex items-center gap-1">
-                              <Calendar className="w-4 h-4" />
-                              <time dateTime={post.publishedAt} data-testid={`text-date-${post.slug}`}>
-                                {publishedDate}
-                              </time>
-                            </div>
-                            <span>•</span>
-                            <div className="flex items-center gap-1">
-                              <Clock className="w-4 h-4" />
-                              <span data-testid={`text-time-${post.slug}`}>
-                                {post.readingTime} min
-                              </span>
-                            </div>
-                          </div>
-                          
-                          <h3 className="text-xl font-bold text-foreground mb-2 line-clamp-2" data-testid={`text-title-${post.slug}`}>
-                            {post.title}
-                          </h3>
-                          
-                          {post.excerpt && (
-                            <p className="text-muted-foreground mb-4 line-clamp-3 flex-1" data-testid={`text-excerpt-${post.slug}`}>
-                              {post.excerpt}
-                            </p>
-                          )}
-                          
-                          <div className="mt-auto">
-                            <Button variant="ghost" size="sm" className="p-0 h-auto hover:no-default-hover-elevate" data-testid={`button-read-${post.slug}`}>
-                              Read More →
-                            </Button>
-                          </div>
-                        </div>
-                      </Link>
-                    </Card>
-                  );
-                })}
-              </div>
-            )}
+            <BlogListClient 
+              posts={allPosts} 
+              categories={categories}
+              categoryDefaultImages={categoryDefaultImages}
+            />
           </div>
         </section>
       </main>

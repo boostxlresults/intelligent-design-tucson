@@ -1,6 +1,6 @@
 ---
 title: How Come My Air Conditioning Unit Smells Bad?
-description: "How Come My Air Conditioning Unit Smells Bad? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide           ..."
+description: 'Expert How Come My Air Conditioning Unit Smells Bad? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent...'
 publishedAt: '2025-10-31T18:50:41.622Z'
 updatedAt: '2025-10-31T18:50:41.623Z'
 author: Intelligent Design Team
@@ -27,18 +27,6 @@ video:
 <div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/iMDpnA9XrWA" title="Why Does My AC Smell Bad? Common Causes & Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
-**Jump to** [Services We Provide](#)
-
-[1) Air Conditioning Unit Smells Due to Mold Growth](#Air_Conditioning_Unit_Smells_Due_to_Mold_Growth)
-
-[2) Air Conditioning Unit Smells Due to Pest Infestation](#Air_Conditioning_Unit_Smells_Due_to_Pest_Infestation)
-
-[3) AC Unit Smells Like It’s Burning](#AC_Unit_Smells_Like_Its_Burning)
-
-[4) AC Unit Smells Like Sewage](#AC_Unit_Smells_Like_Sewage)
-
-[5) Air Conditioning Unit Smells Like Exhaust Fumes](#Air_Conditioning_Unit_Smells_Like_Exhaust_Fumes)
 
 Your home is your sanctuary. Ideally, it should be a pleasant environment that you enjoy coming home to and relaxing in at the end of a long day. The last thing you want to deal with is to turn on your AC only to find out that your air conditioning unit smells. Unfortunately, this is a common problem. However, there are solutions! A certified HVAC technician at Intelligent Design in Tucson can inspect your AC unit to determine which of the following culprits is responsible for that unpleasant odor. Once we figure out the cause, we’ll be able to recommend [effective solutions](https://www.idesignac.com/air-conditioning/improve-indoor-air-quality-tucson/) for you.
 

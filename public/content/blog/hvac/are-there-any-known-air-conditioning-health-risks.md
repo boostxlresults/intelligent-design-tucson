@@ -1,6 +1,6 @@
 ---
 title: Are There Any Known Air Conditioning Health Risks?
-description: "Are There Any Known Air Conditioning Health Risks? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide      ..."
+description: 'Expert Are There Any Known Air Conditioning Health Risks? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intell...'
 publishedAt: '2025-10-31T18:50:36.963Z'
 updatedAt: '2025-10-31T18:50:41.629Z'
 author: Intelligent Design Team
@@ -15,14 +15,6 @@ canonicalUrl: >-
 ---
 
 # Are There Any Known Air Conditioning Health Risks?
-
-**Jump to** [Services We Provide](#)
-
-[1) Overview of Indoor Air Quality](#Overview_of_Indoor_Air_Quality)
-
-[2) Types of Air Conditioning Health Risks](#Types_of_Air_Conditioning_Health_Risks)
-
-[3) Steps to Take to Address Air Conditioning Health Risks](#Steps_to_Take_to_Address_Air_Conditioning_Health_Risks)
 
 Every Tucsonan knows that it’s essential to have air conditioning during the scorching summer in the desert. Anyone could fall victim to a severe case of heatstroke, which can be deadly if not treated promptly. However, the elderly, young children, and those with pre-existing medical conditions are at a high risk of heat-related illnesses. Because of this, air conditioning is a necessity in Arizona. However, there are also potential health risks that come with having central AC. These air conditioning health risks include exposure to contaminants found within indoor air.
 

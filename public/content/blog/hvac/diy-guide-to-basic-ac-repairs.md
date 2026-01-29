@@ -1,6 +1,6 @@
 ---
 title: DIY Guide to Basic AC Repairs
-description: "DIY Guide to Basic AC Repairs \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                           ..."
+description: 'Expert DIY Guide to Basic AC Repairs guide for Tucson homeowners. Learn about comprehensive information, repair solutions from Intelligent Design''s HVAC spec...'
 publishedAt: '2025-10-31T18:49:02.084Z'
 updatedAt: '2025-10-31T18:49:05.444Z'
 author: Intelligent Design Team
@@ -18,12 +18,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/diy-guide-to-basic-ac-repairs
 
 # DIY Guide to Basic AC Repairs
 
-**Jump to** [Services We Provide](#)
-
-[1) Understanding Your Air Conditioning System](#Understanding_Your_Air_Conditioning_System)
-
-[2) Troubleshooting Common AC Issues](#Troubleshooting_Common_AC_Issues)
-
 [2.1) AC Not Turning On](#AC_Not_Turning_On)
 
 [2.2) Weak Airflow](#Weak_Airflow)
@@ -32,8 +26,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/diy-guide-to-basic-ac-repairs
 
 [2.4) AC Making Strange Noises](#AC_Making_Strange_Noises)
 
-[3) Basic AC Repairs You Can Do Yourself](#Basic_AC_Repairs_You_Can_Do_Yourself)
-
 [3.1) Cleaning Your AC Unit](#Cleaning_Your_AC_Unit)
 
 [3.2) Replacing Your Air Filter](#Replacing_Your_Air_Filter)
@@ -41,12 +33,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/diy-guide-to-basic-ac-repairs
 [3.3) Cleaning Your Air Ducts](#Cleaning_Your_Air_Ducts)
 
 [3.4) Checking Your Refrigerant Levels](#Checking_Your_Refrigerant_Levels)
-
-[4) Tips When Repairing AC Units Yourself](#Tips_When_Repairing_AC_Units_Yourself)
-
-[5) Why Hire HVAC Contractors?](#Why_Hire_HVAC_Contractors)
-
-[6) Conclusion](#Conclusion)
 
 Air conditioning becomes necessary in many homes and offices as temperatures rise. But when your AC unit suddenly stops working, it can be frustrating and expensive to call a professional for repairs.
 

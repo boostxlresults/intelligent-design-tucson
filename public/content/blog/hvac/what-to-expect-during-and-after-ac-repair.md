@@ -1,6 +1,6 @@
 ---
 title: What To Expect During And After AC Repair
-description: "What To Expect During And After AC Repair \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide               ..."
+description: 'Expert What To Expect During And After AC Repair guide for Tucson homeowners. Learn about repair solutions from Intelligent Design''s HVAC specialists with 46...'
 publishedAt: '2025-10-31T18:49:24.586Z'
 updatedAt: '2025-10-31T18:49:26.278Z'
 author: Intelligent Design Team
@@ -17,12 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/what-to-expect-during-and-aft
 ---
 
 # What To Expect During And After AC Repair
-
-**Jump to** [Services We Provide](#)
-
-[1) Why Do Air Conditioners Need Repairs?](#Why_Do_Air_Conditioners_Need_Repairs)
-
-[2) Signs That Your Air Conditioner Needs Repair](#Signs_That_Your_Air_Conditioner_Needs_Repair)
 
 [2.1) What To Expect During AC Repair](#What_To_Expect_During_AC_Repair)
 

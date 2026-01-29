@@ -1,6 +1,6 @@
 ---
 title: 'How to Fix Your AC: A Simple Guide for Everyone'
-description: "How to Fix Your AC: A Simple Guide for Everyone \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide         ..."
+description: 'Expert How to Fix Your AC - A Simple Guide for Everyone guide for Tucson homeowners. Learn about step-by-step instructions, comprehensive information from In...'
 publishedAt: '2025-10-31T18:48:29.709Z'
 updatedAt: '2025-10-31T18:48:32.536Z'
 author: Intelligent Design Team
@@ -18,10 +18,6 @@ canonicalUrl: >-
 ---
 
 # How to Fix Your AC: A Simple Guide for Everyone
-
-**Jump to** [Services We Provide](#)
-
-[1) Why Fixing Your AC Quickly Is Important](#Why_Fixing_Your_AC_Quickly_Is_Important)
 
 [1.1) Common AC Problems and How to Fix Them](#Common_AC_Problems_and_How_to_Fix_Them)
 

@@ -1,6 +1,6 @@
 ---
 title: What Is Involved in Repiping a House?
-description: "What Is Involved in Repiping a House? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                   ..."
+description: 'Professional What Is Involved in Repiping a House? advice for Tucson homes. Discover expert solutions, professional recommendations with Intelligent Design''s...'
 publishedAt: '2025-10-31T19:11:44.013Z'
 updatedAt: '2025-10-31T19:11:46.387Z'
 author: Intelligent Design Team
@@ -12,10 +12,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/home-tips/what-is-involved-in-repi
 ---
 
 # What Is Involved in Repiping a House?
-
-**Jump to** [Services We Provide](#)
-
-[1) What is Repiping?](#What_is_Repiping)
 
 [1.1) Reasons to Repipe Your Home](#Reasons_to_Repipe_Your_Home)
 

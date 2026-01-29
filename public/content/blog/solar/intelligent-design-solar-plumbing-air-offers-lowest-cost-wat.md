@@ -18,10 +18,6 @@ canonicalUrl: >-
 
 # Intelligent Design Solar, Plumbing, & Air Offers Lowest Cost Water Filtration Systems in Light of Shocking Water Study
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction to the Study and Its Significance](#Introduction_to_the_Study_and_Its_Significance)
-
 [1.1) Intelligent Design’s Innovative Approach to Water Filtration](#Intelligent_Designs_Innovative_Approach_to_Water_Filtration)
 
 [1.2) The Science Behind Intelligent Design’s Filtration Technology](#The_Science_Behind_Intelligent_Designs_Filtration_Technology)

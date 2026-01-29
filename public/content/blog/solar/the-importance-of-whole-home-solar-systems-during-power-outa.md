@@ -1,6 +1,6 @@
 ---
 title: The Importance of Whole Home Solar Systems During Power Outages
-description: "The Importance of Whole Home Solar Systems During Power Outages \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'The Importance of Whole Home Solar Systems During Power Outages information for Arizona residents. Explore expert solutions, professional recommendations wit...'
 publishedAt: '2025-10-31T19:00:02.870Z'
 updatedAt: '2025-10-31T19:00:04.790Z'
 author: Intelligent Design Team
@@ -18,10 +18,6 @@ canonicalUrl: >-
 ---
 
 # The Importance of Whole Home Solar Systems During Power Outages
-
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
 
 [1.1) Understanding Power Outages in Pima County](#Understanding_Power_Outages_in_Pima_County)
 

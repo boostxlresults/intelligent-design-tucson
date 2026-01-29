@@ -1,6 +1,6 @@
 ---
 title: Why Is My Air Conditioning Unit Not Cooling?
-description: "Why Is My Air Conditioning Unit Not Cooling? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide            ..."
+description: 'Expert Why Is My Air Conditioning Unit Not Cooling? guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent ...'
 publishedAt: '2025-10-31T18:50:27.880Z'
 updatedAt: '2025-10-31T18:50:32.527Z'
 author: Intelligent Design Team
@@ -18,16 +18,6 @@ canonicalUrl: >-
 ---
 
 # Why Is My Air Conditioning Unit Not Cooling?
-
-**Jump to** [Services We Provide](#)
-
-[1) Air Conditioning Unit Not Cooling: Improper Installation](#Air_Conditioning_Unit_Not_Cooling_Improper_Installation)
-
-[2) AC Not Cooling: Refrigerant Leak](#AC_Not_Cooling_Refrigerant_Leak)
-
-[3) Air Conditioning Unit Not Cooling: Compressor Problems](#Air_Conditioning_Unit_Not_Cooling_Compressor_Problems)
-
-[4) AC Unit Not Cooling: Air Filter Issues](#AC_Unit_Not_Cooling_Air_Filter_Issues)
 
 There is a simple reason for an air conditioning unit not cooling. It’s broken! But in all seriousness, there are many things that can go wrong with a central air conditioner. These appliances are very intricate machines with many moving parts. There is a lot that can go wrong with them, which is why it’s best to call an expert for help. In Southern Arizona, an air conditioning unit not cooling is something that we deal with every day at Intelligent Design. Often, customers ask us for the solution over the phone. However, since central ACs are complex machines, it’s simply not possible to do a diagnostic over the phone. A technician will have to come out to your property to do a full, in-person diagnostic.
 

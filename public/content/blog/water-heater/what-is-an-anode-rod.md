@@ -4,7 +4,7 @@ description: Learn what an anode rod does, why it matters, and when to replace i
 publishedAt: '2025-01-29T12:00:00.000Z'
 updatedAt: '2025-01-29T12:00:00.000Z'
 author: Intelligent Design Team
-category: plumbing
+category: water-heater
 tags:
   - water-heater
   - plumbing-maintenance
@@ -12,7 +12,7 @@ tags:
   - tucson
 heroImage: /generated_images/choosing_right_plumber.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/plumbing/what-is-an-anode-rod'
+canonicalUrl: 'https://www.idesignac.com/blog/water-heater/what-is-an-anode-rod'
 ---
 
 # What Is an Anode Rod? The Unsung Hero of Your Water Heater

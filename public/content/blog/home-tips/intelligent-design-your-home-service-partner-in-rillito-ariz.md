@@ -1,6 +1,6 @@
 ---
 title: 'Intelligent Design: Your Home Service Partner in Rillito, Arizona'
-description: "Intelligent Design: Your Home Service Partner in Rillito, Arizona \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services..."
+description: 'Intelligent Design - Your Home Service Partner in Rillito, Arizona for Tucson homeowners. Get practical advice on expert solutions, professional recommendati...'
 publishedAt: '2025-10-31T19:11:01.395Z'
 updatedAt: '2025-10-31T19:11:01.404Z'
 author: Intelligent Design Team
@@ -13,12 +13,6 @@ canonicalUrl: >-
 ---
 
 # Intelligent Design: Your Home Service Partner in Rillito, Arizona
-
-**Jump to** [Services We Provide](#)
-
-[1) A Hearty Welcome to Rillito Residents!](#A_Hearty_Welcome_to_Rillito_Residents)
-
-[2) The Services We’re Jazzed to Offer](#The_Services_Were_Jazzed_to_Offer)
 
 [2.1) Why You Should Choose Intelligent Design](#Why_You_Should_Choose_Intelligent_Design)
 

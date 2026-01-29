@@ -1155,6 +1155,39 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/2023/10': '/blog',
   '/2024/06': '/blog',
   '/2025/06': '/blog',
+
+  // ===== BLOG CATEGORY MIGRATION REDIRECTS =====
+  // Water Heater category (migrated from plumbing)
+  '/blog/plumbing/discover-the-benefits-of-tankless-water-heaters': '/blog/water-heater/discover-the-benefits-of-tankless-water-heaters',
+  '/blog/plumbing/do-i-need-a-permit-to-install-a-new-water-heater': '/blog/water-heater/do-i-need-a-permit-to-install-a-new-water-heater',
+  '/blog/plumbing/permit-to-install-a-new-water-heater': '/blog/water-heater/permit-to-install-a-new-water-heater',
+  '/blog/plumbing/what-is-an-anode-rod': '/blog/water-heater/what-is-an-anode-rod',
+  '/blog/plumbing/who-to-call-for-water-heater-repair': '/blog/water-heater/who-to-call-for-water-heater-repair',
+
+  // Drain-Sewer category (migrated from plumbing)
+  '/blog/plumbing/9-warning-signs-you-need-a-drain-cleaning-service': '/blog/drain-sewer/9-warning-signs-you-need-a-drain-cleaning-service',
+  '/blog/plumbing/common-drain-cleaning-mistakes-you-must-avoid': '/blog/drain-sewer/common-drain-cleaning-mistakes-you-must-avoid',
+  '/blog/plumbing/drain-cleaning-solutions-that-actually-work': '/blog/drain-sewer/drain-cleaning-solutions-that-actually-work',
+  '/blog/plumbing/drain-snakes-your-must-have-tool-for-efficient-drain-cleanin': '/blog/drain-sewer/drain-snakes-your-must-have-tool-for-efficient-drain-cleanin',
+  '/blog/plumbing/how-professional-plumbers-perform-drain-cleaning': '/blog/drain-sewer/how-professional-plumbers-perform-drain-cleaning',
+  '/blog/plumbing/how-to-make-your-own-drain-cleaner-at-home': '/blog/drain-sewer/how-to-make-your-own-drain-cleaner-at-home',
+  '/blog/plumbing/is-it-safe-to-use-chemical-drain-cleaners': '/blog/drain-sewer/is-it-safe-to-use-chemical-drain-cleaners',
+  '/blog/plumbing/reasons-why-home-owners-need-residential-drain-cleaning': '/blog/drain-sewer/reasons-why-home-owners-need-residential-drain-cleaning',
+  '/blog/plumbing/should-you-diy-or-hire-a-professional-for-drain-cleaning': '/blog/drain-sewer/should-you-diy-or-hire-a-professional-for-drain-cleaning',
+  '/blog/plumbing/the-hidden-dangers-of-neglecting-drain-cleaning': '/blog/drain-sewer/the-hidden-dangers-of-neglecting-drain-cleaning',
+  '/blog/plumbing/the-importance-of-drain-cleaning-maintenance': '/blog/drain-sewer/the-importance-of-drain-cleaning-maintenance',
+  '/blog/plumbing/the-importance-of-hiring-the-right-drain-cleaning-company': '/blog/drain-sewer/the-importance-of-hiring-the-right-drain-cleaning-company',
+  '/blog/plumbing/the-importance-of-hiring-the-right-drain-company': '/blog/drain-sewer/the-importance-of-hiring-the-right-drain-company',
+  '/blog/plumbing/the-ultimate-guide-to-drain-cleaning': '/blog/drain-sewer/the-ultimate-guide-to-drain-cleaning',
+  '/blog/plumbing/tips-for-choosing-the-right-drain-cleaning-company': '/blog/drain-sewer/tips-for-choosing-the-right-drain-cleaning-company',
+  '/blog/plumbing/top-drain-cleaning-tools-you-need': '/blog/drain-sewer/top-drain-cleaning-tools-you-need',
+  '/blog/plumbing/ways-plumbers-in-tucson-can-help-you-unclog-drains': '/blog/drain-sewer/ways-plumbers-in-tucson-can-help-you-unclog-drains',
+  '/blog/plumbing/why-drain-cleaning-is-important': '/blog/drain-sewer/why-drain-cleaning-is-important',
+  '/blog/plumbing/why-you-shouldnt-overlook-drain-cleaning': '/blog/drain-sewer/why-you-shouldnt-overlook-drain-cleaning',
+
+  // Indoor-Air-Quality category (migrated from hvac)
+  '/blog/hvac/impact-of-indoor-air-quality-on-your-health-and-comfort': '/blog/indoor-air-quality/impact-of-indoor-air-quality-on-your-health-and-comfort',
+  '/blog/hvac/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f': '/blog/indoor-air-quality/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f',
 };
 
 /**

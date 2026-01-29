@@ -1,6 +1,6 @@
 ---
 title: 90% of Arizona AC Systems Have an Installation Flaw
-description: "90% of Arizona AC Systems Have an Installation Flaw \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide     ..."
+description: 'Expert 90% of Arizona AC Systems Have an Installation Flaw guide for Tucson homeowners. Learn about installation options from Intelligent Design''s HVAC speci...'
 publishedAt: '2025-10-31T18:50:51.041Z'
 updatedAt: '2025-10-31T18:50:51.060Z'
 author: Intelligent Design Team
@@ -17,16 +17,6 @@ canonicalUrl: >-
 ---
 
 # 90% of Arizona AC Systems Have an Installation Flaw
-
-**Jump to** [Services We Provide](#)
-
-[1) Study: Most AC Systems Have an Installation Flaw](#Study_Most_AC_Systems_Have_an_Installation_Flaw)
-
-[2) Situation: The Common Types of Installation Flaws](#Situation_The_Common_Types_of_Installation_Flaws)
-
-[3) Problems: Here’s What Happens When AC Systems Have an Installation Flaw](#Problems_Heres_What_Happens_When_AC_Systems_Have_an_Installation_Flaw)
-
-[4) Solutions: Here’s What You Can Do If Your AC Systems Have an Installation Flaw](#Solutions_Heres_What_You_Can_Do_If_Your_AC_Systems_Have_an_Installation_Flaw)
 
 Did you know that there is a 90% chance you have an improperly installed air conditioning system? It’s true. A full 90% of AC systems have an installation flaw that causes them to operate inefficiently, break down more frequently, and have premature failure rates. And of course, when an AC system has not been installed properly, it wastes money for the homeowner. That’s why, at Intelligent Design, we only send out certified, experienced HVAC technicians to our customers’ homes. We’ll make sure the job gets done right the first time, because your family’s comfort is our top priority.
 

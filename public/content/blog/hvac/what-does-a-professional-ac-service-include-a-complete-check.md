@@ -2,7 +2,7 @@
 title: >-
   What Does a Professional AC Service Include? A Complete Checklist for
   Homeowners
-description: "What Does a Professional AC Service Include? A Complete Checklist for Homeowners \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                 ..."
+description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
 publishedAt: '2025-10-31T18:48:04.969Z'
 updatedAt: '2025-10-31T18:48:04.989Z'
 author: Intelligent Design Team
@@ -31,12 +31,6 @@ video:
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/QAGoPyG4Cxs" title="How SmartAC Monitoring Protects Your HVAC System (And Your Wallet) | Intelligent Design Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-**Jump to** [Services We Provide](#)
-
-[1) Why Professional AC Service is Important](#Why_Professional_AC_Service_is_Important)
-
-[2) The Complete Professional AC Service Checklist](#The_Complete_Professional_AC_Service_Checklist)
-
 [2.1) 1\. Air Filter cleaning or replacement](#1_Air_Filter_cleaning_or_replacement)
 
 [2.2) 2\. Thermostat Calibration & System Controls](#2_Thermostat_Calibration_System_Controls)
@@ -54,14 +48,6 @@ video:
 [2.8) 8\. Blower and Airflow Testing](#8_Blower_and_Airflow_Testing)
 
 [2.9) 9\. Overall System Performance Test](#9_Overall_System_Performance_Test)
-
-[3) How Often Do I Need Air Conditioning Service?](#How_Often_Do_I_Need_Air_Conditioning_Service)
-
-[4) Signs You Need Immediate Professional Help with Your Air Conditioning](#Signs_You_Need_Immediate_Professional_Help_with_Your_Air_Conditioning)
-
-[5) Selecting the Right Professionals](#Selecting_the_Right_Professionals)
-
-[6) The Takeaway](#The_Takeaway)
 
 When Arizona’s heat ramps up, an air-conditioner is a must-have. And that is why taking care of your cooling system so that it runs well is important for your comfort level and energy efficiency. But what does a professional air conditioning service even entail, and why should you never skip one? 
 

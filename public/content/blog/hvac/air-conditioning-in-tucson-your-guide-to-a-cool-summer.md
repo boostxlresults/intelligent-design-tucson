@@ -1,6 +1,6 @@
 ---
 title: 'Air Conditioning in Tucson: Your Guide to a Cool Summer'
-description: "Air Conditioning in Tucson: Your Guide to a Cool Summer \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide ..."
+description: 'Expert Air Conditioning in Tucson - Your Guide to a Cool Summer guide for Tucson homeowners. Learn about comprehensive information from Intelligent Design''s ...'
 publishedAt: '2025-10-31T18:49:59.541Z'
 updatedAt: '2025-10-31T18:50:02.495Z'
 author: Intelligent Design Team
@@ -19,12 +19,6 @@ canonicalUrl: >-
 
 # Air Conditioning in Tucson: Your Guide to a Cool Summer
 
-**Jump to** [Services We Provide](#)
-
-[1) Types of Air Conditioners in Tucson](#Types_of_Air_Conditioners_in_Tucson)
-
-[2) Choosing the Right Air Conditioner for Your Home](#Choosing_the_Right_Air_Conditioner_for_Your_Home)
-
 [2.1) Size of Your Space and the Climate in Tucson](#Size_of_Your_Space_and_the_Climate_in_Tucson)
 
 [2.2) Energy Efficiency](#Energy_Efficiency)
@@ -37,8 +31,6 @@ canonicalUrl: >-
 
 [2.6) Maintenance](#Maintenance)
 
-[3) Saving Money on Your Air Conditioning Costs](#Saving_Money_on_Your_Air_Conditioning_Costs)
-
 [3.1) Set Your Thermostat to a Higher Temperature When You’re Not Home](#Set_Your_Thermostat_to_a_Higher_Temperature_When_Youre_Not_Home)
 
 [3.2) Use a Ceiling Fan](#Use_a_Ceiling_Fan)
@@ -50,10 +42,6 @@ canonicalUrl: >-
 [3.5) Install a Programmable Thermostat](#Install_a_Programmable_Thermostat)
 
 [3.6) Sign Up for a Service Plan](#Sign_Up_for_a_Service_Plan)
-
-[4) Make an Intelligent Choice With Us](#Make_an_Intelligent_Choice_With_Us)
-
-[5) Cool Your Summer With Intelligent Design](#Cool_Your_Summer_With_Intelligent_Design)
 
 It’s summertime, and the livin’ is hot! If you’re like most people in the Tucson area, you’re looking for ways to cool down. We’ve put together a guide to air conditioning in Tucson. Keep reading to learn more about the different types of air conditioners available, how to choose the right one for your home, and how to save money on your cooling costs this summer!
 

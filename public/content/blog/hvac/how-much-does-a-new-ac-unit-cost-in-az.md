@@ -1,6 +1,6 @@
 ---
 title: How Much Does a New AC Unit Cost in AZ
-description: "How Much Does a New AC Unit Cost in AZ \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                  ..."
+description: 'Expert How Much Does a New AC Unit Cost in AZ guide for Tucson homeowners. Learn about costs and pricing factors from Intelligent Design''s HVAC specialists w...'
 publishedAt: '2025-10-31T18:48:09.269Z'
 updatedAt: '2025-10-31T18:48:13.904Z'
 author: Intelligent Design Team
@@ -17,20 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-much-does-a-new-ac-unit-c
 ---
 
 # How Much Does a New AC Unit Cost in AZ
-
-**Jump to** [Services We Provide](#)
-
-[1) 1: Type of AC Unit](#1_Type_of_AC_Unit)
-
-[2) 2: Size/Capacity](#2_SizeCapacity)
-
-[3) 3: Features](#3_Features)
-
-[4) 4: SEER rating](#4_SEER_rating)
-
-[5) 5: Installation Company](#5_Installation_Company)
-
-[6) Conclusion](#Conclusion)
 
 Choosing to install a new air conditioning unit is a big decision. Not only do you have to think about the size of the unit and the features you want, but you also need to factor in the cost. In Arizona, the cost of a new AC unit can vary depending on the type of unit, its features, and the company you choose to install it.
 

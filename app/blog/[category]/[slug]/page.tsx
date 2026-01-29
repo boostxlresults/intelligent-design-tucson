@@ -2,13 +2,14 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Phone, Clock, Calendar, ChevronRight, User, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb } from "lucide-react";
+import { Phone, Clock, Calendar, ChevronRight, User, Thermometer, Droplets, Sun, Zap, Home as HomeIcon, Lightbulb, Flame, PipetteIcon, Wind } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 
 import TrustBar from "@/components/content/TrustBar";
 import TableOfContents from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
+import RelatedPosts from "@/components/blog/RelatedPosts";
 
 import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema, generateVideoSchema } from '@/lib/markdownParser';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -23,6 +24,9 @@ const categoryIcons: Record<string, typeof Thermometer> = {
   'electrical': Zap,
   'roofing': HomeIcon,
   'home-tips': Lightbulb,
+  'water-heater': Flame,
+  'drain-sewer': PipetteIcon,
+  'indoor-air-quality': Wind,
 };
 
 // Default hero images for each category when specific post image is missing
@@ -33,6 +37,9 @@ const categoryDefaultImages: Record<string, string> = {
   'electrical': '/generated_images/electrical_panel_upgrade.png',
   'roofing': '/generated_images/asphalt_shingle_roof_detail_d24441ea.png',
   'home-tips': '/generated_images/home_energy_audit.png',
+  'water-heater': '/generated_images/tankless_water_heater_benefits.png',
+  'drain-sewer': '/generated_images/drain_cleaning_tools_guide.png',
+  'indoor-air-quality': '/generated_images/indoor_air_quality_health.png',
 };
 
 // Check if an image file exists in the public directory
@@ -55,6 +62,9 @@ const categoryNames: Record<string, string> = {
   roofing: 'Roofing',
   electrical: 'Electrical',
   'home-tips': 'Home Tips',
+  'water-heater': 'Water Heater',
+  'drain-sewer': 'Drain & Sewer',
+  'indoor-air-quality': 'Indoor Air Quality',
 };
 
 // Transform attached_assets paths to public paths for Next.js Image
@@ -67,12 +77,14 @@ function normalizeHeroImagePath(imagePath: string | undefined): string | undefin
   return imagePath;
 }
 
+// All blog categories
+const allCategories = ['hvac', 'plumbing', 'solar', 'electrical', 'roofing', 'home-tips', 'water-heater', 'drain-sewer', 'indoor-air-quality'];
+
 // Generate static params for all blog posts
 export async function generateStaticParams() {
-  const categories = ['hvac', 'plumbing', 'solar', 'electrical', 'roofing', 'home-tips'];
   const params: Array<{ category: string; slug: string }> = [];
 
-  for (const category of categories) {
+  for (const category of allCategories) {
     try {
       const dirPath = path.join(process.cwd(), 'public', 'content', 'blog', category);
       const files = await fs.readdir(dirPath);
@@ -84,11 +96,48 @@ export async function generateStaticParams() {
       }
     } catch (error) {
       // Category directory may not exist yet
-      console.log(`Blog category not found: ${category}`);
     }
   }
 
   return params;
+}
+
+interface RelatedPost {
+  slug: string;
+  category: string;
+  title: string;
+  description: string;
+  heroImage?: string;
+  readingTime: number;
+}
+
+async function getRelatedPosts(category: string, currentSlug: string): Promise<RelatedPost[]> {
+  try {
+    const dirPath = path.join(process.cwd(), 'public', 'content', 'blog', category);
+    const files = await fs.readdir(dirPath);
+    const mdFiles = files.filter(file => file.endsWith('.md') && file !== `${currentSlug}.md`);
+    
+    const posts = await Promise.all(
+      mdFiles.slice(0, 6).map(async (file) => {
+        const filePath = path.join(dirPath, file);
+        const content = await fs.readFile(filePath, 'utf-8');
+        const parsed = parseMarkdown(content);
+        
+        return {
+          slug: file.replace('.md', ''),
+          category,
+          title: parsed.frontmatter.title || 'Untitled',
+          description: parsed.frontmatter.description || '',
+          heroImage: parsed.frontmatter.heroImage,
+          readingTime: parsed.readingTime,
+        };
+      })
+    );
+    
+    return posts.slice(0, 3);
+  } catch (error) {
+    return [];
+  }
 }
 
 // Server-side blog post loader
@@ -146,6 +195,9 @@ export default async function BlogPostPage({
   }
 
   const { frontmatter, htmlContent, readingTime, tableOfContents } = blogPost;
+  
+  // Get related posts
+  const relatedPosts = await getRelatedPosts(category, slug);
   
   // Check if hero image exists
   const normalizedHeroImage = normalizeHeroImagePath(frontmatter.heroImage);
@@ -340,6 +392,11 @@ export default async function BlogPostPage({
                   ))}
                 </div>
               </div>
+            )}
+
+            {/* Related Posts */}
+            {relatedPosts.length > 0 && (
+              <RelatedPosts posts={relatedPosts} currentSlug={slug} />
             )}
           </article>
 

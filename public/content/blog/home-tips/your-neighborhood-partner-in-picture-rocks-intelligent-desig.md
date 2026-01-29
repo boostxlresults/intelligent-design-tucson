@@ -1,6 +1,6 @@
 ---
 title: 'Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services'
-description: "Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                   ..."
+description: 'Your Neighborhood Partner in Picture Rocks - Intelligent Design’s Home Services for Tucson homeowners. Get practical advice on expert solutions, professional...'
 publishedAt: '2025-10-31T19:11:13.560Z'
 updatedAt: '2025-10-31T19:11:19.491Z'
 author: Intelligent Design Team
@@ -14,14 +14,6 @@ canonicalUrl: >-
 
 # Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services
 
-**Jump to** [Services We Provide](#)
-
-[1) A Warm Hello to Our Picture Rocks Family](#A_Warm_Hello_to_Our_Picture_Rocks_Family)
-
-[2) The Heartbeat of Picture Rocks](#The_Heartbeat_of_Picture_Rocks)
-
-[3) What We Bring to Your Table](#What_We_Bring_to_Your_Table)
-
 [3.1) Chill Out or Warm Up with Our AC & Heating](#Chill_Out_or_Warm_Up_with_Our_AC_Heating)
 
 [3.2) No Leak Too Sneaky: Plumbing Solutions](#No_Leak_Too_Sneaky_Plumbing_Solutions)
@@ -31,10 +23,6 @@ canonicalUrl: >-
 [3.4) Roof Over Your Head: Literally](#Roof_Over_Your_Head_Literally)
 
 [3.5) Wired for Safety: Electrical Services](#Wired_for_Safety_Electrical_Services)
-
-[4) It’s a Community Thing](#Its_a_Community_Thing)
-
-[5) Wrapping It Up](#Wrapping_It_Up)
 
 ## A Warm Hello to Our Picture Rocks Family
 

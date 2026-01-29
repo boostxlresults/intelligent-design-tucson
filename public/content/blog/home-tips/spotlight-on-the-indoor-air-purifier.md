@@ -1,6 +1,6 @@
 ---
 title: Spotlight on the Indoor Air Purifier
-description: "Spotlight on the Indoor Air Purifier \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                    ..."
+description: 'Spotlight on the Indoor Air Purifier for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s ...'
 publishedAt: '2025-10-31T18:50:32.493Z'
 updatedAt: '2025-10-31T18:50:32.497Z'
 author: Intelligent Design Team
@@ -12,14 +12,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/home-tips/spotlight-on-the-indoor-
 ---
 
 # Spotlight on the Indoor Air Purifier
-
-**Jump to** [Services We Provide](#)
-
-[1) Intelligent Design IAQ](#Intelligent_Design_IAQ)
-
-[2) The Risks of Poor Indoor Air Quality](#The_Risks_of_Poor_Indoor_Air_Quality)
-
-[3) Our Recommended Indoor Air Purifier](#Our_Recommended_Indoor_Air_Purifier)
 
 ### Intelligent Design IAQ
 

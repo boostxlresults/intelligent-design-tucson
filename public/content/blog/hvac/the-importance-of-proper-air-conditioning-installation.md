@@ -1,6 +1,6 @@
 ---
 title: The Importance of Proper Air Conditioning Installation
-description: "The Importance of Proper Air Conditioning Installation \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide  ..."
+description: 'Expert The Importance of Proper Air Conditioning Installation guide for Tucson homeowners. Learn about installation options from Intelligent Design''s HVAC sp...'
 publishedAt: '2025-10-31T18:50:26.101Z'
 updatedAt: '2025-10-31T18:50:32.506Z'
 author: Intelligent Design Team
@@ -17,16 +17,6 @@ canonicalUrl: >-
 ---
 
 # The Importance of Proper Air Conditioning Installation
-
-**Jump to** [Services We Provide](#)
-
-[1) Intelligent Design DNA](#Intelligent_Design_DNA)
-
-[2) Poor Energy Efficiency from Improper Air Conditioning Installation](#Poor_Energy_Efficiency_from_Improper_Air_Conditioning_Installation)
-
-[3) Increased Repair Costs and Lower Longevity](#Increased_Repair_Costs_and_Lower_Longevity)
-
-[4) Uneven Comfort Levels from an Incorrect AC Installation](#Uneven_Comfort_Levels_from_an_Incorrect_AC_Installation)
 
 ### Intelligent Design DNA
 

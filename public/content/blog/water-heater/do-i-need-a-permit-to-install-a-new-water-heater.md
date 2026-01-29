@@ -1,30 +1,20 @@
 ---
 title: Do I Need a Permit to Install a New Water Heater?
-description: "Do I Need a Permit to Install a New Water Heater? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide       ..."
+description: 'Do I Need a Permit to Install a New Water Heater? guide for Arizona homeowners. Get expert advice on installation options from Intelligent Design''s water hea...'
 publishedAt: '2025-10-31T19:10:18.939Z'
 updatedAt: '2025-10-31T19:10:18.953Z'
 author: Intelligent Design Team
-category: plumbing
+category: water-heater
 tags:
   - water-heaters
   - tucson
 heroImage: /generated_images/water_heater_permit.png
 featured: false
 canonicalUrl: >-
-  https://www.idesignac.com/blog/plumbing/do-i-need-a-permit-to-install-a-new-water-heater
+  https://www.idesignac.com/blog/water-heater/do-i-need-a-permit-to-install-a-new-water-heater
 ---
 
 # Do I Need a Permit to Install a New Water Heater?
-
-**Jump to** [Services We Provide](#)
-
-[1) Identifying Residential Permit Requirements in Pima County](#Identifying_Residential_Permit_Requirements_in_Pima_County)
-
-[2) Understanding the Need to Get a Permit to Install a New Water Heater](#Understanding_the_Need_to_Get_a_Permit_to_Install_a_New_Water_Heater)
-
-[3) Knowing What Can Happen If the Water Heater Is Installed Improperly](#Knowing_What_Can_Happen_If_the_Water_Heater_Is_Installed_Improperly)
-
-[4) Getting a Permit to Install a New Water Heater](#Getting_a_Permit_to_Install_a_New_Water_Heater)
 
 Homeownership is rewarding, but it’s also a lot of work. There are a million little things to think about, like scheduling regular service visits for your major appliances and getting a permit for that new water heater. If you’re asking Google, “Do I need a permit to install a new water heater?” the short answer is that yes, you absolutely do. Here’s a quick crash course in permits for installing a new water heater.
 

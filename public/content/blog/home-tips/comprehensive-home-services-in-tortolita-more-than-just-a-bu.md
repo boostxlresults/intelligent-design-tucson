@@ -2,7 +2,7 @@
 title: >-
   Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a
   Community Commitment
-description: "Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a Community Commitment \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                 ..."
+description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
 publishedAt: '2025-10-31T19:11:06.986Z'
 updatedAt: '2025-10-31T19:11:10.722Z'
 author: Intelligent Design Team
@@ -16,17 +16,9 @@ canonicalUrl: >-
 
 # Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a Community Commitment
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) Why Choose Intelligent Design in Tortolita?](#Why_Choose_Intelligent_Design_in_Tortolita)
-
 [2.1) Quality Services](#Quality_Services)
 
 [2.2) Community-Centric Approach](#Community-Centric_Approach)
-
-[3) Services We Offer](#Services_We_Offer)
 
 [3.1) Air Conditioning](#Air_Conditioning)
 
@@ -39,8 +31,6 @@ canonicalUrl: >-
 [3.5) Roofing](#Roofing)
 
 [3.6) Electrical](#Electrical)
-
-[4) Conclusion](#Conclusion)
 
 ## Introduction
 

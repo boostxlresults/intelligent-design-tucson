@@ -1,6 +1,6 @@
 ---
 title: Signs Your Home Needs an Electrical Panel Upgrade
-description: Learn the warning signs that indicate your electrical panel needs upgrading. From frequent breaker trips to flickering lights, discover when it's time to call a licensed Tucson electrician for a panel upgrade.
+description: 'Signs Your Home Needs an Electrical Panel Upgrade tips for Tucson homeowners. Get professional guidance on warning signs to watch for from Intelligent Design...'
 publishedAt: '2026-01-27T12:00:00.000Z'
 updatedAt: '2026-01-27T12:00:00.000Z'
 author: Intelligent Design Team

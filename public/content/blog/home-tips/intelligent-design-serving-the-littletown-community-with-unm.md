@@ -2,7 +2,7 @@
 title: >-
   Intelligent Design: Serving the Littletown Community with Unmatched Home
   Services
-description: "Intelligent Design: Serving the Littletown Community with Unmatched Home Services \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                ..."
+description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
 publishedAt: '2025-10-31T19:10:41.165Z'
 updatedAt: '2025-10-31T19:10:44.419Z'
 author: Intelligent Design Team
@@ -16,12 +16,6 @@ canonicalUrl: >-
 
 # Intelligent Design: Serving the Littletown Community with Unmatched Home Services
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) Our Services](#Our_Services)
-
 [2.1) Air Conditioning](#Air_Conditioning)
 
 [2.2) Heating](#Heating)
@@ -33,10 +27,6 @@ canonicalUrl: >-
 [2.5) Roofing](#Roofing)
 
 [2.6) Electrical](#Electrical)
-
-[3) Community First](#Community_First)
-
-[4) Conclusion](#Conclusion)
 
 ## Introduction
 

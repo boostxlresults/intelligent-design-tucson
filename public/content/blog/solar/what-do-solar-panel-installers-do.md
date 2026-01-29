@@ -1,6 +1,6 @@
 ---
 title: What Do Solar Panel Installers Do
-description: "What Do Solar Panel Installers Do \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                       ..."
+description: 'What Do Solar Panel Installers Do information for Arizona residents. Explore installation options with Intelligent Design''s solar installation experts in Tuc...'
 publishedAt: '2025-10-31T19:00:42.645Z'
 updatedAt: '2025-10-31T19:00:49.471Z'
 author: Intelligent Design Team
@@ -17,10 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/solar/what-do-solar-panel-installe
 
 # What Do Solar Panel Installers Do
 
-**Jump to** [Services We Provide](#)
-
-[1) The Job of Solar Panel Installation Companies](#The_Job_of_Solar_Panel_Installation_Companies)
-
 [1.1) Assessing Location for Solar Installation](#Assessing_Location_for_Solar_Installation)
 
 [1.2) Solar Panel Installation](#Solar_Panel_Installation)
@@ -34,8 +30,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/solar/what-do-solar-panel-installe
 [1.6) Adhering to Solar Installation Guidelines](#Adhering_to_Solar_Installation_Guidelines)
 
 [1.7) Use Advanced Solar System tools](#Use_Advanced_Solar_System_tools)
-
-[2) Find the Right Solar Installer](#Find_the_Right_Solar_Installer)
 
 [2.1) Final Thoughts](#Final_Thoughts)
 

@@ -1,6 +1,6 @@
 ---
 title: How Does Solar Energy Work?
-description: "How Does Solar Energy Work? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                             ..."
+description: 'How Does Solar Energy Work? information for Arizona residents. Explore expert solutions, professional recommendations with Intelligent Design''s solar install...'
 publishedAt: '2025-10-31T19:00:37.105Z'
 updatedAt: '2025-10-31T19:00:39.997Z'
 author: Intelligent Design Team
@@ -17,10 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/solar/how-does-solar-energy-work'
 ---
 
 # How Does Solar Energy Work?
-
-**Jump to** [Services We Provide](#)
-
-[1) What is Solar Energy?](#What_is_Solar_Energy)
 
 [1.1) Step By Step On How Solar Energy Works](#Step_By_Step_On_How_Solar_Energy_Works)
 

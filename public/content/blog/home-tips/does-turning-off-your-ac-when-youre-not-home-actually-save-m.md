@@ -1,6 +1,6 @@
 ---
 title: Does Turning Off Your A/C When You’re Not Home Actually Save Money?
-description: "Does Turning Off Your A/C When You’re Not Home Actually Save Money? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services..."
+description: 'Does Turning Off Your A/C When You’re Not Home Actually Save Money? for Tucson homeowners. Get practical advice on expert solutions, professional recommendat...'
 publishedAt: '2025-10-31T19:10:48.711Z'
 updatedAt: '2025-10-31T19:10:53.026Z'
 author: Intelligent Design Team
@@ -13,10 +13,6 @@ canonicalUrl: >-
 ---
 
 # Does Turning Off Your A/C When You’re Not Home Actually Save Money?
-
-**Jump to** [Services We Provide](#)
-
-[1) Understanding the Cost of Running an A/C](#Understanding_the_Cost_of_Running_an_AC)
 
 [1.1) The Science Behind Cooling Your Home](#The_Science_Behind_Cooling_Your_Home)
 

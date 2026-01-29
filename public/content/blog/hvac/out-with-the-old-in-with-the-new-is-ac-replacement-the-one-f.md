@@ -1,6 +1,6 @@
 ---
 title: 'Out With The Old, In With The New. Is AC Replacement The One For You?'
-description: "Out With The Old, In With The New. Is AC Replacement The One For You? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                     ..."
+description: 'Expert Out With The Old, In With The New. Is AC Replacement The One For You? guide for Tucson homeowners. Learn about expert solutions, professional recommen...'
 publishedAt: '2025-10-31T18:50:01.015Z'
 updatedAt: '2025-10-31T18:50:02.500Z'
 author: Intelligent Design Team
@@ -19,23 +19,11 @@ canonicalUrl: >-
 
 # Out With The Old, In With The New. Is AC Replacement The One For You?
 
-**Jump to** [Services We Provide](#)
-
-[1) Know When It’s Time to Let Go](#Know_When_Its_Time_to_Let_Go)
-
-[2) Things to Consider for Getting a New System](#Things_to_Consider_for_Getting_a_New_System)
-
-[3) Choosing the Right AC Replacement](#Choosing_the_Right_AC_Replacement)
-
 [3.1) Size](#Size)
 
 [3.2) Type](#Type)
 
 [3.3) Energy Efficiency](#Energy_Efficiency)
-
-[4) Preparing for the Replacement](#Preparing_for_the_Replacement)
-
-[5) When in Doubt, Reach Out](#When_in_Doubt_Reach_Out)
 
 It’s that time of year again, when we all start thinking about how to make our homes more energy efficient. One of the most common home improvements people decide to make is replacing their air conditioning unit.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Serving Catalina, Arizona: More Than Just Home Services, It’s About Community'
-description: "Serving Catalina, Arizona: More Than Just Home Services, It’s About Community \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                    ..."
+description: 'Serving Catalina, Arizona - More Than Just Home Services, It’s About Community for Tucson homeowners. Get practical advice on expert solutions, professional ...'
 publishedAt: '2025-10-31T19:11:19.484Z'
 updatedAt: '2025-10-31T19:11:19.494Z'
 author: Intelligent Design Team
@@ -14,12 +14,6 @@ canonicalUrl: >-
 
 # Serving Catalina, Arizona: More Than Just Home Services, It’s About Community
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) A Community-Centric Approach](#A_Community-Centric_Approach)
-
 [2.1) AC and Heating](#AC_and_Heating)
 
 [2.2) Plumbing](#Plumbing)
@@ -27,10 +21,6 @@ canonicalUrl: >-
 [2.3) Solar](#Solar)
 
 [2.4) Roofing and Electrical](#Roofing_and_Electrical)
-
-[3) Why Choose Intelligent Design?](#Why_Choose_Intelligent_Design)
-
-[4) Conclusion](#Conclusion)
 
 ## Introduction
 

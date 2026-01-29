@@ -2,7 +2,7 @@
 title: >-
   Central Air Conditioning System in Tucson: How To Improve Your Indoor Air
   Quality This Summer
-description: "Central Air Conditioning System in Tucson: How To Improve Your Indoor Air Quality This Summer \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                    ..."
+description: 'Expert >- guide for Tucson homeowners. Learn about expert solutions, professional recommendations from Intelligent Design''s HVAC specialists with 46+ years o...'
 publishedAt: '2025-10-31T18:49:33.887Z'
 updatedAt: '2025-10-31T18:49:35.408Z'
 author: Intelligent Design Team
@@ -20,20 +20,6 @@ canonicalUrl: >-
 ---
 
 # Central Air Conditioning System in Tucson: How To Improve Your Indoor Air Quality This Summer
-
-**Jump to** [Services We Provide](#)
-
-[1) Buy a High-Quality Central Air Conditioning System](#Buy_a_High-Quality_Central_Air_Conditioning_System)
-
-[2) Get Air Filters And Improve Your HVAC System](#Get_Air_Filters_And_Improve_Your_HVAC_System)
-
-[3) Clean the Ducts Regularly](#Clean_the_Ducts_Regularly)
-
-[4) Clean or Replace Your Air Conditioning Unit Often](#Clean_or_Replace_Your_Air_Conditioning_Unit_Often)
-
-[5) Make Sure Your Vents Aren’t Blocked by Furniture or Drapes](#Make_Sure_Your_Vents_Arent_Blocked_by_Furniture_or_Drapes)
-
-[6) Improve the Air Quality Inside Your Home and Stay Cool This Summer](#Improve_the_Air_Quality_Inside_Your_Home_and_Stay_Cool_This_Summer)
 
 [6.1) Don’t Wait—Fix Your AC Today](#Dont_Wait-Fix_Your_AC_Today)
 

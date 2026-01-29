@@ -1,6 +1,6 @@
 ---
 title: 'Intelligent Design: Your Partner in Home Comfort in Drexel Heights'
-description: "Intelligent Design: Your Partner in Home Comfort in Drexel Heights \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services..."
+description: 'Intelligent Design - Your Partner in Home Comfort in Drexel Heights for Tucson homeowners. Get practical advice on expert solutions, professional recommendat...'
 publishedAt: '2025-10-31T19:11:16.365Z'
 updatedAt: '2025-10-31T19:11:19.498Z'
 author: Intelligent Design Team
@@ -14,27 +14,13 @@ canonicalUrl: >-
 
 # Intelligent Design: Your Partner in Home Comfort in Drexel Heights
 
-**Jump to** [Services We Provide](#)
-
-[1) Greetings, Drexel Heights: Meet Your New Neighbor](#Greetings_Drexel_Heights_Meet_Your_New_Neighbor)
-
-[2) Chapter 1: AC and Heating—The Art of Comfort](#Chapter_1_AC_and_Heating-The_Art_of_Comfort)
-
 [2.1) The Comfort Canvas](#The_Comfort_Canvas)
-
-[3) Chapter 2: Plumbing—The Symphony of Your Home](#Chapter_2_Plumbing-The_Symphony_of_Your_Home)
 
 [3.1) The Perfect Pitch](#The_Perfect_Pitch)
 
-[4) Chapter 3: Solar—The Beacon of Sustainability](#Chapter_3_Solar-The_Beacon_of_Sustainability)
-
 [4.1) Light the Way](#Light_the_Way)
 
-[5) Chapter 4: Roofing and Electrical—The Guardians of Your Castle](#Chapter_4_Roofing_and_Electrical-The_Guardians_of_Your_Castle)
-
 [5.1) Fortify Your Fortress](#Fortify_Your_Fortress)
-
-[6) Epilogue: Why Choose Intelligent Design?](#Epilogue_Why_Choose_Intelligent_Design)
 
 [6.1) Beyond Services, A Partnership](#Beyond_Services_A_Partnership)
 

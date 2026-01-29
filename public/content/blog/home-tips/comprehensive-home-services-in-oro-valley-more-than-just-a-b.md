@@ -2,7 +2,7 @@
 title: >-
   Comprehensive Home Services in Oro Valley: More Than Just a Business, It’s a
   Commitment to the Community
-description: "Comprehensive Home Services in Oro Valley: More Than Just a Business, It’s a Commitment to the Community \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to         ..."
+description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
 publishedAt: '2025-10-31T19:10:55.581Z'
 updatedAt: '2025-10-31T19:11:01.401Z'
 author: Intelligent Design Team
@@ -16,27 +16,13 @@ canonicalUrl: >-
 
 # Comprehensive Home Services in Oro Valley: More Than Just a Business, It’s a Commitment to the Community
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) AC and Heating: Your Comfort, Our Priority](#AC_and_Heating_Your_Comfort_Our_Priority)
-
 [2.1) Serving the Community](#Serving_the_Community)
-
-[3) Plumbing Services: More Than Just Fixing Leaks](#Plumbing_Services_More_Than_Just_Fixing_Leaks)
 
 [3.1) Community Impact](#Community_Impact)
 
-[4) Solar Services: Powering a Sustainable Future](#Solar_Services_Powering_a_Sustainable_Future)
-
 [4.1) Community Sustainability](#Community_Sustainability)
 
-[5) Roofing and Electrical Services: Safety and Reliability](#Roofing_and_Electrical_Services_Safety_and_Reliability)
-
 [5.1) Safety First, Community Always](#Safety_First_Community_Always)
-
-[6) Conclusion](#Conclusion)
 
 ## Introduction
 

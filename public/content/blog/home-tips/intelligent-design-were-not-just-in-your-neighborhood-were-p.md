@@ -1,6 +1,6 @@
 ---
 title: 'Intelligent Design: We’re Not Just in Your Neighborhood, We’re Part of It'
-description: "Intelligent Design: We’re Not Just in Your Neighborhood, We’re Part of It \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                     ..."
+description: 'Intelligent Design - We’re Not Just in Your Neighborhood, We’re Part of It for Tucson homeowners. Get practical advice on expert solutions, professional reco...'
 publishedAt: '2025-10-31T19:11:10.713Z'
 updatedAt: '2025-10-31T19:11:10.724Z'
 author: Intelligent Design Team
@@ -13,10 +13,6 @@ canonicalUrl: >-
 ---
 
 # Intelligent Design: We’re Not Just in Your Neighborhood, We’re Part of It
-
-**Jump to** [Services We Provide](#)
-
-[1) Hey Corona de Tucson, We Get You!](#Hey_Corona_de_Tucson_We_Get_You)
 
 [1.1) So, What’s the Vibe in Corona de Tucson?](#So_Whats_the_Vibe_in_Corona_de_Tucson)
 

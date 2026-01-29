@@ -1,10 +1,10 @@
 ---
 title: Is Your AC Making You Sick? The Hidden Dangers of Dirty Air Filters
-description: "Is Your AC Making You Sick? The Hidden Dangers of Dirty Air Filters \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services..."
+description: 'Is Your AC Making You Sick? The Hidden Dangers of Dirty Air Filters guide for healthier Tucson homes. Discover expert solutions, professional recommendations...'
 publishedAt: '2025-10-31T18:48:00.010Z'
 updatedAt: '2025-10-31T18:48:04.987Z'
 author: Intelligent Design Team
-category: hvac
+category: indoor-air-quality
 tags:
   - ac-repair
   - hvac-maintenance
@@ -13,14 +13,10 @@ tags:
 heroImage: /generated_images/dirty_air_filter_dangers.png
 featured: false
 canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f
+  https://www.idesignac.com/blog/indoor-air-quality/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f
 ---
 
 # Is Your AC Making You Sick? The Hidden Dangers of Dirty Air Filters
-
-**Jump to** [Services We Provide](#)
-
-[1) The Health Hazards of Dirty AC Filters](#The_Health_Hazards_of_Dirty_AC_Filters)
 
 [1.1) • Respiratory Issues](#Respiratory_Issues)
 
@@ -29,14 +25,6 @@ canonicalUrl: >-
 [1.3) • Compromised Immunity](#Compromised_Immunity)
 
 [1.4) • Fatigue and Headaches](#Fatigue_and_Headaches)
-
-[2) Clean Filters = Clean Air = Healthy Living](#Clean_Filters_Clean_Air_Healthy_Living)
-
-[3) Why Professional Air Conditioning Service in Tucson Makes All the Difference](#Why_Professional_Air_Conditioning_Service_in_Tucson_Makes_All_the_Difference)
-
-[4) Don’t Wait Until You Feel Sick](#Dont_Wait_Until_You_Feel_Sick)
-
-[5) FAQs](#FAQs)
 
 Have you been sneezing more around the house? Dry throat, headaches, weird tiredness? Instead of pointing fingers at the weather or seasonal allergies, look to your AC Unit, particularly its filter. A dirty filter will not only lessen the efficiency of the unit itself but also potentially compromise your health.
 

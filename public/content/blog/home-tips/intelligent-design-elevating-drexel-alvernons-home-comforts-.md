@@ -2,7 +2,7 @@
 title: >-
   Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a
   Time
-description: "Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a Time \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                              ..."
+description: '>- for Tucson homeowners. Get practical advice on expert solutions, professional recommendations from Intelligent Design''s home maintenance specialists.'
 publishedAt: '2025-10-31T19:10:57.221Z'
 updatedAt: '2025-10-31T19:11:01.407Z'
 author: Intelligent Design Team
@@ -15,14 +15,6 @@ canonicalUrl: >-
 ---
 
 # Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a Time
-
-**Jump to** [Services We Provide](#)
-
-[1) A Warm Hello to Drexel-Alvernon!](#A_Warm_Hello_to_Drexel-Alvernon)
-
-[2) The Nitty-Gritty: Our Services](#The_Nitty-Gritty_Our_Services)
-
-[3) Why Us? Let’s Break It Down](#Why_Us_Lets_Break_It_Down)
 
 [3.1) The Final Word](#The_Final_Word)
 

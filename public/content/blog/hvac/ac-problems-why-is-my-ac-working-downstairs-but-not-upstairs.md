@@ -1,6 +1,6 @@
 ---
 title: 'AC Problems: Why Is My AC Working Downstairs But Not Upstairs?'
-description: "AC Problems: Why Is My AC Working Downstairs But Not Upstairs? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'Expert AC Problems - Why Is My AC Working Downstairs But Not Upstairs? guide for Tucson homeowners. Learn about expert solutions, professional recommendation...'
 publishedAt: '2025-10-31T18:48:26.652Z'
 updatedAt: '2025-10-31T18:48:32.541Z'
 author: Intelligent Design Team
@@ -22,19 +22,6 @@ video:
 ---
 
 # AC Problems: Why Is My AC Working Downstairs But Not Upstairs?
-
-**Jump to** [Services We Provide](#)
-
-[1) Why Is My AC Working Downstairs But Not Upstairs: The Short Answer](#Why_Is_My_AC_Working_Downstairs_But_Not_Upstairs_The_Short_Answer)
-
-[2) The Role of a Properly Sized System](#The_Role_of_a_Properly_Sized_System)
-
-[3) The Registers and Design of Your Home](#The_Registers_and_Design_of_Your_Home)
-
-[4) The Importance of Sealed Ductwork](#The_Importance_of_Sealed_Ductwork)
-
-[5) The Location of Your Thermostat](#The_Location_of_Your_Thermostat)
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_26u5kPqU4w?si=sb7knJHskDzYrv7v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 “Why is my AC working downstairs but not upstairs?” This is a common issue many homeowners face, especially during the scorching Arizona summers. If you’ve ever wondered why your downstairs feels comfortably cool while the upstairs feels like a sauna, you’re not alone. Understanding the reasons behind this issue can help you find the right solution and ensure your entire home remains comfortably cool.

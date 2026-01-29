@@ -1,30 +1,20 @@
 ---
 title: Who To Call For Water Heater Repair?
-description: "Who To Call For Water Heater Repair? \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                    ..."
+description: 'Who To Call For Water Heater Repair? guide for Arizona homeowners. Get expert advice on repair solutions from Intelligent Design''s water heater specialists i...'
 publishedAt: '2025-10-31T19:10:10.173Z'
 updatedAt: '2025-10-31T19:10:10.189Z'
 author: Intelligent Design Team
-category: plumbing
+category: water-heater
 tags:
   - plumbing-repair
   - water-heaters
   - tucson
 heroImage: /generated_images/water_heater_repair_call.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/plumbing/who-to-call-for-water-heater-repair'
+canonicalUrl: 'https://www.idesignac.com/blog/water-heater/who-to-call-for-water-heater-repair'
 ---
 
 # Who To Call For Water Heater Repair?
-
-**Jump to** [Services We Provide](#)
-
-[1) Causes of a Water Heater To Stop Working](#Causes_of_a_Water_Heater_To_Stop_Working)
-
-[2) Can a water heater be repaired?](#Can_a_water_heater_be_repaired)
-
-[3) Can you still use water if the water heater is leaking?](#Can_you_still_use_water_if_the_water_heater_is_leaking)
-
-[4) Call Best Water Heater Repair Plumbers Today](#Call_Best_Water_Heater_Repair_Plumbers_Today)
 
 Homeowners rely on water heaters for common everyday activities such as showering, cooking, washing dishes, clothes, and hands.
 

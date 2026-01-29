@@ -4,7 +4,7 @@ description: Learn how indoor air quality affects your health and wellbeing. Dis
 publishedAt: '2025-01-29T12:00:00.000Z'
 updatedAt: '2025-01-29T12:00:00.000Z'
 author: Intelligent Design Team
-category: hvac
+category: indoor-air-quality
 tags:
   - indoor-air-quality
   - health
@@ -12,7 +12,7 @@ tags:
   - tucson
 heroImage: /generated_images/ac_maintenance_expert_tips.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/impact-of-indoor-air-quality-on-your-health-and-comfort'
+canonicalUrl: 'https://www.idesignac.com/blog/indoor-air-quality/impact-of-indoor-air-quality-on-your-health-and-comfort'
 ---
 
 # Impact of Indoor Air Quality on Your Health and Comfort

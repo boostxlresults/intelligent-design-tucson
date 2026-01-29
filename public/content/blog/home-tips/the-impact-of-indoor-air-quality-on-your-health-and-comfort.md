@@ -1,6 +1,6 @@
 ---
 title: The Impact of Indoor Air Quality on Your Health and Comfort
-description: "The Impact of Indoor Air Quality on Your Health and Comfort \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'The Impact of Indoor Air Quality on Your Health and Comfort for Tucson homeowners. Get practical advice on expert solutions, professional recommendations fro...'
 publishedAt: '2025-10-31T18:48:22.545Z'
 updatedAt: '2025-10-31T18:48:23.918Z'
 author: Intelligent Design Team
@@ -13,14 +13,6 @@ canonicalUrl: >-
 ---
 
 # The Impact of Indoor Air Quality on Your Health and Comfort
-
-**Jump to** [Services We Provide](#)
-
-[1) Indoor Air Quality in America](#Indoor_Air_Quality_in_America)
-
-[2) What are the sources of indoor air pollution?](#What_are_the_sources_of_indoor_air_pollution)
-
-[3) What do you need to know about the health effects of Poor Indoor Air Quality?](#What_do_you_need_to_know_about_the_health_effects_of_Poor_Indoor_Air_Quality)
 
 [3.1) Health Risks Linked to Poor Indoor Air Quality](#Health_Risks_Linked_to_Poor_Indoor_Air_Quality)
 

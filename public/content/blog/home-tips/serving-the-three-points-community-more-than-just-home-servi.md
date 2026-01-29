@@ -1,6 +1,6 @@
 ---
 title: 'Serving the Three Points Community: More Than Just Home Services'
-description: "Serving the Three Points Community: More Than Just Home Services \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We..."
+description: 'Serving the Three Points Community - More Than Just Home Services for Tucson homeowners. Get practical advice on expert solutions, professional recommendatio...'
 publishedAt: '2025-10-31T19:11:08.614Z'
 updatedAt: '2025-10-31T19:11:10.715Z'
 author: Intelligent Design Team
@@ -14,12 +14,6 @@ canonicalUrl: >-
 
 # Serving the Three Points Community: More Than Just Home Services
 
-**Jump to** [Services We Provide](#)
-
-[1) Introduction](#Introduction)
-
-[2) A Full Spectrum of Home Services](#A_Full_Spectrum_of_Home_Services)
-
 [2.1) Air Conditioning and Heating](#Air_Conditioning_and_Heating)
 
 [2.2) Plumbing](#Plumbing)
@@ -29,10 +23,6 @@ canonicalUrl: >-
 [2.4) Roofing](#Roofing)
 
 [2.5) Electrical Services](#Electrical_Services)
-
-[3) Community First](#Community_First)
-
-[4) Conclusion](#Conclusion)
 
 ## Introduction
 

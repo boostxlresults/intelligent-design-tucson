@@ -1,6 +1,6 @@
 ---
 title: Signs You Need to Call for AC Repair
-description: "Signs You Need to Call for AC Repair \t\t\t \t\t \t \t \t \t\t\t\t\t\t\t \t\t\t\t             Jump to                                      Services We Provide                    ..."
+description: 'Expert Signs You Need to Call for AC Repair guide for Tucson homeowners. Learn about warning signs to watch for, repair solutions from Intelligent Design''s H...'
 publishedAt: '2025-10-31T18:50:16.529Z'
 updatedAt: '2025-10-31T18:50:23.401Z'
 author: Intelligent Design Team
@@ -17,24 +17,6 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/signs-you-need-to-call-for-ac
 ---
 
 # Signs You Need to Call for AC Repair
-
-**Jump to** [Services We Provide](#)
-
-[1) 1\. Strange Noises Coming From the AC Unit](#1_Strange_Noises_Coming_From_the_AC_Unit)
-
-[2) 2\. Warm Air](#2_Warm_Air)
-
-[3) 3\. Insufficient Airflow](#3_Insufficient_Airflow)
-
-[4) 4\. Moisture Leaking From HVAC Unit](#4_Moisture_Leaking_From_HVAC_Unit)
-
-[5) 5\. Frequent Cycling](#5_Frequent_Cycling)
-
-[6) 6\. High Humidity Inside Home](#6_High_Humidity_Inside_Home)
-
-[7) 7\. Rising Electric Bills](#7_Rising_Electric_Bills)
-
-[8) Have Issues With Your AC Unit?](#Have_Issues_With_Your_AC_Unit)
 
 Summer is in full swing, and that means one thing – it’s hot outside! If you’re like most people, you rely on your air conditioner to keep you cool during the summer months. But what do you do if your air conditioner starts acting up? Do you try to fix it yourself, or do you call for AC repair?
 

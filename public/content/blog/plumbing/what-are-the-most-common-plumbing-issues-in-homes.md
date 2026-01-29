@@ -30,14 +30,6 @@ video:
 
 # What Are the Most Common Plumbing Issues in Homes?
 
-**Jump to** [Services We Provide](#)
-
-[1) Major Plumbing Issue: Pipes Obstructed by Roots](#Major_Plumbing_Issue_Pipes_Obstructed_by_Roots)
-
-[2) Major Plumbing Issue: Polybutylene Piping](#Major_Plumbing_Issue_Polybutylene_Piping)
-
-[3) Minor Plumbing Issue: Water Heater Scale Buildup](#Minor_Plumbing_Issue_Water_Heater_Scale_Buildup)
-
 <div class="my-8 aspect-video w-full max-w-2xl mx-auto">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/4rUyVArXvO0?si=zA9sY6E5LOkWmLsk" title="Most Common Plumbing Issues in Homes - Expert Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
 </div>
