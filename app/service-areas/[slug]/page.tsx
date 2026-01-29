@@ -4,6 +4,7 @@ import LocationPage from '@/components/pages/LocationPage';
 import ClientSchemas from '@/components/schemas/ClientSchemas';
 import { getLocationSchemas } from '@/components/schemas/LocationSchemas';
 import { generateLocationMetadata } from '@/lib/seo';
+import { getRelatedBlogPostsForLocation } from '@/lib/seo/getRelatedBlogPosts';
 import type { LocationPageData } from '@/types/services';
 
 // Import all location data
@@ -77,10 +78,13 @@ export default async function ServiceAreaPage({
   // Generate JSON-LD schemas using ClientSchemas component
   const schemas = getLocationSchemas(data);
 
+  // Fetch related blog posts for internal linking
+  const relatedBlogPosts = await getRelatedBlogPostsForLocation(3);
+
   return (
     <>
       <ClientSchemas schemas={schemas} />
-      <LocationPage data={data} />
+      <LocationPage data={data} relatedBlogPosts={relatedBlogPosts} />
     </>
   );
 }

@@ -11,6 +11,7 @@ import DrainClearingCoupon from "@/components/specials/DrainClearingCoupon";
 import ServiceFAQ from "@/components/content/ServiceFAQ";
 import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
+import RelatedBlogPosts from "@/components/services/RelatedBlogPosts";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -71,13 +72,23 @@ function extractTOCItems(data: ServicePageData): TOCItem[] {
  * - JSON-LD schema markup for AI SEO
  */
 
+interface BlogPostMeta {
+  slug: string;
+  category: string;
+  title: string;
+  description: string;
+  readingTime?: number;
+}
+
 interface ServicePageProps {
   data: ServicePageData;
   schemas?: Array<Record<string, unknown>>;
   slug?: string;
+  relatedBlogPosts?: BlogPostMeta[];
+  serviceType?: string;
 }
 
-export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
+export default function ServicePage({ data, schemas, slug, relatedBlogPosts, serviceType }: ServicePageProps) {
   // Show drain clearing special coupon for drain clearing and rooter pages
   const showDrainSpecial = slug === 'drain-clearing-tucson' || slug === 'rooter-special';
   
@@ -502,6 +513,14 @@ export default function ServicePage({ data, schemas, slug }: ServicePageProps) {
             </div>
           </div>
         </section>
+      )}
+
+      {/* Related Blog Posts - Internal Linking for SEO */}
+      {relatedBlogPosts && relatedBlogPosts.length > 0 && (
+        <RelatedBlogPosts 
+          serviceType={serviceType || 'hvac'} 
+          posts={relatedBlogPosts} 
+        />
       )}
 
       {/* ServiceTitan Scheduler #3 - Bottom before footer */}

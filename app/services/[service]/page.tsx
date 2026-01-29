@@ -6,6 +6,7 @@ import ServicePage from "@/components/pages/ServicePage";
 import ClientSchemas from "@/components/schemas/ClientSchemas";
 import { getServiceSchemas } from "@/components/schemas/ServiceSchemas";
 import { generateServiceMetadata } from "@/lib/seo";
+import { getRelatedBlogPostsForService, getServiceTypeFromSlug } from "@/lib/seo/getRelatedBlogPosts";
 import serviceManifest from "@/data/pages/services/manifest.json";
 
 // Build lookup map from manifest: canonical slug -> dataFile
@@ -94,10 +95,19 @@ export default async function ServicePageRoute({
   // Generate JSON-LD schemas using CLIENT component (like GTM which works)
   const schemas = getServiceSchemas(serviceData, serviceSlug);
 
+  // Fetch related blog posts for internal linking
+  const serviceType = getServiceTypeFromSlug(serviceSlug);
+  const relatedBlogPosts = await getRelatedBlogPostsForService(serviceType, 3);
+
   return (
     <>
       <ClientSchemas schemas={schemas} />
-      <ServicePage data={serviceData} slug={serviceSlug} />
+      <ServicePage 
+        data={serviceData} 
+        slug={serviceSlug} 
+        relatedBlogPosts={relatedBlogPosts}
+        serviceType={serviceType}
+      />
     </>
   );
 }

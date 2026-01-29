@@ -1,7 +1,7 @@
 # Intelligent Design Tucson - Home Services Website
 
 ## Overview
-This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona. **Company History:** Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins. In 2022, the company united with Wood's Plumbing (established 1979) to create a combined 46+ years of home services expertise serving the Tucson community. The schema foundingDate remains 1979 as approved by BBB and Google. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site currently features over 500 pages, including service pages (with location-specific variants), service area pages, 279 optimized blog posts across 6 categories (HVAC, plumbing, solar, home-tips, electrical, roofing), resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
+This project is a conversion-focused marketing website for Intelligent Design, a family and veteran-owned home services company in Tucson, Arizona, with a founding date of 1979. The site aims to drive service bookings for HVAC, plumbing, solar, electrical, roofing, and drain/sewer services through ServiceTitan integration, build trust via social proof, optimize for local SEO, and provide a mobile-first experience. The ambition is to create a top-ranking AI-search and conversion-optimized service site nationally, leveraging comprehensive location+service matrix coverage and advanced zip code SEO. The site features over 500 pages, including service pages, service area pages, 279 optimized blog posts across 6 categories, resource pages, promotional offer pages, Contractor Commerce integration, and career opportunities.
 
 ## User Preferences
 Preferred communication style: Simple, everyday language.
@@ -39,43 +39,38 @@ Preferred communication style: Simple, everyday language.
 
 ### Key Architectural Decisions
 - **Mobile-First Conversion:** Floating action bar, sticky header, ServiceTitan scheduler in modal dialogs.
-- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList, HowTo, VideoObject). Service-location pages generate 7-10+ schemas per page. Enhanced with `hasBrand` (Lennox, Trane, Rheem, etc.) and `hasVariant` (tankless, ductless, heat pump, etc.) schema properties for AI search optimization.
-- **URL Migration & Redirect System:** Programmatic 308 permanent redirect system (next.config.ts) preserves SEO equity from legacy React URLs to Next.js nested structures. Manifest system (`data/pages/services/manifest.json`) maps canonical slugs to data files for Next.js static generation.
-- **Performance:** Optimized builds (Vite), font and image optimization (AVIF/WebP), edge-ready configuration.
-- **LCP Optimization:** All hero images across the site use Next.js Image component with `priority`, `fill`, and `sizes="100vw"` props for optimal Largest Contentful Paint scores. Blog post hero images use `normalizeHeroImagePath()` function to transform legacy `/attached_assets/generated_images/` paths to `/generated_images/` for proper static serving. Pattern: absolute positioned Image with fill, gradient overlay div, and relative z-10 content wrapper.
+- **SEO Optimization:** AI-driven SEO with Open Graph, Twitter Card, essential meta tags, rich Schema.org structured data (Organization, LocalBusiness, Service, FAQPage, BreadcrumbList, HowTo, VideoObject). Service-location pages generate 7-10+ schemas per page, enhanced with `hasBrand` and `hasVariant` properties.
+- **URL Migration & Redirect System:** Programmatic 308 permanent redirect system (next.config.ts) and manifest system (`data/pages/services/manifest.json`) for SEO equity preservation and static generation.
+- **Performance:** Optimized builds (Vite), font and image optimization (AVIF/WebP), edge-ready configuration, and LCP optimization for hero images using Next.js Image component.
 - **Design Philosophy:** "Professional reliability with warm approachability," focusing on trust signals and clear calls to action.
-- **Service Pages:** Template includes full-width background hero, 6 highlight cards, extensive service content, review module, and comprehensive FAQ section. CTA sections support ServiceTitan scheduler integration and external link CTAs.
-- **FAQ Components:** `ServiceFAQ` (centralized system with JSON-LD schema) and `CommonQuestions` (conversational Q&A for AI search optimization) are deployed across service pages.
+- **Service Pages:** Template includes full-width background hero, 6 highlight cards, extensive service content, review module, FAQ components (`ServiceFAQ` with JSON-LD and `CommonQuestions`), and CTA sections with ServiceTitan integration.
 - **Cross-Page Conversion CTAs:** Strategic CTA buttons linking service pages to Contractor Commerce quote tools.
-- **Location + Service Matrix:** Architecture covering 7 core services across 20 service areas for maximum local SEO, including location-specific content, zip code integration, schema markup, and conversion-focused CTAs.
-- **Blog System:** Automated WordPress scraping, markdown-based content, AI-generated hero images, and SEO-optimized frontmatter. Blog pages include graceful fallback for missing hero images (category-specific icons with gradient backgrounds). The `imageExists()` helper checks if image files exist at build time.
-- **Vercel Bundle Optimization:** `outputFileTracingExcludes` in next.config.ts excludes large directories (public/generated_images, public/content, attached_assets) from serverless function bundles to stay under Vercel's 300MB limit.
+- **Location + Service Matrix:** Architecture covering 7 core services across 20 service areas for maximum local SEO, including location-specific content, zip code integration, and schema markup.
+- **Blog System:** Automated WordPress scraping, markdown-based content, AI-generated hero images, SEO-optimized frontmatter, and graceful fallback for missing hero images. Includes client-side search, category filtering, and related posts features.
+- **Vercel Bundle Optimization:** `outputFileTracingExcludes` in next.config.ts to exclude large directories from serverless function bundles.
 - **Resource Pages:** Dedicated informational pages including R22 Phaseout guide, Video Education Library, Air Conditioning System FAQs, Knowledge Hub, Video Testimonials, and Customer Reviews pages.
-- **Contractor Commerce Integration Pages:** Three interactive quote/shopping pages powered by Contractor Commerce plugin: Free Online HVAC Quote, Free Online Water Heater Quote, and Filter Shop.
-- **Promotional Offer Pages:** New Homebuyer Offer, REALTORS® Offer, and $28.88 Drain Clearing Special (with dedicated component).
+- **Contractor Commerce Integration Pages:** Interactive quote/shopping pages for HVAC, water heaters, and filters.
+- **Promotional Offer Pages:** New Homebuyer Offer, REALTORS® Offer, and $28.88 Drain Clearing Special.
 - **Careers Page:** Integrated WhoHire job board plugin.
 - **Core Strategic Architecture:** Clean silo structure with scalable service area logic, optimized for keyword-based and AI-based search visibility (LLM-ready content), static HTML output capability, mobile-first UX, and professional design.
-- **Canonical Schema System:** Centralized system for consistent NAP (Name, Address, Phone) data across all schemas.
-- **VideoObject Schema Date Format:** All VideoObject uploadDate fields use full ISO 8601 format with time component (YYYY-MM-DDTHH:MM:SSZ) to pass Google Rich Results validation. The `normalizeUploadDate()` helper function in `lib/seo/generateVideoObjectSchema.ts` ensures dates without time are converted to proper format.
+- **Canonical Schema System:** Centralized system for consistent NAP data across all schemas.
+- **VideoObject Schema Date Format:** `uploadDate` fields use full ISO 8601 format with a helper function to ensure correct formatting.
 - **Accessibility System:** WCAG 2.1 AA compliant system with font size controls, high contrast mode, readable font, and enhanced keyboard focus.
 - **Cookie Consent System:** GDPR/CCPA-compliant system with modal banner, consent persistence, and GTM integration.
-- **AI Search Optimization Strategy:** All pages are optimized for AI search engines with natural language Q&A, structured data, internal linking, and comprehensive local content. Zip code SEO features include location pages with zip code displays and meta descriptions.
-- **Script Lazy Loading Strategy:** Third-party scripts are lazy-loaded for optimal PageSpeed scores:
-  - **ServiceTitan Scheduler:** Loads on-demand via `useScheduler` hook only when user clicks Schedule buttons (saves ~898 KiB)
-  - **RealWorkLabs:** Uses IntersectionObserver to load script when map widgets enter viewport, with callback queue for re-initialization
-  - **ContentSquare:** Uses Next.js Script strategy="lazyOnload" for post-load execution
-  - **HatchChat:** Uses lazyOnload strategy for deferred chat widget loading
-- **Known Development Issue:** Webpack HMR error ("Cannot read properties of undefined (reading 'call')") may appear during hot reload in development. This is a Next.js 16 / React 19 Server Components limitation and does not affect production builds.
+- **AI Search Optimization Strategy:** All pages optimized for AI search engines with natural language Q&A, structured data, internal linking, comprehensive local content, and zip code SEO.
+- **Script Lazy Loading Strategy:** Third-party scripts (ServiceTitan Scheduler, RealWorkLabs, ContentSquare, HatchChat) are lazy-loaded for optimal PageSpeed scores.
+- **Internal Linking Strategy:** Taxonomy mapping blog categories to related services and locations using `lib/seo/internalLinking.ts` and components like `RelatedServices.tsx`, `RelatedBlogPosts.tsx`, and `LocalBlogPosts.tsx`.
+- **Location Pages Enhancement with ZIP Code SEO:** `lib/seo/locationData.ts` provides comprehensive data for 20 Tucson metro locations, integrated with `ZipCodeModule.tsx` for visual display of local SEO data.
 
 ## External Dependencies
 
 ### Third-Party Services
-- **ServiceTitan:** Scheduling Pro widget (scheduler-v1.js with `_scheduler.show()` API) and Dynamic Number Insertion (DNI). Scheduler script loads on-demand via `useScheduler` hook when user clicks Schedule buttons. DNI script uses afterInteractive strategy.
-- **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin for HVAC quotes, water heater quotes, and filter sales.
-- **RealWorkLabs:** Project showcase widget for displaying recent installations and repairs.
-- **WhoHire:** Job board plugin integration for careers page.
-- **PulseM:** Review aggregation widget displaying 23,000+ five-star reviews.
-- **HatchChat:** Live chat widget for customer support.
+- **ServiceTitan:** Scheduling Pro widget and Dynamic Number Insertion (DNI).
+- **Contractor Commerce:** Interactive pricing calculator and e-commerce plugin.
+- **RealWorkLabs:** Project showcase widget.
+- **WhoHire:** Job board plugin.
+- **PulseM:** Review aggregation widget.
+- **HatchChat:** Live chat widget.
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.
 - **Schema.org:** Employed for structured data to enhance SEO.
@@ -88,69 +83,3 @@ Preferred communication style: Simple, everyday language.
 ### Development Tools
 - **Zod:** Used for schema validation.
 - **Drizzle ORM:** TypeScript ORM for PostgreSQL.
-
-## Recent Changes (January 2026)
-
-### Blog Rebuild - Phase 1 Complete
-- Increased blog post count from 247 to 279 posts (+32 new posts)
-- Created SEO-optimized content covering high-value topics:
-  - HVAC: AC lifespan, installation costs, maintenance, thermostat settings, repair guides, rebates, efficiency tips
-  - Plumbing: Toilet repair, water heater maintenance, water quality, leak detection, repiping benefits
-  - Solar: Solar AC benefits, installation considerations, reasons to go solar
-  - Home Tips: Energy efficiency for older homes
-- All new posts follow clean frontmatter structure with proper canonical URLs
-- Blog posts use markdown format in `public/content/blog/[category]/` directories
-- URL structure: `/blog/[category]/[slug]`
-
-### Blog Post Distribution (Updated January 2026)
-- HVAC: 113 posts
-- Plumbing: 42 posts
-- Water Heater: 5 posts (NEW CATEGORY)
-- Drain & Sewer: 19 posts (NEW CATEGORY)
-- Indoor Air Quality: 2 posts (NEW CATEGORY)
-- Solar: 50 posts
-- Home Tips: 34 posts
-- Electrical: 7 posts
-- Roofing: 7 posts
-
-### Blog Rebuild - Phase 2-4 Complete (January 2026)
-
-**Phase 2: Category Restructuring**
-- Created 3 new specialized categories: water-heater, drain-sewer, indoor-air-quality
-- Migrated 26 posts from plumbing/hvac to appropriate new categories
-- Added 26 redirect mappings in lib/redirects.ts for SEO equity preservation
-- Updated category configuration in all blog page components
-
-**Phase 3: SEO Improvements**
-- Cleaned 214 posts removing "Jump to" artifacts from frontmatter descriptions
-- Optimized meta descriptions for AI search with category-specific templates
-- All descriptions now include location keywords and company trust signals
-
-**Phase 4: New Features**
-- Blog Search: Client-side search component (components/blog/BlogSearch.tsx) with real-time filtering
-- Category Filtering: Interactive category filter badges (components/blog/CategoryFilter.tsx)
-- Related Posts: Automatic recommendations from same category (components/blog/RelatedPosts.tsx)
-- BlogListClient: Combined search/filter wrapper for main blog page
-
-### Blog Component Architecture
-- `components/blog/BlogSearch.tsx` - Client-side search with debounce
-- `components/blog/CategoryFilter.tsx` - Category badge filtering
-- `components/blog/RelatedPosts.tsx` - Related posts recommendations
-- `components/blog/BlogListClient.tsx` - Main blog list with search/filter
-
-### Redirect Cleanup
-- Removed 180+ duplicate redirects from lib/redirects.ts
-- Added 21 new redirects for date archives and missing content
-- Added 26 category migration redirects for new blog categories
-- All redirects verified working with 308 permanent status
-
-### YAML Frontmatter Fix (January 2026)
-- Fixed 89 blog posts with YAML parsing errors caused by unescaped apostrophes in single-quoted description strings
-- Affected categories: HVAC (40), Solar (25), Plumbing (13), Drain-Sewer (7), Home-Tips (7), Water-Heater (3), Roofing (1)
-- Solution: Escaped internal apostrophes using YAML's single-quote escaping (`''`)
-- All 279 blog posts now parse correctly with gray-matter
-
-### Category Default Image Fix (January 2026)
-- Updated categoryDefaultImages to use images that actually exist in /generated_images/
-- Fixed fallback images for: water-heater, drain-sewer, indoor-air-quality
-- New defaults: bradford_white_water_heater.png, drain_cleaning_service.png, Air_duct_cleaning_service_dd4fa139.png

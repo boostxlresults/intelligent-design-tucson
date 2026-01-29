@@ -13,6 +13,8 @@ import { RealWorkLabsMap } from "@/components/integrations/RealWorkLabs";
 import { hasRealWorkLabsMap } from "@/lib/realworklabs-mapping";
 import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
+import LocalBlogPosts from "@/components/locations/LocalBlogPosts";
+import ZipCodeModule from "@/components/locations/ZipCodeModule";
 import { 
   AirVent, 
   Flame, 
@@ -45,9 +47,8 @@ function extractLocationTOCItems(data: LocationPageData): TOCItem[] {
     tocItems.push({ id: "recent-projects", label: "Recent Projects", level: 2 });
   }
   
-  if (data.zipCodes && data.zipCodes.length > 0) {
-    tocItems.push({ id: "zip-codes", label: "Service Areas & Zip Codes", level: 2 });
-  }
+  // ZipCodeModule always renders using locationData.ts
+  tocItems.push({ id: "zip-codes", label: "Service Areas & Zip Codes", level: 2 });
   
   data.content?.sections?.forEach((section) => {
     if ("type" in section && section.type === "heading" && (section.level === 2 || !section.level)) {
@@ -82,9 +83,18 @@ function extractLocationTOCItems(data: LocationPageData): TOCItem[] {
  * - SEO-optimized content structure
  */
 
+interface BlogPostMeta {
+  slug: string;
+  category: string;
+  title: string;
+  description: string;
+  readingTime?: number;
+}
+
 interface LocationPageProps {
   data: LocationPageData;
   schemas?: Array<Record<string, unknown>>;
+  relatedBlogPosts?: BlogPostMeta[];
 }
 
 // Icon mapping helper
@@ -98,7 +108,7 @@ const iconMap: Record<string, any> = {
   Wrench,
 };
 
-export default function LocationPage({ data, schemas }: LocationPageProps) {
+export default function LocationPage({ data, schemas, relatedBlogPosts }: LocationPageProps) {
   const tocItems = extractLocationTOCItems(data);
   
   return (
@@ -274,37 +284,8 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
         </section>
       )}
 
-      {/* Service Areas & Zip Codes */}
-      {data.zipCodes && data.zipCodes.length > 0 && (
-        <section id="zip-codes" className="py-12 bg-muted/30 scroll-mt-20">
-          <div className="container mx-auto px-4 max-w-4xl">
-            <Card data-testid="card-zip-codes">
-              <CardContent className="p-8">
-                <h2 className="text-2xl font-bold mb-4 text-center" data-testid="heading-zip-codes">
-                  Service Areas & Zip Codes in {data.locationName}
-                </h2>
-                <p className="text-center text-muted-foreground mb-6">
-                  We proudly serve the following zip codes in and around {data.locationDisplayName}:
-                </p>
-                <div className="flex flex-wrap justify-center gap-3" data-testid="list-zip-codes">
-                  {data.zipCodes.map((zip, index) => (
-                    <span
-                      key={index}
-                      className="inline-flex items-center px-4 py-2 bg-primary/10 text-primary font-semibold rounded-md"
-                      data-testid={`badge-zip-${zip}`}
-                    >
-                      {zip}
-                    </span>
-                  ))}
-                </div>
-                <p className="text-center text-sm text-muted-foreground mt-6">
-                  Not sure if we serve your area? <a href="tel:+15203332665" className="text-primary hover:underline font-semibold">Call us at (520) 333-2665</a> and we'll let you know!
-                </p>
-              </CardContent>
-            </Card>
-          </div>
-        </section>
-      )}
+      {/* Enhanced Service Areas & Zip Codes with Local SEO Data */}
+      <ZipCodeModule locationSlug={data.slug} locationName={data.locationName} />
 
       {/* Main Content Section */}
       <section className="py-16 bg-muted/30">
@@ -376,6 +357,14 @@ export default function LocationPage({ data, schemas }: LocationPageProps) {
           <ReviewModule variant="full" />
         </div>
       </section>
+
+      {/* Related Blog Posts - Internal Linking for SEO */}
+      {relatedBlogPosts && relatedBlogPosts.length > 0 && (
+        <LocalBlogPosts 
+          locationName={data.locationName} 
+          posts={relatedBlogPosts} 
+        />
+      )}
 
       {/* Location FAQs */}
       {data.faqs && data.faqs.length > 0 && (
