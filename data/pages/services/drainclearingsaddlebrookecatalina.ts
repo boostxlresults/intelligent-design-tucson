@@ -39,7 +39,7 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   },
   {
     "title": "Upfront Pricing",
-    "description": "No hidden fees | Clear cost estimates | $99 drain special available | Multiple payment options"
+    "description": "No hidden fees | Clear cost estimates | $28.88 drain clearing special available | Multiple payment options"
   },
   {
     "title": "Prevention & Maintenance",
@@ -78,7 +78,7 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Schedule Your Drain Clearing Today",
-            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $99 drain clearing special available. Flexible financing options through approved credit.",
+            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $28.88 drain clearing special available. Flexible financing options through approved credit.",
             "buttonText": "Schedule Service",
             "buttonLink": "tel:+15203332665"
       },
@@ -639,7 +639,7 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Schedule Professional Drain Clearing Today",
-            "content": "Don't let clogged drains disrupt your life or damage your home. Fast, professional drain clearing with same-day service available throughout Tucson and surrounding areas. Call (520) 333-2665 or schedule online now. Ask about our $99 drain clearing special. Flexible financing options available through approved credit. 24/7 emergency service for urgent situations. 100% satisfaction guaranteed.",
+            "content": "Don't let clogged drains disrupt your life or damage your home. Fast, professional drain clearing with same-day service available throughout Tucson and surrounding areas. Call (520) 333-2665 or schedule online now. Ask about our $28.88 drain clearing special. Flexible financing options available through approved credit. 24/7 emergency service for urgent situations. 100% satisfaction guaranteed.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       }
