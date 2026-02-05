@@ -9,7 +9,6 @@ import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import HatchChat from "@/components/integrations/HatchChat";
-import CookieConsent from "@/components/integrations/CookieConsent";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import { Toaster } from "@/components/ui/toaster";
 
@@ -87,7 +86,6 @@ export default function RootLayout({
         </main>
         <Footer />
         <MobileFloatingActions />
-        {/* <CookieConsent /> - Hidden per user request */}
         <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <ContractorCommercePlugin />
