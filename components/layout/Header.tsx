@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from "react";
+import { useState, startTransition } from "react";
 import Link from "next/link";
 import type { ForwardRefExoticComponent, RefAttributes } from "react";
 import type { LucideProps } from "lucide-react";
@@ -82,24 +82,30 @@ export default function Header() {
   const [expandedAreas, setExpandedAreas] = useState<Record<string, boolean>>({});
 
   const toggleMobileSection = (sectionName: string) => {
-    setMobileExpandedSections(prev => ({
-      ...prev,
-      [sectionName]: !prev[sectionName]
-    }));
+    startTransition(() => {
+      setMobileExpandedSections(prev => ({
+        ...prev,
+        [sectionName]: !prev[sectionName]
+      }));
+    });
   };
 
   const toggleMobileSubsection = (subsectionName: string) => {
-    setMobileExpandedSubsections(prev => ({
-      ...prev,
-      [subsectionName]: !prev[subsectionName]
-    }));
+    startTransition(() => {
+      setMobileExpandedSubsections(prev => ({
+        ...prev,
+        [subsectionName]: !prev[subsectionName]
+      }));
+    });
   };
 
   const toggleArea = (areaName: string) => {
-    setExpandedAreas(prev => ({
-      ...prev,
-      [areaName]: !prev[areaName]
-    }));
+    startTransition(() => {
+      setExpandedAreas(prev => ({
+        ...prev,
+        [areaName]: !prev[areaName]
+      }));
+    });
   };
 
   const acSubItems = {

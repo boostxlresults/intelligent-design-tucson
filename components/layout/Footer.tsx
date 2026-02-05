@@ -3,7 +3,6 @@
 import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { SiFacebook, SiInstagram, SiLinkedin, SiYoutube, SiGoogle } from "react-icons/si";
-import CookiePreferences from "../integrations/CookiePreferences";
 import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
 
 const logoUrl = "/logo.png";
@@ -186,7 +185,6 @@ export default function Footer() {
                 {item.name}
               </a>
             ))}
-            <CookiePreferences />
           </div>
         </div>
       </div>
