@@ -468,7 +468,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/planning-for-long-term-maintenance-of-solar-power-systems': '/blog/solar/planning-for-long-term-maintenance-of-solar-power-systems',
   '/the-benefits-of-choosing-local-plumbers-in-tucson': '/blog/plumbing/the-benefits-of-choosing-local-plumbers-in-tucson',
   '/how-solar-power-systems-can-benefit-commercial-property-owners': '/blog/solar/how-solar-power-systems-can-benefit-commercial-property-owner',
-  '/plumbing-emergencies-you-should-never-ignore-in-plumbers-tucson': '/blog/plumbing/plumbing-emergencies-you-should-never-ignore-in-plumbers-tucs',
+  '/plumbing-emergencies-you-should-never-ignore-in-plumbers-tucson': '/blog/plumbing/plumbing-emergencies-you-should-never-ignore-in-plumbers-tuc',
   '/common-repiping-mistakes-and-how-to-avoid-them': '/blog/plumbing/common-repiping-mistakes-and-how-to-avoid-them',
   '/8-important-questions-to-ask-solar-panel-installers-before-hiring-them': '/blog/solar/8-important-questions-to-ask-solar-panel-installers-before-hi',
   '/the-ultimate-guide-to-hvac-maintenance-in-tucson-az': '/blog/hvac/the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
@@ -537,7 +537,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/the-many-benefits-of-solar-energy': '/blog/solar/the-many-benefits-of-solar-energy',
   '/why-local-solar-panel-installers-are-a-smart-choice': '/blog/solar/why-local-solar-panel-installers-are-a-smart-choice',
   '/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money': '/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-m',
-  '/solar-energy-how-to-get-the-most-out-of-your-installation': '/blog/solar/solar-energy-how-to-get-the-most-out-of-your-installation',
+  '/solar-energy-how-to-get-the-most-out-of-your-installation': '/blog/solar/ways-to-maximize-your-solar-energy-savings',
   '/why-repiping-your-home-is-essential': '/blog/plumbing/why-repiping-your-home-is-essential',
   '/how-ac-repair-can-actually-save-you-money': '/blog/hvac/how-ac-repair-can-actually-save-you-money',
   '/why-does-a-repiping-project-need-professional-help': '/blog/plumbing/why-does-a-repiping-project-need-professional-help',
@@ -907,7 +907,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/categories/radio-promotions': '/special-offers',
   '/blog/how-does-ac-work': '/blog/hvac/how-does-ac-work',
   '/blog/intelligent-design-your-trusted-home-service-provider-in-summit-arizona': '/service-areas/tucson',
-  '/blog/solar-energy-how-to-get-the-most-out-of-your-installation': '/blog/solar/solar-energy-how-to-get-the-most-out-of-your-installation',
+  '/blog/solar-energy-how-to-get-the-most-out-of-your-installation': '/blog/solar/ways-to-maximize-your-solar-energy-savings',
   '/blog/solar-power-system-advantages-and-disadvantages': '/blog/solar/solar-power-system-advantages-and-disadvantages',
   '/blog/the-best-materials-for-repiping-a-home': '/blog/plumbing/the-best-materials-for-repiping-a-home',
   '/blog/types-of-services-offered-by-expert-solar-panel-installer': '/blog/solar/types-of-services-offered-by-expert-solar-panel-installer',
@@ -1135,7 +1135,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   
   '/hvac-ritaranch': '/services/hvac-rita-ranch',
   '/services/heating/': '/services/heating-tucson',
-  '/solar-energy-the-sustainable-energy-solution-for-home-and-business': '/blog/solar/solar-energy-the-sustainable-energy-solution-for-home-and-business',
+  '/solar-energy-the-sustainable-energy-solution-for-home-and-business': '/blog/solar/uses-of-solar-energy-the-ultimate-guide-for-home-and-busines',
   
   // Date Archive Redirects (to main blog page)
   '/2020/10': '/blog',
