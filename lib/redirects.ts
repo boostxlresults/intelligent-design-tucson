@@ -10,6 +10,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== URGENT REDIRECTS =====
   '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing/preparing-roof-for-spring-storms',
 
+  // ===== MISSING HYPHEN REDIRECTS =====
+  '/electrical-catalinafoothills': '/services/electrical-catalina-foothills',
+  '/hvac-tanqueverde': '/services/hvac-tanque-verde',
+
   // ===== CORE PAGES =====
   '/commercial-maintenance': '/services/commercial-maintenance',
   '/plumbing': '/services/plumbing',
