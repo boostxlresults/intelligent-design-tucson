@@ -8,7 +8,7 @@ import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import GTM from "@/components/integrations/GTM";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
-import HatchChat from "@/components/integrations/HatchChat";
+import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import { Toaster } from "@/components/ui/toaster";
 
@@ -89,7 +89,7 @@ export default function RootLayout({
         <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <ContractorCommercePlugin />
-        <HatchChat />
+        <BroccoliChat />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
       </body>

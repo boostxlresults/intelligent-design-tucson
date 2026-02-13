@@ -331,24 +331,6 @@
     max-width: 100vw;
   }
 
-  /* Hide HatchChat on mobile/tablet by default - reveal when user clicks "Text Us" button */
-  @media (max-width: 1023px) {
-    hatch-chat {
-      display: none !important;
-      visibility: hidden !important;
-      opacity: 0 !important;
-      pointer-events: none !important;
-      transition: opacity 0.3s ease, visibility 0.3s ease;
-    }
-    
-    /* When revealed via JavaScript, show the Hatch chat widget */
-    body.hatch-chat-visible hatch-chat {
-      display: block !important;
-      visibility: visible !important;
-      opacity: 1 !important;
-      pointer-events: auto !important;
-    }
-  }
   
   /* Ensure mobile floating action bar is always on top */
   .mobile-floating-bar {

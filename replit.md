@@ -58,7 +58,7 @@ Preferred communication style: Simple, everyday language.
 - **Accessibility System:** WCAG 2.1 AA compliant system with font size controls, high contrast mode, readable font, and enhanced keyboard focus.
 - **Cookie Consent System:** GDPR/CCPA-compliant system with modal banner, consent persistence, and GTM integration.
 - **AI Search Optimization Strategy:** All pages optimized for AI search engines with natural language Q&A, structured data, internal linking, comprehensive local content, and zip code SEO.
-- **Script Lazy Loading Strategy:** Third-party scripts (ServiceTitan Scheduler, RealWorkLabs, ContentSquare, HatchChat) are lazy-loaded for optimal PageSpeed scores.
+- **Script Lazy Loading Strategy:** Third-party scripts (ServiceTitan Scheduler, RealWorkLabs, ContentSquare, Broccoli Chat) are lazy-loaded for optimal PageSpeed scores.
 - **Internal Linking Strategy:** Taxonomy mapping blog categories to related services and locations using `lib/seo/internalLinking.ts` and components like `RelatedServices.tsx`, `RelatedBlogPosts.tsx`, and `LocalBlogPosts.tsx`.
 - **Location Pages Enhancement with ZIP Code SEO:** `lib/seo/locationData.ts` provides comprehensive data for 20 Tucson metro locations, integrated with `ZipCodeModule.tsx` for visual display of local SEO data.
 
@@ -70,7 +70,7 @@ Preferred communication style: Simple, everyday language.
 - **RealWorkLabs:** Project showcase widget.
 - **WhoHire:** Job board plugin.
 - **PulseM:** Review aggregation widget.
-- **HatchChat:** Live chat widget.
+- **Broccoli Chat:** Live chat widget (replaced HatchChat).
 - **Google Tag Manager (GTM-WKG99GJ):** For analytics, conversion, and event tracking.
 - **Google Fonts:** Utilized for the Inter font family.
 - **Schema.org:** Employed for structured data to enhance SEO.

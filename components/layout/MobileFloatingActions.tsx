@@ -6,20 +6,10 @@ import SchedulerEmbed from "../integrations/SchedulerEmbed";
 
 export default function MobileFloatingActions() {
   const handleTextUsClick = () => {
-    document.body.classList.add('hatch-chat-visible');
-    
-    setTimeout(() => {
-      const hatchChat = document.querySelector('hatch-chat');
-      if (hatchChat) {
-        const shadowRoot = hatchChat.shadowRoot;
-        if (shadowRoot) {
-          const chatButton = shadowRoot.querySelector('button, .chat-button, [class*="button"], [class*="trigger"]');
-          if (chatButton && chatButton instanceof HTMLElement) {
-            chatButton.click();
-          }
-        }
-      }
-    }, 100);
+    const broccoliButton = document.querySelector('[data-broccoli-chat], iframe[src*="broccoli"]');
+    if (broccoliButton && broccoliButton instanceof HTMLElement) {
+      broccoliButton.click();
+    }
   };
 
   return (
@@ -51,7 +41,7 @@ export default function MobileFloatingActions() {
             data-testid="button-mobile-schedule"
           />
 
-          {/* Text Us - Reveals HatchChat widget on mobile/tablet */}
+          {/* Text Us - Reveals Broccoli Chat widget on mobile/tablet */}
           <Button
             size="sm"
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-green-600 hover:bg-green-700 text-white border-2 border-green-700"
