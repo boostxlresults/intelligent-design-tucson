@@ -10,6 +10,7 @@ import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
+import RealWorkLabsLoader from "@/components/integrations/RealWorkLabsLoader";
 import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({
@@ -90,6 +91,8 @@ export default function RootLayout({
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <ContractorCommercePlugin />
         <BroccoliChat />
+        {/* RealWorkLabs project showcase widget */}
+        <RealWorkLabsLoader />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
       </body>
