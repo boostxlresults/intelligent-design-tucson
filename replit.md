@@ -26,7 +26,7 @@ Preferred communication style: Simple, everyday language.
 ## System Architecture
 
 ### Frontend
-- **Framework:** Next.js 16 with App Router, TypeScript, and React Server Components.
+- **Framework:** Next.js 16.1.6 with App Router, TypeScript, React 19, and React Server Components.
 - **UI:** shadcn/ui components (Radix UI primitives), Tailwind CSS with brand-specific tokens, Inter font.
 - **Design System:** Mobile-first responsive design, consistent spacing, component-based architecture.
 - **Navigation:** Mobile/tablet navigation uses collapsible sections; desktop uses hover-activated dropdowns with multi-column layouts, including a hierarchical "Areas We Serve" section.
