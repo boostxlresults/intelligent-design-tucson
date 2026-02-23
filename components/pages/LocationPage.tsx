@@ -295,7 +295,7 @@ export default function LocationPage({ data, schemas, relatedBlogPosts }: Locati
               // Type narrowing for discriminated union
               if ("type" in section) {
                 if (section.type === "heading") {
-                  const HeadingTag = `h${section.level || 2}` as keyof JSX.IntrinsicElements;
+                  const HeadingTag = `h${section.level || 2}` as keyof React.JSX.IntrinsicElements;
                   const headingId = generateSlug(section.heading);
                   return (
                     <HeadingTag 

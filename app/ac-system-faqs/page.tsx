@@ -16,7 +16,7 @@ export const metadata: Metadata = generateSEOMetadata({
 
 interface FAQ {
   question: string;
-  answer: string | JSX.Element;
+  answer: string | React.ReactNode;
 }
 
 export default function ACSystemFAQsPage() {
@@ -104,7 +104,7 @@ export default function ACSystemFAQsPage() {
       name: faq.question,
       acceptedAnswer: {
         '@type': 'Answer',
-        text: typeof faq.answer === 'string' ? faq.answer : faq.answer.props.children.filter((child: any) => typeof child === 'string' || child?.type === 'p').map((child: any) => typeof child === 'string' ? child : child.props.children).join(' '),
+        text: typeof faq.answer === 'string' ? faq.answer : (faq.answer && typeof faq.answer === 'object' && 'props' in (faq.answer as any)) ? (faq.answer as any).props.children.filter((child: any) => typeof child === 'string' || child?.type === 'p').map((child: any) => typeof child === 'string' ? child : child.props.children).join(' ') : String(faq.answer ?? ''),
       },
     })),
   };

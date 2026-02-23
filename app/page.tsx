@@ -110,7 +110,7 @@ export default function Home() {
             {homeData.content.sections.map((section, index) => {
               if ("type" in section) {
                 if (section.type === "heading") {
-                  const HeadingTag = `h${section.level}` as keyof JSX.IntrinsicElements;
+                  const HeadingTag = `h${section.level}` as keyof React.JSX.IntrinsicElements;
                   return (
                     <HeadingTag
                       key={index}

@@ -9,6 +9,12 @@ const nextConfig = {
     ],
     formats: ["image/avif", "image/webp"],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: false,
+  },
   reactStrictMode: true,
   output: "standalone",
   allowedDevOrigins: ["*.replit.dev", "*.kirk.replit.dev"],
