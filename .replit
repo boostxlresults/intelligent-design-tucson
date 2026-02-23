@@ -36,7 +36,11 @@ author = "agent"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "HOSTNAME=0.0.0.0 npx next dev -p 5000 --webpack"
+args = "HOSTNAME=0.0.0.0 npx next dev -p 5000"
+waitForPort = 5000
+
+[workflows.workflow.metadata]
+outputType = "webview"
 
 [userenv]
 

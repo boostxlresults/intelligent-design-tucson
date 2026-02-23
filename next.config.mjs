@@ -1,13 +1,5 @@
-import type { NextConfig } from "next";
-
-/**
- * Next.js configuration
- * 
- * NOTE: Redirects are handled by middleware.ts to bypass Vercel's 1,024 redirect limit
- * The middleware handles all 1,500+ legacy URL redirects at runtime
- */
-
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   images: {
     remotePatterns: [
       {
@@ -29,8 +21,6 @@ const nextConfig: NextConfig = {
       "./node_modules/sharp/**",
     ],
   },
-  // Tell search engines not to index Next.js static assets (JS/CSS chunks)
-  // This helps clean up "Crawled - Currently Not Indexed" reports in Google Search Console
   async headers() {
     return [
       {

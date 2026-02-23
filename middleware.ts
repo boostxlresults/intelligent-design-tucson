@@ -13,7 +13,7 @@ import { getRedirectDestination } from '@/lib/redirects';
  * Production-Hardened Proxy: JSON-LD Schema Injection + Legacy URL Redirects
  * 
  * Injects JSON-LD schemas into HTML responses at the network boundary.
- * This is the recommended workaround for Next.js 16 App Router's limitation
+ * This is the recommended workaround for Next.js App Router's limitation
  * where script tags with dangerouslySetInnerHTML don't render in SSR output.
  * 
  * Hardening features:
