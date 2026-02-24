@@ -22,7 +22,7 @@ declare global {
 }
 
 export default function RealWorkLabsWidget({ 
-  apiKey = 'Mv2yZInBciS35Sln',
+  apiKey = process.env.NEXT_PUBLIC_RWL_API_KEY || '',
   serviceType = 'all',
   zipCode,
   limit = 12,

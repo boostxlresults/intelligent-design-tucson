@@ -2,7 +2,7 @@
 
 import Script from "next/script";
 
-const RWL_API_KEY = "Mv2yZInBciS35Sln";
+const RWL_API_KEY = process.env.NEXT_PUBLIC_RWL_API_KEY || "";
 const RWL_BASE_URL = "https://app.realworklabs.com";
 
 export default function RealWorkLabsLoader() {
