@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cp -r attached_assets public/attached_assets && next build",
+  "buildCommand": "next build",
   "headers": [
     {
       "source": "/(.*)",

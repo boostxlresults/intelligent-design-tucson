@@ -1,0 +1,475 @@
+13:17:52.240 Running build in Washington, D.C., USA (East) – iad1
+13:17:52.240 Build machine configuration: 4 cores, 8 GB
+13:17:52.375 Cloning github.com/boostxlresults/intelligent-design-tucson (Branch: main, Commit: 09242e1)
+13:18:24.162 Cloning completed: 31.786s
+13:18:25.342 Restored build cache from previous deployment (8ceYHrcmFmp44XV4TsJ96ZzUjeFq)
+13:18:25.726 Running "vercel build"
+13:18:26.303 Vercel CLI 50.23.2
+13:18:26.784 Installing dependencies...
+13:18:44.066 
+13:18:44.066 added 34 packages, removed 206 packages, and changed 166 packages in 17s
+13:18:44.066 
+13:18:44.066 161 packages are looking for funding
+13:18:44.066   run `npm fund` for details
+13:18:44.110 Detected Next.js version: 15.5.12
+13:18:44.111 Running "cp -r attached_assets public/attached_assets && next build"
+13:18:44.791    ▲ Next.js 15.5.12
+13:18:44.791 
+13:18:44.871    Creating an optimized production build ...
+13:19:10.983 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (101kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.983 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (122kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.983 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.992 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (109kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.992 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (113kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.992 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (119kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.993 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (101kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.993 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (114kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.993 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (129kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.994 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (118kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.994 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (106kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (124kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (128kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (121kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.995 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.996 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (134kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.996 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (113kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.996 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (108kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.996 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (108kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.997 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (109kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.997 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (140kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.997 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (107kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.998 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (104kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.998 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (102kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.998 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (107kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.998 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (138kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.999 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (118kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.999 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (107kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:10.999 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (126kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.000 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (200kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.000 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (121kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.000 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.000 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (110kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.001 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (120kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.001 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (143kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.001 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (106kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.001 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (103kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.001 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (102kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.002 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (104kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.002 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (153kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.004 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (101kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.004 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (103kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.004 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (147kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.005 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (111kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.006 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (104kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.006 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (108kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.006 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (160kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.006 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (185kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (143kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (138kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (156kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (115kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (106kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.007 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (120kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.008 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (128kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.009 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (132kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.009 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (140kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.010 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (101kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.010 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (113kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.010 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (126kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.010 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (110kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.010 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (117kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.011 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (102kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.011 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (128kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:11.011 <w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (105kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+13:19:20.529  ✓ Compiled successfully in 32.8s
+13:19:20.550    Skipping linting
+13:19:20.551    Checking validity of types ...
+13:19:36.861    Collecting page data ...
+13:19:40.455    Generating static pages (0/1148) ...
+13:19:48.374    Generating static pages (287/1148) 
+13:19:54.344    Generating static pages (574/1148) 
+13:19:56.909 [StructuredData] Rendering 1 schemas
+13:19:57.601 [StructuredData] Rendering 1 schemas
+13:19:57.937 [StructuredData] Rendering 1 schemas
+13:19:57.937 [StructuredData] Rendering 1 schemas
+13:19:58.704    Generating static pages (861/1148) 
+13:20:02.773 [ClientSchemas] Rendering 3 schemas on client
+13:20:02.773 [ClientSchemas] Rendering 3 schemas on client
+13:20:02.774 [ClientSchemas] Rendering 3 schemas on client
+13:20:02.774 [ClientSchemas] Rendering 3 schemas on client
+13:20:02.774 [ClientSchemas] Rendering 3 schemas on client
+13:20:04.944  ✓ Generating static pages (1148/1148)
+13:20:08.677    Finalizing page optimization ...
+13:20:08.677    Collecting build traces ...
+13:20:14.158 
+13:20:14.758 Route (app)                                                                       Size  First Load JS
+13:20:14.759 ┌ ○ /                                                                          3.92 kB         137 kB
+13:20:14.759 ├ ○ /_not-found                                                                  999 B         103 kB
+13:20:14.759 ├ ● /[slug]                                                                      252 B         149 kB
+13:20:14.759 ├   ├ /ac-installation-tucson
+13:20:14.759 ├   ├ /ac-repair-tucson
+13:20:14.760 ├   ├ /ac-service-tucson
+13:20:14.760 ├   └ [+388 more paths]
+13:20:14.760 ├ ○ /about                                                                     3.25 kB         122 kB
+13:20:14.760 ├ ○ /ac-repair-tucson                                                            240 B         143 kB
+13:20:14.760 ├ ○ /ac-system-faqs                                                            3.25 kB         122 kB
+13:20:14.760 ├ ƒ /api/download-redirect-plan                                                  141 B         102 kB
+13:20:14.760 ├ ƒ /api/hvac-inventory-event                                                    141 B         102 kB
+13:20:14.760 ├ ƒ /api/new-homebuyer-offer                                                     141 B         102 kB
+13:20:14.761 ├ ƒ /api/realtors-offer                                                          141 B         102 kB
+13:20:14.761 ├ ○ /blog                                                                      6.31 kB         126 kB
+13:20:14.761 ├ ● /blog/[category]                                                             171 B         106 kB
+13:20:14.761 ├   ├ /blog/hvac
+13:20:14.761 ├   ├ /blog/plumbing
+13:20:14.761 ├   ├ /blog/solar
+13:20:14.761 ├   └ [+6 more paths]
+13:20:14.761 ├ ● /blog/[category]/[slug]                                                    2.74 kB         122 kB
+13:20:14.761 ├   ├ /blog/hvac/10-facts-about-ac-replacement-everyone-should-know
+13:20:14.761 ├   ├ /blog/hvac/10-reasons-you-should-always-call-an-ac-repair-specialist
+13:20:14.761 ├   ├ /blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t
+13:20:14.762 ├   └ [+276 more paths]
+13:20:14.762 ├ ○ /careers                                                                   1.42 kB         104 kB
+13:20:14.762 ├ ○ /contact                                                                   1.26 kB         104 kB
+13:20:14.762 ├ ○ /customer-reviews                                                          4.01 kB         123 kB
+13:20:14.762 ├ ○ /drain-clearing-special                                                      183 B         111 kB
+13:20:14.762 ├ ○ /education-library                                                         3.25 kB         122 kB
+13:20:14.762 ├ ○ /family-protection-plans                                                     183 B         111 kB
+13:20:14.762 ├ ○ /filter-shop                                                               1.26 kB         104 kB
+13:20:14.762 ├ ○ /financing                                                                   240 B         143 kB
+13:20:14.762 ├ ○ /free-hvac-quote                                                             133 B         118 kB
+13:20:14.762 ├ ○ /guarantees                                                                  240 B         143 kB
+13:20:14.762 ├ ○ /icon.png                                                                      0 B            0 B
+13:20:14.762 ├ ○ /inventory-release-event                                                   4.62 kB         120 kB
+13:20:14.762 ├ ○ /knowledge-hub                                                             3.25 kB         122 kB
+13:20:14.762 ├ ○ /new-homebuyer-offer                                                       4.82 kB         124 kB
+13:20:14.762 ├ ○ /privacy-policy                                                            1.04 kB         112 kB
+13:20:14.762 ├ ○ /r22-phaseout                                                              3.25 kB         122 kB
+13:20:14.762 ├ ○ /realtors-offer                                                            5.12 kB         124 kB
+13:20:14.762 ├ ○ /recent-projects                                                           3.25 kB         122 kB
+13:20:14.762 ├ ○ /resources                                                                   171 B         106 kB
+13:20:14.762 ├ ○ /schedule                                                                  3.25 kB         122 kB
+13:20:14.762 ├ ○ /service-areas                                                             3.62 kB         129 kB
+13:20:14.762 ├ ● /service-areas/[slug]                                                       2.4 kB         146 kB
+13:20:14.763 ├   ├ /service-areas/avra-valley
+13:20:14.763 ├   ├ /service-areas/casas-adobes
+13:20:14.763 ├   ├ /service-areas/catalina-foothills
+13:20:14.763 ├   └ [+17 more paths]
+13:20:14.763 ├ ● /services/[service]                                                          497 B         143 kB
+13:20:14.763 ├   ├ /services/ac-installation-tucson
+13:20:14.763 ├   ├ /services/ac-repair-tucson
+13:20:14.763 ├   ├ /services/ac-service-tucson
+13:20:14.763 ├   └ [+270 more paths]
+13:20:14.763 ├ ● /services/[service]/[location]                                               497 B         143 kB
+13:20:14.763 ├   ├ /services/drainsewer/avravalley
+13:20:14.763 ├   ├ /services/drainsewer/casasadobes
+13:20:14.763 ├   ├ /services/drainsewer/catalinafoothills
+13:20:14.763 ├   └ [+137 more paths]
+13:20:14.763 ├ ○ /services/commercial-maintenance                                             183 B         111 kB
+13:20:14.763 ├ ○ /services/drain-clearing-special                                           4.85 kB         119 kB
+13:20:14.763 ├ ○ /services/electrical                                                       2.15 kB         125 kB
+13:20:14.763 ├ ○ /services/hvac                                                             2.15 kB         125 kB
+13:20:14.763 ├ ○ /services/plumbing                                                         2.15 kB         125 kB
+13:20:14.763 ├ ○ /services/roofing                                                          2.15 kB         125 kB
+13:20:14.763 ├ ○ /services/solar                                                            2.15 kB         125 kB
+13:20:14.763 ├ ○ /sitemap.xml                                                                 141 B         102 kB
+13:20:14.764 ├ ○ /special-offers                                                              171 B         106 kB
+13:20:14.764 ├ ○ /video-testimonials                                                        3.25 kB         122 kB
+13:20:14.764 └ ○ /water-heater-quote                                                          132 B         118 kB
+13:20:14.764 + First Load JS shared by all                                                   102 kB
+13:20:14.764   ├ chunks/1255-acb7434cc6da7344.js                                            46.1 kB
+13:20:14.764   ├ chunks/4bd1b696-f785427dddbba9fb.js                                        54.2 kB
+13:20:14.764   └ other shared chunks (total)                                                1.94 kB
+13:20:14.764 
+13:20:14.764 
+13:20:14.764 ƒ Middleware                                                                   5.11 MB
+13:20:14.764 
+13:20:14.764 ○  (Static)   prerendered as static content
+13:20:14.764 ●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+13:20:14.764 ƒ  (Dynamic)  server-rendered on demand
+13:20:14.764 
+13:20:15.498 Traced Next.js server files in: 48.525ms
+13:20:20.810 Warning: Max serverless function size of 250 MB uncompressed reached
+13:20:20.810 Serverless Function's page: blog.js
+13:20:20.814 Large Dependencies                                                                                                                             Uncompressed size
+13:20:20.814 public/attached_assets/generated_images                                                                                                                659.31 MB
+13:20:20.815 public/attached_assets/Intelligent Design VAN_1761068433717.png                                                                                          8.91 MB
+13:20:20.815 public/attached_assets/Intelligent Design VAN_1764097974168.png                                                                                          8.91 MB
+13:20:20.815 public/images/van.png                                                                                                                                    8.91 MB
+13:20:20.815 public/attached_assets/IMG_4622_1765417828247.png                                                                                                        6.64 MB
+13:20:20.815 public/attached_assets/air conditioning contractor in tucson_1761068433717.JPG                                                                           6.38 MB
+13:20:20.815 public/attached_assets/DSC_0039_1761068433717.JPG                                                                                                        6.29 MB
+13:20:20.815 public/attached_assets/IMG_4729_1767197706130.png                                                                                                        3.44 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson_1764622929678.png                                                                         3.43 MB
+13:20:20.816 public/images/hero-van-mission.png                                                                                                                       3.43 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson van_1764623358966.png                                                                     3.42 MB
+13:20:20.816 public/images/hero-van-mission-2.png                                                                                                                     3.42 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson image with van_1764623777548.png                                                          3.12 MB
+13:20:20.816 public/images/hero-van-downtown.png                                                                                                                      3.12 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson dobbins family with van_1764625259233.png                                                 3.09 MB
+13:20:20.816 public/images/hero-family-desktop.png                                                                                                                    3.09 MB
+13:20:20.816 public/images/hero-van-family-2.png                                                                                                                      3.09 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson dobbins family_1764624440390.png                                                          3.04 MB
+13:20:20.816 public/images/hero-van-family.png                                                                                                                        3.04 MB
+13:20:20.816 public/attached_assets/image_1760996445593.png                                                                                                            2.4 MB
+13:20:20.816 public/attached_assets/image_1760996582956.png                                                                                                            2.4 MB
+13:20:20.816 public/attached_assets/image_1760996196143.png                                                                                                           2.38 MB
+13:20:20.816 public/attached_assets/image_1760996333487.png                                                                                                           2.38 MB
+13:20:20.816 public/attached_assets/image_1761069944155.png                                                                                                           2.18 MB
+13:20:20.816 public/attached_assets/image_1760735407569.png                                                                                                           2.11 MB
+13:20:20.816 public/attached_assets/image_1760737982581.png                                                                                                           2.08 MB
+13:20:20.816 public/attached_assets/image_1760735217175.png                                                                                                           2.04 MB
+13:20:20.816 public/images/hero-background.png                                                                                                                        1.97 MB
+13:20:20.816 node_modules/react-dom/cjs                                                                                                                               1.95 MB
+13:20:20.816 public/attached_assets/image_1771430985188.png                                                                                                           1.92 MB
+13:20:20.816 public/attached_assets/image_1763764976134.png                                                                                                           1.82 MB
+13:20:20.816 public/attached_assets/image_1763524401293.png                                                                                                           1.79 MB
+13:20:20.816 public/attached_assets/IMG_4625_1765420390183.png                                                                                                        1.65 MB
+13:20:20.816 public/attached_assets/IMG_4624_1765419930889.png                                                                                                        1.65 MB
+13:20:20.816 public/images/family-protection-hero.png                                                                                                                  1.4 MB
+13:20:20.816 node_modules/next/dist                                                                                                                                   1.27 MB
+13:20:20.816 public/attached_assets/intelligent design home services tucson dobbins family with van tablet_1764626024979.png                                          1.25 MB
+13:20:20.816 public/images/hero-family-tablet.png                                                                                                                     1.25 MB
+13:20:20.817 public/attached_assets/image_1762968161204.png                                                                                                           1.17 MB
+13:20:20.817 public/attached_assets/image_1762795464336.png                                                                                                           1.16 MB
+13:20:20.817 public/attached_assets/image_1769722023172.png                                                                                                           1.12 MB
+13:20:20.817 public/attached_assets/intelligent design home services tucson dobbins family with van mobile_1764626032051.png                                          1.05 MB
+13:20:20.817 public/images/hero-family-mobile.png                                                                                                                     1.05 MB
+13:20:20.817 .next/prerender-manifest.json                                                                                                                            1.03 MB
+13:20:20.817 public/attached_assets/image_1769722039785.png                                                                                                        1016.27 KB
+13:20:20.817 public/attached_assets/image_1766080730215.png                                                                                                         963.36 KB
+13:20:20.817 public/attached_assets/image_1766080894255.png                                                                                                         963.36 KB
+13:20:20.817 public/attached_assets/image_1769721983109.png                                                                                                          947.5 KB
+13:20:20.817 public/attached_assets/image_1769722002222.png                                                                                                         943.62 KB
+13:20:20.817 .next/server/chunks                                                                                                                                    931.49 KB
+13:20:20.817 public/attached_assets/image_1768426791684.png                                                                                                         901.24 KB
+13:20:20.817 public/attached_assets/image_1763507904719.png                                                                                                         900.21 KB
+13:20:20.817 public/attached_assets/image_1763523739153.png                                                                                                          877.7 KB
+13:20:20.817 public/attached_assets/image_1769721956897.png                                                                                                         848.21 KB
+13:20:20.817 public/attached_assets/IMG_4740_1767203024467.png                                                                                                      841.21 KB
+13:20:20.817 public/attached_assets/image_1763523822206.png                                                                                                         728.63 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173698054_1761173698056.txt          700.98 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761153129425_1761153129426.txt          683.67 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761083582649_1761083582651.txt          672.34 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761072380891_1761072380893.txt          671.87 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173690537_1761173690539.txt          670.41 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761085852580_1761085852582.txt          668.02 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173682789_1761173682791.txt          667.24 KB
+13:20:20.817 public/attached_assets/image_1765921223865.png                                                                                                         659.68 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173674989_1761173674991.txt          659.29 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608928024_1763608928026.txt          648.84 KB
+13:20:20.817 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761169159058_1761169159060.txt          643.16 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165711239_1761165711241.txt          639.48 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761150980368_1761150980370.txt          635.96 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761161330799_1761161330801.txt          632.53 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761692009927_1761692009929.txt          631.09 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608789608_1763608789611.txt          630.17 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609465647_1763609465649.txt          621.53 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1764094795800_1764094795802.txt          618.39 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610370992_1763610370995.txt          618.18 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173714017_1761173714018.txt          618.08 KB
+13:20:20.818 public/images/plans                                                                                                                                     617.4 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609395555_1763609395557.txt          616.32 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610383581_1763610383583.txt          614.79 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173704760_1761173704762.txt          614.15 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761691990969_1761691990972.txt          612.86 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165723352_1761165723354.txt          609.17 KB
+13:20:20.818 public/attached_assets/image_1761773038901.png                                                                                                          605.2 KB
+13:20:20.818 public/attached_assets/image_1769720390555.png                                                                                                         550.71 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609825290_1763609825292.txt          532.13 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609310788_1763609310790.txt          526.71 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609323738_1763609323739.txt          525.77 KB
+13:20:20.818 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609336740_1763609336742.txt          517.26 KB
+13:20:20.818 public/attached_assets/image_1760740988320.png                                                                                                         501.09 KB
+13:20:20.818 
+13:20:20.818 All dependencies                                                                                                                                       841.68 MB
+13:20:20.818 Serverless Function's page: blog/[category]/[slug].js
+13:20:20.819 Large Dependencies                                                                                                                             Uncompressed size
+13:20:20.819 public/attached_assets/generated_images                                                                                                                659.31 MB
+13:20:20.819 public/attached_assets/Intelligent Design VAN_1761068433717.png                                                                                          8.91 MB
+13:20:20.819 public/attached_assets/Intelligent Design VAN_1764097974168.png                                                                                          8.91 MB
+13:20:20.819 public/images/van.png                                                                                                                                    8.91 MB
+13:20:20.819 public/attached_assets/IMG_4622_1765417828247.png                                                                                                        6.64 MB
+13:20:20.819 public/attached_assets/air conditioning contractor in tucson_1761068433717.JPG                                                                           6.38 MB
+13:20:20.819 public/attached_assets/DSC_0039_1761068433717.JPG                                                                                                        6.29 MB
+13:20:20.819 public/attached_assets/IMG_4729_1767197706130.png                                                                                                        3.44 MB
+13:20:20.819 public/attached_assets/intelligent design home services tucson_1764622929678.png                                                                         3.43 MB
+13:20:20.819 public/images/hero-van-mission.png                                                                                                                       3.43 MB
+13:20:20.819 public/attached_assets/intelligent design home services tucson van_1764623358966.png                                                                     3.42 MB
+13:20:20.819 public/images/hero-van-mission-2.png                                                                                                                     3.42 MB
+13:20:20.819 public/attached_assets/intelligent design home services tucson image with van_1764623777548.png                                                          3.12 MB
+13:20:20.819 public/images/hero-van-downtown.png                                                                                                                      3.12 MB
+13:20:20.819 public/attached_assets/intelligent design home services tucson dobbins family with van_1764625259233.png                                                 3.09 MB
+13:20:20.820 public/images/hero-family-desktop.png                                                                                                                    3.09 MB
+13:20:20.820 public/images/hero-van-family-2.png                                                                                                                      3.09 MB
+13:20:20.820 public/attached_assets/intelligent design home services tucson dobbins family_1764624440390.png                                                          3.04 MB
+13:20:20.820 public/images/hero-van-family.png                                                                                                                        3.04 MB
+13:20:20.820 public/attached_assets/image_1760996445593.png                                                                                                            2.4 MB
+13:20:20.820 public/attached_assets/image_1760996582956.png                                                                                                            2.4 MB
+13:20:20.820 public/attached_assets/image_1760996196143.png                                                                                                           2.38 MB
+13:20:20.820 public/attached_assets/image_1760996333487.png                                                                                                           2.38 MB
+13:20:20.820 public/attached_assets/image_1761069944155.png                                                                                                           2.18 MB
+13:20:20.820 public/attached_assets/image_1760735407569.png                                                                                                           2.11 MB
+13:20:20.820 public/attached_assets/image_1760737982581.png                                                                                                           2.08 MB
+13:20:20.820 public/attached_assets/image_1760735217175.png                                                                                                           2.04 MB
+13:20:20.820 public/images/hero-background.png                                                                                                                        1.97 MB
+13:20:20.820 node_modules/react-dom/cjs                                                                                                                               1.95 MB
+13:20:20.820 public/attached_assets/image_1771430985188.png                                                                                                           1.92 MB
+13:20:20.820 public/attached_assets/image_1763764976134.png                                                                                                           1.82 MB
+13:20:20.820 public/attached_assets/image_1763524401293.png                                                                                                           1.79 MB
+13:20:20.820 public/attached_assets/IMG_4625_1765420390183.png                                                                                                        1.65 MB
+13:20:20.820 public/attached_assets/IMG_4624_1765419930889.png                                                                                                        1.65 MB
+13:20:20.820 public/images/family-protection-hero.png                                                                                                                  1.4 MB
+13:20:20.820 node_modules/next/dist                                                                                                                                   1.27 MB
+13:20:20.820 public/attached_assets/intelligent design home services tucson dobbins family with van tablet_1764626024979.png                                          1.25 MB
+13:20:20.820 public/images/hero-family-tablet.png                                                                                                                     1.25 MB
+13:20:20.820 public/attached_assets/image_1762968161204.png                                                                                                           1.17 MB
+13:20:20.820 public/attached_assets/image_1762795464336.png                                                                                                           1.16 MB
+13:20:20.820 public/attached_assets/image_1769722023172.png                                                                                                           1.12 MB
+13:20:20.820 public/attached_assets/intelligent design home services tucson dobbins family with van mobile_1764626032051.png                                          1.05 MB
+13:20:20.820 public/images/hero-family-mobile.png                                                                                                                     1.05 MB
+13:20:20.820 .next/prerender-manifest.json                                                                                                                            1.03 MB
+13:20:20.820 public/attached_assets/image_1769722039785.png                                                                                                        1016.27 KB
+13:20:20.820 public/attached_assets/image_1766080730215.png                                                                                                         963.36 KB
+13:20:20.820 public/attached_assets/image_1766080894255.png                                                                                                         963.36 KB
+13:20:20.820 public/attached_assets/image_1769721983109.png                                                                                                          947.5 KB
+13:20:20.820 public/attached_assets/image_1769722002222.png                                                                                                         943.62 KB
+13:20:20.821 .next/server/chunks                                                                                                                                    941.65 KB
+13:20:20.821 public/attached_assets/image_1768426791684.png                                                                                                         901.24 KB
+13:20:20.821 public/attached_assets/image_1763507904719.png                                                                                                         900.21 KB
+13:20:20.821 public/attached_assets/image_1763523739153.png                                                                                                          877.7 KB
+13:20:20.821 public/attached_assets/image_1769721956897.png                                                                                                         848.21 KB
+13:20:20.821 public/attached_assets/IMG_4740_1767203024467.png                                                                                                      841.21 KB
+13:20:20.821 public/attached_assets/image_1763523822206.png                                                                                                         728.63 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173698054_1761173698056.txt          700.98 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761153129425_1761153129426.txt          683.67 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761083582649_1761083582651.txt          672.34 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761072380891_1761072380893.txt          671.87 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173690537_1761173690539.txt          670.41 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761085852580_1761085852582.txt          668.02 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173682789_1761173682791.txt          667.24 KB
+13:20:20.821 public/attached_assets/image_1765921223865.png                                                                                                         659.68 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173674989_1761173674991.txt          659.29 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608928024_1763608928026.txt          648.84 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761169159058_1761169159060.txt          643.16 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165711239_1761165711241.txt          639.48 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761150980368_1761150980370.txt          635.96 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761161330799_1761161330801.txt          632.53 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761692009927_1761692009929.txt          631.09 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608789608_1763608789611.txt          630.17 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609465647_1763609465649.txt          621.53 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1764094795800_1764094795802.txt          618.39 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610370992_1763610370995.txt          618.18 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173714017_1761173714018.txt          618.08 KB
+13:20:20.821 public/images/plans                                                                                                                                     617.4 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609395555_1763609395557.txt          616.32 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610383581_1763610383583.txt          614.79 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173704760_1761173704762.txt          614.15 KB
+13:20:20.821 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761691990969_1761691990972.txt          612.86 KB
+13:20:20.822 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165723352_1761165723354.txt          609.17 KB
+13:20:20.822 public/attached_assets/image_1761773038901.png                                                                                                          605.2 KB
+13:20:20.822 public/attached_assets/image_1769720390555.png                                                                                                         550.71 KB
+13:20:20.822 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609825290_1763609825292.txt          532.13 KB
+13:20:20.822 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609310788_1763609310790.txt          526.71 KB
+13:20:20.822 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609323738_1763609323739.txt          525.77 KB
+13:20:20.822 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609336740_1763609336742.txt          517.26 KB
+13:20:20.822 public/attached_assets/image_1760740988320.png                                                                                                         501.09 KB
+13:20:20.822 
+13:20:20.822 All dependencies                                                                                                                                       841.77 MB
+13:20:20.822 Serverless Function's page: blog/[category].js
+13:20:20.824 Large Dependencies                                                                                                                             Uncompressed size
+13:20:20.824 public/attached_assets/generated_images                                                                                                                659.31 MB
+13:20:20.824 public/attached_assets/Intelligent Design VAN_1761068433717.png                                                                                          8.91 MB
+13:20:20.824 public/attached_assets/Intelligent Design VAN_1764097974168.png                                                                                          8.91 MB
+13:20:20.824 public/images/van.png                                                                                                                                    8.91 MB
+13:20:20.824 public/attached_assets/IMG_4622_1765417828247.png                                                                                                        6.64 MB
+13:20:20.824 public/attached_assets/air conditioning contractor in tucson_1761068433717.JPG                                                                           6.38 MB
+13:20:20.824 public/attached_assets/DSC_0039_1761068433717.JPG                                                                                                        6.29 MB
+13:20:20.824 public/attached_assets/IMG_4729_1767197706130.png                                                                                                        3.44 MB
+13:20:20.824 public/attached_assets/intelligent design home services tucson_1764622929678.png                                                                         3.43 MB
+13:20:20.824 public/images/hero-van-mission.png                                                                                                                       3.43 MB
+13:20:20.824 public/attached_assets/intelligent design home services tucson van_1764623358966.png                                                                     3.42 MB
+13:20:20.824 public/images/hero-van-mission-2.png                                                                                                                     3.42 MB
+13:20:20.824 public/attached_assets/intelligent design home services tucson image with van_1764623777548.png                                                          3.12 MB
+13:20:20.824 public/images/hero-van-downtown.png                                                                                                                      3.12 MB
+13:20:20.824 public/attached_assets/intelligent design home services tucson dobbins family with van_1764625259233.png                                                 3.09 MB
+13:20:20.824 public/images/hero-family-desktop.png                                                                                                                    3.09 MB
+13:20:20.824 public/images/hero-van-family-2.png                                                                                                                      3.09 MB
+13:20:20.824 public/attached_assets/intelligent design home services tucson dobbins family_1764624440390.png                                                          3.04 MB
+13:20:20.824 public/images/hero-van-family.png                                                                                                                        3.04 MB
+13:20:20.824 public/attached_assets/image_1760996445593.png                                                                                                            2.4 MB
+13:20:20.824 public/attached_assets/image_1760996582956.png                                                                                                            2.4 MB
+13:20:20.824 public/attached_assets/image_1760996196143.png                                                                                                           2.38 MB
+13:20:20.824 public/attached_assets/image_1760996333487.png                                                                                                           2.38 MB
+13:20:20.824 public/attached_assets/image_1761069944155.png                                                                                                           2.18 MB
+13:20:20.824 public/attached_assets/image_1760735407569.png                                                                                                           2.11 MB
+13:20:20.824 public/attached_assets/image_1760737982581.png                                                                                                           2.08 MB
+13:20:20.824 public/attached_assets/image_1760735217175.png                                                                                                           2.04 MB
+13:20:20.824 public/images/hero-background.png                                                                                                                        1.97 MB
+13:20:20.825 node_modules/react-dom/cjs                                                                                                                               1.95 MB
+13:20:20.825 public/attached_assets/image_1771430985188.png                                                                                                           1.92 MB
+13:20:20.825 public/attached_assets/image_1763764976134.png                                                                                                           1.82 MB
+13:20:20.825 public/attached_assets/image_1763524401293.png                                                                                                           1.79 MB
+13:20:20.825 public/attached_assets/IMG_4625_1765420390183.png                                                                                                        1.65 MB
+13:20:20.825 public/attached_assets/IMG_4624_1765419930889.png                                                                                                        1.65 MB
+13:20:20.825 public/images/family-protection-hero.png                                                                                                                  1.4 MB
+13:20:20.825 node_modules/next/dist                                                                                                                                   1.27 MB
+13:20:20.825 public/attached_assets/intelligent design home services tucson dobbins family with van tablet_1764626024979.png                                          1.25 MB
+13:20:20.825 public/images/hero-family-tablet.png                                                                                                                     1.25 MB
+13:20:20.825 public/attached_assets/image_1762968161204.png                                                                                                           1.17 MB
+13:20:20.825 public/attached_assets/image_1762795464336.png                                                                                                           1.16 MB
+13:20:20.825 public/attached_assets/image_1769722023172.png                                                                                                           1.12 MB
+13:20:20.825 public/attached_assets/intelligent design home services tucson dobbins family with van mobile_1764626032051.png                                          1.05 MB
+13:20:20.825 public/images/hero-family-mobile.png                                                                                                                     1.05 MB
+13:20:20.825 .next/prerender-manifest.json                                                                                                                            1.03 MB
+13:20:20.825 public/attached_assets/image_1769722039785.png                                                                                                        1016.27 KB
+13:20:20.825 public/attached_assets/image_1766080730215.png                                                                                                         963.36 KB
+13:20:20.825 public/attached_assets/image_1766080894255.png                                                                                                         963.36 KB
+13:20:20.825 public/attached_assets/image_1769721983109.png                                                                                                          947.5 KB
+13:20:20.825 public/attached_assets/image_1769722002222.png                                                                                                         943.62 KB
+13:20:20.825 .next/server/chunks                                                                                                                                    931.49 KB
+13:20:20.825 public/attached_assets/image_1768426791684.png                                                                                                         901.24 KB
+13:20:20.825 public/attached_assets/image_1763507904719.png                                                                                                         900.21 KB
+13:20:20.825 public/attached_assets/image_1763523739153.png                                                                                                          877.7 KB
+13:20:20.825 public/attached_assets/image_1769721956897.png                                                                                                         848.21 KB
+13:20:20.825 public/attached_assets/IMG_4740_1767203024467.png                                                                                                      841.21 KB
+13:20:20.825 public/attached_assets/image_1763523822206.png                                                                                                         728.63 KB
+13:20:20.825 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173698054_1761173698056.txt          700.98 KB
+13:20:20.825 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761153129425_1761153129426.txt          683.67 KB
+13:20:20.825 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761083582649_1761083582651.txt          672.34 KB
+13:20:20.826 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761072380891_1761072380893.txt          671.87 KB
+13:20:20.826 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173690537_1761173690539.txt          670.41 KB
+13:20:20.826 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761085852580_1761085852582.txt          668.02 KB
+13:20:20.826 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173682789_1761173682791.txt          667.24 KB
+13:20:20.826 public/attached_assets/image_1765921223865.png                                                                                                         659.68 KB
+13:20:20.826 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173674989_1761173674991.txt          659.29 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608928024_1763608928026.txt          648.84 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761169159058_1761169159060.txt          643.16 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165711239_1761165711241.txt          639.48 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761150980368_1761150980370.txt          635.96 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761161330799_1761161330801.txt          632.53 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761692009927_1761692009929.txt          631.09 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763608789608_1763608789611.txt          630.17 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609465647_1763609465649.txt          621.53 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1764094795800_1764094795802.txt          618.39 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610370992_1763610370995.txt          618.18 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173714017_1761173714018.txt          618.08 KB
+13:20:20.834 public/images/plans                                                                                                                                     617.4 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609395555_1763609395557.txt          616.32 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763610383581_1763610383583.txt          614.79 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761173704760_1761173704762.txt          614.15 KB
+13:20:20.834 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761691990969_1761691990972.txt          612.86 KB
+13:20:20.835 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1761165723352_1761165723354.txt          609.17 KB
+13:20:20.835 public/attached_assets/image_1761773038901.png                                                                                                          605.2 KB
+13:20:20.835 public/attached_assets/image_1769720390555.png                                                                                                         550.71 KB
+13:20:20.835 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609825290_1763609825292.txt          532.13 KB
+13:20:20.835 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609310788_1763609310790.txt          526.71 KB
+13:20:20.835 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609323738_1763609323739.txt          525.77 KB
+13:20:20.835 public/attached_assets/Pasted--DOCTYPE-html-html-lang-en-US-prefix-og-https-ogp-me-ns-head-script-var-gform-g-1763609336740_1763609336742.txt          517.26 KB
+13:20:20.835 public/attached_assets/image_1760740988320.png                                                                                                         501.09 KB
+13:20:20.835 
+13:20:20.835 All dependencies                                                                                                                                       841.69 MB
+13:20:20.835 Max serverless function size was exceeded for 3 functions
+13:20:20.874 Created all serverless functions in: 5.375s
+13:20:21.895 Error: Can't build edge function /: Exceeds maximum edge function size: 4.88 MB / 4 MB
