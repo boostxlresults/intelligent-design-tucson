@@ -143,7 +143,7 @@ export default function PulseMWidget({
       const script = document.createElement('script');
       script.id = 'pulsem-embed-gsd';
       script.src = 'https://static.speetra.com/embed-pulsemweb-gsd.js';
-      script.setAttribute('data-id', '3c6726153cb6483806907b70d6fae3496e2ef6d0a4077d6259c4407abcd67caf');
+      script.setAttribute('data-id', process.env.NEXT_PUBLIC_PULSEM_DATA_ID || '');
       script.defer = true;
       document.body.appendChild(script);
     }

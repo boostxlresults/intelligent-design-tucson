@@ -19,7 +19,7 @@ The RealWorkLabs widget displays real customer projects with before/after photos
 Located at: `components/integrations/RealWorkLabsWidget.tsx`
 
 **Available Props:**
-- `apiKey` - Default: 'Mv2yZInBciS35Sln' (public client key)
+- `apiKey` - Default: uses NEXT_PUBLIC_RWL_API_KEY environment variable
 - `serviceType` - Options: 'hvac' | 'plumbing' | 'solar' | 'electrical' | 'roofing' | 'all'
 - `zipCode` - Filter by specific zip code for location targeting
 - `limit` - Number of projects to display (default: 12)

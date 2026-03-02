@@ -7,7 +7,7 @@ export default function BroccoliChat() {
     <Script
       id="broccoli-chat"
       src="https://cdn.broccoli.com/script.js"
-      data-id="d9cc73ef-3d59-4cfa-968f-b26e6ab24416"
+      data-id={process.env.NEXT_PUBLIC_BROCCOLI_CHAT_ID || ""}
       strategy="lazyOnload"
     />
   );

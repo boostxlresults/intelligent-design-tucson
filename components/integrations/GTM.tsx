@@ -9,7 +9,7 @@ import Script from "next/script";
  * while still loading early enough for accurate analytics
  */
 export default function GTM() {
-  const id = "GTM-WKG99GJ";
+  const id = process.env.NEXT_PUBLIC_GTM_ID || "";
 
   return (
     <>
