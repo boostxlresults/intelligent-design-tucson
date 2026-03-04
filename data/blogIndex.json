@@ -1,6 +1,25 @@
 {
   "posts": [
     {
+      "slug": "prepare-ac-monsoon-season-tucson",
+      "title": "How to Prepare Your AC for Tucson's Monsoon Season",
+      "description": "Learn how Tucson's monsoon season impacts your AC and discover expert tips from Intelligent Design to keep your system running smoothly and efficiently.",
+      "category": "hvac",
+      "tags": [
+        "hvac-maintenance",
+        "ac-repair",
+        "ac-installation",
+        "cooling",
+        "heating",
+        "tucson"
+      ],
+      "heroImage": "/generated_images/hvac_default.png",
+      "publishedAt": "2026-03-04T20:36:07.000Z",
+      "author": "Intelligent Design Team",
+      "readingTime": 9,
+      "featured": false
+    },
+    {
       "slug": "ac-making-strange-noises-what-they-mean",
       "title": "Is Your AC Making Strange Noises? Here's What Each Sound Means",
       "description": "Wondering why your AC is making strange noises? Discover what each sound means and how Intelligent Design in Tucson AZ can help troubleshoot and fix your unit.",
