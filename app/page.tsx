@@ -1,5 +1,7 @@
 import { Metadata } from "next";
 import { getPageSchemas } from "@/lib/seo/schemaRegistry";
+import { generateProjectShowcaseSchemas } from "@/lib/seo/generateProjectShowcaseSchema";
+import { getLocationProjectReviews } from "@/data/projectReviews";
 import Hero from "@/components/content/Hero";
 import TrustBar from "@/components/content/TrustBar";
 import ServiceTiles from "@/components/content/ServiceTiles";
@@ -8,7 +10,8 @@ import ContactCard from "@/components/content/ContactCard";
 import BadgeWall from "@/components/content/BadgeWall";
 import RichText from "@/components/content/RichText";
 import ServiceFAQ from "@/components/content/ServiceFAQ";
-import { CheckCircle2 } from "lucide-react";
+import { Card, CardContent } from "@/components/ui/card";
+import { CheckCircle2, Star } from "lucide-react";
 import { homeData } from "@/data/pages/services/home";
 
 export const metadata: Metadata = {
@@ -55,6 +58,16 @@ export default function Home() {
     pageType: 'homepage',
     canonicalUrl: 'https://www.idesignac.com'
   });
+
+  // Add project showcase schemas for RealWorkLabs widget indexability
+  const projectReviews = getLocationProjectReviews('tucson');
+  const projectSchemas = generateProjectShowcaseSchemas({
+    locationName: 'Tucson',
+    locationSlug: 'tucson',
+    canonicalUrl: 'https://www.idesignac.com',
+    reviews: projectReviews,
+  });
+  schemas.push(...projectSchemas);
 
   // Consolidate all schemas into a single @graph block for Turbopack compatibility
   const schemaGraph = {
@@ -145,9 +158,37 @@ export default function Home() {
                         Recent Projects in Your Neighborhood
                       </h3>
                       <p className="text-center text-muted-foreground mb-6 max-w-2xl mx-auto">
-                        See real installations and repairs we've completed for Tucson homeowners just like you.
+                        See real installations and repairs we&apos;ve completed for Tucson homeowners just like you.
                       </p>
                       <div id="rwl-output" className="min-h-[400px]" data-testid="rwl-output-inline" />
+                      <div className="mt-10" data-testid="section-home-project-reviews">
+                        <h4 className="text-lg font-semibold mb-4">
+                          What Tucson Homeowners Are Saying About Our Work
+                        </h4>
+                        <p className="text-muted-foreground mb-6">
+                          Our HVAC, plumbing, solar, electrical, roofing, and drain projects across the Tucson metro area showcase the quality workmanship
+                          that has earned Intelligent Design over 23,000 five-star reviews.
+                        </p>
+                        <div className="grid gap-4 md:grid-cols-2">
+                          {projectReviews.slice(0, 4).map((review, idx) => (
+                            <Card key={idx} className="p-4" data-testid={`card-home-project-review-${idx}`}>
+                              <CardContent className="p-0">
+                                <div className="flex items-center gap-1 mb-2">
+                                  {Array.from({ length: review.rating }).map((_, i) => (
+                                    <Star key={i} className="w-3.5 h-3.5 fill-yellow-500 text-yellow-500" aria-hidden="true" />
+                                  ))}
+                                  <span className="text-xs text-muted-foreground ml-2">{review.serviceType}</span>
+                                </div>
+                                <p className="text-sm mb-2 line-clamp-3">{review.reviewBody}</p>
+                                <div className="flex items-center justify-between gap-2">
+                                  <span className="text-xs font-medium">{review.author}</span>
+                                  <span className="text-xs text-muted-foreground">{review.projectDescription}</span>
+                                </div>
+                              </CardContent>
+                            </Card>
+                          ))}
+                        </div>
+                      </div>
                     </div>
                   );
                 }
