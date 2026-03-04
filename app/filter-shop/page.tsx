@@ -35,7 +35,7 @@ export default function FilterShopPage() {
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="max-w-5xl mx-auto">
               {/* Widget loads here via Contractor Commerce plugin */}
-              <div id="concom-navigator" navigator-key={process.env.NEXT_PUBLIC_CONCOM_FILTER_KEY} className="min-h-[600px]" data-testid="widget-filter-shop" />
+              <div id="concom-navigator" navigator-key="uaab4SY6TlT6rnz5" className="min-h-[600px]" data-testid="widget-filter-shop" />
             </div>
           </div>
         </section>

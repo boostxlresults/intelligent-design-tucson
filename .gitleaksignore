@@ -1,0 +1,14 @@
+components/integrations/ServiceTitanScheduler.tsx
+components/integrations/DNIInjector.tsx
+components/integrations/BroccoliChat.tsx
+components/integrations/RealWorkLabs.tsx
+components/integrations/RealWorkLabsLoader.tsx
+components/integrations/GTM.tsx
+components/integrations/PulseMWidget.tsx
+components/integrations/WhoHireWidget.tsx
+components/integrations/ContractorCommercePlugin.tsx
+app/filter-shop/page.tsx
+app/free-hvac-quote/page.tsx
+app/water-heater-quote/page.tsx
+REALWORKLABS_IMPLEMENTATION_PLAN.md
+attached_assets/*

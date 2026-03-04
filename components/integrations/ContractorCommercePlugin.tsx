@@ -3,7 +3,7 @@
 import Script from 'next/script';
 
 export default function ContractorCommercePlugin() {
-  const PLUGIN_KEY = process.env.NEXT_PUBLIC_CONCOM_PLUGIN_KEY || "";
+  const PLUGIN_KEY = "D32QhwUokdL5YZLParGpbxc7TuBTkYanGNQSR4zd";
   
   return (
     <Script

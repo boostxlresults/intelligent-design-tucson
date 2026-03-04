@@ -30,7 +30,7 @@ export default function DNIInjector() {
               return q[t];
             })(window,document,'script','https://static.servicetitan.com/marketing-ads/dni.js','dni');
             
-            dni('init', '${process.env.NEXT_PUBLIC_ST_DNI_ID || ""}');
+            dni('init', '227669022');
             
             if (document.readyState === 'complete') {
               dni('load');

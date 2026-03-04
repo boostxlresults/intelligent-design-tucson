@@ -2,8 +2,8 @@
 
 import { useCallback, useEffect, useState } from "react";
 
-const API_KEY = process.env.NEXT_PUBLIC_ST_SCHEDULER_API_KEY || "";
-const SCHEDULER_ID = process.env.NEXT_PUBLIC_ST_SCHEDULER_ID || "";
+const API_KEY = "m1cp1a9zj306h48ohavpwg8w";
+const SCHEDULER_ID = "sched_vwgezlwi56yyvwdb0nzlng14";
 
 let schedulerLoaded = false;
 let schedulerLoading = false;

@@ -165,7 +165,7 @@ export default function FreeHVACQuotePage() {
       <section className="py-12 md:py-16">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-5xl mx-auto">
-            <div id="concom-navigator" navigator-key={process.env.NEXT_PUBLIC_CONCOM_HVAC_KEY} className="min-h-[600px]" data-testid="widget-hvac-quote" />
+            <div id="concom-navigator" navigator-key="NzdTlJWvihCCWjsf" className="min-h-[600px]" data-testid="widget-hvac-quote" />
           </div>
         </div>
       </section>

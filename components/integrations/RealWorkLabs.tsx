@@ -3,7 +3,7 @@
 import { useEffect, useState, useRef, useCallback } from "react";
 import { getRealWorkLabsId } from "@/lib/realworklabs-mapping";
 
-const RWL_API_KEY = process.env.NEXT_PUBLIC_RWL_API_KEY || "";
+const RWL_API_KEY = "Mv2yZInBciS35Sln";
 const RWL_BASE_URL = "https://app.realworklabs.com";
 
 let rwlScriptLoaded = false;

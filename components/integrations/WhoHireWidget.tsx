@@ -28,7 +28,7 @@ export default function WhoHireWidget() {
     <div className="my-8 min-h-[400px]">
       <div 
         id="hirewho-plugin" 
-        data-slug={process.env.NEXT_PUBLIC_WHOHIRE_SLUG || ""}
+        data-slug="intelligentdesignairconditioningplumbingroofingsolarelectric"
         data-testid="whohire-widget"
       />
     </div>

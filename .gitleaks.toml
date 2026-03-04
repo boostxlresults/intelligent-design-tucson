@@ -1,0 +1,10 @@
+[allowlist]
+description = "Public client-side widget keys - visible in browser HTML"
+paths = [
+  '''components/integrations/.*\.tsx''',
+  '''app/filter-shop/page\.tsx''',
+  '''app/free-hvac-quote/page\.tsx''',
+  '''app/water-heater-quote/page\.tsx''',
+  '''REALWORKLABS_IMPLEMENTATION_PLAN\.md''',
+  '''attached_assets/.*''',
+]
