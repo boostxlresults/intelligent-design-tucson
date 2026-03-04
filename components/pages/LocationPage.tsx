@@ -11,6 +11,7 @@ import RichText from "@/components/content/RichText";
 import type { LocationPageData } from "@/types/services";
 import { RealWorkLabsMap } from "@/components/integrations/RealWorkLabs";
 import { hasRealWorkLabsMap } from "@/lib/realworklabs-mapping";
+import { getLocationProjectReviews } from "@/data/projectReviews";
 import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 import LocalBlogPosts from "@/components/locations/LocalBlogPosts";
@@ -26,7 +27,8 @@ import {
   ArrowRight,
   Phone,
   CheckCircle2,
-  MapPin
+  MapPin,
+  Star
 } from "lucide-react";
 
 function generateSlug(text: string): string {
@@ -261,28 +263,60 @@ export default function LocationPage({ data, schemas, relatedBlogPosts }: Locati
       </section>
 
       {/* Recent Projects Map - RealWorkLabs Integration (only shown for mapped locations) */}
-      {hasRealWorkLabsMap(data.slug) && (
-        <section id="recent-projects" className="py-16 bg-muted/30 scroll-mt-20">
-          <div className="container mx-auto px-4 max-w-7xl">
-            <div className="text-center mb-8">
-              <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
-                <MapPin className="w-8 h-8 text-primary" />
+      {hasRealWorkLabsMap(data.slug) && (() => {
+        const projectReviews = getLocationProjectReviews(data.slug);
+        const serviceTypes = [...new Set(projectReviews.map(r => r.serviceType))];
+        return (
+          <section id="recent-projects" className="py-16 bg-muted/30 scroll-mt-20">
+            <div className="container mx-auto px-4 max-w-7xl">
+              <div className="text-center mb-8">
+                <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-primary/10 mb-4">
+                  <MapPin className="w-8 h-8 text-primary" />
+                </div>
+                <h2 className="text-3xl font-bold mb-3" data-testid="heading-recent-projects">
+                  Recent Projects in {data.locationName}
+                </h2>
+                <p className="text-muted-foreground max-w-2xl mx-auto">
+                  See our completed HVAC, plumbing, solar, electrical, and roofing projects near you. 
+                  Real work, real results for {data.locationDisplayName} homeowners.
+                </p>
               </div>
-              <h2 className="text-3xl font-bold mb-3" data-testid="heading-recent-projects">
-                Recent Projects in {data.locationName}
-              </h2>
-              <p className="text-muted-foreground max-w-2xl mx-auto">
-                See our completed HVAC, plumbing, solar, electrical, and roofing projects near you. 
-                Real work, real results for {data.locationDisplayName} homeowners.
-              </p>
+              <RealWorkLabsMap 
+                locationSlug={data.slug} 
+                className="min-h-[400px] rounded-lg overflow-hidden"
+              />
+              <div className="mt-10 max-w-4xl mx-auto" data-testid="section-project-summaries">
+                <h3 className="text-xl font-semibold mb-4">
+                  What {data.locationName} Homeowners Are Saying
+                </h3>
+                <p className="text-muted-foreground mb-6">
+                  Our {serviceTypes.join(', ').replace(/, ([^,]*)$/, ', and $1')} projects in {data.locationDisplayName} showcase the quality workmanship 
+                  that has earned Intelligent Design over 23,000 five-star reviews across the Tucson metro area.
+                </p>
+                <div className="grid gap-4 md:grid-cols-2">
+                  {projectReviews.slice(0, 4).map((review, idx) => (
+                    <Card key={idx} className="p-4" data-testid={`card-project-review-${idx}`}>
+                      <CardContent className="p-0">
+                        <div className="flex items-center gap-1 mb-2">
+                          {Array.from({ length: review.rating }).map((_, i) => (
+                            <Star key={i} className="w-3.5 h-3.5 fill-yellow-500 text-yellow-500" aria-hidden="true" />
+                          ))}
+                          <span className="text-xs text-muted-foreground ml-2">{review.serviceType}</span>
+                        </div>
+                        <p className="text-sm mb-2 line-clamp-3">{review.reviewBody}</p>
+                        <div className="flex items-center justify-between gap-2">
+                          <span className="text-xs font-medium">{review.author}</span>
+                          <span className="text-xs text-muted-foreground">{review.projectDescription}</span>
+                        </div>
+                      </CardContent>
+                    </Card>
+                  ))}
+                </div>
+              </div>
             </div>
-            <RealWorkLabsMap 
-              locationSlug={data.slug} 
-              className="min-h-[400px] rounded-lg overflow-hidden"
-            />
-          </div>
-        </section>
-      )}
+          </section>
+        );
+      })()}
 
       {/* Enhanced Service Areas & Zip Codes with Local SEO Data */}
       <ZipCodeModule locationSlug={data.slug} locationName={data.locationName} />
