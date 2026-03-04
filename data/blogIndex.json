@@ -1,6 +1,25 @@
 {
   "posts": [
     {
+      "slug": "ac-making-strange-noises-what-they-mean",
+      "title": "Is Your AC Making Strange Noises? Here's What Each Sound Means",
+      "description": "Wondering why your AC is making strange noises? Discover what each sound means and how Intelligent Design in Tucson AZ can help troubleshoot and fix your unit.",
+      "category": "hvac",
+      "tags": [
+        "hvac-maintenance",
+        "ac-repair",
+        "ac-installation",
+        "cooling",
+        "heating",
+        "tucson"
+      ],
+      "heroImage": "/generated_images/ac_maintenance_expert_tips.png",
+      "publishedAt": "2026-03-04T20:35:30.000Z",
+      "author": "Intelligent Design Team",
+      "readingTime": 7,
+      "featured": false
+    },
+    {
       "slug": "what-to-expect-when-repiping-your-home",
       "title": "What to Expect When Repiping Your Home",
       "description": "What to Expect When Repiping Your Home Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
@@ -192,8 +211,8 @@
     },
     {
       "slug": "comprehensive-home-services-in-marana-more-than-just-a-busin",
-      "title": "Comprehensive Home Services in Marana: More Than Just a Business, We’re Your Neighbors",
-      "description": "Comprehensive Home Services in Marana: More Than Just a Business, We’re Your Neighbors Helpful information from Intelligent Design...",
+      "title": "Comprehensive Home Services in Marana: More Than Just a Business, We\u2019re Your Neighbors",
+      "description": "Comprehensive Home Services in Marana: More Than Just a Business, We\u2019re Your Neighbors Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -230,8 +249,8 @@
     },
     {
       "slug": "how-tucsons-monsoon-humidity-impacts-your-central-air-system",
-      "title": "How Tucson’s Monsoon Humidity Impacts Your Central Air System: A Guide From Intelligent Design Solar, Plumbing, & Air",
-      "description": "How Tucson’s Monsoon Humidity Impacts Your Central Air System: A Guide From Intelligent Design Solar, Plumbing, & Air",
+      "title": "How Tucson\u2019s Monsoon Humidity Impacts Your Central Air System: A Guide From Intelligent Design Solar, Plumbing, & Air",
+      "description": "How Tucson\u2019s Monsoon Humidity Impacts Your Central Air System: A Guide From Intelligent Design Solar, Plumbing, & Air",
       "category": "plumbing",
       "tags": [
         "solar-energy",
@@ -245,8 +264,8 @@
     },
     {
       "slug": "hey-saddlebrook-weve-got-your-home-covered",
-      "title": "Hey Saddlebrook, We’ve Got Your Home Covered!",
-      "description": "Hey Saddlebrook, We’ve Got Your Home Covered! Helpful information from Intelligent Design, Tucson's family-owned home services company.",
+      "title": "Hey Saddlebrook, We\u2019ve Got Your Home Covered!",
+      "description": "Hey Saddlebrook, We\u2019ve Got Your Home Covered! Helpful information from Intelligent Design, Tucson's family-owned home services company.",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -264,8 +283,8 @@
     },
     {
       "slug": "how-repiping-can-improve-your-homes-water-quality",
-      "title": "How Repiping Can Improve Your Home’s Water Quality",
-      "description": "How Repiping Can Improve Your Home’s Water Quality Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
+      "title": "How Repiping Can Improve Your Home\u2019s Water Quality",
+      "description": "How Repiping Can Improve Your Home\u2019s Water Quality Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -339,8 +358,8 @@
     },
     {
       "slug": "sahuarita-were-here-to-make-your-home-awesome",
-      "title": "Sahuarita, We’re Here to Make Your Home Awesome!",
-      "description": "Sahuarita, We’re Here to Make Your Home Awesome! Helpful information from Intelligent Design, Tucson's family-owned home services company.",
+      "title": "Sahuarita, We\u2019re Here to Make Your Home Awesome!",
+      "description": "Sahuarita, We\u2019re Here to Make Your Home Awesome! Helpful information from Intelligent Design, Tucson's family-owned home services company.",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -377,8 +396,8 @@
     },
     {
       "slug": "serving-catalina-arizona-more-than-just-home-services-its-ab",
-      "title": "Serving Catalina, Arizona: More Than Just Home Services, It’s About Community",
-      "description": "Serving Catalina, Arizona: More Than Just Home Services, It’s About Community Helpful information from Intelligent Design...",
+      "title": "Serving Catalina, Arizona: More Than Just Home Services, It\u2019s About Community",
+      "description": "Serving Catalina, Arizona: More Than Just Home Services, It\u2019s About Community Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -396,8 +415,8 @@
     },
     {
       "slug": "intelligent-design-catalina-foothills-premier-choice-for-hom",
-      "title": "Intelligent Design: Catalina Foothills’ Premier Choice for Home Services",
-      "description": "Intelligent Design: Catalina Foothills’ Premier Choice for Home Services Helpful information from Intelligent Design...",
+      "title": "Intelligent Design: Catalina Foothills\u2019 Premier Choice for Home Services",
+      "description": "Intelligent Design: Catalina Foothills\u2019 Premier Choice for Home Services Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -453,8 +472,8 @@
     },
     {
       "slug": "your-neighborhood-partner-in-picture-rocks-intelligent-desig",
-      "title": "Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services",
-      "description": "Your Neighborhood Partner in Picture Rocks: Intelligent Design’s Home Services Helpful information from Intelligent Design...",
+      "title": "Your Neighborhood Partner in Picture Rocks: Intelligent Design\u2019s Home Services",
+      "description": "Your Neighborhood Partner in Picture Rocks: Intelligent Design\u2019s Home Services Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -472,8 +491,8 @@
     },
     {
       "slug": "intelligent-design-were-not-just-in-your-neighborhood-were-p",
-      "title": "Intelligent Design: We’re Not Just in Your Neighborhood, We’re Part of It",
-      "description": "Intelligent Design: We’re Not Just in Your Neighborhood, We’re Part of It Helpful information from Intelligent Design...",
+      "title": "Intelligent Design: We\u2019re Not Just in Your Neighborhood, We\u2019re Part of It",
+      "description": "Intelligent Design: We\u2019re Not Just in Your Neighborhood, We\u2019re Part of It Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -510,8 +529,8 @@
     },
     {
       "slug": "comprehensive-home-services-in-tortolita-more-than-just-a-bu",
-      "title": "Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a Community Commitment",
-      "description": "Comprehensive Home Services in Tortolita: More Than Just a Business, It’s a Community Commitment Helpful information from Intelligent Design...",
+      "title": "Comprehensive Home Services in Tortolita: More Than Just a Business, It\u2019s a Community Commitment",
+      "description": "Comprehensive Home Services in Tortolita: More Than Just a Business, It\u2019s a Community Commitment Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -586,8 +605,8 @@
     },
     {
       "slug": "intelligent-design-elevating-tanque-verdes-home-experience",
-      "title": "Intelligent Design: Elevating Tanque Verde’s Home Experience",
-      "description": "Intelligent Design: Elevating Tanque Verde’s Home Experience Helpful information from Intelligent Design, Tucson's family-owned home services company.",
+      "title": "Intelligent Design: Elevating Tanque Verde\u2019s Home Experience",
+      "description": "Intelligent Design: Elevating Tanque Verde\u2019s Home Experience Helpful information from Intelligent Design, Tucson's family-owned home services company.",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -605,8 +624,8 @@
     },
     {
       "slug": "intelligent-design-elevating-drexel-alvernons-home-comforts-",
-      "title": "Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a Time",
-      "description": "Intelligent Design: Elevating Drexel-Alvernon’s Home Comforts One Service at a Time Helpful information from Intelligent Design...",
+      "title": "Intelligent Design: Elevating Drexel-Alvernon\u2019s Home Comforts One Service at a Time",
+      "description": "Intelligent Design: Elevating Drexel-Alvernon\u2019s Home Comforts One Service at a Time Helpful information from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -624,8 +643,8 @@
     },
     {
       "slug": "comprehensive-home-services-in-oro-valley-more-than-just-a-b",
-      "title": "Comprehensive Home Services in Oro Valley: More Than Just a Business, It’s a Commitment to the Community",
-      "description": "Comprehensive Home Services in Oro Valley: More Than Just a Business, It’s a Commitment to the Community",
+      "title": "Comprehensive Home Services in Oro Valley: More Than Just a Business, It\u2019s a Commitment to the Community",
+      "description": "Comprehensive Home Services in Oro Valley: More Than Just a Business, It\u2019s a Commitment to the Community",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -699,8 +718,8 @@
     },
     {
       "slug": "does-turning-off-your-ac-when-youre-not-home-actually-save-m",
-      "title": "Does Turning Off Your A/C When You’re Not Home Actually Save Money?",
-      "description": "Does Turning Off Your A/C When You’re Not Home Actually Save Money? Get expert answers from Intelligent Design...",
+      "title": "Does Turning Off Your A/C When You\u2019re Not Home Actually Save Money?",
+      "description": "Does Turning Off Your A/C When You\u2019re Not Home Actually Save Money? Get expert answers from Intelligent Design...",
       "category": "home-tips",
       "tags": [
         "home-improvement",
@@ -1273,8 +1292,8 @@
     },
     {
       "slug": "why-you-shouldnt-overlook-drain-cleaning",
-      "title": "Why You Shouldn’t Overlook Drain Cleaning?",
-      "description": "Why You Shouldn’t Overlook Drain Cleaning? Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
+      "title": "Why You Shouldn\u2019t Overlook Drain Cleaning?",
+      "description": "Why You Shouldn\u2019t Overlook Drain Cleaning? Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
       "category": "plumbing",
       "tags": [
         "drain-cleaning",
@@ -1359,8 +1378,8 @@
     },
     {
       "slug": "repiping-how-its-different-from-pipe-repair-and-why-you-may-",
-      "title": "Repiping: How It’s Different From Pipe Repair And Why You May Need It More",
-      "description": "Repiping: How It’s Different From Pipe Repair And Why You May Need It More Get expert answers from Intelligent Design...",
+      "title": "Repiping: How It\u2019s Different From Pipe Repair And Why You May Need It More",
+      "description": "Repiping: How It\u2019s Different From Pipe Repair And Why You May Need It More Get expert answers from Intelligent Design...",
       "category": "plumbing",
       "tags": [
         "plumbing-repair",
@@ -2127,8 +2146,8 @@
     },
     {
       "slug": "how-solar-power-systems-enhance-your-homes-value-and-resale",
-      "title": "How Solar Power Systems Enhance Your Home’s Value and Resale",
-      "description": "How Solar Power Systems Enhance Your Home’s Value and Resale Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979.",
+      "title": "How Solar Power Systems Enhance Your Home\u2019s Value and Resale",
+      "description": "How Solar Power Systems Enhance Your Home\u2019s Value and Resale Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979.",
       "category": "solar",
       "tags": [
         "solar-panels",
@@ -2163,8 +2182,8 @@
     },
     {
       "slug": "maximizing-solar-efficiency-steps-to-harness-the-suns-power",
-      "title": "Maximizing Solar Efficiency: Steps to Harness the Sun’s Power",
-      "description": "Maximizing Solar Efficiency: Steps to Harness the Sun’s Power Expert guidance from Intelligent Design's solar specialists.",
+      "title": "Maximizing Solar Efficiency: Steps to Harness the Sun\u2019s Power",
+      "description": "Maximizing Solar Efficiency: Steps to Harness the Sun\u2019s Power Expert guidance from Intelligent Design's solar specialists.",
       "category": "solar",
       "tags": [
         "solar-panels",
@@ -2681,8 +2700,8 @@
     },
     {
       "slug": "ac-replacement-why-its-important-and-how-to-do-it",
-      "title": "AC Replacement: Why It’s Important and How to Do It",
-      "description": "AC Replacement: Why It’s Important and How to Do It Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
+      "title": "AC Replacement: Why It\u2019s Important and How to Do It",
+      "description": "AC Replacement: Why It\u2019s Important and How to Do It Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
       "category": "hvac",
       "tags": [
         "ac-repair",
@@ -3003,8 +3022,8 @@
     },
     {
       "slug": "how-to-determine-if-its-time-for-an-ac-replacement",
-      "title": "How to Determine if It’s Time for an AC Replacement",
-      "description": "How to Determine if It’s Time for an AC Replacement Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
+      "title": "How to Determine if It\u2019s Time for an AC Replacement",
+      "description": "How to Determine if It\u2019s Time for an AC Replacement Get expert answers from Intelligent Design, Tucson's trusted home services provider since 1979. Call today!",
       "category": "hvac",
       "tags": [
         "ac-repair",
@@ -3468,8 +3487,8 @@
     },
     {
       "slug": "whats-the-cost-of-ac-installation-in-tucson",
-      "title": "What’s the Cost of AC Installation in Tucson?",
-      "description": "What’s the Cost of AC Installation in Tucson? Professional HVAC insights from Intelligent Design. Tucson's trusted air conditioning & heating experts since 1...",
+      "title": "What\u2019s the Cost of AC Installation in Tucson?",
+      "description": "What\u2019s the Cost of AC Installation in Tucson? Professional HVAC insights from Intelligent Design. Tucson's trusted air conditioning & heating experts since 1...",
       "category": "hvac",
       "tags": [
         "ac-installation",
@@ -3747,8 +3766,8 @@
     },
     {
       "slug": "why-is-my-ac-not-cooling-the-ultimate-tucson-homeowners-guid",
-      "title": "Why is My AC Not Cooling? The Ultimate Tucson Homeowner’s Guide to a Chilly Home",
-      "description": "Why is My AC Not Cooling? The Ultimate Tucson Homeowner’s Guide to a Chilly Home Professional insights from Intelligent Design's Tucson HVAC, plumbing...",
+      "title": "Why is My AC Not Cooling? The Ultimate Tucson Homeowner\u2019s Guide to a Chilly Home",
+      "description": "Why is My AC Not Cooling? The Ultimate Tucson Homeowner\u2019s Guide to a Chilly Home Professional insights from Intelligent Design's Tucson HVAC, plumbing...",
       "category": "hvac",
       "tags": [
         "ac-repair",
@@ -3837,8 +3856,8 @@
     },
     {
       "slug": "your-complete-guide-to-hvac-ac-repair-in-tucson-faqs-answere",
-      "title": "Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered",
-      "description": "Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered Professional insights from Intelligent Design's Tucson HVAC, plumbing...",
+      "title": "Your Complete Guide to HVAC & AC Repair in Tucson \u2013 FAQs Answered",
+      "description": "Your Complete Guide to HVAC & AC Repair in Tucson \u2013 FAQs Answered Professional insights from Intelligent Design's Tucson HVAC, plumbing...",
       "category": "hvac",
       "tags": [
         "ac-repair",
