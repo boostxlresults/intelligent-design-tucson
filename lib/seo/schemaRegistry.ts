@@ -81,7 +81,7 @@ export function getPageSchemas(options: SchemaRegistryOptions): Array<Record<str
 
   switch (pageType) {
     case 'homepage':
-      return getHomepageSchemas(canonicalUrl);
+      return getHomepageSchemas(canonicalUrl, pageData);
     
     case 'service':
       return getServicePageSchemas(canonicalUrl, pageData);
@@ -116,7 +116,7 @@ export function getPageSchemas(options: SchemaRegistryOptions): Array<Record<str
  * - AggregateRating
  * - Reviews (top 3)
  */
-function getHomepageSchemas(canonicalUrl: string) {
+function getHomepageSchemas(canonicalUrl: string, pageData: any = {}) {
   const schemas = [];
 
   // 1. Organization Schema
@@ -165,6 +165,11 @@ function getHomepageSchemas(canonicalUrl: string) {
   // 11-12. ImageObject Schemas (logo and cover image)
   const imageSchemas = generateImageObjectSchemas({ canonicalUrl });
   schemas.push(...imageSchemas);
+
+  // 13. FAQPage Schema (homepage FAQs)
+  if (pageData.faqs && pageData.faqs.length > 0) {
+    schemas.push(generateFAQSchema(pageData.faqs));
+  }
 
   return schemas;
 }

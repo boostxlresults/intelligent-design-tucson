@@ -56,7 +56,10 @@ export default function Home() {
   // Organization, WebSite, Multi-Category LocalBusiness (x5), Reviews (x3)
   const schemas = getPageSchemas({
     pageType: 'homepage',
-    canonicalUrl: 'https://www.idesignac.com'
+    canonicalUrl: 'https://www.idesignac.com',
+    pageData: {
+      faqs: homeData.faqs?.faqs || []
+    }
   });
 
   // Add project showcase schemas for RealWorkLabs widget indexability
