@@ -2,7 +2,8 @@
 
 import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
-import { SiFacebook, SiInstagram, SiLinkedin, SiYoutube, SiGoogle } from "react-icons/si";
+import { SiFacebook, SiInstagram, SiYoutube, SiGoogle } from "react-icons/si";
+import { FaLinkedin } from "react-icons/fa6";
 import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
 import { trackPhoneClick } from "@/lib/analytics";
 
@@ -11,7 +12,7 @@ const logoUrl = "/logo.png";
 const socialLinks = [
   { name: "Facebook", href: "https://www.facebook.com/IDesignAC", icon: SiFacebook },
   { name: "Instagram", href: "https://www.instagram.com/intelligentdesigntucson/", icon: SiInstagram },
-  { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/", icon: SiLinkedin },
+  { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/", icon: FaLinkedin },
   { name: "YouTube", href: "https://www.youtube.com/@Idesignac", icon: SiYoutube },
   { name: "Google Business", href: "https://g.page/r/CajVBZOPuZ56EBE/", icon: SiGoogle },
 ];

@@ -30,11 +30,8 @@ interface EventParams {
   [key: string]: string | number | boolean | undefined;
 }
 
-declare global {
-  interface Window {
-    dataLayer: Record<string, unknown>[];
-  }
-}
+// Note: Window.dataLayer type is declared in GTM.tsx
+// We use a type assertion when pushing to avoid conflicts
 
 /**
  * Push a custom event to the dataLayer for GTM to pick up.
@@ -43,8 +40,8 @@ declare global {
 export function trackEvent(event: ConversionEvent, params: EventParams = {}) {
   if (typeof window === 'undefined') return;
 
-  window.dataLayer = window.dataLayer || [];
-  window.dataLayer.push({
+  (window as any).dataLayer = (window as any).dataLayer || [];
+  (window as any).dataLayer.push({
     event,
     ...params,
     page_url: window.location.href,
