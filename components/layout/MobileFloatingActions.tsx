@@ -3,6 +3,7 @@
 import { Phone, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import SchedulerEmbed from "../integrations/SchedulerEmbed";
+import { trackPhoneClick, trackChatOpen } from "@/lib/analytics";
 
 export default function MobileFloatingActions() {
   const handleTextUsClick = () => {
@@ -23,7 +24,7 @@ export default function MobileFloatingActions() {
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500"
             asChild
           >
-            <a href="tel:+15203332665" data-testid="button-mobile-call">
+            <a href="tel:+15203332665" data-testid="button-mobile-call" onClick={() => trackPhoneClick('mobile_floating')}>
               <Phone className="w-5 h-5" />
               <span className="text-xs font-semibold">Call Now</span>
             </a>
@@ -45,7 +46,7 @@ export default function MobileFloatingActions() {
           <Button
             size="sm"
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-green-600 hover:bg-green-700 text-white border-2 border-green-700"
-            onClick={handleTextUsClick}
+            onClick={() => { trackChatOpen(); handleTextUsClick(); }}
             data-testid="button-mobile-chat"
           >
             <MessageCircle className="w-5 h-5" />

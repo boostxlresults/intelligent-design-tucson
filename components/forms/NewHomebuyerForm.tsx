@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Gift, Loader2, CheckCircle } from 'lucide-react';
 import { useScheduler } from '@/components/integrations/ServiceTitanScheduler';
+import { trackFormSubmit } from '@/lib/analytics';
 
 interface FormData {
   firstName: string;
@@ -60,6 +61,7 @@ export function NewHomebuyerForm() {
       }
 
       setIsSuccess(true);
+      trackFormSubmit('new_homebuyer_form', 'protection_plan');
 
       setTimeout(() => {
         openScheduler();

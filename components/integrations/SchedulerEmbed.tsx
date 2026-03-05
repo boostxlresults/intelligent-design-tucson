@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button";
 import { Calendar } from "lucide-react";
 import { useScheduler } from "@/components/integrations/ServiceTitanScheduler";
+import { trackScheduleOpen } from "@/lib/analytics";
 
 interface SchedulerEmbedProps {
   triggerText?: string;
@@ -33,7 +34,7 @@ export default function SchedulerEmbed({
       variant={variant} 
       className={className}
       data-testid={dataTestId}
-      onClick={openScheduler}
+      onClick={() => { trackScheduleOpen(dataTestId); openScheduler(); }}
       disabled={isLoading}
     >
       <Calendar className={verticalLayout ? iconClassName : `${iconClassName} mr-2`} />

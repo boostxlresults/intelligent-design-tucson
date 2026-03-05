@@ -5,6 +5,7 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Gift, Loader2, CheckCircle, Award } from 'lucide-react';
 import { useScheduler } from '@/components/integrations/ServiceTitanScheduler';
+import { trackFormSubmit } from '@/lib/analytics';
 
 interface FormData {
   clientFirstName: string;
@@ -54,6 +55,7 @@ export function RealtorsOfferForm() {
       } catch {
         if (response.ok) {
           setIsSuccess(true);
+          trackFormSubmit('realtors_offer_form', 'realtor_referral');
           return;
         }
         throw new Error('Failed to process registration');
@@ -64,6 +66,7 @@ export function RealtorsOfferForm() {
       }
 
       setIsSuccess(true);
+      trackFormSubmit('realtors_offer_form', 'realtor_referral');
 
       setTimeout(() => {
         openScheduler();

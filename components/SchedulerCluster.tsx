@@ -1,6 +1,7 @@
 "use client";
 
 import { useScheduler } from "@/components/integrations/ServiceTitanScheduler";
+import { trackScheduleOpen } from "@/lib/analytics";
 
 interface SchedulerClusterProps {
   position: "hero" | "middle" | "bottom";
@@ -28,7 +29,7 @@ export function SchedulerCluster({ position, className = "" }: SchedulerClusterP
             Fast, reliable service from Tucson's most trusted home services company
           </p>
           <button
-            onClick={openScheduler}
+            onClick={() => { trackScheduleOpen('scheduler_cluster_' + position); openScheduler(); }}
             disabled={isLoading}
             className="bg-primary text-primary-foreground px-8 py-3 rounded-md font-semibold hover-elevate active-elevate-2 disabled:opacity-50"
             data-testid="button-schedule-service"

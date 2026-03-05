@@ -4,6 +4,7 @@ import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { SiFacebook, SiInstagram, SiLinkedin, SiYoutube, SiGoogle } from "react-icons/si";
 import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
+import { trackPhoneClick } from "@/lib/analytics";
 
 const logoUrl = "/logo.png";
 
@@ -147,6 +148,7 @@ export default function Footer() {
                   href="tel:+15203332665"
                   className="hover-elevate px-2 py-1 rounded-md inline-block font-semibold"
                   data-testid="link-footer-phone"
+                  onClick={() => trackPhoneClick('footer')}
                 >
                   (520) 333-2665
                 </a>

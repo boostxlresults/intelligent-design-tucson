@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { Button } from '@/components/ui/button';
 import { Loader2 } from 'lucide-react';
+import { trackQuoteStart } from '@/lib/analytics';
 
 declare global {
   interface Window {
@@ -70,6 +71,7 @@ export default function QuoteCallout({
   }, [startJourney]);
 
   const handleClick = () => {
+    trackQuoteStart(journeyType);
     if (isReady) {
       startJourney();
     } else {

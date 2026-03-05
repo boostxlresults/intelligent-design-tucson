@@ -4,6 +4,7 @@ import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Loader2, CheckCircle, Phone } from 'lucide-react';
+import { trackFormSubmit } from '@/lib/analytics';
 
 interface FormData {
   firstName: string;
@@ -56,6 +57,7 @@ export function HVACInventoryForm() {
       }
 
       setIsSuccess(true);
+      trackFormSubmit('hvac_inventory_form', 'hvac_purchase');
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Something went wrong');
     } finally {
