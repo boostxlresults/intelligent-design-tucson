@@ -2,6 +2,7 @@
 // Auto-generated from Home.tsx
 import type { ServicePageData } from '@/types/services';
 import { homepageFAQs } from '@/data/faqs/general';
+import { askAboutThisPlaceFAQs } from '@/data/faqs/askAboutThisPlace';
 
 
 
@@ -198,6 +199,6 @@ export const homeData: ServicePageData = {
       }
     ]
   },
-  faqs: homepageFAQs,
+  faqs: askAboutThisPlaceFAQs,
   commonQuestions: [],
 };
