@@ -20,7 +20,7 @@ const recentProjectsSchema = {
   "name": "Recent Home Service Projects by Intelligent Design",
   "description": "Browse our latest HVAC, plumbing, solar, electrical, and roofing projects completed for Tucson homeowners",
   "url": "https://www.idesignac.com/recent-projects",
-  "numberOfItems": 22000,
+  "numberOfItems": 23000,
   "itemListOrder": "https://schema.org/ItemListOrderDescending",
   "itemListElement": [
     {
@@ -149,7 +149,7 @@ const aggregateRatingSchema = {
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "22000",
+    "reviewCount": "23000",
     "bestRating": "5",
     "worstRating": "1"
   }

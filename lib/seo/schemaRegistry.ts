@@ -152,7 +152,10 @@ function getHomepageSchemas(canonicalUrl: string, pageData: any = {}) {
   });
   schemas.push(...multiCategorySchemas);
 
-  // 8-10. Review Schemas (top 3 reviews)
+  // Reviews are now nested inside the Organization schema (schema[0])
+  // Standalone Review schemas cause Google Search Console error:
+  // "Invalid object type for field <parent_node>"
+  // Google requires Reviews to be nested inside a valid parent type
   const reviewSchemas = generateReviewSchemas({
     maxReviews: 3,
     itemReviewed: {
@@ -160,7 +163,16 @@ function getHomepageSchemas(canonicalUrl: string, pageData: any = {}) {
       name: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
     }
   });
-  schemas.push(...reviewSchemas);
+  // Nest reviews inside the Organization schema instead of standalone
+  if (schemas.length > 0 && schemas[0]['@type'] === 'Organization') {
+    schemas[0].review = reviewSchemas.map(r => ({
+      "@type": "Review",
+      "author": r.author,
+      "reviewRating": r.reviewRating,
+      "reviewBody": r.reviewBody,
+      "datePublished": r.datePublished
+    }));
+  }
 
   // 11-12. ImageObject Schemas (logo and cover image)
   const imageSchemas = generateImageObjectSchemas({ canonicalUrl });

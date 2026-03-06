@@ -74,19 +74,20 @@ export function generateProjectShowcaseSchemas(options: ProjectShowcaseSchemaOpt
         "name": locationName,
         "containedInPlace": { "@type": "State", "name": "Arizona" }
       },
-      "review": serviceReviews.map(review => ({
-        "@type": "Review",
-        "author": { "@type": "Person", "name": review.author },
-        "reviewRating": { "@type": "Rating", "ratingValue": review.rating, "bestRating": 5 },
-        "reviewBody": review.reviewBody,
-        "datePublished": review.datePublished
-      })),
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": (serviceReviews.reduce((sum, r) => sum + r.rating, 0) / serviceReviews.length).toFixed(1),
-        "reviewCount": serviceReviews.length,
-        "bestRating": 5,
-        "worstRating": 1
+      // NOTE: aggregateRating and review removed from Service schemas
+      // Google Search Console error: "Invalid object type for field <parent_node>"
+      // Service is NOT a valid parent type for Review Snippets rich results
+      // Reviews are handled by the LocalBusiness and Organization schemas instead
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": `${serviceType} Services`,
+        "itemListElement": serviceReviews.map(review => ({
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": review.projectDescription
+          }
+        }))
       }
     });
   }
