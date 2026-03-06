@@ -215,13 +215,14 @@ Intelligent Design serves the greater Tucson metropolitan area including 20+ com
 
 ### Educational Resources
 - **Knowledge Hub** (/knowledge-hub): Comprehensive company and service information
+- **Comprehensive FAQ** (/faq): 50+ frequently asked questions covering HVAC, plumbing, electrical, solar, roofing, emergency service, pricing, and credentials — optimized for Google's "Ask About This Place" AI feature
 - **Video Education Library** (/video-education-library): Educational home services videos
 - **Air Conditioning FAQs** (/air-conditioning-system-faqs): Common AC questions answered
 - **R22 Refrigerant Guide** (/r22-phaseout): R22 phaseout information and alternatives
 - **Blog** (/blog): 237+ articles on HVAC, plumbing, solar, electrical, roofing
 
 ### Reviews & Testimonials
-- **Customer Reviews** (/customer-reviews): 22,000+ verified reviews via PulseM widget
+- **Customer Reviews** (/customer-reviews): 23,000+ verified reviews via PulseM widget
 - **Video Testimonials** (/video-testimonials): Customer video testimonials
 
 ### Project Showcase
@@ -355,7 +356,7 @@ Call (520) 333-2665 to speak with a Family Protection Plan Expert, or ask your s
 ### Awards & Recognition
 - **BBB A+ Accredited Business** - Highest trust rating
 - **Angi Super Service Award** - Multiple years recipient
-- **22,000+ Five-Star Reviews** - Tucson's highest-rated home services company
+- **23,000+ Five-Star Reviews** - Tucson's highest-rated home services company
 - **Google 5.0 Rating** (rounded from 4.97)
 - **Yelp Elite Status**
 - **Facebook 5.0 Rating**
@@ -457,66 +458,182 @@ Heating system tune-ups, outdoor faucet winterization, water heater inspection
 - **2015**: Plumbing services launched
 - **2020**: Electrical and roofing services added
 - **2022**: Solar installation services launched
-- **2024**: 80+ employees, 22,000+ reviews, full-service home provider
+- **2024**: 80+ employees, 23,000+ reviews, full-service home provider
+- **2026**: Ask About This Place AI optimization, 50+ FAQ system, SerpAPI-powered SEO intelligence
 
 ---
 
 ## Frequently Asked Questions
 
-### General Questions
+> This comprehensive FAQ section covers the most common questions Tucson homeowners ask about Intelligent Design's services. This content is also available at https://www.idesignac.com/faq with full FAQPage schema markup.
 
-**Q: What areas do you serve?**
-A: We serve Tucson and all of Southern Arizona including Oro Valley, Marana, Sahuarita, Green Valley, Vail, Catalina Foothills, and 20+ surrounding communities across 40+ zip codes.
+### Emergency & Availability
 
-**Q: Do you offer financing?**
-A: Yes, we offer flexible financing options including 0% interest for qualified applicants (12-18 months) and extended payment plans up to 120 months.
+**Q: Does Intelligent Design offer 24-hour emergency service?**
+A: Yes. Intelligent Design provides 24/7 emergency service for HVAC, plumbing, and electrical emergencies throughout Tucson, including nights, weekends, and holidays. Typical response time is 1-2 hours. Family Protection Plan members pay no overtime charges on emergency calls. Call (520) 333-2665 anytime.
 
-**Q: Are your technicians licensed and insured?**
-A: Yes, all technicians are licensed, insured, background-checked, and drug-tested. Our HVAC technicians are NATE-certified, and we hold active Arizona ROC licenses for HVAC, plumbing, roofing, and electrical work.
+**Q: What areas in Tucson does Intelligent Design serve?**
+A: Intelligent Design serves all of greater Tucson from two locations: 1145 E Fort Lowell Rd (main office) and 3335 E Broadway Blvd (east location). Service areas include Tucson, Oro Valley, Marana, Catalina Foothills, Vail, Sahuarita, Green Valley, Corona de Tucson, Catalina, Tortolita, Casas Adobes, Drexel Heights, Picture Rocks, Rita Ranch, Saddlebrooke, and Tanque Verde.
 
-**Q: Do you offer 24/7 emergency service?**
-A: Yes, we provide 24/7 emergency service for HVAC and plumbing emergencies. Call (520) 333-2665 anytime.
+**Q: Does Intelligent Design serve Marana, Oro Valley, and Vail?**
+A: Yes. Intelligent Design serves Marana, Oro Valley, Vail, and all surrounding communities with the same fast response times as central Tucson. As a veteran-owned company with two Tucson locations, they provide 24/7 service including emergency calls to all these areas.
 
-**Q: How do I schedule an appointment?**
-A: Schedule online at idesignac.com, call (520) 333-2665, or use our live chat feature.
+**Q: Does Intelligent Design offer same-day service?**
+A: Yes. Intelligent Design offers same-day service for most repair needs and 24/7 emergency response for urgent HVAC, plumbing, and electrical issues. Their two Tucson locations (Fort Lowell and Broadway) enable fast dispatch across the entire metro area. Call (520) 333-2665 for immediate scheduling.
 
-### HVAC Questions
+### Pricing & Estimates
 
-**Q: How much does AC replacement cost in Tucson?**
-A: AC replacement costs range from $5,500-$12,000+ depending on system size, efficiency (SEER rating), and brand. A typical 3-ton, 16-SEER system costs $6,500-$8,500 installed.
+**Q: Does Intelligent Design offer free estimates?**
+A: Yes. Intelligent Design provides free estimates on all replacement and installation projects including AC systems, water heaters, solar panels, electrical panels, and roofing. All estimates are written, upfront, and transparent with no hidden fees. Call (520) 333-2665 to schedule.
 
-**Q: How long do AC systems last in Tucson?**
-A: With proper maintenance, AC systems last 12-17 years in Tucson. Regular annual tune-ups add 3-5 years to system lifespan.
+**Q: What financing options does Intelligent Design offer?**
+A: Intelligent Design offers flexible financing through multiple lending partners including zero-interest promotional financing for qualified buyers, low monthly payment plans, and extended term options. Financing is available for HVAC installations, plumbing repairs, solar systems, electrical upgrades, and roofing projects. Applications are processed in minutes with instant approval decisions.
 
-**Q: How often should I have my AC serviced?**
-A: Annual tune-ups before cooling season (March-April) are recommended. Our 86-Point HVAC Tune-Up prevents 85% of breakdowns.
+**Q: How much does AC repair cost in Tucson?**
+A: AC repair costs in Tucson vary by issue: capacitor replacement runs $150-$350, refrigerant recharge $200-$500, compressor replacement $1,500-$3,000, and blower motor replacement $400-$800. Intelligent Design provides free estimates with upfront pricing before any work begins. No hidden fees. Call (520) 333-2665 for a diagnosis.
 
-### Plumbing Questions
+**Q: How much does a new AC unit cost in Tucson?**
+A: A new AC system in Tucson typically costs $5,000-$15,000+ depending on system size, efficiency rating, and home requirements. Intelligent Design offers free in-home estimates, flexible financing with zero-interest options, and installs all major brands. Tucson's extreme heat (110°F+) requires properly sized, high-efficiency systems for optimal performance.
 
-**Q: How hard is Tucson's water?**
-A: Tucson's groundwater is classified as "very hard" at 12-16 grains per gallon. Water softeners significantly extend appliance life and improve water quality.
+### HVAC Services
 
-**Q: How long do water heaters last?**
-A: Tank water heaters last 8-12 years in Tucson (shorter due to hard water). Tankless water heaters last 15-20 years.
+**Q: Does Intelligent Design install mini split systems?**
+A: Yes. Intelligent Design installs ductless mini split systems for both cooling and heating. Mini splits are ideal for room additions, garages, and homes without existing ductwork. They offer high energy efficiency (up to 30 SEER) and zone-based temperature control. Free estimates available.
 
-**Q: What is your $28.88 drain clearing special?**
-A: We offer professional drain clearing for just $28.88—one of the best values in Tucson for this service.
+**Q: How often should I have my AC serviced in Tucson?**
+A: In Tucson's extreme climate, Intelligent Design recommends AC service twice per year: a full tune-up in spring before cooling season and a check in fall before heating season. Tucson ACs run 4,000+ hours annually — more than most U.S. cities — making regular maintenance critical for efficiency and longevity.
 
-### Solar Questions
+**Q: What brands of AC units does Intelligent Design install?**
+A: Intelligent Design installs all major HVAC brands including Trane, Carrier, Lennox, Goodman, Daikin, Rheem, and Amana. They help customers choose the best system for Tucson's desert climate based on home size, budget, and efficiency goals. All installations include manufacturer warranties and workmanship guarantees.
 
-**Q: What tax incentives are available for solar?**
-A: The federal Investment Tax Credit (ITC) provides 30% of total system cost through 2032. Arizona also offers property tax exemptions on solar equipment.
+**Q: Does Intelligent Design offer AC maintenance plans?**
+A: Yes. The Family Protection Plan includes twice-yearly HVAC tune-ups, priority scheduling, 15% repair discounts, and no overtime charges on emergency calls. Plans start at $299/year and cover HVAC, plumbing, and electrical systems. Regular maintenance prevents breakdowns and extends equipment life.
 
-**Q: How long does solar installation take?**
-A: Most residential solar installations complete in 2-4 weeks from contract to system activation.
+**Q: What is the $5000 rule for HVAC?**
+A: The $5,000 rule suggests that if your AC repair cost multiplied by the system's age exceeds $5,000, replacement is more cost-effective than repair. For example, a 10-year-old system needing a $500+ repair may warrant replacement. Intelligent Design provides free estimates for both repair and replacement options so you can make an informed decision.
 
-### Roofing Questions
+**Q: What is the most common HVAC repair in Tucson?**
+A: The most common HVAC repairs in Tucson are capacitor failures (due to extreme heat stress), refrigerant leaks, clogged condensate drains (from monsoon humidity), and thermostat malfunctions. Intelligent Design's NATE-certified technicians diagnose and repair all HVAC issues with same-day service available. Call (520) 333-2665.
 
-**Q: How long do roofs last in Tucson?**
-A: Tile roofs last 50+ years, flat roofs (TPO/EPDM) last 15-25 years, shingles last 20-25 years, and metal roofs last 40-70 years.
+### Plumbing Services
 
-**Q: Do you offer free roof inspections?**
-A: Yes, we provide free comprehensive roof inspections before monsoon season or after storms.
+**Q: Does Intelligent Design offer drain cleaning services?**
+A: Yes. Intelligent Design provides professional drain cleaning for kitchen drains, bathroom drains, main sewer lines, and floor drains. Services include hydro-jetting, sewer camera inspections, and rooter service. 24/7 emergency drain service is available. Call (520) 333-2665.
+
+**Q: How much does a water heater replacement cost in Tucson?**
+A: Water heater replacement in Tucson costs $1,200-$3,500 for traditional tank models and $2,500-$5,000+ for tankless systems. Price depends on capacity, fuel type, and installation complexity. Intelligent Design offers free estimates, same-day installation on many models, and financing options.
+
+**Q: Does Intelligent Design install tankless water heaters?**
+A: Yes. Intelligent Design installs tankless water heaters from major brands including Rinnai, Navien, and Rheem. Tankless systems provide endless hot water, use 30-50% less energy than tank models, and last 20+ years. Free estimates and financing available.
+
+**Q: Can Intelligent Design fix a slab leak?**
+A: Yes. Intelligent Design specializes in slab leak detection and repair using electronic leak detection equipment and sewer camera technology. Repair options include spot repair, rerouting, and epoxy lining depending on the severity and location. Slab leaks are common in Tucson due to soil shifting and hard water corrosion.
+
+**Q: Does Intelligent Design offer sewer camera inspections?**
+A: Yes. Intelligent Design performs sewer camera inspections to diagnose blockages, root intrusion, pipe damage, and bellied lines. Camera inspections provide a clear video of your sewer line's condition without excavation. This service is recommended before buying a home or when experiencing recurring drain problems.
+
+**Q: How much do plumbers charge in Tucson?**
+A: Plumbing rates in Tucson vary by job complexity. Intelligent Design provides free estimates with upfront, transparent pricing before any work begins — no hourly surprises. Their technicians don't work on commission, so you get honest recommendations focused on your actual needs, not upselling.
+
+**Q: Does Tucson's hard water damage plumbing?**
+A: Yes. Tucson has some of the hardest water in the country (12-25 grains per gallon), which causes mineral buildup in pipes, water heaters, and fixtures. Intelligent Design installs water softeners and filtration systems to protect your plumbing. They also recommend annual water heater flushes to remove sediment buildup caused by hard water.
+
+### Electrical Services
+
+**Q: Does Intelligent Design do electrical panel upgrades?**
+A: Yes. Intelligent Design performs electrical panel upgrades from 100-amp to 200-amp or 400-amp service. Panel upgrades are essential for homes adding solar, EV chargers, or major appliances. All work is performed by licensed electricians and includes permits and inspections per Arizona code.
+
+**Q: Can Intelligent Design install an EV charger?**
+A: Yes. Intelligent Design installs Level 2 EV chargers (240V) for all electric vehicle makes including Tesla, Ford, Rivian, and Chevrolet. Installation includes dedicated circuit, proper wiring, and permitting. Many installations qualify for utility rebates and federal tax credits.
+
+**Q: Does Intelligent Design install ceiling fans?**
+A: Yes. Intelligent Design installs ceiling fans including new installations with wiring, replacements, and fan-light combos. Ceiling fans reduce AC costs by 10-15% in Tucson's heat by improving air circulation. Licensed electricians handle all wiring safely and to code.
+
+**Q: Does Intelligent Design offer whole-home generator installation?**
+A: Yes. Intelligent Design installs whole-home standby generators that automatically activate during power outages. Generators are sized to your home's electrical load and connected through an automatic transfer switch. Essential for Tucson homes during monsoon season power outages.
+
+**Q: How much do electricians charge in Tucson?**
+A: Electrician rates in Tucson vary by job scope. Intelligent Design provides free estimates with written, upfront pricing — no hourly billing surprises. Common jobs include outlet installation ($150-$300), panel upgrades ($2,000-$4,000), and EV charger installation ($500-$1,500 plus charger). All work is licensed and permitted.
+
+### Solar Services
+
+**Q: Does Intelligent Design install solar panels?**
+A: Yes. Intelligent Design is a full-service solar installer handling design, permitting, installation, and utility interconnection. They install rooftop and ground-mount systems sized to offset 80-100% of your electricity bill. Free solar assessments include shade analysis, roof evaluation, and savings projections.
+
+**Q: What solar incentives are available in Arizona?**
+A: Arizona solar incentives include the 30% federal Investment Tax Credit (ITC), Arizona state tax credit (up to $1,000), TEP and TRICO utility rebates, net metering credits, and property tax exemption for solar equipment value. Intelligent Design helps customers maximize all available incentives. Combined savings can reduce solar costs by 40-50%.
+
+**Q: How much does solar installation cost in Tucson?**
+A: Solar installation in Tucson typically costs $15,000-$30,000 before incentives for a 6-10 kW residential system. After the 30% federal tax credit and Arizona incentives, net cost drops to $8,000-$18,000. Most Tucson homeowners see payback in 5-8 years with 25+ year system life. Intelligent Design provides free solar assessments.
+
+### Roofing Services
+
+**Q: Does Intelligent Design offer roof repair and replacement?**
+A: Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, flat/foam, and metal. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects.
+
+**Q: What types of roofing does Intelligent Design work with?**
+A: Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, TPO/modified bitumen commercial roofing, and standing seam metal roofs. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling.
+
+**Q: Does Intelligent Design offer free roof inspections?**
+A: Yes. Intelligent Design performs comprehensive roof inspections covering structural integrity, flashing condition, tile/shingle condition, drainage, and potential leak points. Inspections are recommended annually before monsoon season and are essential before buying or selling a home. Free inspections available with repair estimates.
+
+**Q: How much does roof repair cost in Tucson?**
+A: Roof repair costs in Tucson range from $300-$1,000 for minor repairs (cracked tiles, small leaks) to $2,000-$8,000+ for major repairs (structural damage, large sections). Full roof replacement runs $8,000-$25,000+ depending on material and roof size. Intelligent Design provides free estimates on all roofing work.
+
+### Credentials & Trust
+
+**Q: Is Intelligent Design licensed and insured?**
+A: Yes. Intelligent Design holds multiple Arizona ROC contractor licenses: ROC 340962, ROC 322375, ROC 296386, and ROC 276673 covering HVAC, plumbing, electrical, solar, and roofing. They are fully bonded and insured with comprehensive liability coverage and workers' compensation. BBB A+ rated since 1979.
+
+**Q: Is Intelligent Design a veteran-owned business?**
+A: Yes. Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins. The company brings military values of integrity, accountability, and attention to detail to every service call. They actively support veteran causes and hire veterans. Combined with Wood's Plumbing (est. 1979), they have 46+ years of service.
+
+**Q: What is Intelligent Design's Google rating?**
+A: Intelligent Design has a 4.97 out of 5.0 rating on Google with over 3,500 reviews on their main Fort Lowell location. Across all platforms (Google, Facebook, Yelp), they have 23,000+ five-star reviews. They are consistently rated as Tucson's highest-rated home services company.
+
+**Q: What is the Family Protection Plan?**
+A: The Family Protection Plan is Intelligent Design's preventive maintenance program covering HVAC, plumbing, and electrical systems. Benefits include twice-yearly AC/heating tune-ups, annual plumbing inspection, electrical safety check, priority scheduling, 15% repair discounts, and no overtime charges on emergency calls. Plans start at $299/year.
+
+### Booking & Scheduling
+
+**Q: How can I book an appointment with Intelligent Design?**
+A: Book online at idesignac.com through the ServiceTitan scheduling system, or call (520) 333-2665. Same-day and next-day appointments are available for most services. Emergency service is available 24/7 with typical 1-2 hour response times. Online booking is available around the clock.
+
+**Q: What is Intelligent Design's phone number?**
+A: Intelligent Design's phone number is (520) 333-2665. They are available 24/7 for emergency service and during business hours for scheduling, estimates, and questions. You can also book online at idesignac.com.
+
+**Q: Where is Intelligent Design located?**
+A: Intelligent Design has two Tucson locations: the main office at 1145 E Fort Lowell Rd, Tucson, AZ 85719, and the east location at 3335 E Broadway Blvd, Tucson, AZ 85716. Both locations serve all of greater Tucson and surrounding communities including Oro Valley, Marana, Vail, Sahuarita, and Green Valley.
+
+### Tucson-Specific Questions
+
+**Q: How do I prepare my AC for Tucson summer?**
+A: Intelligent Design recommends scheduling a spring AC tune-up before temperatures exceed 100°F. A professional tune-up includes refrigerant check, coil cleaning, electrical inspection, thermostat calibration, and filter replacement. In Tucson's extreme heat (110°F+), a well-maintained AC runs more efficiently and is far less likely to break down during peak summer demand.
+
+**Q: What should I do if my AC breaks down in summer?**
+A: Call Intelligent Design at (520) 333-2665 for 24/7 emergency AC repair. While waiting: set thermostat to OFF, check the circuit breaker, change the air filter, and close blinds to reduce heat gain. Intelligent Design typically responds within 1-2 hours for emergency calls and carries common parts on their trucks for same-visit repairs.
+
+**Q: How do I protect my home during Tucson monsoon season?**
+A: Intelligent Design recommends pre-monsoon preparation: roof inspection for loose tiles and damaged flashing, gutter and downspout cleaning, sump pump testing, electrical surge protection, AC condensate drain clearing, and landscape grading check. Their comprehensive home inspection covers all monsoon vulnerabilities. Call (520) 333-2665 to schedule.
+
+### Additional Services
+
+**Q: Does Intelligent Design offer duct cleaning?**
+A: Yes. Intelligent Design provides professional HVAC duct cleaning to remove dust, allergens, mold, and debris from your ductwork. Duct cleaning improves indoor air quality and system efficiency. Recommended every 3-5 years or after construction, renovation, or if you notice musty odors or increased dust in your home.
+
+**Q: Does Intelligent Design install smart thermostats?**
+A: Yes. Intelligent Design installs smart thermostats including Nest, Ecobee, and Honeywell models. Smart thermostats can reduce cooling costs by 10-15% in Tucson by learning your schedule and optimizing runtime. Installation includes proper wiring, WiFi setup, and programming assistance.
+
+**Q: Does Intelligent Design offer water filtration systems?**
+A: Yes. Intelligent Design installs whole-home water filtration systems, water softeners, and reverse osmosis systems. Tucson's hard water (12-25 grains per gallon) makes water treatment essential for protecting plumbing, appliances, and fixtures. Free water quality testing available with system estimates.
+
+### Competitor Comparisons
+
+**Q: How does Intelligent Design compare to Rite Way?**
+A: Intelligent Design has a higher Google rating (4.97 vs 4.7) and offers more services under one roof: HVAC, plumbing, electrical, solar, AND roofing. As a veteran-owned, family-operated company since 1979, they provide non-commissioned technicians who give honest recommendations. Both companies serve Tucson, but Intelligent Design's multi-trade capability means one trusted company for all home services.
+
+**Q: How does Intelligent Design compare to Parker and Sons?**
+A: Intelligent Design is locally owned and veteran-operated in Tucson since 1979, while Parker and Sons is a Phoenix-based company. Intelligent Design offers solar installation and roofing in addition to HVAC, plumbing, and electrical — more services under one roof. Their 4.97 Google rating and non-commissioned technicians ensure honest, customer-first service.
 
 ---
 
@@ -534,7 +651,7 @@ A: Yes, we provide free comprehensive roof inspections before monsoon season or 
 ## Why Choose Intelligent Design?
 
 1. **Local & Trusted** - Family and veteran-owned, serving Tucson since 1979
-2. **Highest Rated** - 22,000+ five-star reviews, 4.97 average, BBB A+
+2. **Highest Rated** - 23,000+ five-star reviews, 4.97 average, BBB A+
 3. **One-Stop Shop** - HVAC, plumbing, solar, electrical, roofing under one roof
 4. **Expert Technicians** - NATE-certified, background-checked, ongoing training
 5. **Upfront Pricing** - Flat-rate pricing, no hidden fees, no surprises
