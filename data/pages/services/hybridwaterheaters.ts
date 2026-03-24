@@ -2,6 +2,7 @@
 // Auto-generated from HybridWaterHeaters.tsx
 import type { ServicePageData } from '@/types/services';
 import { hybridWaterHeatersFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const hybridwaterheatersData: ServicePageData = {
   // SEO & Meta
   title: 'Hybrid Water Heater Installation & Repair Tucson AZ | Intelligent Design',
@@ -749,5 +750,5 @@ export const hybridwaterheatersData: ServicePageData = {
 ]
   },
   faqs: hybridWaterHeatersFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

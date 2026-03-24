@@ -1,5 +1,6 @@
 // Roofing Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const roofingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -285,6 +286,6 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, we're fully licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance and workers compensation coverage, and undergo background checks required for age-restricted communities. Our roofing crews are experienced professionals who receive ongoing safety training. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied Saddle Brooke / Catalina customers over 46 years."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Roofing', 'SaddleBrooke / Catalina')
   }
 };

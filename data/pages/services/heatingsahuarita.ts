@@ -2,6 +2,7 @@
 // Comprehensive Heating Services Page for Sahuarita
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingsahuaritaData: ServicePageData = {
   // SEO & Meta
@@ -667,5 +668,5 @@ export const heatingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Sahuarita'),
 };

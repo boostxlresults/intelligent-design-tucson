@@ -3,6 +3,7 @@
 import type { ServicePageData } from '@/types/services';
 import { plumbingMaintenanceFAQs } from '@/data/faqs/plumbing';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingmaintenanceData: ServicePageData = {
   // SEO & Meta
@@ -675,5 +676,5 @@ export const plumbingmaintenanceData: ServicePageData = {
 ]
   },
   faqs: plumbingMaintenanceFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

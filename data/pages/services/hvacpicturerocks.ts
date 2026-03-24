@@ -2,6 +2,7 @@
 // Auto-generated from HVACPictureRocks.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacpicturerocksData: ServicePageData = {
@@ -354,5 +355,5 @@ export const hvacpicturerocksData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Picture Rocks'),
 };

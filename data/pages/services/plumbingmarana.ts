@@ -1,6 +1,7 @@
 // Comprehensive Plumbing Services for Marana, AZ
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingmaranaData: ServicePageData = {
   // SEO & Meta
@@ -644,5 +645,5 @@ export const plumbingmaranaData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Marana'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from HVACCasasAdobes.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvaccasasadobesData: ServicePageData = {
   // SEO & Meta
@@ -643,5 +644,5 @@ export const hvaccasasadobesData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Casas Adobes'),
 };

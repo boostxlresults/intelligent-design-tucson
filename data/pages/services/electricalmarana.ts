@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Marana, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalmaranaData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Marana AZ | New Construction | Panel Upgrades | Solar Integration | 24/7 Service',
@@ -613,7 +614,7 @@ export const electricalmaranaData: ServicePageData = {
   
   // FAQs & Common Questions
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Marana'),
   
   // Service Areas
   serviceArea: {

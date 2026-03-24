@@ -1,6 +1,7 @@
 // Comprehensive Heating Services Page for Tucson Estates, AZ
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const heatingtucsonestatesData: ServicePageData = {
@@ -645,5 +646,5 @@ export const heatingtucsonestatesData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson Estates'),
 };

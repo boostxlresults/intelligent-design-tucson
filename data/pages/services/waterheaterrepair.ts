@@ -2,6 +2,7 @@
 // Auto-generated from WaterHeaterRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterHeaterRepairFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterheaterrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Water Heater Repair Tucson AZ | Same-Day Emergency Service Available',
@@ -691,5 +692,5 @@ export const waterheaterrepairData: ServicePageData = {
 ]
   },
   faqs: waterHeaterRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

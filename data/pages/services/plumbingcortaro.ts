@@ -2,6 +2,7 @@
 // Comprehensive Plumbing Services for Cortaro
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingcortaroData: ServicePageData = {
   // SEO & Meta
@@ -652,5 +653,5 @@ export const plumbingcortaroData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Cortaro'),
 };

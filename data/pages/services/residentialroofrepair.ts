@@ -2,6 +2,7 @@
 // Auto-generated from ResidentialRoofRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Repair Tucson AZ | Expert Home Roof Repair Services',
@@ -767,5 +768,5 @@ export const residentialroofrepairData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

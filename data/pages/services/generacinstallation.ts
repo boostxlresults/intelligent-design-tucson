@@ -2,6 +2,7 @@
 // Auto-generated from GeneracInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { generacInstallationFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const generacinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'GENERAC Generator Installation Tucson AZ | Whole House Backup Power',
@@ -662,5 +663,5 @@ export const generacinstallationData: ServicePageData = {
 ]
   },
   faqs: generacInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

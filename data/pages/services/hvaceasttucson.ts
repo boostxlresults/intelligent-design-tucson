@@ -2,6 +2,7 @@
 // Comprehensive HVAC Services for East Tucson, AZ
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const hvaceasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC & AC Services East Tucson AZ | Air Conditioning Repair & Installation Since 1979',
@@ -592,5 +593,5 @@ export const hvaceasttucsonData: ServicePageData = {
     ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'East Tucson'),
 };

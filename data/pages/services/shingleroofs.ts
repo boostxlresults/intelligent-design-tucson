@@ -2,6 +2,7 @@
 // Auto-generated from ShingleRoofs.tsx
 import type { ServicePageData } from '@/types/services';
 import { shingleRoofsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const shingleroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Shingle Roofing Tucson AZ | Asphalt Shingle Installation & Repair',
@@ -657,5 +658,5 @@ export const shingleroofsData: ServicePageData = {
 ]
   },
   faqs: shingleRoofsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from RoofingTanqueVerde.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -218,5 +219,5 @@ export const roofingtanqueverdeData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tanque Verde'),
 };

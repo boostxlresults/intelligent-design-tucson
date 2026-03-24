@@ -2,6 +2,7 @@
 // Auto-generated from RoofingAvraValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -806,5 +807,5 @@ export const roofingavravalleyData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Avra Valley'),
 };

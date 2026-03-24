@@ -2,6 +2,7 @@
 // Auto-generated from ACService.tsx
 import type { ServicePageData } from '@/types/services';
 import { acServiceFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const acserviceData: ServicePageData = {
   // SEO & Meta
   title: 'AC Service Tucson AZ | Air Conditioning Maintenance & Tune-Ups | Intelligent Design',
@@ -659,5 +660,5 @@ export const acserviceData: ServicePageData = {
   ]
   },
   faqs: acServiceFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

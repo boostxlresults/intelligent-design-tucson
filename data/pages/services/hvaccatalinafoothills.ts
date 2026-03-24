@@ -1,5 +1,6 @@
 // HVAC Services for Catalina Foothills, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvaccatalinafoothillsData: ServicePageData = {
@@ -302,5 +303,5 @@ export const hvaccatalinafoothillsData: ServicePageData = {
     ]
   },
   
-  commonQuestions: []
+  commonQuestions: getRefinementQuestions('HVAC', 'Catalina Foothills')
 };

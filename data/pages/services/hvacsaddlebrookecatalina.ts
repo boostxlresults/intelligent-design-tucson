@@ -1,5 +1,6 @@
 // HVAC Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvacsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -303,6 +304,6 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, all our HVAC technicians are licensed by the Arizona Registrar of Contractors (ROC #340962), NATE-certified (North American Technician Excellence—the industry's highest certification), carry comprehensive insurance, and undergo background checks required for age-restricted community access. Our technicians average over 17 years of experience and receive ongoing training on the latest equipment and technologies. We're BBB A+ accredited with zero unresolved complaints."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('HVAC', 'SaddleBrooke / Catalina')
   }
 };

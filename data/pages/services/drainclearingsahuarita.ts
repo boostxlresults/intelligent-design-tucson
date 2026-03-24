@@ -2,6 +2,7 @@
 // Auto-generated from DrainClearing.tsx
 import type { ServicePageData } from '@/types/services';
 import { drainClearingFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const drainclearingsahuaritaData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Sahuarita AZ | Professional Clog Removal & Prevention',
@@ -646,5 +647,5 @@ export const drainclearingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: drainClearingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Drain Clearing', 'Sahuarita'),
 };

@@ -2,6 +2,7 @@
 // HVAC Services Vail - Comprehensive service page
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacvailData: ServicePageData = {
@@ -659,5 +660,5 @@ export const hvacvailData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Vail'),
 };

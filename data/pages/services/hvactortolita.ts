@@ -2,6 +2,7 @@
 // Auto-generated from HVACTortolita.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvactortolitaData: ServicePageData = {
@@ -644,5 +645,5 @@ export const hvactortolitaData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tortolita'),
 };

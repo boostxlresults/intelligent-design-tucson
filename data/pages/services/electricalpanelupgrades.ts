@@ -3,6 +3,7 @@
 import type { ServicePageData } from '@/types/services';
 import { electricalPanelUpgradesFAQs } from '@/data/faqs/electrical';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const electricalpanelupgradesData: ServicePageData = {
   // SEO & Meta
@@ -714,5 +715,5 @@ export const electricalpanelupgradesData: ServicePageData = {
   ]
   },
   faqs: electricalPanelUpgradesFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

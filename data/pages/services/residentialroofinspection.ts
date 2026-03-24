@@ -2,6 +2,7 @@
 // Auto-generated from ResidentialRoofInspection.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofInspectionFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofinspectionData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Inspection Tucson AZ | Professional Home Roof Inspections',
@@ -679,5 +680,5 @@ export const residentialroofinspectionData: ServicePageData = {
 ]
   },
   faqs: residentialRoofInspectionFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from ElectricalCoronadeTucson.tsx
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -646,5 +647,5 @@ export const electricalcoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Corona de Tucson'),
 };

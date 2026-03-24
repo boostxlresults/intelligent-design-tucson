@@ -2,6 +2,7 @@
 // Comprehensive Solar Installation Marana Page
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarinstallationmaranaData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Marana AZ | #1 Rated Solar Company | 23,000+ Reviews',
@@ -649,5 +650,5 @@ export const solarinstallationmaranaData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Marana'),
 };

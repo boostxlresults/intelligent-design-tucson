@@ -2,6 +2,7 @@
 // Auto-generated from RooterSpecial.tsx
 import type { ServicePageData } from '@/types/services';
 import { rooterSpecialFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const rooterspecialData: ServicePageData = {
@@ -644,5 +645,5 @@ export const rooterspecialData: ServicePageData = {
     ]
   },
   faqs: rooterSpecialFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

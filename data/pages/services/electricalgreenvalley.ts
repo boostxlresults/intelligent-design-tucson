@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Green Valley, AZ - Retirement Community Specialist
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Green Valley AZ | Panel Upgrades | Safety Inspections | Generator Installation',
@@ -670,5 +671,5 @@ export const electricalgreenvalleyData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Green Valley'),
 };

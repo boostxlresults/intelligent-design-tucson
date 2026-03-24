@@ -2,6 +2,7 @@
 // Auto-generated from LeakDetection.tsx
 import type { ServicePageData } from '@/types/services';
 import { leakDetectionFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const leakdetectionData: ServicePageData = {
   // SEO & Meta
   title: 'Leak Detection Tucson AZ | Advanced Non-Invasive Technology',
@@ -659,5 +660,5 @@ export const leakdetectionData: ServicePageData = {
 ]
   },
   faqs: leakDetectionFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

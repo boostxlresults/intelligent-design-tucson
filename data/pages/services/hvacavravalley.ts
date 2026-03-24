@@ -2,6 +2,7 @@
 // Auto-generated from HVACAvraValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvacavravalleyData: ServicePageData = {
   // SEO & Meta
@@ -663,5 +664,5 @@ export const hvacavravalleyData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Avra Valley'),
 };

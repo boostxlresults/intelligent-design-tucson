@@ -2,6 +2,7 @@
 // Auto-generated from SolarInstallationSahuarita.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const solarinstallationsahuaritaData: ServicePageData = {
   // SEO & Meta
@@ -670,5 +671,5 @@ export const solarinstallationsahuaritaData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Sahuarita'),
 };

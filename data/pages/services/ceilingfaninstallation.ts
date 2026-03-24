@@ -2,6 +2,7 @@
 // Auto-generated from CeilingFanInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { ceilingFanInstallationFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const ceilingfaninstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Ceiling Fan Installation Tucson AZ | Professional Fan Installation & Replacement',
@@ -653,5 +654,5 @@ export const ceilingfaninstallationData: ServicePageData = {
   ]
   },
   faqs: ceilingFanInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

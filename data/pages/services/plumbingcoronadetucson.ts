@@ -2,6 +2,7 @@
 // Comprehensive Plumbing Services for Corona de Tucson, AZ
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
@@ -594,5 +595,5 @@ export const plumbingcoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Corona de Tucson'),
 };

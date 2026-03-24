@@ -1,5 +1,6 @@
 // Electrical Services for Red Rock / Casa Grande, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const electricalredrockcasagrandeData: ServicePageData = {
@@ -286,6 +287,6 @@ export const electricalredrockcasagrandeData: ServicePageData = {
         answer: "We provide upfront, flat-rate pricing before starting any work—no hidden fees or hourly billing. We accept all major credit cards, checks, and cash. For larger projects like panel upgrades or whole-home rewiring, we offer financing through approved partners with competitive rates and flexible terms. We can also coordinate with your homeowners insurance for covered electrical damage repairs."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Electrical', 'Red Rock / Casa Grande')
   }
 };

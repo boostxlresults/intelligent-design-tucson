@@ -2,6 +2,7 @@
 // Auto-generated from HVACGreenValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacgreenvalleyData: ServicePageData = {
@@ -646,5 +647,5 @@ export const hvacgreenvalleyData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Green Valley'),
 };

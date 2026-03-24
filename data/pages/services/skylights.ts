@@ -2,6 +2,7 @@
 // Auto-generated from Skylights.tsx
 import type { ServicePageData } from '@/types/services';
 import { skylightsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const skylightsData: ServicePageData = {
   // SEO & Meta
   title: 'Skylights Tucson AZ | Professional Skylight Installation & Repair Services',
@@ -638,5 +639,5 @@ export const skylightsData: ServicePageData = {
 ]
   },
   faqs: skylightsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

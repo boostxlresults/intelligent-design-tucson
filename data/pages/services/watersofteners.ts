@@ -2,6 +2,7 @@
 // Auto-generated from WaterSofteners.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterSoftenersFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const watersoftenersData: ServicePageData = {
   // SEO & Meta
   title: 'Brita PRO Water Softener Installation Tucson AZ | Smart Features',
@@ -683,5 +684,5 @@ export const watersoftenersData: ServicePageData = {
 ]
   },
   faqs: waterSoftenersFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from SolarTaxCredits.tsx
 import type { ServicePageData } from '@/types/services';
 import { solarTaxCreditsFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solartaxcreditsData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Tax Credits Tucson AZ | Federal ITC & Arizona Solar Incentives 2025',
@@ -745,5 +746,5 @@ export const solartaxcreditsData: ServicePageData = {
 ]
   },
   faqs: solarTaxCreditsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

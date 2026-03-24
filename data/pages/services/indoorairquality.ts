@@ -2,6 +2,7 @@
 // Auto-generated from IndoorAirQuality.tsx
 import type { ServicePageData } from '@/types/services';
 import { indoorAirQualityFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const indoorairqualityData: ServicePageData = {
   // SEO & Meta
   title: 'Indoor Air Quality Tucson AZ | Air Purification & Humidifiers | Intelligent Design',
@@ -878,5 +879,5 @@ export const indoorairqualityData: ServicePageData = {
   ]
   },
   faqs: indoorAirQualityFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

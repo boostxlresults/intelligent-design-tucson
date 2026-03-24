@@ -2,6 +2,7 @@
 // Auto-generated from SinkRepairInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { sinkRepairInstallationFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const sinkrepairinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Sink Repair & Installation Tucson AZ | Kitchen & Bathroom Sinks',
@@ -655,5 +656,5 @@ export const sinkrepairinstallationData: ServicePageData = {
 ]
   },
   faqs: sinkRepairInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

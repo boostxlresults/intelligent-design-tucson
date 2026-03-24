@@ -1,5 +1,6 @@
 // Roofing Services for Catalina Foothills, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const roofingcatalinafoothillsData: ServicePageData = {
@@ -288,5 +289,5 @@ export const roofingcatalinafoothillsData: ServicePageData = {
     ]
   },
   
-  commonQuestions: []
+  commonQuestions: getRefinementQuestions('Roofing', 'Catalina Foothills')
 };

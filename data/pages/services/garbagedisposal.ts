@@ -2,6 +2,7 @@
 // Auto-generated from GarbageDisposal.tsx
 import type { ServicePageData } from '@/types/services';
 import { garbageDisposalFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const garbagedisposalData: ServicePageData = {
   // SEO & Meta
   title: 'Garbage Disposal Installation & Repair Tucson AZ | Professional Installation',
@@ -677,5 +678,5 @@ export const garbagedisposalData: ServicePageData = {
 ]
   },
   faqs: garbageDisposalFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

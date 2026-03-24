@@ -2,6 +2,7 @@
 // Expert HVAC Services for Corona de Tucson, Arizona
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvaccoronadetucsonData: ServicePageData = {
   // SEO & Meta
@@ -855,5 +856,5 @@ export const hvaccoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Corona de Tucson'),
 };

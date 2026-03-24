@@ -2,6 +2,7 @@
 // Auto-generated from HeatPumps.tsx
 import type { ServicePageData } from '@/types/services';
 import { acInstallationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heatpumpsData: ServicePageData = {
   // SEO & Meta
   title: 'Heat Pumps Tucson AZ | Heat Pump Installation, Repair & Service',
@@ -643,5 +644,5 @@ export const heatpumpsData: ServicePageData = {
 ]
   },
   faqs: acInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

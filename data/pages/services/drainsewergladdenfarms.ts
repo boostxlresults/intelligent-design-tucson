@@ -1,5 +1,6 @@
 // Drain & Sewer Services for Gladden Farms, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const drainsewergladdenfarmsData: ServicePageData = {
   // SEO & Meta
@@ -267,6 +268,6 @@ export const drainsewergladdenfarmsData: ServicePageData = {
         answer: "Yes, all our plumbers handling drain and sewer work are licensed by the Arizona Registrar of Contractors (ROC #340962) and carry comprehensive liability insurance. Our drain specialists average over 17 years of experience and receive ongoing training on the latest camera, hydro-jetting, and trenchless technologies. We're BBB A+ accredited with zero unresolved complaints and maintain all required permits and insurance for your complete protection."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Plumbing', 'Gladden Farms')
   }
 };

@@ -2,6 +2,7 @@
 // Auto-generated from HeaterRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { heaterTuneupFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heaterrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Heater Repair Tucson AZ | Furnace & Heating Repair Service',
@@ -675,5 +676,5 @@ export const heaterrepairData: ServicePageData = {
     ]
   },
   faqs: heaterTuneupFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

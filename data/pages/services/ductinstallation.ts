@@ -2,6 +2,7 @@
 // Auto-generated from DuctInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { ductInstallationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const ductinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Duct Installation Tucson AZ | New Ductwork Installation | Intelligent Design',
@@ -670,5 +671,5 @@ export const ductinstallationData: ServicePageData = {
 ]
   },
   faqs: ductInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

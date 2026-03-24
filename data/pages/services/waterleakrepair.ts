@@ -2,6 +2,7 @@
 // Auto-generated from WaterLeakRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterLeakRepairFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterleakrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Water Leak Repair Tucson AZ | Emergency Leak Detection & Pipe Repair',
@@ -760,5 +761,5 @@ export const waterleakrepairData: ServicePageData = {
 ]
   },
   faqs: waterLeakRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

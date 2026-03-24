@@ -2,6 +2,7 @@
 // Auto-generated from PlumbingCasasAdobes.tsx
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -652,5 +653,5 @@ export const plumbingcasasadobesData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Casas Adobes'),
 };

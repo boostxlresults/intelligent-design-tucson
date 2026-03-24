@@ -2,6 +2,7 @@
 // Auto-generated from HeaterTuneup.tsx
 import type { ServicePageData } from '@/types/services';
 import { heaterTuneupFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heatertuneupData: ServicePageData = {
   // SEO & Meta
   title: 'Heater Tune-Up Tucson AZ | Furnace Maintenance & Inspection',
@@ -673,5 +674,5 @@ export const heatertuneupData: ServicePageData = {
     ]
   },
   faqs: heaterTuneupFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

@@ -1,6 +1,7 @@
 // Comprehensive Roofing Services for Green Valley, AZ - Retirement Community Specialists
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const roofinggreenvalleyData: ServicePageData = {
   // SEO & Meta
@@ -654,5 +655,5 @@ export const roofinggreenvalleyData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Green Valley'),
 };

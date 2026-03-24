@@ -2,6 +2,7 @@
 // Auto-generated from SolarInstallationAvraValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -704,5 +705,5 @@ export const solarinstallationavravalleyData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Avra Valley'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from HomeEnergyUpgrades.tsx
 import type { ServicePageData } from '@/types/services';
 import { homeEnergyUpgradesFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const homeenergyupgradesData: ServicePageData = {
   // SEO & Meta
   title: 'Home Energy Upgrades Tucson AZ | Energy Efficiency Improvements & Savings',
@@ -693,5 +694,5 @@ export const homeenergyupgradesData: ServicePageData = {
 ]
   },
   faqs: homeEnergyUpgradesFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

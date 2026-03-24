@@ -2,6 +2,7 @@
 // Auto-generated from SolarInstallationTucsonEstates.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -226,5 +227,5 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson Estates'),
 };

@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Avra Valley, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const electricalavravalleyData: ServicePageData = {
   // SEO & Meta
@@ -652,5 +653,5 @@ export const electricalavravalleyData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Avra Valley'),
 };

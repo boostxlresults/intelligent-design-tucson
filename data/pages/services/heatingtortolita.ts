@@ -1,6 +1,7 @@
 // Auto-generated from HeatingTortolita.tsx
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingtortolitaData: ServicePageData = {
   // SEO & Meta
@@ -270,5 +271,5 @@ export const heatingtortolitaData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tortolita'),
 };

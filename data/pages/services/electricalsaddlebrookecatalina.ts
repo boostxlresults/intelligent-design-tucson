@@ -1,5 +1,6 @@
 // Electrical Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const electricalsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -285,6 +286,6 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, all our electricians are licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance, and undergo background checks required for age-restricted community access. Our technicians average over 17 years of experience and receive ongoing training on the latest electrical codes, safety practices, and technologies. We're also BBB A+ accredited with zero unresolved complaints."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Electrical', 'SaddleBrooke / Catalina')
   }
 };

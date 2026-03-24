@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for Vail, AZ - Rural & Ranch Property Specialists
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingvailData: ServicePageData = {
   // SEO & Meta
@@ -647,5 +648,5 @@ export const heatingvailData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Vail'),
 };

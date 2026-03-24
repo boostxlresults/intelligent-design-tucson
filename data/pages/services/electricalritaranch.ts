@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Rita Ranch, AZ - Family-Friendly Growing Community
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalritaranchData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Rita Ranch AZ | Licensed Electrical Services | Panel Upgrades',
@@ -661,5 +662,5 @@ export const electricalritaranchData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Rita Ranch'),
 };

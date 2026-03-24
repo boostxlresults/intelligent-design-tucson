@@ -1,5 +1,6 @@
 // Drain & Sewer Services for Catalina Foothills, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const drainsewercatalinafoothillsData: ServicePageData = {
   // SEO & Meta
@@ -329,5 +330,5 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
     ]
   },
   
-  commonQuestions: []
+  commonQuestions: getRefinementQuestions('Plumbing', 'Catalina Foothills')
 };

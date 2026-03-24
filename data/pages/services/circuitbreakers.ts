@@ -2,6 +2,7 @@
 // Auto-generated from CircuitBreakers.tsx
 import type { ServicePageData } from '@/types/services';
 import { circuitBreakersFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const circuitbreakersData: ServicePageData = {
   // SEO & Meta
   title: 'Circuit Breakers Tucson AZ | Circuit Breaker Repair & Replacement Service',
@@ -697,5 +698,5 @@ export const circuitbreakersData: ServicePageData = {
   ]
   },
   faqs: circuitBreakersFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for East Tucson, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaleasttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician East Tucson AZ | Panel Upgrades | EV Chargers | Licensed Electrical Services',
@@ -646,5 +647,5 @@ export const electricaleasttucsonData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'East Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from HVACCortaro.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvaccortaroData: ServicePageData = {
   // SEO & Meta
@@ -644,5 +645,5 @@ export const hvaccortaroData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Cortaro'),
 };

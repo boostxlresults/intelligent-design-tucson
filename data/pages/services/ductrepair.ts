@@ -2,6 +2,7 @@
 // Auto-generated from DuctRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { ductRepairFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const ductrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Duct Repair Tucson AZ | Air Duct Repair & Leak Sealing | Intelligent Design',
@@ -752,5 +753,5 @@ export const ductrepairData: ServicePageData = {
   faqs: ductRepairFAQs,
 
   // Common Questions
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

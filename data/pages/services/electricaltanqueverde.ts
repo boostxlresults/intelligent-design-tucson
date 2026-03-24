@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Tanque Verde, AZ - Upscale Northeast Tucson Homes
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaltanqueverdeData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Tanque Verde AZ | Licensed Electrical Services | Smart Home Electrical',
@@ -647,5 +648,5 @@ export const electricaltanqueverdeData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tanque Verde'),
 };

@@ -2,6 +2,7 @@
 // Comprehensive Plumbing Services for Picture Rocks, AZ - Rural Northwest Tucson Community
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingpicturerocksData: ServicePageData = {
   // SEO & Meta
@@ -587,5 +588,5 @@ export const plumbingpicturerocksData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Picture Rocks'),
 };

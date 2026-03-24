@@ -2,6 +2,7 @@
 // Auto-generated from SolarPanelCosts.tsx
 import type { ServicePageData } from '@/types/services';
 import { solarPanelCostsFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarpanelcostsData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Panel Costs Tucson AZ | Solar Installation Pricing & ROI Analysis 2025',
@@ -690,5 +691,5 @@ export const solarpanelcostsData: ServicePageData = {
 ]
   },
   faqs: solarPanelCostsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from RoofingTucsonEstates.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -590,5 +591,5 @@ export const roofingtucsonestatesData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson Estates'),
 };

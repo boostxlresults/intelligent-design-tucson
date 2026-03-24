@@ -2,6 +2,7 @@
 // Auto-generated from HeatingTanqueVerde.tsx
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const heatingtanqueverdeData: ServicePageData = {
@@ -644,5 +645,5 @@ export const heatingtanqueverdeData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tanque Verde'),
 };

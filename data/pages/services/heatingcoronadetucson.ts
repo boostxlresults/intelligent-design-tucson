@@ -2,6 +2,7 @@
 // Auto-generated from HeatingCoronadeTucson.tsx
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
@@ -326,5 +327,5 @@ export const heatingcoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Corona de Tucson'),
 };

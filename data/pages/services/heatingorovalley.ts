@@ -2,6 +2,7 @@
 // Comprehensive Heating Services Page for Oro Valley
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingorovalleyData: ServicePageData = {
   // SEO & Meta
@@ -654,5 +655,5 @@ export const heatingorovalleyData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Oro Valley'),
 };

@@ -1,5 +1,6 @@
 // Heating Services for Red Rock / Casa Grande, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const heatingredrockcasagrandeData: ServicePageData = {
@@ -286,6 +287,6 @@ export const heatingredrockcasagrandeData: ServicePageData = {
         answer: "Yes, all our HVAC technicians are licensed by the Arizona Registrar of Contractors (ROC #340962) and carry comprehensive liability insurance. Our technicians average over 17 years of experience and receive ongoing factory training on the latest heating equipment and technologies. We're also BBB A+ accredited with zero unresolved complaints and maintain all required local permits and insurance for your protection."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('HVAC', 'Red Rock / Casa Grande')
   }
 };

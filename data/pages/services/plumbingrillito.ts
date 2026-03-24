@@ -2,6 +2,7 @@
 // Comprehensive Plumbing Services for Rillito, AZ - Northwest Tucson Unincorporated Community
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const plumbingrillitoData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Services Rillito AZ | Licensed Plumber | Water Heater & Sewer Repair',
@@ -274,5 +275,5 @@ export const plumbingrillitoData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Rillito'),
 };

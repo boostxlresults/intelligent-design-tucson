@@ -2,6 +2,7 @@
 // Auto-generated from FlatRoofs.tsx
 import type { ServicePageData } from '@/types/services';
 import { flatRoofsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const flatroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Flat Roof Repair & Installation Tucson AZ | TPO, EPDM, Modified Bitumen',
@@ -947,5 +948,5 @@ export const flatroofsData: ServicePageData = {
 ]
   },
   faqs: flatRoofsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

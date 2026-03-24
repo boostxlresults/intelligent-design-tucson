@@ -2,6 +2,7 @@
 // Auto-generated from PlumbingDrexelHeights.tsx
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -218,5 +219,5 @@ export const plumbingdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Drexel Heights'),
 };

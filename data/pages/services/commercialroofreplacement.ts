@@ -2,6 +2,7 @@
 // Auto-generated from CommercialRoofReplacement.tsx
 import type { ServicePageData } from '@/types/services';
 import { commercialRoofReplacementFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialroofreplacementData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Replacement Tucson AZ | Complete Business Roof Replacement',
@@ -670,5 +671,5 @@ export const commercialroofreplacementData: ServicePageData = {
 ]
   },
   faqs: commercialRoofReplacementFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

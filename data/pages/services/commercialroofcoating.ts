@@ -2,6 +2,7 @@
 // Auto-generated from CommercialRoofCoating.tsx
 import type { ServicePageData } from '@/types/services';
 import { commercialRoofCoatingFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialroofcoatingData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Coating Tucson AZ | Cool Roof Coatings & Energy Savings',
@@ -721,5 +722,5 @@ export const commercialroofcoatingData: ServicePageData = {
 ]
   },
   faqs: commercialRoofCoatingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

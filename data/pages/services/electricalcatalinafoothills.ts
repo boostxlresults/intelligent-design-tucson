@@ -1,5 +1,6 @@
 // Electrical Services for Catalina Foothills, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const electricalcatalinafoothillsData: ServicePageData = {
@@ -316,5 +317,5 @@ export const electricalcatalinafoothillsData: ServicePageData = {
     ]
   },
   
-  commonQuestions: []
+  commonQuestions: getRefinementQuestions('Electrical', 'Catalina Foothills')
 };

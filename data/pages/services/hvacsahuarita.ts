@@ -2,6 +2,7 @@
 // Auto-generated from HVACSahuarita.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacsahuaritaData: ServicePageData = {
@@ -701,5 +702,5 @@ export const hvacsahuaritaData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Sahuarita'),
 };

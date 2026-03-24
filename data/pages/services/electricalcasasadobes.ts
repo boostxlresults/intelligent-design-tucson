@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Casas Adobes, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Casas Adobes AZ | Panel Upgrades | EV Chargers | Licensed Electrical Services',
@@ -670,5 +671,5 @@ export const electricalcasasadobesData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Casas Adobes'),
 };

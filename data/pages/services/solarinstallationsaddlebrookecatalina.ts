@@ -1,5 +1,6 @@
 // Solar Installation Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -285,6 +286,6 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, all our solar installers are licensed by the Arizona Registrar of Contractors (ROC #340962), NABCEP-certified (North American Board of Certified Energy Practitioners—the gold standard for solar installation), carry comprehensive insurance, and undergo background checks for age-restricted communities. We're BBB A+ accredited with zero unresolved complaints and have served thousands of satisfied solar customers throughout southern Arizona over 46 years."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Solar', 'SaddleBrooke / Catalina')
   }
 };

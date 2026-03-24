@@ -2,6 +2,7 @@
 // Auto-generated from BidetInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { bidetInstallationFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const bidetinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Bidet Installation Tucson AZ | Electronic Bidet Seats & Standalone Bidets',
@@ -698,5 +699,5 @@ export const bidetinstallationData: ServicePageData = {
 ]
   },
   faqs: bidetInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

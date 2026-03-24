@@ -2,6 +2,7 @@
 // Auto-generated from HVACGladdenFarms.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacgladdenfarmsData: ServicePageData = {
@@ -620,5 +621,5 @@ export const hvacgladdenfarmsData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Gladden Farms'),
 };

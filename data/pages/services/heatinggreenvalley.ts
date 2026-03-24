@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for Green Valley, AZ - Retirement Community Specialist
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatinggreenvalleyData: ServicePageData = {
   // SEO & Meta
@@ -795,5 +796,5 @@ export const heatinggreenvalleyData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Green Valley'),
 };

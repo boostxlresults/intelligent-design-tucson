@@ -2,6 +2,7 @@
 // Comprehensive Solar Installation Vail Page - 650+ lines with ServiceTitan metrics, case studies, guides, and ROI analysis
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarinstallationvailData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Vail AZ | #1 Rated Solar Panel Installation Company',
@@ -647,5 +648,5 @@ export const solarinstallationvailData: ServicePageData = {
     ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Vail'),
 };

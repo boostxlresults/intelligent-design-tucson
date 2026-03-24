@@ -1,6 +1,7 @@
 // Comprehensive Heating Services for Casas Adobes, AZ
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heatingcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Casas Adobes AZ | Furnace Repair & Installation | 23,000+ Reviews',
@@ -275,5 +276,5 @@ export const heatingcasasadobesData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Casas Adobes'),
 };

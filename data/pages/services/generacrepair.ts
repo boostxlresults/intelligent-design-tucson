@@ -2,6 +2,7 @@
 // Auto-generated from GeneracRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { generacRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const generacrepairData: ServicePageData = {
   // SEO & Meta
   title: 'GENERAC Generator Repair Tucson AZ | Expert Maintenance & Service',
@@ -682,5 +683,5 @@ export const generacrepairData: ServicePageData = {
   ]
   },
   faqs: generacRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

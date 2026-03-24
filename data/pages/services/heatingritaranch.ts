@@ -1,6 +1,7 @@
 // Comprehensive Heating Services for Rita Ranch, AZ - Growing Family Community
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingritaranchData: ServicePageData = {
   // SEO & Meta
@@ -228,5 +229,5 @@ export const heatingritaranchData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Rita Ranch'),
 };

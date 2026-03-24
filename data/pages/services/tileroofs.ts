@@ -2,6 +2,7 @@
 // Auto-generated from TileRoofs.tsx
 import type { ServicePageData } from '@/types/services';
 import { tileRoofsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const tileroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Tile Roofing Tucson AZ | Clay & Concrete Tile Installation & Repair',
@@ -653,5 +654,5 @@ export const tileroofsData: ServicePageData = {
 ]
   },
   faqs: tileRoofsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

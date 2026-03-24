@@ -2,6 +2,7 @@
 // Auto-generated from SolarAC.tsx
 import type { ServicePageData } from '@/types/services';
 import { solarACIntegrationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solaracData: ServicePageData = {
   // SEO & Meta
   title: 'EG4 Solar Powered Air Conditioner Tucson | Hybrid Mini Split AC Installation | Intelligent Design',
@@ -757,5 +758,5 @@ export const solaracData: ServicePageData = {
 ]
   },
   faqs: solarACIntegrationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

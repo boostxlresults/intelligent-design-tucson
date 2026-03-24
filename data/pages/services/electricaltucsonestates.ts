@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Tucson Estates, AZ - Established West Tucson Community
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaltucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Tucson Estates AZ | Licensed Electrical Services | Panel Upgrades',
@@ -649,5 +650,5 @@ export const electricaltucsonestatesData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson Estates'),
 };

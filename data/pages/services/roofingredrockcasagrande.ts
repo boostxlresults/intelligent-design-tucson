@@ -1,5 +1,6 @@
 // Roofing Services for Red Rock / Casa Grande, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const roofingredrockcasagrandeData: ServicePageData = {
@@ -286,6 +287,6 @@ export const roofingredrockcasagrandeData: ServicePageData = {
         answer: "Yes, all our roofing contractors are licensed by the Arizona Registrar of Contractors (ROC #340962) and carry comprehensive general liability and workers compensation insurance. Our crews average over 17 years of roofing experience and receive ongoing training on the latest materials and installation techniques. We're BBB A+ accredited with zero unresolved complaints and maintain all required permits and insurance for your complete protection."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Roofing', 'Red Rock / Casa Grande')
   }
 };

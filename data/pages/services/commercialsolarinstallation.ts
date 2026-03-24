@@ -2,6 +2,7 @@
 // Auto-generated from CommercialSolarInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { commercialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialsolarinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Solar Installation Tucson AZ | Business Solar Panel Systems',
@@ -673,5 +674,5 @@ export const commercialsolarinstallationData: ServicePageData = {
 ]
   },
   faqs: commercialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

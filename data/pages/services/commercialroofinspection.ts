@@ -2,6 +2,7 @@
 // Auto-generated from CommercialRoofInspection.tsx
 import type { ServicePageData } from '@/types/services';
 import { commercialRoofInspectionFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialroofinspectionData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Inspection Tucson AZ | Professional Roof Assessment',
@@ -643,5 +644,5 @@ export const commercialroofinspectionData: ServicePageData = {
 ]
   },
   faqs: commercialRoofInspectionFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

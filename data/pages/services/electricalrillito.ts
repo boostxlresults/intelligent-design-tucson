@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Rillito, AZ - Rural Northwest Tucson Community
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalrillitoData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Rillito AZ | Licensed Electrical Services | Panel Upgrades | Well Pump Electrical',
@@ -677,5 +678,5 @@ export const electricalrillitoData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Rillito'),
 };

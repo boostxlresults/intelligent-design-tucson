@@ -2,6 +2,7 @@
 // Auto-generated from DuctlessMiniSplitInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { ductlessMiniSplitInstallationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const ductlessminisplitinstallationData: ServicePageData = {
@@ -990,5 +991,5 @@ export const ductlessminisplitinstallationData: ServicePageData = {
 ]
   },
   faqs: ductlessMiniSplitInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

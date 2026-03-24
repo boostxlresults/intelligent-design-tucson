@@ -1,6 +1,7 @@
 // Comprehensive Plumbing Services for Sahuarita, AZ
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingsahuaritaData: ServicePageData = {
   // SEO & Meta
@@ -646,5 +647,5 @@ export const plumbingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Sahuarita'),
 };

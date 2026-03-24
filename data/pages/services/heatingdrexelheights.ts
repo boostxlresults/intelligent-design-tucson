@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for Drexel Heights
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingdrexelheightsData: ServicePageData = {
   // SEO & Meta
@@ -330,5 +331,5 @@ export const heatingdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Drexel Heights'),
 };

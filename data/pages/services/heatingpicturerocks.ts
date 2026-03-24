@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for Picture Rocks, AZ - Rural Northwest Tucson Desert Community
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heatingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: 'Heating Services Picture Rocks AZ | Furnace Repair & Heat Pump Installation | 24/7 Emergency',
@@ -521,5 +522,5 @@ export const heatingpicturerocksData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Picture Rocks'),
 };

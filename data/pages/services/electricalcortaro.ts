@@ -2,6 +2,7 @@
 // Auto-generated from ElectricalCortaro.tsx
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalcortaroData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Cortaro AZ | Ranch & Rural Electrical | Panel Upgrades | Well Pumps | Barn Wiring',
@@ -664,5 +665,5 @@ export const electricalcortaroData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Cortaro'),
 };

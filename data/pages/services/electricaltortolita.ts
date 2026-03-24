@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Tortolita, AZ - New Development & Modern Homes
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaltortolitaData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Tortolita AZ | Licensed Electrical Services | New Home Electrical',
@@ -645,5 +646,5 @@ export const electricaltortolitaData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tortolita'),
 };

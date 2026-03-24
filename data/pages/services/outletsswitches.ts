@@ -2,6 +2,7 @@
 // Auto-generated from OutletsSwitches.tsx
 import type { ServicePageData } from '@/types/services';
 import { outletsSwitchesFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const outletsswitchesData: ServicePageData = {
   // SEO & Meta
   title: 'Outlet & Switch Installation Tucson AZ | GFCI, USB, Smart Switches',
@@ -666,5 +667,5 @@ export const outletsswitchesData: ServicePageData = {
   ]
   },
   faqs: outletsSwitchesFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

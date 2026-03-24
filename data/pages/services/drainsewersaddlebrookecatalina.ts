@@ -1,5 +1,6 @@
 // Drain & Sewer Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -285,6 +286,6 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, all our drain and sewer technicians are licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance, undergo background checks for age-restricted community access, and average over 15 years of experience. We use professional-grade equipment including HD camera inspection systems, hydro-jetters, and specialized drain clearing tools. We're BBB A+ accredited with zero unresolved complaints and thousands of satisfied Saddle Brooke / Catalina customers."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Plumbing', 'SaddleBrooke / Catalina')
   }
 };

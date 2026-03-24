@@ -2,6 +2,7 @@
 // Auto-generated from HVACRillito.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacrillitoData: ServicePageData = {
@@ -718,5 +719,5 @@ export const hvacrillitoData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Rillito'),
 };

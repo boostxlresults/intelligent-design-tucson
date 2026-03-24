@@ -2,6 +2,7 @@
 // Auto-generated from DrainClearing.tsx
 import type { ServicePageData } from '@/types/services';
 import { drainClearingFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const drainclearingdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Drexel Heights AZ | Professional Clog Removal & Prevention',
@@ -646,5 +647,5 @@ export const drainclearingdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: drainClearingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Drain Clearing', 'Drexel Heights'),
 };

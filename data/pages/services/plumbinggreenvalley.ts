@@ -2,6 +2,7 @@
 // Comprehensive Plumbing Services for Green Valley, AZ
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbinggreenvalleyData: ServicePageData = {
   // SEO & Meta
@@ -653,5 +654,5 @@ export const plumbinggreenvalleyData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Green Valley'),
 };

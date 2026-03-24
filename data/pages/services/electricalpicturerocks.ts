@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Picture Rocks, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Picture Rocks AZ | Rural Electrical Services | Solar & Well Pumps',
@@ -650,5 +651,5 @@ export const electricalpicturerocksData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Picture Rocks'),
 };

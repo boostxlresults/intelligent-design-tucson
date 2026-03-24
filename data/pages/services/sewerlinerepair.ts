@@ -2,6 +2,7 @@
 // Auto-generated from SewerLineRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const sewerlinerepairData: ServicePageData = {
   // SEO & Meta
   title: 'Sewer Line Repair Tucson AZ | Trenchless & Traditional Sewer Replacement',
@@ -683,5 +684,5 @@ export const sewerlinerepairData: ServicePageData = {
 ]
   },
   faqs: sewerLineRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for Rillito, AZ - Rural Northwest Tucson Community
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingrillitoData: ServicePageData = {
   // SEO & Meta
@@ -706,5 +707,5 @@ export const heatingrillitoData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Rillito'),
 };

@@ -1,5 +1,6 @@
 // Plumbing Services for Red Rock / Casa Grande, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const plumbingredrockcasagrandeData: ServicePageData = {
@@ -286,6 +287,6 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
         answer: "Yes, all our plumbers are licensed by the Arizona Registrar of Contractors (ROC #340962) and carry comprehensive liability insurance. Our plumbers average over 17 years of experience and undergo continuous training on the latest plumbing codes, technologies, and water quality systems. We're BBB A+ accredited with zero unresolved complaints and maintain all required local permits and insurance for your protection."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Plumbing', 'Red Rock / Casa Grande')
   }
 };

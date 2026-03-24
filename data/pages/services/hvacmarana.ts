@@ -2,6 +2,7 @@
 // Auto-generated from HVACMarana.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvacmaranaData: ServicePageData = {
   // SEO & Meta
@@ -660,5 +661,5 @@ export const hvacmaranaData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Marana'),
 };

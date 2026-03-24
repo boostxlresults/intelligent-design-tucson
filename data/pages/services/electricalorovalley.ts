@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Oro Valley, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Oro Valley AZ | Panel Upgrades | EV Chargers | Smart Home | Emergency Service',
@@ -645,5 +646,5 @@ export const electricalorovalleyData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Oro Valley'),
 };

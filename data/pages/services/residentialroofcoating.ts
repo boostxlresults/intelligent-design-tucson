@@ -2,6 +2,7 @@
 // Auto-generated from ResidentialRoofCoating.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofCoatingFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofcoatingData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Coating Tucson AZ | Cool Roof Coatings & UV Protection',
@@ -642,5 +643,5 @@ export const residentialroofcoatingData: ServicePageData = {
 ]
   },
   faqs: residentialRoofCoatingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

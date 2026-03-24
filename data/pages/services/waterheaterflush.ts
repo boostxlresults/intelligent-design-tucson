@@ -2,6 +2,7 @@
 // Auto-generated from WaterHeaterFlush.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterHeaterFlushFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterheaterflushData: ServicePageData = {
   // SEO & Meta
   title: 'Water Heater Flush & Maintenance Tucson AZ | Extend Heater Lifespan',
@@ -721,5 +722,5 @@ export const waterheaterflushData: ServicePageData = {
 ]
   },
   faqs: waterHeaterFlushFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Comprehensive Heating Services Page for Marana
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingmaranaData: ServicePageData = {
   // SEO & Meta
@@ -656,5 +657,5 @@ export const heatingmaranaData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Marana'),
 };

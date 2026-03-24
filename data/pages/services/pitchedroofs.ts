@@ -2,6 +2,7 @@
 // Auto-generated from PitchedRoofs.tsx
 import type { ServicePageData } from '@/types/services';
 import { pitchedRoofsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const pitchedroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Pitched Roof Installation Tucson AZ | Sloped Roof Systems & Repair',
@@ -673,5 +674,5 @@ export const pitchedroofsData: ServicePageData = {
 ]
   },
   faqs: pitchedRoofsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

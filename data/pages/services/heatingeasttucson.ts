@@ -2,6 +2,7 @@
 // Comprehensive Heating Services Page for East Tucson
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingeasttucsonData: ServicePageData = {
   // SEO & Meta
@@ -243,5 +244,5 @@ export const heatingeasttucsonData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'East Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from ToiletInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { toiletInstallationFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const toiletinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Toilet Installation & Repair Tucson AZ | Expert Toilet Replacement',
@@ -669,5 +670,5 @@ export const toiletinstallationData: ServicePageData = {
 ]
   },
   faqs: toiletInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from GladdenFarms.tsx
 import type { ServicePageData } from '@/types/services';
 import { generalAreaFAQs } from '@/data/faqs/general';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -118,5 +119,5 @@ export const gladdenfarmsData: ServicePageData = {
 ]
   },
   faqs: generalAreaFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

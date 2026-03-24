@@ -2,6 +2,7 @@
 // Comprehensive Heating Services for SaddleBrooke, AZ - Premier Active Adult Community
 import type { ServicePageData } from '@/types/services';
 import { heatingLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const heatingsaddlebrookeData: ServicePageData = {
   // SEO & Meta
@@ -619,5 +620,5 @@ export const heatingsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: heatingLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'SaddleBrooke'),
 };

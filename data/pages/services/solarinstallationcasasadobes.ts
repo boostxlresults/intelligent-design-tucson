@@ -2,6 +2,7 @@
 // Comprehensive Solar Installation Page for Casas Adobes
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarinstallationcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Casas Adobes AZ | Solar Panel Installation & Design',
@@ -659,5 +660,5 @@ export const solarinstallationcasasadobesData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Casas Adobes'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from Furnaces.tsx
 import type { ServicePageData } from '@/types/services';
 import { heaterTuneupFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const furnacesData: ServicePageData = {
@@ -691,5 +692,5 @@ export const furnacesData: ServicePageData = {
   ]
   },
   faqs: heaterTuneupFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

@@ -2,6 +2,7 @@
 // Auto-generated from WaterFiltration.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterFiltrationFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterfiltrationData: ServicePageData = {
   // SEO & Meta
   title: 'Brita PRO® Water Filtration Systems Tucson | Whole-Home Water Filters | Intelligent Design',
@@ -666,5 +667,5 @@ export const waterfiltrationData: ServicePageData = {
   ]
   },
   faqs: waterFiltrationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

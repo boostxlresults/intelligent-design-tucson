@@ -2,6 +2,7 @@
 // Expert HVAC Services for Drexel Heights, Arizona
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const hvacdrexelheightsData: ServicePageData = {
   // SEO & Meta
@@ -654,5 +655,5 @@ export const hvacdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Drexel Heights'),
 };

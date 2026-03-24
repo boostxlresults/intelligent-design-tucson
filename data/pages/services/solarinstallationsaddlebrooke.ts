@@ -2,6 +2,7 @@
 // Auto-generated from SolarInstallationSaddleBrooke.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -226,5 +227,5 @@ export const solarinstallationsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'SaddleBrooke'),
 };

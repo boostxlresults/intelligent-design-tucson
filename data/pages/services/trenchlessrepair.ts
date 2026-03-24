@@ -2,6 +2,7 @@
 // Auto-generated from TrenchlessRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { trenchlessRepairFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const trenchlessrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Trenchless Sewer Repair & Pipe Lining Tucson AZ | Certified IPT Partner',
@@ -652,5 +653,5 @@ export const trenchlessrepairData: ServicePageData = {
   ]
   },
   faqs: trenchlessRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

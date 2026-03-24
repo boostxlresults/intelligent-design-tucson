@@ -2,6 +2,7 @@
 // Auto-generated from SolarMaintenance.tsx
 import type { ServicePageData } from '@/types/services';
 import { solarMaintenanceFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarmaintenanceData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Maintenance Tucson AZ | Solar Panel Cleaning & Monitoring Services',
@@ -719,5 +720,5 @@ export const solarmaintenanceData: ServicePageData = {
 ]
   },
   faqs: solarMaintenanceFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

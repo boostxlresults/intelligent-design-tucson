@@ -2,6 +2,7 @@
 // Comprehensive Roofing Services for Oro Valley, AZ
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const roofingorovalleyData: ServicePageData = {
   // SEO & Meta
@@ -649,5 +650,5 @@ export const roofingorovalleyData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Oro Valley'),
 };

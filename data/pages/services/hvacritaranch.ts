@@ -2,6 +2,7 @@
 // Auto-generated from HVACRitaRanch.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacritaranchData: ServicePageData = {
@@ -649,5 +650,5 @@ export const hvacritaranchData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Rita Ranch'),
 };

@@ -1,6 +1,7 @@
 // Comprehensive Roofing Services for Sahuarita, AZ
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const roofingsahuaritaData: ServicePageData = {
   // SEO & Meta
@@ -647,5 +648,5 @@ export const roofingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Sahuarita'),
 };

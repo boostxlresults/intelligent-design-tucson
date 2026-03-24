@@ -2,6 +2,7 @@
 // Auto-generated from HomeEnergyAudit.tsx
 import type { ServicePageData } from '@/types/services';
 import { homeEnergyAuditFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const homeenergyauditData: ServicePageData = {
   // SEO & Meta
   title: 'Home Energy Audit Tucson AZ | Energy Efficiency Assessment & Solar Consultation',
@@ -728,5 +729,5 @@ export const homeenergyauditData: ServicePageData = {
 ]
   },
   faqs: homeEnergyAuditFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

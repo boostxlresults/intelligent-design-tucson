@@ -2,6 +2,7 @@
 // Comprehensive Roofing Services for Marana, AZ
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const roofingmaranaData: ServicePageData = {
   // SEO & Meta
@@ -647,5 +648,5 @@ export const roofingmaranaData: ServicePageData = {
 ]
   },
   faqs: residentialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Marana'),
 };

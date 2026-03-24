@@ -2,6 +2,7 @@
 // Auto-generated from SolarInstallationTortolita.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -226,5 +227,5 @@ export const solarinstallationtortolitaData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tortolita'),
 };

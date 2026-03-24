@@ -2,6 +2,7 @@
 // Auto-generated from ElectricalRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Electrical Repair Tucson AZ | 24/7 Emergency Electrician Services',
@@ -693,5 +694,5 @@ export const electricalrepairData: ServicePageData = {
   ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

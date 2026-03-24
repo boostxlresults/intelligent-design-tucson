@@ -1,6 +1,7 @@
 // Comprehensive Plumbing Services for Oro Valley, AZ
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingorovalleyData: ServicePageData = {
   // SEO & Meta
@@ -692,5 +693,5 @@ export const plumbingorovalleyData: ServicePageData = {
 ]
   },
   faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Oro Valley'),
 };

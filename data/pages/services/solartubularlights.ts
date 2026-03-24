@@ -2,6 +2,7 @@
 // Auto-generated from SolarTubularLights.tsx
 import type { ServicePageData } from '@/types/services';
 import { solarTubularLightsFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solartubularlightsData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Tubular Lights Tucson AZ | Tubular Skylights & Natural Daylighting',
@@ -689,5 +690,5 @@ export const solartubularlightsData: ServicePageData = {
 ]
   },
   faqs: solarTubularLightsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

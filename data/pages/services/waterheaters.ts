@@ -2,6 +2,7 @@
 // Auto-generated from WaterHeaters.tsx
 import type { ServicePageData } from '@/types/services';
 import { waterHeatersFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterheatersData: ServicePageData = {
   // SEO & Meta
   title: 'Water Heater Services Tucson AZ | Tank, Tankless, Hybrid Water Heaters',
@@ -700,5 +701,5 @@ export const waterheatersData: ServicePageData = {
 ]
   },
   faqs: waterHeatersFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

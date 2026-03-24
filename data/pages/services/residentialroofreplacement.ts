@@ -2,6 +2,7 @@
 // Auto-generated from ResidentialRoofReplacement.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofReplacementFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofreplacementData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Replacement Tucson AZ | Complete Home Roof Replacement',
@@ -681,5 +682,5 @@ export const residentialroofreplacementData: ServicePageData = {
 ]
   },
   faqs: residentialRoofReplacementFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

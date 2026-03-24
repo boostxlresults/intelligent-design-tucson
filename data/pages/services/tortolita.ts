@@ -2,6 +2,7 @@
 // Auto-generated from Tortolita.tsx
 import type { ServicePageData } from '@/types/services';
 import { generalAreaFAQs } from '@/data/faqs/general';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 
@@ -128,5 +129,5 @@ export const tortolitaData: ServicePageData = {
 ]
   },
   faqs: generalAreaFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

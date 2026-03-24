@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Drexel Heights, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaldrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Drexel Heights AZ | Panel Upgrades | EV Chargers | Licensed Electrical Services',
@@ -649,5 +650,5 @@ export const electricaldrexelheightsData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Drexel Heights'),
 };

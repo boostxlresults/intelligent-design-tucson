@@ -2,6 +2,7 @@
 // Comprehensive Solar Installation Oro Valley Page
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarinstallationorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Oro Valley AZ | #1 Rated Solar Company | 23,000+ Reviews',
@@ -682,5 +683,5 @@ export const solarinstallationorovalleyData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Oro Valley'),
 };

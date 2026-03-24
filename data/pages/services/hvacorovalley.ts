@@ -2,6 +2,7 @@
 // Auto-generated from HVACOroValley.tsx
 import type { ServicePageData } from '@/types/services';
 import { hvacLocationFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const hvacorovalleyData: ServicePageData = {
@@ -729,5 +730,5 @@ export const hvacorovalleyData: ServicePageData = {
 ]
   },
   faqs: hvacLocationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Oro Valley'),
 };

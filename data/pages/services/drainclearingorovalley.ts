@@ -2,6 +2,7 @@
 // Auto-generated from DrainClearing.tsx
 import type { ServicePageData } from '@/types/services';
 import { drainClearingFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const drainclearingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Oro Valley AZ | Professional Clog Removal & Prevention',
@@ -646,5 +647,5 @@ export const drainclearingorovalleyData: ServicePageData = {
 ]
   },
   faqs: drainClearingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Drain Clearing', 'Oro Valley'),
 };

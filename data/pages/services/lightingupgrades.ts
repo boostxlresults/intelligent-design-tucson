@@ -2,6 +2,7 @@
 // Auto-generated from LightingUpgrades.tsx
 import type { ServicePageData } from '@/types/services';
 import { lightingUpgradesFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const lightingupgradesData: ServicePageData = {
   // SEO & Meta
   title: 'Lighting Upgrades Tucson AZ | LED Conversion | Smart Lighting | Recessed Lighting Installation',
@@ -662,5 +663,5 @@ export const lightingupgradesData: ServicePageData = {
   ]
   },
   faqs: lightingUpgradesFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

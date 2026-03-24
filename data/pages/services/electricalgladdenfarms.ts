@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Gladden Farms, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Gladden Farms AZ | Licensed Electrical Services | Panel Upgrades',
@@ -646,5 +647,5 @@ export const electricalgladdenfarmsData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Gladden Farms'),
 };

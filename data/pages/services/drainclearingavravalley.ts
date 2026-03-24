@@ -2,6 +2,7 @@
 // Auto-generated from DrainClearing.tsx
 import type { ServicePageData } from '@/types/services';
 import { drainClearingFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const drainclearingavravalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Drain Clearing Avra Valley AZ | Professional Clog Removal & Prevention',
@@ -646,5 +647,5 @@ export const drainclearingavravalleyData: ServicePageData = {
 ]
   },
   faqs: drainClearingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Drain Clearing', 'Avra Valley'),
 };

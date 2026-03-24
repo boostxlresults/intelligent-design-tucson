@@ -2,6 +2,7 @@
 // Auto-generated from OutdoorMotionLighting.tsx
 import type { ServicePageData } from '@/types/services';
 import { outdoorMotionLightingFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const outdoormotionlightingData: ServicePageData = {
   // SEO & Meta
   title: 'Outdoor Motion Lighting Tucson AZ | Security & Landscape Motion Lights',
@@ -660,5 +661,5 @@ export const outdoormotionlightingData: ServicePageData = {
   ]
   },
   faqs: outdoorMotionLightingFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Tucson'),
 };

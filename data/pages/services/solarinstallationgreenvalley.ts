@@ -2,6 +2,7 @@
 // Comprehensive Solar Installation Green Valley Page - Retirement Community Focus
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solarinstallationgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Installation Green Valley AZ | #1 Rated Solar Panel Installer for Retirees',
@@ -686,5 +687,5 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Green Valley'),
 };

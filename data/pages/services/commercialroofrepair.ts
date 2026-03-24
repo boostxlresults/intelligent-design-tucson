@@ -2,6 +2,7 @@
 // Auto-generated from CommercialRoofRepair.tsx
 import type { ServicePageData } from '@/types/services';
 import { commercialRoofRepairFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialroofrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Repair Tucson AZ | Business Roof Repair Services',
@@ -712,5 +713,5 @@ export const commercialroofrepairData: ServicePageData = {
 ]
   },
   faqs: commercialRoofRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

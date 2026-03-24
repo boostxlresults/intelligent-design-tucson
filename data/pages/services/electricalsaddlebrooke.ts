@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for SaddleBrooke, AZ - Active Adult Retirement Community
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalsaddlebrookeData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician SaddleBrooke AZ | Licensed Electrical Services | Generator Installation',
@@ -668,5 +669,5 @@ export const electricalsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'SaddleBrooke'),
 };

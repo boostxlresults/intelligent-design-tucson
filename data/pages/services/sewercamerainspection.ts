@@ -2,6 +2,7 @@
 // Auto-generated from SewerCameraInspection.tsx
 import type { ServicePageData } from '@/types/services';
 import { sewerCameraInspectionFAQs } from '@/data/faqs/plumbing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const sewercamerainspectionData: ServicePageData = {
   // SEO & Meta
   title: 'Sewer Camera Inspection Tucson AZ | Video Pipe Inspection Services',
@@ -660,5 +661,5 @@ export const sewercamerainspectionData: ServicePageData = {
 ]
   },
   faqs: sewerCameraInspectionFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Plumbing', 'Tucson'),
 };

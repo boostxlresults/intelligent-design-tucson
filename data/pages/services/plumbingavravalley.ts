@@ -1,5 +1,6 @@
 // Comprehensive Plumbing Services for Avra Valley, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingavravalleyData: ServicePageData = {
   // SEO & Meta
@@ -568,5 +569,5 @@ export const plumbingavravalleyData: ServicePageData = {
     ]
   },
   faqs: null,
-  commonQuestions: []
+  commonQuestions: getRefinementQuestions('Plumbing', 'Avra Valley')
 };

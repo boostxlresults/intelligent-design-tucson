@@ -2,6 +2,7 @@
 // Auto-generated from ResidentialSolarInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialsolarinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Solar Installation Tucson AZ | Home Solar Panel Installation',
@@ -683,5 +684,5 @@ export const residentialsolarinstallationData: ServicePageData = {
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Solar', 'Tucson'),
 };

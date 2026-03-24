@@ -2,6 +2,7 @@
 // Auto-generated from DuctCleaning.tsx
 import type { ServicePageData } from '@/types/services';
 import { ductCleaningFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const ductcleaningData: ServicePageData = {
   // SEO & Meta
   title: 'Duct Cleaning Tucson AZ | Air Duct Cleaning Service | Intelligent Design',
@@ -690,5 +691,5 @@ export const ductcleaningData: ServicePageData = {
 ]
   },
   faqs: ductCleaningFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

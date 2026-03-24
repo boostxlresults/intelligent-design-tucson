@@ -1,5 +1,6 @@
 // Solar Installation Services for Red Rock / Casa Grande, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 
 export const solarinstallationredrockcasagrandeData: ServicePageData = {
@@ -286,6 +287,6 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
         answer: "Yes, we're licensed contractors (Arizona ROC #340962) with specialized solar installation expertise. Our installers are employees with extensive training in solar technology, electrical systems, and roofing integration. We maintain comprehensive liability and workers compensation insurance. All installations meet or exceed Arizona electrical and building codes, and pass inspections on first attempt. We're BBB A+ accredited with zero unresolved complaints—critical when choosing a partner for a 25+ year investment."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Solar', 'Red Rock / Casa Grande')
   }
 };

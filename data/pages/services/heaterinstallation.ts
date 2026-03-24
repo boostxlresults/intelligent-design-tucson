@@ -2,6 +2,7 @@
 // Auto-generated from HeaterInstallation.tsx
 import type { ServicePageData } from '@/types/services';
 import { heaterTuneupFAQs } from '@/data/faqs/hvac';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const heaterinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Heater Installation Tucson AZ | Furnace Installation & Replacement',
@@ -750,5 +751,5 @@ export const heaterinstallationData: ServicePageData = {
     ]
   },
   faqs: heaterTuneupFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
 };

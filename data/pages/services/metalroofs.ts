@@ -2,6 +2,7 @@
 // Auto-generated from MetalRoofs.tsx
 import type { ServicePageData } from '@/types/services';
 import { metalRoofsFAQs } from '@/data/faqs/roofing';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const metalroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Metal Roofing Tucson AZ | Standing Seam & Corrugated Metal Roof Installation',
@@ -722,5 +723,5 @@ export const metalroofsData: ServicePageData = {
 ]
   },
   faqs: metalRoofsFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Roofing', 'Tucson'),
 };

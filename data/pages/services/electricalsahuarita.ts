@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Sahuarita, AZ
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalsahuaritaData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Sahuarita AZ | Panel Upgrades | Solar Prep | Smart Home | Emergency Service',
@@ -647,5 +648,5 @@ export const electricalsahuaritaData: ServicePageData = {
     ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Sahuarita'),
 };

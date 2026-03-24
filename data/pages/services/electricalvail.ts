@@ -1,6 +1,7 @@
 // Comprehensive Electrical Services for Vail, AZ - Rural & Ranch Properties
 import type { ServicePageData } from '@/types/services';
 import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricalvailData: ServicePageData = {
   // SEO & Meta
   title: 'Electrician Vail AZ | Licensed Electrical Services | Ranch & Rural Properties',
@@ -647,5 +648,5 @@ export const electricalvailData: ServicePageData = {
 ]
   },
   faqs: electricalRepairFAQs,
-  commonQuestions: [],
+  commonQuestions: getRefinementQuestions('Electrical', 'Vail'),
 };

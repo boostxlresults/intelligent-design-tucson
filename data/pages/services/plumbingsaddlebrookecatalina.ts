@@ -1,5 +1,6 @@
 // Plumbing Services for Saddle Brooke / Catalina, AZ
 import type { ServicePageData } from '@/types/services';
+import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -289,6 +290,6 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
         answer: "Yes, all our plumbers are licensed by the Arizona Registrar of Contractors (ROC #340962), carry comprehensive liability insurance, and undergo background checks required for age-restricted community access. Our plumbers average over 17 years of experience and receive ongoing training on the latest plumbing codes, water-saving technologies, and equipment. We're BBB A+ accredited with zero unresolved complaints and thousands of satisfied Saddle Brooke / Catalina customers."
       }
     ],
-    commonQuestions: []
+    commonQuestions: getRefinementQuestions('Plumbing', 'SaddleBrooke / Catalina')
   }
 };
