@@ -35,9 +35,14 @@ export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategory
     const category = gbpCategories[categoryKey as keyof typeof gbpCategories];
     if (!category) return null;
 
+    // Use HVACBusiness type for HVAC category for stronger Google Maps signals
+    const schemaTypes = categoryKey === 'hvac' 
+      ? ["LocalBusiness", "HVACBusiness", category.gbpCategory]
+      : ["LocalBusiness", category.gbpCategory];
+
     const schema: any = {
       "@context": "https://schema.org",
-      "@type": ["LocalBusiness", category.gbpCategory],
+      "@type": schemaTypes,
       "@id": `${canonicalUrl}#${categoryKey}`,
       "name": `${BUSINESS_INFO.name} - ${category.name}`,
       "alternateName": category.alternateNames,

@@ -16,7 +16,7 @@ export const acrepairData: ServicePageData = {
   heroImageAlt: 'Professional AC repair technician servicing air conditioning unit in Tucson, Arizona',
   
   // Service Info
-  serviceName: 'A C Repair',
+  serviceName: 'AC Repair Tucson AZ',
   category: 'HVAC',
   
   // Content
@@ -47,7 +47,7 @@ export const acrepairData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best A C Repair Company in Tucson, AZ',
+    mainHeading: 'Best AC Repair Company in Tucson, AZ',
     sections: [
       {
             "type": "heading",

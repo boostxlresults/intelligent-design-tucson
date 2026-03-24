@@ -19,7 +19,7 @@ export const hvacgreenvalleyData: ServicePageData = {
   heroImageAlt: 'Professional HVAC technician providing reliable air conditioning service to Green Valley retirement community home',
   
   // Service Info
-  serviceName: 'H V A C Green Valley',
+  serviceName: 'HVAC Services Green Valley',
   category: 'HVAC',
   
   // Content

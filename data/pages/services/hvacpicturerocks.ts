@@ -13,13 +13,13 @@ export const hvacpicturerocksData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Picture Rocks, AZ',
-  h2Subheading: 'Expert H V A C Picture Rocks in Tucson',
+  h2Subheading: 'Expert HVAC Picture Rocks in Tucson',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_airflow_testing_6ad31602.webp',
-  heroImageAlt: 'H V A C Picture Rocks in Tucson',
+  heroImageAlt: 'HVAC Picture Rocks in Tucson',
   
   // Service Info
-  serviceName: 'H V A C Picture Rocks',
+  serviceName: 'HVAC Services Picture Rocks',
   category: 'HVAC',
   
   // Content
@@ -50,7 +50,7 @@ export const hvacpicturerocksData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best H V A C Picture Rocks Company in Tucson, AZ',
+    mainHeading: 'Best HVAC Company in Picture Rocks, AZ',
     sections: [
       {
             "type": "heading",

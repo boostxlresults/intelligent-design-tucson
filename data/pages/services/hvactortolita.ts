@@ -13,13 +13,13 @@ export const hvactortolitaData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tortolita, AZ',
-  h2Subheading: 'Expert H V A C Tortolita in Tucson',
+  h2Subheading: 'Expert HVAC Tortolita in Tucson',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_ductwork_inspection_e319390e.webp',
-  heroImageAlt: 'H V A C Tortolita in Tucson',
+  heroImageAlt: 'HVAC Tortolita in Tucson',
   
   // Service Info
-  serviceName: 'H V A C Tortolita',
+  serviceName: 'HVAC Services Tortolita',
   category: 'HVAC',
   
   // Content
@@ -50,7 +50,7 @@ export const hvactortolitaData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best H V A C Tortolita Company in Tucson, AZ',
+    mainHeading: 'Best HVAC Company in Tortolita, AZ',
     sections: [
       {
             "type": "heading",

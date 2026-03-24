@@ -21,10 +21,10 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "Intelligent Design - HVAC, Plumbing, Solar, Electrical & Roofing | Tucson, AZ",
-    template: "%s | Intelligent Design",
+    default: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ",
+    template: "%s | Intelligent Design Air Conditioning Tucson",
   },
-  description: "Family and veteran-owned home services company serving Tucson and surrounding areas. Expert HVAC, plumbing, solar, electrical, and roofing services with 23,000+ 5-star reviews.",
+  description: "Intelligent Design Air Conditioning is Tucson's top-rated HVAC contractor. Expert air conditioning repair, plumbing, solar, electrical & roofing services. 23,000+ 5-star reviews. Family & veteran-owned since 1979.",
   metadataBase: new URL("https://www.idesignac.com"),
   icons: {
     icon: [

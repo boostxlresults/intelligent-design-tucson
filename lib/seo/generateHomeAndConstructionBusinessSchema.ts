@@ -30,7 +30,7 @@ export function generateHomeAndConstructionBusinessSchema(options: HomeAndConstr
 
   const schema: Record<string, any> = {
     "@context": "https://schema.org",
-    "@type": "HomeAndConstructionBusiness",
+    "@type": ["HomeAndConstructionBusiness", "HVACBusiness"],
     "@id": `${canonicalUrl}#homeandconstruction`,
     "name": BUSINESS_INFO.name,
     "alternateName": [

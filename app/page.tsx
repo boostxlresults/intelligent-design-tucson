@@ -15,8 +15,8 @@ import { CheckCircle2, Star } from "lucide-react";
 import { homeData } from "@/data/pages/services/home";
 
 export const metadata: Metadata = {
-  title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-  description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
+  title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+  description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
   alternates: {
     canonical: "https://www.idesignac.com",
   },
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
+    title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+    description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
     url: "https://www.idesignac.com",
     siteName: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
     images: [{
@@ -45,8 +45,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ",
-    description: "Intelligent Design provides expert HVAC, plumbing, solar, electrical, and roofing services in Tucson, AZ. Family and veteran-owned with 23,000+ 5-star reviews.",
+    title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+    description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
     images: ["https://www.idesignac.com/og-image.jpg"],
   },
 };

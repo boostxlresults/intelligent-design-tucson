@@ -17,7 +17,7 @@ export const actuneupData: ServicePageData = {
   heroImageAlt: 'Professional AC tune-up maintenance service in Tucson home',
   
   // Service Info
-  serviceName: 'A C Tuneup',
+  serviceName: 'AC Tune-Up Tucson AZ',
   category: 'HVAC',
   
   // Content
@@ -48,7 +48,7 @@ export const actuneupData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best A C Tuneup Company in Tucson, AZ',
+    mainHeading: 'Best AC Tune-Up Company in Tucson, AZ',
     sections: [
       {
             "type": "video",

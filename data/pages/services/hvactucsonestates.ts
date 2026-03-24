@@ -13,13 +13,13 @@ export const hvactucsonestatesData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Tucson Estates, AZ',
-  h2Subheading: 'Expert H V A C Tucson Estates in Tucson',
+  h2Subheading: 'Expert HVAC Tucson Estates in Tucson',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_final_inspection_1_233628d4.webp',
-  heroImageAlt: 'H V A C Tucson Estates in Tucson',
+  heroImageAlt: 'HVAC Tucson Estates in Tucson',
   
   // Service Info
-  serviceName: 'H V A C Tucson Estates',
+  serviceName: 'HVAC Services Tucson Estates',
   category: 'HVAC',
   
   // Content
@@ -50,7 +50,7 @@ export const hvactucsonestatesData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best H V A C Tucson Estates Company in Tucson, AZ',
+    mainHeading: 'Best HVAC Company in Tucson Estates, AZ',
     sections: [
       {
             "type": "heading",

@@ -17,7 +17,7 @@ export const acserviceData: ServicePageData = {
   heroImageAlt: 'HVAC technician performing professional air conditioning service and maintenance in Tucson home',
   
   // Service Info
-  serviceName: 'A C Service',
+  serviceName: 'AC Service Tucson AZ',
   category: 'HVAC',
   
   // Content
@@ -48,7 +48,7 @@ export const acserviceData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best A C Service Company in Tucson, AZ',
+    mainHeading: 'Best AC Service Company in Tucson, AZ',
     sections: [
       {
             "type": "heading",

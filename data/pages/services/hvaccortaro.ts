@@ -12,13 +12,13 @@ export const hvaccortaroData: ServicePageData = {
   
   // Hero Section
   h1: 'HVAC & Air Conditioning Services in Cortaro, AZ',
-  h2Subheading: 'Expert H V A C Cortaro in Tucson',
+  h2Subheading: 'Expert HVAC Cortaro in Tucson',
   tagline: 'AC Repair | Installation | Maintenance | Ductless Mini-Splits | Heat Pumps | 24/7 Emergency Service',
   heroImage: '/generated_images/HVAC_tech_outdoor_condenser_1_981748d4.webp',
-  heroImageAlt: 'H V A C Cortaro in Tucson',
+  heroImageAlt: 'HVAC Cortaro in Tucson',
   
   // Service Info
-  serviceName: 'H V A C Cortaro',
+  serviceName: 'HVAC Services Cortaro',
   category: 'HVAC',
   
   // Content
@@ -49,7 +49,7 @@ export const hvaccortaroData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best H V A C Cortaro Company in Tucson, AZ',
+    mainHeading: 'Best HVAC Company in Cortaro, AZ',
     sections: [
       {
             "type": "heading",

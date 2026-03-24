@@ -16,7 +16,7 @@ export const acinstallationData: ServicePageData = {
   heroImageAlt: 'AC Installation in Tucson',
   
   // Service Info
-  serviceName: 'AC Installation',
+  serviceName: 'AC Installation Tucson AZ',
   category: 'HVAC',
   
   // Hero Quote Button

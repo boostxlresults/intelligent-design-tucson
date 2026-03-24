@@ -17,7 +17,7 @@ export const solaracData: ServicePageData = {
   heroImageAlt: 'Intelligent Design technician installing EG4 hybrid solar-powered mini-split air conditioning system in Tucson',
   
   // Service Info
-  serviceName: 'Solar A C',
+  serviceName: 'Solar AC',
   category: 'Solar',
   
   // Content
@@ -48,7 +48,7 @@ export const solaracData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: 'Best Solar A C Company in Tucson, AZ',
+    mainHeading: 'Best Solar AC Company in Tucson, AZ',
     sections: [
       {
             "type": "heading",

@@ -12,6 +12,7 @@ import ServiceFAQ from "@/components/content/ServiceFAQ";
 import TableOfContents, { type TOCItem } from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 import RelatedBlogPosts from "@/components/services/RelatedBlogPosts";
+import ServiceAreaLinks from "@/components/services/ServiceAreaLinks";
 import type { ServicePageData } from "@/types/services";
 
 /**
@@ -522,6 +523,12 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
           posts={relatedBlogPosts} 
         />
       )}
+
+      {/* Service Area & Related Service Links - Comprehensive Internal Linking */}
+      <ServiceAreaLinks 
+        currentSlug={slug || ''} 
+        category={data.category} 
+      />
 
       {/* ServiceTitan Scheduler #3 - Bottom before footer */}
       <section id="schedule" className="py-16 bg-primary/5 scroll-mt-20">
