@@ -5,14 +5,18 @@ import Script from "next/script";
 /**
  * ServiceTitan Dynamic Number Insertion (DNI)
  * 
- * Uses afterInteractive to balance INP with call tracking reliability.
- * DNI must load soon after hydration to swap phone numbers before users click.
+ * Changed to lazyOnload — DNI swaps phone numbers for call tracking attribution.
+ * It does NOT need to run before LCP paints. It only needs to run before a user
+ * actually clicks a phone number, which happens well after page load.
+ * 
+ * lazyOnload fires after the page is fully loaded and the browser is idle,
+ * which is early enough to swap numbers before any real user interaction.
  */
 export default function DNIInjector() {
   return (
     <Script
       id="servicetitan-dni"
-      strategy="afterInteractive"
+      strategy="lazyOnload"
       dangerouslySetInnerHTML={{
         __html: `
           (function() {

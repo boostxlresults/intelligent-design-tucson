@@ -19,21 +19,23 @@ export default function Hero() {
           sizes="100vw"
           className="object-cover md:hidden"
         />
-        {/* Tablet hero (768px to 1279px) */}
+        {/* Tablet hero (768px to 1279px) - PRIORITY for LCP on tablet */}
         <Image
           src="/images/hero-family-tablet.webp"
           alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
           fill
-          loading="eager"
+          priority
+          fetchPriority="high"
           sizes="100vw"
           className="object-cover hidden md:block xl:hidden"
         />
-        {/* Desktop hero (1280px and up) */}
+        {/* Desktop hero (1280px and up) - PRIORITY for LCP on desktop */}
         <Image
           src="/images/hero-family-desktop.webp"
           alt="The Dobbins family owners of Intelligent Design with service van, downtown Tucson skyline and A Mountain at sunset"
           fill
-          loading="eager"
+          priority
+          fetchPriority="high"
           sizes="100vw"
           className="object-cover hidden xl:block"
         />
