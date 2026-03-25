@@ -6,6 +6,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import GTM from "@/components/integrations/GTM";
+import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
@@ -77,6 +78,7 @@ export default function RootLayout({
         />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
+        <BlockScheduleEngineChat />
         <GTM />
         <DNIInjector />
         <Header />
