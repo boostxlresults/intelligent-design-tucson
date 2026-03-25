@@ -28,17 +28,35 @@ export default function SchedulerEmbed({
 }: SchedulerEmbedProps) {
   const { openScheduler, isLoading } = useScheduler();
 
+  const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault(); // Prevent navigation — open the widget instead
+    trackScheduleOpen(dataTestId);
+    openScheduler();
+  };
+
   return (
-    <Button 
-      size={size} 
-      variant={variant} 
-      className={className}
-      data-testid={dataTestId}
-      onClick={() => { trackScheduleOpen(dataTestId); openScheduler(); }}
-      disabled={isLoading}
+    // Wrapping in <a href="/schedule"> makes this crawlable by Google/Lighthouse.
+    // The onClick handler intercepts the click and opens the ServiceTitan widget
+    // instead of navigating. Users with JS disabled will navigate to /schedule.
+    <a
+      href="/schedule"
+      onClick={handleClick}
+      className="inline-flex"
+      aria-label={`${triggerText} — opens scheduling widget`}
+      data-testid={`link-${dataTestId}`}
     >
-      <Calendar className={verticalLayout ? iconClassName : `${iconClassName} mr-2`} />
-      <span className={textClassName}>{isLoading ? "Loading..." : triggerText}</span>
-    </Button>
+      <Button
+        size={size}
+        variant={variant}
+        className={className}
+        data-testid={dataTestId}
+        disabled={isLoading}
+        tabIndex={-1} // Prevent double-tab-stop (the <a> is the focusable element)
+        aria-hidden="true" // Screen readers use the <a> label, not the button
+      >
+        <Calendar className={verticalLayout ? iconClassName : `${iconClassName} mr-2`} />
+        <span className={textClassName}>{isLoading ? "Loading..." : triggerText}</span>
+      </Button>
+    </a>
   );
 }

@@ -81,7 +81,7 @@ export default function QuoteCallout({
   };
 
   return (
-    <section className="py-12 md:py-16 bg-gray-100 dark:bg-gray-800/50">
+    <section className="py-12 md:py-16 bg-gray-100 dark:bg-gray-800/50" data-contractor-commerce="true">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="heading-quote-callout">
