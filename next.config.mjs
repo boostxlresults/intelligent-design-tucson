@@ -27,6 +27,10 @@ const nextConfig = {
   // Tree-shake large icon/UI libraries to reduce unused JS bundle size
   // Fixes "Reduce unused JavaScript" warning (985 KiB savings)
   experimental: {
+    // Extract and inline critical CSS to eliminate render-blocking stylesheet requests
+    // Converts blocking <link rel="stylesheet"> to async load for below-the-fold CSS
+    // Fixes the 490ms render-blocking CSS issue flagged by Lighthouse
+    optimizeCss: true,
     optimizePackageImports: [
       "lucide-react",
       "@radix-ui/react-icons",

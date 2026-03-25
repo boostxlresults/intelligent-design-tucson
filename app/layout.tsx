@@ -8,7 +8,6 @@ import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import GTM from "@/components/integrations/GTM";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
-import ContractorCommercePlugin from "@/components/integrations/ContractorCommercePlugin";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import RealWorkLabsLoader from "@/components/integrations/RealWorkLabsLoader";
@@ -68,7 +67,6 @@ export default function RootLayout({
         {/* dns-prefetch for non-critical third parties (no TCP handshake, just DNS) */}
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://static.servicetitan.com" />
-        <link rel="dns-prefetch" href="https://plugin.contractorcommerce.com" />
         <link rel="dns-prefetch" href="https://app.realworklabs.com" />
         <link rel="dns-prefetch" href="https://www.clarity.ms" />
 
@@ -184,7 +182,6 @@ export default function RootLayout({
         <MobileFloatingActions />
         <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
-        <ContractorCommercePlugin />
         <BroccoliChat />
         {/* RealWorkLabs project showcase widget */}
         <RealWorkLabsLoader />
