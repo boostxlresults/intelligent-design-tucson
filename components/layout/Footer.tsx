@@ -1,11 +1,11 @@
-'use client';
-
+// Server Component — no 'use client' directive
+// Only FooterPhoneLink (thin client wrapper) handles the onClick tracking.
 import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";
 import { SiFacebook, SiInstagram, SiYoutube, SiGoogle } from "react-icons/si";
 import { FaLinkedin } from "react-icons/fa6";
 import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
-import { trackPhoneClick } from "@/lib/analytics";
+import FooterPhoneLink from "@/components/layout/FooterPhoneLink";
 
 const logoUrl = "/logo.png";
 
@@ -145,14 +145,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5 flex-shrink-0" />
-                <a
-                  href="tel:+15203332665"
-                  className="hover-elevate px-2 py-1 rounded-md inline-block font-semibold"
-                  data-testid="link-footer-phone"
-                  onClick={() => trackPhoneClick('footer')}
-                >
-                  (520) 333-2665
-                </a>
+                <FooterPhoneLink />
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-5 h-5 flex-shrink-0" />

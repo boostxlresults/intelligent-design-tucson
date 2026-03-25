@@ -33,6 +33,11 @@ const nextConfig = {
     optimizeCss: true,
     optimizePackageImports: [
       "lucide-react",
+      "react-icons",
+      "react-icons/si",
+      "react-icons/fa6",
+      "react-icons/fa",
+      "react-icons/md",
       "@radix-ui/react-icons",
       "@radix-ui/react-accordion",
       "@radix-ui/react-dialog",

@@ -1,7 +1,8 @@
-'use client';
-
+// Server Component — no 'use client' directive
+// marked and processInternalLinks are pure functions with no browser APIs.
+// Running this on the server removes ~16 KiB of marked JS from the client bundle
+// and eliminates the useEffect hydration delay.
 import { marked } from 'marked';
-import { useEffect, useState } from 'react';
 import { processInternalLinks } from '@/lib/seo/internalLinks';
 
 interface RichTextProps {
@@ -19,35 +20,25 @@ interface RichTextProps {
  * - - Item → bullet lists
  * - [link:knowledgehub.key:text] → internal links
  * 
- * Uses marked for parsing with sanitized output
+ * Runs entirely on the server — no client-side JS required.
  */
 export default function RichText({ content, className = '' }: RichTextProps) {
-  const [htmlContent, setHtmlContent] = useState('');
+  if (!content) return null;
 
-  useEffect(() => {
-    if (!content) {
-      setHtmlContent('');
-      return;
-    }
+  // Process internal link tokens first
+  const contentWithLinks = processInternalLinks(content);
 
-    // Process internal link tokens first
-    const contentWithLinks = processInternalLinks(content);
+  // Configure marked for service page content
+  marked.setOptions({
+    breaks: true, // Convert \n to <br>
+    gfm: true,    // GitHub Flavored Markdown
+  });
 
-    // Configure marked for service page content
-    marked.setOptions({
-      breaks: true, // Convert \n to <br>
-      gfm: true, // GitHub Flavored Markdown
-    });
-
-    // Parse markdown (marked already sanitizes by default)
-    const html = marked.parse(contentWithLinks) as string;
-    setHtmlContent(html);
-  }, [content]);
-
-  if (!htmlContent) return null;
+  // Parse markdown on the server
+  const htmlContent = marked.parse(contentWithLinks) as string;
 
   return (
-    <div 
+    <div
       className={className}
       dangerouslySetInnerHTML={{ __html: htmlContent }}
     />

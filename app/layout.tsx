@@ -5,13 +5,11 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
-import GTM from "@/components/integrations/GTM";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import RealWorkLabsLoader from "@/components/integrations/RealWorkLabsLoader";
-import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -180,7 +178,6 @@ export default function RootLayout({
         </main>
         <Footer />
         <MobileFloatingActions />
-        <Toaster />
         {/* Lazy-loaded third-party scripts (load after page is interactive) */}
         <BroccoliChat />
         {/* RealWorkLabs project showcase widget */}
