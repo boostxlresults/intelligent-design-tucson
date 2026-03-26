@@ -46,6 +46,16 @@ export const solarinstallationtucsonData: ServicePageData = {
     "description": "Residential & commercial solar | Solar + storage | Pool solar heating | Solar + AC integration | Complete maintenance & monitoring"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "mZW6_zr3cE8",
+    title: "FREE Home Energy Audit for Solar in Tucson | Intelligent Design",
+    description: "Intelligent Design walks through the solar installation process in Tucson, from free energy audit to final system activation.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Tucson\'s Most Trusted Complete Solar Installation Provider',
     sections: [

@@ -46,6 +46,16 @@ export const acrepairData: ServicePageData = {
     "description": "Carrier, Trane, Lennox, Goodman & more | Residential & commercial | Old & new systems"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "QWD3O1TyJRg",
+    title: "How Air Conditioning Works | Intelligent Design AC Explains",
+    description: "Intelligent Design Air Conditioning explains how your AC system works, common failure points, and what to look for when your air conditioner needs repair in Tucson, Arizona.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best AC Repair Company in Tucson, AZ',
     sections: [
@@ -57,7 +67,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Extreme Climate Demands Reliable AC Repair: With 146+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
+            "content": "Intelligent Design Air Conditioning is Tucson's highest-rated AC repair company, with over 23,000 verified five-star reviews and a 4.97 Google rating — more than any other HVAC contractor in Southern Arizona. Founded in 1979, the company provides 24/7 emergency air conditioning repair across the entire Tucson metropolitan area, including Oro Valley, Marana, Sahuarita, and Green Valley, with an average response time of 73 minutes from 42 fully-stocked service vehicles. Tucson's Extreme Climate Demands Reliable AC Repair: With 146+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
       },
       {
             "type": "paragraph",

@@ -47,6 +47,16 @@ export const heaterserviceData: ServicePageData = {
     "description": "NATE certified | 46+ years experience | Background-checked professionals | Satisfaction guaranteed"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "SflFgSp7uvU",
+    title: "Lennox Heat Pump Technology Explained",
+    description: "Understanding how your heating system works helps you know when it needs professional service. Intelligent Design explains heat pump technology for Tucson homeowners.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Heater Service Company in Tucson, AZ',
     sections: [

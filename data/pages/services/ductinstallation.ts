@@ -47,6 +47,16 @@ export const ductinstallationData: ServicePageData = {
     "description": "No-obligation quotes | Transparent pricing | Flexible payment options | Fast project completion"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "kbjv4jzvVy4",
+    title: "Tucson Commercial Duct Installation | Intelligent Design",
+    description: "See how Intelligent Design handles professional duct installation in Tucson — from design through completion for both residential and commercial properties.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Duct Installation Company in Tucson, AZ',
     sections: [

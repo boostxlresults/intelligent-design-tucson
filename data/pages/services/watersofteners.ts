@@ -47,6 +47,16 @@ export const watersoftenersData: ServicePageData = {
     "description": "Family & veteran-owned | Expert installation | 23,000+ reviews | Free water testing"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "9kiEHuUWOz8",
+    title: "Tucson Water Warning: Lead & Toxins in Your Water",
+    description: "Intelligent Design explains why Tucson's hard water requires treatment and how water softener systems protect your plumbing and appliances.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Water Softeners Company in Tucson, AZ',
     sections: [

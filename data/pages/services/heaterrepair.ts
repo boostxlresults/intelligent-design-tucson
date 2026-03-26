@@ -47,6 +47,16 @@ export const heaterrepairData: ServicePageData = {
     "description": "Trusted Tucson company | 23,000+ five-star reviews | BBB A+ rated | Licensed & insured"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "VNoJQ_ymbP4",
+    title: "Lennox Furnace Technology Explained",
+    description: "Understanding furnace technology helps you identify when your heater needs repair. Intelligent Design explains the components and common failure points.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Heater Repair Company in Tucson, AZ',
     sections: [

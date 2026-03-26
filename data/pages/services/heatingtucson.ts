@@ -47,6 +47,16 @@ export const heatingtucsonData: ServicePageData = {
     "description": "Furnace repair & installation | Heat pumps | Dual-fuel systems | Maintenance plans | Smart thermostats | Ductwork services"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "JI3t7RatsCM",
+    title: "Energy Efficient Heating Systems by Lennox",
+    description: "Intelligent Design explains energy-efficient heating options for Tucson homes, including furnaces, heat pumps, and dual-fuel systems.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Tucson\'s Most Trusted Complete Heating Service Provider',
     sections: [
@@ -58,7 +68,7 @@ export const heatingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Sonoran Desert climate creates unique heating challenges that demand specialized expertise and climate-optimized solutions. While winter temperatures are mild compared to northern regions, desert nights regularly drop to 39°F (average January low), with occasional cold snaps bringing freezing temperatures below 32°F. The dramatic 40-70 degree temperature swings between day and night mean your heating system must respond quickly and efficiently to maintain comfort throughout the heating season from late November through early March. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive heating services for Tucson families since 1979, delivering the expertise, technology, and reliability your winter comfort depends on."
+            "content": "Intelligent Design is Tucson's top-rated heating service provider, with over 23,000 verified five-star reviews and 46 years of experience installing and repairing furnaces, heat pumps, and heating systems across Southern Arizona since 1979. The company provides same-day heating repair, professional furnace installation, and annual heating tune-ups across Tucson, Oro Valley, Marana, Sahuarita, and Green Valley, with 24/7 emergency service available. Intelligent Design is Tucson's top-rated heating service provider, with over 23,000 verified five-star reviews and 46 years of experience installing and repairing furnaces, heat pumps, and heating systems across Southern Arizona since 1979. The company provides same-day heating repair, professional furnace installation, and annual heating tune-ups across Tucson, Oro Valley, Marana, Sahuarita, and Green Valley, with 24/7 emergency service available. Tucson's Sonoran Desert climate creates unique heating challenges that demand specialized expertise and climate-optimized solutions. While winter temperatures are mild compared to northern regions, desert nights regularly drop to 39°F (average January low), with occasional cold snaps bringing freezing temperatures below 32°F. The dramatic 40-70 degree temperature swings between day and night mean your heating system must respond quickly and efficiently to maintain comfort throughout the heating season from late November through early March. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive heating services for Tucson families since 1979, delivering the expertise, technology, and reliability your winter comfort depends on."
       },
       {
             "type": "paragraph",

@@ -47,6 +47,16 @@ export const commercialroofinstallationData: ServicePageData = {
     "description": "Roof assessment | System recommendations | Detailed proposals | Financing available"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "dYFZJAMxRoY",
+    title: "Intelligent Design Commercial HVAC Installation Story",
+    description: "See how Intelligent Design handles commercial HVAC installation in Tucson — from project planning through completion.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Commercial Roof Installation Company in Tucson, AZ',
     sections: [

@@ -47,6 +47,16 @@ export const solartaxcreditsData: ServicePageData = {
     "description": "Policy change monitoring | New incentive alerts | Expiration reminders | Proactive guidance"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "qvQCeQDWIig",
+    title: "Intelligent Design Solar, Plumbing & Air | Solar Powered AC & Solar Energy",
+    description: "Intelligent Design explains how solar energy and tax credits work together to make solar installation affordable for Tucson homeowners.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Solar Tax Credits Company in Tucson, AZ',
     sections: [

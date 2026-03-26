@@ -47,6 +47,16 @@ export const homeenergyupgradesData: ServicePageData = {
     "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "uj-KEww_cyQ",
+    title: "How to Reduce Energy Consumption with an Energy Audit",
+    description: "Intelligent Design shows how a home energy audit identifies the biggest energy upgrades for your Tucson home, from insulation to HVAC efficiency improvements.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Home Energy Upgrades Company in Tucson, AZ',
     sections: [

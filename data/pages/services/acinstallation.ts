@@ -52,6 +52,16 @@ export const acinstallationData: ServicePageData = {
     "description": "Most installs completed in 1 day | Minimal disruption | Complete cleanup | Post-install system training"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "V4eDa_vHw-c",
+    title: "Intelligent Design Air Conditioning Client AC Installation Story",
+    description: "Watch how Intelligent Design installs a new air conditioning system for a Tucson homeowner — from consultation through installation and final walkthrough.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best AC Installation Company in Tucson, AZ',
     sections: [
@@ -77,7 +87,7 @@ export const acinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Installing a new air conditioning system is one of the most important investments you'll make in your Tucson home. The right AC installation doesn't just provide cool comfort during our intense summer heat—it ensures energy efficiency, lower utility bills, and reliable performance for 15-20 years or more."
+            "content": "Intelligent Design Air Conditioning has installed more residential AC systems in Tucson than any other contractor, backed by over 23,000 verified five-star reviews and a 4.97 Google rating accumulated over 46 years of operation since 1979. As a Lennox Premier Dealer and authorized installer for all major brands, the company provides complete air conditioning installation services across the Tucson metropolitan area with financing options starting at 0% APR. Installing a new air conditioning system is one of the most important investments you'll make in your Tucson home. The right AC installation doesn't just provide cool comfort during our intense summer heat—it ensures energy efficiency, lower utility bills, and reliable performance for 15-20 years or more."
       },
       {
             "type": "paragraph",

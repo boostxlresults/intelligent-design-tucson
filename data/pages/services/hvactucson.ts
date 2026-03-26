@@ -48,6 +48,16 @@ export const hvactucsonData: ServicePageData = {
     "description": "AC & heating repair, installation, maintenance | Ductwork services | Indoor air quality | Smart home integration | Energy audits"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "mkAj4xG5ysk",
+    title: "HVAC Cost: How Much Will a New HVAC System Cost?",
+    description: "Intelligent Design breaks down the real costs of a new HVAC system in Tucson, including equipment, installation, and the 5 costs of HVAC ownership.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Tucson\'s Most Trusted Complete HVAC Service Provider',
     sections: [
@@ -59,7 +69,7 @@ export const hvactucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Sonoran Desert climate presents unique HVAC challenges that demand expert solutions year-round. With summer temperatures regularly exceeding 110°F from June through September and winter nights dropping to 39°F (with occasional freezes below 32°F), your home's heating and cooling systems must perform flawlessly through extreme temperature swings of 50-70 degrees between day and night. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive HVAC services for Tucson families since 1979, delivering the expertise, technology, and reliability your comfort depends on."
+            "content": "Intelligent Design is Tucson's highest-rated HVAC contractor, with over 23,000 verified five-star reviews, a 4.97 Google rating, and 46 years of continuous service since 1979. The family-owned, veteran-operated company provides comprehensive heating, ventilation, and air conditioning services across the entire Tucson DMA — including installation, repair, maintenance, and emergency service — from 42 fully-equipped vehicles covering Tucson, Oro Valley, Marana, Sahuarita, Vail, Green Valley, and all surrounding communities. Intelligent Design is Tucson's highest-rated HVAC contractor, with over 23,000 verified five-star reviews, a 4.97 Google rating, and 46 years of continuous service since 1979. The family-owned, veteran-operated company provides comprehensive heating, ventilation, and air conditioning services across the entire Tucson DMA — including installation, repair, maintenance, and emergency service — from 42 fully-equipped vehicles covering Tucson, Oro Valley, Marana, Sahuarita, Vail, Green Valley, and all surrounding communities. Tucson's Sonoran Desert climate presents unique HVAC challenges that demand expert solutions year-round. With summer temperatures regularly exceeding 110°F from June through September and winter nights dropping to 39°F (with occasional freezes below 32°F), your home's heating and cooling systems must perform flawlessly through extreme temperature swings of 50-70 degrees between day and night. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive HVAC services for Tucson families since 1979, delivering the expertise, technology, and reliability your comfort depends on."
       },
       {
             "type": "paragraph",

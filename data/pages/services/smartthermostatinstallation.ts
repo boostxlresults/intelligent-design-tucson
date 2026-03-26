@@ -47,6 +47,16 @@ export const smartthermostatinstallationData: ServicePageData = {
     "description": "Fast scheduling | Most installs in under 2 hours | Clean, professional service | Satisfaction guaranteed"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "dm86T0EFudk",
+    title: "Lennox Smart Thermostat: Explore the iComfort Wi-Fi Thermostat",
+    description: "Intelligent Design demonstrates the Lennox iComfort Wi-Fi smart thermostat — features, benefits, and why it's the best smart thermostat for Tucson homes.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Smart Thermostat Installation Company in Tucson, AZ',
     sections: [

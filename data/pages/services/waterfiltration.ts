@@ -47,6 +47,16 @@ export const waterfiltrationData: ServicePageData = {
     "description": "Family & veteran-owned | Licensed plumbers | 23,000+ reviews | Same-day installation available"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "9kiEHuUWOz8",
+    title: "Tucson Water Warning: Lead & Toxins in Your Water | What You Need to Know",
+    description: "Intelligent Design reveals what's really in Tucson's water supply and why a whole-home water filtration system is essential for your family's health.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Water Filtration Company in Tucson, AZ',
     sections: [
@@ -58,7 +68,7 @@ export const waterfiltrationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's water supply faces unique quality challenges that affect every home in the metro area. While Tucson Water meets EPA safety standards, our municipal water contains chlorine (2.5-4.0 ppm), chloramines, high mineral hardness (12-16 grains per gallon), trace heavy metals including lead from aging infrastructure, trihalomethanes (THMs) formed during chlorine disinfection, PFAS (forever chemicals) detected in several Tucson area wells, and agricultural nitrates from surrounding farmland. These contaminants affect taste, odor, and health—making whole-home water filtration an essential upgrade for Tucson families. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed Brita PRO® water filtration systems in thousands of Tucson homes since 1979, helping families protect their health, eliminate unpleasant tastes and odors, extend [link:/services/water-heater-installation|water heater] lifespan, and enjoy truly clean water throughout their entire home."
+            "content": "Intelligent Design Plumbing installs Brita PRO whole-home water filtration systems in Tucson, Arizona, addressing the city's well-documented water quality challenges including high mineral hardness (12-16 grains per gallon), chlorine, chloramines, and PFAS contamination detected in several Tucson-area wells. With over 23,000 verified five-star reviews and 46 years of plumbing experience, the company provides professional water filtration installation, water softener systems, and reverse osmosis solutions across the Tucson metropolitan area. Intelligent Design Plumbing installs Brita PRO whole-home water filtration systems in Tucson, Arizona, addressing the city's well-documented water quality challenges including high mineral hardness (12-16 grains per gallon), chlorine, chloramines, and PFAS contamination detected in several Tucson-area wells. With over 23,000 verified five-star reviews and 46 years of plumbing experience, the company provides professional water filtration installation, water softener systems, and reverse osmosis solutions across the Tucson metropolitan area. Tucson's water supply faces unique quality challenges that affect every home in the metro area. While Tucson Water meets EPA safety standards, our municipal water contains chlorine (2.5-4.0 ppm), chloramines, high mineral hardness (12-16 grains per gallon), trace heavy metals including lead from aging infrastructure, trihalomethanes (THMs) formed during chlorine disinfection, PFAS (forever chemicals) detected in several Tucson area wells, and agricultural nitrates from surrounding farmland. These contaminants affect taste, odor, and health—making whole-home water filtration an essential upgrade for Tucson families. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed Brita PRO® water filtration systems in thousands of Tucson homes since 1979, helping families protect their health, eliminate unpleasant tastes and odors, extend [link:/services/water-heater-installation|water heater] lifespan, and enjoy truly clean water throughout their entire home."
       },
       {
             "type": "paragraph",

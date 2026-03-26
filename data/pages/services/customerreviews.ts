@@ -24,6 +24,16 @@ export const customerreviewsData: ServicePageData = {
   
   // Content
   highlights: [],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "IKk4kTp_IrQ",
+    title: "Why Do You Love Intelligent Design? (Customer Testimonials)",
+    description: "Real Tucson homeowners share why they chose Intelligent Design for their home services — 23,000+ five-star reviews and counting.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Customer Reviews Company in Tucson, AZ',
     sections: [

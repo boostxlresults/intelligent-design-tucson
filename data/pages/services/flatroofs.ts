@@ -47,6 +47,16 @@ export const flatroofsData: ServicePageData = {
     "description": "Material & labor coverage | Manufacturer warranties | Leak guarantees | Long-term protection"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "zd2_RtdYRUo",
+    title: "Package Unit Installation in Tucson | Intelligent Design AC",
+    description: "Intelligent Design demonstrates rooftop package unit installation on flat roof structures in Tucson — a common configuration for Arizona homes.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Flat Roofs Company in Tucson, AZ',
     sections: [

@@ -47,6 +47,16 @@ export const waterheatersData: ServicePageData = {
     "description": "Manufacturer warranties | Labor warranties | Extended protection | Peace of mind coverage"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "otZuMRMBIZ8",
+    title: "Intelligent Design Solar & New HVAC System Install Client Story",
+    description: "Watch how Intelligent Design handles comprehensive home comfort upgrades including water heater, HVAC, and solar installation for Tucson homeowners.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Water Heaters Company in Tucson, AZ',
     sections: [

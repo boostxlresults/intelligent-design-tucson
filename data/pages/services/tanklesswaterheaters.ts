@@ -46,6 +46,16 @@ export const tanklesswaterheatersData: ServicePageData = {
     "description": "Double the life of tank heaters | Low maintenance needs | Replaceable components | Long-term investment"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "s49MuJmUO3w",
+    title: "Tucson Water Warning: What You Need to Know",
+    description: "Intelligent Design explains why Tucson's water quality matters when choosing a tankless water heater, and how proper filtration protects your investment.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Tankless Water Heater Company in Tucson, AZ',
     sections: [

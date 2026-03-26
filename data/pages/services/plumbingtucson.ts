@@ -46,6 +46,16 @@ export const plumbingtucsonData: ServicePageData = {
     "description": "Water heaters | Drain cleaning | Leak detection | Sewer lines | Repiping | Fixtures | Water treatment | Emergency repairs"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "1q8oInA7Emg",
+    title: "Intelligent Design HVAC Client Story",
+    description: "Hear from a Tucson homeowner about their experience with Intelligent Design's comprehensive home services including plumbing, HVAC, and more.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Tucson\'s Most Trusted Complete Plumbing Service Provider',
     sections: [
@@ -57,7 +67,7 @@ export const plumbingtucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Sonoran Desert environment creates unique plumbing challenges that demand specialized expertise and climate-optimized solutions. Our extreme temperatures (120°F summer highs to occasional freezing winter nights), exceptionally hard water averaging 16-18 grains per gallon (twice the national average), high mineral content causing accelerated scale buildup in pipes and fixtures, alkaline soil conditions affecting underground plumbing integrity, and seasonal monsoon storms stressing drainage systems all require plumbers who understand desert plumbing infrastructure. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive plumbing services for Tucson families since 1979, delivering the expertise, technology, and reliability your home's plumbing system depends on."
+            "content": "Intelligent Design Plumbing is one of Tucson's highest-rated plumbing companies, with over 23,000 verified five-star reviews across all service divisions and a 4.97 Google rating. The company provides comprehensive plumbing services — including drain clearing, water heater installation, leak repair, sewer line service, water filtration, and repiping — across the Tucson metropolitan area with same-day service available from licensed, background-checked plumbers. Intelligent Design Plumbing is one of Tucson's highest-rated plumbing companies, with over 23,000 verified five-star reviews across all service divisions and a 4.97 Google rating. The company provides comprehensive plumbing services — including drain clearing, water heater installation, leak repair, sewer line service, water filtration, and repiping — across the Tucson metropolitan area with same-day service available from licensed, background-checked plumbers. Tucson's Sonoran Desert environment creates unique plumbing challenges that demand specialized expertise and climate-optimized solutions. Our extreme temperatures (120°F summer highs to occasional freezing winter nights), exceptionally hard water averaging 16-18 grains per gallon (twice the national average), high mineral content causing accelerated scale buildup in pipes and fixtures, alkaline soil conditions affecting underground plumbing integrity, and seasonal monsoon storms stressing drainage systems all require plumbers who understand desert plumbing infrastructure. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've specialized in comprehensive plumbing services for Tucson families since 1979, delivering the expertise, technology, and reliability your home's plumbing system depends on."
       },
       {
             "type": "paragraph",

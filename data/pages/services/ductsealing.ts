@@ -47,6 +47,16 @@ export const ductsealingData: ServicePageData = {
     "description": "Family & veteran-owned | 23,000+ five-star reviews | Free estimates | Satisfaction guaranteed"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "Jkee0fOVRCk",
+    title: "Duct Sealing Methods: Spotlight on Aeroseal",
+    description: "Intelligent Design explains professional duct sealing methods including Aeroseal technology, and how sealing your ducts can reduce energy waste by up to 30%.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Duct Sealing Company in Tucson, AZ',
     sections: [

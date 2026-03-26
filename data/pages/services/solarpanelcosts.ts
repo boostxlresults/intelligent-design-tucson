@@ -47,6 +47,16 @@ export const solarpanelcostsData: ServicePageData = {
     "description": "All-inclusive pricing | Professional installation | Permits included | No surprise costs"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "qvQCeQDWIig",
+    title: "Intelligent Design Solar, Plumbing & Air | Solar Powered AC & Solar Energy",
+    description: "Intelligent Design breaks down the costs and benefits of solar panel installation in Tucson, including available tax credits and financing options.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Solar Panel Costs Company in Tucson, AZ',
     sections: [

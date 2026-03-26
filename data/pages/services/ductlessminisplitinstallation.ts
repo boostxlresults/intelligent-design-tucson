@@ -49,6 +49,16 @@ export const ductlessminisplitinstallationData: ServicePageData = {
     "description": "NATE certified installers | Clean, professional work | Same-day installation available | Full training provided"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "12vpdErE2EY",
+    title: "Lennox Ductless Mini Split Installation in Tucson",
+    description: "Watch Intelligent Design install a Lennox ductless mini split system in a Tucson home — ideal for room additions, garages, and homes without ductwork.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Ductless Mini Split Installation Company in Tucson, AZ',
     sections: [

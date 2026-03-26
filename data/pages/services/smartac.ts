@@ -92,6 +92,16 @@ export const smartacData: ServicePageData = {
       description: "We receive alerts too | Priority scheduling | Fix problems before AC fails"
     }
   ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "tgIwjtHXGkc",
+    title: "SEER Ratings for AC: What Does It Mean?",
+    description: "Intelligent Design explains SEER ratings, what they mean for your energy bills, and how to choose the right efficiency level for Tucson's climate.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   
   content: {
     mainHeading: 'SmartAC Monitoring: Protect Your Tucson Home from AC Breakdowns',

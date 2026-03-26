@@ -47,6 +47,16 @@ export const heaterinstallationData: ServicePageData = {
     "description": "Most installs in 1 day | Minimal disruption | Complete cleanup | System training included"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "lzK67f4P_64",
+    title: "Lennox Variable Speed Furnace | Intelligent Design of Tucson",
+    description: "Intelligent Design explains variable speed furnace technology and why it's the best choice for new heater installation in Tucson homes.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Heater Installation Company in Tucson, AZ',
     sections: [

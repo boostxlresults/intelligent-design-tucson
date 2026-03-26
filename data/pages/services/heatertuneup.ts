@@ -47,6 +47,16 @@ export const heatertuneupData: ServicePageData = {
     "description": "Small investment prevents major repairs | Maintenance plan discounts | Priority scheduling"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "KrnjhyBteZE",
+    title: "Lennox 2 Stage Furnace: Why It Provides Superior Comfort",
+    description: "Learn why two-stage furnace technology matters for your annual heater tune-up, and how Intelligent Design keeps your heating system running efficiently.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Heater Tuneup Company in Tucson, AZ',
     sections: [

@@ -47,6 +47,16 @@ export const solaracData: ServicePageData = {
     "description": "Track real-time solar production | Remote control | Energy savings dashboard | R32 eco-friendly refrigerant"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "kbBFP_W1Sh0",
+    title: "Lennox Sun Source System: Reduce Cooling Costs with a Solar AC",
+    description: "Intelligent Design explains how solar-powered air conditioning works and how Tucson homeowners can reduce cooling costs by up to 50% with solar AC technology.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Solar AC Company in Tucson, AZ',
     sections: [

@@ -47,6 +47,16 @@ export const heatpumpsData: ServicePageData = {
     "description": "No-obligation estimates | System sizing | Compare options | Transparent pricing"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "0iS0maJglmM",
+    title: "Lennox Heat Pump Technology Explained",
+    description: "Learn how heat pump technology works and why it's an efficient heating and cooling solution for Tucson homes, explained by Intelligent Design.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Heat Pumps Company in Tucson, AZ',
     sections: [

@@ -47,6 +47,16 @@ export const waterheaterrepairData: ServicePageData = {
     "description": "Parts warranties | Labor guarantees | Service protection | Peace of mind coverage"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "s49MuJmUO3w",
+    title: "Tucson Water Warning: What You Need to Know",
+    description: "Understanding Tucson's water quality is essential for water heater maintenance. Intelligent Design explains common water heater issues and repair solutions.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Water Heater Repair Company in Tucson, AZ',
     sections: [

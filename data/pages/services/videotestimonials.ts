@@ -23,6 +23,16 @@ export const videotestimonialsData: ServicePageData = {
   
   // Content
   highlights: [],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "IKk4kTp_IrQ",
+    title: "Why Do You Love Intelligent Design? (Customer Testimonials)",
+    description: "Hear directly from Intelligent Design customers about their experiences with HVAC, plumbing, solar, and electrical services in Tucson, Arizona.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Video Testimonials Company in Tucson, AZ',
     sections: [

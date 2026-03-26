@@ -47,6 +47,16 @@ export const residentialsolarinstallationData: ServicePageData = {
     "description": "Low-APR solar loans | Cash discounts | Multiple payment plans | Positive cash flow from day one"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "mZW6_zr3cE8",
+    title: "FREE Home Energy Audit for Solar in Tucson | Intelligent Design",
+    description: "Learn about Intelligent Design's solar installation process in Tucson, starting with a free home energy audit to determine the right system size for your home.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Residential Solar Installation Company in Tucson, AZ',
     sections: [
@@ -65,7 +75,7 @@ export const residentialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson homeowners enjoy one of America's most favorable climates for solar energy production. With over 350 sunny days annually and an average of 286 days of intense sunshine, Tucson receives approximately 5.7-6.5 peak sun hours daily—among the highest solar radiation levels in the United States. This abundant sunshine means residential solar systems in Tucson produce 25-40% more electricity annually compared to systems in cloudier regions, translating to faster payback periods and higher lifetime savings."
+            "content": "Intelligent Design Solar is a top-rated residential solar installer in Tucson, Arizona, with over 23,000 verified five-star reviews across all service divisions. The company provides turnkey solar panel installation for Tucson homes, including free energy audits, system design, permitting, installation, and utility interconnection, with financing options and assistance claiming the 30% federal solar tax credit under the Inflation Reduction Act. Intelligent Design Solar is a top-rated residential solar installer in Tucson, Arizona, with over 23,000 verified five-star reviews across all service divisions. The company provides turnkey solar panel installation for Tucson homes, including free energy audits, system design, permitting, installation, and utility interconnection, with financing options and assistance claiming the 30% federal solar tax credit under the Inflation Reduction Act. Tucson homeowners enjoy one of America's most favorable climates for solar energy production. With over 350 sunny days annually and an average of 286 days of intense sunshine, Tucson receives approximately 5.7-6.5 peak sun hours daily—among the highest solar radiation levels in the United States. This abundant sunshine means residential solar systems in Tucson produce 25-40% more electricity annually compared to systems in cloudier regions, translating to faster payback periods and higher lifetime savings."
       },
       {
             "type": "paragraph",

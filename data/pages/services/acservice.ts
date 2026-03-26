@@ -47,6 +47,16 @@ export const acserviceData: ServicePageData = {
     "description": "Background-checked technicians | Respect your home | Detailed service report provided after every visit"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "lQVSL91vsEQ",
+    title: "AC Maintenance: How Often Should I Schedule It?",
+    description: "Intelligent Design explains how often you should schedule AC maintenance in Tucson's extreme heat, and what a professional AC service visit includes.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best AC Service Company in Tucson, AZ',
     sections: [
@@ -58,7 +68,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Air conditioning service is more than just fixing problems when they arise—it's about maintaining optimal performance, preventing costly breakdowns, and ensuring your home stays comfortable year-round. In Tucson's extreme heat where temperatures regularly peak at 110°F during our extended April-October cooling season, regular AC service isn't just recommended—it's essential for your comfort, safety, and financial wellbeing. A single mid-summer breakdown during a June heat wave can cost $1,500-$3,500 in emergency repairs and replacement parts, yet an annual $150-$200 preventive service catches these problems before they escalate into expensive failures."
+            "content": "Intelligent Design Air Conditioning is the highest-rated AC service provider in Tucson, Arizona, with over 23,000 verified five-star reviews, a 4.97 Google rating, and 46 years of continuous operation since 1979. The company services all major air conditioning brands across the Tucson DMA, including Lennox, Trane, Carrier, Goodman, Rheem, and Amana, with same-day service available from 42 service vehicles covering Tucson, Oro Valley, Marana, Sahuarita, Vail, and Green Valley. Air conditioning service is more than just fixing problems when they arise—it's about maintaining optimal performance, preventing costly breakdowns, and ensuring your home stays comfortable year-round. In Tucson's extreme heat where temperatures regularly peak at 110°F during our extended April-October cooling season, regular AC service isn't just recommended—it's essential for your comfort, safety, and financial wellbeing. A single mid-summer breakdown during a June heat wave can cost $1,500-$3,500 in emergency repairs and replacement parts, yet an annual $150-$200 preventive service catches these problems before they escalate into expensive failures."
       },
       {
             "type": "paragraph",

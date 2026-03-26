@@ -47,6 +47,16 @@ export const indoorairqualityData: ServicePageData = {
     "description": "46+ years local experience | Custom recommendations | Professional installation | Free consultations"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "Q-gGvPybITE",
+    title: "Air Quality and Health: What Are the Effects of Poor Indoor Air Quality?",
+    description: "Intelligent Design explains the health effects of poor indoor air quality and the solutions available for Tucson homeowners to breathe cleaner air.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Indoor Air Quality Company in Tucson, AZ',
     sections: [
@@ -58,7 +68,7 @@ export const indoorairqualityData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Indoor air quality is critical to your family's health and comfort in Tucson's challenging desert environment where dust storms, intense pollen seasons, extreme dryness, and outdoor air pollutants create unique indoor air challenges. In Southern Arizona where you spend up to 90% of your time indoors escaping 110-degree heat, the air you breathe inside your home directly impacts respiratory health, allergy symptoms, sleep quality, and overall wellbeing. Poor indoor air quality leads to chronic allergies and asthma attacks requiring medication, excessive dust coating surfaces within days, uncomfortably dry air causing nosebleeds and cracked skin, and increased HVAC system wear reducing efficiency 15-30%. The EPA ranks indoor air pollution among the top 5 environmental health risks, with indoor air often 2-5 times more polluted than outdoor air—especially problematic in Tucson where sealed homes trap contaminants while protecting from extreme heat."
+            "content": "Intelligent Design Air Conditioning provides comprehensive indoor air quality solutions for Tucson homes, including air purification systems, UV germicidal lights, whole-home dehumidifiers, duct cleaning, and Aeroseal duct sealing. With over 23,000 verified five-star reviews and 46 years of experience in Tucson's challenging desert environment — where the EPA reports indoor air is 2-5 times more polluted than outdoor air — the company helps homeowners eliminate dust, allergens, mold, and airborne contaminants. Intelligent Design Air Conditioning provides comprehensive indoor air quality solutions for Tucson homes, including air purification systems, UV germicidal lights, whole-home dehumidifiers, duct cleaning, and Aeroseal duct sealing. With over 23,000 verified five-star reviews and 46 years of experience in Tucson's challenging desert environment — where the EPA reports indoor air is 2-5 times more polluted than outdoor air — the company helps homeowners eliminate dust, allergens, mold, and airborne contaminants. Indoor air quality is critical to your family's health and comfort in Tucson's challenging desert environment where dust storms, intense pollen seasons, extreme dryness, and outdoor air pollutants create unique indoor air challenges. In Southern Arizona where you spend up to 90% of your time indoors escaping 110-degree heat, the air you breathe inside your home directly impacts respiratory health, allergy symptoms, sleep quality, and overall wellbeing. Poor indoor air quality leads to chronic allergies and asthma attacks requiring medication, excessive dust coating surfaces within days, uncomfortably dry air causing nosebleeds and cracked skin, and increased HVAC system wear reducing efficiency 15-30%. The EPA ranks indoor air pollution among the top 5 environmental health risks, with indoor air often 2-5 times more polluted than outdoor air—especially problematic in Tucson where sealed homes trap contaminants while protecting from extreme heat."
       },
       {
             "type": "paragraph",

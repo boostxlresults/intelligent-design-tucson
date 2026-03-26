@@ -47,6 +47,16 @@ export const ductcleaningData: ServicePageData = {
     "description": "No hidden fees | Written estimates | Fast scheduling | Satisfaction guaranteed"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "khTH_w2VJlU",
+    title: "Indoor Air Quality Tucson — Duct Leak Sealing | Air Conditioning Tucson",
+    description: "Intelligent Design demonstrates how duct cleaning and sealing improves indoor air quality in Tucson homes, reducing dust, allergens, and energy waste.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Duct Cleaning Company in Tucson, AZ',
     sections: [

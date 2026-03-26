@@ -49,6 +49,16 @@ export const electricalpanelupgradesData: ServicePageData = {
     "description": "Family & veteran-owned | 23,000+ reviews | BBB A+ rated | Serving Tucson since 1979"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "OPkxI1YLK3o",
+    title: "HVAC System Cost: 5 Costs of HVAC Ownership",
+    description: "Electrical panel upgrades are often required for new HVAC systems. Intelligent Design explains the full costs of home comfort system ownership.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Electrical Panel Upgrades Company in Tucson, AZ',
     sections: [

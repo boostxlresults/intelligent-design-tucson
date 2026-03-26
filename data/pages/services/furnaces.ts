@@ -49,6 +49,16 @@ export const furnacesData: ServicePageData = {
     "description": "Installation, repair & maintenance | 24/7 emergency service | 46+ years experience | Satisfaction guaranteed"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "KrnjhyBteZE",
+    title: "Lennox 2 Stage Furnace: Why It Provides Superior Comfort",
+    description: "Intelligent Design explains how two-stage furnace technology provides superior comfort and energy efficiency for Tucson homeowners.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Furnaces Company in Tucson, AZ',
     sections: [

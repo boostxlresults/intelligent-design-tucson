@@ -53,6 +53,16 @@ export const waterheaterinstallationData: ServicePageData = {
     "description": "Old unit removal | Installation | Permitting | Inspections | Cleanup | Warranty support"
   }
 ],
+
+  // Featured Video (displayed after TOC/Jump to Section)
+  featuredVideo: {
+    videoId: "otZuMRMBIZ8",
+    title: "Intelligent Design Solar & New HVAC System Install Client Story",
+    description: "Watch how Intelligent Design handles comprehensive home comfort upgrades including water heater installation for Tucson homeowners.",
+    duration: "PT5M",
+    uploadDate: "2024-01-01T00:00:00Z"
+  },
+
   content: {
     mainHeading: 'Best Water Heater Installation Company in Tucson, AZ',
     sections: [
