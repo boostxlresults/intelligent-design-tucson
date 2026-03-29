@@ -3,8 +3,6 @@
 import { useCallback, useEffect, useState } from "react";
 
 const API_KEY = "m1cp1a9zj306h48ohavpwg8w";
-const SCHEDULER_ID = "sched_vwgezlwi56yyvwdb0nzlng14";
-
 let schedulerLoaded = false;
 let schedulerLoading = false;
 let loadPromise: Promise<void> | null = null;
@@ -12,7 +10,7 @@ let loadPromise: Promise<void> | null = null;
 declare global {
   interface Window {
     _scheduler?: {
-      show: (options: { schedulerId: string }) => void;
+      show: (options?: Record<string, unknown>) => void;
     };
   }
 }
@@ -28,12 +26,12 @@ function loadSchedulerScript(): Promise<void> {
     script.src = "https://embed.scheduler.servicetitan.com/scheduler-v1.js";
     script.async = true;
     script.dataset.apiKey = API_KEY;
-    script.dataset.schedulerid = SCHEDULER_ID;
 
     script.onload = () => {
       schedulerLoaded = true;
       schedulerLoading = false;
-      setTimeout(resolve, 100);
+      // Give the script a moment to initialize window._scheduler
+      setTimeout(resolve, 300);
     };
 
     script.onerror = () => {
@@ -56,14 +54,14 @@ export function useScheduler() {
     try {
       await loadSchedulerScript();
       if (window._scheduler?.show) {
-        window._scheduler.show({ schedulerId: SCHEDULER_ID });
+        window._scheduler.show();
       }
     } finally {
       setIsLoading(false);
     }
   }, []);
 
-  return { openScheduler, isLoading, schedulerId: SCHEDULER_ID };
+  return { openScheduler, isLoading };
 }
 
 export function preloadScheduler() {
