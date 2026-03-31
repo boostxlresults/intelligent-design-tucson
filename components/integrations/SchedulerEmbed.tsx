@@ -13,6 +13,7 @@ interface SchedulerEmbedProps {
   iconClassName?: string;
   textClassName?: string;
   verticalLayout?: boolean;
+  fullWidth?: boolean;
   "data-testid"?: string;
 }
 
@@ -24,6 +25,7 @@ export default function SchedulerEmbed({
   iconClassName = "w-5 h-5",
   textClassName = "",
   verticalLayout = false,
+  fullWidth = false,
   "data-testid": dataTestId = "button-schedule",
 }: SchedulerEmbedProps) {
   const { openScheduler, isLoading } = useScheduler();
@@ -41,14 +43,14 @@ export default function SchedulerEmbed({
     <a
       href="/schedule"
       onClick={handleClick}
-      className="inline-flex"
+      className={fullWidth ? "flex w-full" : "inline-flex"}
       aria-label={`${triggerText} — opens scheduling widget`}
       data-testid={`link-${dataTestId}`}
     >
       <Button
         size={size}
         variant={variant}
-        className={className}
+        className={fullWidth ? `w-full justify-center ${className}` : className}
         data-testid={dataTestId}
         disabled={isLoading}
         tabIndex={-1} // Prevent double-tab-stop (the <a> is the focusable element)
