@@ -6,7 +6,7 @@ import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
 export default function Hero() {
   return (
-    <section className="relative min-h-[450px] md:min-h-[500px] flex items-start overflow-hidden">
+    <section className="relative min-h-[700px] md:min-h-[500px] flex items-start overflow-hidden">
       {/* Background Image - Responsive hero with mobile-first priority */}
       <div className="absolute inset-0 z-0">
         {/* Mobile hero (default, shown below 768px) - PRIORITY for LCP */}
@@ -17,7 +17,7 @@ export default function Hero() {
           priority
           fetchPriority="high"
           sizes="100vw"
-          className="object-cover md:hidden"
+          className="object-cover object-top md:hidden"
         />
         {/* Tablet hero (768px to 1279px) - PRIORITY for LCP on tablet */}
         <Image
