@@ -370,7 +370,7 @@ export default function Header() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 w-full bg-primary shadow-md">
+    <header className="fixed top-0 left-0 right-0 z-50 w-full bg-primary shadow-md">
       <div className="pr-4 md:pr-6 lg:pr-8 pl-2 md:pl-3 lg:pl-4">
         <div className="flex items-center py-4 md:py-6 gap-8">
           {/* Logo - Optimized with Next.js Image for automatic resizing */}
