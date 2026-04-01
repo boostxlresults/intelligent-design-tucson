@@ -336,4 +336,43 @@
   .mobile-floating-bar {
     z-index: 9999 !important;
   }
+
+  /*
+   * BROCCOLI AI CHAT — MOBILE FIXES
+   *
+   * Problem 1: The Broccoli chat button sits at bottom:20px / z-index:99999.
+   *   On mobile the floating action bar (~64px tall, z-index:9999) covers the
+   *   bottom of the screen, hiding the chat button behind it.
+   *
+   * Problem 2: When the full-screen chat opens on mobile it uses
+   *   position:fixed top/left/right/bottom:0 — but the floating bar still
+   *   renders on top, eating 64px off the bottom of the chat iframe and
+   *   making it feel unresponsive / cut off.
+   *
+   * Fix:
+   *   - Lift the chat trigger button above the floating bar (bottom:80px)
+   *   - When the chat is open (full-screen iframe), give it a z-index above
+   *     the floating bar so it covers the true full screen
+   */
+
+  @media (max-width: 768px) {
+    /* Lift the chat bubble above the 64px floating action bar */
+    #broccoli-chat-widget-container {
+      bottom: 80px !important;
+      right: 12px !important;
+      z-index: 10000 !important;
+    }
+  }
+
+  @media (max-width: 640px) {
+    /* Full-screen chat iframe must sit above the floating bar when open */
+    #broccoli-chat-widget-container > div {
+      z-index: 100000 !important;
+    }
+    /* Hide the floating action bar while the full-screen chat is open
+       so it doesn't clip the bottom of the chat UI */
+    body.broccoli-chat-open .mobile-floating-bar {
+      display: none !important;
+    }
+  }
 }
