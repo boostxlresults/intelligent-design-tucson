@@ -6,8 +6,6 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
-import PulseMWidget from '@/components/integrations/PulseMWidget';
-
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Reviews | 23,000+ Five-Star Reviews | Intelligent Design Tucson',
   description: '23,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
@@ -442,8 +440,6 @@ export default function CustomerReviewsPage() {
               </div>
             </div>
 
-            {/* PulseM Widget */}
-            <PulseMWidget />
           </div>
         </section>
 

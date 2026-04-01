@@ -385,16 +385,30 @@
   }
 
   /*
-   * PULSEM REVIEW WIDGET — MOBILE FIXES
+   * PULSEM REVIEW WIDGET
    *
    * The PulseM review-widget is a floating social proof popup that appends
-   * itself to document.body. On mobile it can appear behind the floating
-   * action bar. Lift it above the bar and push it above the bottom bar.
+   * itself to document.body. We load the script once globally and control
+   * visibility via a body class:
+   *   - body.pulsem-hidden  → widget is invisible (all non-reviews pages)
+   *   - no class            → widget is visible (/customer-reviews page)
+   *
+   * On mobile, lift the widget above the floating action bar.
    */
+
+  /* Hide widget on non-reviews pages */
+  body.pulsem-hidden review-widget {
+    display: none !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  /* Ensure widget is fully visible on reviews page */
+  review-widget {
+    z-index: 10001 !important;
+  }
+
   @media (max-width: 768px) {
-    review-widget {
-      z-index: 10001 !important;
-    }
     /* Ensure the widget popup/badge appears above the floating bar */
     review-widget .widget-wrapper,
     review-widget .review-window,

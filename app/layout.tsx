@@ -10,6 +10,7 @@ import DNIInjector from "@/components/integrations/DNIInjector";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import RealWorkLabsLoader from "@/components/integrations/RealWorkLabsLoader";
+import PulseMWidget from "@/components/integrations/PulseMWidget";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -182,6 +183,8 @@ export default function RootLayout({
         <BroccoliChat />
         {/* RealWorkLabs project showcase widget */}
         <RealWorkLabsLoader />
+        {/* PulseM floating review popup — visible only on /customer-reviews */}
+        <PulseMWidget />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
       </body>
