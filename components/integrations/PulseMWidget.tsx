@@ -3,26 +3,12 @@
 import { useEffect, useCallback, useRef } from 'react';
 import { usePathname } from 'next/navigation';
 
-interface PulseMWidgetProps {
-  containerId?: string;
-  className?: string;
-}
-
-export default function PulseMWidget({ 
-  containerId = 'pulsem-reviews-container',
-  className = ''
-}: PulseMWidgetProps) {
+export default function PulseMWidget() {
   const pathname = usePathname();
   const observerRef = useRef<MutationObserver | null>(null);
 
-  // Aggressive cleanup function to remove all PulseM elements
+  // Cleanup function to remove all PulseM elements on non-reviews pages
   const cleanupPulseM = useCallback(() => {
-    // Clear the container
-    const container = document.getElementById(containerId);
-    if (container) {
-      container.innerHTML = '';
-    }
-
     // Remove the main script
     const scriptEl = document.getElementById('pulsem-embed-gsd');
     if (scriptEl) {
@@ -66,7 +52,7 @@ export default function PulseMWidget({
         // Ignore errors from getComputedStyle
       }
     });
-  }, [containerId]);
+  }, []);
 
   // Start a MutationObserver to continuously remove PulseM elements on non-reviews pages
   const startObserver = useCallback(() => {
@@ -154,16 +140,8 @@ export default function PulseMWidget({
     };
   }, [pathname, cleanupPulseM, startObserver, stopObserver]);
 
-  // Don't render anything if not on customer-reviews page
-  if (pathname !== '/customer-reviews') {
-    return null;
-  }
-
-  return (
-    <div 
-      id={containerId} 
-      data-testid="pulsem-widget-container"
-      className={`min-h-[400px] ${className}`}
-    />
-  );
+  // The PulseM review-widget.js registers a <review-widget> custom element
+  // and appends it directly to document.body — no container div is needed.
+  // We render nothing; the widget self-renders into the page.
+  return null;
 }

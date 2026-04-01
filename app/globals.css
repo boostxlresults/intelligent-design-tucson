@@ -325,8 +325,16 @@
     inset: -1px;
   }
 
-  /* Prevent horizontal scroll on mobile */
-  html, body {
+  /* Prevent horizontal scroll on mobile.
+   * IMPORTANT: overflow-x:hidden on <html> breaks position:sticky on all
+   * child elements (it creates a new scroll container). We use overflow:clip
+   * on html (which does NOT create a scroll container) and keep overflow-x:hidden
+   * only on body so the header can stick correctly on all devices.
+   */
+  html {
+    overflow-x: clip;
+  }
+  body {
     overflow-x: hidden;
     max-width: 100vw;
   }

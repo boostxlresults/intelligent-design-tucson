@@ -7,10 +7,48 @@ import { trackPhoneClick, trackChatOpen } from "@/lib/analytics";
 
 export default function MobileFloatingActions() {
   const handleTextUsClick = () => {
-    const broccoliButton = document.querySelector('[data-broccoli-chat], iframe[src*="broccoli"]');
-    if (broccoliButton && broccoliButton instanceof HTMLElement) {
+    trackChatOpen();
+
+    // Strategy 1: Click the actual Broccoli chat button by its known ID
+    const broccoliButton = document.getElementById("broccoli-chat-widget-button");
+    if (broccoliButton) {
       broccoliButton.click();
+      return;
     }
+
+    // Strategy 2: Try the widget container's first button child
+    const widgetContainer = document.getElementById("broccoli-chat-widget-container");
+    if (widgetContainer) {
+      const btn = widgetContainer.querySelector("button");
+      if (btn) {
+        (btn as HTMLElement).click();
+        return;
+      }
+    }
+
+    // Strategy 3: Try the Broccoli JS API directly if available
+    if (typeof (window as any).BroccoliChatWidget?.open === "function") {
+      (window as any).BroccoliChatWidget.open();
+      return;
+    }
+
+    // Strategy 4: Widget hasn't loaded yet — wait up to 5s then retry
+    let attempts = 0;
+    const interval = setInterval(() => {
+      attempts++;
+      const btn =
+        document.getElementById("broccoli-chat-widget-button") ||
+        document.querySelector("#broccoli-chat-widget-container button");
+      if (btn) {
+        (btn as HTMLElement).click();
+        clearInterval(interval);
+      } else if (typeof (window as any).BroccoliChatWidget?.open === "function") {
+        (window as any).BroccoliChatWidget.open();
+        clearInterval(interval);
+      } else if (attempts >= 10) {
+        clearInterval(interval);
+      }
+    }, 500);
   };
 
   return (
@@ -42,11 +80,11 @@ export default function MobileFloatingActions() {
             data-testid="button-mobile-schedule"
           />
 
-          {/* Text Us - Reveals Broccoli Chat widget on mobile/tablet */}
+          {/* Text Us - Opens Broccoli AI Chat widget */}
           <Button
             size="sm"
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-green-600 hover:bg-green-700 text-white border-2 border-green-700"
-            onClick={() => { trackChatOpen(); handleTextUsClick(); }}
+            onClick={handleTextUsClick}
             data-testid="button-mobile-chat"
           >
             <MessageCircle className="w-5 h-5" />
