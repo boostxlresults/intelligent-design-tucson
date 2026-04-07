@@ -1,12 +1,17 @@
 /**
  * Customer Reviews Data
  * Converted from JSON to TS module for Turbopack compatibility
+ * 
+ * IMPORTANT: These values MUST match actual Google Business Profile data.
+ * Google reviews: 3,680+ at 4.9 stars (as of April 2026)
+ * Update monthly or when review count changes significantly.
+ * DO NOT use cross-platform totals — Google schema should reflect Google data only.
  */
 
 export const reviewsData = {
   aggregateRating: {
-    ratingValue: 5.0,
-    reviewCount: 23000,
+    ratingValue: 4.9,
+    reviewCount: 3680,
     bestRating: 5,
     worstRating: 1
   },

@@ -266,7 +266,18 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 7. Offer Schemas (if applicable)
+  // 7. AggregateRating Schema — CRITICAL for Maps ranking
+  // Ensures every service page carries review signals for Google Maps
+  schemas.push(generateAggregateRatingSchema({
+    itemReviewed: {
+      type: 'LocalBusiness',
+      name: pageData.serviceName 
+        ? `Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - ${pageData.serviceName}`
+        : 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric'
+    }
+  }));
+
+  // 8. Offer Schemas (if applicable)
   if (pageData.includeOffers) {
     const offerSchemas = generateOfferSchemas({ includeAll: false });
     schemas.push(...offerSchemas);
@@ -373,7 +384,17 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 8. Offer Schemas
+  // 8. AggregateRating Schema — CRITICAL for Maps ranking
+  schemas.push(generateAggregateRatingSchema({
+    itemReviewed: {
+      type: 'LocalBusiness',
+      name: pageData.serviceName && pageData.location
+        ? `Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - ${pageData.serviceName} in ${pageData.location}`
+        : 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric'
+    }
+  }));
+
+  // 9. Offer Schemas
   if (pageData.includeOffers) {
     const offerSchemas = generateOfferSchemas({ includeAll: false });
     schemas.push(...offerSchemas);
