@@ -7,8 +7,8 @@ import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: '$28.88 Drain Clearing Special | Tucson Plumbing | Intelligent Design',
-  description: 'Limited time offer! Get professional drain clearing for just $28.88 in Tucson. Expert plumbers, fast service, satisfaction guaranteed. Clear clogged drains, sinks, and toilets. Call (520) 333-2665 today!',
+  title: '$88.88 Drain Clearing Special | Tucson Plumbing | Intelligent Design',
+  description: 'Limited time offer! Get professional drain clearing for just $88.88 in Tucson. Expert plumbers, fast service, satisfaction guaranteed. Clear clogged drains, sinks, and toilets. Call (520) 333-2665 today!',
   canonicalUrl: 'https://www.idesignac.com/drain-clearing-special',
   keywords: ['drain clearing special Tucson', 'drain clearing coupon', 'clogged drain Tucson', 'plumbing special', 'drain unclogging deal'],
 });
@@ -16,9 +16,9 @@ export const metadata: Metadata = generateSEOMetadata({
 const offerSchema = {
   "@context": "https://schema.org",
   "@type": "Offer",
-  "name": "$28.88 Drain Clearing Special",
-  "description": "Professional drain clearing service for just $28.88 in the Tucson area",
-  "price": "28.88",
+  "name": "$88.88 Drain Clearing Special",
+  "description": "Professional drain clearing service for just $88.88 in the Tucson area",
+  "price": "88.88",
   "priceCurrency": "USD",
   "eligibleRegion": {
     "@type": "Place",
@@ -40,15 +40,15 @@ const faqSchema = {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is included in the $28.88 drain clearing special?",
+      "name": "What is included in the $88.88 drain clearing special?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our $28.88 drain clearing special includes professional drain clearing for one drain line using standard methods. This covers most kitchen sink, bathroom sink, shower, and tub clogs. Additional lines or specialty equipment may require an additional charge."
+        "text": "Our $88.88 drain clearing special includes professional drain clearing for one drain line using standard methods. This covers most kitchen sink, bathroom sink, shower, and tub clogs. Additional lines or specialty equipment may require an additional charge."
       }
     },
     {
       "@type": "Question",
-      "name": "How long is the $28.88 drain clearing offer valid?",
+      "name": "How long is the $88.88 drain clearing offer valid?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "This special offer is available for a limited time. Call (520) 333-2665 to confirm current availability and schedule your service."
@@ -105,10 +105,10 @@ export default function DrainClearingSpecialPage() {
                 LIMITED TIME OFFER
               </div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6" data-testid="text-hero-title">
-                $28.88 Drain Clearing Special
+                $88.88 Drain Clearing Special
               </h1>
               <p className="text-2xl md:text-3xl text-yellow-400 font-bold mb-4" data-testid="text-hero-price">
-                Professional Drain Clearing for Just $28.88
+                Professional Drain Clearing for Just $88.88
               </p>
               <p className="text-xl text-white/90 mb-8" data-testid="text-hero-description">
                 Fast, reliable drain clearing from Tucson's trusted plumbing experts. Clear kitchen sinks, bathroom drains, shower clogs, and more!
@@ -141,7 +141,7 @@ export default function DrainClearingSpecialPage() {
               </Link>
               <ChevronRight className="w-4 h-4" />
               <span className="text-foreground" data-testid="text-breadcrumb-current">
-                $28.88 Special
+                $88.88 Special
               </span>
             </div>
           </div>
@@ -201,7 +201,7 @@ export default function DrainClearingSpecialPage() {
               <CardContent className="p-8 text-center">
                 <h3 className="text-2xl font-bold mb-4">Ready to Clear That Clog?</h3>
                 <p className="text-lg text-muted-foreground mb-6">
-                  Call now to schedule your $28.88 drain clearing service
+                  Call now to schedule your $88.88 drain clearing service
                 </p>
                 <Button asChild size="lg" className="bg-primary text-primary-foreground text-lg px-8 py-6 h-auto">
                   <a href="tel:+1520-333-2665" data-testid="button-call-cta">
@@ -222,15 +222,15 @@ export default function DrainClearingSpecialPage() {
             <div className="space-y-6">
               <Card>
                 <CardContent className="p-6">
-                  <h3 className="font-bold text-lg mb-2">What is included in the $28.88 drain clearing special?</h3>
+                  <h3 className="font-bold text-lg mb-2">What is included in the $88.88 drain clearing special?</h3>
                   <p className="text-muted-foreground">
-                    Our $28.88 drain clearing special includes professional drain clearing for one drain line using standard methods. This covers most kitchen sink, bathroom sink, shower, and tub clogs. Additional lines or specialty equipment may require an additional charge.
+                    Our $88.88 drain clearing special includes professional drain clearing for one drain line using standard methods. This covers most kitchen sink, bathroom sink, shower, and tub clogs. Additional lines or specialty equipment may require an additional charge.
                   </p>
                 </CardContent>
               </Card>
               <Card>
                 <CardContent className="p-6">
-                  <h3 className="font-bold text-lg mb-2">How long is the $28.88 drain clearing offer valid?</h3>
+                  <h3 className="font-bold text-lg mb-2">How long is the $88.88 drain clearing offer valid?</h3>
                   <p className="text-muted-foreground">
                     This special offer is available for a limited time. Call (520) 333-2665 to confirm current availability and schedule your service.
                   </p>
@@ -260,7 +260,7 @@ export default function DrainClearingSpecialPage() {
           <div className="max-w-4xl mx-auto px-4 text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Don't Let a Clogged Drain Ruin Your Day</h2>
             <p className="text-xl mb-8 opacity-90">
-              Call now and save with our $28.88 drain clearing special
+              Call now and save with our $88.88 drain clearing special
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">

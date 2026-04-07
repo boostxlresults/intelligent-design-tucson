@@ -77,7 +77,7 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 - **Full Plumbing Services** (/services/plumbing-tucson): Comprehensive residential plumbing
 - **Water Heater Repair** (/services/water-heater-repair): Tank and tankless water heater repair
 - **Water Heater Installation** (/services/water-heater-installation): Tank, tankless, and hybrid water heaters
-- **Drain Clearing** (/services/drain-clearing): Professional drain cleaning with $28.88 special
+- **Drain Clearing** (/services/drain-clearing): Professional drain cleaning with $88.88 special
 - **Sewer Line Repair** (/services/sewer-line-repair): Sewer line repair, replacement, camera inspection
 - **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video sewer line diagnostics
 - **Leak Detection** (/services/leak-detection): Electronic leak detection, thermal imaging
@@ -124,7 +124,7 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 - **Commercial Roofing**: TPO, EPDM, built-up roofing systems
 
 ### Drain & Sewer Services
-- **$28.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing promotion
+- **$88.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing promotion
 - **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video diagnostics
 - **Hydro Jetting** (/services/hydro-jetting): High-pressure cleaning
 - **Root Removal**: Tree root intrusion clearing
@@ -234,7 +234,7 @@ Intelligent Design serves the greater Tucson metropolitan area including 20+ com
 
 ### Current Specials
 - **86-Point HVAC Tune-Up / AC Tune-Up** ($28.88): Professional cleaning, inspection, and system refresh to identify potential issues and keep your system running efficiently. Most Popular offer.
-- **$28.88 Drain Clearing Special** (/drain-clearing-special): Professional drain clearing at unbeatable price
+- **$88.88 Drain Clearing Special** (/drain-clearing-special): Professional drain clearing at unbeatable price
 - **Free Roof Inspection** (/contact): Comprehensive roof assessment with written report and recommendations. No obligation.
 - **Free Online HVAC Quote** (/free-hvac-quote): Instant AC and heating system pricing via Contractor Commerce
 - **Free Online Water Heater Quote** (/free-water-heater-quote): Instant water heater pricing with tank and tankless options
