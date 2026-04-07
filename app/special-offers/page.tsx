@@ -40,9 +40,9 @@ export default function SpecialOffersPage() {
     },
     {
       id: 'drain-clearing',
-      title: '$28.88 Drain Clearing Special',
+      title: '$88.88 Drain Clearing Special',
       description: 'Professional drain clearing service to keep your plumbing flowing smoothly. Limited time offer for Tucson homeowners.',
-      price: '$28.88',
+      price: '$88.88',
       badge: 'Limited Time Offer',
       features: [
         'Professional drain clearing',
