@@ -162,7 +162,7 @@ export default function Header() {
     ],
     column2: [
       { name: "Drain Clearing Tucson", href: "/services/drain-clearing", icon: Waves },
-      { name: "$28.88 Drain Clearing Special", href: "/drain-clearing-special", icon: DollarSign },
+      { name: "$88.88 Drain Clearing Special", href: "/drain-clearing-special", icon: DollarSign },
       { name: "Rooter Special", href: "/services/rooter-special", icon: Wind },
       { name: "Leak Detection", href: "/services/leak-detection", icon: Search },
       { name: "Water Leak Repair", href: "/services/water-leak-repair", icon: Droplets },
