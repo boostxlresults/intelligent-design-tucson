@@ -1,220 +1,106 @@
-
-// Auto-generated from PlumbingGladdenFarms.tsx
+// Optimized Plumbing page for Gladden Farms - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const plumbinggladdenfarmsData: ServicePageData = {
   // SEO & Meta
-  title: 'Plumbing Services Gladden Farms AZ | Licensed Plumber',
-  description: 'Expert plumbing services in Gladden Farms, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-gladden-farms',
+  title: "Expert Plumbing Services in Gladden Farms, AZ | Call (520) 333-2665",
+  description: "Top-rated plumbing in Gladden Farms, AZ. Fast leak detection, water heater repair & more. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "plumbing-gladden-farms",
   
   // Hero Section
-  h1: 'Plumbing Services in Gladden Farms, AZ',
-  h2Subheading: 'Expert Plumbing Gladden Farms in Tucson',
-  tagline: 'Expert Repairs | Water Heaters | Drain Cleaning | Leak Detection | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Plumbing Gladden Farms in Tucson',
+  h1: "Trusted Plumbing Services in Gladden Farms, AZ",
+  h2Subheading: "Reliable Repairs, Installations & Maintenance by Local Experts",
+  tagline: "Fast Response | Licensed Technicians | 46+ Years Experience | Transparent Pricing | Quality Warranty | 4.97-Star Rated",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Gladden Farms in Tucson",
   
   // Service Info
-  serviceName: 'Plumbing Gladden Farms',
-  category: 'Plumbing',
+  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Gladden Farms",
-    "description": "Local expertise since 1979. We know Gladden Farms plumbing systems, water conditions, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response Time",
+    "description": "Our average response time ensures your plumbing emergencies in Gladden Farms are handled promptly."
   },
   {
-    "title": "Licensed Master Plumbers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Leak Detection Tech",
+    "description": "Utilizing state-of-the-art equipment to identify hidden leaks quickly and prevent costly damage."
   },
   {
-    "title": "Advanced Technology",
-    "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
+    "title": "Comprehensive Plumbing Solutions",
+    "description": "From water heater installation to pipe repair and faucet replacement, we cover all plumbing needs."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation speaks to our quality and service."
+    "title": "Transparent, Fair Pricing",
+    "description": "Upfront quotes with no surprise fees to keep your plumbing repairs budget-friendly and clear."
   },
   {
-    "title": "Honest Recommendations",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Experienced & Licensed Team",
+    "description": "52 certified technicians with over four decades of expertise servicing the Tucson area."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty Coverage",
+    "description": "Our workmanship and parts come backed by solid warranties for your peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Plumbing Gladden Farms Company in Tucson, AZ',
+    mainHeading: "Trusted Plumbing Services in Gladden Farms, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Plumber Serving Gladden Farms Since 1979",
+            "heading": "Professional Plumbing Services Tailored for Gladden Farms",
             "level": 2,
-            "content": "Trusted Plumber Serving Gladden Farms Since 1979"
+            "content": "Professional Plumbing Services Tailored for Gladden Farms"
       },
       {
             "type": "paragraph",
-            "content": "When plumbing problems strike your Gladden Farms home, you need a licensed plumber you can trust. At Intelligent Design, we've been providing expert plumbing services to Gladden Farms families and businesses since 1979. Our licensed, bonded, and insured plumbers deliver fast, reliable solutions for everything from minor repairs to major installations, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Living in Southern Arizona, plumbing systems face unique challenges like extreme heat, hard water buildup, and seasonal monsoons. At Intelligent Design, we specialize in pipe repair and water heater installation designed to withstand these harsh conditions. Our expert technicians use advanced leak detection tools to catch problems early, preventing costly water damage."
       },
       {
             "type": "paragraph",
-            "content": "Gladden Farms's unique water conditions and plumbing infrastructure require specialized knowledge. Our technicians understand the challenges homeowners face, from hard water issues that accelerate fixture wear to seasonal stress on water heaters during winter months. We stay current with Town of Gladden Farms codes and regulations, ensuring every job meets or exceeds local standards while protecting your home's value and safety."
+            "content": "Whether you need fast toilet repair, faucet installation, or comprehensive plumbing maintenance, our team delivers reliable service with minimal disruption. We understand the urgency plumbing issues bring \u2014 that\u2019s why we average a 68-minute response time for Gladden Farms residents. Trust our 46+ years of experience to keep your home\u2019s plumbing efficient and safe."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive plumbing services include emergency repairs for burst pipes and water heater failures, professional drain cleaning using camera inspection technology, leak detection with non-invasive methods, water heater installation and replacement, sewer line services including trenchless repair, fixture upgrades and installations, garbage disposal services, and preventive maintenance programs. Every service visit includes a courtesy inspection to identify potential issues before they become emergencies."
+            "type": "cta",
+            "heading": "Need Plumbing Help in Gladden Farms Now?",
+            "content": "Contact Intelligent Design today for expert plumbing repairs and installations backed by decades of local experience.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Gladden Farms Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Gladden Farms Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent plumbing needs | Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals | Upfront Pricing: Clear estimates before work begins, no surprise charges | Fast Service: Same-day and emergency service throughout Gladden Farms | Quality Workmanship: Comprehensive warranties on parts and labor",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent plumbing needs",
-                  "Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals",
-                  "Upfront Pricing: Clear estimates before work begins, no surprise charges",
-                  "Fast Service: Same-day and emergency service throughout Gladden Farms",
-                  "Quality Workmanship: Comprehensive warranties on parts and labor"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Plumbing Services for Gladden Farms",
+            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Plumbing Services for Gladden Farms"
+            "content": "Why Gladden Farms Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Plumbing Repair - Plumbing emergencies don't wait for business hours. Our 24/7 emergency plumbers respond quickly to burst pipes, severe leaks, water heater failures, backed-up sewers, and other urgent issues throughout Gladden Farms. We arrive with fully-stocked trucks containing common parts and specialized tools, enabling us to resolve most emergencies on the first visit and minimize water damage to your home."
+            "content": "Our 4.97-star Google rating and over 23,000 reviews reflect the trust we\u2019ve earned in the greater Tucson area. Homeowners rely on our transparent pricing and expert craftsmanship for every job, large or small. We stand behind every repair and installation with solid warranties, ensuring your plumbing systems perform reliably year-round."
       },
       {
             "type": "paragraph",
-            "content": "Water Heater Services - From traditional tank water heaters to modern tankless and hybrid systems, we handle all water heater needs. Our services include professional installation of new units sized correctly for your household, expert repair of existing systems, preventive maintenance including annual flushing, and emergency replacement when failures occur. We help Gladden Farms homeowners select energy-efficient models that reduce utility costs while providing reliable hot water."
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain Cleaning & Sewer Services - Slow drains and backed-up sewers require professional attention. We use advanced camera inspection to diagnose issues accurately, hydro-jetting for thorough cleaning, and trenchless technology for repairs that minimize landscape disruption. Our drain maintenance programs keep Gladden Farms plumbing systems flowing freely, preventing costly backups and extending system life."
-      },
-      {
-            "type": "paragraph",
-            "content": "Leak Detection & Repair - Hidden leaks waste thousands of gallons and cause expensive damage. Our non-invasive leak detection technology locates problems behind walls, under slabs, and in underground lines without unnecessary destruction. We repair leaks promptly using quality materials and proper techniques, protecting your Gladden Farms home from water damage and high utility bills."
+            "content": "With a team of 52 licensed technicians, Intelligent Design combines local knowledge with technical skill to tackle the unique plumbing challenges of Southern Arizona\u2019s climate. Our customer-first approach means clear communication, on-time service, and lasting solutions that protect your home."
       },
       {
             "type": "heading",
-            "heading": "Plumbing Expertise You Can Trust",
+            "heading": "Serving the Gladden Farms Community",
             "level": 2,
-            "content": "Plumbing Expertise You Can Trust"
+            "content": "Serving the Gladden Farms Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Gladden Farms"
+            "content": "We proudly serve Gladden Farms and nearby areas near landmarks like Picture Rock Petroglyphs, Marana Heritage River Park, Marana Falls, and the iconic Downtown Marana Sign with its Cowboy Statue. After your plumbing needs are met, enjoy local favorites such as Luna Cafe, Ol\u2019 Pot Hole, Sky Rider Cafe, and Taqueria Plaza's. Intelligent Design is proud to be part of this vibrant community."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Gladden Farms plumbing systems, water conditions, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Plumbers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Advanced Technology"
-      },
-      {
-            "type": "paragraph",
-            "content": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Recommendations"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Gladden Farms Plumbing FAQs",
-            "level": 2,
-            "content": "Gladden Farms Plumbing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Gladden Farms",
-            "level": 2,
-            "content": "More Services in Gladden Farms"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Plumber in Gladden Farms?",
-            "level": 2,
-            "content": "Need a Plumber in Gladden Farms?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert plumbing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Gladden Farms & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Plumbing Service Today",
+            "content": "Don\u2019t wait for plumbing issues to worsen. Call Intelligent Design at (520) 333-2665 for fast, expert service tailored to Gladden Farms homes.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -1,220 +1,106 @@
-
-// Auto-generated from PlumbingDrexelHeights.tsx
+// Optimized Plumbing page for Drexel Heights - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const plumbingdrexelheightsData: ServicePageData = {
   // SEO & Meta
-  title: 'Plumbing Services Drexel Heights AZ | Licensed Plumber',
-  description: 'Expert plumbing services in Drexel Heights, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-drexel-heights',
+  title: "Expert Plumbing in Drexel Heights, AZ | Call (520) 333-2665",
+  description: "Trusted plumbing services in Drexel Heights, AZ. Fast response, expert repairs, and installations. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "plumbing-drexel-heights",
   
   // Hero Section
-  h1: 'Plumbing Services in Drexel Heights, AZ',
-  h2Subheading: 'Expert Plumbing Drexel Heights in Tucson',
-  tagline: 'Expert Repairs | Water Heaters | Drain Cleaning | Leak Detection | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Plumbing Drexel Heights in Tucson',
+  h1: "Professional Plumbing Services in Drexel Heights, AZ",
+  h2Subheading: "Reliable Repairs, Installations, and Leak Detection by Local Experts",
+  tagline: "Fast Response | Licensed Technicians | 46+ Years Experience | Transparent Pricing | 4.97-Star Rating | Satisfaction Guaranteed",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Drexel Heights in Tucson",
   
   // Service Info
-  serviceName: 'Plumbing Drexel Heights',
-  category: 'Plumbing',
+  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Drexel Heights",
-    "description": "Local expertise since 1979. We know Drexel Heights plumbing systems, water conditions, and code requirements inside and out."
+    "title": "68-Minute Average Response Time",
+    "description": "We respond quickly to plumbing emergencies to minimize water damage and downtime."
   },
   {
-    "title": "Licensed Master Plumbers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Leak Detection Equipment",
+    "description": "Using state-of-the-art technology to find leaks behind walls and underground efficiently."
   },
   {
-    "title": "Advanced Technology",
-    "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
+    "title": "Comprehensive Plumbing Services",
+    "description": "From water heater installation to pipe repair, faucet and toilet services, we handle it all."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation speaks to our quality and service."
+    "title": "Transparent and Competitive Pricing",
+    "description": "No hidden fees with clear estimates tailored to your Drexel Heights home\u2019s needs."
   },
   {
-    "title": "Honest Recommendations",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "52 Licensed Plumbing Technicians",
+    "description": "Our skilled team has over four decades of experience tackling Southern Arizona plumbing challenges."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty Backed Work",
+    "description": "All plumbing repairs and installations come with solid warranties for lasting peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Plumbing Drexel Heights Company in Tucson, AZ',
+    mainHeading: "Professional Plumbing Services in Drexel Heights, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Plumber Serving Drexel Heights Since 1979",
+            "heading": "Trusted Plumbing Solutions for Drexel Heights Residents",
             "level": 2,
-            "content": "Trusted Plumber Serving Drexel Heights Since 1979"
+            "content": "Trusted Plumbing Solutions for Drexel Heights Residents"
       },
       {
             "type": "paragraph",
-            "content": "When plumbing problems strike your Drexel Heights home, you need a licensed plumber you can trust. At Intelligent Design, we've been providing expert plumbing services to Drexel Heights families and businesses since 1979. Our licensed, bonded, and insured plumbers deliver fast, reliable solutions for everything from minor repairs to major installations, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Living in Drexel Heights means dealing with hard water, extreme heat, and seasonal monsoons that can stress your plumbing system. Our expert technicians specialize in durable repairs and installations designed to withstand Southern Arizona\u2019s unique climate. From water heater replacements that ensure reliable hot water during chilly desert nights to pipe repair that prevents costly leaks, we keep your home running smoothly."
       },
       {
             "type": "paragraph",
-            "content": "Drexel Heights's unique water conditions and plumbing infrastructure require specialized knowledge. Our technicians understand the challenges homeowners face, from hard water issues that accelerate fixture wear to seasonal stress on water heaters during winter months. We stay current with Town of Drexel Heights codes and regulations, ensuring every job meets or exceeds local standards while protecting your home's value and safety."
+            "content": "We use advanced leak detection tools to identify hidden water damage early, protecting your property and reducing repair costs. Whether it\u2019s a faulty faucet, a running toilet, or comprehensive plumbing upgrades, Intelligent Design offers tailored solutions to fit your exact needs. Our team is dedicated to quality workmanship and fast, friendly service."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive plumbing services include emergency repairs for burst pipes and water heater failures, professional drain cleaning using camera inspection technology, leak detection with non-invasive methods, water heater installation and replacement, sewer line services including trenchless repair, fixture upgrades and installations, garbage disposal services, and preventive maintenance programs. Every service visit includes a courtesy inspection to identify potential issues before they become emergencies."
+            "type": "cta",
+            "heading": "Schedule Your Plumbing Service Today",
+            "content": "Don\u2019t wait for small leaks to turn into major problems. Call us for prompt, professional plumbing services in Drexel Heights.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Drexel Heights Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Drexel Heights Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent plumbing needs | Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals | Upfront Pricing: Clear estimates before work begins, no surprise charges | Fast Service: Same-day and emergency service throughout Drexel Heights | Quality Workmanship: Comprehensive warranties on parts and labor",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent plumbing needs",
-                  "Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals",
-                  "Upfront Pricing: Clear estimates before work begins, no surprise charges",
-                  "Fast Service: Same-day and emergency service throughout Drexel Heights",
-                  "Quality Workmanship: Comprehensive warranties on parts and labor"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Plumbing Services for Drexel Heights",
+            "heading": "Why Drexel Heights Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Plumbing Services for Drexel Heights"
+            "content": "Why Drexel Heights Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Plumbing Repair - Plumbing emergencies don't wait for business hours. Our 24/7 emergency plumbers respond quickly to burst pipes, severe leaks, water heater failures, backed-up sewers, and other urgent issues throughout Drexel Heights. We arrive with fully-stocked trucks containing common parts and specialized tools, enabling us to resolve most emergencies on the first visit and minimize water damage to your home."
+            "content": "With over 46 years serving the greater Tucson area, Intelligent Design has built a reputation for reliable plumbing solutions and exceptional customer care. Our 4.97-star Google rating from more than 23,000 reviews reflects our commitment to quality and trust. We understand the plumbing challenges faced by local homeowners and deliver lasting repairs and upgrades that withstand harsh weather and hard water conditions."
       },
       {
             "type": "paragraph",
-            "content": "Water Heater Services - From traditional tank water heaters to modern tankless and hybrid systems, we handle all water heater needs. Our services include professional installation of new units sized correctly for your household, expert repair of existing systems, preventive maintenance including annual flushing, and emergency replacement when failures occur. We help Drexel Heights homeowners select energy-efficient models that reduce utility costs while providing reliable hot water."
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain Cleaning & Sewer Services - Slow drains and backed-up sewers require professional attention. We use advanced camera inspection to diagnose issues accurately, hydro-jetting for thorough cleaning, and trenchless technology for repairs that minimize landscape disruption. Our drain maintenance programs keep Drexel Heights plumbing systems flowing freely, preventing costly backups and extending system life."
-      },
-      {
-            "type": "paragraph",
-            "content": "Leak Detection & Repair - Hidden leaks waste thousands of gallons and cause expensive damage. Our non-invasive leak detection technology locates problems behind walls, under slabs, and in underground lines without unnecessary destruction. We repair leaks promptly using quality materials and proper techniques, protecting your Drexel Heights home from water damage and high utility bills."
+            "content": "Every job we complete is backed by strong warranties, ensuring your investment is protected. Our 52 licensed technicians undergo continuous training to stay current with the latest plumbing technologies and best practices. When you choose us, you\u2019re choosing peace of mind with a team that values transparency, professionalism, and your satisfaction."
       },
       {
             "type": "heading",
-            "heading": "Plumbing Expertise You Can Trust",
+            "heading": "Serving the Drexel Heights Community",
             "level": 2,
-            "content": "Plumbing Expertise You Can Trust"
+            "content": "Serving the Drexel Heights Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Drexel Heights"
+            "content": "We proudly serve Drexel Heights and the surrounding areas near iconic landmarks like San Xavier del Bac Mission, Valley of the Moon, Tin Town, and El Con Tower. Whether you\u2019re grabbing breakfast at Hustle Bustle Cafe or enjoying dinner at Redbird Scratch Kitchen + Bar in Sam Hughes, Casa Madre Restaurant, or Flaps and Racks, you can trust Intelligent Design for dependable plumbing services close to home."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Drexel Heights plumbing systems, water conditions, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Plumbers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Advanced Technology"
-      },
-      {
-            "type": "paragraph",
-            "content": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Recommendations"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Drexel Heights Plumbing FAQs",
-            "level": 2,
-            "content": "Drexel Heights Plumbing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Drexel Heights",
-            "level": 2,
-            "content": "More Services in Drexel Heights"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Plumber in Drexel Heights?",
-            "level": 2,
-            "content": "Need a Plumber in Drexel Heights?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert plumbing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Drexel Heights & Greater Tucson"
+            "type": "cta",
+            "heading": "Ready for Expert Plumbing Service in Drexel Heights?",
+            "content": "Contact Intelligent Design Air Conditioning, Plumbing, Solar, & Electric for fast, expert plumbing repairs and installations.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

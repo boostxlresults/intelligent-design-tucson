@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingRillito.tsx
+// Optimized Roofing page for Rillito - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingrillitoData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Rillito AZ | Professional Roofer',
-  description: 'Professional roofing services in Rillito, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-rillito',
+  title: "Expert Roofing Services in Rillito, AZ | Call (520) 333-2665",
+  description: "Reliable roofing services in Rillito, AZ. Roof repair, replacement, inspections & coatings. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "roofing-rillito",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Rillito, AZ',
-  h2Subheading: 'Expert Roofing Rillito in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Rillito in Tucson',
+  h1: "Professional Roofing Services in Rillito, AZ",
+  h2Subheading: "Durable Roof Repairs, Replacements & Inspections for Southern Arizona Homes",
+  tagline: "Fast 68-Min Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing | Transparent Pricing | Industry Warranty",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Rillito in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Rillito',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Rillito",
-    "description": "Local expertise since 1979. We know Rillito roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid Response Time",
+    "description": "Average 68-minute response ensures urgent roof repairs start promptly."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Equipment & Expertise",
+    "description": "52 licensed technicians use cutting-edge tools tailored for Arizona\u2019s climate."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Comprehensive Roofing Services",
+    "description": "Roof repair, replacement, tile & shingle roofing, flat roofs, coatings & inspections."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Rillito customers. Our reputation speaks to our quality and service."
+    "title": "Transparent & Fair Pricing",
+    "description": "Upfront estimates with no hidden fees, tailored to your specific roofing needs."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Highly Qualified Team",
+    "description": "46+ years serving Southern Arizona with skilled, licensed roofing professionals."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Industry Warranty",
+    "description": "All roofing work backed by strong warranties for lasting peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Rillito Company in Tucson, AZ',
+    mainHeading: "Professional Roofing Services in Rillito, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Rillito Since 1979",
+            "heading": "Expert Roofing Solutions Built for Rillito\u2019s Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Rillito Since 1979"
+            "content": "Expert Roofing Solutions Built for Rillito\u2019s Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Rillito roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Rillito families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Rillito, AZ, homeowners face unique roofing challenges from intense monsoon storms, scorching summer heat, and hard water exposure. Intelligent Design specializes in roofing systems engineered to withstand these conditions, including durable tile and shingle roofs designed for thermal expansion and water resistance. Our roof coatings add an extra layer of protection against sun damage and leaks."
       },
       {
             "type": "paragraph",
-            "content": "Rillito's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Rillito building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Whether you need a thorough roof inspection, timely repair, or full replacement, our licensed technicians bring decades of expertise and use advanced diagnostic tools to assess and fix your roof efficiently. We understand the importance of a secure roof to protect your home and family from Southern Arizona\u2019s harsh weather."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Get Your Roof Ready for Rillito\u2019s Weather",
+            "content": "Call Intelligent Design today to schedule a roof inspection or repair. Protect your home from monsoon damage and extreme heat.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Rillito Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Rillito Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Rillito | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Rillito",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Rillito",
+            "heading": "Why Rillito Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Rillito"
+            "content": "Why Rillito Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Rillito. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With a 4.97-star Google rating from over 23,000 reviews, Intelligent Design is trusted by Rillito residents for reliable roofing services. Our commitment to quality workmanship and exceptional customer care has made us a community favorite for more than 46 years."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Rillito homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Rillito roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Rillito's tile roofs while ensuring maximum weather protection."
+            "content": "We stand behind every roof we service with industry-leading warranties and a team of 52 licensed technicians ready to respond quickly. Our transparent pricing and honest recommendations keep your project on budget without sacrificing quality."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Rillito Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Rillito Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Rillito"
+            "content": "Proudly serving the greater Tucson area, including Rillito neighborhoods near Picture Rock Petroglyphs, Tumacacori National Historical Park, Casa Grande Ruins National Monument, and Steam Pump Ranch. After your roofing service, enjoy a meal at local favorites like Luna Cafe, Ol\u2019 Pot Hole, Sky Rider Cafe, or Guadalajara's Grill & Tequila Bar."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Rillito roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Rillito customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Rillito Roofing FAQs",
-            "level": 2,
-            "content": "Rillito Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Rillito",
-            "level": 2,
-            "content": "More Services in Rillito"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Rillito?",
-            "level": 2,
-            "content": "Need a Roofer in Rillito?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Rillito & Greater Tucson"
+            "type": "cta",
+            "heading": "Secure Your Rillito Roof Today",
+            "content": "Contact Intelligent Design for expert roofing services designed for Southern Arizona\u2019s climate challenges. Call now for fast, reliable service.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

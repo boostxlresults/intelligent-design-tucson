@@ -1,231 +1,109 @@
-
-// Auto-generated from SolarInstallationTanqueVerde.tsx
+// Optimized Solar Installation page for Tanque Verde - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const solarinstallationtanqueverdeData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation Tanque Verde AZ | Solar Panel Installation',
-  description: 'Professional solar panel installation in Tanque Verde, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving Tanque Verde families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-tanque-verde',
+  title: "Solar Installation in Tanque Verde, AZ | Call (520) 333-2665",
+  description: "Expert solar installation in Tanque Verde, AZ. Save with solar panels, battery storage & financing. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "solar-installation-tanque-verde",
   
   // Hero Section
-  h1: 'Solar Installation in Tanque Verde, AZ',
-  h2Subheading: 'Expert Solar Installation Tanque Verde in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Solar Installation Tanque Verde in Tucson',
+  h1: "Solar Installation Services in Tanque Verde, AZ",
+  h2Subheading: "Harness Southern Arizona’s Sun with Expert Solar Solutions",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | Trusted Team | Solid Warranties",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Installation Tanque Verde in Tucson",
   
   // Service Info
-  serviceName: 'Solar Installation Tanque Verde',
-  category: 'Solar',
+  serviceName: "Solar Installation",
+  category: "Solar",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tanque Verde",
-    "description": "Local expertise since 1979. We understand Tanque Verde's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
+    "title": "Rapid 68-Minute Response Time",
+    "description": "Our local team responds quickly to your solar installation needs across Tanque Verde."
   },
   {
-    "title": "NABCEP Certified Installers",
-    "description": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
+    "title": "Advanced Solar Equipment",
+    "description": "We install high-efficiency solar panels and cutting-edge battery storage systems."
   },
   {
-    "title": "Premium Equipment Only",
-    "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tanque Verde's climate."
+    "title": "Comprehensive Solar Services",
+    "description": "From system design to net metering setup, we handle every step of your solar project."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation is built on quality work and exceptional service."
+    "title": "Competitive, Transparent Pricing",
+    "description": "Affordable solar options with clear quotes and flexible financing tailored for your budget."
   },
   {
-    "title": "Complete Permitting Support",
-    "description": "We handle all Tanque Verde permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
+    "title": "52 Licensed Solar Technicians",
+    "description": "Our certified experts bring over four decades of experience to each solar installation."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
+    "title": "Reliable Solar Warranties",
+    "description": "Enjoy peace of mind with industry-leading warranties on panels and installation workmanship."
   }
 ],
   content: {
-    mainHeading: 'Best Solar Installation Tanque Verde Company in Tucson, AZ',
+    mainHeading: "Solar Installation Services in Tanque Verde, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Expert Solar Installation for Tanque Verde Homes",
+            "heading": "Professional Solar Installation Tailored for Tanque Verde",
             "level": 2,
-            "content": "Expert Solar Installation for Tanque Verde Homes"
+            "content": "Professional Solar Installation Tailored for Tanque Verde"
       },
       {
             "type": "paragraph",
-            "content": "Tanque Verde homeowners are discovering the financial and environmental benefits of solar energy. With over 350 days of sunshine annually and some of Arizona's highest electric rates from Tucson Electric Power, solar panels deliver exceptional returns on investment. At Intelligent Design, we've helped hundreds of Tanque Verde families transition to clean, renewable solar power since 1979, providing expert system design, premium equipment installation, and comprehensive support to maximize your solar savings."
+            "content": "Tanque Verde\u2019s intense sun and scorching summer heat make solar energy a smart investment. Our installations feature durable, high-efficiency panels designed to withstand Southern Arizona\u2019s extreme conditions, including monsoons and hard water exposure. We ensure your system performs optimally year-round to maximize savings."
       },
       {
             "type": "paragraph",
-            "content": "Our solar installation process begins with a detailed energy analysis of your Tanque Verde home. We examine 12 months of TEP utility bills to understand your consumption patterns and identify the optimal system size. Our NABCEP-certified solar designers use advanced 3D modeling technology to map your roof, analyze sun exposure throughout the year, assess any shading from nearby mountains or vegetation, and design panel layouts that maximize energy production while complementing your home's architecture."
+            "content": "We specialize in integrating solar battery storage solutions to capture excess energy, enabling power use during cloudy days or outages. Our expert technicians also handle net metering setup, ensuring you receive credit for surplus electricity generated. Intelligent Design offers flexible solar financing options to make clean energy affordable for every homeowner."
       },
       {
-            "type": "paragraph",
-            "content": "We exclusively use tier-1 solar panels with 25-year performance warranties, high-efficiency inverters engineered for extreme heat, and aluminum racking systems rated for Arizona's monsoon winds. Every Tanque Verde installation includes comprehensive monitoring systems so you can track production in real-time, complete TEP net metering setup, and professional electrical integration by licensed Arizona electricians. Our installations follow strict quality standards and all local building codes, ensuring safe, reliable performance for decades."
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tanque Verde is Perfect for Solar",
-            "level": 3,
-            "content": "Why Tanque Verde is Perfect for Solar"
-      },
-      {
-            "type": "list",
-            "content": "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover | High Electric Rates: TEP rates make solar savings substantial | Net Metering Benefits: Full retail credit for excess solar production | Home Value Increase: Solar adds $15,000-$25,000 to Tanque Verde property values | Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost",
-            "items": [
-                  "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover",
-                  "High Electric Rates: TEP rates make solar savings substantial",
-                  "Net Metering Benefits: Full retail credit for excess solar production",
-                  "Home Value Increase: Solar adds $15,000-$25,000 to Tanque Verde property values",
-                  "Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "The Tanque Verde Solar Installation Process",
-            "level": 2,
-            "content": "The Tanque Verde Solar Installation Process"
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 1: Free Solar Consultation - We begin with an in-home consultation to assess your roof, review energy bills, discuss goals, and answer questions. We evaluate roof orientation (south-facing is optimal), pitch, condition, and any shading issues from Tanque Verde's scenic mountain views or mature landscaping. Using satellite imagery and specialized software, we model sun exposure throughout the year to estimate production."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 2: Custom System Design - Our designers create a detailed system layout optimized for your Tanque Verde home. We specify panel quantity and placement, inverter configuration (string or microinverters), electrical requirements, and structural attachments. You'll receive a comprehensive proposal showing projected energy production, year-by-year savings, total investment after tax credits, and estimated payback period."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 3: Permits & Approvals - We handle all permitting with the Town of Tanque Verde building department, including structural calculations, electrical plans, and fire setback compliance. If your home is in an HOA community, we manage architectural approvals. We also submit interconnection applications to TEP and coordinate utility requirements. Most Tanque Verde permits are approved within 2-3 weeks."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 4: Professional Installation - Our NABCEP-certified installers complete most Tanque Verde residential systems in 1-3 days. We install racking securely to roof trusses, mount panels, run conduit, install inverters, upgrade electrical panels if needed, and integrate monitoring systems. After installation, Town of Tanque Verde inspectors and TEP verify proper installation before your system goes live."
-      },
-      {
-            "type": "heading",
-            "heading": "Solar Savings for Tanque Verde Homeowners",
-            "level": 2,
-            "content": "Solar Savings for Tanque Verde Homeowners"
-      },
-      {
-            "type": "paragraph",
-            "content": "The average Tanque Verde home uses 1,000-1,400 kWh monthly. With TEP electric rates and Arizona's abundant sunshine, a properly sized solar system can reduce your electric bill by 80-100%. Typical Tanque Verde homeowners save $1,200-$2,400 annually, totaling $30,000-$60,000 over 25 years. The 30% federal tax credit immediately reduces system cost by thousands of dollars, shortening payback periods to 7-10 years."
-      },
-      {
-            "type": "paragraph",
-            "content": "Beyond monthly savings, solar increases Tanque Verde home values significantly. Studies show buyers will pay $15,000-$25,000 more for homes with owned solar systems. Solar also provides protection against future TEP rate increases, which have historically averaged 3-5% annually. By generating your own electricity, you lock in predictable energy costs for decades."
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving Tanque Verde"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We understand Tanque Verde's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
-      },
-      {
-            "type": "paragraph",
-            "content": "NABCEP Certified Installers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium Equipment Only"
-      },
-      {
-            "type": "paragraph",
-            "content": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tanque Verde's climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation is built on quality work and exceptional service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Complete Permitting Support"
-      },
-      {
-            "type": "paragraph",
-            "content": "We handle all Tanque Verde permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "Tanque Verde Solar Installation FAQs",
-            "level": 2,
-            "content": "Tanque Verde Solar Installation FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tanque Verde",
-            "level": 2,
-            "content": "More Services in Tanque Verde"
-      },
-      {
-            "type": "heading",
+            "type": "cta",
             "heading": "Ready to Go Solar in Tanque Verde?",
+            "content": "Contact Intelligent Design Air Conditioning, Plumbing, Solar, & Electric for a free solar consultation and quote.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
+      },
+      {
+            "type": "heading",
+            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Ready to Go Solar in Tanque Verde?"
+            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy."
+            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, our reputation in Tanque Verde and greater Tucson is unmatched. We prioritize trust, transparency, and customer satisfaction on every project, ensuring your solar system delivers reliable performance and savings."
+      },
+      {
+            "type": "paragraph",
+            "content": "Our solar installations come backed by comprehensive warranties on panels and workmanship. Combined with the expertise of 52 licensed technicians, Intelligent Design guarantees top-tier quality and durability tailored to the unique environmental challenges of Southern Arizona."
       },
       {
             "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
+            "heading": "Serving the Tanque Verde Community",
+            "level": 2,
+            "content": "Serving the Tanque Verde Community"
       },
       {
             "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
+            "content": "We proudly serve Tanque Verde residents near landmarks like Fort Lowell Museum, Trail Dust Town, Javelina Rocks, and Sabino Canyon Recreation Area. Our team enjoys supporting local favorites such as The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery while delivering exceptional solar solutions to your neighborhood."
       },
       {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tanque Verde & Greater Tucson"
+            "type": "cta",
+            "heading": "Start Saving with Solar Today",
+            "content": "Join countless Tanque Verde homeowners switching to solar with Intelligent Design. Call now for your free consultation!",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'Tanque Verde'),
+  commonQuestions: getRefinementQuestions('Solar Installation', 'Tanque Verde'),
 };

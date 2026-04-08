@@ -1,220 +1,106 @@
-
-// Auto-generated from PlumbingRitaRanch.tsx
+// Optimized Plumbing page for Rita Ranch - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const plumbingritaranchData: ServicePageData = {
   // SEO & Meta
-  title: 'Plumbing Services Rita Ranch AZ | Licensed Plumber',
-  description: 'Expert plumbing services in Rita Ranch, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-rita-ranch',
+  title: "Expert Plumbing Services in Rita Ranch, AZ | Call (520) 333-2665",
+  description: "Reliable plumbing services in Rita Ranch, AZ. Fast repairs, installations, and leak detection. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "plumbing-rita-ranch",
   
   // Hero Section
-  h1: 'Plumbing Services in Rita Ranch, AZ',
-  h2Subheading: 'Expert Plumbing Rita Ranch in Tucson',
-  tagline: 'Expert Repairs | Water Heaters | Drain Cleaning | Leak Detection | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Plumbing Rita Ranch in Tucson',
+  h1: "Professional Plumbing Services in Rita Ranch, AZ",
+  h2Subheading: "Trusted plumbing solutions tailored for Southern Arizona homes",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | 100% Warranty | Local Specialists",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Rita Ranch in Tucson",
   
   // Service Info
-  serviceName: 'Plumbing Rita Ranch',
-  category: 'Plumbing',
+  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Rita Ranch",
-    "description": "Local expertise since 1979. We know Rita Ranch plumbing systems, water conditions, and code requirements inside and out."
+    "title": "Rapid 68-Minute Average Response",
+    "description": "We prioritize your emergencies with an industry-leading speedy response time."
   },
   {
-    "title": "Licensed Master Plumbers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Plumbing Equipment",
+    "description": "Utilizing cutting-edge leak detection and pipe repair technology for precise service."
   },
   {
-    "title": "Advanced Technology",
-    "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
+    "title": "Comprehensive Plumbing Services",
+    "description": "From water heater installation to faucet and toilet repairs, we cover all plumbing needs."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation speaks to our quality and service."
+    "title": "Transparent, Upfront Pricing",
+    "description": "Clear estimates with no hidden fees ensure honest and fair service costs."
   },
   {
-    "title": "Honest Recommendations",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Certified & Licensed Technicians",
+    "description": "Our 52 skilled plumbers bring decades of combined expertise to every job."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
+    "title": "100% Satisfaction Warranty",
+    "description": "All work is backed by a full warranty, giving you peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Plumbing Rita Ranch Company in Tucson, AZ',
+    mainHeading: "Professional Plumbing Services in Rita Ranch, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Plumber Serving Rita Ranch Since 1979",
+            "heading": "Expert Plumbing Services for Rita Ranch Homes",
             "level": 2,
-            "content": "Trusted Plumber Serving Rita Ranch Since 1979"
+            "content": "Expert Plumbing Services for Rita Ranch Homes"
       },
       {
             "type": "paragraph",
-            "content": "When plumbing problems strike your Rita Ranch home, you need a licensed plumber you can trust. At Intelligent Design, we've been providing expert plumbing services to Rita Ranch families and businesses since 1979. Our licensed, bonded, and insured plumbers deliver fast, reliable solutions for everything from minor repairs to major installations, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Living in Southern Arizona means dealing with harsh conditions like extreme heat, hard water, and seasonal monsoons that can stress your plumbing. Intelligent Design\u2019s licensed plumbers specialize in durable repairs and installations designed to withstand these challenges. Whether it\u2019s fixing leaks caused by pipe corrosion or installing water heaters that perform efficiently under high-demand, we tailor solutions to the local climate."
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch's unique water conditions and plumbing infrastructure require specialized knowledge. Our technicians understand the challenges homeowners face, from hard water issues that accelerate fixture wear to seasonal stress on water heaters during winter months. We stay current with Town of Rita Ranch codes and regulations, ensuring every job meets or exceeds local standards while protecting your home's value and safety."
+            "content": "Our team is equipped to handle everything from routine faucet and toilet repairs to advanced leak detection and pipe replacement. We use state-of-the-art tools to quickly identify hidden leaks that can cause costly water damage during the monsoon season. Our commitment is to keep your plumbing running smoothly year-round, protecting your home and water supply."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive plumbing services include emergency repairs for burst pipes and water heater failures, professional drain cleaning using camera inspection technology, leak detection with non-invasive methods, water heater installation and replacement, sewer line services including trenchless repair, fixture upgrades and installations, garbage disposal services, and preventive maintenance programs. Every service visit includes a courtesy inspection to identify potential issues before they become emergencies."
+            "type": "cta",
+            "heading": "Need Plumbing Help Now?",
+            "content": "Call Intelligent Design at (520) 333-2665 for quick, reliable plumbing service in Rita Ranch.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Rita Ranch Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Rita Ranch Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent plumbing needs | Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals | Upfront Pricing: Clear estimates before work begins, no surprise charges | Fast Service: Same-day and emergency service throughout Rita Ranch | Quality Workmanship: Comprehensive warranties on parts and labor",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent plumbing needs",
-                  "Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals",
-                  "Upfront Pricing: Clear estimates before work begins, no surprise charges",
-                  "Fast Service: Same-day and emergency service throughout Rita Ranch",
-                  "Quality Workmanship: Comprehensive warranties on parts and labor"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Plumbing Services for Rita Ranch",
+            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Plumbing Services for Rita Ranch"
+            "content": "Why Rita Ranch Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Plumbing Repair - Plumbing emergencies don't wait for business hours. Our 24/7 emergency plumbers respond quickly to burst pipes, severe leaks, water heater failures, backed-up sewers, and other urgent issues throughout Rita Ranch. We arrive with fully-stocked trucks containing common parts and specialized tools, enabling us to resolve most emergencies on the first visit and minimize water damage to your home."
+            "content": "With over 46 years of experience and more than 23,000 reviews averaging 4.97 stars on Google, Rita Ranch residents trust Intelligent Design for dependable plumbing. Our technicians are fully licensed and trained to meet the unique demands of Southern Arizona\u2019s plumbing systems, ensuring quality workmanship every time."
       },
       {
             "type": "paragraph",
-            "content": "Water Heater Services - From traditional tank water heaters to modern tankless and hybrid systems, we handle all water heater needs. Our services include professional installation of new units sized correctly for your household, expert repair of existing systems, preventive maintenance including annual flushing, and emergency replacement when failures occur. We help Rita Ranch homeowners select energy-efficient models that reduce utility costs while providing reliable hot water."
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain Cleaning & Sewer Services - Slow drains and backed-up sewers require professional attention. We use advanced camera inspection to diagnose issues accurately, hydro-jetting for thorough cleaning, and trenchless technology for repairs that minimize landscape disruption. Our drain maintenance programs keep Rita Ranch plumbing systems flowing freely, preventing costly backups and extending system life."
-      },
-      {
-            "type": "paragraph",
-            "content": "Leak Detection & Repair - Hidden leaks waste thousands of gallons and cause expensive damage. Our non-invasive leak detection technology locates problems behind walls, under slabs, and in underground lines without unnecessary destruction. We repair leaks promptly using quality materials and proper techniques, protecting your Rita Ranch home from water damage and high utility bills."
+            "content": "We stand behind our work with a 100% satisfaction warranty because we believe in lasting results. Our transparent pricing and fast response times make us the preferred choice for plumbing repairs and installations in the greater Tucson area."
       },
       {
             "type": "heading",
-            "heading": "Plumbing Expertise You Can Trust",
+            "heading": "Serving the Rita Ranch Community",
             "level": 2,
-            "content": "Plumbing Expertise You Can Trust"
+            "content": "Serving the Rita Ranch Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Rita Ranch"
+            "content": "Proudly serving Rita Ranch and nearby neighborhoods, we\u2019re honored to support a community rich in history and culture. Whether you\u2019re visiting the Tucson Rodeo Parade, exploring the Tucson Wagon & History Museum, or enjoying the Pima Air & Space Museum and 390th Memorial Museum, Intelligent Design is here for your home\u2019s plumbing needs. After a day out, local favorites like Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, and Rocking K Market bar & restaurant await\u2014trust us to keep your home comfortable when you return."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Rita Ranch plumbing systems, water conditions, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Plumbers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Advanced Technology"
-      },
-      {
-            "type": "paragraph",
-            "content": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Recommendations"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Rita Ranch Plumbing FAQs",
-            "level": 2,
-            "content": "Rita Ranch Plumbing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Rita Ranch",
-            "level": 2,
-            "content": "More Services in Rita Ranch"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Plumber in Rita Ranch?",
-            "level": 2,
-            "content": "Need a Plumber in Rita Ranch?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert plumbing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Rita Ranch & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Rita Ranch Plumbing Service Today",
+            "content": "Contact Intelligent Design for expert plumbing repairs and installations tailored to Southern Arizona\u2019s unique climate challenges.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingCortaro.tsx
+// Optimized Roofing page for Cortaro - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingcortaroData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Cortaro AZ | Professional Roofer',
-  description: 'Professional roofing services in Cortaro, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-cortaro',
+  title: "Expert Roofing Services in Cortaro, AZ | Call (520) 333-2665",
+  description: "Trusted roofing in Cortaro, AZ. Roof repair, replacement, inspections & coatings. Call Intelligent Design at (520) 333-2665 today.",
+  slug: "roofing-cortaro",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Cortaro, AZ',
-  h2Subheading: 'Expert Roofing Cortaro in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Cortaro in Tucson',
+  h1: "Roofing Services in Cortaro, AZ",
+  h2Subheading: "Durable Roof Solutions Built for Southern Arizona’s Climate",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | Quality Warranty | Comprehensive Roofing",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Cortaro in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Cortaro',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Cortaro",
-    "description": "Local expertise since 1979. We know Cortaro roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid Response",
+    "description": "Average 68-minute response time ensures timely roof repair and inspections after storms."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Equipment",
+    "description": "State-of-the-art tools for precise roof coatings and tile or shingle installations."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Full-Service Roofing",
+    "description": "Comprehensive solutions including repair, replacement, inspection, and roof coating."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Cortaro customers. Our reputation speaks to our quality and service."
+    "title": "Competitive Pricing",
+    "description": "Transparent estimates with no hidden fees tailored for Cortaro homeowners."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Certified Technicians",
+    "description": "52 licensed roofing experts with 46+ years serving the Southern Arizona area."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty",
+    "description": "Industry-leading warranties that protect your roof against harsh monsoon damage."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Cortaro Company in Tucson, AZ',
+    mainHeading: "Roofing Services in Cortaro, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Cortaro Since 1979",
+            "heading": "Expert Roofing Services Tailored to Cortaro\u2019s Unique Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Cortaro Since 1979"
+            "content": "Expert Roofing Services Tailored to Cortaro\u2019s Unique Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Cortaro roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Cortaro families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Cortaro\u2019s roofing demands durability to withstand Southern Arizona\u2019s intense sun, monsoon storms, and hard water effects. Our team specializes in roof repairs that address shingle granule loss, tile cracks, and flat roof membrane wear caused by extreme heat and seasonal rains. We understand the local climate challenges and implement solutions that extend your roof\u2019s lifespan."
       },
       {
             "type": "paragraph",
-            "content": "Cortaro's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Cortaro building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Whether you need a thorough roof inspection after monsoon season or complete roof replacement, Intelligent Design offers expert guidance. Our services include tile and shingle roofing, flat roof applications, and advanced roof coatings designed to reflect heat and prevent water penetration. Every job is customized to meet Cortaro\u2019s environmental demands."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Protect Your Home\u2019s Roof Today",
+            "content": "Contact Intelligent Design for expert roofing repairs, replacements, and inspections in Cortaro, AZ.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Cortaro Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Cortaro Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Cortaro | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Cortaro",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Cortaro",
+            "heading": "Why Cortaro Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Cortaro"
+            "content": "Why Cortaro Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Cortaro. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "Our reputation is built on 46+ years of trusted service and over 23,000 glowing reviews averaging 4.97 stars on Google. Cortaro homeowners rely on Intelligent Design for expert craftsmanship, transparent pricing, and prompt service. We\u2019re committed to protecting your investment with durable roofing designed for local weather extremes."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Cortaro homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Cortaro roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Cortaro's tile roofs while ensuring maximum weather protection."
+            "content": "Every roofing project comes backed by our industry-leading warranties, ensuring peace of mind against monsoon damage and heat-related wear. Our 52 licensed technicians maintain rigorous training on the latest roofing materials and techniques specific to Southern Arizona\u2019s climate, delivering long-lasting results you can trust."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Cortaro Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Cortaro Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Cortaro"
+            "content": "We proudly serve Cortaro and the greater Tucson area, home to landmarks like Picture Rock Petroglyphs, Tumacacori National Historical Park, Steam Pump Ranch, and Casa Grande Ruins National Monument. After completing your roofing project, enjoy local favorites such as Guadalajara's Grill & Tequila Bar, Sushi Cortaro, Ol\u2019 Pot Hole, or Asian Spice Restaurant."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Cortaro roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Cortaro customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Cortaro Roofing FAQs",
-            "level": 2,
-            "content": "Cortaro Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Cortaro",
-            "level": 2,
-            "content": "More Services in Cortaro"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Cortaro?",
-            "level": 2,
-            "content": "Need a Roofer in Cortaro?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Cortaro & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Roofing Service in Cortaro Today",
+            "content": "Protect your home with expert roofing solutions from Intelligent Design. Call now to book your inspection or repair.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

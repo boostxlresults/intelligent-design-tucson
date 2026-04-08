@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingEastTucson.tsx
+// Optimized Roofing page for East Tucson - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingeasttucsonData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services East Tucson AZ | Professional Roofer',
-  description: 'Professional roofing services in East Tucson, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-east-tucson',
+  title: "Expert Roofing Services in East Tucson, AZ | Call (520) 333-2665",
+  description: "Reliable roofing in East Tucson, AZ. Expert roof repair, replacement, and inspections. Call Intelligent Design at (520) 333-2665 today.",
+  slug: "roofing-east-tucson",
   
   // Hero Section
-  h1: 'Professional Roofing Services in East Tucson, AZ',
-  h2Subheading: 'Expert Roofing East Tucson in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing East Tucson in Tucson',
+  h1: "Professional Roofing Services in East Tucson, AZ",
+  h2Subheading: "Durable Roof Repairs, Replacements & Inspections Tailored for East Tucson’s Climate",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing | Transparent Pricing | Quality Warranty",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing East Tucson in Tucson",
   
   // Service Info
-  serviceName: 'Roofing East Tucson',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving East Tucson",
-    "description": "Local expertise since 1979. We know East Tucson roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response",
+    "description": "Our team responds quickly to roofing emergencies across East Tucson and greater Tucson area."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Equipment",
+    "description": "We use cutting-edge tools for precise roof inspections, repairs, and coatings suited to local needs."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Wide Service Range",
+    "description": "From tile and shingle roofing to flat roof coatings, we handle all residential roofing types."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied East Tucson customers. Our reputation speaks to our quality and service."
+    "title": "Competitive Pricing",
+    "description": "Transparent, fair pricing ensures you get quality roofing services without surprises."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Skilled Licensed Technicians",
+    "description": "52 licensed experts with 46+ years experience ensure reliable and safe roofing solutions."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Comprehensive Warranty",
+    "description": "We back our workmanship with warranties that protect your roof against monsoons and heat damage."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing East Tucson Company in Tucson, AZ',
+    mainHeading: "Professional Roofing Services in East Tucson, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving East Tucson Since 1979",
+            "heading": "Roofing Services Designed for East Tucson\u2019s Unique Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving East Tucson Since 1979"
+            "content": "Roofing Services Designed for East Tucson\u2019s Unique Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your East Tucson roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to East Tucson families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "East Tucson\u2019s roofing demands are unique due to extreme heat, monsoon storms, and hard water exposure. Our roofing services address these challenges with durable materials like tile, shingle, and advanced flat roof coatings that withstand harsh Southern Arizona conditions. Whether you need roof repair after monsoon damage or a full roof replacement, we tailor solutions to protect your home year-round."
       },
       {
             "type": "paragraph",
-            "content": "East Tucson's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of East Tucson building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Our expert roof inspections pinpoint vulnerabilities caused by heat expansion, water intrusion, and aging materials. We specialize in restoring roofs with precise shingle replacements, tile roof repairs, and protective coatings that extend roof life. Trust Intelligent Design to maintain your roof\u2019s integrity despite East Tucson\u2019s weather extremes."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Protect Your Home with Expert Roofing Today",
+            "content": "Contact Intelligent Design for fast, reliable roofing services in East Tucson. Call now for a free roof inspection.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why East Tucson Homeowners Choose Us",
-            "level": 3,
-            "content": "Why East Tucson Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout East Tucson | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout East Tucson",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for East Tucson",
+            "heading": "Why East Tucson Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for East Tucson"
+            "content": "Why East Tucson Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout East Tucson. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With a 4.97-star Google rating from over 23,000 reviews, Intelligent Design has earned the trust of East Tucson residents. Our commitment to quality craftsmanship and customer satisfaction sets us apart. We understand the local environment and tailor roofing solutions that last, backed by a comprehensive warranty for peace of mind."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help East Tucson homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep East Tucson roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of East Tucson's tile roofs while ensuring maximum weather protection."
+            "content": "Our team of 52 licensed technicians brings over 46 years of combined experience to every project. We prioritize clear communication, transparent pricing, and timely service with an average 68-minute response time. Choosing Intelligent Design means choosing reliability and expertise for your roofing needs."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the East Tucson Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the East Tucson Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving East Tucson"
+            "content": "Proudly serving communities near landmarks like Tin Town, Fort Lowell Museum, Presidio San Agust\u00edn del Tucs\u00f3n Museum, and Valley of the Moon, we are rooted in East Tucson\u2019s vibrant culture. After your roofing service, enjoy local favorites like Redbird Scratch Kitchen + Bar in Sam Hughes, Casa Madre Restaurant, La Frida Mexican Grill & Seafood, or Baja Cafe on Broadway."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know East Tucson roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied East Tucson customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "East Tucson Roofing FAQs",
-            "level": 2,
-            "content": "East Tucson Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in East Tucson",
-            "level": 2,
-            "content": "More Services in East Tucson"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in East Tucson?",
-            "level": 2,
-            "content": "Need a Roofer in East Tucson?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving East Tucson & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Roof Service with Intelligent Design",
+            "content": "Protect your East Tucson home with expert roofing tailored to Southern Arizona\u2019s climate. Call us today!",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

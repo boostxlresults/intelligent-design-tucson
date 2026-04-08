@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingSaddleBrooke.tsx
+// Optimized Roofing page for SaddleBrooke - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingsaddlebrookeData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services SaddleBrooke AZ | Professional Roofer',
-  description: 'Professional roofing services in SaddleBrooke, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-saddle-brooke',
+  title: "Expert Roofing in SaddleBrooke, AZ | Call (520) 333-2665",
+  description: "Trusted roofing services in SaddleBrooke, AZ. Roof repair, replacement, inspections & more. Call (520) 333-2665 for fast, reliable service.",
+  slug: "roofing-saddle-brooke",
   
   // Hero Section
-  h1: 'Professional Roofing Services in SaddleBrooke, AZ',
-  h2Subheading: 'Expert Roofing Saddle Brooke in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Saddle Brooke in Tucson',
+  h1: "Roofing Services in SaddleBrooke, AZ",
+  h2Subheading: "Durable Roof Repair, Replacement & Maintenance Tailored for Southern Arizona",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing | Transparent Pricing | Warranty Included",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Saddle Brooke in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Saddle Brooke',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving SaddleBrooke",
-    "description": "Local expertise since 1979. We know SaddleBrooke roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response",
+    "description": "Our average response time ensures your roofing issues start getting fixed fast."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Equipment",
+    "description": "We use cutting-edge tools for precise tile, shingle, and flat roof services."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Full-Service Roofing Solutions",
+    "description": "From inspections to roof coatings, we handle every roofing need expertly."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied SaddleBrooke customers. Our reputation speaks to our quality and service."
+    "title": "Competitive & Transparent Pricing",
+    "description": "Upfront quotes with no hidden fees for SaddleBrooke homeowners."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "52 Licensed Roofing Technicians",
+    "description": "Our skilled team brings decades of expertise to each roofing project."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Comprehensive Warranty Coverage",
+    "description": "We back our work with warranties protecting you against Southern Arizona weather."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Saddle Brooke Company in Tucson, AZ',
+    mainHeading: "Roofing Services in SaddleBrooke, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving SaddleBrooke Since 1979",
+            "heading": "Expert Roofing Tailored to SaddleBrooke\u2019s Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving SaddleBrooke Since 1979"
+            "content": "Expert Roofing Tailored to SaddleBrooke\u2019s Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your SaddleBrooke roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to SaddleBrooke families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "SaddleBrooke\u2019s harsh Southern Arizona climate demands roofing solutions built to last. Our services address extreme heat, monsoon storms, and hard water damage to protect your home year-round. Whether you need tile roofing resistant to cracking or flat roof coatings that prevent leaks, we customize every project with local conditions in mind."
       },
       {
             "type": "paragraph",
-            "content": "SaddleBrooke's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of SaddleBrooke building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "We specialize in roof repair, replacement, and inspections for tile, shingle, and flat roofing systems. Our detailed roof inspections identify hidden damage caused by sun exposure and monsoon winds, helping you avoid costly repairs down the line. Trust us for durable roofing that withstands SaddleBrooke\u2019s unique environment."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Schedule Your Roofing Inspection Today",
+            "content": "Protect your SaddleBrooke home with a professional roof inspection or repair. Call Intelligent Design now for fast, expert service.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why SaddleBrooke Homeowners Choose Us",
-            "level": 3,
-            "content": "Why SaddleBrooke Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout SaddleBrooke | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout SaddleBrooke",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for SaddleBrooke",
+            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for SaddleBrooke"
+            "content": "Why SaddleBrooke Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout SaddleBrooke. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With over 46 years of experience and a 4.97-star rating from 23,000+ reviews, Intelligent Design has earned SaddleBrooke homeowners\u2019 trust. Our team of 52 licensed technicians delivers professional, timely roofing services backed by deep local knowledge and industry-leading expertise."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help SaddleBrooke homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep SaddleBrooke roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of SaddleBrooke's tile roofs while ensuring maximum weather protection."
+            "content": "We stand behind every project with comprehensive warranties ensuring your investment is protected against the intense sun, monsoons, and hard water common in Southern Arizona. Our transparent pricing and commitment to quality make us the roofing contractor SaddleBrooke residents rely on."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the SaddleBrooke Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the SaddleBrooke Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving SaddleBrooke"
+            "content": "Proudly serving the greater Tucson area, we\u2019re familiar with SaddleBrooke\u2019s beautiful surroundings including Historic Kannally Ranch House, Oracle Historical Society, Oracle State Park, and the iconic Vista Sun Wheel. After your roofing service, enjoy local favorites like Fork & Fire Catalina Grill, Riot Grill, The Preserve Fine Dining, or The Roadrunner Grill."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know SaddleBrooke roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied SaddleBrooke customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "SaddleBrooke Roofing FAQs",
-            "level": 2,
-            "content": "SaddleBrooke Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in SaddleBrooke",
-            "level": 2,
-            "content": "More Services in SaddleBrooke"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in SaddleBrooke?",
-            "level": 2,
-            "content": "Need a Roofer in SaddleBrooke?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving SaddleBrooke & Greater Tucson"
+            "type": "cta",
+            "heading": "Get Reliable Roofing Service Now",
+            "content": "Ready to protect your SaddleBrooke home with expert roofing solutions? Contact Intelligent Design today for a free consultation.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

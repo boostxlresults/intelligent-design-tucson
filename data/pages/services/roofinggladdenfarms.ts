@@ -1,220 +1,102 @@
-
-// Auto-generated from RoofingGladdenFarms.tsx
+// Optimized Roofing page for Gladden Farms - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofinggladdenfarmsData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Gladden Farms AZ | Professional Roofer',
-  description: 'Professional roofing services in Gladden Farms, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-gladden-farms',
+  title: "Expert Roofing Services in Gladden Farms, AZ | Call (520) 333-2665",
+  description: "Top roofing in Gladden Farms, AZ. Reliable roof repair, replacement, and inspections. Call Intelligent Design at (520) 333-2665 for expert service.",
+  slug: "roofing-gladden-farms",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Gladden Farms, AZ',
-  h2Subheading: 'Expert Roofing Gladden Farms in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Gladden Farms in Tucson',
+  h1: "Professional Roofing Services in Gladden Farms, AZ",
+  h2Subheading: "Durable Roof Repair, Replacement & Inspections Tailored for Southern Arizona",
+  tagline: "68-Minute Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | 4.97-Star Rated | Comprehensive Warranty",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Gladden Farms in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Gladden Farms',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Gladden Farms",
-    "description": "Local expertise since 1979. We know Gladden Farms roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response",
+    "description": "We respond quickly to roofing emergencies to protect your home from monsoon damage."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Expertise with Advanced Equipment",
+    "description": "Our 52 licensed technicians use state-of-the-art tools for precise roof inspections and repairs."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Comprehensive Roofing Solutions",
+    "description": "From tile and shingle to flat roofs, coatings, and inspections, we cover all roofing needs."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation speaks to our quality and service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Clear estimates with no hidden fees ensure you get the best value for your roofing project."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Highly Qualified Roofing Team",
+    "description": "Decades of experience combined with specialized Southern Arizona roofing knowledge."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty Coverage",
+    "description": "Our roofing services come with strong warranties to safeguard your investment."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Gladden Farms Company in Tucson, AZ',
+    mainHeading: "Professional Roofing Services in Gladden Farms, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Gladden Farms Since 1979",
+            "heading": "Expert Roofing Services Designed for Gladden Farms\u2019 Unique Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Gladden Farms Since 1979"
+            "content": "Expert Roofing Services Designed for Gladden Farms\u2019 Unique Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Gladden Farms roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Gladden Farms families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Gladden Farms homeowners face intense Southern Arizona climate challenges like extreme heat, monsoon storms, and hard water exposure. Our roofing services are designed with these factors in mind, ensuring durability and long-lasting protection. Whether it\u2019s roof repair, replacement, or a thorough inspection, we use materials and techniques suited for tile, shingle, and flat roofs that stand up to these conditions."
       },
       {
             "type": "paragraph",
-            "content": "Gladden Farms's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Gladden Farms building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "We specialize in roof coatings that protect against UV damage and water intrusion, extending roof life. Our comprehensive inspections detect early signs of damage from heat warping or monsoon wear. Intelligent Design\u2019s experienced technicians use advanced diagnostic tools to provide reliable assessments and quality solutions tailored to your home\u2019s roofing system."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Protect Your Gladden Farms Home with Expert Roofing Today",
+            "content": "Don\u2019t wait for leaks or damage to worsen. Call Intelligent Design now for fast, professional roofing services in Gladden Farms, AZ.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Gladden Farms Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Gladden Farms Homeowners Choose Us"
+            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design"
       },
       {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Gladden Farms | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Gladden Farms",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
+            "type": "paragraph",
+            "content": "With over 46 years of experience and a 4.97-star Google rating from 23,000+ reviews, Intelligent Design is Gladden Farms\u2019 trusted roofing expert. Our commitment to quality workmanship and transparent communication keeps customers coming back. We back every roofing project with strong warranties, giving you peace of mind in Southern Arizona\u2019s demanding environment."
+      },
+      {
+            "type": "paragraph",
+            "content": "Our team of 52 licensed technicians is trained specifically to handle the roofing challenges posed by the desert heat, monsoon rains, and hard water conditions prevalent in the Tucson area. This local expertise ensures your roof is built and maintained for optimal performance and longevity."
       },
       {
             "type": "heading",
-            "heading": "Complete Roofing Services for Gladden Farms",
-            "level": 2,
-            "content": "Complete Roofing Services for Gladden Farms"
+            "heading": "Serving the Gladden Farms Community"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Gladden Farms. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "We are proud to serve the Gladden Farms area and nearby landmarks including Picture Rock Petroglyphs, Marana Heritage River Park, Marana Falls, and the iconic Downtown Marana Sign with its Cowboy Statue. After a roofing service visit, enjoy local favorites like Luna Cafe, Ol\u2019 Pot Hole, Sky Rider Cafe, or Taqueria Plaza's. Our deep community roots help us understand the unique roofing needs of this vibrant neighborhood."
       },
       {
-            "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Gladden Farms homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Gladden Farms roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Gladden Farms's tile roofs while ensuring maximum weather protection."
-      },
-      {
-            "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
-            "level": 2,
-            "content": "Roofing Expertise You Can Trust"
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving Gladden Farms"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Gladden Farms roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Gladden Farms customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Gladden Farms Roofing FAQs",
-            "level": 2,
-            "content": "Gladden Farms Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Gladden Farms",
-            "level": 2,
-            "content": "More Services in Gladden Farms"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Gladden Farms?",
-            "level": 2,
-            "content": "Need a Roofer in Gladden Farms?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Gladden Farms & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Gladden Farms Roofing Service Today",
+            "content": "Ready for expert roofing tailored to Gladden Farms\u2019 climate and architecture? Contact Intelligent Design for a free consultation.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

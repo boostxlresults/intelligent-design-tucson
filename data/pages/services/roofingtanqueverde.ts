@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingTanqueVerde.tsx
+// Optimized Roofing page for Tanque Verde - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingtanqueverdeData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Tanque Verde AZ | Professional Roofer',
-  description: 'Professional roofing services in Tanque Verde, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-tanque-verde',
+  title: "Expert Roofing in Tanque Verde, AZ | Call (520) 333-2665",
+  description: "Trusted roofing services in Tanque Verde, AZ. Expert roof repair, replacement, and inspections. Call Intelligent Design at (520) 333-2665 today.",
+  slug: "roofing-tanque-verde",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Tanque Verde, AZ',
-  h2Subheading: 'Expert Roofing Tanque Verde in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Tanque Verde in Tucson',
+  h1: "Roofing Services in Tanque Verde, AZ",
+  h2Subheading: "Durable Roof Repairs, Replacements & Inspections Tailored for Southern Arizona",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | 4.97-Star Rated",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Tanque Verde in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Tanque Verde',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tanque Verde",
-    "description": "Local expertise since 1979. We know Tanque Verde roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response Time",
+    "description": "We prioritize your roofing emergencies with an average response time under 70 minutes."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Technology",
+    "description": "Utilizing modern roof coating and inspection tools to extend roof life in harsh climates."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Comprehensive Roofing Solutions",
+    "description": "From tile and shingle to flat roofs, we handle repairs, replacements, and coatings expertly."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation speaks to our quality and service."
+    "title": "Transparent & Competitive Pricing",
+    "description": "Clear estimates with no hidden fees for all roofing projects in Tanque Verde."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Skilled Team of 52 Licensed Technicians",
+    "description": "Experienced specialists trained in Southern Arizona\u2019s unique roofing challenges."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranties for Peace of Mind",
+    "description": "We back our work with solid warranties, ensuring durable protection against monsoon damage."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Tanque Verde Company in Tucson, AZ',
+    mainHeading: "Roofing Services in Tanque Verde, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Tanque Verde Since 1979",
+            "heading": "Expert Roofing Services Built for Tanque Verde\u2019s Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Tanque Verde Since 1979"
+            "content": "Expert Roofing Services Built for Tanque Verde\u2019s Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Tanque Verde roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Tanque Verde families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Tanque Verde\u2019s roofing demands resilience against intense heat, heavy monsoons, and hard water exposure. Our roofing services include detailed roof inspections to identify weather-related damage early. We specialize in tile roofing, shingle roofs, flat roof repair, and roof coating applications designed to reflect heat and prevent water intrusion."
       },
       {
             "type": "paragraph",
-            "content": "Tanque Verde's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Tanque Verde building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Whether you need a minor roof repair after a storm or a full roof replacement, Intelligent Design has the expertise and equipment to get the job done right. Our technicians use advanced diagnostics to assess structural integrity and recommend solutions tailored to your home\u2019s specific needs."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Schedule Your Roof Inspection Today",
+            "content": "Protect your Tanque Verde home from weather damage with a professional roof inspection. Call us now for fast, reliable service.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Tanque Verde Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Tanque Verde Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Tanque Verde | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Tanque Verde",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Tanque Verde",
+            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Tanque Verde"
+            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Tanque Verde. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design is the trusted choice for roofing in Tanque Verde. Our commitment to quality workmanship and customer satisfaction sets us apart in the greater Tucson area."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Tanque Verde homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Tanque Verde roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Tanque Verde's tile roofs while ensuring maximum weather protection."
+            "content": "We stand behind every roof repair and replacement with dependable warranties, ensuring your investment is protected. Our licensed technicians are highly trained in handling the unique challenges posed by Southern Arizona\u2019s climate."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Tanque Verde Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Tanque Verde Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Tanque Verde"
+            "content": "Proudly serving Tanque Verde and nearby landmarks like Fort Lowell Museum, Trail Dust Town, Javelina Rocks, and Sabino Canyon Recreation Area. We\u2019re also familiar with local favorites such as The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery, reflecting our deep community roots."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Tanque Verde roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Tanque Verde Roofing FAQs",
-            "level": 2,
-            "content": "Tanque Verde Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tanque Verde",
-            "level": 2,
-            "content": "More Services in Tanque Verde"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Tanque Verde?",
-            "level": 2,
-            "content": "Need a Roofer in Tanque Verde?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tanque Verde & Greater Tucson"
+            "type": "cta",
+            "heading": "Get Your Roof Ready for Southern Arizona\u2019s Weather",
+            "content": "Don\u2019t wait for the next storm. Contact Intelligent Design for expert roofing services in Tanque Verde today.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

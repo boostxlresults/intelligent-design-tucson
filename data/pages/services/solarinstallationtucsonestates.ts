@@ -1,231 +1,109 @@
-
-// Auto-generated from SolarInstallationTucsonEstates.tsx
+// Optimized Solar Installation page for Tucson Estates - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const solarinstallationtucsonestatesData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation Tucson Estates AZ | Solar Panel Installation',
-  description: 'Professional solar panel installation in Tucson Estates, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving Tucson Estates families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-tucson-estates',
+  title: "Solar Installation in Tucson Estates, AZ | Call (520) 333-2665",
+  description: "Top solar installation services in Tucson Estates, AZ. Expert solar panels, battery storage, & financing. Call Intelligent Design today!",
+  slug: "solar-installation-tucson-estates",
   
   // Hero Section
-  h1: 'Solar Installation in Tucson Estates, AZ',
-  h2Subheading: 'Expert Solar Installation Tucson Estates in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Solar Installation Tucson Estates in Tucson',
+  h1: "Solar Installation Services in Tucson Estates, AZ",
+  h2Subheading: "Efficient Solar Solutions Tailored for Southern Arizona Homes",
+  tagline: "Fast Response | Expert Technicians | 46+ Years Experience | Licensed & Insured | Competitive Pricing | Trusted Warranty",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Installation Tucson Estates in Tucson",
   
   // Service Info
-  serviceName: 'Solar Installation Tucson Estates',
-  category: 'Solar',
+  serviceName: "Solar Installation",
+  category: "Solar",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tucson Estates",
-    "description": "Local expertise since 1979. We understand Tucson Estates's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
+    "title": "Rapid 68-Minute Response",
+    "description": "We prioritize quick service with an average 68-minute response time for Tucson Estates customers."
   },
   {
-    "title": "NABCEP Certified Installers",
-    "description": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
+    "title": "Premium Solar Equipment",
+    "description": "We install high-efficiency solar panels and advanced battery storage designed for Arizona\u2019s climate."
   },
   {
-    "title": "Premium Equipment Only",
-    "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tucson Estates's climate."
+    "title": "Comprehensive Solar Services",
+    "description": "From panel installation to net metering and maintenance, we handle all aspects of solar energy."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tucson Estates customers. Our reputation is built on quality work and exceptional service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Our solar installation packages offer clear pricing with financing options tailored to your budget."
   },
   {
-    "title": "Complete Permitting Support",
-    "description": "We handle all Tucson Estates permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
+    "title": "Highly Skilled Team",
+    "description": "52 licensed technicians bring 46+ years of experience ensuring expert installation and service."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
+    "title": "Reliable Warranty Coverage",
+    "description": "We back our solar systems with strong warranties to protect your investment for years to come."
   }
 ],
   content: {
-    mainHeading: 'Best Solar Installation Tucson Estates Company in Tucson, AZ',
+    mainHeading: "Solar Installation Services in Tucson Estates, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Expert Solar Installation for Tucson Estates Homes",
+            "heading": "Professional Solar Installation Tailored for Tucson Estates",
             "level": 2,
-            "content": "Expert Solar Installation for Tucson Estates Homes"
+            "content": "Professional Solar Installation Tailored for Tucson Estates"
       },
       {
             "type": "paragraph",
-            "content": "Tucson Estates homeowners are discovering the financial and environmental benefits of solar energy. With over 350 days of sunshine annually and some of Arizona's highest electric rates from Tucson Electric Power, solar panels deliver exceptional returns on investment. At Intelligent Design, we've helped hundreds of Tucson Estates families transition to clean, renewable solar power since 1979, providing expert system design, premium equipment installation, and comprehensive support to maximize your solar savings."
+            "content": "Tucson Estates homes face unique challenges like extreme heat, monsoon storms, and hard water exposure. Our solar installations use durable, weather-resistant panels optimized for Southern Arizona\u2019s intense sun and seasonal dust. We ensure your solar system withstands local climate while maximizing energy production."
       },
       {
             "type": "paragraph",
-            "content": "Our solar installation process begins with a detailed energy analysis of your Tucson Estates home. We examine 12 months of TEP utility bills to understand your consumption patterns and identify the optimal system size. Our NABCEP-certified solar designers use advanced 3D modeling technology to map your roof, analyze sun exposure throughout the year, assess any shading from nearby mountains or vegetation, and design panel layouts that maximize energy production while complementing your home's architecture."
+            "content": "Our expert team designs and installs solar solutions with integrated battery storage to provide reliable power even during outages. We also handle net metering setups so you can save on electricity bills by selling excess energy back to the grid. Financing options make switching to solar affordable and hassle-free."
       },
       {
-            "type": "paragraph",
-            "content": "We exclusively use tier-1 solar panels with 25-year performance warranties, high-efficiency inverters engineered for extreme heat, and aluminum racking systems rated for Arizona's monsoon winds. Every Tucson Estates installation includes comprehensive monitoring systems so you can track production in real-time, complete TEP net metering setup, and professional electrical integration by licensed Arizona electricians. Our installations follow strict quality standards and all local building codes, ensuring safe, reliable performance for decades."
+            "type": "cta",
+            "heading": "Ready to Save with Solar Energy?",
+            "content": "Contact Intelligent Design today for a free solar consultation tailored to Tucson Estates homes.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Tucson Estates is Perfect for Solar",
-            "level": 3,
-            "content": "Why Tucson Estates is Perfect for Solar"
-      },
-      {
-            "type": "list",
-            "content": "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover | High Electric Rates: TEP rates make solar savings substantial | Net Metering Benefits: Full retail credit for excess solar production | Home Value Increase: Solar adds $15,000-$25,000 to Tucson Estates property values | Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost",
-            "items": [
-                  "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover",
-                  "High Electric Rates: TEP rates make solar savings substantial",
-                  "Net Metering Benefits: Full retail credit for excess solar production",
-                  "Home Value Increase: Solar adds $15,000-$25,000 to Tucson Estates property values",
-                  "Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "The Tucson Estates Solar Installation Process",
+            "heading": "Why Tucson Estates Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "The Tucson Estates Solar Installation Process"
+            "content": "Why Tucson Estates Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Step 1: Free Solar Consultation - We begin with an in-home consultation to assess your roof, review energy bills, discuss goals, and answer questions. We evaluate roof orientation (south-facing is optimal), pitch, condition, and any shading issues from Tucson Estates's scenic mountain views or mature landscaping. Using satellite imagery and specialized software, we model sun exposure throughout the year to estimate production."
+            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design is Tucson\u2019s trusted choice for solar installation. Our reputation is built on expert workmanship, transparent pricing, and responsive customer care."
       },
       {
             "type": "paragraph",
-            "content": "Step 2: Custom System Design - Our designers create a detailed system layout optimized for your Tucson Estates home. We specify panel quantity and placement, inverter configuration (string or microinverters), electrical requirements, and structural attachments. You'll receive a comprehensive proposal showing projected energy production, year-by-year savings, total investment after tax credits, and estimated payback period."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 3: Permits & Approvals - We handle all permitting with the Town of Tucson Estates building department, including structural calculations, electrical plans, and fire setback compliance. If your home is in an HOA community, we manage architectural approvals. We also submit interconnection applications to TEP and coordinate utility requirements. Most Tucson Estates permits are approved within 2-3 weeks."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 4: Professional Installation - Our NABCEP-certified installers complete most Tucson Estates residential systems in 1-3 days. We install racking securely to roof trusses, mount panels, run conduit, install inverters, upgrade electrical panels if needed, and integrate monitoring systems. After installation, Town of Tucson Estates inspectors and TEP verify proper installation before your system goes live."
+            "content": "We stand behind every solar system with robust warranties and ongoing support. Our licensed technicians ensure each installation meets local codes while optimizing your system\u2019s performance for Tucson\u2019s demanding climate conditions."
       },
       {
             "type": "heading",
-            "heading": "Solar Savings for Tucson Estates Homeowners",
+            "heading": "Serving the Tucson Estates Community",
             "level": 2,
-            "content": "Solar Savings for Tucson Estates Homeowners"
+            "content": "Serving the Tucson Estates Community"
       },
       {
             "type": "paragraph",
-            "content": "The average Tucson Estates home uses 1,000-1,400 kWh monthly. With TEP electric rates and Arizona's abundant sunshine, a properly sized solar system can reduce your electric bill by 80-100%. Typical Tucson Estates homeowners save $1,200-$2,400 annually, totaling $30,000-$60,000 over 25 years. The 30% federal tax credit immediately reduces system cost by thousands of dollars, shortening payback periods to 7-10 years."
+            "content": "Proudly serving Tucson Estates, near landmarks like Old Tucson, Pima County Historic Courthouse, Old Pueblo Archaeology Center, and El Tiradito Wishing Shrine. We\u2019re familiar with this community\u2019s unique energy needs and local conditions. After your installation, enjoy a meal at local favorites such as Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, or Barista del Barrio."
       },
       {
-            "type": "paragraph",
-            "content": "Beyond monthly savings, solar increases Tucson Estates home values significantly. Studies show buyers will pay $15,000-$25,000 more for homes with owned solar systems. Solar also provides protection against future TEP rate increases, which have historically averaged 3-5% annually. By generating your own electricity, you lock in predictable energy costs for decades."
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving Tucson Estates"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We understand Tucson Estates's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
-      },
-      {
-            "type": "paragraph",
-            "content": "NABCEP Certified Installers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium Equipment Only"
-      },
-      {
-            "type": "paragraph",
-            "content": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tucson Estates's climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tucson Estates customers. Our reputation is built on quality work and exceptional service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Complete Permitting Support"
-      },
-      {
-            "type": "paragraph",
-            "content": "We handle all Tucson Estates permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "Tucson Estates Solar Installation FAQs",
-            "level": 2,
-            "content": "Tucson Estates Solar Installation FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tucson Estates",
-            "level": 2,
-            "content": "More Services in Tucson Estates"
-      },
-      {
-            "type": "heading",
-            "heading": "Ready to Go Solar in Tucson Estates?",
-            "level": 2,
-            "content": "Ready to Go Solar in Tucson Estates?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tucson Estates & Greater Tucson"
+            "type": "cta",
+            "heading": "Switch to Solar Today",
+            "content": "Join thousands of satisfied Tucson Estates homeowners and reduce your energy bills with Intelligent Design\u2019s expert solar installation.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'Tucson Estates'),
+  commonQuestions: getRefinementQuestions('Solar Installation', 'Tucson Estates'),
 };

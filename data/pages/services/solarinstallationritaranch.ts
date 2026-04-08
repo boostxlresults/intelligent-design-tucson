@@ -1,231 +1,105 @@
-
-// Auto-generated from SolarInstallationRitaRanch.tsx
+// Optimized Solar Installation page for Rita Ranch - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const solarinstallationritaranchData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation Rita Ranch AZ | Solar Panel Installation',
-  description: 'Professional solar panel installation in Rita Ranch, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving Rita Ranch families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-rita-ranch',
+  title: "Solar Installation in Rita Ranch, AZ | Call (520) 333-2665",
+  description: "Expert solar installation in Rita Ranch, AZ. Maximize energy savings with Intelligent Design's trusted solar services. Call (520) 333-2665 today!",
+  slug: "solar-installation-rita-ranch",
   
   // Hero Section
-  h1: 'Solar Installation in Rita Ranch, AZ',
-  h2Subheading: 'Expert Solar Installation Rita Ranch in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Solar Installation Rita Ranch in Tucson',
+  h1: "Solar Installation Services in Rita Ranch, AZ",
+  h2Subheading: "Harness Southern Arizona’s Sun with Expert Solar Solutions",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | Comprehensive Warranty | 52 Certified Technicians",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Installation Rita Ranch in Tucson",
   
   // Service Info
-  serviceName: 'Solar Installation Rita Ranch',
-  category: 'Solar',
+  serviceName: "Solar Installation",
+  category: "Solar",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Rita Ranch",
-    "description": "Local expertise since 1979. We understand Rita Ranch's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
+    "title": "Average 68-Minute Response Time",
+    "description": "Quick, reliable service ensuring your solar needs are addressed promptly and efficiently."
   },
   {
-    "title": "NABCEP Certified Installers",
-    "description": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
+    "title": "Advanced Solar Equipment",
+    "description": "We install high-efficiency solar panels and battery storage tailored for Southern Arizona\u2019s climate."
   },
   {
-    "title": "Premium Equipment Only",
-    "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Rita Ranch's climate."
+    "title": "Full-Service Solar Solutions",
+    "description": "From system design and installation to financing and net metering setup, we handle it all."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation is built on quality work and exceptional service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Upfront solar installation quotes with no hidden fees\u2014maximizing your investment value."
   },
   {
-    "title": "Complete Permitting Support",
-    "description": "We handle all Rita Ranch permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
+    "title": "Experienced Licensed Technicians",
+    "description": "Our 52 certified experts bring 46+ years of local solar installation expertise to every project."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
+    "title": "Comprehensive Solar Warranty",
+    "description": "Industry-leading warranties protect your panels and system performance for years to come."
   }
 ],
   content: {
-    mainHeading: 'Best Solar Installation Rita Ranch Company in Tucson, AZ',
+    mainHeading: "Solar Installation Services in Rita Ranch, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Expert Solar Installation for Rita Ranch Homes",
+            "heading": "Professional Solar Installation for Rita Ranch Homes",
             "level": 2,
-            "content": "Expert Solar Installation for Rita Ranch Homes"
+            "content": "Professional Solar Installation for Rita Ranch Homes"
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch homeowners are discovering the financial and environmental benefits of solar energy. With over 350 days of sunshine annually and some of Arizona's highest electric rates from Tucson Electric Power, solar panels deliver exceptional returns on investment. At Intelligent Design, we've helped hundreds of Rita Ranch families transition to clean, renewable solar power since 1979, providing expert system design, premium equipment installation, and comprehensive support to maximize your solar savings."
+            "content": "Intelligent Design offers expert solar installation services designed for the unique challenges of Rita Ranch\u2019s desert climate. Our high-efficiency solar panels withstand extreme heat and intense sunlight, providing reliable energy savings year-round. We also offer solar battery storage options to ensure your home stays powered during monsoon storms or grid outages."
       },
       {
             "type": "paragraph",
-            "content": "Our solar installation process begins with a detailed energy analysis of your Rita Ranch home. We examine 12 months of TEP utility bills to understand your consumption patterns and identify the optimal system size. Our NABCEP-certified solar designers use advanced 3D modeling technology to map your roof, analyze sun exposure throughout the year, assess any shading from nearby mountains or vegetation, and design panel layouts that maximize energy production while complementing your home's architecture."
+            "content": "Our team customizes each solar system to maximize net metering benefits, helping you reduce electricity costs while contributing to a cleaner environment. We guide you through financing options, including solar loans and leases, to make switching to solar affordable and stress-free."
       },
       {
-            "type": "paragraph",
-            "content": "We exclusively use tier-1 solar panels with 25-year performance warranties, high-efficiency inverters engineered for extreme heat, and aluminum racking systems rated for Arizona's monsoon winds. Every Rita Ranch installation includes comprehensive monitoring systems so you can track production in real-time, complete TEP net metering setup, and professional electrical integration by licensed Arizona electricians. Our installations follow strict quality standards and all local building codes, ensuring safe, reliable performance for decades."
-      },
-      {
-            "type": "heading",
-            "heading": "Why Rita Ranch is Perfect for Solar",
-            "level": 3,
-            "content": "Why Rita Ranch is Perfect for Solar"
-      },
-      {
-            "type": "list",
-            "content": "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover | High Electric Rates: TEP rates make solar savings substantial | Net Metering Benefits: Full retail credit for excess solar production | Home Value Increase: Solar adds $15,000-$25,000 to Rita Ranch property values | Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost",
-            "items": [
-                  "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover",
-                  "High Electric Rates: TEP rates make solar savings substantial",
-                  "Net Metering Benefits: Full retail credit for excess solar production",
-                  "Home Value Increase: Solar adds $15,000-$25,000 to Rita Ranch property values",
-                  "Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "The Rita Ranch Solar Installation Process",
-            "level": 2,
-            "content": "The Rita Ranch Solar Installation Process"
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 1: Free Solar Consultation - We begin with an in-home consultation to assess your roof, review energy bills, discuss goals, and answer questions. We evaluate roof orientation (south-facing is optimal), pitch, condition, and any shading issues from Rita Ranch's scenic mountain views or mature landscaping. Using satellite imagery and specialized software, we model sun exposure throughout the year to estimate production."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 2: Custom System Design - Our designers create a detailed system layout optimized for your Rita Ranch home. We specify panel quantity and placement, inverter configuration (string or microinverters), electrical requirements, and structural attachments. You'll receive a comprehensive proposal showing projected energy production, year-by-year savings, total investment after tax credits, and estimated payback period."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 3: Permits & Approvals - We handle all permitting with the Town of Rita Ranch building department, including structural calculations, electrical plans, and fire setback compliance. If your home is in an HOA community, we manage architectural approvals. We also submit interconnection applications to TEP and coordinate utility requirements. Most Rita Ranch permits are approved within 2-3 weeks."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 4: Professional Installation - Our NABCEP-certified installers complete most Rita Ranch residential systems in 1-3 days. We install racking securely to roof trusses, mount panels, run conduit, install inverters, upgrade electrical panels if needed, and integrate monitoring systems. After installation, Town of Rita Ranch inspectors and TEP verify proper installation before your system goes live."
-      },
-      {
-            "type": "heading",
-            "heading": "Solar Savings for Rita Ranch Homeowners",
-            "level": 2,
-            "content": "Solar Savings for Rita Ranch Homeowners"
-      },
-      {
-            "type": "paragraph",
-            "content": "The average Rita Ranch home uses 1,000-1,400 kWh monthly. With TEP electric rates and Arizona's abundant sunshine, a properly sized solar system can reduce your electric bill by 80-100%. Typical Rita Ranch homeowners save $1,200-$2,400 annually, totaling $30,000-$60,000 over 25 years. The 30% federal tax credit immediately reduces system cost by thousands of dollars, shortening payback periods to 7-10 years."
-      },
-      {
-            "type": "paragraph",
-            "content": "Beyond monthly savings, solar increases Rita Ranch home values significantly. Studies show buyers will pay $15,000-$25,000 more for homes with owned solar systems. Solar also provides protection against future TEP rate increases, which have historically averaged 3-5% annually. By generating your own electricity, you lock in predictable energy costs for decades."
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving Rita Ranch"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We understand Rita Ranch's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
-      },
-      {
-            "type": "paragraph",
-            "content": "NABCEP Certified Installers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium Equipment Only"
-      },
-      {
-            "type": "paragraph",
-            "content": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Rita Ranch's climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation is built on quality work and exceptional service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Complete Permitting Support"
-      },
-      {
-            "type": "paragraph",
-            "content": "We handle all Rita Ranch permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "Rita Ranch Solar Installation FAQs",
-            "level": 2,
-            "content": "Rita Ranch Solar Installation FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Rita Ranch",
-            "level": 2,
-            "content": "More Services in Rita Ranch"
-      },
-      {
-            "type": "heading",
+            "type": "cta",
             "heading": "Ready to Go Solar in Rita Ranch?",
-            "level": 2,
-            "content": "Ready to Go Solar in Rita Ranch?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy."
+            "content": "Contact Intelligent Design today to schedule your free solar consultation. Let us help you harness the power of the sun and save on energy bills.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
+            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
+            "content": "With over 46 years serving Southern Arizona, Intelligent Design has earned a 4.97-star rating from more than 23,000 satisfied customers. Our commitment to quality workmanship and customer service ensures your solar installation exceeds expectations. You can trust our licensed technicians to deliver durable, efficient solar systems tailored to local conditions."
+      },
+      {
+            "type": "paragraph",
+            "content": "We back every installation with comprehensive warranties covering panels, inverters, and workmanship. Our fast average response time of 68 minutes means you\u2019re never left waiting for support. Choose Intelligent Design for reliable solar solutions that stand up to the harsh Rita Ranch climate."
       },
       {
             "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
+            "heading": "Serving the Rita Ranch Community"
       },
       {
             "type": "paragraph",
-            "content": "(520) 333-2665"
+            "content": "We\u2019re proud to serve the Rita Ranch area, home to landmarks like Joining Hands, the Tucson Rodeo Parade and Tucson Wagon & History Museum, Pima Air & Space Museum, and the 390th Memorial Museum. Whether you\u2019re enjoying a meal at Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, or Rocking K Market bar & restaurant, know that Intelligent Design is your local solar partner."
       },
       {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Rita Ranch & Greater Tucson"
+            "type": "cta",
+            "heading": "Start Your Solar Journey Today",
+            "content": "Experience expert solar installation tailored for Rita Ranch homes. Call Intelligent Design now to schedule your free consultation and take the first step toward energy independence.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'Rita Ranch'),
+  commonQuestions: getRefinementQuestions('Solar Installation', 'Rita Ranch'),
 };

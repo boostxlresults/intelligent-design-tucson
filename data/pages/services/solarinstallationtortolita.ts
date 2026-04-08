@@ -1,231 +1,109 @@
-
-// Auto-generated from SolarInstallationTortolita.tsx
+// Optimized Solar Installation page for Tortolita - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const solarinstallationtortolitaData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation Tortolita AZ | Solar Panel Installation',
-  description: 'Professional solar panel installation in Tortolita, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving Tortolita families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-tortolita',
+  title: "Solar Installation in Tortolita, AZ | Call (520) 333-2665",
+  description: "Expert solar installation in Tortolita, AZ. Harness solar energy with Intelligent Design’s licensed team. Call (520) 333-2665 today!",
+  slug: "solar-installation-tortolita",
   
   // Hero Section
-  h1: 'Solar Installation in Tortolita, AZ',
-  h2Subheading: 'Expert Solar Installation Tortolita in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Solar Installation Tortolita in Tucson',
+  h1: "Solar Installation Services in Tortolita, AZ",
+  h2Subheading: "Maximize Your Solar Energy Potential with Local Experts",
+  tagline: "Fast Response | Licensed Professionals | 46+ Years Experience | Comprehensive Solar Solutions",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Installation Tortolita in Tucson",
   
   // Service Info
-  serviceName: 'Solar Installation Tortolita',
-  category: 'Solar',
+  serviceName: "Solar Installation",
+  category: "Solar",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tortolita",
-    "description": "Local expertise since 1979. We understand Tortolita's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
+    "title": "Rapid 68-Minute Average Response",
+    "description": "Our team responds swiftly to your solar installation needs across Tortolita and Tucson."
   },
   {
-    "title": "NABCEP Certified Installers",
-    "description": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
+    "title": "Premium Solar Equipment",
+    "description": "We install high-efficiency panels and advanced battery storage designed for Southern Arizona\u2019s climate."
   },
   {
-    "title": "Premium Equipment Only",
-    "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tortolita's climate."
+    "title": "Comprehensive Solar Services",
+    "description": "From design to installation to financing and net metering setup, we cover it all."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tortolita customers. Our reputation is built on quality work and exceptional service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Get clear, upfront quotes with flexible solar financing options tailored to your budget."
   },
   {
-    "title": "Complete Permitting Support",
-    "description": "We handle all Tortolita permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
+    "title": "Experienced & Licensed Team",
+    "description": "52 certified technicians with 46+ years delivering reliable solar installations locally."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
+    "title": "Robust Warranty Protection",
+    "description": "Enjoy peace of mind with industry-leading warranties on panels, inverters, and workmanship."
   }
 ],
   content: {
-    mainHeading: 'Best Solar Installation Tortolita Company in Tucson, AZ',
+    mainHeading: "Solar Installation Services in Tortolita, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Expert Solar Installation for Tortolita Homes",
+            "heading": "Expert Solar Installation Tailored for Tortolita Homes",
             "level": 2,
-            "content": "Expert Solar Installation for Tortolita Homes"
+            "content": "Expert Solar Installation Tailored for Tortolita Homes"
       },
       {
             "type": "paragraph",
-            "content": "Tortolita homeowners are discovering the financial and environmental benefits of solar energy. With over 350 days of sunshine annually and some of Arizona's highest electric rates from Tucson Electric Power, solar panels deliver exceptional returns on investment. At Intelligent Design, we've helped hundreds of Tortolita families transition to clean, renewable solar power since 1979, providing expert system design, premium equipment installation, and comprehensive support to maximize your solar savings."
+            "content": "Intelligent Design provides custom solar panel installations designed for the unique conditions in Tortolita, AZ. Our systems withstand intense heat, monsoon storms, and hard water exposure common to Southern Arizona. We use durable, high-efficiency solar panels paired with smart battery storage to maximize energy savings year-round."
       },
       {
             "type": "paragraph",
-            "content": "Our solar installation process begins with a detailed energy analysis of your Tortolita home. We examine 12 months of TEP utility bills to understand your consumption patterns and identify the optimal system size. Our NABCEP-certified solar designers use advanced 3D modeling technology to map your roof, analyze sun exposure throughout the year, assess any shading from nearby mountains or vegetation, and design panel layouts that maximize energy production while complementing your home's architecture."
+            "content": "We handle everything from initial site assessment to system design, permitting, installation, and connection with local utilities for net metering. Our licensed technicians ensure your solar setup meets all safety codes and performs optimally in our desert environment."
       },
       {
-            "type": "paragraph",
-            "content": "We exclusively use tier-1 solar panels with 25-year performance warranties, high-efficiency inverters engineered for extreme heat, and aluminum racking systems rated for Arizona's monsoon winds. Every Tortolita installation includes comprehensive monitoring systems so you can track production in real-time, complete TEP net metering setup, and professional electrical integration by licensed Arizona electricians. Our installations follow strict quality standards and all local building codes, ensuring safe, reliable performance for decades."
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tortolita is Perfect for Solar",
-            "level": 3,
-            "content": "Why Tortolita is Perfect for Solar"
-      },
-      {
-            "type": "list",
-            "content": "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover | High Electric Rates: TEP rates make solar savings substantial | Net Metering Benefits: Full retail credit for excess solar production | Home Value Increase: Solar adds $15,000-$25,000 to Tortolita property values | Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost",
-            "items": [
-                  "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover",
-                  "High Electric Rates: TEP rates make solar savings substantial",
-                  "Net Metering Benefits: Full retail credit for excess solar production",
-                  "Home Value Increase: Solar adds $15,000-$25,000 to Tortolita property values",
-                  "Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "The Tortolita Solar Installation Process",
-            "level": 2,
-            "content": "The Tortolita Solar Installation Process"
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 1: Free Solar Consultation - We begin with an in-home consultation to assess your roof, review energy bills, discuss goals, and answer questions. We evaluate roof orientation (south-facing is optimal), pitch, condition, and any shading issues from Tortolita's scenic mountain views or mature landscaping. Using satellite imagery and specialized software, we model sun exposure throughout the year to estimate production."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 2: Custom System Design - Our designers create a detailed system layout optimized for your Tortolita home. We specify panel quantity and placement, inverter configuration (string or microinverters), electrical requirements, and structural attachments. You'll receive a comprehensive proposal showing projected energy production, year-by-year savings, total investment after tax credits, and estimated payback period."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 3: Permits & Approvals - We handle all permitting with the Town of Tortolita building department, including structural calculations, electrical plans, and fire setback compliance. If your home is in an HOA community, we manage architectural approvals. We also submit interconnection applications to TEP and coordinate utility requirements. Most Tortolita permits are approved within 2-3 weeks."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 4: Professional Installation - Our NABCEP-certified installers complete most Tortolita residential systems in 1-3 days. We install racking securely to roof trusses, mount panels, run conduit, install inverters, upgrade electrical panels if needed, and integrate monitoring systems. After installation, Town of Tortolita inspectors and TEP verify proper installation before your system goes live."
-      },
-      {
-            "type": "heading",
-            "heading": "Solar Savings for Tortolita Homeowners",
-            "level": 2,
-            "content": "Solar Savings for Tortolita Homeowners"
-      },
-      {
-            "type": "paragraph",
-            "content": "The average Tortolita home uses 1,000-1,400 kWh monthly. With TEP electric rates and Arizona's abundant sunshine, a properly sized solar system can reduce your electric bill by 80-100%. Typical Tortolita homeowners save $1,200-$2,400 annually, totaling $30,000-$60,000 over 25 years. The 30% federal tax credit immediately reduces system cost by thousands of dollars, shortening payback periods to 7-10 years."
-      },
-      {
-            "type": "paragraph",
-            "content": "Beyond monthly savings, solar increases Tortolita home values significantly. Studies show buyers will pay $15,000-$25,000 more for homes with owned solar systems. Solar also provides protection against future TEP rate increases, which have historically averaged 3-5% annually. By generating your own electricity, you lock in predictable energy costs for decades."
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving Tortolita"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We understand Tortolita's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
-      },
-      {
-            "type": "paragraph",
-            "content": "NABCEP Certified Installers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium Equipment Only"
-      },
-      {
-            "type": "paragraph",
-            "content": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for Tortolita's climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tortolita customers. Our reputation is built on quality work and exceptional service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Complete Permitting Support"
-      },
-      {
-            "type": "paragraph",
-            "content": "We handle all Tortolita permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "Tortolita Solar Installation FAQs",
-            "level": 2,
-            "content": "Tortolita Solar Installation FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tortolita",
-            "level": 2,
-            "content": "More Services in Tortolita"
-      },
-      {
-            "type": "heading",
+            "type": "cta",
             "heading": "Ready to Go Solar in Tortolita?",
+            "content": "Contact Intelligent Design today to schedule your solar consultation and start saving with clean energy.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
+      },
+      {
+            "type": "heading",
+            "heading": "Why Tortolita Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Ready to Go Solar in Tortolita?"
+            "content": "Why Tortolita Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy."
+            "content": "With over 46 years of experience and a stellar 4.97-star rating from 23,000+ Google reviews, Intelligent Design is a trusted name in Tortolita. Our commitment to quality workmanship and customer satisfaction is unmatched in the greater Tucson area."
+      },
+      {
+            "type": "paragraph",
+            "content": "We back every solar installation with comprehensive warranties on equipment and labor, ensuring your investment is protected against Southern Arizona\u2019s challenging weather conditions and natural wear."
       },
       {
             "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
+            "heading": "Serving the Tortolita Community",
+            "level": 2,
+            "content": "Serving the Tortolita Community"
       },
       {
             "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
+            "content": "Proudly serving Tortolita and nearby neighborhoods close to landmarks like Honey Bee Canyon Petroglyphs, Tortolita Preserve Trailhead, Wild Burro Trailhead, and Honey Bee Canyon Park. When you choose Intelligent Design, you support a local business familiar with the environment surrounding Ol\u2019 Pot Hole, The Highlands Bar & Grille, Tortolita Preserve Trailhead, and Sky Rider Cafe."
       },
       {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tortolita & Greater Tucson"
+            "type": "cta",
+            "heading": "Start Your Solar Journey Today",
+            "content": "Join thousands of satisfied Tortolita residents who trust Intelligent Design for expert solar installation and service.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'Tortolita'),
+  commonQuestions: getRefinementQuestions('Solar Installation', 'Tortolita'),
 };

@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingDrexelHeights.tsx
+// Optimized Roofing page for Drexel Heights - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingdrexelheightsData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Drexel Heights AZ | Professional Roofer',
-  description: 'Professional roofing services in Drexel Heights, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-drexel-heights',
+  title: "Expert Roofing in Drexel Heights, AZ | Call (520) 333-2665",
+  description: "Top roofing services in Drexel Heights, AZ. Fast, reliable roof repair, replacement & inspection. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "roofing-drexel-heights",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Drexel Heights, AZ',
-  h2Subheading: 'Expert Roofing Drexel Heights in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Drexel Heights in Tucson',
+  h1: "Professional Roofing Services in Drexel Heights, AZ",
+  h2Subheading: "Durable Roof Repair, Replacement & Inspections Built for Southern Arizona’s Climate",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | 4.97-Star Rating",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Drexel Heights in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Drexel Heights',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Drexel Heights",
-    "description": "Local expertise since 1979. We know Drexel Heights roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Response",
+    "description": "Our local team responds quickly to protect your roof from monsoon damage."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Equipment",
+    "description": "We use industry-leading tools for precise tile, shingle, and flat roof services."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Comprehensive Roofing Solutions",
+    "description": "From inspections to roof coating, we cover all roofing needs in Drexel Heights."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation speaks to our quality and service."
+    "title": "Transparent & Competitive Pricing",
+    "description": "Clear quotes with no hidden fees, tailored for Southern Arizona homeowners."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "52 Licensed Roofing Technicians",
+    "description": "Skilled pros trained for local weather and roofing materials ensure quality work."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty Coverage",
+    "description": "We back our roofing repairs and replacements with strong, industry-standard warranties."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Drexel Heights Company in Tucson, AZ',
+    mainHeading: "Professional Roofing Services in Drexel Heights, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Drexel Heights Since 1979",
+            "heading": "Expert Roofing Built for Drexel Heights\u2019 Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Drexel Heights Since 1979"
+            "content": "Expert Roofing Built for Drexel Heights\u2019 Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Drexel Heights roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Drexel Heights families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Drexel Heights experiences extreme heat, intense monsoon storms, and hard water exposure that can accelerate roof wear. Intelligent Design specializes in roofing solutions designed to withstand Southern Arizona\u2019s unique challenges. Our expertise includes tile roofing, shingle roofing, flat roofs, and protective roof coatings that extend your roof\u2019s life."
       },
       {
             "type": "paragraph",
-            "content": "Drexel Heights's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Drexel Heights building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "We provide thorough roof inspections to detect early signs of damage like cracked tiles or shingle deterioration caused by UV exposure. Our team also expertly handles roof repairs and full replacements with durable materials suited for the local environment, ensuring your home stays safe year-round."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Protect Your Drexel Heights Home Today",
+            "content": "Don\u2019t wait for roof damage to worsen. Contact Intelligent Design for fast, reliable roofing service in Drexel Heights.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Drexel Heights Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Drexel Heights Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Drexel Heights | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Drexel Heights",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Drexel Heights",
+            "heading": "Why Drexel Heights Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Drexel Heights"
+            "content": "Why Drexel Heights Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Drexel Heights. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With over 46 years serving Southern Arizona, Intelligent Design has earned a 4.97-star Google rating from more than 23,000 reviews. Our reputation for dependable roofing services is built on transparency, punctuality, and expert craftsmanship tailored to local needs."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Drexel Heights homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Drexel Heights roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Drexel Heights's tile roofs while ensuring maximum weather protection."
+            "content": "Our 52 licensed technicians undergo continuous training to stay current with roofing technologies and local weather demands. We stand behind every project with strong warranties, giving you peace of mind that your roof investment is protected."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Drexel Heights Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Drexel Heights Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Drexel Heights"
+            "content": "Proudly serving Drexel Heights and the greater Tucson area, we\u2019re familiar with local landmarks like San Xavier del Bac Mission, Valley of the Moon, Tin Town, and the El Con Tower. Whether you\u2019re grabbing a bite at Hustle Bustle Cafe, Redbird Scratch Kitchen + Bar in Sam Hughes, Casa Madre Restaurant, or Flaps and Racks, you can trust Intelligent Design to keep your roof in top condition."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Drexel Heights roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Drexel Heights customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Drexel Heights Roofing FAQs",
-            "level": 2,
-            "content": "Drexel Heights Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Drexel Heights",
-            "level": 2,
-            "content": "More Services in Drexel Heights"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Drexel Heights?",
-            "level": 2,
-            "content": "Need a Roofer in Drexel Heights?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Drexel Heights & Greater Tucson"
+            "type": "cta",
+            "heading": "Ready for Expert Roofing in Drexel Heights?",
+            "content": "Call Intelligent Design now for trusted roofing services built to last in Southern Arizona\u2019s climate.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

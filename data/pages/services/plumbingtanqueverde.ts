@@ -1,220 +1,106 @@
-
-// Auto-generated from PlumbingTanqueVerde.tsx
+// Optimized Plumbing page for Tanque Verde - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const plumbingtanqueverdeData: ServicePageData = {
   // SEO & Meta
-  title: 'Plumbing Services Tanque Verde AZ | Licensed Plumber',
-  description: 'Expert plumbing services in Tanque Verde, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-tanque-verde',
+  title: "Expert Plumbing Services in Tanque Verde, AZ | Call (520) 333-2665",
+  description: "Trusted plumbing services in Tanque Verde, AZ. Fast repairs, installations, and leak detection by licensed pros. Call Intelligent Design today!",
+  slug: "plumbing-tanque-verde",
   
   // Hero Section
-  h1: 'Plumbing Services in Tanque Verde, AZ',
-  h2Subheading: 'Expert Plumbing Tanque Verde in Tucson',
-  tagline: 'Expert Repairs | Water Heaters | Drain Cleaning | Leak Detection | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Plumbing Tanque Verde in Tucson',
+  h1: "Professional Plumbing Services in Tanque Verde, AZ",
+  h2Subheading: "Reliable Repairs, Installations & Leak Detection for Southern Arizona Homes",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | 4.97 Google Rating",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Tanque Verde in Tucson",
   
   // Service Info
-  serviceName: 'Plumbing Tanque Verde',
-  category: 'Plumbing',
+  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tanque Verde",
-    "description": "Local expertise since 1979. We know Tanque Verde plumbing systems, water conditions, and code requirements inside and out."
+    "title": "68-Minute Average Response Time",
+    "description": "We arrive quickly to address plumbing emergencies before damage worsens."
   },
   {
-    "title": "Licensed Master Plumbers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Leak Detection Technology",
+    "description": "Utilizing state-of-the-art equipment to find hidden leaks and prevent water waste."
   },
   {
-    "title": "Advanced Technology",
-    "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
+    "title": "Comprehensive Plumbing Services",
+    "description": "From water heater installation to pipe repair and faucet replacement, we do it all."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation speaks to our quality and service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Upfront estimates with no hidden fees tailored to your specific plumbing needs."
   },
   {
-    "title": "Honest Recommendations",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "52 Licensed & Insured Technicians",
+    "description": "Our skilled team ensures quality workmanship backed by decades of experience."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty on All Work",
+    "description": "We stand behind our repairs and installations with solid warranties for peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Plumbing Tanque Verde Company in Tucson, AZ',
+    mainHeading: "Professional Plumbing Services in Tanque Verde, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Plumber Serving Tanque Verde Since 1979",
+            "heading": "Trusted Plumbing Solutions for Tanque Verde Homes",
             "level": 2,
-            "content": "Trusted Plumber Serving Tanque Verde Since 1979"
+            "content": "Trusted Plumbing Solutions for Tanque Verde Homes"
       },
       {
             "type": "paragraph",
-            "content": "When plumbing problems strike your Tanque Verde home, you need a licensed plumber you can trust. At Intelligent Design, we've been providing expert plumbing services to Tanque Verde families and businesses since 1979. Our licensed, bonded, and insured plumbers deliver fast, reliable solutions for everything from minor repairs to major installations, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Intelligent Design delivers expert plumbing repairs and installations tailored to the unique challenges of Tanque Verde\u2019s desert climate. From extreme heat to seasonal monsoons, your plumbing system requires durable solutions that withstand harsh conditions. Our technicians specialize in water heater installations, pipe repairs, faucet replacements, and toilet repairs designed for Southern Arizona\u2019s hard water and fluctuating temperatures."
       },
       {
             "type": "paragraph",
-            "content": "Tanque Verde's unique water conditions and plumbing infrastructure require specialized knowledge. Our technicians understand the challenges homeowners face, from hard water issues that accelerate fixture wear to seasonal stress on water heaters during winter months. We stay current with Town of Tanque Verde codes and regulations, ensuring every job meets or exceeds local standards while protecting your home's value and safety."
+            "content": "We prioritize fast, efficient service to minimize disruptions and prevent costly water damage. Using advanced leak detection tools, we identify hidden issues before they escalate. Whether you need emergency pipe repair or routine maintenance, our licensed plumbers ensure your system operates smoothly year-round."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive plumbing services include emergency repairs for burst pipes and water heater failures, professional drain cleaning using camera inspection technology, leak detection with non-invasive methods, water heater installation and replacement, sewer line services including trenchless repair, fixture upgrades and installations, garbage disposal services, and preventive maintenance programs. Every service visit includes a courtesy inspection to identify potential issues before they become emergencies."
+            "type": "cta",
+            "heading": "Need Plumbing Help in Tanque Verde Now?",
+            "content": "Call Intelligent Design for prompt, professional plumbing service backed by 46+ years of experience.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Tanque Verde Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Tanque Verde Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent plumbing needs | Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals | Upfront Pricing: Clear estimates before work begins, no surprise charges | Fast Service: Same-day and emergency service throughout Tanque Verde | Quality Workmanship: Comprehensive warranties on parts and labor",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent plumbing needs",
-                  "Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals",
-                  "Upfront Pricing: Clear estimates before work begins, no surprise charges",
-                  "Fast Service: Same-day and emergency service throughout Tanque Verde",
-                  "Quality Workmanship: Comprehensive warranties on parts and labor"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Plumbing Services for Tanque Verde",
+            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Plumbing Services for Tanque Verde"
+            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Plumbing Repair - Plumbing emergencies don't wait for business hours. Our 24/7 emergency plumbers respond quickly to burst pipes, severe leaks, water heater failures, backed-up sewers, and other urgent issues throughout Tanque Verde. We arrive with fully-stocked trucks containing common parts and specialized tools, enabling us to resolve most emergencies on the first visit and minimize water damage to your home."
+            "content": "With a 4.97-star Google rating from over 23,000 reviews, Intelligent Design is a trusted name in Tanque Verde plumbing. Our customers rely on our rapid response and quality workmanship to keep their homes safe and comfortable. We understand local plumbing challenges and deliver solutions that last."
       },
       {
             "type": "paragraph",
-            "content": "Water Heater Services - From traditional tank water heaters to modern tankless and hybrid systems, we handle all water heater needs. Our services include professional installation of new units sized correctly for your household, expert repair of existing systems, preventive maintenance including annual flushing, and emergency replacement when failures occur. We help Tanque Verde homeowners select energy-efficient models that reduce utility costs while providing reliable hot water."
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain Cleaning & Sewer Services - Slow drains and backed-up sewers require professional attention. We use advanced camera inspection to diagnose issues accurately, hydro-jetting for thorough cleaning, and trenchless technology for repairs that minimize landscape disruption. Our drain maintenance programs keep Tanque Verde plumbing systems flowing freely, preventing costly backups and extending system life."
-      },
-      {
-            "type": "paragraph",
-            "content": "Leak Detection & Repair - Hidden leaks waste thousands of gallons and cause expensive damage. Our non-invasive leak detection technology locates problems behind walls, under slabs, and in underground lines without unnecessary destruction. We repair leaks promptly using quality materials and proper techniques, protecting your Tanque Verde home from water damage and high utility bills."
+            "content": "All plumbing work is performed by our team of 52 licensed technicians, ensuring professional, code-compliant results. Every repair and installation is backed by a solid warranty, providing peace of mind in the face of Southern Arizona\u2019s demanding environment."
       },
       {
             "type": "heading",
-            "heading": "Plumbing Expertise You Can Trust",
+            "heading": "Serving the Tanque Verde Community",
             "level": 2,
-            "content": "Plumbing Expertise You Can Trust"
+            "content": "Serving the Tanque Verde Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Tanque Verde"
+            "content": "We proudly serve Tanque Verde and nearby neighborhoods, including areas around Fort Lowell Museum, Trail Dust Town, Javelina Rocks, and Sabino Canyon Recreation Area. Our local expertise extends to homes near popular spots like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery. We\u2019re dedicated to supporting our community with trusted plumbing solutions."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Tanque Verde plumbing systems, water conditions, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Plumbers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Advanced Technology"
-      },
-      {
-            "type": "paragraph",
-            "content": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tanque Verde customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Recommendations"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Tanque Verde Plumbing FAQs",
-            "level": 2,
-            "content": "Tanque Verde Plumbing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tanque Verde",
-            "level": 2,
-            "content": "More Services in Tanque Verde"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Plumber in Tanque Verde?",
-            "level": 2,
-            "content": "Need a Plumber in Tanque Verde?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert plumbing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tanque Verde & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Tanque Verde Plumbing Service Today",
+            "content": "Contact Intelligent Design for expert plumbing repairs, installations, and leak detection you can trust.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

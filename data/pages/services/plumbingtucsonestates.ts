@@ -1,220 +1,106 @@
-
-// Auto-generated from PlumbingTucsonEstates.tsx
+// Optimized Plumbing page for Tucson Estates - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const plumbingtucsonestatesData: ServicePageData = {
   // SEO & Meta
-  title: 'Plumbing Services Tucson Estates AZ | Licensed Plumber',
-  description: 'Expert plumbing services in Tucson Estates, AZ. Licensed plumbers for repairs, installations, drain cleaning, water heaters, leak detection. 24/7 emergency service. BBB A+ rated.',
-  slug: 'plumbing-estates',
+  title: "Expert Plumbing in Tucson Estates, AZ | Call (520) 333-2665",
+  description: "Trusted plumbing services in Tucson Estates, AZ. Fast repairs, installations & leak detection. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "plumbing-estates",
   
   // Hero Section
-  h1: 'Plumbing Services in Tucson Estates, AZ',
-  h2Subheading: 'Expert Plumbing Tucson Estates in Tucson',
-  tagline: 'Expert Repairs | Water Heaters | Drain Cleaning | Leak Detection | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Plumbing Tucson Estates in Tucson',
+  h1: "Reliable Plumbing Services in Tucson Estates, AZ",
+  h2Subheading: "Fast, Expert Plumbing Repairs and Installations Tailored for Tucson’s Climate",
+  tagline: "Fast 68-Min Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | 4.97-Star Rated | Warranty Included",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Tucson Estates in Tucson",
   
   // Service Info
-  serviceName: 'Plumbing Tucson Estates',
-  category: 'Plumbing',
+  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tucson Estates",
-    "description": "Local expertise since 1979. We know Tucson Estates plumbing systems, water conditions, and code requirements inside and out."
+    "title": "Rapid 68-Minute Average Response",
+    "description": "Our licensed technicians arrive quickly to minimize plumbing disruptions."
   },
   {
-    "title": "Licensed Master Plumbers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Leak Detection Technology",
+    "description": "We use state-of-the-art equipment to find hidden leaks before damage spreads."
   },
   {
-    "title": "Advanced Technology",
-    "description": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
+    "title": "Comprehensive Plumbing Services",
+    "description": "From water heater installs to pipe repairs, we handle all residential needs."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tucson Estates customers. Our reputation speaks to our quality and service."
+    "title": "Upfront, Transparent Pricing",
+    "description": "No hidden fees\u2014clear estimates ensure you know the cost before work begins."
   },
   {
-    "title": "Honest Recommendations",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Experienced Licensed Technicians",
+    "description": "52 skilled pros with over four decades of combined expertise serve Tucson Estates."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Satisfaction Guaranteed Warranty",
+    "description": "All plumbing work is backed by our reliable warranty for your peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Plumbing Tucson Estates Company in Tucson, AZ',
+    mainHeading: "Reliable Plumbing Services in Tucson Estates, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Plumber Serving Tucson Estates Since 1979",
+            "heading": "Expert Plumbing Solutions Tailored for Tucson Estates",
             "level": 2,
-            "content": "Trusted Plumber Serving Tucson Estates Since 1979"
+            "content": "Expert Plumbing Solutions Tailored for Tucson Estates"
       },
       {
             "type": "paragraph",
-            "content": "When plumbing problems strike your Tucson Estates home, you need a licensed plumber you can trust. At Intelligent Design, we've been providing expert plumbing services to Tucson Estates families and businesses since 1979. Our licensed, bonded, and insured plumbers deliver fast, reliable solutions for everything from minor repairs to major installations, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Living in Tucson Estates means dealing with unique plumbing challenges caused by Southern Arizona\u2019s extreme heat, hard water, and seasonal monsoons. Intelligent Design\u2019s plumbers specialize in durable pipe repairs, leak detection, and water heater installations designed to withstand these conditions. We ensure your plumbing system functions flawlessly year-round."
       },
       {
             "type": "paragraph",
-            "content": "Tucson Estates's unique water conditions and plumbing infrastructure require specialized knowledge. Our technicians understand the challenges homeowners face, from hard water issues that accelerate fixture wear to seasonal stress on water heaters during winter months. We stay current with Town of Tucson Estates codes and regulations, ensuring every job meets or exceeds local standards while protecting your home's value and safety."
+            "content": "Our team handles everything from faucet installation and toilet repairs to comprehensive pipe replacement. Using advanced diagnostics and corrosion-resistant materials, we protect your home\u2019s plumbing from damage caused by mineral buildup and temperature fluctuations common in the region."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive plumbing services include emergency repairs for burst pipes and water heater failures, professional drain cleaning using camera inspection technology, leak detection with non-invasive methods, water heater installation and replacement, sewer line services including trenchless repair, fixture upgrades and installations, garbage disposal services, and preventive maintenance programs. Every service visit includes a courtesy inspection to identify potential issues before they become emergencies."
+            "type": "cta",
+            "heading": "Ready for Trusted Plumbing Service?",
+            "content": "Contact Intelligent Design Air Conditioning, Plumbing, Solar, & Electric for reliable plumbing solutions in Tucson Estates today.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Tucson Estates Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Tucson Estates Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent plumbing needs | Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals | Upfront Pricing: Clear estimates before work begins, no surprise charges | Fast Service: Same-day and emergency service throughout Tucson Estates | Quality Workmanship: Comprehensive warranties on parts and labor",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent plumbing needs",
-                  "Licensed Arizona Plumbers: Fully licensed, bonded, and insured professionals",
-                  "Upfront Pricing: Clear estimates before work begins, no surprise charges",
-                  "Fast Service: Same-day and emergency service throughout Tucson Estates",
-                  "Quality Workmanship: Comprehensive warranties on parts and labor"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Plumbing Services for Tucson Estates",
+            "heading": "Why Tucson Estates Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Plumbing Services for Tucson Estates"
+            "content": "Why Tucson Estates Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Plumbing Repair - Plumbing emergencies don't wait for business hours. Our 24/7 emergency plumbers respond quickly to burst pipes, severe leaks, water heater failures, backed-up sewers, and other urgent issues throughout Tucson Estates. We arrive with fully-stocked trucks containing common parts and specialized tools, enabling us to resolve most emergencies on the first visit and minimize water damage to your home."
+            "content": "With over 46 years of experience and a 4.97-star Google rating from 23,000+ reviews, Intelligent Design has earned the trust of Tucson Estates residents. Our commitment to quality workmanship and customer satisfaction sets us apart in the greater Tucson area."
       },
       {
             "type": "paragraph",
-            "content": "Water Heater Services - From traditional tank water heaters to modern tankless and hybrid systems, we handle all water heater needs. Our services include professional installation of new units sized correctly for your household, expert repair of existing systems, preventive maintenance including annual flushing, and emergency replacement when failures occur. We help Tucson Estates homeowners select energy-efficient models that reduce utility costs while providing reliable hot water."
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain Cleaning & Sewer Services - Slow drains and backed-up sewers require professional attention. We use advanced camera inspection to diagnose issues accurately, hydro-jetting for thorough cleaning, and trenchless technology for repairs that minimize landscape disruption. Our drain maintenance programs keep Tucson Estates plumbing systems flowing freely, preventing costly backups and extending system life."
-      },
-      {
-            "type": "paragraph",
-            "content": "Leak Detection & Repair - Hidden leaks waste thousands of gallons and cause expensive damage. Our non-invasive leak detection technology locates problems behind walls, under slabs, and in underground lines without unnecessary destruction. We repair leaks promptly using quality materials and proper techniques, protecting your Tucson Estates home from water damage and high utility bills."
+            "content": "Every job is completed by licensed technicians backed by comprehensive warranties. We stand behind our work, ensuring peace of mind and long-lasting plumbing performance despite the harsh climate."
       },
       {
             "type": "heading",
-            "heading": "Plumbing Expertise You Can Trust",
+            "heading": "Serving the Tucson Estates Community",
             "level": 2,
-            "content": "Plumbing Expertise You Can Trust"
+            "content": "Serving the Tucson Estates Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Tucson Estates"
+            "content": "Proudly serving areas near landmarks like Old Tucson, Pima County Historic Courthouse, Old Pueblo Archaeology Center, and El Tiradito Wishing Shrine, we understand the community\u2019s unique needs. Whether you\u2019re enjoying a meal at Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, or Barista del Barrio, know that Intelligent Design is just a call away for expert plumbing service."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Tucson Estates plumbing systems, water conditions, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Plumbers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Advanced Technology"
-      },
-      {
-            "type": "paragraph",
-            "content": "Camera inspection, electronic leak detection, hydro-jetting, and trenchless technology for superior results."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tucson Estates customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Recommendations"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and parts. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Tucson Estates Plumbing FAQs",
-            "level": 2,
-            "content": "Tucson Estates Plumbing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tucson Estates",
-            "level": 2,
-            "content": "More Services in Tucson Estates"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Plumber in Tucson Estates?",
-            "level": 2,
-            "content": "Need a Plumber in Tucson Estates?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert plumbing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tucson Estates & Greater Tucson"
+            "type": "cta",
+            "heading": "Schedule Your Plumbing Service Today",
+            "content": "Don\u2019t wait for a small leak to become a major problem. Call Intelligent Design now for fast, dependable plumbing in Tucson Estates.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

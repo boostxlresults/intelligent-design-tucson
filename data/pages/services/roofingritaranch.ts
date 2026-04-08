@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingRitaRanch.tsx
+// Optimized Roofing page for Rita Ranch - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingritaranchData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Rita Ranch AZ | Professional Roofer',
-  description: 'Professional roofing services in Rita Ranch, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-rita-ranch',
+  title: "Expert Roofing Services in Rita Ranch, AZ | Call (520) 333-2665",
+  description: "Reliable roofing in Rita Ranch, AZ. Expert roof repair, replacement & inspections. Call Intelligent Design at (520) 333-2665 today.",
+  slug: "roofing-rita-ranch",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Rita Ranch, AZ',
-  h2Subheading: 'Expert Roofing Rita Ranch in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Rita Ranch in Tucson',
+  h1: "Roofing Services in Rita Ranch, AZ",
+  h2Subheading: "Durable Roof Repair, Replacement & Inspections Built for Southern Arizona’s Climate",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Services | Affordable Pricing | Warranty Backed",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Rita Ranch in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Rita Ranch',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Rita Ranch",
-    "description": "Local expertise since 1979. We know Rita Ranch roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid 68-Minute Average Response",
+    "description": "We prioritize quick service to address roofing issues before monsoon damage worsens."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Equipment",
+    "description": "State-of-the-art tools ensure precise tile, shingle, and flat roof repairs in Rita Ranch."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Full-Service Roofing Solutions",
+    "description": "From roof coatings to inspections, we cover all roofing needs for residential properties."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation speaks to our quality and service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "Upfront estimates with no hidden fees tailored to Rita Ranch budgets and project scopes."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Experienced & Licensed Team",
+    "description": "52 certified technicians bring 46+ years of expertise in Southern Arizona roofing challenges."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Industry-Leading Warranty",
+    "description": "All roofing work is backed by strong warranties, ensuring peace of mind for years."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Rita Ranch Company in Tucson, AZ',
+    mainHeading: "Roofing Services in Rita Ranch, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Rita Ranch Since 1979",
+            "heading": "Comprehensive Roofing Tailored for Rita Ranch Homes",
             "level": 2,
-            "content": "Trusted Roofer Serving Rita Ranch Since 1979"
+            "content": "Comprehensive Roofing Tailored for Rita Ranch Homes"
       },
       {
             "type": "paragraph",
-            "content": "When your Rita Ranch roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Rita Ranch families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Rita Ranch roofs face unique challenges, from intense summer heat to monsoon storms and hard water exposure. Our roofing services address these with durable materials like tile and shingle roofing designed to withstand heat and resist water damage. We specialize in roof repair, replacement, flat roof solutions, and protective roof coatings tailored to Southern Arizona\u2019s harsh environment."
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Rita Ranch building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Our roof inspections identify issues like cracked tiles, shingle wear, or flat roof membrane damage early, preventing costly repairs. We use advanced diagnostic equipment to detect leaks and structural weaknesses, ensuring your home remains protected year-round. Whether you need a minor repair or full roof replacement, our licensed technicians deliver quality craftsmanship."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Protect Your Home with Expert Roofing Services",
+            "content": "Don\u2019t wait for the next storm or heatwave to damage your roof. Call Intelligent Design for reliable roofing solutions in Rita Ranch today.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Rita Ranch Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Rita Ranch Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Rita Ranch | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Rita Ranch",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Rita Ranch",
+            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Rita Ranch"
+            "content": "Why Rita Ranch Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Rita Ranch. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "With over 46 years serving Southern Arizona, Intelligent Design is trusted for quality roofing backed by a 4.97-star Google rating from 23,000+ reviews. Our reputation for fast, dependable service and expert craftsmanship puts homeowner satisfaction first. We understand the importance of a strong roof in protecting your investment and family."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Rita Ranch homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Rita Ranch roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Rita Ranch's tile roofs while ensuring maximum weather protection."
+            "content": "Our roofing warranty offers peace of mind, covering workmanship and materials against Southern Arizona\u2019s extreme climate stresses. Our team of 52 licensed technicians undergoes continuous training to stay current on roofing technologies and local building codes, assuring top-tier results on every project."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Rita Ranch Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Rita Ranch Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Rita Ranch"
+            "content": "We proudly serve Rita Ranch residents near landmarks like Joining Hands, the Tucson Rodeo Parade and Tucson Wagon & History Museum, Pima Air & Space Museum, and the 390th Memorial Museum. Our team enjoys supporting local favorites including Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, and Rocking K Market bar & restaurant. We\u2019re dedicated to strengthening our community one roof at a time."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Rita Ranch roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Rita Ranch customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Rita Ranch Roofing FAQs",
-            "level": 2,
-            "content": "Rita Ranch Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Rita Ranch",
-            "level": 2,
-            "content": "More Services in Rita Ranch"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Rita Ranch?",
-            "level": 2,
-            "content": "Need a Roofer in Rita Ranch?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Rita Ranch & Greater Tucson"
+            "type": "cta",
+            "heading": "Ready for Reliable Roofing in Rita Ranch?",
+            "content": "Contact Intelligent Design today for expert roofing inspections, repairs, and replacement. Protect your home with trusted local professionals.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },

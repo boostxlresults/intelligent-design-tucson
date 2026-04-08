@@ -1,231 +1,109 @@
-
-// Auto-generated from SolarInstallationSaddleBrooke.tsx
+// Optimized Solar Installation page for SaddleBrooke - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const solarinstallationsaddlebrookeData: ServicePageData = {
   // SEO & Meta
-  title: 'Solar Installation SaddleBrooke AZ | Solar Panel Installation',
-  description: 'Professional solar panel installation in SaddleBrooke, AZ. Expert design, premium equipment, 30% federal tax credit assistance. Serving SaddleBrooke families since 1979. BBB A+ rated.',
-  slug: 'solar-installation-saddle-brooke',
+  title: "Solar Installation in SaddleBrooke, AZ | Call (520) 333-2665",
+  description: "Expert solar installation in SaddleBrooke, AZ. Trusted local service with fast response and top-tier solar solutions. Call (520) 333-2665 today!",
+  slug: "solar-installation-saddle-brooke",
   
   // Hero Section
-  h1: 'Solar Installation in SaddleBrooke, AZ',
-  h2Subheading: 'Expert Solar Installation Saddle Brooke in Tucson',
-  tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Solar Installation Saddle Brooke in Tucson',
+  h1: "Solar Installation Services in SaddleBrooke, AZ",
+  h2Subheading: "Reliable Solar Solutions Designed for Southern Arizona’s Unique Climate",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Quality Equipment | Transparent Pricing | Comprehensive Warranty",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Installation Saddle Brooke in Tucson",
   
   // Service Info
-  serviceName: 'Solar Installation Saddle Brooke',
-  category: 'Solar',
+  serviceName: "Solar Installation",
+  category: "Solar",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving SaddleBrooke",
-    "description": "Local expertise since 1979. We understand SaddleBrooke's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
+    "title": "Rapid 68-Minute Average Response",
+    "description": "Our licensed technicians respond quickly to keep your solar project on schedule."
   },
   {
-    "title": "NABCEP Certified Installers",
-    "description": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
+    "title": "Advanced Solar Equipment",
+    "description": "We install high-efficiency panels and durable solar battery storage tailored for desert heat."
   },
   {
-    "title": "Premium Equipment Only",
-    "description": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for SaddleBrooke's climate."
+    "title": "Comprehensive Solar Services",
+    "description": "From design to installation and maintenance, we cover all solar needs including net metering."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied SaddleBrooke customers. Our reputation is built on quality work and exceptional service."
+    "title": "Transparent, Competitive Pricing",
+    "description": "No hidden fees\u2014clear quotes and flexible solar financing options for SaddleBrooke residents."
   },
   {
-    "title": "Complete Permitting Support",
-    "description": "We handle all SaddleBrooke permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
+    "title": "Experienced & Licensed Team",
+    "description": "52 certified technicians with 46+ years delivering expert solar installations in Southern Arizona."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
+    "title": "Industry-Leading Warranty",
+    "description": "Enjoy peace of mind with our comprehensive warranties on panels, inverters, and workmanship."
   }
 ],
   content: {
-    mainHeading: 'Best Solar Installation Saddle Brooke Company in Tucson, AZ',
+    mainHeading: "Solar Installation Services in SaddleBrooke, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Expert Solar Installation for SaddleBrooke Homes",
+            "heading": "Professional Solar Installation Tailored for SaddleBrooke",
             "level": 2,
-            "content": "Expert Solar Installation for SaddleBrooke Homes"
+            "content": "Professional Solar Installation Tailored for SaddleBrooke"
       },
       {
             "type": "paragraph",
-            "content": "SaddleBrooke homeowners are discovering the financial and environmental benefits of solar energy. With over 350 days of sunshine annually and some of Arizona's highest electric rates from Tucson Electric Power, solar panels deliver exceptional returns on investment. At Intelligent Design, we've helped hundreds of SaddleBrooke families transition to clean, renewable solar power since 1979, providing expert system design, premium equipment installation, and comprehensive support to maximize your solar savings."
+            "content": "At Intelligent Design, we specialize in solar installation designed specifically for the Southern Arizona climate. Our solar panels and battery storage systems are engineered to withstand extreme heat, intense sun exposure, and the seasonal monsoon storms typical of the SaddleBrooke area."
       },
       {
             "type": "paragraph",
-            "content": "Our solar installation process begins with a detailed energy analysis of your SaddleBrooke home. We examine 12 months of TEP utility bills to understand your consumption patterns and identify the optimal system size. Our NABCEP-certified solar designers use advanced 3D modeling technology to map your roof, analyze sun exposure throughout the year, assess any shading from nearby mountains or vegetation, and design panel layouts that maximize energy production while complementing your home's architecture."
+            "content": "We incorporate the latest technology to optimize energy production and storage, ensuring you benefit from net metering and reduced energy costs year-round. Our team also provides detailed solar financing options, making green energy affordable for every SaddleBrooke homeowner."
       },
       {
-            "type": "paragraph",
-            "content": "We exclusively use tier-1 solar panels with 25-year performance warranties, high-efficiency inverters engineered for extreme heat, and aluminum racking systems rated for Arizona's monsoon winds. Every SaddleBrooke installation includes comprehensive monitoring systems so you can track production in real-time, complete TEP net metering setup, and professional electrical integration by licensed Arizona electricians. Our installations follow strict quality standards and all local building codes, ensuring safe, reliable performance for decades."
+            "type": "cta",
+            "heading": "Ready to Switch to Solar?",
+            "content": "Contact us today to schedule your free consultation and start saving with solar energy in SaddleBrooke.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why SaddleBrooke is Perfect for Solar",
-            "level": 3,
-            "content": "Why SaddleBrooke is Perfect for Solar"
-      },
-      {
-            "type": "list",
-            "content": "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover | High Electric Rates: TEP rates make solar savings substantial | Net Metering Benefits: Full retail credit for excess solar production | Home Value Increase: Solar adds $15,000-$25,000 to SaddleBrooke property values | Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost",
-            "items": [
-                  "Exceptional Solar Resource: 350+ sunny days per year with minimal cloud cover",
-                  "High Electric Rates: TEP rates make solar savings substantial",
-                  "Net Metering Benefits: Full retail credit for excess solar production",
-                  "Home Value Increase: Solar adds $15,000-$25,000 to SaddleBrooke property values",
-                  "Federal Tax Credits: 30% ITC through 2032 significantly reduces system cost"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "The SaddleBrooke Solar Installation Process",
+            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "The SaddleBrooke Solar Installation Process"
+            "content": "Why SaddleBrooke Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Step 1: Free Solar Consultation - We begin with an in-home consultation to assess your roof, review energy bills, discuss goals, and answer questions. We evaluate roof orientation (south-facing is optimal), pitch, condition, and any shading issues from SaddleBrooke's scenic mountain views or mature landscaping. Using satellite imagery and specialized software, we model sun exposure throughout the year to estimate production."
+            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design has earned the trust of the SaddleBrooke community. Our licensed professionals ensure each solar installation meets rigorous quality standards and local regulations."
       },
       {
             "type": "paragraph",
-            "content": "Step 2: Custom System Design - Our designers create a detailed system layout optimized for your SaddleBrooke home. We specify panel quantity and placement, inverter configuration (string or microinverters), electrical requirements, and structural attachments. You'll receive a comprehensive proposal showing projected energy production, year-by-year savings, total investment after tax credits, and estimated payback period."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 3: Permits & Approvals - We handle all permitting with the Town of SaddleBrooke building department, including structural calculations, electrical plans, and fire setback compliance. If your home is in an HOA community, we manage architectural approvals. We also submit interconnection applications to TEP and coordinate utility requirements. Most SaddleBrooke permits are approved within 2-3 weeks."
-      },
-      {
-            "type": "paragraph",
-            "content": "Step 4: Professional Installation - Our NABCEP-certified installers complete most SaddleBrooke residential systems in 1-3 days. We install racking securely to roof trusses, mount panels, run conduit, install inverters, upgrade electrical panels if needed, and integrate monitoring systems. After installation, Town of SaddleBrooke inspectors and TEP verify proper installation before your system goes live."
+            "content": "We back every project with comprehensive warranties on equipment and workmanship, providing long-term assurance. Our fast 68-minute average response time means your solar questions and service needs are addressed promptly and professionally."
       },
       {
             "type": "heading",
-            "heading": "Solar Savings for SaddleBrooke Homeowners",
+            "heading": "Serving the SaddleBrooke Community",
             "level": 2,
-            "content": "Solar Savings for SaddleBrooke Homeowners"
+            "content": "Serving the SaddleBrooke Community"
       },
       {
             "type": "paragraph",
-            "content": "The average SaddleBrooke home uses 1,000-1,400 kWh monthly. With TEP electric rates and Arizona's abundant sunshine, a properly sized solar system can reduce your electric bill by 80-100%. Typical SaddleBrooke homeowners save $1,200-$2,400 annually, totaling $30,000-$60,000 over 25 years. The 30% federal tax credit immediately reduces system cost by thousands of dollars, shortening payback periods to 7-10 years."
+            "content": "Proudly serving SaddleBrooke and the greater Tucson area, we are intimately familiar with local landmarks like the Historic Kannally Ranch House, Oracle Historical Society, Oracle State Park, and the Vista Sun Wheel. Whether you're dining at Fork & Fire Catalina Grill, Riot Grill, The Preserve Fine Dining, or The Roadrunner Grill, you can trust Intelligent Design for dependable solar energy solutions that fit your lifestyle."
       },
       {
-            "type": "paragraph",
-            "content": "Beyond monthly savings, solar increases SaddleBrooke home values significantly. Studies show buyers will pay $15,000-$25,000 more for homes with owned solar systems. Solar also provides protection against future TEP rate increases, which have historically averaged 3-5% annually. By generating your own electricity, you lock in predictable energy costs for decades."
-      },
-      {
-            "type": "paragraph",
-            "content": "46+ years Serving SaddleBrooke"
-      },
-      {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We understand SaddleBrooke's unique requirements, from HOA guidelines to optimal roof orientations given local topography."
-      },
-      {
-            "type": "paragraph",
-            "content": "NABCEP Certified Installers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading certifications and continuous training ensure expert installations meeting all Arizona codes and best practices."
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium Equipment Only"
-      },
-      {
-            "type": "paragraph",
-            "content": "Tier-1 solar panels with 25-year warranties, high-efficiency inverters, and racking systems engineered for SaddleBrooke's climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied SaddleBrooke customers. Our reputation is built on quality work and exceptional service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Complete Permitting Support"
-      },
-      {
-            "type": "paragraph",
-            "content": "We handle all SaddleBrooke permits, HOA approvals, and TEP interconnection paperwork. You don't lift a finger."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "25-year panel warranties, 10-25 year inverter warranties, and 10-year workmanship warranty for complete peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "SaddleBrooke Solar Installation FAQs",
-            "level": 2,
-            "content": "SaddleBrooke Solar Installation FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in SaddleBrooke",
-            "level": 2,
-            "content": "More Services in SaddleBrooke"
-      },
-      {
-            "type": "heading",
-            "heading": "Ready to Go Solar in SaddleBrooke?",
-            "level": 2,
-            "content": "Ready to Go Solar in SaddleBrooke?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get your free solar consultation and custom quote today. Start saving on your electric bill with clean, renewable energy."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving SaddleBrooke & Greater Tucson"
+            "type": "cta",
+            "heading": "Start Your Solar Journey Today",
+            "content": "Join thousands of satisfied SaddleBrooke homeowners who trust Intelligent Design for expert solar installation. Call now to get started!",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
   faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'SaddleBrooke'),
+  commonQuestions: getRefinementQuestions('Solar Installation', 'SaddleBrooke'),
 };

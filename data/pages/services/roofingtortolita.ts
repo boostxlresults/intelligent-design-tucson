@@ -1,220 +1,106 @@
-
-// Auto-generated from RoofingTortolita.tsx
+// Optimized Roofing page for Tortolita - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
-
-
 export const roofingtortolitaData: ServicePageData = {
   // SEO & Meta
-  title: 'Roofing Services Tortolita AZ | Professional Roofer',
-  description: 'Professional roofing services in Tortolita, AZ. Expert roof repair, replacement, inspection, coating. Tile, shingle, flat roofs. 24/7 emergency service. BBB A+ rated.',
-  slug: 'roofing-tortolita',
+  title: "Roofing Services in Tortolita, AZ | Call (520) 333-2665",
+  description: "Expert roofing in Tortolita, AZ. Reliable roof repairs, replacements, inspections. Call Intelligent Design at (520) 333-2665 today!",
+  slug: "roofing-tortolita",
   
   // Hero Section
-  h1: 'Professional Roofing Services in Tortolita, AZ',
-  h2Subheading: 'Expert Roofing Tortolita in Tucson',
-  tagline: 'Roof Repair | Replacement | Inspection | Coating | Tile & Shingle | 24/7 Emergency Service',
-  heroImage: '/images/placeholder.webp',
-  heroImageAlt: 'Roofing Tortolita in Tucson',
+  h1: "Professional Roofing Services in Tortolita, AZ",
+  h2Subheading: "Durable Roof Repairs, Replacements & Inspections Tailored for Southern Arizona",
+  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | 4.97-Star Rating",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing Tortolita in Tucson",
   
   // Service Info
-  serviceName: 'Roofing Tortolita',
-  category: 'Roofing',
+  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content
   highlights: [
   {
-    "title": "46+ years Serving Tortolita",
-    "description": "Local expertise since 1979. We know Tortolita roofing systems, climate challenges, and code requirements inside and out."
+    "title": "Rapid Response Time",
+    "description": "Average 68-minute response ensures timely roofing services when you need them most."
   },
   {
-    "title": "Licensed Master Roofers",
-    "description": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
+    "title": "Advanced Roofing Equipment",
+    "description": "Utilizing modern tools for precise tile, shingle, and flat roof repairs in harsh climates."
   },
   {
-    "title": "Quality Materials",
-    "description": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
+    "title": "Comprehensive Roofing Solutions",
+    "description": "From roof coating to full replacements, we handle all roofing types with expert care."
   },
   {
-    "title": "23,000+ Five-Star Reviews",
-    "description": "BBB A+ rated with thousands of satisfied Tortolita customers. Our reputation speaks to our quality and service."
+    "title": "Transparent & Competitive Pricing",
+    "description": "Clear estimates with no hidden fees, tailored to fit your budget and roofing needs."
   },
   {
-    "title": "Honest Assessments",
-    "description": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
+    "title": "Experienced Licensed Team",
+    "description": "52 certified technicians with over 46 years serving Tortolita and greater Tucson area."
   },
   {
-    "title": "Comprehensive Warranties",
-    "description": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
+    "title": "Reliable Warranty Coverage",
+    "description": "We back our roofing work with industry-leading warranties for lasting peace of mind."
   }
 ],
   content: {
-    mainHeading: 'Best Roofing Tortolita Company in Tucson, AZ',
+    mainHeading: "Professional Roofing Services in Tortolita, AZ",
     sections: [
       {
             "type": "heading",
-            "heading": "Trusted Roofer Serving Tortolita Since 1979",
+            "heading": "Expert Roofing Services Built for Tortolita\u2019s Climate",
             "level": 2,
-            "content": "Trusted Roofer Serving Tortolita Since 1979"
+            "content": "Expert Roofing Services Built for Tortolita\u2019s Climate"
       },
       {
             "type": "paragraph",
-            "content": "When your Tortolita roof needs attention, you need experienced roofers you can trust. At Intelligent Design, we've been providing expert roofing services to Tortolita families and businesses since 1979. Our licensed, bonded, and insured roofing professionals deliver reliable solutions for everything from emergency leak repairs to complete roof replacements, backed by our 100% satisfaction guarantee and BBB A+ rating."
+            "content": "Tortolita\u2019s roofing demands are unique due to Southern Arizona\u2019s intense heat, monsoons, and hard water exposure. Intelligent Design specializes in roof repairs and replacements using materials that withstand extreme temperatures and sudden storms. Whether it\u2019s tile roofing, shingle installations, or flat roof coatings, our team applies proven techniques to extend your roof\u2019s life."
       },
       {
             "type": "paragraph",
-            "content": "Tortolita's intense sun exposure and monsoon weather create unique challenges for roofing systems. Our technicians understand how UV radiation degrades roofing materials, how thermal cycling causes tiles to crack, and how summer storms can expose vulnerable areas. We stay current with Town of Tortolita building codes and use materials specifically rated for Arizona's harsh desert climate."
+            "content": "Our roof inspections are thorough, identifying issues like cracked tiles, water damage, or heat-related shingle wear early. We recommend specific coatings to protect flat roofs from UV damage and hard water stains, common challenges in the Tortolita area. Protect your home with expert craftsmanship tailored to our desert environment."
       },
       {
-            "type": "paragraph",
-            "content": "Our comprehensive roofing services include emergency roof repairs for leaks and storm damage, complete roof replacement and installation, professional roof inspections with detailed reports, roof coating and sealing to extend life, tile roof repair and replacement, shingle roof services, flat roof repair and coating, leak detection and repair, preventive maintenance programs, and HOA-compliant roofing solutions. Every service visit includes a thorough roof inspection to identify potential issues before they become costly problems."
+            "type": "cta",
+            "heading": "Schedule Your Roofing Service Today",
+            "content": "Contact Intelligent Design for a detailed roof inspection or repair estimate. Protect your Tortolita home from extreme weather with trusted local experts.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "Why Tortolita Homeowners Choose Us",
-            "level": 3,
-            "content": "Why Tortolita Homeowners Choose Us"
-      },
-      {
-            "type": "list",
-            "content": "24/7 Emergency Response: Available around the clock for urgent roofing needs | Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals | Quality Materials: Premium roofing products rated for Arizona climate | Fast Service: Same-day and emergency service throughout Tortolita | Comprehensive Warranties: Workmanship and manufacturer warranties",
-            "items": [
-                  "24/7 Emergency Response: Available around the clock for urgent roofing needs",
-                  "Licensed Arizona Roofers: Fully licensed, bonded, and insured professionals",
-                  "Quality Materials: Premium roofing products rated for Arizona climate",
-                  "Fast Service: Same-day and emergency service throughout Tortolita",
-                  "Comprehensive Warranties: Workmanship and manufacturer warranties"
-            ]
-      },
-      {
-            "type": "heading",
-            "heading": "Complete Roofing Services for Tortolita",
+            "heading": "Why Tortolita Homeowners Choose Intelligent Design",
             "level": 2,
-            "content": "Complete Roofing Services for Tortolita"
+            "content": "Why Tortolita Homeowners Choose Intelligent Design"
       },
       {
             "type": "paragraph",
-            "content": "Emergency Roof Repair - Roofing emergencies don't wait for business hours. Our 24/7 emergency roofers respond quickly to storm damage, severe leaks, structural concerns, and wind damage throughout Tortolita. We arrive with tarps, tools, and materials to provide temporary protection and permanent repairs, minimizing interior water damage to your home."
+            "content": "Our 4.97-star Google rating and over 23,000 reviews reflect decades of trusted service in Tortolita and the greater Tucson area. Homeowners rely on our licensed technicians for honest advice, fast responses, and quality workmanship that lasts through our region\u2019s harsh weather cycles."
       },
       {
             "type": "paragraph",
-            "content": "Roof Replacement & Installation - From traditional tile roofs to modern shingle systems, we handle all roof replacement needs. Our services include professional removal of old roofing, proper deck preparation and repair, expert installation using quality materials, compliance with local building codes, and thorough cleanup. We help Tortolita homeowners select roofing materials that provide maximum protection, energy efficiency, and curb appeal."
-      },
-      {
-            "type": "paragraph",
-            "content": "Roof Inspection & Coating - Regular inspections extend roof life and prevent costly damage. We provide comprehensive roof inspections with detailed reports, professional roof coating to seal and protect, preventive maintenance to address small issues, and thermal imaging to detect hidden moisture. Our maintenance programs keep Tortolita roofing systems performing optimally year after year."
-      },
-      {
-            "type": "paragraph",
-            "content": "Tile & Specialty Roofing - Arizona's architectural heritage features distinctive tile roofing that requires specialized knowledge. Our tile roofing expertise includes cracked tile replacement, underlayment repair, proper tile fitting and sealing, and color-matched tiles for seamless repairs. We preserve the beauty and integrity of Tortolita's tile roofs while ensuring maximum weather protection."
+            "content": "Every roofing project includes a comprehensive warranty to ensure your investment is protected. Our team\u2019s deep experience with tile, shingle, and flat roofing means you get durable solutions tailored to Tortolita\u2019s specific climate challenges."
       },
       {
             "type": "heading",
-            "heading": "Roofing Expertise You Can Trust",
+            "heading": "Serving the Tortolita Community",
             "level": 2,
-            "content": "Roofing Expertise You Can Trust"
+            "content": "Serving the Tortolita Community"
       },
       {
             "type": "paragraph",
-            "content": "46+ years Serving Tortolita"
+            "content": "Proudly serving homeowners near local landmarks like Honey Bee Canyon Petroglyphs, Tortolita Preserve Trailhead, Wild Burro Trailhead, and Honey Bee Canyon Park. After your roofing service, enjoy a meal at neighborhood favorites such as Ol\u2019 Pot Hole, The Highlands Bar & Grille, or Sky Rider Cafe."
       },
       {
-            "type": "paragraph",
-            "content": "Local expertise since 1979. We know Tortolita roofing systems, climate challenges, and code requirements inside and out."
-      },
-      {
-            "type": "paragraph",
-            "content": "Licensed Master Roofers"
-      },
-      {
-            "type": "paragraph",
-            "content": "Arizona-licensed professionals with extensive training and certifications. Background-checked, drug-tested, and uniformed."
-      },
-      {
-            "type": "paragraph",
-            "content": "Quality Materials"
-      },
-      {
-            "type": "paragraph",
-            "content": "Premium roofing products from trusted manufacturers, all rated for Arizona's intense sun and weather conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "23,000+ Five-Star Reviews"
-      },
-      {
-            "type": "paragraph",
-            "content": "BBB A+ rated with thousands of satisfied Tortolita customers. Our reputation speaks to our quality and service."
-      },
-      {
-            "type": "paragraph",
-            "content": "Honest Assessments"
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide repair vs. replace guidance based on what's best for you, not our bottom line. No high-pressure sales."
-      },
-      {
-            "type": "paragraph",
-            "content": "Comprehensive Warranties"
-      },
-      {
-            "type": "paragraph",
-            "content": "Industry-leading warranties on workmanship and materials. We stand behind every job with 100% satisfaction guarantee."
-      },
-      {
-            "type": "heading",
-            "heading": "Tortolita Roofing FAQs",
-            "level": 2,
-            "content": "Tortolita Roofing FAQs"
-      },
-      {
-            "type": "heading",
-            "heading": "More Services in Tortolita",
-            "level": 2,
-            "content": "More Services in Tortolita"
-      },
-      {
-            "type": "heading",
-            "heading": "Need a Roofer in Tortolita?",
-            "level": 2,
-            "content": "Need a Roofer in Tortolita?"
-      },
-      {
-            "type": "paragraph",
-            "content": "Get expert roofing service from licensed professionals. Same-day service available. Call now or schedule online."
-      },
-      {
-            "type": "heading",
-            "heading": "Address",
-            "level": 3,
-            "content": "Address"
-      },
-      {
-            "type": "paragraph",
-            "content": "1145 E Fort Lowell Rd Tucson, AZ 85719"
-      },
-      {
-            "type": "heading",
-            "heading": "Phone",
-            "level": 3,
-            "content": "Phone"
-      },
-      {
-            "type": "paragraph",
-            "content": "(520) 333-2665"
-      },
-      {
-            "type": "heading",
-            "heading": "Service Area",
-            "level": 3,
-            "content": "Service Area"
-      },
-      {
-            "type": "paragraph",
-            "content": "Serving Tortolita & Greater Tucson"
+            "type": "cta",
+            "heading": "Protect Your Roof With Intelligent Design",
+            "content": "Call now to schedule your roofing inspection or repair and experience trusted service in Tortolita, AZ.",
+            "buttonText": "Call (520) 333-2665",
+            "buttonLink": "tel:+15203332665"
       }
 ]
   },
