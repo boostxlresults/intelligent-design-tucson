@@ -1,6 +1,7 @@
 // Optimized Plumbing page for Avra Valley - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { drainClearingFAQs } from '@/data/faqs/plumbing';
 
 export const plumbingavravalleyData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const plumbingavravalleyData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: drainClearingFAQs,
   commonQuestions: getRefinementQuestions('Plumbing', 'Avra Valley'),
 };

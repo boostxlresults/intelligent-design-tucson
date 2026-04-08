@@ -1,6 +1,7 @@
 // Optimized Heating page for Avra Valley - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { heatingRepairFAQs } from '@/data/faqs/heating';
 
 export const heatingavravalleyData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const heatingavravalleyData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: heatingRepairFAQs,
   commonQuestions: getRefinementQuestions('Heating', 'Avra Valley'),
 };

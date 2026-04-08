@@ -1,6 +1,7 @@
 // Optimized HVAC & AC page for SaddleBrooke / Catalina - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { acRepairFAQs } from '@/data/faqs/hvac';
 
 export const hvacsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: acRepairFAQs,
   commonQuestions: getRefinementQuestions('HVAC & AC', 'SaddleBrooke / Catalina'),
 };

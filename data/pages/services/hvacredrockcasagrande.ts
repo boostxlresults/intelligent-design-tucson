@@ -1,6 +1,7 @@
 // Optimized HVAC & AC page for Red Rock / Casa Grande - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { acRepairFAQs } from '@/data/faqs/hvac';
 
 export const hvacredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const hvacredrockcasagrandeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: acRepairFAQs,
   commonQuestions: getRefinementQuestions('HVAC & AC', 'Red Rock / Casa Grande'),
 };

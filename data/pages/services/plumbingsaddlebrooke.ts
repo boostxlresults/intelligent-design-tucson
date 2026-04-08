@@ -73,7 +73,8 @@ export const plumbingsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design"
+            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -85,7 +86,8 @@ export const plumbingsaddlebrookeData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the SaddleBrooke Community"
+            "heading": "Serving the SaddleBrooke Community",
+            "content": ""
       },
       {
             "type": "paragraph",

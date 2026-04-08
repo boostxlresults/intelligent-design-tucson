@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for Gladden Farms - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewergladdenfarmsData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const drainsewergladdenfarmsData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'Gladden Farms'),
 };

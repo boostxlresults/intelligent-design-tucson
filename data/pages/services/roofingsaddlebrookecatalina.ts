@@ -1,6 +1,7 @@
 // Optimized Roofing page for SaddleBrooke / Catalina - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 
 export const roofingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -100,6 +101,6 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: residentialRoofRepairFAQs,
   commonQuestions: getRefinementQuestions('Roofing', 'SaddleBrooke / Catalina'),
 };

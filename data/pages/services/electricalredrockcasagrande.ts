@@ -1,6 +1,7 @@
 // Optimized Electrical page for Red Rock / Casa Grande - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { electricalRepairFAQs } from '@/data/faqs/electrical';
 
 export const electricalredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const electricalredrockcasagrandeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: electricalRepairFAQs,
   commonQuestions: getRefinementQuestions('Electrical', 'Red Rock / Casa Grande'),
 };

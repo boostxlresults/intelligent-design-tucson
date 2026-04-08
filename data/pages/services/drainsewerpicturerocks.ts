@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for Picture Rocks - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewerpicturerocksData: ServicePageData = {
   // SEO & Meta
@@ -72,7 +73,8 @@ export const drainsewerpicturerocksData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Picture Rocks Homeowners Choose Intelligent Design"
+            "heading": "Why Picture Rocks Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -84,7 +86,8 @@ export const drainsewerpicturerocksData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Picture Rocks Community"
+            "heading": "Serving the Picture Rocks Community",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -99,6 +102,6 @@ export const drainsewerpicturerocksData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'Picture Rocks'),
 };

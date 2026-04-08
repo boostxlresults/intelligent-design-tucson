@@ -1,6 +1,7 @@
 // Optimized Roofing page for Catalina Foothills - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
 
 export const roofingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const roofingcatalinafoothillsData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: residentialRoofRepairFAQs,
   commonQuestions: getRefinementQuestions('Roofing', 'Catalina Foothills'),
 };

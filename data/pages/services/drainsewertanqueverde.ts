@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for Tanque Verde - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewertanqueverdeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const drainsewertanqueverdeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'Tanque Verde'),
 };

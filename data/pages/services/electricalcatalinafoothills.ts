@@ -1,6 +1,7 @@
 // Optimized Electrical page for Catalina Foothills - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { electricalRepairFAQs } from '@/data/faqs/electrical';
 
 export const electricalcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const electricalcatalinafoothillsData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: electricalRepairFAQs,
   commonQuestions: getRefinementQuestions('Electrical', 'Catalina Foothills'),
 };

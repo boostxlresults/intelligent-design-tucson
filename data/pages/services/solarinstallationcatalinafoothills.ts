@@ -1,6 +1,7 @@
 // Optimized Solar Installation page for Catalina Foothills - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 
 export const solarinstallationcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: residentialSolarInstallationFAQs,
   commonQuestions: getRefinementQuestions('Solar Installation', 'Catalina Foothills'),
 };

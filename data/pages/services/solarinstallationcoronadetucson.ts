@@ -73,7 +73,8 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Corona de Tucson Homeowners Choose Intelligent Design"
+            "heading": "Why Corona de Tucson Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -85,7 +86,8 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Corona de Tucson Community"
+            "heading": "Serving the Corona de Tucson Community",
+            "content": ""
       },
       {
             "type": "paragraph",

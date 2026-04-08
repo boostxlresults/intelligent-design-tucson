@@ -73,7 +73,8 @@ export const solarinstallationritaranchData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design"
+            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -85,7 +86,8 @@ export const solarinstallationritaranchData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Rita Ranch Community"
+            "heading": "Serving the Rita Ranch Community",
+            "content": ""
       },
       {
             "type": "paragraph",

@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for SaddleBrooke / Catalina - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
@@ -72,7 +73,8 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why SaddleBrooke / Catalina Homeowners Choose Intelligent Design"
+            "heading": "Why SaddleBrooke / Catalina Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -84,7 +86,8 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the SaddleBrooke / Catalina Community"
+            "heading": "Serving the SaddleBrooke / Catalina Community",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -99,6 +102,6 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'SaddleBrooke / Catalina'),
 };

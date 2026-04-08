@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for Corona de Tucson - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewercoronadetucsonData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const drainsewercoronadetucsonData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'Corona de Tucson'),
 };

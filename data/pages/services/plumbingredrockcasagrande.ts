@@ -1,6 +1,7 @@
 // Optimized Plumbing page for Red Rock / Casa Grande - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { drainClearingFAQs } from '@/data/faqs/plumbing';
 
 export const plumbingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: drainClearingFAQs,
   commonQuestions: getRefinementQuestions('Plumbing', 'Red Rock / Casa Grande'),
 };

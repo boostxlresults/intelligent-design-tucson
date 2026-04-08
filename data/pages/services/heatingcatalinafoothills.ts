@@ -1,6 +1,7 @@
 // Optimized Heating page for Catalina Foothills - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { heatingRepairFAQs } from '@/data/faqs/heating';
 
 export const heatingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const heatingcatalinafoothillsData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: heatingRepairFAQs,
   commonQuestions: getRefinementQuestions('Heating', 'Catalina Foothills'),
 };

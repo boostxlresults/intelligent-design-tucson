@@ -73,7 +73,8 @@ export const plumbingorovalleyData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Oro Valley Homeowners Choose Intelligent Design"
+            "heading": "Why Oro Valley Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -85,7 +86,8 @@ export const plumbingorovalleyData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Oro Valley Community"
+            "heading": "Serving the Oro Valley Community",
+            "content": ""
       },
       {
             "type": "paragraph",

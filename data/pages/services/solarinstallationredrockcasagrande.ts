@@ -1,6 +1,7 @@
 // Optimized Solar Installation page for Red Rock / Casa Grande - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
 
 export const solarinstallationredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: residentialSolarInstallationFAQs,
   commonQuestions: getRefinementQuestions('Solar Installation', 'Red Rock / Casa Grande'),
 };

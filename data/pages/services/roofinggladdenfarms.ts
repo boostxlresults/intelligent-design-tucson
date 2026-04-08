@@ -73,7 +73,8 @@ export const roofinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design"
+            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -85,7 +86,8 @@ export const roofinggladdenfarmsData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Gladden Farms Community"
+            "heading": "Serving the Gladden Farms Community",
+            "content": ""
       },
       {
             "type": "paragraph",

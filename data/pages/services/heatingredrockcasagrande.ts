@@ -1,6 +1,7 @@
 // Optimized Heating page for Red Rock / Casa Grande - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { heatingRepairFAQs } from '@/data/faqs/heating';
 
 export const heatingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
@@ -103,6 +104,6 @@ export const heatingredrockcasagrandeData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: heatingRepairFAQs,
   commonQuestions: getRefinementQuestions('Heating', 'Red Rock / Casa Grande'),
 };

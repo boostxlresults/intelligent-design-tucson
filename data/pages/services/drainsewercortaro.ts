@@ -1,6 +1,7 @@
 // Optimized Drain & Sewer page for Cortaro - SERP API enriched
 import type { ServicePageData } from '@/types/services';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
 
 export const drainsewercortaroData: ServicePageData = {
   // SEO & Meta
@@ -72,7 +73,8 @@ export const drainsewercortaroData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Why Cortaro Homeowners Choose Intelligent Design"
+            "heading": "Why Cortaro Homeowners Choose Intelligent Design",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -84,7 +86,8 @@ export const drainsewercortaroData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "Serving the Cortaro Community"
+            "heading": "Serving the Cortaro Community",
+            "content": ""
       },
       {
             "type": "paragraph",
@@ -99,6 +102,6 @@ export const drainsewercortaroData: ServicePageData = {
       }
 ]
   },
-  faqs: getRefinementQuestions,
+  faqs: sewerLineRepairFAQs,
   commonQuestions: getRefinementQuestions('Drain & Sewer', 'Cortaro'),
 };
