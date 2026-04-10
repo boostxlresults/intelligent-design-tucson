@@ -83,7 +83,7 @@ export function getPlumbingRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you offer drain cleaning in ${location}?`,
-      answer: `Yes. Intelligent Design offers professional drain cleaning in ${location} using hydro-jetting, cable machines, and video camera inspection. Our $28.88 drain clearing special covers standard drain clogs. For stubborn blockages, tree root intrusion, or recurring problems, we use sewer camera inspection to identify the exact issue and recommend the right solution.`
+      answer: `Yes. Intelligent Design offers professional drain cleaning in ${location} using hydro-jetting, cable machines, and video camera inspection. Our $88.88 drain clearing special covers standard drain clogs. For stubborn blockages, tree root intrusion, or recurring problems, we use sewer camera inspection to identify the exact issue and recommend the right solution.`
     },
     {
       question: `Can you fix a slab leak in ${location}?`,
@@ -239,7 +239,7 @@ export function getDrainClearingRefinementQuestions(location: string): FAQItem[]
   return [
     {
       question: `How much does drain cleaning cost in ${location}?`,
-      answer: `Intelligent Design offers drain clearing in ${location} starting at just $28.88 for our special. Standard drain cleaning for kitchen, bathroom, or laundry drains is very affordable. For more complex issues like main sewer line blockages or tree root intrusion, costs vary based on the method needed (cable machine vs. hydro-jetting). We always provide upfront pricing.`
+      answer: `Intelligent Design offers drain clearing in ${location} starting at just $88.88 for our special. Standard drain cleaning for kitchen, bathroom, or laundry drains is very affordable. For more complex issues like main sewer line blockages or tree root intrusion, costs vary based on the method needed (cable machine vs. hydro-jetting). We always provide upfront pricing.`
     },
     {
       question: `Do you offer emergency drain service in ${location}?`,

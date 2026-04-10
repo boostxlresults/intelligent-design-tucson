@@ -35,7 +35,7 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   },
   {
     "title": "Upfront Pricing",
-    "description": "$28.88 drain clearing special. No hidden fees. Clear estimates before work begins."
+    "description": "$88.88 drain clearing special. No hidden fees. Clear estimates before work begins."
   },
   {
     "title": "Licensed Master Plumbers",
