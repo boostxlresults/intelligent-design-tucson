@@ -183,8 +183,18 @@ export function generateArticleSchema(
         'https://www.instagram.com/intelligentdesigntucson/',
         'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
         'https://www.youtube.com/@Idesignac',
+        'https://nextdoor.com/page/intelligent-design-air-conditioning-plumbing-solar-electric/',
+        'https://g.page/r/CajVBZOPuZ56EBE/',
+        'https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z',
+        'https://maps.app.goo.gl/eLz89dNv9q3MdQ9s8',
         'https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256',
-        'https://g.page/r/CajVBZOPuZ56EBE/'
+        'https://www.yelp.com/biz/intelligent-design-air-conditioning-plumbing-solar-and-electric-tucson-2',
+        'https://www.angi.com/companylist/us/az/tucson/intelligent-design-air-conditioning%2C-plumbing%2C-solar%2C-and-electric-reviews-6575296.htm',
+        'https://www.homeadvisor.com/rated.IntelligentDesignAir.53385619.html',
+        'https://www.thumbtack.com/az/tucson/central-air-conditioning-installation/intelligent-design-ac-plumbing-solar-electric/service/548875304630370309',
+        'https://www.yellowpages.com/tucson-az/mip/intelligent-design-air-conditioning-plumbing-solar-electric-578628936',
+        'https://www.merchantcircle.com/intelligent-design-air-conditioning-plumbing-solar-electric-tucson-az',
+        'https://www.chamberofcommerce.com/business-directory/arizona/tucson/air-conditioning-contractor/2017386018-intelligent-design-air-conditioning-plumbing-solar-electric',
       ]
     },
     publisher: {
@@ -268,7 +278,16 @@ export function generateVideoSchema(
         'https://www.facebook.com/IDesignAC',
         'https://www.instagram.com/intelligentdesigntucson/',
         'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
-        'https://www.youtube.com/@Idesignac'
+        'https://www.youtube.com/@Idesignac',
+        'https://nextdoor.com/page/intelligent-design-air-conditioning-plumbing-solar-electric/',
+        'https://g.page/r/CajVBZOPuZ56EBE/',
+        'https://www.google.com/maps/place/Intelligent+Design+Air+Conditioning/@32.2655122,-110.9540688,17z',
+        'https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256',
+        'https://www.yelp.com/biz/intelligent-design-air-conditioning-plumbing-solar-and-electric-tucson-2',
+        'https://www.angi.com/companylist/us/az/tucson/intelligent-design-air-conditioning%2C-plumbing%2C-solar%2C-and-electric-reviews-6575296.htm',
+        'https://www.homeadvisor.com/rated.IntelligentDesignAir.53385619.html',
+        'https://www.yellowpages.com/tucson-az/mip/intelligent-design-air-conditioning-plumbing-solar-electric-578628936',
+        'https://www.merchantcircle.com/intelligent-design-air-conditioning-plumbing-solar-electric-tucson-az',
       ]
     },
     potentialAction: {
