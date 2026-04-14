@@ -4,6 +4,16 @@
 
 # === TRADITIONAL SEARCH ENGINES ===
 User-agent: *
+
+# Block backend, admin, and build artifact paths
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+
+# Allow all public content
 Allow: /
 
 # === AI SEARCH CRAWLERS ===
@@ -33,39 +43,3 @@ Allow: /
 
 # === SITEMAPS ===
 Sitemap: https://www.idesignac.com/sitemap.xml
-
-# === CRAWL OPTIMIZATION ===
-# Moderate crawl delay to prevent server overload
-Crawl-delay: 1
-
-# === BLOCK BACKEND/ADMIN PATHS ===
-Disallow: /api/
-Disallow: /_next/
-Disallow: /admin/
-Disallow: /cgi-bin/
-Disallow: /tmp/
-Disallow: /private/
-
-# === ALLOW ALL PUBLIC CONTENT ===
-# Explicitly allow blog content
-Allow: /blog/
-
-# Explicitly allow all service pages
-Allow: /*-tucson
-Allow: /*-oro-valley
-Allow: /*-marana
-Allow: /*-green-valley
-Allow: /hvac-*
-Allow: /plumbing-*
-Allow: /electrical-*
-Allow: /solar-*
-Allow: /roofing-*
-Allow: /heating-*
-
-# Explicitly allow location pages
-Allow: /tucson
-Allow: /oro-valley
-Allow: /marana
-Allow: /sahuarita
-Allow: /vail
-Allow: /green-valley

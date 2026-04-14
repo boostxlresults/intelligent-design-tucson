@@ -14,6 +14,18 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/electrical-catalinafoothills': '/services/electrical-catalina-foothills',
   '/hvac-tanqueverde': '/services/hvac-tanque-verde',
 
+  // ===== CORE SERVICE SHORTCUT REDIRECTS =====
+  '/ac-repair': '/services/ac-repair-tucson',
+  '/ac-installation': '/services/ac-installation-tucson',
+  '/heating-repair': '/services/heater-repair-tucson',
+  '/ac-service': '/services/ac-service-tucson',
+  '/ac-tune-up': '/services/ac-tuneup-tucson',
+  '/heater-installation': '/services/heater-installation-tucson',
+  '/duct-cleaning': '/services/duct-cleaning-tucson',
+  '/duct-repair': '/services/duct-repair-tucson',
+  '/duct-sealing': '/services/duct-sealing-tucson',
+  '/furnaces': '/services/furnaces-tucson',
+
   // ===== CORE PAGES =====
   '/commercial-maintenance': '/services/commercial-maintenance',
   '/plumbing': '/services/plumbing',

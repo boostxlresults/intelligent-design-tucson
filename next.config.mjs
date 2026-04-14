@@ -22,6 +22,7 @@ const nextConfig = {
     ignoreBuildErrors: false,
   },
   reactStrictMode: true,
+  trailingSlash: false,
   output: "standalone",
   allowedDevOrigins: ["*.replit.dev", "*.kirk.replit.dev"],
   // Tree-shake large icon/UI libraries to reduce unused JS bundle size
