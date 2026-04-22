@@ -60,7 +60,8 @@ import {
   Gift,
   GraduationCap,
   MessageSquare,
-  Lock
+  Lock,
+  Calculator
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
@@ -907,6 +908,15 @@ export default function Header() {
               <Phone className="w-5 h-5 flex-shrink-0" />
               <span className="text-lg">(520) 333-2665</span>
             </a>
+
+            <Link
+              href="/free-hvac-quote"
+              className="hidden lg:flex items-center gap-2 bg-green-500 border-2 border-green-600 text-white hover:bg-green-600 px-4 py-2 rounded-md font-bold transition-colors whitespace-nowrap"
+              data-testid="link-instant-quote"
+            >
+              <Calculator className="w-5 h-5 flex-shrink-0" />
+              <span className="text-lg">Instant Online Quote</span>
+            </Link>
             
             <div className="hidden lg:block">
               <SchedulerEmbed
@@ -1280,6 +1290,15 @@ export default function Header() {
                     <Phone className="w-5 h-5" />
                     (520) 333-2665
                   </a>
+                  <Link
+                    href="/free-hvac-quote"
+                    className="flex items-center justify-center gap-2 bg-green-500 border-2 border-green-600 text-white hover:bg-green-600 px-4 py-3 rounded-md font-bold transition-colors text-lg w-full"
+                    data-testid="link-instant-quote-mobile"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    <Calculator className="w-5 h-5" />
+                    Instant Online Quote
+                  </Link>
                   <SchedulerEmbed
                     triggerText="Schedule Service"
                     variant="default"

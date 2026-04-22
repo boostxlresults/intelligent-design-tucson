@@ -17,11 +17,46 @@ const productSchemas = getPageSchemas({
 });
 
 export const metadata: Metadata = generateFullMetadata({
-  title: 'Free Online Water Heater Quote Tucson | Tank & Tankless Pricing',
-  description: 'Get instant water heater pricing—tank or tankless—in under 2 minutes. Compare gas and electric options with real installation costs. No sales pressure. Same-day installation available from Tucson\'s top-rated plumbers.',
+  title: 'Free Online Water Heater Estimate Tucson | Instant Tank & Tankless Pricing Calculator',
+  description: 'Get a free, instant online water heater estimate in under 2 minutes. Use our on-screen pricing calculator to compare tank vs. tankless, gas vs. electric with real installation costs. No home visit required—instant estimates from Tucson\'s top-rated plumbers.',
   canonicalUrl: '/water-heater-quote',
   type: 'website'
 });
+
+const softwareAppSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Intelligent Design Free Online Water Heater Estimate Calculator",
+  "description": "Free instant online water heater estimator for Tucson homeowners. Get an on-screen estimate for tank and tankless water heaters, gas and electric options in under 2 minutes. See budget-friendly and premium packages with real installation pricing — no home visit required.",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Web",
+  "url": "https://www.idesignac.com/water-heater-quote",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tucson",
+      "addressRegion": "AZ",
+      "postalCode": "85713"
+    },
+    "telephone": "+1-520-333-2665",
+    "url": "https://www.idesignac.com"
+  },
+  "featureList": [
+    "Instant on-screen water heater estimate",
+    "No home visit required",
+    "Compare tank vs. tankless options",
+    "See real pricing for gas and electric water heaters",
+    "Available 24/7",
+    "Same-day installation available"
+  ]
+};
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -100,6 +135,10 @@ export default function WaterHeaterQuotePage() {
       <ClientSchemas schemas={productSchemas} />
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareAppSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       
@@ -108,13 +147,13 @@ export default function WaterHeaterQuotePage() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6" data-testid="heading-hero">
-              Free Online Water Heater Quote
+              Free Instant Online Water Heater Estimate
             </h1>
             <p className="text-xl md:text-2xl mb-4" data-testid="text-hero-subtitle">
-              Get instant pricing for tank or tankless water heaters
+              Get an instant on-screen estimate for tank or tankless water heaters
             </p>
             <p className="text-lg opacity-90 mb-6" data-testid="text-hero-tagline">
-              Compare options and prices in 2 minutes—no sales pressure
+              No home visit required—see real pricing instantly in under 2 minutes
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm md:text-base">
               <span className="bg-white/20 px-4 py-2 rounded-full">Tank Water Heaters</span>
@@ -129,9 +168,9 @@ export default function WaterHeaterQuotePage() {
       {/* Failsafe Quote CTA */}
       <QuoteCallout
         journeyType="waterHeaterQuote"
-        heading="Get a Water Heater Quote."
-        description="Answer a few quick questions, get an instant on-screen quote, and schedule installation."
-        buttonText="Let's Go!"
+        heading="Get Your Instant Water Heater Estimate"
+        description="Answer a few quick questions, get an instant on-screen estimate with real pricing, and schedule installation when you're ready."
+        buttonText="Get My Free Estimate"
       />
 
       {/* Intro Content Section */}
@@ -140,10 +179,10 @@ export default function WaterHeaterQuotePage() {
           <div className="max-w-4xl mx-auto prose prose-lg">
             <h2 className="text-3xl font-bold text-center mb-8">How Much Does a New Water Heater Cost in Tucson?</h2>
             <p className="text-muted-foreground text-lg leading-relaxed">
-              Need a new water heater for your Tucson home? Our free online quote calculator gives you real, transparent 
-              pricing for tank and tankless water heaters in under 2 minutes—no salesperson, no pressure. Simply answer 
-              a few questions about your household size and hot water needs, and you'll see accurate installation 
-              estimates for gas and electric options from trusted brands.
+              Need a new water heater for your Tucson home? Our free instant online water heater estimator gives you real, transparent 
+              pricing for tank and tankless water heaters in under 2 minutes—no salesperson, no home visit required. Simply answer 
+              a few questions about your household size and hot water needs, and you'll see an instant on-screen estimate for 
+              gas and electric options with budget-friendly and premium packages from trusted brands. Our online estimate tool is available 24/7.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
               <strong>Tucson water heater costs typically range from $1,200 to $4,500+</strong> depending on type 

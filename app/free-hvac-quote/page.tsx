@@ -17,11 +17,46 @@ const productSchemas = getPageSchemas({
 });
 
 export const metadata: Metadata = generateFullMetadata({
-  title: 'Free Online HVAC Quote Tucson | AC System Pricing Calculator',
-  description: 'Get a free HVAC quote online in under 2 minutes. See real pricing for central AC, heat pumps, and ductless systems in Tucson. No sales pressure—just honest estimates from Arizona\'s #1-rated HVAC company with 23,000+ five-star reviews.',
+  title: 'Free Online HVAC Estimate Tucson | Instant AC Quote & Pricing Calculator',
+  description: 'Get a free, instant online HVAC estimate in under 2 minutes. Use our on-screen pricing calculator to see real costs for central AC, heat pumps, and ductless systems in Tucson. No home visit required—instant estimates from Arizona\'s #1-rated HVAC company with 23,000+ five-star reviews.',
   canonicalUrl: '/free-hvac-quote',
   type: 'website'
 });
+
+const softwareAppSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Intelligent Design Free Online HVAC Estimate Calculator",
+  "description": "Free instant online HVAC estimator for Tucson homeowners. Get an on-screen estimate for central AC, heat pumps, ductless mini-splits, and package units in under 2 minutes. See budget-friendly and premium packages with real pricing — no home visit required.",
+  "applicationCategory": "UtilitiesApplication",
+  "operatingSystem": "Web",
+  "url": "https://www.idesignac.com/free-hvac-quote",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Tucson",
+      "addressRegion": "AZ",
+      "postalCode": "85713"
+    },
+    "telephone": "+1-520-333-2665",
+    "url": "https://www.idesignac.com"
+  },
+  "featureList": [
+    "Instant on-screen HVAC estimate",
+    "No home visit required",
+    "Compare budget-friendly and premium AC packages",
+    "See real pricing for central AC, heat pumps, ductless mini-splits",
+    "Available 24/7",
+    "Financing options displayed"
+  ]
+};
 
 const faqSchema = {
   "@context": "https://schema.org",
@@ -100,6 +135,10 @@ export default function FreeHVACQuotePage() {
       <ClientSchemas schemas={productSchemas} />
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareAppSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       
@@ -108,13 +147,13 @@ export default function FreeHVACQuotePage() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6" data-testid="heading-hero">
-              Free Online HVAC Quote
+              Free Instant Online HVAC Estimate
             </h1>
             <p className="text-xl md:text-2xl mb-4" data-testid="text-hero-subtitle">
-              Get real pricing for your new HVAC system in under 2 minutes
+              Get an instant on-screen estimate for your new AC system in under 2 minutes
             </p>
             <p className="text-lg opacity-90 mb-6" data-testid="text-hero-tagline">
-              No pressure, no surprises—just honest pricing from Tucson's #1-rated AC company
+              No home visit required—see real pricing instantly from Tucson's #1-rated HVAC company
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm md:text-base">
               <span className="bg-white/20 px-4 py-2 rounded-full">Central AC Systems</span>
@@ -129,9 +168,9 @@ export default function FreeHVACQuotePage() {
       {/* Failsafe Quote CTA */}
       <QuoteCallout
         journeyType="systemQuote"
-        heading="Get a System Quote."
-        description="Answer a few quick questions, get an instant on-screen quote, and schedule a home visit."
-        buttonText="Let's Go!"
+        heading="Get Your Instant Online Estimate"
+        description="Answer a few quick questions, get an instant on-screen estimate with real pricing, and schedule a home visit when you're ready."
+        buttonText="Get My Free Estimate"
       />
 
       {/* Intro Content Section */}
@@ -140,9 +179,9 @@ export default function FreeHVACQuotePage() {
           <div className="max-w-4xl mx-auto prose prose-lg">
             <h2 className="text-3xl font-bold text-center mb-8">How Much Does a New HVAC System Cost in Tucson?</h2>
             <p className="text-muted-foreground text-lg leading-relaxed">
-              Shopping for a new air conditioning system in Tucson? Our free online HVAC quote calculator gives you real, 
-              transparent pricing in under 2 minutes—no salesperson required. Simply answer a few questions about your home, 
-              and you'll see accurate estimates for central AC systems, heat pumps, ductless mini-splits, and package units 
+              Shopping for a new air conditioning system in Tucson? Our free instant online HVAC estimator gives you real, 
+              transparent pricing in under 2 minutes—no salesperson, no home visit required. Simply answer a few questions about your home, 
+              and you'll see an instant on-screen estimate for central AC systems, heat pumps, ductless mini-splits, and package units 
               from top brands like Lennox, Trane, Carrier, and Rheem.
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
@@ -153,8 +192,8 @@ export default function FreeHVACQuotePage() {
             </p>
             <p className="text-muted-foreground text-lg leading-relaxed">
               At Intelligent Design, we believe you deserve upfront pricing without high-pressure sales tactics. That's why 
-              we created this instant quote tool—so you can explore your options, compare systems, and make an informed 
-              decision on your timeline. When you're ready, schedule a free in-home consultation to finalize specifications 
+              we built this instant online estimator—so you can explore your options, compare systems, see budget-friendly and premium 
+              packages, and make an informed decision on your timeline. Our online estimate tool is available 24/7. When you're ready, schedule a free in-home consultation to finalize specifications 
               and discuss <Link href="/financing" className="text-primary hover:underline">financing options</Link> that fit your budget.
             </p>
           </div>
