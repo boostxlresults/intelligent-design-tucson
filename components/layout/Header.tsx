@@ -911,11 +911,11 @@ export default function Header() {
 
             <Link
               href="/free-hvac-quote"
-              className="hidden lg:flex items-center gap-2 bg-green-500 border-2 border-green-600 text-white hover:bg-green-600 px-4 py-2 rounded-md font-bold transition-colors whitespace-nowrap"
+              className="hidden lg:flex items-center gap-2 bg-green-500 border-2 border-green-600 text-white hover:bg-green-600 px-3 py-2 rounded-md font-bold transition-colors whitespace-nowrap mr-2 text-sm"
               data-testid="link-instant-quote"
             >
-              <Calculator className="w-5 h-5 flex-shrink-0" />
-              <span className="text-lg">Instant Online Quote</span>
+              <Calculator className="w-4 h-4 flex-shrink-0" />
+              <span>Instant Online HVAC Quote</span>
             </Link>
             
             <div className="hidden lg:block">
@@ -1297,7 +1297,7 @@ export default function Header() {
                     onClick={() => setMobileMenuOpen(false)}
                   >
                     <Calculator className="w-5 h-5" />
-                    Instant Online Quote
+                    Instant Online HVAC Quote
                   </Link>
                   <SchedulerEmbed
                     triggerText="Schedule Service"
