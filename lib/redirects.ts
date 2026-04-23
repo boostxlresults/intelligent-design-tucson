@@ -1250,6 +1250,40 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/wp-content/cache/min/1/?ver=1746789610?formKey%3Dc256c968-e6db-11ee-83b4-0258dbbb2fa3&visitorId=77fd3de8-f00b-4333-b349-5b25714a120c&sessionId=e0285cda-cd3c-4272-8aa7-344c0fb7e9bb&referrer=/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/',
   '/wp-content/cache/min/1/?ver=1746789610?formKey%3Dc256c968-e6db-11ee-83b4-0258dbbb2fa3&visitorId=ec75b46b-9668-46f6-afcc-ba3a7768c9a0&sessionId=3862df69-0953-4fc4-b59c-297f156c6b30&referrer=/preparing-your-hvac-system-for-summer-essential-steps-for-optimal-performance': '/',
   '/wp-content/plugins/gravityforms/assets/js/dist': '/',
+
+  // ===== GSC 404 REDIRECTS - April 23, 2026 =====
+  // Blog slug mismatches → redirect to correct existing content
+  '/blog/plumbing/how-repiping-can-improve-your-home-water-quality': '/blog/plumbing/how-repiping-can-improve-your-homes-water-quality',
+  '/blog/hvac/does-turning-off-your-a-c-when-youre-not-home-actually-save-money': '/blog/home-tips/does-turning-off-your-ac-when-youre-not-home-actually-save-m',
+  '/blog/solar/how-solar-power-systems-can-benefit-commercial-property-owners': '/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses',
+  '/blog/solar/8-important-questions-to-ask-solar-panel-installers-before-hiring-them': '/blog/solar/important-questions-to-ask-solar-panel-installers-before-hir',
+  '/blog/solar/8-reasons-why-you-should-use-solar-power': '/blog/solar/reasons-why-you-should-use-solar-power',
+  '/blog/solar/solar-energy-facts-people-should-know': '/blog/solar/why-solar-panel-installers-matter-solar-energy-facts-people-',
+  '/blog/hvac/everything-you-need-to-know-about-advanced-hvac-solutions': '/blog/hvac/everything-you-need-to-know-about-the-advanced-hvac-solution',
+  '/blog/solar/the-benefits-of-hiring-the-1-rated-best-solar-panel-installers-in-tucson': '/blog/solar/benefits-of-hiring-professional-solar-panel-installers',
+  '/blog/solar/how-solar-panel-installers-can-benefit-homeowners': '/blog/solar/how-solar-panel-installers-can-save-you-money',
+  '/blog/solar/business-advantages-of-commercial-solar-energy-systems': '/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses',
+  '/blog/plumbing/tips-for-avoiding-costly-plumbing-repairs': '/blog/plumbing/plumbers-tucson-tips-for-avoiding-costly-plumbing-repairs',
+  '/blog/solar/why-solar-energy-is-the-future': '/blog/solar/why-is-solar-energy-important-for-our-future',
+  // Truncated filename redirects
+  '/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-need': '/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-ne',
+  '/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money': '/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-',
+  '/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer': '/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-s',
+  '/blog/solar/top-qualifications-to-look-for-in-your-upcoming-solar-panel-installers': '/blog/solar/top-qualifications-to-look-for-in-your-upcoming-solar-panel-',
+  // No exact match → redirect to closest related content
+  '/blog/solar/how-solar-power-systems-work-everything-you-need-to-know': '/blog/solar/solar-power-systems-made-simple-how-solar-panels-work',
+  '/blog/solar/how-to-make-an-old-home-more-energy-efficient': '/blog/solar',
+  '/blog/solar/is-a-tucson-solar-home-energy-audit-worth-it': '/blog/solar',
+  '/blog/hvac/can-you-lower-your-ac-costs-with-suntrac-air-conditioning-systems': '/blog/hvac',
+  '/blog/plumbing/why-you-should-consider-repiping-your-home': '/blog/plumbing/7-benefits-of-repiping-your-tucson-home',
+  '/blog/solar/what-is-off-grid-solar-power-system': '/blog/solar/3-types-of-solar-power-systems-which-one-is-right-for-you',
+  '/blog/solar/answering-questions-about-solar-panel-installation': '/blog/solar',
+  '/blog/plumbing/importance-of-regular-maintenance-with-a-professional-plumber-in-tucson': '/blog/plumbing',
+  '/blog/hvac/is-a-burning-smell-normal-when-i-turn-on-the-heater': '/blog/hvac',
+  '/blog/roofing/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing',
+  // Service page redirects
+  '/services/lighting-installation': '/services/lighting-upgrades',
+  '/services/air-conditioning-in-tucson-maintenance-tips-for-businesses': '/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses',
 };
 
 /**
