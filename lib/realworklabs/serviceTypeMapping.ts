@@ -77,7 +77,6 @@ export function getServiceTypeFromSlug(serviceSlug: string): RealWorkLabsService
     slug.includes('roof') ||
     slug.includes('shingle') ||
     slug.includes('tile-roof') ||
-    slug.includes('metal-roof') ||
     slug.includes('flat-roof') ||
     slug.includes('pitched-roof') ||
     slug.includes('skylight')

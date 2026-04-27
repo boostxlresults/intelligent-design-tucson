@@ -624,10 +624,6 @@
       "dataFile": "lightingupgrades",
       "canonicalSlug": "lighting-upgrades"
     },
-    "metal-roofs": {
-      "dataFile": "metalroofs",
-      "canonicalSlug": "metal-roofs"
-    },
     "outdoor-motion-lighting": {
       "dataFile": "outdoormotionlighting",
       "canonicalSlug": "outdoor-motion-lighting"
@@ -1246,7 +1242,6 @@
     "knowledgehub": "knowledge-hub",
     "leakdetection": "leak-detection",
     "lightingupgrades": "lighting-upgrades",
-    "metalroofs": "metal-roofs",
     "outdoormotionlighting": "outdoor-motion-lighting",
     "outletsswitches": "outlets-switches",
     "pitchedroofs": "pitched-roofs",

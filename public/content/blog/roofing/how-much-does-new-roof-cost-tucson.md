@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a New Roof Cost in Tucson?"
-description: Get accurate roof replacement cost estimates for Tucson homes. Compare pricing for tile, shingle, foam, and metal roofing including materials, labor, and factors affecting your total cost.
+description: Get accurate roof replacement cost estimates for Tucson homes. Compare pricing for tile, shingle, foam including materials, labor, and factors affecting your total cost.
 publishedAt: '2026-01-27T12:00:00.000Z'
 updatedAt: '2026-01-27T12:00:00.000Z'
 author: Intelligent Design Team
@@ -29,7 +29,6 @@ For a typical 2,000 square foot Tucson home:
 | Asphalt Shingles | $8,000 - $15,000 | 12-20 years |
 | Foam Roofing (SPF) | $8,000 - $16,000 | Indefinite* |
 | Concrete Tile | $15,000 - $25,000 | 40-50 years |
-| Metal | $15,000 - $30,000 | 40-60 years |
 | Clay Tile | $20,000 - $35,000 | 50-100 years |
 
 *Foam roofing requires recoating every 10-15 years (~$4,000-8,000)
@@ -69,10 +68,8 @@ Your material choice significantly impacts cost:
 - Labor: $2.00-4.00 per sq ft
 - Total: $3.50-7.50 per sq ft installed
 
-**Mid-Range: Foam or Metal**
+**Mid-Range: Foam**
 - Foam materials/labor: $4-8 per sq ft installed
-- Metal materials: $3-8 per sq ft
-- Metal labor: $4-8 per sq ft
 - Total: $7-16 per sq ft installed
 
 **Premium: Tile Roofing**
@@ -170,19 +167,6 @@ Tucson requires permits for roof replacement:
 
 Note: Foam typically applied over existing roof, eliminating removal costs.
 
-### Metal Roofing (Standing Seam)
-
-**2,000 sq ft home (25 squares)**
-
-| Component | Cost Range |
-|-----------|------------|
-| Metal panels | $5,000 - $10,000 |
-| Labor | $6,000 - $12,000 |
-| Removal/disposal | $500 - $1,000 |
-| Underlayment | $500 - $1,000 |
-| Trim and accessories | $1,000 - $3,000 |
-| Permits | $200 - $400 |
-| **Total** | **$15,000 - $30,000** |
 
 ## Hidden Costs to Watch For
 

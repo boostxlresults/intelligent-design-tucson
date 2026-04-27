@@ -51,7 +51,7 @@ Daily swings of 30-40°F create:
 Intense summer storms deliver:
 - Heavy rainfall that tests waterproofing
 - High winds that lift and damage roofing
-- Hail that dents metal and cracks tile
+- Hail that cracks tile
 - Debris impact from tree branches
 
 ## Roof Lifespan by Material in Arizona
@@ -121,27 +121,6 @@ Foam roofing is unique—the foam itself can last indefinitely if the protective
 **Cost Advantage:**
 While other roofs require complete replacement, foam roofs only need recoating—saving thousands over the long term.
 
-### Metal Roofing
-
-**National Lifespan**: 40-70 years
-**Arizona Lifespan**: 40-60 years
-
-Metal roofing performs well in Arizona's climate, though proper installation is critical.
-
-**Factors Affecting Metal Lifespan:**
-- Metal type (aluminum, steel, copper)
-- Coating quality
-- Fastener system (exposed vs. concealed)
-- Installation quality
-- Ventilation
-
-**Signs of Metal Roof Aging:**
-- Fading or chalking
-- Rust spots (steel roofs)
-- Loose fasteners
-- Panel gaps at seams
-- Oil canning (cosmetic waviness)
-
 ### Built-Up Roofing (BUR) and Modified Bitumen
 
 **National Lifespan**: 20-30 years
@@ -205,7 +184,6 @@ Clean gutters prevent water backup that damages roof edges and fascia.
 Some materials benefit from professional maintenance:
 - Foam roof coating renewal
 - Tile roof underlayment inspection
-- Metal roof fastener checks
 
 ## When to Replace vs. Repair
 

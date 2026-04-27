@@ -199,7 +199,7 @@ export function getRoofingRefinementQuestions(location: string): FAQItem[] {
   return [
     {
       question: `Do you offer roof repair in ${location}?`,
-      answer: `Yes. Intelligent Design provides roof repair services in ${location} for all roof types including tile, shingle, flat/TPO, foam, and metal roofs. Common repairs include cracked or missing tiles, flashing repair, leak repair, monsoon damage, and sun damage. We offer free roof inspections and same-day emergency repair for active leaks.`
+      answer: `Yes. Intelligent Design provides roof repair services in ${location} for all roof types including tile, shingle, flat/TPO, and foam roofs. Common repairs include cracked or missing tiles, flashing repair, leak repair, monsoon damage, and sun damage. We offer free roof inspections and same-day emergency repair for active leaks.`
     },
     {
       question: `How much does a new roof cost in ${location}?`,

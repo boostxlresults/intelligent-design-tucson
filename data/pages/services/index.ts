@@ -164,7 +164,6 @@ export { indoorairqualityData } from './indoorairquality';
 export { knowledgehubData } from './knowledgehub';
 export { leakdetectionData } from './leakdetection';
 export { lightingupgradesData } from './lightingupgrades';
-export { metalroofsData } from './metalroofs';
 export { outdoormotionlightingData } from './outdoormotionlighting';
 export { outletsswitchesData } from './outletsswitches';
 export { pitchedroofsData } from './pitchedroofs';

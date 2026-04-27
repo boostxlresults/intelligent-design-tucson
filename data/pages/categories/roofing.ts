@@ -59,12 +59,6 @@ export const roofingCategoryData: ServiceCategoryData = {
       slug: 'flat-roofs',
       description: 'Flat roof specialists for installation, repair, and coating. Common in Tucson homes.',
       image: '/generated_images/commercial_flat_roof_system_7bd54a33.webp'
-    },
-    {
-      name: 'Metal Roofs',
-      slug: 'metal-roofs',
-      description: 'Durable metal roof installation. Long-lasting protection with modern aesthetics.',
-      image: '/generated_images/standing_seam_metal_roof_bbc9c9f9.webp'
     }
   ],
   whyChooseUs: [

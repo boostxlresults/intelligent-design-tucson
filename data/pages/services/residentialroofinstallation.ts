@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Installation Tucson AZ | New Home Roof Installation',
-  description: 'Expert residential roof installation in Tucson. New construction & additions. Tile, shingle, metal & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
+  description: 'Expert residential roof installation in Tucson. New construction & additions. Tile, shingle & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
   slug: 'residential-roof-installation',
   
   // Hero Section
@@ -24,7 +24,7 @@ export const residentialroofinstallationData: ServicePageData = {
   highlights: [
   {
     "title": "All Roofing Systems",
-    "description": "Tile, shingle, metal, flat roofs | Premium materials | Expert installation | Custom solutions"
+    "description": "Tile, shingle, flat roofs | Premium materials | Expert installation | Custom solutions"
   },
   {
     "title": "Licensed & Certified",
@@ -98,7 +98,7 @@ export const residentialroofinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We work with homeowners, custom home builders, production builders, architects, and developers to deliver roofing solutions perfectly matched to project requirements. Our licensed contractors bring deep expertise with every residential roofing system—tile, shingle, metal, and flat roofs—and handle every aspect from design consultation and material selection through permitting, installation, and final inspections. When you choose Intelligent Design for roof installation, you're partnering with Tucson's most trusted roofing contractor for superior results and peace of mind. We also provide [link:/services/residential-roof-repair|residential roof repair], [link:/services/residential-roof-replacement|roof replacement], [link:/services/residential-roof-inspection|roof inspection], and [link:/services/residential-roof-coating|roof coating services] throughout the greater Tucson area."
+            "content": "We work with homeowners, custom home builders, production builders, architects, and developers to deliver roofing solutions perfectly matched to project requirements. Our licensed contractors bring deep expertise with every residential roofing system—tile, shingle, and flat roofs—and handle every aspect from design consultation and material selection through permitting, installation, and final inspections. When you choose Intelligent Design for roof installation, you're partnering with Tucson's most trusted roofing contractor for superior results and peace of mind. We also provide [link:/services/residential-roof-repair|residential roof repair], [link:/services/residential-roof-replacement|roof replacement], [link:/services/residential-roof-inspection|roof inspection], and [link:/services/residential-roof-coating|roof coating services] throughout the greater Tucson area."
       }
     ]
   },
