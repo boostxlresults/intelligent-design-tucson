@@ -260,6 +260,10 @@ Sometimes, but it's not recommended in Arizona. The added weight and trapped hea
 ### What's the best time for roof work in Tucson?
 October through May offers the best weather for roofing projects. Avoid monsoon season when possible.
 
+## Extend Your Roof's Life with ThermalCork
+
+Looking to dramatically extend your roof's lifespan while cutting energy costs? Ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) — a revolutionary natural cork spray that creates a permanent thermal break on your roof. As Tucson's exclusive certified ThermalCork applicator, Intelligent Design offers this breakthrough technology with an exclusive 15-year warranty. ThermalCork saves up to 50% on energy costs and never needs re-coating, making it the ultimate investment in your roof's longevity.
+
 ## Trust Intelligent Design for Your Roofing Needs
 
 Whether you need inspection, repair, or replacement, Intelligent Design provides honest assessments and quality workmanship.

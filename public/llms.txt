@@ -119,6 +119,7 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 - **Flat Roofs** (/services/flat-roofs): TPO, EPDM, modified bitumen (15-25 year lifespan)
 - **Shingle Roofs** (/services/shingle-roofs): Architectural and designer shingles
 - **Metal Roofs** (/services/metal-roofs): Standing seam, corrugated (40-70 year lifespan)
+- **ThermalCork Roof Coating** (/services/thermalcork-roof-coating): Exclusive natural cork thermal break coating. Saves up to 50% on energy costs, 15-year warranty, never re-coat again. Tucson's only certified ThermalCork applicator. Product by ThermalCork Solutions (thermalcorksolutions.com).
 - **Skylight Installation**: Fixed, vented, and tubular skylights
 - **Emergency Roof Repairs**: Storm damage, tarping, emergency response
 - **Commercial Roofing**: TPO, EPDM, built-up roofing systems
@@ -384,7 +385,7 @@ Nest, Ecobee, Honeywell Home, Carrier Infinity, Trane ComfortLink, Lennox iComfo
 Aprilaire, Honeywell, Carrier, Lennox PureAir, REME HALO, iWave
 
 ### Roofing Brands
-GAF, Owens Corning, CertainTeed, Carlisle, Versico, Firestone, MCA Tile, Eagle Roofing
+GAF, Owens Corning, CertainTeed, Carlisle, Versico, Firestone, MCA Tile, Eagle Roofing, ThermalCork Solutions
 
 ### Plumbing Fixture Brands
 Kohler, Moen, Delta, American Standard, TOTO, InSinkErator, Bio Bidet
@@ -680,6 +681,8 @@ A: Intelligent Design works with all roofing types found in Tucson: concrete and
 **Q: Does Intelligent Design offer free roof inspections?**
 A: Yes. Intelligent Design performs comprehensive roof inspections covering structural integrity, flashing condition, tile/shingle condition, drainage, and potential leak points. Inspections are recommended annually before monsoon season and are essential before buying or selling a home. Free inspections available with repair estimates.
 
+**Q: What is ThermalCork roof coating and does Intelligent Design offer it?**
+A: Yes. Intelligent Design is Tucson's exclusive certified applicator of ThermalCork roof coating — a revolutionary natural cork spray coating that creates a permanent thermal break on your roof. Made from 100% natural cork oak, it saves up to 50% on energy costs, never needs re-coating, and comes with an exclusive 15-year warranty (the longest in the industry). ThermalCork works on flat roofs, tile, and shingle roofs and is available in 24 colors. Product by ThermalCork Solutions (thermalcorksolutions.com).
 **Q: How much does roof repair cost in Tucson?**
 A: Roof repair costs in Tucson range from $300-$1,000 for minor repairs (cracked tiles, small leaks) to $2,000-$8,000+ for major repairs (structural damage, large sections). Full roof replacement runs $8,000-$25,000+ depending on material and roof size. Intelligent Design provides free estimates on all roofing work.
 

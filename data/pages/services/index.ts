@@ -9,6 +9,7 @@
  */
 
 export { acinstallationData } from './acinstallation';
+export { thermalcorkroofcoatingData } from './thermalcorkroofcoating';
 export { acrepairData } from './acrepair';
 export { acserviceData } from './acservice';
 export { actuneupData } from './actuneup';

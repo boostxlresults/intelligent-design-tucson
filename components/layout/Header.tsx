@@ -201,6 +201,7 @@ export default function Header() {
       { name: "Tile Roofs", href: "/services/tile-roofs", icon: Layers },
       { name: "Pitched Roofs", href: "/services/pitched-roofs", icon: Home },
       { name: "Metal Roofs", href: "/services/metal-roofs", icon: Layers },
+      { name: "ThermalCork Coating", href: "/services/thermalcork-roof-coating", icon: Shield },
     ]
   };
 

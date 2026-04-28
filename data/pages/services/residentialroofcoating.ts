@@ -82,6 +82,10 @@ export const residentialroofcoatingData: ServicePageData = {
             "content": "Why Tucson Homes Need Cool Roof Coating: Tucson's extreme desert climate creates the perfect need for residential roof coating while also demanding specialized products and professional application. Our intense UV radiation—350+ days of sunshine annually—makes reflective cool roof coatings exceptionally cost-effective while accelerating coating degradation without proper UV stabilizers. Summer roof surface temperatures exceeding 180°F place extreme thermal stress on roofing materials, causing cracking, warping, and premature failure without protective coating. Monsoon season brings intense rainfall that tests waterproofing—professional coating creates seamless barriers preventing water infiltration through aging materials, cracks, and penetrations. Daily temperature swings of 40°F or more cause constant expansion/contraction requiring flexible coating systems that move with your roof without cracking or delaminating."
       },
       {
+            "type": "paragraph",
+            "content": "Upgrade to ThermalCork: The Ultimate Roof Coating Solution: For homeowners seeking the most advanced roof coating technology available, Intelligent Design is Tucson's exclusive certified applicator of [link:/services/thermalcork-roof-coating|ThermalCork roof coating] — a revolutionary natural cork spray that creates a permanent thermal break on your roof. Unlike traditional coatings that need re-application every 2-7 years, ThermalCork is designed to last a lifetime and comes with our exclusive 15-year warranty. Made from 100% natural cork oak, it saves up to 50% on energy costs and works on flat, tile, and shingle roofs. Ask about ThermalCork during your free roof assessment."
+      },
+      {
             "type": "cta",
             "heading": "Ready to Cool Your Roof & Cut Energy Costs?",
             "content": "Get a free roof assessment and coating analysis. Our specialists will evaluate your roof condition, calculate energy savings potential, and provide detailed cost comparison of coating vs. replacement.",

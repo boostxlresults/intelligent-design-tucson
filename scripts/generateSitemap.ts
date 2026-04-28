@@ -32,7 +32,7 @@ const SERVICE_PAGES = [
   'commercial-roof-repair-tucson', 'commercial-roof-replacement-tucson',
   'residential-roof-coating-tucson', 'residential-roof-inspection-tucson', 'residential-roof-installation-tucson',
   'residential-roof-repair-tucson', 'residential-roof-replacement-tucson',
-  'flat-roofs-tucson', 'metal-roofs-tucson', 'pitched-roofs-tucson', 'shingle-roofs-tucson', 'skylights-tucson', 'tile-roofs-tucson',
+  'flat-roofs-tucson', 'metal-roofs-tucson', 'pitched-roofs-tucson', 'shingle-roofs-tucson', 'skylights-tucson', 'tile-roofs-tucson', 'thermalcork-roof-coating-tucson',
   'commercial-solar-installation-tucson', 'residential-solar-installation-tucson',
   'solar-maintenance-tucson', 'solar-panel-costs-tucson', 'solar-tax-credits-tucson', 'solar-tubular-lights-tucson',
   'ceiling-fan-installation-tucson', 'circuit-breakers-tucson', 'electrical-panel-upgrades-tucson', 'electrical-repair-tucson',

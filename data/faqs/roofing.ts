@@ -822,3 +822,59 @@ export const skylightsFAQs: ServiceFAQs = {
     }
   ]
 };
+
+
+export const thermalCorkRoofCoatingFAQs: ServiceFAQs = {
+  serviceId: 'thermalcork-roof-coating',
+  serviceName: 'ThermalCork Roof Coating',
+  faqs: [
+    {
+      question: "What is ThermalCork roof coating and how does it work?",
+      answer: "ThermalCork is a revolutionary natural cork spray coating that creates a permanent thermal break on your roof. Made from 100% natural cork oak, it contains millions of microscopic air pockets per cubic centimeter that absorb infrared rays and radiant heat before they penetrate your roof. Unlike traditional reflective coatings that simply bounce sunlight away, ThermalCork actively stops heat transfer, reducing roof surface temperatures by 50-80°F and cutting cooling costs by up to 50%."
+    },
+    {
+      question: "How long does ThermalCork roof coating last?",
+      answer: "ThermalCork is designed to last a lifetime. Unlike traditional roof coatings that degrade in 2-7 years and require constant re-application, ThermalCork's natural cork cells actually get stronger over time as they continue to cross-link and bond. This means you'll never have to re-coat your roof again — it's a one-time application with permanent protection. Intelligent Design backs every ThermalCork installation with an exclusive 15-year warranty, the longest in the industry."
+    },
+    {
+      question: "Why does Intelligent Design offer a 15-year warranty on ThermalCork?",
+      answer: "As Tucson's exclusive certified ThermalCork applicator, Intelligent Design has negotiated an industry-leading 15-year warranty — longer than the standard warranty offered elsewhere. This reflects our confidence in both the product and our certified application process. Our technicians are trained in ThermalCork's proprietary circular application method, ensuring proper thickness and coverage for maximum performance and longevity."
+    },
+    {
+      question: "How much can I save on energy costs with ThermalCork?",
+      answer: "ThermalCork can reduce cooling costs by up to 50% by creating a thermal break that prevents heat transfer through your roof. In Tucson, where summer temperatures regularly exceed 110°F and roof surfaces can reach 165°F+, this translates to significant savings — often hundreds of dollars per year. Many homeowners who combine ThermalCork with a high-efficiency HVAC system see total energy savings of 40-60%, with the investment paying for itself within 3-5 years."
+    },
+    {
+      question: "What types of roofs can ThermalCork be applied to?",
+      answer: "ThermalCork can be applied to virtually every roof type common in the Tucson area, including flat roofs (the most common residential style in Southern Arizona), concrete tile roofs, asphalt shingle roofs, and commercial roofing systems. The coating creates a seamless barrier regardless of roof geometry. ThermalCork is available in 24 color options, so you can match or complement your home's existing aesthetic."
+    },
+    {
+      question: "Is ThermalCork eco-friendly and safe for my family?",
+      answer: "Yes, ThermalCork is one of the most environmentally sustainable roofing products available. It's made from 100% natural cork harvested from the bark of living cork oak trees — the trees aren't harmed and can live up to 200 years, making cork a fully renewable resource. The coating is completely non-toxic, contains no harmful chemicals, and is safe for your family, pets, and the environment. By reducing energy consumption, ThermalCork also helps lower your carbon footprint."
+    },
+    {
+      question: "How does ThermalCork compare to traditional roof coatings?",
+      answer: "Traditional reflective coatings (silicone, acrylic, elastomeric) work by bouncing sunlight away from your roof, but they degrade under Tucson's extreme UV radiation and must be re-applied every 2-7 years. ThermalCork takes a fundamentally different approach — natural cork cells absorb and dissipate heat energy, creating a true thermal break. ThermalCork is also fire retardant, acoustic insulating, waterproof, and mold resistant. While the upfront cost is higher, the lifetime value is dramatically better since you never need to re-coat."
+    },
+    {
+      question: "What is the ThermalCork application process?",
+      answer: "Our certified installation follows a precise 5-step process: (1) thorough roof cleaning to remove debris and loose material, (2) surface preparation by lightly roughening for optimal grip, (3) ThermalCork application using the proprietary circular donut pattern method for consistent thickness, (4) 24-hour cure time before foot traffic, and (5) comprehensive quality inspection verifying thickness, coverage, and adhesion. The entire process typically takes 1-2 days for a standard residential roof."
+    },
+    {
+      question: "Does ThermalCork provide fire protection?",
+      answer: "Yes, natural cork is inherently fire retardant — a critical safety feature during Arizona's wildfire season and in Tucson's extreme heat. ThermalCork has been independently tested for fire resistance and meets safety standards. The cork material chars rather than igniting, providing an additional layer of protection for your home. This fire retardancy is a natural property of cork, not achieved through chemical additives."
+    },
+    {
+      question: "Can ThermalCork reduce noise in my home?",
+      answer: "Absolutely. Cork's cellular structure provides exceptional acoustic insulation, reducing noise from rain, hail, aircraft, and traffic. This is particularly valuable for Tucson homes near Davis-Monthan Air Force Base, Tucson International Airport, or busy roads. The millions of air-filled cells in each cubic centimeter of cork absorb sound waves, creating a noticeably quieter interior environment."
+    },
+    {
+      question: "Why should I choose Intelligent Design for ThermalCork installation?",
+      answer: "Intelligent Design is Tucson's exclusive certified ThermalCork applicator — the only contractor authorized to apply this breakthrough technology with the full backing of the manufacturer's warranty. With 46+ years of experience, 23,000+ verified reviews, and a 4.97-star Google rating, we're the highest-rated roofing company in Southern Arizona. As a full-service home services company, we can also pair your ThermalCork with HVAC upgrades, solar installation, and duct sealing for maximum energy savings."
+    },
+    {
+      question: "Is ThermalCork waterproof and does it prevent leaks?",
+      answer: "Yes, ThermalCork creates a completely waterproof, seamless barrier on your roof. The coating seals against moisture and dampness, preventing the leaks that plague aging Tucson roofs during monsoon season. Cork is also naturally resistant to mold, mildew, and salt buildup, eliminating common maintenance issues. The waterproofing properties are permanent — they don't degrade over time like traditional coatings."
+    }
+  ]
+};

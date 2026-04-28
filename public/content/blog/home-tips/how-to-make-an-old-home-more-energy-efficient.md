@@ -158,6 +158,8 @@ Reflective roof coatings reduce heat absorption:
 - Extends roof life
 - Cost: $2-4 per square foot
 
+For the ultimate in roof energy savings, ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) — a natural cork spray that creates a permanent thermal break, saving up to 50% on cooling costs with a 15-year warranty.
+
 ### LED Lighting
 
 Replace incandescent and CFL bulbs with LEDs:

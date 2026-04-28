@@ -86,6 +86,10 @@ export const commercialroofcoatingData: ServicePageData = {
             "content": "Comprehensive Coating Solutions for All Roof Types: We specialize in coating commercial roofs throughout Tucson—TPO and PVC single-ply membranes, EPDM rubber roofing, modified bitumen systems, built-up roofing (BUR), metal roofs, and spray polyurethane foam (SPF) systems. Our proven process includes comprehensive roof assessment with infrared moisture surveys, honest evaluation of coating suitability and substrate condition, detailed proposals comparing coating versus [link:/services/commercial-roof-replacement|replacement economics], complete surface preparation and necessary repairs, professional coating application to manufacturer specifications, quality control throughout installation, and comprehensive warranties protecting your investment. Whether your roof needs proactive coating to extend serviceable life or restoration coating as a complete replacement alternative, we deliver solutions protecting your building while improving energy efficiency and deferring major capital expenses."
       },
       {
+            "type": "paragraph",
+            "content": "ThermalCork: The Next Generation of Commercial Roof Coating: For commercial property owners seeking the ultimate in roof coating technology, Intelligent Design is Tucson's exclusive certified applicator of [link:/services/thermalcork-roof-coating|ThermalCork roof coating]. This revolutionary natural cork spray creates a permanent thermal break on your roof, saving up to 50% on energy costs. Unlike traditional coatings that degrade in 2-7 years, ThermalCork is designed to last a lifetime and comes with our exclusive 15-year warranty. Ideal for commercial flat roofs, warehouses, and office buildings throughout Tucson."
+      },
+      {
             "type": "cta",
             "heading": "Ready to Extend Your Roof's Life?",
             "content": "Get a free roof assessment and coating analysis. Our specialists will evaluate your roof condition, perform moisture surveys, and provide detailed ROI calculations comparing coating vs. replacement.",

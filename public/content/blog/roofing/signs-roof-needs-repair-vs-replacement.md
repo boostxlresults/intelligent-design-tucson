@@ -241,6 +241,10 @@ Be wary of contractors who insist on replacement when others suggest repair is v
 6. Are you licensed and insured for roofing work in Arizona?
 7. Can you provide references from similar jobs?
 
+## Consider ThermalCork Before Replacing
+
+Before committing to a full roof replacement, ask about [ThermalCork roof coating](/services/thermalcork-roof-coating). This natural cork spray creates a permanent thermal break that can extend your existing roof's life while saving up to 50% on energy costs. As Tucson's exclusive certified ThermalCork applicator, Intelligent Design can evaluate whether ThermalCork is the right solution for your roof during your free inspection.
+
 ## The Intelligent Design Approach
 
 At Intelligent Design, we believe in honest assessments. We'll tell you:

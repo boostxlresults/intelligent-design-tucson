@@ -61,6 +61,12 @@ export const roofingCategoryData: ServiceCategoryData = {
       image: '/generated_images/commercial_flat_roof_system_7bd54a33.webp'
     },
     {
+      name: 'ThermalCork Roof Coating',
+      slug: 'thermalcork-roof-coating',
+      description: 'Exclusive ThermalCork natural cork coating. Creates a thermal break, saves up to 50% on energy. 15-year warranty.',
+      image: '/generated_images/commercial_roof_coating_application_54879965.webp'
+    },
+    {
       name: 'Metal Roofs',
       slug: 'metal-roofs',
       description: 'Durable metal roof installation. Long-lasting protection with modern aesthetics.',
