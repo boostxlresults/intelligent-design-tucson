@@ -1091,6 +1091,10 @@
         "why-tucson-chooses-intelligent-design": {
             "dataFile": "whytucsonchoosesintelligentdesign",
             "canonicalSlug": "why-tucson-chooses-intelligent-design"
+        },
+        "thermalcork-roof-coating": {
+            "dataFile": "thermalcorkroofcoating",
+            "canonicalSlug": "thermalcork-roof-coating"
         }
     },
     "aliases": {
@@ -1353,11 +1357,7 @@
         "watersofteners": "water-softeners",
         "whytucsonchoosesintelligentdesign": "why-tucson-chooses-intelligent-design",
         "repipetucson": "repipe-tucson",
-        "tanklesswaterheaters": "tankless-water-heaters"
-    },
-    "thermalcork-roof-coating": {
-        "dataFile": "thermalcorkroofcoating",
-        "canonicalSlug": "thermalcork-roof-coating"
-    },
-    "thermalcorkroofcoating": "thermalcork-roof-coating"
+        "tanklesswaterheaters": "tankless-water-heaters",
+        "thermalcorkroofcoating": "thermalcork-roof-coating"
+    }
 }
