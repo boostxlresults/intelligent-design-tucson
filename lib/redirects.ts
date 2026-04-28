@@ -249,7 +249,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Roof types
   '/roof-types': '/services/roofing',
   '/roof-types/flat-roof-repair': '/services/flat-roofs',
-  '/roof-types/metal-roofing': '/services/roofing',
+  '/roof-types/metal-roofing': '/services/metal-roofs',
   '/roof-types/pitched-roofs': '/services/pitched-roofs',
   '/roof-types/shingle-roofs': '/services/shingle-roofs',
   '/roof-types/tile-roofing': '/services/tile-roofs',
@@ -750,8 +750,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/plumber-tucson/drain-cleaning-tucson': '/services/drain-clearing',
   '/plumber-tucson/trenchless-sewer-repair-replacement': '/services/sewer-line-repair',
   '/solar-tucson/commercial-solar-installations': '/services/commercial-solar-installation',
-  '/roofing/metal-roofing': '/services/roofing',
-  '/roofing/roof-types/metal-roofing': '/services/roofing',
+  '/roofing/metal-roofing': '/services/metal-roofs',
+  '/roofing/roof-types/metal-roofing': '/services/metal-roofs',
   '/services/plumbing/burst-pipe-and-sewer-line-repair-tucson': '/services/sewer-line-repair',
 
   // Core/misc pages
@@ -1284,9 +1284,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // Service page redirects
   '/services/lighting-installation': '/services/lighting-upgrades',
   '/services/air-conditioning-in-tucson-maintenance-tips-for-businesses': '/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses',
-  // Metal roofs page removed (service temporarily unavailable) - redirect to general roofing
-  '/services/metal-roofs': '/services/roofing',
-  '/metal-roofs-tucson': '/services/roofing',
 };
 
 /**
@@ -1343,7 +1340,7 @@ export const SERVICE_KEYWORDS = [
   'furnace', 'heat-pump', 'generac', 'circuit', 'outlet', 'lighting',
   'skylight', 'panel', 'tankless', 'hybrid', 'leak', 'repipe', 'bidet',
   'sink', 'garbage', 'trenchless', 'sewer-camera', 'indoor-air',
-  'thermostat', 'flat-roof', 'pitched-roof', 'shingle',
+  'thermostat', 'flat-roof', 'metal-roof', 'pitched-roof', 'shingle',
   'tile-roof', 'commercial-roof', 'residential-roof', 'energy-audit',
   'energy-upgrade', 'ev-charger'
 ];

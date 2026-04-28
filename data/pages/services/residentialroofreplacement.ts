@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const residentialroofreplacementData: ServicePageData = {
   // SEO & Meta
   title: 'Residential Roof Replacement Tucson AZ | Complete Home Roof Replacement',
-  description: 'Expert residential roof replacement in Tucson. Complete tear-off & replacement. Tile, shingle & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
+  description: 'Expert residential roof replacement in Tucson. Complete tear-off & replacement. Tile, shingle, metal & flat roofs. 46+ years experience. Call (520) 333-2665 for free estimate.',
   slug: 'residential-roof-replacement',
   
   // Hero Section
@@ -28,7 +28,7 @@ export const residentialroofreplacementData: ServicePageData = {
   },
   {
     "title": "All Roofing Systems",
-    "description": "Tile, shingle, flat roofs | Premium materials | Expert installation | System upgrades"
+    "description": "Tile, shingle, metal, flat roofs | Premium materials | Expert installation | System upgrades"
   },
   {
     "title": "Energy Efficiency Upgrades",
@@ -71,7 +71,7 @@ export const residentialroofreplacementData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 23,000+ verified reviews, BBB A+ accreditation for 46+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
+            "content": "Why Tucson Homeowners Choose Intelligent Design for Roof Replacement: At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've completed thousands of residential roof replacements throughout Tucson and Pima County since 1979, delivering complete tear-off and replacement services for all roofing types—[link:/services/tile-roofs|tile], [link:/services/shingle-roofs|shingle], [link:/services/metal-roofs|metal], and [link:/services/flat-roofs|flat roofs]. Our licensed contractors (ROC #171687) provide honest assessments of when replacement makes more economic sense than continued repairs, detailed cost analysis with multiple material options, and transparent pricing with financing available. Every roof replacement includes: complete removal of old roofing materials with professional disposal, thorough deck inspection and repair of damaged sheathing, premium underlayment installation with 25-30 year warranties, expert installation of your selected roofing system, upgraded ventilation and energy efficiency improvements, comprehensive flashing and waterproofing systems, all permitting and final inspections, and thorough property protection and cleanup. With 4.97-star Google rating from 23,000+ verified reviews, BBB A+ accreditation for 46+ years, and status as Tucson's #1 rated roofing company for 8 consecutive years (2017-2024), we're the roof replacement provider your neighbors trust and recommend."
       },
       {
             "type": "heading",

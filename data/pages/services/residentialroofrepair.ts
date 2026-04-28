@@ -28,7 +28,7 @@ export const residentialroofrepairData: ServicePageData = {
   },
   {
     "title": "All Roof Types & Materials",
-    "description": "Tile, shingle, flat roofs | Perfect tile matching | Expert craftsmanship | Proper techniques"
+    "description": "Tile, shingle, flat, metal roofs | Perfect tile matching | Expert craftsmanship | Proper techniques"
   },
   {
     "title": "Insurance Claim Assistance",

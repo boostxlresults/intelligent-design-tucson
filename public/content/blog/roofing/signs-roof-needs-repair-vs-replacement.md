@@ -90,6 +90,7 @@ Typical Arizona lifespans:
 - Asphalt shingles: 12-20 years
 - Tile (underlayment): 20-30 years
 - Foam roofing: Indefinite with coating
+- Metal: 40-60 years
 
 ### Damage Is Widespread
 When problems cover more than 30% of your roof, replacement is typically more cost-effective than extensive repairs.
@@ -182,6 +183,20 @@ The cost of this damage often exceeds the difference between repair and replacem
 - Foam separating from substrate
 - Ponding water eroding foam
 - Storm damage to foam itself
+
+### Metal Roofs
+
+**Signs Repair May Work:**
+- Minor rust spots (steel)
+- Loose fasteners
+- Small punctures from debris
+- Failed sealant at seams
+
+**Signs Replacement Is Needed:**
+- Widespread rust or corrosion
+- Multiple panel separations
+- Structural panel damage
+- Age 40+ years with visible wear
 
 ## Getting Professional Opinions
 

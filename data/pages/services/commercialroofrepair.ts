@@ -28,7 +28,7 @@ export const commercialroofrepairData: ServicePageData = {
   },
   {
     "title": "All Commercial Roof Systems",
-    "description": "TPO, EPDM, modified bitumen | Built-up roofing | Expert flat roof repairs"
+    "description": "TPO, EPDM, modified bitumen | Built-up roofing | Metal systems | Expert flat roof repairs"
   },
   {
     "title": "Property Manager Partnerships",
@@ -96,7 +96,7 @@ export const commercialroofrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Common Commercial Roof Emergencies We Repair: Active leaks threatening inventory, equipment, or tenant spaces requiring immediate water stoppage and protective measures, membrane blow-offs from high winds exposing insulation and roof deck to weather, ponding water failures where standing water breaches membrane and saturates building insulation, HVAC equipment curb failures allowing water entry around rooftop units, parapet wall flashing separations creating entry points along building perimeters, scupper and drain blockages causing roof flooding and structural overload, storm damage from wind-blown debris, hail, or monsoon-driven rain, and split seams from thermal stress or improper installation. Our emergency commercial teams carry materials and equipment to address any flat roof system—TPO, EPDM, modified bitumen, or built-up roofing systems—ensuring we can protect your building regardless of roofing type."
+            "content": "Common Commercial Roof Emergencies We Repair: Active leaks threatening inventory, equipment, or tenant spaces requiring immediate water stoppage and protective measures, membrane blow-offs from high winds exposing insulation and roof deck to weather, ponding water failures where standing water breaches membrane and saturates building insulation, HVAC equipment curb failures allowing water entry around rooftop units, parapet wall flashing separations creating entry points along building perimeters, scupper and drain blockages causing roof flooding and structural overload, storm damage from wind-blown debris, hail, or monsoon-driven rain, and split seams from thermal stress or improper installation. Our emergency commercial teams carry materials and equipment to address any flat roof system—TPO, EPDM, modified bitumen, built-up roofing, or [link:/services/metal-roofs|metal roof] systems—ensuring we can protect your building regardless of roofing type."
       }
     ]
   },

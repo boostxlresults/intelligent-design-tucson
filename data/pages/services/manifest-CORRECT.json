@@ -1,0 +1,441 @@
+{
+  "services": {
+    "ac-installation-tucson": {
+      "dataFile": "acinstallation",
+      "canonicalSlug": "ac-installation-tucson"
+    },
+    "ac-repair-tucson": {
+      "dataFile": "acrepair",
+      "canonicalSlug": "ac-repair-tucson"
+    },
+    "ac-service-tucson": {
+      "dataFile": "acservice",
+      "canonicalSlug": "ac-service-tucson"
+    },
+    "ac-tuneup-tucson": {
+      "dataFile": "actuneup",
+      "canonicalSlug": "ac-tuneup-tucson"
+    },
+    "bidet-installation": {
+      "dataFile": "bidetinstallation",
+      "canonicalSlug": "bidet-installation"
+    },
+    "ceiling-fan-installation": {
+      "dataFile": "ceilingfaninstallation",
+      "canonicalSlug": "ceiling-fan-installation"
+    },
+    "circuit-breakers": {
+      "dataFile": "circuitbreakers",
+      "canonicalSlug": "circuit-breakers"
+    },
+    "commercial-roof-coating": {
+      "dataFile": "commercialroofcoating",
+      "canonicalSlug": "commercial-roof-coating"
+    },
+    "commercial-roof-inspection": {
+      "dataFile": "commercialroofinspection",
+      "canonicalSlug": "commercial-roof-inspection"
+    },
+    "commercial-roof-installation": {
+      "dataFile": "commercialroofinstallation",
+      "canonicalSlug": "commercial-roof-installation"
+    },
+    "commercial-roof-repair": {
+      "dataFile": "commercialroofrepair",
+      "canonicalSlug": "commercial-roof-repair"
+    },
+    "commercial-roof-replacement": {
+      "dataFile": "commercialroofreplacement",
+      "canonicalSlug": "commercial-roof-replacement"
+    },
+    "commercial-solar-installation": {
+      "dataFile": "commercialsolarinstallation",
+      "canonicalSlug": "commercial-solar-installation"
+    },
+    "corona-de-tucson": {
+      "dataFile": "coronadetucson",
+      "canonicalSlug": "corona-de-tucson"
+    },
+    "cortaro": {
+      "dataFile": "cortaro",
+      "canonicalSlug": "cortaro"
+    },
+    "customer-reviews": {
+      "dataFile": "customerreviews",
+      "canonicalSlug": "customer-reviews"
+    },
+    "drain-clearing": {
+      "dataFile": "drainclearing",
+      "canonicalSlug": "drain-clearing"
+    },
+    "drain-clearing-avra-valley": {
+      "dataFile": "drainclearingavravalley",
+      "canonicalSlug": "drain-clearing-avra-valley"
+    },
+    "drain-clearing-casas-adobes": {
+      "dataFile": "drainclearingcasasadobes",
+      "canonicalSlug": "drain-clearing-casas-adobes"
+    },
+    "drain-clearing-catalina-foothills": {
+      "dataFile": "drainclearingcatalinafoothills",
+      "canonicalSlug": "drain-clearing-catalina-foothills"
+    },
+    "drain-clearing-coronade-tucson": {
+      "dataFile": "drainclearingcoronadetucson",
+      "canonicalSlug": "drain-clearing-coronade-tucson"
+    },
+    "drain-clearing-drexel-heights": {
+      "dataFile": "drainclearingdrexelheights",
+      "canonicalSlug": "drain-clearing-drexel-heights"
+    },
+    "drain-clearing-east-tucson": {
+      "dataFile": "drainclearingeasttucson",
+      "canonicalSlug": "drain-clearing-east-tucson"
+    },
+    "drain-clearing-gladden-farms": {
+      "dataFile": "drainclearinggladdenfarms",
+      "canonicalSlug": "drain-clearing-gladden-farms"
+    },
+    "drain-clearing-green-valley": {
+      "dataFile": "drainclearinggreenvalley",
+      "canonicalSlug": "drain-clearing-green-valley"
+    },
+    "drain-clearing-marana": {
+      "dataFile": "drainclearingmarana",
+      "canonicalSlug": "drain-clearing-marana"
+    },
+    "drain-clearing-oro-valley": {
+      "dataFile": "drainclearingorovalley",
+      "canonicalSlug": "drain-clearing-oro-valley"
+    },
+    "drain-clearing-picture-rocks": {
+      "dataFile": "drainclearingpicturerocks",
+      "canonicalSlug": "drain-clearing-picture-rocks"
+    },
+    "drain-clearing-red-rock": {
+      "dataFile": "drainclearingredrockcasagrande",
+      "canonicalSlug": "drain-clearing-red-rock"
+    },
+    "drain-clearing-rita-ranch": {
+      "dataFile": "drainclearingritaranch",
+      "canonicalSlug": "drain-clearing-rita-ranch"
+    },
+    "drain-clearing-saddle-brooke": {
+      "dataFile": "drainclearingsaddlebrookecatalina",
+      "canonicalSlug": "drain-clearing-saddle-brooke"
+    },
+    "drain-clearing-sahuarita": {
+      "dataFile": "drainclearingsahuarita",
+      "canonicalSlug": "drain-clearing-sahuarita"
+    },
+    "drain-clearing-tanque-verde": {
+      "dataFile": "drainclearingtanqueverde",
+      "canonicalSlug": "drain-clearing-tanque-verde"
+    },
+    "drain-clearing-tortolita": {
+      "dataFile": "drainclearingtortolita",
+      "canonicalSlug": "drain-clearing-tortolita"
+    },
+    "drain-clearing-tucson": {
+      "dataFile": "drainclearingtucson",
+      "canonicalSlug": "drain-clearing-tucson"
+    },
+    "drain-clearing-tucson-estates": {
+      "dataFile": "drainclearingtucsonestates",
+      "canonicalSlug": "drain-clearing-tucson-estates"
+    },
+    "drain-clearing-vail": {
+      "dataFile": "drainclearingvail",
+      "canonicalSlug": "drain-clearing-vail"
+    },
+    "duct-cleaning-tucson": {
+      "dataFile": "ductcleaning",
+      "canonicalSlug": "duct-cleaning-tucson"
+    },
+    "duct-installation-tucson": {
+      "dataFile": "ductinstallation",
+      "canonicalSlug": "duct-installation-tucson"
+    },
+    "ductless-installation-tucson": {
+      "dataFile": "ductlessminisplitinstallation",
+      "canonicalSlug": "ductless-installation-tucson"
+    },
+    "ductless-repair-tucson": {
+      "dataFile": "ductlessminisplitrepair",
+      "canonicalSlug": "ductless-repair-tucson"
+    },
+    "duct-repair-tucson": {
+      "dataFile": "ductrepair",
+      "canonicalSlug": "duct-repair-tucson"
+    },
+    "duct-sealing-tucson": {
+      "dataFile": "ductsealing",
+      "canonicalSlug": "duct-sealing-tucson"
+    },
+    "east-tucson": {
+      "dataFile": "easttucson",
+      "canonicalSlug": "east-tucson"
+    },
+    "family-protection-plans": {
+      "dataFile": "familyprotectionplans",
+      "canonicalSlug": "family-protection-plans"
+    },
+    "financing": {
+      "dataFile": "financing",
+      "canonicalSlug": "financing"
+    },
+    "flat-roofs": {
+      "dataFile": "flatroofs",
+      "canonicalSlug": "flat-roofs"
+    },
+    "furnaces-tucson": {
+      "dataFile": "furnaces",
+      "canonicalSlug": "furnaces-tucson"
+    },
+    "garbage-disposal": {
+      "dataFile": "garbagedisposal",
+      "canonicalSlug": "garbage-disposal"
+    },
+    "generac-installation": {
+      "dataFile": "generacinstallation",
+      "canonicalSlug": "generac-installation"
+    },
+    "generac-repair": {
+      "dataFile": "generacrepair",
+      "canonicalSlug": "generac-repair"
+    },
+    "gladden-farms": {
+      "dataFile": "gladdenfarms",
+      "canonicalSlug": "gladden-farms"
+    },
+    "guarantees": {
+      "dataFile": "guarantees",
+      "canonicalSlug": "guarantees"
+    },
+    "heater-installation-tucson": {
+      "dataFile": "heaterinstallation",
+      "canonicalSlug": "heater-installation-tucson"
+    },
+    "heater-repair-tucson": {
+      "dataFile": "heaterrepair",
+      "canonicalSlug": "heater-repair-tucson"
+    },
+    "heater-service-tucson": {
+      "dataFile": "heaterservice",
+      "canonicalSlug": "heater-service-tucson"
+    },
+    "heater-tuneup-tucson": {
+      "dataFile": "heatertuneup",
+      "canonicalSlug": "heater-tuneup-tucson"
+    },
+    "heat-pumps-tucson": {
+      "dataFile": "heatpumps",
+      "canonicalSlug": "heat-pumps-tucson"
+    },
+    "home": {
+      "dataFile": "home",
+      "canonicalSlug": "home"
+    },
+    "home-energy-audit-tucson": {
+      "dataFile": "homeenergyaudit",
+      "canonicalSlug": "home-energy-audit-tucson"
+    },
+    "home-energy-upgrades-tucson": {
+      "dataFile": "homeenergyupgrades",
+      "canonicalSlug": "home-energy-upgrades-tucson"
+    },
+    "hybrid-water-heaters": {
+      "dataFile": "hybridwaterheaters",
+      "canonicalSlug": "hybrid-water-heaters"
+    },
+    "indoor-air-quality-tucson": {
+      "dataFile": "indoorairquality",
+      "canonicalSlug": "indoor-air-quality-tucson"
+    },
+    "knowledge-hub": {
+      "dataFile": "knowledgehub",
+      "canonicalSlug": "knowledge-hub"
+    },
+    "leak-detection": {
+      "dataFile": "leakdetection",
+      "canonicalSlug": "leak-detection"
+    },
+    "lighting-upgrades": {
+      "dataFile": "lightingupgrades",
+      "canonicalSlug": "lighting-upgrades"
+    },
+    "metal-roofs": {
+      "dataFile": "metalroofs",
+      "canonicalSlug": "metal-roofs"
+    },
+    "new-homebuyer-offer": {
+      "dataFile": "newhomebuyeroffer",
+      "canonicalSlug": "new-homebuyer-offer"
+    },
+    "outdoor-motion-lighting": {
+      "dataFile": "outdoormotionlighting",
+      "canonicalSlug": "outdoor-motion-lighting"
+    },
+    "outlets-switches": {
+      "dataFile": "outletsswitches",
+      "canonicalSlug": "outlets-switches"
+    },
+    "pitched-roofs": {
+      "dataFile": "pitchedroofs",
+      "canonicalSlug": "pitched-roofs"
+    },
+    "privacy-policy": {
+      "dataFile": "privacypolicy",
+      "canonicalSlug": "privacy-policy"
+    },
+    "realtors-offer": {
+      "dataFile": "realtorsoffer",
+      "canonicalSlug": "realtors-offer"
+    },
+    "recent-projects": {
+      "dataFile": "recentprojects",
+      "canonicalSlug": "recent-projects"
+    },
+    "residential-roof-coating": {
+      "dataFile": "residentialroofcoating",
+      "canonicalSlug": "residential-roof-coating"
+    },
+    "residential-roof-inspection": {
+      "dataFile": "residentialroofinspection",
+      "canonicalSlug": "residential-roof-inspection"
+    },
+    "residential-roof-installation": {
+      "dataFile": "residentialroofinstallation",
+      "canonicalSlug": "residential-roof-installation"
+    },
+    "residential-roof-repair": {
+      "dataFile": "residentialroofrepair",
+      "canonicalSlug": "residential-roof-repair"
+    },
+    "residential-roof-replacement": {
+      "dataFile": "residentialroofreplacement",
+      "canonicalSlug": "residential-roof-replacement"
+    },
+    "residential-solar-installation": {
+      "dataFile": "residentialsolarinstallation",
+      "canonicalSlug": "residential-solar-installation"
+    },
+    "resources": {
+      "dataFile": "resources",
+      "canonicalSlug": "resources"
+    },
+    "rillito": {
+      "dataFile": "rillito",
+      "canonicalSlug": "rillito"
+    },
+    "rooter-special": {
+      "dataFile": "rooterspecial",
+      "canonicalSlug": "rooter-special"
+    },
+    "saddlebrooke-catalina": {
+      "dataFile": "saddlebrooke",
+      "canonicalSlug": "saddlebrooke-catalina"
+    },
+    "sewer-camera-inspection": {
+      "dataFile": "sewercamerainspection",
+      "canonicalSlug": "sewer-camera-inspection"
+    },
+    "sewer-line-repair": {
+      "dataFile": "sewerlinerepair",
+      "canonicalSlug": "sewer-line-repair"
+    },
+    "shingle-roofs": {
+      "dataFile": "shingleroofs",
+      "canonicalSlug": "shingle-roofs"
+    },
+    "sink-repair-installation": {
+      "dataFile": "sinkrepairinstallation",
+      "canonicalSlug": "sink-repair-installation"
+    },
+    "skylights": {
+      "dataFile": "skylights",
+      "canonicalSlug": "skylights"
+    },
+    "smart-thermostat-installation-tucson": {
+      "dataFile": "smartthermostatinstallation",
+      "canonicalSlug": "smart-thermostat-installation-tucson"
+    },
+    "solar-a-c": {
+      "dataFile": "solarac",
+      "canonicalSlug": "solar-a-c"
+    },
+    "solar-maintenance": {
+      "dataFile": "solarmaintenance",
+      "canonicalSlug": "solar-maintenance"
+    },
+    "solar-panel-costs": {
+      "dataFile": "solarpanelcosts",
+      "canonicalSlug": "solar-panel-costs"
+    },
+    "solar-tax-credits": {
+      "dataFile": "solartaxcredits",
+      "canonicalSlug": "solar-tax-credits"
+    },
+    "solar-tubular-lights": {
+      "dataFile": "solartubularlights",
+      "canonicalSlug": "solar-tubular-lights"
+    },
+    "tile-roofs": {
+      "dataFile": "tileroofs",
+      "canonicalSlug": "tile-roofs"
+    },
+    "toilet-installation": {
+      "dataFile": "toiletinstallation",
+      "canonicalSlug": "toilet-installation"
+    },
+    "tortolita": {
+      "dataFile": "tortolita",
+      "canonicalSlug": "tortolita"
+    },
+    "trenchless-repair": {
+      "dataFile": "trenchlessrepair",
+      "canonicalSlug": "trenchless-repair"
+    },
+    "tucson-estates": {
+      "dataFile": "tucsonestates",
+      "canonicalSlug": "tucson-estates"
+    },
+    "video-testimonials": {
+      "dataFile": "videotestimonials",
+      "canonicalSlug": "video-testimonials"
+    },
+    "water-filtration": {
+      "dataFile": "waterfiltration",
+      "canonicalSlug": "water-filtration"
+    },
+    "water-heater-flush": {
+      "dataFile": "waterheaterflush",
+      "canonicalSlug": "water-heater-flush"
+    },
+    "water-heater-installation": {
+      "dataFile": "waterheaterinstallation",
+      "canonicalSlug": "water-heater-installation"
+    },
+    "water-heater-repair": {
+      "dataFile": "waterheaterrepair",
+      "canonicalSlug": "water-heater-repair"
+    },
+    "water-heaters": {
+      "dataFile": "waterheaters",
+      "canonicalSlug": "water-heaters"
+    },
+    "water-leak-repair": {
+      "dataFile": "waterleakrepair",
+      "canonicalSlug": "water-leak-repair"
+    },
+    "water-softeners": {
+      "dataFile": "watersofteners",
+      "canonicalSlug": "water-softeners"
+    },
+    "why-tucson-chooses-intelligent-design": {
+      "dataFile": "whytucsonchoosesintelligentdesign",
+      "canonicalSlug": "why-tucson-chooses-intelligent-design"
+    }
+  },
+  "aliases": {}
+}

@@ -147,11 +147,11 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     // --- ROOFING SERVICES ---
     {
       question: "Does Intelligent Design offer roof repair and replacement?",
-      answer: "Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, and flat/foam. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects."
+      answer: "Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, flat/foam, and metal. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects."
     },
     {
       question: "What types of roofing does Intelligent Design work with?",
-      answer: "Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, and TPO/modified bitumen commercial roofing. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling."
+      answer: "Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, TPO/modified bitumen commercial roofing, and standing seam metal roofs. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling."
     },
     {
       question: "Does Intelligent Design do roof inspections?",

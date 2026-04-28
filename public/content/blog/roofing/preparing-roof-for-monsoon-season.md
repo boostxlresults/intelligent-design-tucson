@@ -41,6 +41,7 @@ Wind gusts during monsoons regularly exceed 60 mph and can reach 80+ mph. These 
 ### Hail
 While less common than rain and wind, monsoon hail can be devastating:
 - Cracks clay and concrete tiles
+- Dents metal roofing
 - Shreds asphalt shingles
 - Punctures foam roofing coatings
 
@@ -161,6 +162,12 @@ Flashing—the metal pieces that seal joints and transitions—is often the firs
 - Look for punctures or tears
 - Check for ponding water areas
 - Schedule recoating if needed
+
+**Metal Roofs:**
+- Tighten loose fasteners
+- Reseal any opened seams
+- Check for rust spots (steel)
+- Verify all panels are secure
 
 ### 5. Clear Roof Debris
 

@@ -39,7 +39,7 @@ const CATEGORY_KEYWORDS = {
   hvac: ['hvac', 'air conditioning', 'ac repair', 'ac service', 'furnace', 'heating', 'cooling', 'heat pump', 'ductless', 'duct', 'thermostat', 'air filter'],
   solar: ['solar', 'solar panel', 'solar energy', 'photovoltaic', 'renewable energy', 'solar installation', 'solar tax', 'solar credit'],
   plumbing: ['plumbing', 'plumber', 'pipe', 'leak', 'drain', 'sewer', 'water heater', 'faucet', 'toilet', 'sink', 'water softener', 'water filtration'],
-  roofing: ['roof', 'roofing', 'shingle', 'tile roof', 'roof repair', 'roof replacement', 'roof inspection', 'leak'],
+  roofing: ['roof', 'roofing', 'shingle', 'tile roof', 'metal roof', 'roof repair', 'roof replacement', 'roof inspection', 'leak'],
   electrical: ['electrical', 'electrician', 'wiring', 'circuit breaker', 'panel', 'outlet', 'lighting', 'generator'],
   'home-tips': ['home', 'tips', 'maintenance', 'homeowner', 'energy efficiency', 'tucson', 'moving', 'summer', 'winter', 'monsoon']
 };

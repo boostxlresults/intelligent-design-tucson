@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialroofcoatingData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Roof Coating Tucson AZ | Cool Roof Coatings & Energy Savings',
-  description: 'Commercial roof coating in Tucson. Cool roof technology, extend roof life 10-20 years, reduce energy costs. TPO, EPDM coatings. Call (520) 333-2665 for free assessment.',
+  description: 'Commercial roof coating in Tucson. Cool roof technology, extend roof life 10-20 years, reduce energy costs. TPO, EPDM, metal coatings. Call (520) 333-2665 for free assessment.',
   slug: 'commercial-roof-coating',
   
   // Hero Section
@@ -83,7 +83,7 @@ export const commercialroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Comprehensive Coating Solutions for All Roof Types: We specialize in coating commercial roofs throughout Tucson—TPO and PVC single-ply membranes, EPDM rubber roofing, modified bitumen systems, built-up roofing (BUR), and spray polyurethane foam (SPF) systems. Our proven process includes comprehensive roof assessment with infrared moisture surveys, honest evaluation of coating suitability and substrate condition, detailed proposals comparing coating versus [link:/services/commercial-roof-replacement|replacement economics], complete surface preparation and necessary repairs, professional coating application to manufacturer specifications, quality control throughout installation, and comprehensive warranties protecting your investment. Whether your roof needs proactive coating to extend serviceable life or restoration coating as a complete replacement alternative, we deliver solutions protecting your building while improving energy efficiency and deferring major capital expenses."
+            "content": "Comprehensive Coating Solutions for All Roof Types: We specialize in coating commercial roofs throughout Tucson—TPO and PVC single-ply membranes, EPDM rubber roofing, modified bitumen systems, built-up roofing (BUR), metal roofs, and spray polyurethane foam (SPF) systems. Our proven process includes comprehensive roof assessment with infrared moisture surveys, honest evaluation of coating suitability and substrate condition, detailed proposals comparing coating versus [link:/services/commercial-roof-replacement|replacement economics], complete surface preparation and necessary repairs, professional coating application to manufacturer specifications, quality control throughout installation, and comprehensive warranties protecting your investment. Whether your roof needs proactive coating to extend serviceable life or restoration coating as a complete replacement alternative, we deliver solutions protecting your building while improving energy efficiency and deferring major capital expenses."
       },
       {
             "type": "cta",

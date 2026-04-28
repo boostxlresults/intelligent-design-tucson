@@ -111,13 +111,14 @@ Aimee co-founded Intelligent Design alongside Andrew, building the customer expe
 - **Rewiring Services**: Aluminum wiring replacement, whole-home rewiring
 
 ### Roofing Services
-- **Roof Repair** (/services/residential-roof-repair): All roof types - tile, flat, shingle
+- **Roof Repair** (/services/residential-roof-repair): All roof types - tile, flat, shingle, metal
 - **Roof Installation** (/services/residential-roof-installation): Complete roof replacement
 - **Roof Coating** (/services/residential-roof-coating): Reflective coatings for energy savings
 - **Roof Inspections** (/services/roof-inspection): Free comprehensive inspections
 - **Tile Roofs** (/services/tile-roofs): Clay and concrete tile specialists (50+ year lifespan)
 - **Flat Roofs** (/services/flat-roofs): TPO, EPDM, modified bitumen (15-25 year lifespan)
 - **Shingle Roofs** (/services/shingle-roofs): Architectural and designer shingles
+- **Metal Roofs** (/services/metal-roofs): Standing seam, corrugated (40-70 year lifespan)
 - **Skylight Installation**: Fixed, vented, and tubular skylights
 - **Emergency Roof Repairs**: Storm damage, tarping, emergency response
 - **Commercial Roofing**: TPO, EPDM, built-up roofing systems
@@ -671,10 +672,10 @@ A: Solar installation in Tucson typically costs $15,000-$30,000 before incentive
 ### Roofing Services
 
 **Q: Does Intelligent Design offer roof repair and replacement?**
-A: Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, and flat/foam. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects.
+A: Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, flat/foam, and metal. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects.
 
 **Q: What types of roofing does Intelligent Design work with?**
-A: Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, and TPO/modified bitumen commercial roofing. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling.
+A: Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, TPO/modified bitumen commercial roofing, and standing seam metal roofs. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling.
 
 **Q: Does Intelligent Design offer free roof inspections?**
 A: Yes. Intelligent Design performs comprehensive roof inspections covering structural integrity, flashing condition, tile/shingle condition, drainage, and potential leak points. Inspections are recommended annually before monsoon season and are essential before buying or selling a home. Free inspections available with repair estimates.

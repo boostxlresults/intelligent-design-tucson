@@ -200,6 +200,7 @@ export default function Header() {
       { name: "Shingle Roofs", href: "/services/shingle-roofs", icon: Layers },
       { name: "Tile Roofs", href: "/services/tile-roofs", icon: Layers },
       { name: "Pitched Roofs", href: "/services/pitched-roofs", icon: Home },
+      { name: "Metal Roofs", href: "/services/metal-roofs", icon: Layers },
     ]
   };
 

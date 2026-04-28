@@ -72,7 +72,7 @@ export const residentialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "What's the best roofing material for Tucson's climate?",
-      answer: "Tile roofing (clay or concrete) is ideal for Tucson, lasting 40-50+ years and providing excellent heat resistance and energy efficiency in our extreme desert heat. Asphalt shingles are more affordable but have shorter lifespans (15-20 years) in Arizona's intense UV and heat compared to cooler climates."
+      answer: "Tile roofing (clay or concrete) is ideal for Tucson, lasting 40-50+ years and providing excellent heat resistance and energy efficiency in our extreme desert heat. Metal roofing is another excellent choice, offering 40-70 year lifespans and superior reflectivity to reduce cooling costs. Asphalt shingles are more affordable but have shorter lifespans (15-20 years) in Arizona's intense UV and heat compared to cooler climates."
     },
     {
       question: "When is the best time to replace a roof in Tucson?",
@@ -80,7 +80,7 @@ export const residentialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "Will a new roof lower my cooling costs in Tucson?",
-      answer: "Yes, a new roof with modern materials and proper ventilation can reduce cooling costs by 15-30% in Tucson's extreme heat. Cool roof coatings and reflective tiles reflect more solar heat than dark asphalt shingles, reducing attic temperatures by 30-50°F. Combined with proper attic insulation and ventilation, a new energy-efficient roof can provide substantial annual savings on air conditioning costs throughout Tucson's long cooling season."
+      answer: "Yes, a new roof with modern materials and proper ventilation can reduce cooling costs by 15-30% in Tucson's extreme heat. Cool roof coatings, reflective tiles, or metal roofing reflect more solar heat than dark asphalt shingles, reducing attic temperatures by 30-50°F. Combined with proper attic insulation and ventilation, a new energy-efficient roof can provide substantial annual savings on air conditioning costs throughout Tucson's long cooling season."
     },
     {
       question: "Do you handle permits for roof replacement in Tucson?",
@@ -88,7 +88,7 @@ export const residentialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "How long will my new roof last in Tucson's climate?",
-      answer: "In Tucson's harsh desert climate, asphalt shingle roofs typically last 15-20 years (vs. 20-30 in cooler climates), concrete tile roofs 40-50 years, and clay tile roofs 50+ years. The intense UV exposure, extreme heat (150-180°F roof surface temps), and monsoon storms reduce lifespans compared to national averages. Proper installation, quality materials, and regular maintenance maximize longevity."
+      answer: "In Tucson's harsh desert climate, asphalt shingle roofs typically last 15-20 years (vs. 20-30 in cooler climates), concrete tile roofs 40-50 years, clay tile roofs 50+ years, and metal roofs 40-70 years. The intense UV exposure, extreme heat (150-180°F roof surface temps), and monsoon storms reduce lifespans compared to national averages. Proper installation, quality materials, and regular maintenance maximize longevity."
     },
     {
       question: "Can I add solar panels when replacing my roof?",
@@ -119,7 +119,7 @@ export const residentialRoofInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "How do I choose the right roofing material for my Tucson home?",
-      answer: "Consider durability in extreme heat (tile excels), aesthetic compatibility with Tucson's Spanish/Mediterranean architecture, energy efficiency (reflective materials reduce cooling costs), budget, and expected lifespan. Clay or concrete tile roofs are traditional favorites offering 40-50+ year lifespans, Our experts help you evaluate all factors for the best long-term investment."
+      answer: "Consider durability in extreme heat (tile and metal excel), aesthetic compatibility with Tucson's Spanish/Mediterranean architecture, energy efficiency (reflective materials reduce cooling costs), budget, and expected lifespan. Clay or concrete tile roofs are traditional favorites offering 40-50+ year lifespans, while metal roofing provides modern efficiency and 40-70 year durability. Our experts help you evaluate all factors for the best long-term investment."
     },
     {
       question: "Can you install tile roofs on existing Tucson homes?",
@@ -127,7 +127,7 @@ export const residentialRoofInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What roof color is best for reducing heat in Tucson?",
-      answer: "Lighter colors like white, tan, beige, and terra cotta reflect more solar heat than dark colors, reducing roof surface temperatures by 20-40°F and lowering cooling costs. In Tucson, light-colored concrete or clay tiles are extremely popular for both energy efficiency and traditional Southwestern aesthetics. Cool roof coatings also provide excellent heat rejection for modern home styles."
+      answer: "Lighter colors like white, tan, beige, and terra cotta reflect more solar heat than dark colors, reducing roof surface temperatures by 20-40°F and lowering cooling costs. In Tucson, light-colored concrete or clay tiles are extremely popular for both energy efficiency and traditional Southwestern aesthetics. Cool roof coatings and reflective metal roofing also provide excellent heat rejection for modern home styles."
     },
     {
       question: "How important is roof ventilation in Tucson?",
@@ -225,7 +225,7 @@ export const residentialRoofCoatingFAQs: ServiceFAQs = {
     },
     {
       question: "What types of roofs can be coated in Tucson?",
-      answer: "Roof coatings work on flat roofs (TPO, EPDM, built-up), low-slope roofs, and some tile and shingle applications. The roof must be structurally sound with minimal damage—coating isn't a solution for severely deteriorated roofs. In Tucson, coating is especially popular for flat roofs on modern homes and for extending the life of tile roofs showing age but remaining structurally solid."
+      answer: "Roof coatings work on flat roofs (TPO, EPDM, built-up), low-slope roofs, metal roofs, and some tile and shingle applications. The roof must be structurally sound with minimal damage—coating isn't a solution for severely deteriorated roofs. In Tucson, coating is especially popular for flat roofs on modern homes and for extending the life of tile or metal roofs showing age but remaining structurally solid."
     },
     {
       question: "How long does roof coating last in Tucson's climate?",
@@ -319,7 +319,7 @@ export const commercialRoofReplacementFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What factors affect commercial roof replacement costs in Tucson?",
-      answer: "Commercial roof replacement costs vary widely based on several key factors: material choice (basic single-ply membranes vs. premium systems like PVC), building size and roof complexity, existing roof removal requirements, structural modifications needed, and project accessibility. Reflective roofing systems cost more upfront but provide excellent long-term ROI through energy savings and extended lifespans. We provide detailed estimates considering your building's needs, budget, and long-term value including energy efficiency benefits."
+      answer: "Commercial roof replacement costs vary widely based on several key factors: material choice (basic single-ply membranes vs. premium systems like PVC or metal), building size and roof complexity, existing roof removal requirements, structural modifications needed, and project accessibility. Reflective roofing systems cost more upfront but provide excellent long-term ROI through energy savings and extended lifespans. We provide detailed estimates considering your building's needs, budget, and long-term value including energy efficiency benefits."
     },
     {
       question: "How long does commercial roof replacement take?",
@@ -327,7 +327,7 @@ export const commercialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "What's the best roofing system for Tucson commercial buildings?",
-      answer: "For Tucson's extreme climate, TPO and PVC single-ply membranes are excellent choices, offering high reflectivity, durability in heat, and 20-30 year lifespans. Modified bitumen and built-up systems work well for low-traffic roofs. The best choice depends on your budget, building type, foot traffic needs, and energy efficiency goals—we help you evaluate all factors."
+      answer: "For Tucson's extreme climate, TPO and PVC single-ply membranes are excellent choices, offering high reflectivity, durability in heat, and 20-30 year lifespans. Metal roofing provides 40-50+ year durability and superior heat reflection. Modified bitumen and built-up systems work well for low-traffic roofs. The best choice depends on your budget, building type, foot traffic needs, and energy efficiency goals—we help you evaluate all factors."
     },
     {
       question: "Will a new commercial roof reduce energy costs?",
@@ -347,7 +347,7 @@ export const commercialRoofReplacementFAQs: ServiceFAQs = {
     },
     {
       question: "How long will my new commercial roof last in Tucson?",
-      answer: "In Tucson's harsh climate, TPO and EPDM roofs last 20-30 years, PVC roofs 25-35 years, modified bitumen 15-20 years, and built-up roofs 15-25 years with proper maintenance. The intense UV exposure, extreme heat (roof surface temps exceeding 160°F), and monsoon storms reduce lifespans compared to milder climates. Quality installation and regular maintenance maximize longevity."
+      answer: "In Tucson's harsh climate, TPO and EPDM roofs last 20-30 years, PVC roofs 25-35 years, modified bitumen 15-20 years, built-up roofs 15-25 years, and metal roofs 40-50+ years with proper maintenance. The intense UV exposure, extreme heat (roof surface temps exceeding 160°F), and monsoon storms reduce lifespans compared to milder climates. Quality installation and regular maintenance maximize longevity."
     },
     {
       question: "Can you install solar panels during roof replacement?",
@@ -374,7 +374,7 @@ export const commercialRoofInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What roofing systems do you install on commercial buildings?",
-      answer: "We install TPO, PVC, and EPDM single-ply membranes, modified bitumen systems, built-up roofing (BUR), and spray polyurethane foam (SPF) systems. Each has advantages for different Tucson applications—TPO offers cost-effective reflectivity, PVC provides superior durability and chemical resistance. We help you select the optimal system for your building type, budget, and performance goals."
+      answer: "We install TPO, PVC, and EPDM single-ply membranes, modified bitumen systems, built-up roofing (BUR), metal roofing, and spray polyurethane foam (SPF) systems. Each has advantages for different Tucson applications—TPO offers cost-effective reflectivity, PVC provides superior durability and chemical resistance, metal offers longevity and maximum heat reflection. We help you select the optimal system for your building type, budget, and performance goals."
     },
     {
       question: "How do you ensure quality commercial roof installation?",
@@ -386,7 +386,7 @@ export const commercialRoofInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What makes a commercial roof installation energy-efficient in Tucson?",
-      answer: "Energy-efficient commercial roofs combine highly reflective surfaces (white TPO or PVC), adequate insulation (R-20 to R-30 or higher), proper ventilation to manage attic heat, and cool roof coatings where applicable. In Tucson where commercial cooling costs are substantial, energy-efficient roofing can reduce these costs by 20-40%, providing significant ROI over the roof's 20-40 year lifespan and dramatically improving building comfort for occupants."
+      answer: "Energy-efficient commercial roofs combine highly reflective surfaces (white TPO, PVC, or metal), adequate insulation (R-20 to R-30 or higher), proper ventilation to manage attic heat, and cool roof coatings where applicable. In Tucson where commercial cooling costs are substantial, energy-efficient roofing can reduce these costs by 20-40%, providing significant ROI over the roof's 20-40 year lifespan and dramatically improving building comfort for occupants."
     },
     {
       question: "How important is roof slope in commercial roof installation?",
@@ -480,7 +480,7 @@ export const commercialRoofCoatingFAQs: ServiceFAQs = {
     },
     {
       question: "What types of commercial roofs can be coated?",
-      answer: "We coat flat and low-slope commercial roofs including TPO, EPDM, PVC, modified bitumen, built-up roofing, and some concrete roofs. The roof must be structurally sound with minimal damage—coating isn't suitable for severely deteriorated roofs needing replacement. In Tucson, coating is especially effective for extending the life of aged but structurally sound roofs, particularly on large warehouses, retail centers, and industrial buildings."
+      answer: "We coat flat and low-slope commercial roofs including TPO, EPDM, PVC, modified bitumen, built-up roofing, metal, and some concrete roofs. The roof must be structurally sound with minimal damage—coating isn't suitable for severely deteriorated roofs needing replacement. In Tucson, coating is especially effective for extending the life of aged but structurally sound roofs, particularly on large warehouses, retail centers, and industrial buildings."
     },
     {
       question: "How long does commercial roof coating last?",
@@ -535,7 +535,7 @@ export const tileRoofsFAQs: ServiceFAQs = {
     },
     {
       question: "How long do tile roofs last in Tucson's climate?",
-      answer: "In Tucson's extreme climate, concrete tile roofs last 40-50 years and clay tile roofs 50-100 years with proper installation and maintenance. This far exceeds asphalt shingles (15-20 years in Arizona) making them among the longest-lasting roofing options available. The key is quality underlayment, which needs replacement every 20-25 years—the tiles themselves often outlast the underlayment and can be reused when re-roofing."
+      answer: "In Tucson's extreme climate, concrete tile roofs last 40-50 years and clay tile roofs 50-100 years with proper installation and maintenance. This far exceeds asphalt shingles (15-20 years in Arizona) and rivals metal roofing for longevity. The key is quality underlayment, which needs replacement every 20-25 years—the tiles themselves often outlast the underlayment and can be reused when re-roofing."
     },
     {
       question: "Are tile roofs energy-efficient in Tucson's heat?",
@@ -586,11 +586,11 @@ export const shingleRoofsFAQs: ServiceFAQs = {
     },
     {
       question: "Are shingle roofs energy-efficient in Tucson?",
-      answer: "Shingle roofs are less energy-efficient than tile in Tucson's heat, but cool roof shingles with reflective granules significantly improve performance. Light-colored cool roof shingles can reduce cooling costs by 10-20% compared to dark conventional shingles. While not as efficient as tile, properly installed shingles with adequate attic ventilation and insulation provide acceptable energy performance at a lower initial cost."
+      answer: "Shingle roofs are less energy-efficient than tile or metal in Tucson's heat, but cool roof shingles with reflective granules significantly improve performance. Light-colored cool roof shingles can reduce cooling costs by 10-20% compared to dark conventional shingles. While not as efficient as tile or metal, properly installed shingles with adequate attic ventilation and insulation provide acceptable energy performance at a lower initial cost."
     },
     {
       question: "How do shingle roofs perform in monsoon storms?",
-      answer: "Quality shingles with proper installation and high wind ratings (110+ mph) perform well in typical monsoon storms. However, they're more vulnerable to wind damage than tile—high winds can lift or tear shingles, hail can cause bruising or punctures, and wind-blown debris can damage surfaces. After severe monsoons, inspect for lifted, creased, or missing shingles and address damage promptly to prevent leaks."
+      answer: "Quality shingles with proper installation and high wind ratings (110+ mph) perform well in typical monsoon storms. However, they're more vulnerable to wind damage than tile or metal—high winds can lift or tear shingles, hail can cause bruising or punctures, and wind-blown debris can damage surfaces. After severe monsoons, inspect for lifted, creased, or missing shingles and address damage promptly to prevent leaks."
     },
     {
       question: "What maintenance do shingle roofs need in Tucson?",
@@ -619,9 +619,56 @@ export const shingleRoofsFAQs: ServiceFAQs = {
   ]
 };
 
-// metalRoofsFAQs removed - metal roofing service temporarily unavailable
-// See /home/ubuntu/metal_roof_backup/ for archived content
-
+export const metalRoofsFAQs: ServiceFAQs = {
+  serviceId: 'metal-roofs',
+  serviceName: 'Metal Roofs',
+  faqs: [
+    {
+      question: "Why are metal roofs ideal for Tucson's climate?",
+      answer: "Metal roofing Tucson AZ installations excel in extreme conditions, lasting 40-70 years, reflecting 60-70% of solar heat to reduce cooling costs by 20-30%, withstanding intense UV without deteriorating, resisting monsoon winds up to 140+ mph, and requiring minimal maintenance. Professional metal roofers install 22-24-26 gauge premium systems—professional-grade thickness providing superior durability. They're lightweight (1-3 lbs/sq ft), fire-resistant (Class A rating), and perform exceptionally well in desert heat where other materials fail prematurely, making them increasingly popular with metal roofing Tucson homeowners."
+    },
+    {
+      question: "What factors affect metal roof costs in Tucson?",
+      answer: "Metal roof costs depend on metal type (steel, aluminum, or copper), profile style (standing seam vs. panels), gauge thickness (22-24-26 gauge), roof size and complexity, and installation requirements. Standing seam metal roofers typically charge more for premium 22-24 gauge systems than metal shingles or corrugated panels (26 gauge) due to superior materials and skilled installation. While metal roofing Tucson AZ installations cost more upfront than shingles, the 40-70 year lifespan, minimal maintenance, and 20-30% energy savings provide excellent long-term value compared to replacing shingle roofs every 15-20 years."
+    },
+    {
+      question: "How long do metal roofs last in Tucson?",
+      answer: "Metal roofs last 40-70 years in Tucson depending on material type—steel roofs 40-50 years, aluminum roofs 50-60 years, copper roofs 70-100+ years. This far exceeds shingles (15-20 years) and rivals tile (40-50 years) for longevity. Tucson's dry climate is ideal for metal roofing—no rust issues from constant moisture. The extreme heat and UV don't degrade metal like they do organic materials, making metal an exceptionally durable choice."
+    },
+    {
+      question: "Are metal roofs noisy during monsoon rain?",
+      answer: "Modern metal roofs with proper installation including solid roof decking and adequate attic insulation are not significantly noisier than other roof types during rain. The solid deck dampens sound, insulation provides additional sound barrier, and proper installation eliminates loose panels that could rattle. Most homeowners report rain sounds are pleasant rather than disruptive—a soothing aspect of monsoon season in Tucson."
+    },
+    {
+      question: "Do metal roofs attract lightning in Tucson?",
+      answer: "No, metal roofs don't attract lightning any more than other roof types. While metal conducts electricity, lightning strikes the highest point regardless of material. In fact, metal roofs are safer because if lightning does strike, the metal disperses electricity safely and won't ignite like combustible materials. Metal's fire resistance (Class A rating) is a significant safety advantage in fire-prone areas and provides insurance discounts."
+    },
+    {
+      question: "What colors and styles of metal roofing are available?",
+      answer: "Metal roofing Tucson AZ options include numerous colors (whites, grays, tans, reds, greens, browns) and styles including standing seam (modern, sleek, 22-24 gauge), metal shingles (traditional appearance), corrugated panels (economical, industrial, 26 gauge), and stone-coated steel (tile appearance). For metal roofing Tucson properties, lighter colors provide better heat reflection and energy savings. Standing seam metal roofers recommend premium 22-24 gauge systems for durability and clean aesthetics, while stone-coated steel offers traditional looks with metal performance."
+    },
+    {
+      question: "How energy-efficient are metal roofs in Tucson?",
+      answer: "Metal roofs are highly energy-efficient in Tucson, reflecting 60-70% of solar radiation compared to shingles which absorb most heat. This reduces roof surface temperatures by 50-70°F and can lower cooling costs by 20-30%, providing substantial annual air conditioning savings. Cool roof metal coatings increase reflectivity further. Over the roof's 40-70 year lifespan, cumulative energy savings provide significant ROI beyond the roof's exceptional durability."
+    },
+    {
+      question: "Can metal roofs be installed over existing shingles?",
+      answer: "Yes, metal roofs can often be installed over one layer of existing shingles, saving tear-off and disposal costs. However, we recommend removing old roofing when possible to inspect deck condition, ensure proper ventilation, and maximize metal roof performance. The decision depends on deck condition, building codes, and whether the existing roof has problems that should be addressed. We evaluate your specific situation and recommend the best approach for long-term performance."
+    },
+    {
+      question: "Do metal roofs require special maintenance in Tucson?",
+      answer: "Metal roofs require minimal maintenance—annually clear debris from valleys and gutters, inspect fasteners and sealants every few years, rinse roof surface if dust accumulation is heavy (maintains reflectivity), and check for scratches or coating damage after severe storms. In Tucson's dry climate, rust isn't a concern with modern coated metals. This minimal maintenance over 40-70 years is a significant advantage over tile or shingle roofs requiring more attention."
+    },
+    {
+      question: "How do metal roofs perform in Tucson's hailstorms?",
+      answer: "Quality metal roofing Tucson installations withstand hail very well, with our professional-grade 22-24-26 gauge systems resisting denting from typical monsoon hail. Standing seam metal roofers install thicker 22-24 gauge materials for maximum hail resistance. While large hail (1\"+ diameter) might leave cosmetic dents, metal roofs rarely leak from hail damage unlike shingles which can crack or lose protective granules. Stone-coated steel offers additional hail resistance. For areas with frequent severe hail, experienced metal roofers recommend heavier 22-24 gauge metals or impact-resistant profiles."
+    },
+    {
+      question: "Are metal roofs worth the investment in Tucson?",
+      answer: "For long-term Tucson homeowners, metal roof install by professional standing seam metal roofers provides excellent value through 40-70 year lifespans, 20-30% cooling cost reduction with substantial annual savings, minimal maintenance, increased home value, insurance discounts (fire resistance), and exceptional durability in extreme climate. Our 22-24-26 gauge premium systems deliver superior performance compared to thin, inferior products. While metal roofing Tucson AZ initial cost is higher than shingles and comparable to tile, the significant energy savings, exceptional longevity, and near-zero maintenance make metal roofing an outstanding investment in Arizona's demanding conditions."
+    }
+  ]
+};
 
 export const flatRoofsFAQs: ServiceFAQs = {
   serviceId: 'flat-roofs',
@@ -688,11 +735,11 @@ export const pitchedRoofsFAQs: ServiceFAQs = {
     },
     {
       question: "What roofing materials work best on pitched roofs in Tucson?",
-      answer: "Tile (clay or concrete) is traditional and excellent for pitched Tucson roofs, offering 40-50+ year lifespans and superior heat resistance. Asphalt shingles require 3:12 minimum pitch and last 15-20 years in Arizona. The choice depends on pitch steepness, budget, aesthetic goals, and desired longevity—we help you select the optimal material for your specific roof."
+      answer: "Tile (clay or concrete) is traditional and excellent for pitched Tucson roofs, offering 40-50+ year lifespans and superior heat resistance. Metal roofing works well on any pitch, providing 40-70 year durability and excellent heat reflection. Asphalt shingles require 3:12 minimum pitch and last 15-20 years in Arizona. The choice depends on pitch steepness, budget, aesthetic goals, and desired longevity—we help you select the optimal material for your specific roof."
     },
     {
       question: "What factors affect pitched roof costs in Tucson?",
-      answer: "Pitched roof costs depend on material choice (shingles or tile), pitch steepness, roof size and complexity, and architectural features. Steeper pitches (7:12+) cost 15-30% more than moderate pitches (4:12-6:12) due to additional safety equipment, labor time, and materials needed. Complex roof designs with multiple valleys, dormers, or skylights increase costs further. Material selection significantly impacts both initial investment and long-term value—tile costs more upfront but lasts decades longer than shingles. We provide detailed estimates for your specific roof."
+      answer: "Pitched roof costs depend on material choice (shingles, tile, or metal), pitch steepness, roof size and complexity, and architectural features. Steeper pitches (7:12+) cost 15-30% more than moderate pitches (4:12-6:12) due to additional safety equipment, labor time, and materials needed. Complex roof designs with multiple valleys, dormers, or skylights increase costs further. Material selection significantly impacts both initial investment and long-term value—tile and metal cost more upfront but last decades longer than shingles. We provide detailed estimates for your specific roof."
     },
     {
       question: "Are pitched roofs better than flat roofs in Tucson?",
@@ -720,7 +767,7 @@ export const pitchedRoofsFAQs: ServiceFAQs = {
     },
     {
       question: "What's the minimum pitch for different roofing materials?",
-      answer: "Asphalt shingles require minimum 3:12 pitch (preferably 4:12), tile roofs need 3:12 minimum (4:12 preferred), Steeper pitches provide better water drainage and longer material life. In Tucson where monsoons bring intense rainfall, we recommend not using minimum pitches—a steeper pitch ensures better drainage and reduces leak risk. We help you select materials appropriate for your existing or planned roof pitch."
+      answer: "Asphalt shingles require minimum 3:12 pitch (preferably 4:12), tile roofs need 3:12 minimum (4:12 preferred), and metal roofing can work on 1:12 or flatter with special seaming. Steeper pitches provide better water drainage and longer material life. In Tucson where monsoons bring intense rainfall, we recommend not using minimum pitches—a steeper pitch ensures better drainage and reduces leak risk. We help you select materials appropriate for your existing or planned roof pitch."
     }
   ]
 };

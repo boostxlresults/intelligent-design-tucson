@@ -40,7 +40,7 @@ export const residentialroofinspectionData: ServicePageData = {
   },
   {
     "title": "All Tucson Roof Types",
-    "description": "Tile, shingle, flat roofs | Desert climate expertise | Monsoon damage assessment"
+    "description": "Tile, shingle, flat, metal roofs | Desert climate expertise | Monsoon damage assessment"
   },
   {
     "title": "Honest Recommendations",
@@ -63,7 +63,7 @@ export const residentialroofinspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Industry-Leading Residential Inspection Capabilities: Our comprehensive residential roof inspection program delivers measurable results protecting Tucson homeowners: average 68-minute arrival time for urgent inspection requests across metro Tucson, 18 fully-equipped roofing inspection vehicles strategically positioned throughout [link:/services/roofing-tucson|Tucson], [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], Sahuarita, and Vail, same-day or next-day inspection scheduling 94% of the time, and 24-hour digital report delivery with online portal access to full photo documentation, condition assessments, and repair recommendations. Our certified residential roofing inspectors average 16+ years of Tucson roofing experience and undergo continuous training in desert climate failure modes, tile roof assessment, shingle deterioration patterns, [link:/services/flat-roofs|flat roof] membrane evaluation. We carry advanced diagnostic equipment including thermal imaging cameras for leak detection, moisture meters for underlayment assessment, drone photography for hard-to-access areas, and GPS-tagged photo documentation systems ensuring precise location mapping of all identified issues."
+            "content": "Industry-Leading Residential Inspection Capabilities: Our comprehensive residential roof inspection program delivers measurable results protecting Tucson homeowners: average 68-minute arrival time for urgent inspection requests across metro Tucson, 18 fully-equipped roofing inspection vehicles strategically positioned throughout [link:/services/roofing-tucson|Tucson], [link:/services/roofing-oro-valley|Oro Valley], [link:/services/roofing-marana|Marana], Sahuarita, and Vail, same-day or next-day inspection scheduling 94% of the time, and 24-hour digital report delivery with online portal access to full photo documentation, condition assessments, and repair recommendations. Our certified residential roofing inspectors average 16+ years of Tucson roofing experience and undergo continuous training in desert climate failure modes, tile roof assessment, shingle deterioration patterns, [link:/services/flat-roofs|flat roof] membrane evaluation, and metal roofing systems. We carry advanced diagnostic equipment including thermal imaging cameras for leak detection, moisture meters for underlayment assessment, drone photography for hard-to-access areas, and GPS-tagged photo documentation systems ensuring precise location mapping of all identified issues."
       },
       {
             "type": "paragraph",

@@ -49,11 +49,11 @@ export const roofRepairCommonQuestions: CommonQuestion[] = [
 export const roofReplacementCommonQuestions: CommonQuestion[] = [
   {
     question: "How long does roof replacement take in Tucson?",
-    answer: "Most residential roof replacements take 1-3 days depending on roof size, complexity, and material type. Simple shingle replacements often complete in 1-2 days, while tile roofs may take 2-4 days. Commercial roofs take 1-4 weeks depending on size. We work efficiently to minimize disruption, protect your property, and complete quality installations quickly. Weather delays during monsoon season can extend timelines slightly."
+    answer: "Most residential roof replacements take 1-3 days depending on roof size, complexity, and material type. Simple shingle replacements often complete in 1-2 days, while tile or metal roofs may take 2-4 days. Commercial roofs take 1-4 weeks depending on size. We work efficiently to minimize disruption, protect your property, and complete quality installations quickly. Weather delays during monsoon season can extend timelines slightly."
   },
   {
     question: "What roofing material is best for Tucson's climate?",
-    answer: "For Tucson's extreme conditions, concrete or clay tiles last 40-50+ years and reflect heat excellently. Architectural shingles are economical and last 20-30 years but absorb more heat. Flat roofs benefit from reflective TPO or PVC membranes. The best choice depends on your budget, home style, desired longevity, and energy efficiency goals. We help you evaluate all factors."
+    answer: "For Tucson's extreme conditions, concrete or clay tiles last 40-50+ years and reflect heat excellently. Metal roofing lasts 40-70 years with superior heat reflection and durability. Architectural shingles are economical and last 20-30 years but absorb more heat. Flat roofs benefit from reflective TPO or PVC membranes. The best choice depends on your budget, home style, desired longevity, and energy efficiency goals. We help you evaluate all factors."
   },
   ...roofingWarrantyQuestions,
   ...roofingMaintenanceQuestions
@@ -106,7 +106,14 @@ export const shingleRoofCommonQuestions: CommonQuestion[] = [
   ...roofingWarrantyQuestions
 ];
 
-// metalRoofCommonQuestions removed - metal roofing service temporarily unavailable
+export const metalRoofCommonQuestions: CommonQuestion[] = [
+  {
+    question: "Are metal roofs good for Tucson's heat?",
+    answer: "Yes, metal roofs are excellent for Tucson! They reflect solar radiation far better than shingles, reducing cooling costs by 20-30%. Standing seam metal roofs last 40-70 years, require minimal maintenance, withstand monsoon winds and hail, and don't absorb heat like shingles. Modern finishes resist fading and corrosion. While initially more expensive than shingles, metal roofs provide superior long-term value through energy savings, longevity, and near-zero maintenance."
+  },
+  ...roofingWarrantyQuestions,
+  ...roofingMaintenanceQuestions
+];
 
 export const flatRoofCommonQuestions: CommonQuestion[] = [
   {
