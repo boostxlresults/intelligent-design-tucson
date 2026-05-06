@@ -26,6 +26,17 @@ export default function ContactPage() {
             </p>
             
             <SchedulerCluster position="hero" />
+            <div className="max-w-2xl mx-auto mt-4">
+              <label className="flex items-start gap-2 text-xs text-muted-foreground cursor-pointer">
+                <input type="checkbox" className="mt-0.5 rounded border-border" />
+                <span>
+                  I would like to receive automated text messages from Intelligent Design for appointment notifications, reminders, and review requests. Message frequency may vary. Message and data rates may apply. Reply HELP for help or STOP to opt out at any time. View our{" "}
+                  <a href="/privacy-policy" className="underline hover:text-primary">Privacy Policy</a>{" "}
+                  and{" "}
+                  <a href="/terms-of-service" className="underline hover:text-primary">Terms of Service</a>.
+                </span>
+              </label>
+            </div>
           </div>
         </section>
 
