@@ -1,9 +1,13 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
+import noindexSlugs from '@/data/noindex-service-slugs.json';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
+
+// Location-variant slugs excluded from sitemap (noindexed)
+const NOINDEX_SET = new Set(noindexSlugs.slugs);
 
 const SITE_URL = 'https://www.idesignac.com';
 
@@ -87,10 +91,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   });
 
-  // Service pages (from services manifest - all need /services/ prefix for canonical URLs)
+  // Service pages (from services manifest - only include core pages, exclude location variants)
   Object.keys(serviceManifest.services).forEach((serviceKey) => {
     // Skip internal keys that aren't actual pages
     if (serviceKey.startsWith('_')) return;
+    
+    // Skip location-variant pages (noindexed for duplicate content)
+    if (NOINDEX_SET.has(serviceKey)) return;
     
     // Convert manifest key to URL format if needed
     const urlSlug = SERVICE_NAME_REVERSE_MAP[serviceKey] || serviceKey;

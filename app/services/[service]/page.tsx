@@ -6,8 +6,13 @@ import ServicePage from "@/components/pages/ServicePage";
 import ClientSchemas from "@/components/schemas/ClientSchemas";
 import { getServiceSchemas } from "@/components/schemas/ServiceSchemas";
 import { generateServiceMetadata } from "@/lib/seo";
+import { generateMetadata as generateSEOMetadata } from "@/lib/seo";
 import { getRelatedBlogPostsForService, getServiceTypeFromSlug } from "@/lib/seo/getRelatedBlogPosts";
 import serviceManifest from "@/data/pages/services/manifest.json";
+import noindexSlugs from "@/data/noindex-service-slugs.json";
+
+// Set of location-variant slugs that should not be indexed
+const NOINDEX_SLUGS = new Set(noindexSlugs.slugs);
 
 // Build lookup map from manifest: canonical slug -> dataFile
 // Only map canonical slugs; aliases are handled by redirects in next.config.ts
@@ -61,7 +66,21 @@ export async function generateMetadata({
   // Generate schemas for JSON-LD
   const schemas = getServiceSchemas(serviceData, serviceSlug);
 
-  // Return base metadata (schemas handled by ClientSchemas component)
+  // Check if this is a location-variant page that should be noindexed
+  const shouldNoIndex = NOINDEX_SLUGS.has(serviceSlug);
+
+  // Return base metadata with noindex for location variants
+  if (shouldNoIndex) {
+    return generateSEOMetadata({
+      title: `${serviceData.serviceName} | Intelligent Design Tucson`,
+      description: serviceData.description,
+      path: `/services/${serviceSlug}`,
+      image: serviceData.heroImage,
+      noIndex: true,
+    });
+  }
+
+  // Return normal indexed metadata for core service pages
   return generateServiceMetadata(
     serviceData.serviceName,
     serviceData.h1,
