@@ -242,6 +242,7 @@ export const infoSubItems: ServiceColumns = {
     { name: "Careers", href: "/careers", icon: Users },
     { name: "Family Protection Plans", href: "/family-protection-plans", icon: ShieldCheck },
     { name: "Commercial Maintenance", href: "/services/commercial-maintenance", icon: Building2 },
+    { name: "Service Map", href: "/service-map", icon: MapPin },
   ],
   column2: [
     {

@@ -80,6 +80,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/special-offers',
     '/resources',
     '/blog',
+    '/service-map',
   ];
 
   corePages.forEach((page) => {
