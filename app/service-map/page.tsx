@@ -27,7 +27,17 @@ interface CheckIn {
   tags: string;
 }
 
-async function getCheckins() {
+interface ServiceMapStats {
+  total_jobs: number | string;
+  total_cities: number | string;
+  total_services: number | string;
+}
+
+async function getCheckins(): Promise<{
+  checkins: CheckIn[];
+  stats: ServiceMapStats;
+  filters: { cities: { name: string; count: number }[]; services: { name: string; count: number }[] };
+}> {
   try {
     const sql = getServiceMapDb();
     if (!sql) {
@@ -75,7 +85,7 @@ async function getCheckins() {
 
     return {
       checkins: checkins as CheckIn[],
-      stats: stats[0],
+      stats: stats[0] as ServiceMapStats,
       filters: {
         cities: cities.map((c: any) => ({ name: c.city, count: parseInt(c.cnt) })),
         services: services.map((s: any) => ({ name: s.service_type, count: parseInt(s.cnt) })),
