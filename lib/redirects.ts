@@ -1640,7 +1640,7 @@ export const STANDALONE_PAGES = new Set([
   'free-hvac-quote', 'water-heater-quote', 'filter-shop',
   'knowledge-hub', 'r22-phaseout', 'education-library',
   'drain-clearing-special', 'ac-system-faqs', 'schedule',
-  'service-areas', 'services', 'blog'
+  'service-areas', 'services', 'blog', 'service-map'
 ]);
 
 export const SERVICE_KEYWORDS = [
