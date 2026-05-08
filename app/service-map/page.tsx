@@ -140,15 +140,21 @@ function generateServiceSchemas(checkins: CheckIn[]) {
           }
         : {}),
     },
-    ...(checkin.images && checkin.images !== '[]'
-      ? {
-          image: {
-            '@type': 'ImageObject',
-            url: JSON.parse(checkin.images)[0],
-            caption: `${checkin.service_type} service by Intelligent Design in ${checkin.city}, AZ`,
-          },
+    ...((() => {
+      try {
+        const imgs = checkin.images ? JSON.parse(checkin.images) : [];
+        if (Array.isArray(imgs) && imgs.length > 0 && imgs[0]) {
+          return {
+            image: {
+              '@type': 'ImageObject',
+              url: imgs[0],
+              caption: `${checkin.service_type} service by Intelligent Design in ${checkin.city}, AZ`,
+            },
+          };
         }
-      : {}),
+      } catch {}
+      return {};
+    })()),
     serviceType: checkin.service_type,
     termsOfService: 'https://www.idesignac.com/guarantees',
   }));
