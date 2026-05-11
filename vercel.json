@@ -1,5 +1,11 @@
 {
   "buildCommand": "next build",
+  "crons": [
+    {
+      "path": "/api/cron/sync-service-map",
+      "schedule": "0 6 * * *"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
