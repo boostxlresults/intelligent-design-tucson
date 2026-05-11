@@ -31,7 +31,7 @@ export const actuneupData: ServicePageData = {
     "description": "Clean coils & calibrated systems run efficiently | Refrigerant optimization | Airflow improvements"
   },
   {
-    "title": "Comprehensive 23-Point Inspection",
+    "title": "Comprehensive 86-Point Inspection",
     "description": "Thorough system analysis | Electrical testing | Safety checks | Performance optimization | Complete diagnostics"
   },
   {
@@ -55,7 +55,7 @@ export const actuneupData: ServicePageData = {
             "type": "video",
             "videoId": "a34eWo_fucE",
             "title": "AC Tune-Up Service Tucson - Professional Air Conditioning Maintenance",
-            "description": "Watch our certified HVAC technicians perform a comprehensive AC tune-up in Tucson. Learn about our 23-point inspection process, efficiency optimization, and how regular maintenance prevents breakdowns and extends equipment life.",
+            "description": "Watch our certified HVAC technicians perform a comprehensive AC tune-up in Tucson. Learn about our 86-point inspection process, efficiency optimization, and how regular maintenance prevents breakdowns and extends equipment life.",
             "duration": "PT5M",
             "uploadDate": "2024-01-01T00:00:00Z"
       },
@@ -67,7 +67,7 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 23-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 23-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. When Tucson temperatures soar above 110°F for weeks on end during our extended April-October cooling season, your air conditioning system works harder than almost anywhere else in the country. An annual AC tune-up is essential preventative maintenance that keeps your system running efficiently, prevents unexpected breakdowns during extreme heat, and can reduce your energy bills by 15-30%. In Tucson's punishing desert climate where AC units operate 2,500-3,000 hours annually—nearly triple the usage of moderate climates—professional tune-ups aren't optional, they're critical for reliability, efficiency, and longevity."
+            "content": "Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 86-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 86-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. When Tucson temperatures soar above 110°F for weeks on end during our extended April-October cooling season, your air conditioning system works harder than almost anywhere else in the country. An annual AC tune-up is essential preventative maintenance that keeps your system running efficiently, prevents unexpected breakdowns during extreme heat, and can reduce your energy bills by 15-30%. In Tucson's punishing desert climate where AC units operate 2,500-3,000 hours annually—nearly triple the usage of moderate climates—professional tune-ups aren't optional, they're critical for reliability, efficiency, and longevity."
       },
       {
             "type": "paragraph",

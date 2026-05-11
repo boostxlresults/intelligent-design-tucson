@@ -27,7 +27,7 @@ export const acserviceData: ServicePageData = {
     "description": "Regular maintenance keeps systems running efficiently | Prevent costly emergency repairs | Extend equipment lifespan"
   },
   {
-    "title": "Comprehensive 23-Point Inspection",
+    "title": "Comprehensive 86-Point Inspection",
     "description": "Thorough system diagnostics | Refrigerant level check | Electrical component testing | Clean coils & filters"
   },
   {
@@ -102,7 +102,7 @@ export const acserviceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our 23-point AC service inspection and maintenance goes far beyond basic filter changes. We perform comprehensive diagnostics and optimization specifically designed for Tucson's extreme desert climate where air conditioning systems face unique challenges: intense UV degradation of outdoor components, dust infiltration affecting airflow, mineral buildup from hard water in condensate systems, and extreme temperature cycling stressing electrical connections. Each service visit includes detailed testing, professional cleaning, precision adjustments, and honest recommendations to keep your system running reliably through the entire cooling season."
+            "content": "Our 86-point AC service inspection and maintenance goes far beyond basic filter changes. We perform comprehensive diagnostics and optimization specifically designed for Tucson's extreme desert climate where air conditioning systems face unique challenges: intense UV degradation of outdoor components, dust infiltration affecting airflow, mineral buildup from hard water in condensate systems, and extreme temperature cycling stressing electrical connections. Each service visit includes detailed testing, professional cleaning, precision adjustments, and honest recommendations to keep your system running reliably through the entire cooling season."
       },
       {
             "type": "heading",
