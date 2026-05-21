@@ -18,6 +18,9 @@ export const acrepairData: ServicePageData = {
   // Service Info
   serviceName: 'AC Repair Tucson AZ',
   category: 'HVAC',
+
+  // Make phone CTA primary (emergency service page)
+  heroPhonePrimary: true,
   
   // Content
   highlights: [
@@ -31,7 +34,7 @@ export const acrepairData: ServicePageData = {
   },
   {
     "title": "Upfront, Transparent Pricing",
-    "description": "No hidden fees | Written estimates before work begins | Financing options available"
+    "description": "Most AC repairs: $150\u2013$450 | Upfront pricing before work begins | No surprise fees | Financing available"
   },
   {
     "title": "Expert Certified Technicians",

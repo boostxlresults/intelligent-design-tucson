@@ -1,111 +1,171 @@
 
-// Auto-generated from ACTuneup.tsx
+// AC Tune-Up Page - Rebuilt for Google Ads Quality Score optimization
 import type { ServicePageData } from '@/types/services';
 import { acTuneupFAQs } from '@/data/faqs/hvac';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const actuneupData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Tune-Up Tucson AZ | Air Conditioning Tune-Ups & Inspections | Intelligent Design',
-  description: 'Professional AC tune-ups in Tucson, AZ. Comprehensive air conditioning tune-up service to maximize efficiency, prevent breakdowns, and extend system life. Pre-season tune-ups available from Tucson.',
+  title: 'AC Tune-Up Tucson AZ | $28.88 86-Point Inspection | Intelligent Design',
+  description: 'Professional AC tune-up in Tucson for just $28.88. Our 86-point inspection prevents costly breakdowns, extends system life 3-5 years, and improves efficiency 15-25%. Same-day appointments available. Call (520) 230-2827.',
   slug: 'ac-tuneup-tucson',
   
   // Hero Section
-  h1: 'Highest-Rated AC Tune-Up in Tucson AZ',
-  h2Subheading: 'Over 23,000 5-Star Reviews',
-  tagline: 'Pre-Season Tune-Ups | Complete System Inspection | Efficiency Optimization | Prevent Breakdowns',
+  h1: '$28.88 AC Tune-Up in Tucson | 86-Point Inspection',
+  h2Subheading: 'Professional AC maintenance to prevent costly breakdowns \u2014 for less than the cost of dinner out',
+  tagline: 'Complete System Diagnostics | All Brands Serviced | Same-Day Appointments Available',
   heroImage: '/generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.webp',
   heroImageAlt: 'Professional AC tune-up maintenance service in Tucson home',
   
   // Service Info
   serviceName: 'AC Tune-Up Tucson AZ',
   category: 'HVAC',
+
+  // Hero Financing Banner
+  heroFinancingBanner: '$28.88 Complete 86-Point AC Tune-Up | No Hidden Fees',
   
   // Content
   highlights: [
   {
-    "title": "Prevent Summer Breakdowns",
-    "description": "Pre-season tune-ups catch problems early | Avoid emergency repairs during peak heat | Keep your family comfortable"
+    "title": "Just $28.88 \u2014 No Hidden Fees",
+    "description": "Complete 86-point inspection | Written report with recommendations | No upsell pressure | Transparent pricing"
   },
   {
-    "title": "Lower Energy Bills by 15-30%",
-    "description": "Clean coils & calibrated systems run efficiently | Refrigerant optimization | Airflow improvements"
+    "title": "Prevent $500\u2013$2,000 Emergency Repairs",
+    "description": "Catch small issues before they become major failures | A $28.88 tune-up saves thousands"
   },
   {
     "title": "Comprehensive 86-Point Inspection",
-    "description": "Thorough system analysis | Electrical testing | Safety checks | Performance optimization | Complete diagnostics"
+    "description": "Electrical, refrigerant, airflow, thermostat, drainage & overall system | Complete diagnostics"
   },
   {
-    "title": "Extend Equipment Life 3-5 Years",
+    "title": "Extend System Life 3\u20135 Years",
     "description": "Regular maintenance prevents premature failure | Protect your HVAC investment | Maximize ROI"
   },
   {
-    "title": "Maintain Warranty Coverage",
-    "description": "Most manufacturers require annual service | We document all work | Keep warranty valid"
+    "title": "Improve Efficiency 15\u201325%",
+    "description": "Clean coils & calibrated systems lower monthly energy bills | Tucson AC runs 6-8 months/year"
   },
   {
-    "title": "Affordable Peace of Mind",
-    "description": "Transparent pricing | Maintenance plan discounts | Small investment prevents major repairs"
+    "title": "Maintain Manufacturer Warranty",
+    "description": "Most manufacturers require annual maintenance | We document all work | Keep warranty valid"
   }
 ],
   content: {
-    mainHeading: 'Best AC Tune-Up Company in Tucson, AZ',
+    mainHeading: '$28.88 AC Tune-Up in Tucson, AZ',
     sections: [
 
       {
-            "type": "video",
-            "videoId": "a34eWo_fucE",
-            "title": "AC Tune-Up Service Tucson - Professional Air Conditioning Maintenance",
-            "description": "Watch our certified HVAC technicians perform a comprehensive AC tune-up in Tucson. Learn about our 86-point inspection process, efficiency optimization, and how regular maintenance prevents breakdowns and extends equipment life.",
-            "duration": "PT5M",
-            "uploadDate": "2024-01-01T00:00:00Z"
+            "type": "cta",
+            "heading": "Schedule Your $28.88 AC Tune-Up Today",
+            "content": "Same-day appointments available. No overtime charges. Complete 86-point inspection for just $28.88.",
+            "buttonText": "Schedule Your Tune-Up",
+            "buttonLink": "#schedule"
       },
       {
             "type": "heading",
-            "heading": "Best AC Tune-Up Company in Tucson, AZ",
+            "heading": "Why Tucson Homeowners Schedule Annual AC Tune-Ups",
             "level": 2,
-            "content": "Best AC Tune-Up Company in Tucson, AZ"
+            "content": "Why Tucson Homeowners Schedule Annual AC Tune-Ups"
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 86-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. Intelligent Design Air Conditioning provides the highest-rated AC tune-up service in Tucson, Arizona, with a comprehensive 86-point inspection performed by NATE-certified technicians. With over 23,000 verified five-star reviews and 46 years of experience maintaining air conditioning systems in Tucson's extreme desert climate, the company services all major AC brands and offers same-day tune-up appointments across Tucson, Oro Valley, Marana, Sahuarita, and surrounding communities. When Tucson temperatures soar above 110°F for weeks on end during our extended April-October cooling season, your air conditioning system works harder than almost anywhere else in the country. An annual AC tune-up is essential preventative maintenance that keeps your system running efficiently, prevents unexpected breakdowns during extreme heat, and can reduce your energy bills by 15-30%. In Tucson's punishing desert climate where AC units operate 2,500-3,000 hours annually—nearly triple the usage of moderate climates—professional tune-ups aren't optional, they're critical for reliability, efficiency, and longevity."
+            "content": "Tucson's extreme heat means your AC runs 6\u20138 months per year\u2014that's 3x the wear of moderate climates. Systems operating 2,500\u20133,000 hours annually in 110\u00b0F+ heat experience accelerated component degradation that goes unnoticed until a complete failure occurs, typically on the hottest day of the year when you need cooling most."
       },
       {
             "type": "paragraph",
-            "content": "Same-Day AC Tune-Up Service When You Need It: Our ServiceTitan-powered dispatch system delivers industry-leading response times for preventive maintenance: average 73-minute arrival for tune-up appointments across metro Tucson. We maintain 42 fully-stocked service vehicles strategically positioned throughout Tucson, [link:/services/hvac-oro-valley|Oro Valley], [link:/services/hvac-marana|Marana], Sahuarita, and Vail, each equipped with specialized maintenance tools, diagnostic equipment, and the most common tune-up components—filters, capacitors, contactors, and professional coil cleaning supplies—enabling same-visit completion 95% of the time. Whether you're scheduling spring preventive maintenance before summer heat arrives or mid-season optimization after months of heavy use, our certified professionals arrive promptly and complete your service efficiently."
+            "content": "A $28.88 tune-up prevents $500\u2013$2,000 emergency repairs by catching issues early\u2014failing capacitors, low refrigerant, dirty coils, and worn contactors that would otherwise cause a complete system breakdown during peak summer heat. Regular maintenance extends your system's lifespan by 3\u20135 years, improves efficiency by 15\u201325% (lowering your monthly energy bills significantly), and maintains your manufacturer warranty, which most brands require annual professional maintenance to keep valid."
+      },
+      {
+            "type": "heading",
+            "heading": "What\u2019s Included in Our 86-Point AC Tune-Up",
+            "level": 2,
+            "content": "What\u2019s Included in Our 86-Point AC Tune-Up"
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've been the #1 rated AC service company in Tucson for 7 consecutive years (2018-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest pricing, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/ac-service-tucson|AC maintenance] provider in Pima County. When you're trusting a company with your family's comfort during 110-degree heat, you're choosing the company your neighbors rely on for their [link:/guarantees|family-owned, veteran-operated service with industry-leading guarantees]."
+            "content": "**Electrical System:** Inspect and tighten all electrical connections \u2022 Test capacitor performance \u2022 Check contactor condition \u2022 Verify voltage and amperage \u2022 Inspect wiring for damage or wear"
       },
       {
             "type": "paragraph",
-            "content": "Elite AC Tune-Up Expertise & Multi-Trade Advantage: Our 68 NATE-certified technicians average 17+ years of hands-on HVAC experience and complete 120+ hours of annual manufacturer training specifically on the latest AC technologies including variable-speed compressors, smart diagnostics, and Tucson-specific desert climate optimization. Every technician carries specialized diagnostic equipment—refrigerant analyzers, superheat/subcooling meters, amp clamps for electrical testing, and thermal imaging cameras for detecting hidden airflow problems. Our unique advantage: as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], and solar company, we can address the complete picture during tune-up visits—[link:/services/duct-sealing-tucson|duct sealing] improvements to stop cooled air loss, electrical panel issues affecting AC performance, condensate drain line connections to prevent water damage, and even [link:/services/residential-solar-installation|solar panel] coordination for dramatically reduced cooling costs."
+            "content": "**Refrigerant System:** Check refrigerant levels \u2022 Inspect for refrigerant leaks \u2022 Test pressure readings \u2022 Inspect refrigerant lines"
+      },
+      {
+            "type": "paragraph",
+            "content": "**Airflow & Components:** Inspect and clean evaporator coil \u2022 Inspect and clean condenser coil \u2022 Check blower motor and wheel \u2022 Inspect air filter (replacement recommendations) \u2022 Check supply and return airflow \u2022 Inspect ductwork connections"
+      },
+      {
+            "type": "paragraph",
+            "content": "**Thermostat & Controls:** Calibrate thermostat \u2022 Test heating/cooling cycles \u2022 Verify temperature differential \u2022 Check safety controls"
+      },
+      {
+            "type": "paragraph",
+            "content": "**Drainage:** Clear condensate drain line \u2022 Inspect drain pan \u2022 Check for moisture/water damage"
+      },
+      {
+            "type": "paragraph",
+            "content": "**Overall System:** Measure system performance \u2022 Check for unusual noises or vibrations \u2022 Inspect outdoor unit clearance \u2022 Written report with recommendations"
+      },
+      {
+            "type": "heading",
+            "heading": "Is Your AC Ready for Tucson\u2019s Summer?",
+            "level": 2,
+            "content": "Is Your AC Ready for Tucson\u2019s Summer?"
+      },
+      {
+            "type": "paragraph",
+            "content": "Tucson summers regularly exceed 110\u00b0F, and systems that haven't been maintained are 3x more likely to fail during peak heat. When your AC stops working in July, you're competing with thousands of other emergency calls for limited technician availability\u2014and facing repair bills 2\u20133x higher than preventive maintenance would have cost. Don't wait until it's 112\u00b0 and your AC stops working. Schedule your $28.88 tune-up now while appointments are available."
       },
       {
             "type": "cta",
-            "heading": "Schedule Your AC Tune-Up Today",
-            "content": "Prevent summer breakdowns with professional maintenance. Same-day service available. Call (520) 333-2665 or schedule online now.",
+            "heading": "Schedule Your $28.88 AC Tune-Up Today",
+            "content": "Same-day appointments available | No overtime charges | Complete 86-point inspection",
             "buttonText": "Schedule Service",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Optimal AC Tune-Up Timing for Tucson Climate",
-            "level": 2,
-            "content": "Optimal AC Tune-Up Timing for Tucson Climate"
+            "buttonLink": "#schedule"
       },
       {
             "type": "paragraph",
-            "content": "Timing your AC tune-up correctly in Tucson's unique climate makes a significant difference in system performance, service availability, and your family's comfort. Unlike moderate climates with shorter cooling seasons, Tucson's extended April-October heat cycle requires strategic maintenance scheduling to ensure your AC is ready for months of continuous operation. Our ServiceTitan scheduling data analyzing 18,000+ annual tune-up appointments reveals optimal timing patterns that maximize system reliability while minimizing wait times and emergency service needs."
-      },
-      {
-            "type": "heading",
-            "heading": "Spring Pre-Season Tune-Up (March-Early April) - Most Recommended",
-            "level": 3,
-            "content": "Spring Pre-Season Tune-Up (March-Early April) - Most Recommended"
+            "content": "Need [link:/services/ac-repair-tucson|AC repair] instead? If your system is currently not cooling, call (520) 333-2665 for same-day emergency service. Looking to replace an aging system? Learn about our [link:/services/ac-installation-tucson|AC installation] options with 0% financing available. Check our [link:/special-offers|special offers] page for additional seasonal promotions."
       }
     ]
   },
-  faqs: acTuneupFAQs,
-  commonQuestions: getRefinementQuestions('HVAC', 'Tucson'),
+  faqs: {
+    serviceId: "ac-tuneup",
+    serviceName: "AC Tune-Up",
+    faqs: [
+      {
+        question: "How often should I get an AC tune-up in Tucson?",
+        answer: "At minimum once per year, ideally in spring before summer heat arrives. In Tucson's extreme climate where systems run 6-8 months continuously, some homeowners opt for twice-yearly service (spring and fall) for optimal performance and longevity."
+      },
+      {
+        question: "What does an AC tune-up cost?",
+        answer: "Our 86-point AC tune-up is $28.88. This includes complete system diagnostics, cleaning, calibration, and a written report with recommendations. There are no hidden fees or upsell pressure."
+      },
+      {
+        question: "How long does a tune-up take?",
+        answer: "A thorough 86-point inspection typically takes 45-60 minutes. Our technicians take the time to do it right \u2014 we don't rush through a checklist."
+      },
+      {
+        question: "Will a tune-up fix my AC if it's already not working?",
+        answer: "A tune-up is preventive maintenance, not a repair service. If your AC is currently not cooling or making unusual noises, you need AC repair service. Call us at (520) 333-2665 for same-day emergency repair."
+      },
+      {
+        question: "Do I need a tune-up if my AC seems to be working fine?",
+        answer: "Yes. Many AC problems develop silently \u2014 low refrigerant, failing capacitors, dirty coils \u2014 and only become obvious when the system fails completely during peak heat. A tune-up catches these issues when they're $28.88 fixes instead of $500+ emergency repairs."
+      }
+    ]
+  },
+  serviceArea: {
+    primary: 'Tucson',
+    nearby: ['Oro Valley', 'Marana', 'Sahuarita', 'Green Valley', 'Vail', 'Catalina Foothills']
+  },
+  serviceType: 'HVACService',
+  areaServed: 'Tucson, AZ',
+  schema: {
+    "@type": "Offer",
+    "name": "$28.88 AC Tune-Up - 86-Point Inspection",
+    "price": "28.88",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "validFrom": "2025-01-01",
+    "description": "Complete 86-point AC tune-up inspection including electrical, refrigerant, airflow, thermostat, and drainage system checks."
+  }
 };

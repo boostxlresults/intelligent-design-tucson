@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { CheckCircle2, Phone, FileText } from "lucide-react";
+import { CheckCircle2, Phone, FileText, Clock, Shield } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
@@ -131,27 +131,71 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
             <p className="text-xl mb-8 text-gray-200">
               {data.tagline}
             </p>
+
+            {/* Hero Financing Banner */}
+            {data.heroFinancingBanner && (
+              <div className="mb-6 inline-flex items-center gap-2 bg-green-600/90 text-white px-5 py-3 rounded-lg border border-green-400/50 shadow-lg" data-testid="hero-financing-banner">
+                <span className="text-lg md:text-xl font-bold">{data.heroFinancingBanner}</span>
+              </div>
+            )}
+
+            {/* Hero Badges */}
+            {data.heroBadges && data.heroBadges.length > 0 && (
+              <div className="flex flex-wrap gap-3 mb-6" data-testid="hero-badges">
+                {data.heroBadges.map((badge, i) => (
+                  <span key={i} className="inline-flex items-center gap-1.5 bg-white/15 backdrop-blur-sm text-white px-3 py-1.5 rounded-full text-sm font-medium border border-white/25">
+                    <Shield className="w-4 h-4" />
+                    {badge}
+                  </span>
+                ))}
+              </div>
+            )}
             
             {/* CTA Buttons - Match Home Page Hero Styling */}
             <div className="flex flex-col sm:flex-row sm:flex-wrap gap-4">
-              <SchedulerEmbed
-                triggerText="Schedule Service"
-                variant="destructive"
-                size="lg"
-                className="text-lg px-8 py-6 h-auto"
-                data-testid="button-schedule-hero"
-              />
-              <Button
-                size="lg"
-                variant="outline"
-                className="text-lg px-8 py-6 h-auto bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 font-bold"
-                asChild
-              >
-                <a href="tel:+15203332665" data-testid="button-call-hero">
-                  <Phone className="w-5 h-5 mr-2" />
-                  Call: (520) 333-2665
-                </a>
-              </Button>
+              {data.heroPhonePrimary ? (
+                <>
+                  <Button
+                    size="lg"
+                    variant="destructive"
+                    className="text-lg px-8 py-6 h-auto font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-hero">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call Now: (520) 333-2665
+                    </a>
+                  </Button>
+                  <SchedulerEmbed
+                    triggerText="Schedule Service"
+                    variant="outline"
+                    size="lg"
+                    className="text-lg px-8 py-6 h-auto bg-white/10 border-2 border-white/50 text-white hover:bg-white/20"
+                    data-testid="button-schedule-hero"
+                  />
+                </>
+              ) : (
+                <>
+                  <SchedulerEmbed
+                    triggerText="Schedule Service"
+                    variant="destructive"
+                    size="lg"
+                    className="text-lg px-8 py-6 h-auto"
+                    data-testid="button-schedule-hero"
+                  />
+                  <Button
+                    size="lg"
+                    variant="outline"
+                    className="text-lg px-8 py-6 h-auto bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 font-bold"
+                    asChild
+                  >
+                    <a href="tel:+15203332665" data-testid="button-call-hero">
+                      <Phone className="w-5 h-5 mr-2" />
+                      Call: (520) 333-2665
+                    </a>
+                  </Button>
+                </>
+              )}
               {data.heroQuoteButton && (
                 <Button
                   size="lg"
@@ -171,7 +215,31 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
       </section>
 
       {/* Trust Bar - Social Proof */}
-      <TrustBar />
+      <TrustBar responseTime={data.slug === 'ac-repair-tucson' ? '73 Min' : undefined} />
+
+      {/* Process Steps - For emergency service pages */}
+      {data.slug === 'ac-repair-tucson' && (
+        <section className="bg-blue-900 text-white py-6">
+          <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
+            <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8">
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-yellow-400 text-blue-900 flex items-center justify-center font-bold text-lg">1</div>
+                <span className="text-lg font-semibold">Call Us</span>
+              </div>
+              <div className="hidden md:block text-yellow-400 text-2xl">&rarr;</div>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-yellow-400 text-blue-900 flex items-center justify-center font-bold text-lg">2</div>
+                <span className="text-lg font-semibold">Tech Dispatched <span className="text-yellow-400">(avg. 73 min)</span></span>
+              </div>
+              <div className="hidden md:block text-yellow-400 text-2xl">&rarr;</div>
+              <div className="flex items-center gap-3">
+                <div className="w-10 h-10 rounded-full bg-yellow-400 text-blue-900 flex items-center justify-center font-bold text-lg">3</div>
+                <span className="text-lg font-semibold">AC Fixed Today</span>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Drain Clearing Special Coupon - Above the Fold */}
       {showDrainSpecial && <DrainClearingCoupon />}

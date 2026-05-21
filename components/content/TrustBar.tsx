@@ -1,9 +1,13 @@
-import { Star } from "lucide-react";
+import { Star, Clock } from "lucide-react";
 import LazyImage from "./LazyImage";
 
 const bbbLogoUrl = "/images/bbb-logo.png";
 
-export default function TrustBar() {
+interface TrustBarProps {
+  responseTime?: string;
+}
+
+export default function TrustBar({ responseTime }: TrustBarProps) {
   return (
     <section className="py-8 md:py-12 bg-card border-y border-card-border">
       <div className="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
@@ -63,6 +67,18 @@ export default function TrustBar() {
             <p className="text-sm font-semibold text-foreground">Family & Veteran-Owned</p>
             <p className="text-xs text-muted-foreground mt-1">Serving Tucson Since 1979</p>
           </div>
+
+          {/* Response Time - Only shown when prop is provided */}
+          {responseTime && (
+            <>
+              <div className="hidden md:block h-16 w-px bg-border" />
+              <div className="flex flex-col items-center gap-1" data-testid="trust-response-time">
+                <Clock className="w-6 h-6 text-red-500" />
+                <p className="text-2xl font-bold text-red-600">{responseTime}</p>
+                <p className="text-sm text-muted-foreground">Average Response Time</p>
+              </div>
+            </>
+          )}
         </div>
       </div>
     </section>

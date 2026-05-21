@@ -1067,6 +1067,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/site-search': '/',
   '/ac-service': '/services/ac-service-tucson',
   '/ac-tune-up': '/services/ac-tuneup-tucson',
+  '/services/ac-tune-up-tucson': '/services/ac-tuneup-tucson',
   '/water-heaters': '/services/water-heater-installation',
   '/water-softeners': '/services/water-softeners',
   '/smart-thermostat-installation': '/services/smart-thermostat-installation-tucson',

@@ -18,6 +18,12 @@ export const acinstallationData: ServicePageData = {
   // Service Info
   serviceName: 'AC Installation Tucson AZ',
   category: 'HVAC',
+
+  // Hero Financing Banner (Change 1 - matches Google Ads headlines)
+  heroFinancingBanner: 'Starting at $98/Mo | 0% APR Available | No Payments for 12 Months',
+
+  // Hero Badges
+  heroBadges: ['Free 2nd Opinion on Other Quotes', 'Free In-Home Estimate'],
   
   // Hero Quote Button
   heroQuoteButton: {

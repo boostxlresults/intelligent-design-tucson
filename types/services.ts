@@ -144,6 +144,15 @@ export interface ServicePageData {
     sections: ContentSection[];
   };
   
+  // Hero Financing Banner (optional - displayed in hero below tagline)
+  heroFinancingBanner?: string;
+  
+  // Hero Badges (optional - small value prop badges in hero)
+  heroBadges?: string[];
+
+  // Hero Phone CTA Style (optional - makes phone button primary for emergency pages)
+  heroPhonePrimary?: boolean;
+
   // Hero Quote Button (optional - displayed in hero CTA area)
   heroQuoteButton?: {
     label: string;
