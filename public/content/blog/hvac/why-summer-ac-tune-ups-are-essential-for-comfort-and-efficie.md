@@ -16,8 +16,7 @@ tags:
   - cooling
 heroImage: /generated_images/AC_installation_Tucson_home_a4d097e8.png
 featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficie
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficiency'
 video:
   id: a34eWo_fucE
   title: >-

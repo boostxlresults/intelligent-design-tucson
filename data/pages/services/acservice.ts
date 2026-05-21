@@ -5,8 +5,8 @@ import { acServiceFAQs } from '@/data/faqs/hvac';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const acserviceData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Service Tucson AZ | Air Conditioning Maintenance & Tune-Ups | Intelligent Design',
-  description: 'Expert AC service and maintenance in Tucson, AZ. Keep your air conditioning running efficiently with professional tune-ups, preventative maintenance, and system optimization. 24/7 service available from Intelligent Design.',
+  title: 'AC Service Tucson AZ | Same-Day Service | 4.97 Rating | Intelligent Design',
+  description: 'Professional AC service in Tucson with same-day availability. 46+ years experience, 23,000+ five-star reviews. Maintenance, tune-ups, and system optimization. All brands serviced. Call (520) 333-2665.',
   slug: 'ac-service-tucson',
   
   // Hero Section

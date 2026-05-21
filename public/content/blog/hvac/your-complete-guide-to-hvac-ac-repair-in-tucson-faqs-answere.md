@@ -16,8 +16,7 @@ tags:
   - cooling
 heroImage: /generated_images/AC_maintenance_service_6a47e66a.png
 featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/your-complete-guide-to-hvac-ac-repair-in-tucson-faqs-answere
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/complete-guide-ac-repair-tucson'
 ---
 
 # Your Complete Guide to HVAC & AC Repair in Tucson – FAQs Answered

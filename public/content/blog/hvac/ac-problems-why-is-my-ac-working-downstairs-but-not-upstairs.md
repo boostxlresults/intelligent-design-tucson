@@ -58,6 +58,8 @@ Leaky ductwork can significantly affect your home’s cooling efficiency. When d
 
 In a multi-story home, having multiple thermostats can help maintain even temperatures. If your home only has one thermostat located on the ground floor, it might cause the upstairs to remain warm. Adding a thermostat upstairs can help address this issue and improve overall comfort.
 
-Still asking, “Why is my AC working downstairs but not upstairs?” Call [Intelligent Design](https://www.idesignac.com/services/air-conditioning/ac-installation-tucson/) and schedule an appointment with our experienced HVAC technicians. We’ll thoroughly inspect your system and provide tailored solutions to ensure your entire home is comfortably cool. Contact us in Tucson at [(520) 333 2665](tel:+15203332665).
+Still asking, "Why is my AC working downstairs but not upstairs?" Call [Intelligent Design](/services/ac-repair-tucson) and schedule an appointment with our experienced HVAC technicians. We respond in an average of 73 minutes and diagnose the problem on the first visit.
 
-[View More FAQ Videos](https://www.idesignac.com/hvac-blogs/)
+If your system is undersized or aging, it may be time for a [new AC installation](/services/ac-installation-tucson) — we offer 0% APR financing starting at $98/month. For systems that just need a tune-up, our [$28.88 AC tune-up](/services/ac-tuneup-tucson) includes an 86-point inspection that catches airflow issues before they become expensive problems.
+
+Contact us in Tucson at [(520) 333-2665](tel:+15203332665) for same-day service.

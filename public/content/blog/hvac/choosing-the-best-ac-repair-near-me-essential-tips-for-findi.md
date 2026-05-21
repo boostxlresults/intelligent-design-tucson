@@ -17,8 +17,7 @@ tags:
   - tucson
 heroImage: /generated_images/ac_maintenance_plan_benefits.png
 featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/choosing-the-best-ac-repair-near-me-essential-tips-for-findi
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/choosing-the-best-ac-repair-near-me-essential-tips-for-finding-reliable-service'
 ---
 
 # Choosing the Best AC Repair Near Me: Essential Tips for Finding Reliable Service

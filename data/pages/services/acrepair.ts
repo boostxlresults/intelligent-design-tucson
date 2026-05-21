@@ -4,8 +4,8 @@ import type { ServicePageData } from '@/types/services';
 import { acRepairFAQs } from '@/data/faqs/hvac';
 export const acrepairData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Repair Tucson AZ | Air Conditioning Repair Service Tucson',
-  description: 'Top-rated AC repair in Tucson, AZ. Fast, reliable air conditioning repair & service. 24/7 emergency AC repair. Stay cool with affordable Tucson a/c repair solutions from Intelligent Design.',
+  title: 'AC Repair Tucson AZ | 24/7 Emergency Service | 73-Min Response | Intelligent Design',
+  description: 'Tucson\'s highest-rated AC repair — 4.97 stars from 23,000+ reviews. 73-minute average response, $150–$450 most repairs, no overtime charges. NATE-certified techs available 24/7. Call (520) 333-2665.',
   slug: 'ac-repair-tucson',
   
   // Hero Section

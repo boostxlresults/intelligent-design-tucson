@@ -148,4 +148,8 @@ We're proud to be a Lennox Premier Dealer, offering their industry-leading effic
 
 The best way to determine the right AC brand for your home is a professional consultation. We'll evaluate your home, discuss your priorities, and recommend options that fit your needs and budget.
 
+Ready to upgrade? Learn about our [AC installation services in Tucson](/services/ac-installation-tucson) — we offer 0% APR financing starting at $98/month with free in-home estimates. Already have a system that's struggling? Our [AC repair team](/services/ac-repair-tucson) responds in an average of 73 minutes with no overtime charges.
+
+Keep your current system running at peak performance with our [$28.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that prevents costly breakdowns and extends system life.
+
 Call Intelligent Design at (520) 333-2665 for a free in-home consultation. We've been helping Tucson homeowners choose the right cooling solutions since 1979.

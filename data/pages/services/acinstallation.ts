@@ -4,8 +4,8 @@ import type { ServicePageData } from '@/types/services';
 import { acInstallationFAQs } from '@/data/faqs/hvac';
 export const acinstallationData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Installation Tucson AZ | New Air Conditioning Systems | Intelligent Design',
-  description: 'Expert AC installation in Tucson, AZ. Professional new air conditioning system installation with energy-efficient units, expert sizing, and guaranteed quality. Get a free estimate today from Tucson.',
+  title: 'AC Installation Tucson AZ | $98/Mo Financing | 0% APR | Intelligent Design',
+  description: 'New AC installation in Tucson from $98/mo with 0% APR financing. 23,000+ five-star reviews, NATE-certified installers, all major brands. Free in-home estimate & free 2nd opinion on other quotes. Call (520) 333-2665.',
   slug: 'ac-installation-tucson',
   
   // Hero Section

@@ -17,7 +17,7 @@ updatedAt: '2025-01-31T10:00:00Z'
 featured: true
 oldUrl: >-
   https://www.idesignac.com/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered
-canonicalUrl: /blog/hvac/complete-guide-hvac-ac-repair-tucson-faqs
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/complete-guide-ac-repair-tucson'
 relatedServices:
   - ac-repair
   - ac-service

@@ -263,4 +263,6 @@ Schedule immediately if you notice:
 
 Our licensed plumbers use advanced leak detection technology to find hidden leaks quickly and accurately. We provide complete services from detection through repair.
 
+[Schedule professional leak detection](/services/leak-detection) today — we use acoustic and thermal imaging technology to find slab leaks, underground leaks, and hidden pipe leaks without demolition. Same-day service available.
+
 Call (520) 333-2665 if you suspect a leak. Early detection saves water, money, and your property. Serving Tucson since 1979.

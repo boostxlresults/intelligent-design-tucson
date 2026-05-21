@@ -5,8 +5,8 @@ import { generacInstallationFAQs } from '@/data/faqs/electrical';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const generacinstallationData: ServicePageData = {
   // SEO & Meta
-  title: 'GENERAC Generator Installation Tucson AZ | Whole House Backup Power',
-  description: 'Professional GENERAC generator installation in Tucson. Whole house backup power, automatic transfer switches, expert sizing & installation. Licensed electricians. Call (520) 333-2665 for free consultation.',
+  title: 'Generac Generator Installation Tucson AZ | Whole Home Backup Power | Intelligent Design',
+  description: 'Authorized Generac installer in Tucson. Whole-home backup generators with automatic transfer switches. Free sizing consultation, licensed electricians, financing available. Never lose power again. Call (520) 333-2665.',
   slug: 'generac-installation',
   
   // Hero Section

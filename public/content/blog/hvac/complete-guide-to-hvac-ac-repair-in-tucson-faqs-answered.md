@@ -12,7 +12,7 @@ tags:
   - hvac-guide
 heroImage: /generated_images/ac_maintenance_expert_tips.png
 featured: true
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered'
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/complete-guide-ac-repair-tucson'
 ---
 
 # Complete Guide to HVAC AC Repair in Tucson - FAQs Answered

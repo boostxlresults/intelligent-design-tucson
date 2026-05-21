@@ -5,8 +5,8 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const electricaltucsonData: ServicePageData = {
   // SEO & Meta
-  title: "Expert Electrical Services in Tucson, AZ | Call (520) 333-2665",
-  description: "Trusted electrical services in Tucson, AZ. Panel upgrades, EV charger installs, repairs & more by licensed pros. Call (520) 333-2665 today!",
+  title: "Electrician Tucson AZ | Licensed & Insured | Same-Day Service | Intelligent Design",
+  description: "Licensed electricians in Tucson with 23,000+ five-star reviews. Panel upgrades, EV chargers, rewiring, repairs & installations. Same-day service, upfront pricing, no overtime charges. Call (520) 333-2665.",
   slug: "electrical-tucson",
   
   // Hero Section

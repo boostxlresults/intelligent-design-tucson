@@ -5,8 +5,8 @@ import { leakDetectionFAQs } from '@/data/faqs/plumbing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const leakdetectionData: ServicePageData = {
   // SEO & Meta
-  title: 'Leak Detection Tucson AZ | Advanced Non-Invasive Technology',
-  description: 'Advanced leak detection services in Tucson. Acoustic & thermal technology finds hidden leaks. Non-invasive methods. Call (520) 333-2665 for professional leak detection.',
+  title: 'Leak Detection Tucson AZ | Non-Invasive Slab & Pipe Leak Experts | Intelligent Design',
+  description: 'Professional leak detection in Tucson using acoustic & thermal imaging technology. Find hidden slab leaks, underground leaks, and pipe leaks without demolition. 4.97 rating, same-day service. Call (520) 333-2665.',
   slug: 'leak-detection',
   
   // Hero Section

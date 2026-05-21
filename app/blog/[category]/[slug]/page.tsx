@@ -171,11 +171,20 @@ export async function generateMetadata({
   const categoryName = categoryNames[category] || category;
   
   // Generate metadata for blog post
+  // Use frontmatter canonicalUrl if it differs from the page URL (for duplicate consolidation)
+  const pageCanonical = blogPost.frontmatter.canonicalUrl && 
+    blogPost.frontmatter.canonicalUrl !== `https://www.idesignac.com/blog/${category}/${slug}` &&
+    blogPost.frontmatter.canonicalUrl !== `/blog/${category}/${slug}`
+    ? blogPost.frontmatter.canonicalUrl.startsWith('http') 
+      ? blogPost.frontmatter.canonicalUrl 
+      : `https://www.idesignac.com${blogPost.frontmatter.canonicalUrl}`
+    : `https://www.idesignac.com/blog/${category}/${slug}`;
+
   return generateSEOMetadata({
     title: `${blogPost.frontmatter.title} | Intelligent Design Tucson`,
     description: blogPost.frontmatter.description,
     keywords: blogPost.frontmatter.tags,
-    canonicalUrl: `https://www.idesignac.com/blog/${category}/${slug}`,
+    canonicalUrl: pageCanonical,
     imageUrl: blogPost.frontmatter.heroImage,
     type: 'article' as const,
     publishedTime: blogPost.frontmatter.publishedAt,
