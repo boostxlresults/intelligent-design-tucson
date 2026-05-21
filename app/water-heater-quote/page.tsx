@@ -38,7 +38,7 @@ const softwareAppSchema = {
   },
   "provider": {
     "@type": "LocalBusiness",
-    "name": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Tucson",

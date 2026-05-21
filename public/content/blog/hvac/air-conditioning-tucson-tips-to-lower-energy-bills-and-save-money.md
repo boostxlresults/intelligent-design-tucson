@@ -16,8 +16,8 @@ tags:
   - tucson
 heroImage: /generated_images/ac_broken_symptoms.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money'
-
+canonicalUrl: >-
+  https://www.idesignac.com/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money
 ---
 
 # Air Conditioning Tucson: Tips to Lower Energy Bills and Save Money

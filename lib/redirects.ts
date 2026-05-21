@@ -14,6 +14,22 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/electrical-catalinafoothills': '/services/electrical-catalina-foothills',
   '/hvac-tanqueverde': '/services/hvac-tanque-verde',
 
+  // ===== TRUNCATED BLOG URL REDIRECTS =====
+  '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer',
+  '/blog/hvac/air-conditioning-in-tucson-how-can-you-save-money-by-maximiz': '/blog/hvac/air-conditioning-in-tucson-how-can-you-save-money-by-maximizing-your-ac-efficiency',
+  '/blog/hvac/air-conditioning-tucson-how-to-choose-the-right-air-conditio': '/blog/hvac/air-conditioning-tucson-how-to-choose-the-right-air-conditioning-unit-for-your-home',
+  '/blog/hvac/air-conditioning-tucson-the-many-benefits-of-hiring-the-righ': '/blog/hvac/air-conditioning-tucson-the-many-benefits-of-hiring-the-right-hvac-company',
+  '/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-': '/blog/hvac/air-conditioning-tucson-tips-to-lower-energy-bills-and-save-money',
+
+  // ===== DUPLICATE /services/ PAGES → CANONICAL URLS =====
+  '/services/home': '/',
+  '/services/customer-reviews': '/customer-reviews',
+  '/services/financing': '/financing',
+  '/services/guarantees': '/guarantees',
+  '/services/privacy-policy': '/privacy-policy',
+  '/services/resources': '/resources',
+  '/services/saddlebrooke-catalina': '/service-areas/saddle-brooke-catalina',
+
   // ===== CORE SERVICE SHORTCUT REDIRECTS =====
   '/ac-repair': '/services/ac-repair-tucson',
   '/ac-installation': '/services/ac-installation-tucson',

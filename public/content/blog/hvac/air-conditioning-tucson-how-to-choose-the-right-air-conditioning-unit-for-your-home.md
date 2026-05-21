@@ -18,8 +18,8 @@ tags:
   - tucson
 heroImage: /generated_images/ac_repair_faqs_answered.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/air-conditioning-tucson-how-to-choose-the-right-air-conditioning-unit-for-your-home'
-
+canonicalUrl: >-
+  https://www.idesignac.com/blog/hvac/air-conditioning-tucson-how-to-choose-the-right-air-conditioning-unit-for-your-home
 ---
 
 # Air Conditioning Tucson: How to Choose the Right Air Conditioning Unit for Your Home

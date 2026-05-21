@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const ritaranchData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Rita Ranch, AZ',
-  description: 'Professional home services in Rita Ranch, southeast Tucson. Serving zip codes 85747, 85730 with HVAC, plumbing, solar, electrical & roofing. Same-day service. BBB A+ rated.',
+  description: 'Expert home services in Rita Ranch, in southeast Tucson near Pima Air & Space Museum. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'rita-ranch',
   
   // Hero Section
@@ -145,6 +145,11 @@ export const ritaranchData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Rita Ranch", "level": 2, "content": "Local Community Guide \u2014 Rita Ranch"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Joining Hands, Tucson Rodeo Parade Museum, Pima Air & Space Museum, 390th Memorial Museum, Saguaro National Park East. Whether you live near these landmarks or anywhere in Rita Ranch, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, Rocking K Market, Serial Grillers. When you need home services in Rita Ranch, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -153,7 +158,7 @@ export const ritaranchData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

@@ -13,8 +13,8 @@ tags:
   - cooling
 heroImage: /generated_images/hvac_company_benefits.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/air-conditioning-tucson-the-many-benefits-of-hiring-the-right-hvac-company'
-
+canonicalUrl: >-
+  https://www.idesignac.com/blog/hvac/air-conditioning-tucson-the-many-benefits-of-hiring-the-right-hvac-company
 ---
 
 # Air Conditioning Tucson: The Many Benefits of Hiring the Right HVAC Company

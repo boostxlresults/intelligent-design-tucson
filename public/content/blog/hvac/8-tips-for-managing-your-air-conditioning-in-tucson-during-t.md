@@ -16,8 +16,8 @@ tags:
   - cooling
 heroImage: /generated_images/ac_maintenance_expert_tips.png
 featured: false
-canonicalUrl: >-
-  https://www.idesignac.com/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-t
+canonicalUrl: 'https://www.idesignac.com/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer'
+
 ---
 
 # 8 Tips for Managing Your Air Conditioning in Tucson During the Summer

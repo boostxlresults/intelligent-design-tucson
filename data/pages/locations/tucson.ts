@@ -154,6 +154,11 @@ export const tucsonData: LocationPageData = {
             "type": "paragraph",
             "content": "Discover over 500 miniature houses and figurines in this unique museum. It's a fascinating glimpse into the art of miniatures from around the world."
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Tucson", "level": 2, "content": "Local Community Guide \u2014 Tucson"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Fort Lowell Museum, Tin Town, Valley of the Moon, Old Tucson, Presidio San Agust\u00edn del Tucs\u00f3n Museum. Whether you live near these landmarks or anywhere in Tucson, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Redbird Scratch Kitchen + Bar, Casa Madre Restaurant, Perche' No, Caf\u00e9 \u00e0 La C'Art, JoJo's Restaurant. When you need home services in Tucson, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",
@@ -168,7 +173,7 @@ export const tucsonData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

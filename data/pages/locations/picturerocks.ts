@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const picturerocksData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Picture Rocks, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Picture Rocks. Serving zip codes 85743, 85735 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Picture Rocks, in the northwest desert near the Picture Rock Petroglyphs and Saguaro National Park West. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'picture-rocks',
   
   // Hero Section
@@ -149,6 +149,11 @@ export const picturerocksData: LocationPageData = {
             "type": "paragraph",
             "content": "Picture Rocks offers some of the most affordable land and housing options in the Tucson area, making it ideal for those seeking larger properties or custom home sites. The area attracts homeowners looking for space and value."
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Picture Rocks", "level": 2, "content": "Local Community Guide \u2014 Picture Rocks"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Picture Rock Petroglyphs, Signal Hill, Ironwood Forest National Monument, Rio Vista Labyrinth, Saguaro National Park West. Whether you live near these landmarks or anywhere in Picture Rocks, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Ol' Pot Hole, Guadalajara's Grill & Tequila Bar, The Station Pub & Grill. When you need home services in Picture Rocks, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",
@@ -163,7 +168,7 @@ export const picturerocksData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

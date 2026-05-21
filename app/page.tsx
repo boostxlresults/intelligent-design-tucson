@@ -15,7 +15,7 @@ import { CheckCircle2, Star } from "lucide-react";
 import { homeData } from "@/data/pages/services/home";
 
 export const metadata: Metadata = {
-  title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+  title: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric | Tucson AZ HVAC Contractor",
   description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
   alternates: {
     canonical: "https://www.idesignac.com",
@@ -30,10 +30,10 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+    title: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric | Tucson AZ HVAC Contractor",
     description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
     url: "https://www.idesignac.com",
-    siteName: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
+    siteName: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
     images: [{
       url: "https://www.idesignac.com/og-image.jpg",
       width: 1200,
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric | Tucson AZ HVAC Contractor",
+    title: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric | Tucson AZ HVAC Contractor",
     description: "Intelligent Design Air Conditioning is Tucson's #1 rated HVAC contractor with 23,000+ 5-star reviews. Expert air conditioning repair, AC installation, plumbing, solar, electrical & roofing services. Family & veteran-owned since 1979. Call (520) 333-2665.",
     images: ["https://www.idesignac.com/og-image.jpg"],
   },

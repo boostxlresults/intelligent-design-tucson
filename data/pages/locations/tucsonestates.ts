@@ -6,7 +6,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tucsonestatesData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tucson Estates, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tucson Estates. Serving zip codes 85735, 85746 in this well-established southwest Tucson community since 1979. 24/7 emergency service. BBB A+ rated.',
+  description: 'Expert home services in Tucson Estates, in west Tucson near Old Tucson and the Tucson Mountains. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'tucson-estates',
   
   // Hero Section
@@ -145,7 +145,7 @@ export const tucsonestatesData: LocationPageData = {
       },
       {
         "type": "paragraph",
-        "content": "AC Installation & Replacement - Replacing an aging air conditioning system is one of the most important investments Tucson Estates homeowners make, directly impacting comfort, energy costs, and home value. Our expert installation process begins with detailed Manual J load calculations accounting for your home's square footage, insulation levels, window efficiency, orientation, and Tucson's extreme climate to ensure proper system sizing. We recommend systems perfectly matched to your home and budget—avoiding oversizing that wastes energy and causes short-cycling or undersizing that fails during 110°F peak days. Our installations include complete removal and proper disposal of old equipment with EPA-compliant refrigerant recovery, professional installation following strict manufacturer specifications and current Arizona energy codes, precise refrigerant charging using digital superheat/subcooling calculations for peak efficiency, thorough electrical connections with proper wire sizing and safety testing, complete system startup with multi-point performance verification, and comprehensive owner training on thermostat operation and system maintenance. We install all efficiency levels from 14-16 SEER budget-friendly systems to ultra-high-efficiency 20+ SEER variable-speed equipment with advanced features and superior comfort control. We help Tucson Estates homeowners maximize [link:/services/financing|federal tax credits up to $2,000, TEP utility rebates, and flexible financing options] making premium equipment affordable with monthly payments often lower than the energy savings."
+        "content": "AC Installation & Replacement - Replacing an aging air conditioning system is one of the most important investments Tucson Estates homeowners make, directly impacting comfort, energy costs, and home value. Our expert installation process begins with detailed Manual J load calculations accounting for your home's square footage, insulation levels, window efficiency, orientation, and Tucson's extreme climate to ensure proper system sizing. We recommend systems perfectly matched to your home and budget—avoiding oversizing that wastes energy and causes short-cycling or undersizing that fails during 110°F peak days. Our installations include complete removal and proper disposal of old equipment with EPA-compliant refrigerant recovery, professional installation following strict manufacturer specifications and current Arizona energy codes, precise refrigerant charging using digital superheat/subcooling calculations for peak efficiency, thorough electrical connections with proper wire sizing and safety testing, complete system startup with multi-point performance verification, and comprehensive owner training on thermostat operation and system maintenance. We install all efficiency levels from 14-16 SEER budget-friendly systems to ultra-high-efficiency 20+ SEER variable-speed equipment with advanced features and superior comfort control. We help Tucson Estates homeowners maximize [link:/financing|federal tax credits up to $2,000, TEP utility rebates, and flexible financing options] making premium equipment affordable with monthly payments often lower than the energy savings."
       },
       {
         "type": "paragraph",
@@ -230,7 +230,7 @@ export const tucsonestatesData: LocationPageData = {
       },
       {
         "type": "paragraph",
-        "content": "Transparent Pricing & Financing Options: We believe families deserve honest pricing without hidden fees, high-pressure sales tactics, or surprises. Every service call includes upfront pricing before work begins—you'll know the exact cost and approve it before our technicians start. Our comprehensive estimates detail all work, parts, and labor with clear explanations of what's included and why it's necessary. We never recommend unnecessary services or use scare tactics—our reputation depends on trust, honesty, and delivering real value. For larger investments like AC replacement, water heater installation, electrical panel upgrades, or solar installations, we offer [link:/services/financing|flexible financing options] with approved credit including 0% interest financing for qualified buyers, extended payment terms making premium equipment affordable, and same-day approval. Many energy-efficient upgrades pay for themselves through utility savings, with monthly finance payments lower than energy cost reductions."
+        "content": "Transparent Pricing & Financing Options: We believe families deserve honest pricing without hidden fees, high-pressure sales tactics, or surprises. Every service call includes upfront pricing before work begins—you'll know the exact cost and approve it before our technicians start. Our comprehensive estimates detail all work, parts, and labor with clear explanations of what's included and why it's necessary. We never recommend unnecessary services or use scare tactics—our reputation depends on trust, honesty, and delivering real value. For larger investments like AC replacement, water heater installation, electrical panel upgrades, or solar installations, we offer [link:/financing|flexible financing options] with approved credit including 0% interest financing for qualified buyers, extended payment terms making premium equipment affordable, and same-day approval. Many energy-efficient upgrades pay for themselves through utility savings, with monthly finance payments lower than energy cost reductions."
       },
       {
         "type": "paragraph",
@@ -242,7 +242,12 @@ export const tucsonestatesData: LocationPageData = {
         "content": "Join the thousands of satisfied Tucson Estates families who rely on Intelligent Design. Schedule service online or call (520) 333-2665 today.",
         "buttonText": "Schedule Online Now",
         "buttonLink": "/contact"
-      }
+      },
+      {"type": "heading", "heading": "Local Community Guide \u2014 Tucson Estates", "level": 2, "content": "Local Community Guide \u2014 Tucson Estates"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Old Tucson, Pima County Historic Courthouse, Old Pueblo Archaeology Center, El Tiradito Wishing Shrine, Sosa-Carrillo House. Whether you live near these landmarks or anywhere in Tucson Estates, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, Barista del Barrio, Brunch Bistro Mexican Grill. When you need home services in Tucson Estates, call the team your neighbors trust \u2014 Intelligent Design."},
     ]
   },
   

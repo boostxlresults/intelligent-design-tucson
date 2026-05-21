@@ -83,7 +83,7 @@ export const roofingredrockcasagrandeData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "All roofing services come with dependable warranty coverage, offering peace of mind for your investment. From initial roof inspection to final installation, Intelligent Design Air Conditioning, Plumbing, Solar & Electric guarantees quality and reliability for every Red Rock and Casa Grande home."
+            "content": "All roofing services come with dependable warranty coverage, offering peace of mind for your investment. From initial roof inspection to final installation, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric guarantees quality and reliability for every Red Rock and Casa Grande home."
       },
       {
             "type": "heading",

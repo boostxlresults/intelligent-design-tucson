@@ -18,7 +18,8 @@ tags:
   - cooling
 heroImage: /generated_images/ac_needs_repair_signs.png
 featured: false
-canonicalUrl: 'https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-how-can-you-save-money-by-maximizing-your-ac-efficiency'
+canonicalUrl: >-
+  https://www.idesignac.com/blog/hvac/air-conditioning-in-tucson-how-can-you-save-money-by-maximizing-your-ac-efficiency
 ---
 
 # Air Conditioning in Tucson: How Can You Save Money By Maximizing Your AC Efficiency

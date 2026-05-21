@@ -147,11 +147,11 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     // --- ROOFING SERVICES ---
     {
       question: "Does Intelligent Design offer roof repair and replacement?",
-      answer: "Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, flat/foam, and metal. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects."
+      answer: "Yes. Intelligent Design provides roof repair, replacement, and inspection services for all roof types common in Tucson: tile, shingle, flat/foam, and ThermalCork. Services include leak repair, storm damage repair, full reroof, and preventive maintenance. Free estimates on all roofing projects."
     },
     {
       question: "What types of roofing does Intelligent Design work with?",
-      answer: "Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, TPO/modified bitumen commercial roofing, and standing seam metal roofs. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling."
+      answer: "Intelligent Design works with all roofing types found in Tucson: concrete and clay tile roofs, asphalt shingles, flat foam roofs, TPO/modified bitumen commercial roofing, and ThermalCork natural cork coating. They specialize in Tucson's unique roofing challenges including UV degradation, monsoon damage, and thermal cycling."
     },
     {
       question: "Does Intelligent Design do roof inspections?",
@@ -160,6 +160,46 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     {
       question: "How much does roof repair cost in Tucson?",
       answer: "Roof repair costs in Tucson range from $300-$1,000 for minor repairs (cracked tiles, small leaks) to $2,000-$8,000+ for major repairs (structural damage, large sections). Full roof replacement runs $8,000-$25,000+ depending on material and roof size. Intelligent Design provides free estimates on all roofing work."
+    },
+    {
+      question: "What is the best roof type for Tucson's climate?",
+      answer: "Tile roofing (concrete or clay) is the best choice for Tucson's climate, lasting 40-50+ years with excellent heat resistance and energy efficiency. Flat foam roofs with elastomeric coatings are ideal for modern and flat-roof homes, providing seamless waterproofing and reflectivity. ThermalCork natural cork coating is the newest breakthrough — it creates a permanent thermal break, reduces energy costs up to 50%, and never needs re-coating. Intelligent Design installs and services all roof types and is Tucson's only certified ThermalCork applicator."
+    },
+    {
+      question: "How often should I have my roof inspected in Tucson?",
+      answer: "Intelligent Design recommends annual roof inspections in Tucson, ideally before monsoon season (May-June). Tucson's extreme UV exposure, 110°F+ summer heat, and violent monsoon storms accelerate roof deterioration faster than most U.S. climates. After any major storm event (high winds, hail, heavy rain), an additional inspection is recommended. Intelligent Design offers free roof inspections with repair estimates. Call (520) 333-2665 to schedule."
+    },
+    {
+      question: "Does Intelligent Design handle monsoon storm damage roof repair?",
+      answer: "Yes. Intelligent Design provides emergency roof tarping and storm damage repair throughout monsoon season (June-September). Services include emergency leak containment, displaced tile replacement, wind damage repair, debris removal, and full structural assessment. They respond within 2-4 hours for emergency calls during active storms. Insurance claim assistance is available for qualifying damage. Call (520) 333-2665 for emergency roof service."
+    },
+    {
+      question: "What is the lifespan of a tile roof in Tucson?",
+      answer: "Concrete tile roofs in Tucson typically last 40-50 years; clay tile roofs can last 50-75+ years with proper maintenance. However, the underlayment beneath tiles degrades faster in Arizona's heat (20-30 years), so re-felting is often needed before the tiles themselves fail. Regular inspections catch cracked or displaced tiles early, preventing water intrusion that shortens overall roof life. Intelligent Design services all tile roof types."
+    },
+    {
+      question: "What is the lifespan of a flat foam roof in Tucson?",
+      answer: "Spray polyurethane foam (SPF) roofs in Tucson last 20-30+ years with proper maintenance, including re-coating every 10-15 years to protect the foam from UV degradation. Flat foam roofs provide excellent insulation (R-6.5 per inch) and seamless waterproofing ideal for Tucson's monsoon rains. Intelligent Design installs, repairs, and re-coats flat foam roofs throughout the Tucson metro area."
+    },
+    {
+      question: "Does Intelligent Design offer commercial roofing?",
+      answer: "Yes. Intelligent Design provides commercial roofing services including TPO, modified bitumen, built-up roofing (BUR), flat foam/SPF, and ThermalCork applications for commercial buildings. Services include new installation, repairs, re-roofing, preventive maintenance programs, and emergency leak response. They hold Arizona ROC licenses covering commercial roofing work. Free estimates available for commercial projects."
+    },
+    {
+      question: "What is the difference between roof repair and roof replacement?",
+      answer: "Roof repair addresses localized damage (cracked tiles, small leaks, damaged flashing) and is appropriate when the overall roof structure is sound and the roof has significant remaining lifespan. Roof replacement involves removing the entire existing roof system and installing new materials — recommended when damage is widespread, the roof exceeds its expected lifespan, or repair costs approach 30-40% of replacement cost. Intelligent Design provides honest assessments and never recommends replacement when repair will suffice."
+    },
+    {
+      question: "Does Intelligent Design offer emergency roof tarping?",
+      answer: "Yes. Intelligent Design provides emergency roof tarping to prevent further water damage during active leaks or after storm damage. Emergency tarping is available 24/7 during monsoon season with typical response times of 2-4 hours. Tarping provides immediate protection while permanent repairs are scheduled. This service is critical during Tucson's monsoon season when consecutive storms can compound unprotected damage. Call (520) 333-2665 for emergency service."
+    },
+    {
+      question: "How does Tucson's UV exposure affect roofing materials?",
+      answer: "Tucson receives 286+ sunny days per year with extreme UV radiation that accelerates degradation of all roofing materials. Asphalt shingles lose granules and become brittle 30-40% faster than in northern climates. Flat roof coatings chalk and crack without UV-stable formulations. Rubber seals and flashing dry out and fail prematurely. This is why Tucson roofs have shorter lifespans than national averages and require more frequent inspection. ThermalCork's natural cork composition is inherently UV-resistant and never degrades from sun exposure."
+    },
+    {
+      question: "What roofing brands does Intelligent Design work with?",
+      answer: "Intelligent Design works with all major roofing manufacturers including Owens Corning, GAF, CertainTeed, Eagle Roofing Products, Boral, MonierLifetile, and ThermalCork Solutions. As a multi-brand installer, they recommend the best material for each home's specific needs rather than being locked into a single manufacturer. All installations follow manufacturer specifications to maintain full warranty coverage."
     },
 
     // --- CREDENTIALS & TRUST ---

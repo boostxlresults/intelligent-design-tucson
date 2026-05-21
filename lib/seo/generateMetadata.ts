@@ -85,7 +85,7 @@ export function generateMetadata(options: MetadataOptions): Metadata {
         }
       ],
       type,
-      siteName: 'Intelligent Design Air Conditioning, Plumbing, Solar & Electric',
+      siteName: 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric',
       locale: 'en_US'
     },
     twitter: {

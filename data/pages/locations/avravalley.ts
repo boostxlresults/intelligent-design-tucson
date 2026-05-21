@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const avravalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Avra Valley, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Avra Valley. Serving zip codes 85653, 85735 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Avra Valley, west of Tucson near the Ironwood Forest National Monument. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'avra-valley',
   
   // Hero Section
@@ -149,6 +149,11 @@ export const avravalleyData: LocationPageData = {
             "type": "paragraph",
             "content": "Avra Valley provides a peaceful, rural lifestyle away from urban congestion while maintaining reasonable access to Tucson via I-10. It's ideal for those seeking solitude, dark night skies for stargazing, and a true connection to the desert environment."
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Avra Valley", "level": 2, "content": "Local Community Guide \u2014 Avra Valley"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Ironwood Forest National Monument, Picture Rock Petroglyphs, Signal Hill, Arizona-Sonora Desert Museum, Saguaro National Park West. Whether you live near these landmarks or anywhere in Avra Valley, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Guadalajara's Grill & Tequila Bar, Ol' Pot Hole, The Station Pub & Grill, Sky Rider Cafe. When you need home services in Avra Valley, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",
@@ -163,7 +168,7 @@ export const avravalleyData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

@@ -65,37 +65,37 @@ const faqCategories = [
   {
     id: 'roofing',
     title: 'Roofing Services',
-    description: 'Roof repair, replacement, inspections, and roofing types',
+    description: 'Roof repair, replacement, inspections, ThermalCork, and roofing types for Tucson climate',
     icon: '🏠',
-    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 28 && i <= 31),
+    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 28 && i <= 41),
   },
   {
     id: 'credentials-trust',
     title: 'Credentials & Trust',
     description: 'Licensing, insurance, veteran ownership, and customer ratings',
     icon: '✅',
-    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 32 && i <= 35),
+    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 42 && i <= 45),
   },
   {
     id: 'booking',
     title: 'Booking & Scheduling',
     description: 'How to schedule service, same-day availability, and contact info',
     icon: '📅',
-    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 36 && i <= 37),
+    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 46 && i <= 47),
   },
   {
     id: 'tucson-specific',
     title: 'Tucson-Specific Questions',
     description: 'Desert climate tips, monsoon prep, hard water, and local advice',
     icon: '🌵',
-    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 38 && i <= 41),
+    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 48 && i <= 51),
   },
   {
     id: 'additional',
     title: 'Additional Services',
     description: 'Duct cleaning, smart thermostats, water filtration, and more',
     icon: '🔌',
-    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 42),
+    faqs: askAboutThisPlaceFAQs.faqs.filter((_, i) => i >= 52),
   },
 ];
 

@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const sahuaritaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Sahuarita, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Sahuarita. Serving zip codes 85629, 85614 in this family-friendly community since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Sahuarita, south of Tucson near the ASARCO Mineral Discovery Center. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'sahuarita',
   
   // Hero Section
@@ -145,6 +145,11 @@ export const sahuaritaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Sahuarita", "level": 2, "content": "Local Community Guide \u2014 Sahuarita"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near ASARCO Mineral Discovery Center & Mine Tours, Titan Missile Museum, Tumacacori National Historical Park, Empire Ranch Foundation. Whether you live near these landmarks or anywhere in Sahuarita, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, JerryBobs Restaurant, Mountain View Cafe. When you need home services in Sahuarita, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -153,7 +158,7 @@ export const sahuaritaData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

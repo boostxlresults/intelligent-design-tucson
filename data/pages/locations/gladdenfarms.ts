@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const gladdenfarmsData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Gladden Farms, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Gladden Farms. Serving zip codes 85653, 85658 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Gladden Farms, in the Marana master-planned community near the Tortolita Mountains. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'gladden-farms',
   
   // Hero Section
@@ -144,7 +144,7 @@ export const gladdenfarmsData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "AC Installation & Replacement - Installing the right air conditioning system is critical for comfort, efficiency, HOA compliance, and long-term value in Gladden Farms' demanding climate. Our expert installation process begins with detailed Manual J load calculations specifically accounting for Gladden Farms homes' superior insulation levels (typically R-38 in attics, R-13 in walls), low-infiltration construction with properly sealed building envelopes, high-efficiency windows (typically Low-E double-pane), radiant barriers reducing attic heat gain, and modern energy code requirements. We recommend systems perfectly sized for your home's actual cooling needs—avoiding oversizing that wastes energy and short-cycles or undersizing that fails during 112-degree peak days. Our installations include HOA compliance verification and documentation for equipment placement and visual screening, complete removal and proper disposal of old equipment with EPA-compliant refrigerant recovery, professional installation following strict manufacturer specifications and current Arizona energy codes, precise refrigerant charging using digital superheat/subcooling calculations for peak efficiency, thorough electrical connections with proper wire sizing and voltage testing, complete system startup with multi-point performance verification, and comprehensive owner training on smart thermostat features and zone controls. We install all efficiency levels from 16 SEER minimum code-compliant systems to ultra-high-efficiency 22+ SEER variable-speed equipment with advanced humidity control and smart home integration. We help Gladden Farms homeowners maximize [link:/services/financing|federal tax credits up to $2,000, TEP utility rebates up to $1,400, and flexible financing options] making premium equipment affordable."
+            "content": "AC Installation & Replacement - Installing the right air conditioning system is critical for comfort, efficiency, HOA compliance, and long-term value in Gladden Farms' demanding climate. Our expert installation process begins with detailed Manual J load calculations specifically accounting for Gladden Farms homes' superior insulation levels (typically R-38 in attics, R-13 in walls), low-infiltration construction with properly sealed building envelopes, high-efficiency windows (typically Low-E double-pane), radiant barriers reducing attic heat gain, and modern energy code requirements. We recommend systems perfectly sized for your home's actual cooling needs—avoiding oversizing that wastes energy and short-cycles or undersizing that fails during 112-degree peak days. Our installations include HOA compliance verification and documentation for equipment placement and visual screening, complete removal and proper disposal of old equipment with EPA-compliant refrigerant recovery, professional installation following strict manufacturer specifications and current Arizona energy codes, precise refrigerant charging using digital superheat/subcooling calculations for peak efficiency, thorough electrical connections with proper wire sizing and voltage testing, complete system startup with multi-point performance verification, and comprehensive owner training on smart thermostat features and zone controls. We install all efficiency levels from 16 SEER minimum code-compliant systems to ultra-high-efficiency 22+ SEER variable-speed equipment with advanced humidity control and smart home integration. We help Gladden Farms homeowners maximize [link:/financing|federal tax credits up to $2,000, TEP utility rebates up to $1,400, and flexible financing options] making premium equipment affordable."
       },
       {
             "type": "paragraph",
@@ -328,6 +328,11 @@ export const gladdenfarmsData: LocationPageData = {
             "type": "paragraph",
             "content": "Common questions about our Gladden Farms services"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Gladden Farms", "level": 2, "content": "Local Community Guide \u2014 Gladden Farms"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Marana Heritage River Park, El Rio Preserve, Gladden Farms Community Park, Dove Mountain Trails, Tortolita Mountains. Whether you live near these landmarks or anywhere in Gladden Farms, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, Taqueria Plaza's, Ol' Pot Hole. When you need home services in Gladden Farms, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Ready for Expert Service in Gladden Farms?",

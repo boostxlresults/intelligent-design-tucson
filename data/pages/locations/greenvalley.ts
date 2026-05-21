@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const greenvalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Green Valley, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Green Valley. Serving zip codes 85614, 85622 in this peaceful retirement community since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Green Valley, south of Tucson near the Titan Missile Museum and Madera Canyon. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'green-valley',
   
   // Hero Section
@@ -145,6 +145,11 @@ export const greenvalleyData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Green Valley", "level": 2, "content": "Local Community Guide \u2014 Green Valley"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Titan Missile Museum, Tumacacori National Historical Park, Madera Canyon, ASARCO Mineral Discovery Center, Tubac Presidio State Historic Park. Whether you live near these landmarks or anywhere in Green Valley, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Manuel's Mexican Restaurant, The Copper Brothel Brewery, Posada Java, San Ignacio Golf Clubhouse, Canoa Ranch Golf Club. When you need home services in Green Valley, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -153,7 +158,7 @@ export const greenvalleyData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

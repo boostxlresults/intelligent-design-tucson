@@ -8,7 +8,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Reviews | 23,000+ Five-Star Reviews | Intelligent Design Tucson',
-  description: '23,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
+  description: '23,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
   canonicalUrl: 'https://www.idesignac.com/customer-reviews',
   keywords: ['customer reviews Tucson', 'HVAC reviews', 'plumbing reviews', 'Google reviews', 'verified reviews', '5-star service Tucson', 'best rated home services'],
 });
@@ -531,7 +531,7 @@ export default function CustomerReviewsPage() {
               <div>
                 <h3 className="text-xl font-semibold mb-2">How can I leave a review for Intelligent Design?</h3>
                 <p className="text-muted-foreground">
-                  We appreciate customer feedback! You can leave a review on our Google Business Profile, Yelp, Facebook, or BBB page. Simply search for "Intelligent Design Air Conditioning Plumbing Solar Electric" on any of these platforms. We read every review and use your feedback to continue improving our services.
+                  We appreciate customer feedback! You can leave a review on our Google Business Profile, Yelp, Facebook, or BBB page. Simply search for "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric" on any of these platforms. We read every review and use your feedback to continue improving our services.
                 </p>
               </div>
             </div>

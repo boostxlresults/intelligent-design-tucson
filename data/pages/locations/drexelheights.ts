@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const drexelheightsData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Drexel Heights, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Drexel Heights. Serving zip codes 85746, 85757 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Drexel Heights, in southwest Tucson near Mission San Xavier del Bac. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'drexel-heights',
   
   // Hero Section
@@ -149,6 +149,11 @@ export const drexelheightsData: LocationPageData = {
             "type": "paragraph",
             "content": "Drexel Heights offers more affordable housing options compared to other Tucson-area communities, making it an attractive choice for first-time homebuyers and families looking for value without sacrificing amenities."
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Drexel Heights", "level": 2, "content": "Local Community Guide \u2014 Drexel Heights"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Mission San Xavier del Bac, Tucson Mountain Park, Old Tucson, Arizona-Sonora Desert Museum, Pima Air & Space Museum. Whether you live near these landmarks or anywhere in Drexel Heights, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Mi Nidito, Guadalajara's Grill, El Charro Caf\u00e9, Teresa's Mosaic Caf\u00e9, Pat's Chili Dogs. When you need home services in Drexel Heights, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",
@@ -163,7 +168,7 @@ export const drexelheightsData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

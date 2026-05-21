@@ -17,7 +17,7 @@ const SERVICE_NAME_REVERSE_MAP: Record<string, string> = {
 };
 
 // Blog categories
-const BLOG_CATEGORIES = ['hvac', 'plumbing', 'solar', 'electrical', 'roofing', 'home-tips'];
+const BLOG_CATEGORIES = ['hvac', 'plumbing', 'solar', 'electrical', 'roofing', 'home-tips', 'drain-sewer', 'indoor-air-quality', 'water-heater'];
 
 async function getBlogPosts(): Promise<{ category: string; slug: string; lastModified: Date }[]> {
   const posts: { category: string; slug: string; lastModified: Date }[] = [];
@@ -35,6 +35,15 @@ async function getBlogPosts(): Promise<{ category: string; slug: string; lastMod
         const { data } = matter(content);
         
         const slug = file.replace('.md', '');
+        
+        // Skip posts with non-self canonical URLs (duplicates/truncated posts)
+        if (data.canonicalUrl) {
+          const canonicalSlug = data.canonicalUrl.replace(/\/$/, '').split('/').pop();
+          if (canonicalSlug && canonicalSlug !== slug) {
+            continue;
+          }
+        }
+        
         const lastModified = data.updatedAt 
           ? new Date(data.updatedAt) 
           : data.publishedAt 
@@ -72,8 +81,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/contact',
     '/careers',
     '/customer-reviews',
+    '/faq',
     '/financing',
     '/family-protection-plans',
+    '/free-hvac-quote',
     '/guarantees',
     '/privacy-policy',
     '/service-areas',

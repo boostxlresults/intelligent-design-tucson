@@ -5,7 +5,7 @@ import PrivacyContactSection from '@/components/contact/PrivacyContactSection';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Privacy Policy | Intelligent Design',
-  description: 'Privacy Policy for Intelligent Design Air Conditioning, Plumbing, Solar & Electric. Learn how we protect and handle your personal information in Tucson, AZ.',
+  description: 'Privacy Policy for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. Learn how we protect and handle your personal information in Tucson, AZ.',
   canonicalUrl: '/privacy-policy',
   keywords: ['privacy policy', 'data protection', 'tucson hvac privacy', 'customer information security'],
 });
@@ -42,7 +42,7 @@ export default function PrivacyPolicyPage() {
             <section>
               <h2 className="text-2xl font-bold mb-4">Our Commitment to Your Privacy</h2>
               <p className="mb-4">
-                At Intelligent Design Air Conditioning, Plumbing, Solar & Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
+                At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
               </p>
             </section>
 

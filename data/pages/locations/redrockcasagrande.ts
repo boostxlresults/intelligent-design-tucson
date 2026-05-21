@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const redrockcasagrandeData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Red Rock / Casa Grande, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Red Rock and Casa Grande. Serving zip codes 85194, 85193 between Tucson and Phoenix since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Red Rock / Casa Grande, at the northern boundary of our service area near Casa Grande Ruins National Monument. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'red-rock-casa-grande',
   
   // Hero Section
@@ -133,6 +133,11 @@ export const redrockcasagrandeData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Red Rock / Casa Grande", "level": 2, "content": "Local Community Guide \u2014 Red Rock / Casa Grande"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Casa Grande Ruins National Monument, Old Sasco Building Remains, Ironwood Forest National Monument, Casa Grande Main Street. Whether you live near these landmarks or anywhere in Red Rock / Casa Grande, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hideout Steakhouse and BBQ, BeDillon's Restaurant, Karavela's Mexican and Peruvian Food, Big House Cafe & Catering. When you need home services in Red Rock / Casa Grande, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -141,7 +146,7 @@ export const redrockcasagrandeData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

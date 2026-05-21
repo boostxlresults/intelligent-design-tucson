@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tortolitaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tortolita, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tortolita. Serving zip codes 85742, 85755 in this growing Marana community since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Tortolita, in the northwest Tucson foothills near the Tortolita Preserve. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'tortolita',
   
   // Hero Section
@@ -133,6 +133,11 @@ export const tortolitaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Tortolita", "level": 2, "content": "Local Community Guide \u2014 Tortolita"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Honey Bee Canyon Petroglyphs, Tortolita Preserve Trailhead, Wild Burro Trailhead, Honey Bee Canyon Park, Cocoraque Butte Archaeological District. Whether you live near these landmarks or anywhere in Tortolita, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Ol' Pot Hole, The Highlands Bar & Grille, Sky Rider Cafe, CORE Kitchen & Wine Bar. When you need home services in Tortolita, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -141,7 +146,7 @@ export const tortolitaData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

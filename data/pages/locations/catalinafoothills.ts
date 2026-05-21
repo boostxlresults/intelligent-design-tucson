@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const catalinafoothillsData: LocationPageData = {
   // SEO & Meta
   title: 'Premium HVAC, Plumbing & Solar Services in Catalina Foothills, AZ',
-  description: 'Luxury home services in Catalina Foothills. Serving zip codes 85718, 85750, 85749 with expert HVAC, plumbing, solar, electrical & roofing. 24/7 emergency service. BBB A+ rated with 23,000+ reviews.',
+  description: 'Expert home services in Catalina Foothills, in the northeast Tucson foothills near Sabino Canyon. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'catalina-foothills',
   
   // Hero Section
@@ -176,7 +176,13 @@ export const catalinafoothillsData: LocationPageData = {
                   "Excellence & Reliability: With over 23,000 five-star reviews and BBB A+ rating, we've earned the trust of Tucson\'s most discerning homeowners through consistent excellence and superior service."
     ]
   },
-]
+
+      {"type": "heading", "heading": "Local Community Guide \u2014 Catalina Foothills", "level": 2, "content": "Local Community Guide \u2014 Catalina Foothills"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Sabino Canyon Recreation Area, Finger Rock Trail, Ventana Canyon Trail, Loews Ventana Canyon Resort, St. Philip's Plaza. Whether you live near these landmarks or anywhere in Catalina Foothills, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Vivace Restaurant, Hacienda del Sol, Flying V Bar & Grill, Caf\u00e9 a La C'Art, Blanco Tacos + Tequila. When you need home services in Catalina Foothills, call the team your neighbors trust \u2014 Intelligent Design."},
+    ]
   },
   
   // FAQs

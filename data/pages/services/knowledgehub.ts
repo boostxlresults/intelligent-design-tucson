@@ -41,7 +41,7 @@ export const knowledgehubData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Roofing, Solar & Electric is Tucson's highest-rated home services company—family-owned, veteran-owned, and locally trusted since 1979. We deliver fast, reliable service across HVAC, plumbing, roofing, solar installation, and electrical—supported by industry-leading warranties, straightforward pricing, and a relentless commitment to 5-star workmanship. With over 23,000 five-star reviews and a BBB A+ rating , our mission is to protect your comfort, health, safety, and efficiency at home—365 days a year."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is Tucson's highest-rated home services company—family-owned, veteran-owned, and locally trusted since 1979. We deliver fast, reliable service across HVAC, plumbing, roofing, solar installation, and electrical—supported by industry-leading warranties, straightforward pricing, and a relentless commitment to 5-star workmanship. With over 23,000 five-star reviews and a BBB A+ rating , our mission is to protect your comfort, health, safety, and efficiency at home—365 days a year."
       },
       {
             "type": "paragraph",

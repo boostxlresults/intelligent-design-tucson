@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const casasadobesData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Casas Adobes, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Casas Adobes. Serving zip codes 85704, 85741, 85742 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical & roofing in Casas Adobes, in northwest Tucson near Tohono Chul Park. 24/7 service. 23,000+ reviews. (520) 333-2665.',
   slug: 'casas-adobes',
   
   // Hero Section
@@ -149,6 +149,11 @@ export const casasadobesData: LocationPageData = {
             "type": "paragraph",
             "content": "Strategically located with easy access to I-10 and Oracle Road, Casas Adobes provides quick connections to downtown Tucson, Oro Valley, and surrounding areas. This central location makes commuting convenient for residents."
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Casas Adobes", "level": 2, "content": "Local Community Guide \u2014 Casas Adobes"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Tohono Chul Park, Rillito Regional Park, Catalina State Park, La Encantada Shopping Center, Casas Adobes Plaza. Whether you live near these landmarks or anywhere in Casas Adobes, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Wildflower, Vivace Restaurant, Blanco Tacos + Tequila, The Parish. When you need home services in Casas Adobes, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",
@@ -163,7 +168,7 @@ export const casasadobesData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

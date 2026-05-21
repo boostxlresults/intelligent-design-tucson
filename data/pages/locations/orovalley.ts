@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const orovalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Oro Valley, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Oro Valley. Serving zip codes 85704, 85737, 85739, 85755 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Oro Valley, north of Tucson near Steam Pump Ranch and the Catalina Mountains. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'oro-valley',
   
   // Hero Section
@@ -145,6 +145,11 @@ export const orovalleyData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Oro Valley", "level": 2, "content": "Local Community Guide \u2014 Oro Valley"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Picture Rock Petroglyphs, Mona's Bridge, Steam Pump Ranch, Rio Vista Labyrinth, Honey Bee Village Archaeological Preserve. Whether you live near these landmarks or anywhere in Oro Valley, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Redbird Scratch Kitchen + Bar, The Parish, Wildflower, Vivace Restaurant. When you need home services in Oro Valley, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -153,7 +158,7 @@ export const orovalleyData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",

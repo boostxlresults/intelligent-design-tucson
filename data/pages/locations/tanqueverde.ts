@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tanqueverdeData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tanque Verde, AZ | Intelligent Design',
-  description: 'Trusted home services in Tanque Verde, east Tucson. Serving zip codes 85749, 85750 with HVAC, plumbing, solar, electrical & roofing near Saguaro National Park. Same-day service available.',
+  description: 'Expert home services in Tanque Verde, in the northeast Tanque Verde valley near Sabino Canyon. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'tanque-verde',
   
   // Hero Section
@@ -172,7 +172,13 @@ export const tanqueverdeData: LocationPageData = {
                   "Trusted Excellence: With over 23,000 five-star reviews and BBB A+ rating, we've earned the confidence of families throughout the Tucson area through consistent quality and integrity."
     ]
   },
-]
+
+      {"type": "heading", "heading": "Local Community Guide \u2014 Tanque Verde", "level": 2, "content": "Local Community Guide \u2014 Tanque Verde"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Fort Lowell Museum, Trail Dust Town, Javelina Rocks, Sabino Canyon Recreation Area, Garwood Dam. Whether you live near these landmarks or anywhere in Tanque Verde, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, The Barnyard Crafthouse & Eatery, Forty Niner. When you need home services in Tanque Verde, call the team your neighbors trust \u2014 Intelligent Design."},
+    ]
   },
   
   // FAQs

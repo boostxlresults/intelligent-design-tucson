@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const coronadetucsonData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Corona de Tucson, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Corona de Tucson. Serving zip codes 85641, 85645 and surrounding areas since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert home services in Corona de Tucson, southeast of Tucson near Colossal Cave Mountain Park. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'corona-de-tucson',
   
   // Hero Section
@@ -314,6 +314,11 @@ export const coronadetucsonData: LocationPageData = {
             "type": "paragraph",
             "content": "Common questions about our Corona de Tucson services"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 Corona de Tucson", "level": 2, "content": "Local Community Guide \u2014 Corona de Tucson"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Empire Ranch Foundation, Colossal Cave Mountain Park, Pima County Fairgrounds, Rincon Mountain Visitor Center, Saguaro National Park East. Whether you live near these landmarks or anywhere in Corona de Tucson, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Cotton Restaurant, Kingfisher, Garage Sports Bar. When you need home services in Corona de Tucson, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Ready for Expert Service in Corona de Tucson?",

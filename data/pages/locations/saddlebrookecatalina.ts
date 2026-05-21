@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const saddlebrookecatalinaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in SaddleBrooke / Catalina, AZ',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in SaddleBrooke and Catalina. Serving zip codes 85739, 85755 in this beautiful retirement community since 1979. 24/7 emergency service. BBB A+ rated.',
+  description: 'Expert home services in SaddleBrooke / Catalina, north of Tucson in the SaddleBrooke retirement community near Oracle State Park. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
   slug: 'saddle-brooke-catalina',
   
   // Hero Section
@@ -133,6 +133,11 @@ export const saddlebrookecatalinaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
+            {"type": "heading", "heading": "Local Community Guide \u2014 SaddleBrooke / Catalina", "level": 2, "content": "Local Community Guide \u2014 SaddleBrooke / Catalina"},
+      {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
+      {"type": "paragraph", "content": "Proudly serving homeowners near Historic Kannally Ranch House, Oracle State Park, Vista Sun Wheel, Oracle Historical Society, Steam Pump Ranch. Whether you live near these landmarks or anywhere in SaddleBrooke / Catalina, our technicians provide fast, reliable service to your neighborhood."},
+      {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Fork & Fire Catalina Grill, Riot Grill, Peppersauce Kitchen, The Preserve Fine Dining, The Roadrunner Grill. When you need home services in SaddleBrooke / Catalina, call the team your neighbors trust \u2014 Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",
@@ -141,7 +146,7 @@ export const saddlebrookecatalinaData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar & Electric"
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
       },
       {
             "type": "paragraph",
