@@ -27,7 +27,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/services/financing': '/financing',
   '/services/guarantees': '/guarantees',
   '/services/privacy-policy': '/privacy-policy',
-  '/services/resources': '/resources',
+  '/services/resources': '/knowledge-hub',
   '/services/saddlebrooke-catalina': '/service-areas/saddle-brooke-catalina',
 
   // ===== CORE SERVICE SHORTCUT REDIRECTS =====
@@ -1309,7 +1309,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/circuit-breakers': '/services/circuit-breakers',
   '/commercial-roof-inspection': '/services/commercial-roof-inspection',
   '/corona-de-tucson': '/services/corona-de-tucson',
-  '/customer-reviews': '/services/customer-reviews',
   '/drain-clearing-casas-adobes': '/services/drain-clearing-casas-adobes',
   '/drain-clearing-catalina-foothills': '/services/drain-clearing-catalina-foothills',
   '/drain-clearing-corona-de-tucson': '/services/drain-clearing-corona-de-tucson',
@@ -1412,7 +1411,6 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/plumbing-saddle-brooke-catalina': '/services/plumbing-saddle-brooke-catalina',
   '/plumbing-sahuarita': '/services/plumbing-sahuarita',
   '/plumbing-tortolita': '/services/plumbing-tortolita',
-  '/privacy-policy': '/services/privacy-policy',
   '/red-rock-casa-grande': '/service-areas/red-rock-casa-grande',
   '/repipe-tucson': '/services/repipe-tucson',
   '/residential-roof-replacement': '/services/residential-roof-replacement',
