@@ -12,6 +12,26 @@ export const acRepairFAQs: ServiceFAQs = {
   serviceName: 'AC Repair',
   faqs: [
     {
+      question: "Why is my AC not cooling?",
+      answer: "If your AC is running but not cooling your home, the issue could be a refrigerant leak, a failing compressor, or a clogged filter. Our licensed technicians diagnose and fix AC cooling problems the same day. Call (520) 333-2665 for fast AC repair in Tucson."
+    },
+    {
+      question: "Why is my AC not working?",
+      answer: "When your AC stops working entirely, it could be an electrical issue, a blown capacitor, or a thermostat failure. Intelligent Design dispatches a licensed tech to your door the same day. We fix all AC brands. Call (520) 333-2665."
+    },
+    {
+      question: "Why is my AC blowing hot air?",
+      answer: "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call (520) 333-2665 — we'll fix it today."
+    },
+    {
+      question: "Why is my AC not blowing cold air?",
+      answer: "If your AC is running but not blowing cold air, the problem may be a frozen evaporator coil, low refrigerant, or a failing blower motor. We diagnose the issue fast and provide upfront pricing before any work begins. Call (520) 333-2665."
+    },
+    {
+      question: "Do you offer emergency AC repair in Tucson?",
+      answer: "Yes. Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast — average response time is 73 minutes. No overtime charges, ever. Call (520) 333-2665 for emergency AC repair."
+    },
+    {
       question: "Why is my air conditioner not working?",
       answer: "Common reasons include power issues (tripped breaker or blown fuse), dirt and ice buildup blocking airflow, low refrigerant levels due to leaks, clogged air filters, or faulty components. In Tucson's extreme heat, AC units running nonstop may experience these issues more frequently."
     },

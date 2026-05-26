@@ -94,9 +94,59 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "heading",
-            "heading": "AC Repair Tucson – Why Your Air Conditioner Isn't Working",
+            "heading": "AC Not Cooling?",
             "level": 2,
-            "content": "AC Repair Tucson – Why Your Air Conditioner Isn't Working"
+            "content": "AC Not Cooling?"
+      },
+      {
+            "type": "paragraph",
+            "content": "If your AC is running but not cooling your home, the issue could be a refrigerant leak, a failing compressor, or a clogged filter. Our licensed technicians diagnose and fix AC cooling problems the same day. Call now for fast AC repair in Tucson."
+      },
+      {
+            "type": "heading",
+            "heading": "AC Not Working?",
+            "level": 2,
+            "content": "AC Not Working?"
+      },
+      {
+            "type": "paragraph",
+            "content": "When your AC stops working entirely, it could be an electrical issue, a blown capacitor, or a thermostat failure. Don\u2019t sweat it \u2014 Intelligent Design dispatches a licensed tech to your door the same day. We fix all AC brands."
+      },
+      {
+            "type": "heading",
+            "heading": "AC Blowing Hot Air?",
+            "level": 2,
+            "content": "AC Blowing Hot Air?"
+      },
+      {
+            "type": "paragraph",
+            "content": "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call us \u2014 we\u2019ll fix it today."
+      },
+      {
+            "type": "heading",
+            "heading": "AC Not Blowing Cold Air?",
+            "level": 2,
+            "content": "AC Not Blowing Cold Air?"
+      },
+      {
+            "type": "paragraph",
+            "content": "If your AC is running but not blowing cold air, the problem may be a frozen evaporator coil, low refrigerant, or a failing blower motor. We diagnose the issue fast and provide upfront pricing before any work begins."
+      },
+      {
+            "type": "heading",
+            "heading": "Emergency AC Repair in Tucson",
+            "level": 2,
+            "content": "Emergency AC Repair in Tucson"
+      },
+      {
+            "type": "paragraph",
+            "content": "Need emergency AC repair? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 73 minutes. No overtime charges, ever. Call now for emergency AC repair."
+      },
+      {
+            "type": "heading",
+            "heading": "AC Repair Tucson \u2013 Why Your Air Conditioner Isn\u2019t Working",
+            "level": 2,
+            "content": "AC Repair Tucson \u2013 Why Your Air Conditioner Isn\u2019t Working"
       },
       {
             "type": "paragraph",
