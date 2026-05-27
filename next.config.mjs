@@ -65,6 +65,17 @@ const nextConfig = {
       "./node_modules/sharp/**",
     ],
   },
+  async rewrites() {
+    return [
+      // Yext Pages reverse proxy — ZIP cluster location×service pages
+      // Proxies /locations/* to the Yext CDN transparently
+      // URL stays as www.idesignac.com/locations/... (not locations.idesignac.com)
+      {
+        source: '/locations/:path*',
+        destination: 'https://locations.idesignac.com/:path*',
+      },
+    ];
+  },
   async headers() {
     return [
       {
