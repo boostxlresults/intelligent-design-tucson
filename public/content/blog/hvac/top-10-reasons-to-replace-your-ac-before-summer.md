@@ -43,7 +43,7 @@ Your old system is costing you money every month in wasted energy and repairs. A
 
 Beyond deferred payments, we offer **0% APR financing** options that make a new system genuinely affordable. No interest means the price you see is the price you pay — spread over comfortable monthly installments.
 
-A $10,000 system at 0% over 60 months is just $167/month. Compare that to the $300-$500 repair bills you're paying every summer to keep your old system limping along.
+A $10,000 system at 0% over 120 months is just $83/month. Compare that to the $300-$500 repair bills you're paying every summer to keep your old system limping along.
 
 ## 5. New AC Systems Starting at Just $95/Month
 
