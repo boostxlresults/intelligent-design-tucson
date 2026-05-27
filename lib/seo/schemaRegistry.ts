@@ -266,16 +266,10 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 7. AggregateRating Schema — CRITICAL for Maps ranking
-  // Ensures every service page carries review signals for Google Maps
-  schemas.push(generateAggregateRatingSchema({
-    itemReviewed: {
-      type: 'LocalBusiness',
-      name: pageData.serviceName 
-        ? `Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - ${pageData.serviceName}`
-        : 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric'
-    }
-  }));
+  // 7. AggregateRating — already nested inside Multi-Category LocalBusiness schemas
+  // (includeRatings: true adds aggregateRating to each LocalBusiness)
+  // Standalone AggregateRating with itemReviewed removed to fix GSC
+  // "nested object can't contain itemReviewed" warning
 
   // 8. Offer Schemas (if applicable)
   if (pageData.includeOffers) {
@@ -384,15 +378,10 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 8. AggregateRating Schema — CRITICAL for Maps ranking
-  schemas.push(generateAggregateRatingSchema({
-    itemReviewed: {
-      type: 'LocalBusiness',
-      name: pageData.serviceName && pageData.location
-        ? `Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - ${pageData.serviceName} in ${pageData.location}`
-        : 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric'
-    }
-  }));
+  // 8. AggregateRating — already nested inside Multi-Category LocalBusiness schemas
+  // (includeRatings: true adds aggregateRating to each LocalBusiness)
+  // Standalone AggregateRating with itemReviewed removed to fix GSC
+  // "nested object can't contain itemReviewed" warning
 
   // 9. Offer Schemas
   if (pageData.includeOffers) {
@@ -430,15 +419,21 @@ function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
     }));
   }
 
-  // 2-3. Review Schemas (2 reviews)
+  // 2-3. Review Schemas (2 reviews) — nested inside LocalBusiness to avoid
+  // Google's "itemReviewed inside nested object" warning
   const reviewSchemas = generateReviewSchemas({
-    maxReviews: 2,
-    itemReviewed: {
-      type: "LocalBusiness",
-      name: `Intelligent Design - ${pageData.location || ''}`
-    }
+    maxReviews: 2
   });
-  schemas.push(...reviewSchemas);
+  // Nest reviews inside the LocalBusiness schema instead of standalone
+  if (schemas.length > 0 && schemas[0]['@type'] === 'LocalBusiness') {
+    (schemas[0] as any).review = reviewSchemas.map(r => ({
+      "@type": "Review",
+      "author": r.author,
+      "reviewRating": r.reviewRating,
+      "reviewBody": r.reviewBody,
+      "datePublished": r.datePublished
+    }));
+  }
 
   return schemas;
 }

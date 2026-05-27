@@ -139,18 +139,7 @@ const generateReviewSchema = () => {
       "bestRating": 5
     },
     "reviewBody": review.text,
-    "datePublished": review.date,
-    "itemReviewed": {
-      "@type": "LocalBusiness",
-      "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1145 E Fort Lowell Rd",
-        "addressLocality": "Tucson",
-        "addressRegion": "AZ",
-        "postalCode": "85719"
-      }
-    }
+    "datePublished": review.date
   }));
 };
 
