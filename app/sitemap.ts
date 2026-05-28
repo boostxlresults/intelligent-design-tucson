@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
+import { getAllLocationServiceParams } from '@/data/locationServiceData';
 import noindexSlugs from '@/data/noindex-service-slugs.json';
 import fs from 'fs/promises';
 import path from 'path';
@@ -144,6 +145,25 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: 'weekly',
       priority: 0.75,
     });
+  });
+
+  // ZIP-cluster location×service pages (300 pages)
+  const locationServiceParams = getAllLocationServiceParams();
+  locationServiceParams.forEach(({ zip, service }) => {
+    entries.push({
+      url: `${SITE_URL}/locations/${zip}/${service}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.85,
+    });
+  });
+
+  // /locations index page
+  entries.push({
+    url: `${SITE_URL}/locations`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.8,
   });
 
   // Individual blog posts

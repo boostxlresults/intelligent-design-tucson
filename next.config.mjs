@@ -65,17 +65,8 @@ const nextConfig = {
       "./node_modules/sharp/**",
     ],
   },
-  async rewrites() {
-    return [
-      // Yext Pages reverse proxy — ZIP cluster location×service pages
-      // Proxies /locations/* to the Yext CDN transparently
-      // URL stays as www.idesignac.com/locations/... (not locations.idesignac.com)
-      {
-        source: '/locations/:path*',
-        destination: 'https://locations.idesignac.com/:path*',
-      },
-    ];
-  },
+  // /locations/* is now served directly by Next.js dynamic routes
+  // (app/locations/[zip]/[service]/page.tsx) — no proxy needed
   async headers() {
     return [
       {
