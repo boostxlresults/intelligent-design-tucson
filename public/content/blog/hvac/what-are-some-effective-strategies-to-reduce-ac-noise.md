@@ -94,6 +94,6 @@ When your AC starts making unusual sounds, there are several possible causes to 
 The best approach is to have a professional technician inspect your system to identify exactly what's creating the noise and provide targeted solutions.
 
 
-If you’ve been hearing some unusual noises from your air conditioner or furnace, give us a call at [Intelligent Design](https://www.idesignac.com/ac/)! Our certified HVAC technicians have years of experience, and can quickly diagnose the source of the problem and recommend budget-friendly solutions to reduce AC noise. If you’ve decided that the time has come to replace the unit, then call us at [(520) 462-1187](tel:+\(520\)%20462-1187) for a free estimate. We are available in Tucson and the surrounding areas.
+If you’ve been hearing some unusual noises from your air conditioner or furnace, give us a call at [Intelligent Design](https://www.idesignac.com/ac/)! Our certified HVAC technicians have years of experience, and can quickly diagnose the source of the problem and recommend budget-friendly solutions to reduce AC noise. If you’ve decided that the time has come to replace the unit, then call us at [(520) 333-2665](tel:+15203332665) for a free estimate. We are available in Tucson and the surrounding areas.
 
 [View More FAQ Videos](https://www.idesignac.com/hvac-blogs/)

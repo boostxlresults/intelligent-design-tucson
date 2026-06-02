@@ -51,6 +51,6 @@ These days, people are accustomed to shopping online for just about everything�
 
 Once we determine exactly what you’re looking for, we can make three to four recommendations for brands and models that fit your needs and preferences. At that point, the choice is up to you, although we’re always available to answer your follow-up questions.
 
-You can schedule your [free estimate](https://www.idesignac.com/services/air-conditioning/ac-installation-tucson/) for a new AC unit today with the experienced, certified HVAC technicians at Intelligent Design. Our technicians have an average of 17 years of experience! We’ll address all of your concerns and answer all of your questions about choosing an air conditioning unit for your Southern Arizona home. Intelligent Design serves Tucson and the surrounding areas. You can reach us at [(520) 462-1187](tel:+\(520\)%20462-1187).
+You can schedule your [free estimate](https://www.idesignac.com/services/air-conditioning/ac-installation-tucson/) for a new AC unit today with the experienced, certified HVAC technicians at Intelligent Design. Our technicians have an average of 17 years of experience! We’ll address all of your concerns and answer all of your questions about choosing an air conditioning unit for your Southern Arizona home. Intelligent Design serves Tucson and the surrounding areas. You can reach us at [(520) 333-2665](tel:+15203332665).
 
 [View More FAQ Videos](https://www.idesignac.com/hvac-blogs/)

@@ -5,7 +5,7 @@ import { acTuneupFAQs } from '@/data/faqs/hvac';
 export const actuneupData: ServicePageData = {
   // SEO & Meta
   title: 'AC Tune-Up Tucson AZ | $28.88 86-Point Inspection | Intelligent Design',
-  description: 'Professional AC tune-up in Tucson for just $28.88. Our 86-point inspection prevents costly breakdowns, extends system life 3-5 years, and improves efficiency 15-25%. Same-day appointments available. Call (520) 230-2827.',
+  description: 'Professional AC tune-up in Tucson for just $28.88. Our 86-point inspection prevents costly breakdowns, extends system life 3-5 years, and improves efficiency 15-25%. Same-day appointments available. Call (520) 333-2665.',
   slug: 'ac-tuneup-tucson',
   
   // Hero Section

@@ -213,4 +213,4 @@ We offer:
 
 ---
 
-**Questions about your home's electrical system?** Contact Intelligent Design at (520) 214-8811 for expert answers and solutions.
+**Questions about your home's electrical system?** Contact Intelligent Design at (520) 333-2665 for expert answers and solutions.

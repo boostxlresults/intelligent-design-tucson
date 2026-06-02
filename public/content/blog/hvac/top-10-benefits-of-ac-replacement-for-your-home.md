@@ -109,4 +109,4 @@ Choosing the right AC unit will depend on your specific needs. But with so many 
 
 At [Intelligent Design](https://www.idesignac.com/contact/), we offer AC replacement services to help you get the most out of your AC unit. We can help you choose the right unit for your home and budget, and we can also help you install the unit so it works properly.
 
-We have been rated the number one HVAC system company in Tucson for the last seven years, and we’re here to help you with all of your AC needs. Contact us at [(520) 335-3303](tel:+15203353303) to schedule a free consultation. We’ll be happy to answer any questions you have about AC replacement. We’ll make sure you’re comfortable all summer long.
+We have been rated the number one HVAC system company in Tucson for the last seven years, and we’re here to help you with all of your AC needs. Contact us at [(520) 333-2665](tel:+15203332665) to schedule a free consultation. We’ll be happy to answer any questions you have about AC replacement. We’ll make sure you’re comfortable all summer long.

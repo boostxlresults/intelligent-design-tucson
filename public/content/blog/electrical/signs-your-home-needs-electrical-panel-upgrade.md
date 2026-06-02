@@ -142,4 +142,4 @@ Don't wait for an electrical emergency. If you've noticed any of these warning s
 
 ---
 
-**Ready to upgrade your electrical panel?** Call Intelligent Design at (520) 214-8811 or schedule online for a free consultation.
+**Ready to upgrade your electrical panel?** Call Intelligent Design at (520) 333-2665 or schedule online for a free consultation.

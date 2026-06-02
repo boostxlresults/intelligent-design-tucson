@@ -219,4 +219,4 @@ We're not here to scare you away from DIY—we're here to help you make informed
 
 ---
 
-**Not sure if your project needs a professional?** Call Intelligent Design at (520) 214-8811 for free advice. We'll honestly tell you if it's something you can handle yourself.
+**Not sure if your project needs a professional?** Call Intelligent Design at (520) 333-2665 for free advice. We'll honestly tell you if it's something you can handle yourself.

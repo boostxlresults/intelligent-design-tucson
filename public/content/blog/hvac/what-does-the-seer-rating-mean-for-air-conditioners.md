@@ -81,6 +81,6 @@ A high SEER rating is good, but it's not the only factor to consider. **Proper i
 
 If you're considering a new air conditioner or want to know if your current system is operating at peak efficiency, contact Intelligent Design. We'll test your system, identify any issues, and provide honest recommendations based on your specific situation.
 
-**Call us at [(520) 462-1187](tel:+15204621187)** or visit [idesignac.com](https://www.idesignac.com) to schedule your consultation or home energy audit.
+**Call us at [(520) 333-2665](tel:+15203332665)** or visit [idesignac.com](https://www.idesignac.com) to schedule your consultation or home energy audit.
 
 [View More FAQ Videos](https://www.idesignac.com/hvac-blogs/)

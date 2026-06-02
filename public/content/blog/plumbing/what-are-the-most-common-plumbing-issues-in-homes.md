@@ -69,6 +69,6 @@ If scale buildup is left unaddressed, the water heater will have to work harder 
 
 A thorough plumbing inspection will reveal whether the home you’re thinking of buying has a water heater that could be nearing the end of its lifespan. Moving forward, you can extend the longevity of the appliance and mitigate scale buildup by scheduling a water heater flush at least once per year.
 
-If you’re thinking of buying or selling a home, you should always be aware of potential plumbing issues beforehand. Call [Intelligent Design](https://www.idesignac.com/ac/) in Tucson at [(520) 214-6178](tel:\(520\)%20214-6178) to request a whole house plumbing inspection. We’ll send a licensed plumber out to the property to conduct a full evaluation. At the end, he or she will discuss the findings and any recommendations with you, and provide an estimate for the repairs if applicable.
+If you’re thinking of buying or selling a home, you should always be aware of potential plumbing issues beforehand. Call [Intelligent Design](https://www.idesignac.com/ac/) in Tucson at [(520) 333-2665](tel:+15203332665) to request a whole house plumbing inspection. We’ll send a licensed plumber out to the property to conduct a full evaluation. At the end, he or she will discuss the findings and any recommendations with you, and provide an estimate for the repairs if applicable.
 
 [View More FAQ Videos](https://www.idesignac.com/hvac-blogs/)

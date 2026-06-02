@@ -232,4 +232,4 @@ We offer:
 
 ---
 
-**Ready to protect your home from surge damage?** Call Intelligent Design at (520) 214-8811 or schedule online. We'll have your home protected before the next storm rolls in.
+**Ready to protect your home from surge damage?** Call Intelligent Design at (520) 333-2665 or schedule online. We'll have your home protected before the next storm rolls in.

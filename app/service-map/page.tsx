@@ -109,7 +109,7 @@ function generateServiceSchemas(checkins: CheckIn[]) {
     provider: {
       '@type': 'LocalBusiness',
       name: 'Intelligent Design Air Conditioning, Plumbing, Solar, & Electric',
-      telephone: '(520) 375-9187',
+      telephone: '(520) 333-2665',
       url: 'https://www.idesignac.com/',
       image: 'https://www.idesignac.com/images/logo.png',
       address: {

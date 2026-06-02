@@ -93,7 +93,7 @@ While exact pricing requires an in-home assessment, here are general ranges for 
 
 Although it isn't possible to give a quote for a new air conditioner cost over the phone, you can get a free, custom-designed quote for your new system when you meet with a certified technician from Intelligent Design. Our technicians will measure your living space, discuss your options and preferences, and develop an accurate estimate free of charge.
 
-Would you like to learn more? Get in touch with our office in Tucson today at **(520) 462-1187**. We're the No. 1 rated AC company in Southern Arizona, and we look forward to serving your family!
+Would you like to learn more? Get in touch with our office in Tucson today at **(520) 333-2665**. We're the No. 1 rated AC company in Southern Arizona, and we look forward to serving your family!
 
 ## Why Choose Intelligent Design for Your AC Installation?
 

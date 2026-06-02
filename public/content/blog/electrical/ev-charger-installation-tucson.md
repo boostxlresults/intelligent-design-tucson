@@ -262,4 +262,4 @@ We've helped hundreds of Tucson EV owners prepare their homes for electric trans
 
 ---
 
-**Ready to install your EV charger?** Call Intelligent Design at (520) 214-8811 or schedule a free assessment online. We'll have you charging at home in no time.
+**Ready to install your EV charger?** Call Intelligent Design at (520) 333-2665 or schedule a free assessment online. We'll have you charging at home in no time.
