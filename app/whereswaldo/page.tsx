@@ -65,7 +65,7 @@ export default function WheresWaldoPage() {
       icon: Upload,
       step: '4',
       title: 'Post & Tag Us',
-      description: 'Upload your selfie to your social media page and tag @IntelligentDesignAC. That\'s it — you\'re entered!',
+      description: 'Upload your selfie to your social media page and tag @intelligentdesigntucson (Instagram/TikTok) or @IntelligentDesignAC (Facebook). That\'s it — you\'re entered!',
     },
   ];
 
@@ -307,7 +307,7 @@ export default function WheresWaldoPage() {
                     <li>• Take a selfie photo with Andrew or Aimee (with their consent).</li>
                     <li>• Follow and like the official Intelligent Design page on the social media platform where you post.</li>
                     <li>• Upload the selfie to your personal social media account (Instagram, Facebook, TikTok, or X/Twitter).</li>
-                    <li>• Tag the official Intelligent Design page in your post.</li>
+                    <li>• Tag the official Intelligent Design page in your post: @intelligentdesigntucson on Instagram and TikTok, or @IntelligentDesignAC on Facebook.</li>
                     <li>• Your social media profile must be set to public for verification purposes.</li>
                   </ul>
                 </CardContent>
@@ -393,13 +393,18 @@ export default function WheresWaldoPage() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
-                <a href="https://www.instagram.com/intelligentdesignac" target="_blank" rel="noopener noreferrer">
-                  Follow Us on Instagram <Heart className="w-5 h-5 ml-2" />
+                <a href="https://www.instagram.com/intelligentdesigntucson" target="_blank" rel="noopener noreferrer">
+                  Follow on Instagram
                 </a>
               </Button>
-              <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
-                <a href="tel:+1520-333-2665">
-                  Call (520) 333-2665
+              <Button asChild size="lg" className="bg-blue-600 hover:bg-blue-700 text-white border-blue-600 text-lg px-8 py-6 h-auto">
+                <a href="https://www.facebook.com/IntelligentDesignAC" target="_blank" rel="noopener noreferrer">
+                  Follow on Facebook
+                </a>
+              </Button>
+              <Button asChild size="lg" className="bg-gray-900 hover:bg-gray-800 text-white border-gray-900 text-lg px-8 py-6 h-auto">
+                <a href="https://www.tiktok.com/@intelligentdesigntucson" target="_blank" rel="noopener noreferrer">
+                  Follow on TikTok
                 </a>
               </Button>
             </div>
