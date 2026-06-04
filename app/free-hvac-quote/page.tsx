@@ -165,12 +165,10 @@ export default function FreeHVACQuotePage() {
         </div>
       </section>
 
-      {/* Failsafe Quote CTA */}
+      {/* Contractor Commerce Native Widget — "Get a System Quote / Let's Go!" */}
       <QuoteCallout
         journeyType="systemQuote"
-        heading="Get Your Instant Online Estimate"
-        description="Answer a few quick questions, get an instant on-screen estimate with real pricing, and schedule a home visit when you're ready."
-        buttonText="Get My Free Estimate"
+        navigatorKey="NzdTlJWvihCCWjsf"
       />
 
       {/* Intro Content Section */}
@@ -200,14 +198,7 @@ export default function FreeHVACQuotePage() {
         </div>
       </section>
 
-      {/* Contractor Commerce Widget Container */}
-      <section className="py-12 md:py-16">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-5xl mx-auto">
-            <div id="concom-navigator" navigator-key="NzdTlJWvihCCWjsf" className="min-h-[600px]" data-testid="widget-hvac-quote" />
-          </div>
-        </div>
-      </section>
+
 
       {/* What Affects HVAC Cost */}
       <section className="bg-card py-12 md:py-16 border-t">

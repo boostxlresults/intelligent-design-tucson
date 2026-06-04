@@ -1,25 +1,26 @@
 "use client";
 
-import { useState, useRef } from 'react';
-import { Button } from '@/components/ui/button';
-import { Loader2 } from 'lucide-react';
-import { trackQuoteStart } from '@/lib/analytics';
-
-declare global {
-  interface Window {
-    ContractorCommerce?: {
-      Journey: {
-        start: (journeyType: string) => void;
-      };
-    };
-  }
-}
+/**
+ * QuoteCallout — Native Contractor Commerce Navigator Widget
+ * 
+ * This component renders CC's native navigator widget (the "Get a System Quote / Let's Go!" UI)
+ * which is fully managed by Contractor Commerce's own JavaScript. We don't try to call
+ * any CC APIs ourselves — we just provide the container div and CC handles everything.
+ * 
+ * The `data-contractor-commerce` attribute triggers the ContractorCommercePlugin's
+ * IntersectionObserver to load the CC script when this section enters the viewport.
+ * 
+ * navigator-key determines which CC journey is launched:
+ * - "NzdTlJWvihCCWjsf" = HVAC System Quote
+ * - "ugVQLX7twEC3x7nG" = Water Heater Quote
+ */
 
 interface QuoteCalloutProps {
   journeyType?: string;
   heading?: string;
   description?: string;
   buttonText?: string;
+  navigatorKey?: string;
 }
 
 export default function QuoteCallout({
@@ -27,94 +28,13 @@ export default function QuoteCallout({
   heading = 'Get a System Quote.',
   description = 'Answer a few quick questions, get an instant on-screen quote, and schedule a home visit.',
   buttonText = "Let's Go!",
+  navigatorKey = 'NzdTlJWvihCCWjsf',
 }: QuoteCalloutProps) {
-  const [isWaiting, setIsWaiting] = useState(false);
-  const pollRef = useRef<ReturnType<typeof setInterval> | null>(null);
-  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-
-  const cleanup = () => {
-    if (pollRef.current) {
-      clearInterval(pollRef.current);
-      pollRef.current = null;
-    }
-    if (timeoutRef.current) {
-      clearTimeout(timeoutRef.current);
-      timeoutRef.current = null;
-    }
-  };
-
-  const handleClick = () => {
-    trackQuoteStart(journeyType);
-
-    // Always try to call Journey.start() directly on every click
-    // This avoids any stale state issues
-    if (window.ContractorCommerce?.Journey) {
-      try {
-        window.ContractorCommerce.Journey.start(journeyType);
-        return; // Success — done
-      } catch (e) {
-        // Journey.start() threw — fall through to waiting state
-      }
-    }
-
-    // CC not ready yet — show loading and poll until it's available
-    setIsWaiting(true);
-    cleanup();
-
-    pollRef.current = setInterval(() => {
-      if (window.ContractorCommerce?.Journey) {
-        try {
-          window.ContractorCommerce.Journey.start(journeyType);
-          setIsWaiting(false);
-          cleanup();
-        } catch (e) {
-          // Keep polling
-        }
-      }
-    }, 300);
-
-    // Give up after 10 seconds — reset button so user isn't stuck
-    timeoutRef.current = setTimeout(() => {
-      setIsWaiting(false);
-      cleanup();
-    }, 10000);
-  };
-
   return (
     <section className="py-12 md:py-16 bg-gray-100 dark:bg-gray-800/50" data-contractor-commerce="true">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="max-w-2xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="heading-quote-callout">
-            {heading}
-          </h2>
-          <p className="text-lg text-muted-foreground mb-8" data-testid="text-quote-callout-description">
-            {description}
-          </p>
-          <Button
-            size="lg"
-            onClick={handleClick}
-            disabled={isWaiting}
-            className="bg-[#c41230] hover:bg-[#a10f28] text-white text-lg px-12 py-6 h-auto rounded-md font-semibold shadow-lg"
-            data-testid="button-quote-callout"
-          >
-            {isWaiting ? (
-              <>
-                <Loader2 className="mr-2 h-5 w-5 animate-spin" />
-                Loading Quote Tool...
-              </>
-            ) : buttonText}
-          </Button>
-          <p className="mt-6 text-sm text-muted-foreground">
-            Powered by{' '}
-            <a
-              href="https://www.contractorcommerce.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#4a9cd4] hover:underline"
-            >
-              Contractor Commerce
-            </a>
-          </p>
+        <div className="max-w-5xl mx-auto">
+          <div id="concom-navigator" navigator-key={navigatorKey} className="min-h-[600px]" data-testid={`widget-${journeyType}`} />
         </div>
       </div>
     </section>

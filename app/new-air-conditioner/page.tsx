@@ -198,15 +198,12 @@ export default function NewAirConditionerPage() {
         </div>
       </section>
 
-      {/* Instant Estimate CTA */}
+      {/* Instant Estimate CTA — Native CC Widget */}
       <div id="instant-estimate">
         <QuoteCallout
           journeyType="systemQuote"
-          heading="Get Your New AC Price in 2 Minutes"
-          description="Answer a few quick questions about your home and see real pricing instantly — no home visit required, no obligation."
-          buttonText="Get My AC Replacement Price"
+          navigatorKey="NzdTlJWvihCCWjsf"
         />
-
       </div>
 
       {/* Why Replace Your AC — Content Section */}
