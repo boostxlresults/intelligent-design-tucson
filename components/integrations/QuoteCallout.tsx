@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { Button } from '@/components/ui/button';
 import { Loader2 } from 'lucide-react';
 import { trackQuoteStart } from '@/lib/analytics';
@@ -28,82 +28,56 @@ export default function QuoteCallout({
   description = 'Answer a few quick questions, get an instant on-screen quote, and schedule a home visit.',
   buttonText = "Let's Go!",
 }: QuoteCalloutProps) {
-  const [isReady, setIsReady] = useState(false);
   const [isWaiting, setIsWaiting] = useState(false);
-  const pendingClickRef = useRef(false);
-  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const pollRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const startJourney = useCallback(() => {
-    if (window.ContractorCommerce?.Journey) {
-      window.ContractorCommerce.Journey.start(journeyType);
-      setIsWaiting(false);
-      pendingClickRef.current = false;
+  const cleanup = () => {
+    if (pollRef.current) {
+      clearInterval(pollRef.current);
+      pollRef.current = null;
     }
-  }, [journeyType]);
-
-  useEffect(() => {
-    const checkReady = () => {
-      if (window.ContractorCommerce?.Journey) {
-        setIsReady(true);
-        if (pendingClickRef.current) {
-          startJourney();
-        }
-        return true;
-      }
-      // If it was previously ready but CC got destroyed (e.g., after modal close),
-      // reset isReady so the button doesn't silently fail
-      setIsReady(false);
-      return false;
-    };
-
-    if (checkReady()) {
-      // Even if ready now, keep polling in case CC gets destroyed after modal close
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+      timeoutRef.current = null;
     }
-
-    // Poll indefinitely (no timeout) — CC can become available/unavailable at any time
-    intervalRef.current = setInterval(() => {
-      checkReady();
-    }, 500);
-
-    return () => {
-      if (intervalRef.current) {
-        clearInterval(intervalRef.current);
-      }
-    };
-  }, [startJourney]);
+  };
 
   const handleClick = () => {
     trackQuoteStart(journeyType);
-    
-    // Always re-check CC availability at click time (don't rely on stale isReady state)
+
+    // Always try to call Journey.start() directly on every click
+    // This avoids any stale state issues
     if (window.ContractorCommerce?.Journey) {
-      window.ContractorCommerce.Journey.start(journeyType);
-      setIsWaiting(false);
-      pendingClickRef.current = false;
-    } else {
-      // CC not available — show loading state and queue the click
-      setIsWaiting(true);
-      pendingClickRef.current = true;
-      
-      // Start a rapid poll specifically for this pending click (check every 200ms)
-      const clickPoll = setInterval(() => {
-        if (window.ContractorCommerce?.Journey) {
+      try {
+        window.ContractorCommerce.Journey.start(journeyType);
+        return; // Success — done
+      } catch (e) {
+        // Journey.start() threw — fall through to waiting state
+      }
+    }
+
+    // CC not ready yet — show loading and poll until it's available
+    setIsWaiting(true);
+    cleanup();
+
+    pollRef.current = setInterval(() => {
+      if (window.ContractorCommerce?.Journey) {
+        try {
           window.ContractorCommerce.Journey.start(journeyType);
           setIsWaiting(false);
-          pendingClickRef.current = false;
-          clearInterval(clickPoll);
+          cleanup();
+        } catch (e) {
+          // Keep polling
         }
-      }, 200);
-      
-      // Give up after 15 seconds and reset button (don't leave user stuck forever)
-      setTimeout(() => {
-        clearInterval(clickPoll);
-        if (pendingClickRef.current) {
-          setIsWaiting(false);
-          pendingClickRef.current = false;
-        }
-      }, 15000);
-    }
+      }
+    }, 300);
+
+    // Give up after 10 seconds — reset button so user isn't stuck
+    timeoutRef.current = setTimeout(() => {
+      setIsWaiting(false);
+      cleanup();
+    }, 10000);
   };
 
   return (
