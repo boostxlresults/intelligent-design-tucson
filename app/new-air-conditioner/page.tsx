@@ -206,6 +206,8 @@ export default function NewAirConditionerPage() {
           description="Answer a few quick questions about your home and see real pricing instantly — no home visit required, no obligation."
           buttonText="Get My AC Replacement Price"
         />
+        {/* Contractor Commerce Navigator — required for CC plugin to auto-initialize */}
+        <div id="concom-navigator" navigator-key="NzdTlJWvihCCWjsf" className="hidden" />
       </div>
 
       {/* Why Replace Your AC — Content Section */}

@@ -31,6 +31,7 @@ export default function QuoteCallout({
   const [isReady, setIsReady] = useState(false);
   const [isWaiting, setIsWaiting] = useState(false);
   const pendingClickRef = useRef(false);
+  const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const startJourney = useCallback(() => {
     if (window.ContractorCommerce?.Journey) {
@@ -49,34 +50,59 @@ export default function QuoteCallout({
         }
         return true;
       }
+      // If it was previously ready but CC got destroyed (e.g., after modal close),
+      // reset isReady so the button doesn't silently fail
+      setIsReady(false);
       return false;
     };
 
-    if (checkReady()) return;
+    if (checkReady()) {
+      // Even if ready now, keep polling in case CC gets destroyed after modal close
+    }
 
-    const interval = setInterval(() => {
-      if (checkReady()) {
-        clearInterval(interval);
-      }
-    }, 300);
-
-    const timeout = setTimeout(() => {
-      clearInterval(interval);
-    }, 30000);
+    // Poll indefinitely (no timeout) — CC can become available/unavailable at any time
+    intervalRef.current = setInterval(() => {
+      checkReady();
+    }, 500);
 
     return () => {
-      clearInterval(interval);
-      clearTimeout(timeout);
+      if (intervalRef.current) {
+        clearInterval(intervalRef.current);
+      }
     };
   }, [startJourney]);
 
   const handleClick = () => {
     trackQuoteStart(journeyType);
-    if (isReady) {
-      startJourney();
+    
+    // Always re-check CC availability at click time (don't rely on stale isReady state)
+    if (window.ContractorCommerce?.Journey) {
+      window.ContractorCommerce.Journey.start(journeyType);
+      setIsWaiting(false);
+      pendingClickRef.current = false;
     } else {
+      // CC not available — show loading state and queue the click
       setIsWaiting(true);
       pendingClickRef.current = true;
+      
+      // Start a rapid poll specifically for this pending click (check every 200ms)
+      const clickPoll = setInterval(() => {
+        if (window.ContractorCommerce?.Journey) {
+          window.ContractorCommerce.Journey.start(journeyType);
+          setIsWaiting(false);
+          pendingClickRef.current = false;
+          clearInterval(clickPoll);
+        }
+      }, 200);
+      
+      // Give up after 15 seconds and reset button (don't leave user stuck forever)
+      setTimeout(() => {
+        clearInterval(clickPoll);
+        if (pendingClickRef.current) {
+          setIsWaiting(false);
+          pendingClickRef.current = false;
+        }
+      }, 15000);
     }
   };
 
