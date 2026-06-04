@@ -9,11 +9,30 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-const BATCH_SIZE = 25; // Process 25 records per run to stay within time limits
+const BATCH_SIZE = 50; // Process 50 records per run
+
+/**
+ * Service-specific keyword variations for natural inclusion in descriptions.
+ * These map service types to related search terms people actually use.
+ */
+const SERVICE_KEYWORD_MAP: Record<string, string[]> = {
+  'AC Repair': ['air conditioning repair', 'AC fix', 'cooling system repair', 'central air repair', 'AC not cooling'],
+  'AC Maintenance': ['air conditioning tune-up', 'AC maintenance', 'HVAC preventive maintenance', 'AC inspection', 'cooling system service'],
+  'HVAC Installation': ['new AC installation', 'HVAC system replacement', 'air conditioning installation', 'central air installation', 'AC unit replacement'],
+  'HVAC Consultation': ['HVAC assessment', 'air conditioning consultation', 'home comfort evaluation', 'AC system evaluation', 'energy efficiency consultation'],
+  'Plumbing': ['plumbing repair', 'plumber', 'plumbing service', 'pipe repair', 'plumbing fix'],
+  'Plumbing Installation': ['plumbing installation', 'new plumbing', 'fixture installation', 'pipe installation', 'plumbing upgrade'],
+  'Drain & Sewer': ['drain cleaning', 'sewer repair', 'clogged drain', 'sewer line service', 'drain clearing'],
+  'Water Heater Service': ['water heater repair', 'water heater installation', 'hot water heater', 'tankless water heater', 'water heater replacement'],
+  'Solar Installation': ['solar panel installation', 'residential solar', 'solar energy system', 'solar power installation', 'home solar panels'],
+  'Roofing': ['roof repair', 'roofing contractor', 'roof inspection', 'roof coating', 'roof maintenance'],
+  'Electrical': ['electrician', 'electrical repair', 'electrical service', 'wiring repair', 'electrical installation'],
+  'Electrical Installation': ['electrical panel upgrade', 'wiring installation', 'outlet installation', 'electrical upgrade', 'circuit installation'],
+};
 
 /**
  * Generate an SEO-optimized, public-facing description for a service map check-in.
- * Uses geo-modified keywords (service type + zip code + city) for local SEO.
+ * Uses geo-modified keywords, keyword variations, and trust signals for maximum local SEO impact.
  */
 async function generateDescription(
   serviceType: string,
@@ -23,42 +42,53 @@ async function generateDescription(
   businessUnit: string,
   rawNotes: string
 ): Promise<string> {
-  const prompt = `You are an SEO copywriter for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric — a family-owned, veteran-owned home services company in Tucson, AZ with 46+ years of experience and a 5.0 Google rating from 23,000+ reviews.
+  const keywordVariations = SERVICE_KEYWORD_MAP[serviceType] || [`${serviceType.toLowerCase()} service`];
+  const randomKeyword = keywordVariations[Math.floor(Math.random() * keywordVariations.length)];
+  const secondaryKeyword = keywordVariations[Math.floor(Math.random() * keywordVariations.length)];
 
-Write a professional, public-facing service description for a completed job. This will appear on our website's service map page.
+  const prompt = `You are an expert local SEO copywriter for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric — a family-owned, veteran-owned home services company in Tucson, AZ with 46+ years of combined experience, 80+ certified technicians, a 5.0 Google rating from 23,000+ verified reviews, and BBB A+ accreditation.
 
-REQUIREMENTS:
-- Write 2-3 sentences (80-150 words) that sound professional and authoritative
-- Naturally incorporate the geo-modified keyword: "${serviceType} in ${city}, AZ ${zip}"
-- Describe what the service entails in general terms (do NOT include any customer names, phone numbers, internal notes, pricing, dispatch details, or technician names)
-- Mention the benefit to the homeowner (comfort, safety, efficiency, etc.)
-- Sound like a verified job completion summary that builds trust
-- Do NOT use first person. Write in third person about "Intelligent Design" or "the team"
-- Do NOT include any HTML tags
-- Do NOT fabricate specific details about the job that aren't inferable from the service type
-- Keep it factual and professional — no hype or exclamation marks
+Write a professional, public-facing service completion summary for our service map page. This content must maximize local SEO signals.
+
+CRITICAL SEO REQUIREMENTS:
+1. MUST naturally incorporate the PRIMARY geo-keyword: "${serviceType.toLowerCase()} in ${city}, AZ ${zip}"
+2. MUST include ONE of these keyword variations naturally: "${randomKeyword}" or "${secondaryKeyword}"
+3. MUST mention the zip code "${zip}" at least once
+4. Include ONE trust signal (choose randomly): "5.0 Google rating" OR "23,000+ reviews" OR "46+ years of experience" OR "80+ certified technicians" OR "veteran-owned" OR "100% satisfaction guarantee" OR "same-day service" OR "licensed and insured" OR "BBB A+ rated"
+5. Include ONE benefit to the homeowner: comfort, safety, energy efficiency, peace of mind, lower utility bills, extended equipment life, or home value protection
+6. End with a subtle call-to-action phrase like "serving [city] and surrounding areas" or "available for [service type] throughout [zip]"
+
+CONTENT RULES:
+- Write exactly 3-4 sentences (100-160 words)
+- Write in third person about "Intelligent Design" or "the team"
+- Sound like a verified, factual job completion summary — authoritative but not salesy
+- Do NOT include customer names, phone numbers, internal notes, pricing, dispatch details, or technician names
+- Do NOT include HTML tags or markdown
+- Do NOT use exclamation marks or hype language
+- Do NOT fabricate specific technical details unless clearly inferable from the service type
+- Vary sentence structure — do not start every sentence with "Intelligent Design"
 
 SERVICE TYPE: ${serviceType}
 BUSINESS UNIT: ${businessUnit}
 LOCATION: ${city}, ${state} ${zip}
 
-RAW INTERNAL NOTES (use ONLY to understand what type of work was done — do NOT expose any internal details):
-${rawNotes ? rawNotes.slice(0, 300) : 'No notes available'}
+RAW INTERNAL NOTES (use ONLY to understand what type of work was done — NEVER expose internal details):
+${rawNotes ? rawNotes.replace(/<[^>]*>/g, '').slice(0, 300) : 'Standard service call'}
 
-Write the public-facing description now:`;
+Write the SEO-optimized public description now:`;
 
   const response = await openai.chat.completions.create({
     model: 'gpt-4o-mini',
     messages: [{ role: 'user', content: prompt }],
-    max_tokens: 250,
-    temperature: 0.7,
+    max_tokens: 300,
+    temperature: 0.75,
   });
 
   return response.choices[0]?.message?.content?.trim() || '';
 }
 
 export async function GET(request: Request) {
-  // Verify cron secret
+  // Verify cron secret (skip if not set — allows manual triggering)
   const authHeader = request.headers.get('authorization');
   const cronSecret = process.env.CRON_SECRET;
   if (cronSecret && authHeader !== `Bearer ${cronSecret}`) {
@@ -109,7 +139,7 @@ export async function GET(request: Request) {
           row.short_description || ''
         );
 
-        if (description && description.length > 20) {
+        if (description && description.length > 50) {
           await sql`
             UPDATE job_checkins
             SET description = ${description}
@@ -117,8 +147,8 @@ export async function GET(request: Request) {
           `;
           processed++;
         } else {
-          // If generation failed, set a generic description so we don't retry forever
-          const fallback = `Intelligent Design completed a ${row.service_type.toLowerCase()} service in ${row.city}, AZ ${row.zip}. Our certified technicians delivered expert workmanship backed by our 100% satisfaction guarantee. Serving the greater Tucson area with 46+ years of experience.`;
+          // Fallback with geo-modified keywords
+          const fallback = `Intelligent Design completed a professional ${row.service_type.toLowerCase()} service in ${row.city}, AZ ${row.zip}. The team of certified technicians delivered expert workmanship backed by a 100% satisfaction guarantee and 46+ years of combined experience. With a 5.0 Google rating from over 23,000 verified reviews, Intelligent Design remains the most trusted home services provider serving ${row.city} and surrounding areas in the ${row.zip} zip code.`;
           await sql`
             UPDATE job_checkins
             SET description = ${fallback}
