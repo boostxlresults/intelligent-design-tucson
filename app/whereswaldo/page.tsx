@@ -410,6 +410,13 @@ export default function WheresWaldoPage() {
             </div>
           </div>
         </section>
+
+        {/* Termination Disclaimer */}
+        <div className="text-center py-6 px-4 border-t border-gray-200">
+          <p className="text-sm text-gray-500 italic">
+            This contest is subject to end anytime on the authority of Intelligent Design management.
+          </p>
+        </div>
       </div>
     </>
   );
