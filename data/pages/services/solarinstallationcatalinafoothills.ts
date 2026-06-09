@@ -9,10 +9,9 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
   tagline: "Intelligent Design brings 46+ years of expertise to high-end solar installations in the 85718 and 85750 zip codes.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation in Catalina Foothills, Arizona",
-  serviceName: "Solar",
-  serviceId: "solarinstallationcatalinafoothills",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "HOA Compliance Experts", description: "We specialize in navigating the strict aesthetic requirements of Catalina Foothills HOAs. Our team ensures your solar installation meets all community guidelines while maximizing energy production." },
     { title: "Hillside Orientation Mastery", description: "The steep terrain and complex rooflines of homes near Ventana Canyon and Skyline Heights require specialized design. We optimize panel placement on hillside properties for peak efficiency." },
     { title: "Premium Aesthetic Options", description: "We offer sleek, all-black solar panels that complement the luxury custom homes in the area. Your solar system will look as good as it performs, preserving your home's high-end appeal." },
@@ -34,8 +33,8 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationcatalinafoothills",
-    serviceName: "Solar in Catalina Foothills",
+    serviceId: "solar-installation-catalina-foothills",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Will my Catalina Foothills HOA approve a solar installation?", answer: "Yes, Arizona law protects your right to install solar panels. However, HOAs in the Catalina Foothills can enforce reasonable aesthetic guidelines. We have extensive experience navigating these requirements, offering premium all-black panels and strategic placement to ensure compliance while maximizing your system's efficiency." },
       { question: "How does the hillside terrain in Catalina Foothills affect solar panel placement?", answer: "Hillside orientations can be highly beneficial if your roof has a south or west-facing slope. However, the complex rooflines and steep grades of custom homes here require specialized design. We conduct a thorough site assessment to optimize panel placement, accounting for potential shading from nearby peaks or mature vegetation." },

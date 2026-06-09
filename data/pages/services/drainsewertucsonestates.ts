@@ -9,10 +9,9 @@ const data: ServicePageData = {
   tagline: "Protecting your property from aging pipe failures and root intrusion.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer Services in Tucson Estates, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewertucsonestates",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Aging Pipe Solutions", description: "Many homes in Tucson Estates were built in the 1960s-1980s. We specialize in replacing deteriorating clay and Orangeburg sewer lines common in these older properties." },
     { title: "Root Intrusion Clearing", description: "Mature desert landscaping near the Tucson Mountains often leads to aggressive root growth. We use advanced camera inspections to locate and clear roots invading your sewer lines." },
     { title: "Bellied Pipe Repair", description: "Decades of soil settling in the 85735 and 85713 zip codes can cause bellied pipes. Our trenchless repair options fix these sags without destroying your large lot." },
@@ -34,8 +33,8 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewertucsonestates",
-    serviceName: "Drain & Sewer in Tucson Estates",
+    serviceId: "drain-sewer-tucson-estates",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are sewer backups so common in Tucson Estates?", answer: "Sewer backups in Tucson Estates are frequently caused by the aging infrastructure of homes built in the 1960s-1980s. Original clay and Orangeburg pipes are prone to deterioration, cracking, and root intrusion from mature desert landscaping. Decades of soil settling can also create bellied pipes that trap waste and cause blockages." },
       { question: "Do you offer trenchless sewer repair in the 85735 zip code?", answer: "Yes, we provide advanced trenchless sewer repair and replacement services throughout the 85735 and 85713 zip codes. This minimally invasive method is ideal for preserving the large lots and established landscaping common in Tucson Estates, allowing us to fix your pipes without extensive excavation." },

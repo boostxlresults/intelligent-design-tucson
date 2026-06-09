@@ -9,10 +9,9 @@ export const drainclearingeasttucsonData: ServicePageData = {
   tagline: "Fast, reliable drain clearing for East Tucson's diverse neighborhoods.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in East Tucson, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingeasttucson",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Solutions", description: "Older East Tucson neighborhoods often face drain blockages from established tree roots. We use advanced camera inspections and root removal techniques to clear your lines." },
     { title: "Monsoon Runoff Management", description: "East Tucson's proximity to the Rincon Mountains means heavy monsoon runoff. We ensure your exterior drains are clear to prevent flooding." },
     { title: "Builder-Grade Pipe Clearing", description: "Newer developments along the Houghton corridor sometimes suffer from builder-grade drain issues. We provide thorough hydro jetting to restore full flow." },
@@ -34,8 +33,8 @@ export const drainclearingeasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingeasttucson",
-    serviceName: "Drain Clearing in East Tucson",
+    serviceId: "drain-clearing-east-tucson",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why do my drains keep clogging in my East Tucson home?", answer: "Frequent clogs in East Tucson homes are often due to a combination of hard water scale buildup (180-220 ppm) and, in older neighborhoods, root intrusion from mature trees. Our hydro jetting service can effectively clear both issues." },
       { question: "Is hydro jetting safe for the older pipes in my 1980s East Tucson house?", answer: "Yes, hydro jetting is generally safe for 1980s plumbing. However, we always perform a camera inspection first to assess the condition of your pipes and ensure they can withstand the water pressure before proceeding with the service." },

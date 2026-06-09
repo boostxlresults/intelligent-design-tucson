@@ -17,12 +17,11 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Corona de Tucson, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationcoronadetucson",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Corona de Tucson
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "Optimized for 3,800 ft Elevation",
     "description": "Corona de Tucson's elevation (\u22483,800 ft) gives panels higher output than lower valleys\u2014our system designs account for the 5\u20138\u00b0F cooler average and occasional winter frost."
@@ -108,8 +107,8 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    serviceId: "solarinstallationcoronadetucson",
-    serviceName: "Solar Installation in Corona de Tucson",
+    serviceId: "solar-installation-corona-de-tucson",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Will solar work well on a 2005 single-story tile roof in Corona de Tucson (85641)?",

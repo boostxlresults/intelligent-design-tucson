@@ -9,10 +9,9 @@ export const plumbingcoronadetucsonData: ServicePageData = {
   tagline: "Expert plumbing care for your Corona de Tucson home, from Rancho del Lago to the Old Spanish Trail corridor.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Corona de Tucson, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingcoronadetucson",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique plumbing challenges in Corona de Tucson, including water pressure issues related to the 3,800 ft elevation." },
     { title: "Hard Water Solutions", description: "With water hardness levels reaching 200-240 ppm in the 85641 area, we provide effective water filtration and softening systems." },
     { title: "Modern Plumbing Care", description: "While many homes in Corona de Tucson feature newer PEX plumbing, we address common builder shortcuts to ensure long-lasting reliability." },
@@ -34,8 +33,8 @@ export const plumbingcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingcoronadetucson",
-    serviceName: "Plumbing in Corona de Tucson",
+    serviceId: "plumbing-corona-de-tucson",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why is my water pressure low in my Corona de Tucson home?", answer: "Low water pressure in Corona de Tucson can be influenced by the area's 3,800 ft elevation and the specific municipal water delivery systems. It can also be caused by mineral buildup from the hard water (200-240 ppm) common in the 85641 zip code. Our plumbers can diagnose the exact cause and recommend solutions to restore optimal pressure." },
       { question: "Do I need a water softener in Corona de Tucson?", answer: "Yes, a water softener is highly recommended for homes in Corona de Tucson. The local water hardness levels are quite high, which can lead to scale buildup in your pipes, water heater, and appliances, reducing their lifespan and efficiency. A water softener will protect your plumbing system and improve your water quality." },

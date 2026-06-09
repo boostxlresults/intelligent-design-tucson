@@ -17,12 +17,11 @@ export const plumbingavravalleyData: ServicePageData = {
   heroImageAlt: "Plumbing services in Avra Valley, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingavravalley",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Avra Valley
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Well Water & Hardness Solutions",
     "description": "Avra Valley homes on private wells face very hard water (250+ ppm). We design softening and filtration systems sized for single-story ranch homes and manufactured properties."
@@ -108,8 +107,8 @@ export const plumbingavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    serviceId: "plumbingavravalley",
-    serviceName: "Plumbing in Avra Valley",
+    serviceId: "plumbing-avra-valley",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do Avra Valley homes need different water softeners because of well hardness?",

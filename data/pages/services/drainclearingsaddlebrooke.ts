@@ -9,10 +9,9 @@ const data: ServicePageData = {
   tagline: "Clearing stubborn clogs and root intrusions for SaddleBrooke residents.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in SaddleBrooke, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingsaddlebrooke",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Golf Course Root Removal", description: "Mature landscaping around SaddleBrooke's championship golf courses often leads to root intrusion in sewer lines. We use advanced hydro jetting to clear these stubborn blockages." },
     { title: "Aging Pipe Solutions", description: "Homes built in the 1990s in the original SaddleBrooke sections are experiencing aging pipe issues. Our camera inspections identify the exact cause of slow drains." },
     { title: "Hard Water Buildup Clearing", description: "With moderate water hardness (160-190 ppm) from Metro Water, mineral scaling can restrict pipe flow. We effectively descale and clear your plumbing system." },
@@ -34,8 +33,8 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingsaddlebrooke",
-    serviceName: "Drain Clearing in SaddleBrooke",
+    serviceId: "drain-clearing-saddle-brooke",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains constantly clogging in my SaddleBrooke home?", answer: "In SaddleBrooke, frequent clogs are often caused by root intrusion from mature golf course landscaping or mineral buildup from the local Metro Water supply. Our camera inspections can identify the exact cause in your 85739 home." },
       { question: "Is hydro jetting safe for the older pipes in my 1990s SaddleBrooke house?", answer: "Yes, hydro jetting is generally safe for 1990s plumbing. However, we always perform a camera inspection first to assess the condition of your pipes and ensure they can withstand the pressure, protecting your SaddleBrooke property." },

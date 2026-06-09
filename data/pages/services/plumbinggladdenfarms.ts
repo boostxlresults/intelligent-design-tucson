@@ -9,10 +9,9 @@ export const plumbinggladdenfarmsData: ServicePageData = {
   tagline: "Your trusted local plumbers for new construction and modern plumbing needs.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Gladden Farms, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbinggladdenfarms",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Hard Water Solutions", description: "Gladden Farms experiences hard water (210-240 ppm) from Marana Water. We specialize in water softener installations to protect your new fixtures." },
     { title: "PEX Plumbing Experts", description: "Most homes in Gladden Farms feature modern PEX plumbing. Our technicians are fully trained in servicing and repairing these newer systems." },
     { title: "Builder-Grade Upgrades", description: "We replace failing builder-grade fixtures with high-quality alternatives. Ensure your home's plumbing lasts as long as it should." },
@@ -34,8 +33,8 @@ export const plumbinggladdenfarmsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbinggladdenfarms",
-    serviceName: "Plumbing in Gladden Farms",
+    serviceId: "plumbing-gladden-farms",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why do I need a water softener in my new Gladden Farms home?", answer: "Gladden Farms receives its water from Marana Water, which is known for being hard (210-240 ppm). A water softener is crucial to prevent mineral buildup that can quickly damage your new builder-grade fixtures, water heater, and appliances, saving you money on early replacements." },
       { question: "Are builder-grade plumbing fixtures in Gladden Farms reliable?", answer: "While the PEX piping used in Gladden Farms is generally reliable, the builder-grade fixtures (faucets, showerheads, valves) often fail early due to the hard water and lower initial quality. We frequently help homeowners upgrade to more durable, high-quality fixtures." },

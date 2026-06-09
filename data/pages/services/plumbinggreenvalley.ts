@@ -9,10 +9,9 @@ export const plumbinggreenvalleyData: ServicePageData = {
   tagline: "Trusted by Green Valley Retirees for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Green Valley, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbinggreenvalley",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Accessibility Modifications", description: "We specialize in installing grab bars, walk-in tubs, and easy-to-use fixtures tailored for Green Valley's senior residents. Our upgrades ensure safety and comfort in your home." },
     { title: "Aging Fixture Replacements", description: "Many homes in Desert Hills and Canoa Ranch have original 1980s-2000s plumbing. We expertly replace worn-out fixtures with modern, efficient alternatives." },
     { title: "Water Heater Upgrades", description: "Upgrade to high-efficiency water heaters to lower utility bills. Perfect for residents on fixed incomes looking for long-term savings." },
@@ -34,8 +33,8 @@ export const plumbinggreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbinggreenvalley",
-    serviceName: "Plumbing in Green Valley",
+    serviceId: "plumbing-green-valley",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Do you offer plumbing services for homes in Green Valley's HOA communities?", answer: "Yes, we are highly experienced in working within Green Valley's HOA communities like Canoa Ranch and Las Campanas. We understand the strict maintenance standards and provide prompt, compliant plumbing repairs to ensure your property remains in excellent standing." },
       { question: "Can you install accessibility plumbing fixtures in my Green Valley home?", answer: "Absolutely. We specialize in accessibility modifications for Green Valley's senior residents. Our team can expertly install grab bars, walk-in tubs, and easy-to-use faucets to enhance safety and comfort in your home." },

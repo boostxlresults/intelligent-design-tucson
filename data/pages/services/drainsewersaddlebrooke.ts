@@ -9,10 +9,9 @@ const data: ServicePageData = {
   tagline: "Protecting Your SaddleBrooke Home's Plumbing System",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in SaddleBrooke, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewersaddlebrooke",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Specialists", description: "We expertly clear drains blocked by mature golf course landscaping and native trees common in the MountainView and Preserve sections." },
     { title: "Aging Pipe Solutions", description: "Our team addresses deteriorating sewer lines in the original 1990s builds of SaddleBrooke proper with minimal disruption to your property." },
     { title: "Hard Water Buildup Removal", description: "We effectively clear mineral deposits caused by the moderate 160-190 ppm water hardness from the Metro Water supply." },
@@ -34,8 +33,8 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewersaddlebrooke",
-    serviceName: "Drain & Sewer in SaddleBrooke",
+    serviceId: "drain-sewer-saddle-brooke",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are my drains running slow in my SaddleBrooke home?", answer: "Slow drains in SaddleBrooke are often caused by a combination of mineral buildup from the local Metro Water supply and root intrusion from mature landscaping. In older sections built in the 1990s, aging pipes may also contribute to the issue. We recommend a professional camera inspection to identify the exact cause." },
       { question: "Does Intelligent Design offer trenchless sewer repair in SaddleBrooke?", answer: "Yes, we specialize in trenchless sewer repair. This method is highly recommended for SaddleBrooke properties because it allows us to fix damaged sewer lines without digging up your beautiful landscaping, driveway, or patio, ensuring compliance with strict HOA aesthetic guidelines." },

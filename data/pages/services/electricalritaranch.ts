@@ -17,12 +17,11 @@ export const electricalritaranchData: ServicePageData = {
   heroImageAlt: "Electrical services in Rita Ranch, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalritaranch",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Rita Ranch
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "1990s Panel Upgrades",
     "description": "Many Rita Ranch homes built in the 1990s have 100A panels undersized for today's loads. We evaluate original panels common to Rancho del Lago and Rita Ranch proper and provide 200A upgrade estimates reflective of local permit costs."
@@ -108,8 +107,8 @@ export const electricalritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    serviceId: "electricalritaranch",
-    serviceName: "Electrical in Rita Ranch",
+    serviceId: "electrical-rita-ranch",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do Rita Ranch homes need a 200A panel upgrade?",

@@ -12,10 +12,9 @@ export const hvactucsonestatesData: ServicePageData = {
   tagline: "46+ years keeping Tucson Estates comfortable",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tucson Estates, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvactucsonestates",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "T1",
     "description": "Decades of experience in Tucson Estates means we understand sun exposure, elevation effects, and the strain on older systems. We match solutions to single-story block and manufactured homes."
@@ -89,8 +88,8 @@ export const hvactucsonestatesData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvactucsonestates",
-    serviceName: "HVAC in Tucson Estates",
+    serviceId: "hvac-tucson-estates",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Do you provide AC repair and replacements in Tucson Estates?",

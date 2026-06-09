@@ -12,10 +12,9 @@ export const hvacmaranaData: ServicePageData = {
   tagline: "Marana's Most Trusted HVAC Specialists with Over 3,600 Five-Star Reviews.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Marana, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacmarana",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Marana Growth Specialists",
     "description": "We specialize in servicing the newer construction homes found in Gladden Farms and Continental Ranch. Our team understands the specific layout and ductwork needs of Marana\u2019s master-planned communities."
@@ -81,8 +80,8 @@ export const hvacmaranaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacmarana",
-    serviceName: "HVAC in Marana",
+    serviceId: "hvac-marana",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why is my AC struggling to keep up with the Marana heat?",

@@ -9,10 +9,9 @@ export const heatinggreenvalleyData: ServicePageData = {
   tagline: "Keeping Green Valley Homes Warm and Comfortable All Winter Long",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Green Valley, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatinggreenvalley",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Heat Pump Conversions", description: "We specialize in converting older heating systems to energy-efficient heat pumps, popular among Green Valley residents looking to lower utility costs." },
     { title: "Fixed-Income Friendly Pricing", description: "Understanding that many Green Valley residents are on fixed incomes, we offer transparent pricing and value-driven heating solutions." },
     { title: "HOA-Compliant Installations", description: "Our team is experienced in meeting the strict standards of Green Valley's well-maintained HOA properties, ensuring prompt and compliant heating repairs." },
@@ -34,8 +33,8 @@ export const heatinggreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatinggreenvalley",
-    serviceName: "Heating in Green Valley",
+    serviceId: "heating-green-valley",
+    serviceName: "Heating",
     faqs: [
       { question: "Why is my heating bill so high in Green Valley?", answer: "High heating bills in Green Valley are often due to aging systems in homes built in the 1980s and 90s. Upgrading to a modern, energy-efficient heat pump can significantly reduce your utility costs, which is especially beneficial for residents on fixed incomes." },
       { question: "Do you handle HOA approvals for heating installations in Green Valley?", answer: "Yes, we are highly experienced in working with Green Valley's well-maintained HOA properties. We ensure that all heating installations and exterior equipment placements comply with your specific community standards." },

@@ -9,10 +9,9 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
   tagline: "Harness the power of the sun in Drexel Heights with Intelligent Design.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation in Drexel Heights, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationdrexelheights",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Affordable Solar Programs", description: "We offer accessible solar programs tailored for the working-class community of Drexel Heights. Make the switch to renewable energy without breaking the bank." },
     { title: "Ideal Sun Exposure", description: "The single-story block construction common in Drexel Heights provides excellent sun exposure. Maximize your energy production with optimal panel placement." },
     { title: "Roof Assessment Included", description: "Since many homes in the area have original roofs past their lifespan, we provide a thorough assessment. We ensure your roof is ready before any panels are installed." },
@@ -34,8 +33,8 @@ export const solarinstallationdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationdrexelheights",
-    serviceName: "Solar in Drexel Heights",
+    serviceId: "solar-installation-drexel-heights",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Is my Drexel Heights home suitable for solar panels?", answer: "Most single-story homes in Drexel Heights are excellent candidates for solar due to good sun exposure. However, we will assess your roof's condition and your electrical panel, as older homes from the 70s and 80s may need upgrades before installation." },
       { question: "Are there affordable solar programs available in Drexel Heights?", answer: "Yes, there are several affordable solar programs popular in the Drexel Heights area. These programs are designed to make solar accessible for working-class neighborhoods, helping you save on energy costs with minimal upfront investment." },

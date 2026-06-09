@@ -9,10 +9,9 @@ export const electricalmaranaData: ServicePageData = {
   tagline: "Safe, reliable, and modern electrical services for your Marana home.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a modern electrical panel in Marana, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalmarana",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "EV Charger Installations", description: "With Marana's rapid growth and modern housing stock, we specialize in adding dedicated circuits and EV chargers to your home. We ensure your electrical panel can handle the increased load safely." },
     { title: "Smart Home Integration", description: "Upgrade your newer Marana home with the latest smart home technology. We install smart lighting, thermostats, and security systems that integrate seamlessly with your existing wiring." },
     { title: "Panel Upgrades", description: "Even in newer master-planned communities like Gladden Farms, builder-grade panels may need upgrading to support pool equipment or home offices. We provide comprehensive panel upgrades to meet your growing needs." },
@@ -34,8 +33,8 @@ export const electricalmaranaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalmarana",
-    serviceName: "Electrical in Marana",
+    serviceId: "electrical-marana",
+    serviceName: "Electrical",
     faqs: [
       { question: "Do I need a panel upgrade for an EV charger in my Marana home?", answer: "Many newer homes in Marana have 200-amp panels, which are often sufficient. However, if you have a large home in Dove Mountain with multiple high-draw appliances, a pool, and an EV charger, an upgrade or a dedicated sub-panel might be necessary. We can evaluate your current load and recommend the safest solution." },
       { question: "How can I protect my electronics from Marana's monsoon power surges?", answer: "Marana's open terrain can lead to power fluctuations during strong monsoon storms. We highly recommend installing a whole-home surge protector directly at your electrical panel. This provides a robust line of defense for your sensitive electronics, smart home devices, and HVAC equipment against damaging voltage spikes." },

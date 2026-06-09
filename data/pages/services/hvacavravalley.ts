@@ -17,12 +17,11 @@ export const hvacavravalleyData: ServicePageData = {
   heroImageAlt: "HVAC services in Avra Valley, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacavravalley",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Avra Valley
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Dust-Hardened Filter Programs",
     "description": "Unpaved roads and frequent dust storms in Avra Valley clog filters faster. We customize filter change intervals and keep spare OEM filters for homes in 85743 and 85653 to protect indoor air quality."
@@ -108,8 +107,8 @@ export const hvacavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    serviceId: "hvacavravalley",
-    serviceName: "HVAC in Avra Valley",
+    serviceId: "hvac-avra-valley",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why do filters clog so quickly in Avra Valley?",

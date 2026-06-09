@@ -12,10 +12,9 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
   tagline: "Reliable HVAC care tailored to SaddleBrooke & Catalina life",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in SaddleBrooke & Catalina, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacsaddlebrookecatalina",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Local Climate Expertise",
     "description": "We understand the cooler, higher-elevation climate of SaddleBrooke & Catalina and tailor HVAC solutions to handle frost, extra precipitation, and mountain temperature swings. Our recommendations balance efficient cooling in summer with dependable heating in winter."
@@ -89,8 +88,8 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacsaddlebrookecatalina",
-    serviceName: "HVAC in SaddleBrooke & Catalina",
+    serviceId: "hvac-saddle-brooke-catalina",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does Intelligent Design handle heating needs in SaddleBrooke & Catalina?",

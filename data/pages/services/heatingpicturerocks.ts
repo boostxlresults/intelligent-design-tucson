@@ -17,12 +17,11 @@ export const heatingpicturerocksData: ServicePageData = {
   heroImageAlt: "Heating services in Picture Rocks, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingpicturerocks",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Picture Rocks
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Rural Routes, Ready Response",
     "description": "We plan routes across the Mile Wide Road and Sandario Road corridors so homeowners in 85743 get timely service despite long drive times. Travel considerations and truck stocking are set for large-lot properties."
@@ -108,8 +107,8 @@ export const heatingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    serviceId: "heatingpicturerocks",
-    serviceName: "Heating in Picture Rocks",
+    serviceId: "heating-picture-rocks",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Why does my furnace struggle on windy days in Picture Rocks?",

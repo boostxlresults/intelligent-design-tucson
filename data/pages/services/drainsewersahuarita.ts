@@ -9,10 +9,9 @@ export const drainsewersahuaritaData: ServicePageData = {
   tagline: "Keeping Sahuarita's Plumbing Flowing Smoothly",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer Services in Sahuarita, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewersahuarita",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Flat Terrain Drainage Solutions", description: "Sahuarita's flat terrain can cause slow drainage issues in newer homes. We specialize in optimizing drainage systems for these specific conditions." },
     { title: "Construction Debris Removal", description: "In rapidly growing areas like Rancho Sahuarita and Madera Highlands, construction debris often finds its way into new sewer lines. We provide thorough camera inspections and clearing." },
     { title: "HOA Compliant Services", description: "We understand the strict landscape requirements of Sahuarita HOAs. Our trenchless sewer repair options minimize disruption to your property and landscaping." },
@@ -34,8 +33,8 @@ export const drainsewersahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewersahuarita",
-    serviceName: "Drain & Sewer Services in Sahuarita",
+    serviceId: "drain-sewer-sahuarita",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are my drains slow in my new Sahuarita home?", answer: "Slow drains in newer Sahuarita homes can often be attributed to the area's flat terrain, which doesn't provide optimal gravity flow. Additionally, it's common to find construction debris left in the lines of recently built homes in communities like Madera Highlands. We can perform a camera inspection to identify and clear the blockage." },
       { question: "Do you offer trenchless sewer repair in Sahuarita?", answer: "Yes, we highly recommend trenchless sewer repair for our Sahuarita customers. This method is ideal for preserving the landscaping required by many local HOAs, such as those in Rancho Sahuarita, as it requires minimal digging compared to traditional methods." },

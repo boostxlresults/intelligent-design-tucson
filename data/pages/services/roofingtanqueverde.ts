@@ -12,10 +12,9 @@ export const roofingtanqueverdeData: ServicePageData = {
   tagline: "Protecting premium Tanque Verde homes for over 46 years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Tanque Verde, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingtanqueverde",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Elevation Expertise",
     "description": "We design roof systems for Tanque Verde\u2019s higher elevation and cooler seasonal swings. Our crews select materials and details to resist increased rainfall and temperature variation."
@@ -89,8 +88,8 @@ export const roofingtanqueverdeData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingtanqueverde",
-    serviceName: "Roofing in Tanque Verde",
+    serviceId: "roofing-tanque-verde",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How does Intelligent Design address roof issues unique to Tanque Verde homes?",

@@ -9,10 +9,9 @@ export const drainclearingvailData: ServicePageData = {
   tagline: "Clearing Vail's toughest clogs, from modern homes to ranch properties.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Vail, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingvail",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique drainage challenges in the 85641 zip code, from newer subdivisions to older ranch properties." },
     { title: "Rocky Soil Solutions", description: "Vail's rocky terrain can make exterior drain work difficult. Our advanced camera inspections pinpoint issues without unnecessary digging." },
     { title: "Septic System Care", description: "Many rural properties in the Rincon Valley area rely on septic systems. We provide safe, effective clearing that protects your system." },
@@ -34,8 +33,8 @@ export const drainclearingvailData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingvail",
-    serviceName: "Drain Clearing in Vail",
+    serviceId: "drain-clearing-vail",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains backing up in my new Vail home?", answer: "Even in newer Vail subdivisions, drains can back up due to construction debris, improper grading in rocky soil, or everyday items like grease and hair. We use camera inspections to quickly identify and resolve the issue." },
       { question: "Is hydro jetting safe for older homes in Old Vail?", answer: "Yes, hydro jetting is generally safe, but we always perform a camera inspection first. For older ranch properties in Old Vail, we ensure the pipes are structurally sound before using high-pressure water to clear blockages." },

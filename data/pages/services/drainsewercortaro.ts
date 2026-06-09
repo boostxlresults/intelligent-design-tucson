@@ -17,12 +17,11 @@ export const drainsewercortaroData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Cortaro, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewercortaro",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Cortaro
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Built for Cortaro's flat lots",
     "description": "We size drains and slope corrections for Cortaro's slow-drain conditions, especially in Continental Ranch and Cortaro Farms areas. Our crews factor in the 2,200 ft elevation and local runoff patterns from the Rillito and Santa Cruz corridors."
@@ -108,8 +107,8 @@ export const drainsewercortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    serviceId: "drainsewercortaro",
-    serviceName: "Drain & Sewer in Cortaro",
+    serviceId: "drain-sewer-cortaro",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Why do Cortaro basements or low yards back up during monsoon season?",

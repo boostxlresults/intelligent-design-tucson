@@ -12,10 +12,9 @@ export const roofingcortaroData: ServicePageData = {
   tagline: "Durable, local roofing for Cortaro’s climate and planned communities.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Cortaro, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingcortaro",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Experience",
     "description": "Intelligent Design has served Cortaro and the Tucson northwest corridor for decades, with deep knowledge of tile roofs, stucco homes, and HOA standards. Our local crews know Cortaro\u2019s neighborhoods like Continental Ranch and Cortaro Farms Road."
@@ -89,8 +88,8 @@ export const roofingcortaroData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingcortaro",
-    serviceName: "Roofing in Cortaro",
+    serviceId: "roofing-cortaro",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How quickly can Intelligent Design respond to storm damage in Cortaro?",

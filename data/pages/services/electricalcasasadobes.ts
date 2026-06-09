@@ -17,12 +17,11 @@ export const electricalcasasadobesData: ServicePageData = {
   heroImageAlt: "Electrical services in Casas Adobes, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalcasasadobes",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Casas Adobes
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Panel upgrades for 1970s ranch homes",
     "description": "Many homes in Casas Adobes were built in the 1970s and still run on 60\u2013100 amp panels. We replace and upgrade panels to support modern HVAC, home office, and EV needs while coordinating HOA guidelines."
@@ -108,8 +107,8 @@ export const electricalcasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    serviceId: "electricalcasasadobes",
-    serviceName: "Electrical in Casas Adobes",
+    serviceId: "electrical-casas-adobes",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do Casas Adobes homes need panel upgrades from 60\u2013100 amps?",

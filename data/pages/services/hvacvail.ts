@@ -17,12 +17,11 @@ export const hvacvailData: ServicePageData = {
   heroImageAlt: "HVAC services in Vail, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacvail",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Vail
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Heat Pumps Tuned for 3,200\u20133,800 ft Elevation",
     "description": "We optimize heat pump systems for Vail\u2019s cooler nights and occasional frost, improving efficiency where standard Tucson tuning underperforms."
@@ -108,8 +107,8 @@ export const hvacvailData: ServicePageData = {
   
   // Location-specific FAQs (unique to Vail)
   faqs: {
-    serviceId: "hvacvail",
-    serviceName: "HVAC in Vail",
+    serviceId: "hvac-vail",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Do heat pumps work well at Vail\u2019s elevation (85641)?",

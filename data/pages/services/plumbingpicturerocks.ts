@@ -17,12 +17,11 @@ export const plumbingpicturerocksData: ServicePageData = {
   heroImageAlt: "Plumbing services in Picture Rocks, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingpicturerocks",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Picture Rocks
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Well Water & Hardness Expertise",
     "description": "We size softeners and pretreatment for very hard well water (250+ ppm) common in Picture Rocks, protecting pumps and fixtures on long supply lines."
@@ -108,8 +107,8 @@ export const plumbingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    serviceId: "plumbingpicturerocks",
-    serviceName: "Plumbing in Picture Rocks",
+    serviceId: "plumbing-picture-rocks",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "How do I reduce the very hard well water in Picture Rocks (85743)?",

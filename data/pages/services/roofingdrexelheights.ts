@@ -12,10 +12,9 @@ export const roofingdrexelheightsData: ServicePageData = {
   tagline: "Local roof care backed by 46+ years of experience.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Drexel Heights, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingdrexelheights",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Expertise",
     "description": "We understand Drexel Heights microclimates and the shade patterns from the Tucson Mountains. Our crews tailor materials and ventilation to the neighborhood's slightly elevated temperatures."
@@ -89,8 +88,8 @@ export const roofingdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingdrexelheights",
-    serviceName: "Roofing in Drexel Heights",
+    serviceId: "roofing-drexel-heights",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How do I know if my Drexel Heights roof needs repair?",

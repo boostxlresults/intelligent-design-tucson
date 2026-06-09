@@ -17,12 +17,11 @@ export const drainclearingorovalleyData: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingorovalley",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Root Intrusion Repair for Mature Landscaping",
     "description": "Homes in Rancho Vistoso and La Reserve frequently deal with mesquite and palo verde roots intruding into laterals. We locate, cut, and repair affected lines with minimal yard disruption."
@@ -108,8 +107,8 @@ export const drainclearingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "drainclearingorovalley",
-    serviceName: "Drain Clearing in Oro Valley",
+    serviceId: "drain-clearing-oro-valley",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "How do roots from Oro Valley landscaping cause drain problems?",

@@ -9,10 +9,9 @@ export const electricalcoronadetucsonData: ServicePageData = {
   tagline: "Your Trusted Local Electricians for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Corona de Tucson, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalcoronadetucson",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Panel Upgrades for Modern Homes", description: "Many newer homes in Corona de Tucson were built with undersized electrical panels. We upgrade your system to safely handle modern demands like EV chargers and hot tubs." },
     { title: "Backup Power Solutions", description: "With our rural setting and longer service runs from TEP transformers, power outages can be a concern. We install reliable whole-home generators to keep your property running smoothly." },
     { title: "EV Charger Installation", description: "As electric vehicles become more popular in neighborhoods like Rancho del Lago, we provide professional EV charger installations tailored to your home's electrical capacity." },
@@ -34,8 +33,8 @@ export const electricalcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalcoronadetucson",
-    serviceName: "Electrical Services in Corona de Tucson",
+    serviceId: "electrical-corona-de-tucson",
+    serviceName: "Electrical",
     faqs: [
       { question: "Why might my newer home in Corona de Tucson need a panel upgrade?", answer: "Even in newer subdivisions built in the 2000s and 2010s, builders often installed standard panels that may not support modern additions like EV chargers, hot tubs, or extensive smart home systems. Upgrading ensures your home can safely handle increased electrical loads." },
       { question: "Are power outages common in the 85641 zip code?", answer: "Due to the rural nature of Corona de Tucson and longer service runs from TEP transformers, some areas can be more prone to voltage drops or outages, especially during storms. A whole-home generator can provide reliable backup power." },

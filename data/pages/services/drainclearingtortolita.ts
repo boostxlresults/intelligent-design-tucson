@@ -9,10 +9,9 @@ export const drainclearingtortolitaData: ServicePageData = {
   tagline: "Clearing drains in Tortolita's luxury homes and custom desert properties.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Tortolita, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingtortolita",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Removal", description: "Native trees in the Tortolita Mountain foothills often seek out moisture from drain lines. We specialize in clearing these stubborn roots." },
     { title: "Long Run Solutions", description: "Large properties in Stone Canyon and Dove Mountain estates often have long drain runs. We have the equipment to clear these extended lines." },
     { title: "Rocky Soil Expertise", description: "The rocky mountain soil in Tortolita makes drainage issues complex. We provide thorough camera inspections to identify the exact problem." },
@@ -34,8 +33,8 @@ export const drainclearingtortolitaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingtortolita",
-    serviceName: "Drain Clearing in Tortolita",
+    serviceId: "drain-clearing-tortolita",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are drain clogs so common in Tortolita?", answer: "Drain clogs in Tortolita are often caused by root intrusion from native desert trees seeking moisture, as well as the long drain runs typical of the large properties in the area. The rocky soil can also contribute to pipe settling and subsequent blockages." },
       { question: "Do you service homes in Dove Mountain?", answer: "Yes, we provide comprehensive drain clearing services to homes throughout Dove Mountain, Stone Canyon, and all other neighborhoods in the Tortolita area. We are familiar with the specific plumbing setups in these luxury communities." },

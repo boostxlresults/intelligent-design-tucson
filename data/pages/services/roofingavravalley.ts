@@ -12,10 +12,9 @@ export const roofingavravalleyData: ServicePageData = {
   tagline: "Durable roofs built for Avra Valley's desert conditions",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Avra Valley, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingavravalley",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Desert Expertise",
     "description": "We understand Avra Valley's open terrain, dust storms and haboobs. Our crews choose materials and techniques that stand up to wind-driven debris and intense sun."
@@ -89,8 +88,8 @@ export const roofingavravalleyData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingavravalley",
-    serviceName: "Roofing in Avra Valley",
+    serviceId: "roofing-avra-valley",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How do Avra Valley winds and dust storms affect my roof?",

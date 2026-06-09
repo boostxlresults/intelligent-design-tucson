@@ -17,12 +17,11 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Gladden Farms, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationgladdenfarms",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Gladden Farms
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "HOA-Friendly Designs",
     "description": "Many sections of Gladden Farms are pre-approved for rooftop solar. We work with your HOA covenants and the Preserve at Gladden Farms management to streamline permitting."
@@ -108,8 +107,8 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    serviceId: "solarinstallationgladdenfarms",
-    serviceName: "Solar Installation in Gladden Farms",
+    serviceId: "solar-installation-gladden-farms",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Is my Gladden Farms tile roof suitable for solar?",

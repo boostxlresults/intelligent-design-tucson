@@ -17,12 +17,11 @@ export const hvacgreenvalleyData: ServicePageData = {
   heroImageAlt: "HVAC services in Green Valley, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacgreenvalley",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Green Valley
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Senior-friendly service",
     "description": "We understand Green Valley\u2019s median age of 72. Technicians explain options clearly and offer value pricing for residents on fixed incomes in communities like La Posada and Desert Hills."
@@ -108,8 +107,8 @@ export const hvacgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    serviceId: "hvacgreenvalley",
-    serviceName: "HVAC in Green Valley",
+    serviceId: "hvac-green-valley",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How do I prevent frost-related HVAC issues in Green Valley?",

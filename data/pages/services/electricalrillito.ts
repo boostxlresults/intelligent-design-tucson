@@ -17,12 +17,11 @@ export const electricalrillitoData: ServicePageData = {
   heroImageAlt: "Electrical services in Rillito, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalrillito",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Rillito
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Panel upgrades for older Rillito homes",
     "description": "Many houses in Rillito were built between the 1970s and 1990s and have undersized 100A panels. We perform 200A upgrades and subpanel installs with local permitting experience to minimize downtime on rural properties."
@@ -108,8 +107,8 @@ export const electricalrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    serviceId: "electricalrillito",
-    serviceName: "Electrical in Rillito",
+    serviceId: "electrical-rillito",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do homes in Rillito need a 200A upgrade?",

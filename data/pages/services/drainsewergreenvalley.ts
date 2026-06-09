@@ -9,10 +9,9 @@ export const drainsewergreenvalleyData: ServicePageData = {
   tagline: "Keeping Green Valley's plumbing flowing smoothly since 1978.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and sewer service in Green Valley, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewergreenvalley",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Camera Inspections", description: "We use advanced camera technology to pinpoint blockages in aging clay pipes common in Green Valley's established neighborhoods like Desert Hills and Continental Vistas." },
     { title: "Trenchless Sewer Repair", description: "Our trenchless solutions minimize disruption to your carefully maintained landscaping and HOA properties, preserving the beauty of your Green Valley home." },
     { title: "Root Intrusion Solutions", description: "Mature landscaping in Green Valley often leads to root intrusion in sewer lines. We provide effective clearing and preventative treatments." },
@@ -34,8 +33,8 @@ export const drainsewergreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewergreenvalley",
-    serviceName: "Drain & Sewer in Green Valley",
+    serviceId: "drain-sewer-green-valley",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are my drains so slow in my Green Valley home?", answer: "Slow drains in Green Valley are often caused by a combination of aging pipes and mineral buildup from the local water supply (150-180 ppm hardness). In older neighborhoods like Desert Hills, deteriorating clay pipes or root intrusion from mature landscaping can also restrict flow. We recommend a camera inspection to identify the exact cause." },
       { question: "Do you offer trenchless sewer repair in Green Valley?", answer: "Yes, we specialize in trenchless sewer repair for Green Valley residents. This method is ideal for preserving the well-maintained landscaping and hardscaping common in HOA communities like La Posada and Canoa Ranch, as it requires minimal digging compared to traditional replacement." },

@@ -9,10 +9,9 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
   tagline: "Keeping Gladden Farms' Modern Plumbing Flowing Smoothly",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in Gladden Farms, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearinggladdenfarms",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Construction Debris Removal", description: "In newer master-planned communities like Gladden Farms, construction debris left in lines is a common cause of clogs. We use advanced camera inspections to locate and remove these blockages." },
     { title: "Flat Terrain Solutions", description: "The flat terrain around the 2,100 ft elevation of Gladden Farms can cause slow drainage issues. Our hydro jetting services ensure your pipes are completely clear and flowing properly." },
     { title: "Modern Plumbing Expertise", description: "We specialize in servicing the modern PEX plumbing and newer fixtures common in homes built from 2015 to present in Gladden Farms Phase I and II." },
@@ -34,8 +33,8 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearinggladdenfarms",
-    serviceName: "Drain Clearing in Gladden Farms",
+    serviceId: "drain-clearing-gladden-farms",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains slow in my new Gladden Farms home?", answer: "Slow drains in newer Gladden Farms homes are often caused by construction debris left in the lines during building, or the flat terrain of the area which can reduce drainage speed. We use camera inspections to identify and resolve these specific issues." },
       { question: "Does the hard water in Gladden Farms affect my drains?", answer: "Yes, the hard water from Marana Water (210-240 ppm) can cause mineral scale buildup inside your pipes over time. This scale can restrict flow and contribute to clogs. Our hydro jetting service effectively removes this buildup." },

@@ -17,12 +17,11 @@ export const heatingredrockcasagrandeData: ServicePageData = {
   heroImageAlt: "Heating services in Red Rock & Casa Grande, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingredrockcasagrande",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Red Rock & Casa Grande
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Heat systems built for extreme summer stress",
     "description": "Homes in Red Rock & Casa Grande face summer peaks above 115\u00b0F. We prioritize two-stage and variable-speed heating/cooling equipment to reduce runtime, extend system life, and maintain comfort inside predominantly single-story homes."
@@ -108,8 +107,8 @@ export const heatingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    serviceId: "heatingredrockcasagrande",
-    serviceName: "Heating in Red Rock & Casa Grande",
+    serviceId: "heating-red-rock-casa-grande",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Do homes in Red Rock & Casa Grande need a different heating approach than Tucson?",

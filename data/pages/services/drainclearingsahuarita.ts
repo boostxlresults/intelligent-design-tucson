@@ -9,10 +9,9 @@ export const drainclearingsahuaritaData: ServicePageData = {
   tagline: "Clearing the way for a smooth-flowing home in Sahuarita.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Sahuarita, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingsahuarita",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Construction Debris Removal", description: "In rapidly growing areas like Rancho Sahuarita and Madera Highlands, construction debris often finds its way into new plumbing lines. We specialize in identifying and clearing these blockages to restore full flow." },
     { title: "Flat Terrain Drainage Solutions", description: "Sahuarita's relatively flat terrain at 2,900 feet elevation can lead to slow drainage and pooling. Our advanced hydro jetting techniques ensure your pipes remain clear and functional despite the lack of natural slope." },
     { title: "HOA Compliance", description: "We understand the strict landscape requirements of communities like Quail Creek and Rancho Sahuarita. Our non-invasive camera inspections and targeted clearing methods minimize disruption to your property." },
@@ -34,8 +33,8 @@ export const drainclearingsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingsahuarita",
-    serviceName: "Drain Clearing in Sahuarita",
+    serviceId: "drain-clearing-sahuarita",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains backing up in my new Sahuarita home?", answer: "It's common for new homes in rapidly growing areas like Sahuarita to experience drain issues due to construction debris. Materials like drywall mud, gravel, or plastic shavings can accidentally enter the plumbing lines during the building process. Our camera inspections can quickly identify these blockages, and our hydro jetting service will clear them out completely." },
       { question: "Does Sahuarita's hard water affect my drains?", answer: "Yes, Sahuarita has very hard water (200-230 ppm), which can lead to significant mineral scale buildup inside your pipes. Over time, this scale constricts the diameter of the pipe, slowing down drainage and making clogs more likely. Regular hydro jetting can descale your pipes and restore optimal flow." },

@@ -9,10 +9,9 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
   tagline: "Harnessing the Sun's Power from the Catalina Foothills to SaddleBrooke",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in SaddleBrooke & Catalina, Arizona",
-  serviceName: "Solar",
-  serviceId: "solarinstallationsaddlebrookecatalina",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Elevation Efficiency", description: "At 3,200-3,600 ft elevation, SaddleBrooke and Catalina enjoy cooler temperatures that actually improve solar panel efficiency. We design systems to maximize this natural advantage." },
     { title: "Winter Optimization", description: "While winter days are shorter near Mt. Lemmon, our premium panels capture maximum sunlight even during occasional cloud cover. We ensure year-round energy production." },
     { title: "HOA & Rural Compliance", description: "Whether you're in a strict SaddleBrooke HOA or a rural Catalina property, we handle all permitting and aesthetic requirements. We offer sleek, low-profile installations." },
@@ -34,8 +33,8 @@ export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationsaddlebrookecatalina",
-    serviceName: "Solar in SaddleBrooke & Catalina",
+    serviceId: "solar-installation-saddle-brooke-catalina",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Will my SaddleBrooke HOA allow solar panels?", answer: "Yes, Arizona law protects your right to install solar panels. However, HOAs can enforce reasonable aesthetic guidelines. We have extensive experience working with SaddleBrooke HOAs and offer low-profile, all-black panels that meet their requirements while maximizing your energy production." },
       { question: "How does the elevation in Catalina affect solar production?", answer: "The 3,200-3,600 ft elevation in Catalina and SaddleBrooke is actually beneficial for solar. Solar panels operate more efficiently in the cooler temperatures found at this elevation compared to the hotter valley floor, leading to excellent overall energy production." },

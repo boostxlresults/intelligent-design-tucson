@@ -12,10 +12,9 @@ export const roofinggladdenfarmsData: ServicePageData = {
   tagline: "Durable roofs for modern Gladden Farms homes — local, experienced, reliable.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Gladden Farms, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofinggladdenfarms",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Expertise",
     "description": "We know Gladden Farms microclimate \u2014 hotter summers, monsoon storms and new-community construction nuances. Our technicians tailor repairs and installations to protect homes built in the 2010s\u20132020s."
@@ -89,8 +88,8 @@ export const roofinggladdenfarmsData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofinggladdenfarms",
-    serviceName: "Roofing in Gladden Farms",
+    serviceId: "roofing-gladden-farms",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "Do you service roofs in Gladden Farms and help with builder warranties?",

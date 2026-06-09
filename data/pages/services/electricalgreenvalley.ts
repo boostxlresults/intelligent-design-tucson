@@ -17,12 +17,11 @@ export const electricalgreenvalleyData: ServicePageData = {
   heroImageAlt: "Electrical services in Green Valley, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalgreenvalley",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Green Valley
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Panel upgrades tuned to retirement needs",
     "description": "Many Green Valley homes built in the 1970s\u20131990s still run 100A panels. We prioritize safe, cost-aware upgrades for medical devices and CPAP equipment common among residents."
@@ -108,8 +107,8 @@ export const electricalgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    serviceId: "electricalgreenvalley",
-    serviceName: "Electrical in Green Valley",
+    serviceId: "electrical-green-valley",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do Green Valley homes need a 200A service upgrade for medical devices?",

@@ -9,10 +9,9 @@ export const plumbingmaranaData: ServicePageData = {
   tagline: "Marana's Trusted Plumbers for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Professional plumbing services in Marana, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingmarana",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Hard Water Solutions", description: "Marana Water is notoriously hard (210-240 ppm). We specialize in water softener installations to protect your new fixtures in Gladden Farms and Saguaro Bloom." },
     { title: "New Construction Expertise", description: "With Marana's rapid growth, we frequently address builder-grade fixture failures and upgrade systems in 2000s-2020s homes." },
     { title: "Tankless Water Heaters", description: "Upgrade your home's efficiency. We install and maintain high-demand tankless systems perfect for large families in Continental Ranch." },
@@ -34,8 +33,8 @@ export const plumbingmaranaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingmarana",
-    serviceName: "Plumbing in Marana",
+    serviceId: "plumbing-marana",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why do my plumbing fixtures in Marana wear out so quickly?", answer: "The primary culprit is Marana's extremely hard water, which ranges from 210-240 ppm. This high mineral content causes scale buildup that degrades builder-grade fixtures common in newer developments like Gladden Farms. Installing a whole-home water softener is the best way to protect your plumbing." },
       { question: "Do you service tankless water heaters in Dove Mountain?", answer: "Yes, we specialize in the installation, maintenance, and repair of tankless water heaters throughout Dove Mountain and all of Marana. These systems are highly popular in the area for their energy efficiency and endless hot water supply, perfect for larger homes." },

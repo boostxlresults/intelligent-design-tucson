@@ -128,7 +128,7 @@ export const actuneupData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "ac-tuneup",
+    serviceId: "ac-tune-up",
     serviceName: "AC Tune-Up",
     faqs: [
       {

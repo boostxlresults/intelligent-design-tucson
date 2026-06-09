@@ -12,10 +12,9 @@ export const hvaceasttucsonData: ServicePageData = {
   tagline: "Arizona's Highest Rated HVAC Team Serving East Tucson for Over 46 Years.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in East Tucson, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvaceasttucson",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Rincon Foothills Expertise",
     "description": "Our technicians understand the unique pressure and airflow requirements for homes at the 3,000-foot elevation near Saguaro National Park East. We calibrate systems to handle the slightly cooler mountain breezes and heavy dust exposure."
@@ -89,8 +88,8 @@ export const hvaceasttucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvaceasttucson",
-    serviceName: "HVAC in East Tucson",
+    serviceId: "hvac-east-tucson",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why is the second floor of my East Tucson home always hotter?",

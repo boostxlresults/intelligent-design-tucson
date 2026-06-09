@@ -9,10 +9,9 @@ export const drainclearingdrexelheightsData: ServicePageData = {
   tagline: "Fast, reliable drain clearing for Drexel Heights homes.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Drexel Heights, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingdrexelheights",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Aging Pipe Solutions", description: "Many homes in Drexel Heights were built in the 1970s and 1980s. We specialize in clearing and maintaining these older clay and cast iron sewer lines." },
     { title: "Root Intrusion Removal", description: "Mature desert trees in the 85746 and 85735 zip codes often invade sewer lines. Our advanced equipment cuts through tough roots to restore flow." },
     { title: "Bellied Pipe Diagnosis", description: "Soil settling in the Drexel Heights area can cause pipes to belly or sag. We use camera inspections to pinpoint these issues accurately." },
@@ -34,8 +33,8 @@ export const drainclearingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingdrexelheights",
-    serviceName: "Drain Clearing in Drexel Heights",
+    serviceId: "drain-clearing-drexel-heights",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why do my drains keep clogging in my Drexel Heights home?", answer: "In Drexel Heights, recurring clogs are often due to aging clay sewer lines from the 1970s and 1980s. These older pipes are prone to root intrusion from mature desert trees and can develop bellies due to soil settling in the 85746 and 85735 zip codes." },
       { question: "Is hydro-jetting safe for the older pipes in Drexel Heights?", answer: "Yes, when performed by our experienced technicians. We always conduct a camera inspection first to assess the condition of your pipes. If your Drexel Heights home has fragile, aging lines, we adjust our methods to clear the clog safely without causing damage." },

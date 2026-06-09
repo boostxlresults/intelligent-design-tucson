@@ -9,10 +9,9 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   tagline: "Fast, Reliable Drain Solutions for Your Mountain-Adjacent Home",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Services in SaddleBrooke & Catalina, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingsaddlebrookecatalina",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Removal", description: "Pine and oak trees common in the 3,200-3,600 ft elevation can aggressively invade older Catalina infrastructure. We use advanced camera inspections to locate and clear these stubborn roots." },
     { title: "Rocky Soil Solutions", description: "The rocky terrain near the Catalina Mountains makes exterior drain repairs challenging. Our hydro jetting technology clears blockages without the need for extensive excavation." },
     { title: "Winter Freeze Protection", description: "With frost common in winter, slow drains can quickly become frozen pipe emergencies. We ensure your drainage system flows freely before the cold weather hits." },
@@ -34,8 +33,8 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingsaddlebrookecatalina",
-    serviceName: "Drain Clearing in SaddleBrooke & Catalina",
+    serviceId: "drain-clearing-saddle-brooke-catalina",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why do my drains clog more frequently in Catalina?", answer: "In Catalina, the combination of older plumbing infrastructure and aggressive root systems from mature pine and oak trees often leads to frequent clogs. Roots seek out the moisture in your sewer lines, creating blockages. We use camera inspections to identify and clear these root intrusions effectively." },
       { question: "Is hydro jetting safe for my older SaddleBrooke home?", answer: "Yes, but it requires a professional assessment first. While hydro jetting is highly effective, we always perform a camera inspection prior to service to ensure the pipes in your SaddleBrooke home can withstand the water pressure. If the pipes are compromised, we will recommend alternative, gentler clearing methods." },

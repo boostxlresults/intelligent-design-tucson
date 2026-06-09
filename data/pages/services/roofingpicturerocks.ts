@@ -17,12 +17,11 @@ export const roofingpicturerocksData: ServicePageData = {
   heroImageAlt: "Roofing services in Picture Rocks, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofingpicturerocks",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Picture Rocks
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Manufactured Home Roof Experience",
     "description": "35% of Picture Rocks homes are manufactured. Our techs inspect common seam failures, edge flashing and venting issues specific to these older systems."
@@ -108,8 +107,8 @@ export const roofingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    serviceId: "roofingpicturerocks",
-    serviceName: "Roofing in Picture Rocks",
+    serviceId: "roofing-picture-rocks",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How often should a Picture Rocks manufactured home roof be inspected?",

@@ -17,12 +17,11 @@ export const drainclearingritaranchData: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Rita Ranch, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingritaranch",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Rita Ranch
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Root Intrusion in Older Sections",
     "description": "Homes in the original 1990s neighborhoods of Rita Ranch often face established tree roots clogging lateral lines. We locate and remove root intrusions near Rita Ranch Park and Rancho del Lago without disturbing HOA landscaping."
@@ -108,8 +107,8 @@ export const drainclearingritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    serviceId: "drainclearingritaranch",
-    serviceName: "Drain Clearing in Rita Ranch",
+    serviceId: "drain-clearing-rita-ranch",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "Why do drains clog more often after monsoon storms in Rita Ranch?",

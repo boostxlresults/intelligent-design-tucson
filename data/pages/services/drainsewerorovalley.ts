@@ -17,12 +17,11 @@ export const drainsewerorovalleyData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewerorovalley",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Root intrusion solutions for mature landscaping",
     "description": "Rancho Vistoso and La Reserve yards have mature mesquites and shade trees. We specialize in targeted root removal and pipe relining that protects high-value landscaping and HOA standards."
@@ -108,8 +107,8 @@ export const drainsewerorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "drainsewerorovalley",
-    serviceName: "Drain & Sewer in Oro Valley",
+    serviceId: "drain-sewer-oro-valley",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "How do I know if root intrusion is affecting my Oro Valley sewer line?",

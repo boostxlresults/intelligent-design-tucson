@@ -12,10 +12,9 @@ export const roofingsaddlebrookeData: ServicePageData = {
   tagline: "Trusted roofing care for SaddleBrooke’s premium, HOA-driven communities",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in SaddleBrooke, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingsaddlebrooke",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Experience",
     "description": "Intelligent Design has served SaddleBrooke homeowners for decades, understanding HOA standards, golf course aesthetics and local vendor requirements. Our crews know the age and roof types common in SaddleBrooke and tailor solutions that preserve value and appearance."
@@ -89,8 +88,8 @@ export const roofingsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingsaddlebrooke",
-    serviceName: "Roofing in SaddleBrooke",
+    serviceId: "roofing-saddle-brooke",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How does Intelligent Design handle roof repairs in SaddleBrooke?",

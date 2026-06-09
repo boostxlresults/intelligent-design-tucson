@@ -9,10 +9,9 @@ export const drainclearingcasasadobesData: ServicePageData = {
   tagline: "Clearing Casas Adobes Drains Since 1979",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Services in Casas Adobes, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingcasasadobes",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Specialists", description: "Casas Adobes is known for its beautiful mature tree canopy, but ficus and eucalyptus roots frequently invade older sewer lines. We use advanced hydro jetting to clear these stubborn blockages." },
     { title: "Aging Pipe Solutions", description: "Many homes in Casas Adobes Estates and Shannon Heights were built in the 1970s and 1980s. We specialize in clearing and inspecting the aging clay pipes common in these mid-century properties." },
     { title: "Camera Inspections", description: "Before we clear your drain, we use high-resolution cameras to identify the exact cause of the backup. This is crucial for homes along the Ina and Oracle corridors where ground settling may have occurred." },
@@ -34,8 +33,8 @@ export const drainclearingcasasadobesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingcasasadobes",
-    serviceName: "Drain Clearing in Casas Adobes",
+    serviceId: "drain-clearing-casas-adobes",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why do my drains keep backing up in my Casas Adobes home?", answer: "In Casas Adobes, recurring backups are frequently caused by tree roots invading older sewer lines. The mature landscaping in neighborhoods like Casas Adobes Estates is beautiful, but roots from trees like ficus and eucalyptus easily penetrate the aging clay pipes common in homes built in the 1970s and 80s. We recommend a camera inspection to identify the exact cause." },
       { question: "Is hydro jetting safe for the older pipes in Casas Adobes?", answer: "Yes, when performed by our trained professionals. While many homes in the 85704 and 85741 zip codes have older plumbing, we first conduct a thorough video inspection to assess the pipe's condition. If the pipe is structurally sound, hydro jetting is the most effective way to remove stubborn roots and hard water scale without damaging the line." },

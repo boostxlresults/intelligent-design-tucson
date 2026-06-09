@@ -9,10 +9,9 @@ export const drainsewereasttucsonData: ServicePageData = {
   tagline: "Clearing the way for East Tucson's plumbing systems.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in East Tucson, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewereasttucson",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Solutions", description: "Established tree roots in older East Tucson neighborhoods like the Pantano area can wreak havoc on sewer lines. We offer advanced camera inspections and root removal." },
     { title: "Trenchless Sewer Repair", description: "Preserve your beautiful desert landscaping and driveways in Civano and the Houghton corridor with our minimally invasive trenchless sewer repair methods." },
     { title: "Monsoon Runoff Management", description: "East Tucson's proximity to the Rincon Mountains means significant monsoon runoff. We ensure your drainage systems are clear and functioning properly." },
@@ -34,8 +33,8 @@ export const drainsewereasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewereasttucson",
-    serviceName: "Drain & Sewer in East Tucson",
+    serviceId: "drain-sewer-east-tucson",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are sewer backups common in older East Tucson neighborhoods?", answer: "In established East Tucson neighborhoods, particularly those built in the 1980s and 1990s, mature trees are a significant factor. The roots from these trees naturally seek out the moisture and nutrients inside sewer lines, infiltrating through small cracks or joints. Over time, this root intrusion causes severe blockages and can even collapse the pipes, leading to backups." },
       { question: "Do you offer trenchless sewer repair in the Houghton corridor?", answer: "Yes, we highly recommend trenchless sewer repair for homes along the Houghton corridor and throughout East Tucson. This method allows us to repair or replace damaged sewer lines without digging large trenches, which preserves your landscaping, driveways, and patios. It's a faster, cleaner, and often more cost-effective solution." },

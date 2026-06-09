@@ -9,10 +9,9 @@ export const solarinstallationtortolitaData: ServicePageData = {
   tagline: "High-performance solar systems designed for the unique architecture of Tortolita.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation in Tortolita, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationtortolita",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "HOA-Compliant Designs", description: "We specialize in navigating the strict HOA approval processes in communities like Stone Canyon and Dove Mountain estates. Our premium aesthetic installations meet all local architectural guidelines." },
     { title: "High-Capacity Systems", description: "Luxury homes in the 85755 and 85742 zip codes often require larger solar arrays. We design high-capacity systems tailored to the energy demands of expansive custom desert homes." },
     { title: "Battery Backup Integration", description: "Protect your home from unexpected outages with advanced battery backup solutions. Essential for maintaining comfort and security in Tortolita's premium desert setting." },
@@ -34,8 +33,8 @@ export const solarinstallationtortolitaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationtortolita",
-    serviceName: "Solar in Tortolita",
+    serviceId: "solar-installation-tortolita",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Do you handle HOA approvals for solar installations in Tortolita?", answer: "Yes, we have extensive experience navigating the strict HOA approval processes in exclusive Tortolita communities like Stone Canyon and Dove Mountain. We provide all necessary documentation and premium aesthetic designs to ensure compliance." },
       { question: "Are your solar panels suitable for the custom roofs common in Tortolita?", answer: "Absolutely. Our team is highly skilled in installing solar systems on the complex custom rooflines, tile, and flat foam roofs frequently found on luxury homes in the 85755 and 85742 zip codes, ensuring a secure and leak-free fit." },

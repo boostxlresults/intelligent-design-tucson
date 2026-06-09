@@ -12,10 +12,9 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
   tagline: "Local roof experts protecting homes at elevation with proven craftsmanship",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in SaddleBrooke & Catalina, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingsaddlebrookecatalina",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Elevation Knowledge",
     "description": "We understand roofing at 3,200\u20133,600 ft\u2014frost cycles, pine needle debris, and cooler mountain-adjacent weather inform every repair and replacement."
@@ -89,8 +88,8 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingsaddlebrookecatalina",
-    serviceName: "Roofing in SaddleBrooke & Catalina",
+    serviceId: "roofing-saddle-brooke-catalina",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How does roofing in SaddleBrooke & Catalina differ from lower elevations?",

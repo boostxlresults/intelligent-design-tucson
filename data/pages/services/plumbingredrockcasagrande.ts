@@ -17,12 +17,11 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   heroImageAlt: "Plumbing services in Red Rock & Casa Grande, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingredrockcasagrande",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Hard Water Repair Specialists",
     "description": "Homes in zip codes 85145, 85122, and 85193 face extremely hard water (300+ ppm). We replace sacrificial anode rods, service expansion tanks and install softening strategies that extend fixture life in tile-roofed and foam-flat homes."
@@ -108,8 +107,8 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    serviceId: "plumbingredrockcasagrande",
-    serviceName: "Plumbing in Red Rock & Casa Grande",
+    serviceId: "plumbing-red-rock-casa-grande",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Why do water heaters fail faster in Red Rock & Casa Grande?",

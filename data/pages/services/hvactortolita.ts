@@ -12,10 +12,9 @@ export const hvactortolitaData: ServicePageData = {
   tagline: "Local HVAC expertise for Tortolita’s premium desert homes",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tortolita, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvactortolita",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Local Experience",
     "description": "Serving Tortolita area homeowners with HVAC solutions tuned to foothill microclimates. Intelligent Design brings 46+ years of experience and deep local knowledge to every job."
@@ -89,8 +88,8 @@ export const hvactortolitaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvactortolita",
-    serviceName: "HVAC in Tortolita",
+    serviceId: "hvac-tortolita",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Do you provide HVAC service to Tortolita homes near the Tortolita Mountains?",

@@ -17,12 +17,11 @@ export const heatingcortaroData: ServicePageData = {
   heroImageAlt: "Heating services in Cortaro, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingcortaro",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Cortaro
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Built-for-Cortaro systems",
     "description": "We size and install systems to match Cortaro\u2019s two-story tract homes and single-story stucco plans, accounting for 2,200 ft elevation and hotter low-elevation microclimates."
@@ -108,8 +107,8 @@ export const heatingcortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    serviceId: "heatingcortaro",
-    serviceName: "Heating in Cortaro",
+    serviceId: "heating-cortaro",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Why do so many Cortaro homes have upstairs heating problems?",

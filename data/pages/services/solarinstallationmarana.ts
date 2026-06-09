@@ -17,12 +17,11 @@ export const solarinstallationmaranaData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Marana, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationmarana",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Marana
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "Tile Roof Expertise for Marana Homes",
     "description": "With roughly 70% of Marana roofs using clay or concrete tile, our crews use tile-friendly flashing and attachment methods that protect newer roofs in developments like Dove Mountain and Gladden Farms."
@@ -108,8 +107,8 @@ export const solarinstallationmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    serviceId: "solarinstallationmarana",
-    serviceName: "Solar Installation in Marana",
+    serviceId: "solar-installation-marana",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Will a tile roof in Marana increase solar installation cost?",

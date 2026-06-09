@@ -17,12 +17,11 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   heroImageAlt: "Plumbing services in SaddleBrooke & Catalina, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingsaddlebrookecatalina",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for SaddleBrooke & Catalina
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Frozen pipe prevention at elevation",
     "description": "Homes near Mt. Lemmon access face frequent morning frost. We seal exposed lines, insulate crawlspaces and recommend local winterization schedules for SaddleBrooke & Catalina."
@@ -108,8 +107,8 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke & Catalina)
   faqs: {
-    serviceId: "plumbingsaddlebrookecatalina",
-    serviceName: "Plumbing in SaddleBrooke & Catalina",
+    serviceId: "plumbing-saddle-brooke-catalina",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do SaddleBrooke & Catalina homes need special winterization to prevent frozen pipes?",

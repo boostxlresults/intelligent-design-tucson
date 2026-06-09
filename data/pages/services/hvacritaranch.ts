@@ -12,10 +12,9 @@ export const hvacritaranchData: ServicePageData = {
   tagline: "Trusted Comfort for Your Rita Ranch Home - 4.97 Star Rated Service.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Rita Ranch, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacritaranch",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Two-Story Specialists",
     "description": "We specialize in solving heat stratification issues common in Rita Ranch's multi-level homes to ensure even cooling across both floors."
@@ -89,8 +88,8 @@ export const hvacritaranchData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacritaranch",
-    serviceName: "HVAC in Rita Ranch",
+    serviceId: "hvac-rita-ranch",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why is the upstairs of my Rita Ranch home always warmer than the downstairs?",

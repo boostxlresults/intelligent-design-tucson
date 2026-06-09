@@ -9,10 +9,9 @@ export const roofingtucsonestatesData: ServicePageData = {
   tagline: "Protecting Your Home from the Arizona Sun and Monsoon Rains",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing Services in Tucson Estates, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingtucsonestates",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique roofing needs of Tucson Estates homes, from flat/built-up roofs to shingle and tile systems." },
     { title: "Aging Roof Solutions", description: "Many homes in Tucson Estates were built in the 1960s-1980s. We specialize in comprehensive updates for original roofs well past their lifespan." },
     { title: "Flat Roof Specialists", description: "With 45% of homes in the area featuring flat or built-up roofs, we provide expert coating and repair to prevent ponding and leaks." },
@@ -34,8 +33,8 @@ export const roofingtucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "roofingtucsonestates",
-    serviceName: "Roofing in Tucson Estates",
+    serviceId: "roofing-tucson-estates",
+    serviceName: "Roofing",
     faqs: [
       { question: "What are the most common roofing issues in Tucson Estates?", answer: "In Tucson Estates, the most common issues include aging original roofs from the 1960s-1980s, flat roof failures with ponding water, and deferred maintenance. The intense sun and monsoon storms also cause significant wear on older shingle and built-up roofs." },
       { question: "How often should I have my flat roof inspected in Tucson Estates?", answer: "Given that 45% of homes in Tucson Estates have flat or built-up roofs, we recommend annual inspections, especially before the monsoon season. Regular maintenance and timely elastomeric coatings can prevent costly leaks and extend the roof's lifespan." },

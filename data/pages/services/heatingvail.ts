@@ -9,10 +9,9 @@ export const heatingvailData: ServicePageData = {
   tagline: "Keeping Vail Families Warm When the Mountain Air Turns Cold",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Vail, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingvail",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Elevation-Specific Sizing", description: "Vail's 3,800-foot elevation means higher heating demands than central Tucson. We ensure your heat pump or furnace is properly sized for our cooler winter temperatures." },
     { title: "Winter Frost Protection", description: "With more frost days in winter, reliable heating is essential in Vail. We provide emergency repairs and preventative maintenance to keep your system running smoothly." },
     { title: "Energy-Efficient Heat Pumps", description: "We specialize in high-efficiency heat pumps that perform exceptionally well in Vail's climate. Enjoy lower energy bills while maintaining perfect indoor comfort." },
@@ -34,8 +33,8 @@ export const heatingvailData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingvail",
-    serviceName: "Heating in Vail",
+    serviceId: "heating-vail",
+    serviceName: "Heating",
     faqs: [
       { question: "Why does my heat pump struggle during Vail winters?", answer: "Vail's higher elevation (3,800 ft) means cooler temperatures and more frost than central Tucson. Heat pumps can lose efficiency as temperatures drop near freezing. We can evaluate your system to ensure it's properly sized and functioning optimally for Vail's specific climate." },
       { question: "How often should I have my heating system serviced in Vail?", answer: "We recommend annual maintenance for your heating system, ideally in the fall before the colder weather sets in. Regular tune-ups are especially important in Vail due to the higher heating demand, ensuring your system runs efficiently and reliably throughout the winter." },

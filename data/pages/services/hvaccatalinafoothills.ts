@@ -12,10 +12,9 @@ export const hvaccatalinafoothillsData: ServicePageData = {
   tagline: "Serving ~50,000 residents at 2,700–3,200 ft elevation — 46+ yrs, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Catalina Foothills, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvaccatalinafoothills",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Hillside Home HVAC Specialists",
     "description": "We design multi-zone systems and custom ductwork for luxury hillside homes in Catalina Foothills, accounting for steep terrain and multi-level layouts. Our crews are experienced with the access and elevation challenges unique to 85718 and 85750."
@@ -99,8 +98,8 @@ export const hvaccatalinafoothillsData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvaccatalinafoothills",
-    serviceName: "HVAC in Catalina Foothills",
+    serviceId: "hvac-catalina-foothills",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does Catalina Foothills elevation (2,700\u20133,200 ft) affect my HVAC?",

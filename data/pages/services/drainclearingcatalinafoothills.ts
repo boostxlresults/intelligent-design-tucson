@@ -17,12 +17,11 @@ export const drainclearingcatalinafoothillsData: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Catalina Foothills, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingcatalinafoothills",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Hillside Waste Line Expertise",
     "description": "We design drain clearing solutions around steep slopes in neighborhoods like Ventana Canyon and Skyline Heights, where fast runoff and long routed lines are common."
@@ -108,8 +107,8 @@ export const drainclearingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    serviceId: "drainclearingcatalinafoothills",
-    serviceName: "Drain Clearing in Catalina Foothills",
+    serviceId: "drain-clearing-catalina-foothills",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "Why do drains clog more often in Catalina Foothills homes?",

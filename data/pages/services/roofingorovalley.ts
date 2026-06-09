@@ -12,10 +12,9 @@ export const roofingorovalleyData: ServicePageData = {
   tagline: "Local expertise, premium materials, lasting roofs",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Oro Valley, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingorovalley",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Experienced Local Team",
     "description": "With over 46 years serving Southern Arizona, our crews know Oro Valley\u2019s unique elevation and microclimates. We combine technical skill with community standards to protect your investment."
@@ -89,8 +88,8 @@ export const roofingorovalleyData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingorovalley",
-    serviceName: "Roofing in Oro Valley",
+    serviceId: "roofing-oro-valley",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How often should I have my Oro Valley roof inspected?",
@@ -122,7 +121,6 @@ export const roofingorovalleyData: ServicePageData = {
     {
         "question": "RQ1",
         "answer": "What roof materials and styles are most common in Oro Valley and how do HOAs influence choices?",
-        "answer_detail": "Most Oro Valley homes feature clay or concrete tile and premium asphalt shingles; HOAs often require color and profile conformity. Intelligent Design recommends materials that satisfy HOA guidelines while providing long-term performance\u2014matching aesthetics, specifying durable underlayment, and documenting details for approval. We assist homeowners through the approval process to ensure smooth installations."
     },
     {
         "question": "RQ2",

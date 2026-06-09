@@ -17,12 +17,11 @@ export const hvacsahuaritaData: ServicePageData = {
   heroImageAlt: "HVAC services in Sahuarita, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacsahuarita",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Sahuarita
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Master-planned community expertise",
     "description": "We service Rancho Sahuarita, Madera Highlands, and newer subdivisions where two-story floorplans and pre-wired solar options are common. Our crews understand the typical builder-grade duct routing that causes upstairs overheating."
@@ -108,8 +107,8 @@ export const hvacsahuaritaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Sahuarita)
   faqs: {
-    serviceId: "hvacsahuarita",
-    serviceName: "HVAC in Sahuarita",
+    serviceId: "hvac-sahuarita",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why does my upstairs run so hot in a Sahuarita two-story home?",

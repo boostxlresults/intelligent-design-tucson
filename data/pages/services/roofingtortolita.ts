@@ -12,10 +12,9 @@ export const roofingtortolitaData: ServicePageData = {
   tagline: "Protecting Tortolita homes with expert roofing and decades of trusted service.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Tortolita, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingtortolita",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Experience",
     "description": "Intelligent Design has served Tortolita and the Dove Mountain area for decades, bringing deep knowledge of local elevation, microclimates, and HOA requirements. Our long history and 4.97\u2605 reputation mean homeowners get reliable work tailored to the neighborhood."
@@ -89,8 +88,8 @@ export const roofingtortolitaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingtortolita",
-    serviceName: "Roofing in Tortolita",
+    serviceId: "roofing-tortolita",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How fast can Intelligent Design respond to a roofing emergency in Tortolita?",

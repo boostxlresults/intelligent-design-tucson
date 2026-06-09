@@ -9,10 +9,9 @@ const data: ServicePageData = {
   tagline: "Fast, reliable drain cleaning for your Cortaro home.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Cortaro, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingcortaro",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Local Cortaro Expertise", description: "We understand the specific plumbing challenges in Cortaro's 1990s-2010s tract homes. Our team is familiar with the builder-grade drain pipes common in Continental Ranch and Continental Reserve." },
     { title: "Root Intrusion Solutions", description: "Established landscaping in Cortaro can lead to tree roots invading your sewer lines. We use advanced camera inspections and hydro jetting to clear roots and restore flow." },
     { title: "Flat Terrain Drainage", description: "Cortaro's relatively flat terrain at 2,200 ft elevation can contribute to slow drainage issues. We ensure your pipes are completely clear to prevent backups." },
@@ -34,8 +33,8 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingcortaro",
-    serviceName: "Drain Clearing in Cortaro",
+    serviceId: "drain-clearing-cortaro",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains so slow in my Cortaro home?", answer: "Slow drains in Cortaro are often caused by a combination of the area's flat terrain, which reduces gravity flow, and the accumulation of hard water scale from the local water supply. In older homes in Continental Ranch, deteriorating builder-grade pipes can also contribute to the problem." },
       { question: "How do I know if tree roots are in my sewer line in Cortaro?", answer: "Signs of root intrusion include frequent clogs, gurgling sounds from drains, and sewage backups. Because many neighborhoods in Cortaro have mature landscaping, tree roots frequently invade sewer lines seeking moisture. We use camera inspections to confirm root presence." },

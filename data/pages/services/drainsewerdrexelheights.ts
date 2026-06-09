@@ -17,12 +17,11 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Drexel Heights, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewerdrexelheights",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Drexel Heights
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Local Clay Line Experience",
     "description": "We specialize in repairing and replacing aging clay sewer lines common in Drexel Heights single-story block homes, especially in Mission Manor and Cardinal Heights."
@@ -108,8 +107,8 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Drexel Heights)
   faqs: {
-    serviceId: "drainsewerdrexelheights",
-    serviceName: "Drain & Sewer in Drexel Heights",
+    serviceId: "drain-sewer-drexel-heights",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Are clay sewer lines common in Drexel Heights and what does that mean for repairs?",

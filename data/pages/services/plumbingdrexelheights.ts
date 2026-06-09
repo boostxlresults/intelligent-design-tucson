@@ -9,16 +9,15 @@ export const plumbingdrexelheightsData: ServicePageData = {
   tagline: "Your Trusted Local Plumbers for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Drexel Heights, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingdrexelheights",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Galvanized Pipe Replacement", description: "Many homes in Drexel Heights built in the 1970s and 1980s still have original galvanized plumbing. We specialize in modern repiping solutions to prevent leaks and improve water pressure." },
     { title: "Water Heater Upgrades", description: "Hard water in the 85746 zip code can significantly reduce the lifespan of water heaters. We provide expert replacements and maintenance to keep your hot water flowing." },
     { title: "Polybutylene Pipe Solutions", description: "If your older Drexel Heights home has polybutylene pipes, you're at risk for sudden failures. Our team can safely replace these outdated systems with durable modern materials." },
     { title: "Hard Water Filtration", description: "With water hardness levels around 190-220 ppm in the area, mineral buildup is a common issue. We install whole-home filtration systems to protect your fixtures and appliances." },
     { title: "Outdated Fixture Updates", description: "Renovating a classic Drexel Heights home? We can upgrade your outdated plumbing fixtures to modern, water-efficient models that enhance your home's value." },
-    { title: "Slab Leak Detection", single_story: true, description: "The single-story block construction common in Drexel Heights can be susceptible to slab leaks. We use advanced detection methods to find and fix leaks under your foundation with minimal disruption." }
+    { title: "Slab Leak Detection", description: "The single-story block construction common in Drexel Heights can be susceptible to slab leaks. We use advanced detection methods to find and fix leaks under your foundation with minimal disruption." }
   ],
   content: {
     mainHeading: "Professional Plumbing Services in Drexel Heights",
@@ -34,8 +33,8 @@ export const plumbingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingdrexelheights",
-    serviceName: "Plumbing in Drexel Heights",
+    serviceId: "plumbing-drexel-heights",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why do I have low water pressure in my Drexel Heights home?", answer: "Low water pressure in older Drexel Heights homes is often caused by mineral buildup inside aging galvanized pipes. The hard water in the 85746 and 85735 zip codes accelerates this process. We can inspect your pipes and recommend repiping solutions to restore proper water flow." },
       { question: "Are polybutylene pipes common in Drexel Heights?", answer: "Yes, some homes built or renovated in Drexel Heights during the 1980s and early 1990s may have polybutylene pipes. These pipes are known to degrade and fail unexpectedly. We highly recommend having them inspected and replaced to prevent significant water damage." },

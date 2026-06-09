@@ -12,10 +12,9 @@ export const hvacrillitoData: ServicePageData = {
   tagline: "Trusted HVAC professionals serving Rillito and the Santa Cruz River corridor for over 46 years.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Rillito, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacrillito",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Agricultural Dust Mitigation",
     "description": "Our specialized filtration systems are designed to combat the high volume of agricultural dust common in Rillito's farming landscape. We ensure your indoor air remains clean despite the open terrain and seasonal planting cycles."
@@ -89,8 +88,8 @@ export const hvacrillitoData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacrillito",
-    serviceName: "HVAC in Rillito",
+    serviceId: "hvac-rillito",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How often should I change my AC filters in Rillito, AZ?",

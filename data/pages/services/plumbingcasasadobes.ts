@@ -9,10 +9,9 @@ export const plumbingcasasadobesData: ServicePageData = {
   tagline: "Casas Adobes' Trusted Plumbers for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Casas Adobes, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingcasasadobes",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Aging Pipe Replacement", description: "Many homes in Casas Adobes Estates and Shannon Heights were built in the 1970s and 1980s. We specialize in replacing corroding galvanized pipes and failing polybutylene systems common in these older properties." },
     { title: "Water Heater Upgrades", description: "With the hard water supply (180-220 ppm) from Tucson Water, water heaters in Casas Adobes often face accelerated wear. We provide expert replacement and maintenance to ensure reliable hot water." },
     { title: "Hard Water Solutions", description: "The mineral-rich water in the 85704, 85741, and 85742 zip codes can damage your fixtures over time. We install premium water filtration and softening systems tailored to local water conditions." },
@@ -34,8 +33,8 @@ export const plumbingcasasadobesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingcasasadobes",
-    serviceName: "Plumbing in Casas Adobes",
+    serviceId: "plumbing-casas-adobes",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why do homes in Casas Adobes frequently need pipe replacement?", answer: "Many homes in Casas Adobes, particularly those built in the 1970s and 1980s, were constructed using galvanized or polybutylene pipes. Over time, galvanized pipes corrode from the inside out, leading to reduced water pressure and leaks, while polybutylene pipes are prone to sudden failure. Upgrading these aging systems is crucial for protecting your property." },
       { question: "How does the water quality in Casas Adobes affect my plumbing?", answer: "Casas Adobes receives its water from the Tucson Water supply, which is considered hard, with mineral levels between 180 and 220 ppm. This hard water causes scale buildup in pipes, fixtures, and water heaters, significantly reducing their efficiency and lifespan. Installing a water softener or filtration system can mitigate these issues." },

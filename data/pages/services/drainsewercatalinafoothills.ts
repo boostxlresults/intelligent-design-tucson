@@ -17,12 +17,11 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Catalina Foothills, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewercatalinafoothills",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Hillside Waste-Line Routing",
     "description": "We design repairs and reroutes for multi-level homes on steep slopes like Ventana Canyon and Skyline Heights, where long runs to the street increase stress on pipes."
@@ -108,8 +107,8 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    serviceId: "drainsewercatalinafoothills",
-    serviceName: "Drain & Sewer in Catalina Foothills",
+    serviceId: "drain-sewer-catalina-foothills",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Do Catalina Foothills homes need more frequent sewer maintenance?",

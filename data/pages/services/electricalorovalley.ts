@@ -9,10 +9,9 @@ export const electricalorovalleyData: ServicePageData = {
   tagline: "Your Trusted Local Electricians for Rancho Vistoso, Sun City, and Beyond",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel in Oro Valley, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalorovalley",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Smart Home Integration", description: "Upgrade your Oro Valley home with the latest smart home systems. We handle complex wiring for automated lighting, security, and climate control in upscale properties." },
     { title: "EV Charger Installation", description: "Ready for an electric vehicle? We install Level 2 EV chargers tailored to the high electrical demands of modern homes in neighborhoods like La Reserve and Pusch Ridge Vistas." },
     { title: "Whole-Home Generators", description: "Ensure uninterrupted power during monsoon season outages. We install and maintain whole-home generators to keep your Oro Valley property running smoothly." },
@@ -34,8 +33,8 @@ export const electricalorovalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalorovalley",
-    serviceName: "Electrical in Oro Valley",
+    serviceId: "electrical-oro-valley",
+    serviceName: "Electrical",
     faqs: [
       { question: "Do you install EV chargers in Oro Valley?", answer: "Yes, we specialize in installing Level 2 EV chargers for homes in Oro Valley. Whether you live in Rancho Vistoso or La Reserve, we can upgrade your electrical panel if necessary and ensure the installation meets all local codes and HOA requirements." },
       { question: "Can you help with smart home wiring in my Oro Valley home?", answer: "Absolutely. We provide comprehensive smart home wiring services for upscale properties in Oro Valley. From automated lighting and climate control to advanced security systems, we ensure your home's electrical infrastructure can support the latest technology." },

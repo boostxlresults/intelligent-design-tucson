@@ -17,12 +17,11 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Corona de Tucson, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewercoronadetucson",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Corona de Tucson
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Caliche-Savvy Excavation",
     "description": "We plan digs around Corona de Tucson\u2019s hard caliche layers to protect pipe grades on acreage homes in Rancho del Lago and Las Colinas."
@@ -108,8 +107,8 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    serviceId: "drainsewercoronadetucson",
-    serviceName: "Drain & Sewer in Corona de Tucson",
+    serviceId: "drain-sewer-corona-de-tucson",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "How does Corona de Tucson\u2019s caliche soil affect my sewer line?",

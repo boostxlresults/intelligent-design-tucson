@@ -12,10 +12,9 @@ export const hvaccasasadobesData: ServicePageData = {
   tagline: "Serving Casas Adobes (85704/85741/85742) — 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Casas Adobes, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvaccasasadobes",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Local Expertise for Casas Adobes Homes",
     "description": "We know mid-century ranch houses, 1980s subdivisions, and newer luxury builds in the 85704, 85741, and 85742 zip codes. Our crews size and spec systems with the neighborhood stock and roof types in mind."
@@ -99,8 +98,8 @@ export const hvaccasasadobesData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvaccasasadobes",
-    serviceName: "HVAC in Casas Adobes",
+    serviceId: "hvac-casas-adobes",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does Casas Adobes elevation affect my AC needs?",

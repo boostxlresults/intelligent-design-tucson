@@ -9,10 +9,9 @@ export const drainclearingavravalleyData: ServicePageData = {
   tagline: "Clearing Avra Valley's toughest clogs since 1978.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in Avra Valley, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingavravalley",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Septic System Expertise", description: "Many Avra Valley properties rely on septic systems rather than city sewers. We provide specialized clearing that protects your tank and leach field." },
     { title: "Root Intrusion Removal", description: "Deep-reaching mesquite and palo verde roots frequently invade drain lines in the 85743 and 85653 zip codes. Our advanced hydro-jetting cuts through stubborn desert roots." },
     { title: "Caliche Soil Solutions", description: "The hard caliche soil common in Avra Valley can cause severe exterior drainage issues. We diagnose and resolve slow-draining lines affected by ground settling." },
@@ -34,8 +33,8 @@ export const drainclearingavravalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingavravalley",
-    serviceName: "Drain Clearing in Avra Valley",
+    serviceId: "drain-clearing-avra-valley",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Is drain clearing safe for my Avra Valley septic system?", answer: "Yes, we use septic-safe methods like mechanical snaking and hydro-jetting. We avoid harsh chemical cleaners that can disrupt the essential bacteria in your septic tank, ensuring your entire system remains healthy and functional." },
       { question: "How do you handle tree roots in drain lines on large Avra Valley properties?", answer: "We use specialized camera inspections to locate the root intrusion, often caused by native mesquite trees. Then, we utilize high-powered hydro-jetting or mechanical augers to cut through and remove the roots, restoring full flow to your long drain lines." },

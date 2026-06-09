@@ -17,12 +17,11 @@ export const plumbingeasttucsonData: ServicePageData = {
   heroImageAlt: "Plumbing services in East Tucson, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingeasttucson",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for East Tucson
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Built-for-East-Tucson Pipe Inspections",
     "description": "We inspect older 1970s and 1980s plumbing in neighborhoods like parts of Pantano and the Tanque Verde wash area for galvanized corrosion and hidden leaks beneath two-story homes."
@@ -108,8 +107,8 @@ export const plumbingeasttucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to East Tucson)
   faqs: {
-    serviceId: "plumbingeasttucson",
-    serviceName: "Plumbing in East Tucson",
+    serviceId: "plumbing-east-tucson",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do East Tucson homes need water softeners for 180\u2013220 ppm hardness?",

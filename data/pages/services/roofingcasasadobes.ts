@@ -12,10 +12,9 @@ export const roofingcasasadobesData: ServicePageData = {
   tagline: "Protecting roofs in Casas Adobes — reliable, experienced, local.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Casas Adobes, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingcasasadobes",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Decades of Local Experience",
     "description": "Intelligent Design has served Casas Adobes and greater Tucson for 46+ years, repairing and replacing roofs on mid-century ranches and newer luxury homes. Our crews know local materials and neighborhood styles."
@@ -89,8 +88,8 @@ export const roofingcasasadobesData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingcasasadobes",
-    serviceName: "Roofing in Casas Adobes",
+    serviceId: "roofing-casas-adobes",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How does Intelligent Design handle roof repairs in Casas Adobes?",

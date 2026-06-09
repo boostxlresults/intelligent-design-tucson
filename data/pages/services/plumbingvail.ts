@@ -9,10 +9,9 @@ export const plumbingvailData: ServicePageData = {
   tagline: "Expert Plumbing for Vail's Unique Elevation and Climate",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Vail, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingvail",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Hard Water Solutions", description: "Vail's water hardness levels (200-230 ppm) can wreak havoc on newer plumbing fixtures. We provide specialized water filtration and softening systems tailored for the 85641 zip code." },
     { title: "Winter Freeze Protection", description: "At 3,200-3,800 ft elevation, Vail experiences more winter frost than central Tucson. We offer pipe insulation and freeze protection services to prevent costly winter bursts." },
     { title: "Well Water Expertise", description: "Many rural properties and custom homes on acreage in Vail rely on well water. Our plumbers are experienced in servicing well pumps and addressing well-specific plumbing challenges." },
@@ -34,8 +33,8 @@ export const plumbingvailData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingvail",
-    serviceName: "Plumbing in Vail",
+    serviceId: "plumbing-vail",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why is water filtration important for homes in Vail?", answer: "Vail experiences hard water levels around 200-230 ppm, which can cause severe scale buildup in pipes and fixtures. A proper water filtration and softening system protects your plumbing infrastructure, extends the life of your water heater, and prevents premature failure of modern fixtures common in Vail's newer subdivisions." },
       { question: "Do I need to worry about frozen pipes in Vail?", answer: "Yes, due to Vail's higher elevation (3,200-3,800 ft), the area experiences more winter frost than central Tucson. It's crucial to insulate exposed pipes and take preventive measures to avoid frozen and burst pipes during the colder months, especially for homes in more exposed rural sections." },

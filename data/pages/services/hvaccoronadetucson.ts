@@ -12,10 +12,9 @@ export const hvaccoronadetucsonData: ServicePageData = {
   tagline: "Serving Corona de Tucson (pop ~10,000, zip 85641) — 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Corona de Tucson, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvaccoronadetucson",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Elevation-aware HVAC Sizing",
     "description": "We size and tune equipment for Corona de Tucson's 3,800 ft elevation, where homes run 5\u20138\u00b0F cooler than the Tucson valley. Incorrectly sized heat pumps are a common issue here; we correct that for efficient heating year-round."
@@ -99,8 +98,8 @@ export const hvaccoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvaccoronadetucson",
-    serviceName: "HVAC in Corona de Tucson",
+    serviceId: "hvac-corona-de-tucson",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does Corona de Tucson\u2019s elevation (3,800 ft) affect my HVAC system?",

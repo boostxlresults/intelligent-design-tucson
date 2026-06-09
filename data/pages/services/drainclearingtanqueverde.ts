@@ -9,10 +9,9 @@ export const drainclearingtanqueverdeData: ServicePageData = {
   tagline: "Clearing stubborn clogs and root intrusions in the 85749 and 85750 zip codes.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Tanque Verde, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingtanqueverde",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Removal", description: "Mature mesquite and palo verde trees in Tanque Verde are notorious for invading sewer lines. We use advanced hydro jetting to clear stubborn roots and restore flow." },
     { title: "Long Sewer Run Expertise", description: "Many properties in the Tanque Verde Valley sit on 1+ acres, meaning longer sewer lines that are prone to blockages. Our high-capacity equipment easily handles extended drain runs." },
     { title: "Horse Property Solutions", description: "Equestrian properties in the Agua Caliente area often face unique waste management challenges. We provide specialized drain clearing to keep your property's plumbing running smoothly." },
@@ -34,8 +33,8 @@ export const drainclearingtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearingtanqueverde",
-    serviceName: "Drain Clearing in Tanque Verde",
+    serviceId: "drain-clearing-tanque-verde",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why do my drains keep clogging in my Tanque Verde home?", answer: "In Tanque Verde, recurring clogs are often caused by root intrusion from mature desert trees like mesquite and palo verde. The roots seek out the moisture in your sewer lines, especially in older homes or those with long runs across large lots. We recommend a camera inspection to identify the exact cause." },
       { question: "Is hydro jetting safe for the pipes in my older Tanque Verde property?", answer: "Yes, hydro jetting is generally safe and highly effective, but it requires professional assessment first. For homes built in the 1980s or earlier in the Tanque Verde Valley, we always perform a camera inspection to ensure the pipes are structurally sound enough to withstand the high-pressure water used to clear roots and debris." },

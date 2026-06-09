@@ -17,12 +17,11 @@ export const plumbingcortaroData: ServicePageData = {
   heroImageAlt: "Plumbing services in Cortaro, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingcortaro",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Cortaro
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Slab Leak Detection for Tract Homes",
     "description": "Many Cortaro neighborhoods built in the 1990s-2000s have slab foundations under stucco and tile roofs. We use acoustic and electronic detection to locate slab leaks with minimal tile removal."
@@ -108,8 +107,8 @@ export const plumbingcortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    serviceId: "plumbingcortaro",
-    serviceName: "Plumbing in Cortaro",
+    serviceId: "plumbing-cortaro",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "How do I know if my Cortaro home has a slab leak?",

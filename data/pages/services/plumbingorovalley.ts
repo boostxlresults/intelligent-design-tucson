@@ -17,12 +17,11 @@ export const plumbingorovalleyData: ServicePageData = {
   heroImageAlt: "Plumbing services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingorovalley",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Whole\u2011Home Filtration for Moderate\u2011Hard Water",
     "description": "Oro Valley\u2019s 170\u2013200 ppm hardness means scale on faucets and tank heaters. We size filtration systems to protect premium fixtures common in Rancho Vistoso and La Reserve."
@@ -108,8 +107,8 @@ export const plumbingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "plumbingorovalley",
-    serviceName: "Plumbing in Oro Valley",
+    serviceId: "plumbing-oro-valley",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "How does Oro Valley\u2019s water hardness affect my plumbing fixtures?",

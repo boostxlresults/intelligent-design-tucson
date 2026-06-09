@@ -9,10 +9,9 @@ export const solarinstallationcasasadobesData: ServicePageData = {
   tagline: "Casas Adobes' Trusted Solar Experts for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Casas Adobes, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationcasasadobes",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Mature Tree Shading Solutions", description: "Casas Adobes is known for its beautiful, mature tree canopy. We design custom solar arrays that maximize sun exposure while working around your established landscaping." },
     { title: "Older Roof Compatibility", description: "Many homes in Casas Adobes were built in the 1970s and 1980s. We evaluate your aging tile or built-up roof to ensure it's ready for solar, offering seamless integration." },
     { title: "HOA-Compliant Designs", description: "With a strong HOA presence in neighborhoods like Casas Adobes Estates, we provide aesthetically pleasing, low-profile solar installations that meet all community guidelines." },
@@ -34,8 +33,8 @@ export const solarinstallationcasasadobesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationcasasadobes",
-    serviceName: "Solar Installation in Casas Adobes",
+    serviceId: "solar-installation-casas-adobes",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Will the mature trees in my Casas Adobes yard prevent me from getting solar?", answer: "Not necessarily. While Casas Adobes is known for its beautiful mature tree canopy, our experts use advanced shading analysis to design a solar array that maximizes sun exposure. We can often find optimal placement on your roof or suggest minor tree trimming to ensure your system performs efficiently." },
       { question: "My Casas Adobes home was built in the 1970s. Do I need a new roof before installing solar?", answer: "It depends on the current condition of your roof. Many 1970s and 1980s homes in Casas Adobes have aging tile or built-up roofs. We conduct a thorough inspection prior to installation. If your roof's underlayment is failing, we recommend replacing it first so your roof outlasts your new solar panels." },

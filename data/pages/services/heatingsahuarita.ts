@@ -9,10 +9,9 @@ export const heatingsahuaritaData: ServicePageData = {
   tagline: "Keeping Sahuarita families warm when the desert nights get chilly.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Sahuarita, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingsahuarita",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Local Expertise", description: "We understand the specific heating challenges of Sahuarita's newer master-planned communities, from Rancho Sahuarita to Madera Highlands. Our technicians are familiar with the builder-grade systems common in these 2000s-2020s homes." },
     { title: "Elevation-Aware Solutions", description: "At 2,900 feet elevation, Sahuarita experiences slightly cooler temperatures than central Tucson. We ensure your heating system is properly sized and optimized for these specific climate conditions." },
     { title: "Two-Story Home Specialists", description: "With many two-story homes in Sahuarita, we frequently address heat stratification issues. We provide solutions to ensure even, comfortable heating across all levels of your home." },
@@ -34,8 +33,8 @@ export const heatingsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingsahuarita",
-    serviceName: "Heating in Sahuarita",
+    serviceId: "heating-sahuarita",
+    serviceName: "Heating",
     faqs: [
       { question: "Why is my two-story home in Rancho Sahuarita heating unevenly?", answer: "Uneven heating in two-story homes is a common issue in Sahuarita due to heat rising and potential ductwork design flaws in newer construction. We can address this through system balancing, zoning solutions, or ductwork modifications to ensure consistent comfort on both levels." },
       { question: "Are the builder-grade heating systems in Madera Highlands reliable?", answer: "While functional, builder-grade systems installed during Sahuarita's rapid growth often prioritize cost over longevity and efficiency. We frequently see these systems requiring repairs or replacement sooner than premium models. We can evaluate your system and recommend upgrades if necessary." },

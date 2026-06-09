@@ -9,10 +9,9 @@ export const electricalavravalleyData: ServicePageData = {
   tagline: "Avra Valley's Trusted Electricians for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Avra Valley, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalavravalley",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Voltage Drop Solutions", description: "Long runs from transformers to homes in Avra Valley often cause voltage drops. We specialize in diagnosing and correcting these issues to protect your appliances." },
     { title: "Generator Installations", description: "With open desert terrain and exposure to dust storms, power outages can happen. We install reliable backup generators to keep your home running smoothly." },
     { title: "Solar Panel Optimization", description: "Avra Valley's large roofs and minimal shading are perfect for solar. We optimize electrical systems to maximize your solar energy potential." },
@@ -34,8 +33,8 @@ export const electricalavravalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalavravalley",
-    serviceName: "Electrical in Avra Valley",
+    serviceId: "electrical-avra-valley",
+    serviceName: "Electrical",
     faqs: [
       { question: "Why do my lights flicker in my Avra Valley home?", answer: "Flickering lights in Avra Valley are often caused by voltage drops due to long runs from the transformer to your home, a common issue on larger 1-5 acre lots. It can also indicate an overloaded circuit or issues with the TEP service grid. We can diagnose and resolve these issues to ensure stable power." },
       { question: "Do I need a backup generator for my property in Avra Valley?", answer: "Given the open desert terrain and exposure to dust storms and monsoons, power outages can occur. A backup generator is highly recommended, especially if your Avra Valley home relies on a well water system, to ensure you maintain essential services during an outage." },

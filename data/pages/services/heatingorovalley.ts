@@ -17,12 +17,11 @@ export const heatingorovalleyData: ServicePageData = {
   heroImageAlt: "Heating services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingorovalley",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Elevation-aware system sizing",
     "description": "Homes at 2,600\u20133,200 ft in Oro Valley need different heat load calculations than central Tucson. We size systems to account for cooler nights near Pusch Ridge and afternoon shade from the Catalinas."
@@ -108,8 +107,8 @@ export const heatingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "heatingorovalley",
-    serviceName: "Heating in Oro Valley",
+    serviceId: "heating-oro-valley",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Do Oro Valley homes need a different HVAC size because of elevation?",

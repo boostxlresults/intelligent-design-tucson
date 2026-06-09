@@ -9,10 +9,9 @@ export const electricalpicturerocksData: ServicePageData = {
   tagline: "Keeping Picture Rocks powered, from Sandario Road to the Tucson Mountains.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Picture Rocks, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalpicturerocks",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Rural Infrastructure Expertise", description: "We understand the unique electrical challenges of Picture Rocks, including long service runs from the road that can cause voltage drops. Our team ensures your property has stable, reliable power." },
     { title: "Well Pump Electrical", description: "Many properties in the 85743 zip code rely on well water. We provide specialized electrical services to keep your well pumps running smoothly, ensuring uninterrupted water supply." },
     { title: "Generator Installations", description: "With rural TEP infrastructure being more prone to outages, a backup generator is essential. We install and maintain generators to keep your home powered during desert storms." },
@@ -34,8 +33,8 @@ export const electricalpicturerocksData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalpicturerocks",
-    serviceName: "Electrical Services in Picture Rocks",
+    serviceId: "electrical-picture-rocks",
+    serviceName: "Electrical",
     faqs: [
       { question: "Why do my lights flicker frequently in my Picture Rocks home?", answer: "Flickering lights in Picture Rocks are often caused by voltage drops due to long service runs from rural TEP transformers. It can also indicate an overloaded circuit or an outdated electrical panel. Our electricians can diagnose the exact cause and recommend the right solution, such as a panel upgrade or dedicated circuits." },
       { question: "Can you install a backup generator for my property in the 85743 zip code?", answer: "Yes, we highly recommend backup generators for Picture Rocks properties due to the rural infrastructure being more prone to outages during desert storms. We can install a whole-home generator that automatically kicks in when the power goes out, keeping your well pump, HVAC, and essential appliances running." },

@@ -9,10 +9,9 @@ export const plumbingritaranchData: ServicePageData = {
   tagline: "Your Trusted Local Plumbers in the 85747 Zip Code",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Rita Ranch, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingritaranch",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Hard Water Solutions", description: "Rita Ranch experiences hard water levels of 1990-220 ppm. We provide expert water filtration and softening systems to protect your fixtures." },
     { title: "1990s Fixture Upgrades", description: "Many homes in Rita Ranch were built in the 1990s and 2000s. We specialize in upgrading aging builder-grade fixtures to modern, efficient alternatives." },
     { title: "Water Heater Replacement", description: "Hard water takes a toll on water heaters in the 85747 area. We offer fast, reliable water heater replacements and maintenance." },
@@ -34,8 +33,8 @@ export const plumbingritaranchData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingritaranch",
-    serviceName: "Plumbing in Rita Ranch",
+    serviceId: "plumbing-rita-ranch",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why is my water pressure low in my Rita Ranch home?", answer: "Low water pressure in Rita Ranch is often caused by mineral buildup from our hard water (190-220 ppm) clogging 1990s-era fixtures or pipes. We can diagnose the issue and recommend solutions like descaling or fixture replacement." },
       { question: "Do you offer water heater replacement in the 85747 zip code?", answer: "Yes, we provide expert water heater replacement and repair services throughout the 85747 zip code. Hard water can shorten the lifespan of water heaters, so we also offer maintenance to extend their longevity." },

@@ -9,10 +9,9 @@ export const solarinstallationcortaroData: ServicePageData = {
   tagline: "Harnessing the Arizona Sun for Your Cortaro Home",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Cortaro, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationcortaro",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "HOA-Compliant Designs", description: "We specialize in navigating the strict HOA requirements common in Continental Ranch and Continental Reserve. Our team ensures your solar array meets aesthetic guidelines while maximizing energy production." },
     { title: "Optimized for Cortaro Roofs", description: "With 70% of Cortaro homes featuring tile roofs built in the 1990s and 2000s, we use specialized mounting hardware. This protects your roof's integrity while securing your solar investment." },
     { title: "Maximum Sun Exposure", description: "The standard subdivision layouts in the 85652 and 85742 zip codes often provide excellent south-facing orientations. We design systems that take full advantage of this ideal solar potential." },
@@ -34,8 +33,8 @@ export const solarinstallationcortaroData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationcortaro",
-    serviceName: "Solar Installation in Cortaro",
+    serviceId: "solar-installation-cortaro",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Will my HOA in Continental Ranch approve solar panels?", answer: "Yes, Arizona law protects your right to install solar panels. However, HOAs in Continental Ranch and Continental Reserve can enforce reasonable aesthetic guidelines. We have extensive experience designing systems that meet these requirements while maximizing your energy production, and we handle the approval process for you." },
       { question: "Are the roofs in Cortaro suitable for solar installation?", answer: "Most homes in Cortaro, built during the 1990s and 2000s, have standard tile roofs that are excellent for solar. Because these roofs are aging, we conduct a thorough inspection before installation. We use specialized mounting hardware designed specifically for tile roofs to ensure a secure, leak-free fit." },

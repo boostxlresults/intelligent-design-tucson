@@ -17,12 +17,11 @@ export const solarinstallationavravalleyData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Avra Valley, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationavravalley",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Avra Valley
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "Ground\u2011mount expertise for acreage",
     "description": "Many Avra Valley homes sit on 1\u20135 acre lots where ground\u2011mount arrays outperform roof installs. We size arrays to match well pump loads and big ranch home roofs common in 85743 and 85653."
@@ -108,8 +107,8 @@ export const solarinstallationavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    serviceId: "solarinstallationavravalley",
-    serviceName: "Solar Installation in Avra Valley",
+    serviceId: "solar-installation-avra-valley",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Is my Avra Valley tile roof compatible with solar?",

@@ -17,12 +17,11 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   heroImageAlt: "HVAC services in Red Rock & Casa Grande, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacredrockcasagrande",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Red Rock & Casa Grande
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Built for 115\u00b0F Summers",
     "description": "Systems sized and calibrated for Red Rock & Casa Grande\u2019s extreme heat (often 115\u00b0F+). We recommend two-stage and variable-speed equipment to avoid early failure in the hottest zip codes."
@@ -108,8 +107,8 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    serviceId: "hvacredrockcasagrande",
-    serviceName: "HVAC in Red Rock & Casa Grande",
+    serviceId: "hvac-red-rock-casa-grande",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does the extreme heat in Red Rock & Casa Grande affect my A/C lifespan?",

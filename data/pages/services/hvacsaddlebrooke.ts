@@ -12,10 +12,9 @@ export const hvacsaddlebrookeData: ServicePageData = {
   tagline: "High-Performance Cooling and Heating for Life in the Catalina Foothills.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in SaddleBrooke, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacsaddlebrooke",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Catalina Mountain Climate Experts",
     "description": "At 3,400 feet, SaddleBrooke experiences more frost and rainfall than Tucson. We calibrate your HVAC system to handle these unique elevation-specific temperature swings."
@@ -89,8 +88,8 @@ export const hvacsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacsaddlebrooke",
-    serviceName: "HVAC in SaddleBrooke",
+    serviceId: "hvac-saddle-brooke",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does the elevation in SaddleBrooke affect my AC performance?",

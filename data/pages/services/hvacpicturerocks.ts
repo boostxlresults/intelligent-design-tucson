@@ -12,10 +12,9 @@ export const hvacpicturerocksData: ServicePageData = {
   tagline: "Protecting your Picture Rocks home from the desert elements for over 46 years.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Picture Rocks, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvacpicturerocks",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Dust Infiltration Control",
     "description": "Living near the Ironwood Forest means dealing with high wind and dust from unpaved roads. We specialize in high-efficiency filtration and duct sealing to keep your indoor air clean."
@@ -81,8 +80,8 @@ export const hvacpicturerocksData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvacpicturerocks",
-    serviceName: "HVAC in Picture Rocks",
+    serviceId: "hvac-picture-rocks",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why does my Picture Rocks home get so dusty even with the AC running?",

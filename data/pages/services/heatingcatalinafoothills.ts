@@ -9,10 +9,9 @@ export const heatingcatalinafoothillsData: ServicePageData = {
   tagline: "Keeping Your Foothills Estate Comfortable All Winter Long",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Catalina Foothills, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingcatalinafoothills",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Multi-Zone Expertise", description: "We specialize in designing and maintaining complex multi-zone heating systems perfect for the large, multi-level homes common in the Catalina Foothills. Ensure every room in your 3,000+ sq ft estate remains perfectly comfortable." },
     { title: "High-Efficiency Solutions", description: "Our premium heat pumps and furnaces meet the high-efficiency demands of affluent homeowners in zip codes 85718 and 85750. We install top-tier equipment that operates quietly and effectively." },
     { title: "Elevation-Specific Tuning", description: "At elevations of 2,700 to 3,200 feet, the Catalina Foothills experience cooler winter temperatures and occasional frost. We calibrate your heating system to handle these specific microclimate challenges." },
@@ -34,8 +33,8 @@ export const heatingcatalinafoothillsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingcatalinafoothills",
-    serviceName: "Heating in Catalina Foothills",
+    serviceId: "heating-catalina-foothills",
+    serviceName: "Heating",
     faqs: [
       { question: "Why does my Catalina Foothills home need a multi-zone heating system?", answer: "Many homes in the Catalina Foothills are large, multi-level custom builds. A single thermostat cannot effectively manage the temperature variations across different floors and expansive square footage. Multi-zone systems allow for precise temperature control in specific areas, ensuring comfort throughout your entire Foothills estate while optimizing energy usage." },
       { question: "How does the elevation of the Catalina Foothills affect my heating needs?", answer: "At 2,700 to 3,200 feet, the Catalina Foothills experience cooler temperatures and more frequent winter frost than central Tucson. This higher elevation means your heating system will run more frequently and requires proper sizing and calibration to handle the increased demand efficiently, keeping your home warm during cold desert nights." },

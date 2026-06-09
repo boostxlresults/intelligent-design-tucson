@@ -17,12 +17,11 @@ export const plumbingtucsonestatesData: ServicePageData = {
   heroImageAlt: "Plumbing services in Tucson Estates, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingtucsonestates",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Tucson Estates
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Focused on Older Suburban Block Homes",
     "description": "Many Tucson Estates homes were built between the 1960s and 1980s. We specialize in working with single-story block construction and the quirks that come with vintage plumbing."
@@ -108,8 +107,8 @@ export const plumbingtucsonestatesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Tucson Estates)
   faqs: {
-    serviceId: "plumbingtucsonestates",
-    serviceName: "Plumbing in Tucson Estates",
+    serviceId: "plumbing-tucson-estates",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do many Tucson Estates homes need whole-home repipes?",

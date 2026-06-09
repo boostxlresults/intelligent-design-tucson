@@ -17,12 +17,11 @@ export const heatingcasasadobesData: ServicePageData = {
   heroImageAlt: "Heating services in Casas Adobes, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingcasasadobes",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Casas Adobes
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Experience with Mid\u2011Century Ranch Systems",
     "description": "Homes built in the 1970s around Casas Adobes Plaza often keep original duct layouts and undersized furnaces \u2014 we diagnose and modernize these systems while preserving original ceiling lines."
@@ -108,8 +107,8 @@ export const heatingcasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    serviceId: "heatingcasasadobes",
-    serviceName: "Heating in Casas Adobes",
+    serviceId: "heating-casas-adobes",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Do houses in Casas Adobes need different heating equipment because of elevation and tree cover?",

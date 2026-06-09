@@ -17,12 +17,11 @@ export const drainsewerrillitoData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Rillito, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewerrillito",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Rillito
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Septic systems common to Rillito",
     "description": "Many homes north of the Santa Cruz River still rely on septic systems. We provide pumping, leach-field diagnostics, and permitted replacements that respect large lot layouts and agricultural runoff patterns."
@@ -108,8 +107,8 @@ export const drainsewerrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    serviceId: "drainsewerrillito",
-    serviceName: "Drain & Sewer in Rillito",
+    serviceId: "drain-sewer-rillito",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Do Rillito homes need different maintenance because of well water hardness?",

@@ -17,12 +17,11 @@ export const hvacdrexelheightsData: ServicePageData = {
   heroImageAlt: "HVAC services in Drexel Heights, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacdrexelheights",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Drexel Heights
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Work Built for 1970s\u20131990s Homes",
     "description": "Many Drexel Heights homes were built between the 1970s and 1990s using block construction and single-story layouts; our technicians size systems to work with original duct runs and common attic clearances."
@@ -108,8 +107,8 @@ export const hvacdrexelheightsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Drexel Heights)
   faqs: {
-    serviceId: "hvacdrexelheights",
-    serviceName: "HVAC in Drexel Heights",
+    serviceId: "hvac-drexel-heights",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Do Drexel Heights homes need special HVAC sizing because of elevation or shade?",

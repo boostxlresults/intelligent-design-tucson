@@ -12,10 +12,9 @@ export const roofingeasttucsonData: ServicePageData = {
   tagline: "Durable roofs for East Tucson — experienced, local, reliable.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in East Tucson, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingeasttucson",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Experience",
     "description": "Serving East Tucson neighborhoods for decades, Intelligent Design understands how monsoon seasons and desert sun affect tile and shingle roofs."
@@ -89,8 +88,8 @@ export const roofingeasttucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingeasttucson",
-    serviceName: "Roofing in East Tucson",
+    serviceId: "roofing-east-tucson",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How do I know if my East Tucson roof needs repairs?",

@@ -9,10 +9,9 @@ export const electricaldrexelheightsData: ServicePageData = {
   tagline: "Powering Drexel Heights with Trusted Local Electricians",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel in Drexel Heights, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricaldrexelheights",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Panel Upgrades for Older Homes", description: "Many homes in Drexel Heights still rely on outdated 60-100 amp panels. We specialize in upgrading these systems to safely handle modern electrical demands." },
     { title: "Wiring Solutions for Block Construction", description: "Our electricians are experienced in navigating the single-story block construction common in the Valencia corridor and Mission Manor area, ensuring safe and code-compliant wiring." },
     { title: "Knob-and-Tube Replacement", description: "For the oldest homes in the community, we provide complete rewiring services to eliminate hazardous knob-and-tube systems and bring your property up to current safety standards." },
@@ -34,8 +33,8 @@ export const electricaldrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricaldrexelheights",
-    serviceName: "Electrical in Drexel Heights",
+    serviceId: "electrical-drexel-heights",
+    serviceName: "Electrical",
     faqs: [
       { question: "Why does my older home in Drexel Heights need a panel upgrade?", answer: "Many homes in Drexel Heights, especially those built in the 1970s and 1980s, were equipped with 60 to 100-amp electrical panels. Today's modern appliances, HVAC systems, and electronics require significantly more power. Upgrading to a 200-amp panel ensures your home can safely handle these increased electrical loads without tripping breakers or risking a fire." },
       { question: "Are there specific electrical challenges for block homes in the 85746 zip code?", answer: "Yes, the single-story block construction common in the 85746 and 85735 zip codes can make running new wiring more complex than in traditional wood-framed homes. Our electricians have extensive experience navigating these structures, ensuring that any new wiring or outlet installations are performed safely, cleanly, and in full compliance with local building codes." },

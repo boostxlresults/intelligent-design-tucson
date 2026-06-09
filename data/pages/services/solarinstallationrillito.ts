@@ -9,10 +9,9 @@ export const solarinstallationrillitoData: ServicePageData = {
   tagline: "Reliable Solar Solutions for Rillito's Unique Homes and Farms",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Rillito, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationrillito",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Agricultural Solar Solutions", description: "We design large-scale solar arrays perfect for Rillito's agricultural buildings and open farmland. Maximize your property's energy potential." },
     { title: "Manufactured Home Expertise", description: "Our team specializes in solar installations for manufactured homes, which make up 40% of Rillito's housing stock. We ensure safe and efficient mounting." },
     { title: "Dust-Resistant Technology", description: "With open agricultural terrain causing dust, we install easy-to-clean panels and offer maintenance plans to keep your system running efficiently." },
@@ -34,8 +33,8 @@ export const solarinstallationrillitoData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationrillito",
-    serviceName: "Solar in Rillito",
+    serviceId: "solar-installation-rillito",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Can solar panels be installed on manufactured homes in Rillito?", answer: "Yes, we specialize in solar installations for manufactured homes, which are common in Rillito. We carefully assess the structural integrity of your roof and use specialized mounting hardware to ensure a safe, secure, and code-compliant installation that won't compromise your home." },
       { question: "How does the dust from Rillito's agricultural fields affect solar panels?", answer: "Dust from nearby farming operations in Rillito can accumulate on panels and slightly reduce their efficiency. We recommend regular cleaning, especially during dry, windy periods. We can also install systems at optimal angles to encourage natural cleaning during rainstorms and offer professional maintenance services." },

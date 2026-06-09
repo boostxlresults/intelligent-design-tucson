@@ -9,10 +9,9 @@ export const heatingdrexelheightsData: ServicePageData = {
   tagline: "Keeping your family warm through chilly desert nights.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Drexel Heights, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingdrexelheights",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique heating needs of Drexel Heights' established 1970s-1990s homes, from aging systems to evaporative cooler conversions." },
     { title: "Heat Pump Specialists", description: "Our technicians are experts at optimizing heat pumps for the 2,600 ft elevation, ensuring efficient performance during cold winter nights near the Tucson Mountains." },
     { title: "Insulation Solutions", description: "Many older block construction homes in the Valencia corridor lack proper insulation; we provide comprehensive heating solutions that account for these structural challenges." },
@@ -34,8 +33,8 @@ export const heatingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingdrexelheights",
-    serviceName: "Heating in Drexel Heights",
+    serviceId: "heating-drexel-heights",
+    serviceName: "Heating",
     faqs: [
       { question: "Why is my heating system struggling to keep my Drexel Heights home warm?", answer: "Many homes in Drexel Heights were built in the 1970s-1990s with single-story block construction that often lacks proper insulation. Combined with the cooler evening temperatures near the Tucson Mountains, aging furnaces and heat pumps have to work harder. We can evaluate your system and recommend upgrades or insulation improvements to enhance your comfort." },
       { question: "Are heat pumps a good option for homes in the 85746 zip code?", answer: "Yes, heat pumps are an excellent choice for Drexel Heights. Despite the 2,600 ft elevation bringing cooler winter nights, modern high-efficiency heat pumps perform exceptionally well in our climate. They provide both heating and cooling, making them a versatile and energy-efficient upgrade for older homes in the Valencia corridor." },

@@ -17,12 +17,11 @@ export const solarinstallationpicturerocksData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Picture Rocks, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationpicturerocks",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Picture Rocks
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "Ground-mount systems for large rural lots",
     "description": "Many properties in Picture Rocks have acreage and unobstructed southern exposure. We design ground-mount arrays for horse properties and parcels along Sandario Road and Mile Wide Road where roof space is limited."
@@ -108,8 +107,8 @@ export const solarinstallationpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    serviceId: "solarinstallationpicturerocks",
-    serviceName: "Solar Installation in Picture Rocks",
+    serviceId: "solar-installation-picture-rocks",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Can a ground-mount array be installed on a Picture Rocks horse property?",

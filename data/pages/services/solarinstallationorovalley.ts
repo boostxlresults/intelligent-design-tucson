@@ -17,12 +17,11 @@ export const solarinstallationorovalleyData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationorovalley",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "HOA-Friendly Aesthetics",
     "description": "We specialize in all-black low-profile arrays and paperwork strategies for Oro Valley HOAs, common in Rancho Vistoso and La Reserve neighborhoods."
@@ -108,8 +107,8 @@ export const solarinstallationorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "solarinstallationorovalley",
-    serviceName: "Solar Installation in Oro Valley",
+    serviceId: "solar-installation-oro-valley",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Will my HOA in Oro Valley approve an all-black solar array?",

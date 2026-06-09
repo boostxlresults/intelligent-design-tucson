@@ -12,10 +12,9 @@ export const roofingrillitoData: ServicePageData = {
   tagline: "Durable roofs for Rillito homes, farms, and manufactured housing",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Rillito, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingrillito",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Local Experience",
     "description": "We\u2019ve served Rillito and nearby Marana for decades, bringing 46+ years of roofing knowledge to this small agricultural community. Our crews know the area\u2019s heat, dust, and seasonal storm patterns and tailor repairs and replacements accordingly."
@@ -89,8 +88,8 @@ export const roofingrillitoData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingrillito",
-    serviceName: "Roofing in Rillito",
+    serviceId: "roofing-rillito",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "What roofing services does Intelligent Design provide in Rillito?",

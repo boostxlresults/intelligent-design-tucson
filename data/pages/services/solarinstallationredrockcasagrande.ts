@@ -9,10 +9,9 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
   tagline: "Premium Solar Solutions for Extreme Heat Environments",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Red Rock & Casa Grande, Arizona",
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationredrockcasagrande",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Maximum Sun Exposure", description: "Red Rock and Casa Grande offer some of the lowest cloud cover and highest sun hours in the region. We design systems to capture this maximum solar potential." },
     { title: "Extreme Heat Optimization", description: "With summer temperatures regularly exceeding 115°F, standard panels can lose efficiency. We install premium panels specifically engineered to perform in extreme heat." },
     { title: "APS/SRP Grid Integration", description: "Unlike Tucson's TEP grid, we navigate the specific requirements of APS and SRP service areas. We ensure seamless grid-tie connections for your Pinal County home." },
@@ -34,8 +33,8 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationredrockcasagrande",
-    serviceName: "Solar in Red Rock & Casa Grande",
+    serviceId: "solar-installation-red-rock-casa-grande",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Are solar panels effective in the extreme heat of Red Rock and Casa Grande?", answer: "Yes, absolutely. While temperatures over 115°F can slightly reduce the efficiency of standard panels, Red Rock and Casa Grande receive maximum sun hours. We install premium panels designed to withstand extreme thermal cycling and maintain high output even during the hottest Pinal County summers." },
       { question: "Do you install ground-mount solar systems in the Red Rock area?", answer: "Yes, ground-mount systems are very popular in Red Rock, especially on larger lots and transitioning agricultural properties. They offer excellent flexibility for optimal sun exposure and are a great alternative if your roof isn't ideal for a large array." },

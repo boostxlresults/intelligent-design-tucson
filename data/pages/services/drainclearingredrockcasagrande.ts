@@ -17,12 +17,11 @@ export const drainclearingredrockcasagrandeData: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Red Rock & Casa Grande, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingredrockcasagrande",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Hard\u2011water scale expertise",
     "description": "We remove mineral buildup from 300+ ppm water common in Casa Grande homes \u2014 critical for newer PVC and PEX systems stressed by scale."
@@ -108,8 +107,8 @@ export const drainclearingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    serviceId: "drainclearingredrockcasagrande",
-    serviceName: "Drain Clearing in Red Rock & Casa Grande",
+    serviceId: "drain-clearing-red-rock-casa-grande",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "Why do drains clog faster in Red Rock & Casa Grande?",

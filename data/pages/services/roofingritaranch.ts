@@ -17,12 +17,11 @@ export const roofingritaranchData: ServicePageData = {
   heroImageAlt: "Roofing services in Rita Ranch, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofingritaranch",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Rita Ranch
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Tile Roof Specialists for 1990s\u20132000s Homes",
     "description": "Most Rita Ranch homes built in the 1990s\u20132010s have clay or concrete tile; we focus on underlayment, flashings, and broken tile replacement specific to those roof systems."
@@ -108,8 +107,8 @@ export const roofingritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    serviceId: "roofingritaranch",
-    serviceName: "Roofing in Rita Ranch",
+    serviceId: "roofing-rita-ranch",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How do I know if my 1990s tile roof in Rita Ranch (85747) needs a full re-roof or just repairs?",

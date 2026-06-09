@@ -17,12 +17,11 @@ export const hvacgladdenfarmsData: ServicePageData = {
   heroImageAlt: "HVAC services in Gladden Farms, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacgladdenfarms",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Gladden Farms
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Focused on Master-Planned Home Needs",
     "description": "Gladden Farms homes (Phase I & II, The Preserve) were built 2015\u2013present with modern energy codes. We tune and optimize builder-grade systems to perform in hotter, low-elevation conditions."
@@ -108,8 +107,8 @@ export const hvacgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    serviceId: "hvacgladdenfarms",
-    serviceName: "HVAC in Gladden Farms",
+    serviceId: "hvac-gladden-farms",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "Why do Gladden Farms homes (85653) feel hotter upstairs than downstairs?",

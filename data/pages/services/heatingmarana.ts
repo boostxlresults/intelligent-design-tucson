@@ -17,12 +17,11 @@ export const heatingmaranaData: ServicePageData = {
   heroImageAlt: "Heating services in Marana, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingmarana",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Marana
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Builders' HVAC know-how",
     "description": "We specialize in homes built in the 2000s\u20132020s across Marana master-planned communities like Gladden Farms and Saguaro Bloom, addressing common builder-grade system issues with targeted upgrades."
@@ -108,8 +107,8 @@ export const heatingmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    serviceId: "heatingmarana",
-    serviceName: "Heating in Marana",
+    serviceId: "heating-marana",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Do Marana homes need special heating maintenance because of the elevation?",

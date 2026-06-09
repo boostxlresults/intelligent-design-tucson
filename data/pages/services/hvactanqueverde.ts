@@ -12,10 +12,9 @@ export const hvactanqueverdeData: ServicePageData = {
   tagline: "Local HVAC expertise for upscale desert homes",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tanque Verde, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvactanqueverde",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Experienced Local Technicians",
     "description": "Intelligent Design brings 46+ years of HVAC experience to Tanque Verde homeowners. Our technicians understand high-elevation climate and mountain weather patterns affecting system performance."
@@ -89,8 +88,8 @@ export const hvactanqueverdeData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvactanqueverde",
-    serviceName: "HVAC in Tanque Verde",
+    serviceId: "hvac-tanque-verde",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How does elevation and proximity to the Rincon Mountains affect HVAC needs in Tanque Verde?",

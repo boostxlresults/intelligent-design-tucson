@@ -9,10 +9,9 @@ export const solarinstallationeasttucsonData: ServicePageData = {
   tagline: "Your trusted local partner for solar solutions in East Tucson.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in East Tucson, Arizona",
-  serviceName: "Solar",
-  serviceId: "solarinstallationeasttucson",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Optimized for East Tucson Sun", description: "We design solar arrays that take full advantage of East Tucson's excellent solar potential, maximizing energy production for homes near the Rincon Mountains." },
     { title: "HOA & Neighborhood Compliance", description: "Our team is experienced in navigating HOA requirements in planned communities like Civano and the Houghton corridor, ensuring a smooth approval process." },
     { title: "Solutions for Diverse Roof Types", description: "Whether your East Tucson home has a tile, shingle, or flat roof, we provide secure and efficient solar installations tailored to your specific roof structure." },
@@ -34,8 +33,8 @@ export const solarinstallationeasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationeasttucson",
-    serviceName: "Solar in East Tucson",
+    serviceId: "solar-installation-east-tucson",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Is my East Tucson home suitable for solar panels?", answer: "Most homes in East Tucson are excellent candidates for solar. We evaluate your roof's orientation, age, and shading to design an optimal system. With many south-facing homes and excellent solar potential in the area, solar is a smart investment for East Tucson residents." },
       { question: "Do I need HOA approval for solar panels in East Tucson?", answer: "Yes, many planned communities in East Tucson, such as Civano, require HOA approval for solar installations. Our team is experienced in working with local HOAs and will handle the necessary paperwork and design requirements to ensure a smooth approval process." },

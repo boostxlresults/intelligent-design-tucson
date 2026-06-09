@@ -17,12 +17,11 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   heroImageAlt: "Plumbing services in Catalina Foothills, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingcatalinafoothills",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Hillside Access & Drainage",
     "description": "We diagnose drainage issues unique to 2,700\u20133,200 ft elevations and steep lots around Ventana Canyon and Skyline Heights, protecting foundations and downhill neighbors."
@@ -108,8 +107,8 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    serviceId: "plumbingcatalinafoothills",
-    serviceName: "Plumbing in Catalina Foothills",
+    serviceId: "plumbing-catalina-foothills",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "How does Catalina Foothills elevation affect plumbing and pipes?",

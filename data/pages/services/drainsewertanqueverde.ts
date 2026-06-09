@@ -9,10 +9,9 @@ export const drainsewertanqueverdeData: ServicePageData = {
   tagline: "Clearing the way for Tanque Verde homeowners with advanced drain and sewer technology.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Tanque Verde, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewertanqueverde",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Root Intrusion Specialists", description: "Mature mesquite and palo verde trees in Tanque Verde are beautiful but notorious for invading sewer lines. We use advanced camera inspections to locate and clear stubborn root blockages." },
     { title: "Large Lot Sewer Solutions", description: "Many properties in the Tanque Verde Valley sit on 1+ acres, meaning longer sewer runs that require specialized equipment. Our high-capacity hydro jetting handles extended lines with ease." },
     { title: "Trenchless Sewer Repair", description: "Preserve your custom desert landscaping and premium hardscaping. Our trenchless sewer repair technology fixes collapsed or damaged pipes without digging up your beautiful yard." },
@@ -34,8 +33,8 @@ export const drainsewertanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewertanqueverde",
-    serviceName: "Drain & Sewer Services in Tanque Verde",
+    serviceId: "drain-sewer-tanque-verde",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are my drains backing up in my Tanque Verde home?", answer: "In Tanque Verde, the most common cause of drain backups is root intrusion from mature desert trees like mesquite and palo verde. Their roots seek out the moisture in your sewer lines, especially in older homes built in the 1980s and 1990s. We use camera inspections to pinpoint the exact location of the blockage." },
       { question: "Do you offer trenchless sewer repair in Tanque Verde?", answer: "Yes, we specialize in trenchless sewer repair for Tanque Verde homeowners. This method is ideal for preserving the premium desert landscaping and custom hardscaping common in the area, as it allows us to repair or replace damaged sewer lines without digging a large trench across your property." },

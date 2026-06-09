@@ -17,12 +17,11 @@ export const roofingmaranaData: ServicePageData = {
   heroImageAlt: "Roofing services in Marana, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofingmarana",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Marana
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Tile Roof Specialists for Marana",
     "description": "With ~70% of Marana homes built with clay or concrete tile, our crews focus on wind-secure tile re-bedding, clip replacement, and matching tile color/weathering for neighborhoods like Dove Mountain and Gladden Farms."
@@ -108,8 +107,8 @@ export const roofingmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    serviceId: "roofingmarana",
-    serviceName: "Roofing in Marana",
+    serviceId: "roofing-marana",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How do Marana monsoon winds affect tile roofs?",

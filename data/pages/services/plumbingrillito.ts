@@ -17,12 +17,11 @@ export const plumbingrillitoData: ServicePageData = {
   heroImageAlt: "Plumbing services in Rillito, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingrillito",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Rillito
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Well Water Hardness Expertise",
     "description": "Rillito well water averages 240+ ppm hardness\u2014our technicians size softeners and filtration systems specifically for agricultural draws and deep wells near the Santa Cruz River. We tailor equipment for dusty, high-mineral water that clogs fixtures and shortens appliance life."
@@ -108,8 +107,8 @@ export const plumbingrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    serviceId: "plumbingrillito",
-    serviceName: "Plumbing in Rillito",
+    serviceId: "plumbing-rillito",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "How bad is Rillito well water and do I need a softener?",

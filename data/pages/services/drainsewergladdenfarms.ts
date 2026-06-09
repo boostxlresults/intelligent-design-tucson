@@ -9,10 +9,9 @@ export const drainsewergladdenfarmsData: ServicePageData = {
   tagline: "Reliable Sewer Line Repair and Drain Clearing for Your Gladden Farms Home",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Gladden Farms, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewergladdenfarms",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Construction Debris Removal", description: "In newer communities like Gladden Farms, construction debris left in lines is a common cause of blockages. We use advanced camera inspections to locate and clear these hidden issues." },
     { title: "Slow Drainage Solutions", description: "The flat terrain at 2,100 ft elevation can sometimes lead to slow drainage in modern homes. Our hydro jetting services ensure your pipes flow freely." },
     { title: "Trenchless Sewer Repair", description: "Protect your young landscaping and modern driveways with our trenchless sewer repair options. We fix underground pipes without tearing up your property." },
@@ -34,8 +33,8 @@ export const drainsewergladdenfarmsData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewergladdenfarms",
-    serviceName: "Drain & Sewer in Gladden Farms",
+    serviceId: "drain-sewer-gladden-farms",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are my drains slow in my new Gladden Farms home?", answer: "Slow drains in newer Gladden Farms homes can often be attributed to the flat terrain or construction debris left in the lines during the building process. Our camera inspections can quickly identify the exact cause." },
       { question: "Do you offer trenchless sewer repair in Gladden Farms?", answer: "Yes, we provide trenchless sewer repair services throughout Gladden Farms. This method is perfect for preserving your modern landscaping and driveways while effectively fixing underground pipe issues." },

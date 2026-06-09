@@ -17,12 +17,11 @@ export const drainsewermaranaData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Marana, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewermarana",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Marana
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Monsoon runoff management",
     "description": "Focused solutions for flash-flood risk near washes and open terrain around Dove Mountain and Tortolita foothills to keep sewers flowing after heavy storms."
@@ -108,8 +107,8 @@ export const drainsewermaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    serviceId: "drainsewermarana",
-    serviceName: "Drain & Sewer in Marana",
+    serviceId: "drain-sewer-marana",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Why do drains clog so quickly in Marana homes?",

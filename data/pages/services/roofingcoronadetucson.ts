@@ -17,12 +17,11 @@ export const roofingcoronadetucsonData: ServicePageData = {
   heroImageAlt: "Roofing services in Corona de Tucson, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofingcoronadetucson",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Corona de Tucson
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Elevation-Hardened Roofing",
     "description": "At roughly 3,800 ft elevation Corona de Tucson homes face cooler temps, more frost days and unique wind patterns \u2014 we tailor materials and flashings for these conditions."
@@ -108,8 +107,8 @@ export const roofingcoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    serviceId: "roofingcoronadetucson",
-    serviceName: "Roofing in Corona de Tucson",
+    serviceId: "roofing-corona-de-tucson",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "How does Corona de Tucson\u2019s elevation affect roof longevity?",

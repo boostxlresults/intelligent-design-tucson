@@ -9,10 +9,9 @@ export const solarinstallationritaranchData: ServicePageData = {
   tagline: "Your trusted local experts for solar energy in the 85747 zip code.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Rita Ranch, Arizona",
-  serviceName: "Solar",
-  serviceId: "solarinstallationritaranch",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "HOA-Friendly Solar Designs", description: "We specialize in solar installations that meet the strict aesthetic guidelines of Rita Ranch HOAs. Our low-profile panels ensure your home looks great while saving energy." },
     { title: "Optimized for Two-Story Homes", description: "With many two-story homes in Rita Ranch, we design systems that maximize the abundant south-facing roof space. This ensures peak energy production throughout the year." },
     { title: "Elevation Advantage", description: "At 3,000 feet elevation, Rita Ranch enjoys slightly cooler temperatures than central Tucson. This natural cooling effect helps solar panels operate more efficiently." },
@@ -34,8 +33,8 @@ export const solarinstallationritaranchData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationritaranch",
-    serviceName: "Solar in Rita Ranch",
+    serviceId: "solar-installation-rita-ranch",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Do I need HOA approval to install solar panels in Rita Ranch?", answer: "Yes, most neighborhoods in Rita Ranch require HOA approval for solar installations. However, Arizona law protects your right to go solar. Our team at Intelligent Design handles the entire HOA submission and approval process, ensuring your system meets all local aesthetic guidelines while maximizing energy production." },
       { question: "Are the tile roofs common in Rita Ranch suitable for solar panels?", answer: "Absolutely. About 70% of homes in Rita Ranch have tile roofs. Our experienced installers use specialized mounting brackets and flashing techniques designed specifically for tile roofs to ensure a secure, leak-free installation that protects the integrity of your 1990s or 2000s era roof." },

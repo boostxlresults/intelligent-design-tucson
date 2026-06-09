@@ -17,12 +17,11 @@ export const drainclearingpicturerocksData: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Picture Rocks, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingpicturerocks",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Picture Rocks
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Septic System Expertise",
     "description": "Most Picture Rocks properties use septic and well systems. We diagnose lateral lines, baffles, and leach fields common on 1980s\u20132000s homes in 85743."
@@ -108,8 +107,8 @@ export const drainclearingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    serviceId: "drainclearingpicturerocks",
-    serviceName: "Drain Clearing in Picture Rocks",
+    serviceId: "drain-clearing-picture-rocks",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "Do Picture Rocks homes need different drain maintenance because of caliche and hard well water?",

@@ -9,10 +9,9 @@ export const electricalsaddlebrookeData: ServicePageData = {
   tagline: "SaddleBrooke's Trusted Electricians for Over 46 Years",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in SaddleBrooke, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalsaddlebrooke",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Medical Equipment Power", description: "We ensure reliable power for essential medical devices in SaddleBrooke homes. Our dedicated circuits and backup solutions provide peace of mind for 55+ residents." },
     { title: "Whole-Home Generators", description: "Protect your SaddleBrooke property from TEP outages with a standby generator. Essential for maintaining comfort during Catalina Mountain storms and occasional winter frost." },
     { title: "Golf Cart Charging Stations", description: "Expert installation of dedicated circuits for golf cart chargers. Perfect for navigating the two championship golf courses and resort-style amenities." },
@@ -34,8 +33,8 @@ export const electricalsaddlebrookeData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalsaddlebrooke",
-    serviceName: "Electrical in SaddleBrooke",
+    serviceId: "electrical-saddle-brooke",
+    serviceName: "Electrical",
     faqs: [
       { question: "Do you install whole-home generators in SaddleBrooke?", answer: "Yes, we specialize in installing whole-home generators for SaddleBrooke residents. Given the occasional storms near the Catalina Mountains, a standby generator ensures your medical equipment and essential appliances stay powered during TEP outages." },
       { question: "Can you add a dedicated circuit for my golf cart charger in SaddleBrooke Ranch?", answer: "Absolutely. We frequently install dedicated circuits for golf cart chargers in SaddleBrooke Ranch and the main community, ensuring you have reliable power to get to the championship golf courses and resort amenities." },

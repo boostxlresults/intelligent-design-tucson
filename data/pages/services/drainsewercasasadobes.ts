@@ -17,12 +17,11 @@ export const drainsewercasasadobesData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Casas Adobes, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewercasasadobes",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Casas Adobes
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Tree root removal tuned for Casas Adobes",
     "description": "Ficus and eucalyptus roots are the top offender in Casas Adobes neighborhoods like Casas Adobes Estates and Shannon Heights. We use targeted hydro-jetting and root-specific camera inspections to limit landscaping disruption."
@@ -108,8 +107,8 @@ export const drainsewercasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    serviceId: "drainsewercasasadobes",
-    serviceName: "Drain & Sewer in Casas Adobes",
+    serviceId: "drain-sewer-casas-adobes",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "Why do so many Casas Adobes homes have sewer root problems?",

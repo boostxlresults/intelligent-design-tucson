@@ -17,12 +17,11 @@ export const electricaleasttucsonData: ServicePageData = {
   heroImageAlt: "Electrical services in East Tucson, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricaleasttucson",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for East Tucson
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Panel upgrades for older East Tucson neighborhoods",
     "description": "Many homes built in the 1970s\u20131980s around the Pantano and Tanque Verde wash areas still run on undersized panels. We replace knotted wiring and obsolete breakers to meet modern loads and TEP requirements."
@@ -108,8 +107,8 @@ export const electricaleasttucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to East Tucson)
   faqs: {
-    serviceId: "electricaleasttucson",
-    serviceName: "Electrical in East Tucson",
+    serviceId: "electrical-east-tucson",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do East Tucson homes need panel upgrades because of monsoon season?",

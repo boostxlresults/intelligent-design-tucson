@@ -9,10 +9,9 @@ export const heatingtortolitaData: ServicePageData = {
   tagline: "Quiet, efficient, and reliable heating for your desert sanctuary.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Tortolita, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingtortolita",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Multi-Zone Expertise", description: "We specialize in designing and maintaining multi-zone heating systems perfect for the large custom homes in Stone Canyon and Dove Mountain estates. Ensure consistent comfort across every square foot of your property." },
     { title: "Smart Home Integration", description: "Upgrade your Tortolita home with advanced smart thermostats that seamlessly integrate with your existing luxury amenities. Control your climate remotely while enjoying the peaceful desert setting." },
     { title: "Quiet Operation Solutions", description: "We understand that the tranquility of the Tortolita Mountain foothills is paramount. Our premium heating installations focus on ultra-quiet operation to preserve your peaceful environment." },
@@ -34,8 +33,8 @@ export const heatingtortolitaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingtortolita",
-    serviceName: "Heating in Tortolita",
+    serviceId: "heating-tortolita",
+    serviceName: "Heating",
     faqs: [
       { question: "Why does my Tortolita home need a multi-zone heating system?", answer: "Many homes in Tortolita, especially in communities like Dove Mountain, feature large floor plans and high ceilings. A multi-zone system allows you to control temperatures independently in different areas, ensuring consistent comfort and better energy efficiency across your expansive property." },
       { question: "Are heat pumps effective at Tortolita's elevation?", answer: "Yes, modern high-efficiency heat pumps are excellent for Tortolita's 2,400-2,800 ft elevation. They provide reliable heating during our cooler winter nights while offering energy-efficient cooling in the summer, making them ideal for custom desert homes in the 85755 and 85742 zip codes." },

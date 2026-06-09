@@ -17,12 +17,11 @@ export const drainseweravravalleyData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Avra Valley, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainseweravravalley",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Avra Valley
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Septic System Expertise",
     "description": "Many Avra Valley properties still rely on septic tanks. We service systems on large ranch lots and manufactured-home parcels common east and west of Picture Rocks."
@@ -108,8 +107,8 @@ export const drainseweravravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    serviceId: "drainseweravravalley",
-    serviceName: "Drain & Sewer in Avra Valley",
+    serviceId: "drain-sewer-avra-valley",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "How often should Avra Valley septic systems be pumped?",

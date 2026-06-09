@@ -17,12 +17,11 @@ export const heatingrillitoData: ServicePageData = {
   heroImageAlt: "Heating services in Rillito, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingrillito",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Rillito
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Built for older Rillito homes",
     "description": "Many homes in Rillito were built between the 1970s and 1990s. We optimize systems to work with original duct runs, manufactured-home envelopes, and flat-roof attics common in this community."
@@ -108,8 +107,8 @@ export const heatingrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    serviceId: "heatingrillito",
-    serviceName: "Heating in Rillito",
+    serviceId: "heating-rillito",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Why does my Rillito home in 85654 lose heat quickly at night?",

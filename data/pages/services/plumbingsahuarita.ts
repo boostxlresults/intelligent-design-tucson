@@ -9,10 +9,9 @@ export const plumbingsahuaritaData: ServicePageData = {
   tagline: "Your Trusted Local Plumbers in the 85629 Area",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Sahuarita, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingsahuarita",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Hard Water Solutions", description: "Sahuarita's water hardness levels (200-230 ppm) can quickly degrade builder-grade fixtures in newer homes. We specialize in water softener installations to protect your plumbing." },
     { title: "Water Heater Replacement", description: "Many homes in Rancho Sahuarita and Madera Highlands are experiencing early failures of builder-grade water heaters. We provide high-efficiency upgrades tailored to your family's needs." },
     { title: "PEX Plumbing Expertise", description: "With most Sahuarita homes built in the 2000s-2020s, PEX piping is common. Our technicians are experts in servicing and repairing modern plumbing systems." },
@@ -34,8 +33,8 @@ export const plumbingsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingsahuarita",
-    serviceName: "Plumbing in Sahuarita",
+    serviceId: "plumbing-sahuarita",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why do water heaters fail so quickly in Sahuarita?", answer: "The hard water in Sahuarita (200-230 ppm) causes rapid mineral buildup inside water heaters, especially the builder-grade models common in newer developments like Rancho Sahuarita. This buildup reduces efficiency and shortens the lifespan of the unit. We recommend regular flushing and installing a water softener to protect your water heater." },
       { question: "Do I need a water softener in my Sahuarita home?", answer: "Yes, highly recommended. Sahuarita's water supply is notably hard. A water softener will protect your plumbing fixtures, appliances, and pipes from scale buildup, extending their lifespan and improving your water quality. It's one of the most common upgrades we perform in the 85629 zip code." },

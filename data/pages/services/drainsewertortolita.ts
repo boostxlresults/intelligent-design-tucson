@@ -9,10 +9,9 @@ const data: ServicePageData = {
   tagline: "Expert drain clearing and sewer line repair for custom desert homes.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Tortolita, Arizona",
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewertortolita",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain & Sewer",
+  category: "Plumbing",
+highlights: [
     { title: "Rocky Soil Expertise", description: "The rocky mountain soil in Tortolita makes exterior plumbing repairs difficult. We utilize advanced trenchless technology to fix sewer lines without destroying your premium landscaping." },
     { title: "Root Intrusion Solutions", description: "Native desert trees in communities like Stone Canyon often seek out moisture in sewer lines. Our camera inspections quickly identify and resolve root blockages." },
     { title: "Long Property Runs", description: "Large lots in Dove Mountain estates mean longer sewer lines that are prone to settling. We specialize in diagnosing and repairing issues on expansive properties." },
@@ -34,8 +33,8 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainsewertortolita",
-    serviceName: "Drain & Sewer in Tortolita",
+    serviceId: "drain-sewer-tortolita",
+    serviceName: "Drain & Sewer",
     faqs: [
       { question: "Why are sewer line repairs more difficult in Tortolita?", answer: "The rocky mountain soil in the Tortolita foothills makes traditional excavation challenging. We often recommend trenchless sewer repair to avoid destroying landscaping and to navigate the difficult terrain efficiently." },
       { question: "How do native trees affect my sewer lines in Dove Mountain?", answer: "Native desert trees in Dove Mountain have aggressive root systems that seek out moisture. These roots can infiltrate tiny cracks in your sewer lines, causing severe blockages that require professional clearing and repair." },

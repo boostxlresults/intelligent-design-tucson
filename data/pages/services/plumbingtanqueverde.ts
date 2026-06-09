@@ -9,10 +9,9 @@ export const plumbingtanqueverdeData: ServicePageData = {
   tagline: "Reliable plumbing expertise for your upscale Tanque Verde property.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Tanque Verde, Arizona",
-  serviceName: "Plumbing",
-  serviceId: "plumbingtanqueverde",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Plumbing",
+  category: "Plumbing",
+highlights: [
     { title: "Luxury Fixture Expertise", description: "We specialize in installing and maintaining high-end plumbing fixtures common in Tanque Verde's upscale homes. Our technicians ensure your premium investments are handled with care." },
     { title: "Whole-Home Water Treatment", description: "With moderate-hard water (170-200 ppm) in the 85749 and 85750 zip codes, we provide advanced filtration and softening systems. Protect your luxury fixtures and appliances from scale buildup." },
     { title: "Outdoor & Pool Plumbing", description: "Tanque Verde's large lots and custom builds often feature extensive outdoor living spaces. We expertly service pool plumbing, outdoor kitchens, and complex irrigation systems." },
@@ -34,8 +33,8 @@ export const plumbingtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "plumbingtanqueverde",
-    serviceName: "Plumbing in Tanque Verde",
+    serviceId: "plumbing-tanque-verde",
+    serviceName: "Plumbing",
     faqs: [
       { question: "Why is whole-home water treatment important for my Tanque Verde home?", answer: "Tanque Verde experiences moderate-hard water (170-200 ppm). A whole-home water treatment system protects your luxury fixtures, extends the life of your appliances, and prevents scale buildup in your pipes, which is especially crucial for the custom homes in our area." },
       { question: "Do you service outdoor kitchens and pool plumbing in Tanque Verde?", answer: "Yes, we specialize in the complex plumbing systems often found in Tanque Verde's large estates. Our technicians are experienced in repairing and maintaining outdoor kitchens, pool plumbing, and extensive irrigation systems common in the 85749 and 85750 zip codes." },

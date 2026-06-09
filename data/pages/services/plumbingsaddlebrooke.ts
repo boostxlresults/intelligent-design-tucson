@@ -17,12 +17,11 @@ export const plumbingsaddlebrookeData: ServicePageData = {
   heroImageAlt: "Plumbing services in SaddleBrooke, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingsaddlebrooke",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for SaddleBrooke
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "HOA-friendly service plans",
     "description": "We coordinate with Robson-managed HOAs in SaddleBrooke and SaddleBrooke Ranch for exterior access and roof protections when working on piping that borders HOA-maintained areas."
@@ -108,8 +107,8 @@ export const plumbingsaddlebrookeData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke)
   faqs: {
-    serviceId: "plumbingsaddlebrooke",
-    serviceName: "Plumbing in SaddleBrooke",
+    serviceId: "plumbing-saddle-brooke",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do SaddleBrooke homes in 85739 need special winter plumbing prep?",

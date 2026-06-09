@@ -17,12 +17,11 @@ export const heatinggladdenfarmsData: ServicePageData = {
   heroImageAlt: "Heating services in Gladden Farms, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatinggladdenfarms",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Gladden Farms
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Built-for-Gladden Farms Systems",
     "description": "We specify equipment sized for 2015\u20132024 builds in Gladden Farms, accounting for modest attic space, tile roofs, and two-story heat stacking common in Phase I and Phase II homes."
@@ -108,8 +107,8 @@ export const heatinggladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    serviceId: "heatinggladdenfarms",
-    serviceName: "Heating in Gladden Farms",
+    serviceId: "heating-gladden-farms",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Are builder-installed heating systems in Gladden Farms adequate for two-story homes?",

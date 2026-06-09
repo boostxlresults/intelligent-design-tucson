@@ -9,10 +9,9 @@ export const heatingeasttucsonData: ServicePageData = {
   tagline: "Keeping East Tucson homes warm and comfortable all winter long.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in East Tucson, Arizona",
-  serviceName: "Heating",
-  serviceId: "heatingeasttucson",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "Heating",
+  category: "HVAC",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique heating needs of East Tucson homes, from aging 1980s systems in Pantano to newer builds along the Houghton corridor." },
     { title: "Two-Story Solutions", description: "Many homes in East Tucson are two-story, which can lead to heat stratification. We design systems that ensure even heating across all levels." },
     { title: "Energy Efficiency", description: "With the cooler temperatures near the Rincon Mountains, an efficient heating system is crucial. We offer high-efficiency heat pumps and furnaces." },
@@ -34,8 +33,8 @@ export const heatingeasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "heatingeasttucson",
-    serviceName: "Heating in East Tucson",
+    serviceId: "heating-east-tucson",
+    serviceName: "Heating",
     faqs: [
       { question: "How often should I have my heating system serviced in East Tucson?", answer: "We recommend scheduling heating maintenance at least once a year, ideally in the fall before the colder weather arrives. Regular maintenance is especially important in East Tucson due to the mix of aging systems and the slightly cooler temperatures near the Rincon Mountains, ensuring your system runs efficiently and reliably all winter." },
       { question: "What is the best type of heating system for a two-story home in East Tucson?", answer: "For two-story homes, which are common in East Tucson neighborhoods like Civano and Rita Ranch, a zoned heating system or a properly sized heat pump is often the best choice. These systems help address heat stratification, ensuring even temperatures across both levels of your home." },

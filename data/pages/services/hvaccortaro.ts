@@ -12,10 +12,9 @@ export const hvaccortaroData: ServicePageData = {
   tagline: "Serving Cortaro (pop. ~20,000, elev. 2,200 ft) — 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Cortaro, Arizona",
-  serviceName: "HVAC",
-  serviceId: "hvaccortaro",
-  serviceName: "HVAC",
-  highlights: [
+    serviceName: "HVAC",
+  category: "HVAC",
+highlights: [
   {
     "title": "Built for Cortaro Heat",
     "description": "We size and tune systems for lower-elevation summers and monsoon humidity near the Santa Cruz River floodplain. Our focus reduces upstairs heat in two-story tract homes and extends the life of older builder-grade systems."
@@ -99,8 +98,8 @@ export const hvaccortaroData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "hvaccortaro",
-    serviceName: "HVAC in Cortaro",
+    serviceId: "hvac-cortaro",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "How long do AC systems last in Cortaro's hotter, lower-elevation climate?",

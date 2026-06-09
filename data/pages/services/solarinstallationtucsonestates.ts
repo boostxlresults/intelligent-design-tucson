@@ -9,10 +9,9 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
   tagline: "Harness the power of the sun with Intelligent Design's expert solar services.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Tucson Estates, Arizona",
-  serviceName: "Solar",
-  serviceId: "solarinstallationtucsonestates",
-  serviceName: "Solar",
-  highlights: [
+    serviceName: "Solar Installation",
+  category: "Solar",
+highlights: [
     { title: "Affordable Solar Programs", description: "We understand that budget is a priority for many in Tucson Estates. We offer accessible financing options to make solar energy a reality for your home." },
     { title: "Optimized for Single-Story Homes", description: "The single-story block homes common in Tucson Estates provide excellent exposure for solar panels. We design systems that maximize energy production based on your roof's layout." },
     { title: "Roof Readiness Assessments", description: "Since many homes in the area date back to the 1960s-1980s, we evaluate your roof's condition first. If your flat or shingle roof needs work before installation, we can coordinate the necessary upgrades." },
@@ -34,8 +33,8 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "solarinstallationtucsonestates",
-    serviceName: "Solar in Tucson Estates",
+    serviceId: "solar-installation-tucson-estates",
+    serviceName: "Solar Installation",
     faqs: [
       { question: "Is my older Tucson Estates home suitable for solar panels?", answer: "Yes, many older homes in Tucson Estates are excellent candidates for solar. However, homes built in the 1960s-1980s often require an electrical panel upgrade from the standard 60-amp service to handle the new system safely. We assess your electrical infrastructure during our initial consultation." },
       { question: "Do I need a new roof before installing solar in Tucson Estates?", answer: "It depends on the current condition of your roof. Since many homes in Tucson Estates have older flat or shingle roofs, we conduct a thorough inspection. If your roof is nearing the end of its lifespan, we recommend replacing it prior to solar installation to avoid future complications." },

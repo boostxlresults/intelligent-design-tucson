@@ -17,12 +17,11 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   heroImageAlt: "Heating services in SaddleBrooke & Catalina, Arizona",
   
   // Service Info
-  serviceName: "Heating",
-  serviceId: "heatingsaddlebrookecatalina",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for SaddleBrooke & Catalina
-  highlights: [
+    serviceName: "Heating",
+highlights: [
   {
     "title": "Heat Pumps Tuned for Elevation",
     "description": "We size and tune heat pumps specifically for 3,200\u20133,600 ft elevations in SaddleBrooke & Catalina so systems run efficiently during common frosts and cool winter nights."
@@ -108,8 +107,8 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke & Catalina)
   faqs: {
-    serviceId: "heatingsaddlebrookecatalina",
-    serviceName: "Heating in SaddleBrooke & Catalina",
+    serviceId: "heating-saddle-brooke-catalina",
+    serviceName: "Heating",
     faqs: [
     {
         "question": "Do heat pumps work well at the elevations in SaddleBrooke & Catalina?",

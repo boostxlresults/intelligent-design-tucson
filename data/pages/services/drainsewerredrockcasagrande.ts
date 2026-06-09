@@ -17,12 +17,11 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
   heroImageAlt: "Drain & Sewer services in Red Rock & Casa Grande, Arizona",
   
   // Service Info
-  serviceName: "Drain & Sewer",
-  serviceId: "drainsewerredrockcasagrande",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
-  highlights: [
+    serviceName: "Drain & Sewer",
+highlights: [
   {
     "title": "Hard Water Mineral Remediation",
     "description": "We treat extreme water hardness (300+ ppm) that calcifies copper and PVC lines across Red Rock & Casa Grande neighborhoods like Coyote Ranch and Mission Royale."
@@ -108,8 +107,8 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    serviceId: "drainsewerredrockcasagrande",
-    serviceName: "Drain & Sewer in Red Rock & Casa Grande",
+    serviceId: "drain-sewer-red-rock-casa-grande",
+    serviceName: "Drain & Sewer",
     faqs: [
     {
         "question": "How does the extreme heat in Red Rock & Casa Grande affect my sewer lines?",

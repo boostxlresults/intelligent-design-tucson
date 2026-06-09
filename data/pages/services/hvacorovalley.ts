@@ -17,12 +17,11 @@ export const hvacorovalleyData: ServicePageData = {
   heroImageAlt: "HVAC services in Oro Valley, Arizona",
   
   // Service Info
-  serviceName: "HVAC",
-  serviceId: "hvacorovalley",
-  serviceName: "HVAC",
+  category: "HVAC",
   
   // Content - Unique highlights for Oro Valley
-  highlights: [
+    serviceName: "HVAC",
+highlights: [
   {
     "title": "Elevation\u2011Tuned System Sizing",
     "description": "Homes in Oro Valley sit between 2,600\u20133,200 ft. We size and tune equipment for thinner air and cooler nighttime temps, not baseline Tucson numbers."
@@ -108,8 +107,8 @@ export const hvacorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    serviceId: "hvacorovalley",
-    serviceName: "HVAC in Oro Valley",
+    serviceId: "hvac-oro-valley",
+    serviceName: "HVAC",
     faqs: [
     {
         "question": "What HVAC size is right for an Oro Valley home near Pusch Ridge?",

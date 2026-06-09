@@ -1,8 +1,8 @@
 
 import type { ServicePageData } from '@/types/services';
 
-export const smartacFAQs = {
-  serviceId: 'smartac',
+export const smartacFAQs: import("@/data/faqs/types").ServiceFAQs = {
+  serviceId: "smart-ac",
   serviceName: 'SmartAC Monitoring',
   faqs: [
     {
@@ -63,7 +63,7 @@ export const smartacData: ServicePageData = {
   heroImage: '/generated_images/AC_system_monitoring_technician_ab77e9ea.webp',
   heroImageAlt: 'SmartAC monitoring system on AC unit in Tucson',
   
-  serviceName: 'SmartAC Monitoring',
+  serviceName: "SmartAC Monitoring",
   category: 'HVAC',
   
   highlights: [

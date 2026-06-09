@@ -17,12 +17,11 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
   heroImageAlt: "Solar Installation services in Green Valley, Arizona",
   
   // Service Info
-  serviceName: "Solar Installation",
-  serviceId: "solarinstallationgreenvalley",
-  serviceName: "Solar",
+  category: "Solar",
   
   // Content - Unique highlights for Green Valley
-  highlights: [
+    serviceName: "Solar Installation",
+highlights: [
   {
     "title": "Systems sized for retirement budgets",
     "description": "We design smaller, high-efficiency arrays that match the fixed-income priorities of Green Valley residents. Typical 3\u20136 kW systems balance savings and upfront cost for single-story homes in 85614 and 85622."
@@ -108,8 +107,8 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    serviceId: "solarinstallationgreenvalley",
-    serviceName: "Solar Installation in Green Valley",
+    serviceId: "solar-installation-green-valley",
+    serviceName: "Solar Installation",
     faqs: [
     {
         "question": "Will solar withstand occasional frost and colder mornings in Green Valley?",

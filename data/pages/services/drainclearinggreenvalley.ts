@@ -9,10 +9,9 @@ export const drainclearinggreenvalleyData: ServicePageData = {
   tagline: "Fast, effective drain clearing for your Green Valley home.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Green Valley, Arizona",
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearinggreenvalley",
-  serviceName: "Plumbing",
-  highlights: [
+    serviceName: "Drain Clearing",
+  category: "Plumbing",
+highlights: [
     { title: "Local Expertise", description: "We understand the unique plumbing challenges in Green Valley's 1980s-2000s homes. From Desert Hills to Canoa Ranch, we provide tailored drain solutions." },
     { title: "Root Intrusion Specialists", description: "Mature landscaping in Green Valley often leads to root intrusion in aging clay pipes. Our advanced camera inspections pinpoint the exact location of the blockage." },
     { title: "Mineral Buildup Removal", description: "Green Valley's moderate water hardness (150-180 ppm) can cause slow drains over time. Our hydro jetting service effectively clears mineral deposits." },
@@ -34,8 +33,8 @@ export const drainclearinggreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "drainclearinggreenvalley",
-    serviceName: "Drain Clearing in Green Valley",
+    serviceId: "drain-clearing-green-valley",
+    serviceName: "Drain Clearing",
     faqs: [
       { question: "Why are my drains so slow in my Green Valley home?", answer: "Slow drains in Green Valley are often caused by a combination of aging pipes (common in homes built in the 80s and 90s) and mineral buildup from the local water supply (150-180 ppm hardness). We use hydro jetting to effectively clear these deposits." },
       { question: "Can tree roots damage my sewer line in Green Valley?", answer: "Yes, root intrusion is a common issue in Green Valley due to the mature landscaping in established neighborhoods like Desert Hills. Roots seek out the moisture in aging clay pipes, causing blockages and potential damage. We offer camera inspections to identify and resolve root issues." },

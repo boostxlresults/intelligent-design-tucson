@@ -17,12 +17,11 @@ export const electricalcatalinafoothillsData: ServicePageData = {
   heroImageAlt: "Electrical services in Catalina Foothills, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalcatalinafoothills",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Catalina Foothills
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Hillside Home Electrical Experience",
     "description": "We know Catalina Foothills houses on steep lots\u2014Ventana Canyon and Pima Canyon builds often need custom conduit runs and thoughtful access for panel upgrades without disturbing hillside landscaping."
@@ -108,8 +107,8 @@ export const electricalcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    serviceId: "electricalcatalinafoothills",
-    serviceName: "Electrical in Catalina Foothills",
+    serviceId: "electrical-catalina-foothills",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do homes in Catalina Foothills need a different approach for EV charger installs?",

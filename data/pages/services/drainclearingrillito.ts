@@ -17,12 +17,11 @@ const data: ServicePageData = {
   heroImageAlt: "Drain Clearing services in Rillito, Arizona",
   
   // Service Info
-  serviceName: "Drain Clearing",
-  serviceId: "drainclearingrillito",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Rillito
-  highlights: [
+    serviceName: "Drain Clearing",
+highlights: [
   {
     "title": "Septic experience for rural lots",
     "description": "Many Rillito properties rely on septic systems. We diagnose leach fields, pump tanks, and clear lines with respect for large lot layouts and agricultural runoff paths."
@@ -108,8 +107,8 @@ const data: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    serviceId: "drainclearingrillito",
-    serviceName: "Drain Clearing in Rillito",
+    serviceId: "drain-clearing-rillito",
+    serviceName: "Drain Clearing",
     faqs: [
     {
         "question": "Do Rillito septic systems need different maintenance than city sewers?",

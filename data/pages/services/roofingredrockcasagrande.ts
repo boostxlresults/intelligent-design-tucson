@@ -12,10 +12,9 @@ export const roofingredrockcasagrandeData: ServicePageData = {
   tagline: "Local roofing expertise tuned to Red Rock & Casa Grande heat and style",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Red Rock & Casa Grande, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingredrockcasagrande",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "46+ Years Local Experience",
     "description": "Intelligent Design has served Pinal County for decades, bringing deep knowledge of desert roofing performance and neighborhood aesthetics in Red Rock and Casa Grande."
@@ -89,8 +88,8 @@ export const roofingredrockcasagrandeData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingredrockcasagrande",
-    serviceName: "Roofing in Red Rock & Casa Grande",
+    serviceId: "roofing-red-rock-casa-grande",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "What common roof problems do homeowners in Red Rock & Casa Grande face?",

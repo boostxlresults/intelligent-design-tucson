@@ -17,12 +17,11 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   heroImageAlt: "Roofing services in Catalina Foothills, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofingcatalinafoothills",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Catalina Foothills
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Tile Roof Specialists for Hillside Estates",
     "description": "Many homes in Skyline Heights and Ventana Canyon use clay or concrete tile on steep slopes; our crews are trained for valley-specific access and safety on these pitches."
@@ -108,8 +107,8 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    serviceId: "roofingcatalinafoothills",
-    serviceName: "Roofing in Catalina Foothills",
+    serviceId: "roofing-catalina-foothills",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "Do Catalina Foothills roofs need different inspections because of elevation and terrain?",

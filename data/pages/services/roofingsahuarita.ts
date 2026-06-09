@@ -12,10 +12,9 @@ export const roofingsahuaritaData: ServicePageData = {
   tagline: "Reliable roofs for Sahuarita families — experienced, local, proven.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Sahuarita, Arizona",
-  serviceName: "Roofing",
-  serviceId: "roofingsahuarita",
-  serviceName: "Roofing",
-  highlights: [
+    serviceName: "Roofing",
+  category: "Roofing",
+highlights: [
   {
     "title": "Decades of Local Experience",
     "description": "With 46+ years serving southern Arizona, Intelligent Design knows Sahuarita\u2019s elevation, monsoon patterns and builder trends. We bring proven techniques to protect modern, two-story neighborhoods."
@@ -89,8 +88,8 @@ export const roofingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: {
-    serviceId: "roofingsahuarita",
-    serviceName: "Roofing in Sahuarita",
+    serviceId: "roofing-sahuarita",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "What roofing problems are common in Sahuarita homes?",

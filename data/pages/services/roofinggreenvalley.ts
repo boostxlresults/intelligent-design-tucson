@@ -17,12 +17,11 @@ export const roofinggreenvalleyData: ServicePageData = {
   heroImageAlt: "Roofing services in Green Valley, Arizona",
   
   // Service Info
-  serviceName: "Roofing",
-  serviceId: "roofinggreenvalley",
-  serviceName: "Roofing",
+  category: "Roofing",
   
   // Content - Unique highlights for Green Valley
-  highlights: [
+    serviceName: "Roofing",
+highlights: [
   {
     "title": "Tile Roof Experience for 1980s\u201390s Builds",
     "description": "Most Green Valley homes built in the 1980s and 1990s use clay or concrete tile. We prioritize underlayment replacement and tile re-bedding common to this housing stock."
@@ -108,8 +107,8 @@ export const roofinggreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    serviceId: "roofinggreenvalley",
-    serviceName: "Roofing in Green Valley",
+    serviceId: "roofing-green-valley",
+    serviceName: "Roofing",
     faqs: [
     {
         "question": "Do roofs in Green Valley need special underlayment because of elevation and frost?",

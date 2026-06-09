@@ -17,12 +17,11 @@ export const electricalgladdenfarmsData: ServicePageData = {
   heroImageAlt: "Electrical services in Gladden Farms, Arizona",
   
   // Service Info
-  serviceName: "Electrical",
-  serviceId: "electricalgladdenfarms",
-  serviceName: "Electrical",
+  category: "Electrical",
   
   // Content - Unique highlights for Gladden Farms
-  highlights: [
+    serviceName: "Electrical",
+highlights: [
   {
     "title": "Built-for-today Panels",
     "description": "Many homes in Gladden Farms (Phase I & II) were built 2015\u2013present with modern but sometimes undersized panels. We assess and upgrade 100A/150A panels to 200A when homeowners add EV chargers or pool equipment."
@@ -108,8 +107,8 @@ export const electricalgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    serviceId: "electricalgladdenfarms",
-    serviceName: "Electrical in Gladden Farms",
+    serviceId: "electrical-gladden-farms",
+    serviceName: "Electrical",
     faqs: [
     {
         "question": "Do Gladden Farms homes need a panel upgrade for an EV charger?",

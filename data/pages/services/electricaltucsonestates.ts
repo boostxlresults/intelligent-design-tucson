@@ -9,10 +9,9 @@ export const electricaltucsonestatesData: ServicePageData = {
   tagline: "Safe, reliable electrical upgrades for your 1960s-1980s property.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel upgrade in Tucson Estates, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricaltucsonestates",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Panel Upgrades for Older Homes", description: "Many homes in Tucson Estates still rely on outdated 60-amp panels. We upgrade your system to safely handle modern appliances and electronics." },
     { title: "Knob-and-Tube Wiring Replacement", description: "The oldest homes near the Kinney Road corridor often have hazardous knob-and-tube wiring. Our experts safely replace it to meet current safety codes." },
     { title: "Adding Outlets & Capacity", description: "Properties built in the 1960s and 70s typically lack sufficient outlets. We install new circuits and GFCI outlets to eliminate the need for dangerous extension cords." },
@@ -34,8 +33,8 @@ export const electricaltucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricaltucsonestates",
-    serviceName: "Electrical Services in Tucson Estates",
+    serviceId: "electrical-tucson-estates",
+    serviceName: "Electrical",
     faqs: [
       { question: "Why do I need a panel upgrade for my Tucson Estates home?", answer: "Many homes in Tucson Estates were built in the 1960s and 1970s with 60-amp panels, which cannot safely support modern appliances and HVAC systems. Upgrading to a 150 or 200-amp panel ensures your home has safe, reliable power and reduces the risk of electrical fires." },
       { question: "Are there special electrical considerations for manufactured homes in the 85735 zip code?", answer: "Yes, manufactured homes require specific electrical connections and grounding techniques to meet safety codes. Our electricians are highly experienced in servicing the manufactured homes common in Tucson Estates, ensuring all wiring and panel work is compliant and secure." },

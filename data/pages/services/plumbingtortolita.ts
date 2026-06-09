@@ -17,12 +17,11 @@ export const plumbingtortolitaData: ServicePageData = {
   heroImageAlt: "Plumbing services in Tortolita, Arizona",
   
   // Service Info
-  serviceName: "Plumbing",
-  serviceId: "plumbingtortolita",
-  serviceName: "Plumbing",
+  category: "Plumbing",
   
   // Content - Unique highlights for Tortolita
-  highlights: [
+    serviceName: "Plumbing",
+highlights: [
   {
     "title": "Luxury Fixture Specialists",
     "description": "We install and repair high-end faucets, freestanding tubs, and integrated outdoor kitchens found in Stone Canyon and Dove Mountain estates, matching premium finishes and preserving custom tile work."
@@ -108,8 +107,8 @@ export const plumbingtortolitaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Tortolita)
   faqs: {
-    serviceId: "plumbingtortolita",
-    serviceName: "Plumbing in Tortolita",
+    serviceId: "plumbing-tortolita",
+    serviceName: "Plumbing",
     faqs: [
     {
         "question": "Do Tortolita homes need whole\u2011home filtration because of water hardness?",

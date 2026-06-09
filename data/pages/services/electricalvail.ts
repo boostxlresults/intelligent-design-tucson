@@ -9,10 +9,9 @@ export const electricalvailData: ServicePageData = {
   tagline: "Top-Rated Electricians Serving the 85641 Zip Code",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel in Vail, Arizona",
-  serviceName: "Electrical",
-  serviceId: "electricalvail",
-  serviceName: "Electrical",
-  highlights: [
+    serviceName: "Electrical",
+  category: "Electrical",
+highlights: [
     { title: "Panel Upgrades for Modern Homes", description: "While many Vail homes were built in the 2000s-2020s, modern electrical demands often exceed original builder specifications. We upgrade panels to safely support new appliances, hot tubs, and home additions." },
     { title: "EV Charger Installation", description: "With the I-10 corridor providing an easy commute to Tucson, many Vail residents are switching to electric vehicles. We install Level 2 EV chargers tailored to your home's electrical capacity." },
     { title: "Backup Generator Solutions", description: "Rural properties in the Rincon Valley and Empirita Ranch areas can experience power interruptions. We install reliable backup generators to keep your home running smoothly during outages." },
@@ -34,8 +33,8 @@ export const electricalvailData: ServicePageData = {
     ]
   },
   faqs: {
-    serviceId: "electricalvail",
-    serviceName: "Electrical Services in Vail",
+    serviceId: "electrical-vail",
+    serviceName: "Electrical",
     faqs: [
       { question: "Do you install EV chargers in Vail?", answer: "Yes, we install Level 2 EV chargers for homes throughout Vail, including the Del Lago and Rincon Valley neighborhoods. We'll assess your current electrical panel to ensure it can handle the additional load and perform any necessary upgrades." },
       { question: "Can you help with electrical issues on rural Vail properties?", answer: "Absolutely. We have extensive experience servicing custom homes and ranch properties in the more rural areas of the 85641 zip code. We handle everything from well pump electrical connections to backup generator installations." },
