@@ -1,109 +1,58 @@
-// Optimized Drain & Sewer page for Sahuarita - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
-import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
+import type { ServicePageData } from "@/types/services";
 
-export const drainsewersahuaritaData: ServicePageData = {
-  // SEO & Meta
-  title: "Drain & Sewer Services in Sahuarita, AZ | Call (520) 333-2665",
-  description: "Expert drain & sewer plumbing in Sahuarita, AZ. Fast, reliable service for sewer repairs, camera inspections & drain cleaning. Call (520) 333-2665 today.",
+const data: ServicePageData = {
+  title: "Drain & Sewer Services in Sahuarita, AZ | Intelligent Design",
+  description: "Expert drain clearing and sewer line repair in Sahuarita, AZ. We handle flat terrain drainage issues and construction debris in lines. Call (520) 333-2665.",
   slug: "drain-sewer-sahuarita",
-  
-  // Hero Section
-  h1: "Drain & Sewer Services in Sahuarita, AZ",
-  h2Subheading: "Trusted Plumbing Solutions for Reliable Drain & Sewer Care",
-  tagline: "Fast Response | Trenchless Repairs | Licensed Experts | 46+ Years Experience | 4.97-Star Rated | Warranty Included",
-  heroImage: "/generated_images/Plumbing_service_work_e21d02b3.webp",
-  heroImageAlt: "Professional drain and sewer service in Sahuarita",
-  
-  // Service Info
+  h1: "Drain & Sewer Services in Sahuarita",
+  h2Subheading: "Reliable Drain Clearing & Sewer Repair for Sahuarita Homes",
+  tagline: "Keeping Sahuarita's Plumbing Flowing Smoothly",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Drain & Sewer Services in Sahuarita, Arizona",
   serviceName: "Drain & Sewer",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "68-Minute Average Response",
-    "description": "Rapid local service to address drain and sewer emergencies promptly."
-  },
-  {
-    "title": "Advanced Sewer Camera Inspections",
-    "description": "State-of-the-art video technology detects blockages and pipe damage accurately."
-  },
-  {
-    "title": "Comprehensive Drain & Sewer Repairs",
-    "description": "From trenchless repairs to full sewer line replacements, we handle it all."
-  },
-  {
-    "title": "Transparent, Fair Pricing",
-    "description": "Upfront estimates with no hidden fees for all drain and sewer work."
-  },
-  {
-    "title": "Experienced Licensed Technicians",
-    "description": "52 local pros with 46+ years of expertise in Southern Arizona plumbing."
-  },
-  {
-    "title": "Reliable Warranty Coverage",
-    "description": "Workmanship backed by warranties to protect your home's plumbing system."
-  }
-],
+    { title: "Flat Terrain Drainage Solutions", description: "Sahuarita's flat terrain can cause slow drainage issues in newer homes. We specialize in optimizing drainage systems for these specific conditions." },
+    { title: "Construction Debris Removal", description: "In rapidly growing areas like Rancho Sahuarita and Madera Highlands, construction debris often finds its way into new sewer lines. We provide thorough camera inspections and clearing." },
+    { title: "HOA Compliant Services", description: "We understand the strict landscape requirements of Sahuarita HOAs. Our trenchless sewer repair options minimize disruption to your property and landscaping." },
+    { title: "New Construction Expertise", description: "With most Sahuarita homes built in the 2000s-2020s, we know exactly how to handle the specific plumbing systems and common builder-grade issues found in these properties." },
+    { title: "Camera Inspections", description: "We use advanced camera technology to pinpoint the exact cause of your drain or sewer issue, whether it's in a newer build or an established home in Quail Creek." },
+    { title: "24/7 Emergency Service", description: "Sewer backups don't wait for business hours. We provide round-the-clock emergency drain and sewer services to all Sahuarita neighborhoods, including the 85629 zip code." }
+  ],
   content: {
-    mainHeading: "Drain & Sewer Services in Sahuarita, AZ",
+    mainHeading: "Drain & Sewer Services in Sahuarita",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Drain & Sewer Services Tailored for Sahuarita",
-            "level": 2,
-            "content": "Expert Drain & Sewer Services Tailored for Sahuarita"
-      },
-      {
-            "type": "paragraph",
-            "content": "Sahuarita\u2019s unique climate\u2014with monsoon storms, hard water, and intense heat\u2014places extra strain on your home's drain and sewer systems. Intelligent Design offers expert plumbing solutions designed to withstand these challenges, including trenchless sewer line repairs that minimize yard disruption. Our skilled technicians use advanced sewer camera inspections to pinpoint blockages, tree root intrusions, and pipe damage quickly and accurately."
-      },
-      {
-            "type": "paragraph",
-            "content": "We provide comprehensive drain cleaning to prevent backups caused by mineral buildup and debris common in Southern Arizona\u2019s water. Whether you need emergency sewer repairs or routine maintenance, our team delivers fast, reliable service with an average 68-minute response time. Trust us to keep your plumbing flowing smoothly no matter the season."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Drain & Sewer Repairs in Sahuarita? Call Now!",
-            "content": "Don\u2019t wait for a clog or leak to worsen. Contact Intelligent Design for expert drain and sewer plumbing services today.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Sahuarita Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Sahuarita Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years serving the greater Tucson area, Intelligent Design has earned a 4.97-star rating from more than 23,000 satisfied customers. Our commitment to quality workmanship and transparent pricing builds lasting trust with Sahuarita residents. We back every drain and sewer service with warranties, ensuring your plumbing investment is protected."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our team of 52 licensed technicians undergoes continuous training to stay current with the latest plumbing technologies and Southern Arizona\u2019s unique water conditions. We pride ourselves on fast response times and thorough diagnostics, making us the go-to choice for dependable drain and sewer repairs in Sahuarita."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Sahuarita Community",
-            "level": 2,
-            "content": "Serving the Sahuarita Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "We\u2019re proud to serve Sahuarita and nearby communities, located near landmarks like the ASARCO Mineral Discovery Center & Mine Tours, Titan Missile Museum, Tumacacori National Historical Park, and the Empire Ranch Foundation. After your service, enjoy local favorites such as National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, or JerryBobs Restaurant. Intelligent Design is your local plumbing partner dedicated to keeping your home\u2019s drain and sewer systems in peak condition."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Drain & Sewer Service Today",
-            "content": "Protect your home from costly sewer and drain issues with Intelligent Design. Call now for expert Sahuarita plumbing service.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Navigating Sahuarita's Unique Drainage Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "Sahuarita is one of Arizona's fastest-growing towns, with a population that has tripled since 2000. This rapid expansion has led to a boom in new master-planned communities like Rancho Sahuarita and Madera Highlands. While these newer homes, mostly built in the 2000s-2020s, offer modern amenities, they also present unique drainage challenges. The flat terrain typical of the area can lead to slow drainage, and it's not uncommon to find construction debris left behind in the sewer lines of newer builds. At Intelligent Design, we have the expertise to address these specific issues, ensuring your home's plumbing system functions flawlessly." },
+      { type: "paragraph", content: "Furthermore, many Sahuarita neighborhoods have strict HOA landscape requirements. Traditional sewer repair methods that involve extensive trenching can be a nightmare for homeowners trying to maintain compliance. That's why we offer trenchless sewer repair and replacement options. These advanced techniques allow us to fix your sewer lines with minimal disruption to your carefully maintained landscaping, keeping you in good standing with your HOA while resolving your plumbing issues efficiently." },
+      { type: "cta", heading: "Need Immediate Drain or Sewer Help?", content: "Don't let a clogged drain or sewer backup disrupt your day. Contact Intelligent Design for fast, reliable service in Sahuarita.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Drain & Sewer Solutions for Sahuarita Residents", level: 2, content: "same" },
+      { type: "paragraph", content: "Whether you're dealing with a stubborn clog in your Rancho Sahuarita home or need a complete sewer line inspection in the 55+ community of Quail Creek, Intelligent Design has you covered. We utilize state-of-the-art camera inspection technology to accurately diagnose the problem without unnecessary guesswork. This allows us to provide targeted solutions, from simple drain clearing to complex sewer line repairs or replacements. We understand the specific plumbing systems common in Sahuarita's newer construction and are equipped to handle any issue, big or small." },
+      { type: "paragraph", content: "As a company with over 46 years of experience serving the greater Tucson area, including Sahuarita, we are committed to providing our community with the highest level of service. We know that dealing with drain and sewer issues can be stressful, which is why we prioritize clear communication, transparent pricing, and efficient, effective solutions. When you choose Intelligent Design, you're choosing a local partner dedicated to keeping your Sahuarita home safe, comfortable, and flowing smoothly." },
+      { type: "cta", heading: "Schedule Your Drain & Sewer Service Today", content: "Ready to resolve your drainage issues? Contact us to schedule an appointment with our expert plumbers.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: sewerLineRepairFAQs,
-  commonQuestions: getRefinementQuestions('Drain & Sewer', 'Sahuarita'),
+  faqs: {
+    category: "Drain & Sewer Services in Sahuarita",
+    items: [
+      { question: "Why are my drains slow in my new Sahuarita home?", answer: "Slow drains in newer Sahuarita homes can often be attributed to the area's flat terrain, which doesn't provide optimal gravity flow. Additionally, it's common to find construction debris left in the lines of recently built homes in communities like Madera Highlands. We can perform a camera inspection to identify and clear the blockage." },
+      { question: "Do you offer trenchless sewer repair in Sahuarita?", answer: "Yes, we highly recommend trenchless sewer repair for our Sahuarita customers. This method is ideal for preserving the landscaping required by many local HOAs, such as those in Rancho Sahuarita, as it requires minimal digging compared to traditional methods." },
+      { question: "What should I do if I have a sewer backup in Sahuarita?", answer: "If you experience a sewer backup in your Sahuarita home, stop using all water immediately to prevent further flooding and damage. Then, call Intelligent Design at (520) 333-2665. We offer 24/7 emergency service to the 85629 zip code and surrounding areas." },
+      { question: "How often should I have my sewer lines inspected in Sahuarita?", answer: "Even in newer Sahuarita homes, we recommend a sewer line inspection every few years, especially if you notice recurring slow drains or gurgling sounds. This proactive approach can help catch issues like construction debris or minor settling before they become major emergencies." },
+      { question: "Can hard water affect my drains in Sahuarita?", answer: "Yes, Sahuarita water is considered hard (200-230 ppm). Over time, the minerals in hard water can build up inside your pipes, narrowing the diameter and contributing to clogs. We can help clear these mineral deposits and discuss water softening solutions." },
+      { question: "Do you service the Quail Creek community in Sahuarita?", answer: "Absolutely. We provide comprehensive drain and sewer services to all neighborhoods in Sahuarita, including the premier 55+ community of Quail Creek. Our technicians are familiar with the specific plumbing setups in these homes." }
+    ]
+  },
+  commonQuestions: [
+    { question: "What are the signs of a main sewer line clog?", answer: "Signs include water backing up into other drains (e.g., flushing the toilet causes water to rise in the shower), gurgling sounds from drains, sewage odors, and multiple slow drains throughout the house." },
+    { question: "Is drain cleaning safe for my pipes?", answer: "Professional drain cleaning methods, like hydro jetting or snaking, are safe for your pipes when performed by experienced technicians. We avoid harsh chemical cleaners that can damage your plumbing over time." },
+    { question: "How long does a sewer camera inspection take?", answer: "A typical sewer camera inspection takes about 1 to 2 hours. This allows us to thoroughly examine the line, identify any issues, and provide you with a detailed report and recommendations." },
+    { question: "What is trenchless sewer repair?", answer: "Trenchless repair involves fixing or replacing a sewer pipe with minimal digging. We typically use methods like pipe bursting or epoxy lining, which can be completed through small access points, saving your landscaping." }
+  ],
+  serviceArea: {
+    primary: "Sahuarita",
+    nearby: ["Green Valley", "Corona de Tucson", "Vail"]
+  }
 };
+
+export default data;

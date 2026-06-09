@@ -1,109 +1,58 @@
-// Optimized Plumbing page for Marana - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const plumbingmaranaData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Plumbing Services in Marana, AZ | Call (520) 333-2665",
-  description: "Trusted plumbing services in Marana, AZ. Fast repairs, installations, and leak detection. Call Intelligent Design at (520) 333-2665 today.",
+const data: ServicePageData = {
+  title: "Expert Plumbing Services in Marana, AZ | Intelligent Design",
+  description: "Top-rated plumbing services in Marana, AZ. From water heaters to leak repair, our local experts serve Dove Mountain, Gladden Farms, and all 85653 & 85658 areas. Call (520) 333-2665.",
   slug: "plumbing-marana",
-  
-  // Hero Section
   h1: "Professional Plumbing Services in Marana, AZ",
-  h2Subheading: "Reliable Plumbing Repairs, Installations & Maintenance Tailored for Southern Arizona",
-  tagline: "68-Minute Response | Licensed Technicians | 46+ Years Experience",
-  heroImage: "/generated_images/Marana_Arizona_desert_landscape_6ac2aee0.webp",
-  heroImageAlt: "Professional plumber providing expert plumbing service in Marana, Arizona residential community",
-  
-  // Service Info
+  h2Subheading: "Reliable Solutions for Marana's Hard Water and Rapidly Growing Neighborhoods",
+  tagline: "Marana's Trusted Plumbers for Over 46 Years",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Professional plumbing services in Marana, Arizona",
   serviceName: "Plumbing",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "Fast 68-Minute Response",
-    "description": "We prioritize quick service to fix your plumbing issues before they escalate."
-  },
-  {
-    "title": "Advanced Leak Detection",
-    "description": "State-of-the-art technology locates hidden leaks to prevent costly water damage."
-  },
-  {
-    "title": "Comprehensive Plumbing Solutions",
-    "description": "From water heater installation to pipe repair, we cover all your plumbing needs."
-  },
-  {
-    "title": "Transparent, Competitive Pricing",
-    "description": "No hidden fees\u2014upfront quotes ensure affordable, fair pricing every time."
-  },
-  {
-    "title": "52 Licensed Plumbing Experts",
-    "description": "Our certified technicians bring decades of experience to every job."
-  },
-  {
-    "title": "Industry-Leading Warranty",
-    "description": "We back our work with warranties that protect your investment and peace of mind."
-  }
-],
+    { title: "Hard Water Solutions", description: "Marana Water is notoriously hard (210-240 ppm). We specialize in water softener installations to protect your new fixtures in Gladden Farms and Saguaro Bloom." },
+    { title: "New Construction Expertise", description: "With Marana's rapid growth, we frequently address builder-grade fixture failures and upgrade systems in 2000s-2020s homes." },
+    { title: "Tankless Water Heaters", description: "Upgrade your home's efficiency. We install and maintain high-demand tankless systems perfect for large families in Continental Ranch." },
+    { title: "Leak Detection & Repair", description: "From minor drips to major slab leaks, our advanced detection equipment finds hidden issues before they damage your Marana property." },
+    { title: "Whole-Home Repiping", description: "If your older home in the 85743 zip code is experiencing frequent leaks, our comprehensive repiping services provide long-lasting peace of mind." },
+    { title: "Water Filtration Systems", description: "Ensure your family has access to clean, great-tasting water with our custom whole-home filtration systems designed for Marana's specific water profile." }
+  ],
   content: {
     mainHeading: "Professional Plumbing Services in Marana, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Plumbing Services for Marana Homes",
-            "level": 2,
-            "content": "Expert Plumbing Services for Marana Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in Marana means dealing with unique plumbing challenges, including hard water that causes mineral buildup and monsoon season storms that can stress your pipes. Intelligent Design\u2019s expert technicians specialize in durable pipe repairs, water heater installations, and faucet replacements designed to withstand Southern Arizona\u2019s extreme heat and fluctuating conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "We offer precise leak detection using cutting-edge equipment to catch issues early, preventing costly water damage and mold growth. Whether you need toilet repair, drain cleaning, or emergency pipe fixes, our licensed plumbers deliver reliable solutions tailored to your home\u2019s specific needs."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Plumbing Help Now?",
-            "content": "Contact Intelligent Design today for fast, dependable plumbing repairs and installations in Marana.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Marana Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Marana Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star Google rating from more than 23,000 reviews, Intelligent Design is the trusted name for plumbing in Marana. Our customers consistently praise our professionalism, expertise, and quick response times, making us the go-to plumbing company in the greater Tucson area."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind every job with industry-leading warranties, ensuring your plumbing system stays reliable through the region\u2019s harsh climate. Our team of 52 licensed technicians is committed to delivering quality workmanship and customer satisfaction on every call."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Marana Community",
-            "level": 2,
-            "content": "Serving the Marana Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Marana neighborhoods near landmarks like the Downtown Marana Sign and Cowboy Statue, Marana Heritage River Park, El Rio Preserve, and Picture Rock Petroglyphs. We\u2019re honored to support local families and businesses close to popular spots such as Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, and Taqueria Plaza\u2019s."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Plumbing Service Today",
-            "content": "Don\u2019t wait for plumbing problems to worsen. Call Intelligent Design for trusted service in Marana, AZ.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Tackling Marana's Unique Plumbing Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "As the fastest-growing town in Arizona, Marana presents a unique mix of plumbing needs. While much of the housing stock in areas like Dove Mountain and Gladden Farms is relatively new (built in the 2000s-2020s), homeowners frequently encounter issues with builder-grade fixtures failing prematurely. Additionally, the local water supply from Marana Water is exceptionally hard, measuring between 210 and 240 ppm. This high mineral content can rapidly degrade water heaters, clog showerheads, and leave stubborn scale buildup on your expensive fixtures if not properly managed with a quality water softening system." },
+      { type: "paragraph", content: "At Intelligent Design, we understand the specific plumbing challenges faced by Marana residents. The lower elevation of 2,000-2,400 ft means hotter summers, putting extra strain on your home's systems. Whether you're dealing with construction debris in the lines of a brand-new build in Saguaro Bloom or need a high-capacity tankless water heater for a luxury property near the Ritz-Carlton, our experienced technicians have the local knowledge and technical expertise to deliver lasting solutions tailored to your home's specific needs." },
+      { type: "cta", heading: "Need a Plumber in Marana?", content: "Don't let hard water or leaks damage your home. Contact Intelligent Design today for fast, reliable service.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Plumbing Solutions for Your Marana Home", level: 2, content: "same" },
+      { type: "paragraph", content: "Our comprehensive plumbing services cover everything from routine maintenance to emergency repairs. We specialize in leak repair, water heater installation and service, whole-home repiping, and advanced water filtration systems. Recognizing the high demand for modern amenities in Marana's master-planned communities, we are experts in upgrading standard systems to high-efficiency models, ensuring your home operates smoothly and efficiently. We use only the highest quality materials and back our work with industry-leading warranties." },
+      { type: "paragraph", content: "Intelligent Design has been a proud part of the greater Tucson and Marana community for over 46 years. With a 4.97-star rating across more than 3,600 reviews, our commitment to excellence is unmatched. We are dedicated to providing the residents of Marana—from the Tortolita Mountains down to Twin Peaks—with honest, transparent pricing and exceptional customer service. When you choose us, you're choosing a local partner invested in the comfort and safety of your home." },
+      { type: "cta", heading: "Ready to Upgrade Your Plumbing?", content: "Schedule your service with Marana's top-rated plumbing experts today.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: getRefinementQuestions('Plumbing', 'Marana'),
+  faqs: {
+    category: "Plumbing in Marana",
+    items: [
+      { question: "Why do my plumbing fixtures in Marana wear out so quickly?", answer: "The primary culprit is Marana's extremely hard water, which ranges from 210-240 ppm. This high mineral content causes scale buildup that degrades builder-grade fixtures common in newer developments like Gladden Farms. Installing a whole-home water softener is the best way to protect your plumbing." },
+      { question: "Do you service tankless water heaters in Dove Mountain?", answer: "Yes, we specialize in the installation, maintenance, and repair of tankless water heaters throughout Dove Mountain and all of Marana. These systems are highly popular in the area for their energy efficiency and endless hot water supply, perfect for larger homes." },
+      { question: "How quickly can you respond to a plumbing emergency in the 85653 zip code?", answer: "We offer prompt emergency plumbing services across all Marana zip codes, including 85653, 85658, and 85743. Our dispatch team prioritizes urgent issues like major leaks or water heater failures to minimize damage to your property." },
+      { question: "Are water filtration systems necessary for Marana homes?", answer: "While Marana's water is safe to drink, many residents in areas like Continental Ranch prefer the taste and peace of mind provided by a whole-home filtration system. It removes chlorine, sediment, and other impurities, significantly improving your water quality." },
+      { question: "My new build in Saguaro Bloom has low water pressure. What could be wrong?", answer: "Low water pressure in new Marana builds can sometimes be caused by construction debris caught in aerators or pressure reducing valves (PRVs) that need adjustment. Our technicians can quickly diagnose and resolve the issue to restore optimal flow." },
+      { question: "Do you handle slab leak repairs in Marana?", answer: "Absolutely. While less common in brand-new builds, slab leaks can occur. We use advanced, non-invasive leak detection equipment to pinpoint the exact location of the leak under your foundation, minimizing disruption to your Marana home during repairs." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I flush my water heater?", answer: "We recommend flushing your water heater at least once a year, especially in areas with hard water, to remove sediment buildup and maintain efficiency." },
+    { question: "What should I do if a pipe bursts?", answer: "Immediately shut off your main water valve to prevent further flooding, then call our emergency plumbing line for rapid assistance." },
+    { question: "Can I use chemical drain cleaners?", answer: "We strongly advise against chemical drain cleaners as they can damage your pipes over time. Professional snaking or hydro-jetting is much safer and more effective." },
+    { question: "How long does a typical water heater last?", answer: "A traditional tank water heater typically lasts 8-12 years, while tankless models can last 20 years or more with proper maintenance." }
+  ],
+  serviceArea: {
+    primary: "Marana",
+    nearby: ["Dove Mountain", "Gladden Farms", "Continental Ranch"]
+  }
 };
+
+export default data;

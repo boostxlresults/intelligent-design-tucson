@@ -1,109 +1,58 @@
-// Optimized Electrical page for Tanque Verde - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { electricalRepairFAQs } from '@/data/faqs/electrical';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const electricaltanqueverdeData: ServicePageData = {
-  // SEO & Meta
-  title: "Electrical Services in Tanque Verde, AZ | Call (520) 333-2665",
-  description: "Expert electrical services in Tanque Verde, AZ. Repairs, panel upgrades, EV chargers, and more. Fast, licensed, and trusted electricians near you.",
+const data: ServicePageData = {
+  title: "Expert Electrical Services in Tanque Verde, AZ",
+  description: "Top-rated electrical services in Tanque Verde, AZ. From EV chargers to horse property lighting, call Intelligent Design at (520) 333-2665 today!",
   slug: "electrical-tanque-verde",
-  
-  // Hero Section
-  h1: "Trusted Electrical Services in Tanque Verde, AZ",
-  h2Subheading: "Reliable Repairs, Upgrades & Installations for Your Home",
-  tagline: "Fast Response | Licensed Technicians | 46+ Years Experience | Transparent Pricing | 4.97-Star Rated | Warranty Included",
-  heroImage: "/generated_images/Electrical_service_work_e21d02b3.webp",
-  heroImageAlt: "Professional electrician providing expert electrical service in Tanque Verde, Arizona upscale homes",
-  
-  // Service Info
+  h1: "Professional Electrical Services in Tanque Verde, AZ",
+  h2Subheading: "Powering Upscale Homes and Horse Properties in the Rincon Mountain Foothills",
+  tagline: "Reliable electrical solutions for Tanque Verde's unique properties.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Electrical Services in Tanque Verde, Arizona",
   serviceName: "Electrical",
   category: "Electrical",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid 68-Minute Average Response",
-    "description": "Our team arrives quickly to handle electrical emergencies in Tanque Verde and greater Tucson."
-  },
-  {
-    "title": "Advanced Equipment & Expertise",
-    "description": "We use state-of-the-art tools and techniques for panel upgrades, EV chargers, and rewiring."
-  },
-  {
-    "title": "Comprehensive Electrical Services",
-    "description": "From lighting and outlets to whole-home rewiring, we cover all your electrical needs."
-  },
-  {
-    "title": "Transparent & Competitive Pricing",
-    "description": "No hidden fees\u2014clear estimates ensure you know exactly what to expect."
-  },
-  {
-    "title": "Skilled Team of 52 Licensed Pros",
-    "description": "Our electricians are fully licensed, highly trained, and experienced in Southern Arizona conditions."
-  },
-  {
-    "title": "Reliable Warranty for Peace of Mind",
-    "description": "All work is backed by our industry-leading warranty protecting your investment."
-  }
-],
+    { title: "Custom Home Wiring", description: "We specialize in electrical upgrades for Tanque Verde's upscale homes built in the 1980s and 2000s, ensuring your custom build meets modern power demands." },
+    { title: "Horse Property Lighting", description: "Illuminate your acreage and riding trails with specialized outdoor lighting solutions designed for the expansive lots in the Tanque Verde Valley." },
+    { title: "EV Charger Installation", description: "Upgrade your home in the 85749 or 85750 zip codes with fast, reliable electric vehicle charging stations tailored to your specific electrical panel." },
+    { title: "Well Pump Electrical Support", description: "Many properties near the Agua Caliente area rely on well water; we provide robust electrical connections to keep your well pumps running smoothly." },
+    { title: "Smart Home Integration", description: "Modernize your Tanque Verde residence with seamless smart home electrical integration, enhancing convenience and security across your large property." },
+    { title: "Backup Generator Solutions", description: "Protect your home from TEP service interruptions, especially in rural stretches near Redington Pass, with a dependable whole-home backup generator." }
+  ],
   content: {
-    mainHeading: "Trusted Electrical Services in Tanque Verde, AZ",
+    mainHeading: "Professional Electrical Services in Tanque Verde, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Electrical Services Tailored for Tanque Verde Homes",
-            "level": 2,
-            "content": "Expert Electrical Services Tailored for Tanque Verde Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in Tanque Verde means dealing with Southern Arizona's extreme heat, monsoon storms, and hard water effects on home electrical systems. Our licensed electricians specialize in durable repairs and upgrades designed to withstand these challenges. Whether you need a panel upgrade to handle modern appliances or whole-home rewiring to replace old, damaged wiring, we deliver safe, reliable solutions."
-      },
-      {
-            "type": "paragraph",
-            "content": "We also install EV chargers to support your electric vehicle needs, along with energy-efficient lighting and additional outlets customized for your lifestyle. Our technicians bring over 46 years of experience and use advanced diagnostic tools to quickly identify and fix electrical issues, ensuring your home stays powered and protected."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Electrical Service Today",
-            "content": "Call Intelligent Design now for fast, expert electrical repairs and installations in Tanque Verde. Our team is ready to help with all your home\u2019s electrical needs.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "Our 4.97-star Google rating and over 23,000 reviews reflect our commitment to quality and customer satisfaction. Tanque Verde residents trust us for our rapid response times, transparent pricing, and expert workmanship tailored to local climate conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind every job with a strong warranty, giving you peace of mind. Our team of 52 licensed electricians is trained specifically to address the electrical challenges homes face in the greater Tucson area, ensuring long-lasting, safe results."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Tanque Verde Community",
-            "level": 2,
-            "content": "Serving the Tanque Verde Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Tanque Verde and nearby neighborhoods, we are your local electrical experts. Whether you\u2019re near the Fort Lowell Museum, exploring Trail Dust Town, hiking Javelina Rocks, or enjoying Sabino Canyon Recreation Area, our technicians are just a call away. We also support local favorites like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery with trusted electrical services."
-      },
-      {
-            "type": "cta",
-            "heading": "Contact Intelligent Design for Electrical Solutions",
-            "content": "Ready to upgrade or repair your home\u2019s electrical system? Call Intelligent Design for trusted service in Tanque Verde today.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Meeting the High Electrical Demands of Tanque Verde Homes", level: 2, content: "same" },
+      { type: "paragraph", content: "Nestled at an elevation of 2,800 to 3,200 feet near the beautiful Rincon Mountains, Tanque Verde is known for its upscale homes, horse properties, and expansive lots. These unique residences, many built between the 1980s and 2000s, often require specialized electrical attention. At Intelligent Design, we understand that managing the high electrical demands of custom builds and large estates is crucial. Whether you live near the historic Tanque Verde Guest Ranch or along the Soldier Trail corridor, our expert electricians are equipped to handle everything from complex panel upgrades to integrating state-of-the-art smart home technologies. We ensure that your electrical system is safe, efficient, and fully capable of supporting modern luxury living in this prestigious Tucson community." },
+      { type: "paragraph", content: "The unique landscape of Tanque Verde presents specific electrical challenges. With many properties situated on one or more acres, outdoor electrical needs are significant. We frequently assist homeowners with specialized lighting for horse arenas, riding trails, and lush desert landscaping. Additionally, the mix of overhead and underground TEP service lines in some rural stretches means that power reliability can occasionally be a concern. To combat this, we offer comprehensive backup generator installations, ensuring your home remains powered during unexpected outages. For properties relying on well water, we provide the robust electrical infrastructure necessary to keep well pumps operating flawlessly, safeguarding your water supply in the desert environment." },
+      { type: "cta", heading: "Upgrade Your Tanque Verde Home's Electrical System", content: "Don't let outdated wiring hold back your custom home. Contact Intelligent Design for expert electrical services tailored to your property.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Electrical Solutions for the 85749 and 85750 Areas", level: 2, content: "same" },
+      { type: "paragraph", content: "From the Bear Canyon area to the gateway of Redington Pass, Intelligent Design provides a full spectrum of electrical services designed for Tanque Verde residents. As electric vehicles become increasingly popular, we are the trusted local experts for EV charger installations, ensuring your home's electrical panel can safely handle the additional load. We also specialize in custom lighting designs that highlight the premium construction and architectural beauty of your home while respecting the natural, darker skies of the higher elevation cooler climate. Our team is committed to delivering meticulous workmanship that meets the high standards expected in some of Tucson's most prestigious addresses." },
+      { type: "paragraph", content: "With over 46 years of experience and a 4.97-star rating from more than 3,600 reviews, Intelligent Design is deeply invested in the Tanque Verde community. We pride ourselves on offering reliable, high-quality electrical services that enhance the safety and functionality of your home. Whether you are renovating a 1980s property in the Tanque Verde Valley or building a new custom estate, our licensed electricians bring unparalleled expertise to every project. We understand the nuances of working in horse-friendly communities and are dedicated to providing solutions that respect your property and lifestyle. Trust us to be your partner in maintaining a safe, modern, and efficient electrical system." },
+      { type: "cta", heading: "Schedule Your Electrical Service Today", content: "Experience the Intelligent Design difference. Reach out to our expert team to discuss your electrical needs in Tanque Verde.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: electricalRepairFAQs,
-  commonQuestions: getRefinementQuestions('Electrical', 'Tanque Verde'),
+  faqs: {
+    category: "Electrical Services in Tanque Verde",
+    items: [
+      { question: "Do you install EV chargers for homes in Tanque Verde?", answer: "Yes, we specialize in installing electric vehicle chargers for homes in Tanque Verde, including the 85749 and 85750 zip codes. We assess your current electrical panel and provide a safe, efficient installation tailored to your specific vehicle and home's power capacity." },
+      { question: "Can you help with outdoor lighting for my horse property near the Rincon Mountains?", answer: "Absolutely. We have extensive experience designing and installing specialized outdoor lighting for horse properties and large acreages in Tanque Verde. We ensure your riding areas and pathways are safely illuminated while respecting the natural desert environment." },
+      { question: "Are backup generators necessary for homes in the Tanque Verde Valley?", answer: "While TEP provides reliable service, the rural stretches and mix of overhead lines in Tanque Verde can sometimes lead to outages. A whole-home backup generator is an excellent investment to ensure uninterrupted power for well pumps, HVAC systems, and security features." },
+      { question: "Do you upgrade electrical panels for older homes in the Agua Caliente area?", answer: "Yes, many homes in the Agua Caliente area built in the 1980s require electrical panel upgrades to safely handle modern appliances and smart home systems. Our licensed electricians can seamlessly upgrade your panel to meet current safety standards and power demands." },
+      { question: "Can you wire well pumps for properties along the Soldier Trail corridor?", answer: "Yes, we provide expert electrical wiring and support for well pumps, which are common on the larger lots along the Soldier Trail corridor in Tanque Verde. We ensure your well pump has a dedicated, reliable power source to maintain your water supply." },
+      { question: "Do you offer smart home integration for custom builds in Tanque Verde?", answer: "We certainly do. We offer comprehensive smart home electrical integration for custom builds and upscale homes throughout Tanque Verde, allowing you to control lighting, security, and climate systems effortlessly from your devices." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How do I know if my electrical panel needs an upgrade?", answer: "Signs that you need a panel upgrade include frequently tripping breakers, flickering lights, a panel that feels warm to the touch, or if your home still uses an outdated fuse box. Upgrading is also recommended when adding major appliances or an EV charger." },
+    { question: "What is involved in installing a whole-home generator?", answer: "Installing a whole-home generator involves selecting the right size unit for your power needs, preparing a stable concrete pad, connecting the generator to your home's electrical panel via a transfer switch, and ensuring a reliable fuel source, such as natural gas or propane." },
+    { question: "Why are my outdoor outlets not working?", answer: "Outdoor outlets often stop working due to a tripped GFCI (Ground Fault Circuit Interrupter) receptacle, which is designed to shut off power when it detects moisture or a fault. Try resetting the GFCI; if it continues to trip, you may have a wiring issue that requires professional attention." },
+    { question: "Is it safe to do my own electrical wiring?", answer: "No, DIY electrical wiring is highly dangerous and can lead to severe shocks, electrical fires, or code violations. It is always best to hire a licensed, insured electrician who has the training and tools to perform the work safely and up to local building codes." }
+  ],
+  serviceArea: {
+    primary: "Tanque Verde",
+    nearby: ["Tucson", "Catalina Foothills", "Vail"]
+  }
 };
+
+export default data;

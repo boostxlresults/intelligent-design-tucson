@@ -1,109 +1,58 @@
-// Optimized Plumbing page for Sahuarita - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const plumbingsahuaritaData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Plumbing Services in Sahuarita, AZ | Call (520) 333-2665",
-  description: "Trusted plumbing services in Sahuarita, AZ. Fast repairs, installations, and leak detection by licensed experts. Call (520) 333-2665 today!",
+const data: ServicePageData = {
+  title: "Plumbing Services in Sahuarita, AZ | Intelligent Design",
+  description: "Expert plumbing services in Sahuarita, AZ. From water heater repair to water softeners, our local plumbers serve Rancho Sahuarita & 85629. Call (520) 333-2665!",
   slug: "plumbing-sahuarita",
-  
-  // Hero Section
-  h1: "Reliable Plumbing Services in Sahuarita, AZ",
-  h2Subheading: "Fast, Licensed, and Experienced Plumbing Solutions for Your Home",
-  tagline: "68-Minute Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | 52 Technicians | 100% Warranty",
-  heroImage: "/generated_images/Sahuarita_Arizona_residential_community_f19c419a.webp",
-  heroImageAlt: "Professional plumber providing expert plumbing service in Sahuarita, Arizona residential community",
-  
-  // Service Info
+  h1: "Expert Plumbing Services in Sahuarita, AZ",
+  h2Subheading: "Reliable Plumbing Solutions for Sahuarita's Growing Communities",
+  tagline: "Your Trusted Local Plumbers in the 85629 Area",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Plumbing Services in Sahuarita, Arizona",
   serviceName: "Plumbing",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid Response Time",
-    "description": "Average 68-minute response ensures your plumbing emergency is handled quickly."
-  },
-  {
-    "title": "Advanced Equipment & Expertise",
-    "description": "State-of-the-art leak detection and repair tools tailored for Southern Arizona plumbing."
-  },
-  {
-    "title": "Comprehensive Plumbing Services",
-    "description": "From water heater installation to faucet repair, we cover all your plumbing needs."
-  },
-  {
-    "title": "Transparent & Competitive Pricing",
-    "description": "Upfront estimates with no hidden fees, making budgeting easy and fair."
-  },
-  {
-    "title": "Highly Qualified Team",
-    "description": "52 licensed technicians with 46+ years of combined plumbing experience."
-  },
-  {
-    "title": "Reliable Warranty Protection",
-    "description": "We back our work with a 100% satisfaction warranty for peace of mind."
-  }
-],
+    { title: "Hard Water Solutions", description: "Sahuarita's water hardness levels (200-230 ppm) can quickly degrade builder-grade fixtures in newer homes. We specialize in water softener installations to protect your plumbing." },
+    { title: "Water Heater Replacement", description: "Many homes in Rancho Sahuarita and Madera Highlands are experiencing early failures of builder-grade water heaters. We provide high-efficiency upgrades tailored to your family's needs." },
+    { title: "PEX Plumbing Expertise", description: "With most Sahuarita homes built in the 2000s-2020s, PEX piping is common. Our technicians are experts in servicing and repairing modern plumbing systems." },
+    { title: "Leak Detection & Repair", description: "Even in newer master-planned communities, plumbing leaks can occur. We use advanced technology to pinpoint and repair leaks quickly, minimizing damage to your home." },
+    { title: "Fixture Upgrades", description: "Upgrade the builder-grade fixtures in your Sahuarita home with high-quality, durable alternatives. We offer professional installation for faucets, showerheads, and more." },
+    { title: "Comprehensive Plumbing Care", description: "From the family-oriented neighborhoods of Rancho Sahuarita to the 55+ community of Quail Creek, we provide comprehensive plumbing services for all local residents." }
+  ],
   content: {
-    mainHeading: "Reliable Plumbing Services in Sahuarita, AZ",
+    mainHeading: "Expert Plumbing Services in Sahuarita, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Plumbing Solutions Tailored for Sahuarita Homes",
-            "level": 2,
-            "content": "Expert Plumbing Solutions Tailored for Sahuarita Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in Sahuarita means dealing with unique plumbing challenges like hard water buildup and the impact of extreme heat on pipes. Our expert technicians specialize in repairing and maintaining plumbing systems that withstand these local conditions, ensuring your home\u2019s water flow is always optimal. Whether it\u2019s fixing leaks or installing energy-efficient water heaters, we use the latest technology for durable, long-lasting solutions."
-      },
-      {
-            "type": "paragraph",
-            "content": "We understand the urgency of plumbing problems during monsoon season when sudden pipe bursts and water damage risks increase. Our rapid response team averages just 68 minutes to your door, equipped to diagnose and repair issues quickly. From toilet repairs to comprehensive pipe replacements, Intelligent Design provides reliable service that Sahuarita homeowners trust."
-      },
-      {
-            "type": "cta",
-            "heading": "Get Your Plumbing Fixed Fast in Sahuarita",
-            "content": "Don\u2019t wait for a minor leak to cause major damage. Call Intelligent Design today for expert plumbing service in Sahuarita.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Sahuarita Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Sahuarita Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and 52 licensed technicians, Intelligent Design has earned a 4.97-star rating from more than 23,000 satisfied customers. Our reputation for honest, dependable plumbing service makes us the go-to choice in Sahuarita and the greater Tucson area."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind every job with a 100% satisfaction warranty, ensuring your plumbing system performs flawlessly after our service. Our transparent pricing and expert advice help you make informed decisions without surprises."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Sahuarita Community",
-            "level": 2,
-            "content": "Serving the Sahuarita Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Sahuarita, near landmarks like the ASARCO Mineral Discovery Center & Mine Tours, Titan Missile Museum, Tumacacori National Historical Park, and Empire Ranch Foundation. After a day exploring these historic sites, enjoy local favorites like National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, or JerryBobs Restaurant. We\u2019re honored to support the homes and families in this vibrant community with expert plumbing services tailored to Southern Arizona\u2019s climate."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Plumbing Service Today",
-            "content": "Experience trusted, fast, and expert plumbing repairs in Sahuarita with Intelligent Design. Call us now to book your appointment.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Addressing Sahuarita's Unique Plumbing Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "Sahuarita is one of Arizona's fastest-growing towns, with a population that has tripled since 2000. This rapid growth means many homes in master-planned communities like Rancho Sahuarita and Madera Highlands feature modern construction with PEX plumbing. However, the hard water in the 85629 zip code (200-230 ppm) immediately stresses these new systems. Builder-grade fixtures and water heaters often fail earlier than expected due to mineral buildup. At Intelligent Design, we understand the specific plumbing needs of Sahuarita's newer housing stock and provide targeted solutions to protect your investment." },
+      { type: "paragraph", content: "Whether you live near the Sahuarita Town Center or enjoy the views of the Santa Rita Mountains from Quail Creek, our local plumbers are ready to help. We frequently address issues like failing builder-grade water heaters and the urgent need for water filtration and softening systems. The hard water not only affects your fixtures but can also impact the efficiency of your appliances. Our team is experienced in installing high-quality water softeners and performing essential maintenance to ensure your plumbing system withstands the local water conditions." },
+      { type: "cta", heading: "Need a Plumber in Sahuarita?", content: "Don't let hard water or failing fixtures disrupt your day. Contact Intelligent Design for fast, reliable plumbing services in Sahuarita.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Plumbing Solutions for Your Sahuarita Home", level: 2, content: "same" },
+      { type: "paragraph", content: "Intelligent Design offers a full range of plumbing services tailored to the needs of Sahuarita residents. From routine maintenance and leak repairs to complete water heater replacements and repiping, our skilled technicians have you covered. We know that many homes in the area are two-story builds, which can present unique plumbing challenges. Our team is equipped to handle complex plumbing layouts and ensure optimal water pressure and flow throughout your home. We prioritize using high-quality materials that outlast standard builder-grade options." },
+      { type: "paragraph", content: "As a company with over 46 years of experience and a 4.97-star rating from over 3,600 reviews, we are committed to serving the Sahuarita community. We understand the importance of reliable plumbing for families in Rancho Sahuarita and retirees in Quail Creek alike. Our focus is on providing long-lasting solutions that improve the comfort and functionality of your home. Trust Intelligent Design to be your go-to plumbing partner in Sahuarita, delivering exceptional service with every visit." },
+      { type: "cta", heading: "Schedule Your Plumbing Service Today", content: "Ready to upgrade your plumbing or need an urgent repair? Book your appointment with our expert Sahuarita plumbers now.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: getRefinementQuestions('Plumbing', 'Sahuarita'),
+  faqs: {
+    category: "Plumbing in Sahuarita",
+    items: [
+      { question: "Why do water heaters fail so quickly in Sahuarita?", answer: "The hard water in Sahuarita (200-230 ppm) causes rapid mineral buildup inside water heaters, especially the builder-grade models common in newer developments like Rancho Sahuarita. This buildup reduces efficiency and shortens the lifespan of the unit. We recommend regular flushing and installing a water softener to protect your water heater." },
+      { question: "Do I need a water softener in my Sahuarita home?", answer: "Yes, highly recommended. Sahuarita's water supply is notably hard. A water softener will protect your plumbing fixtures, appliances, and pipes from scale buildup, extending their lifespan and improving your water quality. It's one of the most common upgrades we perform in the 85629 zip code." },
+      { question: "Are builder-grade plumbing fixtures in Sahuarita reliable?", answer: "While functional initially, builder-grade fixtures in many of Sahuarita's newer homes often degrade quickly due to the local hard water. Upgrading to higher-quality fixtures can prevent premature leaks and improve the overall aesthetics and reliability of your home's plumbing system." },
+      { question: "What should I do if I suspect a leak in my two-story Sahuarita home?", answer: "If you notice water stains, a drop in water pressure, or an unusually high water bill, contact us immediately. Leaks in two-story homes can cause significant damage quickly. Our Sahuarita plumbers use advanced leak detection equipment to locate and repair the issue with minimal disruption." },
+      { question: "Can you service the plumbing in my Quail Creek home?", answer: "Absolutely! We frequently provide plumbing services to residents in the Quail Creek 55+ community. Whether you need a water heater replacement, fixture upgrades, or routine maintenance, our team is familiar with the homes in this area and ready to assist." },
+      { question: "How quickly can you respond to a plumbing emergency in Sahuarita?", answer: "We prioritize emergency calls and strive to provide prompt service to all Sahuarita neighborhoods, from Madera Highlands to the Town Center. With our experienced team, we can quickly address urgent issues like burst pipes or major leaks to protect your home." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How much does a water heater replacement cost?", answer: "The cost varies based on the type (tank or tankless) and size of the unit. We provide upfront pricing and can recommend the best high-efficiency option for your home's specific needs." },
+    { question: "What are the signs of a hidden plumbing leak?", answer: "Watch for unexplained increases in your water bill, damp spots on floors or walls, the sound of running water when fixtures are off, or a sudden drop in water pressure." },
+    { question: "How often should I have my plumbing inspected?", answer: "We recommend an annual plumbing inspection to catch potential issues early, especially in areas with hard water. Regular maintenance can prevent costly repairs and extend the life of your system." },
+    { question: "Do you offer financing for major plumbing projects?", answer: "Yes, we offer flexible financing options for larger projects like whole-home repiping or installing comprehensive water filtration and softening systems. Contact us for details." }
+  ],
+  serviceArea: {
+    primary: "Sahuarita",
+    nearby: ["Green Valley", "Corona de Tucson", "Vail"]
+  }
 };
+
+export default data;

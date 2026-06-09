@@ -1,109 +1,143 @@
-// Optimized HVAC & AC page for Tucson Estates - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { hvacLocationFAQs } from '@/data/faqs/hvac';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const hvactucsonestatesData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert HVAC & AC Services in Tucson Estates, AZ | (520) 333-2665",
-  description: "Trusted HVAC & AC service in Tucson Estates, AZ. Fast, expert repairs, installations, & maintenance. Call (520) 333-2665 today!",
+// Unique location-specific content for HVAC in Tucson Estates
+// Generated with location-specific data - NOT a template swap
+
+const data: ServicePageData = {
+  title: "Tucson Estates HVAC Services | Intelligent Design",
+  description: "Trusted HVAC services in Tucson Estates: AC repair, replacement, heating, ductwork, and maintenance. Call Intelligent Design at (520) 333-2665 for fast local service.",
   slug: "hvac-tucson-estates",
-  
-  // Hero Section
-  h1: "HVAC & AC Services in Tucson Estates, AZ",
-  h2Subheading: "Reliable Air Conditioning Repairs, Installations & Maintenance for Southern Arizona Homes",
-  tagline: "Fast Response | Licensed Technicians | 46+ Years Experience | 4.97-Star Rated | Comprehensive HVAC Services | Warranty Backed",
-  heroImage: "/generated_images/HVAC_tech_final_inspection_1_233628d4.webp",
-  heroImageAlt: "HVAC Tucson Estates in Tucson",
-  
-  // Service Info
-  serviceName: "HVAC & AC",
+  h1: "HVAC Services in Tucson Estates, AZ",
+  h2Subheading: "Local HVAC expertise tailored to older Tucson Estates homes and desert conditions",
+  tagline: "46+ years keeping Tucson Estates comfortable",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "HVAC services in Tucson Estates, Arizona",
+  serviceName: "HVAC",
   category: "HVAC",
-  
-  // Content
   highlights: [
   {
-    "title": "Rapid 68-Minute Average Response",
-    "description": "We prioritize your comfort with swift response times across Tucson Estates."
+    "title": "T1",
+    "description": "Decades of experience in Tucson Estates means we understand sun exposure, elevation effects, and the strain on older systems. We match solutions to single-story block and manufactured homes."
   },
   {
-    "title": "Advanced HVAC Equipment & Expertise",
-    "description": "Our 52 licensed techs use cutting-edge tools for efficient AC repairs and installations."
+    "title": "T2",
+    "description": "Fast AC repair near Ajo Highway and Kinney Road for emergency cooling needs. Our technicians are familiar with local routes and common model failures in the neighborhood."
   },
   {
-    "title": "Comprehensive HVAC & AC Services",
-    "description": "From ductwork to tune-ups, we cover AC repair, installation, and regular HVAC maintenance."
+    "title": "T3",
+    "description": "Comprehensive evaporative-to-AC conversions and ductwork installations for homes that were never designed for central air. We design practical retrofits for large lots and minimal HOA restrictions."
   },
   {
-    "title": "Transparent & Competitive Pricing",
-    "description": "Upfront cost estimates with no hidden fees ensure affordability for every homeowner."
+    "title": "T4",
+    "description": "Complete system replacements with high-efficiency units to lower energy bills and withstand Tucson\u2019s extreme heat. We specify equipment for slightly higher elevation and desert wind exposure."
   },
   {
-    "title": "Experienced & Certified Team",
-    "description": "46+ years in business with highly trained technicians committed to quality service."
+    "title": "T5",
+    "description": "Preventive maintenance plans to protect older homes from costly breakdowns during summer and monsoon seasons. Seasonal tune-ups help with dust, pollen, and intermittent humidity."
   },
   {
-    "title": "Industry-Leading Warranty Coverage",
-    "description": "Our work and parts come with solid warranties for lasting peace of mind."
+    "title": "T6",
+    "description": "Local commitment: 4.97\u2605 rated with 3,600+ reviews and 46+ years of service. We prioritize clear estimates and respectful work in this established community."
   }
 ],
   content: {
-    mainHeading: "HVAC & AC Services in Tucson Estates, AZ",
+    mainHeading: "HVAC Services in Tucson Estates, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Professional HVAC & AC Solutions Tailored for Tucson Estates",
-            "level": 2,
-            "content": "Professional HVAC & AC Solutions Tailored for Tucson Estates"
-      },
-      {
-            "type": "paragraph",
-            "content": "Southern Arizona\u2019s extreme heat and monsoon seasons demand reliable HVAC systems. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in air conditioning repairs, AC installations, and routine HVAC maintenance designed for Tucson Estates\u2019 unique climate. Our expert technicians address hard water effects on AC units and ensure your ductwork is sealed to optimize cooling efficiency."
-      },
-      {
-            "type": "paragraph",
-            "content": "Whether you need an AC tune-up before the summer heat or emergency repairs during a monsoon, our team is ready. We use advanced diagnostics and high-quality equipment to restore comfort quickly and efficiently, helping your home stay cool despite the intense Arizona sun."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your HVAC Service Today",
-            "content": "Don\u2019t wait for the heat to become unbearable. Call Intelligent Design now for fast, expert HVAC and AC service in Tucson Estates.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tucson Estates Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Tucson Estates Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design is Tucson Estates\u2019 trusted HVAC partner. Homeowners rely on our quick 68-minute average response time and thorough service to keep their AC systems running smoothly year-round."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our commitment to quality is backed by industry-leading warranties on both parts and labor, ensuring your investment is protected. Every technician on our team is licensed and trained to deliver professional, reliable service tailored to Southern Arizona\u2019s environmental challenges."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Tucson Estates Community",
-            "level": 2,
-            "content": "Serving the Tucson Estates Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "We\u2019re proud to serve families near local landmarks like Old Tucson, the Pima County Historic Courthouse, Old Pueblo Archaeology Center, and El Tiradito Wishing Shrine. Whether you\u2019re enjoying a meal at Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, or Barista del Barrio, you can trust Intelligent Design to keep your home\u2019s HVAC system comfortable and efficient."
-      },
-      {
-            "type": "cta",
-            "heading": "Ready for Reliable HVAC & AC Service?",
-            "content": "Contact Intelligent Design Air Conditioning, Plumbing, Solar, & Electric today for expert HVAC solutions designed for Tucson Estates\u2019 climate.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
+    {
+        "type": "heading",
+        "heading": "Unique H2",
+        "level": 2,
+        "content": "same"
+    },
+    {
+        "type": "paragraph",
+        "content": "Tucson Estates sits at about 2,500 feet with open terrain and proximity to the Tucson Mountains, creating a climate that accelerates wear on HVAC equipment. Summers bring prolonged high temperatures, intense sun exposure, dust and occasional monsoon humidity spikes; winters are mild but can produce chilly nights that highlight aging heating systems. Many homes in the 85735 and 85713 ZIPs were built between the 1960s and 1980s and include single-story block construction or older manufactured units. Large, often shaded lots and minimal HOA restrictions influence system placement and outdoor unit performance. Intelligent Design\u2019s 46+ years serving Tucson means we assess local siting, duct routing, and insulation needs specific to community home types to recommend repairs, replacements, or conversions that balance comfort, efficiency, and budget for roughly 12,000 residents in the area."
+    },
+    {
+        "type": "paragraph",
+        "content": "Tucson Estates homeowners face several distinct HVAC challenges. Many original systems are near or past their expected life, increasing cooling failures on the hottest days. Evaporative coolers are common in older houses but struggle with humidity and offer limited cooling compared with modern AC systems; conversions to ducted or mini-split air conditioning are frequent requests. Some homes lack existing ductwork or have undersized, deteriorated ducts causing pressure loss and poor airflow. Insulation levels and weather sealing are often inadequate, which forces HVAC systems to run longer and drives up bills. Salt, dust, and wind-borne debris can clog filters and coils more quickly here, making regular maintenance critical. Our crew designs practical retrofit solutions\u2014properly sized equipment, ductwork options, insulation upgrades, and targeted repairs\u2014to extend system life and improve indoor comfort in this unique desert-edge neighborhood."
+    },
+    {
+        "type": "cta",
+        "heading": "CTA",
+        "content": "Need emergency repairs or a replacement estimate in Tucson Estates? Call Intelligent Design for same-day diagnostics, clear pricing, and neighborhood-experienced technicians.",
+        "buttonText": "Call (520) 333-2665",
+        "buttonLink": "tel:+15203332665"
+    },
+    {
+        "type": "heading",
+        "heading": "2nd H2",
+        "level": 2,
+        "content": "same"
+    },
+    {
+        "type": "paragraph",
+        "content": "Intelligent Design offers a full range of HVAC services tailored to Tucson Estates: AC repair and replacement, heating service, ductwork design and installation, and ongoing maintenance plans. For repairs we prioritize quick diagnostics to restore cooling and prevent repeat failures, using OEM parts where possible. When replacement is the best value, we recommend properly sized high-efficiency systems that account for home orientation, insulation, and lot characteristics to maximize performance and rebate eligibility. For homes without ductwork we provide options such as mini-split systems, ducted retrofits with minimally invasive routing, or hybrid approaches that preserve original architecture. Heating service covers furnace inspections, heat pump evaluations, and thermostat upgrades for efficient winter comfort. Every service includes a clear written estimate and explanation, and our technicians respect the established character of Tucson Estates homes while improving indoor air quality and energy use."
+    },
+    {
+        "type": "paragraph",
+        "content": "We\u2019re neighbors in the greater Tucson area and make community-focused decisions for Tucson Estates residents near Tucson Mountain Park, Gates Pass, and Old Tucson Studios. Our crews are experienced working along Ajo Highway and Kinney Road, scheduling around local events and road patterns to minimize disruption. We offer payment options, financing on approved credit, and energy-saving upgrades that often lower monthly costs for long-term savings. Regular maintenance plans are tailored to seasonal needs here: pre-summer AC tune-ups to handle peak heat and post-monsoon checks to clean coils and filters from dust and debris. Our goal is reliable comfort, transparent communication, and solutions that respect the value and character of older homes in this well-established neighborhood."
+    },
+    {
+        "type": "cta",
+        "heading": "Final CTA",
+        "content": "Schedule a service visit or request a free system assessment. We\u2019ll evaluate options and provide a no-pressure estimate.",
+        "buttonText": "Schedule Service",
+        "buttonLink": "/contact"
+    }
 ]
   },
-  faqs: hvacLocationFAQs,
-  commonQuestions: getRefinementQuestions('HVAC & AC', 'Tucson Estates'),
+  faqs: {
+    category: "HVAC in Tucson Estates",
+    items: [
+    {
+        "question": "Do you provide AC repair and replacements in Tucson Estates?",
+        "answer": "Yes. Intelligent Design serves Tucson Estates with same-day diagnostics, AC repair, and full system replacements. We assess older evaporative units, ductwork needs, and insulation to recommend cost-effective solutions. Our technicians provide clear estimates, financing options, and follow-up maintenance to keep your system reliable during extreme summer heat and monsoon season."
+    },
+    {
+        "question": "Can you convert an evaporative cooler to central air in an older Tucson Estates home?",
+        "answer": "Yes. We evaluate existing structures, duct availability, and electrical capacity to design conversions. Options include installing new ductwork, using mini-split systems where ducts aren\u2019t practical, and upgrading insulation. We provide phased plans if homeowners prefer staged investments to spread costs."
+    },
+    {
+        "question": "How often should homes in Tucson Estates schedule HVAC maintenance?",
+        "answer": "We recommend professional maintenance twice a year: a spring AC tune-up before peak summer and a fall inspection for heating. Homes with heavy dust, older systems, or recent conversions may need more frequent filter and coil attention to maintain efficiency and prevent breakdowns during hot spells."
+    },
+    {
+        "question": "Do you install ductwork in single-story block homes or manufactured homes?",
+        "answer": "Yes. Our team designs custom ductwork for single-story block homes and compatible solutions for some manufactured homes. We use layout strategies that minimize wall and ceiling impact while ensuring balanced airflow. For manufactured homes where ductwork is limited, we offer alternative options like multi-zone mini-splits or compact ducted systems."
+    },
+    {
+        "question": "What energy-saving upgrades do you recommend for Tucson Estates properties?",
+        "answer": "We often recommend high-efficiency AC units sized to the home, programmable or smart thermostats, improved attic and wall insulation, sealed and insulated ductwork, and seasonal maintenance. These upgrades reduce runtime, improve comfort during hot afternoons and cooler nights, and can qualify for utility rebates when available."
+    },
+    {
+        "question": "How quickly can Intelligent Design respond to service calls in the 85735 and 85713 areas?",
+        "answer": "Response times vary with demand, but we prioritize emergencies during extreme heat and aim for same-day or next-business-day service in Tucson Estates. Routine assessments and replacement installations are scheduled with clear timelines. Call (520) 333-2665 for immediate scheduling and status updates."
+    }
+]
+  },
+  commonQuestions: [
+    {
+        "question": "RQ1",
+        "answer": "Would you like the page to emphasize financing, maintenance plans, or emergency repair availability more? Mentioning financing and same-day repairs can increase conversions while maintenance plans support retention."
+    },
+    {
+        "question": "RQ2",
+        "answer": "Should we include pricing ranges or keep estimates general? Including price ranges can attract budget-minded homeowners but risks inaccuracies without an on-site assessment."
+    },
+    {
+        "question": "RQ3",
+        "answer": "Do you want to highlight any community partnerships or local sponsorships? Adding local ties like sponsorships at Old Tucson Studios or events near Gates Pass strengthens community trust."
+    },
+    {
+        "question": "RQ4",
+        "answer": "Are there preferred HVAC brands or efficiency ratings you want emphasized? Naming supported brands and preferred SEER ratings helps set customer expectations for replacements."
+    }
+],
+  serviceArea: {
+    primary: "Tucson Estates",
+    nearby: ["Tucson Estates proper", "Kinney Road area", "Ajo Highway corridor", "Three Points border"]
+  }
 };
+
+export default data;

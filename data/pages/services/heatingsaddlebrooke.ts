@@ -1,109 +1,58 @@
-// Optimized Heating page for SaddleBrooke - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { heatingLocationFAQs } from '@/data/faqs/hvac';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const heatingsaddlebrookeData: ServicePageData = {
-  // SEO & Meta
-  title: "Heating Services in SaddleBrooke, AZ | Call (520) 333-2665",
-  description: "Expert heating repair, installation & maintenance in SaddleBrooke, AZ. Trusted HVAC pros with fast response. Call (520) 333-2665 today!",
+const data: ServicePageData = {
+  title: "Heating Services in SaddleBrooke, AZ | Intelligent Design",
+  description: "Expert heating services for SaddleBrooke's 55+ community. We specialize in high-efficiency heat pumps and quiet furnaces for 85739 homes. Call (520) 333-2665.",
   slug: "heating-saddle-brooke",
-  
-  // Hero Section
-  h1: "Reliable Heating Services in SaddleBrooke, AZ",
-  h2Subheading: "Efficient Heating Repair, Installation & Maintenance Tailored for Southern Arizona",
-  tagline: "Fast Response | Licensed Technicians | 46+ Years Experience | Transparent Pricing | Comprehensive Service | Warranty Included",
-  heroImage: "/generated_images/Heating_tech_heat_pump_service_fdc5a775.webp",
-  heroImageAlt: "Professional heating technician providing expert furnace and heat pump service in SaddleBrooke Arizona active adult community",
-  
-  // Service Info
+  h1: "Heating Services in SaddleBrooke, AZ",
+  h2Subheading: "Reliable Heating Solutions for SaddleBrooke's Active Adult Community",
+  tagline: "Keeping 85739 homes comfortable through chilly mountain nights.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Heating Services in SaddleBrooke, Arizona",
   serviceName: "Heating",
   category: "HVAC",
-  
-  // Content
   highlights: [
-  {
-    "title": "68-Minute Average Response Time",
-    "description": "We prioritize your comfort with fast, reliable heating service across SaddleBrooke."
-  },
-  {
-    "title": "Top-Brand Equipment & Expert Technicians",
-    "description": "Our 52 licensed pros handle all heating systems, from furnaces to heat pumps."
-  },
-  {
-    "title": "Full-Service Heating Solutions",
-    "description": "Heating repair, installation, tune-ups, and maintenance customized for Arizona\u2019s climate."
-  },
-  {
-    "title": "Transparent & Competitive Pricing",
-    "description": "No hidden fees\u2014clear estimates and affordable options to suit your budget."
-  },
-  {
-    "title": "Experienced & Certified Team",
-    "description": "Over 46 years serving Southern Arizona with licensed, highly trained HVAC specialists."
-  },
-  {
-    "title": "Comprehensive Warranty Protection",
-    "description": "We back our work with warranties, ensuring peace of mind on every heating service."
-  }
-],
+    { title: "High-Efficiency Systems", description: "We install energy-efficient heat pumps perfect for SaddleBrooke's 3,400 ft elevation. Enjoy lower utility bills on a fixed retirement income." },
+    { title: "Quiet Operation", description: "Our premium heating systems operate whisper-quiet, ensuring peaceful living in your MountainView or Preserve section home." },
+    { title: "HOA-Compliant Installations", description: "We understand Robson Communities' strict HOA guidelines. Our installations meet all aesthetic and placement requirements for SaddleBrooke properties." },
+    { title: "Aging System Replacements", description: "Many 1990s homes in SaddleBrooke proper are due for heating upgrades. We provide seamless replacements with modern, reliable technology." },
+    { title: "Winter Frost Protection", description: "SaddleBrooke's proximity to the Catalina Mountains brings occasional winter frost. Our robust heating solutions keep your home consistently warm." },
+    { title: "White-Glove Service", description: "We respect your luxury golf course home with meticulous care. Our technicians use shoe covers and leave your property spotless." }
+  ],
   content: {
-    mainHeading: "Reliable Heating Services in SaddleBrooke, AZ",
+    mainHeading: "Heating Services in SaddleBrooke, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Heating Services Designed for SaddleBrooke\u2019s Climate",
-            "level": 2,
-            "content": "Heating Services Designed for SaddleBrooke\u2019s Climate"
-      },
-      {
-            "type": "paragraph",
-            "content": "SaddleBrooke homeowners face unique heating challenges due to Southern Arizona's desert climate. While winters are mild, sudden cold snaps demand reliable heating systems capable of efficient performance without excessive energy use. Our heating repairs and installations focus on optimizing heat pumps and furnaces to handle temperature swings and minimize wear from dry air and dust."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our heating maintenance and tune-up services ensure your system runs smoothly through the cooler months. We inspect key components for damage from hard water mineral buildup, check airflow, and recalibrate thermostats for maximum efficiency. Regular upkeep helps prevent breakdowns during unexpected cold spells common in the Tucson area."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Heating Repairs or Installation?",
-            "content": "Contact Intelligent Design for prompt, expert heating service in SaddleBrooke. Stay comfortable year-round!",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why SaddleBrooke Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years serving the greater Tucson area, Intelligent Design has earned a stellar 4.97-star Google rating from more than 23,000 satisfied customers. Our commitment to quality workmanship and honest service makes us a trusted choice for heating needs in SaddleBrooke. We combine local expertise with cutting-edge HVAC technology to deliver lasting comfort."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind every heating repair and installation with comprehensive warranties, ensuring your investment is protected. Our team of 52 licensed technicians undergoes continuous training to stay current on industry best practices, so you receive expert service on every call, backed by transparent pricing and clear communication."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the SaddleBrooke Community",
-            "level": 2,
-            "content": "Serving the SaddleBrooke Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving SaddleBrooke and the surrounding Tucson area, we understand local needs shaped by landmarks like the Historic Kannally Ranch House, Oracle Historical Society, Oracle State Park, and the iconic Vista Sun Wheel. Our technicians live and work nearby, often enjoying meals at local favorites such as Fork & Fire Catalina Grill, Riot Grill, The Preserve Fine Dining, and The Roadrunner Grill. This connection drives our dedication to exceptional heating service in your neighborhood."
-      },
-      {
-            "type": "cta",
-            "heading": "Ready for Reliable Heating Service?",
-            "content": "Call Intelligent Design today to schedule your heating repair, installation, or maintenance in SaddleBrooke.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Heating Challenges at 3,400 Ft Elevation", level: 2, content: "same" },
+      { type: "paragraph", content: "Living in SaddleBrooke offers stunning views of the Catalina Mountains and a fantastic active adult lifestyle, but the 3,400-foot elevation brings unique climate challenges. While the cooler temperatures are a welcome relief during summer, winter nights in the 85739 zip code can drop significantly, bringing occasional frost. This makes a reliable heating system essential for your comfort. Many homes built in the 1990s and early 2000s in SaddleBrooke proper and older sections are now experiencing failing furnaces or inefficient heat pumps. As these aging systems struggle to keep up with the chilly mountain air, residents often face uneven heating and rising energy costs. At Intelligent Design, we understand the specific heating demands of SaddleBrooke's luxury single-story homes and provide tailored solutions to ensure your comfort year-round." },
+      { type: "paragraph", content: "For residents on a fixed retirement income, energy efficiency is a top priority. Older heating units not only cost more to run but also tend to be noisy, disrupting the peaceful environment of your golf course home. Furthermore, navigating the strict HOA guidelines of Robson Communities for exterior equipment placement can be daunting. Our team specializes in high-efficiency heat pump conversions and premium furnace installations that deliver whisper-quiet operation and comply with all local HOA requirements. Whether you live in SaddleBrooke Ranch, the MountainView sections, or the Preserve, we have the expertise to upgrade your heating system seamlessly, providing consistent warmth without the disruptive noise or high utility bills." },
+      { type: "cta", heading: "Need Reliable Heating in SaddleBrooke?", content: "Don't let a chilly mountain night disrupt your comfort. Contact Intelligent Design for expert heating services tailored to your 55+ community.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Premium Heating Solutions for Your Luxury Home", level: 2, content: "same" },
+      { type: "paragraph", content: "Intelligent Design offers comprehensive heating services designed specifically for the premium homes in SaddleBrooke. We know that residents value quality, reliability, and unobtrusive service. Our technicians are highly trained in installing and maintaining top-tier heating equipment that meets the high standards of your community. From routine maintenance that extends the life of your current system to full replacements with state-of-the-art, ultra-quiet heat pumps, we handle it all. We also address ductwork issues that may be causing uneven temperatures in your single-story luxury home, ensuring optimal airflow and comfort in every room. Our white-glove service guarantees that your property is treated with the utmost respect during every visit." },
+      { type: "paragraph", content: "As a company with over 46 years of experience and a 4.97-star rating from over 3,600 reviews, Intelligent Design is deeply committed to serving the SaddleBrooke community. We are familiar with the local architecture, from the stucco exteriors to the tile roofs, and understand how to integrate modern heating solutions flawlessly. We pride ourselves on transparent pricing, punctual service, and a dedication to customer satisfaction that resonates with the values of SaddleBrooke residents. Trust us to keep your home warm and comfortable, allowing you to fully enjoy the resort-style amenities and active lifestyle that make SaddleBrooke such a wonderful place to live." },
+      { type: "cta", heading: "Schedule Your Heating Service Today", content: "Experience the Intelligent Design difference. Book your heating maintenance, repair, or installation in SaddleBrooke now.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: heatingLocationFAQs,
-  commonQuestions: getRefinementQuestions('Heating', 'SaddleBrooke'),
+  faqs: {
+    category: "Heating in SaddleBrooke",
+    items: [
+      { question: "Do you service homes in all sections of SaddleBrooke?", answer: "Yes, Intelligent Design provides expert heating services throughout the entire 85739 zip code, including SaddleBrooke proper, SaddleBrooke Ranch, the MountainView sections, and the Preserve. We are familiar with the different home styles and aging systems across the community." },
+      { question: "Are your heating installations compliant with SaddleBrooke HOA rules?", answer: "Absolutely. We have extensive experience working within the strict HOA guidelines of Robson Communities. We ensure that all exterior heating equipment, such as heat pumps, meets aesthetic and placement requirements for your SaddleBrooke home." },
+      { question: "What is the best heating system for the 3,400 ft elevation in SaddleBrooke?", answer: "For SaddleBrooke's elevation and climate, high-efficiency heat pumps are an excellent choice. They provide reliable heating during chilly mountain nights and occasional winter frost, while offering energy savings that are ideal for residents on a fixed retirement income." },
+      { question: "My 1990s SaddleBrooke home has a noisy furnace. Can you help?", answer: "Yes, many original heating systems in older SaddleBrooke sections are reaching the end of their lifespan and becoming noisy. We specialize in upgrading these aging units to modern, whisper-quiet furnaces or heat pumps that won't disrupt your peaceful environment." },
+      { question: "Do you offer maintenance plans for SaddleBrooke residents?", answer: "We highly recommend regular maintenance for heating systems in SaddleBrooke to ensure optimal performance and longevity. Our comprehensive maintenance programs are designed to keep your premium equipment running smoothly and efficiently year after year." },
+      { question: "How quickly can you respond to a heating emergency in SaddleBrooke?", answer: "We understand that losing heat during a cold night near the Catalina Mountains is uncomfortable. Intelligent Design offers prompt, reliable service to the SaddleBrooke area to address heating emergencies quickly and restore comfort to your home." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I replace my heating system's filter?", answer: "For optimal performance, especially with the high-efficiency systems common in SaddleBrooke, we recommend checking your filter monthly and replacing it every 1-3 months, depending on usage and whether you have pets." },
+    { question: "What are the signs that my furnace needs replacing?", answer: "Key indicators include unusual noises, frequent repairs, uneven heating across your single-story home, rising energy bills, and if the system is over 15 years old, which is common in early SaddleBrooke builds." },
+    { question: "Can a new heat pump really lower my utility bills?", answer: "Yes, modern high-efficiency heat pumps use significantly less energy than older models or traditional electric furnaces, providing substantial savings on your monthly utility bills, which is great for retirement budgeting." },
+    { question: "Do you provide free estimates for new heating installations?", answer: "Yes, Intelligent Design offers free, no-obligation estimates for new heating system installations. We will assess your home's specific needs and provide a transparent quote tailored to your SaddleBrooke property." }
+  ],
+  serviceArea: {
+    primary: "SaddleBrooke",
+    nearby: ["Oracle", "Catalina", "Oro Valley"]
+  }
 };
+
+export default data;

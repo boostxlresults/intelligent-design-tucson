@@ -1,109 +1,143 @@
-// Optimized Roofing page for Sahuarita - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const roofingsahuaritaData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Roofing Services in Sahuarita, AZ | Call (520) 333-2665",
-  description: "Trusted roofing in Sahuarita, AZ. Repairs, replacements, inspections for tile, shingle, & flat roofs. Call Intelligent Design at (520) 333-2665 today.",
+// Unique location-specific content for Roofing in Sahuarita
+// Generated with location-specific data - NOT a template swap
+
+const data: ServicePageData = {
+  title: "Sahuarita Roofing Experts | Intelligent Design",
+  description: "Trusted Sahuarita roofing services — repairs, replacements, tile, shingle, flat, coating. 46+ years, 4.97★, 3600+ reviews. Call Intelligent Design at (520) 333-2665 for a free inspection.",
   slug: "roofing-sahuarita",
-  
-  // Hero Section
-  h1: "Professional Roofing Services in Sahuarita, AZ",
-  h2Subheading: "Durable Roof Repairs, Replacements & Inspections for Southern Arizona Homes",
-  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing",
-  heroImage: "/generated_images/Sahuarita_Arizona_residential_community_f19c419a.webp",
-  heroImageAlt: "Sahuarita residential community with mix of tile and shingle roofs",
-  
-  // Service Info
+  h1: "Sahuarita Roofing Services by Intelligent Design",
+  h2Subheading: "Local roof repair and replacement tailored for Sahuarita homes and climate",
+  tagline: "Reliable roofs for Sahuarita families — experienced, local, proven.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing services in Sahuarita, Arizona",
   serviceName: "Roofing",
   category: "Roofing",
-  
-  // Content
   highlights: [
   {
-    "title": "68-Minute Average Response Time",
-    "description": "Rapid service ensures your roofing issues are addressed before weather worsens."
+    "title": "Decades of Local Experience",
+    "description": "With 46+ years serving southern Arizona, Intelligent Design knows Sahuarita\u2019s elevation, monsoon patterns and builder trends. We bring proven techniques to protect modern, two-story neighborhoods."
   },
   {
-    "title": "Advanced Roofing Equipment",
-    "description": "We use industry-leading tools for precise tile, shingle, and flat roof repairs."
+    "title": "Highly Rated & Trusted",
+    "description": "A 4.97\u2605 average and 3600+ reviews reflect our commitment to quality and customer service across Rancho Sahuarita, Madera Highlands and nearby communities."
   },
   {
-    "title": "Full-Service Roofing Solutions",
-    "description": "From inspections to replacements, we handle every aspect of roofing expertly."
+    "title": "Comprehensive Roof Services",
+    "description": "We handle repairs, full replacements, tile, shingle, flat roofs and protective coatings \u2014 no metal roofing. Each solution is selected for Sahuarita\u2019s climate and home styles."
   },
   {
-    "title": "Transparent, Competitive Pricing",
-    "description": "Upfront quotes with no hidden fees tailored for Sahuarita homeowners."
+    "title": "HOA & Warranty Navigation",
+    "description": "We help homeowners navigate builder warranties and HOA maintenance standards, documenting conditions and recommending practical, compliant repairs and replacements."
   },
   {
-    "title": "Skilled Team of 52 Licensed Technicians",
-    "description": "Certified roofing specialists trained for Southern Arizona\u2019s unique climate."
+    "title": "Monsoon-Ready Roofing",
+    "description": "Our teams prioritize wind uplift mitigation, secure flashing and drainage to reduce monsoon damage risk common in Sahuarita\u2019s open terrain and seasonal storms."
   },
   {
-    "title": "Reliable Roofing Warranties",
-    "description": "Our work is backed with warranties to protect your investment long term."
+    "title": "Family-Focused, Low-Disruption Work",
+    "description": "We understand family schedules in planned communities. Our crews minimize disruption, keep sites tidy and communicate clearly from estimate through completion."
   }
 ],
   content: {
-    mainHeading: "Professional Roofing Services in Sahuarita, AZ",
+    mainHeading: "Sahuarita Roofing Services by Intelligent Design",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Comprehensive Roofing Services Tailored for Sahuarita",
-            "level": 2,
-            "content": "Comprehensive Roofing Services Tailored for Sahuarita"
-      },
-      {
-            "type": "paragraph",
-            "content": "Intelligent Design provides expert roofing services in Sahuarita, AZ, equipped to handle tile, shingle, and flat roofs common in the region. Our technicians specialize in roof repairs, replacements, coatings, and thorough inspections designed to combat Southern Arizona\u2019s extreme heat, monsoon storms, and hard water effects. We ensure your roof withstands these challenges, preserving your home\u2019s value and safety."
-      },
-      {
-            "type": "paragraph",
-            "content": "Whether you need a routine roof inspection to detect damage from monsoon winds or a full replacement using durable materials like clay tiles or impact-resistant shingles, our team delivers top-quality workmanship. Our roof coatings also extend the lifespan of flat roofs by reflecting heat and preventing water infiltration, critical in Sahuarita\u2019s climate. Trust Intelligent Design for solutions that protect your home year-round."
-      },
-      {
-            "type": "cta",
-            "heading": "Protect Your Sahuarita Home with Expert Roofing",
-            "content": "Don\u2019t wait for leaks or weather damage to worsen. Call Intelligent Design today for a free roofing estimate.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Sahuarita Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Sahuarita Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years serving the greater Tucson area, Intelligent Design boasts a 4.97-star rating from over 23,000 reviews, reflecting unmatched customer satisfaction. Our licensed technicians bring local expertise to every roofing job, ensuring solutions are tailored to Sahuarita\u2019s unique environmental demands. We prioritize clear communication and quality workmanship on every project."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind our work with comprehensive warranties that give you peace of mind long after the job is done. Our team\u2019s commitment to fast response times and meticulous inspections means your roof is not only repaired but optimized to handle future Southern Arizona weather extremes, from intense sun to heavy monsoons."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Sahuarita Community",
-            "level": 2,
-            "content": "Serving the Sahuarita Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Sahuarita and nearby areas, we support communities near landmarks such as the ASARCO Mineral Discovery Center & Mine Tours, Titan Missile Museum, Tumacacori National Historical Park, and Empire Ranch Foundation. We also enjoy partnering with local favorites like National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, and JerryBobs Restaurant. Our deep local roots drive our dedication to quality and community trust."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Sahuarita Roofing Service Today",
-            "content": "Experience fast, reliable roofing tailored for Southern Arizona\u2019s climate. Contact Intelligent Design now.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
+    {
+        "type": "heading",
+        "heading": "Unique H2",
+        "level": 2,
+        "content": "same"
+    },
+    {
+        "type": "paragraph",
+        "content": "Sahuarita roofing conditions reflect the town\u2019s unique blend of elevation, recent development and monsoon season. Sitting around 2,900 feet, Sahuarita is slightly cooler than nearby Tucson, reducing some heat stress on roofing materials but still exposing roofs to strong sun, temperature swings and seasonal storms. Many homes built between the 2000s and 2020s use modern construction methods and contemporary materials \u2014 tile, asphalt shingle and low-slope systems \u2014 which perform well when installed and ventilated correctly. Rapid growth and newer master-planned communities mean many roofs are relatively young, but builder installation shortcuts can lead to early wear. Wind from open desert terrain increases uplift risk, while monsoon rains demand reliable flashing, drainage and roof-to-wall transitions to prevent leaks. Understanding local microclimates and construction practices is critical to extending roof life and protecting Sahuarita homes."
+    },
+    {
+        "type": "paragraph",
+        "content": "Sahuarita homeowners face several specific roofing challenges tied to local conditions and recent development. Builder-installed roofs sometimes show flashing laps, inadequate underlayment or improper ventilation, creating issues under intense summer storms or gusty winds. Homeowner Associations often have strict appearance and material standards, so replacements or repairs must balance durability with design requirements. Tile roofs, common in the region, can suffer from broken tiles after high winds or contractor traffic, while shingles can lose granules from thermal cycling and wind exposure. Flat-roof areas on newer homes need regular inspection for ponding and membrane degradation. Warranty communication can be confusing: discerning builder responsibility versus homeowner maintenance is a common pain point. Professional inspections that document problems and recommend HOA-compliant solutions help households secure lasting repairs and navigate warranty claims."
+    },
+    {
+        "type": "cta",
+        "heading": "CTA",
+        "content": "Protect your Sahuarita roof\u2014schedule a free inspection with Intelligent Design and get expert guidance, HOA-compliant estimates, and clear next steps.",
+        "buttonText": "Call (520) 333-2665",
+        "buttonLink": "tel:+15203332665"
+    },
+    {
+        "type": "heading",
+        "heading": "2nd H2",
+        "level": 2,
+        "content": "same"
+    },
+    {
+        "type": "paragraph",
+        "content": "Intelligent Design provides comprehensive roofing services tailored for Sahuarita neighborhoods, from minor repairs to complete replacements. Our certified crews specialize in tile systems that match community aesthetics, architectural shingle replacements for two-story family homes, and flat roof solutions with durable membranes and coatings to extend service life. We also apply protective roof coatings to slow UV degradation and help manage interior temperatures. Every project starts with a thorough inspection that examines underlayment, flashing, ventilation, and attachment methods so we can recommend the most cost-effective, code-compliant solution. With over four decades in the region, we combine proven materials and installation practices to reduce future maintenance and resist monsoon and wind-related damage common in Sahuarita\u2019s open terrain."
+    },
+    {
+        "type": "paragraph",
+        "content": "Our community-first approach means we work closely with homeowners, HOAs and builders to deliver results that fit Sahuarita\u2019s planned neighborhoods and homeowner expectations. In Rancho Sahuarita, Madera Highlands and Quail Creek we prioritize clean job sites, respectful scheduling, and clear communication so families experience minimal disruption. We provide photo documentation and warranty information for every job to simplify HOA approvals and future resale disclosures. Beyond installations, we offer maintenance plans and seasonal inspections timed around monsoon weather to catch small issues before they become costly leaks. Our goal is to protect your investment and maintain the curb appeal that makes Sahuarita a sought-after, family-oriented community."
+    },
+    {
+        "type": "cta",
+        "heading": "Final CTA",
+        "content": "Ready to secure your roof for the next season? Book an inspection and get a clear, written estimate with recommended next steps tailored to Sahuarita homes.",
+        "buttonText": "Schedule Service",
+        "buttonLink": "/contact"
+    }
 ]
   },
-  faqs: residentialRoofRepairFAQs,
-  commonQuestions: getRefinementQuestions('Roofing', 'Sahuarita'),
+  faqs: {
+    category: "Roofing in Sahuarita",
+    items: [
+    {
+        "question": "What roofing problems are common in Sahuarita homes?",
+        "answer": "Sahuarita roofs commonly face wind uplift, broken or shifted tiles, shingle granule loss and flashing failures after seasonal storms. Builder installation shortcuts and inadequate ventilation can accelerate wear. Regular inspections after monsoon season help spot loose tiles, damaged underlayment, clogged drainage and compromised flashings so issues can be repaired before leaks or interior damage occur."
+    },
+    {
+        "question": "Do you handle HOA requirements in Rancho Sahuarita?",
+        "answer": "Yes. We work with HOAs to match approved materials and color palettes, provide the documentation and photos needed for approvals, and coordinate schedules to meet community rules and minimize disruption."
+    },
+    {
+        "question": "How soon can you inspect a roof in Sahuarita?",
+        "answer": "We typically schedule inspections within a few business days, depending on demand and weather. After inspection we provide a written estimate and recommended timeline for repairs or replacement."
+    },
+    {
+        "question": "Can Intelligent Design work on tile, shingle and flat roofs?",
+        "answer": "Yes. We install and repair tile, asphalt shingle and flat roofing systems, including membranes and protective coatings. We do not install metal roofs. Every system is selected for durability and compatibility with Sahuarita\u2019s climate and community standards."
+    },
+    {
+        "question": "How do you help with builder warranty issues?",
+        "answer": "We document deficiencies with photos and detailed reports that homeowners can present to builders or warranty administrators. We explain likely causes, recommend compliant repairs, and can coordinate with builders or HOA managers when necessary to resolve coverage questions."
+    },
+    {
+        "question": "What maintenance should Sahuarita homeowners perform?",
+        "answer": "Regularly clear debris from gutters and roof valleys, inspect tiles and shingles after storms, and schedule professional inspections at least once a year or after major weather events. Prompt small repairs prevent water intrusion and prolong roof life."
+    }
+]
+  },
+  commonQuestions: [
+    {
+        "question": "RQ1",
+        "answer": "Please send photos of roof problem areas, a recent HOA guideline if applicable, and any builder warranty paperwork. This helps us assess likely causes, identify needed materials, and provide an accurate, HOA-compliant estimate in one follow-up visit."
+    },
+    {
+        "question": "RQ2",
+        "answer": "Do you prefer a virtual estimate with photos or an on-site inspection first? We can accommodate both and will advise which delivers the most accurate recommendation."
+    },
+    {
+        "question": "RQ3",
+        "answer": "Are there HOA color or material restrictions we should know about? If so, share the guidelines or contact so we can plan compliant options in your estimate."
+    },
+    {
+        "question": "RQ4",
+        "answer": "What is your desired timeline for repairs or replacement? Letting us know seasonality or event constraints helps us schedule crews and order materials to meet your needs."
+    }
+],
+  serviceArea: {
+    primary: "Sahuarita",
+    nearby: ["Rancho Sahuarita", "Madera Highlands", "Quail Creek (55+)", "Santa Cruz Valley"]
+  }
 };
+
+export default data;

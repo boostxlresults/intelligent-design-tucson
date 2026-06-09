@@ -1,107 +1,143 @@
-// Optimized Roofing page for Gladden Farms - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const roofinggladdenfarmsData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Roofing Services in Gladden Farms, AZ | Call (520) 333-2665",
-  description: "Top roofing in Gladden Farms, AZ. Reliable roof repair, replacement, and inspections. Call Intelligent Design at (520) 333-2665 for expert service.",
+// Unique location-specific content for Roofing in Gladden Farms
+// Generated with location-specific data - NOT a template swap
+
+const data: ServicePageData = {
+  title: "Gladden Farms Roofing Services | Intelligent Design",
+  description: "Trusted roofing in Gladden Farms: repairs, replacements, tile, shingle, flat & coatings. 46+ years, 4.97★. Call (520) 333-2665 for fast local service.",
   slug: "roofing-gladden-farms",
-  
-  // Hero Section
-  h1: "Professional Roofing Services in Gladden Farms, AZ",
-  h2Subheading: "Durable Roof Repair, Replacement & Inspections Tailored for Southern Arizona",
-  tagline: "68-Minute Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | 4.97-Star Rated | Comprehensive Warranty",
+  h1: "Gladden Farms Roofing Services",
+  h2Subheading: "Expert roof repair, replacement and coatings for Gladden Farms homes",
+  tagline: "Durable roofs for modern Gladden Farms homes — local, experienced, reliable.",
   heroImage: "/images/placeholder.webp",
-  heroImageAlt: "Roofing Gladden Farms in Tucson",
-  
-  // Service Info
+  heroImageAlt: "Roofing services in Gladden Farms, Arizona",
   serviceName: "Roofing",
   category: "Roofing",
-  
-  // Content
   highlights: [
   {
-    "title": "Rapid 68-Minute Response",
-    "description": "We respond quickly to roofing emergencies to protect your home from monsoon damage."
+    "title": "Local Expertise",
+    "description": "We know Gladden Farms microclimate \u2014 hotter summers, monsoon storms and new-community construction nuances. Our technicians tailor repairs and installations to protect homes built in the 2010s\u20132020s."
   },
   {
-    "title": "Expertise with Advanced Equipment",
-    "description": "Our 52 licensed technicians use state-of-the-art tools for precise roof inspections and repairs."
+    "title": "46+ Years Experience",
+    "description": "Intelligent Design brings decades of roofing expertise to your neighborhood, backed by a 4.97\u2605 rating and more than 3,600 reviews. We handle warranty navigation and builder-related issues."
   },
   {
-    "title": "Comprehensive Roofing Solutions",
-    "description": "From tile and shingle to flat roofs, coatings, and inspections, we cover all roofing needs."
+    "title": "Quality Materials",
+    "description": "We install industry-standard tile, shingle, flat systems and protective roof coatings designed for high-heat, sun-exposed Arizona roofs \u2014 metal roofing is not part of our offerings."
   },
   {
-    "title": "Transparent, Competitive Pricing",
-    "description": "Clear estimates with no hidden fees ensure you get the best value for your roofing project."
+    "title": "HOA-Savvy Service",
+    "description": "Working in a master-planned community requires HOA coordination; we handle color selections, approval support and minimal-disruption scheduling to comply with neighborhood guidelines."
   },
   {
-    "title": "Highly Qualified Roofing Team",
-    "description": "Decades of experience combined with specialized Southern Arizona roofing knowledge."
+    "title": "Fast Response",
+    "description": "Hot summers and monsoon season make quick repairs essential. We prioritize emergency leaks, storm damage and preventive checks to protect your investment."
   },
   {
-    "title": "Reliable Warranty Coverage",
-    "description": "Our roofing services come with strong warranties to safeguard your investment."
+    "title": "Warranty Assistance",
+    "description": "Builder shortcuts like thin underlayment or minimal flashing are common; we document issues, advise on warranty coverage and coordinate with manufacturers to get lasting solutions."
   }
 ],
   content: {
-    mainHeading: "Professional Roofing Services in Gladden Farms, AZ",
+    mainHeading: "Gladden Farms Roofing Services",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Roofing Services Designed for Gladden Farms\u2019 Unique Climate",
-            "level": 2,
-            "content": "Expert Roofing Services Designed for Gladden Farms\u2019 Unique Climate"
-      },
-      {
-            "type": "paragraph",
-            "content": "Gladden Farms homeowners face intense Southern Arizona climate challenges like extreme heat, monsoon storms, and hard water exposure. Our roofing services are designed with these factors in mind, ensuring durability and long-lasting protection. Whether it\u2019s roof repair, replacement, or a thorough inspection, we use materials and techniques suited for tile, shingle, and flat roofs that stand up to these conditions."
-      },
-      {
-            "type": "paragraph",
-            "content": "We specialize in roof coatings that protect against UV damage and water intrusion, extending roof life. Our comprehensive inspections detect early signs of damage from heat warping or monsoon wear. Intelligent Design\u2019s experienced technicians use advanced diagnostic tools to provide reliable assessments and quality solutions tailored to your home\u2019s roofing system."
-      },
-      {
-            "type": "cta",
-            "heading": "Protect Your Gladden Farms Home with Expert Roofing Today",
-            "content": "Don\u2019t wait for leaks or damage to worsen. Call Intelligent Design now for fast, professional roofing services in Gladden Farms, AZ.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design",
-            "content": ""
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star Google rating from 23,000+ reviews, Intelligent Design is Gladden Farms\u2019 trusted roofing expert. Our commitment to quality workmanship and transparent communication keeps customers coming back. We back every roofing project with strong warranties, giving you peace of mind in Southern Arizona\u2019s demanding environment."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our team of 52 licensed technicians is trained specifically to handle the roofing challenges posed by the desert heat, monsoon rains, and hard water conditions prevalent in the Tucson area. This local expertise ensures your roof is built and maintained for optimal performance and longevity."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Gladden Farms Community",
-            "content": ""
-      },
-      {
-            "type": "paragraph",
-            "content": "We are proud to serve the Gladden Farms area and nearby landmarks including Picture Rock Petroglyphs, Marana Heritage River Park, Marana Falls, and the iconic Downtown Marana Sign with its Cowboy Statue. After a roofing service visit, enjoy local favorites like Luna Cafe, Ol\u2019 Pot Hole, Sky Rider Cafe, or Taqueria Plaza's. Our deep community roots help us understand the unique roofing needs of this vibrant neighborhood."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Gladden Farms Roofing Service Today",
-            "content": "Ready for expert roofing tailored to Gladden Farms\u2019 climate and architecture? Contact Intelligent Design for a free consultation.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
+    {
+        "type": "heading",
+        "heading": "Understanding Gladden Farms Roofing Conditions",
+        "level": 2,
+        "content": "Understanding Gladden Farms Roofing Conditions"
+    },
+    {
+        "type": "paragraph",
+        "content": "Gladden Farms sits at about 2,100 feet with lower-elevation Arizona heat, open yards and young landscaping that provides minimal shade, so roofs here face intense sun, UV exposure and significant temperature swings. Homes built in the 2010s\u20132020s often use modern, energy-efficient materials and common two-story designs that increase attic temperatures and roof stress. Frequent summertime heat accelerates shingle aging and causes thermal movement in tiles and flashing. Monsoon season adds heavy wind-driven rain, debris and occasional debris impact that can dislodge tiles or expose weak points in underlayment. Because lots are smaller and houses closer together, related drainage and runoff issues may affect neighboring roofs and gutters. Regular inspections, UV-resistant materials, proper ventilation and attention to flashing details are essential to prevent premature failures and maintain energy-efficient performance."
+    },
+    {
+        "type": "paragraph",
+        "content": "Newer construction in Gladden Farms can show builder shortcuts: thin or single-layer underlayment, minimal or improperly installed flashing around chimneys, vents and roof-to-wall transitions, and sometimes insufficient attention to roof penetrations. These issues are often hidden beneath tile or shingles until leaks appear during monsoon rains. Warranty navigation becomes a critical service \u2014 we help homeowners document defects, inspect installations for workmanship problems, and communicate with builders or manufacturers to pursue warranty claims. Heat also affects adhesive seals and fasteners; exposed nails and degraded seals create entry points for water. For flat roofs, ponding can occur on shorter roof runs or where roof drains are clogged or undersized. Proactive maintenance, targeted upgrades like improved underlayment or additional flashing, and professional coating applications can extend service life and restore protection."
+    },
+    {
+        "type": "cta",
+        "heading": "CTA",
+        "content": "Call Intelligent Design for a local roof assessment, warranty help, or emergency repairs in Gladden Farms. Our team documents issues, provides clear estimates, and works with builders and HOAs when needed.",
+        "buttonText": "Call (520) 333-2665",
+        "buttonLink": "tel:+15203332665"
+    },
+    {
+        "type": "heading",
+        "heading": "Our Roofing Services for Gladden Farms",
+        "level": 2,
+        "content": "Our Roofing Services for Gladden Farms"
+    },
+    {
+        "type": "paragraph",
+        "content": "Intelligent Design provides full-service roofing solutions tailored for Gladden Farms: roof repair, full replacement, tile and shingle installations, low-slope flat roofing systems and protective roof coatings. We inspect attic ventilation, underlayment condition, flashing, gutters and roof penetrations, delivering fixed-price estimates and clear timelines. For replacements we recommend materials selected for high-heat resistance and longevity; tile systems are matched for local color and HOA standards, while asphalt shingles are high-UV rated and properly vented. Flat roofs receive evaluations for drainage and membrane integrity; coatings are applied where appropriate to extend life and reduce interior heat gain. Our technicians follow manufacturer installation guidelines and document work to support warranties and future resale disclosures."
+    },
+    {
+        "type": "paragraph",
+        "content": "As an active member of the community around Gladden Farms Phase I, Phase II and The Preserve at Gladden Farms, we understand neighborhood rhythms \u2014 from activities at Gladden Farms Community Park to traffic on the Tangerine Road corridor and trails near Marana Heritage River Park. We schedule service to minimize disruption to families, coordinate with HOAs for aesthetic approvals, and provide written reports you can use for resale or insurance claims. Our local crews are familiar with phase-specific builder practices and common problem spots, so we can advise homeowners and HOA boards on preventive programs, group maintenance plans, and community-wide roofing priorities to protect property values and curb appeal."
+    },
+    {
+        "type": "cta",
+        "heading": "Final CTA",
+        "content": "Ready to protect your Gladden Farms roof? Schedule a detailed inspection or request a warranty review today. We\u2019ll provide an honest assessment and options that match your home and HOA requirements.",
+        "buttonText": "Schedule Service",
+        "buttonLink": "/contact"
+    }
 ]
   },
-  faqs: residentialRoofRepairFAQs,
-  commonQuestions: getRefinementQuestions('Roofing', 'Gladden Farms'),
+  faqs: {
+    category: "Roofing in Gladden Farms",
+    items: [
+    {
+        "question": "Do you service roofs in Gladden Farms and help with builder warranties?",
+        "answer": "Yes. We regularly service roofs in Gladden Farms, including Phase I, Phase II and The Preserve. Our team documents installation issues like thin underlayment or missing flashing, provides inspection reports and helps homeowners pursue builder or manufacturer warranties. We coordinate directly with builders or warranty providers when possible and will recommend repairs or replacements if warranty coverage is insufficient."
+    },
+    {
+        "question": "What roofing types do you install in Gladden Farms?",
+        "answer": "We install tile, asphalt shingle, and low-slope flat roofing systems, and we offer protective roof coatings. We do not install metal roofing. Material choices are recommended based on heat resistance, HOA guidelines and the specific roof configuration of your Gladden Farms home."
+    },
+    {
+        "question": "How do you handle HOA requirements and color approvals?",
+        "answer": "We assist with HOA coordination by providing color samples, scope documents and installation timelines. Our team will work with homeowners to meet community guidelines, submit required paperwork when requested, and schedule work to minimize disruption and comply with HOA rules."
+    },
+    {
+        "question": "When should I call for an inspection after a monsoon in Gladden Farms?",
+        "answer": "Schedule an inspection immediately after heavy storms if you see missing tiles or shingles, interior leaks, water stains, or debris buildup in gutters. Early inspection helps prevent secondary damage to attics, insulation and interior finishes and documents storm-related issues for insurance claims."
+    },
+    {
+        "question": "Can coatings help with heat and extend my roof life?",
+        "answer": "Yes. Reflective roof coatings can reduce heat absorption on flat or low-slope roofs and extend membrane life by protecting from UV degradation. Coatings are evaluated case-by-case for compatibility with existing materials and local climate needs."
+    },
+    {
+        "question": "How much does a roof replacement cost in Gladden Farms?",
+        "answer": "Costs vary with roof size, material, complexity and HOA requirements. Tile replacements typically cost more than asphalt shingles; flat roof systems and coatings depend on membrane condition and drainage needs. We provide free, on-site estimates and transparent pricing after inspection."
+    }
+]
+  },
+  commonQuestions: [
+    {
+        "question": "What additional neighborhood details would you like included?",
+        "answer": "Tell us if you want mentions of specific streets, nearby schools, HOA board contacts, homeowner demographics, or common scheduling constraints. Also indicate whether homeowners prefer evening or weekend appointments so we can tailor call-to-action timing and service messaging."
+    },
+    {
+        "question": "Do you want service pricing examples or financing options listed?",
+        "answer": "We can include typical price ranges and financing or payment plan details if you prefer. Indicate whether to display starting costs for shingle, tile and flat roof work or keep numbers off the page for lead-generation purposes."
+    },
+    {
+        "question": "Should we add before-and-after project photos or case studies from Gladden Farms?",
+        "answer": "Including local project photos or short case studies boosts trust and SEO. If you have photos, upload a few high-resolution images with homeowner permission; we\u2019ll craft captions and alt text focused on Gladden Farms results and common fixes like flashing upgrades and underlayment replacements."
+    },
+    {
+        "question": "Any preferred tone or compliance notes for HOA language?",
+        "answer": "Specify if you want a more technical tone for contractor audiences or a friendly homeowner-focused voice. Also let us know if the HOA requires pre-approval language or specific disclaimers so we can incorporate compliant phrasing into the content."
+    }
+],
+  serviceArea: {
+    primary: "Gladden Farms",
+    nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
+  }
 };
+
+export default data;

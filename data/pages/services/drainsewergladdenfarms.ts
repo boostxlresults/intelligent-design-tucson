@@ -1,109 +1,58 @@
-// Optimized Drain & Sewer page for Gladden Farms - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
-import { sewerLineRepairFAQs } from '@/data/faqs/plumbing';
+import type { ServicePageData } from "@/types/services";
 
-export const drainsewergladdenfarmsData: ServicePageData = {
-  // SEO & Meta
-  title: "Drain & Sewer Services in Gladden Farms, AZ | Call (520) 333-2665",
-  description: "Expert drain & sewer services in Gladden Farms, AZ. Fast response, trenchless repairs, and camera inspections. Call (520) 333-2665 today!",
+const data: ServicePageData = {
+  title: "Drain & Sewer Services in Gladden Farms, AZ | Intelligent Design",
+  description: "Expert drain and sewer services in Gladden Farms, AZ. From camera inspections to trenchless repairs, we handle slow drainage and construction debris issues.",
   slug: "drain-sewer-gladden-farms",
-  
-  // Hero Section
-  h1: "Drain & Sewer Services in Gladden Farms, AZ",
-  h2Subheading: "Reliable Plumbing Solutions for Your Home’s Drainage Needs",
-  tagline: "Fast Response | Trenchless Repair Experts | 46+ Years Experience | Licensed Technicians | Upfront Pricing | Satisfaction Guaranteed",
-  heroImage: "/generated_images/Plumbing_service_work_e21d02b3.webp",
-  heroImageAlt: "Professional drain and sewer service in Gladden Farms",
-  
-  // Service Info
+  h1: "Drain & Sewer Services in Gladden Farms",
+  h2Subheading: "Modern Plumbing Solutions for Marana's Master-Planned Community",
+  tagline: "Reliable Sewer Line Repair and Drain Clearing for Your Gladden Farms Home",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Drain and Sewer Services in Gladden Farms, Arizona",
   serviceName: "Drain & Sewer",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid 68-Minute Average Response",
-    "description": "Our skilled team arrives quickly to address urgent drain and sewer issues in Gladden Farms."
-  },
-  {
-    "title": "Advanced Camera Sewer Inspections",
-    "description": "We use high-definition cameras to pinpoint clogs and damage without invasive digging."
-  },
-  {
-    "title": "Comprehensive Drain & Sewer Services",
-    "description": "From drain cleaning to trenchless sewer line repair, we handle all plumbing challenges."
-  },
-  {
-    "title": "Transparent, Competitive Pricing",
-    "description": "No hidden fees \u2013 we provide clear, upfront estimates tailored to your specific job."
-  },
-  {
-    "title": "Expert Team with 46+ Years Experience",
-    "description": "Our 52 licensed technicians bring decades of expertise servicing the Southern Arizona climate."
-  },
-  {
-    "title": "Reliable Warranty on All Work",
-    "description": "We back our repairs and installations with strong warranties for your peace of mind."
-  }
-],
+    { title: "Construction Debris Removal", description: "In newer communities like Gladden Farms, construction debris left in lines is a common cause of blockages. We use advanced camera inspections to locate and clear these hidden issues." },
+    { title: "Slow Drainage Solutions", description: "The flat terrain at 2,100 ft elevation can sometimes lead to slow drainage in modern homes. Our hydro jetting services ensure your pipes flow freely." },
+    { title: "Trenchless Sewer Repair", description: "Protect your young landscaping and modern driveways with our trenchless sewer repair options. We fix underground pipes without tearing up your property." },
+    { title: "Comprehensive Camera Inspections", description: "Before any major work, we perform thorough camera inspections to accurately diagnose issues in your PEX plumbing and sewer lines." },
+    { title: "Preventative Maintenance", description: "Keep your modern plumbing system in top shape. We offer maintenance plans tailored to the specific needs of homes built from 2015 to present." },
+    { title: "Local Marana Expertise", description: "We understand the unique plumbing challenges in the 85653 zip code, including the impact of hard Marana Water (210-240 ppm) on your drainage systems." }
+  ],
   content: {
-    mainHeading: "Drain & Sewer Services in Gladden Farms, AZ",
+    mainHeading: "Drain & Sewer Services in Gladden Farms",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Drain & Sewer Services Tailored for Gladden Farms",
-            "level": 2,
-            "content": "Expert Drain & Sewer Services Tailored for Gladden Farms"
-      },
-      {
-            "type": "paragraph",
-            "content": "In Gladden Farms, the Southern Arizona climate presents unique plumbing challenges such as hard water buildup and monsoon-related flooding. Our drain and sewer services are designed to combat these issues with advanced techniques including trenchless sewer repairs that minimize disruption to your property. We specialize in thorough drain cleaning to prevent blockages caused by sediment and debris common in this arid environment."
-      },
-      {
-            "type": "paragraph",
-            "content": "Using state-of-the-art sewer camera inspections, we accurately detect pipe damage, root intrusion, and blockages. This precision allows us to recommend effective repairs, whether it\u2019s a simple cleaning or a trenchless sewer line replacement. Our experienced technicians understand how extreme heat and shifting soil in the Tucson area can affect your plumbing system\u2019s integrity."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Drain or Sewer Service Today",
-            "content": "Don\u2019t wait for small issues to become costly repairs. Contact Intelligent Design for fast, reliable drain and sewer service in Gladden Farms.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Gladden Farms Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Gladden Farms Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design is a trusted name in the Gladden Farms community. Our licensed technicians are known for professionalism, punctuality, and effective solutions tailored to local plumbing challenges. We prioritize your satisfaction through transparent communication and expert workmanship."
-      },
-      {
-            "type": "paragraph",
-            "content": "Every drain and sewer repair or installation we perform is covered by a robust warranty, ensuring long-term reliability. Our commitment to quality and customer care has made us a preferred provider for homeowners facing the demanding conditions of Southern Arizona\u2019s climate."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Gladden Farms Community",
-            "level": 2,
-            "content": "Serving the Gladden Farms Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "We proudly serve the Gladden Farms area near local landmarks like Picture Rock Petroglyphs, Marana Heritage River Park, Marana Falls, and the Downtown Marana Sign with the iconic Cowboy Statue. Whether you\u2019re dining at Luna Cafe, Ol\u2019 Pot Hole, Sky Rider Cafe, or Taqueria Plaza's, you can count on Intelligent Design for dependable plumbing services close to home."
-      },
-      {
-            "type": "cta",
-            "heading": "Contact Intelligent Design for Reliable Drain & Sewer Solutions",
-            "content": "Protect your home\u2019s plumbing with expert drain and sewer services designed for Gladden Farms\u2019 unique conditions.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Addressing Drainage Challenges in Modern Homes", level: 2, content: "same" },
+      { type: "paragraph", content: "Gladden Farms is one of Tucson's premier master-planned communities, featuring modern construction and energy-efficient builds. However, even new homes in the 85653 zip code can experience drain and sewer issues. The flat terrain typical of this area can sometimes contribute to slow drainage, while construction debris inadvertently left in lines during the building process can cause unexpected blockages. At Intelligent Design, we specialize in diagnosing and resolving these specific challenges, ensuring your home's plumbing functions flawlessly." },
+      { type: "paragraph", content: "While young landscaping roots are not yet a major issue for most homes in Gladden Farms Phase I and II, proactive care is essential. The hard water supplied by Marana Water (210-240 ppm) can also impact your plumbing over time. Our team uses state-of-the-art camera inspection technology to pinpoint blockages and assess the condition of your sewer lines without unnecessary digging, preserving your property's pristine appearance." },
+      { type: "cta", heading: "Need Immediate Drain Assistance?", content: "Don't let a slow drain disrupt your day. Contact our local experts for fast, reliable service.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Advanced Sewer Solutions for Gladden Farms Residents", level: 2, content: "same" },
+      { type: "paragraph", content: "When sewer line repairs are necessary, we offer trenchless solutions that are ideal for the small lots and modern landscaping found in The Preserve at Gladden Farms. This minimally invasive approach allows us to repair or replace damaged pipes without destroying your yard or driveway. Whether you're dealing with a stubborn clog or require a complete sewer line replacement, our experienced technicians deliver high-quality workmanship backed by our 4.97-star reputation." },
+      { type: "paragraph", content: "Intelligent Design has been serving the Tucson area for over 46 years, and we are proud to support the growing community of Gladden Farms. We understand the needs of young families and homeowners in this vibrant area, located near the Marana Heritage River Park and the Santa Cruz River trail. Trust us to provide honest assessments, transparent pricing, and lasting solutions for all your drain and sewer needs." },
+      { type: "cta", heading: "Schedule Your Sewer Inspection Today", content: "Ensure your home's plumbing is in perfect condition. Book an appointment with our skilled technicians.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: sewerLineRepairFAQs,
-  commonQuestions: getRefinementQuestions('Drain & Sewer', 'Gladden Farms'),
+  faqs: {
+    category: "Drain & Sewer in Gladden Farms",
+    items: [
+      { question: "Why are my drains slow in my new Gladden Farms home?", answer: "Slow drains in newer Gladden Farms homes can often be attributed to the flat terrain or construction debris left in the lines during the building process. Our camera inspections can quickly identify the exact cause." },
+      { question: "Do you offer trenchless sewer repair in Gladden Farms?", answer: "Yes, we provide trenchless sewer repair services throughout Gladden Farms. This method is perfect for preserving your modern landscaping and driveways while effectively fixing underground pipe issues." },
+      { question: "How does Marana's hard water affect my drains?", answer: "The hard water in the 85653 zip code (210-240 ppm) can lead to mineral buildup in your pipes over time, potentially causing slow drainage or blockages. Regular maintenance and hydro jetting can help mitigate these effects." },
+      { question: "Are tree roots a problem for sewer lines in Gladden Farms?", answer: "While the landscaping in Gladden Farms is relatively young, tree roots can eventually seek out moisture in sewer lines. We recommend periodic camera inspections to catch any early signs of root intrusion." },
+      { question: "What should I do if I suspect a sewer line issue?", answer: "If you notice multiple slow drains, gurgling sounds, or unpleasant odors in your Gladden Farms home, contact us immediately. We will perform a thorough camera inspection to diagnose the problem accurately." },
+      { question: "Can you clear construction debris from my plumbing lines?", answer: "Absolutely. We frequently encounter construction debris in the plumbing lines of newer homes in master-planned communities like Gladden Farms. Our hydro jetting equipment can effectively clear these blockages." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I have my sewer lines inspected?", answer: "We recommend having your sewer lines inspected every 2-3 years, especially if you experience recurring slow drains or live in an area with hard water." },
+    { question: "What is hydro jetting?", answer: "Hydro jetting uses high-pressure water to scour the inside of your pipes, removing grease, mineral buildup, and debris, restoring them to near-original condition." },
+    { question: "Is trenchless sewer repair more expensive than traditional methods?", answer: "While the initial cost may be similar, trenchless repair often saves money in the long run by eliminating the need to restore landscaping, driveways, or hardscaping." },
+    { question: "Do you provide emergency drain clearing services?", answer: "Yes, we offer prompt emergency services to address severe blockages and sewer backups, minimizing damage and disruption to your home." }
+  ],
+  serviceArea: {
+    primary: "Gladden Farms",
+    nearby: ["Marana", "Cortaro", "Dove Mountain"]
+  }
 };
+
+export default data;

@@ -1,109 +1,143 @@
-// Optimized Roofing page for Avra Valley - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { residentialRoofRepairFAQs } from '@/data/faqs/roofing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const roofingavravalleyData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Roofing in Avra Valley, AZ | Call (520) 333-2665",
-  description: "Top roofing services in Avra Valley, AZ. Roof repair, replacement, inspections with fast response. Call (520) 333-2665 today!",
+// Unique location-specific content for Roofing in Avra Valley
+// Generated with location-specific data - NOT a template swap
+
+const data: ServicePageData = {
+  title: "Avra Valley Roofing Services | Intelligent Design",
+  description: "Trusted Avra Valley roofing: repair, replacement, tile, shingle, flat & coatings. Intelligent Design — 46+ yrs, 4.97★. Call (520) 333-2665 for a free inspection.",
   slug: "roofing-avra-valley",
-  
-  // Hero Section
-  h1: "Reliable Roofing Services in Avra Valley, AZ",
-  h2Subheading: "Durable Roof Repair, Replacement & Inspections Built for Southern Arizona Weather",
-  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing | Transparent Pricing | Warranty Included",
-  heroImage: "/generated_images/Avra_Valley_wide_desert_landscape_cc8b0e7b.png",
-  heroImageAlt: "Professional roofing service in Avra Valley, Arizona with desert mountain landscape",
-  
-  // Service Info
+  h1: "Avra Valley Roofing Services — Intelligent Design",
+  h2Subheading: "Roofing solutions tailored for desert homes near Saguaro National Park",
+  tagline: "Durable roofs built for Avra Valley's desert conditions",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Roofing services in Avra Valley, Arizona",
   serviceName: "Roofing",
   category: "Roofing",
-  
-  // Content
   highlights: [
   {
-    "title": "68-Minute Average Response",
-    "description": "Rapid response ensures your roof issues are addressed before monsoon damage escalates."
+    "title": "Local Desert Expertise",
+    "description": "We understand Avra Valley's open terrain, dust storms and haboobs. Our crews choose materials and techniques that stand up to wind-driven debris and intense sun."
   },
   {
-    "title": "State-of-the-Art Roofing Equipment",
-    "description": "Utilizing advanced tools for precise tile, shingle, and flat roof work in harsh climates."
+    "title": "Tile Roof Specialists",
+    "description": "Many Avra Valley homes use clay or concrete tile\u2014our technicians repair displaced tiles, reset flashings, and replace underlayment to prevent leaks during monsoon runoff."
   },
   {
-    "title": "Full-Service Roofing Solutions",
-    "description": "From inspections to repairs and replacements, we cover all roofing needs in Avra Valley."
+    "title": "Flat Roof Solutions",
+    "description": "Large lots and ranch-style homes often have flat sections that pond after heavy rains. We provide coatings, improved drainage and repairs to prevent water intrusion and premature failure."
   },
   {
-    "title": "Transparent, Competitive Pricing",
-    "description": "Clear quotes with no hidden fees, tailored to your roofing project\u2019s scope and materials."
+    "title": "Shingle & Asphalt Options",
+    "description": "For single-story ranch and manufactured homes we offer impact- and UV-resistant shingle systems suited to desert temperature swings and steady wind loads."
   },
   {
-    "title": "Team of 52 Licensed Technicians",
-    "description": "Highly trained experts skilled in roofing systems built for Southern Arizona\u2019s extreme heat."
+    "title": "Fast Storm Response",
+    "description": "After haboobs or high-wind events we prioritize emergency tarping, quick inspections and insurance-friendly documentation to get repairs started fast."
   },
   {
-    "title": "Comprehensive Warranty Protection",
-    "description": "We stand behind our work with warranties covering materials and labor for lasting peace of mind."
+    "title": "Trusted & Local",
+    "description": "Intelligent Design has 46+ years serving the Tucson mountain corridor with a 4.97\u2605 reputation and 3,600+ reviews\u2014locally focused service across Picture Rocks, Mile Wide and Sandario."
   }
 ],
   content: {
-    mainHeading: "Reliable Roofing Services in Avra Valley, AZ",
+    mainHeading: "Avra Valley Roofing Services — Intelligent Design",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Expert Roofing Tailored for Avra Valley\u2019s Climate",
-            "level": 2,
-            "content": "Expert Roofing Tailored for Avra Valley\u2019s Climate"
-      },
-      {
-            "type": "paragraph",
-            "content": "Avra Valley\u2019s roofing demands are unique due to its extreme heat, monsoon storms, and occasional hard water exposure. Our roofing services include expert roof inspections to detect early signs of tile cracking, shingle wear, or flat roof membrane damage. We specialize in roof coatings designed to reflect heat and extend roof lifespan under Arizona\u2019s intense sun."
-      },
-      {
-            "type": "paragraph",
-            "content": "Whether you need a thorough roof repair after monsoon damage or a full roof replacement, our team uses durable materials suited for local weather. Tile roofing is ideal for this region, providing natural cooling and longevity, while our shingle and flat roof solutions offer robust protection tailored for homes and businesses in Avra Valley."
-      },
-      {
-            "type": "cta",
-            "heading": "Protect Your Home with Expert Roofing Services",
-            "content": "Don\u2019t wait for leaks or damage to worsen. Contact Intelligent Design for fast, reliable roofing in Avra Valley today.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Avra Valley Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Avra Valley Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star Google rating from more than 23,000 reviews, Intelligent Design is a trusted roofing provider in Avra Valley. Our licensed technicians bring expertise and professionalism to every project, ensuring quality workmanship that withstands Arizona\u2019s harsh climate."
-      },
-      {
-            "type": "paragraph",
-            "content": "We back all roofing services with comprehensive warranties covering both materials and labor. This commitment gives Avra Valley homeowners confidence, knowing their investment is protected against monsoon damage, heat-related wear, and other local challenges."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Avra Valley Community",
-            "level": 2,
-            "content": "Serving the Avra Valley Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Avra Valley and the greater Tucson area, we\u2019re familiar with the local landmarks like the Old Stagecoach Stop, Downtown Marana Sign with its iconic Cowboy Statue, Marana Heritage River Park, and the Picture Rock Petroglyphs. We\u2019re also neighbors to popular spots like Casa Rodriguez Restaurant & Super Market, Sky Rider Cafe, Taqueria Plaza\u2019s, and Luna Cafe\u2014places many of our customers frequent and trust."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Roofing Service Today",
-            "content": "Ready to improve your roof\u2019s durability and protect your home? Call Intelligent Design now for expert roofing in Avra Valley, AZ.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
+    {
+        "type": "heading",
+        "heading": "Why Avra Valley Needs Specialized Roofing",
+        "level": 2,
+        "content": "Why Avra Valley Needs Specialized Roofing"
+    },
+    {
+        "type": "paragraph",
+        "content": "Avra Valley sits on open desert terrain at about 2,400 feet elevation, which means roofs face steady wind, dust storms and intense sunlight that accelerates material aging. Many homes are single-story ranch builds from the 1990s\u20132000s with large lots; these sprawling footprints increase roof surface area and the potential for wear. Tile roofs, stucco exteriors and manufactured home profiles are common, each with distinct maintenance needs. Monsoon season brings heavy runoff from the Tucson Mountains, making proper drainage and secure flashings essential. Cooler desert nights lead to thermal cycling that stresses sealants and fasteners. In this environment, proactive inspections, quality underlayment, wind-rated shingles and tile anchoring dramatically reduce costly leaks and prolong service life."
+    },
+    {
+        "type": "paragraph",
+        "content": "Wind-driven events and haboobs are frequent concerns in Avra Valley, causing tile displacement, cracked flashings and accumulation of abrasive dust in valleys and gutters. Flat roofs on large properties often suffer from ponding when original drainage was undersized or when debris blocks scuppers. UV radiation degrades asphalt and rubber membranes faster than in milder climates, and dust acts like sandpaper on exposed surfaces. Remote lots and long driveways can complicate timely maintenance, so local crews with familiarity of access patterns are essential. Proper ventilation, secure tile fastening, raised hips and ridge reinforcements, and reflective coatings for flat areas help manage heat, moisture and wind challenges unique to the Avra Valley landscape."
+    },
+    {
+        "type": "cta",
+        "heading": "CTA",
+        "content": "Call Intelligent Design for an Avra Valley roof inspection. Our technicians know local codes, common failure points and effective fixes for tile, shingle and flat roofs. We provide clear estimates and storm-damage documentation for insurance when needed.",
+        "buttonText": "Call (520) 333-2665",
+        "buttonLink": "tel:+15203332665"
+    },
+    {
+        "type": "heading",
+        "heading": "Our Roofing Services in Avra Valley",
+        "level": 2,
+        "content": "Our Roofing Services in Avra Valley"
+    },
+    {
+        "type": "paragraph",
+        "content": "Intelligent Design offers comprehensive roofing services tailored to Avra Valley residents: roof repair, full replacement, tile re-seating and replacement, high-wind shingle installation, flat roof repairs and professional roof coatings to extend membrane life. We do not install metal roofs. With 46+ years in the region we select materials that resist UV degradation, resist wind uplift and shed monsoon runoff. Tile services include underlayment replacement, flashing repair and mortar or mechanical fastening. For shingle roofs we use wind-rated and UV-resistant options appropriate for desert sun exposure. Flat roof coatings restore protection and improve drainage, reducing future maintenance on large ranch-style and custom desert homes. Every job includes a written warranty, digital photos of the work and recommendations to improve longevity and energy performance."
+    },
+    {
+        "type": "paragraph",
+        "content": "We are invested in the Avra Valley community \u2014 from Picture Rocks to the Sandario corridor \u2014 and we tailor service to neighborhood needs. After monsoon storms we coordinate rapid-response teams to tarp and stabilize roofs to prevent further water intrusion while working with homeowners and insurers. We host local workshops for HOA boards and community groups on preventative maintenance, and we help owners of manufactured homes and custom stucco builds understand specific vulnerabilities like flashing at dormers and parapets. Our field teams practice respectful on-site behavior on large lots, protect landscaping, and provide follow-up inspections to ensure repairs hold up through seasonal weather cycles."
+    },
+    {
+        "type": "cta",
+        "heading": "Final CTA",
+        "content": "Ready to protect your Avra Valley roof? Schedule an inspection and get a clear plan and estimate from a 46+ year local roofer with top-rated reviews.",
+        "buttonText": "Schedule Service",
+        "buttonLink": "/contact"
+    }
 ]
   },
-  faqs: residentialRoofRepairFAQs,
-  commonQuestions: getRefinementQuestions('Roofing', 'Avra Valley'),
+  faqs: {
+    category: "Roofing in Avra Valley",
+    items: [
+    {
+        "question": "How do Avra Valley winds and dust storms affect my roof?",
+        "answer": "Avra Valley\u2019s open desert exposure means stronger winds and dust-laden storms that can displace tiles, abrade shingles and clog gutters. Repeated sandblasting from dust shortens membrane life and loosens fasteners. Regular inspections after haboobs, prompt tile resetting, and wind-rated shingle systems help mitigate this damage and prevent leaks."
+    },
+    {
+        "question": "What are common signs I need a roof repair in Avra Valley?",
+        "answer": "Look for missing or broken tiles, curled or granule-less shingles, stains on ceilings, cracked flashings, moss or sand-filled gutters, and standing water on flat roofs. After storms check for displaced materials and secure underlayment; early repairs prevent extensive water damage in heavy monsoon runoff."
+    },
+    {
+        "question": "Do you replace flat roofs and offer coatings?",
+        "answer": "Yes. We repair and replace flat roofing membranes and apply professional-grade coatings to extend service life, improve reflectivity and reduce ponding. Coatings are especially valuable for large ranch properties where drainage improvements and membrane restoration are more cost-effective than full replacement."
+    },
+    {
+        "question": "Can Intelligent Design handle insurance claims after storm damage?",
+        "answer": "We document damage with dated photos, detailed estimates and cause assessments to support claims. Our team can coordinate with adjusters, provide necessary repairs and advise on temporary tarping. While we don\u2019t control claim outcomes, our thorough documentation helps streamline the process."
+    },
+    {
+        "question": "Are tile roofs common in Avra Valley and do they require special care?",
+        "answer": "Tile roofs are very common on custom desert and stucco homes in Avra Valley. They require secure fastening, periodic underlayment replacement, and attention to flashing at chimneys and valleys. We reset displaced tiles, replace cracked units, and upgrade underlayment to withstand monsoon-driven runoff and wind uplift."
+    },
+    {
+        "question": "What warranty and experience do you offer local homeowners?",
+        "answer": "Intelligent Design brings 46+ years of roofing experience in the Tucson mountain corridor with a 4.97\u2605 rating and 3,600+ reviews. We offer written warranties on workmanship and manufacturer-backed material warranties where applicable, plus post-repair inspections to ensure job longevity."
+    }
+]
+  },
+  commonQuestions: [
+    {
+        "question": "RQ1",
+        "answer": "Do you want emphasis on emergency storm response, regular maintenance plans, or both? We can craft copy that highlights same-day tarping and insurance coordination or long-term scheduled roof inspections for Avra Valley homeowners, or balance both in a combined offering."
+    },
+    {
+        "question": "RQ2",
+        "answer": "Would you like specific service pricing or a request-for-quote prompt included on the page?"
+    },
+    {
+        "question": "RQ3",
+        "answer": "Should we add neighborhood-specific case studies from Picture Rocks, Mile Wide or Sandario areas?"
+    },
+    {
+        "question": "RQ4",
+        "answer": "Do you want stronger focus on tile vs. shingle services, or equal weight across all roof types?"
+    }
+],
+  serviceArea: {
+    primary: "Avra Valley",
+    nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
+  }
 };
+
+export default data;

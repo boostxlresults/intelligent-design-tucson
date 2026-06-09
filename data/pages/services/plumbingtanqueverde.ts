@@ -1,109 +1,58 @@
-// Optimized Plumbing page for Tanque Verde - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { plumbingLocationGeneralFAQs } from '@/data/faqs/plumbing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const plumbingtanqueverdeData: ServicePageData = {
-  // SEO & Meta
-  title: "Expert Plumbing Services in Tanque Verde, AZ | Call (520) 333-2665",
-  description: "Trusted plumbing services in Tanque Verde, AZ. Fast repairs, installations, and leak detection by licensed pros. Call Intelligent Design today!",
+const data: ServicePageData = {
+  title: "Expert Plumbing Services in Tanque Verde, AZ | Intelligent Design",
+  description: "Top-rated plumbing services in Tanque Verde, AZ. From luxury fixture installation to whole-home water treatment. Call Intelligent Design at (520) 333-2665.",
   slug: "plumbing-tanque-verde",
-  
-  // Hero Section
-  h1: "Professional Plumbing Services in Tanque Verde, AZ",
-  h2Subheading: "Reliable Repairs, Installations & Leak Detection for Southern Arizona Homes",
-  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | 4.97 Google Rating",
+  h1: "Professional Plumbing Services in Tanque Verde",
+  h2Subheading: "Specialized Plumbing Solutions for Tanque Verde's Custom Homes and Horse Properties",
+  tagline: "Reliable plumbing expertise for your upscale Tanque Verde property.",
   heroImage: "/images/placeholder.webp",
-  heroImageAlt: "Plumbing Tanque Verde in Tucson",
-  
-  // Service Info
+  heroImageAlt: "Plumbing Services in Tanque Verde, Arizona",
   serviceName: "Plumbing",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "68-Minute Average Response Time",
-    "description": "We arrive quickly to address plumbing emergencies before damage worsens."
-  },
-  {
-    "title": "Advanced Leak Detection Technology",
-    "description": "Utilizing state-of-the-art equipment to find hidden leaks and prevent water waste."
-  },
-  {
-    "title": "Comprehensive Plumbing Services",
-    "description": "From water heater installation to pipe repair and faucet replacement, we do it all."
-  },
-  {
-    "title": "Transparent, Competitive Pricing",
-    "description": "Upfront estimates with no hidden fees tailored to your specific plumbing needs."
-  },
-  {
-    "title": "52 Licensed & Insured Technicians",
-    "description": "Our skilled team ensures quality workmanship backed by decades of experience."
-  },
-  {
-    "title": "Reliable Warranty on All Work",
-    "description": "We stand behind our repairs and installations with solid warranties for peace of mind."
-  }
-],
+    { title: "Luxury Fixture Expertise", description: "We specialize in installing and maintaining high-end plumbing fixtures common in Tanque Verde's upscale homes. Our technicians ensure your premium investments are handled with care." },
+    { title: "Whole-Home Water Treatment", description: "With moderate-hard water (170-200 ppm) in the 85749 and 85750 zip codes, we provide advanced filtration and softening systems. Protect your luxury fixtures and appliances from scale buildup." },
+    { title: "Outdoor & Pool Plumbing", description: "Tanque Verde's large lots and custom builds often feature extensive outdoor living spaces. We expertly service pool plumbing, outdoor kitchens, and complex irrigation systems." },
+    { title: "Custom Build Repiping", description: "As homes built in the 1980s and 1990s age, we offer comprehensive repiping services tailored to large, custom floor plans. We minimize disruption to your premium construction." },
+    { title: "Water Heater Solutions", description: "We install and service high-capacity and tankless water heaters to meet the demands of large Tanque Verde estates. Ensure endless hot water for your multi-bathroom home." },
+    { title: "Prompt Local Service", description: "From the Soldier Trail corridor to the Agua Caliente area, our plumbers arrive quickly to address your needs. We understand the unique plumbing requirements of Tanque Verde properties." }
+  ],
   content: {
-    mainHeading: "Professional Plumbing Services in Tanque Verde, AZ",
+    mainHeading: "Professional Plumbing Services in Tanque Verde",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Trusted Plumbing Solutions for Tanque Verde Homes",
-            "level": 2,
-            "content": "Trusted Plumbing Solutions for Tanque Verde Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Intelligent Design delivers expert plumbing repairs and installations tailored to the unique challenges of Tanque Verde\u2019s desert climate. From extreme heat to seasonal monsoons, your plumbing system requires durable solutions that withstand harsh conditions. Our technicians specialize in water heater installations, pipe repairs, faucet replacements, and toilet repairs designed for Southern Arizona\u2019s hard water and fluctuating temperatures."
-      },
-      {
-            "type": "paragraph",
-            "content": "We prioritize fast, efficient service to minimize disruptions and prevent costly water damage. Using advanced leak detection tools, we identify hidden issues before they escalate. Whether you need emergency pipe repair or routine maintenance, our licensed plumbers ensure your system operates smoothly year-round."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Plumbing Help in Tanque Verde Now?",
-            "content": "Call Intelligent Design for prompt, professional plumbing service backed by 46+ years of experience.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With a 4.97-star Google rating from over 23,000 reviews, Intelligent Design is a trusted name in Tanque Verde plumbing. Our customers rely on our rapid response and quality workmanship to keep their homes safe and comfortable. We understand local plumbing challenges and deliver solutions that last."
-      },
-      {
-            "type": "paragraph",
-            "content": "All plumbing work is performed by our team of 52 licensed technicians, ensuring professional, code-compliant results. Every repair and installation is backed by a solid warranty, providing peace of mind in the face of Southern Arizona\u2019s demanding environment."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Tanque Verde Community",
-            "level": 2,
-            "content": "Serving the Tanque Verde Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "We proudly serve Tanque Verde and nearby neighborhoods, including areas around Fort Lowell Museum, Trail Dust Town, Javelina Rocks, and Sabino Canyon Recreation Area. Our local expertise extends to homes near popular spots like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery. We\u2019re dedicated to supporting our community with trusted plumbing solutions."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Tanque Verde Plumbing Service Today",
-            "content": "Contact Intelligent Design for expert plumbing repairs, installations, and leak detection you can trust.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Addressing Tanque Verde's Unique Plumbing Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "Tanque Verde's beautiful custom homes and sprawling horse properties present unique plumbing requirements. The upscale housing stock, often featuring luxury fixtures and extensive outdoor amenities, demands a higher level of plumbing expertise. At Intelligent Design, we understand the intricacies of servicing large estates in the 85749 and 85750 zip codes. From maintaining complex pool plumbing systems to ensuring outdoor kitchens function flawlessly, our team is equipped to handle the specialized needs of Tanque Verde residents. We also recognize the impact of the local water quality, with moderate-hard water levels (170-200 ppm) necessitating robust whole-home water treatment solutions to protect your valuable plumbing investments." },
+      { type: "paragraph", content: "One of the specific challenges in Tanque Verde is managing the plumbing infrastructure for properties on 1+ acres. Longer supply lines and extensive irrigation systems require careful maintenance and prompt leak repair to prevent water waste and property damage. Additionally, homes built in the 1980s and 1990s may be experiencing aging pipe issues, requiring professional repiping services that respect the premium construction of your home. Whether you're near the Tanque Verde Guest Ranch or along Bear Canyon, our experienced plumbers provide the meticulous care and advanced solutions your upscale property deserves." },
+      { type: "cta", heading: "Need Expert Plumbing Service in Tanque Verde?", content: "Contact Intelligent Design today for premium plumbing solutions tailored to your custom home.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Plumbing Solutions for Your Estate", level: 2, content: "same" },
+      { type: "paragraph", content: "Our comprehensive plumbing services in Tanque Verde cover everything from routine maintenance to complex installations. We specialize in high-end fixture repair and replacement, ensuring your luxury bathrooms and kitchens remain in pristine condition. For homes experiencing the effects of hard water, our custom water filtration and softening systems provide a permanent solution, extending the lifespan of your appliances and improving your daily comfort. We also offer expert slab leak detection and repair, utilizing advanced technology to pinpoint issues without unnecessary disruption to your property." },
+      { type: "paragraph", content: "As a company with over 46 years of experience serving the Tucson area, Intelligent Design is deeply committed to the Tanque Verde community. We pride ourselves on delivering top-tier service that matches the prestige of your neighborhood. Our highly trained technicians respect your home and property, providing clean, efficient, and reliable plumbing solutions. With over 3,600 reviews and a 4.97-star rating, you can trust us to be your premier plumbing partner in Tanque Verde, ensuring your home's systems operate flawlessly year-round." },
+      { type: "cta", heading: "Schedule Your Tanque Verde Plumbing Service", content: "Experience the Intelligent Design difference. Book your appointment today.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: plumbingLocationGeneralFAQs,
-  commonQuestions: getRefinementQuestions('Plumbing', 'Tanque Verde'),
+  faqs: {
+    category: "Plumbing in Tanque Verde",
+    items: [
+      { question: "Why is whole-home water treatment important for my Tanque Verde home?", answer: "Tanque Verde experiences moderate-hard water (170-200 ppm). A whole-home water treatment system protects your luxury fixtures, extends the life of your appliances, and prevents scale buildup in your pipes, which is especially crucial for the custom homes in our area." },
+      { question: "Do you service outdoor kitchens and pool plumbing in Tanque Verde?", answer: "Yes, we specialize in the complex plumbing systems often found in Tanque Verde's large estates. Our technicians are experienced in repairing and maintaining outdoor kitchens, pool plumbing, and extensive irrigation systems common in the 85749 and 85750 zip codes." },
+      { question: "How quickly can you respond to a plumbing emergency near the Rincon Mountains?", answer: "We offer prompt emergency plumbing services throughout Tanque Verde, including areas near the Rincon Mountains and Redington Pass. Our local technicians are dispatched quickly to minimize damage to your premium property." },
+      { question: "Are your plumbers experienced with luxury fixtures common in Tanque Verde?", answer: "Absolutely. Our team is highly trained in installing, repairing, and maintaining the high-end plumbing fixtures frequently found in Tanque Verde's upscale homes. We handle your premium investments with the utmost care and expertise." },
+      { question: "What should I do if I suspect a leak on my large Tanque Verde property?", answer: "If you notice an unexplained increase in your water bill or damp spots on your property, contact us immediately. We use advanced leak detection technology to locate issues in long supply lines or complex irrigation systems common on Tanque Verde's 1+ acre lots." },
+      { question: "Do you offer repiping services for older custom homes in Tanque Verde?", answer: "Yes, we provide comprehensive repiping services for homes built in the 1980s and 1990s in Tanque Verde. We carefully plan and execute the project to minimize disruption to your custom construction and premium finishes." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I have my plumbing system inspected?", answer: "We recommend an annual plumbing inspection to catch potential issues early, especially for large estates with complex systems. Regular maintenance helps prevent costly emergencies and ensures your plumbing operates efficiently." },
+    { question: "What are the signs of a failing water heater?", answer: "Signs include inconsistent water temperature, rusty water, strange noises from the tank, and visible leaks. If your water heater is over 10 years old, it may be time to consider a high-efficiency replacement." },
+    { question: "Can you help improve my home's water pressure?", answer: "Yes, low water pressure can be caused by various issues, including mineral buildup, hidden leaks, or pressure regulator failure. Our technicians can diagnose the root cause and implement the appropriate solution." },
+    { question: "What is a slab leak and why is it dangerous?", answer: "A slab leak occurs when pipes beneath your home's concrete foundation leak or burst. It can cause significant structural damage, mold growth, and high water bills if not addressed promptly by professionals." }
+  ],
+  serviceArea: {
+    primary: "Tanque Verde",
+    nearby: ["Tucson", "Catalina Foothills", "Vail"]
+  }
 };
+
+export default data;

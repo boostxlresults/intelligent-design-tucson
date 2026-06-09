@@ -1,109 +1,58 @@
-// Optimized Drain Clearing page for Tanque Verde - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { drainClearingFAQs } from '@/data/faqs/plumbing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const drainclearingtanqueverdeData: ServicePageData = {
-  // SEO & Meta
-  title: "Drain Clearing Tanque Verde AZ | Call Intelligent Design (520) 333-2665",
-  description: "Expert drain clearing in Tanque Verde, AZ. Fast, reliable plumbing service with advanced tech. Call Intelligent Design at (520) 333-2665 today.",
+const data: ServicePageData = {
+  title: "Drain Clearing in Tanque Verde, AZ | Intelligent Design",
+  description: "Expert drain clearing in Tanque Verde, AZ. We handle root intrusion from mature mesquite trees and long sewer runs on large horse properties. Call (520) 333-2665.",
   slug: "drain-clearing-tanque-verde",
-  
-  // Hero Section
-  h1: "Drain Clearing Services in Tanque Verde, AZ",
-  h2Subheading: "Fast, Reliable Plumbing Solutions to Clear Your Drains Efficiently",
-  tagline: "Same-Day Service | Licensed Technicians | 46+ Years Experience | Advanced Equipment",
-  heroImage: "/generated_images/Professional_drain_clearing_service_46ea7cfd.webp",
-  heroImageAlt: "Drain Clearing in Tanque Verde",
-  
-  // Service Info
+  h1: "Professional Drain Clearing in Tanque Verde, AZ",
+  h2Subheading: "Specialized Drain Solutions for Tanque Verde's Custom Homes and Horse Properties",
+  tagline: "Clearing stubborn clogs and root intrusions in the 85749 and 85750 zip codes.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Drain Clearing in Tanque Verde, Arizona",
   serviceName: "Drain Clearing",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid Response Time",
-    "description": "Average 68-minute response ensures your drain issues are addressed quickly."
-  },
-  {
-    "title": "Advanced Drain Technology",
-    "description": "Utilizing hydro jetting and video camera inspections for precise clog removal."
-  },
-  {
-    "title": "Comprehensive Services",
-    "description": "From main line clearing to routine drain maintenance tailored for local conditions."
-  },
-  {
-    "title": "Transparent Pricing",
-    "description": "Upfront estimates with no hidden fees to keep your project on budget."
-  },
-  {
-    "title": "Expert Team",
-    "description": "52 licensed technicians with decades of experience in Southern Arizona plumbing."
-  },
-  {
-    "title": "Warranty Guaranteed",
-    "description": "Quality workmanship backed by reliable warranties for your peace of mind."
-  }
-],
+    { title: "Root Intrusion Removal", description: "Mature mesquite and palo verde trees in Tanque Verde are notorious for invading sewer lines. We use advanced hydro jetting to clear stubborn roots and restore flow." },
+    { title: "Long Sewer Run Expertise", description: "Many properties in the Tanque Verde Valley sit on 1+ acres, meaning longer sewer lines that are prone to blockages. Our high-capacity equipment easily handles extended drain runs." },
+    { title: "Horse Property Solutions", description: "Equestrian properties in the Agua Caliente area often face unique waste management challenges. We provide specialized drain clearing to keep your property's plumbing running smoothly." },
+    { title: "Camera Inspections", description: "Before we clear a drain, we use high-resolution cameras to pinpoint the exact cause of the blockage. This is crucial for older homes built in the 1980s and 1990s." },
+    { title: "Preventative Maintenance", description: "Regular drain cleaning prevents emergency backups in your upscale Tanque Verde home. We offer maintenance plans tailored to the specific needs of large custom builds." },
+    { title: "Local Tanque Verde Knowledge", description: "From the Soldier Trail corridor to Bear Canyon, we understand the unique plumbing layouts and soil conditions of Tanque Verde's diverse neighborhoods." }
+  ],
   content: {
-    mainHeading: "Drain Clearing Services in Tanque Verde, AZ",
+    mainHeading: "Professional Drain Clearing in Tanque Verde, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Professional Drain Clearing in Tanque Verde",
-            "level": 2,
-            "content": "Professional Drain Clearing in Tanque Verde"
-      },
-      {
-            "type": "paragraph",
-            "content": "Drain issues in Tanque Verde require prompt, expert solutions due to our unique climate. Monsoons and hard water cause mineral buildup and blockages that slow drainage. Our skilled technicians employ hydro jetting to blast away stubborn clogs and video camera inspections to diagnose hard-to-reach pipe problems precisely."
-      },
-      {
-            "type": "paragraph",
-            "content": "Whether it's a clogged kitchen sink, backed-up shower, or main sewer line obstruction, Intelligent Design provides comprehensive drain clearing services. We understand how heat and sediment affect plumbing systems in Southern Arizona and tailor our maintenance to prevent future failures."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Immediate Drain Clearing? Call Now!",
-            "content": "Contact Intelligent Design for fast, reliable drain clearing in Tanque Verde. Our licensed plumbers are ready to restore your plumbing today.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Tanque Verde Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Tanque Verde Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star Google rating from more than 23,000 reviews, Intelligent Design is a trusted name in Tanque Verde plumbing. Our commitment to customer satisfaction and expert workmanship sets us apart in the local market."
-      },
-      {
-            "type": "paragraph",
-            "content": "We back all drain clearing work with strong warranties, ensuring you receive lasting results. Our team of 52 licensed technicians is trained to handle the challenges posed by Southern Arizona\u2019s climate, providing durable solutions that stand the test of time."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Tanque Verde Community",
-            "level": 2,
-            "content": "Serving the Tanque Verde Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Tanque Verde and the greater Tucson area, we\u2019re familiar with local landmarks like Fort Lowell Museum, Trail Dust Town, Javelina Rocks, and Sabino Canyon Recreation Area. We also support community favorites such as The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, and The Barnyard Crafthouse & Eatery."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Tanque Verde Drain Clearing Today",
-            "content": "Don\u2019t let clogged drains disrupt your home. Call Intelligent Design at (520) 333-2665 for expert drain clearing services you can trust.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Tackling Tanque Verde's Unique Drain Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "Tanque Verde's beautiful landscape, characterized by lush desert vegetation and mature trees, presents unique challenges for residential plumbing. The extensive root systems of native mesquite and palo verde trees are naturally drawn to the moisture in sewer lines, frequently causing severe blockages and pipe damage. Additionally, the expansive nature of properties in this area—many sitting on an acre or more—means homes often have exceptionally long sewer runs connecting to the main lines or septic systems. These extended pipes are more susceptible to settling, bellies, and debris accumulation over time, requiring specialized, high-capacity equipment to effectively clear and maintain." },
+      { type: "paragraph", content: "At Intelligent Design, we understand the specific drain clearing needs of Tanque Verde homeowners. Whether you reside in a historic ranch property near the Tanque Verde Guest Ranch or a modern custom build in the Bear Canyon area, our team is equipped to handle the complexities of your plumbing system. We utilize state-of-the-art camera inspection technology to accurately diagnose issues deep within long sewer lines, ensuring we apply the right solution—from precision root cutting to powerful hydro jetting—without unnecessary guesswork or disruption to your upscale property." },
+      { type: "cta", heading: "Need Immediate Drain Clearing in Tanque Verde?", content: "Don't let a stubborn clog disrupt your home. Contact Intelligent Design for fast, reliable drain clearing services.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Drain Solutions for Large Properties", level: 2, content: "same" },
+      { type: "paragraph", content: "Our drain clearing services go beyond simple plunging or snaking. For the large homes and horse properties common in the 85749 and 85750 zip codes, we offer comprehensive solutions designed to address the root cause of the problem. Hydro jetting is particularly effective for clearing the heavy buildup of grease, scale, and roots that can accumulate in older pipes or those serving large households. By using high-pressure water, we not only clear the immediate blockage but also scour the pipe walls clean, significantly reducing the likelihood of future clogs and extending the lifespan of your plumbing infrastructure." },
+      { type: "paragraph", content: "As a locally trusted company with over 46 years of experience, Intelligent Design is committed to serving the Tanque Verde community. We respect the pristine nature of your desert landscaping and take every precaution to minimize impact while performing our work. Our highly trained technicians are familiar with the specific plumbing configurations found in the area's custom homes and equestrian properties, ensuring a professional, efficient, and clean service experience every time. We are dedicated to keeping Tanque Verde's drains flowing freely." },
+      { type: "cta", heading: "Schedule Your Drain Clearing Service Today", content: "Experience the Intelligent Design difference. Book your drain clearing appointment online now.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: drainClearingFAQs,
-  commonQuestions: getRefinementQuestions('Drain Clearing', 'Tanque Verde'),
+  faqs: {
+    category: "Drain Clearing in Tanque Verde",
+    items: [
+      { question: "Why do my drains keep clogging in my Tanque Verde home?", answer: "In Tanque Verde, recurring clogs are often caused by root intrusion from mature desert trees like mesquite and palo verde. The roots seek out the moisture in your sewer lines, especially in older homes or those with long runs across large lots. We recommend a camera inspection to identify the exact cause." },
+      { question: "Is hydro jetting safe for the pipes in my older Tanque Verde property?", answer: "Yes, hydro jetting is generally safe and highly effective, but it requires professional assessment first. For homes built in the 1980s or earlier in the Tanque Verde Valley, we always perform a camera inspection to ensure the pipes are structurally sound enough to withstand the high-pressure water used to clear roots and debris." },
+      { question: "Do you service horse properties in the Agua Caliente area?", answer: "Absolutely. We have extensive experience servicing the unique plumbing and drainage systems of horse properties and large estates in the Agua Caliente area and throughout Tanque Verde. We understand the specific waste management challenges these properties face." },
+      { question: "How long does it take to clear a main sewer line on a 1-acre lot?", answer: "The time can vary depending on the severity of the blockage and the length of the sewer run. Because many Tanque Verde properties sit on 1+ acres, the lines are longer than average. However, our advanced equipment allows us to efficiently clear even the longest runs, typically within a few hours." },
+      { question: "Can you help if my septic system drain field is failing?", answer: "While we specialize in clearing the lines leading to your septic tank, a failing drain field often requires specialized septic services. We can clear blockages in the main line from your house to the tank, which is a common issue for rural Tanque Verde properties, and advise you on the next steps if the field is the problem." },
+      { question: "What should I do if multiple drains are backing up at once?", answer: "If multiple drains are backing up simultaneously in your Tanque Verde home, it indicates a blockage in your main sewer line. This is a plumbing emergency. Stop using water immediately to prevent sewage from backing up into your home and call us for immediate drain clearing service." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How much does professional drain clearing cost?", answer: "The cost varies based on the severity of the clog and the method required (snaking vs. hydro jetting). We provide upfront pricing after assessing the situation, ensuring no surprises." },
+    { question: "Are chemical drain cleaners safe to use?", answer: "We strongly advise against using chemical drain cleaners. They are often ineffective on tough clogs, can damage your pipes over time, and pose a safety hazard to our plumbers when they arrive to fix the issue." },
+    { question: "How often should I have my drains professionally cleaned?", answer: "For homes with a history of root intrusion or heavy usage, we recommend annual preventative drain cleaning. This helps avoid unexpected backups and costly emergency repairs." },
+    { question: "What are the signs that I need drain clearing?", answer: "Common signs include slow-draining sinks or tubs, gurgling sounds from your pipes, unpleasant odors emanating from drains, and water backing up in one fixture when you use another." }
+  ],
+  serviceArea: {
+    primary: "Tanque Verde",
+    nearby: ["Catalina Foothills", "East Tucson", "Vail"]
+  }
 };
+
+export default data;

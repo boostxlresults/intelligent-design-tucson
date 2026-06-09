@@ -1,122 +1,58 @@
-// Optimized Electrical Services page for Oro Valley - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { electricalRepairFAQs } from '@/data/faqs/electrical';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
-export const electricalorovalleyData: ServicePageData = {
-  // SEO & Meta
-  title: "Electrician Oro Valley AZ | Licensed Electrical Services | (520) 333-2665",
-  description: "Licensed electricians serving Oro Valley. Panel upgrades, EV charger installation, lighting, rewiring, and emergency electrical repair. Call (520) 333-2665.",
+import type { ServicePageData } from "@/types/services";
+
+const data: ServicePageData = {
+  title: "Expert Electrical Services in Oro Valley, AZ | Intelligent Design",
+  description: "Top-rated electrical services in Oro Valley. From smart home upgrades to EV chargers and panel replacements. Call (520) 333-2665 for expert electricians.",
   slug: "electrical-oro-valley",
-  
-  // Hero Section
-  h1: "Licensed Electrical Services in Oro Valley",
-  h2Subheading: "Trusted Electricians for Oro Valley Homes & Businesses",
-  tagline: "Panel Upgrades | EV Chargers | Lighting | Rewiring | Emergency Service | Licensed & Insured",
-  heroImage: "/generated_images/Electrical_service_work_e21d02b3.webp",
-  heroImageAlt: "Licensed electrician providing expert electrical service in modern Oro Valley home",
-  
-  // Service Info
-  serviceName: "Electrical Services",
+  h1: "Professional Electrical Services in Oro Valley",
+  h2Subheading: "Powering Oro Valley's Upscale Communities with Reliable Electrical Solutions",
+  tagline: "Your Trusted Local Electricians for Rancho Vistoso, Sun City, and Beyond",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Electrician working on a panel in Oro Valley, Arizona",
+  serviceName: "Electrical",
   category: "Electrical",
-  
-  // Content
   highlights: [
-  {
-    "title": "Licensed Electricians",
-    "description": "Fully licensed, bonded, and insured. ROC-certified for residential and commercial electrical work."
-  },
-  {
-    "title": "Panel Upgrades",
-    "description": "100A to 200A+ panel upgrades for modern homes with EV chargers, solar, and high-demand appliances."
-  },
-  {
-    "title": "EV Charger Installation",
-    "description": "Level 2 charger installation for Tesla, Ford, Rivian, and all EV makes. Proper circuit sizing guaranteed."
-  },
-  {
-    "title": "Emergency Service",
-    "description": "24/7 emergency electrical repair with rapid response to Oro Valley and surrounding areas."
-  },
-  {
-    "title": "Whole-Home Rewiring",
-    "description": "Aluminum-to-copper rewiring, knob-and-tube replacement, and code-compliant upgrades for older homes."
-  },
-  {
-    "title": "Upfront Pricing",
-    "description": "Transparent quotes before work begins. No surprise charges. Financing available."
-  }
-],
+    { title: "Smart Home Integration", description: "Upgrade your Oro Valley home with the latest smart home systems. We handle complex wiring for automated lighting, security, and climate control in upscale properties." },
+    { title: "EV Charger Installation", description: "Ready for an electric vehicle? We install Level 2 EV chargers tailored to the high electrical demands of modern homes in neighborhoods like La Reserve and Pusch Ridge Vistas." },
+    { title: "Whole-Home Generators", description: "Ensure uninterrupted power during monsoon season outages. We install and maintain whole-home generators to keep your Oro Valley property running smoothly." },
+    { title: "Landscape Lighting", description: "Enhance your outdoor living spaces and highlight Catalina Mountain views. We design and install custom landscape lighting for golf course homes and expansive patios." },
+    { title: "Panel Upgrades", description: "Modernize your electrical system to meet today's energy needs. We upgrade panels to safely handle the load of pool equipment, multiple HVAC zones, and luxury appliances." },
+    { title: "HOA-Compliant Solutions", description: "We understand the strict HOA standards in communities like Sun City Oro Valley. Our electrical work is always up to code and meets local aesthetic requirements." }
+  ],
   content: {
-    mainHeading: "Licensed Electrical Services in Oro Valley",
+    mainHeading: "Professional Electrical Services in Oro Valley",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Electrical Services for Oro Valley Homes & Businesses",
-            "level": 2,
-            "content": "Electrical Services for Oro Valley Homes & Businesses"
-      },
-      {
-            "type": "paragraph",
-            "content": "Oro Valley is one of the most desirable communities in the greater Tucson area. According to the 2020 census, the population of the town is 47,070, an increase from 29,700 in 2000. Dubbed the \"Upscale Tech Mecca\" of Southern Arizona by the ... As the community continues to grow and modernize, homeowners increasingly need electrical upgrades to support EV chargers, solar panel systems, smart home technology, and higher-capacity appliances. Intelligent Design has served Oro Valley for over 46 years, providing licensed electrical services that keep homes safe and up to code."
-      },
-      {
-            "type": "paragraph",
-            "content": "Many Oro Valley homes were built with 100-amp electrical panels that simply cannot handle today's energy demands. Adding an EV charger alone requires a dedicated 40-50 amp circuit, and when combined with a modern HVAC system, pool equipment, and kitchen appliances, the original panel becomes a bottleneck\u2014and a potential safety hazard. Our licensed electricians assess your current capacity and recommend the right upgrade path."
-      },
-      {
-            "type": "heading",
-            "heading": "Our Most Requested Electrical Services",
-            "level": 2,
-            "content": "Our Most Requested Electrical Services"
-      },
-      {
-            "type": "paragraph",
-            "content": "Panel upgrades are our most common service in Oro Valley. We upgrade 100-amp panels to 200-amp or higher, ensuring your home can safely power everything from EV chargers to solar inverters. Every upgrade includes a full load calculation, permit filing, and city inspection coordination."
-      },
-      {
-            "type": "paragraph",
-            "content": "EV charger installation is rapidly growing in Oro Valley. We install Level 2 chargers for all makes\u2014Tesla, Ford, Rivian, BMW, and more\u2014with proper circuit sizing, dedicated breakers, and NEMA-rated outdoor enclosures. We also handle whole-home rewiring for older properties, ceiling fan and lighting installation, outlet and circuit additions, surge protection, and generator hookups for backup power during outages."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule an Electrical Consultation",
-            "content": "Licensed electricians serving Oro Valley. Panel upgrades, EV chargers, rewiring, and emergency repair. Call (520) 333-2665 or schedule online.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Oro Valley Trusts Intelligent Design",
-            "level": 2,
-            "content": "Why Oro Valley Trusts Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With 23,000+ five-star reviews and a 4.97 Google rating, we're the highest-rated electrical contractor in Southern Arizona. Our Oro Valley customers value our upfront pricing, clean workmanship, and the fact that we pull proper permits for every job. We're fully licensed, bonded, and insured with ROC certification for both residential and commercial electrical work."
-      },
-      {
-            "type": "paragraph",
-            "content": "As a full-service home company, we offer a unique advantage: our electricians coordinate directly with our HVAC, plumbing, and solar teams. If your panel upgrade is part of a solar installation or your rewiring project uncovers plumbing issues, we handle everything under one roof\u2014saving you time, money, and the hassle of coordinating multiple contractors."
-      },
-      {
-            "type": "heading",
-            "heading": "Proudly Serving Oro Valley",
-            "level": 2,
-            "content": "Proudly Serving Oro Valley"
-      },
-      {
-            "type": "paragraph",
-            "content": "Our electricians serve all Oro Valley neighborhoods and surrounding communities. From homes near Picture Rock Petroglyphs, Mona's Bridge, Steam Pump Ranch, Rio Vista Labyrinth, to properties throughout the area near local favorites like North Italia, Redbird Scratch Kitchen + Bar, The Parish, Wildflower\u2014we provide the same fast response, expert service, and fair pricing that has made us Tucson's most trusted electrical contractor for over four decades."
-      },
-      {
-            "type": "cta",
-            "heading": "Need an Electrician in Oro Valley?",
-            "content": "From panel upgrades to emergency repairs, Intelligent Design provides licensed electrical services throughout Oro Valley. Call (520) 333-2665 or schedule online.",
-            "buttonText": "Schedule Service",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Meeting the High Electrical Demands of Oro Valley Homes", level: 2, content: "same" },
+      { type: "paragraph", content: "Oro Valley is known for its upscale planned communities, golf course homes, and stunning views of the Catalina Mountains. With median home values ranging from $400,000 to $700,000, properties in neighborhoods like Rancho Vistoso and Vistoso Trails often feature high-end amenities that require robust electrical systems. From multi-zone HVAC units and pool heat pumps to sophisticated smart home integrations, the electrical demands in Oro Valley are significant. Intelligent Design understands the unique needs of these 1990s to 2010s builds. We provide expert electrical services designed to support your modern lifestyle, ensuring your home's power supply is safe, efficient, and capable of handling everything from luxury appliances to whole-home generators." },
+      { type: "paragraph", content: "While Oro Valley enjoys a highly reliable underground electrical grid serviced by TEP, the specific challenges of the area require specialized attention. The integration of smart home systems, landscape lighting to accentuate Pusch Ridge views, and the increasing popularity of EV chargers all necessitate professional electrical upgrades. Furthermore, strict HOA standards in communities like Sun City Oro Valley mean that any exterior electrical work must be meticulously planned and executed. Our licensed electricians are experienced in navigating these requirements, delivering premium electrical solutions that enhance the safety, functionality, and value of your Oro Valley home." },
+      { type: "cta", heading: "Need an Expert Electrician in Oro Valley?", content: "Contact Intelligent Design today for reliable, high-quality electrical services tailored to your home.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Electrical Solutions for Your Community", level: 2, content: "same" },
+      { type: "paragraph", content: "Whether you're upgrading the electrical panel in a 1990s home near El Conquistador Golf or installing a whole-home generator for peace of mind during summer storms, Intelligent Design is your go-to electrical contractor in Oro Valley. We specialize in a wide range of services, including custom wiring for outdoor kitchens, pool equipment electrical connections, and advanced lighting designs. Our team is committed to providing top-tier workmanship that meets the high expectations of Oro Valley residents. We use premium materials and adhere to the strictest safety standards, ensuring your electrical system operates flawlessly for years to come." },
+      { type: "paragraph", content: "As a company with over 46 years of experience serving the greater Tucson area, we are proud to be a trusted partner for homeowners in Oro Valley—consistently rated as one of the safest cities in Arizona. We share your commitment to maintaining a high quality of life and a beautiful community. From the trails of Catalina State Park to the shopping at Oro Valley Marketplace, we know what makes this area special. When you choose Intelligent Design, you're choosing a local team that values integrity, professionalism, and exceptional customer service. Let us handle your electrical needs so you can enjoy everything Oro Valley has to offer." },
+      { type: "cta", heading: "Schedule Your Electrical Service Today", content: "Ready to upgrade your home's electrical system? Book an appointment with our expert electricians.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: electricalRepairFAQs,
-  commonQuestions: getRefinementQuestions('Electrical', 'Oro Valley'),
+  faqs: {
+    category: "Electrical in Oro Valley",
+    items: [
+      { question: "Do you install EV chargers in Oro Valley?", answer: "Yes, we specialize in installing Level 2 EV chargers for homes in Oro Valley. Whether you live in Rancho Vistoso or La Reserve, we can upgrade your electrical panel if necessary and ensure the installation meets all local codes and HOA requirements." },
+      { question: "Can you help with smart home wiring in my Oro Valley home?", answer: "Absolutely. We provide comprehensive smart home wiring services for upscale properties in Oro Valley. From automated lighting and climate control to advanced security systems, we ensure your home's electrical infrastructure can support the latest technology." },
+      { question: "Are whole-home generators necessary in Oro Valley?", answer: "While the TEP grid in Oro Valley is generally very reliable, whole-home generators provide essential backup power during unexpected outages or severe monsoon storms. We install and maintain generators to keep your home comfortable and secure year-round." },
+      { question: "Do you handle landscape lighting for golf course homes in Oro Valley?", answer: "Yes, we design and install custom landscape lighting to enhance the beauty and security of your property. We can highlight your landscaping, patios, and views of Pusch Ridge, ensuring all work complies with your neighborhood's HOA standards." },
+      { question: "My home in Sun City Oro Valley was built in the 90s. Do I need a panel upgrade?", answer: "Homes built in the 1990s may have electrical panels that are undersized for modern demands, especially if you've added a pool, EV charger, or smart home devices. We can inspect your panel in Sun City Oro Valley and recommend an upgrade if needed." },
+      { question: "Are your electricians familiar with Oro Valley HOA regulations?", answer: "Yes, our team is highly experienced in working within the strict HOA guidelines common in Oro Valley communities. We ensure that all exterior electrical work, including solar prep and generator installations, meets aesthetic and safety standards." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How much does it cost to upgrade an electrical panel?", answer: "The cost of a panel upgrade varies based on the size of the new panel and the complexity of the installation. Contact us for a detailed, custom quote for your specific home." },
+    { question: "How long does an EV charger installation take?", answer: "Most EV charger installations can be completed in a few hours, provided your current electrical panel has sufficient capacity. If a panel upgrade is required, the process will take longer." },
+    { question: "What are the signs of faulty wiring?", answer: "Signs of faulty wiring include flickering lights, frequently tripped breakers, buzzing sounds from outlets, and a burning smell near electrical panels. If you notice any of these, call a professional immediately." },
+    { question: "Do you offer emergency electrical services?", answer: "Yes, we provide emergency electrical repairs to address urgent safety concerns, such as power loss, sparking outlets, or exposed wiring. Our team is ready to help when you need it most." }
+  ],
+  serviceArea: {
+    primary: "Oro Valley",
+    nearby: ["Catalina", "Marana", "Casas Adobes"]
+  }
 };
+
+export default data;

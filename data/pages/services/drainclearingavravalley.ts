@@ -1,109 +1,58 @@
-// Optimized Drain Clearing page for Avra Valley - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { drainClearingFAQs } from '@/data/faqs/plumbing';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const drainclearingavravalleyData: ServicePageData = {
-  // SEO & Meta
-  title: "Drain Clearing Avra Valley AZ | Call Intelligent Design (520) 333-2665",
-  description: "Expert drain clearing in Avra Valley, AZ. Fast, reliable plumbing services to keep your pipes flowing smoothly. Call (520) 333-2665 today.",
+const data: ServicePageData = {
+  title: "Drain Clearing in Avra Valley, AZ | Intelligent Design",
+  description: "Expert drain clearing in Avra Valley, AZ. We tackle septic systems, mesquite root intrusion, and caliche soil drainage issues. Call (520) 333-2665 today!",
   slug: "drain-clearing-avra-valley",
-  
-  // Hero Section
-  h1: "Drain Clearing Services in Avra Valley, AZ",
-  h2Subheading: "Fast, Expert Plumbing Solutions for Your Home or Business",
-  tagline: "Same-Day Service | Licensed Experts | 46+ Years Experience | 4.97-Star Rated",
-  heroImage: "/generated_images/Professional_drain_clearing_service_46ea7cfd.webp",
-  heroImageAlt: "Drain Clearing in Avra Valley",
-  
-  // Service Info
+  h1: "Professional Drain Clearing in Avra Valley",
+  h2Subheading: "Specialized Solutions for Rural Properties and Septic Systems",
+  tagline: "Clearing Avra Valley's toughest clogs since 1978.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Drain Clearing Service in Avra Valley, Arizona",
   serviceName: "Drain Clearing",
   category: "Plumbing",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid 68-Minute Response",
-    "description": "Our average response time ensures your drain issues are addressed quickly and efficiently."
-  },
-  {
-    "title": "Advanced Equipment & Techniques",
-    "description": "We use hydro jetting and camera inspections for thorough drain clearing and accurate diagnoses."
-  },
-  {
-    "title": "Comprehensive Drain Services",
-    "description": "From main line clearing to routine clog removal, we handle all types of drain problems."
-  },
-  {
-    "title": "Transparent, Competitive Pricing",
-    "description": "No hidden fees\u2014clear quotes upfront to keep your plumbing budget on track."
-  },
-  {
-    "title": "Certified & Experienced Team",
-    "description": "52 licensed technicians with 46+ years of industry expertise guarantee quality workmanship."
-  },
-  {
-    "title": "Reliable Warranty Protection",
-    "description": "We back our drain clearing services with a solid warranty for your peace of mind."
-  }
-],
+    { title: "Septic System Expertise", description: "Many Avra Valley properties rely on septic systems rather than city sewers. We provide specialized clearing that protects your tank and leach field." },
+    { title: "Root Intrusion Removal", description: "Deep-reaching mesquite and palo verde roots frequently invade drain lines in the 85743 and 85653 zip codes. Our advanced hydro-jetting cuts through stubborn desert roots." },
+    { title: "Caliche Soil Solutions", description: "The hard caliche soil common in Avra Valley can cause severe exterior drainage issues. We diagnose and resolve slow-draining lines affected by ground settling." },
+    { title: "Large Property Service", description: "With homes situated on 1-5 acre lots, drain lines are often exceptionally long. We have the equipment to clear extended runs from your home to the street or septic tank." },
+    { title: "Monsoon Runoff Management", description: "Heavy monsoon runoff from the Tucson Mountains can overwhelm exterior drains. We help keep your property's drainage systems flowing freely during storm season." },
+    { title: "24/7 Emergency Response", description: "A backed-up drain in a rural area requires immediate attention. Our technicians are ready to respond to Avra Valley emergencies day or night." }
+  ],
   content: {
-    mainHeading: "Drain Clearing Services in Avra Valley, AZ",
+    mainHeading: "Professional Drain Clearing in Avra Valley",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Professional Drain Clearing Tailored for Avra Valley Homes",
-            "level": 2,
-            "content": "Professional Drain Clearing Tailored for Avra Valley Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Located in the greater Tucson area, Avra Valley faces unique plumbing challenges caused by monsoon storms, hard water buildup, and extreme heat. Our drain clearing services are designed to tackle these issues head-on using state-of-the-art hydro jetting technology and sewer camera inspections. These tools allow us to safely and effectively remove stubborn clogs and debris, restoring your drains to optimal flow."
-      },
-      {
-            "type": "paragraph",
-            "content": "Whether it\u2019s a slow kitchen sink, backed-up main sewer line, or frequent clogging in bathroom drains, our licensed technicians have the expertise to diagnose and resolve the problem quickly. We understand the importance of reliable plumbing in Southern Arizona\u2019s climate and are committed to providing long-lasting solutions that protect your home from future damage."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Fast Drain Clearing in Avra Valley?",
-            "content": "Call Intelligent Design today for prompt, professional service you can trust.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Avra Valley Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Avra Valley Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design stands out as the trusted plumbing partner in Avra Valley. Our highly trained team of 52 licensed technicians consistently delivers fast, reliable service with an average response time of just 68 minutes."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind our work with comprehensive warranties to ensure your satisfaction and peace of mind. Our transparent pricing and honest communication have earned us the loyalty of countless Avra Valley residents who demand high-quality plumbing solutions tailored to Southern Arizona\u2019s unique environment."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Avra Valley Community",
-            "level": 2,
-            "content": "Serving the Avra Valley Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving Avra Valley and surrounding areas near landmarks like the Old Stagecoach Stop, Downtown Marana Sign with the iconic Cowboy Statue, Marana Heritage River Park, and the Picture Rock Petroglyphs. We\u2019re honored to support local homes and businesses near beloved spots such as Casa Rodriguez Restaurant & Super Market, Sky Rider Cafe, Taqueria Plaza\u2019s, and Luna Cafe."
-      },
-      {
-            "type": "cta",
-            "heading": "Experience Expert Drain Clearing in Avra Valley",
-            "content": "Contact Intelligent Design for expert plumbing solutions designed for Southern Arizona\u2019s toughest drain problems.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Tackling Avra Valley's Unique Drainage Challenges", level: 2, content: "same" },
+      { type: "paragraph", content: "Avra Valley's rural character and open desert terrain present specific challenges for residential plumbing systems. Unlike central Tucson, many homes in the 85743 and 85653 zip codes rely on septic systems, which require careful maintenance and specialized drain clearing techniques to avoid damaging the delicate bacterial balance or the leach field. Furthermore, the expansive 1-5 acre lots mean that drain lines are often much longer than average, increasing the potential for blockages along the run." },
+      { type: "paragraph", content: "One of the most common issues we encounter in Avra Valley is root intrusion. The deep-seeking roots of native mesquite trees and other desert vegetation are naturally drawn to the moisture in your drain lines. Once inside, they can quickly cause severe blockages and pipe damage. Additionally, the hard caliche soil prevalent in the area can lead to ground shifting and settling, which may cause pipes to belly or crack, further impeding proper drainage. Intelligent Design has the specialized equipment and local expertise to address these specific Avra Valley challenges effectively." },
+      { type: "cta", heading: "Need Immediate Drain Clearing?", content: "Don't let a stubborn clog disrupt your home. Contact Intelligent Design for fast, reliable service in Avra Valley.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Advanced Solutions for Rural Plumbing Systems", level: 2, content: "same" },
+      { type: "paragraph", content: "At Intelligent Design, we utilize state-of-the-art technology to diagnose and resolve drain issues in Avra Valley. Our high-resolution sewer cameras allow us to pinpoint the exact location and cause of a blockage, whether it's a buildup of grease, a collapsed pipe due to caliche soil shifting, or a dense mass of mesquite roots. For tough clogs and root intrusions, our hydro-jetting service uses high-pressure water to scour the inside of your pipes, restoring them to their original capacity without the use of harsh chemicals that could harm your septic system." },
+      { type: "paragraph", content: "As a locally owned company with over 46 years of experience, we understand the unique needs of Avra Valley residents. From the neighborhoods near the Picture Rocks border to the Sandario corridor, we are committed to providing top-tier plumbing services that protect your home and property. We know that dealing with drain issues on a rural property can be stressful, which is why we prioritize prompt, professional service and lasting solutions that keep your plumbing system running smoothly." },
+      { type: "cta", heading: "Schedule Your Drain Clearing Service", content: "Experience the Intelligent Design difference. Book your appointment today.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: drainClearingFAQs,
-  commonQuestions: getRefinementQuestions('Drain Clearing', 'Avra Valley'),
+  faqs: {
+    category: "Drain Clearing in Avra Valley",
+    items: [
+      { question: "Is drain clearing safe for my Avra Valley septic system?", answer: "Yes, we use septic-safe methods like mechanical snaking and hydro-jetting. We avoid harsh chemical cleaners that can disrupt the essential bacteria in your septic tank, ensuring your entire system remains healthy and functional." },
+      { question: "How do you handle tree roots in drain lines on large Avra Valley properties?", answer: "We use specialized camera inspections to locate the root intrusion, often caused by native mesquite trees. Then, we utilize high-powered hydro-jetting or mechanical augers to cut through and remove the roots, restoring full flow to your long drain lines." },
+      { question: "Can caliche soil cause my drains to back up?", answer: "Absolutely. The hard caliche soil in Avra Valley can cause the ground to shift, leading to 'bellied' or sagging pipes where water and debris collect and cause clogs. We can diagnose this issue with a camera inspection." },
+      { question: "Do you service homes near the Sandario corridor?", answer: "Yes, we provide comprehensive drain clearing services throughout all of Avra Valley, including the Sandario corridor, Mile Wide area, and properties near the Picture Rocks border." },
+      { question: "What should I do if my exterior drains are overwhelmed by monsoon runoff?", answer: "Heavy runoff from the Tucson Mountains can quickly overwhelm exterior drainage. If you're experiencing pooling water or backups during a storm, call us. We can clear blockages and recommend solutions to improve your property's drainage capacity." },
+      { question: "How long does it take to clear a drain on a 5-acre lot?", answer: "While the time varies depending on the severity and location of the clog, our technicians arrive fully equipped to handle the long pipe runs typical of large Avra Valley properties, ensuring the job is done as efficiently as possible." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I have my drains professionally cleaned?", answer: "For homes with older plumbing or those prone to root intrusion, we recommend annual preventative drain cleaning to avoid unexpected backups and costly repairs." },
+    { question: "What are the signs of a main sewer line blockage?", answer: "Warning signs include multiple slow drains in the house, gurgling sounds from toilets, water backing up into showers when the washing machine runs, and foul odors." },
+    { question: "Is hydro-jetting better than snaking?", answer: "Hydro-jetting is highly effective for removing grease, scale, and heavy root intrusions, essentially washing the pipe walls clean. Snaking is better for simple, localized clogs." },
+    { question: "Can I use chemical drain cleaners?", answer: "We strongly advise against chemical cleaners. They are often ineffective on tough clogs, can damage your pipes over time, and are harmful to septic systems and the environment." }
+  ],
+  serviceArea: {
+    primary: "Avra Valley",
+    nearby: ["Marana", "Picture Rocks", "Tucson"]
+  }
 };
+
+export default data;

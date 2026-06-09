@@ -1,126 +1,58 @@
-// Optimized Solar Installation page for Vail - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { residentialSolarInstallationFAQs } from '@/data/faqs/solar';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
-export const solarinstallationvailData: ServicePageData = {
-  // SEO & Meta
-  title: "Solar Installation Vail AZ | Residential Solar Panels | (520) 333-2665",
-  description: "Solar panel installation in Vail AZ. Custom system design, battery storage, and 25-year warranties. 300+ days of sunshine. Call (520) 333-2665 for a free solar consultation.",
+import type { ServicePageData } from "@/types/services";
+
+const data: ServicePageData = {
+  title: "Solar Panel Installation in Vail, AZ | Intelligent Design",
+  description: "Top-rated solar installation in Vail, AZ. Maximize your energy savings with high-efficiency solar panels designed for Vail's 3,200+ ft elevation. Call (520) 333-2665.",
   slug: "solar-installation-vail",
-  
-  // Hero Section
-  h1: "Solar Panel Installation in Vail, Arizona",
-  h2Subheading: "Harness Vail's 300+ Days of Sunshine with Solar",
-  tagline: "Custom Solar Design | Battery Storage | 30% Federal Tax Credit | 25-Year Warranty | Free Consultation",
-  heroImage: "/generated_images/Residential_solar_installation_8a8bfb2c.webp",
-  heroImageAlt: "Professional solar panel installation on Vail Arizona home with mountain views",
-  
-  // Service Info
+  h1: "Solar Panel Installation in Vail, AZ",
+  h2Subheading: "High-Efficiency Solar Solutions for Vail's Unique Climate",
+  tagline: "Harness the power of the sun with Vail's trusted solar experts.",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Solar Panel Installation in Vail, Arizona",
   serviceName: "Solar Installation",
   category: "Solar",
-  
-  // Content
   highlights: [
-  {
-    "title": "Custom System Design",
-    "description": "Engineered for your roof, energy usage, and budget. Satellite-based design with shade analysis."
-  },
-  {
-    "title": "Battery Storage",
-    "description": "Tesla Powerwall and Enphase battery options for energy independence and backup power."
-  },
-  {
-    "title": "30% Federal Tax Credit",
-    "description": "Maximize your savings with the federal ITC. We help with all paperwork and documentation."
-  },
-  {
-    "title": "25-Year Warranty",
-    "description": "Manufacturer panel warranty plus our workmanship guarantee. Long-term performance assured."
-  },
-  {
-    "title": "TEP Net Metering",
-    "description": "Sell excess power back to Tucson Electric Power. Most Vail homeowners offset 80-100% of their bill."
-  },
-  {
-    "title": "Licensed & Insured",
-    "description": "ROC-licensed solar contractor. NABCEP-certified installers. Full liability coverage."
-  }
-],
+    { title: "Optimized for Elevation", description: "Vail's 3,200-3,800 ft elevation provides cooler temperatures that actually improve solar panel efficiency. We design systems that maximize this natural advantage." },
+    { title: "Customized for Newer Roofs", description: "With many homes built in the 2000s-2020s across Vail's subdivisions, your roof is likely in prime condition for solar. We ensure seamless integration with modern roofing materials." },
+    { title: "Ground-Mount Options", description: "For properties in rural sections or custom homes on acreage near the Empire Mountains, we offer ground-mounted solar arrays that maximize sun exposure without altering your roofline." },
+    { title: "Battery Backup Integration", description: "Protect your home from rural grid outages with advanced battery storage. Keep your essential systems running even when the TEP service experiences interruptions." },
+    { title: "HOA-Compliant Designs", description: "We navigate the requirements of Vail's family-oriented subdivisions, ensuring your solar installation meets all local HOA guidelines while delivering maximum power." },
+    { title: "Local Expertise", description: "As a trusted provider in the Vail School District area, we understand the specific energy needs of growing families and design systems to offset high heating and cooling demands." }
+  ],
   content: {
-    mainHeading: "Solar Panel Installation in Vail, Arizona",
+    mainHeading: "Solar Panel Installation in Vail, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Solar Installation for Vail Homes",
-            "level": 2,
-            "content": "Solar Installation for Vail Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Vail is a growing community southeast of Tucson with excellent solar potential. As of the census of 2010, there were 10,208 people residing in Vail, Arizona (a 248% increase from 2000). The population density was 561.2 people per square ... With over 300 days of sunshine per year and an average of 6.5 peak sun hours daily, Vail is one of the best locations in the country for residential solar. Most homeowners can offset 80-100% of their electricity bill with a properly designed system."
-      },
-      {
-            "type": "paragraph",
-            "content": "Intelligent Design has installed solar systems across the Tucson area for over a decade, and Vail's newer home construction makes it particularly well-suited for solar. Many homes feature south- and west-facing roof planes with minimal shading\u2014ideal conditions for maximum energy production. Our NABCEP-certified installers design every system specifically for your roof orientation, shading profile, and energy usage patterns."
-      },
-      {
-            "type": "heading",
-            "heading": "System Design, Installation & Savings",
-            "level": 2,
-            "content": "System Design, Installation & Savings"
-      },
-      {
-            "type": "paragraph",
-            "content": "Every Vail solar project begins with a satellite-based roof analysis and shade study. We calculate your optimal system size based on 12 months of TEP (Tucson Electric Power) usage data, then design a system that maximizes production while fitting your budget. Most Vail homes require a 6-10 kW system, producing 9,000-15,000 kWh annually."
-      },
-      {
-            "type": "paragraph",
-            "content": "The 30% federal Investment Tax Credit (ITC) significantly reduces your upfront cost. On a typical $25,000 system, that's $7,500 back on your federal taxes. Combined with TEP's net metering program\u2014which credits you for excess power sent back to the grid\u2014most homeowners see a full return on investment within 6-8 years, with 17+ years of free electricity after that."
-      },
-      {
-            "type": "paragraph",
-            "content": "We also install battery storage systems, including Tesla Powerwall and Enphase IQ batteries. Battery storage provides backup power during outages, allows you to store solar energy for evening use, and can further reduce your reliance on grid electricity during peak-rate hours."
-      },
-      {
-            "type": "cta",
-            "heading": "Get a Free Solar Consultation",
-            "content": "Find out how much you can save with solar in Vail. Free consultation, custom system design, and financing options. Call (520) 333-2665 or schedule online.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Vail Homeowners Go Solar with Intelligent Design",
-            "level": 2,
-            "content": "Why Vail Homeowners Go Solar with Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With 23,000+ five-star reviews and a 4.97 Google rating, Intelligent Design is the highest-rated solar installer in Southern Arizona. Vail homeowners choose us for our transparent pricing (no high-pressure sales tactics), NABCEP-certified installation crews, and 25-year warranty coverage that includes both panels and workmanship."
-      },
-      {
-            "type": "paragraph",
-            "content": "As a full-service home company, we handle everything: electrical panel upgrades needed for solar interconnection, roof repairs or replacement before panel installation, and ongoing system monitoring. One company manages your entire solar journey from consultation to commissioning."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Vail Community",
-            "level": 2,
-            "content": "Serving the Vail Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Intelligent Design installs solar systems throughout Vail and surrounding areas. From homes near Colossal Cave Mountain Park, Old Pueblo Hall, Rio Vista Labyrinth, Historic Canoa Ranch | Pima County, to neighborhoods near JoJo's Restaurant, Tito and Pep, The Rattler at del Lago, Montgomery's Grill & Saloon\u2014we bring the same expert design, quality installation, and long-term support that has made us the Tucson area's most trusted solar contractor."
-      },
-      {
-            "type": "cta",
-            "heading": "Ready for Solar in Vail?",
-            "content": "Join thousands of Arizona homeowners saving with solar. Free consultation for Vail residents. Call (520) 333-2665 or schedule online.",
-            "buttonText": "Schedule Consultation",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Maximizing Solar Potential in Vail's Climate", level: 2, content: "same" },
+      { type: "paragraph", content: "Vail's unique geography offers distinct advantages for solar energy generation. Situated at an elevation of 3,200 to 3,800 feet, the area experiences cooler temperatures compared to the Tucson valley. This is a significant benefit, as solar panels operate more efficiently in cooler conditions, allowing you to generate more electricity from the abundant Arizona sunshine. Whether you live in a newer subdivision like Del Lago or a custom ranch property near Cienega Creek Preserve, our solar solutions are tailored to harness these local environmental benefits, ensuring your system performs at its peak year-round." },
+      { type: "paragraph", content: "However, Vail's climate also presents specific challenges. The higher elevation means more frost in the winter and increased exposure to wind and occasional hail. Additionally, the mix of modern subdivisions and rural properties means electrical infrastructure can vary widely. Our team at Intelligent Design understands these local nuances. We select durable, high-quality panels capable of withstanding temperature extremes and design robust mounting systems to handle wind exposure. We also assess your home's electrical panel, whether it's a modern setup in a new build or requires upgrades for a rural property, to ensure safe and efficient integration." },
+      { type: "cta", heading: "Ready to Switch to Solar in Vail?", content: "Contact Intelligent Design today for a free, customized solar consultation for your Vail home.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Solar Solutions for Vail Homeowners", level: 2, content: "same" },
+      { type: "paragraph", content: "We offer a full suite of solar services designed specifically for the Vail community. From initial consultation and custom system design to professional installation and ongoing maintenance, we handle every step of the process. For homeowners on larger lots or acreage, we provide ground-mounted systems that offer optimal positioning without impacting your roof. For those in newer subdivisions, we expertly install roof-mounted arrays that complement your home's aesthetics and comply with HOA regulations. We also specialize in battery backup systems, providing peace of mind and continuous power during outages, which is especially valuable for properties on the outskirts of the TEP grid." },
+      { type: "paragraph", content: "Intelligent Design is proud to serve the rapidly growing, family-oriented community of Vail. With over 46 years of experience and a commitment to excellence reflected in our 4.97-star rating, we are dedicated to helping our neighbors achieve energy independence. We understand that families in the Vail School District area have high energy demands, and our goal is to provide reliable, efficient solar solutions that significantly reduce your utility bills while contributing to a sustainable future for our beautiful desert environment." },
+      { type: "cta", heading: "Schedule Your Solar Installation Today", content: "Take control of your energy costs with a custom solar system from Intelligent Design.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: residentialSolarInstallationFAQs,
-  commonQuestions: getRefinementQuestions('Solar', 'Vail'),
+  faqs: {
+    category: "Solar Installation in Vail",
+    items: [
+      { question: "Does Vail's higher elevation affect solar panel performance?", answer: "Yes, positively! Vail's elevation of 3,200-3,800 feet results in cooler temperatures than lower desert areas. Solar panels actually operate more efficiently in cooler weather, meaning your system in Vail can generate more power from the same amount of sunlight compared to a hotter location." },
+      { question: "Are ground-mounted solar panels a good option for my Vail property?", answer: "Absolutely. If you live on a larger lot, acreage, or a ranch property in Vail, a ground-mounted system can be ideal. It allows for perfect positioning to maximize sun exposure without being limited by your roof's size, angle, or orientation." },
+      { question: "Will my HOA in Vail allow solar panels?", answer: "Most HOAs in Vail's subdivisions, such as Del Lago, permit solar installations, though they may have specific aesthetic guidelines. Intelligent Design has extensive experience working with local HOAs and will ensure your system design complies with all community regulations." },
+      { question: "Do I need a battery backup with my solar system in Vail?", answer: "While not strictly required, a battery backup is highly recommended, especially for rural properties in Vail or areas further from the main TEP grid. It ensures you have reliable power during outages and allows you to store excess energy generated during the day for use at night." },
+      { question: "Can my newer roof in Vail support solar panels?", answer: "Yes. Many homes in Vail were built in the 2000s-2020s, meaning their roofs are generally in excellent condition for solar installation. We carefully assess your specific roof type, whether tile or shingle, to ensure a secure and watertight installation." },
+      { question: "How do solar panels hold up to Vail's weather, including wind and hail?", answer: "We use premium, highly durable solar panels designed to withstand severe weather, including the wind exposure and occasional hail that can occur at Vail's higher elevation. Our robust mounting systems ensure your array remains secure in all conditions." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How much can I save with solar panels?", answer: "Savings vary based on your energy usage and system size, but most homeowners see a significant reduction in their monthly utility bills, often offsetting a large portion of their electricity costs." },
+    { question: "How long does a solar installation take?", answer: "The physical installation typically takes 1-3 days. However, the entire process, including design, permitting, and utility interconnection, can take several weeks to a few months." },
+    { question: "What maintenance do solar panels require?", answer: "Solar panels require minimal maintenance. Occasional cleaning to remove dust and debris, along with an annual inspection to ensure optimal performance, is usually sufficient." },
+    { question: "Are there tax incentives for installing solar?", answer: "Yes, there are federal and often state tax incentives available that can significantly reduce the upfront cost of your solar installation. We can provide information on current available credits." }
+  ],
+  serviceArea: {
+    primary: "Vail",
+    nearby: ["Corona de Tucson", "Rita Ranch", "Tucson"]
+  }
 };
+
+export default data;

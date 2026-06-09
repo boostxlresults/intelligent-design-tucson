@@ -1,109 +1,58 @@
-// Optimized Electrical page for Red Rock / Casa Grande - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
-import { electricalRepairFAQs } from '@/data/faqs/electrical';
+import type { ServicePageData } from "@/types/services";
 
-export const electricalredrockcasagrandeData: ServicePageData = {
-  // SEO & Meta
-  title: "Electrical Services in Red Rock / Casa Grande, AZ | Call (520) 333-2665",
-  description: "Trusted electrical services in Red Rock / Casa Grande, AZ. Expert repairs, panel upgrades, EV charger install. Call (520) 333-2665 today!",
+const data: ServicePageData = {
+  title: "Expert Electrical Services in Red Rock & Casa Grande, AZ",
+  description: "Top-rated electrical services in Red Rock & Casa Grande. From panel upgrades to EV chargers, our licensed electricians handle it all. Call (520) 333-2665.",
   slug: "electrical-red-rock-casa-grande",
-  
-  // Hero Section
-  h1: "Expert Electrical Services in Red Rock / Casa Grande, AZ",
-  h2Subheading: "Reliable Electrical Repairs, Upgrades & Installations for Your Home",
-  tagline: "Fast Response | Licensed Electricians | 46+ Years Experience | Upfront Pricing | Comprehensive Services | Satisfaction Guaranteed",
-  heroImage: "/generated_images/Electrical_service_work_e21d02b3.webp",
-  heroImageAlt: "Professional electrical service in Red Rock / Casa Grande",
-  
-  // Service Info
+  h1: "Professional Electrical Services in Red Rock & Casa Grande",
+  h2Subheading: "Reliable Electrical Solutions for Pinal County Homes",
+  tagline: "Powering Your Home Safely and Efficiently",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Electrical Services in Red Rock & Casa Grande, Arizona",
   serviceName: "Electrical",
   category: "Electrical",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid Response Time",
-    "description": "Average 68-minute response to electrical emergencies across Red Rock and Casa Grande."
-  },
-  {
-    "title": "Advanced Equipment & Expertise",
-    "description": "52 licensed technicians equipped for panel upgrades, EV chargers, lighting, and rewiring."
-  },
-  {
-    "title": "Comprehensive Electrical Services",
-    "description": "From whole-home rewiring to outlet repairs and smart home electrical installations."
-  },
-  {
-    "title": "Transparent, Competitive Pricing",
-    "description": "Upfront quotes with no hidden fees tailored to Red Rock and Casa Grande homes."
-  },
-  {
-    "title": "Highly Qualified Team",
-    "description": "46+ years of industry experience maintaining safety in Southern Arizona\u2019s extreme climate."
-  },
-  {
-    "title": "Warranty & Satisfaction",
-    "description": "All electrical work backed by strong warranties and our 4.97-star customer satisfaction guarantee."
-  }
-],
+    { title: "Panel Upgrades for High AC Demand", description: "With extreme summer heat exceeding 115°F, your AC runs for 6+ months. We upgrade electrical panels to handle the heavy load of multiple AC units common in Casa Grande." },
+    { title: "Surge Protection for Modern Homes", description: "Protect your smart home devices and appliances in newer subdivisions like Mission Royale. Our whole-home surge protection safeguards against power fluctuations." },
+    { title: "EV Charger Installation", description: "As Red Rock grows with Phoenix spillover, EV adoption is rising. We install Level 2 chargers for convenient home charging in your single-story garage." },
+    { title: "Code-Compliant Wiring", description: "Pinal County has different building codes than Pima County. Our licensed electricians ensure all wiring and upgrades meet local agricultural and residential standards." },
+    { title: "Generator Installation", description: "Keep your home cool during outages in the extreme heat zone. We install reliable backup generators to ensure your AC never stops running when you need it most." },
+    { title: "Lighting Upgrades", description: "Enhance your home's energy efficiency with LED lighting upgrades. Perfect for both newer builds and older properties transitioning from agricultural heritage." }
+  ],
   content: {
-    mainHeading: "Expert Electrical Services in Red Rock / Casa Grande, AZ",
+    mainHeading: "Professional Electrical Services in Red Rock & Casa Grande",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Comprehensive Electrical Solutions for Red Rock / Casa Grande Homes",
-            "level": 2,
-            "content": "Comprehensive Electrical Solutions for Red Rock / Casa Grande Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in Southern Arizona means dealing with unique electrical challenges, from monsoon storms to extreme heat that can damage wiring and panels. Our team specializes in durable electrical repairs, panel upgrades to handle increased loads, and installing EV chargers designed for local conditions. Protect your home with expert lighting solutions and efficient outlet installations to keep your family safe and powered."
-      },
-      {
-            "type": "paragraph",
-            "content": "We also provide whole-home rewiring services to replace outdated or damaged systems, ensuring compliance with modern safety codes. Whether you need a quick repair or a major upgrade, Intelligent Design\u2019s licensed electricians deliver reliable, code-compliant work tailored specifically for Red Rock and Casa Grande residences."
-      },
-      {
-            "type": "cta",
-            "heading": "Need Electrical Help Now?",
-            "content": "Call our expert team today for fast, reliable electrical service in Red Rock and Casa Grande. We\u2019re just a phone call away!",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Red Rock / Casa Grande Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Red Rock / Casa Grande Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star Google rating from more than 23,000 reviews, Intelligent Design is a trusted name in Southern Arizona electrical service. Our customers value our fast response times and transparent pricing, knowing we prioritize safety and long-lasting solutions adapted to local weather and electrical demands."
-      },
-      {
-            "type": "paragraph",
-            "content": "All electrical work is performed by our 52 licensed technicians and backed by strong warranties. We stand behind every job, ensuring your home\u2019s electrical system withstands the harsh monsoons, intense sun, and hard water conditions common to the Red Rock and Casa Grande areas."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Red Rock / Casa Grande Community",
-            "level": 2,
-            "content": "Serving the Red Rock / Casa Grande Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "We proudly serve homes near local landmarks like Casa Grande Ruins National Monument, Old Sasco Building Remains, Casa Grande Ruins Visitor Center, and Ironwood Forest National Monument. Our team is part of the community and supports local businesses including Hideout Steakhouse and BBQ, BeDillon\u2019s Restaurant, Karavela\u2019s Mexican and Peruvian Food, and Big House Cafe & Catering."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Electrical Service Today",
-            "content": "Protect your home with expert electrical services tailored for Red Rock and Casa Grande\u2019s unique climate and electrical needs.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Navigating Electrical Demands in the Extreme Heat Zone", level: 2, content: "same" },
+      { type: "paragraph", content: "Red Rock and Casa Grande experience some of the most extreme summer heat in the region, with temperatures frequently soaring above 115°F. At an elevation of just 1,400 feet, this area is significantly hotter than Tucson, meaning your air conditioning systems work overtime for six months or more. This intense cooling demand places an enormous strain on your home's electrical system. Whether you live in a newer subdivision in Mission Royale or an established property near the Casa Grande Ruins National Monument, ensuring your electrical panel has the capacity to support multiple AC units is critical. The combination of extreme heat and high electrical load can cause older panels to fail prematurely. Intelligent Design provides comprehensive electrical inspections and panel upgrades tailored to the unique high-demand environment of Pinal County, ensuring your home remains safe, cool, and fully powered throughout the grueling summer months." },
+      { type: "paragraph", content: "The transition of this area from its agricultural heritage to a rapidly growing residential hub brings specific electrical challenges. Many homes in the 85145, 85122, and 85193 zip codes are being updated with modern smart home technologies, EV chargers, and high-efficiency appliances. However, the electrical infrastructure must keep pace with these advancements. Operating within the APS/SRP service area, which differs from Tucson's TEP, requires specific local knowledge and expertise. Our electricians are experts in Pinal County building codes and can seamlessly integrate whole-home surge protection to safeguard your valuable electronics from power spikes caused by high grid demand. From upgrading outdated wiring in older properties to optimizing the electrical capacity in newer single-story homes, we deliver solutions that meet the rigorous demands of the Red Rock and Casa Grande climate, ensuring your electrical system is as resilient as the community itself." },
+      { type: "cta", heading: "Need an Electrical Upgrade?", content: "Ensure your home's electrical system can handle the heat. Contact our licensed electricians today.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Electrical Solutions for Pinal County", level: 2, content: "same" },
+      { type: "paragraph", content: "At Intelligent Design, we offer a full spectrum of electrical services designed to meet the evolving needs of Red Rock and Casa Grande residents. As the area experiences rapid growth from Phoenix spillover, the demand for modern electrical conveniences is higher than ever. We specialize in installing dedicated circuits for home offices, upgrading lighting to energy-efficient LEDs, and setting up reliable backup generators. A power outage during a 115°F day is more than an inconvenience; it is a serious safety hazard for your family. Our professional generator installations ensure that your HVAC system continues to run, protecting your home from the extreme heat. We also provide expert troubleshooting and repair services, addressing everything from flickering lights to frequently tripping breakers. By utilizing high-quality materials and advanced diagnostic tools, we ensure your electrical system operates flawlessly, providing peace of mind year-round." },
+      { type: "paragraph", content: "With over 46 years of experience and a 4.97-star rating from more than 3,600 reviews, Intelligent Design is deeply committed to the communities we serve. We understand the unique characteristics of Red Rock and Casa Grande, from the specific housing stock of retirement communities to the distinct climate challenges of the extreme heat zone. Our team is dedicated to providing top-tier electrical services that enhance the safety, comfort, and value of your home. Whether you are located near Picacho Peak, in the heart of downtown Casa Grande, or in a new Pinal County development, you can trust our licensed professionals to deliver exceptional workmanship and unparalleled customer service. We take pride in powering the homes of this vibrant, growing region, ensuring every electrical project is completed to the highest standards of quality, safety, and local code compliance." },
+      { type: "cta", heading: "Schedule Your Electrical Service Today", content: "Ready to upgrade your electrical system? Book an appointment with our expert team.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: electricalRepairFAQs,
-  commonQuestions: getRefinementQuestions('Electrical', 'Red Rock / Casa Grande'),
+  faqs: {
+    category: "Electrical Services in Red Rock & Casa Grande",
+    items: [
+      { question: "Why do I need a panel upgrade in Red Rock & Casa Grande?", answer: "Due to the extreme summer heat in Red Rock and Casa Grande, homes often require multiple AC units running constantly. A panel upgrade ensures your electrical system has the capacity to handle this heavy load safely, preventing tripped breakers and potential fire hazards in your Pinal County home. Upgrading your panel also prepares your home for future additions like EV chargers or solar panels, ensuring your electrical infrastructure can support modern demands." },
+      { question: "Are EV chargers popular in Casa Grande?", answer: "Yes, as the Casa Grande area grows with new subdivisions and Phoenix spillover, EV adoption is increasing rapidly. We install Level 2 EV chargers in garages across the 85122, 85145, and 85193 zip codes, providing fast and convenient charging for your electric vehicle. Our licensed electricians ensure the installation meets all Pinal County building codes and that your current electrical panel can safely support the additional load of an EV charger." },
+      { question: "Do you service homes in Mission Royale?", answer: "Absolutely! We provide comprehensive electrical services to homes in Mission Royale, Coyote Ranch, and other neighborhoods throughout Red Rock and Casa Grande. Whether you need whole-home surge protection, LED lighting upgrades, or a complete panel replacement, our licensed electricians are familiar with the local housing stock. We understand the specific electrical needs of both newer subdivisions and older properties transitioning from the area's agricultural heritage." },
+      { question: "Why is surge protection important in this area?", answer: "With the high electrical demands placed on the APS/SRP grid during peak summer months, power fluctuations and surges can frequently occur. Whole-home surge protection safeguards your expensive HVAC equipment, smart home devices, and modern appliances from damaging voltage spikes common in the Red Rock area. Installing a surge protector at your main electrical panel provides a critical line of defense, extending the lifespan of your electronics and preventing costly replacements." },
+      { question: "Can you install a backup generator for my Casa Grande home?", answer: "Yes, we highly recommend backup generators for homes in the extreme heat zone of Casa Grande. A standby generator ensures your air conditioning continues to run seamlessly during power outages, keeping your family safe and comfortable when outside temperatures exceed 115°F. We handle the entire installation process, from selecting the right size generator for your home's electrical load to ensuring it integrates perfectly with your existing electrical system." },
+      { question: "Do you follow Pinal County building codes?", answer: "Yes, our electricians are fully licensed and well-versed in Pinal County building codes, which differ significantly from Pima County regulations. We ensure all electrical work, from simple wiring repairs to complex panel upgrades, meets local safety standards for homes in Red Rock and Casa Grande. Our strict adherence to local codes guarantees that your electrical system is not only safe and efficient but also fully compliant with all municipal requirements." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How much does it cost to upgrade an electrical panel?", answer: "The cost to upgrade an electrical panel varies based on the required amperage, the condition of your current wiring, and any necessary code updates. Contact Intelligent Design for a detailed, transparent estimate tailored to your home's specific electrical needs and safety requirements." },
+    { question: "How long does an EV charger installation take?", answer: "Most Level 2 EV charger installations can be completed in a few hours. The exact timeframe depends on the distance from your electrical panel to the installation site and whether a panel upgrade is needed to support the additional electrical load." },
+    { question: "What are the signs of a failing electrical panel?", answer: "Common signs of a failing electrical panel include frequently tripping breakers, flickering or dimming lights, a burning smell near the panel, or visible rust and corrosion. If you notice any of these warning signs, schedule a professional electrical inspection immediately." },
+    { question: "Do you offer emergency electrical repairs?", answer: "Yes, we provide prompt and reliable electrical repair services to address urgent issues. Our team is dedicated to ensuring your home remains safe and fully powered, especially during the demanding summer months when electrical systems are under the most stress." }
+  ],
+  serviceArea: {
+    primary: "Red Rock & Casa Grande",
+    nearby: ["Eloy", "Arizona City", "Coolidge"]
+  }
 };
+
+export default data;

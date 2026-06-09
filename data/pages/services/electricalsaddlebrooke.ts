@@ -1,107 +1,58 @@
-// Optimized Electrical page for SaddleBrooke - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { electricalRepairFAQs } from '@/data/faqs/electrical';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const electricalsaddlebrookeData: ServicePageData = {
-  // SEO & Meta
-  title: "Electrical Services in SaddleBrooke, AZ | Call (520) 333-2665",
-  description: "Trusted electrical services in SaddleBrooke, AZ. Expert repairs, panel upgrades & EV charger installs. Call Intelligent Design today!",
+const data: ServicePageData = {
+  title: "Expert Electrical Services in SaddleBrooke, AZ | Intelligent Design",
+  description: "Top-rated electrical services in SaddleBrooke, AZ. From whole-home generators to golf cart chargers, our expert electricians serve the 85739 area. Call (520) 333-2665.",
   slug: "electrical-saddle-brooke",
-  
-  // Hero Section
-  h1: "Expert Electrical Services in SaddleBrooke, AZ",
-  h2Subheading: "Reliable Electrical Repairs, Upgrades, and Installations Tailored for Southern Arizona",
-  tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | Comprehensive Warranty | Locally Trusted",
-  heroImage: "/generated_images/Electrical_service_work_e21d02b3.webp",
-  heroImageAlt: "Professional electrician providing expert electrical service in SaddleBrooke, Arizona retirement homes",
-  
-  // Service Info
+  h1: "Professional Electrical Services in SaddleBrooke",
+  h2Subheading: "Reliable Power Solutions for Your Active Adult Lifestyle",
+  tagline: "SaddleBrooke's Trusted Electricians for Over 46 Years",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Electrical Services in SaddleBrooke, Arizona",
   serviceName: "Electrical",
   category: "Electrical",
-  
-  // Content
   highlights: [
-  {
-    "title": "68-Minute Average Response Time",
-    "description": "Rapid electrical service to restore power and safety quickly in SaddleBrooke homes."
-  },
-  {
-    "title": "Advanced Equipment & Expertise",
-    "description": "State-of-the-art diagnostic tools and skilled technicians handle all electrical needs."
-  },
-  {
-    "title": "Full-Service Electrical Solutions",
-    "description": "From panel upgrades to EV charger installation and whole-home rewiring, we cover it all."
-  },
-  {
-    "title": "Transparent and Fair Pricing",
-    "description": "Upfront estimates with no hidden fees ensure you get quality work within budget."
-  },
-  {
-    "title": "Team of 52 Licensed Technicians",
-    "description": "Certified electricians trained to meet SaddleBrooke\u2019s unique electrical challenges."
-  },
-  {
-    "title": "Comprehensive Warranty Coverage",
-    "description": "Confidence backed by warranties on all parts and labor for lasting peace of mind."
-  }
-],
+    { title: "Medical Equipment Power", description: "We ensure reliable power for essential medical devices in SaddleBrooke homes. Our dedicated circuits and backup solutions provide peace of mind for 55+ residents." },
+    { title: "Whole-Home Generators", description: "Protect your SaddleBrooke property from TEP outages with a standby generator. Essential for maintaining comfort during Catalina Mountain storms and occasional winter frost." },
+    { title: "Golf Cart Charging Stations", description: "Expert installation of dedicated circuits for golf cart chargers. Perfect for navigating the two championship golf courses and resort-style amenities." },
+    { title: "Smart Home Integration", description: "Upgrade your 1990s-2010s home with modern smart lighting and security systems. We seamlessly integrate technology while respecting HOA guidelines." },
+    { title: "Security Lighting", description: "Enhance safety around your single-story luxury home with custom security lighting. We design solutions that illuminate pathways without disturbing the dark skies." },
+    { title: "Panel Upgrades", description: "Modernize the electrical panel in your MountainView or Preserve section home. We ensure your system can handle today's high-efficiency demands safely." }
+  ],
   content: {
-    mainHeading: "Expert Electrical Services in SaddleBrooke, AZ",
+    mainHeading: "Professional Electrical Services in SaddleBrooke",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Comprehensive Electrical Services for SaddleBrooke Residents",
-            "level": 2,
-            "content": "Comprehensive Electrical Services for SaddleBrooke Residents"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in SaddleBrooke means facing Southern Arizona\u2019s extreme heat, seasonal monsoons, and hard water effects. Our electrical services are designed to handle these unique conditions, ensuring your home\u2019s electrical system remains safe and efficient year-round. Whether you need lighting upgrades or whole-home rewiring, our technicians bring decades of experience tailored to local needs."
-      },
-      {
-            "type": "paragraph",
-            "content": "We specialize in electrical panel upgrades to support modern appliances and EV charger installations, essential for sustainable living in the greater Tucson area. Our team also repairs outlets and lighting fixtures damaged by power surges common during monsoon storms, protecting your home from electrical hazards."
-      },
-      {
-            "type": "cta",
-            "heading": "Schedule Your Electrical Service Today",
-            "content": "Don\u2019t wait for electrical issues to worsen. Contact Intelligent Design now for fast, reliable service customized for SaddleBrooke homes.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why SaddleBrooke Homeowners Choose Intelligent Design",
-            "content": ""
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 Google reviews, Intelligent Design is the trusted choice for electrical services in SaddleBrooke. Our licensed technicians deliver quality workmanship combined with honest advice. We stand behind every job with comprehensive warranties, ensuring your investment is protected."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our locally based team understands the electrical challenges posed by Southern Arizona\u2019s climate. We provide tailored solutions that improve safety and energy efficiency, helping SaddleBrooke residents enjoy uninterrupted power and peace of mind."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the SaddleBrooke Community",
-            "content": ""
-      },
-      {
-            "type": "paragraph",
-            "content": "We are proud to serve neighborhoods near landmarks like the Historic Kannally Ranch House, Oracle Historical Society, Oracle State Park, and the Vista Sun Wheel. Our clients also frequent local favorites such as Fork & Fire Catalina Grill, Riot Grill, The Preserve Fine Dining, and The Roadrunner Grill. Being part of this vibrant community motivates us to deliver exceptional electrical services designed specifically for SaddleBrooke\u2019s unique environment."
-      },
-      {
-            "type": "cta",
-            "heading": "Get Expert Electrical Help Now",
-            "content": "For dependable electrical repairs, upgrades, and installations in SaddleBrooke, contact Intelligent Design Air Conditioning, Plumbing, Solar, & Electric today.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Addressing SaddleBrooke's Unique Electrical Needs", level: 2, content: "same" },
+      { type: "paragraph", content: "Living in SaddleBrooke offers a premier active adult lifestyle, but the unique housing stock and elevation present specific electrical challenges. At 3,400 feet, the cooler temperatures and proximity to the Catalina Mountains mean occasional winter frost and storms that can impact the TEP grid. Our expert electricians understand the specific needs of 55+ communities, from ensuring uninterrupted power for medical equipment to installing reliable whole-home generators. We are familiar with the modern underground utilities and the specific requirements of Robson Communities developments, ensuring all work meets the high standards expected in SaddleBrooke." },
+      { type: "paragraph", content: "Many homes in SaddleBrooke, built between the 1990s and 2010s, are now requiring electrical updates to support modern lifestyles. Whether you need a dedicated circuit for a new golf cart charger to easily access the SaddleBrooke Clubhouse, or you're looking to upgrade your home with smart security lighting, we have the expertise. We navigate the strict HOA guidelines seamlessly, ensuring that all exterior electrical work, including landscape lighting and generator installations, complies with community standards while enhancing the safety and functionality of your single-story luxury home." },
+      { type: "cta", heading: "Need Reliable Electrical Service?", content: "Contact Intelligent Design today for expert electrical solutions tailored to your SaddleBrooke home.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Electrical Solutions for the 85739 Area", level: 2, content: "same" },
+      { type: "paragraph", content: "Intelligent Design provides a full spectrum of electrical services designed specifically for the residents of SaddleBrooke and SaddleBrooke Ranch. Our services range from essential panel upgrades to accommodate new high-efficiency HVAC systems, to the installation of custom lighting that highlights your premium finishes. We prioritize safety and reliability, offering comprehensive inspections to identify and resolve any aging wiring issues in older sections of the community. Our goal is to provide seamless, high-quality electrical work that supports your active and comfortable lifestyle." },
+      { type: "paragraph", content: "As a trusted local provider with over 46 years of experience and a 4.97-star rating, we are deeply committed to the SaddleBrooke community. We understand the importance of prompt, professional service, especially when dealing with critical power needs. Whether you're enjoying a day at the Preserve Bistro or exploring nearby Oracle State Park, you can trust that your home's electrical system is in expert hands. We pride ourselves on delivering exceptional workmanship and customer service that exceeds the expectations of SaddleBrooke residents." },
+      { type: "cta", heading: "Schedule Your Electrical Service Today", content: "Ensure your home's electrical system is safe and up-to-date. Book an appointment with our expert electricians.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: electricalRepairFAQs,
-  commonQuestions: getRefinementQuestions('Electrical', 'SaddleBrooke'),
+  faqs: {
+    category: "Electrical in SaddleBrooke",
+    items: [
+      { question: "Do you install whole-home generators in SaddleBrooke?", answer: "Yes, we specialize in installing whole-home generators for SaddleBrooke residents. Given the occasional storms near the Catalina Mountains, a standby generator ensures your medical equipment and essential appliances stay powered during TEP outages." },
+      { question: "Can you add a dedicated circuit for my golf cart charger in SaddleBrooke Ranch?", answer: "Absolutely. We frequently install dedicated circuits for golf cart chargers in SaddleBrooke Ranch and the main community, ensuring you have reliable power to get to the championship golf courses and resort amenities." },
+      { question: "Are you familiar with SaddleBrooke's HOA electrical guidelines?", answer: "Yes, we have extensive experience working within the strict HOA guidelines of SaddleBrooke. We ensure all exterior electrical work, such as security lighting and generator installations, complies with community standards." },
+      { question: "Do you offer electrical panel upgrades for older homes in the MountainView section?", answer: "Yes, we provide comprehensive panel upgrades for homes built in the 1990s in the MountainView and other older sections of SaddleBrooke, ensuring your system can safely handle modern electrical demands." },
+      { question: "Can you install smart home security lighting in SaddleBrooke?", answer: "We expertly install smart home security lighting tailored to your single-story luxury home in SaddleBrooke. We design systems that enhance safety while respecting the community's aesthetic and dark sky preferences." },
+      { question: "Do you provide emergency electrical services in the 85739 zip code?", answer: "Yes, we offer prompt emergency electrical services throughout the 85739 zip code. Whether you have a sudden outage or a critical issue with medical equipment power, our team is ready to assist SaddleBrooke residents." }
+    ]
+  },
+  commonQuestions: [
+    { question: "Why is my circuit breaker frequently tripping?", answer: "Frequent tripping often indicates an overloaded circuit, a short circuit, or a faulty breaker. In older SaddleBrooke homes, it may be time for a panel upgrade to handle modern appliances safely." },
+    { question: "How do I know if I need a panel upgrade?", answer: "Signs include flickering lights, breakers that constantly trip, a panel that feels warm, or if your home still has its original 1990s panel and you are adding new heavy-load appliances." },
+    { question: "What are the benefits of LED lighting upgrades?", answer: "LED lighting is highly energy-efficient, lasts significantly longer than traditional bulbs, and produces less heat, which is beneficial for maintaining comfortable temperatures in your SaddleBrooke home." },
+    { question: "Is it safe to use extension cords permanently?", answer: "No, extension cords are designed for temporary use. For permanent power needs, such as for medical equipment or entertainment systems, we recommend installing new, dedicated outlets." }
+  ],
+  serviceArea: {
+    primary: "SaddleBrooke",
+    nearby: ["SaddleBrooke Ranch", "Oracle", "Catalina"]
+  }
 };
+
+export default data;

@@ -1,109 +1,58 @@
-// Optimized Heating page for Rita Ranch - SERP API enriched
-import type { ServicePageData } from '@/types/services';
-import { heatingLocationFAQs } from '@/data/faqs/hvac';
-import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
+import type { ServicePageData } from "@/types/services";
 
-export const heatingritaranchData: ServicePageData = {
-  // SEO & Meta
-  title: "Heating Service in Rita Ranch, AZ | Call (520) 333-2665",
-  description: "Expert heating repair, installation & maintenance in Rita Ranch, AZ. Fast response & trusted HVAC pros. Call Intelligent Design today!",
+const data: ServicePageData = {
+  title: "Heating Repair & Installation in Rita Ranch, AZ | Intelligent Design",
+  description: "Expert heating services in Rita Ranch, AZ. From heat pumps to furnaces, we handle two-story heat stratification and aging systems in 85747. Call (520) 333-2665.",
   slug: "heating-rita-ranch",
-  
-  // Hero Section
-  h1: "Reliable Heating Services in Rita Ranch, AZ",
-  h2Subheading: "Expert Heating Repair, Installation & Maintenance for Southern Arizona Homes",
-  tagline: "Fast 68-Min Response | Licensed Technicians | 46+ Years Experience",
-  heroImage: "/generated_images/Heating_tech_burner_inspection_09779c7f.webp",
-  heroImageAlt: "Professional heating technician providing expert furnace service in Rita Ranch, Arizona homes",
-  
-  // Service Info
+  h1: "Heating Services in Rita Ranch, AZ",
+  h2Subheading: "Reliable Heating Solutions for Rita Ranch Homes",
+  tagline: "Keeping 85747 Families Warm All Winter",
+  heroImage: "/images/placeholder.webp",
+  heroImageAlt: "Heating Services in Rita Ranch, Arizona",
   serviceName: "Heating",
   category: "HVAC",
-  
-  // Content
   highlights: [
-  {
-    "title": "Rapid Response Time",
-    "description": "Average 68-minute response ensures your heating issues are resolved quickly."
-  },
-  {
-    "title": "Advanced Heating Equipment",
-    "description": "We service and install high-efficiency furnaces and heat pumps built for desert climates."
-  },
-  {
-    "title": "Comprehensive Heating Services",
-    "description": "From heating repairs and tune-ups to new system installations and heat pump servicing."
-  },
-  {
-    "title": "Transparent Pricing",
-    "description": "Upfront, fair estimates with no hidden fees tailored for Rita Ranch residents."
-  },
-  {
-    "title": "Certified HVAC Technicians",
-    "description": "52 licensed pros with 46+ years of local expertise in Southern Arizona heating systems."
-  },
-  {
-    "title": "Reliable Warranty Coverage",
-    "description": "We back our heating repairs and installations with solid warranties for peace of mind."
-  }
-],
+    { title: "Two-Story Heating Experts", description: "Many homes in Rita Ranch are two-story builds from the 1990s-2010s. We specialize in resolving heat stratification issues to keep both floors comfortable." },
+    { title: "Local 85747 Service", description: "We provide fast, reliable heating repairs and installations throughout the 85747 zip code, from Rancho del Lago to the Civano border." },
+    { title: "Elevation-Ready Systems", description: "At 3,000 ft elevation, Rita Ranch experiences slightly cooler winters than central Tucson. We ensure your heating system is sized correctly for these conditions." },
+    { title: "HOA-Compliant Installations", description: "Rita Ranch has active HOAs that maintain property values. We ensure all exterior heating equipment installations comply with local neighborhood guidelines." },
+    { title: "Aging System Upgrades", description: "Builder-grade heating systems in 1990s Rita Ranch homes are reaching the end of their lifespan. We offer energy-efficient upgrades tailored to your home's needs." },
+    { title: "Zoning Solutions", description: "To combat uneven heating in large, family-oriented homes, we install advanced zoning systems that provide customized comfort for every room." }
+  ],
   content: {
-    mainHeading: "Reliable Heating Services in Rita Ranch, AZ",
+    mainHeading: "Heating Services in Rita Ranch, AZ",
     sections: [
-      {
-            "type": "heading",
-            "heading": "Trusted Heating Solutions for Rita Ranch Homes",
-            "level": 2,
-            "content": "Trusted Heating Solutions for Rita Ranch Homes"
-      },
-      {
-            "type": "paragraph",
-            "content": "Living in Rita Ranch means dealing with Southern Arizona\u2019s unique climate challenges. Our heating services are designed to withstand extreme heat swings, monsoon humidity, and hard water effects that can impact your heating systems. Whether you need furnace installation, heat pump repair, or routine maintenance, Intelligent Design ensures your home stays comfortable all winter long."
-      },
-      {
-            "type": "paragraph",
-            "content": "Our expert technicians specialize in heating tune-ups that improve efficiency and extend equipment lifespan. We use advanced diagnostics to detect issues caused by dust accumulation and mineral deposits common in the Tucson area. Trust us to optimize your system performance and reduce costly breakdowns during those chilly desert nights."
-      },
-      {
-            "type": "cta",
-            "heading": "Keep Your Home Warm This Season",
-            "content": "Schedule your heating service today with Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. Call now for fast, reliable heating repair and installation in Rita Ranch.",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      },
-      {
-            "type": "heading",
-            "heading": "Why Rita Ranch Homeowners Choose Intelligent Design",
-            "level": 2,
-            "content": "Why Rita Ranch Homeowners Choose Intelligent Design"
-      },
-      {
-            "type": "paragraph",
-            "content": "With over 46 years of experience and a 4.97-star rating from more than 23,000 reviews, Intelligent Design is the trusted HVAC partner for Rita Ranch residents. Our licensed technicians understand the specific heating demands of Southern Arizona homes and deliver expert service with unmatched professionalism."
-      },
-      {
-            "type": "paragraph",
-            "content": "We stand behind every heating repair and installation with comprehensive warranties, ensuring your investment is protected. Our commitment to transparent pricing and rapid response times means you\u2019ll never be left in the cold."
-      },
-      {
-            "type": "heading",
-            "heading": "Serving the Rita Ranch Community",
-            "level": 2,
-            "content": "Serving the Rita Ranch Community"
-      },
-      {
-            "type": "paragraph",
-            "content": "Proudly serving the Rita Ranch area and greater Tucson community, we\u2019re familiar with local landmarks like Joining Hands, the Tucson Rodeo Parade and Tucson Wagon & History Museum, Pima Air & Space Museum, and the 390th Memorial Museum. We also support local favorites such as Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, and Rocking K Market bar & restaurant."
-      },
-      {
-            "type": "cta",
-            "heading": "Ready for Expert Heating Service?",
-            "content": "Contact Intelligent Design today for heating repairs, installations, or maintenance tailored to Rita Ranch\u2019s climate. Stay warm and comfortable this season!",
-            "buttonText": "Call (520) 333-2665",
-            "buttonLink": "tel:+15203332665"
-      }
-]
+      { type: "heading", heading: "Heating Challenges in Rita Ranch", level: 2, content: "same" },
+      { type: "paragraph", content: "Rita Ranch is a popular, family-oriented master-planned community with homes primarily built between the 1990s and 2010s. While the area enjoys slightly cooler temperatures due to its 3,000 ft elevation, winter nights can still get chilly, making a reliable heating system essential. Many homes in the 85747 zip code are two-story structures, which often suffer from heat stratification—where the upstairs gets too warm while the downstairs remains cold. Additionally, the original builder-grade heating systems in older Rita Ranch homes are now aging and losing efficiency, leading to higher energy bills and uneven comfort." },
+      { type: "paragraph", content: "At Intelligent Design, we understand the specific heating challenges faced by Rita Ranch homeowners. Whether you're dealing with an aging furnace in Rancho del Lago or need a heat pump replacement near Rita Ranch Park, our experienced technicians are equipped to handle it. We specialize in upgrading outdated systems, installing zoning solutions to balance temperatures across multiple floors, and ensuring all work complies with the strict guidelines of local HOAs. Our goal is to provide efficient, long-lasting heating solutions that keep your family comfortable throughout the cooler months." },
+      { type: "cta", heading: "Need Heating Service in Rita Ranch?", content: "Don't let a failing heater leave your family in the cold. Contact Intelligent Design today for expert heating repair, maintenance, or installation in the 85747 area.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
+      { type: "heading", heading: "Comprehensive Heating Solutions for 85747", level: 2, content: "same" },
+      { type: "paragraph", content: "We offer a full range of heating services tailored to the unique housing stock of Rita Ranch. From routine maintenance that extends the life of your current system to complete installations of high-efficiency heat pumps and furnaces, we have you covered. Our team is highly skilled in diagnosing and repairing issues common to the area, such as ductwork leaks in two-story homes and failing components in older builder-grade units. We also provide expert advice on upgrading to modern, energy-efficient systems that can handle the slightly cooler winter temperatures at Rita Ranch's elevation." },
+      { type: "paragraph", content: "As a locally trusted company with over 46 years of experience and more than 3,600 five-star reviews, Intelligent Design is committed to serving the Rita Ranch community. We know how important it is to maintain a comfortable home for your family, especially in a neighborhood known for its excellent schools and strong community events. Whether you live near the Houghton corridor or closer to Saguaro National Park East, you can rely on us for prompt, professional, and courteous heating services that prioritize your comfort and satisfaction." },
+      { type: "cta", heading: "Schedule Your Rita Ranch Heating Service", content: "Ready to upgrade your heating system or need a quick repair? Schedule your service with Intelligent Design today and experience the best HVAC care in Rita Ranch.", buttonText: "Schedule Service", buttonLink: "/contact" }
+    ]
   },
-  faqs: heatingLocationFAQs,
-  commonQuestions: getRefinementQuestions('Heating', 'Rita Ranch'),
+  faqs: {
+    category: "Heating in Rita Ranch",
+    items: [
+      { question: "Why is my two-story home in Rita Ranch heating unevenly?", answer: "Many two-story homes in Rita Ranch experience heat stratification, where warm air rises, leaving the downstairs cold and the upstairs too hot. We can install zoning systems or adjust your ductwork to ensure even heating throughout your 85747 home." },
+      { question: "How long do heating systems typically last in Rita Ranch?", answer: "In Rita Ranch, builder-grade heating systems installed in the 1990s and 2000s typically last 15-20 years. If your home in Rancho del Lago or the Houghton corridor still has its original unit, it may be time to consider an energy-efficient upgrade." },
+      { question: "Do I need HOA approval for a new heating system in Rita Ranch?", answer: "If your new heating system involves exterior equipment changes, such as a new heat pump, you may need approval from your Rita Ranch HOA. We have experience working within these guidelines and can help ensure your installation is fully compliant." },
+      { question: "Is a heat pump or furnace better for my Rita Ranch home?", answer: "Both are excellent options for Rita Ranch. Heat pumps are highly efficient for our mild winters, while furnaces provide strong, consistent heat. We can evaluate your specific home near Rita Ranch Park to recommend the best solution for your needs." },
+      { question: "How does the 3,000 ft elevation of Rita Ranch affect my heating needs?", answer: "At 3,000 ft, Rita Ranch experiences slightly cooler winter temperatures than central Tucson. This means your heating system needs to be properly sized and maintained to handle the increased demand efficiently without overworking the unit." },
+      { question: "Can you fix the heating in my older Rita Ranch home?", answer: "Yes! We specialize in repairing and upgrading aging heating systems in 1990s-era Rita Ranch homes. Whether you need a simple repair or a full system replacement, our technicians have the expertise to restore your home's comfort." }
+    ]
+  },
+  commonQuestions: [
+    { question: "How often should I schedule heating maintenance?", answer: "We recommend scheduling heating maintenance once a year, ideally in the fall before the cooler weather arrives. Regular tune-ups help prevent unexpected breakdowns and keep your system running efficiently." },
+    { question: "What are the signs that my heater needs repair?", answer: "Common signs include strange noises, uneven heating, a sudden increase in energy bills, or the system constantly turning on and off. If you notice any of these issues, it's best to call for a professional inspection." },
+    { question: "Do you offer emergency heating repair?", answer: "Yes, we understand that heating emergencies can happen at any time. We offer prompt, reliable emergency repair services to ensure your family stays warm and comfortable when you need it most." },
+    { question: "Can a new heating system lower my energy bills?", answer: "Absolutely. Upgrading to a modern, high-efficiency heating system can significantly reduce your energy consumption, leading to lower monthly utility bills and improved overall comfort in your home." }
+  ],
+  serviceArea: {
+    primary: "Rita Ranch",
+    nearby: ["Rancho del Lago", "Civano", "Vail"]
+  }
 };
+
+export default data;
