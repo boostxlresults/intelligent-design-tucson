@@ -10,7 +10,8 @@ export const solarinstallationrillitoData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Rillito, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationrillito",
+  serviceName: "Solar",
   highlights: [
     { title: "Agricultural Solar Solutions", description: "We design large-scale solar arrays perfect for Rillito's agricultural buildings and open farmland. Maximize your property's energy potential." },
     { title: "Manufactured Home Expertise", description: "Our team specializes in solar installations for manufactured homes, which make up 40% of Rillito's housing stock. We ensure safe and efficient mounting." },
@@ -33,8 +34,9 @@ export const solarinstallationrillitoData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Rillito",
-    items: [
+    serviceId: "solarinstallationrillito",
+    serviceName: "Solar in Rillito",
+    faqs: [
       { question: "Can solar panels be installed on manufactured homes in Rillito?", answer: "Yes, we specialize in solar installations for manufactured homes, which are common in Rillito. We carefully assess the structural integrity of your roof and use specialized mounting hardware to ensure a safe, secure, and code-compliant installation that won't compromise your home." },
       { question: "How does the dust from Rillito's agricultural fields affect solar panels?", answer: "Dust from nearby farming operations in Rillito can accumulate on panels and slightly reduce their efficiency. We recommend regular cleaning, especially during dry, windy periods. We can also install systems at optimal angles to encourage natural cleaning during rainstorms and offer professional maintenance services." },
       { question: "Are ground-mounted solar panels a good option for my Rillito property?", answer: "Absolutely. Given the large lots and agricultural properties common in the 85654 area, ground-mounted solar arrays are an excellent choice. They allow for optimal positioning towards the sun without being restricted by roof size, angle, or age, maximizing your energy production." },

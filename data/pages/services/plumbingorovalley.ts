@@ -18,7 +18,8 @@ export const plumbingorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingorovalley",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "Plumbing in Oro Valley",
-    items: [
+    serviceId: "plumbingorovalley",
+    serviceName: "Plumbing in Oro Valley",
+    faqs: [
     {
         "question": "How does Oro Valley\u2019s water hardness affect my plumbing fixtures?",
         "answer": "Oro Valley\u2019s moderate\u2011hard water (about 170\u2013200 ppm) causes mineral scale on showerheads, faucets, and tank heaters more quickly than softer systems. That leads to reduced flow, higher energy use in water heaters, and premature replacement of luxury fixtures common in neighborhoods like La Reserve. We recommend targeted filtration or a water softening approach that considers the home\u2019s age (many Oro Valley homes were built in the 1990s\u20132010s), appliance needs, and HOA aesthetics. Service and maintenance plans tailored to these hardness levels help extend the life of fixtures and reduce emergency repairs."

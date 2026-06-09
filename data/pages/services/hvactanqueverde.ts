@@ -13,7 +13,8 @@ export const hvactanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tanque Verde, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvactanqueverde",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Experienced Local Technicians",
@@ -88,8 +89,9 @@ export const hvactanqueverdeData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Tanque Verde",
-    items: [
+    serviceId: "hvactanqueverde",
+    serviceName: "HVAC in Tanque Verde",
+    faqs: [
     {
         "question": "How does elevation and proximity to the Rincon Mountains affect HVAC needs in Tanque Verde?",
         "answer": "Higher elevation and nearby mountains create cooler nights, more variable temperatures, and occasional increased humidity. These conditions mean systems must handle larger temperature swings, so proper sizing, multi-zone control, and attention to humidity and air filtration are important to maintain comfort and efficiency in Tanque Verde homes."

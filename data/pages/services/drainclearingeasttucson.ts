@@ -10,7 +10,8 @@ export const drainclearingeasttucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in East Tucson, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingeasttucson",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Solutions", description: "Older East Tucson neighborhoods often face drain blockages from established tree roots. We use advanced camera inspections and root removal techniques to clear your lines." },
     { title: "Monsoon Runoff Management", description: "East Tucson's proximity to the Rincon Mountains means heavy monsoon runoff. We ensure your exterior drains are clear to prevent flooding." },
@@ -33,8 +34,9 @@ export const drainclearingeasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in East Tucson",
-    items: [
+    serviceId: "drainclearingeasttucson",
+    serviceName: "Drain Clearing in East Tucson",
+    faqs: [
       { question: "Why do my drains keep clogging in my East Tucson home?", answer: "Frequent clogs in East Tucson homes are often due to a combination of hard water scale buildup (180-220 ppm) and, in older neighborhoods, root intrusion from mature trees. Our hydro jetting service can effectively clear both issues." },
       { question: "Is hydro jetting safe for the older pipes in my 1980s East Tucson house?", answer: "Yes, hydro jetting is generally safe for 1980s plumbing. However, we always perform a camera inspection first to assess the condition of your pipes and ensure they can withstand the water pressure before proceeding with the service." },
       { question: "How can I prevent roots from invading my sewer line in East Tucson?", answer: "Preventing root intrusion in established East Tucson neighborhoods can be challenging. Regular camera inspections and preventative root clearing treatments are the best ways to keep your lines clear and avoid costly sewer line replacements." },

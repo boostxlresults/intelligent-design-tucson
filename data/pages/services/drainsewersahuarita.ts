@@ -10,7 +10,8 @@ export const drainsewersahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer Services in Sahuarita, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewersahuarita",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Flat Terrain Drainage Solutions", description: "Sahuarita's flat terrain can cause slow drainage issues in newer homes. We specialize in optimizing drainage systems for these specific conditions." },
     { title: "Construction Debris Removal", description: "In rapidly growing areas like Rancho Sahuarita and Madera Highlands, construction debris often finds its way into new sewer lines. We provide thorough camera inspections and clearing." },
@@ -33,8 +34,9 @@ export const drainsewersahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer Services in Sahuarita",
-    items: [
+    serviceId: "drainsewersahuarita",
+    serviceName: "Drain & Sewer Services in Sahuarita",
+    faqs: [
       { question: "Why are my drains slow in my new Sahuarita home?", answer: "Slow drains in newer Sahuarita homes can often be attributed to the area's flat terrain, which doesn't provide optimal gravity flow. Additionally, it's common to find construction debris left in the lines of recently built homes in communities like Madera Highlands. We can perform a camera inspection to identify and clear the blockage." },
       { question: "Do you offer trenchless sewer repair in Sahuarita?", answer: "Yes, we highly recommend trenchless sewer repair for our Sahuarita customers. This method is ideal for preserving the landscaping required by many local HOAs, such as those in Rancho Sahuarita, as it requires minimal digging compared to traditional methods." },
       { question: "What should I do if I have a sewer backup in Sahuarita?", answer: "If you experience a sewer backup in your Sahuarita home, stop using all water immediately to prevent further flooding and damage. Then, call Intelligent Design at (520) 333-2665. We offer 24/7 emergency service to the 85629 zip code and surrounding areas." },

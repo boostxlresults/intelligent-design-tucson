@@ -10,7 +10,8 @@ export const drainclearingtanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Tanque Verde, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingtanqueverde",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Removal", description: "Mature mesquite and palo verde trees in Tanque Verde are notorious for invading sewer lines. We use advanced hydro jetting to clear stubborn roots and restore flow." },
     { title: "Long Sewer Run Expertise", description: "Many properties in the Tanque Verde Valley sit on 1+ acres, meaning longer sewer lines that are prone to blockages. Our high-capacity equipment easily handles extended drain runs." },
@@ -33,8 +34,9 @@ export const drainclearingtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Tanque Verde",
-    items: [
+    serviceId: "drainclearingtanqueverde",
+    serviceName: "Drain Clearing in Tanque Verde",
+    faqs: [
       { question: "Why do my drains keep clogging in my Tanque Verde home?", answer: "In Tanque Verde, recurring clogs are often caused by root intrusion from mature desert trees like mesquite and palo verde. The roots seek out the moisture in your sewer lines, especially in older homes or those with long runs across large lots. We recommend a camera inspection to identify the exact cause." },
       { question: "Is hydro jetting safe for the pipes in my older Tanque Verde property?", answer: "Yes, hydro jetting is generally safe and highly effective, but it requires professional assessment first. For homes built in the 1980s or earlier in the Tanque Verde Valley, we always perform a camera inspection to ensure the pipes are structurally sound enough to withstand the high-pressure water used to clear roots and debris." },
       { question: "Do you service horse properties in the Agua Caliente area?", answer: "Absolutely. We have extensive experience servicing the unique plumbing and drainage systems of horse properties and large estates in the Agua Caliente area and throughout Tanque Verde. We understand the specific waste management challenges these properties face." },

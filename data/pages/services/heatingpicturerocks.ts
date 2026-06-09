@@ -18,7 +18,8 @@ export const heatingpicturerocksData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingpicturerocks",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Picture Rocks
   highlights: [
@@ -107,8 +108,9 @@ export const heatingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    category: "Heating in Picture Rocks",
-    items: [
+    serviceId: "heatingpicturerocks",
+    serviceName: "Heating in Picture Rocks",
+    faqs: [
     {
         "question": "Why does my furnace struggle on windy days in Picture Rocks?",
         "answer": "Windy afternoons common around the Tucson Mountains can drive dust and pressure changes that affect combustion air and intake vents. If outdoor vents are near corrals, unpaved driveways, or wind funnels along Sandario Road, they can clog or draft incorrectly. We inspect vent placement, add wind-resistant vent caps, and check combustion safety controls. For many homes in 85743, minor vent relocation or adding pre-filters solves cycling and efficiency issues without a full system replacement."

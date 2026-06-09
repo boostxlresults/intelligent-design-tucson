@@ -18,7 +18,8 @@ const data: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingrillito",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Rillito
   highlights: [
@@ -107,8 +108,9 @@ const data: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    category: "Drain Clearing in Rillito",
-    items: [
+    serviceId: "drainclearingrillito",
+    serviceName: "Drain Clearing in Rillito",
+    faqs: [
     {
         "question": "Do Rillito septic systems need different maintenance than city sewers?",
         "answer": "Yes. Many Rillito properties use septic systems on large lots with soil conditions influenced by nearby irrigation and the Santa Cruz River corridor. Septic systems here are more susceptible to silt and grease infiltration from agricultural runoff. We recommend pumping every 3\u20135 years for average households, more frequently for high use or properties with irrigation runoff. Our inspections include leach field evaluation and checks for lateral line breaks common in older clay pipe found in homes from the 1970s\u20131990s."

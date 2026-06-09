@@ -13,7 +13,8 @@ export const roofinggladdenfarmsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Gladden Farms, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofinggladdenfarms",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Expertise",
@@ -88,8 +89,9 @@ export const roofinggladdenfarmsData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Gladden Farms",
-    items: [
+    serviceId: "roofinggladdenfarms",
+    serviceName: "Roofing in Gladden Farms",
+    faqs: [
     {
         "question": "Do you service roofs in Gladden Farms and help with builder warranties?",
         "answer": "Yes. We regularly service roofs in Gladden Farms, including Phase I, Phase II and The Preserve. Our team documents installation issues like thin underlayment or missing flashing, provides inspection reports and helps homeowners pursue builder or manufacturer warranties. We coordinate directly with builders or warranty providers when possible and will recommend repairs or replacements if warranty coverage is insufficient."

@@ -10,7 +10,8 @@ export const roofingvailData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing Services in Vail, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingvail",
+  serviceName: "Roofing",
   highlights: [
     { title: "High-Elevation Expertise", description: "Vail's 3,200-3,800 ft elevation brings unique weather challenges, including more frost and hail. We use materials specifically rated for these temperature extremes." },
     { title: "Tile Roof Specialists", description: "With 65% of Vail homes featuring tile roofs, our technicians are experts in underlayment replacement and tile repair for newer subdivisions like Del Lago." },
@@ -33,8 +34,9 @@ export const roofingvailData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Roofing in Vail",
-    items: [
+    serviceId: "roofingvail",
+    serviceName: "Roofing in Vail",
+    faqs: [
       { question: "How often should I have my tile roof inspected in Vail?", answer: "In Vail, we recommend having your tile roof inspected every 1-2 years. The temperature extremes at our 3,200+ ft elevation, combined with occasional hail and high winds in the Rincon Valley, can cause tiles to slip or crack, exposing the underlayment to premature wear." },
       { question: "What type of roofing is best for homes near the Empire Mountains?", answer: "For homes in Vail near the Empire Mountains, concrete tile or high-quality architectural shingles are excellent choices. They offer strong wind resistance and durability against the temperature fluctuations common at this higher elevation. We ensure all installations meet local wind uplift requirements." },
       { question: "Does Intelligent Design handle roof repairs in Del Lago?", answer: "Yes, we frequently provide roofing services in Del Lago and other Vail subdivisions. We are familiar with the specific tile profiles and colors used in these neighborhoods, making it easy to perform seamless repairs that comply with local HOA standards." },

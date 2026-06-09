@@ -10,7 +10,8 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in SaddleBrooke & Catalina, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewersaddlebrookecatalina",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Rocky Soil Expertise", description: "The rocky soil in the 85739 and 85738 zip codes makes exterior plumbing repairs challenging. We use advanced trenchless technology to minimize disruption to your property." },
     { title: "Root Intrusion Solutions", description: "Pine and oak trees common at our 3,200-3,600 ft elevation frequently invade aging sewer lines. Our camera inspections pinpoint the exact location of root blockages." },
@@ -33,8 +34,9 @@ export const drainsewersaddlebrookecatalinaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "drainsewersaddlebrookecatalina",
+    serviceName: "Drain & Sewer in SaddleBrooke & Catalina",
+    faqs: [
       { question: "Why are sewer line issues so common in SaddleBrooke and Catalina?", answer: "The combination of rocky soil and mature tree roots (like pine and oak) at our 3,200-3,600 ft elevation creates a challenging environment for underground pipes. Roots seek moisture and can easily infiltrate aging sewer lines, while the rocky terrain makes natural shifting more impactful on your plumbing infrastructure." },
       { question: "Do you offer trenchless sewer repair in the 85739 zip code?", answer: "Yes, we highly recommend trenchless sewer repair for homes in SaddleBrooke and Catalina. Because the local soil is exceptionally rocky, traditional excavation is difficult and disruptive. Trenchless technology allows us to fix your pipes without destroying your landscaping or driveway." },
       { question: "How does the winter frost in Catalina affect my drains?", answer: "Catalina experiences cooler temperatures and more frequent winter frost than lower Tucson areas. If your drains are slow or partially blocked, water sits in the pipes longer, increasing the risk of freezing and bursting during cold snaps. Regular clearing prevents this winter hazard." },

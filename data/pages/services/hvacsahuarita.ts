@@ -18,7 +18,8 @@ export const hvacsahuaritaData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacsahuarita",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Sahuarita
   highlights: [
@@ -107,8 +108,9 @@ export const hvacsahuaritaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Sahuarita)
   faqs: {
-    category: "HVAC in Sahuarita",
-    items: [
+    serviceId: "hvacsahuarita",
+    serviceName: "HVAC in Sahuarita",
+    faqs: [
     {
         "question": "Why does my upstairs run so hot in a Sahuarita two-story home?",
         "answer": "Two-story homes in Rancho Sahuarita and Madera Highlands often have stacked living spaces with short, undersized ducts and single-zone systems. Heat rises into the upper level, and builder-grade systems sometimes lack return pathways or zoning dampers. At Sahuarita's 2,900 ft elevation the air is slightly cooler but solar gain through west-facing windows and open stairwells exacerbates upstairs heat. A local technician will evaluate duct sizing, add return vents or a zoning system, and recommend insulation or window shading to balance temperatures."

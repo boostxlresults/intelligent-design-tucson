@@ -13,7 +13,8 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in SaddleBrooke & Catalina, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingsaddlebrookecatalina",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Elevation Knowledge",
@@ -88,8 +89,9 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "roofingsaddlebrookecatalina",
+    serviceName: "Roofing in SaddleBrooke & Catalina",
+    faqs: [
     {
         "question": "How does roofing in SaddleBrooke & Catalina differ from lower elevations?",
         "answer": "At 3,200\u20133,600 feet, SaddleBrooke and Catalina experience more precipitation, frequent frost and larger day-night temperature swings. These conditions increase freeze-thaw stress on materials, encourage pine needle buildup and require stronger flashing, proper ventilation and roof systems selected for thermal movement. We focus on inspections and materials that resist cracking, trapped moisture, and accelerated wear specific to these ZIPs (85739, 85738)."

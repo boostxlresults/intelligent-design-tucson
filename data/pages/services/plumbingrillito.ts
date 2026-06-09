@@ -18,7 +18,8 @@ export const plumbingrillitoData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingrillito",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Rillito
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    category: "Plumbing in Rillito",
-    items: [
+    serviceId: "plumbingrillito",
+    serviceName: "Plumbing in Rillito",
+    faqs: [
     {
         "question": "How bad is Rillito well water and do I need a softener?",
         "answer": "Rillito wells typically test above 240 ppm hardness, which causes scale buildup in heaters, valves, and fixtures. For most homes in zip code 85654\u2014especially those built in the 1970s\u20131990s and manufactured homes\u2014a water softener plus a sediment pre-filter is recommended. Softening protects plumbing and extends appliance life; we also test for iron and manganese common near the Santa Cruz River corridor. After a site visit we provide a hardness reading, system recommendation, and a local maintenance schedule, factoring in dust and agricultural runoff that increase filter replacement frequency."

@@ -13,7 +13,8 @@ export const hvaccortaroData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Cortaro, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvaccortaro",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Built for Cortaro Heat",
@@ -98,8 +99,9 @@ export const hvaccortaroData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Cortaro",
-    items: [
+    serviceId: "hvaccortaro",
+    serviceName: "HVAC in Cortaro",
+    faqs: [
     {
         "question": "How long do AC systems last in Cortaro's hotter, lower-elevation climate?",
         "answer": "In Cortaro\u2019s hotter, lower-elevation climate systems typically experience heavier runtime than in higher desert neighborhoods. A well-maintained high-efficiency unit can last 12\u201315 years, but builder-grade systems installed in the 1990s often reach end-of-life sooner due to undersizing, duct leakage, and year-round strain. Regular maintenance\u2014biannual tune-ups, refrigerant checks, and duct sealing\u2014can add several years. For two-story homes with persistent upstairs heat, zoning or a variable-speed system can prevent excessive cycling and extend equipment life. When systems show repeated compressor or refrigerant issues, replacement with a properly sized unit is usually the most cost-effective option."

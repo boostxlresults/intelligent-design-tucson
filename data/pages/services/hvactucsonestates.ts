@@ -13,7 +13,8 @@ export const hvactucsonestatesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tucson Estates, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvactucsonestates",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "T1",
@@ -88,8 +89,9 @@ export const hvactucsonestatesData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Tucson Estates",
-    items: [
+    serviceId: "hvactucsonestates",
+    serviceName: "HVAC in Tucson Estates",
+    faqs: [
     {
         "question": "Do you provide AC repair and replacements in Tucson Estates?",
         "answer": "Yes. Intelligent Design serves Tucson Estates with same-day diagnostics, AC repair, and full system replacements. We assess older evaporative units, ductwork needs, and insulation to recommend cost-effective solutions. Our technicians provide clear estimates, financing options, and follow-up maintenance to keep your system reliable during extreme summer heat and monsoon season."

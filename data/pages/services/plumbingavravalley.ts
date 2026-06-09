@@ -18,7 +18,8 @@ export const plumbingavravalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingavravalley",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Avra Valley
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    category: "Plumbing in Avra Valley",
-    items: [
+    serviceId: "plumbingavravalley",
+    serviceName: "Plumbing in Avra Valley",
+    faqs: [
     {
         "question": "Do Avra Valley homes need different water softeners because of well hardness?",
         "answer": "Yes. Wells in Avra Valley commonly test above 250 ppm hardness, which is higher than many city supplies. That level of hardness requires appropriately sized softeners and often a sediment pre-filter to protect resin life. For single-story ranch homes and manufactured homes in 85743 and 85653 we evaluate well yield, household water usage, and regeneration logistics so the system chosen balances upfront cost and ongoing salt use. In many cases retrofitting an undersized softener used for a previous home can be more costly over time than installing a correctly sized unit initially."

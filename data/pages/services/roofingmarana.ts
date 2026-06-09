@@ -18,7 +18,8 @@ export const roofingmaranaData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingmarana",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Marana
   highlights: [
@@ -107,8 +108,9 @@ export const roofingmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    category: "Roofing in Marana",
-    items: [
+    serviceId: "roofingmarana",
+    serviceName: "Roofing in Marana",
+    faqs: [
     {
         "question": "How do Marana monsoon winds affect tile roofs?",
         "answer": "Marana\u2019s monsoon winds, often funneled off the Tortolita and Twin Peaks ridges, can lift or displace individual clay or concrete tiles and stress tile clips. Because many Marana homes in Dove Mountain and Gladden Farms use heavy tile, loss usually happens at ridges, hips, and windward eaves. We inspect for missing clips, underlayment tears and loose mortar; repairs focus on securing adjacent tiles and replacing broken tiles with matching profiles. Quick repairs reduce water entry during flash-flood events near washes and prevent secondary deck damage."

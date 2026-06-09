@@ -18,7 +18,8 @@ export const plumbingcortaroData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingcortaro",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Cortaro
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingcortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    category: "Plumbing in Cortaro",
-    items: [
+    serviceId: "plumbingcortaro",
+    serviceName: "Plumbing in Cortaro",
+    faqs: [
     {
         "question": "How do I know if my Cortaro home has a slab leak?",
         "answer": "Slab leaks in Cortaro often start as higher-than-normal water bills, hot patches in tile floors, or unexplained damp spots near interior walls. Because many homes here have tile floors over slab foundations, homeowners may not see obvious water until the leak has been active. We run acoustic and electronic tests and correlate results with Marana Water meter readings for 85652 and 85742 addresses to confirm leaks before recommending repair. Early detection in hotter summers reduces repair scope and cost."

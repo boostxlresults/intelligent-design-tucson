@@ -18,7 +18,8 @@ export const drainseweravravalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainseweravravalley",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Avra Valley
   highlights: [
@@ -107,8 +108,9 @@ export const drainseweravravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    category: "Drain & Sewer in Avra Valley",
-    items: [
+    serviceId: "drainseweravravalley",
+    serviceName: "Drain & Sewer in Avra Valley",
+    faqs: [
     {
         "question": "How often should Avra Valley septic systems be pumped?",
         "answer": "Septic pump intervals in Avra Valley vary with home size, occupancy, and tank type. For typical 1990s\u20132000s single-story ranch homes on 1\u20133 acre lots, we recommend inspection every 1\u20132 years and pump-outs every 3\u20135 years for a 1,000\u20131,500 gallon tank under normal use. Properties with heavy mineral loading from well water (250+ ppm hardness), garbage disposals, or shallow systems near mesquite roots may need more frequent service. We perform an inspection of baffles and distribution boxes during each visit and note local factors\u2014like proximity to the Tucson Mountains that increase runoff\u2014that could shorten pump intervals."

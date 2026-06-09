@@ -18,7 +18,8 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingsaddlebrookecatalina",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for SaddleBrooke & Catalina
   highlights: [
@@ -107,8 +108,9 @@ export const heatingsaddlebrookecatalinaData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke & Catalina)
   faqs: {
-    category: "Heating in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "heatingsaddlebrookecatalina",
+    serviceName: "Heating in SaddleBrooke & Catalina",
+    faqs: [
     {
         "question": "Do heat pumps work well at the elevations in SaddleBrooke & Catalina?",
         "answer": "Yes. At 3,200\u20133,600 ft elevations common in SaddleBrooke & Catalina, modern heat pumps maintain strong efficiency through most of our winter nights. Because frost and occasional cool snaps are more common here than lower Tucson neighborhoods, many homeowners pair heat pumps with supplemental electric heat or a gas furnace in a dual-fuel setup. We size systems to local load conditions \u2014 homes near Catalina State Park with shaded lots may need different capacity than Sunny Oracle Road-facing properties."

@@ -13,7 +13,8 @@ export const roofingtortolitaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Tortolita, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingtortolita",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const roofingtortolitaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Tortolita",
-    items: [
+    serviceId: "roofingtortolita",
+    serviceName: "Roofing in Tortolita",
+    faqs: [
     {
         "question": "How fast can Intelligent Design respond to a roofing emergency in Tortolita?",
         "answer": "We prioritize roofing emergencies in Tortolita and typically respond within 24\u201348 hours depending on severity and weather. After your call, our local crew schedules a rapid inspection to assess leaks, wildlife damage or storm impact and provide temporary tarping if needed. We coordinate with HOA restrictions and provide a clear plan for permanent repairs, replacement or insurance documentation to expedite recovery."

@@ -18,7 +18,8 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationgladdenfarms",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Gladden Farms
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    category: "Solar Installation in Gladden Farms",
-    items: [
+    serviceId: "solarinstallationgladdenfarms",
+    serviceName: "Solar Installation in Gladden Farms",
+    faqs: [
     {
         "question": "Is my Gladden Farms tile roof suitable for solar?",
         "answer": "Yes. About 75% of Gladden Farms homes have tile roofs and we routinely install flush-mounted systems with tile-specific mounting kits and flashing to protect tiles and maintain HOA aesthetics. Because many roofs were installed in the 2010s\u20132020s, roof condition is often excellent; we still perform a roof assessment to confirm tile integrity and flashing compatibility. We document our attachment methods and provide photos for HOA submissions in 85653."

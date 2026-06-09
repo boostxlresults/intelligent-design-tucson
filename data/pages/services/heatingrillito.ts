@@ -18,7 +18,8 @@ export const heatingrillitoData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingrillito",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Rillito
   highlights: [
@@ -107,8 +108,9 @@ export const heatingrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    category: "Heating in Rillito",
-    items: [
+    serviceId: "heatingrillito",
+    serviceName: "Heating in Rillito",
+    faqs: [
     {
         "question": "Why does my Rillito home in 85654 lose heat quickly at night?",
         "answer": "Rillito\u2019s open terrain and elevation (about 2,100 ft) lead to rapid nighttime cooling. Older homes from the 1970s\u20131990s in the area often have minimal attic insulation, leaky ductwork, and single-pane windows. Agricultural dust can also choke registers and reduce airflow. We start with duct sealing, insulation checks, and filtration improvements to restore heat retention before recommending equipment replacement."

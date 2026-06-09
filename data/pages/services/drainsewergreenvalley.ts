@@ -10,7 +10,8 @@ export const drainsewergreenvalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and sewer service in Green Valley, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewergreenvalley",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Camera Inspections", description: "We use advanced camera technology to pinpoint blockages in aging clay pipes common in Green Valley's established neighborhoods like Desert Hills and Continental Vistas." },
     { title: "Trenchless Sewer Repair", description: "Our trenchless solutions minimize disruption to your carefully maintained landscaping and HOA properties, preserving the beauty of your Green Valley home." },
@@ -33,8 +34,9 @@ export const drainsewergreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Green Valley",
-    items: [
+    serviceId: "drainsewergreenvalley",
+    serviceName: "Drain & Sewer in Green Valley",
+    faqs: [
       { question: "Why are my drains so slow in my Green Valley home?", answer: "Slow drains in Green Valley are often caused by a combination of aging pipes and mineral buildup from the local water supply (150-180 ppm hardness). In older neighborhoods like Desert Hills, deteriorating clay pipes or root intrusion from mature landscaping can also restrict flow. We recommend a camera inspection to identify the exact cause." },
       { question: "Do you offer trenchless sewer repair in Green Valley?", answer: "Yes, we specialize in trenchless sewer repair for Green Valley residents. This method is ideal for preserving the well-maintained landscaping and hardscaping common in HOA communities like La Posada and Canoa Ranch, as it requires minimal digging compared to traditional replacement." },
       { question: "How do tree roots affect sewer lines in Green Valley?", answer: "The mature trees and landscaping that enhance Green Valley's beauty naturally seek out moisture, often infiltrating older sewer lines through small cracks or joints. This root intrusion can cause severe blockages and pipe damage. We offer specialized root clearing and preventative treatments." },

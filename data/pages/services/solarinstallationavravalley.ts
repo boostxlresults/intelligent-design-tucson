@@ -18,7 +18,8 @@ export const solarinstallationavravalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationavravalley",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Avra Valley
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    category: "Solar Installation in Avra Valley",
-    items: [
+    serviceId: "solarinstallationavravalley",
+    serviceName: "Solar Installation in Avra Valley",
+    faqs: [
     {
         "question": "Is my Avra Valley tile roof compatible with solar?",
         "answer": "Yes. Most tile roofs in Avra Valley\u2014common on homes built in the 1990s\u20132000s\u2014are compatible. We use tile\u2011friendly mounting systems and replace or cut tiles as needed to maintain weatherproofing. Our installers match local tile profiles and coordinate stucco flashing to protect your roof and preserve curb appeal."

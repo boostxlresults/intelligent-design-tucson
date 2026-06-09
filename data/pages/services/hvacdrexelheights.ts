@@ -18,7 +18,8 @@ export const hvacdrexelheightsData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacdrexelheights",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Drexel Heights
   highlights: [
@@ -107,8 +108,9 @@ export const hvacdrexelheightsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Drexel Heights)
   faqs: {
-    category: "HVAC in Drexel Heights",
-    items: [
+    serviceId: "hvacdrexelheights",
+    serviceName: "HVAC in Drexel Heights",
+    faqs: [
     {
         "question": "Do Drexel Heights homes need special HVAC sizing because of elevation or shade?",
         "answer": "Yes. At about 2,600 feet and with afternoon shade from the Tucson Mountains, Drexel Heights houses often experience lower peak heat than central Tucson, but morning and early afternoon loads still matter. We size systems using on-site load calculations that factor in older insulation, single-story block construction, and typical roof types in the neighborhood so the unit is not oversized for shaded streets or undersized for sun-exposed yards."

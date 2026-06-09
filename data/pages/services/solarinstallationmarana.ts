@@ -18,7 +18,8 @@ export const solarinstallationmaranaData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationmarana",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Marana
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    category: "Solar Installation in Marana",
-    items: [
+    serviceId: "solarinstallationmarana",
+    serviceName: "Solar Installation in Marana",
+    faqs: [
     {
         "question": "Will a tile roof in Marana increase solar installation cost?",
         "answer": "Yes \u2014 because approximately 70% of Marana roofs are clay or concrete tile, installations often require tile lifting, replacement, or specialized tile hooks. That adds labor and sometimes materials compared with simple shingle installs. On newer homes in Dove Mountain or The Residences at Dove Mountain where tile work was anticipated, developers sometimes prepped flashing, reducing extra cost. We provide line-item pricing so you see tile-related costs for your 85653/85658/85743 property."

@@ -18,7 +18,8 @@ export const drainsewermaranaData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewermarana",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Marana
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewermaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    category: "Drain & Sewer in Marana",
-    items: [
+    serviceId: "drainsewermarana",
+    serviceName: "Drain & Sewer in Marana",
+    faqs: [
     {
         "question": "Why do drains clog so quickly in Marana homes?",
         "answer": "Marana\u2019s combination of hard water (210\u2013240 ppm), fine desert sand from construction and monsoon-driven runoff accelerates scale and silt buildup. New subdivisions built in the 2000s\u20132020s often have residual construction dust in laterals and imperfect slopes that trap debris. Regular hydro-jetting and camera inspections before and after the monsoon season help prevent recurring clogs."

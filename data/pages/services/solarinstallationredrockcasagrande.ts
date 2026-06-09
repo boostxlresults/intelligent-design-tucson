@@ -10,7 +10,8 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Red Rock & Casa Grande, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationredrockcasagrande",
+  serviceName: "Solar",
   highlights: [
     { title: "Maximum Sun Exposure", description: "Red Rock and Casa Grande offer some of the lowest cloud cover and highest sun hours in the region. We design systems to capture this maximum solar potential." },
     { title: "Extreme Heat Optimization", description: "With summer temperatures regularly exceeding 115°F, standard panels can lose efficiency. We install premium panels specifically engineered to perform in extreme heat." },
@@ -33,8 +34,9 @@ export const solarinstallationredrockcasagrandeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Red Rock & Casa Grande",
-    items: [
+    serviceId: "solarinstallationredrockcasagrande",
+    serviceName: "Solar in Red Rock & Casa Grande",
+    faqs: [
       { question: "Are solar panels effective in the extreme heat of Red Rock and Casa Grande?", answer: "Yes, absolutely. While temperatures over 115°F can slightly reduce the efficiency of standard panels, Red Rock and Casa Grande receive maximum sun hours. We install premium panels designed to withstand extreme thermal cycling and maintain high output even during the hottest Pinal County summers." },
       { question: "Do you install ground-mount solar systems in the Red Rock area?", answer: "Yes, ground-mount systems are very popular in Red Rock, especially on larger lots and transitioning agricultural properties. They offer excellent flexibility for optimal sun exposure and are a great alternative if your roof isn't ideal for a large array." },
       { question: "How does solar work with APS or SRP in Casa Grande?", answer: "Unlike Tucson, Casa Grande and Red Rock are typically serviced by APS or SRP. We are fully experienced with their specific grid-tie requirements, net metering policies, and interconnection processes, ensuring a smooth transition to solar power for your home." },

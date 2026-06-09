@@ -18,7 +18,8 @@ export const heatinggladdenfarmsData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatinggladdenfarms",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Gladden Farms
   highlights: [
@@ -107,8 +108,9 @@ export const heatinggladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    category: "Heating in Gladden Farms",
-    items: [
+    serviceId: "heatinggladdenfarms",
+    serviceName: "Heating in Gladden Farms",
+    faqs: [
     {
         "question": "Are builder-installed heating systems in Gladden Farms adequate for two-story homes?",
         "answer": "Builder-installed systems in Gladden Farms often meet basic code and initial cooling loads but can be undersized for the real-life two-story comfort patterns common here. Homes built 2015\u20132024 frequently show upstairs heat stacking and short cycling in winter nights. We perform Manual J load calculations that account for tile roofs, compact attics, and modern insulation to determine whether zoning, a variable-speed blower, or a larger heat pump is the right fix for a specific 85653 address."

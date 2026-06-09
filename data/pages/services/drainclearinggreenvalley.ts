@@ -10,7 +10,8 @@ export const drainclearinggreenvalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Green Valley, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearinggreenvalley",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Local Expertise", description: "We understand the unique plumbing challenges in Green Valley's 1980s-2000s homes. From Desert Hills to Canoa Ranch, we provide tailored drain solutions." },
     { title: "Root Intrusion Specialists", description: "Mature landscaping in Green Valley often leads to root intrusion in aging clay pipes. Our advanced camera inspections pinpoint the exact location of the blockage." },
@@ -33,8 +34,9 @@ export const drainclearinggreenvalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Green Valley",
-    items: [
+    serviceId: "drainclearinggreenvalley",
+    serviceName: "Drain Clearing in Green Valley",
+    faqs: [
       { question: "Why are my drains so slow in my Green Valley home?", answer: "Slow drains in Green Valley are often caused by a combination of aging pipes (common in homes built in the 80s and 90s) and mineral buildup from the local water supply (150-180 ppm hardness). We use hydro jetting to effectively clear these deposits." },
       { question: "Can tree roots damage my sewer line in Green Valley?", answer: "Yes, root intrusion is a common issue in Green Valley due to the mature landscaping in established neighborhoods like Desert Hills. Roots seek out the moisture in aging clay pipes, causing blockages and potential damage. We offer camera inspections to identify and resolve root issues." },
       { question: "Do you service all the active adult communities in Green Valley?", answer: "Absolutely. We provide drain clearing services to all neighborhoods in Green Valley, including Canoa Ranch, La Posada, and Continental Vistas. We are familiar with local HOA requirements and ensure our work meets their standards." },

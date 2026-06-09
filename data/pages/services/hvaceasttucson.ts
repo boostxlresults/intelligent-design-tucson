@@ -13,7 +13,8 @@ export const hvaceasttucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in East Tucson, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvaceasttucson",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Rincon Foothills Expertise",
@@ -88,8 +89,9 @@ export const hvaceasttucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in East Tucson",
-    items: [
+    serviceId: "hvaceasttucson",
+    serviceName: "HVAC in East Tucson",
+    faqs: [
     {
         "question": "Why is the second floor of my East Tucson home always hotter?",
         "answer": "This is a common issue in East Tucson's two-story homes built between the 1980s and early 2000s. Heat naturally rises, and many older duct systems weren't designed with enough return air capacity for the upper level. We solve this through thermal balancing, adding additional return vents, or installing a zoned HVAC system that allows you to control the upstairs and downstairs temperatures independently."

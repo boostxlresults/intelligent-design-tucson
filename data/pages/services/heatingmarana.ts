@@ -18,7 +18,8 @@ export const heatingmaranaData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingmarana",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Marana
   highlights: [
@@ -107,8 +108,9 @@ export const heatingmaranaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Marana)
   faqs: {
-    category: "Heating in Marana",
-    items: [
+    serviceId: "heatingmarana",
+    serviceName: "Heating in Marana",
+    faqs: [
     {
         "question": "Do Marana homes need special heating maintenance because of the elevation?",
         "answer": "Marana\u2019s elevation (2,000\u20132,400 ft) creates larger day\u2013night temperature swings than lower desert neighborhoods. Systems may run more often at night and require cycling adjustments to avoid short cycling. We recommend seasonal tune-ups timed after monsoon season and before winter to check refrigerant, combustion efficiency, and control settings tailored to local diurnal changes."

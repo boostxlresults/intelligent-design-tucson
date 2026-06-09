@@ -18,7 +18,8 @@ export const plumbingeasttucsonData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingeasttucson",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for East Tucson
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingeasttucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to East Tucson)
   faqs: {
-    category: "Plumbing in East Tucson",
-    items: [
+    serviceId: "plumbingeasttucson",
+    serviceName: "Plumbing in East Tucson",
+    faqs: [
     {
         "question": "Do East Tucson homes need water softeners for 180\u2013220 ppm hardness?",
         "answer": "Yes\u2014water at 180\u2013220 ppm in East Tucson typically causes scale buildup that shortens water heater life and clogs fixtures. For many homes in 85710, 85730, and 85748, a water-softening system or targeted scale reduction (such as a salt-free conditioner paired with a sacrificial anode) reduces maintenance and can improve efficiency. We evaluate household size, irrigation needs, and local water chemistry before recommending a system and provide cost comparisons reflecting East Tucson installation scenarios."

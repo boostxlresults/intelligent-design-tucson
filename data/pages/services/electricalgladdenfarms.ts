@@ -18,7 +18,8 @@ export const electricalgladdenfarmsData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalgladdenfarms",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Gladden Farms
   highlights: [
@@ -107,8 +108,9 @@ export const electricalgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    category: "Electrical in Gladden Farms",
-    items: [
+    serviceId: "electricalgladdenfarms",
+    serviceName: "Electrical in Gladden Farms",
+    faqs: [
     {
         "question": "Do Gladden Farms homes need a panel upgrade for an EV charger?",
         "answer": "Many Gladden Farms homes were built with 100A or 150A services that handled original loads but not the addition of a level 2 EV charger plus A/C and pool equipment. At 2,100 ft elevation and with hotter summers in this open terrain, air conditioning draws are higher, so a typical upgrade to 200A is common. In zip code 85653 we often see combined costs of $1,800\u2013$3,200 for a 200A service upgrade, though some addresses with short conduit runs and accessible meter locations can come in at the lower end."

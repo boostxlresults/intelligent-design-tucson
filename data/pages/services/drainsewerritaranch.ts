@@ -10,7 +10,8 @@ export const drainsewerritaranchData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Rita Ranch, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerritaranch",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Solutions", description: "As Rita Ranch's master-planned community matures, established tree roots in older sections often invade sewer lines. We provide expert root removal and pipe repair." },
     { title: "Builder-Grade Pipe Upgrades", description: "Many homes built in the 1990s and 2000s feature builder-grade drain pipes that are now aging. We offer comprehensive inspections and replacements." },
@@ -33,8 +34,9 @@ export const drainsewerritaranchData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Rita Ranch",
-    items: [
+    serviceId: "drainsewerritaranch",
+    serviceName: "Drain & Sewer in Rita Ranch",
+    faqs: [
       { question: "Why are sewer line issues common in older Rita Ranch homes?", answer: "Homes built in Rita Ranch during the 1990s often feature builder-grade drain pipes that are now aging. Additionally, established tree roots in older sections can invade and damage these aging sewer lines, leading to blockages and leaks." },
       { question: "Do you offer trenchless sewer repair in Rita Ranch?", answer: "Yes, we specialize in trenchless sewer repair in Rita Ranch. This method allows us to fix or replace damaged sewer lines without digging up your yard, preserving your landscaping and complying with local HOA guidelines." },
       { question: "How can I tell if my Rita Ranch home has a sewer line problem?", answer: "Common signs of a sewer line issue in Rita Ranch include slow drains, recurring clogs, gurgling noises from your plumbing, foul odors in your yard or home, and unusually lush patches of grass in your lawn." },

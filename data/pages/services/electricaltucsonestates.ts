@@ -10,7 +10,8 @@ export const electricaltucsonestatesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel upgrade in Tucson Estates, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricaltucsonestates",
+  serviceName: "Electrical",
   highlights: [
     { title: "Panel Upgrades for Older Homes", description: "Many homes in Tucson Estates still rely on outdated 60-amp panels. We upgrade your system to safely handle modern appliances and electronics." },
     { title: "Knob-and-Tube Wiring Replacement", description: "The oldest homes near the Kinney Road corridor often have hazardous knob-and-tube wiring. Our experts safely replace it to meet current safety codes." },
@@ -33,8 +34,9 @@ export const electricaltucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical Services in Tucson Estates",
-    items: [
+    serviceId: "electricaltucsonestates",
+    serviceName: "Electrical Services in Tucson Estates",
+    faqs: [
       { question: "Why do I need a panel upgrade for my Tucson Estates home?", answer: "Many homes in Tucson Estates were built in the 1960s and 1970s with 60-amp panels, which cannot safely support modern appliances and HVAC systems. Upgrading to a 150 or 200-amp panel ensures your home has safe, reliable power and reduces the risk of electrical fires." },
       { question: "Are there special electrical considerations for manufactured homes in the 85735 zip code?", answer: "Yes, manufactured homes require specific electrical connections and grounding techniques to meet safety codes. Our electricians are highly experienced in servicing the manufactured homes common in Tucson Estates, ensuring all wiring and panel work is compliant and secure." },
       { question: "How can I protect my electronics from power surges in Tucson Estates?", answer: "Due to the aging TEP infrastructure in some older sections of Tucson Estates, power fluctuations can occur. We highly recommend installing a whole-home surge protector directly at your electrical panel to safeguard your sensitive electronics and appliances from unexpected voltage spikes." },

@@ -13,7 +13,8 @@ export const roofingeasttucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in East Tucson, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingeasttucson",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const roofingeasttucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in East Tucson",
-    items: [
+    serviceId: "roofingeasttucson",
+    serviceName: "Roofing in East Tucson",
+    faqs: [
     {
         "question": "How do I know if my East Tucson roof needs repairs?",
         "answer": "Look for common signs like missing or cracked tiles, curled or blistering shingles, dark streaks in the attic, water stains on ceilings, or granule loss in gutters. After monsoon storms, check for displaced tiles or loose flashings. If your roof is from the 1980s\u20132000s and hasn\u2019t had recent underlayment work, schedule a professional inspection. Intelligent Design offers thorough inspections and clear repair plans specific to East Tucson conditions."

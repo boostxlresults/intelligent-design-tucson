@@ -18,7 +18,8 @@ export const electricalrillitoData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalrillito",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Rillito
   highlights: [
@@ -107,8 +108,9 @@ export const electricalrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    category: "Electrical in Rillito",
-    items: [
+    serviceId: "electricalrillito",
+    serviceName: "Electrical in Rillito",
+    faqs: [
     {
         "question": "Do homes in Rillito need a 200A upgrade?",
         "answer": "Many Rillito homes built in the 1970s\u20131990s originally have 100A service that becomes insufficient once HVAC, modern appliances, or EV chargers are added. Upgrading to 200A is common if you plan to install a central AC, larger well pump, or solar inverter. We inspect your panel, meter, and the utility drop (TEP or Trico) and provide a site-specific recommendation; in Rillito the final cost often depends on trench distance and whether a new meter base or transformer work is required."

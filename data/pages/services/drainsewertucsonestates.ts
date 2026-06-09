@@ -10,7 +10,8 @@ const data: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer Services in Tucson Estates, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewertucsonestates",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Aging Pipe Solutions", description: "Many homes in Tucson Estates were built in the 1960s-1980s. We specialize in replacing deteriorating clay and Orangeburg sewer lines common in these older properties." },
     { title: "Root Intrusion Clearing", description: "Mature desert landscaping near the Tucson Mountains often leads to aggressive root growth. We use advanced camera inspections to locate and clear roots invading your sewer lines." },
@@ -33,8 +34,9 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Tucson Estates",
-    items: [
+    serviceId: "drainsewertucsonestates",
+    serviceName: "Drain & Sewer in Tucson Estates",
+    faqs: [
       { question: "Why are sewer backups so common in Tucson Estates?", answer: "Sewer backups in Tucson Estates are frequently caused by the aging infrastructure of homes built in the 1960s-1980s. Original clay and Orangeburg pipes are prone to deterioration, cracking, and root intrusion from mature desert landscaping. Decades of soil settling can also create bellied pipes that trap waste and cause blockages." },
       { question: "Do you offer trenchless sewer repair in the 85735 zip code?", answer: "Yes, we provide advanced trenchless sewer repair and replacement services throughout the 85735 and 85713 zip codes. This minimally invasive method is ideal for preserving the large lots and established landscaping common in Tucson Estates, allowing us to fix your pipes without extensive excavation." },
       { question: "How do you handle root intrusion in older Tucson Estates homes?", answer: "We start with a high-resolution camera inspection to locate the exact point of root intrusion. Depending on the severity, we may use hydro jetting to clear the roots or recommend trenchless pipe lining to seal cracks and prevent future growth, protecting your sewer line from the aggressive roots of local vegetation." },

@@ -13,7 +13,8 @@ export const roofingcasasadobesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Casas Adobes, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingcasasadobes",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Decades of Local Experience",
@@ -88,8 +89,9 @@ export const roofingcasasadobesData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Casas Adobes",
-    items: [
+    serviceId: "roofingcasasadobes",
+    serviceName: "Roofing in Casas Adobes",
+    faqs: [
     {
         "question": "How does Intelligent Design handle roof repairs in Casas Adobes?",
         "answer": "We begin with a comprehensive roof inspection focusing on tiles, underlayment, flashings and drainage given Casas Adobes\u2019 tree canopy and monsoon exposure. We document findings, recommend targeted repairs or replacement, and provide a clear, itemized estimate. For emergencies we offer tarping and fast mitigation. Our crews protect landscaping, match materials, and coordinate permits or insurance claims as needed."

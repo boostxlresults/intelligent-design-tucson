@@ -18,7 +18,8 @@ export const plumbingtortolitaData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingtortolita",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Tortolita
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingtortolitaData: ServicePageData = {
   
   // Location-specific FAQs (unique to Tortolita)
   faqs: {
-    category: "Plumbing in Tortolita",
-    items: [
+    serviceId: "plumbingtortolita",
+    serviceName: "Plumbing in Tortolita",
+    faqs: [
     {
         "question": "Do Tortolita homes need whole\u2011home filtration because of water hardness?",
         "answer": "Yes. Tortolita properties supplied by Marana/Metro commonly measure 170\u2013200 ppm hardness. In luxury homes\u2014especially those with freestanding tubs, rain shower heads, and built-in espresso systems\u2014mineral buildup shortens lifespans and alters finishes. We size systems to the larger household demands typical of Stone Canyon and Dove Mountain estates and recommend softening plus a sediment pre-filter for homes with on\u2011lot wells or heavy landscape irrigation. Installation in 85755/85742 often includes aesthetic mounting and concealed bypass plumbing to preserve custom cabinets and tile work."

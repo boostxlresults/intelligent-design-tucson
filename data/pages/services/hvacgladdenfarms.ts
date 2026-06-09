@@ -18,7 +18,8 @@ export const hvacgladdenfarmsData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacgladdenfarms",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Gladden Farms
   highlights: [
@@ -107,8 +108,9 @@ export const hvacgladdenfarmsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Gladden Farms)
   faqs: {
-    category: "HVAC in Gladden Farms",
-    items: [
+    serviceId: "hvacgladdenfarms",
+    serviceName: "HVAC in Gladden Farms",
+    faqs: [
     {
         "question": "Why do Gladden Farms homes (85653) feel hotter upstairs than downstairs?",
         "answer": "Most Gladden Farms homes are two-story builds from 2015\u2013present with compact duct layouts and limited mature exterior shading. Heat rises and tile roofs common in the neighborhood transfer afternoon heat into attic spaces. Builder-grade systems sometimes lack adequate return airflow or zoning to move cool air upstairs efficiently, and oversize compressors can short-cycle, reducing dehumidification during monsoon months. We perform load calculations, inspect duct routing, and recommend targeted fixes such as additional returns, zoning dampers, or variable-speed blower upgrades. Work is documented for HOA and builder-warranty follow-up when appropriate."

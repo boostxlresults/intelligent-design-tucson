@@ -13,7 +13,8 @@ export const hvaccoronadetucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Corona de Tucson, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvaccoronadetucson",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Elevation-aware HVAC Sizing",
@@ -98,8 +99,9 @@ export const hvaccoronadetucsonData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Corona de Tucson",
-    items: [
+    serviceId: "hvaccoronadetucson",
+    serviceName: "HVAC in Corona de Tucson",
+    faqs: [
     {
         "question": "How does Corona de Tucson\u2019s elevation (3,800 ft) affect my HVAC system?",
         "answer": "Elevation at 3,800 ft changes air density and local climate patterns, which affects heat pump efficiency and load calculations. In Corona de Tucson you typically see 5\u20138\u00b0F cooler averages than the Tucson valley and more frost days, so heating demand can be higher in winter. We perform Manual J load calculations adjusted for altitude, check refrigerant charge and compressor performance, and recommend system staging or backup heat when necessary. Proper sizing and commissioning at this elevation reduces short cycling and improves energy efficiency over time."

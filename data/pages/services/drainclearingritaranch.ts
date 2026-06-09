@@ -18,7 +18,8 @@ export const drainclearingritaranchData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingritaranch",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Rita Ranch
   highlights: [
@@ -107,8 +108,9 @@ export const drainclearingritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    category: "Drain Clearing in Rita Ranch",
-    items: [
+    serviceId: "drainclearingritaranch",
+    serviceName: "Drain Clearing in Rita Ranch",
+    faqs: [
     {
         "question": "Why do drains clog more often after monsoon storms in Rita Ranch?",
         "answer": "Monsoon storms funnel runoff from tile roofs and streets into yard drains and swales. In Rita Ranch, especially along Old Spanish Trail and Houghton corridor, heavy flows carry silt, gravel, and organic debris that pack into lateral lines. Mature trees planted in the 1990s contribute root intrusion after sustained wet cycles. Regular pre-monsoon cleanouts and clearing catch basins near community parks reduce the likelihood of backups."

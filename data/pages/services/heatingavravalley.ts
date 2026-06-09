@@ -10,7 +10,8 @@ export const heatingavravalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Avra Valley, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingavravalley",
+  serviceName: "HVAC",
   highlights: [
     { title: "Local Climate Expertise", description: "We understand that Avra Valley experiences slightly cooler nights than central Tucson due to its open desert terrain. Our heating solutions are tailored to handle these temperature drops efficiently." },
     { title: "Dust-Resistant Systems", description: "With the open terrain and unpaved roads in areas like the Sandario corridor, dust infiltration is a major challenge. We install and maintain systems designed to handle higher dust loads and keep your indoor air clean." },
@@ -33,8 +34,9 @@ export const heatingavravalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Avra Valley",
-    items: [
+    serviceId: "heatingavravalley",
+    serviceName: "Heating in Avra Valley",
+    faqs: [
       { question: "Why does my heating system in Avra Valley get so dusty?", answer: "The open desert terrain and unpaved roads in Avra Valley contribute to higher dust levels. This dust can easily infiltrate your home and clog your HVAC filters faster than in more urban areas. We recommend more frequent filter changes and can install advanced air filtration systems to protect your heating equipment." },
       { question: "Is a heat pump or furnace better for my Avra Valley home?", answer: "Both can be effective, but heat pumps are highly efficient for the mild winters in Avra Valley. However, because nighttime temperatures can drop significantly in the open desert, ensuring your heat pump is properly sized and maintained is crucial. We can evaluate your specific home to recommend the best option." },
       { question: "How often should I have my heating system serviced in Avra Valley?", answer: "We recommend annual maintenance for your heating system, ideally in the fall before the colder weather sets in. Regular maintenance is especially important in Avra Valley to address dust buildup and ensure your system is ready to handle the cooler desert nights efficiently." },

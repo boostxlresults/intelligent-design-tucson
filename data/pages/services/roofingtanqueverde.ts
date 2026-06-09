@@ -13,7 +13,8 @@ export const roofingtanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Tanque Verde, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingtanqueverde",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Elevation Expertise",
@@ -88,8 +89,9 @@ export const roofingtanqueverdeData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Tanque Verde",
-    items: [
+    serviceId: "roofingtanqueverde",
+    serviceName: "Roofing in Tanque Verde",
+    faqs: [
     {
         "question": "How does Intelligent Design address roof issues unique to Tanque Verde homes?",
         "answer": "Tanque Verde roofs face cooler temperatures, more rainfall, and debris from mature foothill vegetation. We perform detailed inspections of underlayment, flashing and ventilation, and tailor repairs for tile, shingle and flat roofs. Our crews match materials to custom architecture, coordinate with HOAs, protect landscaping and horse facilities during work, and offer preventive maintenance to extend roof life and avoid costly interior damage."

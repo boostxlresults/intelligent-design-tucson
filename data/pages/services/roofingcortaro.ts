@@ -13,7 +13,8 @@ export const roofingcortaroData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Cortaro, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingcortaro",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const roofingcortaroData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Cortaro",
-    items: [
+    serviceId: "roofingcortaro",
+    serviceName: "Roofing in Cortaro",
+    faqs: [
     {
         "question": "How quickly can Intelligent Design respond to storm damage in Cortaro?",
         "answer": "We prioritize Cortaro storm calls and typically deploy local crews within 24\u201348 hours for emergency tarping and temporary repairs, depending on storm severity and demand. Our team documents damage for insurance purposes and provides a clear repair plan. For scheduled inspections or non-emergency work, appointments are usually available within 3\u201310 business days."

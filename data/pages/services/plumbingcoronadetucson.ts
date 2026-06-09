@@ -10,7 +10,8 @@ export const plumbingcoronadetucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Corona de Tucson, Arizona",
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingcoronadetucson",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Local Expertise", description: "We understand the unique plumbing challenges in Corona de Tucson, including water pressure issues related to the 3,800 ft elevation." },
     { title: "Hard Water Solutions", description: "With water hardness levels reaching 200-240 ppm in the 85641 area, we provide effective water filtration and softening systems." },
@@ -33,8 +34,9 @@ export const plumbingcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Plumbing in Corona de Tucson",
-    items: [
+    serviceId: "plumbingcoronadetucson",
+    serviceName: "Plumbing in Corona de Tucson",
+    faqs: [
       { question: "Why is my water pressure low in my Corona de Tucson home?", answer: "Low water pressure in Corona de Tucson can be influenced by the area's 3,800 ft elevation and the specific municipal water delivery systems. It can also be caused by mineral buildup from the hard water (200-240 ppm) common in the 85641 zip code. Our plumbers can diagnose the exact cause and recommend solutions to restore optimal pressure." },
       { question: "Do I need a water softener in Corona de Tucson?", answer: "Yes, a water softener is highly recommended for homes in Corona de Tucson. The local water hardness levels are quite high, which can lead to scale buildup in your pipes, water heater, and appliances, reducing their lifespan and efficiency. A water softener will protect your plumbing system and improve your water quality." },
       { question: "Are tankless water heaters a good choice for Corona de Tucson?", answer: "Absolutely. Tankless water heaters are very popular in Corona de Tucson's newer subdivisions and custom homes. They provide endless hot water, are highly energy-efficient, and save space. Our team specializes in installing and maintaining tankless systems tailored to your home's specific needs." },

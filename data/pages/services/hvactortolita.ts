@@ -13,7 +13,8 @@ export const hvactortolitaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Tortolita, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvactortolita",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const hvactortolitaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Tortolita",
-    items: [
+    serviceId: "hvactortolita",
+    serviceName: "HVAC in Tortolita",
+    faqs: [
     {
         "question": "Do you provide HVAC service to Tortolita homes near the Tortolita Mountains?",
         "answer": "Yes. Intelligent Design serves Tortolita neighborhoods, including properties near the Tortolita Mountains, Dove Mountain, and Wild Burro Trail. Our team understands elevation-related temperature swings, afternoon shade effects, and the need for quiet, multi-zone systems in premium homes. We handle repairs, replacements, ductwork, and preventive maintenance, and we tailor solutions to large lots, custom desert construction, and HOA requirements."

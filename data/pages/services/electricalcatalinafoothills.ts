@@ -18,7 +18,8 @@ export const electricalcatalinafoothillsData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalcatalinafoothills",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Catalina Foothills
   highlights: [
@@ -107,8 +108,9 @@ export const electricalcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    category: "Electrical in Catalina Foothills",
-    items: [
+    serviceId: "electricalcatalinafoothills",
+    serviceName: "Electrical in Catalina Foothills",
+    faqs: [
     {
         "question": "Do homes in Catalina Foothills need a different approach for EV charger installs?",
         "answer": "Yes. Catalina Foothills homes often have long runs from the street meter to hillside garages, and many garages are detached or located above steep driveways. We evaluate existing panel capacity, distance, and conduit pathways in 85718 and 85750. If the home has an older 100A panel, we may recommend a service upgrade before installing a dedicated 240V Level 2 charger. Typical installs range from $800 to $2,200 depending on panel work and trenching needed on slopes."

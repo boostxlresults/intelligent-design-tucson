@@ -13,7 +13,8 @@ export const hvacpicturerocksData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Picture Rocks, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacpicturerocks",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Dust Infiltration Control",
@@ -80,8 +81,9 @@ export const hvacpicturerocksData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Picture Rocks",
-    items: [
+    serviceId: "hvacpicturerocks",
+    serviceName: "HVAC in Picture Rocks",
+    faqs: [
     {
         "question": "Why does my Picture Rocks home get so dusty even with the AC running?",
         "answer": "The open desert terrain and unpaved roads in Picture Rocks lead to high levels of airborne dust. If your AC system is running but the house remains dusty, you likely have leaks in your ductwork or need a higher-grade filtration system. We recommend HEPA filters and professional duct sealing for 85743 homes to prevent desert particles from bypassing your filtration and entering your living spaces."

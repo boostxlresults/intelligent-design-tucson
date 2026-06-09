@@ -10,7 +10,8 @@ const data: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in SaddleBrooke, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewersaddlebrooke",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Specialists", description: "We expertly clear drains blocked by mature golf course landscaping and native trees common in the MountainView and Preserve sections." },
     { title: "Aging Pipe Solutions", description: "Our team addresses deteriorating sewer lines in the original 1990s builds of SaddleBrooke proper with minimal disruption to your property." },
@@ -33,8 +34,9 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in SaddleBrooke",
-    items: [
+    serviceId: "drainsewersaddlebrooke",
+    serviceName: "Drain & Sewer in SaddleBrooke",
+    faqs: [
       { question: "Why are my drains running slow in my SaddleBrooke home?", answer: "Slow drains in SaddleBrooke are often caused by a combination of mineral buildup from the local Metro Water supply and root intrusion from mature landscaping. In older sections built in the 1990s, aging pipes may also contribute to the issue. We recommend a professional camera inspection to identify the exact cause." },
       { question: "Does Intelligent Design offer trenchless sewer repair in SaddleBrooke?", answer: "Yes, we specialize in trenchless sewer repair. This method is highly recommended for SaddleBrooke properties because it allows us to fix damaged sewer lines without digging up your beautiful landscaping, driveway, or patio, ensuring compliance with strict HOA aesthetic guidelines." },
       { question: "How do tree roots get into my sewer line in SaddleBrooke Ranch?", answer: "The lush landscaping and golf courses in SaddleBrooke Ranch feature trees and shrubs with expansive root systems seeking moisture. These roots can easily infiltrate tiny cracks or loose joints in your underground sewer pipes, eventually causing severe blockages and pipe damage if left untreated." },

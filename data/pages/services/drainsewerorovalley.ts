@@ -18,7 +18,8 @@ export const drainsewerorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerorovalley",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewerorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "Drain & Sewer in Oro Valley",
-    items: [
+    serviceId: "drainsewerorovalley",
+    serviceName: "Drain & Sewer in Oro Valley",
+    faqs: [
     {
         "question": "How do I know if root intrusion is affecting my Oro Valley sewer line?",
         "answer": "In Oro Valley, root intrusion often shows as slow draining fixtures, toilets that bubble when outdoor sprinkler systems run, or recurring clogs. Because many yards are mature and planted with mesquites and shade trees, roots can enter older jointed pipes from the 1990s-2000s. We recommend a camera inspection\u2014typically $150\u2013$300 locally\u2014to locate roots and assess whether sectional cutting, hydro-jetting, or trenchless relining is the right remedy for your property in 85737 or 85755."

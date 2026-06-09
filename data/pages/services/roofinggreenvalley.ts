@@ -18,7 +18,8 @@ export const roofinggreenvalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofinggreenvalley",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Green Valley
   highlights: [
@@ -107,8 +108,9 @@ export const roofinggreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    category: "Roofing in Green Valley",
-    items: [
+    serviceId: "roofinggreenvalley",
+    serviceName: "Roofing in Green Valley",
+    faqs: [
     {
         "question": "Do roofs in Green Valley need special underlayment because of elevation and frost?",
         "answer": "Yes. Green Valley sits around 2,900 ft where overnight frost is possible in winter; older underlayment from 1980s and 1990s tile roofs can become brittle. We typically recommend modern synthetic underlayment or ice-and-water shield in vulnerable valleys and eaves to reduce the chance of leaks when temperatures swing. Replacing underlayment at the time of tile replacement is common here and helps prevent repeat roof access for the lifetime of the new tiles."

@@ -10,7 +10,8 @@ export const drainclearingcoronadetucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in Corona de Tucson, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingcoronadetucson",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Caliche Soil Solutions", description: "Corona de Tucson's hard caliche soil makes exterior drainage challenging. We use advanced hydro jetting to clear blockages effectively." },
     { title: "Newer Home Expertise", description: "Many homes in Rancho del Lago and Las Colinas have newer plumbing but builder-grade materials. We provide gentle yet effective clearing to protect your pipes." },
@@ -33,8 +34,9 @@ export const drainclearingcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Corona de Tucson",
-    items: [
+    serviceId: "drainclearingcoronadetucson",
+    serviceName: "Drain Clearing in Corona de Tucson",
+    faqs: [
       { question: "Why are my drains slow in my newer Corona de Tucson home?", answer: "Even in newer subdivisions like Rancho del Lago, builder-grade materials and hard water (200-240 ppm) can lead to scale buildup and slow drains. Our hydro jetting service effectively clears these blockages." },
       { question: "How does caliche soil affect my exterior drainage in the 85641 area?", answer: "The hard caliche soil common in Corona de Tucson can make exterior drainage challenging and may cause pipes to settle unevenly. We use camera inspections to identify any structural issues or blockages." },
       { question: "Do you service equestrian properties near Pistol Hill Road?", answer: "Yes, we provide comprehensive drain clearing services for custom homes and horse properties throughout Corona de Tucson, addressing their unique plumbing and drainage needs." },

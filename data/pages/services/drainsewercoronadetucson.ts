@@ -18,7 +18,8 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewercoronadetucson",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Corona de Tucson
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewercoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    category: "Drain & Sewer in Corona de Tucson",
-    items: [
+    serviceId: "drainsewercoronadetucson",
+    serviceName: "Drain & Sewer in Corona de Tucson",
+    faqs: [
     {
         "question": "How does Corona de Tucson\u2019s caliche soil affect my sewer line?",
         "answer": "Caliche is a calcium-rich soil layer common near the Empire Mountains foothills that can shift and compact differently than sandy soils. In Corona de Tucson (85641) this often leads to slight misalignments in exterior sewer runs, loosening glued PVC joints used in many 2000s\u20132010s builder-grade installations. We look for uneven slope, bellied sections, and stress points near cleanouts. Early camera inspections can find compromised joints before they become leaks requiring large excavations through desert landscaping or driveways."

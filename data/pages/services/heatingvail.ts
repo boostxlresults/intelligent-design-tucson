@@ -10,7 +10,8 @@ export const heatingvailData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Vail, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingvail",
+  serviceName: "HVAC",
   highlights: [
     { title: "Elevation-Specific Sizing", description: "Vail's 3,800-foot elevation means higher heating demands than central Tucson. We ensure your heat pump or furnace is properly sized for our cooler winter temperatures." },
     { title: "Winter Frost Protection", description: "With more frost days in winter, reliable heating is essential in Vail. We provide emergency repairs and preventative maintenance to keep your system running smoothly." },
@@ -33,8 +34,9 @@ export const heatingvailData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Vail",
-    items: [
+    serviceId: "heatingvail",
+    serviceName: "Heating in Vail",
+    faqs: [
       { question: "Why does my heat pump struggle during Vail winters?", answer: "Vail's higher elevation (3,800 ft) means cooler temperatures and more frost than central Tucson. Heat pumps can lose efficiency as temperatures drop near freezing. We can evaluate your system to ensure it's properly sized and functioning optimally for Vail's specific climate." },
       { question: "How often should I have my heating system serviced in Vail?", answer: "We recommend annual maintenance for your heating system, ideally in the fall before the colder weather sets in. Regular tune-ups are especially important in Vail due to the higher heating demand, ensuring your system runs efficiently and reliably throughout the winter." },
       { question: "Do you service heating systems in rural areas of Vail?", answer: "Yes, Intelligent Design provides comprehensive heating services throughout Vail, including newer subdivisions like Del Lago and rural ranch properties near the Empire Mountains. We have the expertise to handle the unique heating needs of all types of homes in the area." },

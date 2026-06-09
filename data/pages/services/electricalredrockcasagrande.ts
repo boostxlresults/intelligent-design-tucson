@@ -10,7 +10,8 @@ export const electricalredrockcasagrandeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Red Rock & Casa Grande, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalredrockcasagrande",
+  serviceName: "Electrical",
   highlights: [
     { title: "Panel Upgrades for High AC Demand", description: "With extreme summer heat exceeding 115°F, your AC runs for 6+ months. We upgrade electrical panels to handle the heavy load of multiple AC units common in Casa Grande." },
     { title: "Surge Protection for Modern Homes", description: "Protect your smart home devices and appliances in newer subdivisions like Mission Royale. Our whole-home surge protection safeguards against power fluctuations." },
@@ -33,8 +34,9 @@ export const electricalredrockcasagrandeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical Services in Red Rock & Casa Grande",
-    items: [
+    serviceId: "electricalredrockcasagrande",
+    serviceName: "Electrical Services in Red Rock & Casa Grande",
+    faqs: [
       { question: "Why do I need a panel upgrade in Red Rock & Casa Grande?", answer: "Due to the extreme summer heat in Red Rock and Casa Grande, homes often require multiple AC units running constantly. A panel upgrade ensures your electrical system has the capacity to handle this heavy load safely, preventing tripped breakers and potential fire hazards in your Pinal County home. Upgrading your panel also prepares your home for future additions like EV chargers or solar panels, ensuring your electrical infrastructure can support modern demands." },
       { question: "Are EV chargers popular in Casa Grande?", answer: "Yes, as the Casa Grande area grows with new subdivisions and Phoenix spillover, EV adoption is increasing rapidly. We install Level 2 EV chargers in garages across the 85122, 85145, and 85193 zip codes, providing fast and convenient charging for your electric vehicle. Our licensed electricians ensure the installation meets all Pinal County building codes and that your current electrical panel can safely support the additional load of an EV charger." },
       { question: "Do you service homes in Mission Royale?", answer: "Absolutely! We provide comprehensive electrical services to homes in Mission Royale, Coyote Ranch, and other neighborhoods throughout Red Rock and Casa Grande. Whether you need whole-home surge protection, LED lighting upgrades, or a complete panel replacement, our licensed electricians are familiar with the local housing stock. We understand the specific electrical needs of both newer subdivisions and older properties transitioning from the area's agricultural heritage." },

@@ -18,7 +18,8 @@ export const drainsewercortaroData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewercortaro",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Cortaro
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewercortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    category: "Drain & Sewer in Cortaro",
-    items: [
+    serviceId: "drainsewercortaro",
+    serviceName: "Drain & Sewer in Cortaro",
+    faqs: [
     {
         "question": "Why do Cortaro basements or low yards back up during monsoon season?",
         "answer": "Cortaro\u2019s flat terrain and proximity to the Rillito and Santa Cruz corridors mean heavy monsoon rains can overwhelm small storm drains and low-lying yard outlets. Many homes built in the 1990s\u20132010s were graded with minimal fall; when monsoon runoff combines with clogged neighborhood culverts, water can pool at foundations or in low backyards. We evaluate local gutters, grading, and storm tie-ins and recommend backflow valves, additional catch basins, or regraded outlet channels to move water away from structures."

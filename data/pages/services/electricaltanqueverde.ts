@@ -10,7 +10,8 @@ export const electricaltanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Tanque Verde, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricaltanqueverde",
+  serviceName: "Electrical",
   highlights: [
     { title: "Custom Home Wiring", description: "We specialize in electrical upgrades for Tanque Verde's upscale homes built in the 1980s and 2000s, ensuring your custom build meets modern power demands." },
     { title: "Horse Property Lighting", description: "Illuminate your acreage and riding trails with specialized outdoor lighting solutions designed for the expansive lots in the Tanque Verde Valley." },
@@ -33,8 +34,9 @@ export const electricaltanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical Services in Tanque Verde",
-    items: [
+    serviceId: "electricaltanqueverde",
+    serviceName: "Electrical Services in Tanque Verde",
+    faqs: [
       { question: "Do you install EV chargers for homes in Tanque Verde?", answer: "Yes, we specialize in installing electric vehicle chargers for homes in Tanque Verde, including the 85749 and 85750 zip codes. We assess your current electrical panel and provide a safe, efficient installation tailored to your specific vehicle and home's power capacity." },
       { question: "Can you help with outdoor lighting for my horse property near the Rincon Mountains?", answer: "Absolutely. We have extensive experience designing and installing specialized outdoor lighting for horse properties and large acreages in Tanque Verde. We ensure your riding areas and pathways are safely illuminated while respecting the natural desert environment." },
       { question: "Are backup generators necessary for homes in the Tanque Verde Valley?", answer: "While TEP provides reliable service, the rural stretches and mix of overhead lines in Tanque Verde can sometimes lead to outages. A whole-home backup generator is an excellent investment to ensure uninterrupted power for well pumps, HVAC systems, and security features." },

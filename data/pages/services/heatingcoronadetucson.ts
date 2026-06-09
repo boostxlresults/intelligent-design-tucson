@@ -10,7 +10,8 @@ export const heatingcoronadetucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Corona de Tucson, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingcoronadetucson",
+  serviceName: "HVAC",
   highlights: [
     { title: "Elevation-Specific Sizing", description: "At 3,800 feet, Corona de Tucson experiences cooler temperatures than the valley floor. We properly size heating systems to handle the increased demand." },
     { title: "Heat Pump Optimization", description: "We specialize in tuning heat pumps for the unique climate of the 85641 zip code, ensuring efficiency during those frosty winter mornings." },
@@ -33,8 +34,9 @@ export const heatingcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Corona de Tucson",
-    items: [
+    serviceId: "heatingcoronadetucson",
+    serviceName: "Heating in Corona de Tucson",
+    faqs: [
       { question: "Why does my heat pump struggle on cold mornings in Corona de Tucson?", answer: "At our 3,800-foot elevation, Corona de Tucson experiences more frost days and cooler temperatures than the valley. If your heat pump is builder-grade or undersized, it may struggle to extract enough heat from the colder air, leading to longer run times and reduced comfort." },
       { question: "Are the heating systems in Rancho del Lago homes sufficient?", answer: "Many homes in newer subdivisions like Rancho del Lago were installed with standard builder-grade systems. While functional, they may not be optimized for the specific heating demands of our higher elevation, often leading to efficiency issues and uneven heating." },
       { question: "How often should I service my heating system in the 85641 zip code?", answer: "We recommend annual maintenance before the winter season begins. Given the higher heating demand in Corona de Tucson, regular tune-ups are crucial to ensure your system operates efficiently and to prevent unexpected breakdowns during cold snaps." },

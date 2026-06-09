@@ -18,7 +18,8 @@ export const drainclearingpicturerocksData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingpicturerocks",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Picture Rocks
   highlights: [
@@ -107,8 +108,9 @@ export const drainclearingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    category: "Drain Clearing in Picture Rocks",
-    items: [
+    serviceId: "drainclearingpicturerocks",
+    serviceName: "Drain Clearing in Picture Rocks",
+    faqs: [
     {
         "question": "Do Picture Rocks homes need different drain maintenance because of caliche and hard well water?",
         "answer": "Yes. Picture Rocks properties commonly face caliche under the topsoil and very hard well water (often 250+ ppm), which accelerates mineral buildup and slows leach field percolation. Routine maintenance should include hydro\u2011jetting interior drains yearly for hard water scaling, septic tank pumping every 3\u20135 years depending on household size, and visual checks of leach field performance after seasonal storms. For older homes from the 1970s\u20131990s, we also recommend inspection of distribution boxes and baffles where caliche can block flow."

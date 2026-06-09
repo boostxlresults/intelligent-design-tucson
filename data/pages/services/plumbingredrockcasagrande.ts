@@ -18,7 +18,8 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingredrockcasagrande",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    category: "Plumbing in Red Rock & Casa Grande",
-    items: [
+    serviceId: "plumbingredrockcasagrande",
+    serviceName: "Plumbing in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "Why do water heaters fail faster in Red Rock & Casa Grande?",
         "answer": "Red Rock & Casa Grande draws extremely hard groundwater (300+ ppm) and endures sustained temperatures above 115\u00b0F in summer. High mineral content accelerates scale inside tanks and on heating elements; heat increases stress cycles. Homes built in the 2000s\u20132020s with compact utility closets still require regular maintenance\u2014annual flushes and anode checks\u2014to avoid premature failure. We recommend proactive service to avoid mid-summer disruptions."

@@ -18,7 +18,8 @@ export const drainsewerrillitoData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerrillito",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Rillito
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewerrillitoData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rillito)
   faqs: {
-    category: "Drain & Sewer in Rillito",
-    items: [
+    serviceId: "drainsewerrillito",
+    serviceName: "Drain & Sewer in Rillito",
+    faqs: [
     {
         "question": "Do Rillito homes need different maintenance because of well water hardness?",
         "answer": "Yes. Rillito\u2019s well water averages 240+ ppm, which accelerates mineral scale in traps, drains, and older cast-iron lines common in homes built in the 1970s\u20131990s. Regular descaling and targeted mechanical cleaning of P-traps and horizontal runs help prevent recurring clogs. For septic systems, very hard water changes soap performance and can alter sludge composition; we recommend inspections every 2\u20133 years for older systems and yearly checks for high-use homes or properties near agricultural fields."

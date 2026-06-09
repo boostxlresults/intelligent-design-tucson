@@ -10,7 +10,8 @@ export const plumbingsahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Sahuarita, Arizona",
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingsahuarita",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Hard Water Solutions", description: "Sahuarita's water hardness levels (200-230 ppm) can quickly degrade builder-grade fixtures in newer homes. We specialize in water softener installations to protect your plumbing." },
     { title: "Water Heater Replacement", description: "Many homes in Rancho Sahuarita and Madera Highlands are experiencing early failures of builder-grade water heaters. We provide high-efficiency upgrades tailored to your family's needs." },
@@ -33,8 +34,9 @@ export const plumbingsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Plumbing in Sahuarita",
-    items: [
+    serviceId: "plumbingsahuarita",
+    serviceName: "Plumbing in Sahuarita",
+    faqs: [
       { question: "Why do water heaters fail so quickly in Sahuarita?", answer: "The hard water in Sahuarita (200-230 ppm) causes rapid mineral buildup inside water heaters, especially the builder-grade models common in newer developments like Rancho Sahuarita. This buildup reduces efficiency and shortens the lifespan of the unit. We recommend regular flushing and installing a water softener to protect your water heater." },
       { question: "Do I need a water softener in my Sahuarita home?", answer: "Yes, highly recommended. Sahuarita's water supply is notably hard. A water softener will protect your plumbing fixtures, appliances, and pipes from scale buildup, extending their lifespan and improving your water quality. It's one of the most common upgrades we perform in the 85629 zip code." },
       { question: "Are builder-grade plumbing fixtures in Sahuarita reliable?", answer: "While functional initially, builder-grade fixtures in many of Sahuarita's newer homes often degrade quickly due to the local hard water. Upgrading to higher-quality fixtures can prevent premature leaks and improve the overall aesthetics and reliability of your home's plumbing system." },

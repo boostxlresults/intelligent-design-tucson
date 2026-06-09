@@ -18,7 +18,8 @@ export const drainsewercasasadobesData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewercasasadobes",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Casas Adobes
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewercasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    category: "Drain & Sewer in Casas Adobes",
-    items: [
+    serviceId: "drainsewercasasadobes",
+    serviceName: "Drain & Sewer in Casas Adobes",
+    faqs: [
     {
         "question": "Why do so many Casas Adobes homes have sewer root problems?",
         "answer": "Casas Adobes neighborhoods were largely developed between the 1970s and 1990s when clay and vitrified clay laterals were common. Combined with a mature tree canopy\u2014ficus and eucalyptus are widespread\u2014roots naturally seek the moisture and tiny gaps in older joints. The local elevation (around 2,500 ft) and established irrigation schedules concentrate moisture near foundation lines, making root intrusion more frequent here than in newer subdivisions with PVC laterals. A camera inspection is the fastest way to confirm root presence and plan the right trenchless or excavated repair."

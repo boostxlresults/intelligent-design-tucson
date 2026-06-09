@@ -18,7 +18,8 @@ export const drainclearingredrockcasagrandeData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingredrockcasagrande",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
   highlights: [
@@ -107,8 +108,9 @@ export const drainclearingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    category: "Drain Clearing in Red Rock & Casa Grande",
-    items: [
+    serviceId: "drainclearingredrockcasagrande",
+    serviceName: "Drain Clearing in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "Why do drains clog faster in Red Rock & Casa Grande?",
         "answer": "Drains in Red Rock & Casa Grande slow faster because of extremely hard water (often 300+ ppm) that deposits mineral scale inside pipes, combined with desert minerals and occasional heavy runoff that move sediment into laterals. Many homes built in the 2000s\u20132020s still use modern PVC, but scale builds inside trap arms and fixture openings faster here than in softer\u2011water regions, requiring targeted descaling and preventive softener care."

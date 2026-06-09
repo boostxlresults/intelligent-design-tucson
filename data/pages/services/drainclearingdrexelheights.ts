@@ -10,7 +10,8 @@ export const drainclearingdrexelheightsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Drexel Heights, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingdrexelheights",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Aging Pipe Solutions", description: "Many homes in Drexel Heights were built in the 1970s and 1980s. We specialize in clearing and maintaining these older clay and cast iron sewer lines." },
     { title: "Root Intrusion Removal", description: "Mature desert trees in the 85746 and 85735 zip codes often invade sewer lines. Our advanced equipment cuts through tough roots to restore flow." },
@@ -33,8 +34,9 @@ export const drainclearingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Drexel Heights",
-    items: [
+    serviceId: "drainclearingdrexelheights",
+    serviceName: "Drain Clearing in Drexel Heights",
+    faqs: [
       { question: "Why do my drains keep clogging in my Drexel Heights home?", answer: "In Drexel Heights, recurring clogs are often due to aging clay sewer lines from the 1970s and 1980s. These older pipes are prone to root intrusion from mature desert trees and can develop bellies due to soil settling in the 85746 and 85735 zip codes." },
       { question: "Is hydro-jetting safe for the older pipes in Drexel Heights?", answer: "Yes, when performed by our experienced technicians. We always conduct a camera inspection first to assess the condition of your pipes. If your Drexel Heights home has fragile, aging lines, we adjust our methods to clear the clog safely without causing damage." },
       { question: "How quickly can you respond to a drain emergency near the Ajo Highway corridor?", answer: "We prioritize fast response times for our Drexel Heights customers. Because we serve the entire Tucson metro area, we can quickly dispatch a technician to your home near the Ajo Highway or Valencia Road to address your drain emergency promptly." },

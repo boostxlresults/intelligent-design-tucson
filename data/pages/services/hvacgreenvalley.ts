@@ -18,7 +18,8 @@ export const hvacgreenvalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacgreenvalley",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Green Valley
   highlights: [
@@ -107,8 +108,9 @@ export const hvacgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    category: "HVAC in Green Valley",
-    items: [
+    serviceId: "hvacgreenvalley",
+    serviceName: "HVAC in Green Valley",
+    faqs: [
     {
         "question": "How do I prevent frost-related HVAC issues in Green Valley?",
         "answer": "Frost in Green Valley can appear overnight, especially at 2,900 feet. Preventative steps include running your system periodically during winter to keep seals and motor bearings lubricated, insulating exposed condensation lines, and having an annual fall inspection to clear drain lines and check refrigerant levels. For homes used seasonally, we recommend scheduling a system start-up visit before cold snaps. Technicians can also install low-temperature controls or heat tape where needed. These measures reduce freeze-related compressor stress and avoid sudden failures during brief cold spells."

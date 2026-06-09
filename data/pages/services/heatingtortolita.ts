@@ -10,7 +10,8 @@ export const heatingtortolitaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Tortolita, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingtortolita",
+  serviceName: "HVAC",
   highlights: [
     { title: "Multi-Zone Expertise", description: "We specialize in designing and maintaining multi-zone heating systems perfect for the large custom homes in Stone Canyon and Dove Mountain estates. Ensure consistent comfort across every square foot of your property." },
     { title: "Smart Home Integration", description: "Upgrade your Tortolita home with advanced smart thermostats that seamlessly integrate with your existing luxury amenities. Control your climate remotely while enjoying the peaceful desert setting." },
@@ -33,8 +34,9 @@ export const heatingtortolitaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Tortolita",
-    items: [
+    serviceId: "heatingtortolita",
+    serviceName: "Heating in Tortolita",
+    faqs: [
       { question: "Why does my Tortolita home need a multi-zone heating system?", answer: "Many homes in Tortolita, especially in communities like Dove Mountain, feature large floor plans and high ceilings. A multi-zone system allows you to control temperatures independently in different areas, ensuring consistent comfort and better energy efficiency across your expansive property." },
       { question: "Are heat pumps effective at Tortolita's elevation?", answer: "Yes, modern high-efficiency heat pumps are excellent for Tortolita's 2,400-2,800 ft elevation. They provide reliable heating during our cooler winter nights while offering energy-efficient cooling in the summer, making them ideal for custom desert homes in the 85755 and 85742 zip codes." },
       { question: "How can I make my heating system quieter?", answer: "In a peaceful setting like the Tortolita foothills, noisy HVAC systems can be disruptive. We specialize in installing premium, variable-speed furnaces and heat pumps designed for ultra-quiet operation, preserving the tranquility of your desert sanctuary." },

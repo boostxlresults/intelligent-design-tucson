@@ -18,7 +18,8 @@ export const hvacavravalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacavravalley",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Avra Valley
   highlights: [
@@ -107,8 +108,9 @@ export const hvacavravalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Avra Valley)
   faqs: {
-    category: "HVAC in Avra Valley",
-    items: [
+    serviceId: "hvacavravalley",
+    serviceName: "HVAC in Avra Valley",
+    faqs: [
     {
         "question": "Why do filters clog so quickly in Avra Valley?",
         "answer": "Avra Valley\u2019s open desert terrain and unpaved roads send fine dust and grit into homes, particularly after wind events. The Mile Wide area and properties near Picture Rocks see airborne particulates that accumulate on filters and coils faster than in urban neighborhoods. We recommend pleated MERV 8\u201311 filters on a tighter replacement schedule\u2014often every 30\u201360 days for high-exposure homes\u2014and a proactive coil-cleaning plan to preserve efficiency."

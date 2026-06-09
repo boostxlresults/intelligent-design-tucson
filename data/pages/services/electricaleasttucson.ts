@@ -18,7 +18,8 @@ export const electricaleasttucsonData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricaleasttucson",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for East Tucson
   highlights: [
@@ -107,8 +108,9 @@ export const electricaleasttucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to East Tucson)
   faqs: {
-    category: "Electrical in East Tucson",
-    items: [
+    serviceId: "electricaleasttucson",
+    serviceName: "Electrical in East Tucson",
+    faqs: [
     {
         "question": "Do East Tucson homes need panel upgrades because of monsoon season?",
         "answer": "Yes\u2014monsoon storms near East Tucson and the Rincon Mountains increase the risk of surges and lightning-related failures. Older panels common in Pantano and Tanque Verde wash neighborhoods often lack whole-house surge protection and modern grounding. We recommend a pre-monsoon inspection\u2014especially for homes built in the 1980s\u2014to check for corroded connections, proper grounding, and to add surge suppression if needed. Scheduling before July helps avoid peak call volumes."

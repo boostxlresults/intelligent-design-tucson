@@ -13,7 +13,8 @@ export const roofingsaddlebrookeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in SaddleBrooke, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingsaddlebrooke",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const roofingsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in SaddleBrooke",
-    items: [
+    serviceId: "roofingsaddlebrooke",
+    serviceName: "Roofing in SaddleBrooke",
+    faqs: [
     {
         "question": "How does Intelligent Design handle roof repairs in SaddleBrooke?",
         "answer": "We begin with a comprehensive inspection that documents tile, shingle or flat roof conditions and identifies underlayment, flashing, and ventilation concerns. Because SaddleBrooke has strict HOA standards and unique weather, we provide photos, suggested materials that match existing profiles, and an HOA-ready proposal. Repairs focus on lasting solutions, minimal disruption, and clear timelines backed by our workmanship warranties."

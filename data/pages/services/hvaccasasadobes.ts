@@ -13,7 +13,8 @@ export const hvaccasasadobesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Casas Adobes, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvaccasasadobes",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Local Expertise for Casas Adobes Homes",
@@ -98,8 +99,9 @@ export const hvaccasasadobesData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Casas Adobes",
-    items: [
+    serviceId: "hvaccasasadobes",
+    serviceName: "HVAC in Casas Adobes",
+    faqs: [
     {
         "question": "How does Casas Adobes elevation affect my AC needs?",
         "answer": "At about 2,500 feet, Casas Adobes experiences slightly cooler ambient temperatures than central Tucson, which reduces peak cooling load but does not eliminate the need for properly sized equipment. Cooler evenings can shift runtimes and create condensation concerns in shaded yards under mature tree canopy. Proper sizing still matters: oversized units short-cycle and undersized units struggle with additions common in 1980s homes. We perform heat-load calculations tailored to local roof types, attic insulation levels, and neighborhood shading to specify systems that deliver consistent comfort and efficiency."

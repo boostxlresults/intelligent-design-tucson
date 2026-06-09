@@ -10,7 +10,8 @@ export const heatingritaranchData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Rita Ranch, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingritaranch",
+  serviceName: "HVAC",
   highlights: [
     { title: "Two-Story Heating Experts", description: "Many homes in Rita Ranch are two-story builds from the 1990s-2010s. We specialize in resolving heat stratification issues to keep both floors comfortable." },
     { title: "Local 85747 Service", description: "We provide fast, reliable heating repairs and installations throughout the 85747 zip code, from Rancho del Lago to the Civano border." },
@@ -33,8 +34,9 @@ export const heatingritaranchData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Rita Ranch",
-    items: [
+    serviceId: "heatingritaranch",
+    serviceName: "Heating in Rita Ranch",
+    faqs: [
       { question: "Why is my two-story home in Rita Ranch heating unevenly?", answer: "Many two-story homes in Rita Ranch experience heat stratification, where warm air rises, leaving the downstairs cold and the upstairs too hot. We can install zoning systems or adjust your ductwork to ensure even heating throughout your 85747 home." },
       { question: "How long do heating systems typically last in Rita Ranch?", answer: "In Rita Ranch, builder-grade heating systems installed in the 1990s and 2000s typically last 15-20 years. If your home in Rancho del Lago or the Houghton corridor still has its original unit, it may be time to consider an energy-efficient upgrade." },
       { question: "Do I need HOA approval for a new heating system in Rita Ranch?", answer: "If your new heating system involves exterior equipment changes, such as a new heat pump, you may need approval from your Rita Ranch HOA. We have experience working within these guidelines and can help ensure your installation is fully compliant." },

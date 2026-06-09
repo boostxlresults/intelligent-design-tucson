@@ -18,7 +18,8 @@ export const hvacvailData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacvail",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Vail
   highlights: [
@@ -107,8 +108,9 @@ export const hvacvailData: ServicePageData = {
   
   // Location-specific FAQs (unique to Vail)
   faqs: {
-    category: "HVAC in Vail",
-    items: [
+    serviceId: "hvacvail",
+    serviceName: "HVAC in Vail",
+    faqs: [
     {
         "question": "Do heat pumps work well at Vail\u2019s elevation (85641)?",
         "answer": "Yes\u2014heat pumps can be efficient in Vail, but they require cold-climate tuning. At 3,200\u20133,800 ft the nights are colder and frost events more common than central Tucson. We recommend units with proven low-ambient performance, correct refrigerant charge, and a backup heat strategy (electric or gas) for prolonged cold snaps. Proper defrost control and occasional service visits in late fall prevent icing issues that slightly higher-elevation microclimates in Vail produce."

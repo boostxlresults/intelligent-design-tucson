@@ -13,7 +13,8 @@ export const roofingrillitoData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Rillito, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingrillito",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Experience",
@@ -88,8 +89,9 @@ export const roofingrillitoData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Rillito",
-    items: [
+    serviceId: "roofingrillito",
+    serviceName: "Roofing in Rillito",
+    faqs: [
     {
         "question": "What roofing services does Intelligent Design provide in Rillito?",
         "answer": "Intelligent Design offers roof repair, full replacements, tile and shingle work, flat roof repair, and protective coating applications in Rillito. We tailor solutions for older homes, manufactured housing, agricultural buildings, and large lots, focusing on durability under hot, dusty conditions. Call for an inspection and a clear, written estimate."

@@ -18,7 +18,8 @@ export const electricalritaranchData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalritaranch",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Rita Ranch
   highlights: [
@@ -107,8 +108,9 @@ export const electricalritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    category: "Electrical in Rita Ranch",
-    items: [
+    serviceId: "electricalritaranch",
+    serviceName: "Electrical in Rita Ranch",
+    faqs: [
     {
         "question": "Do Rita Ranch homes need a 200A panel upgrade?",
         "answer": "Many Rita Ranch homes built in the 1990s were fitted with 100A panels that struggle with modern loads like EV chargers, whole-home A/C systems, and multiple home office circuits. A 200A upgrade is often recommended when homeowners add high-demand appliances or solar with battery backup. On average in zip code 85747, costs range from about $2,500 to $5,500 depending on tile roof access, meter relocation needs, and HOA stipulations. We perform a load calculation and provide an itemized quote tailored to your house plan and neighborhood rules."

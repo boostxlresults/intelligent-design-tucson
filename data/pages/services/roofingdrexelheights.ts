@@ -13,7 +13,8 @@ export const roofingdrexelheightsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Drexel Heights, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingdrexelheights",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Expertise",
@@ -88,8 +89,9 @@ export const roofingdrexelheightsData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Drexel Heights",
-    items: [
+    serviceId: "roofingdrexelheights",
+    serviceName: "Roofing in Drexel Heights",
+    faqs: [
     {
         "question": "How do I know if my Drexel Heights roof needs repair?",
         "answer": "Look for missing or cracked tiles, curled or missing shingles, interior stains on ceilings, and persistent damp spots in the attic. Flat roofs with visible ponding, bubbled membranes, or a musty odor signal trouble. If your roof is original from the 1970s\u20131990s or you notice increased energy bills, schedule a professional inspection to assess remaining life and prioritize repairs."

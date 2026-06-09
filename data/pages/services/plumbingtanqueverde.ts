@@ -10,7 +10,8 @@ export const plumbingtanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Tanque Verde, Arizona",
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingtanqueverde",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Luxury Fixture Expertise", description: "We specialize in installing and maintaining high-end plumbing fixtures common in Tanque Verde's upscale homes. Our technicians ensure your premium investments are handled with care." },
     { title: "Whole-Home Water Treatment", description: "With moderate-hard water (170-200 ppm) in the 85749 and 85750 zip codes, we provide advanced filtration and softening systems. Protect your luxury fixtures and appliances from scale buildup." },
@@ -33,8 +34,9 @@ export const plumbingtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Plumbing in Tanque Verde",
-    items: [
+    serviceId: "plumbingtanqueverde",
+    serviceName: "Plumbing in Tanque Verde",
+    faqs: [
       { question: "Why is whole-home water treatment important for my Tanque Verde home?", answer: "Tanque Verde experiences moderate-hard water (170-200 ppm). A whole-home water treatment system protects your luxury fixtures, extends the life of your appliances, and prevents scale buildup in your pipes, which is especially crucial for the custom homes in our area." },
       { question: "Do you service outdoor kitchens and pool plumbing in Tanque Verde?", answer: "Yes, we specialize in the complex plumbing systems often found in Tanque Verde's large estates. Our technicians are experienced in repairing and maintaining outdoor kitchens, pool plumbing, and extensive irrigation systems common in the 85749 and 85750 zip codes." },
       { question: "How quickly can you respond to a plumbing emergency near the Rincon Mountains?", answer: "We offer prompt emergency plumbing services throughout Tanque Verde, including areas near the Rincon Mountains and Redington Pass. Our local technicians are dispatched quickly to minimize damage to your premium property." },

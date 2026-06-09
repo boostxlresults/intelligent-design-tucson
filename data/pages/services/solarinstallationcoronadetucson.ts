@@ -18,7 +18,8 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationcoronadetucson",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Corona de Tucson
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    category: "Solar Installation in Corona de Tucson",
-    items: [
+    serviceId: "solarinstallationcoronadetucson",
+    serviceName: "Solar Installation in Corona de Tucson",
+    faqs: [
     {
         "question": "Will solar work well on a 2005 single-story tile roof in Corona de Tucson (85641)?",
         "answer": "Yes. Many single-story homes built in the 2000s in Corona de Tucson have tile roofs that are structurally suitable for solar; tile is common here (~65%). We design tile-compatible flashing and recommend a roof inspection\u2014if the roof is original, a partial roof-age assessment helps decide whether to replace or reinforce before installing. At 3,800 ft elevation panels will often perform better than lower elevations, and because these roofs are newer than in older Tucson neighborhoods, installs are typically faster and less invasive."

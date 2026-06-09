@@ -10,7 +10,8 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in Gladden Farms, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearinggladdenfarms",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Construction Debris Removal", description: "In newer master-planned communities like Gladden Farms, construction debris left in lines is a common cause of clogs. We use advanced camera inspections to locate and remove these blockages." },
     { title: "Flat Terrain Solutions", description: "The flat terrain around the 2,100 ft elevation of Gladden Farms can cause slow drainage issues. Our hydro jetting services ensure your pipes are completely clear and flowing properly." },
@@ -33,8 +34,9 @@ export const drainclearinggladdenfarmsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Gladden Farms",
-    items: [
+    serviceId: "drainclearinggladdenfarms",
+    serviceName: "Drain Clearing in Gladden Farms",
+    faqs: [
       { question: "Why are my drains slow in my new Gladden Farms home?", answer: "Slow drains in newer Gladden Farms homes are often caused by construction debris left in the lines during building, or the flat terrain of the area which can reduce drainage speed. We use camera inspections to identify and resolve these specific issues." },
       { question: "Does the hard water in Gladden Farms affect my drains?", answer: "Yes, the hard water from Marana Water (210-240 ppm) can cause mineral scale buildup inside your pipes over time. This scale can restrict flow and contribute to clogs. Our hydro jetting service effectively removes this buildup." },
       { question: "Are tree roots a problem for drains in Gladden Farms?", answer: "Currently, root intrusion is less common in Gladden Farms because the landscaping is relatively young. However, as trees mature, roots may seek out moisture in sewer lines. We monitor for this during our camera inspections." },

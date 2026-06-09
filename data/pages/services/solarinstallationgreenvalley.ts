@@ -18,7 +18,8 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationgreenvalley",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Green Valley
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    category: "Solar Installation in Green Valley",
-    items: [
+    serviceId: "solarinstallationgreenvalley",
+    serviceName: "Solar Installation in Green Valley",
+    faqs: [
     {
         "question": "Will solar withstand occasional frost and colder mornings in Green Valley?",
         "answer": "Yes. At about 2,900 ft elevation Green Valley experiences occasional frost in winter. Panels continue to produce in cold conditions and often perform better in cooler air. We design tilt and framing to shed frost and avoid low spots where frost lingers. We also size inverters and string configurations to handle cold-start characteristics, and our monitoring flags production drops so you can see expected seasonal patterns."

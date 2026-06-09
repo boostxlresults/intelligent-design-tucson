@@ -10,7 +10,8 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation in Catalina Foothills, Arizona",
   serviceName: "Solar",
-  category: "Solar",
+  serviceId: "solarinstallationcatalinafoothills",
+  serviceName: "Solar",
   highlights: [
     { title: "HOA Compliance Experts", description: "We specialize in navigating the strict aesthetic requirements of Catalina Foothills HOAs. Our team ensures your solar installation meets all community guidelines while maximizing energy production." },
     { title: "Hillside Orientation Mastery", description: "The steep terrain and complex rooflines of homes near Ventana Canyon and Skyline Heights require specialized design. We optimize panel placement on hillside properties for peak efficiency." },
@@ -33,8 +34,9 @@ export const solarinstallationcatalinafoothillsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Catalina Foothills",
-    items: [
+    serviceId: "solarinstallationcatalinafoothills",
+    serviceName: "Solar in Catalina Foothills",
+    faqs: [
       { question: "Will my Catalina Foothills HOA approve a solar installation?", answer: "Yes, Arizona law protects your right to install solar panels. However, HOAs in the Catalina Foothills can enforce reasonable aesthetic guidelines. We have extensive experience navigating these requirements, offering premium all-black panels and strategic placement to ensure compliance while maximizing your system's efficiency." },
       { question: "How does the hillside terrain in Catalina Foothills affect solar panel placement?", answer: "Hillside orientations can be highly beneficial if your roof has a south or west-facing slope. However, the complex rooflines and steep grades of custom homes here require specialized design. We conduct a thorough site assessment to optimize panel placement, accounting for potential shading from nearby peaks or mature vegetation." },
       { question: "Can you install solar panels on the steep tile roofs common in the Catalina Foothills?", answer: "Absolutely. With tile roofs making up about 70% of the homes in the area, our installers are highly trained in specialized mounting techniques. We use premium flashing and mounting hardware designed specifically for steep-slope tile roofs to ensure a secure, watertight installation that protects your home's structural integrity." },

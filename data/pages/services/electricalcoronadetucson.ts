@@ -10,7 +10,8 @@ export const electricalcoronadetucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Corona de Tucson, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalcoronadetucson",
+  serviceName: "Electrical",
   highlights: [
     { title: "Panel Upgrades for Modern Homes", description: "Many newer homes in Corona de Tucson were built with undersized electrical panels. We upgrade your system to safely handle modern demands like EV chargers and hot tubs." },
     { title: "Backup Power Solutions", description: "With our rural setting and longer service runs from TEP transformers, power outages can be a concern. We install reliable whole-home generators to keep your property running smoothly." },
@@ -33,8 +34,9 @@ export const electricalcoronadetucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical Services in Corona de Tucson",
-    items: [
+    serviceId: "electricalcoronadetucson",
+    serviceName: "Electrical Services in Corona de Tucson",
+    faqs: [
       { question: "Why might my newer home in Corona de Tucson need a panel upgrade?", answer: "Even in newer subdivisions built in the 2000s and 2010s, builders often installed standard panels that may not support modern additions like EV chargers, hot tubs, or extensive smart home systems. Upgrading ensures your home can safely handle increased electrical loads." },
       { question: "Are power outages common in the 85641 zip code?", answer: "Due to the rural nature of Corona de Tucson and longer service runs from TEP transformers, some areas can be more prone to voltage drops or outages, especially during storms. A whole-home generator can provide reliable backup power." },
       { question: "Can you install an EV charger at my home in Rancho del Lago?", answer: "Yes, we specialize in EV charger installations. We will assess your current electrical panel's capacity and install the appropriate dedicated circuit to ensure safe and efficient charging for your electric vehicle." },

@@ -10,7 +10,8 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Tucson Estates, Arizona",
   serviceName: "Solar",
-  category: "Solar",
+  serviceId: "solarinstallationtucsonestates",
+  serviceName: "Solar",
   highlights: [
     { title: "Affordable Solar Programs", description: "We understand that budget is a priority for many in Tucson Estates. We offer accessible financing options to make solar energy a reality for your home." },
     { title: "Optimized for Single-Story Homes", description: "The single-story block homes common in Tucson Estates provide excellent exposure for solar panels. We design systems that maximize energy production based on your roof's layout." },
@@ -33,8 +34,9 @@ export const solarinstallationtucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Tucson Estates",
-    items: [
+    serviceId: "solarinstallationtucsonestates",
+    serviceName: "Solar in Tucson Estates",
+    faqs: [
       { question: "Is my older Tucson Estates home suitable for solar panels?", answer: "Yes, many older homes in Tucson Estates are excellent candidates for solar. However, homes built in the 1960s-1980s often require an electrical panel upgrade from the standard 60-amp service to handle the new system safely. We assess your electrical infrastructure during our initial consultation." },
       { question: "Do I need a new roof before installing solar in Tucson Estates?", answer: "It depends on the current condition of your roof. Since many homes in Tucson Estates have older flat or shingle roofs, we conduct a thorough inspection. If your roof is nearing the end of its lifespan, we recommend replacing it prior to solar installation to avoid future complications." },
       { question: "Are there affordable solar options for Tucson Estates residents?", answer: "Absolutely. We understand that budget is a significant consideration for many in the Tucson Estates community. Intelligent Design offers a variety of affordable solar programs and financing options designed to make renewable energy accessible without breaking the bank." },

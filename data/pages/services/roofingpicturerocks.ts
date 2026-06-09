@@ -18,7 +18,8 @@ export const roofingpicturerocksData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingpicturerocks",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Picture Rocks
   highlights: [
@@ -107,8 +108,9 @@ export const roofingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    category: "Roofing in Picture Rocks",
-    items: [
+    serviceId: "roofingpicturerocks",
+    serviceName: "Roofing in Picture Rocks",
+    faqs: [
     {
         "question": "How often should a Picture Rocks manufactured home roof be inspected?",
         "answer": "Manufactured homes in Picture Rocks\u2014many built in the 1980s and 1990s\u2014should be inspected twice a year and after major wind or dust events. The open, elevated exposure at roughly 2,500 ft leads to faster sealant and seam degradation. Inspections focus on perimeter flashings, roof-to-wall transitions, and vent seals. Regular checks catch loosened fasteners and seam splits early, avoiding interior water intrusion and costly emergency patches. We provide written reports keyed to repair priority and estimated costs for 85743 properties."

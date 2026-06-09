@@ -13,7 +13,8 @@ export const hvacsaddlebrookeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in SaddleBrooke, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacsaddlebrooke",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Catalina Mountain Climate Experts",
@@ -88,8 +89,9 @@ export const hvacsaddlebrookeData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in SaddleBrooke",
-    items: [
+    serviceId: "hvacsaddlebrooke",
+    serviceName: "HVAC in SaddleBrooke",
+    faqs: [
     {
         "question": "How does the elevation in SaddleBrooke affect my AC performance?",
         "answer": "SaddleBrooke sits at approximately 3,400 feet, which means the air is thinner than in lower-elevation areas like Phoenix. This affects the heat transfer capabilities of your HVAC system. Our technicians specifically calibrate your unit's airflow and refrigerant charge to account for this elevation, ensuring that your system doesn't overwork itself and maintains optimal energy efficiency even during the peak of the Arizona summer."

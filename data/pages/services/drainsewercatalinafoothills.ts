@@ -18,7 +18,8 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewercatalinafoothills",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    category: "Drain & Sewer in Catalina Foothills",
-    items: [
+    serviceId: "drainsewercatalinafoothills",
+    serviceName: "Drain & Sewer in Catalina Foothills",
+    faqs: [
     {
         "question": "Do Catalina Foothills homes need more frequent sewer maintenance?",
         "answer": "Yes. Because of the steeper terrain, quick runoff from tile or slate roofs, and large gourmet kitchens common in Catalina Foothills, many homes benefit from more frequent maintenance. We typically recommend an annual camera inspection for houses built in the 1980s\u20132000s and semi-annual checks for properties with pools, commercial-style kitchens, or long gravity runs towards the street. After monsoon season a follow-up cleaning often prevents sediment-related clogs."

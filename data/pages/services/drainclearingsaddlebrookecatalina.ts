@@ -10,7 +10,8 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Services in SaddleBrooke & Catalina, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingsaddlebrookecatalina",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Removal", description: "Pine and oak trees common in the 3,200-3,600 ft elevation can aggressively invade older Catalina infrastructure. We use advanced camera inspections to locate and clear these stubborn roots." },
     { title: "Rocky Soil Solutions", description: "The rocky terrain near the Catalina Mountains makes exterior drain repairs challenging. Our hydro jetting technology clears blockages without the need for extensive excavation." },
@@ -33,8 +34,9 @@ export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "drainclearingsaddlebrookecatalina",
+    serviceName: "Drain Clearing in SaddleBrooke & Catalina",
+    faqs: [
       { question: "Why do my drains clog more frequently in Catalina?", answer: "In Catalina, the combination of older plumbing infrastructure and aggressive root systems from mature pine and oak trees often leads to frequent clogs. Roots seek out the moisture in your sewer lines, creating blockages. We use camera inspections to identify and clear these root intrusions effectively." },
       { question: "Is hydro jetting safe for my older SaddleBrooke home?", answer: "Yes, but it requires a professional assessment first. While hydro jetting is highly effective, we always perform a camera inspection prior to service to ensure the pipes in your SaddleBrooke home can withstand the water pressure. If the pipes are compromised, we will recommend alternative, gentler clearing methods." },
       { question: "How does the rocky soil in the 85739 zip code affect my drainage?", "answer": "The rocky terrain near the Catalina Mountains makes natural soil drainage poor and exterior pipe repairs difficult. If a drain line breaks or bellies due to shifting rocks, it can cause persistent backups. Our trenchless repair options and thorough clearing methods help mitigate the need for difficult excavation." },

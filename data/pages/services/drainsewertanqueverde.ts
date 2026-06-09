@@ -10,7 +10,8 @@ export const drainsewertanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Tanque Verde, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewertanqueverde",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Root Intrusion Specialists", description: "Mature mesquite and palo verde trees in Tanque Verde are beautiful but notorious for invading sewer lines. We use advanced camera inspections to locate and clear stubborn root blockages." },
     { title: "Large Lot Sewer Solutions", description: "Many properties in the Tanque Verde Valley sit on 1+ acres, meaning longer sewer runs that require specialized equipment. Our high-capacity hydro jetting handles extended lines with ease." },
@@ -33,8 +34,9 @@ export const drainsewertanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer Services in Tanque Verde",
-    items: [
+    serviceId: "drainsewertanqueverde",
+    serviceName: "Drain & Sewer Services in Tanque Verde",
+    faqs: [
       { question: "Why are my drains backing up in my Tanque Verde home?", answer: "In Tanque Verde, the most common cause of drain backups is root intrusion from mature desert trees like mesquite and palo verde. Their roots seek out the moisture in your sewer lines, especially in older homes built in the 1980s and 1990s. We use camera inspections to pinpoint the exact location of the blockage." },
       { question: "Do you offer trenchless sewer repair in Tanque Verde?", answer: "Yes, we specialize in trenchless sewer repair for Tanque Verde homeowners. This method is ideal for preserving the premium desert landscaping and custom hardscaping common in the area, as it allows us to repair or replace damaged sewer lines without digging a large trench across your property." },
       { question: "How do the large lots in Tanque Verde affect my sewer lines?", answer: "Homes on 1+ acre lots in the Tanque Verde Valley typically have much longer sewer runs connecting to the main line or septic system. These extended lines are more prone to settling, creating 'bellies' where debris can accumulate, and they require specialized, high-capacity equipment to properly clean and maintain." },

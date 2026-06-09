@@ -18,7 +18,8 @@ export const hvacorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacorovalley",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const hvacorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "HVAC in Oro Valley",
-    items: [
+    serviceId: "hvacorovalley",
+    serviceName: "HVAC in Oro Valley",
+    faqs: [
     {
         "question": "What HVAC size is right for an Oro Valley home near Pusch Ridge?",
         "answer": "Sizing for homes near Pusch Ridge depends on elevation, shade, and orientation. Because many lots receive afternoon shade from the mountain, cooling loads can be lower on mountain\u2011facing rooms but higher on west exposures. Homes built in the 1990s\u20132010s often have better insulation, reducing required tonnage. We perform Manual J load calculations that factor Oro Valley\u2019s 2,600\u20133,200 ft elevation, tile roof heat transfer, and real attic temperatures before recommending equipment."

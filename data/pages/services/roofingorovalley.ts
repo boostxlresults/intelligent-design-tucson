@@ -13,7 +13,8 @@ export const roofingorovalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Oro Valley, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingorovalley",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Experienced Local Team",
@@ -88,8 +89,9 @@ export const roofingorovalleyData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Oro Valley",
-    items: [
+    serviceId: "roofingorovalley",
+    serviceName: "Roofing in Oro Valley",
+    faqs: [
     {
         "question": "How often should I have my Oro Valley roof inspected?",
         "answer": "You should have your Oro Valley roof inspected at least once a year and after significant storms. Annual inspections catch loose tiles, damaged flashing, and underlayment issues early. Homes near canyon shade or higher rainfall can benefit from biannual reviews. Routine inspections preserve HOA compliance and help schedule maintenance before minor issues escalate into expensive replacements."

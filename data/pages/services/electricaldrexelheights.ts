@@ -10,7 +10,8 @@ export const electricaldrexelheightsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel in Drexel Heights, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricaldrexelheights",
+  serviceName: "Electrical",
   highlights: [
     { title: "Panel Upgrades for Older Homes", description: "Many homes in Drexel Heights still rely on outdated 60-100 amp panels. We specialize in upgrading these systems to safely handle modern electrical demands." },
     { title: "Wiring Solutions for Block Construction", description: "Our electricians are experienced in navigating the single-story block construction common in the Valencia corridor and Mission Manor area, ensuring safe and code-compliant wiring." },
@@ -33,8 +34,9 @@ export const electricaldrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in Drexel Heights",
-    items: [
+    serviceId: "electricaldrexelheights",
+    serviceName: "Electrical in Drexel Heights",
+    faqs: [
       { question: "Why does my older home in Drexel Heights need a panel upgrade?", answer: "Many homes in Drexel Heights, especially those built in the 1970s and 1980s, were equipped with 60 to 100-amp electrical panels. Today's modern appliances, HVAC systems, and electronics require significantly more power. Upgrading to a 200-amp panel ensures your home can safely handle these increased electrical loads without tripping breakers or risking a fire." },
       { question: "Are there specific electrical challenges for block homes in the 85746 zip code?", answer: "Yes, the single-story block construction common in the 85746 and 85735 zip codes can make running new wiring more complex than in traditional wood-framed homes. Our electricians have extensive experience navigating these structures, ensuring that any new wiring or outlet installations are performed safely, cleanly, and in full compliance with local building codes." },
       { question: "What should I do if my Drexel Heights home has knob-and-tube wiring?", answer: "If your home in Drexel Heights has knob-and-tube wiring, it is crucial to have it inspected and replaced by a licensed professional. This outdated wiring method lacks a grounding conductor and poses a significant fire hazard, especially when insulated over. We provide comprehensive rewiring services to bring your home up to modern safety standards." },

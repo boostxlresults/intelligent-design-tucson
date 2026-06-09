@@ -13,7 +13,8 @@ export const hvacmaranaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Marana, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacmarana",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Marana Growth Specialists",
@@ -80,8 +81,9 @@ export const hvacmaranaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Marana",
-    items: [
+    serviceId: "hvacmarana",
+    serviceName: "HVAC in Marana",
+    faqs: [
     {
         "question": "Why is my AC struggling to keep up with the Marana heat?",
         "answer": "Marana often faces higher temperatures than Tucson due to its lower elevation. If your AC is struggling, it may be a 'builder-grade' unit that wasn't designed for extreme desert peaks, or it could be undersized for your home's square footage. Additionally, construction dust from nearby developments in Gladden Farms or Dove Mountain can clog filters and coils, significantly reducing cooling efficiency and airflow."

@@ -18,7 +18,8 @@ export const heatingredrockcasagrandeData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingredrockcasagrande",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Red Rock & Casa Grande
   highlights: [
@@ -107,8 +108,9 @@ export const heatingredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    category: "Heating in Red Rock & Casa Grande",
-    items: [
+    serviceId: "heatingredrockcasagrande",
+    serviceName: "Heating in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "Do homes in Red Rock & Casa Grande need a different heating approach than Tucson?",
         "answer": "Yes. At about 1,400 ft elevation and with extreme summer heat often exceeding 115\u00b0F, equipment here endures more thermal stress. Many homes are single-story with tile or foam roofs, so duct sizing, attic mitigation, and two-stage or variable-speed systems are important to avoid short cycling. Pinal County permitting also influences installation details compared to Tucson."

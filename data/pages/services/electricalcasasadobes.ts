@@ -18,7 +18,8 @@ export const electricalcasasadobesData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalcasasadobes",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Casas Adobes
   highlights: [
@@ -107,8 +108,9 @@ export const electricalcasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    category: "Electrical in Casas Adobes",
-    items: [
+    serviceId: "electricalcasasadobes",
+    serviceName: "Electrical in Casas Adobes",
+    faqs: [
     {
         "question": "Do Casas Adobes homes need panel upgrades from 60\u2013100 amps?",
         "answer": "Many Casas Adobes homes built in the 1970s through the 1990s still have 60\u2013100 amp panels that struggle with modern loads like central air, EV chargers, and full kitchens. Upgrading to 200 amp service is common here, particularly in neighborhoods such as Casas Adobes Estates and Shannon Heights. We perform load analyses and provide cost estimates that reflect local factors \u2014 tile or built-up roofs, HOA permitting, and conduit routing \u2014 to deliver an upgrade plan suited to the community."

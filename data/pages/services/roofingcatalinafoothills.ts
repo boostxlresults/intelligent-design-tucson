@@ -18,7 +18,8 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingcatalinafoothills",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Catalina Foothills
   highlights: [
@@ -107,8 +108,9 @@ export const roofingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    category: "Roofing in Catalina Foothills",
-    items: [
+    serviceId: "roofingcatalinafoothills",
+    serviceName: "Roofing in Catalina Foothills",
+    faqs: [
     {
         "question": "Do Catalina Foothills roofs need different inspections because of elevation and terrain?",
         "answer": "Yes. At 2,700\u20133,200 ft elevation the microclimate in Catalina Foothills creates more seasonal rainfall than the valley and occasional winter frost. Steep slopes increase runoff velocity which stresses valleys and flashings. We perform inspections that focus on valley liners, scupper capacity, flashing at multi-level transitions, and underlayment condition under tile or slate to prevent issues that are specific to hillside lots in 85718 and 85750."

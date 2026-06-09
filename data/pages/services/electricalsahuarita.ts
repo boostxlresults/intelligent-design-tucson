@@ -10,7 +10,8 @@ export const electricalsahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrician working on a panel in Sahuarita, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalsahuarita",
+  serviceName: "Electrical",
   highlights: [
     { title: "Modern Panel Upgrades", description: "Many newer homes in Sahuarita have builder-grade panels that are undersized for modern additions. We upgrade panels to safely handle EV chargers, pool equipment, and smart home systems." },
     { title: "EV Charger Installation", description: "With the growing demand for electric vehicles in neighborhoods like Madera Highlands, we provide professional EV charger installations tailored to your home's electrical capacity." },
@@ -33,8 +34,9 @@ export const electricalsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in Sahuarita",
-    items: [
+    serviceId: "electricalsahuarita",
+    serviceName: "Electrical in Sahuarita",
+    faqs: [
       { question: "Why might my newer home in Sahuarita need a panel upgrade?", answer: "Many newer homes in Sahuarita, especially in rapidly growing communities like Rancho Sahuarita, were built with standard builder-grade panels. If you're adding high-demand appliances like an EV charger, pool equipment, or a backup generator, your current panel may be undersized. Upgrading ensures your electrical system can safely handle the increased load without tripping breakers or causing safety hazards." },
       { question: "Do you install EV chargers in Sahuarita neighborhoods like Madera Highlands?", answer: "Yes, we specialize in professional EV charger installations throughout Sahuarita, including Madera Highlands and Quail Creek. We assess your home's current electrical capacity, recommend the appropriate charger level, and ensure the installation meets all local codes and HOA requirements, providing a safe and efficient charging solution for your electric vehicle." },
       { question: "Can you help with smart home wiring in Sahuarita?", answer: "Absolutely. As Sahuarita continues to grow and modernize, many homeowners are upgrading to smart home technology. We handle the complex wiring required for automated lighting, security cameras, smart thermostats, and whole-home audio systems, ensuring seamless integration and reliable performance in your 2000s-2020s home." },

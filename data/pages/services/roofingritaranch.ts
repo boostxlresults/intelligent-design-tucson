@@ -18,7 +18,8 @@ export const roofingritaranchData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingritaranch",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Rita Ranch
   highlights: [
@@ -107,8 +108,9 @@ export const roofingritaranchData: ServicePageData = {
   
   // Location-specific FAQs (unique to Rita Ranch)
   faqs: {
-    category: "Roofing in Rita Ranch",
-    items: [
+    serviceId: "roofingritaranch",
+    serviceName: "Roofing in Rita Ranch",
+    faqs: [
     {
         "question": "How do I know if my 1990s tile roof in Rita Ranch (85747) needs a full re-roof or just repairs?",
         "answer": "Start with a local inspection that checks tile condition, underlayment integrity, and flashing. In Rita Ranch, cracked or slipped tiles after wind events, recurring leaks at roof-to-wall junctions, or widespread underlayment deterioration indicate a full re-roof may be more cost-effective. If only isolated tiles and mortar are damaged, targeted repairs (often $300\u2013$1,200 locally) can extend life. We provide photo-backed assessments suitable for HOA records so you can decide based on condition and budget."

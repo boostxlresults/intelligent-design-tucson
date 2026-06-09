@@ -10,7 +10,8 @@ export const electricalsaddlebrookeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in SaddleBrooke, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalsaddlebrooke",
+  serviceName: "Electrical",
   highlights: [
     { title: "Medical Equipment Power", description: "We ensure reliable power for essential medical devices in SaddleBrooke homes. Our dedicated circuits and backup solutions provide peace of mind for 55+ residents." },
     { title: "Whole-Home Generators", description: "Protect your SaddleBrooke property from TEP outages with a standby generator. Essential for maintaining comfort during Catalina Mountain storms and occasional winter frost." },
@@ -33,8 +34,9 @@ export const electricalsaddlebrookeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in SaddleBrooke",
-    items: [
+    serviceId: "electricalsaddlebrooke",
+    serviceName: "Electrical in SaddleBrooke",
+    faqs: [
       { question: "Do you install whole-home generators in SaddleBrooke?", answer: "Yes, we specialize in installing whole-home generators for SaddleBrooke residents. Given the occasional storms near the Catalina Mountains, a standby generator ensures your medical equipment and essential appliances stay powered during TEP outages." },
       { question: "Can you add a dedicated circuit for my golf cart charger in SaddleBrooke Ranch?", answer: "Absolutely. We frequently install dedicated circuits for golf cart chargers in SaddleBrooke Ranch and the main community, ensuring you have reliable power to get to the championship golf courses and resort amenities." },
       { question: "Are you familiar with SaddleBrooke's HOA electrical guidelines?", answer: "Yes, we have extensive experience working within the strict HOA guidelines of SaddleBrooke. We ensure all exterior electrical work, such as security lighting and generator installations, complies with community standards." },

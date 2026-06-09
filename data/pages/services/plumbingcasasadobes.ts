@@ -10,7 +10,8 @@ export const plumbingcasasadobesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Casas Adobes, Arizona",
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingcasasadobes",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Aging Pipe Replacement", description: "Many homes in Casas Adobes Estates and Shannon Heights were built in the 1970s and 1980s. We specialize in replacing corroding galvanized pipes and failing polybutylene systems common in these older properties." },
     { title: "Water Heater Upgrades", description: "With the hard water supply (180-220 ppm) from Tucson Water, water heaters in Casas Adobes often face accelerated wear. We provide expert replacement and maintenance to ensure reliable hot water." },
@@ -33,8 +34,9 @@ export const plumbingcasasadobesData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Plumbing in Casas Adobes",
-    items: [
+    serviceId: "plumbingcasasadobes",
+    serviceName: "Plumbing in Casas Adobes",
+    faqs: [
       { question: "Why do homes in Casas Adobes frequently need pipe replacement?", answer: "Many homes in Casas Adobes, particularly those built in the 1970s and 1980s, were constructed using galvanized or polybutylene pipes. Over time, galvanized pipes corrode from the inside out, leading to reduced water pressure and leaks, while polybutylene pipes are prone to sudden failure. Upgrading these aging systems is crucial for protecting your property." },
       { question: "How does the water quality in Casas Adobes affect my plumbing?", answer: "Casas Adobes receives its water from the Tucson Water supply, which is considered hard, with mineral levels between 180 and 220 ppm. This hard water causes scale buildup in pipes, fixtures, and water heaters, significantly reducing their efficiency and lifespan. Installing a water softener or filtration system can mitigate these issues." },
       { question: "Are slab leaks common in Casas Adobes mid-century homes?", answer: "Yes, slab leaks are a common issue in the older, mid-century ranch homes found throughout Casas Adobes. As the original plumbing beneath the concrete foundation ages and deteriorates, leaks can develop. Our team uses advanced, non-invasive detection equipment to locate and repair these leaks with minimal disruption to your home." },

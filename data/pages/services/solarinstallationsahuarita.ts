@@ -10,7 +10,8 @@ export const solarinstallationsahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Sahuarita, Arizona",
   serviceName: "Solar",
-  category: "Solar",
+  serviceId: "solarinstallationsahuarita",
+  serviceName: "Solar",
   highlights: [
     { title: "Optimized for Sahuarita Homes", description: "We design solar systems specifically for the newer master-planned communities in Sahuarita. Whether you live in Rancho Sahuarita or Madera Highlands, our installations maximize your roof's potential." },
     { title: "HOA Compliance Experts", description: "Navigating HOA requirements in Sahuarita can be tricky. We handle all the paperwork and ensure your solar installation meets the strict aesthetic standards of communities like Quail Creek." },
@@ -33,8 +34,9 @@ export const solarinstallationsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Sahuarita",
-    items: [
+    serviceId: "solarinstallationsahuarita",
+    serviceName: "Solar in Sahuarita",
+    faqs: [
       { question: "Are homes in Sahuarita good candidates for solar panels?", answer: "Yes, homes in Sahuarita are excellent candidates for solar. The newer construction, typically built between the 2000s and 2020s, often features modern electrical panels and roofs that are ideal for solar installations. Many homes are even pre-wired for solar, making the process seamless." },
       { question: "Do I need HOA approval for solar panels in Rancho Sahuarita?", answer: "Yes, most master-planned communities in Sahuarita, including Rancho Sahuarita and Quail Creek, require HOA approval for solar installations. Intelligent Design handles all the necessary paperwork and ensures your system meets all community aesthetic and structural guidelines." },
       { question: "How do Sahuarita's weather conditions affect solar panels?", answer: "Sahuarita enjoys excellent sun exposure, which is perfect for solar energy generation. While the open terrain can expose panels to wind during monsoon season, our professional installations ensure your system is securely mounted to withstand local weather conditions." },

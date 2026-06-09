@@ -10,7 +10,8 @@ const data: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Tortolita, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewertortolita",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Rocky Soil Expertise", description: "The rocky mountain soil in Tortolita makes exterior plumbing repairs difficult. We utilize advanced trenchless technology to fix sewer lines without destroying your premium landscaping." },
     { title: "Root Intrusion Solutions", description: "Native desert trees in communities like Stone Canyon often seek out moisture in sewer lines. Our camera inspections quickly identify and resolve root blockages." },
@@ -33,8 +34,9 @@ const data: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Tortolita",
-    items: [
+    serviceId: "drainsewertortolita",
+    serviceName: "Drain & Sewer in Tortolita",
+    faqs: [
       { question: "Why are sewer line repairs more difficult in Tortolita?", answer: "The rocky mountain soil in the Tortolita foothills makes traditional excavation challenging. We often recommend trenchless sewer repair to avoid destroying landscaping and to navigate the difficult terrain efficiently." },
       { question: "How do native trees affect my sewer lines in Dove Mountain?", answer: "Native desert trees in Dove Mountain have aggressive root systems that seek out moisture. These roots can infiltrate tiny cracks in your sewer lines, causing severe blockages that require professional clearing and repair." },
       { question: "Do you service the 85755 and 85742 zip codes?", answer: "Yes, Intelligent Design provides comprehensive drain and sewer services throughout Tortolita, including both the 85755 and 85742 zip codes, as well as surrounding communities." },

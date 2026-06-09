@@ -10,7 +10,8 @@ export const solarinstallationsaddlebrookeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in SaddleBrooke, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationsaddlebrooke",
+  serviceName: "Solar",
   highlights: [
     { title: "HOA-Compliant Designs", description: "We navigate SaddleBrooke's specific HOA rules for panel placement. Our low-profile installations meet all community aesthetic requirements." },
     { title: "Fixed Energy Costs", description: "Protect your retirement income from rising utility rates in the 85739 zip code. Solar provides predictable, fixed energy expenses year-round." },
@@ -33,8 +34,9 @@ export const solarinstallationsaddlebrookeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar Installation in SaddleBrooke",
-    items: [
+    serviceId: "solarinstallationsaddlebrooke",
+    serviceName: "Solar Installation in SaddleBrooke",
+    faqs: [
       { question: "Will the SaddleBrooke HOA approve solar panels on my roof?", answer: "Yes, Arizona law protects your right to install solar, but the SaddleBrooke HOA does have specific guidelines regarding panel placement and aesthetics. We have extensive experience designing systems that meet these requirements while maximizing your energy production." },
       { question: "How does the 3,400 ft elevation in SaddleBrooke affect solar panels?", answer: "The higher elevation in SaddleBrooke results in slightly cooler temperatures compared to the valley floor. Because solar panels operate more efficiently in cooler conditions, your system will actually perform better here than it would at lower elevations." },
       { question: "Can a solar system power my golf cart in SaddleBrooke?", answer: "Absolutely. When designing your solar system, we can factor in the electrical load required to charge your golf cart. This allows you to drive around the SaddleBrooke community using clean, free energy from the sun." },

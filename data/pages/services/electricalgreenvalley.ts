@@ -18,7 +18,8 @@ export const electricalgreenvalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalgreenvalley",
+  serviceName: "Electrical",
   
   // Content - Unique highlights for Green Valley
   highlights: [
@@ -107,8 +108,9 @@ export const electricalgreenvalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Green Valley)
   faqs: {
-    category: "Electrical in Green Valley",
-    items: [
+    serviceId: "electricalgreenvalley",
+    serviceName: "Electrical in Green Valley",
+    faqs: [
     {
         "question": "Do Green Valley homes need a 200A service upgrade for medical devices?",
         "answer": "Many homes built in the 1970s\u20131990s in Green Valley originally have 60A\u2013100A services. If you run continuous medical devices (oxygen concentrators, CPAP units, powered recliners), a dedicated 120V/20A or 240V circuit is often sufficient and less disruptive than a full service change. However, homes with multiple modern additions\u2014EV cart chargers, new air-conditioning units, and whole-house electronics\u2014benefit from a 200A upgrade. We evaluate load, meter location, and roof access in neighborhoods like La Posada and provide phased, cost-sensitive options for fixed-income residents."

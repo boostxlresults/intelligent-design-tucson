@@ -13,7 +13,8 @@ export const roofingsahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Sahuarita, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingsahuarita",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Decades of Local Experience",
@@ -88,8 +89,9 @@ export const roofingsahuaritaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Sahuarita",
-    items: [
+    serviceId: "roofingsahuarita",
+    serviceName: "Roofing in Sahuarita",
+    faqs: [
     {
         "question": "What roofing problems are common in Sahuarita homes?",
         "answer": "Sahuarita roofs commonly face wind uplift, broken or shifted tiles, shingle granule loss and flashing failures after seasonal storms. Builder installation shortcuts and inadequate ventilation can accelerate wear. Regular inspections after monsoon season help spot loose tiles, damaged underlayment, clogged drainage and compromised flashings so issues can be repaired before leaks or interior damage occur."

@@ -10,7 +10,8 @@ export const solarinstallationeasttucsonData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in East Tucson, Arizona",
   serviceName: "Solar",
-  category: "Solar",
+  serviceId: "solarinstallationeasttucson",
+  serviceName: "Solar",
   highlights: [
     { title: "Optimized for East Tucson Sun", description: "We design solar arrays that take full advantage of East Tucson's excellent solar potential, maximizing energy production for homes near the Rincon Mountains." },
     { title: "HOA & Neighborhood Compliance", description: "Our team is experienced in navigating HOA requirements in planned communities like Civano and the Houghton corridor, ensuring a smooth approval process." },
@@ -33,8 +34,9 @@ export const solarinstallationeasttucsonData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in East Tucson",
-    items: [
+    serviceId: "solarinstallationeasttucson",
+    serviceName: "Solar in East Tucson",
+    faqs: [
       { question: "Is my East Tucson home suitable for solar panels?", answer: "Most homes in East Tucson are excellent candidates for solar. We evaluate your roof's orientation, age, and shading to design an optimal system. With many south-facing homes and excellent solar potential in the area, solar is a smart investment for East Tucson residents." },
       { question: "Do I need HOA approval for solar panels in East Tucson?", answer: "Yes, many planned communities in East Tucson, such as Civano, require HOA approval for solar installations. Our team is experienced in working with local HOAs and will handle the necessary paperwork and design requirements to ensure a smooth approval process." },
       { question: "Will solar panels withstand East Tucson's monsoon season?", answer: "Absolutely. We use high-quality, durable solar panels and secure mounting systems designed to withstand the high winds and heavy rains typical of East Tucson's monsoon season, ensuring your system remains safe and operational." },

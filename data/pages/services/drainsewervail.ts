@@ -10,7 +10,8 @@ export const drainsewervailData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Vail, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewervail",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Rocky Soil Solutions", description: "Vail's rocky terrain makes exterior plumbing work challenging. We use advanced trenchless technology to repair sewer lines without destroying your landscaping." },
     { title: "Septic System Expertise", description: "Many rural properties in the Rincon Valley and Old Vail rely on septic systems. We provide specialized drain clearing that protects your septic tank." },
@@ -33,8 +34,9 @@ export const drainsewervailData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Vail",
-    items: [
+    serviceId: "drainsewervail",
+    serviceName: "Drain & Sewer in Vail",
+    faqs: [
       { question: "Why are my drains slow in my new Vail home?", answer: "Even in newer subdivisions like Del Lago, drains can slow down due to construction debris left in the lines or the rapid buildup of scale from Vail's hard water (200-230 ppm). We recommend a camera inspection to identify the exact cause." },
       { question: "Is trenchless sewer repair available in Vail?", answer: "Yes! Trenchless sewer repair is highly recommended for Vail properties because it avoids the need to dig extensive trenches through the area's notoriously rocky soil, preserving your landscaping and reducing project time." },
       { question: "How does Vail's winter weather affect my sewer lines?", answer: "Vail's higher elevation (up to 3,800 ft) means more winter frost. Shallow or exposed sewer lines can be at risk of freezing or shifting. We can inspect your lines to ensure they are properly insulated and buried below the frost line." },

@@ -10,7 +10,8 @@ export const plumbingdrexelheightsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing Services in Drexel Heights, Arizona",
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingdrexelheights",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Galvanized Pipe Replacement", description: "Many homes in Drexel Heights built in the 1970s and 1980s still have original galvanized plumbing. We specialize in modern repiping solutions to prevent leaks and improve water pressure." },
     { title: "Water Heater Upgrades", description: "Hard water in the 85746 zip code can significantly reduce the lifespan of water heaters. We provide expert replacements and maintenance to keep your hot water flowing." },
@@ -33,8 +34,9 @@ export const plumbingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Plumbing in Drexel Heights",
-    items: [
+    serviceId: "plumbingdrexelheights",
+    serviceName: "Plumbing in Drexel Heights",
+    faqs: [
       { question: "Why do I have low water pressure in my Drexel Heights home?", answer: "Low water pressure in older Drexel Heights homes is often caused by mineral buildup inside aging galvanized pipes. The hard water in the 85746 and 85735 zip codes accelerates this process. We can inspect your pipes and recommend repiping solutions to restore proper water flow." },
       { question: "Are polybutylene pipes common in Drexel Heights?", answer: "Yes, some homes built or renovated in Drexel Heights during the 1980s and early 1990s may have polybutylene pipes. These pipes are known to degrade and fail unexpectedly. We highly recommend having them inspected and replaced to prevent significant water damage." },
       { question: "How does the hard water in Drexel Heights affect my water heater?", answer: "The hard water in Drexel Heights (190-220 ppm) causes scale buildup inside water heaters, reducing their efficiency and lifespan. Regular flushing and installing a water softener can help protect your unit and keep it running efficiently." },

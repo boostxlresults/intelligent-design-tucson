@@ -10,7 +10,8 @@ export const heatingtanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Tanque Verde, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingtanqueverde",
+  serviceName: "HVAC",
   highlights: [
     { title: "Multi-Zone Expertise", description: "Tanque Verde's custom builds and large homes often require sophisticated multi-zone heating systems. We specialize in designing and maintaining these complex setups to ensure even warmth throughout your property." },
     { title: "High-Efficiency Solutions", description: "With the cooler temperatures at our 2,800-3,200 ft elevation, heating demands are higher than in the valley. We install high-efficiency heat pumps and furnaces tailored to these specific needs." },
@@ -33,8 +34,9 @@ export const heatingtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Tanque Verde",
-    items: [
+    serviceId: "heatingtanqueverde",
+    serviceName: "Heating in Tanque Verde",
+    faqs: [
       { question: "Why does my Tanque Verde home need a different heating system than one in central Tucson?", answer: "Due to Tanque Verde's higher elevation (2,800-3,200 ft) and proximity to the Rincon Mountains, winter temperatures are cooler here. This requires a heating system with a higher capacity and often multi-zone capabilities to efficiently warm the larger custom homes common in our area." },
       { question: "Are heat pumps effective for heating homes in the Tanque Verde Valley?", answer: "Yes, modern high-efficiency heat pumps are excellent for Tanque Verde. They provide both heating and cooling, making them ideal for our climate. We ensure they are properly sized to handle the cooler winter nights typical of the 85749 and 85750 zip codes." },
       { question: "How often should I have my heating system serviced in Tanque Verde?", answer: "We recommend annual maintenance before the winter season begins. Regular servicing is crucial for the complex multi-zone systems often found in Tanque Verde's upscale homes, ensuring they operate efficiently and preventing unexpected breakdowns during cold snaps." },

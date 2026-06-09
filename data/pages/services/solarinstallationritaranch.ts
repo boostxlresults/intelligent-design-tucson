@@ -10,7 +10,8 @@ export const solarinstallationritaranchData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Rita Ranch, Arizona",
   serviceName: "Solar",
-  category: "Solar",
+  serviceId: "solarinstallationritaranch",
+  serviceName: "Solar",
   highlights: [
     { title: "HOA-Friendly Solar Designs", description: "We specialize in solar installations that meet the strict aesthetic guidelines of Rita Ranch HOAs. Our low-profile panels ensure your home looks great while saving energy." },
     { title: "Optimized for Two-Story Homes", description: "With many two-story homes in Rita Ranch, we design systems that maximize the abundant south-facing roof space. This ensures peak energy production throughout the year." },
@@ -33,8 +34,9 @@ export const solarinstallationritaranchData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Rita Ranch",
-    items: [
+    serviceId: "solarinstallationritaranch",
+    serviceName: "Solar in Rita Ranch",
+    faqs: [
       { question: "Do I need HOA approval to install solar panels in Rita Ranch?", answer: "Yes, most neighborhoods in Rita Ranch require HOA approval for solar installations. However, Arizona law protects your right to go solar. Our team at Intelligent Design handles the entire HOA submission and approval process, ensuring your system meets all local aesthetic guidelines while maximizing energy production." },
       { question: "Are the tile roofs common in Rita Ranch suitable for solar panels?", answer: "Absolutely. About 70% of homes in Rita Ranch have tile roofs. Our experienced installers use specialized mounting brackets and flashing techniques designed specifically for tile roofs to ensure a secure, leak-free installation that protects the integrity of your 1990s or 2000s era roof." },
       { question: "How does the 3,000-foot elevation of Rita Ranch affect solar production?", answer: "The higher elevation of Rita Ranch provides slightly cooler temperatures compared to central Tucson. Since solar panels operate more efficiently in cooler conditions, this elevation advantage actually helps your system generate more electricity, maximizing your return on investment." },

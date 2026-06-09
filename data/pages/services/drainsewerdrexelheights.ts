@@ -18,7 +18,8 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerdrexelheights",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Drexel Heights
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewerdrexelheightsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Drexel Heights)
   faqs: {
-    category: "Drain & Sewer in Drexel Heights",
-    items: [
+    serviceId: "drainsewerdrexelheights",
+    serviceName: "Drain & Sewer in Drexel Heights",
+    faqs: [
     {
         "question": "Are clay sewer lines common in Drexel Heights and what does that mean for repairs?",
         "answer": "Yes\u2014many Drexel Heights homes built in the 1970s\u20131990s still have clay mains or early PVC. Clay joints are vulnerable to root intrusion and settling, which often leads to bellied sections that trap solids. Repairs start with a camera inspection to map damage; short repairs can be affordable ($150\u2013$1,500 locally), while long runs or full replacements\u2014especially across narrow lots or under driveways\u2014can escalate to several thousand dollars depending on access and length."

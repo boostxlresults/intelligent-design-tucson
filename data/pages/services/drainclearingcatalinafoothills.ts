@@ -18,7 +18,8 @@ export const drainclearingcatalinafoothillsData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingcatalinafoothills",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
   highlights: [
@@ -107,8 +108,9 @@ export const drainclearingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    category: "Drain Clearing in Catalina Foothills",
-    items: [
+    serviceId: "drainclearingcatalinafoothills",
+    serviceName: "Drain Clearing in Catalina Foothills",
+    faqs: [
     {
         "question": "Why do drains clog more often in Catalina Foothills homes?",
         "answer": "Catalina Foothills combines steeper terrain, older custom plumbing, and moderate-hard water (160\u2013200 ppm). Many homes built in the 1980s\u20132000s have long waste runs routed downhill; rain-driven runoff and landscaped debris from foothill vegetation can enter gutters and traps. In gourmet kitchens with grease traps, grease plus mineral scale accelerates clogs. We inspect slope, material transitions, and grease trap condition to identify root causes rather than just treating symptoms."

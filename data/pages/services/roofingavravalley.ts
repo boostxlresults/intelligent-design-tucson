@@ -13,7 +13,8 @@ export const roofingavravalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Avra Valley, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingavravalley",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "Local Desert Expertise",
@@ -88,8 +89,9 @@ export const roofingavravalleyData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Avra Valley",
-    items: [
+    serviceId: "roofingavravalley",
+    serviceName: "Roofing in Avra Valley",
+    faqs: [
     {
         "question": "How do Avra Valley winds and dust storms affect my roof?",
         "answer": "Avra Valley\u2019s open desert exposure means stronger winds and dust-laden storms that can displace tiles, abrade shingles and clog gutters. Repeated sandblasting from dust shortens membrane life and loosens fasteners. Regular inspections after haboobs, prompt tile resetting, and wind-rated shingle systems help mitigate this damage and prevent leaks."

@@ -18,7 +18,8 @@ export const plumbingpicturerocksData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingpicturerocks",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Picture Rocks
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    category: "Plumbing in Picture Rocks",
-    items: [
+    serviceId: "plumbingpicturerocks",
+    serviceName: "Plumbing in Picture Rocks",
+    faqs: [
     {
         "question": "How do I reduce the very hard well water in Picture Rocks (85743)?",
         "answer": "Start with a water test pulled from your house line and another from the well to measure hardness, sediment, and iron. For 250+ ppm hardness common in Picture Rocks, we recommend a high-capacity ion-exchange softener or a hybrid softening system paired with a sediment prefilter sized for long supply lines. Proper sizing accounts for household peak flow and the recovery rate of your well pump; undersizing shortens equipment life. Expect higher install costs than urban installs because of longer piping runs and potential needs for additional backflow or bypass assemblies."

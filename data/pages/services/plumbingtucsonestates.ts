@@ -18,7 +18,8 @@ export const plumbingtucsonestatesData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingtucsonestates",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Tucson Estates
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingtucsonestatesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Tucson Estates)
   faqs: {
-    category: "Plumbing in Tucson Estates",
-    items: [
+    serviceId: "plumbingtucsonestates",
+    serviceName: "Plumbing in Tucson Estates",
+    faqs: [
     {
         "question": "Do many Tucson Estates homes need whole-home repipes?",
         "answer": "Yes. In Tucson Estates (zip codes 85735 and 85713) many homes built in the 1960s\u20131980s still have original galvanized pipe or polybutylene installed in later decades. Corrosion and brittle fittings show up as low pressure, rusty water, or multiple small leaks. Because most houses are single-story block construction, replacement often requires interior wall access or exterior chases. A thorough on-site inspection identifies whether a focused repair will hold or if a planned repipe\u2014priced and staged to your budget\u2014is the safer long-term option for resale and daily living."

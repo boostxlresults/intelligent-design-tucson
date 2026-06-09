@@ -10,7 +10,8 @@ export const drainsewerpicturerocksData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Picture Rocks, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerpicturerocks",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Septic System Expertise", description: "Most properties in Picture Rocks rely on septic systems rather than city sewer access. We specialize in maintaining and repairing these independent waste management systems." },
     { title: "Caliche Soil Solutions", description: "The hard caliche soil common near the Tucson Mountains creates unique drainage challenges. Our team uses advanced equipment to ensure proper flow despite the tough terrain." },
@@ -33,8 +34,9 @@ export const drainsewerpicturerocksData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Picture Rocks",
-    items: [
+    serviceId: "drainsewerpicturerocks",
+    serviceName: "Drain & Sewer in Picture Rocks",
+    faqs: [
       { question: "Why are drain issues so common in Picture Rocks?", answer: "Drain issues in Picture Rocks are often due to the reliance on septic systems and the presence of hard caliche soil. Without city sewer access, properties must manage their own waste, and the dense soil can impede proper drainage. Additionally, root intrusion from desert vegetation is a frequent cause of blockages in the 85743 area." },
       { question: "Do you service septic systems in the Mile Wide Road area?", answer: "Yes, we provide comprehensive drain and sewer services throughout Picture Rocks, including the Mile Wide Road area and the Sandario Road corridor. We are highly experienced in dealing with the unique challenges of properties that rely on septic systems rather than municipal sewer connections." },
       { question: "How does caliche soil affect my property's drainage?", answer: "Caliche is a hardened layer of soil common near the Tucson Mountains that acts almost like concrete. It prevents water from draining naturally into the ground, which can cause issues for septic leach fields and exterior drainage. We use specialized techniques to ensure your system functions correctly despite these tough soil conditions." },

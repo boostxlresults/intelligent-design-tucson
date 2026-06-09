@@ -10,7 +10,8 @@ export const drainclearingmaranaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing in Marana, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingmarana",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Construction Debris Removal", description: "With Marana's rapid growth and new construction in areas like Gladden Farms and Saguaro Bloom, drains often get clogged with construction debris. We specialize in clearing these tough blockages." },
     { title: "Flat Terrain Drainage Solutions", description: "Marana's flat terrain at 2,000-2,400 ft elevation can lead to slow drainage and pooling water. Our hydro jetting services ensure your pipes flow freely despite the lack of natural slope." },
@@ -33,8 +34,9 @@ export const drainclearingmaranaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Marana",
-    items: [
+    serviceId: "drainclearingmarana",
+    serviceName: "Drain Clearing in Marana",
+    faqs: [
       { question: "Why are my drains clogging in my new Marana home?", answer: "It's common for new construction in Marana communities like Saguaro Bloom to have construction debris left in the pipes. Additionally, Marana's hard water (210-240 ppm) can quickly cause scale buildup. Our camera inspections can identify the exact cause of your slow drains." },
       { question: "Can monsoon storms affect my drainage in Marana?", answer: "Yes, Marana's open terrain and strong monsoon winds can blow dirt and debris into exterior drains, while heavy rains can overwhelm systems near washes. We offer comprehensive clearing to ensure your property drains properly during storm season." },
       { question: "Is hydro jetting safe for the plumbing in my Dove Mountain home?", answer: "Absolutely. Hydro jetting is a safe and highly effective method for clearing drains in both newer and older homes. It uses high-pressure water to remove scale, grease, and debris without damaging your pipes, making it ideal for Marana's hard water issues." },

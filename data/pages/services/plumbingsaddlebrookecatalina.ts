@@ -18,7 +18,8 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingsaddlebrookecatalina",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for SaddleBrooke & Catalina
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke & Catalina)
   faqs: {
-    category: "Plumbing in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "plumbingsaddlebrookecatalina",
+    serviceName: "Plumbing in SaddleBrooke & Catalina",
+    faqs: [
     {
         "question": "Do SaddleBrooke & Catalina homes need special winterization to prevent frozen pipes?",
         "answer": "Yes. The elevation (3,200\u20133,600 ft) and regular winter frosts around Mt. Lemmon access mean exposed pipes, irrigation lines and poorly insulated crawlspaces are at real risk. We recommend insulating pipes in garages and attics, installing heat tape on exterior lines that run along foundations, and running a seasonal checklist for homeowners\u2014especially for older SaddleBrooke homes from the 1980s that may have exterior plumbing runs. A winterization service typically costs $120\u2013$300 depending on the number of exposed lines and whether heat trace is needed."

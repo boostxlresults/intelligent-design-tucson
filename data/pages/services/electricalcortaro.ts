@@ -10,7 +10,8 @@ export const electricalcortaroData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Cortaro, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalcortaro",
+  serviceName: "Electrical",
   highlights: [
     { title: "Panel Upgrades for 1990s Homes", description: "Many homes in Cortaro were built during the 1990s housing boom with panels that are now undersized. We upgrade these systems to safely handle modern electrical demands." },
     { title: "Landscape & Pool Lighting", description: "Enhance your outdoor living spaces in Continental Ranch with custom landscape lighting. We also handle complex pool equipment electrical installations." },
@@ -33,8 +34,9 @@ export const electricalcortaroData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in Cortaro",
-    items: [
+    serviceId: "electricalcortaro",
+    serviceName: "Electrical in Cortaro",
+    faqs: [
       { question: "Why might my 1990s home in Cortaro need a panel upgrade?", answer: "Homes built in Cortaro during the 1990s housing boom often have electrical panels that are undersized for today's technology. Upgrading your panel ensures it can safely handle the load from modern appliances, EV chargers, and smart home devices without tripping breakers." },
       { question: "Do you install EV chargers in Continental Ranch?", answer: "Yes, we frequently install Level 2 EV chargers in Continental Ranch and throughout the 85652 and 85742 zip codes. We can assess your current electrical panel to ensure it has the capacity to support a new dedicated circuit for your vehicle." },
       { question: "How can I protect my Cortaro home from monsoon power surges?", answer: "The best way to protect your home from power surges during our intense summer monsoons is by installing a whole-home surge protector directly at your electrical panel. This safeguards all your sensitive electronics and appliances from sudden voltage spikes." },

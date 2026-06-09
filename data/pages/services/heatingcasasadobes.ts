@@ -18,7 +18,8 @@ export const heatingcasasadobesData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingcasasadobes",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Casas Adobes
   highlights: [
@@ -107,8 +108,9 @@ export const heatingcasasadobesData: ServicePageData = {
   
   // Location-specific FAQs (unique to Casas Adobes)
   faqs: {
-    category: "Heating in Casas Adobes",
-    items: [
+    serviceId: "heatingcasasadobes",
+    serviceName: "Heating in Casas Adobes",
+    faqs: [
     {
         "question": "Do houses in Casas Adobes need different heating equipment because of elevation and tree cover?",
         "answer": "Yes. At about 2,500 ft and with a mature tree canopy, Casas Adobes homes often experience slightly cooler nights than central Tucson. That means heat pumps sized for central Tucson may underperform here, especially in shaded lots near Tohono Chul Park or Rillito River Park. We run Manual J calculations that include elevation, canopy shading, and roof type to recommend equipment with appropriate capacity and efficiency for local conditions."

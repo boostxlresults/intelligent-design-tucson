@@ -10,7 +10,8 @@ export const heatingtucsonestatesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Tucson Estates, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingtucsonestates",
+  serviceName: "HVAC",
   highlights: [
     { title: "Older Home Specialists", description: "We specialize in retrofitting modern heating systems into the 1960s-1980s block homes common in Tucson Estates. Our team understands the unique challenges of upgrading systems in homes with minimal original ductwork." },
     { title: "Evaporative to AC/Heat Conversions", description: "Many older homes in the 85735 and 85713 zip codes still rely on outdated heating methods. We provide seamless conversions to modern, energy-efficient heat pumps that provide both heating and cooling." },
@@ -33,8 +34,9 @@ export const heatingtucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Tucson Estates",
-    items: [
+    serviceId: "heatingtucsonestates",
+    serviceName: "Heating in Tucson Estates",
+    faqs: [
       { question: "What is the best heating system for an older block home in Tucson Estates?", answer: "For the 1960s-1980s block homes common in Tucson Estates, ductless mini-split heat pumps are often the best choice, especially if the home lacks existing ductwork. They are highly efficient and don't require major renovations." },
       { question: "Can you convert my evaporative cooler to a modern heating and cooling system in Tucson Estates?", answer: "Yes, we specialize in converting older homes in Tucson Estates from evaporative coolers to modern, energy-efficient heat pumps that provide both reliable winter heating and summer cooling." },
       { question: "Do I need to upgrade my electrical panel for a new heater in Tucson Estates?", answer: "Many older homes in the 85735 and 85713 zip codes still have original 60-amp panels. Depending on the new heating system you choose, an electrical upgrade may be necessary for safety and performance. We can assess this during our visit." },

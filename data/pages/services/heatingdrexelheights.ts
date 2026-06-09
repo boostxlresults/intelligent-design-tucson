@@ -10,7 +10,8 @@ export const heatingdrexelheightsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Drexel Heights, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingdrexelheights",
+  serviceName: "HVAC",
   highlights: [
     { title: "Local Expertise", description: "We understand the unique heating needs of Drexel Heights' established 1970s-1990s homes, from aging systems to evaporative cooler conversions." },
     { title: "Heat Pump Specialists", description: "Our technicians are experts at optimizing heat pumps for the 2,600 ft elevation, ensuring efficient performance during cold winter nights near the Tucson Mountains." },
@@ -33,8 +34,9 @@ export const heatingdrexelheightsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Drexel Heights",
-    items: [
+    serviceId: "heatingdrexelheights",
+    serviceName: "Heating in Drexel Heights",
+    faqs: [
       { question: "Why is my heating system struggling to keep my Drexel Heights home warm?", answer: "Many homes in Drexel Heights were built in the 1970s-1990s with single-story block construction that often lacks proper insulation. Combined with the cooler evening temperatures near the Tucson Mountains, aging furnaces and heat pumps have to work harder. We can evaluate your system and recommend upgrades or insulation improvements to enhance your comfort." },
       { question: "Are heat pumps a good option for homes in the 85746 zip code?", answer: "Yes, heat pumps are an excellent choice for Drexel Heights. Despite the 2,600 ft elevation bringing cooler winter nights, modern high-efficiency heat pumps perform exceptionally well in our climate. They provide both heating and cooling, making them a versatile and energy-efficient upgrade for older homes in the Valencia corridor." },
       { question: "How often should I have my furnace serviced in Drexel Heights?", answer: "We recommend annual maintenance for all heating systems in Drexel Heights. Regular servicing is especially crucial for aging systems common in neighborhoods like Cardinal Heights. Annual tune-ups help prevent unexpected breakdowns during cold snaps, improve energy efficiency, and ensure your system operates safely throughout the winter season." },

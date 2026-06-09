@@ -18,7 +18,8 @@ export const plumbingsaddlebrookeData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingsaddlebrooke",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for SaddleBrooke
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingsaddlebrookeData: ServicePageData = {
   
   // Location-specific FAQs (unique to SaddleBrooke)
   faqs: {
-    category: "Plumbing in SaddleBrooke",
-    items: [
+    serviceId: "plumbingsaddlebrooke",
+    serviceName: "Plumbing in SaddleBrooke",
+    faqs: [
     {
         "question": "Do SaddleBrooke homes in 85739 need special winter plumbing prep?",
         "answer": "Yes. At 3,400 ft elevation SaddleBrooke sees occasional winter frost that can freeze exposed irrigation lines, hose bibs and poorly insulated exterior piping. We recommend winterizing irrigation, insulating exterior meters and bibs, and adding pipe insulation to attic and garage runs. For homes in SaddleBrooke Ranch and Preserve sections where irrigation ties into community systems, we coordinate with HOA schedules to avoid conflicts and ensure freeze protection without violating community rules."

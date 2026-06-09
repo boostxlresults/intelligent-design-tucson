@@ -10,7 +10,8 @@ export const drainsewergladdenfarmsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain and Sewer Services in Gladden Farms, Arizona",
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewergladdenfarms",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Construction Debris Removal", description: "In newer communities like Gladden Farms, construction debris left in lines is a common cause of blockages. We use advanced camera inspections to locate and clear these hidden issues." },
     { title: "Slow Drainage Solutions", description: "The flat terrain at 2,100 ft elevation can sometimes lead to slow drainage in modern homes. Our hydro jetting services ensure your pipes flow freely." },
@@ -33,8 +34,9 @@ export const drainsewergladdenfarmsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain & Sewer in Gladden Farms",
-    items: [
+    serviceId: "drainsewergladdenfarms",
+    serviceName: "Drain & Sewer in Gladden Farms",
+    faqs: [
       { question: "Why are my drains slow in my new Gladden Farms home?", answer: "Slow drains in newer Gladden Farms homes can often be attributed to the flat terrain or construction debris left in the lines during the building process. Our camera inspections can quickly identify the exact cause." },
       { question: "Do you offer trenchless sewer repair in Gladden Farms?", answer: "Yes, we provide trenchless sewer repair services throughout Gladden Farms. This method is perfect for preserving your modern landscaping and driveways while effectively fixing underground pipe issues." },
       { question: "How does Marana's hard water affect my drains?", answer: "The hard water in the 85653 zip code (210-240 ppm) can lead to mineral buildup in your pipes over time, potentially causing slow drainage or blockages. Regular maintenance and hydro jetting can help mitigate these effects." },

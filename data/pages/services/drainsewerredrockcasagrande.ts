@@ -18,7 +18,8 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain & Sewer",
-  category: "Plumbing",
+  serviceId: "drainsewerredrockcasagrande",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Red Rock & Casa Grande
   highlights: [
@@ -107,8 +108,9 @@ export const drainsewerredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    category: "Drain & Sewer in Red Rock & Casa Grande",
-    items: [
+    serviceId: "drainsewerredrockcasagrande",
+    serviceName: "Drain & Sewer in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "How does the extreme heat in Red Rock & Casa Grande affect my sewer lines?",
         "answer": "Extremely high summer temperatures (regularly 110\u2013115\u00b0F or higher) accelerate hard-water mineral deposition and can speed deterioration of older PVC and cast-iron joints. Heat also dries soil, increasing compaction and caliche formation that stresses laterals. In practice we see faster buildup of mineral bands inside hot-water runs and more frequent offsets where soil shrinks and swells; preventive hydro-jetting and targeted camera inspections every 2\u20133 years are common recommendations for homes across 85145, 85122, and 85193."

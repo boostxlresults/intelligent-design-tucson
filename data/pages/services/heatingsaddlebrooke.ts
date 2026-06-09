@@ -10,7 +10,8 @@ export const heatingsaddlebrookeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in SaddleBrooke, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingsaddlebrooke",
+  serviceName: "HVAC",
   highlights: [
     { title: "High-Efficiency Systems", description: "We install energy-efficient heat pumps perfect for SaddleBrooke's 3,400 ft elevation. Enjoy lower utility bills on a fixed retirement income." },
     { title: "Quiet Operation", description: "Our premium heating systems operate whisper-quiet, ensuring peaceful living in your MountainView or Preserve section home." },
@@ -33,8 +34,9 @@ export const heatingsaddlebrookeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in SaddleBrooke",
-    items: [
+    serviceId: "heatingsaddlebrooke",
+    serviceName: "Heating in SaddleBrooke",
+    faqs: [
       { question: "Do you service homes in all sections of SaddleBrooke?", answer: "Yes, Intelligent Design provides expert heating services throughout the entire 85739 zip code, including SaddleBrooke proper, SaddleBrooke Ranch, the MountainView sections, and the Preserve. We are familiar with the different home styles and aging systems across the community." },
       { question: "Are your heating installations compliant with SaddleBrooke HOA rules?", answer: "Absolutely. We have extensive experience working within the strict HOA guidelines of Robson Communities. We ensure that all exterior heating equipment, such as heat pumps, meets aesthetic and placement requirements for your SaddleBrooke home." },
       { question: "What is the best heating system for the 3,400 ft elevation in SaddleBrooke?", answer: "For SaddleBrooke's elevation and climate, high-efficiency heat pumps are an excellent choice. They provide reliable heating during chilly mountain nights and occasional winter frost, while offering energy savings that are ideal for residents on a fixed retirement income." },

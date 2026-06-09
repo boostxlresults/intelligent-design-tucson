@@ -13,7 +13,8 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in SaddleBrooke & Catalina, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacsaddlebrookecatalina",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Local Climate Expertise",
@@ -88,8 +89,9 @@ export const hvacsaddlebrookecatalinaData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "hvacsaddlebrookecatalina",
+    serviceName: "HVAC in SaddleBrooke & Catalina",
+    faqs: [
     {
         "question": "How does Intelligent Design handle heating needs in SaddleBrooke & Catalina?",
         "answer": "Intelligent Design evaluates each home\u2019s elevation, construction, and occupant needs to recommend the right heating solution\u2014often heat pumps or dual-fuel systems. We focus on reliable startup in frost-prone winters, correct sizing, efficient controls, and maintenance plans to prevent mid-season failures. Our technicians also inspect ductwork and insulation to ensure even heat distribution throughout homes in 85739 and 85738."

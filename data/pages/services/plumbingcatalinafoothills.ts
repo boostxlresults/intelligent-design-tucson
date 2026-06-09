@@ -18,7 +18,8 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   
   // Service Info
   serviceName: "Plumbing",
-  category: "Plumbing",
+  serviceId: "plumbingcatalinafoothills",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Catalina Foothills
   highlights: [
@@ -107,8 +108,9 @@ export const plumbingcatalinafoothillsData: ServicePageData = {
   
   // Location-specific FAQs (unique to Catalina Foothills)
   faqs: {
-    category: "Plumbing in Catalina Foothills",
-    items: [
+    serviceId: "plumbingcatalinafoothills",
+    serviceName: "Plumbing in Catalina Foothills",
+    faqs: [
     {
         "question": "How does Catalina Foothills elevation affect plumbing and pipes?",
         "answer": "At 2,700\u20133,200 ft elevation around Catalina Foothills, cooler night temperatures and occasional winter frost can cause exposed irrigation lines and exterior service valves to contract, increasing the risk of cracks. Steep site gradients common near Ventana and Pima Canyons change drainage flows and can concentrate runoff against retaining walls and yard sewer lines. We recommend insulating exposed lines, schedule checks before cold snaps, and examine downhill lateral runs during rainy seasons to prevent erosion-related damage."

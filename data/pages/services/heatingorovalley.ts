@@ -18,7 +18,8 @@ export const heatingorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingorovalley",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const heatingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "Heating in Oro Valley",
-    items: [
+    serviceId: "heatingorovalley",
+    serviceName: "Heating in Oro Valley",
+    faqs: [
     {
         "question": "Do Oro Valley homes need a different HVAC size because of elevation?",
         "answer": "Yes. Oro Valley's elevation (2,600\u20133,200 ft) and cooler night temperatures mean heat load calculations differ from central Tucson. We include elevation, afternoon shade from the Catalina Mountains, and higher insulation levels common in neighborhoods built in the 1990s\u20132010s when sizing equipment. This prevents oversizing\u2014a common mistake that causes short cycling\u2014and ensures systems perform efficiently during cooler mornings and evenings near Pusch Ridge."

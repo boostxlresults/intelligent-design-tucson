@@ -10,7 +10,8 @@ export const solarinstallationvailData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Vail, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationvail",
+  serviceName: "Solar",
   highlights: [
     { title: "Optimized for Elevation", description: "Vail's 3,200-3,800 ft elevation provides cooler temperatures that actually improve solar panel efficiency. We design systems that maximize this natural advantage." },
     { title: "Customized for Newer Roofs", description: "With many homes built in the 2000s-2020s across Vail's subdivisions, your roof is likely in prime condition for solar. We ensure seamless integration with modern roofing materials." },
@@ -33,8 +34,9 @@ export const solarinstallationvailData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar Installation in Vail",
-    items: [
+    serviceId: "solarinstallationvail",
+    serviceName: "Solar Installation in Vail",
+    faqs: [
       { question: "Does Vail's higher elevation affect solar panel performance?", answer: "Yes, positively! Vail's elevation of 3,200-3,800 feet results in cooler temperatures than lower desert areas. Solar panels actually operate more efficiently in cooler weather, meaning your system in Vail can generate more power from the same amount of sunlight compared to a hotter location." },
       { question: "Are ground-mounted solar panels a good option for my Vail property?", answer: "Absolutely. If you live on a larger lot, acreage, or a ranch property in Vail, a ground-mounted system can be ideal. It allows for perfect positioning to maximize sun exposure without being limited by your roof's size, angle, or orientation." },
       { question: "Will my HOA in Vail allow solar panels?", answer: "Most HOAs in Vail's subdivisions, such as Del Lago, permit solar installations, though they may have specific aesthetic guidelines. Intelligent Design has extensive experience working with local HOAs and will ensure your system design complies with all community regulations." },

@@ -10,7 +10,8 @@ export const solarinstallationtanqueverdeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Tanque Verde, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationtanqueverde",
+  serviceName: "Solar",
   highlights: [
     { title: "Custom Designs for Large Lots", description: "Whether you have a sprawling custom home in the Tanque Verde Valley or a horse property along the Soldier Trail corridor, we design solar arrays that maximize your energy production. We offer both premium roof-mounted and ground-mounted systems to suit your acreage." },
     { title: "Premium Aesthetics", description: "We understand that maintaining the upscale look of your Tanque Verde home is paramount. Our sleek, all-black solar panels and low-profile mounting hardware blend seamlessly with tile and flat roofs, meeting the strictest HOA and deed restrictions." },
@@ -33,8 +34,9 @@ export const solarinstallationtanqueverdeData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar in Tanque Verde",
-    items: [
+    serviceId: "solarinstallationtanqueverde",
+    serviceName: "Solar in Tanque Verde",
+    faqs: [
       { question: "Are solar panels a good investment for homes in Tanque Verde?", answer: "Yes, solar is an excellent investment in Tanque Verde. The area's large roof spaces and expansive lots are ideal for solar arrays. By offsetting the high electrical demands of large custom homes and well pumps common in the 85749 and 85750 zip codes, homeowners can see significant reductions in their TEP bills and a strong return on investment." },
       { question: "Can I install solar panels if my Tanque Verde property has mature trees?", answer: "Absolutely. While the lush vegetation near the Rincon Mountains can cause shading, Intelligent Design uses advanced technology like microinverters to ensure that shading on one panel doesn't affect the entire system. We also offer ground-mounted options for properties with acreage to find the sunniest spot available." },
       { question: "Will solar panels ruin the look of my custom home in Tanque Verde?", answer: "Not at all. We understand the importance of aesthetics in upscale neighborhoods like the Tanque Verde Valley. We offer premium, all-black solar panels and low-profile mounting systems that blend beautifully with tile and flat roofs, ensuring compliance with local HOA and deed restrictions." },

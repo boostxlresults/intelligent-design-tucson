@@ -13,7 +13,8 @@ export const hvacrillitoData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Rillito, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacrillito",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Agricultural Dust Mitigation",
@@ -88,8 +89,9 @@ export const hvacrillitoData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Rillito",
-    items: [
+    serviceId: "hvacrillito",
+    serviceName: "HVAC in Rillito",
+    faqs: [
     {
         "question": "How often should I change my AC filters in Rillito, AZ?",
         "answer": "Because Rillito is a rural, agricultural area with significant dust from farming and the Santa Cruz River bed, we recommend checking your filters every 30 days. In the 85654 area, heavy winds can carry fine silt that clogs standard filters quickly. If you have pets or live near active fields, you may need to replace them more frequently to maintain system efficiency and prevent strain on your blower motor."

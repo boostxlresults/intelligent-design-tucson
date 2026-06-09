@@ -10,7 +10,8 @@ export const heatingsahuaritaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Sahuarita, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingsahuarita",
+  serviceName: "HVAC",
   highlights: [
     { title: "Local Expertise", description: "We understand the specific heating challenges of Sahuarita's newer master-planned communities, from Rancho Sahuarita to Madera Highlands. Our technicians are familiar with the builder-grade systems common in these 2000s-2020s homes." },
     { title: "Elevation-Aware Solutions", description: "At 2,900 feet elevation, Sahuarita experiences slightly cooler temperatures than central Tucson. We ensure your heating system is properly sized and optimized for these specific climate conditions." },
@@ -33,8 +34,9 @@ export const heatingsahuaritaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Sahuarita",
-    items: [
+    serviceId: "heatingsahuarita",
+    serviceName: "Heating in Sahuarita",
+    faqs: [
       { question: "Why is my two-story home in Rancho Sahuarita heating unevenly?", answer: "Uneven heating in two-story homes is a common issue in Sahuarita due to heat rising and potential ductwork design flaws in newer construction. We can address this through system balancing, zoning solutions, or ductwork modifications to ensure consistent comfort on both levels." },
       { question: "Are the builder-grade heating systems in Madera Highlands reliable?", answer: "While functional, builder-grade systems installed during Sahuarita's rapid growth often prioritize cost over longevity and efficiency. We frequently see these systems requiring repairs or replacement sooner than premium models. We can evaluate your system and recommend upgrades if necessary." },
       { question: "Does Sahuarita's elevation affect my heating needs?", answer: "Yes, at 2,900 feet, Sahuarita is slightly cooler than central Tucson, especially at night. This means your heating system works a bit harder. We ensure any new installation or repair takes this elevation into account for optimal sizing and performance." },

@@ -10,7 +10,8 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in SaddleBrooke & Catalina, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalsaddlebrookecatalina",
+  serviceName: "Electrical",
   highlights: [
     { title: "Winter Storm Preparedness", description: "With cooler mountain-adjacent climates and occasional winter storms, we specialize in generator installations to keep your home powered. Don't let power outages in the 85739 area leave you in the cold." },
     { title: "Panel Upgrades for Older Homes", description: "Many older homes in Catalina proper require electrical panel upgrades to handle modern loads. We safely replace outdated panels to ensure your home meets current safety standards." },
@@ -33,8 +34,9 @@ export const electricalsaddlebrookecatalinaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in SaddleBrooke & Catalina",
-    items: [
+    serviceId: "electricalsaddlebrookecatalina",
+    serviceName: "Electrical in SaddleBrooke & Catalina",
+    faqs: [
       { question: "Why should I consider a generator installation in SaddleBrooke & Catalina?", answer: "Due to the cooler mountain-adjacent climate and occasional winter storms in SaddleBrooke and Catalina, power outages can be a significant concern. A whole-home generator ensures your heating systems and essential appliances stay running, keeping your home safe and comfortable during severe weather." },
       { question: "Do older homes in Catalina need electrical panel upgrades?", answer: "Yes, many homes built in the 1980s and earlier in Catalina proper have outdated electrical panels that cannot safely handle modern electrical loads, such as EV chargers or high-efficiency heat pumps. Upgrading your panel ensures safety and compliance with current electrical codes." },
       { question: "Can you install EV chargers in SaddleBrooke luxury homes?", answer: "Absolutely. We provide professional EV charger installations tailored to the specific electrical capacity of your SaddleBrooke home. We assess your current panel and make any necessary upgrades to ensure safe and efficient charging for your electric vehicle." },

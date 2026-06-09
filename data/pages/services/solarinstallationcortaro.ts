@@ -10,7 +10,8 @@ export const solarinstallationcortaroData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Panel Installation in Cortaro, Arizona",
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationcortaro",
+  serviceName: "Solar",
   highlights: [
     { title: "HOA-Compliant Designs", description: "We specialize in navigating the strict HOA requirements common in Continental Ranch and Continental Reserve. Our team ensures your solar array meets aesthetic guidelines while maximizing energy production." },
     { title: "Optimized for Cortaro Roofs", description: "With 70% of Cortaro homes featuring tile roofs built in the 1990s and 2000s, we use specialized mounting hardware. This protects your roof's integrity while securing your solar investment." },
@@ -33,8 +34,9 @@ export const solarinstallationcortaroData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Solar Installation in Cortaro",
-    items: [
+    serviceId: "solarinstallationcortaro",
+    serviceName: "Solar Installation in Cortaro",
+    faqs: [
       { question: "Will my HOA in Continental Ranch approve solar panels?", answer: "Yes, Arizona law protects your right to install solar panels. However, HOAs in Continental Ranch and Continental Reserve can enforce reasonable aesthetic guidelines. We have extensive experience designing systems that meet these requirements while maximizing your energy production, and we handle the approval process for you." },
       { question: "Are the roofs in Cortaro suitable for solar installation?", answer: "Most homes in Cortaro, built during the 1990s and 2000s, have standard tile roofs that are excellent for solar. Because these roofs are aging, we conduct a thorough inspection before installation. We use specialized mounting hardware designed specifically for tile roofs to ensure a secure, leak-free fit." },
       { question: "How does Cortaro's lower elevation affect solar panel efficiency?", answer: "Cortaro sits at 2,200 feet, which means slightly hotter summers than the foothills. Extreme heat can marginally reduce standard panel efficiency. To combat this, we install premium, heat-resistant solar panels that maintain high performance even during the peak of an Arizona summer." },

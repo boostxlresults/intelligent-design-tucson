@@ -18,7 +18,8 @@ export const drainclearingorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingorovalley",
+  serviceName: "Plumbing",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const drainclearingorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "Drain Clearing in Oro Valley",
-    items: [
+    serviceId: "drainclearingorovalley",
+    serviceName: "Drain Clearing in Oro Valley",
+    faqs: [
     {
         "question": "How do roots from Oro Valley landscaping cause drain problems?",
         "answer": "Mature trees and shrubs common in Oro Valley neighborhoods \u2014 mesquite, palo verde, and ash \u2014 send fibrous roots seeking moisture. At elevations of 2,600\u20133,200 ft the soil around Catalina Mountain retains more moisture in shaded areas, drawing roots toward sewer lines. Older lateral lines installed in the 1990s may have joints that allow roots to infiltrate, producing repeating slow drains or backups. We use cameras to pinpoint intrusion, then offer localized repairs or root treatments, and recommend root barriers or adjusted irrigation schedules to reduce recurrence while staying in compliance with HOA landscaping rules."

@@ -10,7 +10,8 @@ export const drainclearingtucsonestatesData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing Service in Tucson Estates, Arizona",
   serviceName: "Drain Clearing",
-  category: "Plumbing",
+  serviceId: "drainclearingtucsonestates",
+  serviceName: "Plumbing",
   highlights: [
     { title: "Aging Pipe Specialists", description: "We specialize in clearing drains in the 1960s-1980s block homes common throughout Tucson Estates. Our technicians know how to handle delicate, aging clay and Orangeburg sewer lines." },
     { title: "Root Intrusion Removal", description: "Mature desert landscaping near the Tucson Mountains often leads to severe root intrusion. We use advanced hydro jetting to clear roots without damaging your older pipes." },
@@ -33,8 +34,9 @@ export const drainclearingtucsonestatesData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Drain Clearing in Tucson Estates",
-    items: [
+    serviceId: "drainclearingtucsonestates",
+    serviceName: "Drain Clearing in Tucson Estates",
+    faqs: [
       { question: "Why do my drains keep backing up in my Tucson Estates home?", answer: "Frequent backups in Tucson Estates are often due to the aging infrastructure. Many homes built in the 1960s and 70s have original clay or Orangeburg sewer lines that have deteriorated or developed 'bellies' from soil settling. Root intrusion from mature desert landscaping is also a major culprit in the 85735 and 85713 zip codes." },
       { question: "Is hydro jetting safe for the older pipes in Tucson Estates?", answer: "Yes, when performed by experienced professionals. We conduct a thorough camera inspection first to assess the condition of your pipes. If the pipes are structurally sound, hydro jetting is an excellent, safe way to remove severe root intrusions and scale buildup without the use of damaging chemicals." },
       { question: "How do I know if tree roots have invaded my sewer line?", answer: "Common signs of root intrusion include slow-draining sinks and tubs, gurgling sounds from your toilets, and frequent, unexplained backups. Given the large lots and mature trees common in Tucson Estates, root intrusion is highly likely if you have older clay sewer pipes." },

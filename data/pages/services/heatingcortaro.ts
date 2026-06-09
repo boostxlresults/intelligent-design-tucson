@@ -18,7 +18,8 @@ export const heatingcortaroData: ServicePageData = {
   
   // Service Info
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingcortaro",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Cortaro
   highlights: [
@@ -107,8 +108,9 @@ export const heatingcortaroData: ServicePageData = {
   
   // Location-specific FAQs (unique to Cortaro)
   faqs: {
-    category: "Heating in Cortaro",
-    items: [
+    serviceId: "heatingcortaro",
+    serviceName: "Heating in Cortaro",
+    faqs: [
     {
         "question": "Why do so many Cortaro homes have upstairs heating problems?",
         "answer": "Homes in Cortaro built during the 1990s\u20132000s often used contractor-grade HVAC systems and attic-run ductwork sized for builder specs. Over time ducts develop leaks in attics above two-story sections, insulation levels may settle, and thermostats located on lower floors fail to capture upstairs heat. The combination of stucco construction, tile roof attics, and higher summer heat at 2,200 ft elevation makes upstairs balancing and zoning a common solution\u2014alongside duct sealing and adding return pathways."

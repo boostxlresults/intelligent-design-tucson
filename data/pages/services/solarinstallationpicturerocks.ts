@@ -18,7 +18,8 @@ export const solarinstallationpicturerocksData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationpicturerocks",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Picture Rocks
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationpicturerocksData: ServicePageData = {
   
   // Location-specific FAQs (unique to Picture Rocks)
   faqs: {
-    category: "Solar Installation in Picture Rocks",
-    items: [
+    serviceId: "solarinstallationpicturerocks",
+    serviceName: "Solar Installation in Picture Rocks",
+    faqs: [
     {
         "question": "Can a ground-mount array be installed on a Picture Rocks horse property?",
         "answer": "Yes. Many Picture Rocks properties have the acreage and unobstructed southern exposure ideal for ground-mount arrays. We evaluate fence lines, paddocks, and water trough locations to minimize disruption to horse operations and choose foundations that work in sandy, compacted soils. Ground-mount systems also simplify maintenance compared to older manufactured home roofs common in 85743."

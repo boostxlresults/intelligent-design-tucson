@@ -18,7 +18,8 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   
   // Service Info
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacredrockcasagrande",
+  serviceName: "HVAC",
   
   // Content - Unique highlights for Red Rock & Casa Grande
   highlights: [
@@ -107,8 +108,9 @@ export const hvacredrockcasagrandeData: ServicePageData = {
   
   // Location-specific FAQs (unique to Red Rock & Casa Grande)
   faqs: {
-    category: "HVAC in Red Rock & Casa Grande",
-    items: [
+    serviceId: "hvacredrockcasagrande",
+    serviceName: "HVAC in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "How does the extreme heat in Red Rock & Casa Grande affect my A/C lifespan?",
         "answer": "The combination of elevations near 1,400 ft and regular 115\u00b0F+ days means compressors run longer and more frequently, which accelerates wear. Units sized for milder loads tend to short-cycle under these conditions; we recommend two-stage or variable-speed systems and proper refrigerant charge to reduce runtime stress. Regular seasonal maintenance in zip codes 85145, 85122, and 85193\u2014including coil cleaning and checking refrigerant levels\u2014can add years to equipment life."

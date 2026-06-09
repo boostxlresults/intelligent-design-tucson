@@ -13,7 +13,8 @@ export const roofingredrockcasagrandeData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Red Rock & Casa Grande, Arizona",
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingredrockcasagrande",
+  serviceName: "Roofing",
   highlights: [
   {
     "title": "46+ Years Local Experience",
@@ -88,8 +89,9 @@ export const roofingredrockcasagrandeData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "Roofing in Red Rock & Casa Grande",
-    items: [
+    serviceId: "roofingredrockcasagrande",
+    serviceName: "Roofing in Red Rock & Casa Grande",
+    faqs: [
     {
         "question": "What common roof problems do homeowners in Red Rock & Casa Grande face?",
         "answer": "In Red Rock and Casa Grande, the most common issues are UV damage, shingle granule loss, cracked or displaced tiles, failing sealants around penetrations, and heat-stressed flat membranes. Thermal cycling causes seals and flashing to loosen over time. Flat roofs especially need reflective coatings to limit heat absorption. Regular inspections catch early signs so repairs can extend roof life and avoid premature full replacements."

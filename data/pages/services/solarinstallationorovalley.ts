@@ -18,7 +18,8 @@ export const solarinstallationorovalleyData: ServicePageData = {
   
   // Service Info
   serviceName: "Solar Installation",
-  category: "Solar",
+  serviceId: "solarinstallationorovalley",
+  serviceName: "Solar",
   
   // Content - Unique highlights for Oro Valley
   highlights: [
@@ -107,8 +108,9 @@ export const solarinstallationorovalleyData: ServicePageData = {
   
   // Location-specific FAQs (unique to Oro Valley)
   faqs: {
-    category: "Solar Installation in Oro Valley",
-    items: [
+    serviceId: "solarinstallationorovalley",
+    serviceName: "Solar Installation in Oro Valley",
+    faqs: [
     {
         "question": "Will my HOA in Oro Valley approve an all-black solar array?",
         "answer": "Most Oro Valley HOAs favor low-profile, dark-panel systems; communities like La Reserve and Pusch Ridge Vistas often require visual submittals. We prepare HOA packets with elevation drawings, module samples and site photos specific to 85737 or 85755 addresses. Our experience with local CC&Rs and board reviews reduces back-and-forth and shortens approval times. If necessary, we\u2019ll meet with boards or provide alternate mount positions to address sightline concerns while preserving energy output."

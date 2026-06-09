@@ -10,7 +10,8 @@ export const electricalavravalleyData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical Services in Avra Valley, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricalavravalley",
+  serviceName: "Electrical",
   highlights: [
     { title: "Voltage Drop Solutions", description: "Long runs from transformers to homes in Avra Valley often cause voltage drops. We specialize in diagnosing and correcting these issues to protect your appliances." },
     { title: "Generator Installations", description: "With open desert terrain and exposure to dust storms, power outages can happen. We install reliable backup generators to keep your home running smoothly." },
@@ -33,8 +34,9 @@ export const electricalavravalleyData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in Avra Valley",
-    items: [
+    serviceId: "electricalavravalley",
+    serviceName: "Electrical in Avra Valley",
+    faqs: [
       { question: "Why do my lights flicker in my Avra Valley home?", answer: "Flickering lights in Avra Valley are often caused by voltage drops due to long runs from the transformer to your home, a common issue on larger 1-5 acre lots. It can also indicate an overloaded circuit or issues with the TEP service grid. We can diagnose and resolve these issues to ensure stable power." },
       { question: "Do I need a backup generator for my property in Avra Valley?", answer: "Given the open desert terrain and exposure to dust storms and monsoons, power outages can occur. A backup generator is highly recommended, especially if your Avra Valley home relies on a well water system, to ensure you maintain essential services during an outage." },
       { question: "Can my current electrical panel handle solar panels in Avra Valley?", answer: "Avra Valley has excellent solar potential, but older panels in 1990s-2000s homes may need an upgrade to handle the input from a large solar array. We can assess your current system and perform any necessary upgrades to optimize your solar installation." },

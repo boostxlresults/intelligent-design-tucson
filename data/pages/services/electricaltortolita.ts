@@ -10,7 +10,8 @@ export const electricaltortolitaData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical services in Tortolita, Arizona",
   serviceName: "Electrical",
-  category: "Electrical",
+  serviceId: "electricaltortolita",
+  serviceName: "Electrical",
   highlights: [
     { title: "Luxury Home Electrical", description: "Expertise in high-capacity panels and complex wiring for custom desert homes in Stone Canyon and Dove Mountain estates. We ensure your premium property has the power it needs." },
     { title: "Smart Home Integration", description: "Seamless installation of advanced smart home systems to control lighting, security, and climate. Perfect for modern homes built in the 2000s and 2010s across the 85755 and 85742 zip codes." },
@@ -33,8 +34,9 @@ export const electricaltortolitaData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Electrical in Tortolita",
-    items: [
+    serviceId: "electricaltortolita",
+    serviceName: "Electrical in Tortolita",
+    faqs: [
       { question: "Do you install EV chargers for homes in Tortolita?", answer: "Yes, we specialize in installing EV chargers for custom homes and luxury properties throughout Tortolita, including neighborhoods like Dove Mountain and Stone Canyon. We can assess your current electrical panel and perform any necessary upgrades to ensure your new charging station operates safely and efficiently." },
       { question: "Can you help with landscape lighting that complies with Tortolita's dark sky guidelines?", answer: "Absolutely. We understand that Tortolita is a dark sky community with minimal light pollution. Our electricians can design and install beautiful, compliant landscape lighting that enhances your outdoor living spaces while adhering to local regulations and preserving the natural desert ambiance." },
       { question: "Are whole-home generators necessary in Tortolita?", answer: "While the underground TEP electrical grid in Tortolita is generally very reliable, many homeowners in luxury communities opt for whole-home generators to ensure uninterrupted power for essential systems, smart home features, and pool equipment during rare outages or severe weather events." },

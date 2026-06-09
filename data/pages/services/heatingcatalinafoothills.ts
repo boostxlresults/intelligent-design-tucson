@@ -10,7 +10,8 @@ export const heatingcatalinafoothillsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating Services in Catalina Foothills, Arizona",
   serviceName: "Heating",
-  category: "HVAC",
+  serviceId: "heatingcatalinafoothills",
+  serviceName: "HVAC",
   highlights: [
     { title: "Multi-Zone Expertise", description: "We specialize in designing and maintaining complex multi-zone heating systems perfect for the large, multi-level homes common in the Catalina Foothills. Ensure every room in your 3,000+ sq ft estate remains perfectly comfortable." },
     { title: "High-Efficiency Solutions", description: "Our premium heat pumps and furnaces meet the high-efficiency demands of affluent homeowners in zip codes 85718 and 85750. We install top-tier equipment that operates quietly and effectively." },
@@ -33,8 +34,9 @@ export const heatingcatalinafoothillsData: ServicePageData = {
     ]
   },
   faqs: {
-    category: "Heating in Catalina Foothills",
-    items: [
+    serviceId: "heatingcatalinafoothills",
+    serviceName: "Heating in Catalina Foothills",
+    faqs: [
       { question: "Why does my Catalina Foothills home need a multi-zone heating system?", answer: "Many homes in the Catalina Foothills are large, multi-level custom builds. A single thermostat cannot effectively manage the temperature variations across different floors and expansive square footage. Multi-zone systems allow for precise temperature control in specific areas, ensuring comfort throughout your entire Foothills estate while optimizing energy usage." },
       { question: "How does the elevation of the Catalina Foothills affect my heating needs?", answer: "At 2,700 to 3,200 feet, the Catalina Foothills experience cooler temperatures and more frequent winter frost than central Tucson. This higher elevation means your heating system will run more frequently and requires proper sizing and calibration to handle the increased demand efficiently, keeping your home warm during cold desert nights." },
       { question: "Can you integrate a new heating system with my existing smart home setup in Ventana Canyon?", answer: "Yes, absolutely. We specialize in installing high-efficiency heating systems that seamlessly integrate with modern smart home platforms. Whether you live in Ventana Canyon or Pima Canyon, we can set up advanced controls that allow you to monitor and adjust your home's climate remotely from your smartphone or tablet." },

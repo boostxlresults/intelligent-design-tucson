@@ -13,7 +13,8 @@ export const hvacritaranchData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Rita Ranch, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvacritaranch",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Two-Story Specialists",
@@ -88,8 +89,9 @@ export const hvacritaranchData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Rita Ranch",
-    items: [
+    serviceId: "hvacritaranch",
+    serviceName: "HVAC in Rita Ranch",
+    faqs: [
     {
         "question": "Why is the upstairs of my Rita Ranch home always warmer than the downstairs?",
         "answer": "This is a common issue in Rita Ranch's two-story homes known as heat stratification. Because heat rises and many builder-grade systems in the 85747 area lack proper zoning, the upstairs often stays 5-10 degrees warmer. Intelligent Design can resolve this by installing specialized zoning systems or optimizing your ductwork to ensure even airflow throughout your entire home, regardless of the number of levels."

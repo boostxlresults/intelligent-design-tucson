@@ -13,7 +13,8 @@ export const hvaccatalinafoothillsData: ServicePageData = {
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Catalina Foothills, Arizona",
   serviceName: "HVAC",
-  category: "HVAC",
+  serviceId: "hvaccatalinafoothills",
+  serviceName: "HVAC",
   highlights: [
   {
     "title": "Hillside Home HVAC Specialists",
@@ -98,8 +99,9 @@ export const hvaccatalinafoothillsData: ServicePageData = {
 ]
   },
   faqs: {
-    category: "HVAC in Catalina Foothills",
-    items: [
+    serviceId: "hvaccatalinafoothills",
+    serviceName: "HVAC in Catalina Foothills",
+    faqs: [
     {
         "question": "How does Catalina Foothills elevation (2,700\u20133,200 ft) affect my HVAC?",
         "answer": "Elevation changes air density, which alters airflow and heat transfer. In Catalina Foothills that can mean your system needs different refrigerant charge and more precise duct balancing than a valley home. Cooler nights and occasional frost also affect winter heating cycles and require careful placement of outdoor units and condensate lines to avoid freeze-related problems. Our technicians perform on-site load calculations that account for elevation, shade from nearby canyons, and prevailing winds so your system is sized and tuned for reliable performance at 85718 and 85750 elevations."

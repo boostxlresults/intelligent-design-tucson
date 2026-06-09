@@ -18,7 +18,8 @@ export const roofingcoronadetucsonData: ServicePageData = {
   
   // Service Info
   serviceName: "Roofing",
-  category: "Roofing",
+  serviceId: "roofingcoronadetucson",
+  serviceName: "Roofing",
   
   // Content - Unique highlights for Corona de Tucson
   highlights: [
@@ -107,8 +108,9 @@ export const roofingcoronadetucsonData: ServicePageData = {
   
   // Location-specific FAQs (unique to Corona de Tucson)
   faqs: {
-    category: "Roofing in Corona de Tucson",
-    items: [
+    serviceId: "roofingcoronadetucson",
+    serviceName: "Roofing in Corona de Tucson",
+    faqs: [
     {
         "question": "How does Corona de Tucson\u2019s elevation affect roof longevity?",
         "answer": "At about 3,800 ft elevation, Corona de Tucson endures cooler nights, more frost days and larger daytime-nighttime temperature swings than lower-elevation Tucson neighborhoods. Those cycles accelerate material fatigue: tiles can develop microcracks from thermal expansion and contraction, and shingle adhesive seals can degrade faster. Hail is also more common here, so roofs require inspections after strong storms. We recommend biannual checks (spring and late fall) for homes in 85641 to catch frost-, wind-, or hail-related issues early and extend roof life through timely repairs and targeted ventilation adjustments."
