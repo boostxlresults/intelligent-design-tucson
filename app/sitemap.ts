@@ -8,7 +8,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 // Location-variant slugs excluded from sitemap (noindexed)
-const NOINDEX_SET = new Set(noindexSlugs.slugs);
+const NOINDEX_SET = new Set<string>(noindexSlugs.slugs);
 
 const SITE_URL = 'https://www.idesignac.com';
 
