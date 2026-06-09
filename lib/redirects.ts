@@ -8,7 +8,7 @@
 
 export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== URGENT REDIRECTS =====
-  '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing/choosing-the-right-roofing-company-a-comprehensive-guide',
+  '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing',
 
   // ===== MISSING HYPHEN REDIRECTS =====
   '/electrical-catalinafoothills': '/services/electrical-catalina-foothills',
@@ -335,7 +335,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== VIDEO CENTER =====
   '/video-center': '/education-library',
   '/video-center/education-library': '/education-library',
-  '/video-center/testimonials': '/video-testimonials',
+  '/video-center/testimonials': '/services/video-testimonials',
   '/video-center/careers': '/careers',
   
   // Video center education library videos
@@ -421,10 +421,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/how-much-does-a-new-air-conditioner-cost': '/blog/hvac/how-much-does-a-new-air-conditioner-cost',
   '/what-is-the-best-ac-unit-brand': '/blog/hvac/what-is-the-best-ac-unit-brand',
   '/why-is-my-toilet-running': '/blog/plumbing/why-is-my-toilet-running',
-  '/what-is-an-anode-rod': '/blog/plumbing/what-is-an-anode-rod',
+  '/what-is-an-anode-rod': '/blog/water-heater/what-is-an-anode-rod',
   '/who-to-call-for-water-heater-repair': '/blog/plumbing/who-to-call-for-water-heater-repair',
   '/discover-the-benefits-of-tankless-water-heaters': '/blog/plumbing/discover-the-benefits-of-tankless-water-heaters',
-  '/is-a-tucson-solar-home-energy-audit-worth-it': '/blog/solar/is-a-tucson-solar-home-energy-audit-worth-it',
+  '/is-a-tucson-solar-home-energy-audit-worth-it': '/blog/solar',
   '/why-is-my-air-conditioner-making-noise': '/blog/hvac/why-is-my-air-conditioner-making-noise',
   '/what-temperature-should-i-set-my-thermostat': '/blog/hvac/what-temperature-should-i-set-my-thermostat',
   '/how-come-my-air-conditioning-unit-smells-bad': '/blog/hvac/how-come-my-air-conditioning-unit-smells-bad',
@@ -440,50 +440,50 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/why-did-hot-water-come-out-of-my-cold-water-tap': '/blog/plumbing/why-did-hot-water-come-out-of-my-cold-water-tap',
   '/90-of-arizona-ac-systems-have-an-installation-flaw': '/blog/hvac/90-of-arizona-ac-systems-have-an-installation-flaw',
   '/what-should-i-expect-when-i-ask-for-an-hvac-estimate': '/blog/hvac/what-should-i-expect-when-i-ask-for-an-hvac-estimate',
-  '/permit-to-install-a-new-water-heater': '/blog/plumbing/permit-to-install-a-new-water-heater',
+  '/permit-to-install-a-new-water-heater': '/blog/water-heater/permit-to-install-a-new-water-heater',
   '/what-is-the-most-efficient-way-to-run-air-conditioning': '/blog/hvac/what-is-the-most-efficient-way-to-run-air-conditioning',
   '/how-do-i-choose-an-air-conditioning-unit': '/blog/hvac/how-do-i-choose-an-air-conditioning-unit',
   '/what-are-some-effective-strategies-to-reduce-ac-noise': '/blog/hvac/what-are-some-effective-strategies-to-reduce-ac-noise',
-  '/what-kind-of-air-conditioning-preventive-maintenance-do-i-need': '/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-need',
+  '/what-kind-of-air-conditioning-preventive-maintenance-do-i-need': '/blog/hvac/what-kind-of-air-conditioning-preventive-maintenance-do-i-ne',
   '/why-hire-professionals-to-clean-air-conditioner': '/blog/hvac/why-hire-professionals-to-clean-air-conditioner',
   '/why-use-solar-air-conditioner-for-home': '/blog/solar/why-use-solar-air-conditioner-for-home',
   '/things-to-consider-before-installing-rooftop-solar-panels': '/blog/solar/things-to-consider-before-installing-rooftop-solar-panels',
   '/why-you-should-invest-in-water-leak-detection-services': '/blog/plumbing/why-you-should-invest-in-water-leak-detection-services',
   '/reasons-why-you-should-use-solar-power': '/blog/solar/reasons-why-you-should-use-solar-power',
   '/ways-to-keep-your-ac-unit-running-smoothly-this-summer': '/blog/hvac/ways-to-keep-your-ac-unit-running-smoothly-this-summer',
-  '/how-to-make-an-old-home-more-energy-efficient': '/blog/solar/how-to-make-an-old-home-more-energy-efficient',
+  '/how-to-make-an-old-home-more-energy-efficient': '/blog/solar',
   
   // More root-level blog posts from GSC
   '/the-best-types-of-air-conditioners-for-tucson-arizona': '/blog/hvac/the-best-types-of-air-conditioners-for-tucson-arizona',
-  '/solar-energy-facts-people-should-know': '/blog/solar/solar-energy-facts-people-should-know',
+  '/solar-energy-facts-people-should-know': '/blog/solar/why-solar-panel-installers-matter-solar-energy-facts-people-',
   '/benefits-of-hiring-professional-solar-panel-installers': '/blog/solar/benefits-of-hiring-professional-solar-panel-installers',
   '/what-are-the-financial-benefits-of-solar-energy': '/blog/solar/what-are-the-financial-benefits-of-solar-energy',
   '/copper-vs-pex-choosing-the-right-material-for-repiping': '/blog/plumbing/copper-vs-pex-choosing-the-right-material-for-repiping',
   '/drain-cleaning-solutions-that-actually-work': '/blog/plumbing/drain-cleaning-solutions-that-actually-work',
   '/how-to-make-your-own-drain-cleaner-at-home': '/blog/plumbing/how-to-make-your-own-drain-cleaner-at-home',
-  '/what-is-off-grid-solar-power-system': '/blog/solar/what-is-off-grid-solar-power-system',
+  '/what-is-off-grid-solar-power-system': '/blog/solar/3-types-of-solar-power-systems-which-one-is-right-for-you',
   '/the-importance-of-air-conditioner-sizing-how-to-choose-the-right-ac-unit-for-optimal-comfort-and-efficiency': '/blog/hvac',
   '/the-truth-about-tucson-solar-companies': '/blog/solar/the-truth-about-tucson-solar-companies',
   '/common-drain-cleaning-mistakes-you-must-avoid': '/blog/plumbing/common-drain-cleaning-mistakes-you-must-avoid',
   '/how-solar-power-systems-can-save-you-money-in-tucson-az': '/blog/solar/how-solar-power-systems-can-save-you-money-in-tucson-az',
-  '/the-benefits-of-hiring-the-1-rated-best-solar-panel-installers-in-tucson': '/blog/solar/the-benefits-of-hiring-the-1-rated-best-solar-panel-installers-in-tucson',
+  '/the-benefits-of-hiring-the-1-rated-best-solar-panel-installers-in-tucson': '/blog/solar/benefits-of-hiring-professional-solar-panel-installers',
   '/tucson-waters-epa-warning': '/blog/plumbing/tucson-waters-epa-warning',
   '/solar-power-system-advantages-and-disadvantages': '/blog/solar/solar-power-system-advantages-and-disadvantages',
   '/the-best-materials-for-repiping-a-home': '/blog/plumbing/the-best-materials-for-repiping-a-home',
-  '/impact-of-indoor-air-quality-on-your-health-and-comfort': '/blog/hvac/impact-of-indoor-air-quality-on-your-health-and-comfort',
+  '/impact-of-indoor-air-quality-on-your-health-and-comfort': '/blog/indoor-air-quality/impact-of-indoor-air-quality-on-your-health-and-comfort',
   '/choosing-the-best-ac-repair-near-me-essential-tips-for-finding-reliable-service': '/blog/hvac/choosing-the-best-ac-repair-near-me-essential-tips-for-finding-reliable-service',
   '/what-to-expect-during-and-after-ac-repair': '/blog/hvac/what-to-expect-during-and-after-ac-repair',
-  '/why-solar-energy-is-the-future': '/blog/solar/why-solar-energy-is-the-future',
+  '/why-solar-energy-is-the-future': '/blog/solar/why-is-solar-energy-important-for-our-future',
   '/the-many-ways-plumbers-in-tucson-can-help': '/blog/plumbing/the-many-ways-plumbers-in-tucson-can-help',
   '/10-reasons-you-should-always-call-an-ac-repair-specialist': '/blog/hvac/10-reasons-you-should-always-call-an-ac-repair-specialist',
   '/desert-shield-water-filtration-the-smart-choice-for-tucson-homes': '/blog/plumbing/desert-shield-water-filtration-the-smart-choice-for-tucson-homes',
   '/should-you-diy-or-hire-a-professional-for-drain-cleaning': '/blog/plumbing/should-you-diy-or-hire-a-professional-for-drain-cleaning',
   '/comprehensive-home-services-in-oro-valley-more-than-just-a-business-its-a-commitment-to-the-community': '/service-areas/oro-valley',
   '/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-filters': '/blog/hvac/is-your-ac-making-you-sick-the-hidden-dangers-of-dirty-air-f',
-  '/does-turning-off-your-a-c-when-youre-not-home-actually-save-money': '/blog/hvac/does-turning-off-your-a-c-when-youre-not-home-actually-save-money',
+  '/does-turning-off-your-a-c-when-youre-not-home-actually-save-money': '/blog/home-tips/does-turning-off-your-ac-when-youre-not-home-actually-save-m',
   '/how-to-fix-your-ac-a-simple-guide-for-everyone': '/blog/hvac/how-to-fix-your-ac-a-simple-guide-for-everyone',
   '/ways-plumbers-in-tucson-can-help-you-unclog-drains': '/blog/plumbing/ways-plumbers-in-tucson-can-help-you-unclog-drains',
-  '/everything-you-need-to-know-about-advanced-hvac-solutions': '/blog/hvac/everything-you-need-to-know-about-advanced-hvac-solutions',
+  '/everything-you-need-to-know-about-advanced-hvac-solutions': '/blog/hvac/everything-you-need-to-know-about-the-advanced-hvac-solution',
   '/expert-tips-for-maintaining-your-tucson-air-conditioning-system': '/blog/hvac/expert-tips-for-maintaining-your-tucson-air-conditioning-sys',
   '/how-to-choose-the-best-plumber-in-tucson': '/blog/plumbing/how-to-choose-the-best-plumber-in-tucson',
   '/the-environmental-benefits-of-solar-power-systems': '/blog/solar/the-environmental-benefits-of-solar-power-systems',
@@ -495,10 +495,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/13-uses-of-solar-energy-the-ultimate-guide-for-home-and-business-owners': '/blog/solar/13-uses-of-solar-energy-the-ultimate-guide-for-home-and-busin',
   '/planning-for-long-term-maintenance-of-solar-power-systems': '/blog/solar/planning-for-long-term-maintenance-of-solar-power-systems',
   '/the-benefits-of-choosing-local-plumbers-in-tucson': '/blog/plumbing/the-benefits-of-choosing-local-plumbers-in-tucson',
-  '/how-solar-power-systems-can-benefit-commercial-property-owners': '/blog/solar/how-solar-power-systems-can-benefit-commercial-property-owners',
+  '/how-solar-power-systems-can-benefit-commercial-property-owners': '/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses',
   '/plumbing-emergencies-you-should-never-ignore-in-plumbers-tucson': '/blog/plumbing/plumbing-emergencies-you-should-never-ignore-in-plumbers-tuc',
   '/common-repiping-mistakes-and-how-to-avoid-them': '/blog/plumbing/common-repiping-mistakes-and-how-to-avoid-them',
-  '/8-important-questions-to-ask-solar-panel-installers-before-hiring-them': '/blog/solar/8-important-questions-to-ask-solar-panel-installers-before-hiring-them',
+  '/8-important-questions-to-ask-solar-panel-installers-before-hiring-them': '/blog/solar/important-questions-to-ask-solar-panel-installers-before-hir',
   '/the-ultimate-guide-to-hvac-maintenance-in-tucson-az': '/blog/hvac/the-ultimate-guide-to-hvac-maintenance-in-tucson-az',
   '/solar-myths-vs-facts-dispelling-common-misconceptions': '/blog/solar/solar-myths-vs-facts-dispelling-common-misconceptions',
   '/the-ultimate-guide-to-drain-cleaning': '/blog/plumbing/the-ultimate-guide-to-drain-cleaning',
@@ -521,8 +521,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/7-benefits-of-repiping-your-tucson-home': '/blog/plumbing/7-benefits-of-repiping-your-tucson-home',
   '/top-services-that-plumbers-tucson-can-provide': '/blog/plumbing/top-services-that-plumbers-tucson-can-provide',
   '/plumber-tucson-10-signs-you-need-a-professional-plumber': '/blog/plumbing/plumber-tucson-10-signs-you-need-a-professional-plumber',
-  '/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer': '/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer',
-  '/top-qualifications-to-look-for-in-your-upcoming-solar-panel-installers': '/blog/solar/top-qualifications-to-look-for-in-your-upcoming-solar-panel-installers',
+  '/the-importance-of-super-cooling-for-hvac-efficiency-in-the-summer': '/blog/hvac/the-importance-of-super-cooling-for-hvac-efficiency-in-the-s',
+  '/top-qualifications-to-look-for-in-your-upcoming-solar-panel-installers': '/blog/solar/top-qualifications-to-look-for-in-your-upcoming-solar-panel-',
   '/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered': '/blog/hvac/complete-guide-to-hvac-ac-repair-in-tucson-faqs-answered',
   '/drain-snakes-your-must-have-tool-for-efficient-drain-cleaning': '/blog/plumbing/drain-snakes-your-must-have-tool-for-efficient-drain-cleanin',
   '/diy-guide-to-basic-ac-repairs': '/blog/hvac/diy-guide-to-basic-ac-repairs',
@@ -530,7 +530,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/why-drain-cleaning-is-important': '/blog/plumbing/why-drain-cleaning-is-important',
   '/what-to-do-if-your-solar-company-closed-in-tucson': '/blog/solar/what-to-do-if-your-solar-company-closed-in-tucson',
   '/signs-you-need-to-call-for-ac-repair': '/blog/hvac/signs-you-need-to-call-for-ac-repair',
-  '/8-reasons-why-you-should-use-solar-power': '/blog/solar/8-reasons-why-you-should-use-solar-power',
+  '/8-reasons-why-you-should-use-solar-power': '/blog/solar/reasons-why-you-should-use-solar-power',
   '/why-hiring-a-solar-panel-installers-important': '/blog/solar/why-hiring-a-solar-panel-installers-important',
   '/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
   '/preparing-your-hvac-system-for-summer-essential-steps-for-optimal-performance': '/blog/hvac',
@@ -539,13 +539,13 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/why-diy-ac-installation-can-cost-you-more-in-the-long-run': '/blog/hvac/why-diy-ac-installation-can-cost-you-more-in-the-long-run',
   '/the-hidden-dangers-of-neglecting-drain-cleaning': '/blog/plumbing/the-hidden-dangers-of-neglecting-drain-cleaning',
   '/signs-your-commercial-building-needs-repiping': '/blog/plumbing/signs-your-commercial-building-needs-repiping',
-  '/can-you-lower-your-ac-costs-with-suntrac-air-conditioning-systems': '/blog/hvac/can-you-lower-your-ac-costs-with-suntrac-air-conditioning-systems',
+  '/can-you-lower-your-ac-costs-with-suntrac-air-conditioning-systems': '/blog/hvac',
   '/when-is-repiping-necessary-what-you-need-to-know': '/blog/plumbing/when-is-repiping-necessary-what-you-need-to-know',
-  '/how-solar-panel-installers-can-benefit-homeowners': '/blog/solar/how-solar-panel-installers-can-benefit-homeowners',
+  '/how-solar-panel-installers-can-benefit-homeowners': '/blog/solar/how-solar-panel-installers-can-save-you-money',
   '/how-professional-hvac-technicians-perform-ac-replacement': '/blog/hvac/how-professional-hvac-technicians-perform-ac-replacement',
   '/monsoon-humidity-central-air-system': '/blog/hvac',
   '/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficiency': '/blog/hvac/why-summer-ac-tune-ups-are-essential-for-comfort-and-efficiency',
-  '/is-a-burning-smell-normal-when-i-turn-on-the-heater': '/blog/hvac/is-a-burning-smell-normal-when-i-turn-on-the-heater',
+  '/is-a-burning-smell-normal-when-i-turn-on-the-heater': '/blog/hvac',
   '/9-warning-signs-you-need-a-drain-cleaning-service': '/blog/plumbing/9-warning-signs-you-need-a-drain-cleaning-service',
   '/types-of-services-offered-by-expert-solar-panel-installer': '/blog/solar/types-of-services-offered-by-expert-solar-panel-installer',
   '/why-take-advantage-of-solar-energy': '/blog/solar/why-take-advantage-of-solar-energy',
@@ -556,7 +556,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/how-plumbers-in-tucson-can-help-business-owners': '/blog/plumbing/how-plumbers-in-tucson-can-help-business-owners',
   '/how-often-does-ac-need-to-be-replaced': '/blog/hvac/how-often-does-ac-need-to-be-replaced',
   '/how-to-choose-the-best-ac-replacement-system-for-your-home': '/blog/hvac/how-to-choose-the-best-ac-replacement-system-for-your-home',
-  '/how-repiping-can-improve-your-home-water-quality': '/blog/plumbing/how-repiping-can-improve-your-home-water-quality',
+  '/how-repiping-can-improve-your-home-water-quality': '/blog/plumbing/how-repiping-can-improve-your-homes-water-quality',
   '/12-facts-you-didnt-know-about-solar-power-systems': '/blog/solar/12-facts-you-didnt-know-about-solar-power-systems',
   '/mastering-winter-pipe-protection-in-freezing-weather': '/blog/plumbing/mastering-winter-pipe-protection-in-freezing-weather',
   '/preparing-the-roof-for-spring-storms-ensuring-safety-and-longevity': '/blog/roofing/preparing-the-roof-for-spring-storms-ensuring-safety-and-lon',
@@ -580,10 +580,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/air-conditioning-tucson-how-to-choose-the-right-air-conditioning-unit-for-your-home': '/blog/hvac',
   '/spotlight-on-the-indoor-air-purifier-from-intelligent-design': '/blog/hvac',
   '/tips-for-your-home-ac-replacement': '/blog/hvac/tips-for-your-home-ac-replacement',
-  '/business-advantages-of-commercial-solar-energy-systems': '/blog/solar/business-advantages-of-commercial-solar-energy-systems',
+  '/business-advantages-of-commercial-solar-energy-systems': '/blog/solar/benefits-of-commercial-solar-energy-systems-to-businesses',
   '/optimizing-air-conditioner-use-in-summer-best-practices-and-the-role-of-smart-thermostats': '/blog/hvac',
   '/signs-you-need-solar-panel-installers': '/blog/solar/signs-you-need-solar-panel-installers',
-  '/answering-questions-about-solar-panel-installation': '/blog/solar/answering-questions-about-solar-panel-installation',
+  '/answering-questions-about-solar-panel-installation': '/blog/solar',
   '/things-you-need-to-know-before-installing-a-solar-power-system': '/blog/solar/things-you-need-to-know-before-installing-a-solar-power-syst',
   '/why-choose-intelligent-design-team-for-your-ac-replacement-needs': '/blog/hvac',
   '/11-reasons-why-home-owners-need-residential-drain-cleaning': '/blog/plumbing/11-reasons-why-home-owners-need-residential-drain-cleaning',
@@ -762,7 +762,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/electrical/ceiling-fan-installation': '/services/ceiling-fan-installation',
   '/electrical/circuit-breakers': '/services/circuit-breakers',
   '/electrical/electrical-repairs': '/services/electrical-repair',
-  '/electrical/outlets-switches': '/services/outlet-switch-installation',
+  '/electrical/outlets-switches': '/services/outlets-switches',
   '/plumber-tucson/drain-cleaning-tucson': '/services/drain-clearing',
   '/plumber-tucson/trenchless-sewer-repair-replacement': '/services/sewer-line-repair',
   '/solar-tucson/commercial-solar-installations': '/services/commercial-solar-installation',
@@ -786,15 +786,15 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/plumber-': '/services/plumbing-tucson',
 
   // Resources pages
-  '/resources/education-library': '/knowledge-hub',
-  '/resources/video-testimonial': '/knowledge-hub',
+  '/resources/education-library': '/services/knowledge-hub',
+  '/resources/video-testimonial': '/services/knowledge-hub',
 
   // Blog posts (date-based URLs)
   '/blog/2024/august/reasons-why-home-owners-need-residential-drain-c': '/blog/plumbing/reasons-why-home-owners-need-residential-drain-cleaning',
   '/blog/2024/august/your-neighborhood-partner-in-picture-rocks-intel': '/service-areas/picture-rocks',
   '/blog/categories/solar': '/blog/solar',
   '/blog/discover-the-benefits-of-suntrac-air-conditioning-systems': '/blog/hvac/discover-the-benefits-of-suntrac-air-conditioning-systems',
-  '/blog/drain-cleaning-solutions-that-actually-work': '/blog/plumbing/drain-cleaning-solutions-that-actually-work',
+  '/blog/drain-cleaning-solutions-that-actually-work': '/blog/drain-sewer/drain-cleaning-solutions-that-actually-work',
   '/blog/how-does-solar-energy-work': '/blog/solar/how-does-solar-energy-work',
   '/blog/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer': '/blog/hvac/8-tips-for-managing-your-air-conditioning-in-tucson-during-the-summer',
 
@@ -959,7 +959,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== ADDITIONAL LEGACY URL REDIRECTS (January 2026 - Batch 2) =====
 
   // Blog content redirects (root-level blog posts without /blog/ prefix)
-  '/how-solar-power-systems-work-everything-you-need-to-know': '/blog/solar/how-solar-power-systems-work-everything-you-need-to-know',
+  '/how-solar-power-systems-work-everything-you-need-to-know': '/blog/solar/solar-power-systems-made-simple-how-solar-panels-work',
   '/intelligent-design-your-home-service-partner-in-rillito-arizona': '/service-areas/tucson',
   '/why-every-home-needs-water-filtration-a-must-read-guide': '/blog/plumbing',
 
@@ -994,8 +994,8 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
 
   // /electrical/ nested paths
   '/electrical/electrical-repairs-tucson': '/services/electrical-repair',
-  '/electrical/lighting-upgrades-tucson': '/services/lighting-installation',
-  '/electrical/lighting-upgrades': '/services/lighting-installation',
+  '/electrical/lighting-upgrades-tucson': '/services/lighting-upgrades',
+  '/electrical/lighting-upgrades': '/services/lighting-upgrades',
   '/electrical/panel-upgrades-tucson': '/services/electrical-panel-upgrades',
 
   // /air-conditioning/ nested paths
@@ -1122,7 +1122,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/2024/october/what-to-do-if-your-solar-company-has-gone-out-of': '/blog/solar',
 
   // Blog date paths - specific posts
-  '/blog/permit-to-install-a-new-water-heater': '/blog/plumbing/permit-to-install-a-new-water-heater',
+  '/blog/permit-to-install-a-new-water-heater': '/blog/water-heater/permit-to-install-a-new-water-heater',
 
   // ===== ADDITIONAL REDIRECTS FROM GSC "Crawled - Not Indexed" REPORT =====
 
@@ -1134,7 +1134,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   
   // Blog Post Redirects
   '/spotlight-on-solar-air-conditioner': '/services/solar-ac-tucson',
-  '/why-you-should-consider-repiping-your-home': '/blog/plumbing/why-you-should-consider-repiping-your-home',
+  '/why-you-should-consider-repiping-your-home': '/blog/plumbing/7-benefits-of-repiping-your-tucson-home',
   '/maximizing-solar-efficiency-steps-to-harness-the-suns-power': '/blog/solar/maximizing-solar-efficiency-steps-to-harness-the-suns-power',
   
   // Service-Location Redirects (flat URL to hyphenated format)
@@ -1242,9 +1242,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/home-tips/what-to-expect-when-repiping-your-home': '/blog/plumbing/what-to-expect-when-repiping-your-home',
   '/blog/home-tips/why-does-a-repiping-project-need-professional-help': '/blog/plumbing/why-does-a-repiping-project-need-professional-help',
   '/blog/home-tips/why-repiping-your-home-is-essential': '/blog/plumbing/why-repiping-your-home-is-essential',
-  '/blog/importance-of-regular-maintenance-with-a-professional-plumber-in-tucson': '/blog/plumbing/importance-of-regular-maintenance-with-a-professional-plumber-in-tucson',
-  '/the-importance-of-drain-cleaning-maintenance': '/blog/plumbing/the-importance-of-drain-cleaning-maintenance',
-  '/tips-for-avoiding-costly-plumbing-repairs': '/blog/plumbing/tips-for-avoiding-costly-plumbing-repairs',
+  '/blog/importance-of-regular-maintenance-with-a-professional-plumber-in-tucson': '/blog/plumbing',
+  '/the-importance-of-drain-cleaning-maintenance': '/blog/drain-sewer/the-importance-of-drain-cleaning-maintenance',
+  '/tips-for-avoiding-costly-plumbing-repairs': '/blog/plumbing/plumbers-tucson-tips-for-avoiding-costly-plumbing-repairs',
   '/web_story_category/indoor-air-quality': '/blog/hvac',
   '/what-to-expect-when-repiping-your-home': '/blog/plumbing/what-to-expect-when-repiping-your-home',
 
@@ -1300,7 +1300,9 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/blog/roofing/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing',
   // Service page redirects
   '/services/lighting-installation': '/services/lighting-upgrades',
+  '/services/outlet-switch-installation': '/services/outlets-switches',
   '/services/air-conditioning-in-tucson-maintenance-tips-for-businesses': '/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses',
+  '/air-conditioning-in-tucson-maintenance-tips-for-businesses': '/blog/hvac/air-conditioning-in-tucson-maintenance-tips-for-businesses',
 
   // ===== [SLUG] ROUTE MIGRATION (added 2026-05-07) =====
   '/avra-valley': '/service-areas/avra-valley',
