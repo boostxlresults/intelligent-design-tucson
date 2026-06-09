@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Roofing | Expert Tile & Slate Roofing",
   description: "Catalina Foothills roofing specialists — tile, slate, flat systems in 85718 & 85750. Free inspection for hillside and luxury homes. Call now.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in East Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricaleasttucsonData: ServicePageData = {
   // SEO & Meta
   title: "East Tucson Electrical Services | Intelligent Design",
   description: "East Tucson electrical specialists for panel upgrades, EV chargers, and safety inspections. Local pros — call Intelligent Design for fast service today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch border", "Pantano area", "Houghton corridor", "Tanque Verde wash area"]
   }
 };
-
-export default data;

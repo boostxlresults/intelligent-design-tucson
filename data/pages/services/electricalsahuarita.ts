@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalsahuaritaData: ServicePageData = {
   title: "Expert Electrical Services in Sahuarita, AZ | Intelligent Design",
   description: "Top-rated electrical services in Sahuarita, AZ. From panel upgrades in Rancho Sahuarita to EV chargers in Quail Creek. Call (520) 333-2665 for expert electricians.",
   slug: "electrical-sahuarita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Green Valley", "Corona de Tucson", "Vail"]
   }
 };
-
-export default data;

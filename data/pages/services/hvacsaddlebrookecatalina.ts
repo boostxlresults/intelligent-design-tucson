@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in SaddleBrooke & Catalina
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacsaddlebrookecatalinaData: ServicePageData = {
   title: "SaddleBrooke & Catalina HVAC Repair & Replacement",
   description: "Trusted HVAC services in SaddleBrooke & Catalina — AC repair, heating, ductwork, and maintenance. 46+ years, 4.97★. Call (520) 333-2665 to schedule today.",
   slug: "hvac-saddle-brooke-catalina",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Catalina proper", "SaddleBrooke border", "Oracle junction area", "Golder Ranch area"]
   }
 };
-
-export default data;

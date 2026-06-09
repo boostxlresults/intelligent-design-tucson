@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Marana
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationmaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Solar Installation | Intelligent Design",
   description: "Marana Solar Installation by Intelligent Design — local site reviews, pricing context for 85653/85658/85743. Schedule a Marana solar consult today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Continental Ranch", "Gladden Farms", "Saguaro Bloom", "The Residences at Dove Mountain"]
   }
 };
-
-export default data;

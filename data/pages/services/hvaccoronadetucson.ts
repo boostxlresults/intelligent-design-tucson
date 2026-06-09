@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Corona de Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvaccoronadetucsonData: ServicePageData = {
   title: "Corona de Tucson HVAC Services - Intelligent Design AC",
   description: "Trusted HVAC services in Corona de Tucson (85641). AC repair, heat, ductwork & IAQ tailored for 3,800 ft elevation homes. Call Intelligent Design at (520) 333-2665.",
   slug: "hvac-corona-de-tucson",
@@ -165,5 +165,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson proper", "Rancho del Lago", "Las Colinas", "Old Spanish Trail corridor"]
   }
 };
-
-export default data;

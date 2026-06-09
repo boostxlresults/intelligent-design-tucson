@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewereasttucsonData: ServicePageData = {
   title: "Drain & Sewer Services in East Tucson | Intelligent Design",
   description: "Expert drain and sewer services in East Tucson. From root intrusion in older neighborhoods to sewer line repairs, call Intelligent Design at (520) 333-2665.",
   slug: "drain-sewer-east-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Rita Ranch", "Vail", "Tanque Verde"]
   }
 };
-
-export default data;

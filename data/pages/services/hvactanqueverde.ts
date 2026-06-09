@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Tanque Verde
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvactanqueverdeData: ServicePageData = {
   title: "Tanque Verde HVAC Services — Intelligent Design",
   description: "Trusted HVAC services in Tanque Verde, AZ. Intelligent Design provides AC repair, replacement, heating, ductwork and maintenance for upscale homes. Call (520) 333-2665.",
   slug: "hvac-tanque-verde",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Tanque Verde Valley", "Agua Caliente area", "Soldier Trail corridor", "Bear Canyon area"]
   }
 };
-
-export default data;

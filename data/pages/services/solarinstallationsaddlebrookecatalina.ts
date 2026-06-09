@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationsaddlebrookecatalinaData: ServicePageData = {
   title: "Solar Panel Installation in SaddleBrooke & Catalina, AZ",
   description: "Expert solar installation in SaddleBrooke & Catalina. Maximize energy savings in the 85739 & 85738 zip codes with Intelligent Design. Call (520) 333-2665.",
   slug: "solar-installation-saddle-brooke-catalina",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oracle", "Oro Valley", "Tucson"]
   }
 };
-
-export default data;

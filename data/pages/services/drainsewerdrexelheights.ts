@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Drexel Heights
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewerdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: "Drexel Heights Drain & Sewer Services | Intelligent Design",
   description: "Drain & Sewer service in Drexel Heights (85746, 85735). Fast, experienced repairs—call for inspection and local pricing estimates.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Drexel Heights proper", "Cardinal Heights", "Valencia corridor", "Mission Manor area"]
   }
 };
-
-export default data;

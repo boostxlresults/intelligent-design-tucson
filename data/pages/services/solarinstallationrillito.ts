@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationrillitoData: ServicePageData = {
   title: "Solar Panel Installation in Rillito, AZ | Intelligent Design",
   description: "Expert solar installation in Rillito, AZ. We specialize in solar solutions for agricultural properties, manufactured homes, and large lots in the 85654 area.",
   slug: "solar-installation-rillito",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Avra Valley", "Cortaro"]
   }
 };
-
-export default data;

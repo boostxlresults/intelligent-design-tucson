@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingvailData: ServicePageData = {
   title: "Vail Drain Clearing & Root Removal | Intelligent Design",
   description: "Expert drain clearing in Vail, AZ. From Del Lago to rural septic systems, we handle rocky soil challenges and stubborn clogs. Call (520) 333-2665 today!",
   slug: "drain-clearing-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "Sahuarita"]
   }
 };
-
-export default data;

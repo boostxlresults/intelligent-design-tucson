@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Solar Installation | Intelligent Design Solar",
   description: "Oro Valley Solar Installation by Intelligent Design — tailored systems for 85737 & 85755. Free site evaluation. Call today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingeasttucsonData: ServicePageData = {
   title: "Drain Clearing in East Tucson, AZ | Intelligent Design",
   description: "Expert drain clearing in East Tucson. We handle established tree roots, monsoon runoff issues, and builder-grade plumbing. Call (520) 333-2665 for fast service.",
   slug: "drain-clearing-east-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch", "Pantano"]
   }
 };
-
-export default data;

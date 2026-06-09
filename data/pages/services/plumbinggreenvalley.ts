@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbinggreenvalleyData: ServicePageData = {
   title: "Expert Plumbing Services in Green Valley, AZ | Intelligent Design",
   description: "Top-rated plumbing services in Green Valley, AZ. From aging fixtures to water heater upgrades, our 4.97★ plumbers serve 85614 & 85622. Call (520) 333-2665!",
   slug: "plumbing-green-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Sahuarita", "Amado", "Tubac"]
   }
 };
-
-export default data;

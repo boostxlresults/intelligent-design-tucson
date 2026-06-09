@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationtucsonestatesData: ServicePageData = {
   title: "Solar Panel Installation in Tucson Estates, AZ | Intelligent Design",
   description: "Expert solar installation in Tucson Estates (85735, 85713). We offer affordable solar programs, battery backups, and grid-tie solutions for single-story homes.",
   slug: "solar-installation-tucson-estates",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Kinney Road area", "Ajo Highway corridor", "Three Points border"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalsaddlebrookeData: ServicePageData = {
   title: "Expert Electrical Services in SaddleBrooke, AZ | Intelligent Design",
   description: "Top-rated electrical services in SaddleBrooke, AZ. From whole-home generators to golf cart chargers, our expert electricians serve the 85739 area. Call (520) 333-2665.",
   slug: "electrical-saddle-brooke",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["SaddleBrooke Ranch", "Oracle", "Catalina"]
   }
 };
-
-export default data;

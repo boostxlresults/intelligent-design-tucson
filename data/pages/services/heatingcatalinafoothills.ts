@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingcatalinafoothillsData: ServicePageData = {
   title: "Heating Services in Catalina Foothills, AZ | Intelligent Design",
   description: "Expert heating services in Catalina Foothills. We specialize in multi-zone systems and high-efficiency heat pumps for luxury homes. Call (520) 333-2665.",
   slug: "heating-catalina-foothills",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Casas Adobes", "Oro Valley"]
   }
 };
-
-export default data;

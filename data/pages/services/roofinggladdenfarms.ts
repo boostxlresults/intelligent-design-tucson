@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Gladden Farms
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofinggladdenfarmsData: ServicePageData = {
   title: "Gladden Farms Roofing Services | Intelligent Design",
   description: "Trusted roofing in Gladden Farms: repairs, replacements, tile, shingle, flat & coatings. 46+ years, 4.97★. Call (520) 333-2665 for fast local service.",
   slug: "roofing-gladden-farms",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
   }
 };
-
-export default data;

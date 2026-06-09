@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in East Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvaceasttucsonData: ServicePageData = {
   title: "HVAC Services in East Tucson, AZ | AC Repair & Installation",
   description: "Expert AC repair and HVAC services in East Tucson. Serving 85710, 85730, and 85748 for 46+ years. Call Intelligent Design at (520) 333-2665 for an estimate!",
   slug: "hvac-east-tucson",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch border", "Pantano area", "Houghton corridor", "Tanque Verde wash area"]
   }
 };
-
-export default data;

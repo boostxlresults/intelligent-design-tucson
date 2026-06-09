@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Marana
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingmaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Heating Services | Intelligent Design HVAC",
   description: "Marana heating repairs, tune-ups & installs for 85653, 85658, 85743. Fast local service — call for same-week appointments.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Continental Ranch", "Gladden Farms", "Saguaro Bloom", "The Residences at Dove Mountain"]
   }
 };
-
-export default data;

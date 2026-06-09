@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in SaddleBrooke & Catalina
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: "SaddleBrooke & Catalina Plumbing Services",
   description: "Local plumbing in SaddleBrooke & Catalina (85739, 85738). Fast help for frozen pipes, wells, water heaters. Call for a local estimate.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Catalina proper", "SaddleBrooke border", "Oracle junction area", "Golder Ranch area"]
   }
 };
-
-export default data;

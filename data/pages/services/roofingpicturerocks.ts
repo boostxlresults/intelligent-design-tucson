@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Roofing & Roof Repair | 85743",
   description: "Trusted Picture Rocks roofing—repair, replacement & inspections tailored to 85743. Call for a local assessment near Ironwood Forest.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in SaddleBrooke
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingsaddlebrookeData: ServicePageData = {
   // SEO & Meta
   title: "SaddleBrooke Plumbing | Intelligent Design Services",
   description: "SaddleBrooke plumbing experts servicing 85739 — repairs, water heaters, filtration. Call for fast, local service and transparent pricing.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["SaddleBrooke proper", "SaddleBrooke Ranch", "MountainView sections", "Preserve sections"]
   }
 };
-
-export default data;

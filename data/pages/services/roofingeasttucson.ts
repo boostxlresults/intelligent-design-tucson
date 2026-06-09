@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in East Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingeasttucsonData: ServicePageData = {
   title: "East Tucson Roofing Experts | Intelligent Design",
   description: "Trusted East Tucson roofing: repairs, replacements, tile, shingle, flat roofs & coatings. Intelligent Design — 46+ years, 4.97★, 3600+ reviews. Call (520) 333-2665 for a free estimate.",
   slug: "roofing-east-tucson",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch border", "Pantano area", "Houghton corridor", "Tanque Verde wash area"]
   }
 };
-
-export default data;

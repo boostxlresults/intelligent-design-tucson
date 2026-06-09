@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Cortaro
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingcortaroData: ServicePageData = {
   // SEO & Meta
   title: "Cortaro Heating Services | Intelligent Design Heating",
   description: "Cortaro heating repair & replacement in 85652 & 85742. Trusted service from Intelligent Design — call to schedule a local inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Continental Ranch", "Continental Reserve", "Cortaro Farms area", "Silverbell corridor"]
   }
 };
-
-export default data;

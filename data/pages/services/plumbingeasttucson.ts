@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in East Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingeasttucsonData: ServicePageData = {
   // SEO & Meta
   title: "East Tucson Plumbing Services | Intelligent Design",
   description: "Trusted East Tucson plumbing experts (85710, 85730, 85748). Fast service, local knowledge — book an inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch border", "Pantano area", "Houghton corridor", "Tanque Verde wash area"]
   }
 };
-
-export default data;

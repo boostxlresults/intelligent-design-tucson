@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Tanque Verde
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingtanqueverdeData: ServicePageData = {
   title: "Tanque Verde Roofing | Intelligent Design Roofing",
   description: "Expert roof repair, replacement, tile, shingle, flat and coating services in Tanque Verde. Trusted local crews — call Intelligent Design at (520) 333-2665 for a free inspection today.",
   slug: "roofing-tanque-verde",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Tanque Verde Valley", "Agua Caliente area", "Soldier Trail corridor", "Bear Canyon area"]
   }
 };
-
-export default data;

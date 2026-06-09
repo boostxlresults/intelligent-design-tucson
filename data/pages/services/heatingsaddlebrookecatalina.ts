@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in SaddleBrooke & Catalina
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: "SaddleBrooke & Catalina Heating Services | Intelligent Design",
   description: "Heating services in SaddleBrooke & Catalina (85739, 85738). Expert heat pump and dual-fuel work — call for local pricing and same-day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Catalina proper", "SaddleBrooke border", "Oracle junction area", "Golder Ranch area"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalrillitoData: ServicePageData = {
   // SEO & Meta
   title: "Rillito Electrical Services | Intelligent Design",
   description: "Trusted Rillito electrical services in 85654—panels, well pumps, farm power, and solar tie-ins. Call for local inspections and estimates.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

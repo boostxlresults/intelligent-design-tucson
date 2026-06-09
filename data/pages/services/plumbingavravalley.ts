@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Avra Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingavravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Plumbing Services | Avra Valley, AZ",
   description: "Avra Valley plumbing experts serving 85743 & 85653. Well, septic, and long-run repairs — trusted local techs. Call today for a site-specific estimate.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
   }
 };
-
-export default data;

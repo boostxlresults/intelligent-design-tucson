@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingcoronadetucsonData: ServicePageData = {
   title: "Plumbing Services in Corona de Tucson, AZ | Intelligent Design",
   description: "Expert plumbing services in Corona de Tucson (85641). From water heaters to leak repair, trust our 46+ years of experience. Call (520) 333-2665 today!",
   slug: "plumbing-corona-de-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Vail", "Tucson", "Sahuarita"]
   }
 };
-
-export default data;

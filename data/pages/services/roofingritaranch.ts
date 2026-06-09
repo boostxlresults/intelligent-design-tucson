@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Rita Ranch
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingritaranchData: ServicePageData = {
   // SEO & Meta
   title: "Rita Ranch Roofing Experts | Roof Repair & Replacement",
   description: "Rita Ranch roofing repairs and replacements in 85747 — tile specialists, HOA compliance, free roof assessment. Call Intelligent Design today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rita Ranch proper", "Rancho del Lago", "Civano border", "Houghton corridor"]
   }
 };
-
-export default data;

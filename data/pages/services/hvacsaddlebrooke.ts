@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in SaddleBrooke
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacsaddlebrookeData: ServicePageData = {
   title: "HVAC Services SaddleBrooke AZ | Intelligent Design AC Repair",
   description: "Expert HVAC repair, replacement & maintenance in SaddleBrooke, AZ. 46+ years of service for luxury homes near the Catalina Mountains. Call (520) 333-2665.",
   slug: "hvac-saddle-brooke",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["SaddleBrooke proper", "SaddleBrooke Ranch", "MountainView sections", "Preserve sections"]
   }
 };
-
-export default data;

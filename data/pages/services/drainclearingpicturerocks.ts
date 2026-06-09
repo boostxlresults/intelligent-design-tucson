@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain Clearing in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainclearingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Drain Clearing - Intelligent Design",
   description: "Drain clearing in Picture Rocks (85743) for septic, caliche, and well systems. 46+ yrs experience. Call for local pricing and same‑day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

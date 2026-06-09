@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewerpicturerocksData: ServicePageData = {
   title: "Drain & Sewer Services in Picture Rocks, AZ | Intelligent Design",
   description: "Expert drain and sewer services in Picture Rocks, AZ. We handle septic systems, caliche soil drainage, and root intrusions. Call (520) 333-2665 today.",
   slug: "drain-sewer-picture-rocks",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Avra Valley", "Marana", "Tucson"]
   }
 };
-
-export default data;

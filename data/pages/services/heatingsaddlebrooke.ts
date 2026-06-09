@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingsaddlebrookeData: ServicePageData = {
   title: "Heating Services in SaddleBrooke, AZ | Intelligent Design",
   description: "Expert heating services for SaddleBrooke's 55+ community. We specialize in high-efficiency heat pumps and quiet furnaces for 85739 homes. Call (520) 333-2665.",
   slug: "heating-saddle-brooke",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oracle", "Catalina", "Oro Valley"]
   }
 };
-
-export default data;

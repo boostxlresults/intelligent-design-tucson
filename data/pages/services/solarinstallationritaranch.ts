@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationritaranchData: ServicePageData = {
   title: "Solar Panel Installation in Rita Ranch, AZ | Intelligent Design",
   description: "Expert solar installation and maintenance in Rita Ranch, AZ. Maximize your energy savings with Intelligent Design's top-rated solar services. Call (520) 333-2665.",
   slug: "solar-installation-rita-ranch",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Rancho del Lago", "Civano", "Vail"]
   }
 };
-
-export default data;

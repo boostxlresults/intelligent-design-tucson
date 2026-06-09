@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationdrexelheightsData: ServicePageData = {
   title: "Solar Installation in Drexel Heights, AZ | Intelligent Design",
   description: "Expert solar installation in Drexel Heights. Take advantage of affordable solar programs and good sun exposure on single-story homes. Call (520) 333-2665.",
   slug: "solar-installation-drexel-heights",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Cardinal Heights", "Mission Manor", "Valencia Corridor"]
   }
 };
-
-export default data;

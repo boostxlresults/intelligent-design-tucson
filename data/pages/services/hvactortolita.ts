@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Tortolita
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvactortolitaData: ServicePageData = {
   title: "Tortolita HVAC Services | Intelligent Design",
   description: "Tortolita HVAC services by Intelligent Design — expert AC repair, replacement, heating, ductwork & maintenance. Call (520) 333-2665 for local service.",
   slug: "hvac-tortolita",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Stone Canyon", "Dove Mountain estates", "Tortolita Highlands", "La Reserve"]
   }
 };
-
-export default data;

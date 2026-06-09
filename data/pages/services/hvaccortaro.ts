@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Cortaro
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvaccortaroData: ServicePageData = {
   title: "Cortaro HVAC Services — AC Repair & Installation | Intelligent Design",
   description: "Trusted Cortaro HVAC experts (85652, 85742). AC repair, replacement, ductwork & IAQ for homes in Continental Ranch. Call Intelligent Design: (520) 333-2665.",
   slug: "hvac-cortaro",
@@ -165,5 +165,3 @@ const data: ServicePageData = {
     nearby: ["Continental Ranch", "Continental Reserve", "Cortaro Farms area", "Silverbell corridor"]
   }
 };
-
-export default data;

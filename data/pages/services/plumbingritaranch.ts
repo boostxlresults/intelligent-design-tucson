@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingritaranchData: ServicePageData = {
   title: "Expert Plumbing Services in Rita Ranch, AZ | Intelligent Design",
   description: "Top-rated plumbing services in Rita Ranch, AZ. From water heater repair to repiping, our local experts handle hard water issues and 1990s-era fixtures. Call (520) 333-2665.",
   slug: "plumbing-rita-ranch",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rancho del Lago", "Vail", "East Tucson"]
   }
 };
-
-export default data;

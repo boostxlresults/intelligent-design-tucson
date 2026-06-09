@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingvailData: ServicePageData = {
   title: "Heating Repair & Installation in Vail, AZ | Intelligent Design",
   description: "Expert heating and furnace services in Vail, AZ. We handle heat pumps, furnaces, and winter maintenance for Vail's cooler 3,800 ft elevation. Call (520) 333-2665.",
   slug: "heating-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "East Tucson"]
   }
 };
-
-export default data;

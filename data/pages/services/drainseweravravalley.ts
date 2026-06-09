@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Avra Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainseweravravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Drain & Sewer Services | Intelligent Design",
   description: "Avra Valley Drain & Sewer solutions — septic, caliche, root repair. Call our Tucson pros serving 85743 & 85653 for fast local help.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
   }
 };
-
-export default data;

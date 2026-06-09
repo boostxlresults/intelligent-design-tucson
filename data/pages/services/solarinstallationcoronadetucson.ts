@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Corona de Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: "Corona de Tucson Solar Installation | Intelligent Design",
   description: "Solar installation in Corona de Tucson (85641). Local crews, 46+ yrs experience, optimized for higher-elevation homes. Schedule a site review today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson proper", "Rancho del Lago", "Las Colinas", "Old Spanish Trail corridor"]
   }
 };
-
-export default data;

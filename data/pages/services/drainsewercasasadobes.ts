@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Casas Adobes
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewercasasadobesData: ServicePageData = {
   // SEO & Meta
   title: "Casas Adobes Drain & Sewer Services | Intelligent Design",
   description: "Local drain & sewer experts in Casas Adobes (85704, 85741, 85742). Fast diagnostics for mature-tree root damage. Schedule an inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Casas Adobes Estates", "Shannon Heights", "La Cholla Airpark area", "Ina/Oracle corridor"]
   }
 };
-
-export default data;

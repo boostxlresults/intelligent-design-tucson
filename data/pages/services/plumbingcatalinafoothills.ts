@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Plumbing Services - Intelligent Design",
   description: "Catalina Foothills plumbing experts (85718 & 85750). Luxury fixtures, pools, and whole-home filtration. Local pricing and rapid response — call today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

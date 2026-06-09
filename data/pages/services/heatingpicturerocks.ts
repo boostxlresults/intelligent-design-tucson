@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Heating Services | Reliable Local HVAC",
   description: "Heating services in Picture Rocks, AZ (85743). Local techs, 46+ years, fast diagnostics for rural homes. Call for estimates and repairs.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

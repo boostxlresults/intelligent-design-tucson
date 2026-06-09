@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewertanqueverdeData: ServicePageData = {
   title: "Drain & Sewer Services in Tanque Verde, AZ | Intelligent Design",
   description: "Expert drain and sewer services in Tanque Verde, AZ. From root intrusion clearing to trenchless sewer repair for large lots and horse properties. Call (520) 333-2665.",
   slug: "drain-sewer-tanque-verde",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Catalina Foothills", "Vail"]
   }
 };
-
-export default data;

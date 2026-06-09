@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationcasasadobesData: ServicePageData = {
   title: "Solar Panel Installation in Casas Adobes, AZ | Intelligent Design",
   description: "Expert solar installation in Casas Adobes. Upgrade your 1970s-1990s home with modern solar solutions. Save on TEP bills. Call (520) 333-2665 for a free quote!",
   slug: "solar-installation-casas-adobes",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Catalina Foothills", "Flowing Wells", "Marana"]
   }
 };
-
-export default data;

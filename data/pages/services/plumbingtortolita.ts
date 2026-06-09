@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Tortolita
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingtortolitaData: ServicePageData = {
   // SEO & Meta
   title: "Tortolita Plumbing Services | Intelligent Design",
   description: "Trusted Tortolita plumbing: repairs, pools, filtration in 85755 & 85742. 46+ yrs experience, 4.97★ from 3,600+ reviews. Schedule service today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Stone Canyon", "Dove Mountain estates", "Tortolita Highlands", "La Reserve"]
   }
 };
-
-export default data;

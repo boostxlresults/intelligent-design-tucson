@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricaltortolitaData: ServicePageData = {
   title: "Expert Electrical Services in Tortolita, AZ | Intelligent Design",
   description: "Top-rated electrical services in Tortolita. From smart home integration to EV chargers and landscape lighting for luxury desert homes. Call (520) 333-2665.",
   slug: "electrical-tortolita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Marana", "Catalina", "Casas Adobes"]
   }
 };
-
-export default data;

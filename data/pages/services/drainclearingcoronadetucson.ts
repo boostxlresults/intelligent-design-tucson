@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingcoronadetucsonData: ServicePageData = {
   title: "Drain Clearing in Corona de Tucson | Intelligent Design",
   description: "Expert drain clearing in Corona de Tucson, AZ. We handle caliche soil drainage issues and builder-grade plumbing challenges in the 85641 area. Call (520) 333-2665.",
   slug: "drain-clearing-corona-de-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Vail", "Sahuarita", "Rita Ranch"]
   }
 };
-
-export default data;

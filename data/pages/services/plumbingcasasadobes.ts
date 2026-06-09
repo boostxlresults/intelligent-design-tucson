@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingcasasadobesData: ServicePageData = {
   title: "Plumbing Services in Casas Adobes, AZ | Intelligent Design",
   description: "Expert plumbing services in Casas Adobes. From water heater replacement to repiping older homes in 85704, 85741 & 85742. Call (520) 333-2665 today!",
   slug: "plumbing-casas-adobes",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Catalina Foothills", "Marana"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationcortaroData: ServicePageData = {
   title: "Solar Panel Installation in Cortaro, AZ | Intelligent Design",
   description: "Expert solar installation in Cortaro, AZ. We design systems for Continental Ranch homes, navigating HOA approvals and maximizing your 85652 roof potential.",
   slug: "solar-installation-cortaro",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Casas Adobes", "Avra Valley"]
   }
 };
-
-export default data;

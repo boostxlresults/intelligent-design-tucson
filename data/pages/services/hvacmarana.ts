@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Marana
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacmaranaData: ServicePageData = {
   title: "HVAC & AC Repair Marana, AZ | Intelligent Design",
   description: "Expert Marana HVAC services including AC repair, replacement, and maintenance. Trusted by Gladden Farms & Dove Mountain for 46+ years. Call (520) 333-2665.",
   slug: "hvac-marana",
@@ -131,5 +131,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Continental Ranch", "Gladden Farms", "Saguaro Bloom", "The Residences at Dove Mountain"]
   }
 };
-
-export default data;

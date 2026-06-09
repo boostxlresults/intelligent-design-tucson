@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationsahuaritaData: ServicePageData = {
   title: "Solar Panel Installation in Sahuarita, AZ | Intelligent Design",
   description: "Expert solar installation in Sahuarita, AZ. We design and install high-efficiency solar panels and battery systems for Rancho Sahuarita and Quail Creek homes. Call (520) 333-2665.",
   slug: "solar-installation-sahuarita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Green Valley", "Corona de Tucson", "Vail"]
   }
 };
-
-export default data;

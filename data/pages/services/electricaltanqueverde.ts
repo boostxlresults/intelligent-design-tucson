@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricaltanqueverdeData: ServicePageData = {
   title: "Expert Electrical Services in Tanque Verde, AZ",
   description: "Top-rated electrical services in Tanque Verde, AZ. From EV chargers to horse property lighting, call Intelligent Design at (520) 333-2665 today!",
   slug: "electrical-tanque-verde",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Catalina Foothills", "Vail"]
   }
 };
-
-export default data;

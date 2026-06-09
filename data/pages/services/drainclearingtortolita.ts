@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingtortolitaData: ServicePageData = {
   title: "Drain Clearing Tortolita, AZ | Intelligent Design",
   description: "Expert drain clearing in Tortolita, AZ. We handle root intrusion, rocky soil drainage issues, and long runs on large properties. Call (520) 333-2665.",
   slug: "drain-clearing-tortolita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Oro Valley", "Catalina", "Casas Adobes"]
   }
 };
-
-export default data;

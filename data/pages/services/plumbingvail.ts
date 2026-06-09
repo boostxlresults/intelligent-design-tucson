@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingvailData: ServicePageData = {
   title: "Expert Plumbing Services in Vail, AZ | Intelligent Design",
   description: "Top-rated plumbing services in Vail, AZ. From water heaters to leak repair, our local experts handle Vail's unique hard water and elevation challenges. Call (520) 333-2665.",
   slug: "plumbing-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "Sahuarita"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationsaddlebrookeData: ServicePageData = {
   title: "Solar Panel Installation in SaddleBrooke, AZ | Intelligent Design",
   description: "Expert solar installation for SaddleBrooke's 55+ community. Lock in energy costs with premium solar solutions tailored for HOA rules and 85739 homes.",
   slug: "solar-installation-saddle-brooke",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Catalina", "Oracle", "Oro Valley"]
   }
 };
-
-export default data;

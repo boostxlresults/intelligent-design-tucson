@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationtortolitaData: ServicePageData = {
   title: "Premium Solar Installation in Tortolita, AZ | Intelligent Design",
   description: "Expert solar panel installation for luxury homes in Tortolita, AZ. Serving 85755 & 85742 with premium aesthetics and battery backup. Call (520) 333-2665.",
   slug: "solar-installation-tortolita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Marana", "Catalina Foothills"]
   }
 };
-
-export default data;

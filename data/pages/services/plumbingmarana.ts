@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingmaranaData: ServicePageData = {
   title: "Expert Plumbing Services in Marana, AZ | Intelligent Design",
   description: "Top-rated plumbing services in Marana, AZ. From water heaters to leak repair, our local experts serve Dove Mountain, Gladden Farms, and all 85653 & 85658 areas. Call (520) 333-2665.",
   slug: "plumbing-marana",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Gladden Farms", "Continental Ranch"]
   }
 };
-
-export default data;

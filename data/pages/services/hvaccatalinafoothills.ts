@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvaccatalinafoothillsData: ServicePageData = {
   title: "Catalina Foothills HVAC Services | Intelligent Design AC",
   description: "Trusted HVAC in Catalina Foothills (85718, 85750). AC repair, installation, heating, ductwork & IAQ by Intelligent Design — 46+ yrs. Call (520) 333-2665 now.",
   slug: "hvac-catalina-foothills",
@@ -165,5 +165,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

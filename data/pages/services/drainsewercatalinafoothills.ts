@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewercatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Drain & Sewer Services",
   description: "Drain & Sewer specialists in Catalina Foothills (85718, 85750). Hilly-home expertise, camera inspections, grease-trap service. Book an inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

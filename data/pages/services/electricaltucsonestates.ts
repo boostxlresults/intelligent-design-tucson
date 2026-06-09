@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricaltucsonestatesData: ServicePageData = {
   title: "Expert Electrical Services in Tucson Estates, AZ | Intelligent Design",
   description: "Top-rated electrical services in Tucson Estates. From 60-amp panel upgrades to rewiring older homes, call Intelligent Design at (520) 333-2665 today.",
   slug: "electrical-tucson-estates",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Kinney Road area", "Ajo Highway corridor", "Three Points"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Cortaro
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingcortaroData: ServicePageData = {
   // SEO & Meta
   title: "Cortaro Plumbing Services — Local Repairs & Upgrades",
   description: "Trusted Cortaro plumbing experts for slab leaks, hard-water solutions, and fixture replacement in 85652 & 85742. Call Intelligent Design today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Continental Ranch", "Continental Reserve", "Cortaro Farms area", "Silverbell corridor"]
   }
 };
-
-export default data;

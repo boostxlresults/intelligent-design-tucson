@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Solar Installation | Intelligent Design",
   description: "Solar installation in Picture Rocks 85743 — ground-mount and off-grid experts with 46+ years and 4.97★ local reviews. Schedule a site visit today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

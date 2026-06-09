@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const roofingtucsonestatesData: ServicePageData = {
   title: "Expert Roofing Services in Tucson Estates, AZ | Intelligent Design",
   description: "Top-rated roofing repair and replacement in Tucson Estates. Serving 85735, 85713 with expert solutions for aging roofs and flat roof failures. Call (520) 333-2665.",
   slug: "roofing-tucson-estates",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Kinney Road", "Ajo Highway Corridor", "Three Points"]
   }
 };
-
-export default data;

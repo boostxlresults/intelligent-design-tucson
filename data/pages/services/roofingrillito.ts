@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingrillitoData: ServicePageData = {
   title: "Rillito Roofing Services | Intelligent Design",
   description: "Trusted roofing in Rillito, AZ — repairs, replacements, tile, shingle, flat roofing and coatings. Call Intelligent Design for a free estimate today: (520) 333-2665.",
   slug: "roofing-rillito",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

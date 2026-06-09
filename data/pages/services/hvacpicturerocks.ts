@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacpicturerocksData: ServicePageData = {
   title: "HVAC Services in Picture Rocks, AZ | Intelligent Design",
   description: "Top-rated HVAC repair, AC installation & ductwork in Picture Rocks, AZ. 4.97★ rating & 46+ years serving 85743. Call Intelligent Design at (520) 333-2665.",
   slug: "hvac-picture-rocks",
@@ -131,5 +131,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

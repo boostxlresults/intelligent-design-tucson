@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewervailData: ServicePageData = {
   title: "Drain & Sewer Services in Vail, AZ | Intelligent Design",
   description: "Expert drain clearing and sewer line repair in Vail, AZ. Serving the 85641 area with trenchless solutions and camera inspections. Call (520) 333-2665.",
   slug: "drain-sewer-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "Tucson"]
   }
 };
-
-export default data;

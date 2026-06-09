@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingcoronadetucsonData: ServicePageData = {
   title: "Heating Repair & Installation in Corona de Tucson, AZ",
   description: "Expert heating services in Corona de Tucson. From heat pump repairs to new installations, our local technicians handle the unique climate of the 85641 area. Call (520) 333-2665.",
   slug: "heating-corona-de-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Vail", "Rita Ranch", "Sahuarita"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingtanqueverdeData: ServicePageData = {
   title: "Expert Plumbing Services in Tanque Verde, AZ | Intelligent Design",
   description: "Top-rated plumbing services in Tanque Verde, AZ. From luxury fixture installation to whole-home water treatment. Call Intelligent Design at (520) 333-2665.",
   slug: "plumbing-tanque-verde",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Catalina Foothills", "Vail"]
   }
 };
-
-export default data;

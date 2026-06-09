@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in SaddleBrooke
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingsaddlebrookeData: ServicePageData = {
   title: "SaddleBrooke Roofing Experts | Intelligent Design",
   description: "Premium roof repair, replacement, tile, shingle, flat and coatings in SaddleBrooke. Trusted 46+ years—call Intelligent Design at (520) 333-2665 for a free inspection.",
   slug: "roofing-saddle-brooke",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["SaddleBrooke proper", "SaddleBrooke Ranch", "MountainView sections", "Preserve sections"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Tucson Estates
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingtucsonestatesData: ServicePageData = {
   // SEO & Meta
   title: "Tucson Estates Plumbing Services | Tucson Estates Plumbing",
   description: "Trusted Tucson Estates plumbing experts for 85735 & 85713. Repairs, repipes, water heaters. Call for local pricing and fast service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Tucson Estates proper", "Kinney Road area", "Ajo Highway corridor", "Three Points border"]
   }
 };
-
-export default data;

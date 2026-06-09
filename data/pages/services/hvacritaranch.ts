@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Rita Ranch
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacritaranchData: ServicePageData = {
   title: "HVAC & AC Repair Rita Ranch, AZ | Intelligent Design",
   description: "Expert HVAC services in Rita Ranch, AZ. 46+ years of AC repair, replacement, and maintenance in 85747. Rated 4.97 stars! Call (520) 333-2665 today.",
   slug: "hvac-rita-ranch",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Rita Ranch proper", "Rancho del Lago", "Civano border", "Houghton corridor"]
   }
 };
-
-export default data;

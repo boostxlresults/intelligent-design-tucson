@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Electrical Services | Intelligent Design",
   description: "Trusted Catalina Foothills electrical experts for 85718 & 85750 — panels, EV chargers, landscape lighting. Call for a local estimate today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

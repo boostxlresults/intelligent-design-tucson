@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalvailData: ServicePageData = {
   title: "Electrical Services in Vail, AZ | Intelligent Design",
   description: "Expert electrical services in Vail, AZ. From panel upgrades to EV chargers and generators, our licensed electricians serve the 85641 area. Call (520) 333-2665.",
   slug: "electrical-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "Tucson"]
   }
 };
-
-export default data;

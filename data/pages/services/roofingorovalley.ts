@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingorovalleyData: ServicePageData = {
   title: "Oro Valley Roofing Experts | Intelligent Design",
   description: "Trusted Oro Valley roofing services for repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years of local experience. Call Intelligent Design today for a free inspection.",
   slug: "roofing-oro-valley",
@@ -140,5 +140,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

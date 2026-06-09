@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingcasasadobesData: ServicePageData = {
   title: "Drain Clearing in Casas Adobes, AZ | Intelligent Design",
   description: "Expert drain clearing in Casas Adobes. We tackle root intrusions from mature trees and aging clay pipes. Call Intelligent Design at (520) 333-2665.",
   slug: "drain-clearing-casas-adobes",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Catalina Foothills", "Oro Valley", "Flowing Wells", "Tucson"]
   }
 };
-
-export default data;

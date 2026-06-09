@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Casas Adobes
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingcasasadobesData: ServicePageData = {
   title: "Casas Adobes Roofing Experts | Intelligent Design",
   description: "Trusted Casas Adobes roofing: repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years, 4.97★, free estimates. Call (520) 333-2665 for fast service.",
   slug: "roofing-casas-adobes",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Casas Adobes Estates", "Shannon Heights", "La Cholla Airpark area", "Ina/Oracle corridor"]
   }
 };
-
-export default data;

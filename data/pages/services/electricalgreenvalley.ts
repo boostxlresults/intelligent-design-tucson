@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Green Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Electrical Services | Intelligent Design",
   description: "Trusted Green Valley electrical services for retirement homes, panel upgrades, EV cart chargers in 85614 & 85622. Call for local pricing & same-day estimates.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Desert Hills", "La Posada", "Canoa Ranch", "Continental Vistas", "Las Campanas"]
   }
 };
-
-export default data;

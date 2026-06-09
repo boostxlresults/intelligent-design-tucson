@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain Clearing in Catalina Foothills
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainclearingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Drain Clearing | Intelligent Design",
   description: "Expert drain clearing in Catalina Foothills (85718, 85750). Fast, hillside-safe solutions with 46+ years experience. Call for same-day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Skyline Heights", "Ventana Canyon", "Pima Canyon", "Campbell/Skyline corridor", "Hacienda del Sol area"]
   }
 };
-
-export default data;

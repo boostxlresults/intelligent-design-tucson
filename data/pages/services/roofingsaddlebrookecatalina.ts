@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in SaddleBrooke & Catalina
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingsaddlebrookecatalinaData: ServicePageData = {
   title: "SaddleBrooke & Catalina Roofing Services | Intelligent Design",
   description: "Trusted SaddleBrooke & Catalina roofing: repair, replacement, tile, shingle, flat, coatings. 46+ years, 4.97★. Call (520) 333-2665 for fast local service.",
   slug: "roofing-saddle-brooke-catalina",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Catalina proper", "SaddleBrooke border", "Oracle junction area", "Golder Ranch area"]
   }
 };
-
-export default data;

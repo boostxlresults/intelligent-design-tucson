@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalcortaroData: ServicePageData = {
   title: "Expert Electrical Services in Cortaro, AZ | Intelligent Design",
   description: "Top-rated electrical services in Cortaro, AZ. From panel upgrades in Continental Ranch to EV chargers in 85652. Call Intelligent Design at (520) 333-2665.",
   slug: "electrical-cortaro",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Tucson", "Oro Valley"]
   }
 };
-
-export default data;

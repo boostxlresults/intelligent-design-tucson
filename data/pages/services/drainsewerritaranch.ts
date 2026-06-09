@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewerritaranchData: ServicePageData = {
   title: "Drain & Sewer Services in Rita Ranch, AZ | Intelligent Design",
   description: "Expert drain and sewer services in Rita Ranch, AZ. We handle tree root intrusion, aging builder-grade pipes, and sewer line repairs. Call (520) 333-2665.",
   slug: "drain-sewer-rita-ranch",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Rancho del Lago", "Civano", "Vail"]
   }
 };
-
-export default data;

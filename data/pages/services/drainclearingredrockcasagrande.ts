@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain Clearing in Red Rock & Casa Grande
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainclearingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Red Rock & Casa Grande Drain Clearing | Fast, Local Service",
   description: "Drain clearing in Red Rock & Casa Grande (85145, 85122, 85193). Local techs, hard-water expertise — call for same‑day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Mission Royale", "Coyote Ranch", "Red Rock proper", "Casa Grande downtown", "Pinal County developments"]
   }
 };
-
-export default data;

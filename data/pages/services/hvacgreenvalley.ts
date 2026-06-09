@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Green Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley HVAC Repair & Replacement",
   description: "Local Green Valley HVAC service (85614, 85622). 46+ yrs experience, senior-focused pricing, heating & cooling expertise. Schedule an inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Desert Hills", "La Posada", "Canoa Ranch", "Continental Vistas", "Las Campanas"]
   }
 };
-
-export default data;

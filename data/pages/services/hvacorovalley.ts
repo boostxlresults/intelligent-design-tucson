@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley HVAC Services — Intelligent Design",
   description: "Oro Valley HVAC experts serving 85737 & 85755. 46+ yrs experience, 4.97★ from 3,600+ reviews. Schedule local diagnostics today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

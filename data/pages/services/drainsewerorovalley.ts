@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewerorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Drain & Sewer Services - Repair & Cleaning",
   description: "Trusted Oro Valley drain & sewer specialists. Fast inspections, root control, pool & outdoor-kitchen drain care. Call for a local quote today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

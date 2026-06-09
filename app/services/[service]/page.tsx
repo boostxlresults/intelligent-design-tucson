@@ -12,7 +12,7 @@ import serviceManifest from "@/data/pages/services/manifest.json";
 import noindexSlugs from "@/data/noindex-service-slugs.json";
 
 // Set of location-variant slugs that should not be indexed
-const NOINDEX_SLUGS = new Set(noindexSlugs.slugs);
+const NOINDEX_SLUGS = new Set<string>(noindexSlugs.slugs);
 
 // Build lookup map from manifest: canonical slug -> dataFile
 // Only map canonical slugs; aliases are handled by redirects in next.config.ts

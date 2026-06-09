@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Tortolita
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingtortolitaData: ServicePageData = {
   title: "Tortolita Roofing Experts | Intelligent Design",
   description: "Trusted Tortolita roof repair and replacement by Intelligent Design. 46+ years, 4.97★, serving 85755 & 85742 with tile, shingle, flat and coatings. Call now!",
   slug: "roofing-tortolita",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Stone Canyon", "Dove Mountain estates", "Tortolita Highlands", "La Reserve"]
   }
 };
-
-export default data;

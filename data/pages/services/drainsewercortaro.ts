@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Cortaro
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewercortaroData: ServicePageData = {
   // SEO & Meta
   title: "Cortaro Drain & Sewer Services | Intelligent Design",
   description: "Drain & sewer repairs in Cortaro (85652, 85742). Fast diagnostics for local soils and roots. Call for same-day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Continental Ranch", "Continental Reserve", "Cortaro Farms area", "Silverbell corridor"]
   }
 };
-
-export default data;

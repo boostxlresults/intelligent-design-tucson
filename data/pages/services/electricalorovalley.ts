@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalorovalleyData: ServicePageData = {
   title: "Expert Electrical Services in Oro Valley, AZ | Intelligent Design",
   description: "Top-rated electrical services in Oro Valley. From smart home upgrades to EV chargers and panel replacements. Call (520) 333-2665 for expert electricians.",
   slug: "electrical-oro-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Catalina", "Marana", "Casas Adobes"]
   }
 };
-
-export default data;

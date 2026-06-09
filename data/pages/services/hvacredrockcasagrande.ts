@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Red Rock & Casa Grande
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Red Rock & Casa Grande HVAC Experts | Intelligent Design",
   description: "Trusted HVAC service in Red Rock & Casa Grande (85145, 85122, 85193). 46+ yrs experience—call for efficient cooling built for extreme heat.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Mission Royale", "Coyote Ranch", "Red Rock proper", "Casa Grande downtown", "Pinal County developments"]
   }
 };
-
-export default data;

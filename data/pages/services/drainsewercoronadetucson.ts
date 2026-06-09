@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Corona de Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewercoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: "Drain & Sewer Corona de Tucson | Intelligent Design",
   description: "Drain & sewer service in Corona de Tucson (85641) — camera inspections, hydro-jetting, mainline repairs. 46+ yrs experience. Schedule an inspection today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson proper", "Rancho del Lago", "Las Colinas", "Old Spanish Trail corridor"]
   }
 };
-
-export default data;

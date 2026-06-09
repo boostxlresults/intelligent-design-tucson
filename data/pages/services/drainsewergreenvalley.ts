@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewergreenvalleyData: ServicePageData = {
   title: "Drain & Sewer Services in Green Valley, AZ | Intelligent Design",
   description: "Expert drain clearing and sewer line repair in Green Valley, AZ. Serving 85614 & 85622 with camera inspections and trenchless solutions. Call (520) 333-2665.",
   slug: "drain-sewer-green-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Sahuarita", "Amado", "Tubac"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewersahuaritaData: ServicePageData = {
   title: "Drain & Sewer Services in Sahuarita, AZ | Intelligent Design",
   description: "Expert drain clearing and sewer line repair in Sahuarita, AZ. We handle flat terrain drainage issues and construction debris in lines. Call (520) 333-2665.",
   slug: "drain-sewer-sahuarita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Green Valley", "Corona de Tucson", "Vail"]
   }
 };
-
-export default data;

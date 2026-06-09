@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Tucson Estates
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvactucsonestatesData: ServicePageData = {
   title: "Tucson Estates HVAC Services | Intelligent Design",
   description: "Trusted HVAC services in Tucson Estates: AC repair, replacement, heating, ductwork, and maintenance. Call Intelligent Design at (520) 333-2665 for fast local service.",
   slug: "hvac-tucson-estates",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Tucson Estates proper", "Kinney Road area", "Ajo Highway corridor", "Three Points border"]
   }
 };
-
-export default data;

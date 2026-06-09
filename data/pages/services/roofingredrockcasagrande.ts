@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Red Rock & Casa Grande
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingredrockcasagrandeData: ServicePageData = {
   title: "Red Rock & Casa Grande Roofing | Intelligent Design",
   description: "Trusted roofing services in Red Rock & Casa Grande. Repairs, replacements, tile, shingle, flat roofs & reflective coatings. Call Intelligent Design at (520) 333-2665.",
   slug: "roofing-red-rock-casa-grande",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Mission Royale", "Coyote Ranch", "Red Rock proper", "Casa Grande downtown", "Pinal County developments"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Drexel Heights
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: "Drexel Heights HVAC Services | AC Repair & Replacement",
   description: "Top-rated Drexel Heights HVAC: AC repair, evaporative-to-AC conversions, and efficient replacements in 85746 & 85735. Call for local pricing and same-day help.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Drexel Heights proper", "Cardinal Heights", "Valencia corridor", "Mission Manor area"]
   }
 };
-
-export default data;

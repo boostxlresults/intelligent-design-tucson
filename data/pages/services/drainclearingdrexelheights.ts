@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingdrexelheightsData: ServicePageData = {
   title: "Drain Clearing in Drexel Heights, AZ | Intelligent Design",
   description: "Expert drain clearing in Drexel Heights. We tackle aging clay pipes, root intrusion, and bellied lines in 85746 & 85735. Call (520) 333-2665 for fast service.",
   slug: "drain-clearing-drexel-heights",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Mission Manor", "Cardinal Heights", "Midvale Park"]
   }
 };
-
-export default data;

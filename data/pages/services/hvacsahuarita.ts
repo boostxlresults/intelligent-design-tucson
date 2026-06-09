@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Sahuarita
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacsahuaritaData: ServicePageData = {
   // SEO & Meta
   title: "Sahuarita HVAC Services - Intelligent Design",
   description: "Trusted Sahuarita HVAC experts with 46+ years and a 4.97★ rating. Repairs, replacements, and tune-ups in 85629. Call for local service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Sahuarita", "Madera Highlands", "Quail Creek (55+)", "Santa Cruz Valley"]
   }
 };
-
-export default data;

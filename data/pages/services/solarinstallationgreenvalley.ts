@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Green Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Solar Installation | Intelligent Design",
   description: "Solar installation in Green Valley (85614, 85622). Trusted 46+ years — lower bills for retirement communities. Schedule a free site review today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Desert Hills", "La Posada", "Canoa Ranch", "Continental Vistas", "Las Campanas"]
   }
 };
-
-export default data;

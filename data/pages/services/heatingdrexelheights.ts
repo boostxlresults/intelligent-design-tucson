@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingdrexelheightsData: ServicePageData = {
   title: "Heating Repair & Installation in Drexel Heights, AZ | Intelligent Design",
   description: "Expert heating services in Drexel Heights, AZ. From heat pumps to furnace repair for 1970s-1990s homes. 46+ years experience. Call (520) 333-2665 today!",
   slug: "heating-drexel-heights",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Midvale Park", "Valencia West"]
   }
 };
-
-export default data;

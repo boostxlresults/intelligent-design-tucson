@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Plumbing Services | Expert Local Plumbers",
   description: "Trusted Oro Valley plumbing: repairs, filtration, pool plumbing in 85737 & 85755. 46+ yrs experience—call for fast, local service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

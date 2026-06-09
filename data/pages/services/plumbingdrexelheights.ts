@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingdrexelheightsData: ServicePageData = {
   title: "Plumbing Services in Drexel Heights, AZ | Intelligent Design",
   description: "Expert plumbing services in Drexel Heights, AZ. From water heater replacements to fixing galvanized pipes in older homes. Call (520) 333-2665 for fast service.",
   slug: "plumbing-drexel-heights",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Midvale Park", "Valencia West"]
   }
 };
-
-export default data;

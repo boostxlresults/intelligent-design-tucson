@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalredrockcasagrandeData: ServicePageData = {
   title: "Expert Electrical Services in Red Rock & Casa Grande, AZ",
   description: "Top-rated electrical services in Red Rock & Casa Grande. From panel upgrades to EV chargers, our licensed electricians handle it all. Call (520) 333-2665.",
   slug: "electrical-red-rock-casa-grande",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Eloy", "Arizona City", "Coolidge"]
   }
 };
-
-export default data;

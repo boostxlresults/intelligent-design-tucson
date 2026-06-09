@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricaldrexelheightsData: ServicePageData = {
   title: "Expert Electrical Services in Drexel Heights, AZ | Intelligent Design",
   description: "Top-rated electrical services in Drexel Heights (85746, 85735). From 60-amp panel upgrades to modern wiring for 1970s homes. Call (520) 333-2665 today!",
   slug: "electrical-drexel-heights",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Midvale Park", "Valencia West"]
   }
 };
-
-export default data;

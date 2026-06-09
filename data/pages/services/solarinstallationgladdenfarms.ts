@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Gladden Farms
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: "Gladden Farms Solar Installation | Intelligent Design",
   description: "Solar Installation in Gladden Farms (85653). 46+ years experience, 4.97★ from 3,600+ reviews. Schedule a local site visit for pricing and HOA guidance.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
   }
 };
-
-export default data;

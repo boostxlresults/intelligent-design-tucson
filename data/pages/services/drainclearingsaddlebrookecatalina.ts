@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingsaddlebrookecatalinaData: ServicePageData = {
   title: "Drain Clearing in SaddleBrooke & Catalina, AZ | Intelligent Design",
   description: "Expert drain clearing in SaddleBrooke & Catalina. We tackle root intrusion from pine trees and rocky soil drainage issues. Call (520) 333-2665 today!",
   slug: "drain-clearing-saddle-brooke-catalina",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Marana", "Tucson"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingsahuaritaData: ServicePageData = {
   title: "Heating Services in Sahuarita, AZ | Intelligent Design",
   description: "Expert heating services in Sahuarita, AZ. From furnace repair to heat pump installation, our local team handles the unique needs of Sahuarita homes. Call (520) 333-2665.",
   slug: "heating-sahuarita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Green Valley", "Corona de Tucson", "Vail"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Red Rock & Casa Grande
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Plumbing in Red Rock & Casa Grande, AZ",
   description: "Plumbing services for Red Rock & Casa Grande (85145, 85122, 85193). 46+ years experience tackling extreme heat and hard water. Call for fast local service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Mission Royale", "Coyote Ranch", "Red Rock proper", "Casa Grande downtown", "Pinal County developments"]
   }
 };
-
-export default data;

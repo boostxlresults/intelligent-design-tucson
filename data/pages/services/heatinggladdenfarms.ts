@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Gladden Farms
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatinggladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: "Gladden Farms Heating Services | Intelligent Design",
   description: "Heating services in Gladden Farms (85653). Expert HVAC for newer homes, two-story balancing, and HOA-ready installs. Call for local service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
   }
 };
-
-export default data;

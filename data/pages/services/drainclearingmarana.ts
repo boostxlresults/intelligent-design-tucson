@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingmaranaData: ServicePageData = {
   title: "Drain Clearing in Marana, AZ | Intelligent Design",
   description: "Professional drain clearing in Marana, AZ. We handle construction debris, flat terrain drainage, and monsoon runoff issues. Call (520) 333-2665 today!",
   slug: "drain-clearing-marana",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Avra Valley", "Cortaro", "Casas Adobes"]
   }
 };
-
-export default data;

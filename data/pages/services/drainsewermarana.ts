@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Marana
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewermaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Drain & Sewer Services | Marana Drain & Sewer",
   description: "Expert Drain & Sewer service in Marana (85653, 85658, 85743). Fast local response — call for inspection and pricing details today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Continental Ranch", "Gladden Farms", "Saguaro Bloom", "The Residences at Dove Mountain"]
   }
 };
-
-export default data;

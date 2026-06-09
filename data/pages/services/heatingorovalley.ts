@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Heating Services | Intelligent Design",
   description: "Expert Oro Valley heating services—repairs, multi-zone systems, pool heat pumps. Call for local rates in 85737 & 85755.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

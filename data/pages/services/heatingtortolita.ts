@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingtortolitaData: ServicePageData = {
   title: "Premium Heating Services in Tortolita, AZ | Intelligent Design",
   description: "Expert heating repair, installation, and maintenance for luxury homes in Tortolita, AZ. Serving 85755 & 85742 with premium HVAC solutions. Call (520) 333-2665.",
   slug: "heating-tortolita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Oro Valley", "Marana", "Casas Adobes"]
   }
 };
-
-export default data;

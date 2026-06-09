@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatinggreenvalleyData: ServicePageData = {
   title: "Heating Repair & Installation in Green Valley, AZ | Intelligent Design",
   description: "Expert heating services in Green Valley, AZ. From heat pump conversions to furnace maintenance for 85614 & 85622 homes. Call (520) 333-2665 for service.",
   slug: "heating-green-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Sahuarita", "Tubac", "Amado"]
   }
 };
-
-export default data;

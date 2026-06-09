@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationvailData: ServicePageData = {
   title: "Solar Panel Installation in Vail, AZ | Intelligent Design",
   description: "Top-rated solar installation in Vail, AZ. Maximize your energy savings with high-efficiency solar panels designed for Vail's 3,200+ ft elevation. Call (520) 333-2665.",
   slug: "solar-installation-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "Tucson"]
   }
 };
-
-export default data;

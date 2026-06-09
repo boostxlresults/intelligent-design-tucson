@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalavravalleyData: ServicePageData = {
   title: "Expert Electrical Services in Avra Valley, AZ | Intelligent Design",
   description: "Top-rated electrical services in Avra Valley. From panel upgrades to solar optimization for large properties. Call Intelligent Design at (520) 333-2665.",
   slug: "electrical-avra-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks", "Marana", "Tucson"]
   }
 };
-
-export default data;

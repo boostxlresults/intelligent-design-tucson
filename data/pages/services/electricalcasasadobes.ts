@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Casas Adobes
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: "Casas Adobes Electrical Services | Intelligent Design",
   description: "Local Casas Adobes electrical repairs, panel upgrades, and GFCI work. Trusted Tucson pros — call for fast, local service in 85704/85741/85742.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Casas Adobes Estates", "Shannon Heights", "La Cholla Airpark area", "Ina/Oracle corridor"]
   }
 };
-
-export default data;

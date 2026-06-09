@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingtucsonestatesData: ServicePageData = {
   title: "Drain Clearing in Tucson Estates, AZ | Intelligent Design",
   description: "Expert drain clearing and root removal in Tucson Estates. We tackle aging clay pipes and root intrusion in 85735 & 85713. Call (520) 333-2665 for fast service.",
   slug: "drain-clearing-tucson-estates",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Kinney Road area", "Ajo Highway corridor", "Three Points border"]
   }
 };
-
-export default data;

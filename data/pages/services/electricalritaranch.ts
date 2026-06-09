@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Rita Ranch
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalritaranchData: ServicePageData = {
   // SEO & Meta
   title: "Rita Ranch Electrical Services | Intelligent Design",
   description: "Rita Ranch electrical services (85747): panel upgrades, EV charger installs, monsoon checks. 46+ years, 4.97★. Schedule a local estimate today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rita Ranch proper", "Rancho del Lago", "Civano border", "Houghton corridor"]
   }
 };
-
-export default data;

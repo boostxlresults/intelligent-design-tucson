@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Cortaro
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingcortaroData: ServicePageData = {
   title: "Cortaro Roofing Services | Intelligent Design AZ",
   description: "Trusted Cortaro roofing: repairs, replacements, tile, shingle, flat, coatings. 46+ years, 4.97★, 3600+ reviews. Serving 85652 & 85742. Call (520) 333-2665 for a free estimate.",
   slug: "roofing-cortaro",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Continental Ranch", "Continental Reserve", "Cortaro Farms area", "Silverbell corridor"]
   }
 };
-
-export default data;

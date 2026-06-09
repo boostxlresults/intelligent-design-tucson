@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingavravalleyData: ServicePageData = {
   title: "Heating Repair & Installation in Avra Valley, AZ | Intelligent Design",
   description: "Expert heating services in Avra Valley. From heat pumps to furnaces, we handle the unique climate challenges of the 85743 and 85653 zip codes. Call (520) 333-2665.",
   slug: "heating-avra-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks", "Marana", "Tucson"]
   }
 };
-
-export default data;

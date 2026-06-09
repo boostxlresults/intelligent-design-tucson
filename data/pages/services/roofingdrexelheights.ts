@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Drexel Heights
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingdrexelheightsData: ServicePageData = {
   title: "Drexel Heights Roofing Services | Intelligent Design",
   description: "Trusted Drexel Heights roofing: repairs, replacements, tile, shingle, flat roofs and coatings by Intelligent Design. 46+ years, 4.97★. Call (520) 333-2665 for a free estimate.",
   slug: "roofing-drexel-heights",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Drexel Heights proper", "Cardinal Heights", "Valencia corridor", "Mission Manor area"]
   }
 };
-
-export default data;

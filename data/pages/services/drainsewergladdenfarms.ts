@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainsewergladdenfarmsData: ServicePageData = {
   title: "Drain & Sewer Services in Gladden Farms, AZ | Intelligent Design",
   description: "Expert drain and sewer services in Gladden Farms, AZ. From camera inspections to trenchless repairs, we handle slow drainage and construction debris issues.",
   slug: "drain-sewer-gladden-farms",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Cortaro", "Dove Mountain"]
   }
 };
-
-export default data;

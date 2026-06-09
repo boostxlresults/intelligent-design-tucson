@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Vail
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacvailData: ServicePageData = {
   // SEO & Meta
   title: "Vail HVAC Services | Heating & Cooling in Vail, AZ",
   description: "Trusted Vail HVAC experts (85641). 46+ yrs experience, 4.97★ — reliable heat pump & furnace help. Schedule service today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Vail proper", "Del Lago", "Empirita Ranch", "Rincon Valley area", "Old Vail"]
   }
 };
-
-export default data;

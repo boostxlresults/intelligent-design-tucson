@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain Clearing in Rita Ranch
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainclearingritaranchData: ServicePageData = {
   // SEO & Meta
   title: "Rita Ranch Drain Clearing | 85747 Drain Service",
   description: "Trusted drain clearing in Rita Ranch (85747). Fast, local crews handle roots, monsoon runoff, and builder-pipe repairs. Call for an estimate.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rita Ranch proper", "Rancho del Lago", "Civano border", "Houghton corridor"]
   }
 };
-
-export default data;

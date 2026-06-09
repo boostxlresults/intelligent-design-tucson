@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain & Sewer in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainsewerrillitoData: ServicePageData = {
   // SEO & Meta
   title: "Rillito Drain & Sewer Services | Drain & Sewer",
   description: "Drain & Sewer service in Rillito (85654). Septic, clay-pipe repair, camera inspections. Call for local pricing and same-day estimates.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

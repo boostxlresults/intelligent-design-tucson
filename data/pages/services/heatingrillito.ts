@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingrillitoData: ServicePageData = {
   // SEO & Meta
   title: "Rillito Heating Services - Intelligent Design AZ",
   description: "Heating repair, replacement & maintenance in Rillito (85654). Local techs fix dust-clogged systems and evaporative coolers. Schedule an estimate today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

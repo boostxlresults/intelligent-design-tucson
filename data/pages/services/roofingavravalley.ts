@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Avra Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingavravalleyData: ServicePageData = {
   title: "Avra Valley Roofing Services | Intelligent Design",
   description: "Trusted Avra Valley roofing: repair, replacement, tile, shingle, flat & coatings. Intelligent Design — 46+ yrs, 4.97★. Call (520) 333-2665 for a free inspection.",
   slug: "roofing-avra-valley",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
   }
 };
-
-export default data;

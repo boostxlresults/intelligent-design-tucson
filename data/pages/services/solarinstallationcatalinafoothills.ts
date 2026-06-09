@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const solarinstallationcatalinafoothillsData: ServicePageData = {
   title: "Solar Installation in Catalina Foothills, AZ | Intelligent Design",
   description: "Expert solar panel installation in Catalina Foothills. We navigate HOA requirements and hillside orientations for premium, aesthetic solar solutions. Call (520) 333-2665.",
   slug: "solar-installation-catalina-foothills",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Oro Valley", "Casas Adobes"]
   }
 };
-
-export default data;

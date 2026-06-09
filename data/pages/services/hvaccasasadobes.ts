@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Casas Adobes
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvaccasasadobesData: ServicePageData = {
   title: "Casas Adobes HVAC Services | AC Repair & Replacement",
   description: "Trusted HVAC in Casas Adobes (85704, 85741, 85742). AC repair, replacement, ductwork, and IAQ from Intelligent Design. Call (520) 333-2665 for fast service.",
   slug: "hvac-casas-adobes",
@@ -165,5 +165,3 @@ const data: ServicePageData = {
     nearby: ["Casas Adobes Estates", "Shannon Heights", "La Cholla Airpark area", "Ina/Oracle corridor"]
   }
 };
-
-export default data;

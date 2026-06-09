@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const roofingvailData: ServicePageData = {
   title: "Expert Roofing Services in Vail, AZ | Intelligent Design",
   description: "Top-rated roofing repair, replacement, and maintenance in Vail, AZ. We handle tile, shingle, and flat roofs. Call (520) 333-2665 for a free estimate.",
   slug: "roofing-vail",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson", "Rita Ranch", "East Tucson"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Avra Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacavravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley HVAC Services | Intelligent Design AC",
   description: "Trusted Avra Valley HVAC: repairs, maintenance, and replacements in 85743 & 85653. Call for local pricing and same-week appointments.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
   }
 };
-
-export default data;

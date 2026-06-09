@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Electrical in Gladden Farms
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const electricalgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: "Gladden Farms Electrical Services | Intelligent Design",
   description: "Trusted electrical services in Gladden Farms (85653). Panel upgrades, EV circuits, HOA-friendly solar tie-ins. Call for local pricing and fast service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
   }
 };
-
-export default data;

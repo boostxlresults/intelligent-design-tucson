@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearinggladdenfarmsData: ServicePageData = {
   title: "Drain Clearing in Gladden Farms, AZ | Intelligent Design",
   description: "Expert drain clearing and hydro jetting in Gladden Farms, AZ. We handle slow drains and construction debris in 85653. Call (520) 333-2665 for fast service.",
   slug: "drain-clearing-gladden-farms",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Cortaro", "Avra Valley"]
   }
 };
-
-export default data;

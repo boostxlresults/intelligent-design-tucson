@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Gladden Farms
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacgladdenfarmsData: ServicePageData = {
   // SEO & Meta
   title: "Gladden Farms HVAC Services | Intelligent Design",
   description: "Local HVAC service in Gladden Farms (85653). Repairs, tune-ups, and right-sized replacements for 2015–2024 homes. Call for neighborhood pricing.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Gladden Farms Phase I", "Gladden Farms Phase II", "The Preserve at Gladden Farms"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Marana
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingmaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Roofing Services | Roof Repair & Replacement",
   description: "Expert Marana roofing: tile, shingle & flat solutions for 85653, 85658, 85743. Call for inspection and local pricing guidance.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Dove Mountain", "Continental Ranch", "Gladden Farms", "Saguaro Bloom", "The Residences at Dove Mountain"]
   }
 };
-
-export default data;

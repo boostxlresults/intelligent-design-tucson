@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Solar Installation in Avra Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const solarinstallationavravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Solar Installation | Intelligent Design",
   description: "Avra Valley Solar Installation by Intelligent Design — tailored systems for 85743 & 85653. Learn local pricing and resilience options. Call today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks border", "Mile Wide area", "Sandario corridor", "Three Points junction"]
   }
 };
-
-export default data;

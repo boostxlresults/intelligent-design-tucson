@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingritaranchData: ServicePageData = {
   title: "Heating Repair & Installation in Rita Ranch, AZ | Intelligent Design",
   description: "Expert heating services in Rita Ranch, AZ. From heat pumps to furnaces, we handle two-story heat stratification and aging systems in 85747. Call (520) 333-2665.",
   slug: "heating-rita-ranch",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Rancho del Lago", "Civano", "Vail"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbinggladdenfarmsData: ServicePageData = {
   title: "Plumbing Services in Gladden Farms, AZ | Intelligent Design",
   description: "Expert plumbing services in Gladden Farms, AZ. We handle hard water issues, PEX plumbing, and water softener installations. Call (520) 333-2665 today!",
   slug: "plumbing-gladden-farms",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Cortaro", "Picture Rocks"]
   }
 };
-
-export default data;

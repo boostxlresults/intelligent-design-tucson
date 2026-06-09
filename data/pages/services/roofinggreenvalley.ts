@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Green Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofinggreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Roofing Services | Intelligent Design Roofing",
   description: "Roofing in Green Valley, AZ — tile & shingle experts for 85614 & 85622. Fast, HOA-ready repairs and fair pricing. Call today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Desert Hills", "La Posada", "Canoa Ranch", "Continental Vistas", "Las Campanas"]
   }
 };
-
-export default data;

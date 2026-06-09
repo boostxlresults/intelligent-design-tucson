@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Casas Adobes
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: "Casas Adobes Heating Services | Reliable Local Experts",
   description: "Casas Adobes heating service experts for 85704/85741/85742. Repair, heat-pump replacement, and tune-ups. Call for a local estimate.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Casas Adobes Estates", "Shannon Heights", "La Cholla Airpark area", "Ina/Oracle corridor"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Sahuarita
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingsahuaritaData: ServicePageData = {
   title: "Sahuarita Roofing Experts | Intelligent Design",
   description: "Trusted Sahuarita roofing services — repairs, replacements, tile, shingle, flat, coating. 46+ years, 4.97★, 3600+ reviews. Call Intelligent Design at (520) 333-2665 for a free inspection.",
   slug: "roofing-sahuarita",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Sahuarita", "Madera Highlands", "Quail Creek (55+)", "Santa Cruz Valley"]
   }
 };
-
-export default data;

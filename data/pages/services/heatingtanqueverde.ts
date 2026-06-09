@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingtanqueverdeData: ServicePageData = {
   title: "Heating Services in Tanque Verde, AZ | Intelligent Design",
   description: "Expert heating services in Tanque Verde, AZ. From heat pumps to multi-zone systems for large homes, trust our 46+ years of experience. Call (520) 333-2665.",
   slug: "heating-tanque-verde",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Tucson", "Catalina Foothills", "Vail"]
   }
 };
-
-export default data;

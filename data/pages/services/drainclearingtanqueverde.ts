@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingtanqueverdeData: ServicePageData = {
   title: "Drain Clearing in Tanque Verde, AZ | Intelligent Design",
   description: "Expert drain clearing in Tanque Verde, AZ. We handle root intrusion from mature mesquite trees and long sewer runs on large horse properties. Call (520) 333-2665.",
   slug: "drain-clearing-tanque-verde",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Catalina Foothills", "East Tucson", "Vail"]
   }
 };
-
-export default data;

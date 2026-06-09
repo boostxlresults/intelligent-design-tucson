@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingrillitoData: ServicePageData = {
   // SEO & Meta
   title: "Rillito Plumbing Services | Local Plumbers 85654",
   description: "Trusted Rillito plumbing experts for well water treatment, galvanized pipe replacement, and repairs in 85654. Schedule service today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

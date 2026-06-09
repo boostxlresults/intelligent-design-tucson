@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingtucsonestatesData: ServicePageData = {
   title: "Heating Repair & Installation in Tucson Estates, AZ | Intelligent Design",
   description: "Expert heating and furnace services in Tucson Estates, AZ. We specialize in older block homes, evaporative to AC conversions, and heat pump installations. Call (520) 333-2665.",
   slug: "heating-tucson-estates",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Three Points", "Avra Valley", "Drexel Heights"]
   }
 };
-
-export default data;

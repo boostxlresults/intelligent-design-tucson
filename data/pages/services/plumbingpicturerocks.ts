@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Plumbing in Picture Rocks
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const plumbingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Plumbing Services | Intelligent Design",
   description: "Trusted Picture Rocks plumbing experts for wells, septic, and very hard water in 85743. 46+ yrs experience — call for same-day service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Picture Rocks proper", "Avra Valley border", "Sandario Road corridor", "Mile Wide Road area"]
   }
 };
-
-export default data;

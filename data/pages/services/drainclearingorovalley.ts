@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Drain Clearing in Oro Valley
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const drainclearingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Drain Clearing | Drain Cleaning 85737 & 85755",
   description: "Local drain clearing in Oro Valley (85737, 85755). Root, grease, and pool drain specialists for Rancho Vistoso and Pusch Ridge. Schedule today.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Rancho Vistoso", "Sun City Oro Valley", "La Reserve", "Pusch Ridge Vistas", "Vistoso Trails"]
   }
 };
-
-export default data;

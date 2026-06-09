@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const plumbingsahuaritaData: ServicePageData = {
   title: "Plumbing Services in Sahuarita, AZ | Intelligent Design",
   description: "Expert plumbing services in Sahuarita, AZ. From water heater repair to water softeners, our local plumbers serve Rancho Sahuarita & 85629. Call (520) 333-2665!",
   slug: "plumbing-sahuarita",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Green Valley", "Corona de Tucson", "Vail"]
   }
 };
-
-export default data;

@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const drainclearingavravalleyData: ServicePageData = {
   title: "Drain Clearing in Avra Valley, AZ | Intelligent Design",
   description: "Expert drain clearing in Avra Valley, AZ. We tackle septic systems, mesquite root intrusion, and caliche soil drainage issues. Call (520) 333-2665 today!",
   slug: "drain-clearing-avra-valley",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Marana", "Picture Rocks", "Tucson"]
   }
 };
-
-export default data;

@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for HVAC in Rillito
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const hvacrillitoData: ServicePageData = {
   title: "HVAC Services Rillito, AZ | Expert AC Repair & Installation",
   description: "Expert HVAC services in Rillito, AZ. Intelligent Design provides AC repair, ductwork, and maintenance for rural and manufactured homes. Call (520) 333-2665.",
   slug: "hvac-rillito",
@@ -139,5 +139,3 @@ const data: ServicePageData = {
     nearby: ["Rillito proper", "Marana border area", "Santa Cruz River corridor"]
   }
 };
-
-export default data;

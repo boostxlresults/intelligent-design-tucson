@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Heating in Red Rock & Casa Grande
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const heatingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Heating Services — Red Rock & Casa Grande, AZ",
   description: "Heating services for Red Rock & Casa Grande (85145, 85122, 85193). Two-stage efficiency, local code expertise—call for fast, climate-smart service.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Mission Royale", "Coyote Ranch", "Red Rock proper", "Casa Grande downtown", "Pinal County developments"]
   }
 };
-
-export default data;

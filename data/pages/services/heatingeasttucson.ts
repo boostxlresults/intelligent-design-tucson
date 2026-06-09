@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const heatingeasttucsonData: ServicePageData = {
   title: "Heating Services in East Tucson, AZ | Intelligent Design",
   description: "Expert heating repair, installation, and maintenance in East Tucson. Serving 85710, 85730 & 85748 with 24/7 emergency service. Call (520) 333-2665 today!",
   slug: "heating-east-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Civano", "Rita Ranch", "Tanque Verde"]
   }
 };
-
-export default data;

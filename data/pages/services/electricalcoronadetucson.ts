@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalcoronadetucsonData: ServicePageData = {
   title: "Expert Electrical Services in Corona de Tucson, AZ | Intelligent Design",
   description: "Top-rated electrical services in Corona de Tucson, AZ. From panel upgrades to EV chargers, our expert electricians serve the 85641 area. Call (520) 333-2665.",
   slug: "electrical-corona-de-tucson",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Vail", "Sahuarita", "Tucson"]
   }
 };
-
-export default data;

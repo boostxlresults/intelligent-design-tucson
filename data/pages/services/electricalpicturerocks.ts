@@ -1,6 +1,6 @@
 import type { ServicePageData } from "@/types/services";
 
-const data: ServicePageData = {
+export const electricalpicturerocksData: ServicePageData = {
   title: "Electrical Services in Picture Rocks, AZ | Intelligent Design",
   description: "Expert electrical services in Picture Rocks, AZ. From panel upgrades to well pump wiring and generator installations. Call Intelligent Design at (520) 333-2665.",
   slug: "electrical-picture-rocks",
@@ -54,5 +54,3 @@ const data: ServicePageData = {
     nearby: ["Avra Valley", "Marana", "Tucson"]
   }
 };
-
-export default data;

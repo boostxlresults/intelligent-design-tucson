@@ -3,7 +3,7 @@ import type { ServicePageData } from "@/types/services";
 // Unique location-specific content for Roofing in Corona de Tucson
 // Generated with location-specific data - NOT a template swap
 
-const data: ServicePageData = {
+export const roofingcoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: "Corona de Tucson Roofing - Local Roof Repair & Replacement",
   description: "Roofing services in Corona de Tucson (85641). Tile & shingle repair, hail & wind inspection, free estimates from local experts. Call for a roof review.",
@@ -178,5 +178,3 @@ const data: ServicePageData = {
     nearby: ["Corona de Tucson proper", "Rancho del Lago", "Las Colinas", "Old Spanish Trail corridor"]
   }
 };
-
-export default data;
