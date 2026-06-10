@@ -164,7 +164,7 @@ function getHomepageSchemas(canonicalUrl: string, pageData: any = {}) {
     }
   });
   // Nest reviews inside the Organization schema instead of standalone
-  if (schemas.length > 0 && schemas[0]['@type'] === 'Organization') {
+  if (schemas.length > 0 && reviewSchemas.length > 0 && schemas[0]['@type'] === 'Organization') {
     schemas[0].review = reviewSchemas.map(r => ({
       "@type": "Review",
       "author": r.author,
@@ -425,7 +425,7 @@ function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
     maxReviews: 2
   });
   // Nest reviews inside the LocalBusiness schema instead of standalone
-  if (schemas.length > 0 && schemas[0]['@type'] === 'LocalBusiness') {
+  if (schemas.length > 0 && reviewSchemas.length > 0 && schemas[0]['@type'] === 'LocalBusiness') {
     (schemas[0] as any).review = reviewSchemas.map(r => ({
       "@type": "Review",
       "author": r.author,

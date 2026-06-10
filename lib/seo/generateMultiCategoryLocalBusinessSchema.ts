@@ -19,6 +19,21 @@ export interface MultiCategoryLocalBusinessOptions {
   location?: string; // Specific location for geo-targeted schema
 }
 
+/**
+ * Maps each GBP category key to VALID schema.org business types only.
+ * NOTE: Free-text Google Business Profile labels (e.g. "HVAC contractor",
+ * "Roofing contractor", "Solar energy contractor") are NOT valid schema.org
+ * @type values and trigger a validation error if placed in @type. The GBP
+ * label is still preserved in the schema "name" / "alternateName" fields.
+ */
+const SCHEMA_TYPE_MAP: Record<string, string[]> = {
+  hvac: ["LocalBusiness", "HVACBusiness"],
+  plumbing: ["LocalBusiness", "Plumber"],
+  electrical: ["LocalBusiness", "Electrician"],
+  roofing: ["LocalBusiness", "RoofingContractor"],
+  solar: ["LocalBusiness"],
+};
+
 export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategoryLocalBusinessOptions) {
   const { 
     categories,
@@ -35,10 +50,8 @@ export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategory
     const category = gbpCategories[categoryKey as keyof typeof gbpCategories];
     if (!category) return null;
 
-    // Use HVACBusiness type for HVAC category for stronger Google Maps signals
-    const schemaTypes = categoryKey === 'hvac' 
-      ? ["LocalBusiness", "HVACBusiness", category.gbpCategory]
-      : ["LocalBusiness", category.gbpCategory];
+    // Use only valid schema.org types (see SCHEMA_TYPE_MAP above).
+    const schemaTypes = SCHEMA_TYPE_MAP[categoryKey] ?? ["LocalBusiness"];
 
     const schema: any = {
       "@context": "https://schema.org",
@@ -79,9 +92,8 @@ export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategory
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "name": `${category.name} Services`,
-        "itemListElement": category.services.map((service: string, index: number) => ({
+        "itemListElement": category.services.map((service: string) => ({
           "@type": "Offer",
-          "position": index + 1,
           "itemOffered": {
             "@type": "Service",
             "name": service,
