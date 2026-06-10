@@ -12,7 +12,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
   // Hero Section
   h1: 'ThermalCork Roof Coating Tucson AZ',
   h2Subheading: 'Tucson\'s Exclusive ThermalCork Certified Applicator',
-  tagline: 'Natural Cork Thermal Break | Up to 50% Energy Savings | 15-Year Warranty | Never Re-Coat Again | Eco-Friendly & Sustainable',
+  tagline: 'Free Estimates | Natural Cork Thermal Break | Up to 50% Energy Savings | 15-Year Warranty | Never Re-Coat Again | Free Roof Assessments',
   heroImage: '/generated_images/commercial_roof_coating_application_54879965.webp',
   heroImageAlt: 'ThermalCork Roof Coating Application in Tucson',
   
@@ -39,6 +39,10 @@ export const thermalcorkroofcoatingData: ServicePageData = {
     "description": "Harvested from cork oak bark | Non-toxic | Sustainable | Reduces carbon footprint | Safe for families"
   },
   {
+    "title": "Free Estimates & Roof Assessments",
+    "description": "No-obligation free estimates | Free thermal roof assessment | Free energy savings calculation | Zero pressure | Call (520) 333-2665"
+  },
+  {
     "title": "Acoustic & Thermal Insulation",
     "description": "Sound dampening properties | Reduces noise pollution | Creates thermal barrier | Year-round comfort"
   },
@@ -59,7 +63,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is proud to be Tucson's exclusive certified applicator of ThermalCork roof coating — a revolutionary natural cork spray coating that creates a permanent thermal break on your roof. Unlike traditional roof coatings that degrade in 2-7 years and require constant re-application, ThermalCork is designed to last a lifetime. Made from 100% natural cork oak harvested sustainably from trees that live up to 200 years, this breakthrough coating absorbs infrared rays and radiant heat before they penetrate your roof, reducing surface temperatures by 50-80°F and cutting cooling costs by up to 50%. For Tucson homeowners battling 115°F summers, that translates to hundreds of dollars in annual [link:/services/hvac-tucson|HVAC savings] and a dramatically more comfortable home."
+            "content": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is proud to be Tucson's exclusive certified applicator of ThermalCork roof coating — a revolutionary natural cork spray coating that creates a permanent thermal break on your roof. We offer free estimates on every ThermalCork project, so you can see exactly what your investment looks like before committing. Unlike traditional roof coatings that degrade in 2-7 years and require constant re-application, ThermalCork is designed to last a lifetime. Made from 100% natural cork oak harvested sustainably from trees that live up to 200 years, this breakthrough coating absorbs infrared rays and radiant heat before they penetrate your roof, reducing surface temperatures by 50-80°F and cutting cooling costs by up to 50%. For Tucson homeowners battling 115°F summers, that translates to hundreds of dollars in annual [link:/services/hvac-tucson|HVAC savings] and a dramatically more comfortable home. Call (520) 333-2665 for your free estimate today."
       },
       {
             "type": "paragraph",
@@ -71,9 +75,9 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Get a Free ThermalCork Roof Assessment",
-            "content": "Find out how much you could save on energy costs with ThermalCork. Our certified technicians will evaluate your roof, measure surface temperatures, and provide a detailed savings estimate — completely free.",
-            "buttonText": "Schedule Free Assessment",
+            "heading": "Get Your Free Estimate — No Obligation",
+            "content": "Every ThermalCork project starts with a completely free estimate and roof assessment. Our certified technicians will evaluate your roof, measure surface temperatures, calculate your projected energy savings, and provide a detailed written estimate — all at no cost and no obligation. Free estimates are available 7 days a week.",
+            "buttonText": "Get My Free Estimate",
             "buttonLink": "#schedule"
       },
       {
@@ -88,7 +92,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The Multi-Trade Advantage for Maximum Energy Savings: As Tucson's only full-service home services company offering [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], [link:/services/residential-solar-installation|solar], and roofing under one roof, Intelligent Design can maximize your energy savings beyond just the roof coating. We can pair your ThermalCork installation with an [link:/services/ac-installation|AC system upgrade], [link:/services/duct-sealing|duct sealing], or solar panel installation to create a comprehensive energy efficiency solution. Many of our ThermalCork customers combine the coating with a high-efficiency HVAC system and see total energy savings of 40-60% — paying for the entire investment within 3-5 years through reduced utility bills."
+            "content": "The Multi-Trade Advantage for Maximum Energy Savings: As Tucson's only full-service home services company offering [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], [link:/services/electrical-tucson|electrical], [link:/services/residential-solar-installation|solar], and roofing under one roof, Intelligent Design can maximize your energy savings beyond just the roof coating. We can pair your ThermalCork installation with an [link:/services/ac-installation|AC system upgrade], [link:/services/duct-sealing|duct sealing], or solar panel installation to create a comprehensive energy efficiency solution. Many of our ThermalCork customers combine the coating with a high-efficiency HVAC system and see total energy savings of 40-60% — paying for the entire investment within 3-5 years through reduced utility bills. Request your free estimate to explore bundled savings options."
       },
       {
             "type": "heading",
@@ -98,7 +102,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Our certified ThermalCork installation follows a precise 5-step process to ensure maximum performance and longevity. First, we thoroughly clean your roof surface to remove all debris, dirt, and loose material that could compromise adhesion. Second, we prepare the surface by lightly roughening it to create optimal grip for the cork coating. Third, our technicians apply ThermalCork using the proprietary circular application method, starting from the center of each section and working outward in a donut pattern to ensure consistent thickness and complete coverage. Fourth, we allow a full 24-hour cure time before any foot traffic. Fifth, we perform a comprehensive quality inspection to verify proper thickness, coverage, and adhesion across every square foot. The entire process typically takes 1-2 days for a standard residential roof, with minimal disruption to your daily routine."
+            "content": "Our certified ThermalCork installation follows a precise 5-step process to ensure maximum performance and longevity. It all starts with your free estimate — we'll inspect your roof, take measurements, and provide a detailed written quote at no cost. Once approved: First, we thoroughly clean your roof surface to remove all debris, dirt, and loose material that could compromise adhesion. Second, we prepare the surface by lightly roughening it to create optimal grip for the cork coating. Third, our technicians apply ThermalCork using the proprietary circular application method, starting from the center of each section and working outward in a donut pattern to ensure consistent thickness and complete coverage. Fourth, we allow a full 24-hour cure time before any foot traffic. Fifth, we perform a comprehensive quality inspection to verify proper thickness, coverage, and adhesion across every square foot. The entire process typically takes 1-2 days for a standard residential roof, with minimal disruption to your daily routine. Schedule your free estimate to get started."
       },
       {
             "type": "paragraph",
@@ -120,9 +124,9 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Ready to Never Re-Coat Your Roof Again?",
-            "content": "Join hundreds of Tucson homeowners who've made the switch to ThermalCork. Get your free roof assessment and see how much you could save on energy costs with Tucson's only exclusive ThermalCork certified applicator.",
-            "buttonText": "Get My Free ThermalCork Quote",
+            "heading": "Get Your Free ThermalCork Estimate Today",
+            "content": "Join hundreds of Tucson homeowners who've made the switch to ThermalCork. Every project starts with a free estimate and free roof assessment — no obligation, no pressure. See exactly how much you could save on energy costs with Tucson's only exclusive ThermalCork certified applicator. Free estimates available 7 days a week.",
+            "buttonText": "Schedule My Free Estimate",
             "buttonLink": "#schedule"
       }
     ]
