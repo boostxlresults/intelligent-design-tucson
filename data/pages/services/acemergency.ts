@@ -1,7 +1,8 @@
 // Emergency AC Repair Landing Page - Optimized for Google Ads Quality Score
 import type { ServicePageData } from '@/types/services';
+import type { ServiceFAQs } from '@/data/faqs/types';
 
-export const acEmergencyFAQs = {
+export const acEmergencyFAQs: ServiceFAQs = {
   serviceId: 'ac-emergency',
   serviceName: 'Emergency AC Repair',
   faqs: [
