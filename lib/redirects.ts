@@ -780,7 +780,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/drain-cleaning-tucson': '/services/drain-clearing',
   '/duct-services': '/services/duct-cleaning-tucson',
   '/ductless-mini-split-ac-repair': '/services/ductless-repair-tucson',
-  '/emergency-ac-repair-tucson': '/ac-emergency',
+  '/emergency-ac-repair-tucson': '/services/ac-emergency',
   '/heater-service': '/services/heater-service-tucson',
   '/solar-energy-solutions': '/services/residential-solar-installation',
   '/plumber-': '/services/plumbing-tucson',
@@ -916,7 +916,7 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/air-conditioning/ac-maintenance': '/services/ac-tuneup-tucson',
   '/air-conditioning/ac-repair': '/services/ac-repair-tucson',
   '/air-conditioning/air-conditioning-systems': '/services/ac-service-tucson',
-  '/air-conditioning/emergency-ac-repair-tucson': '/ac-emergency',
+  '/air-conditioning/emergency-ac-repair-tucson': '/services/ac-emergency',
 
   // /drain-and-sewer/ nested paths (not already covered)
   '/drain-and-sewer/trenchless-sewer-repair-replacement': '/services/trenchless-repair',
@@ -1657,8 +1657,8 @@ export const STANDALONE_PAGES = new Set([
   'knowledge-hub', 'r22-phaseout', 'education-library',
   'drain-clearing-special', 'ac-system-faqs', 'schedule',
   'service-areas', 'services', 'blog', 'service-map',
-  'ac-emergency', 'ac-repair-tucson', 'new-air-conditioner'
-});
+  'ac-repair-tucson', 'new-air-conditioner'
+]);
 
 export const SERVICE_KEYWORDS = [
   'tucson', 'repair', 'installation', 'service', 'maintenance',

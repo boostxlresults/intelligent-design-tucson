@@ -8,6 +8,7 @@
  * import { acrepairData } from '@/data/pages/services';
  */
 
+export { acemergencyData } from './acemergency';
 export { acinstallationData } from './acinstallation';
 export { thermalcorkroofcoatingData } from './thermalcorkroofcoating';
 export { acrepairData } from './acrepair';

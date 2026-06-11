@@ -1067,6 +1067,10 @@
     "thermalcork-roof-coating": {
       "dataFile": "thermalcorkroofcoating",
       "canonicalSlug": "thermalcork-roof-coating"
+    },
+    "ac-emergency": {
+      "dataFile": "acemergency",
+      "canonicalSlug": "ac-emergency"
     }
   },
   "aliases": {
