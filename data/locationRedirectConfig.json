@@ -1,0 +1,15 @@
+{
+  "serviceAreaSlugs": ["avra-valley","casas-adobes","catalina-foothills","corona-de-tucson","drexel-heights","east-tucson","gladden-farms","green-valley","marana","oro-valley","picture-rocks","red-rock-casa-grande","rita-ranch","saddle-brooke-catalina","sahuarita","tanque-verde","tortolita","tucson","vail"],
+  "neighborhoodToCity": {
+    "amphi": "tucson",
+    "civano": "vail",
+    "dove-mountain": "marana",
+    "midvale-park": "tucson",
+    "rincon-valley": "tanque-verde",
+    "south-tucson": "tucson",
+    "starr-pass": "tucson",
+    "foothills": "catalina-foothills",
+    "flowing-wells": "tucson",
+    "saddlebrooke-catalina": "saddle-brooke-catalina"
+  }
+}

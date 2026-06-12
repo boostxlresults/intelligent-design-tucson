@@ -1,7 +1,6 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
-import { getAllLocationServiceParams } from '@/data/locationServiceData';
 import noindexSlugs from '@/data/noindex-service-slugs.json';
 import fs from 'fs/promises';
 import path from 'path';
@@ -34,9 +33,9 @@ async function getBlogPosts(): Promise<{ category: string; slug: string; lastMod
         const filePath = path.join(categoryPath, file);
         const content = await fs.readFile(filePath, 'utf-8');
         const { data } = matter(content);
-        
+
         const slug = file.replace('.md', '');
-        
+
         // Skip posts with non-self canonical URLs (duplicates/truncated posts)
         if (data.canonicalUrl) {
           const canonicalSlug = data.canonicalUrl.replace(/\/$/, '').split('/').pop();
@@ -44,11 +43,11 @@ async function getBlogPosts(): Promise<{ category: string; slug: string; lastMod
             continue;
           }
         }
-        
-        const lastModified = data.updatedAt 
-          ? new Date(data.updatedAt) 
-          : data.publishedAt 
-            ? new Date(data.publishedAt) 
+
+        const lastModified = data.updatedAt
+          ? new Date(data.updatedAt)
+          : data.publishedAt
+            ? new Date(data.publishedAt)
             : new Date();
 
         posts.push({
@@ -67,7 +66,7 @@ async function getBlogPosts(): Promise<{ category: string; slug: string; lastMod
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const entries: MetadataRoute.Sitemap = [];
-  
+
   // Homepage
   entries.push({
     url: SITE_URL,
@@ -108,13 +107,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   Object.keys(serviceManifest.services).forEach((serviceKey) => {
     // Skip internal keys that aren't actual pages
     if (serviceKey.startsWith('_')) return;
-    
+
     // Skip location-variant pages (noindexed for duplicate content)
     if (NOINDEX_SET.has(serviceKey)) return;
-    
+
     // Convert manifest key to URL format if needed
     const urlSlug = SERVICE_NAME_REVERSE_MAP[serviceKey] || serviceKey;
-    
+
     entries.push({
       url: `${SITE_URL}/services/${urlSlug}`,
       lastModified: new Date(),
@@ -147,16 +146,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     });
   });
 
-  // ZIP-cluster location×service pages (300 pages)
-  const locationServiceParams = getAllLocationServiceParams();
-  locationServiceParams.forEach(({ zip, service }) => {
-    entries.push({
-      url: `${SITE_URL}/locations/${zip}/${service}`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.85,
-    });
-  });
+  // NOTE: The /locations/<zip>/<service> ZIP-cluster pages were thin, near-duplicate
+  // doorway pages that Google refused to index. They are now 308-redirected to their
+  // canonical /service-areas/<city> page (see middleware.ts) and intentionally omitted
+  // from the sitemap to concentrate crawl budget on indexable pages.
 
   // /locations index page
   entries.push({
