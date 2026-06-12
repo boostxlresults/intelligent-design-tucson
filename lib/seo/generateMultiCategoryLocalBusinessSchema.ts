@@ -2,14 +2,12 @@
  * Multi-Category LocalBusiness Schema Generator
  * Creates separate LocalBusiness schemas for each service category (HVAC, Plumbing, etc.)
  * Optimizes for Google Business Profile secondary categories
- * Enhanced with zip code coverage for AI SEO optimization
  */
 
 import { gbpCategoriesData } from '@/data/gbpCategories';
 import { BUSINESS_INFO } from './constants';
 import { generateAggregateRatingSchema } from './generateAggregateRatingSchema';
 import { reviewsData } from '@/data/reviews';
-import { generateZipCodeSchemas } from './zipCodes';
 
 export interface MultiCategoryLocalBusinessOptions {
   categories?: string[]; // Specific categories to generate (default: all)
@@ -86,8 +84,7 @@ export function generateMultiCategoryLocalBusinessSchemas(options: MultiCategory
             "longitude": BUSINESS_INFO.geo.longitude
           },
           "geoRadius": `${category.serviceRadius} mi`
-        },
-        ...generateZipCodeSchemas()
+        }
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
