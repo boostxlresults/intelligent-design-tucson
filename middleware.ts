@@ -2,9 +2,12 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import { getRedirectDestination } from '@/lib/redirects';
 import locRedirectConfig from '@/data/locationRedirectConfig.json';
+import legacy404 from '@/data/legacy404Redirects.json';
 
 const SERVICE_AREA_SLUGS = new Set<string>(locRedirectConfig.serviceAreaSlugs);
 const NEIGHBORHOOD_TO_CITY: Record<string, string> = locRedirectConfig.neighborhoodToCity;
+const LEGACY_REDIRECTS: Record<string, string> = legacy404.redirects;
+const LEGACY_GONE = new Set<string>(legacy404.gone);
 
 export default async function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
@@ -32,8 +35,6 @@ export default async function middleware(request: NextRequest) {
 
   // Consolidate thin ZIP x service doorway pages (/locations/<city>-<zip>/<service>)
   // into the canonical /service-areas/<city> page (central Tucson as a safe default).
-  // These were "crawled - currently not indexed" in GSC; consolidating them recovers
-  // crawl budget and concentrates local relevance on indexable city pages.
   const locMatch = pathname.match(/^\/locations\/([a-z0-9-]+?)-\d{5}\/[a-z0-9-]+\/?$/);
   if (locMatch) {
     const rawCity = locMatch[1];
@@ -43,6 +44,27 @@ export default async function middleware(request: NextRequest) {
     url.pathname = `/service-areas/${targetCity}`;
     url.search = '';
     return NextResponse.redirect(url, 308);
+  }
+
+  // Legacy WordPress 404 cleanup: 308-redirect old URLs to their closest live page,
+  // 410 true junk (date archives, hello-world, search/web-story endpoints). Trailing-slash tolerant.
+  {
+    const noSlash = pathname.length > 1 && pathname.endsWith('/') ? pathname.slice(0, -1) : pathname;
+    const variants = [pathname, noSlash, noSlash + '/'];
+    for (const v of variants) {
+      if (LEGACY_GONE.has(v)) {
+        return new NextResponse(null, { status: 410, statusText: 'Gone' });
+      }
+    }
+    for (const v of variants) {
+      const dest = LEGACY_REDIRECTS[v];
+      if (dest) {
+        const url = request.nextUrl.clone();
+        url.pathname = dest;
+        url.search = '';
+        return NextResponse.redirect(url, 308);
+      }
+    }
   }
 
   return NextResponse.next();
