@@ -67,12 +67,11 @@ export default function RootLayout({
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://static.servicetitan.com" />
         <link rel="dns-prefetch" href="https://app.realworklabs.com" />
-        <link rel="dns-prefetch" href="https://www.clarity.ms" />
 
         {/*
           POST-LCP SCRIPT LOADER
           
-          All analytics and tracking scripts (GTM, Clarity, Contentsquare) are deferred
+          GTM is deferred
           until AFTER the LCP element has painted. This eliminates the 1,800ms+ element
           render delay caused by main-thread blocking before first paint.
           
@@ -105,19 +104,6 @@ export default function RootLayout({
                   j.src='https://www.googletagmanager.com/gtm.js?id=GTM-WKG99GJ'+dl;
                   f.parentNode.insertBefore(j,f);
                 })(window,document,'script','dataLayer','GTM-WKG99GJ');
-                
-                // 2. Microsoft Clarity (heatmaps + session recordings)
-                (function(c,l,a,r,i,t,y){
-                  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-                  t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/k4y7b5b7df";
-                  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-                })(window,document,"clarity","script");
-                
-                // 3. Contentsquare (loaded last — lowest priority)
-                var cs = document.createElement('script');
-                cs.async = true;
-                cs.src = 'https://t.contentsquare.net/uxa/9c3e82c07cad8.js';
-                document.body.appendChild(cs);
               }
               
               // Strategy 1: Fire after LCP paints (best case)
