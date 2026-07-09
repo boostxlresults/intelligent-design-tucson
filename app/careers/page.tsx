@@ -71,7 +71,7 @@ export default function CareersPage() {
                   Questions about a position?
                 </p>
                 <p className="text-muted-foreground">
-                  Contact us at <a href="tel:+1520-333-2665" className="text-primary hover:underline font-semibold">(520) 333-2665</a> to speak with our hiring team.
+                  Contact us at <a href="tel:5203332665" className="text-primary hover:underline font-semibold">(520) 333-2665</a> to speak with our hiring team.
                 </p>
               </div>
             </div>

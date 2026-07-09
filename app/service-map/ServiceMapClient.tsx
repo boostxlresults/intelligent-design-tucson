@@ -280,7 +280,7 @@ export default function ServiceMapClient({ initialCheckins, stats, filters }: Pr
               Schedule Service
             </a>
             <a
-              href="tel:+15203332665"
+              href="tel:5203332665"
               className="inline-flex items-center justify-center gap-2 px-8 py-3 bg-yellow-500 hover:bg-yellow-600 text-gray-900 font-semibold rounded-lg transition"
             >
               <Phone className="w-5 h-5" />

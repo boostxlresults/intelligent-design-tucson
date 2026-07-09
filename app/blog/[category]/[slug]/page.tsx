@@ -438,7 +438,7 @@ export default async function BlogPostPage({
                   className="bg-yellow-400 border-2 border-yellow-500 text-gray-900 font-bold hover:bg-yellow-500"
                   asChild
                 >
-                  <a href="tel:+15203332665" data-testid="button-call-cta">
+                  <a href="tel:5203332665" data-testid="button-call-cta">
                     <Phone className="w-5 h-5 mr-2" />
                     Call: (520) 333-2665
                   </a>

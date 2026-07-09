@@ -4,7 +4,7 @@ import { trackPhoneClick } from "@/lib/analytics";
 export default function FooterPhoneLink() {
   return (
     <a
-      href="tel:+15203332665"
+      href="tel:5203332665"
       className="text-foreground hover:text-primary transition-colors font-medium"
       onClick={() => trackPhoneClick('footer')}
       data-testid="link-footer-phone"

@@ -85,7 +85,7 @@ export default function HVACInventoryEventPage() {
                   </a>
                 </Button>
                 <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
-                  <a href="tel:+15203332665" data-testid="button-call-hero">
+                  <a href="tel:5203332665" data-testid="button-call-hero">
                     <Phone className="w-5 h-5 mr-2" /> (520) 333-2665
                   </a>
                 </Button>
@@ -197,7 +197,7 @@ export default function HVACInventoryEventPage() {
 
             <p className="text-center text-sm text-muted-foreground mt-6">
               These units move quickly. After submitting, call us immediately at{' '}
-              <a href="tel:+15203332665" className="text-primary font-semibold hover:underline">
+              <a href="tel:5203332665" className="text-primary font-semibold hover:underline">
                 (520) 333-2665
               </a>{' '}
               to confirm availability.
@@ -221,7 +221,7 @@ export default function HVACInventoryEventPage() {
                 </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
-                <a href="tel:+15203332665" data-testid="button-call-footer">
+                <a href="tel:5203332665" data-testid="button-call-footer">
                   <Phone className="w-5 h-5 mr-2" /> Call (520) 333-2665
                 </a>
               </Button>

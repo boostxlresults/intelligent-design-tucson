@@ -95,7 +95,7 @@ export default function SEOContent() {
           </ul>
 
           <p className="text-muted-foreground leading-relaxed">
-            Ready to experience the Intelligent Design difference? Call us today at <a href="tel:+15203332665" className="text-primary font-semibold hover-elevate px-2 py-1 rounded-md inline-block">(520) 333-2665</a> or schedule service online. We're here to keep your Tucson home comfortable, safe, and efficient year-round.
+            Ready to experience the Intelligent Design difference? Call us today at <a href="tel:5203332665" className="text-primary font-semibold hover-elevate px-2 py-1 rounded-md inline-block">(520) 333-2665</a> or schedule service online. We're here to keep your Tucson home comfortable, safe, and efficient year-round.
           </p>
         </article>
       </div>

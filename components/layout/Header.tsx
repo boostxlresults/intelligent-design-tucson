@@ -902,7 +902,7 @@ export default function Header() {
           {/* Phone & CTA */}
           <div className="flex items-center gap-2">
             <a
-              href="tel:+15203332665"
+              href="tel:5203332665"
               className="hidden lg:flex items-center gap-2 bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 px-4 py-2 rounded-md font-bold transition-colors whitespace-nowrap"
               data-testid="link-phone"
               onClick={() => trackPhoneClick('header_desktop')}
@@ -1284,7 +1284,7 @@ export default function Header() {
                   ))}
                   <div className="border-t border-border my-4" />
                   <a
-                    href="tel:+15203332665"
+                    href="tel:5203332665"
                     className="flex items-center gap-2 text-lg font-semibold hover-elevate px-4 py-3 rounded-md transition-colors"
                     data-testid="link-mobile-phone"
                     onClick={() => trackPhoneClick('header_mobile')}

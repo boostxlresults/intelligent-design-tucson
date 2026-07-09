@@ -365,7 +365,7 @@ export default function DrainClearingSpecialPage() {
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <a
-                href="tel:+15203332665"
+                href="tel:5203332665"
                 className="inline-flex items-center justify-center gap-2 px-8 py-6 text-lg font-bold bg-yellow-500 hover:bg-yellow-600 text-gray-900 rounded-md shadow-lg transition-colors"
                 data-testid="button-call-footer"
               >

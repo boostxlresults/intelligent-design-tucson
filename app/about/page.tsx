@@ -90,7 +90,7 @@ export default function AboutPage() {
                 className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
                 data-testid="button-call-hero"
               >
-                <a href="tel:+15203332665">Call (520) 333-2665</a>
+                <a href="tel:5203332665">Call (520) 333-2665</a>
               </Button>
             </div>
           </div>
@@ -315,7 +315,7 @@ export default function AboutPage() {
               className="bg-white text-primary hover:bg-gray-100 border-white"
               data-testid="button-call-cta"
             >
-              <a href="tel:+15203332665">
+              <a href="tel:5203332665">
                 <Phone className="w-5 h-5 mr-2" />
                 (520) 333-2665
               </a>

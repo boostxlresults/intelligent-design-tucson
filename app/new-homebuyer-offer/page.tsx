@@ -100,7 +100,7 @@ export default function NewHomebuyerOfferPage() {
                   </a>
                 </Button>
                 <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
-                  <a href="tel:+1520-333-2665" data-testid="button-call-hero">
+                  <a href="tel:5203332665" data-testid="button-call-hero">
                     Call (520) 333-2665
                   </a>
                 </Button>
@@ -315,7 +315,7 @@ export default function NewHomebuyerOfferPage() {
                 </a>
               </Button>
               <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
-                <a href="tel:+1520-333-2665">
+                <a href="tel:5203332665">
                   Call (520) 333-2665
                 </a>
               </Button>

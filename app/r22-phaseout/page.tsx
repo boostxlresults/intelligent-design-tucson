@@ -77,7 +77,7 @@ export default function R22PhaseoutPage() {
             We are not recommending that you replace your old air conditioner simply because of the R22 phaseout. If your air conditioner does use R22, however, then it is a decade or more old. When units have been in use for that long, they begin to show their age. It is possible that your air conditioner will begin to require more frequent <Link href="/services/ac-repair-tucson" className="text-primary hover:underline">repairs</Link>, or that it may break down more often. If that happens, then replacing it may be more cost-effective than continuing to maintain it.
           </p>
           <p>
-            If you have any more questions about the R22 ban, then feel free to get in touch with the team here at Intelligent Design Air Conditioning, Plumbing, Solar, & Electric in Tucson! You can always reach us at <a href="tel:+1520-333-2665" className="text-primary hover:underline">(520) 333-2665</a> for the heating and air conditioning services you need.
+            If you have any more questions about the R22 ban, then feel free to get in touch with the team here at Intelligent Design Air Conditioning, Plumbing, Solar, & Electric in Tucson! You can always reach us at <a href="tel:5203332665" className="text-primary hover:underline">(520) 333-2665</a> for the heating and air conditioning services you need.
           </p>
         </>
       ),
@@ -142,7 +142,7 @@ export default function R22PhaseoutPage() {
                 className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
                 data-testid="button-call-hero"
               >
-                <a href="tel:+1520-333-2665">Call For A Free Quote</a>
+                <a href="tel:5203332665">Call For A Free Quote</a>
               </Button>
             </div>
           </div>
@@ -248,7 +248,7 @@ export default function R22PhaseoutPage() {
                         className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
                         data-testid="button-call-section1"
                       >
-                        <a href="tel:+1520-333-2665">Call For A Free Quote</a>
+                        <a href="tel:5203332665">Call For A Free Quote</a>
                       </Button>
                     </div>
                   )}
@@ -266,7 +266,7 @@ export default function R22PhaseoutPage() {
                         className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
                         data-testid="button-call-section4"
                       >
-                        <a href="tel:+1520-333-2665">Call For A Free Quote</a>
+                        <a href="tel:5203332665">Call For A Free Quote</a>
                       </Button>
                     </div>
                   )}
@@ -301,7 +301,7 @@ export default function R22PhaseoutPage() {
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
               data-testid="button-call-cta"
             >
-              <a href="tel:+1520-333-2665">Call (520) 333-2665</a>
+              <a href="tel:5203332665">Call (520) 333-2665</a>
             </Button>
           </div>
         </div>

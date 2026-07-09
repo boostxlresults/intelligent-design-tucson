@@ -180,7 +180,7 @@ export default function NewAirConditionerPage() {
             {/* Dual CTA */}
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <a 
-                href="tel:+15203332665"
+                href="tel:5203332665"
                 className="inline-flex items-center justify-center gap-2 bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors"
               >
                 <Phone className="w-5 h-5" />
@@ -555,7 +555,7 @@ export default function NewAirConditionerPage() {
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <a 
-                href="tel:+15203332665"
+                href="tel:5203332665"
                 className="inline-flex items-center justify-center gap-2 bg-white text-primary px-8 py-4 rounded-lg font-bold text-lg hover:bg-gray-100 transition-colors"
               >
                 <Phone className="w-5 h-5" />

@@ -86,7 +86,7 @@ export default function DrainClearingCoupon() {
                     asChild
                     data-testid="button-call-drain-special"
                   >
-                    <a href="tel:+15203332665">
+                    <a href="tel:5203332665">
                       <Phone className="w-5 h-5 mr-2" />
                       Call: (520) 333-2665
                     </a>

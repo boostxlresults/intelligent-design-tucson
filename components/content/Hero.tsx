@@ -123,7 +123,7 @@ export default function Hero() {
                 className="text-lg px-8 py-6 h-auto bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 font-bold"
                 asChild
               >
-                <a href="tel:+15203332665" data-testid="button-call-emergency">
+                <a href="tel:5203332665" data-testid="button-call-emergency">
                   <Phone className="w-5 h-5 mr-2" />
                   Call: (520) 333-2665
                 </a>
@@ -172,7 +172,7 @@ export default function Hero() {
           className="w-full text-lg py-6 h-auto bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 font-bold justify-center"
           asChild
         >
-          <a href="tel:+15203332665" data-testid="button-call-emergency-mobile">
+          <a href="tel:5203332665" data-testid="button-call-emergency-mobile">
             <Phone className="w-5 h-5 mr-2" />
             Call: (520) 333-2665
           </a>

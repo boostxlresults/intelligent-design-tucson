@@ -49,7 +49,7 @@ export default function ContactCard() {
                 <div>
                   <h3 className="font-semibold text-card-foreground mb-1">Phone</h3>
                   <a
-                    href="tel:+15203332665"
+                    href="tel:5203332665"
                     className="text-lg font-bold text-primary hover-elevate px-2 py-1 rounded-md inline-block"
                     data-testid="link-contact-phone"
                   >

@@ -165,7 +165,7 @@ export default function FamilyProtectionPlansPage() {
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
-                  <a href="tel:+1520-333-2665" data-testid="button-call-hero">
+                  <a href="tel:5203332665" data-testid="button-call-hero">
                     <Phone className="w-5 h-5 mr-2" /> Call For A Free Quote
                   </a>
                 </Button>
@@ -324,7 +324,7 @@ export default function FamilyProtectionPlansPage() {
               Then our Family Protection Plans are right for you!
             </h3>
             <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
-              <a href="tel:+1520-333-2665" data-testid="button-call-cta-1">
+              <a href="tel:5203332665" data-testid="button-call-cta-1">
                 <Phone className="w-5 h-5 mr-2" /> Call Now to Learn More
               </a>
             </Button>
@@ -368,7 +368,7 @@ export default function FamilyProtectionPlansPage() {
 
             <div className="bg-muted/50 rounded-lg p-8 text-center">
               <h3 className="text-2xl font-bold text-primary mb-4">
-                Call now at <a href="tel:+1520-333-2665" className="text-yellow-600 hover:underline">(520) 333-2665</a> to speak with one of our Family Protection Plan Experts.
+                Call now at <a href="tel:5203332665" className="text-yellow-600 hover:underline">(520) 333-2665</a> to speak with one of our Family Protection Plan Experts.
               </h3>
             </div>
           </div>
@@ -466,7 +466,7 @@ export default function FamilyProtectionPlansPage() {
               Don't sweat the heat or plumbing problems! Contact us today to schedule your AC, solar, electrical, and plumbing services and experience hassle-free solutions for your home.
             </p>
             <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
-              <a href="tel:+1520-333-2665" data-testid="button-call-final">
+              <a href="tel:5203332665" data-testid="button-call-final">
                 <Phone className="w-5 h-5 mr-2" /> (520) 333-2665
               </a>
             </Button>

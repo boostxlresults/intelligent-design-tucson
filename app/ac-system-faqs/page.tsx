@@ -155,7 +155,7 @@ export default function ACSystemFAQsPage() {
                 className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
                 data-testid="button-call-hero"
               >
-                <a href="tel:+1520-333-2665">Call For Free Quote</a>
+                <a href="tel:5203332665">Call For Free Quote</a>
               </Button>
             </div>
           </div>
@@ -261,7 +261,7 @@ export default function ACSystemFAQsPage() {
               className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500"
               data-testid="button-call-cta"
             >
-              <a href="tel:+1520-333-2665" className="text-lg px-8 py-6 h-auto">
+              <a href="tel:5203332665" className="text-lg px-8 py-6 h-auto">
                 Call (520) 333-2665
               </a>
             </Button>

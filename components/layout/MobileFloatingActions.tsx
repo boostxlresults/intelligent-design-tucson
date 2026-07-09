@@ -62,7 +62,7 @@ export default function MobileFloatingActions() {
             className="flex-1 flex flex-col items-center gap-1 h-auto py-3 bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500"
             asChild
           >
-            <a href="tel:+15203332665" data-testid="button-mobile-call" onClick={() => trackPhoneClick('mobile_floating')}>
+            <a href="tel:5203332665" data-testid="button-mobile-call" onClick={() => trackPhoneClick('mobile_floating')}>
               <Phone className="w-5 h-5" />
               <span className="text-xs font-semibold">Call Now</span>
             </a>
