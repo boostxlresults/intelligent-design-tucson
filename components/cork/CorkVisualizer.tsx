@@ -7,9 +7,11 @@
  *
  * Selection model (refine step): a raster selection MASK, not vector polygons.
  * The AI's polygons seed a best-guess mask; the visitor then refines it with a
- * Photoshop-style toolset — a magic-wand tap (flood-fills a same-color slab) and
- * an add/erase brush. Square footage scales live with the selected area, and the
- * same mask drives the Gemini render guide.
+ * Photoshop-style toolset. The magic wand taps SAM 2 (via /api/cork/segment) for
+ * a pixel-perfect surface mask (auto-excludes the pool); if SAM isn't configured
+ * it falls back to an in-browser color flood-fill. An add/erase brush handles
+ * touch-ups. Square footage scales live with the selected area, and the same mask
+ * drives the Gemini render guide.
  */
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -159,12 +161,14 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const [tool, setTool] = useState<Tool>("wand");
   const [addMode, setAddMode] = useState(true); // true = add to selection, false = remove
   const [brushPct, setBrushPct] = useState(6); // brush radius as % of deck width
-  const [tolerance, setTolerance] = useState(38); // wand color tolerance
+  const [tolerance, setTolerance] = useState(38); // wand color tolerance (local fallback)
   const [maskVersion, setMaskVersion] = useState(0);
+  const [segmenting, setSegmenting] = useState(false);
 
   const [colorId, setColorId] = useState(DEFAULT_COLOR_ID);
   const [customHex, setCustomHex] = useState("#A64A2E");
   const [usingCustom, setUsingCustom] = useState(false);
+  const [colorChosen, setColorChosen] = useState(false);
   const [renders, setRenders] = useState<Record<string, string>>({});
   const [rendering, setRendering] = useState(false);
   const [lead, setLead] = useState({ name: "", email: "", zip: "", phone: "" });
@@ -186,6 +190,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const maskCanvasRef = useRef<HTMLCanvasElement | null>(null);
   const dimsRef = useRef<{ mw: number; mh: number; seed: number }>({ mw: 0, mh: 0, seed: 0 });
   const lastPt = useRef<[number, number] | null>(null);
+  const segmentUnavailable = useRef(false); // set once we learn SAM has no key on this env
 
   const sqFt = useMemo(
     () => Math.max(50, Math.round((measure?.sqFt ?? 0) * areaRatio)),
@@ -245,6 +250,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       selRef.current = null;
       srcRef.current = null;
       setAreaRatio(1);
+      setColorChosen(false);
       setRenders({});
       rendersRef.current = {};
       track("photo_uploaded");
@@ -262,6 +268,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     selRef.current = null;
     srcRef.current = null;
     setAreaRatio(1);
+    setColorChosen(false);
     setRenders({});
     rendersRef.current = {};
     setError(null);
@@ -403,23 +410,86 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
 
   const brushRadiusMask = () => Math.max(2, Math.round((brushPct / 100) * dimsRef.current.mw));
 
-  const onPointerDown = (e: React.PointerEvent) => {
-    if (step !== "refine") return;
+  // Apply a SAM mask PNG (full-res) onto the selection at mask resolution.
+  const applyMaskPng = useCallback(async (url: string, add: boolean) => {
     const sel = selRef.current;
     if (!sel) return;
-    drawing.current = true;
-    (e.target as Element).setPointerCapture(e.pointerId);
+    const { mw, mh } = dimsRef.current;
+    const img = new Image();
+    img.src = url;
+    await img.decode().catch(() => null);
+    const c = document.createElement("canvas");
+    c.width = mw;
+    c.height = mh;
+    const ctx = c.getContext("2d", { willReadFrequently: true })!;
+    ctx.drawImage(img, 0, 0, mw, mh);
+    const d = ctx.getImageData(0, 0, mw, mh).data;
+    for (let i = 0; i < mw * mh; i++) {
+      const a = d[i * 4 + 3];
+      const lum = (d[i * 4] + d[i * 4 + 1] + d[i * 4 + 2]) / 3;
+      if (a > 16 && lum > 100) sel[i] = add ? 1 : 0;
+    }
+    setMaskVersion((v) => v + 1);
+  }, []);
+
+  // SAM 2 "smart select": returns true if an AI mask was applied, false to fall back.
+  const smartSelect = useCallback(
+    async (pxImg: number, pyImg: number, add: boolean): Promise<boolean> => {
+      if (segmentUnavailable.current || !image) return false;
+      try {
+        setSegmenting(true);
+        const res = await fetch("/api/cork/segment", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            imageBase64: b64(image.dataUrl),
+            mediaType: "image/jpeg",
+            points: [{ x: pxImg, y: pyImg, label: 1 }],
+          }),
+        });
+        if (res.status === 503) {
+          segmentUnavailable.current = true; // no key on this env — silent local fallback from here on
+          return false;
+        }
+        if (!res.ok) return false;
+        const data = await res.json();
+        if (!data.maskBase64) return false;
+        await applyMaskPng(`data:${data.mediaType || "image/png"};base64,${data.maskBase64}`, add);
+        return true;
+      } catch {
+        return false;
+      } finally {
+        setSegmenting(false);
+      }
+    },
+    [image, applyMaskPng]
+  );
+
+  const onPointerDown = async (e: React.PointerEvent) => {
+    if (step !== "refine") return;
+    const sel = selRef.current;
+    if (!sel || !image) return;
     const { mw, mh } = dimsRef.current;
     const [nx, ny] = pointerPos(e);
     const px = Math.min(mw - 1, Math.max(0, Math.round(nx * mw)));
     const py = Math.min(mh - 1, Math.max(0, Math.round(ny * mh)));
+
     if (tool === "wand") {
-      if (srcRef.current) floodFill(sel, srcRef.current, mw, mh, px, py, addMode, tolerance);
-      track("wand_tap", { add: addMode });
-    } else {
-      stampCircle(sel, mw, mh, px, py, brushRadiusMask(), addMode);
-      lastPt.current = [px, py];
+      // Prefer SAM 2 click-to-segment; fall back to local color flood-fill.
+      const usedSam = await smartSelect(nx * image.width, ny * image.height, addMode);
+      if (!usedSam) {
+        if (srcRef.current) floodFill(sel, srcRef.current, mw, mh, px, py, addMode, tolerance);
+        setMaskVersion((v) => v + 1);
+      }
+      track("wand_tap", { add: addMode, engine: usedSam ? "sam" : "local" });
+      return;
     }
+
+    // brush
+    drawing.current = true;
+    (e.target as Element).setPointerCapture(e.pointerId);
+    stampCircle(sel, mw, mh, px, py, brushRadiusMask(), addMode);
+    lastPt.current = [px, py];
     setMaskVersion((v) => v + 1);
   };
 
@@ -528,9 +598,9 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   );
 
   useEffect(() => {
-    if (step === "render" && image && measure) ensureRender(activeColor, colorKey);
+    if (step === "render" && colorChosen && image && measure) ensureRender(activeColor, colorKey);
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [step, colorKey]);
+  }, [step, colorKey, colorChosen]);
 
   /* ---------- estimate ---------- */
   const runEstimate = async () => {
@@ -695,19 +765,19 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                   {step === "measure" && <p className="mt-1 text-sm text-neutral-600">The tinted area is our best guess at your deck surface — you'll fine-tune it next.</p>}
                   {step === "refine" && (
                     <p className="mt-1 text-sm text-neutral-600">
-                      <span className="font-medium">Magic wand:</span> tap a section of deck to grab the whole slab in one shot. <span className="font-medium">Brush:</span> drag to paint areas in or out. Square footage updates live.
+                      <span className="font-medium">Magic wand:</span> tap the deck and the AI selects that whole surface. Switch to <span className="font-medium">Remove</span> and tap the pool or a planter to cut it out. <span className="font-medium">Brush</span> for fine touch-ups. Square footage updates live.
                     </p>
                   )}
                   <div className="relative mt-4 rounded-xl overflow-hidden select-none touch-none" style={{ aspectRatio: `${image.width}/${image.height}` }}>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={image.dataUrl} alt="Your pool deck" className="absolute inset-0 w-full h-full object-contain" draggable={false} />
                     <canvas ref={canvasRef} width={image.width} height={image.height} className="absolute inset-0 w-full h-full" style={{ cursor: step === "refine" ? "crosshair" : "default", touchAction: "none" }} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={onPointerUp} />
-                    {busy && (
+                    {(busy || segmenting) && (
                       <div className="absolute inset-0 bg-white/70 flex flex-col items-center justify-center">
                         <motion.div className="h-1.5 w-48 rounded bg-neutral-200 overflow-hidden">
                           <motion.div className="h-full bg-[#A64A2E]" initial={{ x: "-100%" }} animate={{ x: "100%" }} transition={{ repeat: Infinity, duration: 1.1, ease: "linear" }} style={{ width: "50%" }} />
                         </motion.div>
-                        <p className="mt-3 text-sm text-neutral-600">Analyzing surfaces and reference objects…</p>
+                        <p className="mt-3 text-sm text-neutral-600">{segmenting ? "Finding your deck…" : "Analyzing surfaces and reference objects…"}</p>
                       </div>
                     )}
                   </div>
@@ -729,7 +799,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                             <input type="range" min={2} max={18} value={brushPct} onChange={(e) => setBrushPct(Number(e.target.value))} />
                           </label>
                         ) : (
-                          <label className="flex items-center gap-2 text-sm text-neutral-600" title="How close in color a neighboring pixel must be to get grabbed by one tap">Wand sensitivity
+                          <label className="flex items-center gap-2 text-sm text-neutral-600" title="Only used if the AI selector is unavailable — how close in color a neighboring pixel must be">Grab sensitivity
                             <input type="range" min={12} max={80} value={tolerance} onChange={(e) => setTolerance(Number(e.target.value))} />
                           </label>
                         )}
@@ -762,7 +832,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
               {step === "render" && image && (
                 <div className="max-w-3xl mx-auto px-4 py-6">
                   <h2 className="text-xl font-bold text-neutral-900">Choose your cork color</h2>
-                  <p className="mt-1 text-sm text-neutral-600">Every render shows your actual deck — resurfaced, cracks gone.</p>
+                  <p className="mt-1 text-sm text-neutral-600">{colorChosen ? "Every render shows your actual deck — resurfaced, cracks gone." : "Tap a color below to see your deck resurfaced. Until then, this is your original photo."}</p>
                   <div className="relative mt-4 rounded-xl overflow-hidden bg-neutral-100" style={{ aspectRatio: `${image.width}/${image.height}` }}>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={renders[colorKey] ?? image.dataUrl} alt={`Your deck in ${activeColor.name}`} className="absolute inset-0 w-full h-full object-contain" />
@@ -776,7 +846,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                   </div>
                   <div className="mt-4 grid grid-cols-6 sm:grid-cols-12 gap-2">
                     {CORK_COLORS.map((c) => (
-                      <button key={c.id} onClick={() => { setUsingCustom(false); setColorId(c.id); track("color_selected", { color: c.id }); }} title={`${c.code} ${c.name}`} aria-label={`${c.code} ${c.name}`} className={`aspect-square rounded-lg border-2 relative ${!usingCustom && colorId === c.id ? "border-neutral-900 ring-2 ring-neutral-900/20" : "border-neutral-200"}`} style={{ backgroundColor: c.hex }}>
+                      <button key={c.id} onClick={() => { setUsingCustom(false); setColorId(c.id); setColorChosen(true); track("color_selected", { color: c.id }); }} title={`${c.code} ${c.name}`} aria-label={`${c.code} ${c.name}`} className={`aspect-square rounded-lg border-2 relative ${!usingCustom && colorId === c.id ? "border-neutral-900 ring-2 ring-neutral-900/20" : "border-neutral-200"}`} style={{ backgroundColor: c.hex }}>
                         {rendersRef.current[c.id] && <span className="absolute -top-1 -right-1 w-3 h-3 rounded-full bg-emerald-500 border border-white" aria-hidden />}
                       </button>
                     ))}
@@ -784,13 +854,13 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                   <div className="mt-3 flex flex-wrap items-center gap-3 text-sm">
                     <div className="text-neutral-700 font-medium">{activeColor.code} · {activeColor.name}</div>
                     <label className="ml-auto flex items-center gap-2 text-neutral-600">Custom color
-                      <input type="color" value={customHex} onChange={(e) => { setCustomHex(e.target.value); setUsingCustom(true); }} className="h-8 w-12 cursor-pointer rounded border border-neutral-300" />
+                      <input type="color" value={customHex} onChange={(e) => { setCustomHex(e.target.value); setUsingCustom(true); setColorChosen(true); }} className="h-8 w-12 cursor-pointer rounded border border-neutral-300" />
                     </label>
                   </div>
                   {error && <p className="mt-3 text-sm text-red-600">{error}</p>}
                   <div className="mt-6 flex justify-between">
                     <button onClick={() => go("refine")} className="text-sm text-neutral-500 underline">Back to areas</button>
-                    <button onClick={() => { track("proceed_to_estimate"); go("lead1"); }} className="rounded-lg bg-[#A64A2E] text-white px-6 py-3 font-semibold hover:bg-[#8f3f27]">Get my estimated cost →</button>
+                    <button disabled={!colorChosen} onClick={() => { track("proceed_to_estimate"); go("lead1"); }} className="rounded-lg bg-[#A64A2E] text-white px-6 py-3 font-semibold hover:bg-[#8f3f27] disabled:opacity-40">Get my estimated cost →</button>
                   </div>
                 </div>
               )}
