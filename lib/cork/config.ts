@@ -32,9 +32,9 @@ export const CORK_COLORS: CorkColor[] = [
 
 export const DEFAULT_COLOR_ID = "kc-24"; // KliuCork terracotta — matches the hero deck
 
-/** Pricing — placeholder until real numbers supplied */
+/** Pricing — confirmed rate; band & minimum are sensible defaults, adjust if needed */
 export const CORK_PRICING = {
-  ratePerSqFt: 6.0, // USD — base rate, update when final numbers arrive
+  ratePerSqFt: 7.0, // USD — confirmed rate (2026-07-10)
   /** Range band shown to customer: rate × (1 ± band) */
   band: 0.15,
   minimumProjectPrice: 2500, // floor guard; confirm with Joey
