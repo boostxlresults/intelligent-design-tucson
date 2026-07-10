@@ -4,6 +4,12 @@
  * Cork Pool Deck Visualizer — full-screen journey modal.
  * capture → measure → refine → render → lead1 → lead2 → estimate → book → booked
  * Works desktop / mobile / tablet (pointer events throughout).
+ *
+ * Selection model (refine step): a raster selection MASK, not vector polygons.
+ * The AI's polygons seed a best-guess mask; the visitor then refines it with a
+ * Photoshop-style toolset — a magic-wand tap (flood-fills a same-color slab) and
+ * an add/erase brush. Square footage scales live with the selected area, and the
+ * same mask drives the Gemini render guide.
  */
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -32,10 +38,7 @@ type Step =
   | "book"
   | "booked";
 
-interface Stroke {
-  size: number;
-  points: Array<[number, number]>; // normalized 0-1
-}
+type Tool = "wand" | "brush";
 
 interface MeasureResult {
   sqFt: number;
@@ -48,6 +51,8 @@ const TIME_WINDOWS = ["8–10 AM", "10–12 PM", "12–2 PM", "2–4 PM"];
 // Cap background Gemini prefetch to the default + popular neutrals (cost control).
 // Any other color still renders on-demand when the visitor taps it.
 const PREFETCH_COLOR_IDS = ["kc-24", "kc-01", "kc-06", "kc-07"];
+// Working resolution for the selection mask (long edge). Keeps flood-fill fast.
+const MASK_MAX = 480;
 
 function nextDays(n: number): { label: string; value: string }[] {
   const out: { label: string; value: string }[] = [];
@@ -87,14 +92,76 @@ async function fileToDownscaledJpeg(file: File, maxDim = 1600): Promise<{ dataUr
 
 const b64 = (dataUrl: string) => dataUrl.split(",")[1] ?? "";
 
+/* ---------- mask pixel ops (operate on a flat Uint8Array, 1 = selected) ---------- */
+function stampCircle(sel: Uint8Array, mw: number, mh: number, cx: number, cy: number, r: number, add: boolean) {
+  const r2 = r * r;
+  const y0 = Math.max(0, cy - r);
+  const y1 = Math.min(mh - 1, cy + r);
+  const x0 = Math.max(0, cx - r);
+  const x1 = Math.min(mw - 1, cx + r);
+  const v = add ? 1 : 0;
+  for (let y = y0; y <= y1; y++) {
+    for (let x = x0; x <= x1; x++) {
+      const dx = x - cx;
+      const dy = y - cy;
+      if (dx * dx + dy * dy <= r2) sel[y * mw + x] = v;
+    }
+  }
+}
+
+function stampLine(sel: Uint8Array, mw: number, mh: number, x0: number, y0: number, x1: number, y1: number, r: number, add: boolean) {
+  const dist = Math.hypot(x1 - x0, y1 - y0);
+  const steps = Math.max(1, Math.ceil(dist / Math.max(1, r * 0.5)));
+  for (let s = 0; s <= steps; s++) {
+    const t = s / steps;
+    stampCircle(sel, mw, mh, Math.round(x0 + (x1 - x0) * t), Math.round(y0 + (y1 - y0) * t), r, add);
+  }
+}
+
+// Flood fill from (sx,sy) over pixels whose color is within `tol` of the seed.
+function floodFill(sel: Uint8Array, src: Uint8ClampedArray, mw: number, mh: number, sx: number, sy: number, add: boolean, tol: number) {
+  const start = sy * mw + sx;
+  const sr = src[start * 4];
+  const sg = src[start * 4 + 1];
+  const sb = src[start * 4 + 2];
+  const tol2 = tol * tol * 3;
+  const v = add ? 1 : 0;
+  const visited = new Uint8Array(mw * mh);
+  const stack = [start];
+  visited[start] = 1;
+  const cap = mw * mh;
+  let n = 0;
+  while (stack.length && n < cap) {
+    const p = stack.pop()!;
+    n++;
+    const dr = src[p * 4] - sr;
+    const dg = src[p * 4 + 1] - sg;
+    const db = src[p * 4 + 2] - sb;
+    if (dr * dr + dg * dg + db * db > tol2) continue;
+    sel[p] = v;
+    const x = p % mw;
+    const y = (p / mw) | 0;
+    if (x > 0 && !visited[p - 1]) { visited[p - 1] = 1; stack.push(p - 1); }
+    if (x < mw - 1 && !visited[p + 1]) { visited[p + 1] = 1; stack.push(p + 1); }
+    if (y > 0 && !visited[p - mw]) { visited[p - mw] = 1; stack.push(p - mw); }
+    if (y < mh - 1 && !visited[p + mw]) { visited[p + mw] = 1; stack.push(p + mw); }
+  }
+}
+
 export default function CorkVisualizer({ open, onClose, startAtBooking }: { open: boolean; onClose: () => void; startAtBooking?: boolean }) {
   const [step, setStep] = useState<Step>(startAtBooking ? "book" : "capture");
   const [journeyId, setJourneyId] = useState<string | null>(null);
   const [image, setImage] = useState<{ dataUrl: string; width: number; height: number } | null>(null);
   const [measure, setMeasure] = useState<MeasureResult | null>(null);
-  const [strokes, setStrokes] = useState<Stroke[]>([]);
   const [areaRatio, setAreaRatio] = useState(1);
-  const [brushSize, setBrushSize] = useState(36);
+
+  // selection tools
+  const [tool, setTool] = useState<Tool>("wand");
+  const [addMode, setAddMode] = useState(true); // true = add to selection, false = remove
+  const [brushPct, setBrushPct] = useState(6); // brush radius as % of deck width
+  const [tolerance, setTolerance] = useState(38); // wand color tolerance
+  const [maskVersion, setMaskVersion] = useState(0);
+
   const [colorId, setColorId] = useState(DEFAULT_COLOR_ID);
   const [customHex, setCustomHex] = useState("#A64A2E");
   const [usingCustom, setUsingCustom] = useState(false);
@@ -112,6 +179,13 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const drawing = useRef(false);
   const addrSessionToken = useRef<any>(null);
+
+  // mask state (kept in refs; maskVersion bumps to trigger redraw/recount)
+  const selRef = useRef<Uint8Array | null>(null); // 1 = selected
+  const srcRef = useRef<Uint8ClampedArray | null>(null); // photo pixels at mask res
+  const maskCanvasRef = useRef<HTMLCanvasElement | null>(null);
+  const dimsRef = useRef<{ mw: number; mh: number; seed: number }>({ mw: 0, mh: 0, seed: 0 });
+  const lastPt = useRef<[number, number] | null>(null);
 
   const sqFt = useMemo(
     () => Math.max(50, Math.round((measure?.sqFt ?? 0) * areaRatio)),
@@ -168,7 +242,8 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       const img = await fileToDownscaledJpeg(f);
       setImage(img);
       setMeasure(null);
-      setStrokes([]);
+      selRef.current = null;
+      srcRef.current = null;
       setAreaRatio(1);
       setRenders({});
       rendersRef.current = {};
@@ -184,7 +259,8 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const resetToCapture = () => {
     setImage(null);
     setMeasure(null);
-    setStrokes([]);
+    selRef.current = null;
+    srcRef.current = null;
     setAreaRatio(1);
     setRenders({});
     rendersRef.current = {};
@@ -192,7 +268,62 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     go("capture");
   };
 
-  const runMeasure = async (img: { dataUrl: string }) => {
+  // Build the source-pixel buffer + seed the mask from the AI polygons.
+  const initMask = useCallback(async (m: MeasureResult, img: { dataUrl: string; width: number; height: number }) => {
+    const scale = Math.min(1, MASK_MAX / Math.max(img.width, img.height));
+    const mw = Math.max(1, Math.round(img.width * scale));
+    const mh = Math.max(1, Math.round(img.height * scale));
+
+    const el = new Image();
+    el.src = img.dataUrl;
+    await el.decode().catch(() => null);
+
+    const sc = document.createElement("canvas");
+    sc.width = mw;
+    sc.height = mh;
+    const sctx = sc.getContext("2d", { willReadFrequently: true })!;
+    sctx.drawImage(el, 0, 0, mw, mh);
+    srcRef.current = sctx.getImageData(0, 0, mw, mh).data;
+
+    // rasterize polygons → seed selection
+    const pc = document.createElement("canvas");
+    pc.width = mw;
+    pc.height = mh;
+    const pctx = pc.getContext("2d", { willReadFrequently: true })!;
+    pctx.fillStyle = "#fff";
+    for (const poly of m.polygons) {
+      if (poly.length < 3) continue;
+      pctx.beginPath();
+      pctx.moveTo(poly[0][0] * mw, poly[0][1] * mh);
+      for (const [x, y] of poly.slice(1)) pctx.lineTo(x * mw, y * mh);
+      pctx.closePath();
+      pctx.fill();
+    }
+    const pd = pctx.getImageData(0, 0, mw, mh).data;
+    const sel = new Uint8Array(mw * mh);
+    let seed = 0;
+    for (let i = 0; i < sel.length; i++) {
+      if (pd[i * 4 + 3] > 10) {
+        sel[i] = 1;
+        seed++;
+      }
+    }
+    selRef.current = sel;
+    dimsRef.current = { mw, mh, seed };
+
+    let mc = maskCanvasRef.current;
+    if (!mc) {
+      mc = document.createElement("canvas");
+      maskCanvasRef.current = mc;
+    }
+    mc.width = mw;
+    mc.height = mh;
+
+    setAreaRatio(1);
+    setMaskVersion((v) => v + 1);
+  }, []);
+
+  const runMeasure = async (img: { dataUrl: string; width: number; height: number }) => {
     setBusy(true);
     setError(null);
     try {
@@ -204,6 +335,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       const data = await res.json();
       if (!res.ok) throw new Error(data.error ?? "measure_failed");
       setMeasure(data);
+      await initMask(data, img);
       persist({ sq_ft_estimated: data.sqFt });
       track("measured", { sq_ft: data.sqFt });
     } catch (e) {
@@ -218,125 +350,113 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     }
   };
 
-  /* ---------- overlay drawing ---------- */
+  /* ---------- render mask → canvases + recount on every edit ---------- */
   const drawOverlay = useCallback(() => {
     const canvas = canvasRef.current;
-    if (!canvas || !image) return;
+    const mc = maskCanvasRef.current;
+    if (!canvas) return;
     const ctx = canvas.getContext("2d")!;
     ctx.clearRect(0, 0, canvas.width, canvas.height);
-    if (!measure) return;
-    // deck polygons tint
+    if (!mc) return;
     ctx.save();
-    ctx.fillStyle = "rgba(166,74,46,0.38)";
-    ctx.strokeStyle = "rgba(166,74,46,0.9)";
-    ctx.lineWidth = 2;
-    for (const poly of measure.polygons) {
-      if (poly.length < 3) continue;
-      ctx.beginPath();
-      ctx.moveTo(poly[0][0] * canvas.width, poly[0][1] * canvas.height);
-      for (const [x, y] of poly.slice(1)) ctx.lineTo(x * canvas.width, y * canvas.height);
-      ctx.closePath();
-      ctx.fill();
-      ctx.stroke();
-    }
-    // exclusion strokes punch out
-    ctx.globalCompositeOperation = "destination-out";
-    ctx.lineCap = "round";
-    ctx.lineJoin = "round";
-    for (const s of strokes) {
-      ctx.lineWidth = s.size;
-      ctx.beginPath();
-      s.points.forEach(([x, y], i) => {
-        const px = x * canvas.width;
-        const py = y * canvas.height;
-        if (i === 0) ctx.moveTo(px, py);
-        else ctx.lineTo(px, py);
-      });
-      ctx.stroke();
-    }
+    ctx.drawImage(mc, 0, 0, canvas.width, canvas.height);
+    ctx.globalCompositeOperation = "source-in";
+    ctx.fillStyle = "rgba(166,74,46,0.42)";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
     ctx.restore();
-  }, [image, measure, strokes]);
+  }, []);
+
+  useEffect(() => {
+    const sel = selRef.current;
+    const mc = maskCanvasRef.current;
+    const { mw, mh, seed } = dimsRef.current;
+    if (!sel || !mc) return;
+    // paint selection into the mask canvas (white where selected)
+    const ctx = mc.getContext("2d")!;
+    const id = ctx.createImageData(mw, mh);
+    let count = 0;
+    for (let i = 0; i < sel.length; i++) {
+      if (sel[i]) {
+        id.data[i * 4] = 255;
+        id.data[i * 4 + 1] = 255;
+        id.data[i * 4 + 2] = 255;
+        id.data[i * 4 + 3] = 255;
+        count++;
+      }
+    }
+    ctx.putImageData(id, 0, 0);
+    setAreaRatio(seed > 0 ? count / seed : count > 0 ? 1 : 0);
+    drawOverlay();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [maskVersion, drawOverlay]);
 
   useEffect(() => {
     drawOverlay();
   }, [drawOverlay, step]);
 
-  /* ---------- area ratio from strokes ---------- */
-  useEffect(() => {
-    if (!measure || !image) return;
-    const w = Math.round(image.width / 4);
-    const h = Math.round(image.height / 4);
-    const c = document.createElement("canvas");
-    c.width = w;
-    c.height = h;
-    const ctx = c.getContext("2d", { willReadFrequently: true })!;
-    const fillPolys = () => {
-      ctx.fillStyle = "#fff";
-      for (const poly of measure.polygons) {
-        if (poly.length < 3) continue;
-        ctx.beginPath();
-        ctx.moveTo(poly[0][0] * w, poly[0][1] * h);
-        for (const [x, y] of poly.slice(1)) ctx.lineTo(x * w, y * h);
-        ctx.closePath();
-        ctx.fill();
-      }
-    };
-    const count = () => {
-      const d = ctx.getImageData(0, 0, w, h).data;
-      let n = 0;
-      for (let i = 3; i < d.length; i += 4) if (d[i] > 10) n++;
-      return n;
-    };
-    ctx.clearRect(0, 0, w, h);
-    fillPolys();
-    const full = count();
-    ctx.globalCompositeOperation = "destination-out";
-    ctx.lineCap = "round";
-    ctx.lineJoin = "round";
-    ctx.strokeStyle = "#000";
-    const canvasW = canvasRef.current?.width ?? w;
-    for (const s of strokes) {
-      ctx.lineWidth = (s.size / canvasW) * w;
-      ctx.beginPath();
-      s.points.forEach(([x, y], i) => {
-        if (i === 0) ctx.moveTo(x * w, y * h);
-        else ctx.lineTo(x * w, y * h);
-      });
-      ctx.stroke();
-    }
-    ctx.globalCompositeOperation = "source-over";
-    const remaining = count();
-    setAreaRatio(full > 0 ? remaining / full : 1);
-  }, [strokes, measure, image]);
-
-  /* ---------- brush handlers ---------- */
+  /* ---------- pointer editing ---------- */
   const pointerPos = (e: React.PointerEvent): [number, number] => {
     const canvas = canvasRef.current!;
     const rect = canvas.getBoundingClientRect();
     return [(e.clientX - rect.left) / rect.width, (e.clientY - rect.top) / rect.height];
   };
+
+  const brushRadiusMask = () => Math.max(2, Math.round((brushPct / 100) * dimsRef.current.mw));
+
   const onPointerDown = (e: React.PointerEvent) => {
     if (step !== "refine") return;
+    const sel = selRef.current;
+    if (!sel) return;
     drawing.current = true;
     (e.target as Element).setPointerCapture(e.pointerId);
-    setStrokes((s) => [...s, { size: brushSize, points: [pointerPos(e)] }]);
-  };
-  const onPointerMove = (e: React.PointerEvent) => {
-    if (!drawing.current || step !== "refine") return;
-    const p = pointerPos(e);
-    setStrokes((s) => {
-      const copy = s.slice();
-      copy[copy.length - 1] = { ...copy[copy.length - 1], points: [...copy[copy.length - 1].points, p] };
-      return copy;
-    });
-  };
-  const onPointerUp = () => {
-    drawing.current = false;
+    const { mw, mh } = dimsRef.current;
+    const [nx, ny] = pointerPos(e);
+    const px = Math.min(mw - 1, Math.max(0, Math.round(nx * mw)));
+    const py = Math.min(mh - 1, Math.max(0, Math.round(ny * mh)));
+    if (tool === "wand") {
+      if (srcRef.current) floodFill(sel, srcRef.current, mw, mh, px, py, addMode, tolerance);
+      track("wand_tap", { add: addMode });
+    } else {
+      stampCircle(sel, mw, mh, px, py, brushRadiusMask(), addMode);
+      lastPt.current = [px, py];
+    }
+    setMaskVersion((v) => v + 1);
   };
 
-  /* ---------- guide image for renders ---------- */
+  const onPointerMove = (e: React.PointerEvent) => {
+    if (!drawing.current || step !== "refine" || tool !== "brush") return;
+    const sel = selRef.current;
+    if (!sel) return;
+    const { mw, mh } = dimsRef.current;
+    const [nx, ny] = pointerPos(e);
+    const px = nx * mw;
+    const py = ny * mh;
+    const lp = lastPt.current ?? [px, py];
+    stampLine(sel, mw, mh, lp[0], lp[1], px, py, brushRadiusMask(), addMode);
+    lastPt.current = [px, py];
+    setMaskVersion((v) => v + 1);
+  };
+
+  const onPointerUp = () => {
+    drawing.current = false;
+    lastPt.current = null;
+  };
+
+  const reseedFromAi = () => {
+    if (measure && image) initMask(measure, image);
+  };
+  const clearSelection = () => {
+    const sel = selRef.current;
+    if (!sel) return;
+    sel.fill(0);
+    setMaskVersion((v) => v + 1);
+  };
+
+  /* ---------- guide image for renders (from the mask) ---------- */
   const buildGuide = useCallback(async (): Promise<string | undefined> => {
-    if (!image || !measure || measure.polygons.length === 0) return undefined;
+    if (!image) return undefined;
+    const mc = maskCanvasRef.current;
+    if (!mc) return undefined;
     const img = new Image();
     img.src = image.dataUrl;
     await img.decode().catch(() => null);
@@ -345,36 +465,18 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     c.height = image.height;
     const ctx = c.getContext("2d")!;
     ctx.drawImage(img, 0, 0, c.width, c.height);
-    // mask layer
-    const m = document.createElement("canvas");
-    m.width = c.width;
-    m.height = c.height;
-    const mc = m.getContext("2d")!;
-    mc.fillStyle = "rgba(255,0,255,0.5)";
-    for (const poly of measure.polygons) {
-      if (poly.length < 3) continue;
-      mc.beginPath();
-      mc.moveTo(poly[0][0] * m.width, poly[0][1] * m.height);
-      for (const [x, y] of poly.slice(1)) mc.lineTo(x * m.width, y * m.height);
-      mc.closePath();
-      mc.fill();
-    }
-    mc.globalCompositeOperation = "destination-out";
-    mc.lineCap = "round";
-    mc.lineJoin = "round";
-    const canvasW = canvasRef.current?.width ?? m.width;
-    for (const s of strokes) {
-      mc.lineWidth = (s.size / canvasW) * m.width;
-      mc.beginPath();
-      s.points.forEach(([x, y], i) => {
-        if (i === 0) mc.moveTo(x * m.width, y * m.height);
-        else mc.lineTo(x * m.width, y * m.height);
-      });
-      mc.stroke();
-    }
-    ctx.drawImage(m, 0, 0);
+    // magenta-tint the selected region at full res
+    const t = document.createElement("canvas");
+    t.width = c.width;
+    t.height = c.height;
+    const tc = t.getContext("2d")!;
+    tc.drawImage(mc, 0, 0, t.width, t.height);
+    tc.globalCompositeOperation = "source-in";
+    tc.fillStyle = "rgba(255,0,255,0.5)";
+    tc.fillRect(0, 0, t.width, t.height);
+    ctx.drawImage(t, 0, 0);
     return b64(c.toDataURL("image/jpeg", 0.8));
-  }, [image, measure, strokes]);
+  }, [image]);
 
   /* ---------- rendering ---------- */
   const renderColor = useCallback(
@@ -589,13 +691,17 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
 
               {(step === "measure" || step === "refine") && image && (
                 <div className="max-w-3xl mx-auto px-4 py-6">
-                  <h2 className="text-xl font-bold text-neutral-900">{step === "measure" ? "Measuring your deck…" : "Paint over anything you don't want corked"}</h2>
-                  {step === "measure" && <p className="mt-1 text-sm text-neutral-600">The tinted area is what we detected as deck surface.</p>}
-                  {step === "refine" && <p className="mt-1 text-sm text-neutral-600">Drag your finger or mouse over planters, equipment pads, or anywhere else to exclude it. Square footage updates live.</p>}
+                  <h2 className="text-xl font-bold text-neutral-900">{step === "measure" ? "Measuring your deck…" : "Fine-tune the corked area"}</h2>
+                  {step === "measure" && <p className="mt-1 text-sm text-neutral-600">The tinted area is our best guess at your deck surface — you'll fine-tune it next.</p>}
+                  {step === "refine" && (
+                    <p className="mt-1 text-sm text-neutral-600">
+                      <span className="font-medium">Magic wand:</span> tap a section of deck to grab the whole slab in one shot. <span className="font-medium">Brush:</span> drag to paint areas in or out. Square footage updates live.
+                    </p>
+                  )}
                   <div className="relative mt-4 rounded-xl overflow-hidden select-none touch-none" style={{ aspectRatio: `${image.width}/${image.height}` }}>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={image.dataUrl} alt="Your pool deck" className="absolute inset-0 w-full h-full object-contain" draggable={false} />
-                    <canvas ref={canvasRef} width={image.width} height={image.height} className="absolute inset-0 w-full h-full" style={{ cursor: step === "refine" ? "crosshair" : "default" }} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={onPointerUp} />
+                    <canvas ref={canvasRef} width={image.width} height={image.height} className="absolute inset-0 w-full h-full" style={{ cursor: step === "refine" ? "crosshair" : "default", touchAction: "none" }} onPointerDown={onPointerDown} onPointerMove={onPointerMove} onPointerUp={onPointerUp} onPointerCancel={onPointerUp} />
                     {busy && (
                       <div className="absolute inset-0 bg-white/70 flex flex-col items-center justify-center">
                         <motion.div className="h-1.5 w-48 rounded bg-neutral-200 overflow-hidden">
@@ -605,20 +711,40 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                       </div>
                     )}
                   </div>
+
+                  {/* toolbar (refine only) */}
+                  {step === "refine" && measure && !busy && (
+                    <div className="mt-4 rounded-xl border border-neutral-200 bg-neutral-50 p-3">
+                      <div className="flex flex-wrap items-center gap-2">
+                        <div className="inline-flex rounded-lg overflow-hidden border border-neutral-300">
+                          <button onClick={() => setTool("wand")} className={`px-3 py-2 text-sm font-medium ${tool === "wand" ? "bg-[#A64A2E] text-white" : "bg-white text-neutral-600"}`}>✨ Magic wand</button>
+                          <button onClick={() => setTool("brush")} className={`px-3 py-2 text-sm font-medium ${tool === "brush" ? "bg-[#A64A2E] text-white" : "bg-white text-neutral-600"}`}>🖌 Brush</button>
+                        </div>
+                        <div className="inline-flex rounded-lg overflow-hidden border border-neutral-300">
+                          <button onClick={() => setAddMode(true)} className={`px-3 py-2 text-sm font-medium ${addMode ? "bg-emerald-600 text-white" : "bg-white text-neutral-600"}`}>+ Add</button>
+                          <button onClick={() => setAddMode(false)} className={`px-3 py-2 text-sm font-medium ${!addMode ? "bg-neutral-800 text-white" : "bg-white text-neutral-600"}`}>– Remove</button>
+                        </div>
+                        {tool === "brush" ? (
+                          <label className="flex items-center gap-2 text-sm text-neutral-600">Size
+                            <input type="range" min={2} max={18} value={brushPct} onChange={(e) => setBrushPct(Number(e.target.value))} />
+                          </label>
+                        ) : (
+                          <label className="flex items-center gap-2 text-sm text-neutral-600" title="How close in color a neighboring pixel must be to get grabbed by one tap">Wand sensitivity
+                            <input type="range" min={12} max={80} value={tolerance} onChange={(e) => setTolerance(Number(e.target.value))} />
+                          </label>
+                        )}
+                        <button onClick={reseedFromAi} className="text-sm text-neutral-500 underline">Reset to AI guess</button>
+                        <button onClick={clearSelection} className="text-sm text-neutral-500 underline">Clear</button>
+                      </div>
+                    </div>
+                  )}
+
                   {measure && !busy && (
                     <div className="mt-4 flex flex-wrap items-center gap-3">
-                      <div className="rounded-lg bg-neutral-100 px-4 py-2 text-sm"><span className="font-bold text-neutral-900 text-lg">~{sqFt.toLocaleString()}</span> sq ft estimated</div>
-                      {step === "refine" && (
-                        <>
-                          <label className="flex items-center gap-2 text-sm text-neutral-600">Brush
-                            <input type="range" min={12} max={90} value={brushSize} onChange={(e) => setBrushSize(Number(e.target.value))} />
-                          </label>
-                          <button onClick={() => setStrokes([])} className="text-sm text-neutral-500 underline">Reset</button>
-                        </>
-                      )}
+                      <div className="rounded-lg bg-neutral-100 px-4 py-2 text-sm"><span className="font-bold text-neutral-900 text-lg">~{sqFt.toLocaleString()}</span> sq ft selected</div>
                       <div className="ml-auto flex gap-2 items-center">
                         <button onClick={resetToCapture} className="text-sm text-neutral-500 underline mr-1">Different photo</button>
-                        {step === "measure" && <button onClick={() => go("refine")} className="rounded-lg border border-neutral-300 px-4 py-2 text-sm font-medium hover:bg-neutral-50">Exclude some areas</button>}
+                        {step === "measure" && <button onClick={() => go("refine")} className="rounded-lg border border-neutral-300 px-4 py-2 text-sm font-medium hover:bg-neutral-50">Fine-tune the area</button>}
                         <button onClick={() => go("render")} className="rounded-lg bg-[#A64A2E] text-white px-5 py-2 text-sm font-semibold hover:bg-[#8f3f27]">{step === "measure" ? "Looks right — choose colors" : "Done — choose colors"}</button>
                       </div>
                     </div>
