@@ -176,6 +176,17 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   };
 
   /* ---------- measure ---------- */
+  const resetToCapture = () => {
+    setImage(null);
+    setMeasure(null);
+    setStrokes([]);
+    setAreaRatio(1);
+    setRenders({});
+    rendersRef.current = {};
+    setError(null);
+    go("capture");
+  };
+
   const runMeasure = async (img: { dataUrl: string }) => {
     setBusy(true);
     setError(null);
@@ -190,8 +201,13 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       setMeasure(data);
       persist({ sq_ft_estimated: data.sqFt });
       track("measured", { sq_ft: data.sqFt });
-    } catch {
-      setError("We couldn't measure that photo. Try a wider shot that shows the whole deck.");
+    } catch (e) {
+      const code = e instanceof Error ? e.message : "";
+      setError(
+        code === "measure_unconfigured"
+          ? "Measurement service isn't configured on this deployment (ANTHROPIC_API_KEY missing for this environment)."
+          : `We couldn't measure that photo${code ? ` (${code})` : ""}. Try again or use a different photo.`
+      );
     } finally {
       setBusy(false);
     }
@@ -554,13 +570,20 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                           <button onClick={() => setStrokes([])} className="text-sm text-neutral-500 underline">Reset</button>
                         </>
                       )}
-                      <div className="ml-auto flex gap-2">
+                      <div className="ml-auto flex gap-2 items-center">
+                        <button onClick={resetToCapture} className="text-sm text-neutral-500 underline mr-1">Different photo</button>
                         {step === "measure" && <button onClick={() => go("refine")} className="rounded-lg border border-neutral-300 px-4 py-2 text-sm font-medium hover:bg-neutral-50">Exclude some areas</button>}
                         <button onClick={() => go("render")} className="rounded-lg bg-[#A64A2E] text-white px-5 py-2 text-sm font-semibold hover:bg-[#8f3f27]">{step === "measure" ? "Looks right — choose colors" : "Done — choose colors"}</button>
                       </div>
                     </div>
                   )}
-                  {error && <p className="mt-3 text-sm text-red-600">{error} <button className="underline" onClick={() => runMeasure(image)}>Retry</button></p>}
+                  {error && (
+                    <p className="mt-3 text-sm text-red-600">
+                      {error}{" "}
+                      <button className="underline font-medium" onClick={() => runMeasure(image)}>Retry</button>
+                      <button className="underline font-medium ml-3" onClick={resetToCapture}>Use a different photo</button>
+                    </p>
+                  )}
                 </div>
               )}
 
