@@ -1,9 +1,10 @@
 /**
  * ServiceTitan booking writer.
  * Env: SERVICETITAN_CLIENT_ID, SERVICETITAN_CLIENT_SECRET, SERVICETITAN_TENANT_ID,
- *      SERVICETITAN_APP_KEY, optional SERVICETITAN_BOOKING_PROVIDER_ID.
- * NOTE: Joey has a read/write ServiceTitan app already built — wire its exact
- * booking endpoint/business unit/job type here once creds + details are supplied.
+ *      SERVICETITAN_APP_KEY, SERVICETITAN_BOOKING_PROVIDER_ID,
+ *      optional SERVICETITAN_BUSINESS_UNIT_ID (numeric override)
+ *      optional SERVICETITAN_BUSINESS_UNIT_HINT (name match, default "roofing")
+ * Business unit is auto-resolved by name via the Settings API and cached.
  * Fails gracefully: lead is always persisted + emailed even if booking fails.
  */
 
@@ -23,6 +24,35 @@ async function getToken(): Promise<string | null> {
   if (!res.ok) return null;
   const data = (await res.json()) as { access_token?: string };
   return data.access_token ?? null;
+}
+
+let cachedBusinessUnitId: number | null = null;
+
+async function resolveBusinessUnitId(token: string, tenant: string, appKey: string): Promise<number | null> {
+  const override = process.env.SERVICETITAN_BUSINESS_UNIT_ID;
+  if (override) return Number(override);
+  if (cachedBusinessUnitId) return cachedBusinessUnitId;
+  const hint = (process.env.SERVICETITAN_BUSINESS_UNIT_HINT ?? "roofing").toLowerCase();
+  try {
+    const res = await fetch(
+      `https://api.servicetitan.io/settings/v2/tenant/${tenant}/business-units?active=true&pageSize=200`,
+      { headers: { Authorization: `Bearer ${token}`, "ST-App-Key": appKey } }
+    );
+    if (!res.ok) return null;
+    const data = (await res.json()) as { data?: Array<{ id: number; name?: string; officialName?: string }> };
+    const match = data.data?.find(
+      (bu) => (bu.name ?? "").toLowerCase().includes(hint) || (bu.officialName ?? "").toLowerCase().includes(hint)
+    );
+    if (match) {
+      cachedBusinessUnitId = match.id;
+      return match.id;
+    }
+    console.warn(`[cork] No ServiceTitan business unit matched hint "${hint}"`);
+    return null;
+  } catch (e) {
+    console.error("[cork] business unit lookup failed:", e);
+    return null;
+  }
 }
 
 export interface BookingRequest {
@@ -46,6 +76,7 @@ export async function createCorkBooking(req: BookingRequest): Promise<{ ok: bool
     return { ok: false, error: "servicetitan_unconfigured" };
   }
   try {
+    const businessUnitId = await resolveBusinessUnitId(token, tenant, appKey);
     const res = await fetch(
       `https://api.servicetitan.io/crm/v2/tenant/${tenant}/booking-provider/${provider}/bookings`,
       {
@@ -60,6 +91,7 @@ export async function createCorkBooking(req: BookingRequest): Promise<{ ok: bool
           name: req.name,
           summary: `${req.summary}\nPreferred: ${req.preferredDay} ${req.preferredTimeWindow}\nAddress: ${req.address}`,
           isFirstTimeClient: true,
+          ...(businessUnitId ? { businessUnitId } : {}),
           contacts: [
             { type: "Email", value: req.email },
             { type: "MobilePhone", value: req.phone },
