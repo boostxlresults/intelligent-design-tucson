@@ -26,7 +26,7 @@ export async function sendMail({ to, subject, html, attachment }: SendArgs): Pro
   form.append("subject", subject);
   form.append("html", html);
   if (attachment) {
-    const bytes = Buffer.from(attachment.base64, "base64");
+    const bytes = Uint8Array.from(Buffer.from(attachment.base64, "base64"));
     form.append(
       "attachment",
       new Blob([bytes], { type: attachment.contentType }),

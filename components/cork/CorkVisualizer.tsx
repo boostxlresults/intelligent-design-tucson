@@ -11,20 +11,15 @@ import { AnimatePresence, motion } from "framer-motion";
 import { CORK_COLORS, DEFAULT_COLOR_ID, type CorkColor } from "@/lib/cork/config";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
-declare global {
-  interface Window {
-    dataLayer?: unknown[];
-    google?: any;
-  }
-}
-
 function track(event: string, data: Record<string, unknown> = {}) {
   try {
-    window.dataLayer?.push({ event: `cork_${event}`, ...data });
+    (window as unknown as { dataLayer?: unknown[] }).dataLayer?.push({ event: `cork_${event}`, ...data });
   } catch {
     /* noop */
   }
 }
+
+const getGoogle = (): any => (window as unknown as { google?: any }).google;
 
 type Step =
   | "capture"
@@ -319,10 +314,11 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   };
 
   /* ---------- guide image for renders ---------- */
-  const buildGuide = useCallback((): string | undefined => {
+  const buildGuide = useCallback(async (): Promise<string | undefined> => {
     if (!image || !measure || measure.polygons.length === 0) return undefined;
     const img = new Image();
     img.src = image.dataUrl;
+    await img.decode().catch(() => null);
     const c = document.createElement("canvas");
     c.width = image.width;
     c.height = image.height;
@@ -364,13 +360,14 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     async (color: CorkColor, key: string): Promise<string | null> => {
       if (rendersRef.current[key]) return rendersRef.current[key];
       if (!image) return null;
+      const guideBase64 = await buildGuide();
       const res = await fetch("/api/cork/render", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           imageBase64: b64(image.dataUrl),
           mediaType: "image/jpeg",
-          guideBase64: buildGuide(),
+          guideBase64,
           colorName: `${color.code} ${color.name}`,
           colorHex: color.hex,
         }),
@@ -443,7 +440,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   useEffect(() => {
     if (step !== "book") return;
     const key = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
-    if (!key || window.google?.maps?.places) {
+    if (!key || getGoogle()?.maps?.places) {
       attachAutocomplete();
       return;
     }
@@ -453,8 +450,9 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     s.onload = attachAutocomplete;
     document.head.appendChild(s);
     function attachAutocomplete() {
-      if (!window.google?.maps?.places || !addressRef.current) return;
-      const ac = new window.google.maps.places.Autocomplete(addressRef.current, {
+      const g = getGoogle();
+      if (!g?.maps?.places || !addressRef.current) return;
+      const ac = new g.maps.places.Autocomplete(addressRef.current, {
         componentRestrictions: { country: "us" },
         fields: ["formatted_address"],
         types: ["address"],

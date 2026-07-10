@@ -66,13 +66,31 @@ export async function createJourney(utm?: Record<string, string>): Promise<strin
 export async function updateJourney(id: string, fields: Record<string, unknown>): Promise<void> {
   if (!sql || !id) return;
   await ensureTable();
-  const entries = Object.entries(fields).filter(([k]) => UPDATABLE.has(k));
-  if (entries.length === 0) return;
-  // Build a parameterized update using the tagged-template driver safely per-column.
-  for (const [k, v] of entries) {
-    const val = k === "utm" || k === "notes" ? JSON.stringify(v) : v;
-    await sql`UPDATE cork_journeys SET ${sql.unsafe(k)} = ${val}, updated_at = now() WHERE id = ${id}`;
-  }
+  const f = Object.fromEntries(Object.entries(fields).filter(([k]) => UPDATABLE.has(k)));
+  if (Object.keys(f).length === 0) return;
+  const s = (k: string) => (f[k] === undefined ? null : (f[k] as string | number | null));
+  const j = (k: string) => (f[k] === undefined ? null : JSON.stringify(f[k]));
+  await sql`
+    UPDATE cork_journeys SET
+      step_reached = COALESCE(${s("step_reached")}, step_reached),
+      sq_ft_estimated = COALESCE(${s("sq_ft_estimated")}, sq_ft_estimated),
+      sq_ft_final = COALESCE(${s("sq_ft_final")}, sq_ft_final),
+      selected_color_id = COALESCE(${s("selected_color_id")}, selected_color_id),
+      custom_color_hex = COALESCE(${s("custom_color_hex")}, custom_color_hex),
+      name = COALESCE(${s("name")}, name),
+      email = COALESCE(${s("email")}, email),
+      phone = COALESCE(${s("phone")}, phone),
+      zip = COALESCE(${s("zip")}, zip),
+      address = COALESCE(${s("address")}, address),
+      preferred_day = COALESCE(${s("preferred_day")}, preferred_day),
+      preferred_time_window = COALESCE(${s("preferred_time_window")}, preferred_time_window),
+      price_low_cents = COALESCE(${s("price_low_cents")}, price_low_cents),
+      price_high_cents = COALESCE(${s("price_high_cents")}, price_high_cents),
+      servicetitan_booking_id = COALESCE(${s("servicetitan_booking_id")}, servicetitan_booking_id),
+      utm = COALESCE(${j("utm")}::jsonb, utm),
+      notes = COALESCE(${j("notes")}::jsonb, notes),
+      updated_at = now()
+    WHERE id = ${id}`;
 }
 
 export async function getJourney(id: string): Promise<Record<string, unknown> | null> {
