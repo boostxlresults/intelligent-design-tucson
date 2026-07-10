@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { rateLimit, clientIp } from "@/lib/cork/ratelimit";
 
 export const maxDuration = 60;
 
@@ -11,6 +12,7 @@ Do NOT change the pool, water, coping interior edge, rocks, plants, furniture, p
 }
 
 export async function POST(req: NextRequest) {
+  if (!rateLimit(clientIp(req), 25, 60000)) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
   const key = process.env.GEMINI_API_KEY;
   if (!key) return NextResponse.json({ error: "render_unconfigured" }, { status: 503 });
 

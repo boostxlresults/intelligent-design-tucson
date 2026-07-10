@@ -1,15 +1,16 @@
 import type { Metadata } from "next";
 import VisualizerLauncher from "@/components/cork/VisualizerLauncher";
+import HeroImage from "@/components/cork/HeroImage";
 
 export const metadata: Metadata = {
   title: "Cool Cork Pool Decks Tucson | Walk Barefoot at 109° | Intelligent Design",
   description:
     "Stop burning your feet on scorching concrete. Sprayed cork pool decks stay barefoot-cool in Tucson summer, erase cracks permanently, and grip when wet. Visualize your deck and get an instant price range.",
-  alternates: { canonical: "https://idesignac.com/cool-cork-pool-decks" },
+  alternates: { canonical: "https://www.idesignac.com/cool-cork-pool-decks" },
   openGraph: {
     title: "Cool Cork Pool Decks — Barefoot at 109°F",
     description: "See your own pool deck resurfaced in premium sprayed cork, cracks erased — with an instant price range.",
-    url: "https://idesignac.com/cool-cork-pool-decks",
+    url: "https://www.idesignac.com/cool-cork-pool-decks",
     type: "website",
   },
 };
@@ -87,8 +88,7 @@ export default function CorkPoolDecksPage() {
           </div>
           <div className="relative">
             <div className="aspect-[3/4] max-h-[560px] w-full overflow-hidden rounded-3xl bg-gradient-to-br from-[#A64A2E]/20 to-[#A64A2E]/5">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/images/cork/hero-cork-deck.jpg" alt="Boy lying comfortably barefoot on a terracotta cork pool deck on a 109 degree Tucson day" className="h-full w-full object-cover" />
+              <HeroImage />
             </div>
             <div className="absolute -bottom-4 left-6 rounded-2xl bg-white shadow-xl px-5 py-3 border border-neutral-100">
               <div className="text-xs uppercase tracking-wide text-neutral-500">Outside temp when taken</div>

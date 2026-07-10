@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { rateLimit, clientIp } from "@/lib/cork/ratelimit";
 
 export const maxDuration = 60;
 
@@ -10,6 +11,7 @@ Return STRICT JSON only, no markdown:
 polygons: 1-3 polygons outlining the deck surface, coordinates normalized 0-1 relative to image width/height, 6-14 points each, ordered clockwise.`;
 
 export async function POST(req: NextRequest) {
+  if (!rateLimit(clientIp(req), 6, 60000)) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
   const key = process.env.ANTHROPIC_API_KEY;
   if (!key) return NextResponse.json({ error: "measure_unconfigured" }, { status: 503 });
 

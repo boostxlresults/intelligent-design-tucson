@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { rateLimit, clientIp } from "@/lib/cork/ratelimit";
 import { updateJourney } from "@/lib/cork/journeyStore";
 import { sendMail } from "@/lib/cork/mailgun";
 import { createCorkBooking } from "@/lib/cork/servicetitan";
@@ -6,6 +7,7 @@ import { createCorkBooking } from "@/lib/cork/servicetitan";
 export const maxDuration = 30;
 
 export async function POST(req: NextRequest) {
+  if (!rateLimit(clientIp(req), 6, 300000)) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
   const body = (await req.json()) as {
     journeyId?: string;
     name: string;

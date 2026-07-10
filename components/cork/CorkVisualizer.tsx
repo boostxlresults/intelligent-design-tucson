@@ -45,6 +45,9 @@ interface MeasureResult {
 }
 
 const TIME_WINDOWS = ["8–10 AM", "10–12 PM", "12–2 PM", "2–4 PM"];
+// Cap background Gemini prefetch to the default + popular neutrals (cost control).
+// Any other color still renders on-demand when the visitor taps it.
+const PREFETCH_COLOR_IDS = ["kc-24", "kc-01", "kc-06", "kc-07"];
 
 function nextDays(n: number): { label: string; value: string }[] {
   const out: { label: string; value: string }[] = [];
@@ -102,11 +105,13 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const [estimate, setEstimate] = useState<{ low: number; high: number } | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [busy, setBusy] = useState(false);
+  const [addrSug, setAddrSug] = useState<Array<{ text: string; sug: any }>>([]);
 
   const rendersRef = useRef<Record<string, string>>({});
   const prefetchCancelled = useRef(false);
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const drawing = useRef(false);
+  const addrSessionToken = useRef<any>(null);
 
   const sqFt = useMemo(
     () => Math.max(50, Math.round((measure?.sqFt ?? 0) * areaRatio)),
@@ -410,7 +415,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
         track("color_rendered", { color: key });
         // background prefetch of remaining standard colors, one at a time
         (async () => {
-          for (const c of CORK_COLORS) {
+          for (const c of CORK_COLORS.filter((x) => PREFETCH_COLOR_IDS.includes(x.id))) {
             if (prefetchCancelled.current) return;
             if (!rendersRef.current[c.id]) await renderColor(c, c.id).catch(() => null);
           }
@@ -453,32 +458,73 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
 
   /* ---------- booking ---------- */
   const addressRef = useRef<HTMLInputElement | null>(null);
+
+  // Google Maps bootstrap loader (defines google.maps.importLibrary) for the NEW
+  // Places API. Legacy Autocomplete is retired; we use AutocompleteSuggestion below.
   useEffect(() => {
     if (step !== "book") return;
     const key = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
-    if (!key || getGoogle()?.maps?.places) {
-      attachAutocomplete();
+    if (!key || getGoogle()?.maps?.importLibrary) return;
+    ((g: any) => {
+      let h: any, a: any, k: any;
+      const c = "google", l = "importLibrary", q = "__ib__", m = document;
+      const b: any = (window as any)[c] || ((window as any)[c] = {});
+      const d = b.maps || (b.maps = {});
+      const r = new Set<string>();
+      const e = new URLSearchParams();
+      const u = () =>
+        h ||
+        (h = new Promise<void>((f: any, n: any) => {
+          a = m.createElement("script");
+          e.set("libraries", [...r].join(","));
+          for (k in g) e.set(k.replace(/[A-Z]/g, (t: string) => "_" + t[0].toLowerCase()), g[k]);
+          e.set("callback", c + ".maps." + q);
+          a.src = `https://maps.${c}apis.com/maps/api/js?` + e;
+          d[q] = f;
+          a.onerror = () => (h = n(Error("Google Maps could not load.")));
+          m.head.append(a);
+        }));
+      if (!d[l]) d[l] = (f: string, ...n: any[]) => r.add(f) && u().then(() => d[l](f, ...n));
+    })({ key, v: "weekly" });
+  }, [step]);
+
+  const fetchAddrSuggestions = async (v: string) => {
+    setBooking((prev) => ({ ...prev, address: v }));
+    const g = getGoogle();
+    if (!g?.maps?.importLibrary || v.trim().length < 4) {
+      setAddrSug([]);
       return;
     }
-    const s = document.createElement("script");
-    s.src = `https://maps.googleapis.com/maps/api/js?key=${key}&libraries=places`;
-    s.async = true;
-    s.onload = attachAutocomplete;
-    document.head.appendChild(s);
-    function attachAutocomplete() {
-      const g = getGoogle();
-      if (!g?.maps?.places || !addressRef.current) return;
-      const ac = new g.maps.places.Autocomplete(addressRef.current, {
-        componentRestrictions: { country: "us" },
-        fields: ["formatted_address"],
-        types: ["address"],
+    try {
+      const { AutocompleteSuggestion, AutocompleteSessionToken } = await g.maps.importLibrary("places");
+      if (!addrSessionToken.current) addrSessionToken.current = new AutocompleteSessionToken();
+      const { suggestions } = await AutocompleteSuggestion.fetchAutocompleteSuggestions({
+        input: v,
+        includedRegionCodes: ["us"],
+        sessionToken: addrSessionToken.current,
       });
-      ac.addListener("place_changed", () => {
-        const place = ac.getPlace();
-        if (place?.formatted_address) setBooking((prev) => ({ ...prev, address: place.formatted_address }));
-      });
+      setAddrSug(
+        (suggestions || [])
+          .filter((sg: any) => sg.placePrediction)
+          .slice(0, 5)
+          .map((sg: any) => ({ text: sg.placePrediction.text?.text ?? "", sug: sg }))
+      );
+    } catch {
+      setAddrSug([]);
     }
-  }, [step]);
+  };
+
+  const pickAddr = async (item: { text: string; sug: any }) => {
+    try {
+      const place = item.sug.placePrediction.toPlace();
+      await place.fetchFields({ fields: ["formattedAddress"] });
+      setBooking((prev) => ({ ...prev, address: place.formattedAddress || item.text }));
+    } catch {
+      setBooking((prev) => ({ ...prev, address: item.text }));
+    }
+    setAddrSug([]);
+    addrSessionToken.current = null;
+  };
 
   const submitBooking = async () => {
     setBusy(true);
@@ -701,7 +747,18 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                       ))}
                     </div>
                     <div className="mt-4 text-sm font-medium text-neutral-700">Property address</div>
-                    <input ref={addressRef} value={booking.address} onChange={(e) => setBooking({ ...booking, address: e.target.value })} placeholder="Start typing your address…" className="mt-2 w-full rounded-lg border border-neutral-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-[#A64A2E]" autoComplete="street-address" />
+                    <div className="relative">
+                      <input ref={addressRef} value={booking.address} onChange={(e) => fetchAddrSuggestions(e.target.value)} onBlur={() => setTimeout(() => setAddrSug([]), 150)} placeholder="Start typing your address…" className="mt-2 w-full rounded-lg border border-neutral-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-[#A64A2E]" autoComplete="off" />
+                      {addrSug.length > 0 && (
+                        <ul className="absolute z-10 mt-1 w-full rounded-lg border border-neutral-200 bg-white shadow-lg overflow-hidden">
+                          {addrSug.map((item, i) => (
+                            <li key={i}>
+                              <button type="button" onMouseDown={(ev) => ev.preventDefault()} onClick={() => pickAddr(item)} className="block w-full text-left px-4 py-2 text-sm hover:bg-neutral-100">{item.text}</button>
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </div>
                   </div>
                   {error && <p className="mt-3 text-sm text-red-600">{error}</p>}
                   <button disabled={busy || !booking.day || !booking.window || booking.address.length < 8 || !lead.name || !email_ok || !phone_ok} onClick={submitBooking} className="mt-6 w-full rounded-lg bg-[#A64A2E] text-white px-6 py-4 font-semibold disabled:opacity-40 hover:bg-[#8f3f27]">{busy ? "Sending…" : "Request My Free Inspection"}</button>
