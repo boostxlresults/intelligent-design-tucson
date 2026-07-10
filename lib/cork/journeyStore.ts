@@ -12,9 +12,9 @@ import { neon } from "@neondatabase/serverless";
  * `next build` page-data collection — a bad value would fail the whole build.
  * Instead we sanitize a couple of common paste mistakes, validate the scheme,
  * and degrade to null (no persistence; funnel still emails + books) on anything
- * we can't use.
+ * we can't use. (Return type is inferred so callers keep the precise neon row type.)
  */
-function initSql(): ReturnType<typeof neon> | null {
+function initSql() {
   let url = process.env.DATABASE_URL?.trim();
   if (!url) return null;
   // tolerate common copy/paste artifacts
@@ -88,7 +88,7 @@ export async function createJourney(utm?: Record<string, string>): Promise<strin
   if (!sql) return null;
   await ensureTable();
   const rows = await sql`INSERT INTO cork_journeys (utm) VALUES (${JSON.stringify(utm ?? {})}::jsonb) RETURNING id`;
-  return rows[0]?.id ?? null;
+  return (rows[0] as { id?: string } | undefined)?.id ?? null;
 }
 
 export async function updateJourney(id: string, fields: Record<string, unknown>): Promise<void> {
