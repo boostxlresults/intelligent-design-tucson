@@ -276,7 +276,7 @@ Since 1979, Intelligent Design has been Tucson's trusted HVAC service provider. 
 
 Don't let AC problems disrupt your comfort. [Schedule AC repair service](/services/ac-repair-tucson) today — we respond in an average of 73 minutes with no overtime charges. Most repairs cost $150–$450.
 
-Prevent costly breakdowns with our [$28.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that catches problems early. Need a full replacement? Our [AC installation team](/services/ac-installation-tucson) offers 0% APR financing starting at $98/month with free in-home estimates.
+Prevent costly breakdowns with our [$88.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that catches problems early. Need a full replacement? Our [AC installation team](/services/ac-installation-tucson) offers 0% APR financing starting at $98/month with free in-home estimates.
 
 Call **(520) 333-2665** today or schedule service online.
 

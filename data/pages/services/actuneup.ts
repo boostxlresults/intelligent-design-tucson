@@ -4,12 +4,12 @@ import type { ServicePageData } from '@/types/services';
 import { acTuneupFAQs } from '@/data/faqs/hvac';
 export const actuneupData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Tune-Up Tucson AZ | $28.88 86-Point Inspection | Intelligent Design',
-  description: 'Professional AC tune-up in Tucson for just $28.88. Our 86-point inspection prevents costly breakdowns, extends system life 3-5 years, and improves efficiency 15-25%. Same-day appointments available. Call (520) 333-2665.',
+  title: 'AC Tune-Up Tucson AZ | $88.88 86-Point Inspection | Intelligent Design',
+  description: 'Professional AC tune-up in Tucson for just $88.88. Our 86-point inspection prevents costly breakdowns, extends system life 3-5 years, and improves efficiency 15-25%. Same-day appointments available. Call (520) 333-2665.',
   slug: 'ac-tuneup-tucson',
   
   // Hero Section
-  h1: '$28.88 AC Tune-Up in Tucson | 86-Point Inspection',
+  h1: '$88.88 AC Tune-Up in Tucson | 86-Point Inspection',
   h2Subheading: 'Professional AC maintenance to prevent costly breakdowns \u2014 for less than the cost of dinner out',
   tagline: 'Complete System Diagnostics | All Brands Serviced | Same-Day Appointments Available',
   heroImage: '/generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.webp',
@@ -20,17 +20,17 @@ export const actuneupData: ServicePageData = {
   category: 'HVAC',
 
   // Hero Financing Banner
-  heroFinancingBanner: '$28.88 Complete 86-Point AC Tune-Up | No Hidden Fees',
+  heroFinancingBanner: '$88.88 Complete 86-Point AC Tune-Up | No Hidden Fees',
   
   // Content
   highlights: [
   {
-    "title": "Just $28.88 \u2014 No Hidden Fees",
+    "title": "Just $88.88 \u2014 No Hidden Fees",
     "description": "Complete 86-point inspection | Written report with recommendations | No upsell pressure | Transparent pricing"
   },
   {
     "title": "Prevent $500\u2013$2,000 Emergency Repairs",
-    "description": "Catch small issues before they become major failures | A $28.88 tune-up saves thousands"
+    "description": "Catch small issues before they become major failures | A $88.88 tune-up saves thousands"
   },
   {
     "title": "Comprehensive 86-Point Inspection",
@@ -50,13 +50,13 @@ export const actuneupData: ServicePageData = {
   }
 ],
   content: {
-    mainHeading: '$28.88 AC Tune-Up in Tucson, AZ',
+    mainHeading: '$88.88 AC Tune-Up in Tucson, AZ',
     sections: [
 
       {
             "type": "cta",
-            "heading": "Schedule Your $28.88 AC Tune-Up Today",
-            "content": "Same-day appointments available. No overtime charges. Complete 86-point inspection for just $28.88.",
+            "heading": "Schedule Your $88.88 AC Tune-Up Today",
+            "content": "Same-day appointments available. No overtime charges. Complete 86-point inspection for just $88.88.",
             "buttonText": "Schedule Your Tune-Up",
             "buttonLink": "#schedule"
       },
@@ -72,7 +72,7 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "A $28.88 tune-up prevents $500\u2013$2,000 emergency repairs by catching issues early\u2014failing capacitors, low refrigerant, dirty coils, and worn contactors that would otherwise cause a complete system breakdown during peak summer heat. Regular maintenance extends your system's lifespan by 3\u20135 years, improves efficiency by 15\u201325% (lowering your monthly energy bills significantly), and maintains your manufacturer warranty, which most brands require annual professional maintenance to keep valid."
+            "content": "A $88.88 tune-up prevents $500\u2013$2,000 emergency repairs by catching issues early\u2014failing capacitors, low refrigerant, dirty coils, and worn contactors that would otherwise cause a complete system breakdown during peak summer heat. Regular maintenance extends your system's lifespan by 3\u20135 years, improves efficiency by 15\u201325% (lowering your monthly energy bills significantly), and maintains your manufacturer warranty, which most brands require annual professional maintenance to keep valid."
       },
       {
             "type": "heading",
@@ -112,11 +112,11 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson summers regularly exceed 110\u00b0F, and systems that haven't been maintained are 3x more likely to fail during peak heat. When your AC stops working in July, you're competing with thousands of other emergency calls for limited technician availability\u2014and facing repair bills 2\u20133x higher than preventive maintenance would have cost. Don't wait until it's 112\u00b0 and your AC stops working. Schedule your $28.88 tune-up now while appointments are available."
+            "content": "Tucson summers regularly exceed 110\u00b0F, and systems that haven't been maintained are 3x more likely to fail during peak heat. When your AC stops working in July, you're competing with thousands of other emergency calls for limited technician availability\u2014and facing repair bills 2\u20133x higher than preventive maintenance would have cost. Don't wait until it's 112\u00b0 and your AC stops working. Schedule your $88.88 tune-up now while appointments are available."
       },
       {
             "type": "cta",
-            "heading": "Schedule Your $28.88 AC Tune-Up Today",
+            "heading": "Schedule Your $88.88 AC Tune-Up Today",
             "content": "Same-day appointments available | No overtime charges | Complete 86-point inspection",
             "buttonText": "Schedule Service",
             "buttonLink": "#schedule"
@@ -137,7 +137,7 @@ export const actuneupData: ServicePageData = {
       },
       {
         question: "What does an AC tune-up cost?",
-        answer: "Our 86-point AC tune-up is $28.88. This includes complete system diagnostics, cleaning, calibration, and a written report with recommendations. There are no hidden fees or upsell pressure."
+        answer: "Our 86-point AC tune-up is $88.88. This includes complete system diagnostics, cleaning, calibration, and a written report with recommendations. There are no hidden fees or upsell pressure."
       },
       {
         question: "How long does a tune-up take?",
@@ -149,7 +149,7 @@ export const actuneupData: ServicePageData = {
       },
       {
         question: "Do I need a tune-up if my AC seems to be working fine?",
-        answer: "Yes. Many AC problems develop silently \u2014 low refrigerant, failing capacitors, dirty coils \u2014 and only become obvious when the system fails completely during peak heat. A tune-up catches these issues when they're $28.88 fixes instead of $500+ emergency repairs."
+        answer: "Yes. Many AC problems develop silently \u2014 low refrigerant, failing capacitors, dirty coils \u2014 and only become obvious when the system fails completely during peak heat. A tune-up catches these issues when they're $88.88 fixes instead of $500+ emergency repairs."
       }
     ]
   },
@@ -161,8 +161,8 @@ export const actuneupData: ServicePageData = {
   areaServed: 'Tucson, AZ',
   schema: {
     "@type": "Offer",
-    "name": "$28.88 AC Tune-Up - 86-Point Inspection",
-    "price": "28.88",
+    "name": "$88.88 AC Tune-Up - 86-Point Inspection",
+    "price": "88.88",
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
     "validFrom": "2025-01-01",

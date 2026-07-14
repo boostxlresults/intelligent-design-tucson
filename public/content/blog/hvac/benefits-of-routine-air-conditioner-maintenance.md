@@ -172,6 +172,6 @@ Our Family Protection Plans provide:
 - Extended warranty protection
 - No overtime charges
 
-Schedule our [$28.88 AC tune-up](/services/ac-tuneup-tucson) today — an 86-point inspection that catches problems before they become expensive repairs. Already having AC issues? Our [AC repair team](/services/ac-repair-tucson) responds in an average of 73 minutes.
+Schedule our [$88.88 AC tune-up](/services/ac-tuneup-tucson) today — an 86-point inspection that catches problems before they become expensive repairs. Already having AC issues? Our [AC repair team](/services/ac-repair-tucson) responds in an average of 73 minutes.
 
 Call (520) 333-2665 to enroll in a maintenance plan or schedule your next tune-up. We've been keeping Tucson comfortable since 1979.

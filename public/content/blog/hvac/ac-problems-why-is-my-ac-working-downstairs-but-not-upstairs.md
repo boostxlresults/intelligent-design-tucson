@@ -60,6 +60,6 @@ In a multi-story home, having multiple thermostats can help maintain even temper
 
 Still asking, "Why is my AC working downstairs but not upstairs?" Call [Intelligent Design](/services/ac-repair-tucson) and schedule an appointment with our experienced HVAC technicians. We respond in an average of 73 minutes and diagnose the problem on the first visit.
 
-If your system is undersized or aging, it may be time for a [new AC installation](/services/ac-installation-tucson) — we offer 0% APR financing starting at $98/month. For systems that just need a tune-up, our [$28.88 AC tune-up](/services/ac-tuneup-tucson) includes an 86-point inspection that catches airflow issues before they become expensive problems.
+If your system is undersized or aging, it may be time for a [new AC installation](/services/ac-installation-tucson) — we offer 0% APR financing starting at $98/month. For systems that just need a tune-up, our [$88.88 AC tune-up](/services/ac-tuneup-tucson) includes an 86-point inspection that catches airflow issues before they become expensive problems.
 
 Contact us in Tucson at [(520) 333-2665](tel:+15203332665) for same-day service.

@@ -88,4 +88,4 @@ You and your family deserve to be comfortable in your home, and when your AC uni
 
 What are you waiting for? If your air conditioner has stopped working, [call our AC repair team](/services/ac-repair-tucson) today! We respond in an average of 73 minutes with no overtime charges. Most repairs cost $150–$450.
 
-Want to prevent AC problems before they start? Schedule our [$28.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that catches failing components early. If your system is beyond repair, explore our [AC installation options](/services/ac-installation-tucson) with 0% APR financing from $98/month.
+Want to prevent AC problems before they start? Schedule our [$88.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that catches failing components early. If your system is beyond repair, explore our [AC installation options](/services/ac-installation-tucson) with 0% APR financing from $98/month.

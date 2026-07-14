@@ -52,4 +52,4 @@ The [SunTrac system](https://www.idesignac.com/blog/discover-the-benefits-of-sun
 
 Are you still curious about the answer to the question, "Does air conditioning use gas or electricity?" Or, are you experiencing a malfunction in your air conditioning unit? [Call our AC repair team](/services/ac-repair-tucson) at [(520) 333-2665](tel:+15203332665)! We respond in an average of 73 minutes and our NATE-certified technicians diagnose the problem on the first visit.
 
-Want to keep your electric AC running efficiently? Schedule our [$28.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that improves efficiency 15–25% and lowers your monthly energy bills. Considering an upgrade to a more efficient system? Explore our [AC installation options](/services/ac-installation-tucson) with 0% APR financing.
+Want to keep your electric AC running efficiently? Schedule our [$88.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that improves efficiency 15–25% and lowers your monthly energy bills. Considering an upgrade to a more efficient system? Explore our [AC installation options](/services/ac-installation-tucson) with 0% APR financing.

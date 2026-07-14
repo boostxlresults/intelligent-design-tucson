@@ -55,7 +55,7 @@ export default function KnowledgeHubPage() {
     },
     {
       title: 'Special Offers & Promotions',
-      description: 'Current specials including $28.88 HVAC Tune-Up, $88.88 Drain Clearing, free roof inspections, free online quotes, solar consultations, and flexible financing options.',
+      description: 'Current specials including $88.88 HVAC Tune-Up, $88.88 Drain Clearing, free roof inspections, free online quotes, solar consultations, and flexible financing options.',
       icon: DollarSign,
       href: '/special-offers',
       color: 'text-primary',

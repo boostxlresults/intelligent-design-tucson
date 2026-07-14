@@ -26,7 +26,7 @@ export default function SpecialOffersPage() {
       id: 'hvac-tuneup',
       title: '86-Point HVAC Tune-Up',
       description: 'Professional cleaning, inspection, and system refresh to identify potential issues early and keep your heating and cooling system running efficiently for years to come.',
-      price: '$28.88',
+      price: '$88.88',
       badge: 'Most Popular',
       features: [
         'Complete system diagnostics',

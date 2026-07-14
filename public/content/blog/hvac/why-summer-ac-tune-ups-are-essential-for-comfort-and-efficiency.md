@@ -205,7 +205,7 @@ Our Family Protection Plans provide comprehensive coverage to keep your system r
 
 ## Schedule Your Summer Tune-Up
 
-Don't wait until your AC fails in the heat. Our [$28.88 AC tune-up](/services/ac-tuneup-tucson) includes a comprehensive 86-point inspection that catches failing components before they cause a breakdown.
+Don't wait until your AC fails in the heat. Our [$88.88 AC tune-up](/services/ac-tuneup-tucson) includes a comprehensive 86-point inspection that catches failing components before they cause a breakdown.
 
 Already experiencing AC problems? Our [AC repair team](/services/ac-repair-tucson) responds in an average of 73 minutes with 24/7 emergency availability. If your system is 15+ years old and repairs are mounting, explore our [AC installation options](/services/ac-installation-tucson) with 0% APR financing.
 

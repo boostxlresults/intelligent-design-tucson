@@ -23,7 +23,7 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `How much does AC repair cost in ${location}?`,
-      answer: `AC repair costs in ${location} vary based on the issue. Simple repairs like capacitor replacement start around $150-$300, while major repairs like compressor replacement can range from $1,500-$3,000+. Intelligent Design provides upfront, transparent pricing before any work begins — no hidden fees. We also offer financing options and our $28.88 tune-up special to help prevent costly repairs.`
+      answer: `AC repair costs in ${location} vary based on the issue. Simple repairs like capacitor replacement start around $150-$300, while major repairs like compressor replacement can range from $1,500-$3,000+. Intelligent Design provides upfront, transparent pricing before any work begins — no hidden fees. We also offer financing options and our $88.88 tune-up special to help prevent costly repairs.`
     },
     {
       question: `What HVAC brands do you service in ${location}?`,
@@ -35,7 +35,7 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `How often should I get my AC tuned up in ${location}?`,
-      answer: `In ${location} and the Tucson area, we recommend AC tune-ups twice a year — once in spring before the extreme summer heat, and once in fall before heating season. Tucson's desert climate puts extra stress on HVAC systems due to dust, extreme temperatures (110°F+), and monsoon humidity. Our comprehensive 86-point tune-up is currently just $28.88 and catches problems before they become expensive emergencies.`
+      answer: `In ${location} and the Tucson area, we recommend AC tune-ups twice a year — once in spring before the extreme summer heat, and once in fall before heating season. Tucson's desert climate puts extra stress on HVAC systems due to dust, extreme temperatures (110°F+), and monsoon humidity. Our comprehensive 86-point tune-up is currently just $88.88 and catches problems before they become expensive emergencies.`
     },
     {
       question: `Is Intelligent Design licensed and insured in Arizona?`,

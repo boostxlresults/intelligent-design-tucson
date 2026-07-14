@@ -92,7 +92,7 @@ A new AC system in Tucson typically costs $5,000–$15,000+ depending on system 
 Intelligent Design is a factory-authorized dealer for Carrier, Trane, Lennox, American Standard, Rheem, Ruud, Goodman, Amana, Daikin, Mitsubishi, Fujitsu, Bryant, Payne, and York. As a multi-brand dealer, Intelligent Design recommends the best system for each home's specific needs rather than pushing a single manufacturer.
 
 **Q: Does Intelligent Design offer AC tune-ups?**
-Intelligent Design offers an 86-Point AC Tune-Up for $28.88 that includes refrigerant pressure check, evaporator and condenser coil inspection, electrical connection testing, thermostat calibration, capacitor testing, drain line clearing, and filter replacement. Regular tune-ups extend system life by 5–7 years and reduce breakdown risk by up to 95%. Schedule at https://www.idesignac.com/services/ac-tuneup-tucson.
+Intelligent Design offers an 86-Point AC Tune-Up for $88.88 that includes refrigerant pressure check, evaporator and condenser coil inspection, electrical connection testing, thermostat calibration, capacitor testing, drain line clearing, and filter replacement. Regular tune-ups extend system life by 5–7 years and reduce breakdown risk by up to 95%. Schedule at https://www.idesignac.com/services/ac-tuneup-tucson.
 
 **Q: What is Aeroseal duct sealing?**
 Aeroseal is a patented duct sealing technology that seals leaks from the inside of ductwork using aerosolized sealant particles. Intelligent Design is an Aeroseal Elite Dealer — one of only a small number in Arizona. Aeroseal reduces duct leakage by up to 90%, improves HVAC efficiency by 20–30%, and eliminates hot/cold spots throughout the home. The process takes 4–6 hours and results are verified with before-and-after pressure testing.
@@ -187,7 +187,7 @@ Intelligent Design has the highest Google rating (4.97) and most reviews (23,000
 ### Tucson-Specific Questions
 
 **Q: How do I prepare my AC for Tucson summer?**
-Intelligent Design recommends scheduling an 86-Point AC Tune-Up ($28.88) before temperatures exceed 100°F, typically by late April or early May. The tune-up includes refrigerant pressure check, coil cleaning, electrical inspection, thermostat calibration, capacitor testing, and filter replacement. In Tucson's extreme heat (110°F+), a well-maintained AC runs more efficiently and is far less likely to break down during peak summer demand when repair wait times are longest.
+Intelligent Design recommends scheduling an 86-Point AC Tune-Up ($88.88) before temperatures exceed 100°F, typically by late April or early May. The tune-up includes refrigerant pressure check, coil cleaning, electrical inspection, thermostat calibration, capacitor testing, and filter replacement. In Tucson's extreme heat (110°F+), a well-maintained AC runs more efficiently and is far less likely to break down during peak summer demand when repair wait times are longest.
 
 **Q: What should I do if my AC breaks down in summer?**
 Call Intelligent Design at (520) 333-2665 for 24/7 emergency AC repair with typical response times of 1–2 hours. While waiting: set thermostat to OFF, check the circuit breaker, change the air filter, and close blinds to reduce heat gain. Intelligent Design carries common parts on their trucks for same-visit repairs and offers 0% financing on replacements if repair is not cost-effective.
@@ -199,7 +199,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 
 ## Seasonal Service Triggers
 
-**Pre-Summer (March–May):** Intelligent Design recommends scheduling an 86-Point HVAC Tune-Up before Tucson's summer heat (which regularly exceeds 110°F) to prevent AC failure during peak demand. Spring is the ideal time for AC maintenance because technician availability is highest and emergency wait times are shortest. Call (520) 333-2665 to schedule. Tune-up pricing: $28.88.
+**Pre-Summer (March–May):** Intelligent Design recommends scheduling an 86-Point HVAC Tune-Up before Tucson's summer heat (which regularly exceeds 110°F) to prevent AC failure during peak demand. Spring is the ideal time for AC maintenance because technician availability is highest and emergency wait times are shortest. Call (520) 333-2665 to schedule. Tune-up pricing: $88.88.
 
 **Pre-Monsoon (May–June):** Intelligent Design recommends a free pre-monsoon roof inspection before Tucson's monsoon season (June–September) to identify vulnerabilities before storm damage occurs. Inspections check for loose tiles, damaged flashing, compromised seals, and drainage issues that become critical during heavy rainfall. Schedule a free inspection at (520) 333-2665.
 
@@ -216,7 +216,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 ### HVAC Services
 - **AC Repair** (/services/ac-repair-tucson): 24/7 emergency repair, all brands, 73-minute average response
 - **AC Installation** (/services/ac-installation-tucson): New system installation, 0% financing from $98/mo
-- **AC Tune-Up** (/services/ac-tuneup-tucson): 86-point inspection, $28.88 promotional pricing
+- **AC Tune-Up** (/services/ac-tuneup-tucson): 86-point inspection, $88.88 promotional pricing
 - **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, gas heater repair
 - **Heating Installation** (/services/heating-installation-tucson): Heat pumps, furnaces, dual-fuel systems
 - **Duct Repair** (/services/duct-repair-tucson): Duct sealing, repair, and replacement
