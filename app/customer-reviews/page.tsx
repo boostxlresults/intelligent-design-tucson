@@ -427,6 +427,19 @@ export default function CustomerReviewsPage() {
                 <span className="text-muted-foreground">•</span>
                 <span><strong className="text-foreground">5.0 Average Rating</strong></span>
               </div>
+
+              <div className="mt-8 flex justify-center">
+                <a
+                  href="https://www.intelligentdesignreviews.com/"
+                  target="_blank"
+                  rel="noopener"
+                  data-testid="link-all-id-reviews"
+                  className="inline-flex items-center gap-2 rounded-lg bg-primary px-8 py-4 text-base font-bold text-primary-foreground shadow-md hover:bg-primary/90 transition-colors"
+                >
+                  See All Intelligent Design Reviews
+                  <span aria-hidden="true">→</span>
+                </a>
+              </div>
             </div>
 
           </div>
