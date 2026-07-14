@@ -7,7 +7,7 @@ import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 /**
  * DrainClearingCoupon Component
  * 
- * Prominent, coupon-style promotional section for the $88.88 Drain Clearing Special
+ * Prominent, coupon-style promotional section for the $48.88 Drain Clearing Special
  * Features above-the-fold placement for maximum visibility and conversion
  */
 export default function DrainClearingCoupon() {
@@ -37,7 +37,7 @@ export default function DrainClearingCoupon() {
                   <div className="bg-gradient-to-r from-red-600 to-red-700 text-white px-6 py-3 rounded-lg shadow-lg">
                     <p className="text-sm font-semibold">DRAIN CLEARING SPECIAL</p>
                     <p className="text-5xl md:text-6xl font-black">
-                      $88<sup className="text-3xl">.88</sup>
+                      $48<sup className="text-3xl">.88</sup>
                     </p>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function DrainClearingCoupon() {
                 </div>
 
                 <p className="text-xs text-gray-500 italic">
-                  *$88.88 special applies to standard residential drain clearing. Main sewer lines, 
+                  *$48.88 special applies to standard residential drain clearing. Main sewer lines, 
                   hydro jetting, and emergency after-hours service may require additional fees. 
                   Valid for new customers in Tucson service area.
                 </p>

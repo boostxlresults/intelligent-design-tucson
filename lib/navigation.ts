@@ -113,7 +113,7 @@ export const plumbingSubItems: ServiceColumns = {
   ],
   column2: [
     { name: "Drain Clearing Tucson", href: "/services/drain-clearing", icon: Waves },
-    { name: "$88.88 Drain Clearing Special", href: "/drain-clearing-special", icon: DollarSign },
+    { name: "$48.88 Drain Clearing Special", href: "/drain-clearing-special", icon: DollarSign },
     { name: "Rooter Special", href: "/services/rooter-special", icon: Wind },
     { name: "Leak Detection", href: "/services/leak-detection", icon: Search },
     { name: "Water Leak Repair", href: "/services/water-leak-repair", icon: Droplets },

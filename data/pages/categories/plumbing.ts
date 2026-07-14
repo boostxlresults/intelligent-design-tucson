@@ -27,7 +27,7 @@ export const plumbingCategoryData: ServiceCategoryData = {
     {
       name: 'Drain Clearing',
       slug: 'drain-clearing',
-      description: 'Fast drain clearing for clogged sinks, tubs, and main lines. $88.88 drain clearing special available.',
+      description: 'Fast drain clearing for clogged sinks, tubs, and main lines. $48.88 drain clearing special available.',
       image: '/generated_images/Professional_drain_clearing_service_46ea7cfd.webp'
     },
     {
@@ -81,7 +81,7 @@ export const plumbingCategoryData: ServiceCategoryData = {
       description: 'Know the cost before we start. No hourly surprises or hidden fees.'
     },
     {
-      title: '$88.88 Drain Special',
+      title: '$48.88 Drain Special',
       description: 'Affordable drain clearing for clogged drains. Most clogs cleared same-day.'
     },
     {

@@ -6,19 +6,19 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 import DrainClearingCoupon from '@/components/specials/DrainClearingCoupon';
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: '$88.88 Drain Clearing Special | Same-Day Service | Intelligent Design Tucson',
-  description: 'Professional drain clearing for just $88.88 in Tucson! Licensed master plumbers clear stubborn clogs in kitchen sinks, bathroom drains, toilets & tubs. Same-day service available. Family & veteran-owned with 23,000+ 5-star reviews. No hidden fees.',
+  title: '$48.88 Drain Clearing Special | Same-Day Service | Intelligent Design Tucson',
+  description: 'Professional drain clearing for just $48.88 in Tucson! Licensed master plumbers clear stubborn clogs in kitchen sinks, bathroom drains, toilets & tubs. Same-day service available. Family & veteran-owned with 23,000+ 5-star reviews. No hidden fees.',
   canonicalUrl: 'https://www.idesignac.com/services/drain-clearing-special',
-  keywords: ['drain clearing special Tucson', 'cheap drain cleaning', 'affordable plumber Tucson', 'clogged drain service', '$88.88 drain clearing', 'drain rooter service'],
+  keywords: ['drain clearing special Tucson', 'cheap drain cleaning', 'affordable plumber Tucson', 'clogged drain service', '$48.88 drain clearing', 'drain rooter service'],
 });
 
 // Schema markup for the special offer
 const offerSchema = {
   "@context": "https://schema.org",
   "@type": "Offer",
-  "name": "$88.88 Drain Clearing Special",
+  "name": "$48.88 Drain Clearing Special",
   "description": "Professional residential drain clearing service for kitchen sinks, bathroom drains, toilets, and tubs",
-  "price": "88.88",
+  "price": "48.88",
   "priceCurrency": "USD",
   "availability": "https://schema.org/InStock",
   "validFrom": "2024-01-01",
@@ -62,7 +62,7 @@ export default function DrainClearingSpecialPage() {
     {
       icon: ThumbsUp,
       title: 'Upfront Pricing',
-      description: 'No surprise charges. The price we quote is the price you pay - just $88.88 for standard residential drain clearing.',
+      description: 'No surprise charges. The price we quote is the price you pay - just $48.88 for standard residential drain clearing.',
     },
     {
       icon: Shield,
@@ -95,7 +95,7 @@ export default function DrainClearingSpecialPage() {
               </Link>
               <ChevronRight className="w-4 h-4" />
               <span className="text-foreground" data-testid="text-breadcrumb-current">
-                $88.88 Drain Clearing Special
+                $48.88 Drain Clearing Special
               </span>
             </div>
           </div>
@@ -110,7 +110,7 @@ export default function DrainClearingSpecialPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">What's Included in This Special?</h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Our $88.88 special covers standard residential drain clearing for common household clogs
+                Our $48.88 special covers standard residential drain clearing for common household clogs
               </p>
             </div>
 
@@ -299,9 +299,9 @@ export default function DrainClearingSpecialPage() {
             <div className="space-y-6">
               <Card>
                 <CardContent className="p-6">
-                  <h3 className="text-lg font-semibold mb-2">Is the $88.88 price really all I pay?</h3>
+                  <h3 className="text-lg font-semibold mb-2">Is the $48.88 price really all I pay?</h3>
                   <p className="text-muted-foreground">
-                    Yes! For standard residential drain clearing (kitchen sinks, bathroom drains, toilets, tubs), $88.88 is the total price with no hidden fees. Main sewer lines, hydro jetting, or emergency after-hours service may require additional charges, which we'll always quote upfront before beginning work.
+                    Yes! For standard residential drain clearing (kitchen sinks, bathroom drains, toilets, tubs), $48.88 is the total price with no hidden fees. Main sewer lines, hydro jetting, or emergency after-hours service may require additional charges, which we'll always quote upfront before beginning work.
                   </p>
                 </CardContent>
               </Card>
@@ -319,7 +319,7 @@ export default function DrainClearingSpecialPage() {
                 <CardContent className="p-6">
                   <h3 className="text-lg font-semibold mb-2">What if the clog is in my main sewer line?</h3>
                   <p className="text-muted-foreground">
-                    Main sewer line clearing requires specialized equipment and is priced separately from our $88.88 special. Our technician will assess the situation, explain your options, and provide upfront pricing before proceeding with any additional work.
+                    Main sewer line clearing requires specialized equipment and is priced separately from our $48.88 special. Our technician will assess the situation, explain your options, and provide upfront pricing before proceeding with any additional work.
                   </p>
                 </CardContent>
               </Card>

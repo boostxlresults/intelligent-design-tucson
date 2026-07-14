@@ -7,13 +7,13 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 
 export const rooterspecialData: ServicePageData = {
   // SEO & Meta
-  title: 'Rooter Services & Drain Clearing Tucson AZ | $88.88 Special Offer',
-  description: 'Professional rooter service in Tucson. $88.88 Rooter Special for clogged drains & sewer lines. Same-day service, video inspection, hydro jetting. Call (520) 333-2665 for expert drain clearing.',
+  title: 'Rooter Services & Drain Clearing Tucson AZ | $48.88 Special Offer',
+  description: 'Professional rooter service in Tucson. $48.88 Rooter Special for clogged drains & sewer lines. Same-day service, video inspection, hydro jetting. Call (520) 333-2665 for expert drain clearing.',
   slug: 'rooter-special',
   
   // Hero Section
   h1: 'Professional Rooter Services & Drain Clearing in Tucson, AZ',
-  h2Subheading: '$88.88 Rooter Special - Limited Time Offer!',
+  h2Subheading: '$48.88 Rooter Special - Limited Time Offer!',
   tagline: 'Same-Day Service | Clogged Drains & Sewer Lines | Video Camera Inspection | Hydro Jetting | Emergency Service Available | 46+ years Experience',
   heroImage: '/generated_images/Professional_rooter_drain_clearing_a93068d8.webp',
   heroImageAlt: 'Professional Rooter Special Service in Tucson',
@@ -25,7 +25,7 @@ export const rooterspecialData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "$88.88 Rooter Special Offer",
+    "title": "$48.88 Rooter Special Offer",
     "description": "Unbeatable limited time pricing | Standard drain clearing | Most residential clogs | Valid for new customers | Call today"
   },
   {
@@ -61,7 +61,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "A clogged drain is more than an inconvenience—it disrupts your daily routine, creates unsanitary conditions, and can lead to costly water damage if not addressed promptly. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide professional rooter and [link:/services/drain-clearing|drain clearing] services throughout Tucson and surrounding areas with our special $88.88 Rooter Service offer for standard residential clogs. Whether you're dealing with a slow kitchen sink, backed-up toilet, or complete sewer line blockage, our licensed master plumbers have the professional equipment and expertise to clear the clog and restore proper drainage quickly and effectively."
+            "content": "A clogged drain is more than an inconvenience—it disrupts your daily routine, creates unsanitary conditions, and can lead to costly water damage if not addressed promptly. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide professional rooter and [link:/services/drain-clearing|drain clearing] services throughout Tucson and surrounding areas with our special $48.88 Rooter Service offer for standard residential clogs. Whether you're dealing with a slow kitchen sink, backed-up toilet, or complete sewer line blockage, our licensed master plumbers have the professional equipment and expertise to clear the clog and restore proper drainage quickly and effectively."
       },
       {
             "type": "paragraph",
@@ -77,20 +77,20 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Schedule Your $88.88 Rooter Special Today",
-            "content": "Don't let clogged drains disrupt your day. Professional rooter service with same-day availability. Call (520) 333-2665 or schedule online now. Limited time $88.88 special for standard residential drain clearing. Flexible financing available through approved credit.",
+            "heading": "Schedule Your $48.88 Rooter Special Today",
+            "content": "Don't let clogged drains disrupt your day. Professional rooter service with same-day availability. Call (520) 333-2665 or schedule online now. Limited time $48.88 special for standard residential drain clearing. Flexible financing available through approved credit.",
             "buttonText": "Call Now: (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
       {
             "type": "heading",
-            "heading": "$88.88 Rooter Special - What's Included",
+            "heading": "$48.88 Rooter Special - What's Included",
             "level": 2,
-            "content": "$88.88 Rooter Special - What's Included"
+            "content": "$48.88 Rooter Special - What's Included"
       },
       {
             "type": "paragraph",
-            "content": "Our $88.88 Rooter Special provides exceptional value for Tucson homeowners dealing with common drain clogs. This limited-time offer includes professional drain clearing service that typically costs $150-200, making it the best rooter value in Southern Arizona. The special applies to standard residential drain clogs in kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Here's exactly what you receive with our $88.88 Rooter Special:"
+            "content": "Our $48.88 Rooter Special provides exceptional value for Tucson homeowners dealing with common drain clogs. This limited-time offer includes professional drain clearing service that typically costs $150-200, making it the best rooter value in Southern Arizona. The special applies to standard residential drain clogs in kitchen sinks, bathroom sinks, tubs, showers, and standard toilet clogs. Here's exactly what you receive with our $48.88 Rooter Special:"
       },
       {
             "type": "list",
@@ -110,7 +110,7 @@ export const rooterspecialData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Important Details About Our $88.88 Rooter Special: This special offer applies to standard residential drain clogs that can be cleared with cable snaking equipment. Main sewer line clogs, severe root intrusion requiring hydro jetting, and commercial properties require different pricing due to equipment and time requirements—but we always provide upfront estimates before beginning work so you know exactly what to expect. The $88.88 special is available for new customers and can be applied to most common household drain issues including slow kitchen sinks from grease buildup, bathroom sink and tub drains clogged with hair, standard toilet clogs, and laundry drain backups. Additional charges may apply for emergency after-hours service, camera inspection (recommended for recurring clogs), hydro jetting service for severe buildup, or main sewer line clearing requiring heavy-duty equipment. We always explain your options and pricing clearly before proceeding with any service."
+            "content": "Important Details About Our $48.88 Rooter Special: This special offer applies to standard residential drain clogs that can be cleared with cable snaking equipment. Main sewer line clogs, severe root intrusion requiring hydro jetting, and commercial properties require different pricing due to equipment and time requirements—but we always provide upfront estimates before beginning work so you know exactly what to expect. The $48.88 special is available for new customers and can be applied to most common household drain issues including slow kitchen sinks from grease buildup, bathroom sink and tub drains clogged with hair, standard toilet clogs, and laundry drain backups. Additional charges may apply for emergency after-hours service, camera inspection (recommended for recurring clogs), hydro jetting service for severe buildup, or main sewer line clearing requiring heavy-duty equipment. We always explain your options and pricing clearly before proceeding with any service."
       }
     ]
   },

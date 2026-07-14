@@ -39,7 +39,7 @@ export const drainclearingData: ServicePageData = {
   },
   {
     "title": "Upfront Pricing",
-    "description": "No hidden fees | Clear cost estimates | $88.88 drain clearing special available | Multiple payment options"
+    "description": "No hidden fees | Clear cost estimates | $48.88 drain clearing special available | Multiple payment options"
   },
   {
     "title": "Prevention & Maintenance",
@@ -79,7 +79,7 @@ export const drainclearingData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Schedule Your Drain Clearing Today",
-            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $88.88 drain clearing special available. Flexible financing options through approved credit.",
+            "content": "Don't let clogged drains disrupt your day. Fast, professional drain clearing with same-day service available. Call (520) 333-2665 or schedule online now. $48.88 drain clearing special available. Flexible financing options through approved credit.",
             "buttonText": "Schedule Service",
             "buttonLink": "tel:+15203332665"
       },

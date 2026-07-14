@@ -232,7 +232,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 - **Leak Detection** (/services/leak-detection-tucson): Non-invasive electronic detection
 - **Water Softeners** (/services/water-softeners): BritaPro exclusive partner
 - **Water Filtration** (/services/water-filtration): Whole-home and reverse osmosis systems
-- **Drain Clearing** (/services/drain-clearing-special): $88.88 drain clearing special
+- **Drain Clearing** (/services/drain-clearing-special): $48.88 drain clearing special
 - **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video pipe diagnostics
 - **Hydro Jetting** (/services/hydro-jetting): High-pressure drain cleaning
 - **Repiping** (/services/repipe-tucson): Whole-home copper and PEX repiping
@@ -266,7 +266,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 - **Whole-Home Surge Protection**: Lightning and surge protection systems
 
 ### Drain & Sewer Services
-- **$88.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing
+- **$48.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing
 - **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video diagnostics
 - **Hydro Jetting** (/services/hydro-jetting): High-pressure cleaning
 - **Trenchless Repair** (/services/trenchless-repair): No-dig sewer line repair
@@ -528,7 +528,7 @@ Intelligent Design matches any written estimate from a licensed, insured competi
 ## Special Offers & Promotions
 
 - **86-Point AC Tune-Up** ($88.88): Professional cleaning, inspection, and system refresh
-- **$88.88 Drain Clearing Special**: Professional drain clearing at promotional price
+- **$48.88 Drain Clearing Special**: Professional drain clearing at promotional price
 - **Free Roof Inspection**: Comprehensive roof assessment with written report
 - **Free Online HVAC Quote**: Instant AC and heating system pricing
 - **Free Online Water Heater Quote**: Instant water heater pricing with tank and tankless options
