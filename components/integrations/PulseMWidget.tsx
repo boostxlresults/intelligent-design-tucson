@@ -32,8 +32,11 @@ export default function PulseMWidget() {
   const pathname = usePathname();
   const scriptLoadedRef = useRef(false);
 
-  // Load the PulseM script once — never remove it
+  // Load the PulseM script ONLY on the reviews page, where the widget is shown.
+  // It used to load on every page (mounting a Vue widget for no visible benefit),
+  // which hurt mobile INP. Once loaded it persists for the session.
   useEffect(() => {
+    if (pathname !== '/customer-reviews') return;
     if (scriptLoadedRef.current) return;
     if (document.getElementById('pulsem-embed-gsd')) {
       scriptLoadedRef.current = true;
@@ -47,7 +50,7 @@ export default function PulseMWidget() {
     script.setAttribute('data-id', '3c6726153cb6483806907b70d6fae3496e2ef6d0a4077d6259c4407abcd67caf');
     script.defer = true;
     document.body.appendChild(script);
-  }, []); // run once on mount only
+  }, [pathname]); // (re)check on navigation so it loads when the user opens /customer-reviews
 
   // Show/hide the widget based on current page
   useEffect(() => {
