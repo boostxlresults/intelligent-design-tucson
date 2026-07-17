@@ -92,6 +92,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/resources',
     '/blog',
     '/service-map',
+    '/compare/tucson-hvac-companies',
+    '/compare/tucson-plumbers',
+    '/compare/tucson-roofing-companies',
+    '/compare/tucson-solar-companies',
   ];
 
   corePages.forEach((page) => {
