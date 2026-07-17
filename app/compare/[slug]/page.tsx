@@ -2,15 +2,19 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Phone, Star, ShieldCheck, MapPin, Check, ArrowRight } from "lucide-react";
+import { Phone, Star, ShieldCheck, MapPin, ArrowRight } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import TrustBar from "@/components/content/TrustBar";
-import { COMPARE_VERTICALS, getVertical, IDACH, type Tri } from "@/lib/compare/data";
+import { COMPARE_VERTICALS, getVertical, type Competitor, type Tri } from "@/lib/compare/data";
 import SecondOpinionForm from "@/components/compare/SecondOpinionForm";
 import CompareAnalytics from "@/components/compare/CompareAnalytics";
 
 const SITE = "https://www.idesignac.com";
 const PHONE_DISPLAY = "(520) 333-2665";
+const IDACH_NAME = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
+
+type Tone = "good" | "bad" | "neutral" | "muted";
+interface Field { label: string; value: string; tone: Tone; }
 
 export function generateStaticParams() {
   return COMPARE_VERTICALS.map((v) => ({ slug: v.slug }));
@@ -30,17 +34,48 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   };
 }
 
-/** Ownership cell: Yes/No/— with color. */
-function own(t: Tri, goodValue: "yes" | "no") {
-  if (t === "unknown") return <span className="text-neutral-400">—</span>;
-  const good = t === goodValue;
-  return <span className={`font-semibold ${good ? "text-emerald-600" : "text-rose-500"}`}>{t === "yes" ? "Yes" : "No"}</span>;
+function ownField(label: string, t: Tri, good: "yes" | "no"): Field {
+  if (t === "unknown") return { label, value: "—", tone: "muted" };
+  return { label, value: t === "yes" ? "Yes" : "No", tone: t === good ? "good" : "bad" };
 }
-/** Capability cell for our own row / competitors. */
-function cap(t: Tri) {
-  if (t === "yes") return <Check className="mx-auto h-5 w-5 text-emerald-600" aria-label="Yes" />;
-  if (t === "no") return <span className="text-neutral-400">—</span>;
-  return <span className="text-neutral-400">—</span>;
+
+const ID_FIELDS: Field[] = [
+  { label: "Locally Owned", value: "Yes", tone: "good" },
+  { label: "Private Equity Owned", value: "No", tone: "good" },
+  { label: "Google Rating", value: "4.97★", tone: "neutral" },
+  { label: "# Reviews", value: "23,000+", tone: "neutral" },
+  { label: "BBB Rating", value: "A+", tone: "neutral" },
+  { label: "Veteran Owned", value: "Yes", tone: "good" },
+  { label: "24/7 Emergency", value: "Yes", tone: "good" },
+];
+
+function fieldsFor(c: Competitor): Field[] {
+  return [
+    ownField("Locally Owned", c.locallyOwned, "yes"),
+    ownField("Private Equity Owned", c.peOwned, "no"),
+    { label: "Google Rating", value: c.rating ? `${c.rating}★` : "—", tone: c.rating ? "neutral" : "muted" },
+    { label: "# Reviews", value: c.reviews ?? "—", tone: c.reviews ? "neutral" : "muted" },
+    { label: "BBB Rating", value: c.bbb ?? "—", tone: c.bbb ? "neutral" : "muted" },
+    { label: "Veteran Owned", value: "—", tone: "muted" },
+    { label: "24/7 Emergency", value: "—", tone: "muted" },
+  ];
+}
+
+function toneCls(t: Tone) {
+  return t === "good" ? "font-bold text-emerald-600" : t === "bad" ? "font-bold text-rose-500" : t === "neutral" ? "font-bold text-foreground" : "text-neutral-400";
+}
+
+function Chips({ fields }: { fields: Field[] }) {
+  return (
+    <div className="mt-3 flex flex-wrap gap-x-5 gap-y-1.5 text-sm">
+      {fields.map((f) => (
+        <span key={f.label} className="whitespace-nowrap">
+          <span className="text-muted-foreground">{f.label}: </span>
+          <span className={toneCls(f.tone)}>{f.value}</span>
+        </span>
+      ))}
+    </div>
+  );
 }
 
 export default async function ComparePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -55,7 +90,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
       {
         "@type": [v.schemaType, "LocalBusiness"],
         "@id": `${url}#business`,
-        name: IDACH.name,
+        name: IDACH_NAME,
         alternateName: "Intelligent Design",
         url: SITE,
         telephone: "+1-520-333-2665",
@@ -70,14 +105,12 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
     ],
   };
 
-  const cols = ["Company", "Locally Owned", "Private Equity Owned", "Google Rating", "# Reviews", "BBB Rating", "Veteran Owned", "24/7 Emergency"];
-
   return (
     <div className="bg-background text-foreground">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       <CompareAnalytics vertical={v.verticalLabel} />
 
-      {/* ── HERO (family photo + brand gradient, like the homepage) ── */}
+      {/* ── HERO ── */}
       <section className="relative flex min-h-[440px] items-center overflow-hidden md:min-h-[460px]">
         <div className="absolute inset-0 z-0">
           <Image src="/images/hero-family-mobile.webp" alt="The Dobbins family, owners of Intelligent Design, in Tucson" fill priority sizes="100vw" className="object-cover object-top md:hidden" />
@@ -107,55 +140,56 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
 
       <TrustBar />
 
-      {/* ── Intro + comparison table ── */}
-      <section className="mx-auto max-w-6xl px-4 py-12 md:px-8 md:py-16">
+      {/* ── Comparison: one card per company, data stacked below the name (no horizontal scroll) ── */}
+      <section className="mx-auto max-w-4xl px-4 py-12 md:px-8 md:py-16">
         <h2 className="text-2xl font-bold text-primary md:text-3xl">Tucson {v.noun}, side by side</h2>
-        <p className="mt-3 max-w-3xl text-base leading-relaxed text-muted-foreground">{v.intro}</p>
+        <p className="mt-3 text-base leading-relaxed text-muted-foreground">{v.intro}</p>
 
-        <div className="mt-6 rounded-lg bg-primary/5 px-4 py-3 text-sm font-semibold text-primary md:hidden">
-          Tip: swipe the table sideways to see every column →
+        <div id="compare-table" className="mt-8 space-y-4">
+          {/* Our team — highlighted */}
+          <div className="rounded-2xl border-2 border-[#e8a020] bg-amber-50/60 p-5 shadow-sm">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="rounded bg-[#e8a020] px-2 py-0.5 text-[11px] font-black text-[#0d2d7a]">OUR TEAM</span>
+              <h3 className="text-lg font-extrabold text-[#0d2d7a]">Intelligent Design</h3>
+            </div>
+            <Chips fields={ID_FIELDS} />
+            <p className="mt-3 text-sm text-foreground">
+              Locally owned &amp; veteran-owned, 4.97★ across 23,000+ reviews — and we&apos;ll give you a{" "}
+              <a href="#second-opinion" className="font-bold text-primary underline">free second opinion</a> on any {v.verticalLabel.toLowerCase()} quote.{" "}
+              <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
+            </p>
+          </div>
+
+          {/* Competitors */}
+          {v.competitors.map((c) => (
+            <div key={c.anchor} id={c.anchor} data-competitor={c.anchor} className="scroll-mt-24 rounded-2xl border border-border bg-card p-5 shadow-sm">
+              <div className="flex flex-wrap items-center gap-2">
+                <h3 className="text-lg font-bold text-primary">{c.name}</h3>
+                {c.peOwned === "yes" && <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">Private-equity owned</span>}
+                {c.national && <span className="rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-bold text-neutral-600">National brand</span>}
+                {c.closed && <span className="rounded-full bg-rose-100 px-2.5 py-0.5 text-xs font-bold text-rose-700">No longer operating</span>}
+              </div>
+              <Chips fields={fieldsFor(c)} />
+              <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
+                {c.blurb}
+                {c.ownerNote ? (<>{" "}{c.ownerNote}{c.peSource ? (<> (<a href={c.peSource} target="_blank" rel="noopener" className="underline">source</a>)</>) : null}</>) : null}
+              </p>
+              {c.closed ? (
+                <p className="mt-3 rounded-lg bg-primary/5 px-4 py-3 text-sm text-foreground">
+                  Have an orphaned system from {c.name.replace(" (closed)", "")}? We service and repair it.{" "}
+                  <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
+                </p>
+              ) : (
+                <p className="mt-3 text-sm text-foreground">
+                  Before you book, get a <a href="#second-opinion" className="font-bold text-primary underline">free second opinion</a> from a locally &amp; veteran-owned team with 24/7 service and no overtime charges.{" "}
+                  <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
+                </p>
+              )}
+            </div>
+          ))}
         </div>
 
-        <div id="compare-table" className="mt-6 overflow-x-auto rounded-2xl border border-border shadow-sm">
-          <table className="w-full min-w-[760px] border-collapse text-sm">
-            <thead>
-              <tr className="bg-[#0d2d7a] text-left text-white">
-                {cols.map((h, i) => (
-                  <th key={h} className={`whitespace-nowrap px-4 py-3 font-bold ${i === 0 ? "sticky left-0 bg-[#0d2d7a]" : "text-center"}`}>{h}</th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              <tr className="bg-amber-50/70 font-medium">
-                <td className="sticky left-0 whitespace-nowrap bg-amber-50 px-4 py-4 font-extrabold text-[#0d2d7a]">
-                  <span className="mr-1.5 rounded bg-[#e8a020] px-1.5 py-0.5 text-[10px] font-black text-[#0d2d7a]">OUR TEAM</span>Intelligent Design
-                </td>
-                <td className="px-4 py-4 text-center">{own("yes", "yes")}</td>
-                <td className="px-4 py-4 text-center">{own("no", "no")}</td>
-                <td className="px-4 py-4 text-center font-bold">{IDACH.rating}★</td>
-                <td className="px-4 py-4 text-center font-bold">{IDACH.reviews}</td>
-                <td className="px-4 py-4 text-center font-bold">{IDACH.bbb}</td>
-                <td className="px-4 py-4 text-center">{cap("yes")}</td>
-                <td className="px-4 py-4 text-center">{cap("yes")}</td>
-              </tr>
-              {v.competitors.map((c) => (
-                <tr key={c.anchor} className="border-t border-border hover:bg-secondary/60">
-                  <td className="sticky left-0 whitespace-nowrap bg-background px-4 py-3.5">
-                    <a href={`#${c.anchor}`} className="font-medium text-primary hover:underline">{c.name}</a>
-                  </td>
-                  <td className="px-4 py-3.5 text-center">{own(c.locallyOwned, "yes")}</td>
-                  <td className="px-4 py-3.5 text-center">{own(c.peOwned, "no")}</td>
-                  <td className="px-4 py-3.5 text-center">{c.rating ? `${c.rating}★` : "—"}</td>
-                  <td className="px-4 py-3.5 text-center">{c.reviews ?? "—"}</td>
-                  <td className="px-4 py-3.5 text-center">{c.bbb ?? "—"}</td>
-                  <td className="px-4 py-3.5 text-center">{cap(c.national ? "no" : "unknown")}</td>
-                  <td className="px-4 py-3.5 text-center text-neutral-400">—</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-        <p className="mt-3 max-w-3xl text-xs leading-relaxed text-muted-foreground">
+        <p className="mt-4 text-xs leading-relaxed text-muted-foreground">
           Competitor rating &amp; review figures are from public Google Business Profiles &amp; BBB.org as of {v.asOf}; verify current figures with each company. Intelligent Design&apos;s 23,000+ is an aggregate across Google, Facebook, PulseM &amp; Angi. Ownership status is per public acquisition announcements and corporate filings as of {v.asOf}; &quot;—&quot; means not independently verified.
         </p>
 
@@ -167,58 +201,25 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         </div>
       </section>
 
-      {/* ── Per-competitor cards ── */}
+      {/* ── Review proof ── */}
       <section className="bg-secondary">
-        <div className="mx-auto max-w-4xl px-4 py-12 md:px-8 md:py-16">
-          <h2 className="text-2xl font-bold text-primary md:text-3xl">Tucson {v.noun}, company by company</h2>
-          <div className="mt-8 space-y-5">
-            {v.competitors.map((c) => (
-              <div key={c.anchor} id={c.anchor} data-competitor={c.anchor} className="scroll-mt-24 rounded-2xl border border-border bg-card p-6 shadow-sm">
-                <div className="flex flex-wrap items-center gap-2">
-                  <h3 className="text-lg font-bold text-primary">{c.name}</h3>
-                  {c.peOwned === "yes" && <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">Private-equity owned</span>}
-                  {c.national && <span className="rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-bold text-neutral-600">National brand</span>}
-                  {c.closed && <span className="rounded-full bg-rose-100 px-2.5 py-0.5 text-xs font-bold text-rose-700">No longer operating</span>}
-                </div>
-                <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
-                  {c.blurb}{" "}
-                  {c.rating ? `Public rating: ${c.rating}★ (${c.reviews} Google reviews${c.bbb ? `, BBB ${c.bbb}` : ""}) as of ${v.asOf}.` : `Public rating not independently verified as of ${v.asOf}.`}
-                  {c.ownerNote ? (<>{" "}{c.ownerNote}{c.peSource ? (<> (<a href={c.peSource} target="_blank" rel="noopener" className="underline">source</a>)</>) : null}</>) : null}
-                </p>
-                {c.closed ? (
-                  <p className="mt-3 rounded-lg bg-primary/5 px-4 py-3 text-sm text-foreground">
-                    Have an orphaned system from {c.name.replace(" (closed)", "")}? We service and repair it. <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
-                  </p>
-                ) : (
-                  <p className="mt-3 text-sm text-foreground">
-                    Before you book, compare: our 4.97★ across 23,000+ reviews, BBB A+, a locally &amp; veteran-owned team, 24/7 service with no overtime charges, and a{" "}
-                    <a href="#second-opinion" className="font-bold text-primary underline">free second opinion</a> on any {v.verticalLabel.toLowerCase()} quote.{" "}
-                    <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
-                  </p>
-                )}
+        <div className="mx-auto max-w-5xl px-4 py-12 md:px-8 md:py-16">
+          <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">What Tucson neighbors say</h2>
+          <div className="mt-8 grid gap-5 md:grid-cols-3">
+            {v.testimonials.map((t, i) => (
+              <div key={i} className="rounded-2xl border border-border bg-card p-6 shadow-sm">
+                <div className="mb-3 flex gap-0.5">{[...Array(5)].map((_, s) => <Star key={s} className="h-4 w-4 fill-yellow-400 text-yellow-400" />)}</div>
+                <p className="text-sm italic text-foreground">&ldquo;{t.quote}&rdquo;</p>
+                <p className="mt-4 text-sm font-bold text-primary">{t.name}</p>
+                <p className="text-xs text-muted-foreground">{t.area}</p>
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
-      {/* ── Review proof ── */}
-      <section className="mx-auto max-w-5xl px-4 py-12 md:px-8 md:py-16">
-        <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">What Tucson neighbors say</h2>
-        <div className="mt-8 grid gap-5 md:grid-cols-3">
-          {v.testimonials.map((t, i) => (
-            <div key={i} className="rounded-2xl border border-border bg-card p-6 shadow-sm">
-              <div className="mb-3 flex gap-0.5">{[...Array(5)].map((_, s) => <Star key={s} className="h-4 w-4 fill-yellow-400 text-yellow-400" />)}</div>
-              <p className="text-sm italic text-foreground">&ldquo;{t.quote}&rdquo;</p>
-              <p className="mt-4 text-sm font-bold text-primary">{t.name}</p>
-              <p className="text-xs text-muted-foreground">{t.area}</p>
-            </div>
-          ))}
-        </div>
-        <div className="mt-8 text-center">
-          <a href="https://maps.app.goo.gl/xodux58cWvmGRLJd8" target="_blank" rel="noopener" className="inline-flex items-center gap-1.5 text-sm font-bold text-primary underline">
-            <ShieldCheck className="h-4 w-4" /> Read all 23,000+ verified reviews →
-          </a>
+          <div className="mt-8 text-center">
+            <a href="https://maps.app.goo.gl/xodux58cWvmGRLJd8" target="_blank" rel="noopener" className="inline-flex items-center gap-1.5 text-sm font-bold text-primary underline">
+              <ShieldCheck className="h-4 w-4" /> Read all 23,000+ verified reviews →
+            </a>
+          </div>
         </div>
       </section>
 
@@ -227,13 +228,11 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         <div className="mx-auto max-w-3xl px-4 py-14 md:px-8">
           <h2 className="text-2xl font-bold text-white md:text-3xl">Got a quote from another {v.verticalLabel} company?</h2>
           <p className="mt-2 text-white/85">We&apos;ll review it free — and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
-          <div className="mt-6">
-            <SecondOpinionForm service={v.verticalLabel} pageSlug={v.slug} />
-          </div>
+          <div className="mt-6"><SecondOpinionForm service={v.verticalLabel} pageSlug={v.slug} /></div>
         </div>
       </section>
 
-      {/* ── FAQ accordion ── */}
+      {/* ── FAQ ── */}
       <section className="mx-auto max-w-4xl px-4 py-14 md:px-8">
         <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">Frequently asked questions</h2>
         <div className="mt-8">
