@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import { attributionFields } from "@/lib/attribution";
 
 /**
  * Free second-opinion lead form for the conquest compare pages.
@@ -9,19 +10,7 @@ import { useEffect, useState } from "react";
  */
 export default function SecondOpinionForm({ service, pageSlug }: { service: string; pageSlug: string }) {
   const [form, setForm] = useState({ name: "", phone: "", whoQuoted: "", details: "" });
-  const [gclid, setGclid] = useState("");
   const [status, setStatus] = useState<"idle" | "sending" | "ok" | "error">("idle");
-
-  useEffect(() => {
-    try {
-      const url = new URL(window.location.href);
-      const fromUrl = url.searchParams.get("gclid");
-      if (fromUrl) localStorage.setItem("gclid", fromUrl);
-      setGclid(fromUrl || localStorage.getItem("gclid") || "");
-    } catch {
-      /* noop */
-    }
-  }, []);
 
   const set = (k: string, v: string) => setForm((f) => ({ ...f, [k]: v }));
 
@@ -33,7 +22,7 @@ export default function SecondOpinionForm({ service, pageSlug }: { service: stri
       const res = await fetch("/api/second-opinion", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...form, service, pageSlug, gclid }),
+        body: JSON.stringify({ ...form, service, pageSlug, ...attributionFields() }),
       });
       if (!res.ok) throw new Error("failed");
       try {
@@ -61,7 +50,6 @@ export default function SecondOpinionForm({ service, pageSlug }: { service: stri
 
   return (
     <form onSubmit={submit} className="grid gap-3 rounded-xl border border-border bg-card p-5 shadow-sm" data-testid="second-opinion-form">
-      <input type="hidden" name="gclid" value={gclid} readOnly />
       <div className="grid gap-3 sm:grid-cols-2">
         <input required value={form.name} onChange={(e) => set("name", e.target.value)} placeholder="Your name" autoComplete="name" className="rounded-lg border border-border px-4 py-3" />
         <input required type="tel" value={form.phone} onChange={(e) => set("phone", e.target.value)} placeholder="Phone number" autoComplete="tel" className="rounded-lg border border-border px-4 py-3" />

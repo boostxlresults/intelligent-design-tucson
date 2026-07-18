@@ -10,6 +10,10 @@ const formSchema = z.object({
   lastName: z.string().min(1, 'Last name is required').max(100).trim(),
   phone: z.string().min(10, 'Phone number must be at least 10 digits').max(20).trim(),
   zipCode: z.string().regex(/^[0-9]{5}$/, 'ZIP code must be 5 digits'),
+  gclid: z.string().max(200).trim().optional().default(''),
+  gbraid: z.string().max(200).trim().optional().default(''),
+  wbraid: z.string().max(200).trim().optional().default(''),
+  utm_campaign: z.string().max(200).trim().optional().default(''),
   isHomeowner: z.enum(['yes', 'no'], { errorMap: () => ({ message: 'Please select if you are the homeowner' }) }),
   preferredContactTime: z.enum(['morning', 'afternoon', 'evening', 'asap'], { errorMap: () => ({ message: 'Please select a preferred contact time' }) }),
 });
@@ -115,7 +119,8 @@ export async function POST(request: NextRequest) {
           </div>
         </div>
         
-        <div style="background-color: #333; color: white; padding: 15px; text-align: center; font-size: 12px;">
+        ${(data.gclid || data.gbraid || data.wbraid || data.utm_campaign) ? `<div style="margin:16px 0;padding:12px;background:#f1f5f9;border-radius:5px;font-size:12px;color:#334155;"><strong>Ad Attribution:</strong> ${[data.gclid && ('gclid=' + data.gclid), data.gbraid && ('gbraid=' + data.gbraid), data.wbraid && ('wbraid=' + data.wbraid), data.utm_campaign && ('campaign=' + data.utm_campaign)].filter(Boolean).map((v) => String(v).replace(/[<>&"]/g, '')).join(' | ')}</div>` : ''}
+          <div style="background-color: #333; color: white; padding: 15px; text-align: center; font-size: 12px;">
           Submitted via idesignac.com/inventory-release-event<br>
           ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}
         </div>

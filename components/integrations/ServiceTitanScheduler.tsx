@@ -1,5 +1,6 @@
 "use client";
 import { useCallback, useEffect, useState } from "react";
+import { hydrateUrlForSE, hasClickId } from "@/lib/attribution";
 
 /**
  * ServiceTitan Scheduling Pro — Direct Embed
@@ -96,6 +97,12 @@ export function useScheduler() {
   const openScheduler = useCallback(async () => {
     setIsLoading(true);
     try {
+      // Bridge stored ad-click attribution into the URL so ServiceTitan
+      // Scheduling Pro captures gclid/gbraid/wbraid/utm natively on the booking.
+      hydrateUrlForSE();
+      try {
+        (window as unknown as { dataLayer?: unknown[] }).dataLayer?.push({ event: "se_widget_open", gclid_present: hasClickId() });
+      } catch { /* noop */ }
       const ready = await injectScript();
       if (ready && window._scheduler?.show) {
         window._scheduler.show({ schedulerId: ST_SCHEDULER_ID });

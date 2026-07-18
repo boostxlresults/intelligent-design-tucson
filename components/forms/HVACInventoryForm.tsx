@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { attributionFields } from '@/lib/attribution';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Loader2, CheckCircle, Phone } from 'lucide-react';
@@ -42,7 +43,7 @@ export function HVACInventoryForm() {
       const response = await fetch('/api/hvac-inventory-event', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, ...attributionFields() }),
       });
 
       if (!response.ok) {

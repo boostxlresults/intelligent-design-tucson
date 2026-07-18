@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { attributionFields } from '@/lib/attribution';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Gift, Loader2, CheckCircle, Award } from 'lucide-react';
@@ -46,7 +47,7 @@ export function RealtorsOfferForm() {
       const response = await fetch('/api/realtors-offer', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({ ...formData, ...attributionFields() }),
       });
 
       let result;

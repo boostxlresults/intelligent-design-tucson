@@ -84,6 +84,40 @@ export default function RootLayout({
           This is the correct approach for US home services sites under CCPA.
           Tracking defaults to granted — users can opt out via cookie banner.
         */}
+        {/*
+          SITEWIDE AD-CLICK ATTRIBUTION CAPTURE
+          Stores gclid/gbraid/wbraid + utm_* from the URL into localStorage + a
+          first-party cookie (.idesignac.com, 90-day TTL), last-click-wins, and
+          exposes window.IDACH_ATTR for forms + the ServiceTitan scheduler.
+          Fail-silent, zero external requests, never touches phone/DNI elements.
+        */}
+        <Script id="idach-attr" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: `
+          (function () {
+            try {
+              var KEY = "idach_click_attribution";
+              var TTL_DAYS = 90;
+              var p = new URLSearchParams(window.location.search);
+              var ids = {
+                gclid: p.get("gclid"), gbraid: p.get("gbraid"), wbraid: p.get("wbraid"),
+                utm_campaign: p.get("utm_campaign"), utm_source: p.get("utm_source"),
+                utm_medium: p.get("utm_medium"), utm_term: p.get("utm_term")
+              };
+              var hasNewClick = ids.gclid || ids.gbraid || ids.wbraid;
+              var stored = null;
+              try { stored = JSON.parse(localStorage.getItem(KEY) || "null"); } catch (e) {}
+              if (stored && stored.ts && (Date.now() - stored.ts) > TTL_DAYS * 864e5) stored = null;
+              if (hasNewClick) {
+                stored = { ts: Date.now(), landing: location.pathname };
+                for (var k in ids) if (ids[k]) stored[k] = ids[k];
+                try { localStorage.setItem(KEY, JSON.stringify(stored)); } catch (e) {}
+                document.cookie = KEY + "=" + encodeURIComponent(JSON.stringify(stored)) +
+                  ";path=/;max-age=" + (TTL_DAYS * 86400) + ";domain=.idesignac.com;SameSite=Lax;Secure";
+              }
+              window.IDACH_ATTR = stored || null;
+            } catch (e) {}
+          })();
+        ` }} />
+
         <Script id="post-lcp-loader" strategy="afterInteractive">
           {`
             (function() {

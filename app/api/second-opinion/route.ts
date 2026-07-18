@@ -12,6 +12,12 @@ const formSchema = z.object({
   whoQuoted: z.string().max(160).trim().optional().default(''),
   details: z.string().max(1000).trim().optional().default(''),
   gclid: z.string().max(200).trim().optional().default(''),
+  gbraid: z.string().max(200).trim().optional().default(''),
+  wbraid: z.string().max(200).trim().optional().default(''),
+  utm_campaign: z.string().max(200).trim().optional().default(''),
+  utm_source: z.string().max(120).trim().optional().default(''),
+  utm_medium: z.string().max(120).trim().optional().default(''),
+  utm_term: z.string().max(200).trim().optional().default(''),
   pageSlug: z.string().max(80).trim().optional().default(''),
 });
 
@@ -38,6 +44,9 @@ export async function POST(request: NextRequest) {
       ['Who quoted them', d.whoQuoted || '—'],
       ['Details', d.details || '—'],
       ['GCLID', d.gclid || '(none)'],
+      ['GBRAID', d.gbraid || '(none)'],
+      ['WBRAID', d.wbraid || '(none)'],
+      ['Campaign', d.utm_campaign || '(none)'],
       ['Source page', d.pageSlug || '(compare)'],
     ].map(([k, v]) => `<tr><td style="padding:8px 0;font-weight:bold;width:170px;">${esc(k)}:</td><td style="padding:8px 0;">${esc(v)}</td></tr>`).join('');
 
