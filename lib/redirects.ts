@@ -1657,7 +1657,8 @@ export const STANDALONE_PAGES = new Set([
   'knowledge-hub', 'r22-phaseout', 'education-library',
   'drain-clearing-special', 'ac-system-faqs', 'schedule',
   'service-areas', 'services', 'blog', 'service-map',
-  'ac-repair-tucson', 'new-air-conditioner'
+  'ac-repair-tucson', 'new-air-conditioner',
+  'proper-ac-sizing', 'ac-sizing-estimator'
 ]);
 
 export const SERVICE_KEYWORDS = [
