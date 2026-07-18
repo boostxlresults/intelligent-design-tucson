@@ -96,6 +96,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/compare/tucson-plumbers',
     '/compare/tucson-roofing-companies',
     '/compare/tucson-solar-companies',
+    '/proper-ac-sizing',
+    '/ac-sizing-estimator',
   ];
 
   corePages.forEach((page) => {

@@ -85,7 +85,7 @@ const faqSchema = {
       "name": "What size air conditioner do I need for my home in Tucson?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AC sizing for Tucson homes depends on square footage, insulation, and our extreme summer heat. General guidelines: 1,000-1,500 sq ft needs 2-2.5 tons, 1,500-2,000 sq ft needs 2.5-3 tons, 2,000-2,500 sq ft needs 3-3.5 tons, and 2,500-3,000 sq ft needs 3.5-4 tons. Our free online estimator calculates the right size for your specific home."
+        "text": "AC sizing depends on far more than square footage \u2014 insulation and air-tightness, ceiling height, windows, sun exposure, and occupancy all change the load. As a rough starting point in Tucson many homes fall between 2 and 4 tons, but the correct size for your specific home can only be confirmed with an in-home ACCA Manual J load calculation plus a blower-door test and thermal-imaging scan \u2014 the method the U.S. Department of Energy and ACCA recommend for every job. Try our sizing estimator for an honest ballpark range, then we confirm it exactly in your home."
       }
     }
   ]
@@ -205,6 +205,27 @@ export default function NewAirConditionerPage() {
           navigatorKey="NzdTlJWvihCCWjsf"
         />
       </div>
+
+      {/* Correct sizing message — Manual J vs square footage */}
+      <section className="py-10 px-4">
+        <div className="max-w-4xl mx-auto rounded-xl border-2 border-primary/30 bg-muted/30 p-6 md:p-8">
+          <h2 className="text-2xl font-bold mb-2">Sized right — or it’s just a guess</h2>
+          <p className="text-muted-foreground mb-4">
+            A new system is only as good as its sizing. We never size from square footage alone — we measure your
+            home with an ACCA <strong>Manual&nbsp;J load calculation</strong>, a <strong>blower-door test</strong>, and a{" "}
+            <strong>thermal-imaging scan</strong>, the method the U.S. Department of Energy and ACCA recommend. An
+            oversized unit short-cycles, never dehumidifies, and costs you more every month.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3">
+            <Link href="/ac-sizing-estimator" className="inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground px-5 py-2.5 rounded-md font-semibold hover-elevate">
+              Get your sizing range <ArrowRight className="w-4 h-4" />
+            </Link>
+            <Link href="/proper-ac-sizing" className="inline-flex items-center justify-center gap-2 border border-border px-5 py-2.5 rounded-md font-semibold hover-elevate">
+              How we size it correctly
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Why Replace Your AC — Content Section */}
       <section className="py-12 md:py-16">
