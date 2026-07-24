@@ -86,8 +86,8 @@ export default function CorkPoolDecksPage() {
             </div>
             <p className="mt-3 text-sm text-neutral-500">Snap one photo of your deck → see it corked in your color → instant price range. About 2 minutes.</p>
           </div>
-          <div className="relative">
-            <div className="aspect-[3/4] max-h-[560px] w-full overflow-hidden rounded-3xl bg-gradient-to-br from-[#A64A2E]/20 to-[#A64A2E]/5">
+          <div className="relative order-first lg:order-none">
+            <div className="aspect-[16/9] lg:aspect-[3/4] w-full lg:max-h-[560px] overflow-hidden rounded-3xl bg-gradient-to-br from-[#A64A2E]/20 to-[#A64A2E]/5">
               <HeroImage />
             </div>
             <div className="absolute -bottom-4 left-6 rounded-2xl bg-white shadow-xl px-5 py-3 border border-neutral-100">
