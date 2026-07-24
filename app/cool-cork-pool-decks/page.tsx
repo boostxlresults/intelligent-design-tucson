@@ -80,6 +80,7 @@ export default function CorkPoolDecksPage() {
               <li className="flex gap-3"><span aria-hidden>🔥</span><span><strong>Stop burning feet.</strong> Concrete hits 150°F+ in summer. Cork stays barefoot-comfortable.</span></li>
               <li className="flex gap-3"><span aria-hidden>🪨</span><span><strong>Stop staring at cracks.</strong> Cork bridges and erases them — one seamless surface, permanently.</span></li>
               <li className="flex gap-3"><span aria-hidden>💦</span><span><strong>Stop the slips.</strong> Granular texture grips even soaking wet.</span></li>
+              <li className="flex gap-3"><span aria-hidden>☁️</span><span><strong>The perfect amount of cushion.</strong> Cork has a natural springiness underfoot — gentler on feet, knees, and backs than rock-hard concrete.</span></li>
             </ul>
             <div className="mt-8">
               <VisualizerLauncher variant="hero" />
