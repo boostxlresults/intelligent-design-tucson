@@ -834,11 +834,11 @@ export const thermalCorkRoofCoatingFAQs: ServiceFAQs = {
     },
     {
       question: "How long does ThermalCork roof coating last?",
-      answer: "ThermalCork is designed to last a lifetime. Unlike traditional roof coatings that degrade in 2-7 years and require constant re-application, ThermalCork's natural cork cells actually get stronger over time as they continue to cross-link and bond. This means you'll never have to re-coat your roof again — it's a one-time application with permanent protection. Intelligent Design backs every ThermalCork installation with an exclusive 15-year warranty, the longest in the industry."
+      answer: "ThermalCork is designed to last a lifetime. Unlike traditional roof coatings that degrade in 2-7 years and require constant re-application, ThermalCork's natural cork cells actually get stronger over time as they continue to cross-link and bond. This means you'll never have to re-coat your roof again — it's a one-time application with permanent protection. Intelligent Design backs every ThermalCork installation with an exclusive 25-year warranty, the longest in the industry."
     },
     {
-      question: "Why does Intelligent Design offer a 15-year warranty on ThermalCork?",
-      answer: "As Tucson's exclusive certified ThermalCork applicator, Intelligent Design has negotiated an industry-leading 15-year warranty — longer than the standard warranty offered elsewhere. This reflects our confidence in both the product and our certified application process. Our technicians are trained in ThermalCork's proprietary circular application method, ensuring proper thickness and coverage for maximum performance and longevity."
+      question: "Why does Intelligent Design offer a 25-year warranty on ThermalCork?",
+      answer: "As Tucson's exclusive certified ThermalCork applicator, Intelligent Design has negotiated an industry-leading 25-year warranty — longer than the standard warranty offered elsewhere. This reflects our confidence in both the product and our certified application process. Our technicians are trained in ThermalCork's proprietary circular application method, ensuring proper thickness and coverage for maximum performance and longevity."
     },
     {
       question: "How much can I save on energy costs with ThermalCork?",

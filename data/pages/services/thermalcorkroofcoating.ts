@@ -5,14 +5,14 @@ import { thermalCorkRoofCoatingFAQs } from '@/data/faqs/roofing';
 import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const thermalcorkroofcoatingData: ServicePageData = {
   // SEO & Meta
-  title: 'ThermalCork Roof Coating Tucson AZ | Exclusive 15-Year Warranty | Intelligent Design',
-  description: 'Exclusive ThermalCork roof coating in Tucson. Natural cork thermal break technology saves up to 50% on energy costs. 15-year warranty. Never re-coat your roof again. Call (520) 333-2665.',
+  title: 'ThermalCork Roof Coating Tucson AZ | Exclusive 25-Year Warranty | Intelligent Design',
+  description: 'Exclusive ThermalCork roof coating in Tucson. Natural cork thermal break technology saves up to 50% on energy costs. 25-year warranty. Never re-coat your roof again. Call (520) 333-2665.',
   slug: 'thermalcork-roof-coating',
   
   // Hero Section
   h1: 'ThermalCork Roof Coating Tucson AZ',
   h2Subheading: 'Tucson\'s Exclusive ThermalCork Certified Applicator',
-  tagline: 'Free Estimates | Natural Cork Thermal Break | Up to 50% Energy Savings | 15-Year Warranty | Never Re-Coat Again | Free Roof Assessments',
+  tagline: 'Free Estimates | Natural Cork Thermal Break | Up to 50% Energy Savings | 25-Year Warranty | Never Re-Coat Again | Free Roof Assessments',
   heroImage: '/generated_images/commercial_roof_coating_application_54879965.webp',
   heroImageAlt: 'ThermalCork Roof Coating Application in Tucson',
   
@@ -27,7 +27,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
     "description": "Natural cork thermal break | Absorbs infrared & radiant heat | Reduces roof surface temp 50-80°F | Lower AC bills immediately"
   },
   {
-    "title": "15-Year Exclusive Warranty",
+    "title": "25-Year Exclusive Warranty",
     "description": "Industry-leading warranty | Intelligent Design exclusive | Backed by ThermalCork Solutions | Peace of mind guaranteed"
   },
   {
@@ -67,7 +67,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "What Makes ThermalCork Different from Standard Roof Coatings: Traditional reflective roof coatings bounce sunlight away from your roof — but they degrade under Tucson's extreme UV radiation and must be re-applied every few years. ThermalCork takes a fundamentally different approach. Natural cork cells contain millions of microscopic air pockets that actively absorb and dissipate heat energy, creating a true thermal break between the sun and your home's interior. This means your roof doesn't just reflect heat — it stops heat transfer entirely. The result is a cooler attic, reduced [link:/services/ac-repair|AC strain], lower energy bills, and a roof coating that actually gets stronger with age as the cork cells continue to cross-link and bond. Combined with our exclusive 15-year warranty — the longest in the industry — ThermalCork is the last roof coating you'll ever need."
+            "content": "What Makes ThermalCork Different from Standard Roof Coatings: Traditional reflective roof coatings bounce sunlight away from your roof — but they degrade under Tucson's extreme UV radiation and must be re-applied every few years. ThermalCork takes a fundamentally different approach. Natural cork cells contain millions of microscopic air pockets that actively absorb and dissipate heat energy, creating a true thermal break between the sun and your home's interior. This means your roof doesn't just reflect heat — it stops heat transfer entirely. The result is a cooler attic, reduced [link:/services/ac-repair|AC strain], lower energy bills, and a roof coating that actually gets stronger with age as the cork cells continue to cross-link and bond. Combined with our exclusive 25-year warranty — the longest in the industry — ThermalCork is the last roof coating you'll ever need."
       },
       {
             "type": "paragraph",
