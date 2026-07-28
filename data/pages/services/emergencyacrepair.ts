@@ -49,8 +49,8 @@ export const emergencyacrepairData: ServicePageData = {
   slug: 'emergency-ac-repair-tucson',
 
   // Hero Section
-  h1: '24/7 Emergency AC Repair in Tucson AZ',
-  h2Subheading: 'Fast Response • No Overtime Charges • 23,000+ 5-Star Reviews',
+  h1: 'Emergency AC Repair Tucson',
+  h2Subheading: '24/7 Emergency Service • No Overtime Charges • 23,000+ 5-Star Reviews',
   tagline: 'AC Out in the Heat? We Answer 24/7 — Nights, Weekends & Holidays at No Extra Charge',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
   heroImageAlt: 'Intelligent Design technician performing emergency AC repair at night in Tucson, Arizona',
@@ -99,7 +99,7 @@ export const emergencyacrepairData: ServicePageData = {
   },
 
   content: {
-    mainHeading: "Tucson's Fastest 24/7 Emergency AC Repair",
+    mainHeading: "Emergency AC Repair Tucson — Fast, 24/7 Service",
     sections: [
       {
         type: 'heading',
@@ -109,7 +109,7 @@ export const emergencyacrepairData: ServicePageData = {
       },
       {
         type: 'paragraph',
-        content: "Tucson summers are not forgiving. With 146+ days above 90°F and heat indexes that routinely top 115°F, a dead air conditioner is a life-safety problem — indoor temperatures can climb 20-30°F in just 2-3 hours, putting children, elderly family members, and pets at real risk. Intelligent Design provides true 24/7 emergency AC repair across the entire Tucson metro with an average response time of 73 minutes, so you are never left waiting in the heat. When you need standard, non-urgent service instead, see our [link:/services/ac-repair-tucson|AC repair in Tucson] page."
+        content: "When it's 110° and your air conditioner quits, Emergency AC Repair Tucson has to mean fast. Tucson summers are not forgiving: with 146+ days above 90°F and heat indexes that routinely top 115°F, a dead air conditioner is a life-safety problem — indoor temperatures can climb 20-30°F in just 2-3 hours, putting children, elderly family members, and pets at real risk. Intelligent Design provides true 24/7 emergency AC repair across the entire Tucson metro with an average response time of 73 minutes, so you are never left waiting in the heat. When you need standard, non-urgent service instead, see our [link:/services/ac-repair-tucson|AC repair in Tucson] page."
       },
       {
         type: 'paragraph',
