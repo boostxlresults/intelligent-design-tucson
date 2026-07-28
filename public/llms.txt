@@ -2,6 +2,8 @@
 
 > Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is Tucson, Arizona's highest-rated home services company. Family and veteran-owned, founded in 2011 and united with Wood's Plumbing (est. 1979) in 2022. Five service verticals: HVAC, Plumbing, Roofing, Solar, and Electrical. 23,000+ five-star reviews. BBB A+ rated. 4.97 Google rating. 24/7 emergency service. Phone: (520) 333-2665. Website: https://www.idesignac.com
 
+> Machine-readable markdown versions of key pages are available by appending `.md` to the page URL (e.g. https://www.idesignac.com/services/ac-repair-tucson.md).
+
 ---
 
 ## Company Identity

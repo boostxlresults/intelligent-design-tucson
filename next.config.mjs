@@ -67,6 +67,15 @@ const nextConfig = {
   },
   // /locations/* is now served directly by Next.js dynamic routes
   // (app/locations/[zip]/[service]/page.tsx) — no proxy needed
+  async rewrites() {
+    return {
+      beforeFiles: [
+        { source: '/services/:slug.md', destination: '/api/md/service/:slug' },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
+  },
   async headers() {
     return [
       {

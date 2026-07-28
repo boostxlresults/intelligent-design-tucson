@@ -81,13 +81,20 @@ export async function generateMetadata({
   }
 
   // Return normal indexed metadata for core service pages
-  return generateServiceMetadata(
+  const meta = generateServiceMetadata(
     serviceData.serviceName,
     serviceData.h1,
     serviceData.description,
     serviceSlug,
     serviceData.heroImage
   );
+  return {
+    ...meta,
+    alternates: {
+      ...(meta.alternates || {}),
+      types: { 'text/markdown': `/services/${serviceSlug}.md` },
+    },
+  };
 }
 
 export default async function ServicePageRoute({
