@@ -215,7 +215,7 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
       </section>
 
       {/* Trust Bar - Social Proof */}
-      <TrustBar responseTime={data.slug === 'ac-repair-tucson' ? '73 Min' : undefined} />
+      <TrustBar responseTime={data.slug === 'ac-repair-tucson' ? '53 Min' : undefined} />
 
       {/* Process Steps - For emergency service pages */}
       {data.slug === 'ac-repair-tucson' && (
@@ -229,7 +229,7 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
               <div className="hidden md:block text-yellow-400 text-2xl">&rarr;</div>
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-full bg-yellow-400 text-blue-900 flex items-center justify-center font-bold text-lg">2</div>
-                <span className="text-lg font-semibold">Tech Dispatched <span className="text-yellow-400">(avg. 73 min)</span></span>
+                <span className="text-lg font-semibold">Tech Dispatched <span className="text-yellow-400">(avg. 53 min)</span></span>
               </div>
               <div className="hidden md:block text-yellow-400 text-2xl">&rarr;</div>
               <div className="flex items-center gap-3">

@@ -113,6 +113,7 @@ export default function Header() {
   const acSubItems = {
     column1: [
       { name: "AC Repair", href: "/services/ac-repair-tucson", icon: Wrench },
+      { name: "Emergency AC Repair Tucson", href: "/services/emergency-ac-repair-tucson", icon: Zap },
       { name: "AC Service", href: "/services/ac-service-tucson", icon: Settings },
       { name: "AC Installation", href: "/services/ac-installation-tucson", icon: Package },
       { name: "AC Tune-up", href: "/services/ac-tuneup-tucson", icon: Gauge },

@@ -12,7 +12,7 @@
 
 ### 2. WHY CHOOSE INTELLIGENT DESIGN (60-80 lines)
 - 6-8 detailed paragraphs
-- ServiceTitan metrics (73-min avg arrival, 42 vehicles, 80% same-visit repair)
+- ServiceTitan metrics (53-min avg arrival, 42 vehicles, 80% same-visit repair)
 - Proof points (68 NATE techs, 17+ years avg experience, #1 for 7 years)
 - Location-specific advantages
 - 2-3 internal links

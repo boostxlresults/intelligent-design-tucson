@@ -11,7 +11,7 @@ import type { ContentSection, HowToSection, CaseStudySection } from '../types/se
 // ========================================
 
 export interface ServiceMetrics {
-  arrivalTime: string; // e.g., "73 minutes"
+  arrivalTime: string; // e.g., "53 minutes"
   vehicleCount: number; // e.g., 42
   sameVisitRepairRate: string; // e.g., "80%"
   googleRating: string; // e.g., "4.97"

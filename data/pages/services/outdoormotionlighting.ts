@@ -28,7 +28,7 @@ export const outdoormotionlightingData: ServicePageData = {
   },
   {
     "title": "ServiceTitan-Powered Response",
-    "description": "Average 73-minute arrival time | 80% same-day completion | 42 fully-stocked service vehicles | Real-time GPS dispatch"
+    "description": "Average 53-minute arrival time | 80% same-day completion | 42 fully-stocked service vehicles | Real-time GPS dispatch"
   },
   {
     "title": "Enhanced Security & Safety",
@@ -59,7 +59,7 @@ export const outdoormotionlightingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Outdoor motion lighting is your home's first line of defense against intruders while preventing dangerous falls and providing hands-free convenience when arriving home after dark. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 85,000 Tucson-area families since 1979 enhance their home security and safety with professionally installed motion sensor lighting systems that deter crime, illuminate pathways automatically, and reduce energy costs by 50-75% compared to always-on security lights. Our ServiceTitan-powered dispatch system ensures average 73-minute arrival times, 80% same-day service completion, and 92% first-call resolution for motion lighting installations throughout [link:/services/electrical-tucson|Tucson], [link:/services/electrical-oro-valley|Oro Valley], [link:/services/electrical-marana|Marana], and all surrounding communities."
+            "content": "Outdoor motion lighting is your home's first line of defense against intruders while preventing dangerous falls and providing hands-free convenience when arriving home after dark. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 85,000 Tucson-area families since 1979 enhance their home security and safety with professionally installed motion sensor lighting systems that deter crime, illuminate pathways automatically, and reduce energy costs by 50-75% compared to always-on security lights. Our ServiceTitan-powered dispatch system ensures average 53-minute arrival times, 80% same-day service completion, and 92% first-call resolution for motion lighting installations throughout [link:/services/electrical-tucson|Tucson], [link:/services/electrical-oro-valley|Oro Valley], [link:/services/electrical-marana|Marana], and all surrounding communities."
       },
       {
             "type": "paragraph",

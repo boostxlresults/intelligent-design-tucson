@@ -61,7 +61,7 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Preventative plumbing maintenance is the most cost-effective way to protect your Tucson home from expensive emergency repairs and water damage. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided comprehensive plumbing maintenance services since 1979, helping thousands of Tucson homeowners avoid costly emergencies through proactive care. Our licensed master plumbers perform thorough system inspections, identify potential problems before they escalate, and keep your plumbing operating efficiently year-round. With our advanced ServiceTitan dispatch system, we achieve average 73-minute arrival times for maintenance appointments and 92% first-visit completion rate for scheduled inspections across metro Tucson."
+            "content": "Preventative plumbing maintenance is the most cost-effective way to protect your Tucson home from expensive emergency repairs and water damage. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided comprehensive plumbing maintenance services since 1979, helping thousands of Tucson homeowners avoid costly emergencies through proactive care. Our licensed master plumbers perform thorough system inspections, identify potential problems before they escalate, and keep your plumbing operating efficiently year-round. With our advanced ServiceTitan dispatch system, we achieve average 53-minute arrival times for maintenance appointments and 92% first-visit completion rate for scheduled inspections across metro Tucson."
       },
       {
             "type": "paragraph",

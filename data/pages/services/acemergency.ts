@@ -8,11 +8,11 @@ export const acEmergencyFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What should I do if my AC stops working?",
-      answer: "If your AC stops working, first check your thermostat settings and circuit breaker. If those are fine, call Intelligent Design at (520) 333-2665 for same-day emergency AC repair. We respond in 73 minutes on average, 24/7, including weekends and holidays."
+      answer: "If your AC stops working, first check your thermostat settings and circuit breaker. If those are fine, call Intelligent Design at (520) 333-2665 for same-day emergency AC repair. We respond in 53 minutes on average, 24/7, including weekends and holidays."
     },
     {
       question: "How fast can you get here for an AC emergency?",
-      answer: "Our average emergency response time is 73 minutes across the Tucson metro area. We have 42 fully-stocked service trucks positioned throughout Tucson, Oro Valley, Marana, and Sahuarita. Call (520) 333-2665 — we dispatch immediately."
+      answer: "Our average emergency response time is 53 minutes across the Tucson metro area. We have 42 fully-stocked service trucks positioned throughout Tucson, Oro Valley, Marana, and Sahuarita. Call (520) 333-2665 — we dispatch immediately."
     },
     {
       question: "Is there an extra charge for emergency AC repair?",
@@ -60,11 +60,11 @@ export const acEmergencyFAQs: ServiceFAQs = {
 export const acemergencyData: ServicePageData = {
   // SEO & Meta
   title: 'Emergency AC Repair Tucson | AC Not Working? 24/7 Same-Day Service | (520) 333-2665',
-  description: 'AC not working? Emergency AC repair in Tucson with 73-minute average response. 24/7 service, no overtime charges. NATE-certified techs, $0 diagnostic with repair. Call (520) 333-2665 now.',
+  description: 'AC not working? Emergency AC repair in Tucson with 53-minute average response. 24/7 service, no overtime charges. NATE-certified techs, $0 diagnostic with repair. Call (520) 333-2665 now.',
   slug: 'ac-emergency',
   
   // Hero Section
-  h1: 'AC Not Working? Emergency Repair in 73 Minutes',
+  h1: 'AC Not Working? Emergency Repair in 53 Minutes',
   h2Subheading: '24/7 Same-Day Service | No Overtime Charges | $0 Diagnostic With Repair',
   tagline: 'Broken AC? AC Stopped Working? AC Not Cooling? We Fix It Today.',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
@@ -78,12 +78,12 @@ export const acemergencyData: ServicePageData = {
   heroPhonePrimary: true,
   
   // Hero Badges
-  heroBadges: ['73-Min Response', '24/7 Service', 'No Overtime', '$0 Diagnostic'],
+  heroBadges: ['53-Min Response', '24/7 Service', 'No Overtime', '$0 Diagnostic'],
   
   // Content
   highlights: [
     {
-      title: "73-Minute Average Response",
+      title: "53-Minute Average Response",
       description: "42 trucks positioned across Tucson | Real-time GPS tracking | Text notifications on arrival"
     },
     {
@@ -119,7 +119,7 @@ export const acemergencyData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "When your air conditioner stops working in Tucson's extreme heat, every minute matters. Indoor temperatures can climb 20-30°F in just 2-3 hours without AC, creating dangerous conditions for your family. Intelligent Design Air Conditioning provides the fastest emergency AC repair in Tucson with a 73-minute average response time from 42 fully-stocked service vehicles positioned across the metro area. We respond 24/7 — nights, weekends, and holidays — with absolutely no overtime charges."
+        content: "When your air conditioner stops working in Tucson's extreme heat, every minute matters. Indoor temperatures can climb 20-30°F in just 2-3 hours without AC, creating dangerous conditions for your family. Intelligent Design Air Conditioning provides the fastest emergency AC repair in Tucson with a 53-minute average response time from 42 fully-stocked service vehicles positioned across the metro area. We respond 24/7 — nights, weekends, and holidays — with absolutely no overtime charges."
       },
       {
         type: "paragraph",
@@ -128,7 +128,7 @@ export const acemergencyData: ServicePageData = {
       {
         type: "cta",
         heading: "AC Not Working Right Now?",
-        content: "Don't wait in dangerous heat. Our emergency techs are standing by 24/7. Average response: 73 minutes. No overtime charges.",
+        content: "Don't wait in dangerous heat. Our emergency techs are standing by 24/7. Average response: 53 minutes. No overtime charges.",
         buttonText: "Call (520) 333-2665 Now",
         buttonLink: "tel:5203332665"
       },
@@ -193,7 +193,7 @@ export const acemergencyData: ServicePageData = {
       {
         type: "cta",
         heading: "Broken AC? Get It Fixed Today",
-        content: "Same-day emergency AC repair. 73-minute average response. No overtime. $0 diagnostic with repair. All brands serviced.",
+        content: "Same-day emergency AC repair. 53-minute average response. No overtime. $0 diagnostic with repair. All brands serviced.",
         buttonText: "Schedule Emergency Repair",
         buttonLink: "#schedule"
       },
@@ -205,7 +205,7 @@ export const acemergencyData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Our 42 emergency AC repair trucks are strategically positioned throughout the Tucson metropolitan area for the fastest possible response times. We provide same-day emergency AC repair in Tucson, Oro Valley, Marana, Sahuarita, Vail, Green Valley, Catalina Foothills, Tanque Verde, Rita Ranch, and all surrounding communities. No matter where you are in the Tucson metro, we can have a NATE-certified technician at your door in approximately 73 minutes."
+        content: "Our 42 emergency AC repair trucks are strategically positioned throughout the Tucson metropolitan area for the fastest possible response times. We provide same-day emergency AC repair in Tucson, Oro Valley, Marana, Sahuarita, Vail, Green Valley, Catalina Foothills, Tanque Verde, Rita Ranch, and all surrounding communities. No matter where you are in the Tucson metro, we can have a NATE-certified technician at your door in approximately 53 minutes."
       },
       {
         type: "heading",
@@ -215,12 +215,12 @@ export const acemergencyData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Call for emergency AC repair immediately if: your AC has completely stopped working, your AC is blowing hot air and it's over 100°F outside, you have elderly family members, infants, or pets in the home, your AC is making grinding or screeching noises, you smell burning from your AC unit, or your AC is leaking refrigerant (hissing sound). In Tucson's extreme heat, a broken AC is a safety emergency. Don't wait — call (520) 333-2665 for immediate dispatch. We respond in 73 minutes average, 24/7, with no overtime charges."
+        content: "Call for emergency AC repair immediately if: your AC has completely stopped working, your AC is blowing hot air and it's over 100°F outside, you have elderly family members, infants, or pets in the home, your AC is making grinding or screeching noises, you smell burning from your AC unit, or your AC is leaking refrigerant (hissing sound). In Tucson's extreme heat, a broken AC is a safety emergency. Don't wait — call (520) 333-2665 for immediate dispatch. We respond in 53 minutes average, 24/7, with no overtime charges."
       },
       {
         type: "cta",
         heading: "AC Emergency? Call Now — 24/7",
-        content: "73-minute response. No overtime. Same-day repair. 23,000+ five-star reviews. Family & veteran owned since 1979.",
+        content: "53-minute response. No overtime. Same-day repair. 23,000+ five-star reviews. Family & veteran owned since 1979.",
         buttonText: "Call (520) 333-2665",
         buttonLink: "tel:5203332665"
       }

@@ -73,7 +73,7 @@ export const heaterinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Fast Response for Installation Consultations: Our ServiceTitan-powered dispatch system delivers industry-leading response times for new heater installation consultations: average 73-minute arrival for urgent replacement needs across metro Tucson. We maintain 42 fully-stocked service vehicles strategically positioned throughout Tucson, [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], Sahuarita, and Vail, enabling us to perform emergency replacements when your old heater fails during cold weather. Our certified HVAC installation technicians complete 80% of installations in a single day, minimizing disruption to your family's comfort and daily routine."
+            "content": "Fast Response for Installation Consultations: Our ServiceTitan-powered dispatch system delivers industry-leading response times for new heater installation consultations: average 53-minute arrival for urgent replacement needs across metro Tucson. We maintain 42 fully-stocked service vehicles strategically positioned throughout Tucson, [link:/services/heating-oro-valley|Oro Valley], [link:/services/heating-marana|Marana], Sahuarita, and Vail, enabling us to perform emergency replacements when your old heater fails during cold weather. Our certified HVAC installation technicians complete 80% of installations in a single day, minimizing disruption to your family's comfort and daily routine."
       },
       {
             "type": "paragraph",

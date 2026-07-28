@@ -69,7 +69,7 @@ export const waterheaterrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When your water heater fails, every minute without hot water disrupts your family's daily routine—no morning showers, no dishwashing, no laundry. Whether you're facing complete loss of hot water, dangerous leaking tanks, strange rumbling noises, or insufficient hot water capacity, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric delivers the fastest, most professional water heater repair services in Tucson. Our ServiceTitan-powered dispatch system provides industry-leading response times: average 73-minute arrival for emergency water heater calls across metro Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], and surrounding areas."
+            "content": "When your water heater fails, every minute without hot water disrupts your family's daily routine—no morning showers, no dishwashing, no laundry. Whether you're facing complete loss of hot water, dangerous leaking tanks, strange rumbling noises, or insufficient hot water capacity, Intelligent Design Air Conditioning, Plumbing, Solar, & Electric delivers the fastest, most professional water heater repair services in Tucson. Our ServiceTitan-powered dispatch system provides industry-leading response times: average 53-minute arrival for emergency water heater calls across metro Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], and surrounding areas."
       },
       {
             "type": "paragraph",

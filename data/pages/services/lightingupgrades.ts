@@ -28,7 +28,7 @@ export const lightingupgradesData: ServicePageData = {
   },
   {
     "title": "ServiceTitan-Powered Response",
-    "description": "Average 73-minute arrival time | 80% same-day completion | 42 fully-stocked service vehicles | Real-time GPS dispatch"
+    "description": "Average 53-minute arrival time | 80% same-day completion | 42 fully-stocked service vehicles | Real-time GPS dispatch"
   },
   {
     "title": "Dramatic Energy Savings",
@@ -59,7 +59,7 @@ export const lightingupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Modern lighting dramatically transforms how your Tucson home looks, feels, and functions while delivering $300-500 annual energy savings. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 85,000 Tucson-area families since 1979 upgrade to energy-efficient LED lighting, recessed lighting installations, smart home integration, and complete lighting redesigns that enhance beauty, functionality, and property value. Our ServiceTitan-powered dispatch system ensures average 73-minute arrival times, 80% same-day service completion, and 92% first-call resolution for lighting upgrades throughout metro Tucson."
+            "content": "Modern lighting dramatically transforms how your Tucson home looks, feels, and functions while delivering $300-500 annual energy savings. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped over 85,000 Tucson-area families since 1979 upgrade to energy-efficient LED lighting, recessed lighting installations, smart home integration, and complete lighting redesigns that enhance beauty, functionality, and property value. Our ServiceTitan-powered dispatch system ensures average 53-minute arrival times, 80% same-day service completion, and 92% first-call resolution for lighting upgrades throughout metro Tucson."
       },
       {
             "type": "paragraph",
