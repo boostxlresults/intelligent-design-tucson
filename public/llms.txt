@@ -214,7 +214,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 ## Services Overview
 
 ### HVAC Services
-- **AC Repair** (/services/ac-repair-tucson): 24/7 emergency repair, all brands, 73-minute average response
+- **AC Repair** (/services/ac-repair-tucson): 24/7 emergency repair, all brands, 53-minute average response
 - **AC Installation** (/services/ac-installation-tucson): New system installation, 0% financing from $98/mo
 - **AC Tune-Up** (/services/ac-tuneup-tucson): 86-point inspection, $88.88 promotional pricing
 - **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, gas heater repair
