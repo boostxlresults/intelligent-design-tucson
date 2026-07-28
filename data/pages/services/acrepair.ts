@@ -4,8 +4,8 @@ import type { ServicePageData } from '@/types/services';
 import { acRepairFAQs } from '@/data/faqs/hvac';
 export const acrepairData: ServicePageData = {
   // SEO & Meta
-  title: 'AC Repair Tucson AZ | 24/7 Emergency Service | 73-Min Response | Intelligent Design',
-  description: 'Tucson\'s highest-rated AC repair — 4.97 stars from 23,000+ reviews. 73-minute average response, $150–$450 most repairs, no overtime charges. NATE-certified techs available 24/7. Call (520) 333-2665.',
+  title: 'AC Repair Tucson AZ | 24/7 Emergency Service | 53-Min Response | Intelligent Design',
+  description: 'Tucson\'s highest-rated AC repair — 4.97 stars from 23,000+ reviews. 53-minute average response, $150–$450 most repairs, no overtime charges. NATE-certified techs available 24/7. Call (520) 333-2665.',
   slug: 'ac-repair-tucson',
   
   // Hero Section
@@ -71,11 +71,11 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design Air Conditioning is Tucson's highest-rated AC repair company, with over 23,000 verified five-star reviews and a 4.97 Google rating — more than any other HVAC contractor in Southern Arizona. Founded in 1979, the company provides 24/7 emergency air conditioning repair across the entire Tucson metropolitan area, including Oro Valley, Marana, Sahuarita, and Green Valley, with an average response time of 73 minutes from 42 fully-stocked service vehicles. Tucson's Extreme Climate Demands Reliable AC Repair: With 146+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
+            "content": "Intelligent Design Air Conditioning is Tucson's highest-rated AC repair company, with over 23,000 verified five-star reviews and a 4.97 Google rating — more than any other HVAC contractor in Southern Arizona. Founded in 1979, the company provides 24/7 emergency air conditioning repair across the entire Tucson metropolitan area, including Oro Valley, Marana, Sahuarita, and Green Valley, with an average response time of 53 minutes from 42 fully-stocked service vehicles. Tucson's Extreme Climate Demands Reliable AC Repair: With 146+ days above 90°F annually and summer heat indexes regularly exceeding 115°F, your air conditioner isn't a luxury in Tucson—it's a life-safety system. When your AC fails during our brutal desert summers, indoor temperatures can climb 20-30°F in just 2-3 hours, creating dangerous conditions for children, elderly family members, and pets. The 2023 Pima County heat season recorded 126 heat-related deaths, making functional air conditioning critical for your family's safety."
       },
       {
             "type": "paragraph",
-            "content": "Fastest AC Repair Response in Tucson: Our ServiceTitan-powered dispatch system delivers industry-leading response times: average 73-minute arrival for emergency AC repair calls across metro Tucson. We maintain 42 fully-stocked service vehicles and strategically position technicians throughout Tucson, Oro Valley, Marana, Sahuarita, and Vail to minimize your wait time. Unlike competitors who outsource after-hours calls to answering services, our in-house 24/7 dispatch team provides real-time technician tracking and arrival notifications via text message—so you're never left wondering when help will arrive."
+            "content": "Fastest AC Repair Response in Tucson: Our ServiceTitan-powered dispatch system delivers industry-leading response times: average 53-minute arrival for emergency AC repair calls across metro Tucson. We maintain 42 fully-stocked service vehicles and strategically position technicians throughout Tucson, Oro Valley, Marana, Sahuarita, and Vail to minimize your wait time. Unlike competitors who outsource after-hours calls to answering services, our in-house 24/7 dispatch team provides real-time technician tracking and arrival notifications via text message—so you're never left wondering when help will arrive."
       },
       {
             "type": "paragraph",
@@ -140,7 +140,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Need [link:/services/emergency-ac-repair-tucson|emergency AC repair]? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 73 minutes. No overtime charges, ever. Call now for emergency AC repair."
+            "content": "Need [link:/services/emergency-ac-repair-tucson|emergency AC repair]? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 53 minutes. No overtime charges, ever. Call now for emergency AC repair."
       },
       {
             "type": "heading",
@@ -174,7 +174,7 @@ export const acrepairData: ServicePageData = {
     },
     {
       question: "Can you come out today if my AC just stopped working, or do I have to wait several days?",
-      answer: "Yes! We offer same-day emergency AC repair service 7 days a week, including nights, weekends, and holidays—with no overtime charges. Our average response time is 73 minutes across metro Tucson. We maintain 42 fully-stocked service vehicles positioned throughout Tucson, Oro Valley, Marana, Sahuarita, and Vail specifically to minimize wait times. When you call (520) 333-2665, our in-house dispatch team (not an answering service) provides real-time technician tracking via text message. During peak summer months when AC breakdowns spike, we prioritize emergency calls and will get to you the same day."
+      answer: "Yes! We offer same-day emergency AC repair service 7 days a week, including nights, weekends, and holidays—with no overtime charges. Our average response time is 53 minutes across metro Tucson. We maintain 42 fully-stocked service vehicles positioned throughout Tucson, Oro Valley, Marana, Sahuarita, and Vail specifically to minimize wait times. When you call (520) 333-2665, our in-house dispatch team (not an answering service) provides real-time technician tracking via text message. During peak summer months when AC breakdowns spike, we prioritize emergency calls and will get to you the same day."
     },
     {
       question: "Is it better to repair my old AC unit or just replace it with a new one?",

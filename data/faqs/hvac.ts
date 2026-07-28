@@ -29,7 +29,7 @@ export const acRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer emergency AC repair in Tucson?",
-      answer: "Yes. Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast — average response time is 73 minutes. No overtime charges, ever. Call (520) 333-2665 for emergency AC repair."
+      answer: "Yes. Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast — average response time is 53 minutes. No overtime charges, ever. Call (520) 333-2665 for emergency AC repair."
     },
     {
       question: "Why is my air conditioner not working?",

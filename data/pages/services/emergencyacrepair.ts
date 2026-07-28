@@ -13,7 +13,7 @@ const emergencyAcRepairFAQs: ServiceFAQs = {
     },
     {
       question: 'How fast can a technician get to me for emergency AC repair in Tucson?',
-      answer: "Our average response time is about 73 minutes across metro Tucson. We run 42 fully-stocked service trucks positioned throughout Tucson, Oro Valley, Marana, Sahuarita, Vail and Green Valley, and our in-house dispatch sends real-time arrival tracking by text. Same-day service is standard, 7 days a week."
+      answer: "Our average response time is about 53 minutes across metro Tucson. We run 42 fully-stocked service trucks positioned throughout Tucson, Oro Valley, Marana, Sahuarita, Vail and Green Valley, and our in-house dispatch sends real-time arrival tracking by text. Same-day service is standard, 7 days a week."
     },
     {
       question: 'Are you really available 24/7, or will I reach an answering service?',
@@ -25,7 +25,7 @@ const emergencyAcRepairFAQs: ServiceFAQs = {
     },
     {
       question: 'Will you fix my AC on the first visit?',
-      answer: "About 85% of the time, yes. Every truck carries the most common failure parts — capacitors, contactors, fan motors, refrigerant and more — so most emergency repairs are completed the same visit. If a rare part must be ordered, we will often provide a temporary cooling solution to keep you safe until the repair is finished."
+      answer: "About 85% of the time, yes. Every truck carries the most common failure parts — capacitors, contactors, fan motors, refrigerant and more — so most emergency repairs are completed the same visit. If a rare part must be ordered, we can often set you up with a loaner portable AC unit to keep you cool and safe until the repair is finished."
     },
     {
       question: 'How much does emergency AC repair cost in Tucson?',
@@ -44,8 +44,8 @@ const emergencyAcRepairFAQs: ServiceFAQs = {
 
 export const emergencyacrepairData: ServicePageData = {
   // SEO & Meta
-  title: 'Emergency AC Repair Tucson AZ | 24/7 Service, No Overtime Charges | 73-Min Avg Response',
-  description: "24/7 emergency AC repair in Tucson — nights, weekends & holidays at no extra charge. 73-minute average response, same-day service, upfront pricing, NATE-certified techs. 4.97 stars from 23,000+ reviews. Call (520) 333-2665.",
+  title: 'Emergency AC Repair Tucson AZ | 24/7 Service, No Overtime Charges | 53-Min Avg Response',
+  description: "24/7 emergency AC repair in Tucson — nights, weekends & holidays at no extra charge. 53-minute average response, same-day service, upfront pricing, NATE-certified techs. 4.97 stars from 23,000+ reviews. Call (520) 333-2665.",
   slug: 'emergency-ac-repair-tucson',
 
   // Hero Section
@@ -61,7 +61,7 @@ export const emergencyacrepairData: ServicePageData = {
 
   // Make phone CTA primary (emergency service page)
   heroPhonePrimary: true,
-  heroBadges: ['24/7 Live Dispatch', '73-Min Avg Response', 'No Overtime Charges', 'Same-Day Service'],
+  heroBadges: ['24/7 Live Dispatch', '53-Min Avg Response', 'No Overtime Charges', 'Same-Day Service', 'Portable AC Units Available'],
 
   highlights: [
     {
@@ -69,12 +69,16 @@ export const emergencyacrepairData: ServicePageData = {
       description: 'In-house dispatch nights, weekends & holidays | Real-time technician tracking by text | Not an answering service'
     },
     {
-      title: '73-Minute Average Response',
+      title: '53-Minute Average Response',
       description: '42 fully-stocked trucks across metro Tucson | Same-day service, 7 days a week | Techs staged near you'
     },
     {
       title: 'No Overtime Charges — Ever',
       description: 'After-hours, weekends & holidays billed at standard rates | No emergency upcharge | No surprise fees'
+    },
+    {
+      title: 'Portable AC Units Available',
+      description: 'Need a part special-ordered? Ask about a loaner portable AC unit so your family stays cool and safe until your system is back up'
     },
     {
       title: 'Upfront Pricing Before Any Work',
@@ -109,7 +113,7 @@ export const emergencyacrepairData: ServicePageData = {
       },
       {
         type: 'paragraph',
-        content: "When it's 110° and your air conditioner quits, Emergency AC Repair Tucson has to mean fast. Tucson summers are not forgiving: with 146+ days above 90°F and heat indexes that routinely top 115°F, a dead air conditioner is a life-safety problem — indoor temperatures can climb 20-30°F in just 2-3 hours, putting children, elderly family members, and pets at real risk. Intelligent Design provides true 24/7 emergency AC repair across the entire Tucson metro with an average response time of 73 minutes, so you are never left waiting in the heat. When you need standard, non-urgent service instead, see our [link:/services/ac-repair-tucson|AC repair in Tucson] page."
+        content: "When it's 110° and your air conditioner quits, Emergency AC Repair Tucson has to mean fast. Tucson summers are not forgiving: with 146+ days above 90°F and heat indexes that routinely top 115°F, a dead air conditioner is a life-safety problem — indoor temperatures can climb 20-30°F in just 2-3 hours, putting children, elderly family members, and pets at real risk. Intelligent Design provides true 24/7 emergency AC repair across the entire Tucson metro with an average response time of 53 minutes, so you are never left waiting in the heat. When you need standard, non-urgent service instead, see our [link:/services/ac-repair-tucson|AC repair in Tucson] page."
       },
       {
         type: 'paragraph',
@@ -162,7 +166,7 @@ export const emergencyacrepairData: ServicePageData = {
       },
       {
         type: 'paragraph',
-        content: "Speed only helps if the repair actually gets done. Every one of our trucks is stocked with the parts that fail most often in Tucson's heat — capacitors, contactors, fan and blower motors, refrigerant, and control boards — so roughly 85% of emergency repairs are completed the same visit. Our NATE-certified technicians average 17+ years of experience and carry thermal imaging cameras and refrigerant analyzers to pinpoint the problem in minutes. We repair every major brand, including Carrier, Trane, Lennox, Goodman, Rheem and more. Want to prevent the next 2 AM breakdown? Ask about routine [link:/services/ac-tuneup-tucson|AC maintenance and tune-ups] and our [link:/family-protection-plans|Family Protection Plans], which include priority scheduling and waived after-hours fees. Explore our full range of [link:/services/hvac-tucson|HVAC services] to keep your home comfortable year-round."
+        content: "Speed only helps if the repair actually gets done. Every one of our trucks is stocked with the parts that fail most often in Tucson's heat — capacitors, contactors, fan and blower motors, refrigerant, and control boards — so roughly 85% of emergency repairs are completed the same visit. And when a part must be special-ordered, portable AC units are available to keep your family cool until the repair is done. Our NATE-certified technicians average 17+ years of experience and carry thermal imaging cameras and refrigerant analyzers to pinpoint the problem in minutes. We repair every major brand, including Carrier, Trane, Lennox, Goodman, Rheem and more. Want to prevent the next 2 AM breakdown? Ask about routine [link:/services/ac-tuneup-tucson|AC maintenance and tune-ups] and our [link:/family-protection-plans|Family Protection Plans], which include priority scheduling and waived after-hours fees. Explore our full range of [link:/services/hvac-tucson|HVAC services] to keep your home comfortable year-round."
       }
     ]
   },
@@ -172,11 +176,11 @@ export const emergencyacrepairData: ServicePageData = {
   commonQuestions: [
     {
       question: "It's 110° and my AC just died with kids and pets at home — what should I do right now?",
-      answer: "First, call (520) 333-2665 — we prioritize households with children, elderly, or pets and dispatch 24/7 with a 73-minute average response. While you wait: move everyone to the lowest, shadiest room, close blinds and exterior doors, run ceiling or box fans, and keep water handy. Set your thermostat to 'fan only' so air keeps moving. If you smell burning or see sparking, switch the system off at the breaker. Our dispatcher will stay with you on the phone and text you your technician's live location."
+      answer: "First, call (520) 333-2665 — we prioritize households with children, elderly, or pets and dispatch 24/7 with a 53-minute average response. While you wait: move everyone to the lowest, shadiest room, close blinds and exterior doors, run ceiling or box fans, and keep water handy. Set your thermostat to 'fan only' so air keeps moving. If you smell burning or see sparking, switch the system off at the breaker. Our dispatcher will stay with you on the phone and text you your technician's live location."
     },
     {
       question: 'What makes your emergency response faster than other Tucson HVAC companies?',
-      answer: "Three things: (1) 42 fully-stocked trucks staged across Tucson, Oro Valley, Marana, Sahuarita, Vail and Green Valley so a tech is usually already near you; (2) an in-house 24/7 dispatch team — not an answering service that just takes a message and calls someone in the morning; and (3) ServiceTitan-powered routing with real-time text tracking. The result is an average 73-minute arrival, same-day, 7 days a week."
+      answer: "Three things: (1) 42 fully-stocked trucks staged across Tucson, Oro Valley, Marana, Sahuarita, Vail and Green Valley so a tech is usually already near you; (2) an in-house 24/7 dispatch team — not an answering service that just takes a message and calls someone in the morning; and (3) ServiceTitan-powered routing with real-time text tracking. The result is an average 53-minute arrival, same-day, 7 days a week."
     },
     {
       question: 'Can you repair a commercial AC or rooftop unit after hours without shutting down my business?',
