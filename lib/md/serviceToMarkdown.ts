@@ -31,6 +31,17 @@ function clean(text: string | undefined): string {
 }
 
 function sectionToMd(s: ContentSection): string {
+  // Legacy sections have no discriminant `type` field.
+  if (!("type" in s)) {
+    const parts: string[] = [];
+    if (s.heading) parts.push(`\n## ${clean(s.heading)}`);
+    if (s.content) parts.push(clean(s.content));
+    for (const sub of s.subsections || []) {
+      parts.push(`\n### ${clean(sub.heading)}`);
+      parts.push(clean(sub.content));
+    }
+    return parts.join("\n");
+  }
   switch (s.type) {
     case "heading":
       return `\n## ${clean(s.heading)}\n`;
