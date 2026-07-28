@@ -14,6 +14,7 @@ export default async function middleware(request: NextRequest) {
 
   if (pathname.startsWith('/_next/') ||
       pathname.startsWith('/api/') ||
+      pathname.endsWith('.md') ||
       pathname.match(/\.(ico|png|jpg|jpeg|svg|css|js|json|woff|woff2|ttf|eot)$/)) {
     return NextResponse.next();
   }

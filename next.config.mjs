@@ -71,6 +71,8 @@ const nextConfig = {
     return {
       beforeFiles: [
         { source: '/services/:slug.md', destination: '/api/md/service/:slug' },
+        { source: '/service-areas/:slug.md', destination: '/api/md/location/:slug' },
+        { source: '/blog/:category/:slug.md', destination: '/content/blog/:category/:slug.md' },
       ],
       afterFiles: [],
       fallback: [],
@@ -78,6 +80,12 @@ const nextConfig = {
   },
   async headers() {
     return [
+      {
+        source: '/blog/:category/:slug.md',
+        headers: [
+          { key: 'Content-Type', value: 'text/markdown; charset=utf-8' },
+        ],
+      },
       {
         // Cache static images aggressively — fixes "Use efficient cache lifetimes" (989 KiB)
         source: '/images/:path*',
