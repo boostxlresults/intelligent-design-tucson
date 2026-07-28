@@ -8,6 +8,10 @@
       "dataFile": "acrepair",
       "canonicalSlug": "ac-repair-tucson"
     },
+    "emergency-ac-repair-tucson": {
+      "dataFile": "emergencyacrepair",
+      "canonicalSlug": "emergency-ac-repair-tucson"
+    },
     "ac-service-tucson": {
       "dataFile": "acservice",
       "canonicalSlug": "ac-service-tucson"

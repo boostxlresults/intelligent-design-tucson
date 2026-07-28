@@ -12,6 +12,7 @@ export { acemergencyData } from './acemergency';
 export { acinstallationData } from './acinstallation';
 export { thermalcorkroofcoatingData } from './thermalcorkroofcoating';
 export { acrepairData } from './acrepair';
+export { emergencyacrepairData } from './emergencyacrepair';
 export { acserviceData } from './acservice';
 export { actuneupData } from './actuneup';
 export { bidetinstallationData } from './bidetinstallation';

@@ -140,7 +140,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Need emergency AC repair? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 73 minutes. No overtime charges, ever. Call now for emergency AC repair."
+            "content": "Need [link:/services/emergency-ac-repair-tucson|emergency AC repair]? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 73 minutes. No overtime charges, ever. Call now for emergency AC repair."
       },
       {
             "type": "heading",
