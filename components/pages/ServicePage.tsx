@@ -215,10 +215,10 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
       </section>
 
       {/* Trust Bar - Social Proof */}
-      <TrustBar responseTime={data.slug === 'ac-repair-tucson' ? '53 Min' : undefined} />
+      <TrustBar responseTime={['ac-repair-tucson', 'emergency-ac-repair-tucson', 'ac-service-tucson'].includes(data.slug) ? '53 Min' : undefined} />
 
       {/* Process Steps - For emergency service pages */}
-      {data.slug === 'ac-repair-tucson' && (
+      {(data.slug === 'ac-repair-tucson' || data.slug === 'emergency-ac-repair-tucson') && (
         <section className="bg-blue-900 text-white py-6">
           <div className="max-w-5xl mx-auto px-4 md:px-6 lg:px-8">
             <div className="flex flex-col md:flex-row items-center justify-center gap-4 md:gap-8">
