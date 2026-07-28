@@ -5,7 +5,7 @@ import { BIZ, abs, clean, sectionToMd } from "./shared";
 /** Clean markdown version of a service-area page, generated from LocationPageData. */
 export function locationToMarkdown(data: LocationPageData, slug: string): string {
   const url = `${SITE_URL}/service-areas/${slug}`;
-  const place = clean(data.locationDisplayName) || clean(data.locationName);
+  const place = (clean(data.locationDisplayName) || clean(data.locationName)).replace(/,?\s*AZ$/i, "");
   const out: string[] = [];
   out.push(`# ${clean(data.h1)}`);
   if (data.tagline) out.push(`\n*${clean(data.tagline)}*`);

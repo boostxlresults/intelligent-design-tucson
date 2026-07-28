@@ -73,6 +73,7 @@ const nextConfig = {
         { source: '/services/:slug.md', destination: '/api/md/service/:slug' },
         { source: '/service-areas/:slug.md', destination: '/api/md/location/:slug' },
         { source: '/blog/:category/:slug.md', destination: '/content/blog/:category/:slug.md' },
+        { source: '/:slug.md', destination: '/api/md/core/:slug' },
       ],
       afterFiles: [],
       fallback: [],
