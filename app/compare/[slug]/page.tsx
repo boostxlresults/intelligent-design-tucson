@@ -216,7 +216,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
             ))}
           </div>
           <div className="mt-8 text-center">
-            <a href="https://maps.app.goo.gl/xodux58cWvmGRLJd8" target="_blank" rel="noopener" className="inline-flex items-center gap-1.5 text-sm font-bold text-primary underline">
+            <a href="https://www.intelligentdesignreviews.com/" target="_blank" rel="noopener" className="inline-flex items-center gap-1.5 text-sm font-bold text-primary underline">
               <ShieldCheck className="h-4 w-4" /> Read all 23,000+ verified reviews →
             </a>
           </div>
