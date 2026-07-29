@@ -6,6 +6,7 @@ import { SiFacebook, SiInstagram, SiYoutube, SiGoogle } from "react-icons/si";
 import { FaLinkedin } from "react-icons/fa6";
 import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
 import FooterPhoneLink from "@/components/layout/FooterPhoneLink";
+import LocationMap from "@/components/content/LocationMap";
 
 const logoUrl = "/logo.png";
 
@@ -163,6 +164,12 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+        </div>
+
+        {/* Visit Us map */}
+        <div className="mb-12">
+          <h3 className="font-bold text-lg mb-4">Visit Us</h3>
+          <LocationMap className="max-w-3xl" />
         </div>
 
         {/* Bottom Bar */}

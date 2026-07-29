@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import { StructuredData } from "@/components/StructuredData";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
 import { generateMetadata, generateLocalBusinessSchema } from "@/lib/seo";
+import LocationMap from "@/components/content/LocationMap";
 
 export const metadata: Metadata = generateMetadata({
   title: "Contact Us | Intelligent Design Tucson",
@@ -75,6 +76,13 @@ export default function ContactPage() {
                 </ul>
               </div>
             </div>
+          </div>
+        </section>
+
+        <section className="pb-16">
+          <div className="container mx-auto px-4 max-w-4xl">
+            <h2 className="text-2xl font-bold mb-4" data-testid="heading-map">Find Us on the Map</h2>
+            <LocationMap />
           </div>
         </section>
 
