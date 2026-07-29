@@ -172,3 +172,113 @@
 ---
 
 *Last updated: May 2026. For the most current information, visit https://www.idesignac.com or call (520) 333-2665.*
+
+
+---
+
+## Markdown (.md) Versions for AI Crawlers
+
+Every service, service-area, blog post, and core page is available as clean, machine-readable markdown by appending `.md` to its URL (served as `text/markdown`). Full list:
+
+- https://www.idesignac.com/about.md
+- https://www.idesignac.com/contact.md
+- https://www.idesignac.com/customer-reviews.md
+- https://www.idesignac.com/family-protection-plans.md
+- https://www.idesignac.com/financing.md
+- https://www.idesignac.com/guarantees.md
+- https://www.idesignac.com/service-areas/avra-valley.md
+- https://www.idesignac.com/service-areas/casas-adobes.md
+- https://www.idesignac.com/service-areas/catalina-foothills.md
+- https://www.idesignac.com/service-areas/corona-de-tucson.md
+- https://www.idesignac.com/service-areas/drexel-heights.md
+- https://www.idesignac.com/service-areas/east-tucson.md
+- https://www.idesignac.com/service-areas/gladden-farms.md
+- https://www.idesignac.com/service-areas/green-valley.md
+- https://www.idesignac.com/service-areas/marana.md
+- https://www.idesignac.com/service-areas/oro-valley.md
+- https://www.idesignac.com/service-areas/picture-rocks.md
+- https://www.idesignac.com/service-areas/red-rock-casa-grande.md
+- https://www.idesignac.com/service-areas/rita-ranch.md
+- https://www.idesignac.com/service-areas/saddle-brooke-catalina.md
+- https://www.idesignac.com/service-areas/sahuarita.md
+- https://www.idesignac.com/service-areas/tanque-verde.md
+- https://www.idesignac.com/service-areas/tortolita.md
+- https://www.idesignac.com/service-areas/tucson-estates.md
+- https://www.idesignac.com/service-areas/tucson.md
+- https://www.idesignac.com/service-areas/vail.md
+- https://www.idesignac.com/services/ac-installation-tucson.md
+- https://www.idesignac.com/services/ac-repair-tucson.md
+- https://www.idesignac.com/services/ac-service-tucson.md
+- https://www.idesignac.com/services/ac-tuneup-tucson.md
+- https://www.idesignac.com/services/bidet-installation.md
+- https://www.idesignac.com/services/ceiling-fan-installation.md
+- https://www.idesignac.com/services/circuit-breakers.md
+- https://www.idesignac.com/services/commercial-roof-coating.md
+- https://www.idesignac.com/services/commercial-roof-inspection.md
+- https://www.idesignac.com/services/commercial-roof-installation.md
+- https://www.idesignac.com/services/commercial-roof-repair.md
+- https://www.idesignac.com/services/commercial-roof-replacement.md
+- https://www.idesignac.com/services/commercial-solar-installation.md
+- https://www.idesignac.com/services/drain-clearing-special.md
+- https://www.idesignac.com/services/drain-clearing.md
+- https://www.idesignac.com/services/duct-cleaning-tucson.md
+- https://www.idesignac.com/services/duct-repair-tucson.md
+- https://www.idesignac.com/services/duct-sealing-tucson.md
+- https://www.idesignac.com/services/electrical-panel-upgrades.md
+- https://www.idesignac.com/services/electrical-repair.md
+- https://www.idesignac.com/services/electrical-tucson.md
+- https://www.idesignac.com/services/ev-charger-installation.md
+- https://www.idesignac.com/services/flat-roofs.md
+- https://www.idesignac.com/services/furnaces-tucson.md
+- https://www.idesignac.com/services/garbage-disposal-installation.md
+- https://www.idesignac.com/services/gas-line-services.md
+- https://www.idesignac.com/services/generac-installation.md
+- https://www.idesignac.com/services/heat-pumps-tucson.md
+- https://www.idesignac.com/services/heater-repair-tucson.md
+- https://www.idesignac.com/services/heating-installation-tucson.md
+- https://www.idesignac.com/services/home-energy-audit-tucson.md
+- https://www.idesignac.com/services/home-energy-upgrades-tucson.md
+- https://www.idesignac.com/services/hvac-tucson.md
+- https://www.idesignac.com/services/hydro-jetting.md
+- https://www.idesignac.com/services/indoor-air-quality-tucson.md
+- https://www.idesignac.com/services/knowledge-hub.md
+- https://www.idesignac.com/services/leak-detection-tucson.md
+- https://www.idesignac.com/services/lighting-upgrades.md
+- https://www.idesignac.com/services/mini-split-installation-tucson.md
+- https://www.idesignac.com/services/outdoor-motion-lighting.md
+- https://www.idesignac.com/services/outlets-switches.md
+- https://www.idesignac.com/services/pitched-roofs.md
+- https://www.idesignac.com/services/plumbing-tucson.md
+- https://www.idesignac.com/services/repipe-tucson.md
+- https://www.idesignac.com/services/residential-roof-coating.md
+- https://www.idesignac.com/services/residential-roof-inspection.md
+- https://www.idesignac.com/services/residential-roof-installation.md
+- https://www.idesignac.com/services/residential-roof-repair.md
+- https://www.idesignac.com/services/residential-roof-replacement.md
+- https://www.idesignac.com/services/residential-solar-installation.md
+- https://www.idesignac.com/services/roofing-tucson.md
+- https://www.idesignac.com/services/rooter-special.md
+- https://www.idesignac.com/services/septic-permitting.md
+- https://www.idesignac.com/services/septic-repair.md
+- https://www.idesignac.com/services/septic-tank-installation.md
+- https://www.idesignac.com/services/septic-tank-replacement.md
+- https://www.idesignac.com/services/sewer-camera-inspection.md
+- https://www.idesignac.com/services/shingle-roofs.md
+- https://www.idesignac.com/services/sink-repair-installation.md
+- https://www.idesignac.com/services/skylights.md
+- https://www.idesignac.com/services/smart-thermostat-installation.md
+- https://www.idesignac.com/services/solar-installation-tucson.md
+- https://www.idesignac.com/services/solar-maintenance.md
+- https://www.idesignac.com/services/solar-panel-costs.md
+- https://www.idesignac.com/services/solar-tax-credits.md
+- https://www.idesignac.com/services/solar-tubular-lights.md
+- https://www.idesignac.com/services/thermalcork-roof-coating.md
+- https://www.idesignac.com/services/tile-roofs.md
+- https://www.idesignac.com/services/toilet-installation.md
+- https://www.idesignac.com/services/trenchless-repair.md
+- https://www.idesignac.com/services/water-filtration.md
+- https://www.idesignac.com/services/water-heater-installation.md
+- https://www.idesignac.com/services/water-heater-repair.md
+- https://www.idesignac.com/services/water-leak-repair.md
+- https://www.idesignac.com/services/water-softeners.md
+- https://www.idesignac.com/special-offers.md
