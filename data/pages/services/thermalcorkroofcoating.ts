@@ -15,6 +15,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
   tagline: 'Free Estimates | Natural Cork Thermal Break | Up to 50% Energy Savings | 25-Year Warranty | Never Re-Coat Again | Free Roof Assessments',
   heroImage: '/generated_images/commercial_roof_coating_application_54879965.webp',
   heroImageAlt: 'ThermalCork Roof Coating Application in Tucson',
+  heroFinancingBanner: 'Call or Schedule Online Now for Your Free Estimate',
   
   // Service Info
   serviceName: 'ThermalCork Roof Coating',
