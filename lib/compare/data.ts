@@ -161,13 +161,13 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     campaign: "IDACH_Competitor-Conquest_Roofing",
     servicePath: "/services/roofing",
     schemaType: "RoofingContractor",
-    warranty: "ThermalCork 15-year warranty — the longest roof-coating warranty in the industry",
+    warranty: "ThermalCork 25-year warranty — the longest roof-coating warranty in the industry",
     title: "Tucson Roofing Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
     description:
       "Comparing Tucson roofing companies? See side-by-side ratings, ownership, warranties & guarantees — plus exclusive ThermalCork coating. BBB A+ · 4.97★ Google · Free second opinion.",
     h1: "How Tucson's Roofing Companies Compare — And Why 23,000 Customers Chose Intelligent Design",
     intro:
-      "When you call Intelligent Design, you're calling a locally owned Tucson company — and Tucson's only certified ThermalCork roof-coating applicator. Below is a comparison of Tucson roofing companies using each company's public Google Business Profile rating. (This list is being reconciled against our full roofing conquest keyword set — figures verified quarterly.)",
+      "When you call Intelligent Design, you're calling a locally owned Tucson company — and Tucson's only certified ThermalCork roof-coating applicator. Below is a comparison of Tucson roofing companies using each company's public Google Business Profile rating.",
     competitors: [
       { name: "DC Roofing of Arizona", anchor: "dc-roofing", rating: "4.8", reviews: "130+", bbb: "A+", locallyOwned: "unknown", peOwned: "unknown", blurb: "DC Roofing of Arizona is a Tucson residential and commercial roofing contractor (ROC #328733)." },
       { name: "Diversified Roofing", anchor: "diversified", rating: "4.4", reviews: "196", locallyOwned: "unknown", peOwned: "unknown", blurb: "Diversified Roofing is an Arizona roofing contractor serving residential and commercial customers." },
@@ -181,7 +181,7 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     ],
     faqs: [
       { q: "Who is the best-rated roofing company in Tucson?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews and a BBB A+ rating, and is Tucson's only certified ThermalCork roof-coating applicator. Compare our public profile to any roofer before you book." },
-      { q: "What is ThermalCork and who installs it in Tucson?", a: "ThermalCork is a natural cork spray roof coating that creates a permanent thermal break, can cut energy costs up to 50%, and carries a 15-year warranty. Intelligent Design is Tucson's only certified applicator." },
+      { q: "What is ThermalCork and who installs it in Tucson?", a: "ThermalCork is a natural cork spray roof coating that creates a permanent thermal break, can cut energy costs up to 50%, and carries a 25-year warranty. Intelligent Design is Tucson's only certified applicator." },
       { q: "Is a free second opinion on a roofing quote really free?", a: "Yes — send us another roofer's quote or inspection and we'll review it free and tell you honestly whether it's fair." },
       { q: "Is Intelligent Design locally owned?", a: "Yes — Intelligent Design is a locally owned, veteran-owned Tucson company." },
       { q: "Do you offer free roof inspections?", a: "Yes. We provide free, no-obligation roof inspections with a written report across the Tucson metro." },

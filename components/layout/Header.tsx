@@ -131,6 +131,7 @@ export default function Header() {
       { name: "Smart Thermostat Installation", href: "/services/smart-thermostat-installation-tucson", icon: Thermometer },
       { name: "SmartAC Monitoring", href: "/services/smartac-tucson", icon: Radio },
       { name: "Solar AC", href: "/services/solar-ac-tucson", icon: Sun },
+      { name: "Compare Tucson HVAC Companies", href: "/compare/tucson-hvac-companies", icon: Award },
     ]
   };
 
@@ -176,6 +177,7 @@ export default function Header() {
       { name: "Septic Tank Installation", href: "/services/septic-tank-installation", icon: Package },
       { name: "Septic Tank Replacement", href: "/services/septic-tank-replacement", icon: Settings },
       { name: "Septic Permitting", href: "/services/septic-permitting", icon: Shield },
+      { name: "Compare Tucson Plumbers", href: "/compare/tucson-plumbers", icon: Award },
     ]
   };
 
@@ -203,6 +205,7 @@ export default function Header() {
       { name: "Pitched Roofs", href: "/services/pitched-roofs", icon: Home },
       { name: "Metal Roofs", href: "/services/metal-roofs", icon: Layers },
       { name: "ThermalCork Coating", href: "/services/thermalcork-roof-coating", icon: Shield },
+      { name: "Compare Tucson Roofing Companies", href: "/compare/tucson-roofing-companies", icon: Award },
     ]
   };
 
@@ -216,6 +219,7 @@ export default function Header() {
       { name: "Home Energy Audit & Consultation", href: "/services/home-energy-audit-tucson", icon: Search },
       { name: "Solar Tax Credits", href: "/services/solar-tax-credits", icon: CircleDot },
       { name: "Solar Panel Costs", href: "/services/solar-panel-costs", icon: Zap },
+      { name: "Compare Tucson Solar Companies", href: "/compare/tucson-solar-companies", icon: Award },
     ]
   };
 
