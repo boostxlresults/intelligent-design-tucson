@@ -56,6 +56,23 @@ const videoSchema = {
   }
 };
 
+// Video schema for the maintenance-plans video
+const maintenanceVideoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Why Maintenance Plans Matter",
+  "description": "How a home maintenance plan from Intelligent Design keeps a home's HVAC, plumbing, electrical, and roofing systems running right — the perfect complement to the REALTORS® closing-gift protection plan.",
+  "thumbnailUrl": "https://img.youtube.com/vi/dGNiXDZwt_M/maxresdefault.jpg",
+  "uploadDate": "2025-01-01T00:00:00Z",
+  "contentUrl": "https://www.youtube.com/watch?v=dGNiXDZwt_M",
+  "embedUrl": "https://www.youtube.com/embed/dGNiXDZwt_M",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
+    "logo": { "@type": "ImageObject", "url": "https://www.idesignac.com/logo.png" }
+  }
+};
+
 export default function RealtorsOfferPage() {
   const clientBenefits = [
     'Five (5) Full-System Inspections Per Year',
@@ -103,6 +120,12 @@ export default function RealtorsOfferPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(videoSchema)
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(maintenanceVideoSchema)
         }}
       />
 
@@ -192,6 +215,53 @@ export default function RealtorsOfferPage() {
           </div>
         </section>
 
+        {/* Program Videos */}
+        <section className="py-16">
+          <div className="max-w-3xl mx-auto px-4 space-y-14">
+            {/* Realtor program video */}
+            <div>
+              <h2 className="text-3xl md:text-4xl font-bold mb-3 text-center">Learn More About Our REALTORS® Program</h2>
+              <p className="text-lg text-muted-foreground text-center mb-6 max-w-2xl mx-auto">
+                Two minutes on how the program works — and why Tucson agents keep coming back to it.
+              </p>
+              <div className="aspect-video w-full">
+                <iframe
+                  width="100%"
+                  height="100%"
+                  src="https://www.youtube.com/embed/3LQB9xVlaUQ"
+                  title="REALTORS® Exclusive Offer - FREE 2-Year Protection Plan"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                  className="rounded-lg shadow-lg"
+                />
+              </div>
+            </div>
+
+            {/* Maintenance plans video */}
+            <div>
+              <h2 className="text-3xl md:text-4xl font-bold mb-3 text-center">The Gift That Keeps On Protecting: Why Maintenance Plans Matter</h2>
+              <p className="text-lg text-muted-foreground text-center mb-6 max-w-2xl mx-auto">
+                A brand-new home still has systems that need looking after. Here's how a maintenance plan keeps your client's home running right — and keeps you the agent they remember long after closing day.
+              </p>
+              <div className="aspect-video w-full">
+                <iframe
+                  width="100%"
+                  height="100%"
+                  src="https://www.youtube.com/embed/dGNiXDZwt_M"
+                  title="Why Maintenance Plans Matter - Intelligent Design"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                  className="rounded-lg shadow-lg"
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* What Your Clients Get Section */}
         <section className="py-16">
           <div className="max-w-7xl mx-auto px-4">
@@ -248,23 +318,6 @@ export default function RealtorsOfferPage() {
               </div>
             </div>
 
-            {/* Video Section */}
-            <div className="max-w-3xl mx-auto mt-12">
-              <h3 className="text-2xl font-bold mb-6 text-center">Learn More About Our REALTORS® Program</h3>
-              <div className="aspect-video w-full">
-                <iframe 
-                  width="100%" 
-                  height="100%" 
-                  src="https://www.youtube.com/embed/3LQB9xVlaUQ"
-                  title="REALTORS® Exclusive Offer - FREE 2-Year Protection Plan"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                  className="rounded-lg shadow-lg"
-                />
-              </div>
-            </div>
           </div>
         </section>
 

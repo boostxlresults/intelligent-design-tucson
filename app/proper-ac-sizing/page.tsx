@@ -5,6 +5,7 @@ import { getPageSchemas } from "@/lib/seo/schemaRegistry";
 import { SITE_URL } from "@/lib/constants";
 import ClientSchemas from "@/components/schemas/ClientSchemas";
 import { SchedulerCluster } from "@/components/SchedulerCluster";
+import TrustBar from "@/components/content/TrustBar";
 import {
   Ruler, Wind, Thermometer, XCircle, CheckCircle2, ShieldCheck,
   AlertTriangle, ArrowRight, Building2, Phone,
@@ -101,15 +102,18 @@ export default function ProperAcSizingPage() {
             Sizing Your AC From Square Footage Is Guessing.
           </h1>
           <p className="mt-5 text-lg md:text-xl text-primary-foreground/90 max-w-2xl mx-auto">
-            The only correct way to size a system is to <strong>measure</strong> your home — a Manual&nbsp;J load
-            calculation, a blower-door test, and a thermal-imaging scan. It's what the U.S. Department of Energy and
-            ACCA require, and it's how we size every system we install.
+            After 46 years of installing systems in Tucson homes, we can tell you: the only honest way to size one
+            is to actually <strong>measure</strong> your house — a Manual&nbsp;J load calculation, a blower-door test,
+            and a thermal-imaging scan. It's the method the Department of Energy and ACCA call for, and it's how we
+            size every system we put in.
           </p>
           <div className="mt-8">
             <SchedulerCluster position="hero" className="!mt-0" />
           </div>
         </div>
       </section>
+
+      <TrustBar />
 
       {/* The problem */}
       <section className="py-14 md:py-20 px-4">

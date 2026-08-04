@@ -5,6 +5,7 @@ import { getPageSchemas } from "@/lib/seo/schemaRegistry";
 import { SITE_URL } from "@/lib/constants";
 import ClientSchemas from "@/components/schemas/ClientSchemas";
 import SizingEstimator from "@/components/sizing/SizingEstimator";
+import TrustBar from "@/components/content/TrustBar";
 import { ArrowRight, Ruler } from "lucide-react";
 
 const pageSchemas = getPageSchemas({
@@ -82,6 +83,8 @@ export default function AcSizingEstimatorPage() {
         </div>
       </section>
 
+      <TrustBar />
+
       <section className="py-12 md:py-16 px-4">
         <SizingEstimator />
       </section>
@@ -90,9 +93,9 @@ export default function AcSizingEstimatorPage() {
         <div className="max-w-3xl mx-auto rounded-xl border border-border bg-muted/30 p-6 md:p-8">
           <h2 className="text-xl md:text-2xl font-bold mb-2">Why we won't just hand you a number</h2>
           <p className="text-muted-foreground">
-            Plenty of "instant quote" tools will confidently size your system from square footage alone. That's the
-            single most common cause of oversized air conditioners — units that short-cycle, never pull the humidity out,
-            wear out faster, and quietly run up your power bill. We do it the right way instead.{" "}
+            Plenty of "instant quote" tools will happily size your system from square footage alone. In our experience,
+            that's the number-one reason Tucson homes end up with an oversized AC — one that short-cycles, never pulls
+            the humidity out, wears out early, and quietly runs up the power bill. We'd rather do it right.{" "}
             <Link href="/proper-ac-sizing" className="text-primary font-semibold inline-flex items-center gap-1 hover:underline">
               See how we correctly size your system <ArrowRight className="w-4 h-4" />
             </Link>

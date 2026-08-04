@@ -47,8 +47,8 @@ export default function SizingEstimator() {
           <h2 className="text-xl md:text-2xl font-bold">Get Your Preliminary Sizing Range</h2>
         </div>
         <p className="text-sm text-muted-foreground mb-6">
-          We ask for the same factors a real Manual&nbsp;J load calculation weighs — not just square footage —
-          so your ballpark is honest. It takes about 30&nbsp;seconds.
+          We ask about the same things a real Manual&nbsp;J load calculation looks at — not just square footage —
+          so the ballpark you get is an honest one. Takes about 30&nbsp;seconds.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
