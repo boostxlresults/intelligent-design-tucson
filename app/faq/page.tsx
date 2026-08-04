@@ -214,7 +214,7 @@ export default function FAQPage() {
               Call (520) 333-2665
             </a>
             <Link
-              href="/free-hvac-quote"
+              href="/services/ac-installation-tucson"
               className="inline-flex items-center justify-center px-8 py-4 rounded-lg border-2 border-primary text-primary font-semibold text-lg hover:bg-primary/10 transition-colors"
             >
               Get a Free Estimate

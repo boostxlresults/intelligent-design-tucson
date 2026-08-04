@@ -1,12 +1,10 @@
 import type { ReactNode } from 'react';
 import Script from 'next/script';
-import ContractorCommercePlugin from '@/components/integrations/ContractorCommercePlugin';
 
 /**
  * Route-specific layout for /new-air-conditioner
  * 
  * This is the dedicated Google Ads landing page for AC replacement keywords.
- * ContractorCommerce is loaded here for the instant quote widget.
  * Google Ads Tag (AW-802891052) ensures conversion attribution.
  */
 export default function NewAirConditionerLayout({ children }: { children: ReactNode }) {
@@ -30,7 +28,6 @@ export default function NewAirConditionerLayout({ children }: { children: ReactN
         `}
       </Script>
       {children}
-      <ContractorCommercePlugin />
     </>
   );
 }

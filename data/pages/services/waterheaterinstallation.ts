@@ -22,8 +22,8 @@ export const waterheaterinstallationData: ServicePageData = {
   
   // Hero Quote Button
   heroQuoteButton: {
-    label: 'Free Online Water Heater Quote',
-    href: '/water-heater-quote'
+    label: 'Free In-Home Estimate',
+    href: '#schedule'
   },
   
   // Content
@@ -106,10 +106,10 @@ export const waterheaterinstallationData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Get Your Free Water Heater Install Quote Online",
-            "content": "Get instant pricing for your water heater installation or replacement. Our online quote tool provides transparent pricing in just 2 minutes.",
-            "buttonText": "Get Free Water Heater Quote",
-            "buttonLink": "/water-heater-quote"
+            "heading": "Get Your Free In-Home Estimate",
+            "content": "Get a fast, no-pressure estimate for your water heater installation or replacement. We confirm the right unit and give you honest pricing \u2014 no online guesswork.",
+            "buttonText": "Schedule Your Free Estimate",
+            "buttonLink": "#schedule"
       },
       {
             "type": "heading",

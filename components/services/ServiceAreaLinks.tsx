@@ -124,7 +124,6 @@ const CROSS_LINKS = [
   { name: 'Special Offers', href: '/special-offers', icon: Star },
   { name: 'Customer Reviews', href: '/customer-reviews', icon: Star },
   { name: 'Family Protection Plans', href: '/family-protection-plans', icon: Shield },
-  { name: 'Free HVAC Quote', href: '/free-hvac-quote', icon: Home },
 ];
 
 const CATEGORY_SERVICES: Record<string, typeof HVAC_SERVICES> = {

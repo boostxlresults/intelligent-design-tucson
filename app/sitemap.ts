@@ -84,7 +84,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/faq',
     '/financing',
     '/family-protection-plans',
-    '/free-hvac-quote',
     '/guarantees',
     '/privacy-policy',
     '/service-areas',

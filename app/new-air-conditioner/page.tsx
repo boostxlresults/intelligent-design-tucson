@@ -6,7 +6,6 @@ import { CheckCircle2, Shield, Clock, Award, ThermometerSun, Zap, DollarSign, St
 import { getPageSchemas } from '@/lib/seo/schemaRegistry';
 import { SITE_URL } from '@/lib/constants';
 import ClientSchemas from '@/components/schemas/ClientSchemas';
-import QuoteCallout from '@/components/integrations/QuoteCallout';
 
 const productSchemas = getPageSchemas({
   pageType: 'product',
@@ -197,14 +196,6 @@ export default function NewAirConditionerPage() {
           </div>
         </div>
       </section>
-
-      {/* Instant Estimate CTA — Native CC Widget */}
-      <div id="instant-estimate">
-        <QuoteCallout
-          journeyType="systemQuote"
-          navigatorKey="NzdTlJWvihCCWjsf"
-        />
-      </div>
 
       {/* Correct sizing message — Manual J vs square footage */}
       <section className="py-10 px-4">
@@ -414,14 +405,6 @@ export default function NewAirConditionerPage() {
           </div>
         </div>
       </section>
-
-      {/* Second CTA */}
-      <QuoteCallout
-        journeyType="systemQuote"
-        heading="Ready for Your New Air Conditioner?"
-        description="See exact pricing for your home in under 2 minutes. Compare brands, efficiency levels, and financing options."
-        buttonText="Get My Exact Price Now"
-      />
 
       {/* What's Included */}
       <section className="py-12 md:py-16">

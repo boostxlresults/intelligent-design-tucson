@@ -27,8 +27,8 @@ export const acinstallationData: ServicePageData = {
   
   // Hero Quote Button
   heroQuoteButton: {
-    label: 'Free Online HVAC Quote',
-    href: '/free-hvac-quote'
+    label: 'Free In-Home Estimate',
+    href: '#schedule'
   },
   
   // Content
@@ -81,10 +81,10 @@ export const acinstallationData: ServicePageData = {
       },
       {
             "type": "cta",
-            "heading": "Get Your Free HVAC Install Quote Online",
-            "content": "Skip the wait! Use our interactive online quote tool to get instant pricing for your new AC or heating system installation. Answer a few simple questions and receive a detailed estimate in minutes.",
-            "buttonText": "Get Free HVAC Quote",
-            "buttonLink": "/free-hvac-quote"
+            "heading": "Get Your Free In-Home Estimate",
+            "content": "Skip the online guesswork. We come to you, measure your home, and give you an accurate, no-pressure estimate \u2014 the honest way to price a new system. Book in seconds.",
+            "buttonText": "Schedule Your Free Estimate",
+            "buttonLink": "#schedule"
       },
       {
             "type": "heading",
