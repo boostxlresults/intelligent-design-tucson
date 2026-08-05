@@ -91,6 +91,18 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
   const v = getVertical(slug);
   if (!v) notFound();
 
+  const seenAnchors = new Set(v.competitors.map((c) => c.anchor));
+  const comps: Competitor[] = [...v.competitors];
+  for (const other of COMPARE_VERTICALS) {
+    if (other.slug === v.slug) continue;
+    for (const c of other.competitors) {
+      if (c.alsoServes?.includes(v.slug) && !seenAnchors.has(c.anchor)) {
+        seenAnchors.add(c.anchor);
+        comps.push(c);
+      }
+    }
+  }
+
   const url = `${SITE}/compare/${v.slug}`;
   const schema = {
     "@context": "https://schema.org",
@@ -169,7 +181,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
           </div>
 
           {/* Competitors */}
-          {v.competitors.map((c) => (
+          {comps.map((c) => (
             <div key={c.anchor} id={c.anchor} data-competitor={c.anchor} className="scroll-mt-24 rounded-2xl border border-border bg-card p-5 shadow-sm">
               <div className="flex flex-wrap items-center gap-2">
                 <h3 className="text-lg font-bold text-primary">{c.name}</h3>
