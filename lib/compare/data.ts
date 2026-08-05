@@ -19,6 +19,7 @@ export interface Competitor {
   blurb: string;               // one neutral, factual sentence
   closed?: boolean;            // solar: installer no longer operating -> orphaned-system angle
   national?: boolean;          // national brand, not a local Tucson company
+  alsoServes?: string[];   // other vertical slugs this multi-service company also competes in
 }
 
 export interface Testimonial { quote: string; name: string; area: string; }
