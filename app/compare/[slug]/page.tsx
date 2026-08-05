@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 import { Phone, Star, ShieldCheck, MapPin, ArrowRight } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import TrustBar from "@/components/content/TrustBar";
-import { COMPARE_VERTICALS, getVertical, type Competitor, type Tri } from "@/lib/compare/data";
+import { COMPARE_VERTICALS, getVertical, getVsPage, VS_PAGES, type Competitor, type Tri, type VsPage } from "@/lib/compare/data";
 import SecondOpinionForm from "@/components/compare/SecondOpinionForm";
 import CompareAnalytics from "@/components/compare/CompareAnalytics";
 
@@ -17,11 +17,17 @@ type Tone = "good" | "bad" | "neutral" | "muted";
 interface Field { label: string; value: string; tone: Tone; }
 
 export function generateStaticParams() {
-  return COMPARE_VERTICALS.map((v) => ({ slug: v.slug }));
+  return [...COMPARE_VERTICALS.map((v) => ({ slug: v.slug })), ...VS_PAGES.map((p) => ({ slug: p.slug }))];
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
+  const vs = getVsPage(slug);
+  if (vs) {
+    const vurl = `${SITE}/compare/${vs.slug}`;
+    const vdesc = `Compare Intelligent Design and ${vs.competitorName} for Tucson ${vs.verticalLabel.toLowerCase()}: Google ratings, review counts, ownership, and a free second opinion on any quote. Ratings as of Aug 2026.`;
+    return { title: vs.h1, description: vdesc, alternates: { canonical: vurl }, openGraph: { title: vs.h1, description: vdesc, url: vurl, type: "website" }, twitter: { card: "summary_large_image", title: vs.h1, description: vdesc } };
+  }
   const v = getVertical(slug);
   if (!v) return {};
   const url = `${SITE}/compare/${v.slug}`;
@@ -80,6 +86,8 @@ function Chips({ fields }: { fields: Field[] }) {
 
 export default async function ComparePage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
+  const vs = getVsPage(slug);
+  if (vs) return <VsPageView vs={vs} />;
   const v = getVertical(slug);
   if (!v) notFound();
 
@@ -248,6 +256,136 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         <p className="mt-10 text-center">
           <Link href={v.servicePath} className="inline-flex items-center gap-1.5 font-bold text-primary underline">
             See our Tucson {v.verticalLabel} services <ArrowRight className="h-4 w-4" />
+          </Link>
+        </p>
+      </section>
+    </div>
+  );
+}
+
+
+function vsCompetitorFields(vs: VsPage): Field[] {
+  const local: Field = vs.national
+    ? { label: "Locally Owned", value: "No", tone: "bad" }
+    : vs.peOwned === "no"
+      ? { label: "Locally Owned", value: "Yes", tone: "good" }
+      : { label: "Locally Owned", value: "—", tone: "muted" };
+  return [
+    local,
+    ownField("Private Equity Owned", vs.peOwned, "no"),
+    { label: "Google Rating", value: vs.rating ? `${vs.rating}★` : "—", tone: vs.rating ? "neutral" : "muted" },
+    { label: "# Reviews", value: vs.reviews ?? "—", tone: vs.reviews ? "neutral" : "muted" },
+    { label: "24/7 Emergency", value: "—", tone: "muted" },
+  ];
+}
+
+function VsPageView({ vs }: { vs: VsPage }) {
+  const url = `${SITE}/compare/${vs.slug}`;
+  const schema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": ["LocalBusiness", "HomeAndConstructionBusiness"],
+        "@id": `${url}#business`,
+        name: IDACH_NAME,
+        alternateName: "Intelligent Design",
+        url: SITE,
+        telephone: "+1-520-333-2665",
+        priceRange: "$$",
+        address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
+        aggregateRating: { "@type": "AggregateRating", ratingValue: "4.97", reviewCount: "23000", bestRating: "5", worstRating: "1" },
+      },
+      { "@type": "FAQPage", "@id": `${url}#faq`, mainEntity: vs.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) },
+    ],
+  };
+  return (
+    <div className="bg-background text-foreground">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
+      <CompareAnalytics vertical={vs.verticalLabel} />
+
+      {/* HERO */}
+      <section className="relative flex min-h-[420px] items-center overflow-hidden">
+        <div className="absolute inset-0 z-0">
+          <Image src="/images/hero-family-desktop.webp" alt="The Dobbins family, owners of Intelligent Design, in Tucson" fill priority sizes="100vw" className="object-cover" />
+          <div className="absolute inset-0 bg-gradient-to-r from-[#0d2d7a]/95 via-[#0d2d7a]/75 to-[#0d2d7a]/30" />
+        </div>
+        <div className="relative z-10 mx-auto w-full max-w-6xl px-4 py-12 md:px-8 md:py-16">
+          <div className="max-w-3xl">
+            <div className="mb-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 rounded-full bg-white/10 px-4 py-1.5 text-xs font-bold uppercase tracking-wide text-amber-300 backdrop-blur-sm">
+              <span>23,000 Five-Star Reviews</span><span aria-hidden>·</span><span>BBB A+</span><span aria-hidden>·</span><span>Since 1979</span>
+            </div>
+            <h1 className="text-2xl font-extrabold leading-tight text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)] md:text-4xl">{vs.h1}</h1>
+            <p className="mt-4 max-w-2xl text-base font-medium text-white/90 drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">{vs.intro}</p>
+            <div className="mt-6 flex flex-col gap-3 sm:flex-row">
+              <a href="#second-opinion" className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#e8a020] px-6 py-3 font-bold text-[#0d2d7a] shadow-lg transition hover:bg-[#f5b731]">
+                Free Second Opinion on Any Quote <ArrowRight className="h-4 w-4" />
+              </a>
+              <a href="tel:5203332665" className="inline-flex items-center justify-center gap-2 rounded-lg border border-white/50 bg-white/5 px-6 py-3 font-bold text-white backdrop-blur-sm transition hover:bg-white/15">
+                <Phone className="h-4 w-4" /> {PHONE_DISPLAY}
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <TrustBar />
+
+      {/* SIDE BY SIDE */}
+      <section className="mx-auto max-w-4xl px-4 py-12 md:px-8 md:py-16">
+        <h2 className="text-2xl font-bold text-primary md:text-3xl">Intelligent Design vs. {vs.competitorName}, side by side</h2>
+        <div className="mt-8 grid gap-4 md:grid-cols-2">
+          <div className="rounded-2xl border-2 border-[#e8a020] bg-amber-50/60 p-5 shadow-sm">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="rounded bg-[#e8a020] px-2 py-0.5 text-[11px] font-black text-[#0d2d7a]">OUR TEAM</span>
+              <h3 className="text-lg font-extrabold text-[#0d2d7a]">Intelligent Design</h3>
+            </div>
+            <Chips fields={ID_FIELDS} />
+          </div>
+          <div className="rounded-2xl border border-border bg-card p-5 shadow-sm">
+            <div className="flex flex-wrap items-center gap-2">
+              <h3 className="text-lg font-bold text-primary">{vs.competitorName}</h3>
+              {vs.peOwned === "yes" && <span className="rounded-full bg-amber-100 px-2.5 py-0.5 text-xs font-bold text-amber-800">Private-equity owned</span>}
+              {vs.national && <span className="rounded-full bg-neutral-100 px-2.5 py-0.5 text-xs font-bold text-neutral-600">National brand</span>}
+            </div>
+            <Chips fields={vsCompetitorFields(vs)} />
+          </div>
+        </div>
+        <p className="mt-6 text-sm leading-relaxed text-foreground">{vs.closingCta}{" "}
+          <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
+        </p>
+        <p className="mt-4 text-xs leading-relaxed text-muted-foreground">
+          Competitor rating &amp; review figures are from public Google Business Profiles as of Aug 2026; verify current figures with each company. Intelligent Design&apos;s 23,000+ is an aggregate across Google, Facebook, PulseM &amp; Angi. This comparison is provided for informational purposes (nominative fair use); {vs.competitorName} is not affiliated with Intelligent Design.
+        </p>
+      </section>
+
+      {/* SECOND OPINION */}
+      <section id="second-opinion" className="scroll-mt-24 bg-[#0d2d7a]">
+        <div className="mx-auto max-w-3xl px-4 py-14 md:px-8">
+          <h2 className="text-2xl font-bold text-white md:text-3xl">Got a quote from {vs.competitorName}?</h2>
+          <p className="mt-2 text-white/85">We&apos;ll review it free — and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
+          <div className="mt-6"><SecondOpinionForm service={vs.verticalLabel} pageSlug={vs.slug} /></div>
+        </div>
+      </section>
+
+      {/* FAQ */}
+      <section className="mx-auto max-w-4xl px-4 py-14 md:px-8">
+        <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">Frequently asked questions</h2>
+        <div className="mt-8">
+          <Accordion type="single" collapsible className="w-full">
+            {vs.faqs.map((f, i) => (
+              <AccordionItem key={i} value={`faq-${i}`}>
+                <AccordionTrigger className="text-left font-semibold text-primary">{f.q}</AccordionTrigger>
+                <AccordionContent className="text-muted-foreground">{f.a}</AccordionContent>
+              </AccordionItem>
+            ))}
+          </Accordion>
+        </div>
+        <p className="mt-10 flex flex-col items-center gap-3 text-center sm:flex-row sm:justify-center">
+          <Link href={`/compare/${vs.verticalSlug}`} className="inline-flex items-center gap-1.5 font-bold text-primary underline">
+            Compare all Tucson {vs.noun} <ArrowRight className="h-4 w-4" />
+          </Link>
+          <Link href={vs.servicePath} className="inline-flex items-center gap-1.5 font-bold text-primary underline">
+            See our Tucson {vs.verticalLabel} services <ArrowRight className="h-4 w-4" />
           </Link>
         </p>
       </section>
