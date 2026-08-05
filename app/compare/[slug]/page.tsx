@@ -370,6 +370,18 @@ function VsPageView({ vs }: { vs: VsPage }) {
         </p>
       </section>
 
+      {/* WHY CHOOSE US */}
+      {vs.whyChoose && (
+        <section className="bg-secondary">
+          <div className="mx-auto max-w-3xl px-4 py-12 md:px-8 md:py-16">
+            <h2 className="text-2xl font-bold text-primary md:text-3xl">Why Tucson homeowners choose Intelligent Design over {vs.competitorName}</h2>
+            <div className="mt-6 space-y-4 text-base leading-relaxed text-muted-foreground">
+              {vs.whyChoose.split("\n\n").map((para, i) => (<p key={i}>{para}</p>))}
+            </div>
+          </div>
+        </section>
+      )}
+
       {/* SECOND OPINION */}
       <section id="second-opinion" className="scroll-mt-24 bg-[#0d2d7a]">
         <div className="mx-auto max-w-3xl px-4 py-14 md:px-8">
