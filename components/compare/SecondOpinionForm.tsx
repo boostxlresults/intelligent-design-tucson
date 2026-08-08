@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { attributionFields } from "@/lib/attribution";
+import { fireVibeLead } from "@/lib/analytics";
 
 /**
  * Free second-opinion lead form for the conquest compare pages.
@@ -32,6 +33,7 @@ export default function SecondOpinionForm({ service, pageSlug }: { service: stri
           who_quoted: form.whoQuoted || "unknown",
         });
       } catch { /* noop */ }
+      fireVibeLead();
       setStatus("ok");
     } catch {
       setStatus("error");

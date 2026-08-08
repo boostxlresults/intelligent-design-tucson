@@ -54,8 +54,18 @@ export function trackEvent(event: ConversionEvent, params: EventParams = {}) {
 /*  Convenience helpers – import these directly in components          */
 /* ------------------------------------------------------------------ */
 
+/** Fire the Vibe (vbpx) "lead" conversion event when a real lead happens. Safe no-op if the pixel isn't loaded. */
+export function fireVibeLead() {
+  if (typeof window === 'undefined') return;
+  try {
+    const vb = (window as unknown as { vbpx?: (...a: unknown[]) => void }).vbpx;
+    if (typeof vb === 'function') vb('event', 'lead');
+  } catch { /* noop */ }
+}
+
 /** Track a click on any tel: phone link */
 export function trackPhoneClick(component: string) {
+  fireVibeLead();
   trackEvent('phone_click', {
     event_category: 'conversion',
     event_label: 'Phone Call',
@@ -74,6 +84,7 @@ export function trackScheduleOpen(component: string) {
 
 /** Track a successful form submission */
 export function trackFormSubmit(formName: string, serviceType?: string) {
+  fireVibeLead();
   trackEvent('form_submit', {
     event_category: 'conversion',
     event_label: formName,
