@@ -176,6 +176,12 @@ export default function RootLayout({
             })();
           `}
         </Script>
+        {/* Vibe (vbpx) advertising pixel */}
+        <Script id="vibe-vbpx" strategy="afterInteractive" dangerouslySetInnerHTML={{ __html: `
+  !function(v,i,b,e,c,o){if(!v[c]){var s=v[c]=function(){s.process?s.process.apply(s,arguments):s.queue.push(arguments)};s.queue=[],s.b=1*new Date;var t=i.createElement(b);t.async=!0,t.src=e;var n=i.getElementsByTagName(b)[0];n.parentNode.insertBefore(t,n)}}(window,document,"script","https://s.vibe.co/vbpx.js","vbpx");
+  vbpx('init','i2lfF8');
+  vbpx('event', 'page_view');
+        ` }} />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         {/* BlockScheduleEngineChat must run before GTM to intercept WebChat */}
