@@ -23,6 +23,8 @@ const formSchema = z.object({
   utm_source: z.string().max(120).trim().optional().default(''),
   utm_medium: z.string().max(120).trim().optional().default(''),
   utm_term: z.string().max(200).trim().optional().default(''),
+  utm_content: z.string().max(200).trim().optional().default(''),
+  landingPage: z.string().max(300).trim().optional().default(''),
   pageSlug: z.string().max(80).trim().optional().default('free-roof-inspection'),
 });
 
@@ -33,31 +35,40 @@ function esc(t: string): string {
   return t.replace(/[&<>"']/g, (c) => m[c] || c);
 }
 
-/** Build the description field — folds the "seeing" answer + gclid/UTMs (no dedicated columns yet). */
+/** Human-readable description. Attribution now rides dedicated fields (gclid, utm params, landingPage), not this string. */
 function buildDescription(d: Lead): string {
   const parts = [`Storm damage — free roof inspection request.`];
   if (d.seeing) parts.push(`Seeing: ${d.seeing}.`);
-  const attr: string[] = [];
-  if (d.gclid) attr.push(`gclid=${d.gclid}`);
-  if (d.gbraid) attr.push(`gbraid=${d.gbraid}`);
-  if (d.wbraid) attr.push(`wbraid=${d.wbraid}`);
-  if (d.utm_campaign) attr.push(`utm_campaign=${d.utm_campaign}`);
-  if (d.utm_source) attr.push(`utm_source=${d.utm_source}`);
-  if (d.utm_medium) attr.push(`utm_medium=${d.utm_medium}`);
-  if (d.utm_term) attr.push(`utm_term=${d.utm_term}`);
-  if (attr.length) parts.push(attr.join(' '));
+  // gbraid/wbraid have no dedicated column yet — keep them here so they aren't lost.
+  const extra: string[] = [];
+  if (d.gbraid) extra.push(`gbraid=${d.gbraid}`);
+  if (d.wbraid) extra.push(`wbraid=${d.wbraid}`);
+  if (extra.length) parts.push(`(${extra.join(' ')})`);
   return parts.join(' ');
 }
 
 /** POST the lead to SpeedToLead360 so it lands as a NEW war-room card. Fire-and-forget (timeout-capped). */
 async function postToSpeedToLead(d: Lead): Promise<{ ok: boolean; status?: number; error?: string }> {
   const [firstName, ...rest] = d.name.trim().split(/\s+/);
+  // Only include attribution keys that have a value, so cards stay clean.
+  const attr: Record<string, string> = {};
+  if (d.gclid) attr.gclid = d.gclid;
+  if (d.utm_source) attr.utm_source = d.utm_source;
+  if (d.utm_campaign) attr.utm_campaign = d.utm_campaign;
+  if (d.utm_medium) attr.utm_medium = d.utm_medium;
+  if (d.utm_term) attr.utm_term = d.utm_term;
+  if (d.utm_content) attr.utm_content = d.utm_content;
+  if (d.landingPage) attr.landingPage = d.landingPage;
   const payload = {
     firstName: firstName || d.name,
     lastName: rest.join(' '),
     phone: d.phone,
     email: '',
     address: d.address,
+    serviceType: 'Roofing',
+    jobType: 'inspection',
+    formName: 'Free Roof Inspection LP',
+    ...attr,
     description: buildDescription(d),
     id: `storm-form-${d.submissionId || randomUUID()}`,
   };

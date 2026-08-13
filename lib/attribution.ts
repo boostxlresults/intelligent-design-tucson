@@ -7,7 +7,7 @@
  * hydrating the URL so ServiceTitan Scheduling Pro captures the click natively.
  */
 export const ATTR_KEY = "idach_click_attribution";
-export const ATTR_FIELDS = ["gclid", "gbraid", "wbraid", "utm_campaign", "utm_source", "utm_medium", "utm_term"] as const;
+export const ATTR_FIELDS = ["gclid", "gbraid", "wbraid", "utm_campaign", "utm_source", "utm_medium", "utm_term", "utm_content"] as const;
 export type AttrField = (typeof ATTR_FIELDS)[number];
 export type Attribution = Partial<Record<AttrField, string>> & { ts?: number; landing?: string };
 

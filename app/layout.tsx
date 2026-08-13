@@ -100,7 +100,7 @@ export default function RootLayout({
               var ids = {
                 gclid: p.get("gclid"), gbraid: p.get("gbraid"), wbraid: p.get("wbraid"),
                 utm_campaign: p.get("utm_campaign"), utm_source: p.get("utm_source"),
-                utm_medium: p.get("utm_medium"), utm_term: p.get("utm_term")
+                utm_medium: p.get("utm_medium"), utm_term: p.get("utm_term"), utm_content: p.get("utm_content")
               };
               var hasNewClick = ids.gclid || ids.gbraid || ids.wbraid;
               var stored = null;

@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { attributionFields } from "@/lib/attribution";
+import { attributionFields, getAttribution } from "@/lib/attribution";
 import { trackFormSubmit } from "@/lib/analytics";
 
 /** Fire a Meta pixel event if fbq is present (no-op otherwise). */
@@ -45,10 +45,12 @@ export default function FreeRoofInspectionForm() {
     if (!form.name.trim() || form.phone.replace(/\D/g, "").length < 10 || !form.address.trim()) return;
     setStatus("sending");
     try {
+      const _attr = getAttribution();
+      const _landingPage = _attr.landing || (typeof window !== "undefined" ? window.location.pathname : "");
       const res = await fetch("/api/free-roof-inspection", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...form, pageSlug: "free-roof-inspection", submissionId: submissionId.current, ...attributionFields() }),
+        body: JSON.stringify({ ...form, pageSlug: "free-roof-inspection", submissionId: submissionId.current, landingPage: _landingPage, ...attributionFields() }),
       });
       if (!res.ok) throw new Error("failed");
       // Conversions: GA4 (form_submit via helper -> also fires Vibe lead) + generate_lead, Meta Lead
