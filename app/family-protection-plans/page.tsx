@@ -1,23 +1,113 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronRight, CheckCircle2, Shield, Phone, Clock, Award, Star, Calendar, Wrench, Zap, Droplets, Home, Sun } from 'lucide-react';
+import { ChevronRight, CheckCircle2, Shield, Phone, Clock, Award, Star, Calendar, Wrench, Zap, Droplets, Home, Sun, FileText, Download } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Intelligent Design Family Protection Plans | Home Maintenance Plans Tucson',
-  description: "Don't miss this opportunity to secure your family's comfort and safety. Sign up now and experience the financial benefits of a well-maintained home. Priority service, up to 20% discounts, and 5 free annual visits.",
+  title: 'Family Protection Plans | Tucson Home Maintenance Membership | Intelligent Design',
+  description: "Tucson home maintenance membership plans from $5/month. Annual inspections, up to 15% repair discounts, 24/7 smart AC monitoring, warranty extensions, filter & service credits, and sign-on bonuses. Call (520) 333-2665.",
   canonicalUrl: 'https://www.idesignac.com/family-protection-plans',
-  keywords: ['family protection plan Tucson', 'HVAC maintenance plan', 'plumbing maintenance plan', 'home service agreement', 'affordable home maintenance Tucson'],
+  keywords: ['family protection plan Tucson', 'HVAC maintenance plan', 'plumbing maintenance plan', 'home service agreement', 'smart AC monitoring', 'affordable home maintenance Tucson'],
 });
+
+// PDF featured near the top of the page. Replace the file at
+// public/family-protection-plans-overview.pdf with the final version — the path/URL stays the same.
+const PLAN_PDF = '/family-protection-plans-overview.pdf';
+
+type Plan = {
+  name: string;
+  price: string;
+  unit: string;
+  note?: string;
+  icon: typeof Shield;
+  featured?: boolean;
+  badge?: string;
+  features: string[];
+};
+
+const plans: Plan[] = [
+  {
+    name: 'Deluxe Plan',
+    price: '$48.88',
+    unit: '/mo',
+    note: 'Price includes your first HVAC system — each additional unit is half off.',
+    icon: Shield,
+    featured: true,
+    badge: 'Best Value',
+    features: [
+      'Five annual inspections',
+      '15% repair discount',
+      '2-year warranty extension',
+      'Complimentary drain treatment, water testing, standard filter, thermostat batteries & thermal imaging',
+      'Emergency response & priority booking',
+      '3-year inflation protection',
+      '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
+      'Piggy Bank Earnings: $10 monthly service/repair credit',
+      '$25 Filter Credit',
+      '$500 Sign-On Bonus for service/repair after 1 year of membership',
+    ],
+  },
+  {
+    name: 'HVAC Only Plan',
+    price: '$32.88',
+    unit: '/mo',
+    note: 'Price includes your first HVAC system — each additional unit is half off.',
+    icon: Wrench,
+    features: [
+      'Annual heating & cooling maintenance',
+      '10% repair discount',
+      '2-year extended repair warranty',
+      '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
+      'Piggy Bank Earnings: $10 monthly service/repair credit',
+      '$25 Filter Credit',
+      '$250 Sign-On Bonus for service/repair after 1 year of membership',
+    ],
+  },
+  {
+    name: 'Smart AC Only Plan',
+    price: '$5',
+    unit: '/mo',
+    icon: Zap,
+    features: [
+      '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
+      'Piggy Bank Earnings: $10 monthly service/repair credit',
+      '1-year warranty on parts & labor',
+    ],
+  },
+  {
+    name: 'Plumbing Only Plan',
+    price: '$14.88',
+    unit: '/mo',
+    icon: Droplets,
+    features: [
+      'Annual plumbing inspection',
+      'Water heater flush',
+      '10% repair discount',
+      '2-year extended repair warranty',
+    ],
+  },
+  {
+    name: 'Solar Monitoring Add-On',
+    price: '$14.88',
+    unit: '/mo',
+    note: 'Transfer fee applies. Monitoring for SolarEdge & Enphase systems.',
+    icon: Sun,
+    features: [
+      '10% repair discount',
+      'Annual solar inspection',
+      'Monitoring support for SolarEdge & Enphase systems; other systems receive one extra annual solar inspection',
+    ],
+  },
+];
 
 const planSchema = {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": "Intelligent Design Family Protection Plans",
-  "description": "Comprehensive home protection plans covering HVAC, plumbing, electrical, roofing, and solar systems with annual inspections, repair discounts, and priority service",
+  "description": "Tucson home maintenance membership plans covering HVAC, plumbing, solar, and smart-AC monitoring with annual inspections, repair discounts, warranty extensions, and priority service.",
   "brand": {
     "@type": "Organization",
     "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric"
@@ -25,9 +115,9 @@ const planSchema = {
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "USD",
-    "lowPrice": "9.99",
-    "highPrice": "49.99",
-    "offerCount": 7
+    "lowPrice": "5.00",
+    "highPrice": "48.88",
+    "offerCount": 5
   }
 };
 
@@ -37,18 +127,18 @@ const faqSchema = {
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is included in the Family Protection Plan?",
+      "name": "What plans are available and what do they cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Our Family Protection Plans include priority service 24/7/365, up to 5 free annual visits, up to 20% discount on all services and repairs, $0 service fees for select plans, no overtime rates, front-of-the-line priority service, exclusive product offers, and 5 complementary maintenance appointments (AC Tune Up, Heating Tune Up, Whole Home Plumbing Inspection, Whole Home Electrical Inspection, and Roofing Inspection)."
+        "text": "The Deluxe Plan is $48.88/month (includes your first HVAC system; each additional unit is half off). Single-service options include the HVAC Only Plan at $32.88/month, the Smart AC Only Plan at $5/month, and the Plumbing Only Plan at $14.88/month, plus a Solar Monitoring add-on at $14.88/month."
       }
     },
     {
       "@type": "Question",
-      "name": "What plans are available?",
+      "name": "What is included in the Deluxe Family Protection Plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We offer 7 different plans: Basic, Classic, Deluxe, and Premium comprehensive plans, plus single-service options including HVAC Only, Plumbing Only, and Solar Monitoring plans."
+        "text": "The Deluxe Plan includes five annual inspections, a 15% repair discount, a 2-year warranty extension, complimentary drain treatment, water testing, standard filter, thermostat batteries and thermal imaging, emergency response and priority booking, 3-year inflation protection, 24/7 smart AC monitoring, $10 monthly Piggy Bank service credit, a $25 filter credit, and a $500 sign-on bonus for service or repair after one year of membership."
       }
     },
     {
@@ -56,7 +146,7 @@ const faqSchema = {
       "name": "How do I sign up for a Family Protection Plan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Simply call us at (520) 333-2665 to speak with one of our Family Protection Plan Experts, or ask your service professional to enroll you during your next appointment."
+        "text": "Call (520) 333-2665 to speak with John Anderson, our Customer Service Representative, or ask your service professional to enroll you during your next appointment."
       }
     }
   ]
@@ -66,7 +156,7 @@ const videoSchema = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": "Family Protection Plans - Intelligent Design Home Maintenance Plans",
-  "description": "Learn about Intelligent Design's Family Protection Plans offering comprehensive home maintenance coverage for HVAC, plumbing, electrical, roofing, and solar systems. Priority service, repair discounts, and 5 free annual visits.",
+  "description": "Learn about Intelligent Design's Family Protection Plans offering home maintenance coverage for HVAC, plumbing, solar, and smart-AC monitoring. Priority service, repair discounts, and annual inspections.",
   "thumbnailUrl": "https://img.youtube.com/vi/7fvu8D6HN_g/maxresdefault.jpg",
   "uploadDate": "2024-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=7fvu8D6HN_g",
@@ -81,74 +171,81 @@ const videoSchema = {
   }
 };
 
-export default function FamilyProtectionPlansPage() {
-  const mainPlans = [
-    { name: "Basic", image: "/images/plans/basic.jpg" },
-    { name: "Classic", image: "/images/plans/classic.jpg" },
-    { name: "Deluxe", image: "/images/plans/deluxe.jpg" },
-    { name: "Premium", image: "/images/plans/premium.jpg" },
-  ];
+function PlanCard({ plan }: { plan: Plan }) {
+  const Icon = plan.icon;
+  return (
+    <Card className={`relative flex flex-col overflow-hidden ${plan.featured ? 'border-2 border-yellow-500 shadow-xl' : 'border border-border shadow-sm'}`}>
+      {plan.badge && (
+        <div className="absolute right-0 top-0 rounded-bl-lg bg-yellow-500 px-3 py-1 text-xs font-extrabold uppercase tracking-wide text-gray-900">
+          {plan.badge}
+        </div>
+      )}
+      <div className={`px-6 pt-6 ${plan.featured ? 'bg-primary text-primary-foreground' : ''} ${plan.featured ? 'pb-6' : 'pb-4'}`}>
+        <div className="mb-3 flex items-center gap-2">
+          <Icon className={`h-6 w-6 ${plan.featured ? 'text-yellow-400' : 'text-primary'}`} />
+          <h3 className="text-xl font-bold">{plan.name}</h3>
+        </div>
+        <div className="flex items-baseline gap-1">
+          <span className="text-4xl font-extrabold">{plan.price}</span>
+          <span className={`text-base font-semibold ${plan.featured ? 'text-white/80' : 'text-muted-foreground'}`}>{plan.unit}</span>
+        </div>
+        {plan.note && (
+          <p className={`mt-2 text-sm ${plan.featured ? 'text-white/80' : 'text-muted-foreground'}`}>{plan.note}</p>
+        )}
+      </div>
+      <CardContent className="flex flex-1 flex-col p-6">
+        <ul className="space-y-3">
+          {plan.features.map((f, i) => (
+            <li key={i} className="flex items-start gap-2.5">
+              <CheckCircle2 className="mt-0.5 h-5 w-5 flex-shrink-0 text-green-600" />
+              <span className="text-sm leading-snug">{f}</span>
+            </li>
+          ))}
+        </ul>
+        <Button asChild size="lg" className={`mt-6 h-auto w-full py-4 text-base font-bold ${plan.featured ? 'bg-yellow-500 text-gray-900 hover:bg-yellow-600 border-yellow-500' : ''}`}>
+          <a href="tel:5203332665">
+            <Phone className="mr-2 h-5 w-5" /> Enroll — (520) 333-2665
+          </a>
+        </Button>
+      </CardContent>
+    </Card>
+  );
+}
 
-  const basicPlans = [
-    { name: "Plumbing Only", image: "/images/plans/plumbing-only.jpg" },
-    { name: "HVAC Only", image: "/images/plans/hvac-only.jpg" },
-  ];
+export default function FamilyProtectionPlansPage() {
+  const featured = plans.find((p) => p.featured)!;
+  const rest = plans.filter((p) => !p.featured);
 
   const benefits = [
-    "Priority Service 24 Hours a Day, Seven Days a Week, 365 Days a Year",
-    "Up to 5 Free Annual Visits",
-    "Up to 20% Discount on All Services and Repairs (Based on Plan Selected)",
-    "$0 Service Fees (For select plans)",
-    "No Overtime Rates",
-    "Drastically Reduced Chance of Sudden Breakdowns",
-    "Front-Of-The-Line Priority Service (Priority service is based on selected plan)",
-    "Exclusive Product Offers",
-    "5 Complementary Maintenance Appointments a Year (AC Tune Up, Heating Tune Up, Whole Home Plumbing Inspection, Whole Home Electrical Inspection, and Roofing Inspection)",
+    "Priority service 24 hours a day, 7 days a week, 365 days a year",
+    "Up to five free annual inspection visits",
+    "Up to 15% off all repairs (based on plan selected)",
+    "24/7 smart AC monitoring with remote alerts",
+    "Piggy Bank Earnings: monthly service & repair credits",
+    "Sign-on bonuses and filter credits that put money back in your pocket",
+    "Warranty extensions on parts and labor",
+    "Inflation protection that locks in your value (Deluxe)",
   ];
 
   const whyChoose = [
-    "Drastically Reduce The Chance of Sudden Breakdowns or Emergencies",
-    "Have Peace of Mind Knowing We Have Your Home Maintenance Needs Protected",
-    "Reduce Future Repairs",
+    "Drastically reduce the chance of sudden breakdowns or emergencies",
+    "Have peace of mind knowing your home's major systems are protected",
+    "Reduce future repair costs and extend equipment life",
   ];
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(planSchema)
-        }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(faqSchema)
-        }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(videoSchema)
-        }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(planSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(videoSchema) }} />
 
       <div className="min-h-screen flex flex-col bg-background">
-        {/* Hero Section - Optimized with Next.js Image for LCP */}
+        {/* Hero */}
         <section className="relative py-20 md:py-28 overflow-hidden">
-          {/* Background Image */}
           <div className="absolute inset-0">
-            <Image
-              src="/images/family-protection-hero.png"
-              alt="Family protection plans for your home"
-              fill
-              priority
-              sizes="100vw"
-              className="object-cover"
-            />
+            <Image src="/images/family-protection-hero.png" alt="Family protection plans for your home" fill priority sizes="100vw" className="object-cover" />
             <div className="absolute inset-0 bg-[rgba(13,45,122,0.85)]" />
           </div>
-          
           <div className="relative z-10 max-w-7xl mx-auto px-4">
             <div className="max-w-4xl text-center mx-auto">
               <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-4" data-testid="text-hero-title">
@@ -161,7 +258,7 @@ export default function FamilyProtectionPlansPage() {
                 Give Your Family Peace of Mind
               </p>
               <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto">
-                Don't miss this opportunity to secure your family's comfort and safety. Sign up now and experience the financial benefits of a well-maintained home.
+                Protect your home&apos;s major systems for as little as $5/month. Annual inspections, repair discounts, 24/7 smart AC monitoring, and credits that pay you back.
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
@@ -171,7 +268,7 @@ export default function FamilyProtectionPlansPage() {
                 </Button>
                 <Button asChild variant="outline" size="lg" className="bg-white/10 hover:bg-white/20 text-white border-white/50 text-lg px-8 py-6 h-auto backdrop-blur-sm">
                   <a href="#plans" data-testid="button-view-plans">
-                    View Plans
+                    View Plans &amp; Pricing
                   </a>
                 </Button>
               </div>
@@ -182,23 +279,62 @@ export default function FamilyProtectionPlansPage() {
         <nav className="border-b border-border bg-card">
           <div className="max-w-7xl mx-auto px-4 py-3">
             <div className="flex items-center gap-2 text-sm text-muted-foreground">
-              <Link href="/" className="hover:text-foreground" data-testid="link-breadcrumb-home">
-                Home
-              </Link>
+              <Link href="/" className="hover:text-foreground" data-testid="link-breadcrumb-home">Home</Link>
               <ChevronRight className="w-4 h-4" />
-              <span className="text-foreground" data-testid="text-breadcrumb-current">
-                Family Protection Plans
-              </span>
+              <span className="text-foreground" data-testid="text-breadcrumb-current">Family Protection Plans</span>
             </div>
           </div>
         </nav>
 
+        {/* PDF feature block — just below the hero */}
         <section className="py-12 bg-muted/30">
+          <div className="max-w-6xl mx-auto px-4">
+            <div className="grid gap-8 rounded-2xl border border-border bg-card p-6 shadow-lg md:grid-cols-2 md:items-center md:p-8">
+              <div className="order-2 md:order-1">
+                <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-primary/10 px-3 py-1 text-sm font-bold text-primary">
+                  <FileText className="h-4 w-4" /> Plan Details
+                </div>
+                <h2 className="text-2xl md:text-3xl font-bold text-primary mb-3">
+                  See every plan, side by side
+                </h2>
+                <p className="text-muted-foreground mb-6">
+                  Our one-page guide breaks down exactly what each Family Protection Plan covers &mdash; inspections, discounts, warranties, monitoring, and the credits that pay you back. Download it, print it, or bring it to your next appointment.
+                </p>
+                <div className="flex flex-wrap gap-3">
+                  <Button asChild size="lg" className="h-auto py-4 text-base font-bold">
+                    <a href={PLAN_PDF} target="_blank" rel="noopener noreferrer" data-testid="button-pdf-download">
+                      <Download className="mr-2 h-5 w-5" /> View the Plan Guide (PDF)
+                    </a>
+                  </Button>
+                  <Button asChild variant="outline" size="lg" className="h-auto py-4 text-base font-bold">
+                    <a href="tel:5203332665">
+                      <Phone className="mr-2 h-5 w-5" /> Ask a Question
+                    </a>
+                  </Button>
+                </div>
+              </div>
+              <div className="order-1 md:order-2">
+                <div className="overflow-hidden rounded-xl border border-border shadow-md">
+                  <object data={PLAN_PDF} type="application/pdf" className="h-[420px] w-full bg-white" aria-label="Family Protection Plans overview PDF">
+                    <div className="flex h-[420px] w-full flex-col items-center justify-center gap-3 bg-muted/50 p-6 text-center">
+                      <FileText className="h-12 w-12 text-primary" />
+                      <p className="font-semibold text-primary">Family Protection Plans Guide</p>
+                      <a href={PLAN_PDF} target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-600 underline">Open the PDF</a>
+                    </div>
+                  </object>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* Trust strip */}
+        <section className="py-12">
           <div className="max-w-7xl mx-auto px-4">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div className="flex flex-col items-center">
                 <Star className="w-10 h-10 text-yellow-500 mb-2" />
-                <p className="font-bold text-sm">Over 23,000 Five Star Reviews</p>
+                <p className="font-bold text-sm">Over 23,000 Five-Star Reviews</p>
               </div>
               <div className="flex flex-col items-center">
                 <Award className="w-10 h-10 text-primary mb-2" />
@@ -216,99 +352,64 @@ export default function FamilyProtectionPlansPage() {
           </div>
         </section>
 
-        <section className="py-16" id="plans">
+        {/* Plans + pricing */}
+        <section className="py-16 bg-muted/30" id="plans">
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-                Protect and Extend the Life of Your Home's Major Systems
+                Choose Your Family Protection Plan
               </h2>
               <p className="text-xl md:text-2xl font-bold text-primary/80 mb-4">
-                HVAC - PLUMBING - ROOFING - SOLAR - ELECTRIC: One Call Covers it ALL!!!
+                HVAC &bull; Plumbing &bull; Solar &bull; Smart Monitoring: One Call Covers It All
               </p>
-              <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Choose from our comprehensive protection plans designed to keep your home running smoothly year-round
+              <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
+                Simple monthly pricing, no surprises. Enroll over the phone in minutes.
               </p>
-
-              <div className="mt-8 max-w-3xl mx-auto">
-                <div className="aspect-video w-full">
-                  <iframe 
-                    width="100%" 
-                    height="100%" 
-                    src="https://www.youtube.com/embed/7fvu8D6HN_g?si=tzMh4SNWhrFU0ZL7"
-                    title="Family Protection Plans - Intelligent Design Home Maintenance Plans"
-                    frameBorder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                    referrerPolicy="strict-origin-when-cross-origin"
-                    allowFullScreen
-                    className="rounded-lg shadow-lg"
-                  />
-                </div>
-              </div>
             </div>
 
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
-              {mainPlans.map((plan, index) => (
-                <Card key={index} className="overflow-hidden hover-elevate transition-all cursor-pointer group">
-                  <div className="relative aspect-[330/465]">
-                    <Image
-                      src={plan.image}
-                      alt={`${plan.name} Family Protection Plan`}
-                      fill
-                      className="object-cover group-hover:scale-105 transition-transform duration-300"
-                      sizes="(max-width: 768px) 50vw, 25vw"
-                    />
-                  </div>
-                </Card>
+            {/* Featured plan */}
+            <div className="mx-auto mb-10 max-w-md md:max-w-lg">
+              <PlanCard plan={featured} />
+            </div>
+
+            {/* Remaining plans */}
+            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+              {rest.map((plan) => (
+                <PlanCard key={plan.name} plan={plan} />
               ))}
             </div>
 
-            <div className="text-center mb-12">
-              <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-                Basic Family Protection Plans
-              </h2>
-              <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Single-service plans for targeted protection
-              </p>
-            </div>
+            <p className="mt-8 text-center text-sm text-muted-foreground">
+              Pricing shown is per month. Additional HVAC units on the Deluxe and HVAC Only plans are half off the first unit&apos;s price.
+            </p>
+          </div>
+        </section>
 
-            <div className="grid md:grid-cols-2 gap-6 max-w-3xl mx-auto mb-16">
-              {basicPlans.map((plan, index) => (
-                <Card key={index} className="overflow-hidden hover-elevate transition-all cursor-pointer group">
-                  <div className="relative aspect-[330/465]">
-                    <Image
-                      src={plan.image}
-                      alt={`${plan.name} Protection Plan`}
-                      fill
-                      className="object-cover group-hover:scale-105 transition-transform duration-300"
-                      sizes="(max-width: 768px) 100vw, 50vw"
-                    />
-                  </div>
-                </Card>
-              ))}
-            </div>
-
-            <div className="text-center mb-12">
+        {/* Video */}
+        <section className="py-16">
+          <div className="max-w-3xl mx-auto px-4">
+            <div className="text-center mb-8">
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
-                Now Offering Solar Monitoring
+                How the Plans Protect Your Home
               </h2>
             </div>
-
-            <div className="max-w-sm mx-auto">
-              <Card className="overflow-hidden hover-elevate transition-all cursor-pointer group">
-                <div className="relative aspect-[330/465]">
-                  <Image
-                    src="/images/plans/solar-monitoring.jpg"
-                    alt="Monthly Solar Monitoring Plan"
-                    fill
-                    className="object-cover group-hover:scale-105 transition-transform duration-300"
-                    sizes="(max-width: 768px) 100vw, 330px"
-                  />
-                </div>
-              </Card>
+            <div className="aspect-video w-full">
+              <iframe
+                width="100%"
+                height="100%"
+                src="https://www.youtube.com/embed/7fvu8D6HN_g?si=tzMh4SNWhrFU0ZL7"
+                title="Family Protection Plans - Intelligent Design Home Maintenance Plans"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+                className="rounded-lg shadow-lg"
+              />
             </div>
           </div>
         </section>
 
+        {/* Would you like to */}
         <section className="py-16 bg-primary text-primary-foreground">
           <div className="max-w-4xl mx-auto px-4 text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Would you like to:</h2>
@@ -331,6 +432,7 @@ export default function FamilyProtectionPlansPage() {
           </div>
         </section>
 
+        {/* Why choose */}
         <section className="py-16">
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
@@ -338,16 +440,15 @@ export default function FamilyProtectionPlansPage() {
                 Why Choose Intelligent Design Family Protection Plans?
               </h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Our Family Protection Plans offer unparalleled benefits
+                Unparalleled benefits, one trusted local team
               </p>
             </div>
-
             <div className="grid md:grid-cols-3 gap-8 mb-12">
               <Card>
                 <CardContent className="p-6 text-center">
                   <Zap className="w-12 h-12 mx-auto mb-4 text-primary" />
-                  <h3 className="text-lg font-bold mb-2">Cutting-Edge Technology</h3>
-                  <p className="text-muted-foreground">State-of-the-art diagnostic tools and equipment</p>
+                  <h3 className="text-lg font-bold mb-2">Smart AC Monitoring</h3>
+                  <p className="text-muted-foreground">24/7 remote protection and alerts on every plan</p>
                 </CardContent>
               </Card>
               <Card>
@@ -365,15 +466,19 @@ export default function FamilyProtectionPlansPage() {
                 </CardContent>
               </Card>
             </div>
-
-            <div className="bg-muted/50 rounded-lg p-8 text-center">
-              <h3 className="text-2xl font-bold text-primary mb-4">
-                Call now at <a href="tel:5203332665" className="text-yellow-600 hover:underline">(520) 333-2665</a> to speak with one of our Family Protection Plan Experts.
+            <div className="rounded-lg bg-muted/50 p-8 text-center">
+              <h3 className="text-2xl font-bold text-primary mb-2">
+                Talk to your Family Protection Plan expert
               </h3>
+              <p className="text-lg text-muted-foreground mb-1">
+                <strong className="text-foreground">John Anderson</strong>, Customer Service Representative
+              </p>
+              <a href="tel:5203332665" className="text-2xl font-bold text-yellow-600 hover:underline">(520) 333-2665</a>
             </div>
           </div>
         </section>
 
+        {/* Benefits */}
         <section className="py-16 bg-muted/30">
           <div className="max-w-5xl mx-auto px-4">
             <div className="text-center mb-12">
@@ -381,7 +486,6 @@ export default function FamilyProtectionPlansPage() {
                 Benefits of Family Protection Plans
               </h2>
             </div>
-
             <div className="grid md:grid-cols-2 gap-4">
               {benefits.map((benefit, index) => (
                 <Card key={index} className="hover-elevate transition-all">
@@ -395,6 +499,7 @@ export default function FamilyProtectionPlansPage() {
           </div>
         </section>
 
+        {/* Prose */}
         <section className="py-16">
           <div className="max-w-5xl mx-auto px-4">
             <div className="text-center mb-8">
@@ -402,33 +507,24 @@ export default function FamilyProtectionPlansPage() {
                 Affordable Home Maintenance in Tucson
               </h2>
             </div>
-
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p>
-                Owning a home in Tucson comes with its own set of challenges and unexpected costs, from the need for regular air conditioner maintenance to sudden water heater replacements. However, there's a smarter way to manage these responsibilities without breaking the bank: Intelligent Design's <strong>Family Protection Plans</strong>.
+                Owning a home in Tucson comes with its own set of challenges and unexpected costs, from regular air conditioner maintenance to sudden water heater replacements. There is a smarter way to manage these responsibilities without breaking the bank: Intelligent Design&apos;s <strong>Family Protection Plans</strong>.
               </p>
               <p>
-                By joining our exclusive Family Protection Plans, you gain access to a plethora of special discounts on our already competitively priced affordable services. But the perks don't stop at cost savings. You'll continue to receive the same world-class service from our certified technicians that you've come to expect and trust.
+                Members gain access to repair discounts, warranty extensions, and monthly credits on top of our already competitive rates &mdash; while receiving the same world-class service from our certified technicians that you have come to expect and trust.
               </p>
               <p>
-                Whether you're in need of a comprehensive air conditioner check-up during Tucson's scorching summers or an emergency water heater replacement, our team is committed to delivering top-notch service at member-exclusive rates.
-              </p>
-              <p>
-                Why compromise on quality when you can have both affordability and excellence? The <strong>Family Protection Plan</strong> isn't just a discount program; it's a long-term partnership aimed at making your home more comfortable and sustainable.
-              </p>
-            </div>
-
-            <div className="mt-8 text-center">
-              <p className="text-lg mb-4">
-                To become a member and start enjoying these exclusive benefits, simply contact our office for more details. You can also ask your service professional to enroll you during your next appointment.
+                Whether you need a comprehensive air conditioner check-up during Tucson&apos;s scorching summers or an emergency water heater replacement, our team delivers top-notch service at member-exclusive rates. The <strong>Family Protection Plan</strong> is not just a discount program; it is a long-term partnership aimed at making your home more comfortable and sustainable.
               </p>
             </div>
           </div>
         </section>
 
+        {/* One-stop-shop */}
         <section className="py-16 bg-muted/30">
           <div className="max-w-4xl mx-auto px-4">
-            <div className="text-center mb-8">
+            <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">
                 Not Just the #1 Rated HVAC Maintenance Plans in Tucson
               </h2>
@@ -436,7 +532,6 @@ export default function FamilyProtectionPlansPage() {
                 Intelligent Design is your one-stop-shop for HVAC, Plumbing, Solar, Roofing, and Electrical!
               </p>
             </div>
-
             <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mb-8">
               {[
                 { icon: Wrench, label: "HVAC" },
@@ -457,13 +552,12 @@ export default function FamilyProtectionPlansPage() {
           </div>
         </section>
 
+        {/* Final CTA */}
         <section className="py-16 bg-primary text-primary-foreground">
           <div className="max-w-4xl mx-auto px-4 text-center">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Reach Out to Us Today!
-            </h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Reach Out to Us Today!</h2>
             <p className="text-xl mb-8 opacity-90">
-              Don't sweat the heat or plumbing problems! Contact us today to schedule your AC, solar, electrical, and plumbing services and experience hassle-free solutions for your home.
+              Lock in peace of mind for your home. Call to enroll in minutes or ask us which plan fits your home best.
             </p>
             <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
               <a href="tel:5203332665" data-testid="button-call-final">
