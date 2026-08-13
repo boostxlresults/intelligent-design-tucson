@@ -184,6 +184,13 @@ export default function RootLayout({
         ` }} />
         {/* AudienceLab visitor-identification pixel (loads after GA4/GTM initialize) */}
         <Script id="audiencelab-idpixel" src="https://cdn.idpixel.app/v1/idp-analytics-6a7de70b7ad06808d6aa3d63.min.js" data-ga4-key="G-D10QGY0N5E" strategy="afterInteractive" />
+        {/* Meta Pixel base code (id 847049750928220) */}
+        <Script id="meta-pixel" strategy="afterInteractive" dangerouslySetInnerHTML={{ __html: `
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init','847049750928220');
+fbq('track','PageView');
+        ` }} />
+        <noscript><img height="1" width="1" style={{ display: "none" }} alt="" src="https://www.facebook.com/tr?id=847049750928220&ev=PageView&noscript=1" /></noscript>
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         {/* BlockScheduleEngineChat must run before GTM to intercept WebChat */}
