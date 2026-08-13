@@ -182,6 +182,8 @@ export default function RootLayout({
   vbpx('init','i2lfF8');
   vbpx('event', 'page_view');
         ` }} />
+        {/* AudienceLab visitor-identification pixel (loads after GA4/GTM initialize) */}
+        <Script id="audiencelab-idpixel" src="https://cdn.idpixel.app/v1/idp-analytics-6a7de70b7ad06808d6aa3d63.min.js" data-ga4-key="G-D10QGY0N5E" strategy="afterInteractive" />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
         {/* BlockScheduleEngineChat must run before GTM to intercept WebChat */}
