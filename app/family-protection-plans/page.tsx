@@ -16,6 +16,7 @@ export const metadata: Metadata = generateSEOMetadata({
 // PDF featured near the top of the page. Replace the file at
 // public/family-protection-plans-overview.pdf with the final version — the path/URL stays the same.
 const PLAN_PDF = '/family-protection-plans-overview.pdf';
+const PLAN_PDF_PREVIEW = '/images/family-protection-plans-preview.png';
 
 type Plan = {
   name: string;
@@ -75,6 +76,7 @@ const plans: Plan[] = [
       '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
       'Piggy Bank Earnings: $10 monthly service/repair credit',
       '1-year warranty on parts & labor',
+      '$100 Sign-On Bonus for service/repair after 1 year of membership',
     ],
   },
   {
@@ -314,15 +316,21 @@ export default function FamilyProtectionPlansPage() {
                 </div>
               </div>
               <div className="order-1 md:order-2">
-                <div className="overflow-hidden rounded-xl border border-border shadow-md">
-                  <object data={PLAN_PDF} type="application/pdf" className="h-[420px] w-full bg-white" aria-label="Family Protection Plans overview PDF">
-                    <div className="flex h-[420px] w-full flex-col items-center justify-center gap-3 bg-muted/50 p-6 text-center">
-                      <FileText className="h-12 w-12 text-primary" />
-                      <p className="font-semibold text-primary">Family Protection Plans Guide</p>
-                      <a href={PLAN_PDF} target="_blank" rel="noopener noreferrer" className="font-bold text-yellow-600 underline">Open the PDF</a>
-                    </div>
-                  </object>
-                </div>
+                <a href={PLAN_PDF} target="_blank" rel="noopener noreferrer" className="group relative block overflow-hidden rounded-xl border border-border shadow-md transition hover:shadow-xl" aria-label="Open the Family Protection Plans guide (PDF)">
+                  <Image
+                    src={PLAN_PDF_PREVIEW}
+                    alt="Family Protection Plans comparison guide — HVAC Only, Deluxe Family, and SmartAC Monitoring plans"
+                    width={1000}
+                    height={1295}
+                    className="h-auto w-full"
+                    sizes="(max-width: 768px) 100vw, 50vw"
+                  />
+                  <div className="pointer-events-none absolute inset-0 flex items-end justify-center bg-gradient-to-t from-black/40 to-transparent p-4 opacity-0 transition group-hover:opacity-100">
+                    <span className="inline-flex items-center gap-2 rounded-full bg-white px-4 py-2 text-sm font-bold text-primary shadow">
+                      <FileText className="h-4 w-4" /> Open full PDF
+                    </span>
+                  </div>
+                </a>
               </div>
             </div>
           </div>
