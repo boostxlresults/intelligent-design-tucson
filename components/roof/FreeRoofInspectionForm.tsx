@@ -24,6 +24,12 @@ export default function FreeRoofInspectionForm() {
   const [form, setForm] = useState({ name: "", phone: "", address: "", seeing: "" });
   const [status, setStatus] = useState<"idle" | "sending" | "ok" | "error">("idle");
   const started = useRef(false);
+  const submissionId = useRef<string>("");
+  if (!submissionId.current) {
+    submissionId.current = (typeof crypto !== "undefined" && crypto.randomUUID)
+      ? crypto.randomUUID()
+      : `${Date.now()}-${Math.random().toString(36).slice(2)}`;
+  }
 
   const set = (k: string, v: string) => setForm((f) => ({ ...f, [k]: v }));
 
@@ -42,7 +48,7 @@ export default function FreeRoofInspectionForm() {
       const res = await fetch("/api/free-roof-inspection", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...form, pageSlug: "free-roof-inspection", ...attributionFields() }),
+        body: JSON.stringify({ ...form, pageSlug: "free-roof-inspection", submissionId: submissionId.current, ...attributionFields() }),
       });
       if (!res.ok) throw new Error("failed");
       // Conversions: GA4 (form_submit via helper -> also fires Vibe lead) + generate_lead, Meta Lead

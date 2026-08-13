@@ -1,15 +1,21 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { randomUUID } from 'crypto';
 import { sendEmail } from '@/lib/gmail';
 import { z } from 'zod';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
+// SpeedToLead360 inbound website-form webhook (tenant-routed, no auth). Env override allowed.
+const STL_WEBHOOK = process.env.SPEEDTOLEAD_WEBHOOK_URL
+  || 'https://api-production-831d.up.railway.app/api/v1/webhooks/website-form/d958a1b6-7921-4fa4-8449-0abf5f8aba03';
+
 const formSchema = z.object({
   name: z.string().min(1, 'Name is required').max(120).trim(),
   phone: z.string().min(10, 'Phone must be at least 10 digits').max(20).trim(),
   address: z.string().min(1, 'Address is required').max(200).trim(),
   seeing: z.string().max(60).trim().optional().default(''),
+  submissionId: z.string().max(80).trim().optional().default(''),
   gclid: z.string().max(200).trim().optional().default(''),
   gbraid: z.string().max(200).trim().optional().default(''),
   wbraid: z.string().max(200).trim().optional().default(''),
@@ -20,53 +26,50 @@ const formSchema = z.object({
   pageSlug: z.string().max(80).trim().optional().default('free-roof-inspection'),
 });
 
+type Lead = z.infer<typeof formSchema>;
+
 function esc(t: string): string {
   const m: Record<string, string> = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
   return t.replace(/[&<>"']/g, (c) => m[c] || c);
 }
 
-type Lead = z.infer<typeof formSchema>;
+/** Build the description field — folds the "seeing" answer + gclid/UTMs (no dedicated columns yet). */
+function buildDescription(d: Lead): string {
+  const parts = [`Storm damage — free roof inspection request.`];
+  if (d.seeing) parts.push(`Seeing: ${d.seeing}.`);
+  const attr: string[] = [];
+  if (d.gclid) attr.push(`gclid=${d.gclid}`);
+  if (d.gbraid) attr.push(`gbraid=${d.gbraid}`);
+  if (d.wbraid) attr.push(`wbraid=${d.wbraid}`);
+  if (d.utm_campaign) attr.push(`utm_campaign=${d.utm_campaign}`);
+  if (d.utm_source) attr.push(`utm_source=${d.utm_source}`);
+  if (d.utm_medium) attr.push(`utm_medium=${d.utm_medium}`);
+  if (d.utm_term) attr.push(`utm_term=${d.utm_term}`);
+  if (attr.length) parts.push(attr.join(' '));
+  return parts.join(' ');
+}
 
-/**
- * Push the lead to SpeedToLead360 (or any inbound lead webhook) so it appears
- * as a war-room lead card and triggers speed-to-lead dialing.
- * Activated by env var SPEEDTOLEAD_WEBHOOK_URL (set in Vercel). No-ops if unset,
- * so the CSR email always remains the source of truth / backup.
- */
+/** POST the lead to SpeedToLead360 so it lands as a NEW war-room card. Fire-and-forget (timeout-capped). */
 async function postToSpeedToLead(d: Lead): Promise<{ ok: boolean; status?: number; error?: string }> {
-  const url = process.env.SPEEDTOLEAD_WEBHOOK_URL;
-  if (!url) return { ok: false, error: 'no_webhook_configured' };
-
   const [firstName, ...rest] = d.name.trim().split(/\s+/);
   const payload = {
-    first_name: firstName || d.name,
-    last_name: rest.join(' '),
-    full_name: d.name,
+    firstName: firstName || d.name,
+    lastName: rest.join(' '),
     phone: d.phone,
     email: '',
     address: d.address,
-    lead_source: 'Storm Roof Inspection — Google Ads',
-    campaign: d.utm_campaign || 'Roofing-Storm-Emergency-2026-08',
-    service: 'Roofing',
-    notes: `What they are seeing: ${d.seeing || 'unspecified'}`,
-    gclid: d.gclid,
-    gbraid: d.gbraid,
-    wbraid: d.wbraid,
-    utm_source: d.utm_source,
-    utm_medium: d.utm_medium,
-    utm_campaign: d.utm_campaign,
-    utm_term: d.utm_term,
-    landing_page: `https://www.idesignac.com/${d.pageSlug}`,
-    submitted_at: new Date().toISOString(),
+    description: buildDescription(d),
+    id: `storm-form-${d.submissionId || randomUUID()}`,
   };
-
-  const headers: Record<string, string> = { 'Content-Type': 'application/json' };
-  if (process.env.SPEEDTOLEAD_API_KEY) headers['Authorization'] = `Bearer ${process.env.SPEEDTOLEAD_API_KEY}`;
-
   const controller = new AbortController();
-  const t = setTimeout(() => controller.abort(), 6000);
+  const t = setTimeout(() => controller.abort(), 5000);
   try {
-    const res = await fetch(url, { method: 'POST', headers, body: JSON.stringify(payload), signal: controller.signal });
+    const res = await fetch(STL_WEBHOOK, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+      signal: controller.signal,
+    });
     return { ok: res.ok, status: res.status };
   } catch (e) {
     return { ok: false, error: e instanceof Error ? e.message : 'post_failed' };
@@ -91,10 +94,7 @@ export async function POST(request: NextRequest) {
     ['Address', d.address],
     ['What they are seeing', d.seeing || '—'],
     ['GCLID', d.gclid || '(none)'],
-    ['GBRAID', d.gbraid || '(none)'],
-    ['WBRAID', d.wbraid || '(none)'],
     ['Campaign', d.utm_campaign || '(none)'],
-    ['Source', d.utm_source || '(none)'],
     ['Source page', d.pageSlug || 'free-roof-inspection'],
   ].map(([k, v]) => `<tr><td style="padding:8px 0;font-weight:bold;width:180px;">${esc(k)}:</td><td style="padding:8px 0;">${esc(v)}</td></tr>`).join('');
 
@@ -108,28 +108,18 @@ export async function POST(request: NextRequest) {
       </div>
     </div>`.trim();
 
-  const textBody = `Free Roof Inspection Request (STORM LEAD)\nName: ${d.name}\nPhone: ${d.phone}\nAddress: ${d.address}\nSeeing: ${d.seeing || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}\nSource page: ${d.pageSlug}`;
+  const textBody = `Free Roof Inspection Request (STORM LEAD)\nName: ${d.name}\nPhone: ${d.phone}\nAddress: ${d.address}\nSeeing: ${d.seeing || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}`;
 
-  // Fire the SpeedToLead war-room card and the CSR email in parallel; a webhook
-  // failure must never lose the lead (email is the backup).
+  // CSR email (source of truth / backup) + SpeedToLead war-room card in parallel; STL failure never loses the lead.
   const [emailResult, stlResult] = await Promise.allSettled([
-    sendEmail({
-      to: 'csrteam@idesignac.com',
-      subject: `Storm Roof Inspection: ${d.name} — ${d.seeing || 'roof'} (${d.address})`,
-      htmlBody,
-      textBody,
-    }),
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `Storm Roof Inspection: ${d.name} — ${d.seeing || 'roof'} (${d.address})`, htmlBody, textBody }),
     postToSpeedToLead(d),
   ]);
 
   const emailedOk = emailResult.status === 'fulfilled' && emailResult.value !== false;
   const stl = stlResult.status === 'fulfilled' ? stlResult.value : { ok: false, error: 'exception' };
-  if (!stl.ok && stl.error !== 'no_webhook_configured') {
-    console.error('SpeedToLead post failed:', stl);
-  }
+  if (!stl.ok) console.error('SpeedToLead post failed:', stl);
 
-  if (!emailedOk && !stl.ok) {
-    return NextResponse.json({ error: 'Failed to submit' }, { status: 500 });
-  }
+  if (!emailedOk && !stl.ok) return NextResponse.json({ error: 'Failed to submit' }, { status: 500 });
   return NextResponse.json({ success: true, speedtolead: stl.ok });
 }
