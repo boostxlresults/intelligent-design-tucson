@@ -73,6 +73,13 @@ export default function PrivacyPolicyPage() {
             </section>
 
             <section>
+              <h2 className="text-2xl font-bold mb-4">Consent to Communications</h2>
+              <p className="mb-4">
+                By visiting or using this website, you opt in to and consent to receive communications from Intelligent Design Air Conditioning, Plumbing, Solar &amp; Electric, which may include phone calls, text messages, and emails regarding our services, promotions, and special offers. You may opt out of these communications at any time by replying STOP to a text message, using the unsubscribe link in any email, or contacting us directly.
+              </p>
+            </section>
+
+            <section>
               <h2 className="text-2xl font-bold mb-4">Information Sharing</h2>
               <p className="mb-4">
                 We do not sell, rent, or trade your personal information. We may share your information with:
