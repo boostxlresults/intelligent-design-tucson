@@ -128,6 +128,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/compare/intelligent-design-vs-roofsavers-locke-roofing',
     '/compare/intelligent-design-vs-erie-home',
     '/proper-ac-sizing',
+    '/free-roof-inspection',
     '/ac-sizing-estimator',
   ];
 

@@ -1660,7 +1660,7 @@ export const STANDALONE_PAGES = new Set([
   'drain-clearing-special', 'ac-system-faqs', 'schedule',
   'service-areas', 'services', 'blog', 'service-map',
   'ac-repair-tucson', 'new-air-conditioner',
-  'proper-ac-sizing', 'ac-sizing-estimator'
+  'proper-ac-sizing', 'ac-sizing-estimator', 'free-roof-inspection'
 ]);
 
 export const SERVICE_KEYWORDS = [
