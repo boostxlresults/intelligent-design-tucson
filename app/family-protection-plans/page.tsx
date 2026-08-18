@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronRight, CheckCircle2, Shield, Phone, Clock, Award, Star, Calendar, Wrench, Zap, Droplets, Home, Sun, FileText, Download } from 'lucide-react';
+import { ChevronRight, CheckCircle2, Shield, Phone, Clock, Award, Star, Calendar, Wrench, Zap, Droplets, Home, Sun, FileText, Download, Wallet, Gauge, Wind, MessageSquare, Bell } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -17,6 +17,7 @@ export const metadata: Metadata = generateSEOMetadata({
 // public/family-protection-plans-overview.pdf with the final version — the path/URL stays the same.
 const PLAN_PDF = '/family-protection-plans-overview.pdf';
 const PLAN_PDF_PREVIEW = '/images/family-protection-plans-preview.png';
+const SMARTAC_IMG = '/images/smartac-home-insights.png';
 
 type Plan = {
   name: string;
@@ -236,6 +237,15 @@ export default function FamilyProtectionPlansPage() {
     "Reduce future repair costs and extend equipment life",
   ];
 
+  const smartAcFeatures = [
+    { icon: Wallet, title: "Loyalty Credits", desc: "Credits added to your account every month toward your next major HVAC expense." },
+    { icon: Gauge, title: "System Performance", desc: "On-demand performance insights and a real-time health score for your system." },
+    { icon: Droplets, title: "Water & Freeze Alerts", desc: "Early leak detection helps you avoid costly water damage." },
+    { icon: Wind, title: "Track Air Filter Life", desc: "Know exactly when to change your filter to save energy and money." },
+    { icon: MessageSquare, title: "Live Technician Chat", desc: "Instant support from a real technician, right in the app." },
+    { icon: Bell, title: "Breakdown Alerts", desc: "Catch small issues early and book service before they become emergencies." },
+  ];
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(planSchema) }} />
@@ -391,6 +401,56 @@ export default function FamilyProtectionPlansPage() {
             <p className="mt-8 text-center text-sm text-muted-foreground">
               Pricing shown is per month. Additional HVAC units on the Deluxe and HVAC Only plans are half off the first unit&apos;s price.
             </p>
+          </div>
+        </section>
+
+        {/* SmartAC monitoring band */}
+        <section className="py-16 bg-primary text-primary-foreground">
+          <div className="max-w-6xl mx-auto px-4">
+            <div className="text-center mb-10">
+              <div className="mb-3 inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-sm font-bold text-yellow-400">
+                <Zap className="h-4 w-4" /> Included on every plan
+              </div>
+              <h2 className="text-3xl md:text-4xl font-bold mb-3">Meet SmartAC 24/7 Home Monitoring</h2>
+              <p className="text-lg text-white/80 max-w-2xl mx-auto">
+                Catch small issues before they become costly repairs. Every Family Protection Plan includes smart sensors and a mobile app that watch over your home around the clock.
+              </p>
+            </div>
+            <div className="grid gap-10 md:grid-cols-2 md:items-center">
+              <div className="grid gap-5 sm:grid-cols-2">
+                {smartAcFeatures.map((f, i) => {
+                  const Icon = f.icon;
+                  return (
+                    <div key={i} className="flex items-start gap-3">
+                      <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-full bg-yellow-500/20">
+                        <Icon className="h-5 w-5 text-yellow-400" />
+                      </div>
+                      <div>
+                        <h3 className="font-bold">{f.title}</h3>
+                        <p className="text-sm text-white/70">{f.desc}</p>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+              <div className="order-first md:order-last mx-auto w-full max-w-sm">
+                <Image
+                  src={SMARTAC_IMG}
+                  alt="SmartAC Home Insights app — loyalty credits, system performance, water and freeze alerts, air filter tracking, and live technician chat"
+                  width={1200}
+                  height={1553}
+                  className="h-auto w-full rounded-2xl shadow-2xl"
+                  sizes="(max-width: 768px) 100vw, 384px"
+                />
+              </div>
+            </div>
+            <div className="mt-10 text-center">
+              <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
+                <a href="tel:5203332665">
+                  <Phone className="w-5 h-5 mr-2" /> Get SmartAC Monitoring &mdash; (520) 333-2665
+                </a>
+              </Button>
+            </div>
           </div>
         </section>
 
