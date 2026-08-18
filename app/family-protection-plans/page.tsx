@@ -8,7 +8,7 @@ import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetad
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Family Protection Plans | Tucson Home Maintenance Membership | Intelligent Design',
-  description: "Tucson home maintenance membership plans from $5/month. Annual inspections, up to 15% repair discounts, 24/7 smart AC monitoring, warranty extensions, filter & service credits, and sign-on bonuses. Call (520) 333-2665.",
+  description: "Tucson home maintenance membership plans from $10/month. Annual inspections, up to 15% repair discounts, 24/7 smart AC monitoring, warranty extensions, filter & service credits, and sign-on bonuses. Call (520) 333-2665.",
   canonicalUrl: 'https://www.idesignac.com/family-protection-plans',
   keywords: ['family protection plan Tucson', 'HVAC maintenance plan', 'plumbing maintenance plan', 'home service agreement', 'smart AC monitoring', 'affordable home maintenance Tucson'],
 });
@@ -69,8 +69,9 @@ const plans: Plan[] = [
   },
   {
     name: 'Smart AC Only Plan',
-    price: '$5',
+    price: '$10',
     unit: '/mo',
+    note: 'Net $0/mo — your $10 monthly Intelligent Piggy Bank credit offsets the plan.',
     icon: Zap,
     features: [
       '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
@@ -117,7 +118,7 @@ const planSchema = {
   "offers": {
     "@type": "AggregateOffer",
     "priceCurrency": "USD",
-    "lowPrice": "5.00",
+    "lowPrice": "10.00",
     "highPrice": "48.88",
     "offerCount": 5
   }
@@ -132,7 +133,7 @@ const faqSchema = {
       "name": "What plans are available and what do they cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The Deluxe Plan is $48.88/month (includes your first HVAC system; each additional unit is half off). Single-service options include the HVAC Only Plan at $32.88/month, the Smart AC Only Plan at $5/month, and the Plumbing Only Plan at $14.88/month, plus a Solar Monitoring add-on at $14.88/month."
+        "text": "The Deluxe Plan is $48.88/month (includes your first HVAC system; each additional unit is half off). Single-service options include the HVAC Only Plan at $32.88/month, the Smart AC Only Plan at $10/month, and the Plumbing Only Plan at $14.88/month, plus a Solar Monitoring add-on at $14.88/month."
       }
     },
     {
@@ -260,7 +261,7 @@ export default function FamilyProtectionPlansPage() {
                 Give Your Family Peace of Mind
               </p>
               <p className="text-lg text-white/80 mb-8 max-w-2xl mx-auto">
-                Protect your home&apos;s major systems for as little as $5/month. Annual inspections, repair discounts, 24/7 smart AC monitoring, and credits that pay you back.
+                Protect your home&apos;s major systems starting at just $10/month. Annual inspections, repair discounts, 24/7 smart AC monitoring, and credits that pay you back.
               </p>
               <div className="flex flex-wrap justify-center gap-4">
                 <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
