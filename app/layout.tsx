@@ -4,6 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import PromoBanner from "@/components/layout/PromoBanner";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
@@ -210,6 +211,7 @@ fbq('track','PageView');
         <DNIInjector />
         <Header />
         <main className="flex-1 pt-24 md:pt-32">
+          <PromoBanner />
           {children}
         </main>
         <Footer />

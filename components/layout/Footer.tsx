@@ -172,6 +172,14 @@ export default function Footer() {
           <LocationMap className="max-w-3xl" />
         </div>
 
+        {/* Free-estimates disclaimer (anchor target for the sitewide banner asterisk) */}
+        <p
+          id="estimate-disclaimer"
+          className="scroll-mt-32 mb-6 text-[13px] leading-relaxed text-primary-foreground/70"
+        >
+          *AC replacement and installation estimates are 100% free. All roofing estimates are 100% free. Electrical panel, solar, and battery estimates are 100% free. Water heater installation, re-pipe, and water filtration estimates are 100% free. For all other services, diagnostic and estimate fees are waived when you move forward with the repair.
+        </p>
+
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60" suppressHydrationWarning>
