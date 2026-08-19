@@ -210,7 +210,7 @@ fbq('track','PageView');
         </noscript>
         <DNIInjector />
         <Header />
-        <main className="flex-1 pt-24 md:pt-32">
+        <main className="flex-1 pt-[152px] md:pt-48">
           <PromoBanner />
           {children}
         </main>
