@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, startTransition } from "react";
+import { usePathname } from "next/navigation";
 import { trackPhoneClick, trackScheduleOpen } from "@/lib/analytics";
 import Link from "next/link";
 import type { ForwardRefExoticComponent, RefAttributes } from "react";
@@ -75,6 +76,11 @@ import Image from "next/image";
 const logoUrl = "/logo.png";
 
 export default function Header() {
+  const pathname = usePathname();
+  // Landing pages with a dedicated static tracking number override the header phone.
+  const isAcTuneLp = !!pathname && pathname.startsWith("/ac-tune-up-2888");
+  const headerPhoneHref = isAcTuneLp ? "tel:5202018588" : "tel:5203332665";
+  const headerPhoneText = isAcTuneLp ? "(520) 201-8588" : "(520) 333-2665";
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openPopover, setOpenPopover] = useState<string | null>(null);
   const [mobileAreasServedExpanded, setMobileAreasServedExpanded] = useState(false);
@@ -906,13 +912,13 @@ export default function Header() {
           {/* Phone & CTA */}
           <div className="flex items-center gap-2">
             <a
-              href="tel:5203332665"
+              href={headerPhoneHref}
               className="hidden lg:flex items-center gap-2 bg-yellow-400 border-2 border-yellow-500 text-gray-900 hover:bg-yellow-500 px-4 py-2 rounded-md font-bold transition-colors whitespace-nowrap"
               data-testid="link-phone"
               onClick={() => trackPhoneClick('header_desktop')}
             >
               <Phone className="w-5 h-5 flex-shrink-0" />
-              <span className="text-lg">(520) 333-2665</span>
+              <span className="text-lg">{headerPhoneText}</span>
             </a>
 
             
@@ -1280,13 +1286,13 @@ export default function Header() {
                   ))}
                   <div className="border-t border-border my-4" />
                   <a
-                    href="tel:5203332665"
+                    href={headerPhoneHref}
                     className="flex items-center gap-2 text-lg font-semibold hover-elevate px-4 py-3 rounded-md transition-colors"
                     data-testid="link-mobile-phone"
                     onClick={() => trackPhoneClick('header_mobile')}
                   >
                     <Phone className="w-5 h-5" />
-                    (520) 333-2665
+                    {headerPhoneText}
                   </a>
                   <SchedulerEmbed
                     triggerText="Schedule Service"
