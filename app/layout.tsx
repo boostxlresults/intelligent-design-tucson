@@ -6,6 +6,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import PromoBanner from "@/components/layout/PromoBanner";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
+import LandingChromeGate from "@/components/layout/LandingChromeGate";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
@@ -214,12 +215,14 @@ fbq('track','PageView');
           <PromoBanner />
           {children}
         </main>
-        <Footer />
-        <MobileFloatingActions />
-        {/* Lazy-loaded third-party scripts (load after page is interactive) */}
-        <BroccoliChat />
-        {/* RealWorkLabs project showcase widget */}
-        <RealWorkLabsLoader />
+        <LandingChromeGate>
+          <Footer />
+          <MobileFloatingActions />
+          {/* Lazy-loaded third-party scripts (load after page is interactive) */}
+          <BroccoliChat />
+          {/* RealWorkLabs project showcase widget */}
+          <RealWorkLabsLoader />
+        </LandingChromeGate>
         {/* PulseM floating review popup — visible only on /customer-reviews */}
         <PulseMWidget />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}

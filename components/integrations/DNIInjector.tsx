@@ -1,6 +1,7 @@
 "use client";
 
 import Script from "next/script";
+import { usePathname } from "next/navigation";
 
 /**
  * ServiceTitan Dynamic Number Insertion (DNI)
@@ -13,6 +14,9 @@ import Script from "next/script";
  * which is early enough to swap numbers before any real user interaction.
  */
 export default function DNIInjector() {
+  const pathname = usePathname();
+  // Landing pages with their own dedicated call-tracking number opt out of DNI so it is never swapped.
+  if (pathname && pathname.startsWith("/ac-tune-up-2888")) return null;
   return (
     <Script
       id="servicetitan-dni"
