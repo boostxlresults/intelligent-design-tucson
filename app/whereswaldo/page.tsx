@@ -398,7 +398,7 @@ export default function WheresWaldoPage() {
                 </a>
               </Button>
               <Button asChild size="lg" className="bg-blue-600 hover:bg-blue-700 text-white border-blue-600 text-lg px-8 py-6 h-auto">
-                <a href="https://www.facebook.com/IntelligentDesignAC" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.facebook.com/IDesignAC" target="_blank" rel="noopener noreferrer">
                   Follow on Facebook
                 </a>
               </Button>
