@@ -215,12 +215,14 @@ fbq('track','PageView');
           <PromoBanner />
           {children}
         </main>
-        <LandingChromeGate>
+        {/* Footer: hidden only where a page supplies its own reduced footer */}
+        <LandingChromeGate paths={["/ac-tune-up-2888"]}>
           <Footer />
+        </LandingChromeGate>
+        {/* Distraction chrome: hidden on all paid landing routes (own sticky CTA, no popups) */}
+        <LandingChromeGate paths={["/ac-tune-up-2888", "/lp/"]}>
           <MobileFloatingActions />
-          {/* Lazy-loaded third-party scripts (load after page is interactive) */}
           <BroccoliChat />
-          {/* RealWorkLabs project showcase widget */}
           <RealWorkLabsLoader />
         </LandingChromeGate>
         {/* PulseM floating review popup — visible only on /customer-reviews */}

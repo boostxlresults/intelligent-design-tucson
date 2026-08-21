@@ -2,12 +2,18 @@
 import { usePathname } from "next/navigation";
 
 /**
- * Hides sitewide chrome (mega-footer, mobile floating bar, chat, showcase widgets)
- * on paid landing routes so they have a reduced footer and no exit paths in the body.
- * The landing page renders its own reduced footer + sticky bar.
+ * Hides the wrapped sitewide chrome on the given route prefixes.
+ * Used to strip distractions (mobile floating bar, chat, showcase) and/or the
+ * mega-footer on paid landing routes that provide their own conversion path.
  */
-export default function LandingChromeGate({ children }: { children: React.ReactNode }) {
+export default function LandingChromeGate({
+  paths = ["/ac-tune-up-2888"],
+  children,
+}: {
+  paths?: string[];
+  children: React.ReactNode;
+}) {
   const pathname = usePathname();
-  if (pathname && pathname.startsWith("/ac-tune-up-2888")) return null;
+  if (pathname && paths.some((p) => pathname === p || pathname.startsWith(p))) return null;
   return <>{children}</>;
 }
