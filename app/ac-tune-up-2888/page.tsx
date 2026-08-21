@@ -69,13 +69,15 @@ export default function AcTuneUp2888Page() {
             dictated by proper routine maintenance and installation.
           </p>
           <div className="mt-6 flex flex-col items-center gap-3">
-            <SchedulerEmbed
-              triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
-              fullWidth
-              size="lg"
-              data-testid="hero-book"
-              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
-            />
+            <div className="w-full max-w-sm">
+              <SchedulerEmbed
+                triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
+                fullWidth
+                size="lg"
+                data-testid="hero-book"
+                className="w-full min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
+              />
+            </div>
             <a href="tel:5202018588"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
               <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;201-8588
@@ -184,13 +186,15 @@ export default function AcTuneUp2888Page() {
           </h2>
           <p className="mt-2 text-xl font-bold">Includes a 1-Year No Breakdown Guarantee.</p>
           <div className="mt-5 flex flex-col items-center gap-3">
-            <SchedulerEmbed
-              triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
-              fullWidth
-              size="lg"
-              data-testid="closing-book"
-              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
-            />
+            <div className="w-full max-w-sm">
+              <SchedulerEmbed
+                triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
+                fullWidth
+                size="lg"
+                data-testid="closing-book"
+                className="w-full min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
+              />
+            </div>
             <a href="tel:5202018588"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
               <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;201-8588
