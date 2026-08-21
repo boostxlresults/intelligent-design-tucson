@@ -82,6 +82,12 @@ const nextConfig = {
   async headers() {
     return [
       {
+        source: '/lp/:path*',
+        headers: [
+          { key: 'Cache-Control', value: 'no-store, max-age=0, must-revalidate' },
+        ],
+      },
+      {
         source: '/blog/:category/:slug.md',
         headers: [
           { key: 'Content-Type', value: 'text/markdown; charset=utf-8' },
