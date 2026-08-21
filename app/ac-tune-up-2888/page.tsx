@@ -38,10 +38,10 @@ function Booking() {
           <p className="mt-3 border-t border-border pt-3 text-[13px] leading-relaxed text-muted-foreground">
             <strong className="text-foreground">Offer terms:</strong> The {PRICE} price covers one 86-point
             precision tune-up on one residential cooling system. Additional systems are{" "}
-            <span className="font-semibold text-foreground">[ADD&rsquo;L-SYSTEM PRICE]</span> each. Residential
+            <span className="font-semibold text-foreground">$14.44</span> each. Residential
             only; not valid on commercial equipment. Cannot be combined with other offers. Repair parts and labor
             are not included. Offer expires{" "}
-            <span className="font-semibold text-foreground">[OFFER EXPIRATION DATE]</span>.
+            <span className="font-semibold text-foreground">September 15, 2026</span>.
           </p>
         </div>
       </div>
