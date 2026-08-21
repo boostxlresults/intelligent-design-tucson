@@ -1,10 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import { Star, ShieldCheck, BadgeCheck, Clock } from "lucide-react";
+import { Phone, Star, ShieldCheck, BadgeCheck, Clock } from "lucide-react";
 import TuneUpForm from "@/components/actune/TuneUpForm";
 import StickyBar from "@/components/actune/StickyBar";
 import Checklist86 from "@/components/actune/Checklist86";
+import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
 const PRICE = "$28.88";
 const CANONICAL = "https://www.idesignac.com/ac-tune-up-2888";
@@ -67,13 +68,17 @@ export default function AcTuneUp2888Page() {
             According to the experts, 80% of your HVAC system&rsquo;s reliability, longevity, and efficiency is
             dictated by proper routine maintenance and installation.
           </p>
-          <div className="mt-6 flex flex-col gap-3">
-            <a href="#book"
-              className="mx-auto inline-flex min-h-[52px] w-full max-w-sm items-center justify-center rounded-lg bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold text-white shadow-lg hover:brightness-110">
-              Book Your {PRICE} AC Maintenance Special Online
-            </a>
-            <a href="tel:5202018588" className="text-[17px] font-bold text-white underline underline-offset-4">
-              Click or Call (520)&nbsp;201-8588
+          <div className="mt-6 flex flex-col items-center gap-3">
+            <SchedulerEmbed
+              triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
+              fullWidth
+              size="lg"
+              data-testid="hero-book"
+              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold !text-white shadow-lg hover:!bg-[#a50d19]"
+            />
+            <a href="tel:5202018588"
+              className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
+              <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;201-8588
             </a>
           </div>
         </div>
@@ -178,13 +183,19 @@ export default function AcTuneUp2888Page() {
             86-Point AC Tune-Up &mdash; <span className="text-[#ff5a5f]">{PRICE}</span>
           </h2>
           <p className="mt-2 text-xl font-bold">Includes a 1-Year No Breakdown Guarantee.</p>
-          <a href="#book"
-            className="mx-auto mt-5 inline-flex min-h-[52px] w-full max-w-sm items-center justify-center rounded-lg bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold text-white shadow-lg hover:brightness-110">
-            Book Your {PRICE} AC Maintenance Special Online
-          </a>
-          <p className="mt-3 text-[16px] text-white/85">
-            Click or Call <a href="tel:5202018588" className="font-bold underline underline-offset-4">(520) 201-8588</a>
-          </p>
+          <div className="mt-5 flex flex-col items-center gap-3">
+            <SchedulerEmbed
+              triggerText={`Book Your ${PRICE} AC Maintenance Special Online`}
+              fullWidth
+              size="lg"
+              data-testid="closing-book"
+              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold !text-white shadow-lg hover:!bg-[#a50d19]"
+            />
+            <a href="tel:5202018588"
+              className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
+              <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;201-8588
+            </a>
+          </div>
         </div>
       </section>
 
