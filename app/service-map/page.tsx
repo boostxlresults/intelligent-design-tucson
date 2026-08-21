@@ -394,7 +394,7 @@ export default async function ServiceMapPage() {
         paymentAccepted: ['Cash', 'Credit Card', 'Financing Available'],
         currenciesAccepted: 'USD',
         sameAs: [
-          'https://www.facebook.com/IDesignAC',
+          'https://www.facebook.com/IntelligentDesignAC',
           'https://www.instagram.com/intelligentdesigntucson/',
           'https://www.tiktok.com/@intelligentdesigntucson',
           'https://www.youtube.com/@intelligentdesigntucson',

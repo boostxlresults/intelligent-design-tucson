@@ -11,7 +11,7 @@ import LocationMap from "@/components/content/LocationMap";
 const logoUrl = "/logo.png";
 
 const socialLinks = [
-  { name: "Facebook", href: "https://www.facebook.com/IDesignAC", icon: SiFacebook },
+  { name: "Facebook", href: "https://www.facebook.com/IntelligentDesignAC", icon: SiFacebook },
   { name: "Instagram", href: "https://www.instagram.com/intelligentdesigntucson/", icon: SiInstagram },
   { name: "LinkedIn", href: "https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/", icon: FaLinkedin },
   { name: "YouTube", href: "https://www.youtube.com/@Idesignac", icon: SiYoutube },

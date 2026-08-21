@@ -179,7 +179,7 @@ export function generateArticleSchema(
         url: 'https://www.idesignac.com/logo.png',
       },
       sameAs: [
-        'https://www.facebook.com/IDesignAC',
+        'https://www.facebook.com/IntelligentDesignAC',
         'https://www.instagram.com/intelligentdesigntucson/',
         'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
         'https://www.youtube.com/@Idesignac',
@@ -275,7 +275,7 @@ export function generateVideoSchema(
       },
       url: 'https://www.idesignac.com',
       sameAs: [
-        'https://www.facebook.com/IDesignAC',
+        'https://www.facebook.com/IntelligentDesignAC',
         'https://www.instagram.com/intelligentdesigntucson/',
         'https://www.linkedin.com/company/intelligent-design-air-conditioning-plumbing-solar-electric/',
         'https://www.youtube.com/@Idesignac',
