@@ -100,10 +100,10 @@ const serviceSchema = {
     "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "4740 S Park Ave",
+      "streetAddress": "1145 E Fort Lowell Rd",
       "addressLocality": "Tucson",
       "addressRegion": "AZ",
-      "postalCode": "85714"
+      "postalCode": "85719"
     },
     "telephone": "+1-520-333-2665",
     "url": "https://www.idesignac.com",

@@ -4,7 +4,7 @@ import type { ContentSection } from "@/types/services";
 export const BIZ = {
   name: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
   phone: "(520) 333-2665",
-  address: "4740 S Park Ave, Tucson, AZ 85714",
+  address: "1145 E Fort Lowell Rd, Tucson, AZ 85719",
   trust:
     "Rated 4.97 stars from 23,000+ verified reviews · BBB A+ accredited · Family & veteran-owned, serving Tucson since 1979 · Licensed AZ ROC contractor.",
 };
