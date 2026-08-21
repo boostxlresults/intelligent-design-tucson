@@ -74,7 +74,7 @@ export default function AcTuneUp2888Page() {
               fullWidth
               size="lg"
               data-testid="hero-book"
-              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold !text-white shadow-lg hover:!bg-[#a50d19]"
+              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
             />
             <a href="tel:5202018588"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
@@ -189,7 +189,7 @@ export default function AcTuneUp2888Page() {
               fullWidth
               size="lg"
               data-testid="closing-book"
-              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] px-6 py-4 text-[19px] font-extrabold !text-white shadow-lg hover:!bg-[#a50d19]"
+              className="mx-auto w-full max-w-sm min-h-[52px] rounded-lg !bg-[#C8101F] !whitespace-normal !px-4 py-3 text-center text-[16px] leading-tight font-extrabold !text-white shadow-lg hover:!bg-[#a50d19] sm:text-[18px]"
             />
             <a href="tel:5202018588"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
