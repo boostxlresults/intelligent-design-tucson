@@ -2,6 +2,7 @@
 
 import { useState, startTransition } from "react";
 import { usePathname } from "next/navigation";
+import { getCampaignPhone } from "@/lib/campaignPhones";
 import { trackPhoneClick, trackScheduleOpen } from "@/lib/analytics";
 import Link from "next/link";
 import type { ForwardRefExoticComponent, RefAttributes } from "react";
@@ -79,8 +80,9 @@ export default function Header() {
   const pathname = usePathname();
   // Landing pages with a dedicated static tracking number override the header phone.
   const isAcTuneLp = !!pathname && pathname.startsWith("/ac-tune-up-2888");
-  const headerPhoneHref = isAcTuneLp ? "tel:5202018588" : "tel:5203332665";
-  const headerPhoneText = isAcTuneLp ? "(520) 201-8588" : "(520) 333-2665";
+  const campPhone = getCampaignPhone(pathname);
+  const headerPhoneHref = isAcTuneLp ? "tel:5202018588" : campPhone ? `tel:${campPhone.tel}` : "tel:5203332665";
+  const headerPhoneText = isAcTuneLp ? "(520) 201-8588" : campPhone ? campPhone.display : "(520) 333-2665";
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openPopover, setOpenPopover] = useState<string | null>(null);
   const [mobileAreasServedExpanded, setMobileAreasServedExpanded] = useState(false);
