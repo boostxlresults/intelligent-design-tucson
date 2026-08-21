@@ -8,6 +8,8 @@ import LpServiceArea from "@/components/lp/LpServiceArea";
 import LpFaq from "@/components/lp/LpFaq";
 import LpStickyCall from "@/components/lp/LpStickyCall";
 
+export const dynamic = "force-dynamic";
+
 const PHONE = CAMPAIGN_PHONES["/lp/ac-not-cooling"];
 const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Veteran & Family Owned Since 1979";
 
