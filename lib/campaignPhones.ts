@@ -13,6 +13,7 @@ export const CAMPAIGN_PHONES: Record<string, CampaignPhone> = {
   "/lp/ac-repair-tucson": { tel: "5208123470", display: "(520) 812-3470" },
   "/lp/emergency-ac-repair-tucson": { tel: "5208123485", display: "(520) 812-3485" },
   "/lp/ac-not-cooling": { tel: "5208123470", display: "(520) 812-3470" },  // shares Page A number (symptom kws moving into AC-Repair ad group)
+  "/drain-clearing-4888": { tel: "5203486684", display: "(520) 348-6684" },
 };
 
 export function getCampaignPhone(pathname?: string | null): CampaignPhone | null {
