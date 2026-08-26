@@ -13,6 +13,7 @@ import BroccoliChat from "@/components/integrations/BroccoliChat";
 import ServiceTitanScheduler from "@/components/integrations/ServiceTitanScheduler";
 import RealWorkLabsLoader from "@/components/integrations/RealWorkLabsLoader";
 import PulseMWidget from "@/components/integrations/PulseMWidget";
+import { LOCAL_BUSINESS_SCHEMA } from "@/lib/localBusinessSchema";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -55,6 +56,12 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        {/* HVACBusiness / LocalBusiness JSON-LD — sitewide entity signal for AI search */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(LOCAL_BUSINESS_SCHEMA) }}
+        />
+
         {/* Google Search Console verification */}
         <meta name="google-site-verification" content="PVVQSu2t1C9o0Ol31OBNHfrktFMCsB32xrbB41hU1ps" />
 
