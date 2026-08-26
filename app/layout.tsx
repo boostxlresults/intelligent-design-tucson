@@ -236,6 +236,11 @@ fbq('track','PageView');
         <PulseMWidget />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
+        {/* Google Preferred Sources — enables "Add as Preferred Source" button on blog posts */}
+        <Script
+          src="https://news.google.com/swg/js/v1/publisher.js"
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
