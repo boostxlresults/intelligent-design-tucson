@@ -6,6 +6,8 @@
  * Updated: 2026-04-07 - Added GSC 404 redirects (281 URLs from April 2026 report)
  */
 
+import { STANDALONE_PAGES } from './standalone-pages';
+
 export const LEGACY_REDIRECTS: Record<string, string> = {
   // ===== URGENT REDIRECTS =====
   '/choosing-the-right-roofing-company-a-comprehensive-guide': '/blog/roofing',
@@ -1650,19 +1652,7 @@ export const BLOG_DATE_PATTERNS: Array<{ pattern: RegExp; getDestination: (slug:
   },
 ];
 
-export const STANDALONE_PAGES = new Set([
-  'financing', 'guarantees', 'resources', 'home', 'about',
-  'contact', 'careers', 'privacy-policy', 'special-offers',
-  'customer-reviews', 'video-testimonials', 'family-protection-plans',
-  'new-homebuyer-offer', 'realtors-offer', 'recent-projects',
-  'filter-shop',
-  'knowledge-hub', 'r22-phaseout', 'education-library',
-  'drain-clearing-special', 'ac-system-faqs', 'schedule',
-  'service-areas', 'services', 'blog', 'service-map',
-  'ac-repair-tucson', 'new-air-conditioner',
-  'proper-ac-sizing', 'ac-sizing-estimator', 'free-roof-inspection', 'ac-tune-up-2888',
-  'drain-clearing-4888', 'drain-clearing-4888/confirmed'
-]);
+// STANDALONE_PAGES imported from ./standalone-pages
 
 export const SERVICE_KEYWORDS = [
   'tucson', 'repair', 'installation', 'service', 'maintenance',
