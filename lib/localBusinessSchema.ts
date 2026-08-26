@@ -8,7 +8,7 @@
 
 export const LOCAL_BUSINESS_SCHEMA = {
   "@context": "https://schema.org",
-  "@type": ["HVACBusiness", "Plumber", "Electrician"],
+  "@type": ["HVACBusiness", "Plumber", "Electrician", "RoofingContractor"],
   "@id": "https://www.idesignac.com/#business",
   "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
   "alternateName": ["Intelligent Design AC", "Intelligent Design Tucson"],
@@ -17,7 +17,7 @@ export const LOCAL_BUSINESS_SCHEMA = {
   "image": "https://www.idesignac.com/og-image.jpg",
   "telephone": "+15203332665",
   "email": "service@idesignac.com",
-  "description": "Tucson's top-rated HVAC, plumbing, solar, electrical, and roofing contractor. Family & veteran-owned. Expert AC repair, installation, and maintenance serving Tucson and Southern Arizona since 1979.",
+  "description": "Tucson's top-rated HVAC, plumbing, solar, electrical, and roofing contractor. Family & veteran-owned. Expert AC repair, installation, and maintenance serving Tucson and Southern Arizona since 1979. Open 24/7.",
   "foundingDate": "1979",
   "slogan": "Tucson's Most Trusted Home Services",
   "priceRange": "$$",
@@ -38,15 +38,9 @@ export const LOCAL_BUSINESS_SCHEMA = {
   "openingHoursSpecification": [
     {
       "@type": "OpeningHoursSpecification",
-      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-      "opens": "07:00",
-      "closes": "19:00"
-    },
-    {
-      "@type": "OpeningHoursSpecification",
-      "dayOfWeek": "Saturday",
-      "opens": "08:00",
-      "closes": "17:00"
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      "opens": "00:00",
+      "closes": "23:59"
     }
   ],
   "areaServed": [
@@ -82,8 +76,8 @@ export const LOCAL_BUSINESS_SCHEMA = {
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "3732",
+    "ratingValue": "4.9",
+    "reviewCount": "3797",
     "bestRating": "5",
     "worstRating": "1"
   },
