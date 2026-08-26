@@ -21,8 +21,16 @@ Allow: /
 User-agent: GPTBot
 Allow: /
 
+# OpenAI Search Bot
+User-agent: OAI-SearchBot
+Allow: /
+
 # Anthropic Claude (Claude AI)
 User-agent: Claude-Web
+Allow: /
+
+# Anthropic Claude (crawler)
+User-agent: anthropic-ai
 Allow: /
 
 # Perplexity AI
