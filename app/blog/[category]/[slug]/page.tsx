@@ -11,6 +11,7 @@ import TableOfContents from "@/components/navigation/TableOfContents";
 import FloatingTOCButton from "@/components/navigation/FloatingTOCButton";
 import RelatedPosts from "@/components/blog/RelatedPosts";
 import RelatedServices from "@/components/blog/RelatedServices";
+import PreferredSourceBadge from "@/components/PreferredSourceBadge";
 
 import { parseMarkdown, type ParsedBlogPost, generateArticleSchema, generateBreadcrumbSchema, generateVideoSchema } from '@/lib/markdownParser';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
@@ -403,6 +404,9 @@ export default async function BlogPostPage({
                 </div>
               </div>
             )}
+
+            {/* Google Preferred Sources Badge */}
+            <PreferredSourceBadge />
 
             {/* Related Posts */}
             {relatedPosts.length > 0 && (
