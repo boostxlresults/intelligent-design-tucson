@@ -24,6 +24,7 @@ export const STANDALONE_PAGES = new Set([
 
   // Paid landing pages
   'free-roof-inspection',
+  'free-ac-repair-quote',
   'ac-tune-up-2888',
   'drain-clearing-4888', 'drain-clearing-4888/confirmed',
 ]);
