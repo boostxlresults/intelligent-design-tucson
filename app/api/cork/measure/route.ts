@@ -3,36 +3,26 @@ import { rateLimit, clientIp } from "@/lib/cork/ratelimit";
 
 export const maxDuration = 60;
 
-const PROMPT = `You are outlining a residential pool deck from a single photo for a resurfacing estimate.
+const PROMPT = `You are helping a homeowner visualize a new pool deck coating. Study this photo carefully and identify two sets of sample point coordinates.
 
-WHAT TO SELECT (the corkable surface):
-- The walkable deck surrounding the pool: concrete, pavers, cool-deck, stamped concrete, or stone slab that a person stands and walks on.
-- Include the whole continuous slab even where patio furniture, chairs, tables, or planters sit ON it (we resurface underneath movable objects).
+DECK POINTS — pick 6 to 9 points spread across the walkable pool deck surface:
+- The deck is the hard paved/concrete/coated surface that surrounds the pool and that a person walks on.
+- Spread points across EVERY visible part of the deck: near the pool edge, in far corners, along each side of the frame.
+- CRITICAL: every single point must land on paved deck. Never pick a point on water, grass, dirt, rocks, structures, or sky.
+- If the deck wraps around the pool, include points on all sides.
 
-WHAT TO EXCLUDE FROM DECK POLYGONS:
-- Pool water and spa/spillover water.
-- The coping stones or bullnose edge that sit directly at the water's edge (the last row of stone touching the water).
-- Grass, dirt, gravel, mulch, rock landscaping, garden beds, and raised planter boxes.
-- House walls, fences, raised structures, and anything vertical.
+EXCLUDE POINTS — pick 4 to 6 points on areas that are definitely NOT deck:
+- 2 points clearly inside the pool or spa water (center of water surface, not near edge).
+- 1-2 points on grass, dirt, gravel, decomposed granite, or planted landscaping clearly outside the deck edge.
+- 1 point on a structure (roof, pergola, wall) if visible in the photo.
+- 1 point on the sky or treetops if a significant portion of the image is background.
 
-MEASURE:
-- Estimate total deck square footage using visible reference objects (coping stones ~12in, standard chair ~22in wide, single door ~36in wide, sliding door ~72in, typical pool widths 12-16ft). State your confidence.
+Also estimate the total visible deck square footage using reference objects (coping stones ~12in wide, pool widths typically 12-16ft, standard door ~36in, patio chair ~22in wide).
 
-TRACE DECK PRECISELY (polygons):
-- Return 1 to 6 polygons that TIGHTLY follow the real deck boundary. Use MORE points on curved or irregular edges so the outline hugs the actual shape (a rounded deck edge should have many points, not a coarse triangle).
-- Use a separate polygon for each disconnected deck region, and to cut around large interior holes like the pool itself or a planter island in the middle of the deck.
-- 10 to 30 points per polygon. Coordinates normalized 0-1 relative to image width (x) and height (y), ordered clockwise.
+Return STRICT JSON only — no markdown, no explanation:
+{"sq_ft": <integer>, "confidence": "low"|"medium"|"high", "deck_points": [[x,y],...], "exclude_points": [[x,y],...], "notes": "<one sentence>"}
 
-ALSO IDENTIFY EXCLUSION ZONES (exclude_polygons):
-Trace polygons for areas that must NEVER be treated as deck — even if they are a similar color:
-- Pool or spa water: the actual water surface inside the coping ring. This is the most important exclusion — trace it carefully even if the pool is drained or murky.
-- Natural ground outside the deck perimeter: bare dirt, decomposed granite, gravel, rock, mulch.
-- Grass and garden beds.
-- Sky, fences, walls, and background areas that are clearly not paved surface.
-Use the same point density (10–30 pts). These zones are permanently locked so the user cannot accidentally paint over them.
-
-Return STRICT JSON only, no markdown:
-{"sq_ft": <integer>, "confidence": "low"|"medium"|"high", "polygons": [[[x,y],...]], "exclude_polygons": [[[x,y],...]], "notes": "<one short sentence about what you included/excluded>"}`;
+All coordinates normalized 0-1 (x = left to right, y = top to bottom relative to image size).`;
 
 export async function POST(req: NextRequest) {
   if (!rateLimit(clientIp(req), 6, 60000)) return NextResponse.json({ error: "rate_limited" }, { status: 429 });
@@ -51,7 +41,7 @@ export async function POST(req: NextRequest) {
     },
     body: JSON.stringify({
       model: "claude-sonnet-4-6",
-      max_tokens: 2800,
+      max_tokens: 1200,
       messages: [
         {
           role: "user",
@@ -73,31 +63,27 @@ export async function POST(req: NextRequest) {
   const data = (await res.json()) as { content?: Array<{ type: string; text?: string }> };
   const text = data.content?.find((c) => c.type === "text")?.text ?? "";
 
-  function parsePolygons(raw: unknown): number[][][] {
-    return (Array.isArray(raw) ? raw : [])
-      .map((poly: unknown) =>
-        Array.isArray(poly)
-          ? poly
-              .filter((pt: unknown) => Array.isArray(pt) && pt.length >= 2)
-              .map((pt: number[]) => [
-                Math.min(1, Math.max(0, Number(pt[0]) || 0)),
-                Math.min(1, Math.max(0, Number(pt[1]) || 0)),
-              ])
-          : []
-      )
-      .filter((poly: number[][]) => poly.length >= 3);
+  function parsePoints(raw: unknown): number[][] {
+    if (!Array.isArray(raw)) return [];
+    return raw
+      .filter((pt) => Array.isArray(pt) && pt.length >= 2)
+      .map((pt: number[]) => [
+        Math.min(1, Math.max(0, Number(pt[0]) || 0)),
+        Math.min(1, Math.max(0, Number(pt[1]) || 0)),
+      ]);
   }
 
   try {
     const clean = text.replace(/```json|```/g, "").trim();
     const parsed = JSON.parse(clean);
-    const polygons = parsePolygons(parsed.polygons);
-    const excludePolygons = parsePolygons(parsed.exclude_polygons);
+    const deckPoints = parsePoints(parsed.deck_points);
+    const excludePoints = parsePoints(parsed.exclude_points);
+    console.log(`[cork] measure: ${deckPoints.length} deck pts, ${excludePoints.length} exclude pts, ${parsed.sq_ft} sq_ft`);
     return NextResponse.json({
       sqFt: Math.max(50, Math.round(Number(parsed.sq_ft) || 0)),
       confidence: parsed.confidence ?? "medium",
-      polygons,
-      excludePolygons,
+      deckPoints,
+      excludePoints,
       notes: parsed.notes ?? "",
     });
   } catch {
