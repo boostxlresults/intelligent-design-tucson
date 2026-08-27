@@ -42,7 +42,7 @@ export default function PrivacyPolicyPage() {
             <section>
               <h2 className="text-2xl font-bold mb-4">Our Commitment to Your Privacy</h2>
               <p className="mb-4">
-                At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
+                At Intelligent Design Air Conditioning, Plumbing, Solar, &amp; Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
               </p>
             </section>
 
@@ -140,16 +140,15 @@ export default function PrivacyPolicyPage() {
                 <strong>How we use it.</strong> We may use identified contact information to follow up on your visit by email or phone &mdash; for example, to share information about HVAC, plumbing, solar, or electrical services you viewed, current promotions, or to respond to an inquiry we believe you intended to make. These communications are consistent with the &ldquo;Consent to Communications&rdquo; section above.
               </p>
               <p className="mb-4">
+                <strong>Who we share it with.</strong> We share this information with service providers who process it on our behalf (visitor identification, email delivery, customer-relationship management, call tracking, and scheduling providers). We do not sell your personal information.
+              </p>
+              <p className="mb-4">
                 <strong>Your choices.</strong> You may opt out of marketing communications at any time by:
               </p>
               <ul className="list-disc pl-6 space-y-2 mb-4">
                 <li>Using the unsubscribe link in any email we send</li>
-                <li>Replying STOP to any text message</li>
                 <li>Contacting us directly at <a href="mailto:privacy@idesignac.com" className="underline hover:text-primary">privacy@idesignac.com</a> or by phone</li>
               </ul>
-              <p className="mb-4">
-                <strong>Data retention.</strong> Visitor-identified contact records are retained for no more than 90 days unless you become an active customer, in which case standard customer data retention applies.
-              </p>
               <p className="text-sm text-muted-foreground">
                 This section was added August 26, 2026.
               </p>
