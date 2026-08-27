@@ -2,6 +2,18 @@ import { Metadata } from 'next';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import { generateBreadcrumbSchema } from '@/lib/seo';
 import PrivacyContactSection from '@/components/contact/PrivacyContactSection';
+import {
+  PART2_WHAT_COLLECT,
+  PART2_HOW_USE,
+  PART2_WHO_SHARE,
+  PART2_CHOICES_A,
+  PART2_CHOICES_EMAIL,
+  PART2_CHOICES_B,
+  PART2_CHOICES_PHONE_DISPLAY,
+  PART2_CHOICES_PHONE_TEL,
+  PART2_CHOICES_C,
+  PART2_EFFECTIVE_DATE,
+} from '@/lib/legal';
 
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Privacy Policy | Intelligent Design',
@@ -134,23 +146,23 @@ export default function PrivacyPolicyPage() {
             <section id="visitor-identification" className="scroll-mt-24">
               <h2 className="text-2xl font-bold mb-4">Visitor Identification &amp; Marketing Communications</h2>
               <p className="mb-4">
-                <strong>What we collect.</strong> In addition to standard website analytics, our site uses visitor-identification technology provided by service partners (currently AudienceLab). This technology may associate your visit with contact information &mdash; such as an email address or phone number &mdash; matched from third-party data sources based on your device or browser signals. We do not sell this information.
+                <strong>What we collect.</strong>{' '}{PART2_WHAT_COLLECT}
               </p>
               <p className="mb-4">
-                <strong>How we use it.</strong> We may use identified contact information to follow up on your visit by email or phone &mdash; for example, to share information about HVAC, plumbing, solar, or electrical services you viewed, current promotions, or to respond to an inquiry we believe you intended to make. These communications are consistent with the &ldquo;Consent to Communications&rdquo; section above.
+                <strong>How we use it.</strong>{' '}{PART2_HOW_USE}
               </p>
               <p className="mb-4">
-                <strong>Who we share it with.</strong> We share this information with service providers who process it on our behalf (visitor identification, email delivery, customer-relationship management, call tracking, and scheduling providers). We do not sell your personal information.
+                <strong>Who we share it with.</strong>{' '}{PART2_WHO_SHARE}
               </p>
               <p className="mb-4">
-                <strong>Your choices.</strong> You may opt out of marketing communications at any time by:
+                <strong>Your choices.</strong>{' '}{PART2_CHOICES_A}
+                <a href={`mailto:${PART2_CHOICES_EMAIL}`} className="underline hover:text-primary">{PART2_CHOICES_EMAIL}</a>
+                {PART2_CHOICES_B}
+                <a href={PART2_CHOICES_PHONE_TEL} className="underline hover:text-primary">{PART2_CHOICES_PHONE_DISPLAY}</a>
+                {PART2_CHOICES_C}
               </p>
-              <ul className="list-disc pl-6 space-y-2 mb-4">
-                <li>Using the unsubscribe link in any email we send</li>
-                <li>Contacting us directly at <a href="mailto:csrteam@idesignac.com" className="underline hover:text-primary">csrteam@idesignac.com</a> or by phone</li>
-              </ul>
               <p className="text-sm text-muted-foreground">
-                This section was added August 26, 2026.
+                <strong>Effective date.</strong>{' '}{PART2_EFFECTIVE_DATE}
               </p>
             </section>
 
