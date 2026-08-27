@@ -548,12 +548,31 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     return b64(c.toDataURL("image/jpeg", 0.8));
   }, [image]);
 
+  /* buildMask — binary black/white PNG of the selection at full image resolution.
+     White pixels = areas to resurface (fed to Replicate inpainting as the mask). */
+  const buildMask = useCallback(async (): Promise<string | undefined> => {
+    const mc = maskCanvasRef.current;
+    if (!mc || !image) return undefined;
+    const c = document.createElement("canvas");
+    c.width = image.width;
+    c.height = image.height;
+    const ctx = c.getContext("2d", { willReadFrequently: true })!;
+    ctx.drawImage(mc, 0, 0, c.width, c.height);
+    const id = ctx.getImageData(0, 0, c.width, c.height);
+    for (let i = 0; i < id.data.length; i += 4) {
+      const v = id.data[i] > 100 ? 255 : 0;
+      id.data[i] = v; id.data[i + 1] = v; id.data[i + 2] = v; id.data[i + 3] = 255;
+    }
+    ctx.putImageData(id, 0, 0);
+    return c.toDataURL("image/png").split(",")[1];
+  }, [image]);
+
   /* ---------- rendering ---------- */
   const renderColor = useCallback(
     async (color: CorkColor, key: string): Promise<string | null> => {
       if (rendersRef.current[key]) return rendersRef.current[key];
       if (!image) return null;
-      const guideBase64 = await buildGuide();
+      const [guideBase64, maskBase64] = await Promise.all([buildGuide(), buildMask()]);
       const res = await fetch("/api/cork/render", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -561,6 +580,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
           imageBase64: b64(image.dataUrl),
           mediaType: "image/jpeg",
           guideBase64,
+          maskBase64,
           colorName: `${color.code} ${color.name}`,
           colorHex: color.hex,
         }),
@@ -572,7 +592,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       setRenders((r) => ({ ...r, [key]: url }));
       return url;
     },
-    [image, buildGuide]
+    [image, buildGuide, buildMask]
   );
 
   const ensureRender = useCallback(
