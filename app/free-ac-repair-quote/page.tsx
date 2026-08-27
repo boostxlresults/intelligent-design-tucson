@@ -1,18 +1,18 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import { Phone, ShieldCheck, Star, Wrench, DollarSign, Clock, CheckCircle2, BadgePercent, ThumbsUp } from "lucide-react";
+import { Phone, ShieldCheck, Star, Wrench, DollarSign, Clock, CheckCircle2, BadgePercent } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
-import CallCta from "@/components/roof/CallCta";
 
 const SITE = "https://www.idesignac.com";
-const PHONE = "(520) 333-2665";
+const PHONE_DISPLAY = "(520) 201-8588";
+const PHONE_TEL = "5202018588";
 const IDACH = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
 
 export const metadata: Metadata = {
   title: "Free AC Repair Quote | $0 Dispatch & Diagnostic | Tucson | Intelligent Design",
   description:
-    "$0 Dispatch Fee, $0 Diagnostic, 10% off repairs, and a 1-Year No Breakdown Guarantee. Same-day AC repair in Tucson. Licensed & insured, 23,000+ five-star reviews. Call (520) 333-2665.",
+    "$0 Dispatch Fee, $0 Diagnostic, 10% off repairs, and a 1-Year No Breakdown Guarantee. Same-day AC repair in Tucson. Licensed & insured, 23,000+ five-star reviews. Call (520) 201-8588.",
   alternates: { canonical: `${SITE}/free-ac-repair-quote` },
   robots: { index: false, follow: true },
   openGraph: {
@@ -55,7 +55,7 @@ const schema = {
       name: IDACH,
       alternateName: "Intelligent Design",
       url: SITE,
-      telephone: "+1-520-333-2665",
+      telephone: "+1-520-201-8588",
       priceRange: "$$",
       address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
       areaServed: ["Tucson", "Oro Valley", "Marana", "Vail", "Sahuarita", "Green Valley", "Catalina Foothills"].map((c) => ({ "@type": "City", name: c })),
@@ -115,12 +115,12 @@ export default function FreeAcRepairQuotePage() {
               <p className="mt-3 max-w-md text-base font-medium text-white/90 md:text-lg">
                 Same-day service &middot; 10% off your repair &middot; 1-Year No Breakdown Guarantee
               </p>
-              <CallCta
-                source="ac_repair_hero"
+              <a
+                href={`tel:${PHONE_TEL}`}
                 className="mt-5 flex w-full items-center justify-center gap-2 rounded-xl bg-[#e8a020] px-6 py-4 text-lg font-extrabold text-[#0d2d7a] shadow-lg transition hover:bg-[#f5b731] md:w-auto"
               >
-                <Phone className="h-5 w-5" /> Call {PHONE}
-              </CallCta>
+                <Phone className="h-5 w-5" /> Call {PHONE_DISPLAY}
+              </a>
             </div>
             <div>
               <p className="mb-2 text-center text-sm font-bold text-white md:text-left">Or schedule your same-day visit online:</p>
@@ -237,24 +237,24 @@ export default function FreeAcRepairQuotePage() {
             </Accordion>
           </div>
           <div className="mt-8 text-center">
-            <CallCta
-              source="ac_repair_faq"
+            <a
+              href={`tel:${PHONE_TEL}`}
               className="inline-flex items-center justify-center gap-2 rounded-xl bg-primary px-6 py-3 font-bold text-primary-foreground shadow hover:bg-primary/90"
             >
-              <Phone className="h-5 w-5" /> Call {PHONE} for same-day service
-            </CallCta>
+              <Phone className="h-5 w-5" /> Call {PHONE_DISPLAY} for same-day service
+            </a>
           </div>
         </div>
       </section>
 
       {/* STICKY MOBILE CALL FOOTER */}
       <div className="fixed inset-x-0 bottom-0 z-50 border-t border-[#0d2d7a] bg-[#0d2d7a] p-3 shadow-[0_-4px_12px_rgba(0,0,0,0.2)] md:hidden">
-        <CallCta
-          source="ac_repair_sticky_footer"
+        <a
+          href={`tel:${PHONE_TEL}`}
           className="flex w-full items-center justify-center gap-2 rounded-lg bg-[#e8a020] px-6 py-3 text-lg font-extrabold text-[#0d2d7a]"
         >
-          <Phone className="h-5 w-5" /> Call {PHONE}
-        </CallCta>
+          <Phone className="h-5 w-5" /> Call {PHONE_DISPLAY}
+        </a>
       </div>
     </div>
   );
