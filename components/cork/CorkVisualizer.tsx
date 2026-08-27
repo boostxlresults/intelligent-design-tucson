@@ -8,10 +8,12 @@
  * Selection model (refine step): a raster selection MASK, not vector polygons.
  * The AI's polygons seed a best-guess mask; the visitor then refines it with a
  * Photoshop-style toolset. The magic wand taps SAM 2 (via /api/cork/segment) for
- * a pixel-perfect surface mask (auto-excludes the pool); if SAM isn't configured
- * it falls back to an in-browser color flood-fill. An add/erase brush handles
- * touch-ups. Square footage scales live with the selected area, and the same mask
- * drives the Gemini render guide.
+ * a pixel-perfect surface mask; if SAM isn't configured it falls back to an
+ * in-browser color flood-fill. An add/erase brush handles touch-ups.
+ *
+ * Forbidden-zone mask: the measure step also returns exclude_polygons (pool water,
+ * dirt, landscape). These are rasterised into forbidRef and re-applied after every
+ * wand click and brush stroke so those pixels can never be selected.
  */
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
@@ -46,12 +48,12 @@ interface MeasureResult {
   sqFt: number;
   confidence: string;
   polygons: Array<Array<[number, number]>>;
+  excludePolygons?: Array<Array<[number, number]>>;
   notes: string;
 }
 
 const TIME_WINDOWS = ["8–10 AM", "10–12 PM", "12–2 PM", "2–4 PM"];
 // Cap background Gemini prefetch to the default + popular neutrals (cost control).
-// Any other color still renders on-demand when the visitor taps it.
 const PREFETCH_COLOR_IDS = ["kc-24", "kc-01", "kc-06", "kc-07"];
 // Working resolution for the selection mask (long edge). Keeps flood-fill fast.
 const MASK_MAX = 480;
@@ -159,9 +161,9 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
 
   // selection tools
   const [tool, setTool] = useState<Tool>("wand");
-  const [addMode, setAddMode] = useState(true); // true = add to selection, false = remove
-  const [brushPct, setBrushPct] = useState(6); // brush radius as % of deck width
-  const [tolerance, setTolerance] = useState(38); // wand color tolerance (local fallback)
+  const [addMode, setAddMode] = useState(true);
+  const [brushPct, setBrushPct] = useState(6);
+  const [tolerance, setTolerance] = useState(38);
   const [maskVersion, setMaskVersion] = useState(0);
   const [segmenting, setSegmenting] = useState(false);
 
@@ -190,7 +192,9 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const maskCanvasRef = useRef<HTMLCanvasElement | null>(null);
   const dimsRef = useRef<{ mw: number; mh: number; seed: number }>({ mw: 0, mh: 0, seed: 0 });
   const lastPt = useRef<[number, number] | null>(null);
-  const segmentUnavailable = useRef(false); // set once we learn SAM has no key on this env
+  const segmentUnavailable = useRef(false);
+  // Permanent exclusion mask: pool water, landscape — pixels here can never be selected.
+  const forbidRef = useRef<Uint8Array | null>(null);
 
   const sqFt = useMemo(
     () => Math.max(50, Math.round((measure?.sqFt ?? 0) * areaRatio)),
@@ -249,6 +253,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       setMeasure(null);
       selRef.current = null;
       srcRef.current = null;
+      forbidRef.current = null;
       setAreaRatio(1);
       setColorChosen(false);
       setRenders({});
@@ -267,6 +272,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     setMeasure(null);
     selRef.current = null;
     srcRef.current = null;
+    forbidRef.current = null;
     setAreaRatio(1);
     setColorChosen(false);
     setRenders({});
@@ -276,6 +282,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   };
 
   // Build the source-pixel buffer + seed the mask from the AI polygons.
+  // Also builds the forbidden-zone mask from excludePolygons.
   const initMask = useCallback(async (m: MeasureResult, img: { dataUrl: string; width: number; height: number }) => {
     const scale = Math.min(1, MASK_MAX / Math.max(img.width, img.height));
     const mw = Math.max(1, Math.round(img.width * scale));
@@ -292,7 +299,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     sctx.drawImage(el, 0, 0, mw, mh);
     srcRef.current = sctx.getImageData(0, 0, mw, mh).data;
 
-    // rasterize polygons → seed selection
+    // Rasterize deck polygons → seed selection
     const pc = document.createElement("canvas");
     pc.width = mw;
     pc.height = mh;
@@ -315,6 +322,36 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
         seed++;
       }
     }
+
+    // Build forbidden-zone mask from excludePolygons (pool water, landscape).
+    // These pixels are cleared from the initial seed and can never be re-selected.
+    if (m.excludePolygons && m.excludePolygons.length > 0) {
+      const fc = document.createElement("canvas");
+      fc.width = mw; fc.height = mh;
+      const fctx = fc.getContext("2d", { willReadFrequently: true })!;
+      fctx.fillStyle = "#fff";
+      for (const poly of m.excludePolygons) {
+        if (poly.length < 3) continue;
+        fctx.beginPath();
+        fctx.moveTo(poly[0][0] * mw, poly[0][1] * mh);
+        for (const [x, y] of poly.slice(1)) fctx.lineTo(x * mw, y * mh);
+        fctx.closePath();
+        fctx.fill();
+      }
+      const fd = fctx.getImageData(0, 0, mw, mh).data;
+      const forb = new Uint8Array(mw * mh);
+      for (let i = 0; i < forb.length; i++) {
+        if (fd[i * 4 + 3] > 10) {
+          forb[i] = 1;
+          sel[i] = 0; // remove from initial deck seed
+          if (sel[i]) seed = Math.max(0, seed - 1);
+        }
+      }
+      forbidRef.current = forb;
+    } else {
+      forbidRef.current = null;
+    }
+
     selRef.current = sel;
     dimsRef.current = { mw, mh, seed };
 
@@ -378,7 +415,6 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     const mc = maskCanvasRef.current;
     const { mw, mh, seed } = dimsRef.current;
     if (!sel || !mc) return;
-    // paint selection into the mask canvas (white where selected)
     const ctx = mc.getContext("2d")!;
     const id = ctx.createImageData(mw, mh);
     let count = 0;
@@ -410,6 +446,17 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
 
   const brushRadiusMask = () => Math.max(2, Math.round((brushPct / 100) * dimsRef.current.mw));
 
+  // Re-apply forbidden zones after any mask edit so pool water / landscape
+  // pixels can never be selected regardless of wand or brush.
+  const applyForbidden = useCallback(() => {
+    const forb = forbidRef.current;
+    const sel = selRef.current;
+    if (!forb || !sel) return;
+    for (let i = 0; i < sel.length; i++) {
+      if (forb[i]) sel[i] = 0;
+    }
+  }, []);
+
   // Apply a SAM mask PNG (full-res) onto the selection at mask resolution.
   const applyMaskPng = useCallback(async (url: string, add: boolean) => {
     const sel = selRef.current;
@@ -429,8 +476,9 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       const lum = (d[i * 4] + d[i * 4 + 1] + d[i * 4 + 2]) / 3;
       if (a > 16 && lum > 100) sel[i] = add ? 1 : 0;
     }
+    applyForbidden(); // never allow forbidden zones to become selected
     setMaskVersion((v) => v + 1);
-  }, []);
+  }, [applyForbidden]);
 
   // SAM 2 "smart select": returns true if an AI mask was applied, false to fall back.
   const smartSelect = useCallback(
@@ -448,7 +496,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
           }),
         });
         if (res.status === 503) {
-          segmentUnavailable.current = true; // no key on this env — silent local fallback from here on
+          segmentUnavailable.current = true;
           return false;
         }
         if (!res.ok) return false;
@@ -475,10 +523,10 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     const py = Math.min(mh - 1, Math.max(0, Math.round(ny * mh)));
 
     if (tool === "wand") {
-      // Prefer SAM 2 click-to-segment; fall back to local color flood-fill.
       const usedSam = await smartSelect(nx * image.width, ny * image.height, addMode);
       if (!usedSam) {
         if (srcRef.current) floodFill(sel, srcRef.current, mw, mh, px, py, addMode, tolerance);
+        applyForbidden(); // flood-fill may have spilled into excluded zones
         setMaskVersion((v) => v + 1);
       }
       track("wand_tap", { add: addMode, engine: usedSam ? "sam" : "local" });
@@ -489,6 +537,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     drawing.current = true;
     (e.target as Element).setPointerCapture(e.pointerId);
     stampCircle(sel, mw, mh, px, py, brushRadiusMask(), addMode);
+    applyForbidden(); // prevent brush from painting into excluded zones
     lastPt.current = [px, py];
     setMaskVersion((v) => v + 1);
   };
@@ -503,6 +552,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     const py = ny * mh;
     const lp = lastPt.current ?? [px, py];
     stampLine(sel, mw, mh, lp[0], lp[1], px, py, brushRadiusMask(), addMode);
+    applyForbidden(); // keep excluded zones clear during brush strokes
     lastPt.current = [px, py];
     setMaskVersion((v) => v + 1);
   };
@@ -535,7 +585,6 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     c.height = image.height;
     const ctx = c.getContext("2d")!;
     ctx.drawImage(img, 0, 0, c.width, c.height);
-    // magenta-tint the selected region at full res
     const t = document.createElement("canvas");
     t.width = c.width;
     t.height = c.height;
@@ -548,8 +597,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     return b64(c.toDataURL("image/jpeg", 0.8));
   }, [image]);
 
-  /* buildMask — binary black/white PNG of the selection at full image resolution.
-     White pixels = areas to resurface (fed to Replicate inpainting as the mask). */
+  /* buildMask — binary black/white PNG of the selection at full image resolution. */
   const buildMask = useCallback(async (): Promise<string | undefined> => {
     const mc = maskCanvasRef.current;
     if (!mc || !image) return undefined;
@@ -605,7 +653,6 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       if (!url) setError("Rendering hit a snag — try again or pick another color.");
       else {
         track("color_rendered", { color: key });
-        // background prefetch of remaining standard colors, one at a time
         (async () => {
           for (const c of CORK_COLORS.filter((x) => PREFETCH_COLOR_IDS.includes(x.id))) {
             if (prefetchCancelled.current) return;
@@ -641,7 +688,6 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
         }),
       });
       const data = await res.json();
-      // hold for the progress animation minimum
       setTimeout(() => setEstimate({ low: data.low, high: data.high }), 2600);
     } catch {
       setTimeout(() => setError("Couldn't compute your estimate — please try again."), 2600);
@@ -651,8 +697,6 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   /* ---------- booking ---------- */
   const addressRef = useRef<HTMLInputElement | null>(null);
 
-  // Google Maps bootstrap loader (defines google.maps.importLibrary) for the NEW
-  // Places API. Legacy Autocomplete is retired; we use AutocompleteSuggestion below.
   useEffect(() => {
     if (step !== "book") return;
     const key = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY;
@@ -785,7 +829,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                   {step === "measure" && <p className="mt-1 text-sm text-neutral-600">The tinted area is our best guess at your deck surface — you'll fine-tune it next.</p>}
                   {step === "refine" && (
                     <p className="mt-1 text-sm text-neutral-600">
-                      <span className="font-medium">Magic wand:</span> tap the deck and the AI selects that whole surface. Switch to <span className="font-medium">Remove</span> and tap the pool or a planter to cut it out. <span className="font-medium">Brush</span> for fine touch-ups. Square footage updates live.
+                      <span className="font-medium">Magic wand:</span> tap the deck and the AI selects that whole surface. Switch to <span className="font-medium">Remove</span> and tap any area to cut it out. <span className="font-medium">Brush</span> for fine touch-ups. Pool water and landscaping are locked out automatically.
                     </p>
                   )}
                   <div className="relative mt-4 rounded-xl overflow-hidden select-none touch-none" style={{ aspectRatio: `${image.width}/${image.height}` }}>
@@ -819,7 +863,8 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                             <input type="range" min={2} max={18} value={brushPct} onChange={(e) => setBrushPct(Number(e.target.value))} />
                           </label>
                         ) : (
-                          <label className="flex items-center gap-2 text-sm text-neutral-600" title="Only used if the AI selector is unavailable — how close in color a neighboring pixel must be">Grab sensitivity
+                          <label className="flex items-center gap-2 text-sm text-neutral-600" title="Only used if the AI selector is unavailable">
+                            Grab sensitivity
                             <input type="range" min={12} max={80} value={tolerance} onChange={(e) => setTolerance(Number(e.target.value))} />
                           </label>
                         )}
