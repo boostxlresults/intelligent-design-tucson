@@ -7,6 +7,7 @@ import Footer from "@/components/layout/Footer";
 import PromoBanner from "@/components/layout/PromoBanner";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import LandingChromeGate from "@/components/layout/LandingChromeGate";
+import LegalStrip from "@/components/layout/LegalStrip";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
 import BroccoliChat from "@/components/integrations/BroccoliChat";
@@ -226,6 +227,8 @@ fbq('track','PageView');
         <LandingChromeGate paths={["/ac-tune-up-2888"]}>
           <Footer />
         </LandingChromeGate>
+        {/* Legal: visitor-identification & marketing-comms notice — outside all gates, appears on every page */}
+        <LegalStrip />
         {/* Distraction chrome: hidden on all paid landing routes (own sticky CTA, no popups) */}
         <LandingChromeGate paths={["/ac-tune-up-2888", "/lp/"]}>
           <MobileFloatingActions />

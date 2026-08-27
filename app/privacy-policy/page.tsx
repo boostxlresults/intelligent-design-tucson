@@ -35,14 +35,14 @@ export default function PrivacyPolicyPage() {
           </h1>
           
           <p className="text-muted-foreground mb-8">
-            Last Updated: November 11, 2025
+            Last Updated: August 26, 2026
           </p>
 
           <div className="prose prose-lg max-w-none space-y-6 text-foreground">
             <section>
               <h2 className="text-2xl font-bold mb-4">Our Commitment to Your Privacy</h2>
               <p className="mb-4">
-                At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
+                At Intelligent Design Air Conditioning, Plumbing, Solar, &amp; Electric, we are committed to protecting your privacy and ensuring the security of your personal information. As a family and veteran-owned company serving Tucson and surrounding areas, we value the trust our customers place in us.
               </p>
             </section>
 
@@ -125,16 +125,39 @@ export default function PrivacyPolicyPage() {
             </section>
 
             <section>
-              <h2 className="text-2xl font-bold mb-4">Children's Privacy</h2>
+              <h2 className="text-2xl font-bold mb-4">Children&apos;s Privacy</h2>
               <p className="mb-4">
                 Our services are not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe we have collected such information, please contact us immediately.
+              </p>
+            </section>
+
+            <section id="visitor-identification" className="scroll-mt-24">
+              <h2 className="text-2xl font-bold mb-4">Visitor Identification &amp; Marketing Communications</h2>
+              <p className="mb-4">
+                <strong>What we collect.</strong> In addition to standard website analytics, our site uses visitor-identification technology provided by service partners (currently AudienceLab). This technology may associate your visit with contact information &mdash; such as an email address or phone number &mdash; matched from third-party data sources based on your device or browser signals. We do not sell this information.
+              </p>
+              <p className="mb-4">
+                <strong>How we use it.</strong> We may use identified contact information to follow up on your visit by email or phone &mdash; for example, to share information about HVAC, plumbing, solar, or electrical services you viewed, current promotions, or to respond to an inquiry we believe you intended to make. These communications are consistent with the &ldquo;Consent to Communications&rdquo; section above.
+              </p>
+              <p className="mb-4">
+                <strong>Who we share it with.</strong> We share this information with service providers who process it on our behalf (visitor identification, email delivery, customer-relationship management, call tracking, and scheduling providers). We do not sell your personal information.
+              </p>
+              <p className="mb-4">
+                <strong>Your choices.</strong> You may opt out of marketing communications at any time by:
+              </p>
+              <ul className="list-disc pl-6 space-y-2 mb-4">
+                <li>Using the unsubscribe link in any email we send</li>
+                <li>Contacting us directly at <a href="mailto:csrteam@idesignac.com" className="underline hover:text-primary">csrteam@idesignac.com</a> or by phone</li>
+              </ul>
+              <p className="text-sm text-muted-foreground">
+                This section was added August 26, 2026.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold mb-4">Changes to This Policy</h2>
               <p className="mb-4">
-                We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
+                We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated &ldquo;Last Updated&rdquo; date. We encourage you to review this policy periodically.
               </p>
             </section>
 
