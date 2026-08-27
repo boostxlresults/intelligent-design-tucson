@@ -147,7 +147,7 @@ export default function PrivacyPolicyPage() {
               </p>
               <ul className="list-disc pl-6 space-y-2 mb-4">
                 <li>Using the unsubscribe link in any email we send</li>
-                <li>Contacting us directly at <a href="mailto:privacy@idesignac.com" className="underline hover:text-primary">privacy@idesignac.com</a> or by phone</li>
+                <li>Contacting us directly at <a href="mailto:csrteam@idesignac.com" className="underline hover:text-primary">csrteam@idesignac.com</a> or by phone</li>
               </ul>
               <p className="text-sm text-muted-foreground">
                 This section was added August 26, 2026.
