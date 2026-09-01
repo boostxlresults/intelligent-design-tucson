@@ -179,6 +179,8 @@ export default function Header() {
       { name: "Sewer Line Repair", href: "/services/sewer-line-repair", icon: Wrench },
       { name: "Sewer Camera Inspection", href: "/services/sewer-camera-inspection", icon: Radio },
       { name: "Trenchless Repair", href: "/services/trenchless-repair", icon: Settings },
+    ],
+    column3: [
       { name: "Water Softeners", href: "/services/water-softeners", icon: Droplets },
       { name: "Septic Tank Repair", href: "/services/septic-repair", icon: Wrench },
       { name: "Septic Tank Installation", href: "/services/septic-tank-installation", icon: Package },
@@ -424,7 +426,7 @@ export default function Header() {
                   <PopoverContent align="start" className={
                     service.acColumns ? "w-[820px] p-4" : 
                     service.heatingColumns ? "w-[540px] p-4" : 
-                    service.plumbingColumns ? "w-[680px] p-4" : 
+                    service.plumbingColumns ? "w-[1020px] p-4" : 
                     service.roofingColumns ? "w-[820px] p-4" : 
                     service.solarColumns ? "w-[540px] p-4" : 
                     service.electricalColumns ? "w-[540px] p-4" : 
@@ -522,7 +524,7 @@ export default function Header() {
                         </div>
                       </div>
                     ) : service.plumbingColumns ? (
-                      <div className="grid grid-cols-2 gap-6">
+                      <div className="grid grid-cols-3 gap-6">
                         {/* Column 1 - Plumbing Services */}
                         <div className="space-y-1">
                           <h3 className="px-3 py-2 text-base font-bold text-yellow-600 uppercase tracking-wide">
@@ -549,6 +551,26 @@ export default function Header() {
                             Drain & Sewer Services
                           </h3>
                           {service.plumbingColumns.column2.map((item) => {
+                            const Icon = item.icon;
+                            return (
+                              <Link
+                                key={item.name}
+                                href={item.href}
+                                className="flex items-center gap-3 px-3 py-2.5 text-base text-foreground hover:bg-accent rounded-md transition-colors group"
+                                data-testid={`link-${item.name.toLowerCase().replace(/\s+/g, '-')}`}
+                              >
+                                <Icon className="w-5 h-5 text-primary flex-shrink-0 group-hover:text-primary/80" />
+                                <span>{item.name}</span>
+                              </Link>
+                            );
+                          })}
+                        </div>
+                        {/* Column 3 - Septic & Water Services */}
+                        <div className="space-y-1">
+                          <h3 className="px-3 py-2 text-base font-bold text-yellow-600 uppercase tracking-wide">
+                            Septic & Water Services
+                          </h3>
+                          {service.plumbingColumns.column3.map((item) => {
                             const Icon = item.icon;
                             return (
                               <Link
@@ -1042,6 +1064,36 @@ export default function Header() {
                             {mobileExpandedSubsections['Drain & Sewer Services'] && (
                               <div className="pl-4 mt-1 space-y-1">
                                 {service.plumbingColumns.column2.map((item) => {
+                                  const Icon = item.icon;
+                                  return (
+                                    <Link
+                                      key={item.name}
+                                      href={item.href}
+                                      onClick={() => setMobileMenuOpen(false)}
+                                      className="flex items-center gap-3 px-4 py-2 text-sm hover-elevate rounded-md transition-colors"
+                                      data-testid={`link-mobile-${item.name.toLowerCase().replace(/\s+/g, '-')}`}
+                                    >
+                                      <Icon className="w-4 h-4 text-primary flex-shrink-0" />
+                                      <span>{item.name}</span>
+                                    </Link>
+                                  );
+                                })}
+                              </div>
+                            )}
+                          </div>
+                          {/* Septic & Water Services Subsection */}
+                          <div>
+                            <button
+                              onClick={() => toggleMobileSubsection('Septic & Water Services')}
+                              className="w-full text-left flex items-center justify-between text-base font-medium hover-elevate px-4 py-2 rounded-md transition-colors"
+                              data-testid="button-mobile-septic-water-services"
+                            >
+                              <span>Septic & Water Services</span>
+                              <ChevronDown className={`w-4 h-4 transition-transform ${mobileExpandedSubsections['Septic & Water Services'] ? 'rotate-180' : ''}`} />
+                            </button>
+                            {mobileExpandedSubsections['Septic & Water Services'] && (
+                              <div className="pl-4 mt-1 space-y-1">
+                                {service.plumbingColumns.column3.map((item) => {
                                   const Icon = item.icon;
                                   return (
                                     <Link
