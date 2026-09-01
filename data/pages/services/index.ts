@@ -2,7 +2,7 @@
  * Service Page Data Index
  * 
  * Auto-generated exports for all service pages.
- * Total exports: 270
+ * Total exports: 271
  * 
  * Usage in Next.js pages:
  * import { acrepairData } from '@/data/pages/services';
@@ -16,6 +16,7 @@ export { emergencyacrepairData } from './emergencyacrepair';
 export { acserviceData } from './acservice';
 export { actuneupData } from './actuneup';
 export { bidetinstallationData } from './bidetinstallation';
+export { castironpiperepairData } from './castironpiperepair';
 export { ceilingfaninstallationData } from './ceilingfaninstallation';
 export { circuitbreakersData } from './circuitbreakers';
 export { commercialroofcoatingData } from './commercialroofcoating';
