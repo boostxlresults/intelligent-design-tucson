@@ -179,6 +179,7 @@ export default function Header() {
       { name: "Sewer Line Repair", href: "/services/sewer-line-repair", icon: Wrench },
       { name: "Sewer Camera Inspection", href: "/services/sewer-camera-inspection", icon: Radio },
       { name: "Trenchless Repair", href: "/services/trenchless-repair", icon: Settings },
+      { name: "Cast Iron Pipe Repair", href: "/services/cast-iron-pipe-repair-tucson", icon: Wrench },
     ],
     column3: [
       { name: "Water Softeners", href: "/services/water-softeners", icon: Droplets },
