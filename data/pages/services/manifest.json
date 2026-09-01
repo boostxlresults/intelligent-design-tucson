@@ -24,6 +24,10 @@
       "dataFile": "bidetinstallation",
       "canonicalSlug": "bidet-installation"
     },
+    "cast-iron-pipe-repair-tucson": {
+      "dataFile": "castironpiperepair",
+      "canonicalSlug": "cast-iron-pipe-repair-tucson"
+    },
     "ceiling-fan-installation": {
       "dataFile": "ceilingfaninstallation",
       "canonicalSlug": "ceiling-fan-installation"
@@ -1083,6 +1087,7 @@
     "acservice": "ac-service-tucson",
     "actuneup": "ac-tuneup-tucson",
     "bidetinstallation": "bidet-installation",
+    "castironpiperepair": "cast-iron-pipe-repair-tucson",
     "ceilingfaninstallation": "ceiling-fan-installation",
     "circuitbreakers": "circuit-breakers",
     "commercialroofcoating": "commercial-roof-coating",
