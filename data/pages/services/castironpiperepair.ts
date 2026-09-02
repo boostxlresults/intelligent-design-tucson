@@ -60,8 +60,8 @@ export const castironpiperepairData: ServicePageData = {
   h1: 'Cast Iron Pipe Repair in Tucson, AZ — No Digging Required',
   h2Subheading: 'Trenchless CIPP Lining for Cast Iron Pipes',
   tagline: 'HammerHead D125-QL QuickLok System | No-Dig CIPP Technology | 50-Year Warranty | Same-Day Camera Inspection | Tucson’s Cast Iron Pipe Experts',
-  heroImage: '/generated_images/Trenchless_sewer_pipe_lining_c7c72cfe.webp',
-  heroImageAlt: 'Cast iron pipe repair using trenchless CIPP lining in Tucson AZ',
+  heroImage: '/generated_images/hammerhead_d125ql_cipp_tucson.png',
+  heroImageAlt: 'Intelligent Design technician operating HammerHead D125-QL QuickLok CIPP lining system at a Tucson AZ residential job site',
 
   serviceName: 'Cast Iron Pipe Repair',
   category: 'Plumbing',
