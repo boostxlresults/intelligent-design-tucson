@@ -7,6 +7,7 @@ import { getPageSchemas } from '@/lib/seo/schemaRegistry';
 import { SITE_URL } from '@/lib/constants';
 import ClientSchemas from '@/components/schemas/ClientSchemas';
 
+import { reviewsData } from '@/data/reviews';
 const productSchemas = getPageSchemas({
   pageType: 'product',
   canonicalUrl: `${SITE_URL}/new-air-conditioner`,
@@ -109,8 +110,8 @@ const serviceSchema = {
     "url": "https://www.idesignac.com",
     "aggregateRating": {
       "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "23000",
+      "ratingValue": String(reviewsData.aggregateRating.ratingValue),
+      "reviewCount": String(reviewsData.aggregateRating.reviewCount),
       "bestRating": "5"
     }
   },

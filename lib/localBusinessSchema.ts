@@ -1,3 +1,4 @@
+import { reviewsData } from '@/data/reviews';
 /**
  * HVACBusiness JSON-LD schema for Intelligent Design
  * Fires on every page via root layout — enables AI/LLM entity recognition,
@@ -76,8 +77,8 @@ export const LOCAL_BUSINESS_SCHEMA = {
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "4.9",
-    "reviewCount": "3797",
+    "ratingValue": String(reviewsData.aggregateRating.ratingValue),
+    "reviewCount": String(reviewsData.aggregateRating.reviewCount),
     "bestRating": "5",
     "worstRating": "1"
   },

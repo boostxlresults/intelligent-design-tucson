@@ -6,6 +6,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
+import { reviewsData, googleRating, reviewPlatformBreakdown, REVIEW_TOTAL } from '@/data/reviews';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Customer Reviews | 23,000+ Five-Star Reviews | Intelligent Design Tucson',
   description: '23,000+ verified 5-star customer reviews for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric. See why Tucson homeowners trust us for HVAC, plumbing, electrical, solar, and roofing services. BBB A+ rated with Google\'s highest ratings.',
@@ -150,8 +151,8 @@ const aggregateRatingSchema = {
   "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "23000",
+    "ratingValue": String(reviewsData.aggregateRating.ratingValue),
+    "reviewCount": String(reviewsData.aggregateRating.reviewCount),
     "bestRating": "5",
     "worstRating": "1"
   },
@@ -283,27 +284,27 @@ export default function CustomerReviewsPage() {
               <Card>
                 <CardContent className="p-6 text-center">
                   <Star className="w-12 h-12 mx-auto mb-3 fill-yellow-400 text-yellow-400" />
-                  <div className="text-4xl font-bold text-primary mb-2">5.0</div>
+                  <div className="text-4xl font-bold text-primary mb-2">{reviewsData.aggregateRating.ratingValue}</div>
                   <p className="font-semibold">Average Rating</p>
-                  <p className="text-sm text-muted-foreground">Out of 5 stars</p>
+                  <p className="text-sm text-muted-foreground">Out of 5 stars, all platforms</p>
                 </CardContent>
               </Card>
 
               <Card>
                 <CardContent className="p-6 text-center">
                   <ThumbsUp className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-4xl font-bold text-primary mb-2">23,000+</div>
-                  <p className="font-semibold">Five-Star Reviews</p>
-                  <p className="text-sm text-muted-foreground">All platforms</p>
+                  <div className="text-4xl font-bold text-primary mb-2">{REVIEW_TOTAL.toLocaleString()}</div>
+                  <p className="font-semibold">Total Reviews</p>
+                  <p className="text-sm text-muted-foreground">Across all platforms</p>
                 </CardContent>
               </Card>
 
               <Card>
                 <CardContent className="p-6 text-center">
                   <Star className="w-12 h-12 mx-auto mb-3 text-primary" />
-                  <div className="text-4xl font-bold text-primary mb-2">3,500+</div>
+                  <div className="text-4xl font-bold text-primary mb-2">{googleRating.reviewCount.toLocaleString()}</div>
                   <p className="font-semibold">Google Reviews</p>
-                  <p className="text-sm text-muted-foreground">Verified customers</p>
+                  <p className="text-sm text-muted-foreground">{googleRating.ratingValue} average on Google</p>
                 </CardContent>
               </Card>
 
@@ -412,7 +413,7 @@ export default function CustomerReviewsPage() {
           <div className="max-w-7xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4" data-testid="text-all-reviews-title">
-                23,000+ Five-Star Reviews Across All Platforms
+                {REVIEW_TOTAL.toLocaleString()} Reviews Across All Platforms
               </h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
                 Browse reviews from Google, Yelp, Facebook, BBB, and more. See what real customers are saying about our HVAC, plumbing, solar, electrical, and roofing services.
@@ -420,12 +421,59 @@ export default function CustomerReviewsPage() {
               <div className="flex flex-wrap items-center justify-center gap-4 mt-6 text-sm text-muted-foreground">
                 <span className="flex items-center gap-2">
                   <Star className="w-5 h-5 text-yellow-400 fill-yellow-400" />
-                  <strong className="text-foreground">3,500+ Google Reviews</strong>
+                  <strong className="text-foreground">{googleRating.reviewCount.toLocaleString()} Google Reviews</strong>
                 </span>
                 <span className="text-muted-foreground">•</span>
-                <span><strong className="text-foreground">23,000+ Total Five-Star Reviews</strong></span>
+                <span><strong className="text-foreground">{REVIEW_TOTAL.toLocaleString()} Total Reviews</strong></span>
                 <span className="text-muted-foreground">•</span>
-                <span><strong className="text-foreground">5.0 Average Rating</strong></span>
+                <span><strong className="text-foreground">{reviewsData.aggregateRating.ratingValue} Average Rating</strong></span>
+              </div>
+
+              {/*
+                CRAWLER-VISIBLE SOURCING TABLE.
+                The PulseM widget below renders inside a cross-origin iframe, so search
+                engines and AI crawlers cannot read the totals it displays. This
+                first-party table is what substantiates the aggregateRating in this
+                page's JSON-LD. Keep it in sync with data/reviews.ts.
+              */}
+              <div className="mt-10 max-w-2xl mx-auto text-left">
+                <h3 className="text-lg font-semibold mb-3 text-center">Where these reviews come from</h3>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-sm border-collapse">
+                    <caption className="sr-only">
+                      Intelligent Design review counts and average ratings by platform
+                    </caption>
+                    <thead>
+                      <tr className="border-b border-border">
+                        <th scope="col" className="text-left py-2 font-semibold">Platform</th>
+                        <th scope="col" className="text-right py-2 font-semibold">Reviews</th>
+                        <th scope="col" className="text-right py-2 font-semibold">Average</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {reviewPlatformBreakdown.map((p) => (
+                        <tr key={p.platform} className="border-b border-border/50">
+                          <th scope="row" className="text-left py-2 font-normal">{p.platform}</th>
+                          <td className="text-right py-2 tabular-nums">{p.count.toLocaleString()}</td>
+                          <td className="text-right py-2 tabular-nums">{p.rating.toFixed(2)}</td>
+                        </tr>
+                      ))}
+                      <tr className="font-semibold">
+                        <th scope="row" className="text-left py-2">Total</th>
+                        <td className="text-right py-2 tabular-nums">{REVIEW_TOTAL.toLocaleString()}</td>
+                        <td className="text-right py-2 tabular-nums">{reviewsData.aggregateRating.ratingValue.toFixed(2)}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <p className="mt-3 text-xs text-muted-foreground">
+                  Combined average is weighted by review count across the platforms listed above.
+                  Google figures verified {googleRating.lastVerified} against our Google Business
+                  Profile, which displays {googleRating.ratingValue} stars from{' '}
+                  {googleRating.reviewCount.toLocaleString()} reviews. Facebook recommendations are
+                  positive-only and are counted as five stars. PulseM reviews are collected directly
+                  from customers after each completed job.
+                </p>
               </div>
 
               <div className="mt-8 flex justify-center">

@@ -7,6 +7,7 @@ import { Button } from '@/components/ui/button';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import SchedulerEmbed from '@/components/integrations/SchedulerEmbed';
 
+import { reviewsData } from '@/data/reviews';
 export const metadata: Metadata = generateSEOMetadata({
   title: 'Recent Projects | Real Home Service Results in Tucson AZ',
   description: 'See our latest HVAC, plumbing, solar, electrical, and roofing projects in Tucson. Browse before and after photos, customer testimonials, and project details from Intelligent Design.',
@@ -148,8 +149,8 @@ const aggregateRatingSchema = {
   "url": "https://www.idesignac.com",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "5.0",
-    "reviewCount": "23000",
+    "ratingValue": String(reviewsData.aggregateRating.ratingValue),
+    "reviewCount": String(reviewsData.aggregateRating.reviewCount),
     "bestRating": "5",
     "worstRating": "1"
   }

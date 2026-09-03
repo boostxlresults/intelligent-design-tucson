@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import LocationServicePage from "@/components/pages/LocationServicePage";
 import ClientSchemas from "@/components/schemas/ClientSchemas";
+import { reviewsData } from '@/data/reviews';
 import {
   getLocationServiceEntity,
   getAllLocationServiceParams,
@@ -82,8 +83,8 @@ function buildSchemas(entity: ReturnType<typeof getLocationServiceEntity>) {
     },
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "5.0",
-      reviewCount: "23000",
+      ratingValue: String(reviewsData.aggregateRating.ratingValue),
+      reviewCount: String(reviewsData.aggregateRating.reviewCount),
     },
   });
 

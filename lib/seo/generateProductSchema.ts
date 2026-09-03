@@ -8,6 +8,7 @@
 
 import { BUSINESS_INFO } from './constants';
 
+import { reviewsData } from '@/data/reviews';
 export interface ProductSchemaOptions {
   name: string;
   description: string;
@@ -208,8 +209,8 @@ export function generateEquipmentProductSchemas(options: EquipmentProductsOption
         category: 'HVAC',
         canonicalUrl,
         aggregateRating: {
-          ratingValue: 4.97,
-          reviewCount: 3500
+          ratingValue: reviewsData.aggregateRating.ratingValue,
+          reviewCount: reviewsData.aggregateRating.reviewCount
         }
       }));
     });
@@ -290,8 +291,8 @@ export function generateEquipmentProductSchemas(options: EquipmentProductsOption
         category: 'Water Heater',
         canonicalUrl,
         aggregateRating: {
-          ratingValue: 4.97,
-          reviewCount: 3500
+          ratingValue: reviewsData.aggregateRating.ratingValue,
+          reviewCount: reviewsData.aggregateRating.reviewCount
         }
       }));
     });

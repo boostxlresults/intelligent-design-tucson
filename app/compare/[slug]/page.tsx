@@ -9,6 +9,7 @@ import { COMPARE_VERTICALS, getVertical, getVsPage, VS_PAGES, type Competitor, t
 import SecondOpinionForm from "@/components/compare/SecondOpinionForm";
 import CompareAnalytics from "@/components/compare/CompareAnalytics";
 
+import { reviewsData } from '@/data/reviews';
 const SITE = "https://www.idesignac.com";
 const PHONE_DISPLAY = "(520) 333-2665";
 const IDACH_NAME = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
@@ -118,7 +119,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
         geo: { "@type": "GeoCoordinates", latitude: 32.2647, longitude: -110.9531 },
         areaServed: ["Tucson", "Oro Valley", "Marana", "Vail", "Sahuarita", "Green Valley", "Catalina Foothills"].map((c) => ({ "@type": "City", name: c })),
-        aggregateRating: { "@type": "AggregateRating", ratingValue: "4.97", reviewCount: "23000", bestRating: "5", worstRating: "1" },
+        aggregateRating: { "@type": "AggregateRating", ratingValue: String(reviewsData.aggregateRating.ratingValue), reviewCount: String(reviewsData.aggregateRating.reviewCount), bestRating: "5", worstRating: "1" },
         sameAs: ["https://www.facebook.com/IntelligentDesignAC", "https://maps.app.goo.gl/xodux58cWvmGRLJd8", "https://www.bbb.org/us/az/tucson/profile/air-conditioning-contractor/intelligent-design-air-conditioning-plumbing-solar-electric-1286-20032256"],
       },
       { "@type": "FAQPage", "@id": `${url}#faq`, mainEntity: v.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) },
@@ -305,7 +306,7 @@ function VsPageView({ vs }: { vs: VsPage }) {
         telephone: "+1-520-333-2665",
         priceRange: "$$",
         address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
-        aggregateRating: { "@type": "AggregateRating", ratingValue: "4.97", reviewCount: "23000", bestRating: "5", worstRating: "1" },
+        aggregateRating: { "@type": "AggregateRating", ratingValue: String(reviewsData.aggregateRating.ratingValue), reviewCount: String(reviewsData.aggregateRating.reviewCount), bestRating: "5", worstRating: "1" },
       },
       { "@type": "FAQPage", "@id": `${url}#faq`, mainEntity: vs.faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) },
     ],

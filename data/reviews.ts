@@ -1,12 +1,35 @@
 /**
- * Customer Reviews Data
- * Converted from JSON to TS module for Turbopack compatibility
+ * Customer Reviews Data — SINGLE SOURCE OF TRUTH for all aggregateRating markup.
  *
- * IMPORTANT: These values MUST match actual Google Business Profile data.
- * Source: live Google Business Profile (Place ID ChIJvQ3jnG501oYRqNUFk4-5nno),
- * pulled via SerpApi Google Maps Reviews API. Google rating 4.8, 3,735 reviews
- * (June 2026). Update monthly or when review count changes significantly.
- * DO NOT use cross-platform totals — Google schema should reflect Google data only.
+ * Every aggregateRating on this site MUST import from this file. Do not hardcode
+ * ratingValue/reviewCount anywhere else — six divergent values (4.8/3735, 4.9/3797,
+ * 5.0/23000, 4.97/23000, 4.9/23000, 4.97/3500) shipped simultaneously before the
+ * 2026-09-03 consolidation and contradicted each other in the same HTML documents.
+ *
+ * COMPOSITE (aggregateRating, used in schema sitewide) = all review platforms the
+ * brand publicly reports, matching the "23,000+ reviews" claim shown across the site
+ * and the PulseM widget on /customer-reviews. Because that widget renders inside a
+ * cross-origin iframe (invisible to crawlers), /customer-reviews also renders a
+ * first-party, crawler-visible sourcing breakdown — that block is what substantiates
+ * this number. Keep them in sync.
+ *
+ * GOOGLE-ONLY (googleRating) is the verified Google Business Profile figure, kept for
+ * reference, for the featuredReviews below, and for any Google-specific surface.
+ *
+ * Composite math (2026-09-03):
+ *   PulseM   4.98 x 19,154  = 95,386.9   (source: PulseM/EverPro dashboard)
+ *   Google   4.85 x  3,808  = 18,468.8   (source: SerpApi, Place ID ChIJvQ3jnG501oYRqNUFk4-5nno)
+ *   Facebook 5.00 x    455  =  2,275.0   (recommendations, positive-only)
+ *   ------------------------------------
+ *   116,130.7 / 23,417 = 4.96
+ *
+ * Google displays 4.9 (its own rounding of a true 4.852 mean from the star histogram:
+ * 3,567x5 / 105x4 / 29x3 / 26x2 / 81x1 = 3,808 total).
+ *
+ * REFRESH: re-pull Google via SerpApi and PulseM from the dashboard, recompute the
+ * weighted mean, and update BOTH the numbers below and the visible breakdown on
+ * /customer-reviews. Never round up. Never invent a value for a platform you cannot
+ * source — that is what produced the 5.0/23,000 claim this replaces.
  *
  * featuredReviews below are REAL, verbatim Google reviews (genuine reviewer
  * display names + dates). Never replace these with invented/sample text —
@@ -14,10 +37,32 @@
  * re-pull from the GBP and paste verbatim entries only.
  */
 
+/** Verified Google Business Profile figures. Displayed rating is Google's own rounding. */
+export const googleRating = {
+  ratingValue: 4.9,
+  trueMean: 4.85,
+  reviewCount: 3808,
+  bestRating: 5,
+  worstRating: 1,
+  lastVerified: '2026-09-03',
+  source: 'SerpApi google_maps place_id=ChIJvQ3jnG501oYRqNUFk4-5nno'
+} as const;
+
+/** Per-platform breakdown behind the composite. Rendered visibly on /customer-reviews. */
+export const reviewPlatformBreakdown = [
+  { platform: 'PulseM (direct post-service surveys)', rating: 4.98, count: 19154 },
+  { platform: 'Google', rating: 4.85, count: 3808 },
+  { platform: 'Facebook (recommendations)', rating: 5.0, count: 455 }
+] as const;
+
+export const REVIEW_TOTAL = 23417;
+export const REVIEW_TOTAL_DISPLAY = '23,000+';
+
 export const reviewsData = {
+  /** COMPOSITE across all platforms — the one rating used in schema sitewide. */
   aggregateRating: {
-    ratingValue: 4.8,
-    reviewCount: 3735,
+    ratingValue: 4.96,
+    reviewCount: REVIEW_TOTAL,
     bestRating: 5,
     worstRating: 1
   },

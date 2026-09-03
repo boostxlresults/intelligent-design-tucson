@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 
+import { reviewsData } from '@/data/reviews';
 /**
  * SEO Metadata Generation Helpers
  * 
@@ -157,8 +158,8 @@ export function generateLocalBusinessSchema() {
     priceRange: "$$",
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "5.0",
-      reviewCount: "23000",
+      ratingValue: String(reviewsData.aggregateRating.ratingValue),
+      reviewCount: String(reviewsData.aggregateRating.reviewCount),
       bestRating: "5",
       worstRating: "1",
     },
@@ -191,8 +192,8 @@ export function generateServiceSchema(serviceName: string, description: string, 
     url: `${SITE_URL}/${slug}`,
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "5.0",
-      reviewCount: "23000",
+      ratingValue: String(reviewsData.aggregateRating.ratingValue),
+      reviewCount: String(reviewsData.aggregateRating.reviewCount),
     },
   };
 }
@@ -207,8 +208,8 @@ export function generateReviewSchema() {
     name: SITE_NAME,
     aggregateRating: {
       "@type": "AggregateRating",
-      ratingValue: "5.0",
-      reviewCount: "23000",
+      ratingValue: String(reviewsData.aggregateRating.ratingValue),
+      reviewCount: String(reviewsData.aggregateRating.reviewCount),
       bestRating: "5",
       worstRating: "1",
     },

@@ -4,6 +4,7 @@ import { Phone, ShieldCheck, Star, Wrench, DollarSign, Clock, CheckCircle2, Badg
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
+import { reviewsData } from '@/data/reviews';
 const SITE = "https://www.idesignac.com";
 const PHONE_DISPLAY = "(520) 201-8588";
 const PHONE_TEL = "5202018588";
@@ -59,7 +60,7 @@ const schema = {
       priceRange: "$$",
       address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
       areaServed: ["Tucson", "Oro Valley", "Marana", "Vail", "Sahuarita", "Green Valley", "Catalina Foothills"].map((c) => ({ "@type": "City", name: c })),
-      aggregateRating: { "@type": "AggregateRating", ratingValue: "4.97", reviewCount: "23000", bestRating: "5", worstRating: "1" },
+      aggregateRating: { "@type": "AggregateRating", ratingValue: String(reviewsData.aggregateRating.ratingValue), reviewCount: String(reviewsData.aggregateRating.reviewCount), bestRating: "5", worstRating: "1" },
     },
     {
       "@type": "Service",

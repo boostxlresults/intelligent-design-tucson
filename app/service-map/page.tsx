@@ -3,6 +3,7 @@ import { getServiceMapDb } from '@/lib/serviceMapDb';
 import { generateMetadata as generateSEOMetadata } from '@/lib/seo/generateMetadata';
 import ServiceMapClient from './ServiceMapClient';
 
+import { reviewsData } from '@/data/reviews';
 export const revalidate = 3600; // Revalidate every hour
 
 export const metadata: Metadata = generateSEOMetadata({
@@ -360,8 +361,8 @@ export default async function ServiceMapPage() {
         },
         aggregateRating: {
           '@type': 'AggregateRating',
-          ratingValue: '5.0',
-          reviewCount: '23000',
+          ratingValue: String(reviewsData.aggregateRating.ratingValue),
+          reviewCount: String(reviewsData.aggregateRating.reviewCount),
           bestRating: '5',
           worstRating: '1',
         },

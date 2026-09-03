@@ -5,6 +5,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import FreeRoofInspectionForm from "@/components/roof/FreeRoofInspectionForm";
 import CallCta from "@/components/roof/CallCta";
 
+import { reviewsData } from '@/data/reviews';
 const SITE = "https://www.idesignac.com";
 const PHONE = "(520) 333-2665";
 const IDACH = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
@@ -51,7 +52,7 @@ const schema = {
       priceRange: "$$",
       address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
       areaServed: ["Tucson", "Oro Valley", "Marana", "Vail", "Sahuarita", "Green Valley", "Catalina Foothills"].map((c) => ({ "@type": "City", name: c })),
-      aggregateRating: { "@type": "AggregateRating", ratingValue: "4.97", reviewCount: "23000", bestRating: "5", worstRating: "1" },
+      aggregateRating: { "@type": "AggregateRating", ratingValue: String(reviewsData.aggregateRating.ratingValue), reviewCount: String(reviewsData.aggregateRating.reviewCount), bestRating: "5", worstRating: "1" },
     },
     {
       "@type": "Service",
