@@ -80,7 +80,7 @@ export default function AcTuneUp2888Page() {
             </div>
             <a href="tel:5203332665"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
-              <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;333-2665
+              <Phone className="h-5 w-5" /> Click or Call (520) 333-2665
             </a>
           </div>
         </div>
@@ -197,7 +197,7 @@ export default function AcTuneUp2888Page() {
             </div>
             <a href="tel:5203332665"
               className="mx-auto flex w-full max-w-sm min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-6 py-4 text-[19px] font-extrabold text-[#1A1A1A] shadow-md hover:brightness-105">
-              <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;333-2665
+              <Phone className="h-5 w-5" /> Click or Call (520) 333-2665
             </a>
           </div>
         </div>

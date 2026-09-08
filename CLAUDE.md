@@ -26,6 +26,12 @@ Rules:
   DNI swap-source list in ServiceTitan (tenant 227669022). If it has, add it to
   `ALLOWED` in `scripts/check-phone-numbers.mjs` with a note explaining why.
 - `lib/campaignPhones.ts` is the single source: import `DNI_SOURCE_PHONE`.
+- **Never use `&nbsp;` (or a literal non-breaking space) inside a phone number.**
+  DNI matches the literal string `(520) 333-2665` with a normal space. Given
+  `(520)&nbsp;333-2665` it finds nothing, so the number never swaps and the page
+  ends up showing a swapped number in one place and the raw company line in
+  another. This shipped live on `/ac-tune-up-2888` and is easy to miss, because
+  a non-breaking space also defeats ordinary find-and-replace.
 
 Enforced by `scripts/check-phone-numbers.mjs`, which runs on `prebuild`. A
 violation fails the build, which is intentional — a failed build does not

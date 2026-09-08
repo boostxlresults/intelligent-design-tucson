@@ -44,6 +44,13 @@ const TEL = /tel:(\+?\d[\d\-().\s]{6,})/g;
 const DISPLAY = /\(520\)(?:\s|&nbsp;|&#160;)?(\d{3}-\d{4})/g;
 const SOURCE_DISPLAY = "333-2665";
 
+/** A NON-BREAKING SPACE inside a displayed phone number stops DNI dead.
+ *  DNI matches the literal string "(520) 333-2665" with a normal space; given
+ *  "(520)\u00a0333-2665" it finds nothing and leaves the number unswapped, so the
+ *  page shows a correctly swapped number in one place and the raw company line
+ *  in another. Found live on /ac-tune-up-2888. Always use a normal space. */
+const NBSP_PHONE = /\(520\)(?:&nbsp;|&#160;|\u00a0)\d{3}-\d{4}/g;
+
 /** Files allowed to mention other numbers: campaignPhones documents the
  *  ServiceTitan tracking numbers on purpose; the inventory form uses a
  *  555 placeholder in a form field. */
@@ -79,6 +86,13 @@ for (const root of ROOTS) {
         if (!ALLOWED.has(digits)) {
           violations.push({ file, line: i + 1, found: digits, text: t.slice(0, 110) });
         }
+      }
+      for (const m of line.matchAll(NBSP_PHONE)) {
+        violations.push({
+          file, line: i + 1,
+          found: "non-breaking space in a phone number — DNI cannot swap it",
+          text: t.slice(0, 110),
+        });
       }
       if (!EXEMPT_FILES.some((e) => file.replace(/\\/g, "/").endsWith(e))) {
         for (const m of line.matchAll(DISPLAY)) {

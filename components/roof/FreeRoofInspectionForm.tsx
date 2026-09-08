@@ -69,7 +69,7 @@ export default function FreeRoofInspectionForm() {
         <div className="text-3xl">&#9989;</div>
         <p className="mt-2 text-lg font-bold text-green-800">You&apos;re on the list for a same-day slot.</p>
         <p className="mt-1 text-sm text-green-700">Our team will call you shortly. Need it now?{" "}
-          <a className="font-bold underline" href="tel:5203332665">Call (520)&nbsp;333-2665</a>.</p>
+          <a className="font-bold underline" href="tel:5203332665">Call (520) 333-2665</a>.</p>
       </div>
     );
   }
@@ -83,7 +83,7 @@ export default function FreeRoofInspectionForm() {
         <option value="" disabled>What are you seeing?</option>
         {SEEING.map((s) => <option key={s} value={s}>{s}</option>)}
       </select>
-      {status === "error" && <p className="text-sm text-red-600">Something went wrong &mdash; please call (520)&nbsp;333-2665.</p>}
+      {status === "error" && <p className="text-sm text-red-600">Something went wrong &mdash; please call (520) 333-2665.</p>}
       <button type="submit" disabled={status === "sending"} className="mt-1 rounded-lg bg-[#e8a020] px-6 py-4 text-lg font-extrabold text-[#0d2d7a] shadow-md transition hover:bg-[#f5b731] disabled:opacity-50">
         {status === "sending" ? "Sending…" : "Get My Free Inspection"}
       </button>

@@ -4,7 +4,7 @@ import { Phone } from "lucide-react";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
 const PHONE = "5203332665";
-const PHONE_DISPLAY = "(520) 333-2665";
+const PHONE_DISPLAY = "(520) 333-2665";
 
 export default function DrainStickyBar() {
   const [show, setShow] = useState(false);

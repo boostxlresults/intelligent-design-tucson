@@ -21,9 +21,9 @@ export default function AcTuneUpConfirmedPage() {
             Thanks! We&rsquo;ve got your request for the $28.88 86-point tune-up. A team member will call you shortly
             to confirm your appointment time and address. Watch for a text and email confirmation in the next minute.
           </p>
-          <a href="tel:5202018588"
+          <a href="tel:5203332665"
             className="mx-auto mt-6 inline-flex min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-[18px] font-extrabold text-white shadow-md hover:brightness-110">
-            <Phone className="h-5 w-5" /> Click or Call (520) 201-8588
+            <Phone className="h-5 w-5" /> Click or Call (520) 333-2665
           </a>
           <p className="mt-6 text-[15px]">
             <Link href="/" className="text-muted-foreground underline">Return to idesignac.com</Link>
