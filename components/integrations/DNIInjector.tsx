@@ -1,6 +1,8 @@
 "use client";
 
 import Script from "next/script";
+import { usePathname } from "next/navigation";
+import { isPaidLandingPage } from "@/lib/campaignPhones";
 
 /**
  * ServiceTitan Dynamic Number Insertion (DNI)
@@ -27,14 +29,26 @@ import Script from "next/script";
  *
  * Do NOT reintroduce a pathname check here.
  *
- * strategy=lazyOnload: DNI does not need to run before LCP, only before a user
- * actually taps a phone number, which happens well after load.
+ * LOAD STRATEGY (2026-09-08): organic pages keep strategy="lazyOnload" — DNI does
+ * not need to run before LCP, only before a user taps a number, which on those
+ * pages happens well after load. Paid landing pages use "afterInteractive"
+ * instead, because their entire design is a tap-to-call above the fold and a
+ * visitor arriving hot from an ad may tap within a second or two. Until the swap
+ * runs, the markup shows the DNI source number (the main company line), and a
+ * call placed on it lands in a generic ServiceTitan bucket with no campaign — so
+ * the swap needs to win that race.
+ *
+ * This is a STRATEGY switch, not an exclusion. DNI loads on every page either
+ * way. Do not turn it back into an early return.
  */
 export default function DNIInjector() {
+  const pathname = usePathname();
+  // NOT an exclusion — this only decides how EARLY the script loads.
+  const strategy = isPaidLandingPage(pathname) ? "afterInteractive" : "lazyOnload";
   return (
     <Script
       id="servicetitan-dni"
-      strategy="lazyOnload"
+      strategy={strategy}
       dangerouslySetInnerHTML={{
         __html: `
           (function() {
