@@ -57,7 +57,7 @@ export const smartacData: ServicePageData = {
   description: 'SmartAC 24/7 air conditioning monitoring in Tucson. Intelligent Design is the exclusive Tucson partner for SmartAC.com. Prevent AC breakdowns with real-time alerts. Call (520) 333-2665.',
   slug: 'smartac-tucson',
   
-  h1: 'SmartAC Monitoring Tucson AZ',
+  h1: 'Smart AC in Tucson — Want Smarter Cooling? Installed Today.',
   h2Subheading: 'Exclusive Tucson SmartAC Partner',
   tagline: '24/7 AC Monitoring | Prevent Breakdowns Before They Happen | Real-Time Alerts | Exclusive Tucson Partner | 46+ Years Experience',
   heroImage: '/generated_images/AC_system_monitoring_technician_ab77e9ea.webp',

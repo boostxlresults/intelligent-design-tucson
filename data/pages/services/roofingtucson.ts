@@ -10,7 +10,7 @@ export const roofingtucsonData: ServicePageData = {
   slug: "roofing-tucson",
   
   // Hero Section
-  h1: "Roofing Services in Tucson, AZ",
+  h1: 'Roofing Services in Tucson — Roof Issue? Diagnosed & Guaranteed.',
   h2Subheading: "Durable Roof Repair, Replacement & Inspection Tailored for Southern Arizona",
   tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Comprehensive Roofing | Transparent Pricing | Warranty Backed",
   heroImage: "/generated_images/residential_roof_installation_crew_9ad609fb.webp",

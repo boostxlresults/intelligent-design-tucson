@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { Phone } from "lucide-react";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
-const PHONE = "5203486684";
+const PHONE = "5203332665";
 const PHONE_DISPLAY = "(520) 348-6684";
 
 export default function DrainStickyBar() {

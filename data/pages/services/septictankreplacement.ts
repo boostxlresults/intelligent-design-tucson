@@ -7,7 +7,7 @@ export const septictankreplacementData: ServicePageData = {
   description: 'Septic tank replacement cost & septic system replacement cost in Tucson. Professional tank removal and new installation with Pima County permits. Free estimates. Call (520) 333-2665.',
   slug: 'septic-tank-replacement',
   
-  h1: 'Septic Tank Replacement Cost in Tucson, AZ',
+  h1: 'Septic Tank Replacement in Tucson — Failing Tank? Replaced Right.',
   h2Subheading: 'Septic System Replacement Cost - Honest Pricing',
   tagline: 'Septic Tank Replacement Cost | Septic System Replacement Cost | Tank Removal | New Installation | Pima County Permits | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',

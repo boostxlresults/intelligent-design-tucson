@@ -9,7 +9,7 @@ export const acinstallationData: ServicePageData = {
   slug: 'ac-installation-tucson',
   
   // Hero Section
-  h1: 'Highest-Rated AC Installation in Tucson AZ',
+  h1: 'AC Installation in Tucson — Need a New System? Installed Today.',
   h2Subheading: 'Expert AC Installation in Tucson',
   tagline: 'Professional AC Installation | Energy-Efficient Systems | Expert Sizing | Free Estimates',
   heroImage: '/generated_images/AC_installation_Tucson_home_423faef7.webp',

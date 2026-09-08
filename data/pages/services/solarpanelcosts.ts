@@ -10,7 +10,7 @@ export const solarpanelcostsData: ServicePageData = {
   slug: 'solar-panel-costs',
   
   // Hero Section
-  h1: 'Solar Panel Costs Tucson AZ',
+  h1: 'Solar Panel Costs in Tucson — Real Numbers, No Guessing.',
   h2Subheading: 'Expert Solar Panel Costs in Tucson',
   tagline: 'Transparent Pricing | Detailed Cost Breakdown | ROI Analysis | Flexible Financing | 46+ years Trusted Service',
   heroImage: '/generated_images/Solar_panel_costs_investment_bb17047d.webp',

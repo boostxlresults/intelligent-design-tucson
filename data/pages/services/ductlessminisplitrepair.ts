@@ -12,7 +12,7 @@ export const ductlessminisplitrepairData: ServicePageData = {
   slug: 'ductless-repair-tucson',
   
   // Hero Section
-  h1: 'Expert Ductless Mini Split Repair in Tucson AZ',
+  h1: 'Ductless Mini Split Repair in Tucson — Not Cooling? Fixed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Fast, reliable ductless mini split repairs from Tucson\'s most trusted HVAC experts. 24/7 emergency service, all brands serviced, same-day repairs available.',
   heroImage: '/generated_images/Ductless_mini_split_repair_Tucson_153fb3a3.webp',

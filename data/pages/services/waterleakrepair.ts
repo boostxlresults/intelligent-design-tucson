@@ -10,7 +10,7 @@ export const waterleakrepairData: ServicePageData = {
   slug: 'water-leak-repair',
   
   // Hero Section
-  h1: 'Emergency Water Leak Repair in Tucson, AZ',
+  h1: 'Water Leak Repair in Tucson — Leaking Now? Emergency Repair Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency Service | Advanced Leak Detection | Slab Leaks | Pinhole Leaks | Water Damage Prevention',
   heroImage: '/generated_images/Water_leak_repair_service_7bc4fcdb.webp',

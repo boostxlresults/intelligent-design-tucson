@@ -10,7 +10,7 @@ export const homeenergyupgradesData: ServicePageData = {
   slug: 'home-energy-upgrades-tucson',
   
   // Hero Section
-  h1: 'Home Energy Upgrades Tucson AZ',
+  h1: 'Home Energy Upgrades in Tucson — High Bills? Start Saving Today.',
   h2Subheading: 'Expert Home Energy Upgrades in Tucson',
   tagline: 'Energy Audits | LED Lighting Upgrades | Smart Thermostats | Solar Integration | Insulation Improvements | Lower Energy Bills',
   heroImage: '/generated_images/Home_energy_efficiency_upgrades_ab55f600.webp',

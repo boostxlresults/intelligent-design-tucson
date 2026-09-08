@@ -10,7 +10,7 @@ export const lightingupgradesData: ServicePageData = {
   slug: 'lighting-upgrades',
   
   // Hero Section
-  h1: 'Professional Lighting Upgrades in Tucson, AZ',
+  h1: 'Lighting Upgrades in Tucson — Outdated Lights? LED That Pays Off.',
   h2Subheading: 'Transform Your Home with Energy-Efficient LED & Smart Lighting Solutions',
   tagline: 'LED Conversion Saves $300-500/Year | Recessed Lighting | Smart Home Integration | Dimmer Controls | Outdoor Lighting | Licensed Master Electricians Since 1979',
   heroImage: '/generated_images/Interior_lighting_upgrades_modern_7fb322f3.webp',

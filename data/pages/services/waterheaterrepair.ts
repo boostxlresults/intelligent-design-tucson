@@ -10,7 +10,7 @@ export const waterheaterrepairData: ServicePageData = {
   slug: 'water-heater-repair',
   
   // Hero Section
-  h1: 'Water Heater Repair in Tucson, AZ',
+  h1: 'Water Heater Repair in Tucson — No Hot Water? Fixed Today.',
   h2Subheading: 'Expert Water Heater Repair in Tucson',
   tagline: 'Same-Day Emergency Repairs | Tank, Tankless & Hybrid | No Hot Water? Leaking? Strange Noises? | Expert Diagnostics | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_repair_service_399fceb7.webp',

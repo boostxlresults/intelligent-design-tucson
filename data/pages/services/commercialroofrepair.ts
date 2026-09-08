@@ -10,7 +10,7 @@ export const commercialroofrepairData: ServicePageData = {
   slug: 'commercial-roof-repair',
   
   // Hero Section
-  h1: 'Commercial Roof Repair Tucson AZ',
+  h1: 'Commercial Roof Repair in Tucson — Leaking? Stopped Today.',
   h2Subheading: 'Expert Commercial Roof Repair in Tucson',
   tagline: 'Flat Roof Systems | TPO & EPDM Repair | Minimal Business Disruption | Emergency Service | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_repair_technician_3329f717.webp',

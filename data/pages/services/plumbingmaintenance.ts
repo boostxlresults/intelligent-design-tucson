@@ -12,7 +12,7 @@ export const plumbingmaintenanceData: ServicePageData = {
   slug: 'plumbing-maintenance',
   
   // Hero Section
-  h1: 'Plumbing Maintenance & Inspection Services in Tucson',
+  h1: 'Plumbing Maintenance in Tucson — Prevent a Disaster. Book Today.',
   h2Subheading: 'Expert Plumbing Maintenance in Tucson',
   tagline: 'Preventative Plumbing Care | Annual Maintenance Plans | System Health Inspections | Save 70% on Emergency Repairs | 46+ years Experience',
   heroImage: '/generated_images/Plumbing_maintenance_inspection_service_1be685bc.webp',

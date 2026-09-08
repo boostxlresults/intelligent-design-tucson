@@ -10,7 +10,7 @@ export const outletsswitchesData: ServicePageData = {
   slug: 'outlets-switches',
   
   // Hero Section
-  h1: 'Outlet & Switch Installation Tucson AZ',
+  h1: 'Outlet & Switch Repair in Tucson — Dead or Sparking? Fixed Today.',
   h2Subheading: 'Professional Outlet & Switch Installation Services',
   tagline: 'GFCI & AFCI Safety Outlets | USB Charging Outlets | Smart Switch Installation | Dimmer Switches | Code-Compliant Upgrades | Licensed Electricians',
   heroImage: '/generated_images/Outlet_switch_installation_upgrade_4037e370.webp',

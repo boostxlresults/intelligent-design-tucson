@@ -10,7 +10,7 @@ export const ductinstallationData: ServicePageData = {
   slug: 'duct-installation-tucson',
   
   // Hero Section
-  h1: 'Expert Duct Installation Services in Tucson AZ',
+  h1: 'Duct Installation in Tucson — Need New Ductwork? Installed Right.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'New Construction | Whole-Home Replacement | Proper Sizing & Design',
   heroImage: '/generated_images/Duct_installation_service_Tucson_home_0e426c42.webp',

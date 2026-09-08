@@ -6,14 +6,14 @@ import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 
 import { reviewsData } from '@/data/reviews';
 const SITE = "https://www.idesignac.com";
-const PHONE_DISPLAY = "(520) 201-8588";
-const PHONE_TEL = "5202018588";
+const PHONE_DISPLAY = "(520) 333-2665";
+const PHONE_TEL = "5203332665";
 const IDACH = "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric";
 
 export const metadata: Metadata = {
   title: "Free AC Repair Quote | $0 Dispatch & Diagnostic | Tucson | Intelligent Design",
   description:
-    "$0 Dispatch Fee, $0 Diagnostic, 10% off repairs, and a 1-Year No Breakdown Guarantee. Same-day AC repair in Tucson. Licensed & insured, 23,000+ five-star reviews. Call (520) 201-8588.",
+    "$0 Dispatch Fee, $0 Diagnostic, 10% off repairs, and a 1-Year No Breakdown Guarantee. Same-day AC repair in Tucson. Licensed & insured, 23,000+ five-star reviews. Call (520) 333-2665.",
   alternates: { canonical: `${SITE}/free-ac-repair-quote` },
   robots: { index: false, follow: true },
   openGraph: {

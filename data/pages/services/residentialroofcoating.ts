@@ -10,7 +10,7 @@ export const residentialroofcoatingData: ServicePageData = {
   slug: 'residential-roof-coating',
   
   // Hero Section
-  h1: 'Residential Roof Coating Tucson AZ',
+  h1: 'Residential Roof Coating in Tucson — Adds Years, No Tear-Off.',
   h2Subheading: 'Expert Residential Roof Coating in Tucson',
   tagline: 'Cool Roof Technology | Energy Savings up to 25% | UV Protection | Extend Roof Life 10-20 Years | Free Estimates',
   heroImage: '/generated_images/residential_roof_coating_application_05371d89.webp',

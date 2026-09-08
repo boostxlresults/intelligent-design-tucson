@@ -10,7 +10,7 @@ export const heaterinstallationData: ServicePageData = {
   slug: 'heater-installation-tucson',
   
   // Hero Section
-  h1: 'Expert Heater Installation in Tucson AZ',
+  h1: 'Heater Installation in Tucson — Need a New Heater? Installed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'New Furnace Installation | System Replacement | Energy-Efficient Upgrades',
   heroImage: '/generated_images/Heater_installation_service_image_64d22e49.webp',

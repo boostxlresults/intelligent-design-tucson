@@ -9,7 +9,7 @@ export const acrepairData: ServicePageData = {
   slug: 'ac-repair-tucson',
   
   // Hero Section
-  h1: 'Highest-Rated AC Repair in Tucson AZ',
+  h1: 'AC Repair in Tucson — System Down? Cool Again Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency AC Repair | Fast Response Times | Expert Technicians',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',

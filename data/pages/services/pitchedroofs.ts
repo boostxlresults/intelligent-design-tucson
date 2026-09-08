@@ -10,7 +10,7 @@ export const pitchedroofsData: ServicePageData = {
   slug: 'pitched-roofs',
   
   // Hero Section
-  h1: 'Pitched Roof Systems Tucson AZ',
+  h1: 'Pitched Roofs in Tucson — Problem Up There? Fixed First Time.',
   h2Subheading: 'Expert Pitched Roofs in Tucson',
   tagline: 'Gabled & Hip Roofs | Sloped Roof Systems | Superior Ventilation | Residential & Commercial | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/residential_pitched_roof_structure_1a18974e.webp',

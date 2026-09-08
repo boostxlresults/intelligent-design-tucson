@@ -10,7 +10,7 @@ export const generacinstallationData: ServicePageData = {
   slug: 'generac-installation',
   
   // Hero Section
-  h1: 'GENERAC Generator Installation Tucson AZ',
+  h1: 'Generac Installation in Tucson — Tired of Outages? Never Go Dark.',
   h2Subheading: 'Expert Generac Installation in Tucson',
   tagline: 'Whole House Backup Power | Automatic Transfer Switches | Expert Sizing | Professional Installation | Licensed Electricians',
   heroImage: '/generated_images/GENERAC_generator_installation_fab44966.webp',

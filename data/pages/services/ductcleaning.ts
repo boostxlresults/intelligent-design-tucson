@@ -10,7 +10,7 @@ export const ductcleaningData: ServicePageData = {
   slug: 'duct-cleaning-tucson',
   
   // Hero Section
-  h1: 'Highest-Rated Air Duct Cleaning in Tucson AZ',
+  h1: 'Duct Cleaning in Tucson — Breathing Dusty Air? Cleaned Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Professional Duct Cleaning | Improved Air Quality | Same-Day Service Available',
   heroImage: '/generated_images/Duct_cleaning_service_Tucson_home_755876f7.webp',

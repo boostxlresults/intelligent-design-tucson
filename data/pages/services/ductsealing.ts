@@ -10,7 +10,7 @@ export const ductsealingData: ServicePageData = {
   slug: 'duct-sealing-tucson',
   
   // Hero Section
-  h1: 'Elite Aeroseal Duct Sealing in Tucson AZ',
+  h1: 'Duct Sealing in Tucson — High Bills from Leaks? Sealed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Certified Elite Aeroseal Dealer | Reduce Energy Bills Up to 30% | Advanced Technology',
   heroImage: '/generated_images/Professional_duct_sealing_service_670e8275.webp',

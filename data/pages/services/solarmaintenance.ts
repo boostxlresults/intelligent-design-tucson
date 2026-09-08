@@ -10,7 +10,7 @@ export const solarmaintenanceData: ServicePageData = {
   slug: 'solar-maintenance',
   
   // Hero Section
-  h1: 'Solar Monitoring & Maintenance Tucson AZ',
+  h1: 'Solar Panel Maintenance in Tucson — Underperforming? Restored Today.',
   h2Subheading: 'Expert Solar Monitoring & Maintenance in Tucson',
   tagline: 'Panel Cleaning | System Monitoring | Performance Optimization | Preventive Maintenance | 46+ years Experience',
   heroImage: '/generated_images/Solar_maintenance_and_monitoring_e428ab0f.webp',

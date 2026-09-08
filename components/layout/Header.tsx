@@ -81,7 +81,7 @@ export default function Header() {
   // Landing pages with a dedicated static tracking number override the header phone.
   const isAcTuneLp = !!pathname && pathname.startsWith("/ac-tune-up-2888");
   const campPhone = getCampaignPhone(pathname);
-  const headerPhoneHref = isAcTuneLp ? "tel:5202018588" : campPhone ? `tel:${campPhone.tel}` : "tel:5203332665";
+  const headerPhoneHref = isAcTuneLp ? "tel:5203332665" : campPhone ? `tel:${campPhone.tel}` : "tel:5203332665";
   const headerPhoneText = isAcTuneLp ? "(520) 201-8588" : campPhone ? campPhone.display : "(520) 333-2665";
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openPopover, setOpenPopover] = useState<string | null>(null);

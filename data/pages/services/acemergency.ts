@@ -64,7 +64,7 @@ export const acemergencyData: ServicePageData = {
   slug: 'ac-emergency',
   
   // Hero Section
-  h1: 'AC Not Working? Emergency Repair in 53 Minutes',
+  h1: 'Emergency AC Repair in Tucson — AC Dead Now? At Your Door in 53 Min.',
   h2Subheading: '24/7 Same-Day Service | No Overtime Charges | $0 Diagnostic With Repair',
   tagline: 'Broken AC? AC Stopped Working? AC Not Cooling? We Fix It Today.',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',

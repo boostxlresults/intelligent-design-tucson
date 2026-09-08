@@ -9,7 +9,7 @@ export const residentialsolarinstallationData: ServicePageData = {
   slug: 'residential-solar-installation',
   
   // Hero Section
-  h1: 'Residential Solar Installation Tucson AZ',
+  h1: 'Residential Solar in Tucson — Savings Start Month One.',
   h2Subheading: 'Expert Residential Solar Installation in Tucson',
   tagline: 'Premium Solar Panels | 30% Tax Credit | Expert Design & Installation | Energy Independence | 46+ years Experience',
   heroImage: '/generated_images/Residential_solar_panel_installation_23ee301f.webp',

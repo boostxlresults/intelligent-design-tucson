@@ -10,7 +10,7 @@ export const drainclearingtucsonData: ServicePageData = {
   slug: "drain-clearing-tucson",
   
   // Hero Section
-  h1: "Professional Drain Clearing Services in Tucson, AZ",
+  h1: 'Drain Clearing in Tucson — Clogged Right Now? Cleared Today.',
   h2Subheading: "Efficient, Reliable Plumbing Solutions to Keep Your Drains Flowing Smoothly",
   tagline: "Fast Response | Licensed Experts | Hydro Jetting | Camera Inspections | 46+ Years Experience | Satisfaction Guaranteed",
   heroImage: "/generated_images/Professional_drain_clearing_service_46ea7cfd.webp",

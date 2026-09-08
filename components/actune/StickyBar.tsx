@@ -32,12 +32,12 @@ export default function StickyBar() {
         <CalendarCheck className="h-5 w-5" /> Book Special
       </button>
       <a
-        href="tel:5202018588"
+        href="tel:5203332665"
         onClick={() => fbq("track", "Contact", { source: "sticky_bar" })}
         className="flex min-h-[48px] items-center justify-center gap-2 rounded-lg bg-[#FFD100] px-4 py-3 text-base font-extrabold text-[#1A1A1A]"
         data-testid="sticky-call"
       >
-        <Phone className="h-5 w-5" /> (520) 201-8588
+        <Phone className="h-5 w-5" /> (520) 333-2665
       </a>
     </div>
   );

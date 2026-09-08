@@ -9,7 +9,7 @@ export const tanklesswaterheatersData: ServicePageData = {
   slug: 'tankless-water-heaters',
   
   // Hero Section
-  h1: 'Tankless Water Heater Services in Tucson, AZ',
+  h1: 'Tankless Water Heaters in Tucson — Never Run Out. Installed Today.',
   h2Subheading: 'Never Run Out of Hot Water Again',
   tagline: 'Gas & Electric Tankless | Rinnai, Navien, Noritz Authorized | 24-34% Energy Savings | Licensed ROC #171687 | Free Sizing Consultation',
   heroImage: '/generated_images/Tankless_water_heater_installation_f99cdacb.webp',

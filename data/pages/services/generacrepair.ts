@@ -10,7 +10,7 @@ export const generacrepairData: ServicePageData = {
   slug: 'generac-repair',
   
   // Hero Section
-  h1: 'GENERAC Generator Repair Tucson AZ',
+  h1: 'Generac Repair in Tucson — Won\'t Start? Repaired Before the Outage.',
   h2Subheading: 'Expert Generac Repair in Tucson',
   tagline: 'Expert Repairs | Preventive Maintenance | All Models Serviced | Factory-Trained Technicians | Same-Day Service Available',
   heroImage: '/generated_images/GENERAC_generator_repair_maintenance_1bbc6e14.webp',

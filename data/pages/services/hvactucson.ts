@@ -10,7 +10,7 @@ export const hvactucsonData: ServicePageData = {
   slug: "hvac-tucson",
   
   // Hero Section
-  h1: "Reliable HVAC & AC Services in Tucson, AZ",
+  h1: 'HVAC Services in Tucson — Heating or Cooling Problem? Fixed Today.',
   h2Subheading: "Efficient Cooling Solutions Tailored for Tucson’s Unique Climate",
   tagline: "Same-Day Service | Licensed | 46+ Years Experience | 52 Technicians | 4.97-Star Rating",
   heroImage: "/generated_images/HVAC_tech_AC_repair_1_f17630c6.webp",

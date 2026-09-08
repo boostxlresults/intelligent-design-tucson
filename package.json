@@ -6,7 +6,9 @@
     "dev": "next dev -p 3000",
     "build": "next build",
     "start": "next start -p 3000",
-    "lint": "eslint"
+    "lint": "eslint",
+    "check:phones": "node scripts/check-phone-numbers.mjs",
+    "prebuild": "node scripts/check-phone-numbers.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

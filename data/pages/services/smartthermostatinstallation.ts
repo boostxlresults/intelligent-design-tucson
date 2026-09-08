@@ -10,7 +10,7 @@ export const smartthermostatinstallationData: ServicePageData = {
   slug: 'smart-thermostat-installation-tucson',
   
   // Hero Section
-  h1: 'Expert Smart Thermostat Installation in Tucson AZ',
+  h1: 'Smart Thermostat Installation in Tucson — Installed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Upgrade to a WiFi thermostat and save 20-30% on your energy bills. Professional installation of Nest, Ecobee, Honeywell, and all major brands. Same-day service available throughout Tucson.',
   heroImage: '/generated_images/Smart_thermostat_on_wall_6b58a71c.webp',

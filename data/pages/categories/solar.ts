@@ -4,7 +4,7 @@ export const solarCategoryData: ServiceCategoryData = {
   title: 'Solar Panel Installation Tucson | Solar Energy Services | Intelligent Design',
   description: 'Expert solar panel installation in Tucson, AZ. Residential & commercial solar, energy audits & maintenance. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
   slug: 'solar',
-  h1: 'Tucson Solar Services',
+  h1: 'Solar Services in Tucson — Stop Paying the Utility. See the Payback.',
   h2Subheading: 'Harness Arizona\'s Sunshine',
   tagline: 'Save money on energy bills with solar panel installation from Tucson\'s trusted home services experts.',
   heroImage: '/generated_images/Residential_solar_panel_installation_23ee301f.webp',

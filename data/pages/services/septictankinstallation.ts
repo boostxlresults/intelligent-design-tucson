@@ -7,7 +7,7 @@ export const septictankinstallationData: ServicePageData = {
   description: 'Septic tank installation cost & septic system installation cost in Tucson. Cost of putting in a septic tank with permits included. Septic tank installation near me. Call (520) 333-2665 for free estimate.',
   slug: 'septic-tank-installation',
   
-  h1: 'Septic Tank Installation & Cost in Tucson, AZ',
+  h1: 'Septic Tank Installation in Tucson — Built to Last Decades.',
   h2Subheading: 'Septic System Installation Near You - Affordable Pricing',
   tagline: 'Septic Tank Installation | Septic System Installation | Cost to Install Septic System | Septic Tank Installation Near Me | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',

@@ -10,7 +10,7 @@ export const solartaxcreditsData: ServicePageData = {
   slug: 'solar-tax-credits',
   
   // Hero Section
-  h1: 'Solar Tax Credits Tucson AZ',
+  h1: 'Solar Tax Credits in Tucson — Don\'t Leave Credits on the Table.',
   h2Subheading: 'Expert Solar Tax Credits in Tucson',
   tagline: '30% Federal Tax Credit | Arizona Property Tax Exemption | Net Metering Credits | Expert Guidance | Maximize Your Savings',
   heroImage: '/generated_images/Solar_tax_credits_savings_a056e008.webp',

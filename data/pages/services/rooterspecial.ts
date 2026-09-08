@@ -12,7 +12,7 @@ export const rooterspecialData: ServicePageData = {
   slug: 'rooter-special',
   
   // Hero Section
-  h1: 'Professional Rooter Services & Drain Clearing in Tucson, AZ',
+  h1: 'Rooter Service in Tucson — Backed Up? $48.88 Clears It Today.',
   h2Subheading: '$48.88 Rooter Special - Limited Time Offer!',
   tagline: 'Same-Day Service | Clogged Drains & Sewer Lines | Video Camera Inspection | Hydro Jetting | Emergency Service Available | 46+ years Experience',
   heroImage: '/generated_images/Professional_rooter_drain_clearing_a93068d8.webp',

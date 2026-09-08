@@ -10,7 +10,7 @@ export const acserviceData: ServicePageData = {
   slug: 'ac-service-tucson',
   
   // Hero Section
-  h1: 'Highest-Rated Air Conditioning Service in Tucson AZ',
+  h1: 'AC Service in Tucson — System Struggling? Serviced Right Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Professional AC Maintenance | Tune-Ups | System Optimization | 24/7 Service',
   heroImage: '/generated_images/AC_maintenance_service_in_Tucson_d21947d9.webp',

@@ -10,7 +10,7 @@ export const heaterserviceData: ServicePageData = {
   slug: 'heater-service-tucson',
   
   // Hero Section
-  h1: 'Professional Heater Service in Tucson AZ',
+  h1: 'Heater Service in Tucson — Running Rough? Dialed In Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Annual Maintenance | System Tune-Ups | Efficiency Optimization | Safety Inspections',
   heroImage: '/generated_images/Heater_service_maintenance_image_927f5159.webp',

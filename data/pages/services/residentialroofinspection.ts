@@ -10,7 +10,7 @@ export const residentialroofinspectionData: ServicePageData = {
   slug: 'residential-roof-inspection',
   
   // Hero Section
-  h1: 'Residential Roof Inspection Tucson AZ',
+  h1: 'Residential Roof Inspection in Tucson — Full Picture Today.',
   h2Subheading: 'Expert Residential Roof Inspection in Tucson',
   tagline: 'Professional Inspections | Pre-Purchase Reports | Maintenance Inspections | Storm Damage Assessment | Free Inspection with Repairs',
   heroImage: '/generated_images/residential_roof_inspection_professional_3249793e.webp',

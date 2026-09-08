@@ -10,7 +10,7 @@ export const waterheaterinstallationData: ServicePageData = {
   slug: 'water-heater-installation',
   
   // Hero Section
-  h1: 'Water Heater Installation in Tucson, AZ',
+  h1: 'Water Heater Installation in Tucson — Installed Same Day.',
   h2Subheading: 'Expert Water Heater Installation in Tucson',
   tagline: 'Tank, Tankless & Hybrid Installation | Expert Sizing & Permitting | Same-Day Service Available | Free Consultation | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_installation_service_2f1d92e9.webp',

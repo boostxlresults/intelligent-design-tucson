@@ -10,7 +10,7 @@ export const toiletinstallationData: ServicePageData = {
   slug: 'toilet-installation',
   
   // Hero Section
-  h1: 'Toilet Installation & Repair in Tucson, AZ',
+  h1: 'Toilet Repair & Installation in Tucson — Fixed or Replaced Today.',
   h2Subheading: 'Expert Toilet Installation in Tucson',
   tagline: 'New Installation | Toilet Repair | High-Efficiency Models | Comfort-Height | Water-Saving | Leak Fixes | Licensed Plumbers ROC #171687',
   heroImage: '/generated_images/Toilet_installation_service_Tucson_55e9fcf6.png',

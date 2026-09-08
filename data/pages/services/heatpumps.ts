@@ -10,7 +10,7 @@ export const heatpumpsData: ServicePageData = {
   slug: 'heat-pumps-tucson',
   
   // Hero Section
-  h1: 'Expert Heat Pump Services in Tucson AZ',
+  h1: 'Heat Pumps in Tucson — Not Heating or Cooling? Fixed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Installation, Repair & Service | Year-Round Comfort | Energy Efficient | Expert Technicians',
   heroImage: '/generated_images/Heat_pump_hero_background_29dc8aa3.webp',
