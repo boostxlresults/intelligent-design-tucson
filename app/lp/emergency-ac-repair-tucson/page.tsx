@@ -16,7 +16,6 @@ const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Vete
 export const metadata: Metadata = {
   title: "Emergency AC Repair in Tucson — Same Day | Intelligent Design",
   description: "No AC in the Tucson heat? Same-day emergency AC repair, 7 days a week, no overtime rates. Call now — technicians available.",
-  robots: "noindex, follow",
   alternates: { canonical: "https://www.idesignac.com/lp/emergency-ac-repair-tucson" },
 };
 

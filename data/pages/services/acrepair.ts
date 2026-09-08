@@ -159,6 +159,16 @@ export const acrepairData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "Dirt, ice buildup, and moisture can all be culprits behind air conditioner malfunctions. If components become clogged with dirt or moisture, air cannot move properly throughout your system. Components may become damaged by these types of clogs and buildup. As a result, you may notice less air flowing through your vents or vents blowing air that is not cool enough. Regular [link:/services/ac-tuneup-tucson|AC maintenance and tune-ups] prevent many of these common issues."
+      },
+      {
+            "type": "heading",
+            "heading": "Common AC Problems We Fix Today",
+            "level": 2,
+            "content": "Common AC Problems We Fix Today"
+      },
+      {
+            "type": "paragraph",
+            "content": "Already know what your system is doing wrong? Go straight to the page for your symptom \u2014 each one covers the usual causes, what the repair typically costs, and how fast we can get to you: [link:/lp/ac-not-cooling|AC not cooling], [link:/lp/ac-blowing-hot-air|AC blowing hot air], or [link:/lp/ac-fan-not-spinning|AC fan not spinning]. If your system is out completely in the middle of a Tucson summer, [link:/services/emergency-ac-repair-tucson|emergency AC repair] is available 24/7."
       }
     ]
   },

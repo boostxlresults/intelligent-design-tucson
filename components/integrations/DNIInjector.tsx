@@ -1,23 +1,36 @@
 "use client";
 
 import Script from "next/script";
-import { usePathname } from "next/navigation";
-import { getCampaignPhone } from "@/lib/campaignPhones";
 
 /**
  * ServiceTitan Dynamic Number Insertion (DNI)
- * 
- * Changed to lazyOnload — DNI swaps phone numbers for call tracking attribution.
- * It does NOT need to run before LCP paints. It only needs to run before a user
- * actually clicks a phone number, which happens well after page load.
- * 
- * lazyOnload fires after the page is fully loaded and the browser is idle,
- * which is early enough to swap numbers before any real user interaction.
+ *
+ * MUST RUN ON EVERY PAGE. No path exclusions. (2026-09-08)
+ *
+ * DNI previously returned null for any route in CAMPAIGN_PHONES — which meant every
+ * paid landing page under /lp/* rendered with a hardcoded campaign number and no
+ * ServiceTitan script at all. Consequence: a call could be bucketed to a campaign,
+ * but with no gclid captured ServiceTitan could not upload the conversion back to
+ * Google Ads, so Google reported zero conversions from pages that were ringing the
+ * phone (/lp/ac-not-cooling: 87 paid clicks Sept 1-8, 1 call, 0 conversions in Ads).
+ * Worse, the same landing pages receive Meta traffic, and every Meta caller dialing
+ * the hardcoded number was credited to Google.
+ *
+ * DNI is the only mechanism that reads the visitor's real source (gclid for Google,
+ * fbclid + UTMs for Meta, referrer for organic), assigns a session-specific pool
+ * number, and lets ServiceTitan attribute the call to the click that caused it.
+ * ServiceTitan requires it for both its Google Ads and Meta Ads integrations.
+ *
+ * The hardcoded numbers in lib/campaignPhones.ts remain as the HTML fallback: if a
+ * visitor taps before the swap executes they still reach the campaign line and the
+ * call is still attributable at campaign level. Belt and braces, not either/or.
+ *
+ * Do NOT reintroduce a pathname check here.
+ *
+ * strategy=lazyOnload: DNI does not need to run before LCP, only before a user
+ * actually taps a phone number, which happens well after load.
  */
 export default function DNIInjector() {
-  const pathname = usePathname();
-  // Landing pages with their own dedicated call-tracking number opt out of DNI so it is never swapped.
-  if (pathname && (pathname.startsWith("/ac-tune-up-2888") || getCampaignPhone(pathname))) return null;
   return (
     <Script
       id="servicetitan-dni"

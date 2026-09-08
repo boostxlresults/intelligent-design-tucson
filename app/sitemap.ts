@@ -130,6 +130,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/proper-ac-sizing',
     '/free-roof-inspection',
     '/ac-sizing-estimator',
+    // Paid landing pages. These are ordinary pages of the site that ads also point
+    // at: indexable, self-canonical, internally linked. (noindex removed 2026-09-08)
+    '/lp/ac-repair-tucson',
+    '/lp/emergency-ac-repair-tucson',
+    '/lp/ac-not-cooling',
+    '/lp/ac-blowing-hot-air',
+    '/lp/ac-fan-not-spinning',
   ];
 
   corePages.forEach((page) => {

@@ -14,9 +14,8 @@ const PHONE = CAMPAIGN_PHONES["/lp/ac-not-cooling"];
 const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Veteran & Family Owned Since 1979";
 
 export const metadata: Metadata = {
-  title: "AC Not Cooling? Here's What's Wrong — and What It Costs | Tucson",
-  description: "AC running but not cooling in Tucson? The 6 most common causes, what each costs to fix, and which you can check yourself (filter, breaker, thermostat). Then we'll diagnose it today.",
-  robots: "noindex, follow",
+  title: "AC Not Cooling in Tucson? Same-Day Repair | Intelligent Design",
+  description: "AC running but not cooling? Same-day repair across Tucson, diagnostic fee waived with repair. See what our technician checks and what it typically costs.",
   alternates: { canonical: "https://www.idesignac.com/lp/ac-not-cooling" },
 };
 
@@ -50,13 +49,22 @@ export default function AcNotCoolingLp() {
     <>
       <LpStickyCall />
 
-      {/* Hero — content-forward, lighter sell */}
-      <section className="px-4 py-9">
+      {/* Hero — the promise, then the phone, above the fold on mobile */}
+      <section className="px-4 py-6 sm:py-9">
         <div className="mx-auto max-w-3xl text-center">
-          <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">Tucson AC troubleshooting</p>
-          <h1 className="mt-2 text-3xl font-extrabold leading-tight text-primary sm:text-4xl">AC Not Cooling? Here&rsquo;s What&rsquo;s Wrong &mdash; and What It Costs</h1>
-          <p className="mt-3 text-lg text-muted-foreground">Before you call anyone, here are the 6&ndash;7 most common reasons an AC runs but won&rsquo;t cool &mdash; what each typically costs, and which ones you can check yourself.</p>
-          <p className="mt-4 inline-flex items-center gap-1.5 text-[14px] font-semibold text-foreground">
+          <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">Tucson AC repair</p>
+          <h1 className="mt-2 text-3xl font-extrabold leading-tight text-primary sm:text-4xl">AC Not Cooling? We&rsquo;ll Get It Cold Again Today.</h1>
+          <a
+            href={`tel:${PHONE.tel}`}
+            data-testid="lp-hero-call"
+            className="mx-auto mt-4 flex min-h-[60px] w-full max-w-sm items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-2xl font-extrabold text-white shadow-lg hover:brightness-110"
+          >
+            <Phone className="h-7 w-7" /> {PHONE.display}
+          </a>
+          <p className="mt-3 text-[16px] font-semibold text-foreground">
+            Same-day repair &middot; 42 trucks across Tucson &middot; Diagnostic fee waived with repair
+          </p>
+          <p className="mt-3 inline-flex items-center gap-1.5 text-[14px] font-semibold text-muted-foreground">
             <Star className="h-4 w-4 fill-yellow-400 text-yellow-400" /> {TRUST}
           </p>
         </div>
@@ -65,8 +73,8 @@ export default function AcNotCoolingLp() {
       {/* Substance FIRST — the diagnostic that earns Landing Page Experience */}
       <section className="border-t border-border px-4 py-10">
         <div className="mx-auto max-w-3xl">
-          <h2 className="text-2xl font-bold text-primary sm:text-3xl">Why your AC isn&rsquo;t cooling &mdash; 7 common causes</h2>
-          <p className="mt-2 text-[17px] text-muted-foreground">Work down the list. The first three are free to check yourself; the rest need a technician.</p>
+          <h2 className="text-2xl font-bold text-primary sm:text-3xl">What our technician will check</h2>
+          <p className="mt-2 text-[17px] text-muted-foreground">These are the seven things that stop a Tucson AC from cooling, in the order we rule them out. The first three are quick and often cost nothing &mdash; we&rsquo;ll tell you straight if that&rsquo;s all it was.</p>
           <div className="mt-6 space-y-4">
             {CAUSES.map((c, i) => (
               <div key={i} className="rounded-xl border border-border bg-card p-5">
@@ -81,7 +89,7 @@ export default function AcNotCoolingLp() {
             ))}
           </div>
           <div className="mt-6 rounded-xl bg-[#0d1b3e] p-6 text-center text-white">
-            <p className="text-xl font-bold">Checked the filter, breaker, and thermostat and it&rsquo;s still not cooling?</p>
+            <p className="text-xl font-bold">Want it diagnosed today instead?</p>
             <p className="mt-1 text-white/85">We&rsquo;ll diagnose it today and give you the exact price before any work.</p>
             <a href={`tel:${PHONE.tel}`} className="mx-auto mt-4 flex min-h-[56px] w-full max-w-sm items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-xl font-extrabold text-white shadow-lg hover:brightness-110">
               <Phone className="h-6 w-6" /> Call {PHONE.display}
@@ -111,6 +119,18 @@ export default function AcNotCoolingLp() {
 
       <LpServiceArea />
       <LpFaq items={FAQ} heading="AC not cooling — common questions" />
+
+      <section className="border-t border-border px-4 py-8">
+        <div className="mx-auto max-w-3xl">
+          <h2 className="text-xl font-bold text-primary">Other AC problems we fix today</h2>
+          <ul className="mt-3 space-y-2 text-[16px]">
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-blowing-hot-air">AC blowing hot air</a> &mdash; when the air coming out is warmer than the room</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-fan-not-spinning">AC fan not spinning</a> &mdash; when the outdoor unit hums but the blades sit still</li>
+            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> &mdash; full diagnostics, pricing and warranty details</li>
+            <li><a className="font-semibold text-primary underline" href="/services/emergency-ac-repair-tucson">Emergency AC repair</a> &mdash; 24/7, no overtime upcharge</li>
+          </ul>
+        </div>
+      </section>
     </>
   );
 }

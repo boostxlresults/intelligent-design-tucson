@@ -43,7 +43,8 @@ export default async function middleware(request: NextRequest) {
     const targetCity = SERVICE_AREA_SLUGS.has(city) ? city : 'tucson';
     const url = request.nextUrl.clone();
     url.pathname = `/service-areas/${targetCity}`;
-    url.search = '';
+    // Query string is deliberately PRESERVED: stripping it destroys ad attribution
+    // (gclid / fbclid / utm_*) for every visitor this redirect touches. (2026-09-08)
     return NextResponse.redirect(url, 308);
   }
 
@@ -62,7 +63,8 @@ export default async function middleware(request: NextRequest) {
       if (dest) {
         const url = request.nextUrl.clone();
         url.pathname = dest;
-        url.search = '';
+        // Query string PRESERVED — see note above; a redirect that drops gclid/fbclid
+        // silently kills attribution for every ad click that lands on a legacy URL.
         return NextResponse.redirect(url, 308);
       }
     }

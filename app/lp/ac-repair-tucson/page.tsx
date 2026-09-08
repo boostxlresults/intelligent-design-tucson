@@ -16,7 +16,6 @@ const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Vete
 export const metadata: Metadata = {
   title: "AC Repair in Tucson | Same-Day | Intelligent Design",
   description: "Fast, honest AC repair in Tucson with up-front pricing — most repairs done same day. Licensed & insured, 23,000+ five-star reviews. Call now.",
-  robots: "noindex, follow",
   alternates: { canonical: "https://www.idesignac.com/lp/ac-repair-tucson" },
 };
 
