@@ -56,7 +56,7 @@ const schema = {
       name: IDACH,
       alternateName: "Intelligent Design",
       url: SITE,
-      telephone: "+1-520-201-8588",
+      telephone: "+1-520-333-2665",
       priceRange: "$$",
       address: { "@type": "PostalAddress", streetAddress: "1145 E Fort Lowell Rd", addressLocality: "Tucson", addressRegion: "AZ", postalCode: "85719", addressCountry: "US" },
       areaServed: ["Tucson", "Oro Valley", "Marana", "Vail", "Sahuarita", "Green Valley", "Catalina Foothills"].map((c) => ({ "@type": "City", name: c })),

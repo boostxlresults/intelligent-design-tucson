@@ -36,6 +36,22 @@ const ALLOWED = new Set([
 
 const TEL = /tel:(\+?\d[\d\-().\s]{6,})/g;
 
+/** Visible display numbers. Any (520) NNN-NNNN that is not the source number.
+ *  This second check exists because display strings once used a NON-BREAKING
+ *  SPACE — "(520)\u00a0201-8588" — which slipped past every plain-text search and
+ *  left a stale campaign number rendering next to a correctly swapped one.
+ *  \s matches \u00a0, so this catches it. */
+const DISPLAY = /\(520\)(?:\s|&nbsp;|&#160;)?(\d{3}-\d{4})/g;
+const SOURCE_DISPLAY = "333-2665";
+
+/** Files allowed to mention other numbers: campaignPhones documents the
+ *  ServiceTitan tracking numbers on purpose; the inventory form uses a
+ *  555 placeholder in a form field. */
+const EXEMPT_FILES = [
+  "lib/campaignPhones.ts",
+  "components/forms/HVACInventoryForm.tsx",
+];
+
 function walk(dir, out = []) {
   for (const name of readdirSync(dir)) {
     if (name === "node_modules" || name === ".next" || name.startsWith(".")) continue;
@@ -62,6 +78,13 @@ for (const root of ROOTS) {
         const digits = m[1].replace(/[^\d+]/g, "");
         if (!ALLOWED.has(digits)) {
           violations.push({ file, line: i + 1, found: digits, text: t.slice(0, 110) });
+        }
+      }
+      if (!EXEMPT_FILES.some((e) => file.replace(/\\/g, "/").endsWith(e))) {
+        for (const m of line.matchAll(DISPLAY)) {
+          if (m[1] !== SOURCE_DISPLAY) {
+            violations.push({ file, line: i + 1, found: `(520) ${m[1]} (displayed)`, text: t.slice(0, 110) });
+          }
         }
       }
     });

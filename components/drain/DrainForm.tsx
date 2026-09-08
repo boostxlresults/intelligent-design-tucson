@@ -123,7 +123,7 @@ export default function DrainForm() {
       </div>
 
       {status === "error" && (
-        <p className="text-[15px] text-[#C8101F]">Something went wrong &mdash; please call (520)&nbsp;348-6684.</p>
+        <p className="text-[15px] text-[#C8101F]">Something went wrong &mdash; please call (520)&nbsp;333-2665.</p>
       )}
 
       <button type="submit" disabled={status === "sending"}

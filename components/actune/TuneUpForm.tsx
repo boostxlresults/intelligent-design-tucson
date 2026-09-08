@@ -126,7 +126,7 @@ export default function TuneUpForm() {
       </div>
 
       {status === "error" && (
-        <p className="text-[15px] text-[#C8101F]">Something went wrong &mdash; please call (520)&nbsp;201-8588.</p>
+        <p className="text-[15px] text-[#C8101F]">Something went wrong &mdash; please call (520)&nbsp;333-2665.</p>
       )}
 
       <button type="submit" disabled={status === "sending"}

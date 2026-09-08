@@ -26,7 +26,7 @@ export default function DrainClearingConfirmedPage() {
             href="tel:5203332665"
             className="mx-auto mt-6 inline-flex min-h-[52px] items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-[18px] font-extrabold text-white shadow-md hover:brightness-110"
           >
-            <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;348-6684
+            <Phone className="h-5 w-5" /> Click or Call (520)&nbsp;333-2665
           </a>
           <p className="mt-6 text-[15px]">
             <Link href="/" className="text-muted-foreground underline">Return to idesignac.com</Link>

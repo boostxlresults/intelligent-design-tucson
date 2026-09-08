@@ -82,7 +82,7 @@ export default function Header() {
   const isAcTuneLp = !!pathname && pathname.startsWith("/ac-tune-up-2888");
   const campPhone = getCampaignPhone(pathname);
   const headerPhoneHref = isAcTuneLp ? "tel:5203332665" : campPhone ? `tel:${campPhone.tel}` : "tel:5203332665";
-  const headerPhoneText = isAcTuneLp ? "(520) 201-8588" : campPhone ? campPhone.display : "(520) 333-2665";
+  const headerPhoneText = campPhone ? campPhone.display : "(520) 333-2665";
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openPopover, setOpenPopover] = useState<string | null>(null);
   const [mobileAreasServedExpanded, setMobileAreasServedExpanded] = useState(false);
