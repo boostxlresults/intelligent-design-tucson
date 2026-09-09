@@ -29,7 +29,7 @@ highlights: [
   },
   {
     "title": "Flat Roof Coatings Specialists",
-    "description": "Flat roofs in Casa Grande need reflective coatings to reduce heat transfer and prevent membrane failure\u2014our coatings extend life and lower attic temperatures."
+    "description": "Flat roofs in Casa Grande need reflective coatings to reduce heat transfer and prevent membrane failure-our coatings extend life and lower attic temperatures."
   },
   {
     "title": "Neighborhood-Focused Service",
@@ -51,7 +51,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Red Rock and Casa Grande present a distinct roofing environment shaped by elevation, extreme heat and a dry climate. At roughly 1,400 feet, summer temperatures routinely exceed 115\u00b0F, producing intense UV exposure that accelerates material degradation. Homes built from the 2000s through the 2020s\u2014many single-story in newer subdivisions, retirement communities, and areas shifting from agriculture to residential\u2014rely on roofs that balance durability with energy performance. Tile roofs are common for aesthetic and cooling reasons, while asphalt shingles are widely used in cost-sensitive neighborhoods. Flat roofs persist on some modern single-story designs and accessory buildings; these require reflective coatings to combat heat buildup. Less monsoon rainfall reduces water-related leaks but increases UV and thermal cycling damage, making routine inspections and heat-aware maintenance essential for prolonging roof life and protecting interior comfort."
+        "content": "Red Rock and Casa Grande present a distinct roofing environment shaped by elevation, extreme heat and a dry climate. At roughly 1,400 feet, summer temperatures routinely exceed 115\u00b0F, producing intense UV exposure that accelerates material degradation. Homes built from the 2000s through the 2020s-many single-story in newer subdivisions, retirement communities, and areas shifting from agriculture to residential-rely on roofs that balance durability with energy performance. Tile roofs are common for aesthetic and cooling reasons, while asphalt shingles are widely used in cost-sensitive neighborhoods. Flat roofs persist on some modern single-story designs and accessory buildings; these require reflective coatings to combat heat buildup. Less monsoon rainfall reduces water-related leaks but increases UV and thermal cycling damage, making routine inspections and heat-aware maintenance essential for prolonging roof life and protecting interior comfort."
     },
     {
         "type": "paragraph",
@@ -72,16 +72,16 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Our service offerings in Red Rock and Casa Grande cover the full roof lifecycle: inspection, targeted repair, re-roofing and full replacement, plus specialized flat roof coatings. Roof repair focuses on problem areas such as flashing, ridge caps, ventilation ports and localized tile or shingle damage. For replacements we recommend materials and systems proven for desert climates\u2014breathable underlayments, high-UV resistant shingles, and low-slope membranes paired with reflective coatings. We do not install metal roofing; instead, we concentrate on tile, shingle and advanced flat roof systems that deliver the best performance under intense sun and thermal cycling. Every job begins with a thorough inspection, photo documentation, and a written estimate that outlines scope, timeline and warranty options so you know exactly what to expect."
+        "content": "Our service offerings in Red Rock and Casa Grande cover the full roof lifecycle: inspection, targeted repair, re-roofing and full replacement, plus specialized flat roof coatings. Roof repair focuses on problem areas such as flashing, ridge caps, ventilation ports and localized tile or shingle damage. For replacements we recommend materials and systems proven for desert climates-breathable underlayments, high-UV resistant shingles, and low-slope membranes paired with reflective coatings. We do not install metal roofing; instead, we concentrate on tile, shingle and advanced flat roof systems that deliver the best performance under intense sun and thermal cycling. Every job begins with a thorough inspection, photo documentation, and a written estimate that outlines scope, timeline and warranty options so you know exactly what to expect."
     },
     {
         "type": "paragraph",
-        "content": "Intelligent Design is rooted in the communities around Casa Grande Ruins, Francisco Grande and Picacho Peak, and in subdivisions like Mission Royale and Coyote Ranch. We understand local HOA requirements, historical neighborhood character, and the needs of retirees and families who choose single-story homes. Our crews work to minimize disruption\u2014scheduling thoughtfully, protecting landscaping and irrigation, and communicating timelines clearly. We also assist with insurance documentation when damage results from wind, storm events, or sudden failures. As agricultural parcels convert to new residential streets, we bring the same workmanship standards to new builds and renovation projects, helping homeowners preserve curb appeal and long-term value."
+        "content": "Intelligent Design is rooted in the communities around Casa Grande Ruins, Francisco Grande and Picacho Peak, and in subdivisions like Mission Royale and Coyote Ranch. We understand local HOA requirements, historical neighborhood character, and the needs of retirees and families who choose single-story homes. Our crews work to minimize disruption-scheduling thoughtfully, protecting landscaping and irrigation, and communicating timelines clearly. We also assist with insurance documentation when damage results from wind, storm events, or sudden failures. As agricultural parcels convert to new residential streets, we bring the same workmanship standards to new builds and renovation projects, helping homeowners preserve curb appeal and long-term value."
     },
     {
         "type": "cta",
         "heading": "Final CTA",
-        "content": "Ready to protect your roof against Red Rock and Casa Grande\u2019s extreme heat? Contact Intelligent Design for an inspection or estimate. We\u2019ll recommend practical solutions\u2014repair, replacement, or reflective coatings\u2014that extend roof life and improve comfort.",
+        "content": "Ready to protect your roof against Red Rock and Casa Grande\u2019s extreme heat? Contact Intelligent Design for an inspection or estimate. We\u2019ll recommend practical solutions-repair, replacement, or reflective coatings-that extend roof life and improve comfort.",
         "buttonText": "Schedule Service",
         "buttonLink": "/contact"
     }
@@ -109,7 +109,7 @@ highlights: [
     },
     {
         "question": "How long does a typical roof replacement take for single-story homes here?",
-        "answer": "Most single-story roof replacements\u2014shingle or tile\u2014are completed in one to three days depending on size, tear-off complexity and materials. Flat roof recoats or coatings often take a day or two plus cure time. We provide a project timeline with each estimate and schedule to minimize disruption."
+        "answer": "Most single-story roof replacements-shingle or tile-are completed in one to three days depending on size, tear-off complexity and materials. Flat roof recoats or coatings often take a day or two plus cure time. We provide a project timeline with each estimate and schedule to minimize disruption."
     },
     {
         "question": "Do you service the ZIP codes 85145, 85122 and 85193?",

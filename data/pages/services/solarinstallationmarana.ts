@@ -28,10 +28,10 @@ highlights: [
   },
   {
     "title": "Systems Sized for Hot, Low-Elevation Summers",
-    "description": "At 2,000\u20132,400 ft elevation Marana runs hotter than nearby high desert \u2014 we size arrays and inverters to offset higher A/C loads in summers around Twin Peaks and Continental Ranch."
+    "description": "At 2,000\u20132,400 ft elevation Marana runs hotter than nearby high desert - we size arrays and inverters to offset higher A/C loads in summers around Twin Peaks and Continental Ranch."
   },
   {
-    "title": "Local Grid Compatibility \u2014 TEP Service",
+    "title": "Local Grid Compatibility - TEP Service",
     "description": "New subdivisions often have modern TEP infrastructure and pre-wired electrical panels; we optimize interconnection paperwork for 85653, 85658 and 85743."
   },
   {
@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Incentives & Development Experience",
-    "description": "Marana\u2019s business-friendly policies mean available incentives and rapid permitting in master-planned communities \u2014 we guide homeowners through local rebates and permit windows."
+    "description": "Marana\u2019s business-friendly policies mean available incentives and rapid permitting in master-planned communities - we guide homeowners through local rebates and permit windows."
   },
   {
     "title": "Local Pricing Context",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Marana\u2019s housing stock skews toward newer construction \u2014 many homes built in the 2000s\u20132020s in communities like Dove Mountain, The Residences at Dove Mountain, and Saguaro Bloom were constructed with modern rafters and electrical panels, which makes roof-mounted solar installation faster and less expensive than retrofits on older neighborhoods. Because roughly 70% of local roofs are tile, our crews plan for tile removal or specialized hook mounting to avoid cracked tiles and ensure long-term water-tightness. In rapidly growing areas such as Gladden Farms and Continental Ranch, streets often have minimal shading from trees, maximizing panel output. We use local irradiance data and account for Marana\u2019s elevation (2,000\u20132,400 ft) and hotter low-elevation summer peaks when modeling production so projected savings reflect real peak A/C demand."
+            "content": "Marana\u2019s housing stock skews toward newer construction - many homes built in the 2000s\u20132020s in communities like Dove Mountain, The Residences at Dove Mountain, and Saguaro Bloom were constructed with modern rafters and electrical panels, which makes roof-mounted solar installation faster and less expensive than retrofits on older neighborhoods. Because roughly 70% of local roofs are tile, our crews plan for tile removal or specialized hook mounting to avoid cracked tiles and ensure long-term water-tightness. In rapidly growing areas such as Gladden Farms and Continental Ranch, streets often have minimal shading from trees, maximizing panel output. We use local irradiance data and account for Marana\u2019s elevation (2,000\u20132,400 ft) and hotter low-elevation summer peaks when modeling production so projected savings reflect real peak A/C demand."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re experienced installing systems for homeowners near Dove Mountain and the Ritz-Carlton Dove Mountain, pilots and hangar owners around Marana Regional Airport, and families in Gladden Farms and Saguaro Bloom. We understand local HOA processes in master-planned communities and can coordinate installs around neighborhood events, school drop-off patterns for Marana Unified School District families, and golf-course setback requirements near Twin Peaks and Dove Mountain. Local flavor matters \u2014 we\u2019ve worked on homes near Core Kitchen & Wine Bar, Caffe Torino, and other Marana hubs, and we tailor communication to neighborhood schedules and access restrictions."
+            "content": "We\u2019re experienced installing systems for homeowners near Dove Mountain and the Ritz-Carlton Dove Mountain, pilots and hangar owners around Marana Regional Airport, and families in Gladden Farms and Saguaro Bloom. We understand local HOA processes in master-planned communities and can coordinate installs around neighborhood events, school drop-off patterns for Marana Unified School District families, and golf-course setback requirements near Twin Peaks and Dove Mountain. Local flavor matters - we\u2019ve worked on homes near Core Kitchen & Wine Bar, Caffe Torino, and other Marana hubs, and we tailor communication to neighborhood schedules and access restrictions."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Will a tile roof in Marana increase solar installation cost?",
-        "answer": "Yes \u2014 because approximately 70% of Marana roofs are clay or concrete tile, installations often require tile lifting, replacement, or specialized tile hooks. That adds labor and sometimes materials compared with simple shingle installs. On newer homes in Dove Mountain or The Residences at Dove Mountain where tile work was anticipated, developers sometimes prepped flashing, reducing extra cost. We provide line-item pricing so you see tile-related costs for your 85653/85658/85743 property."
+        "answer": "Yes - because approximately 70% of Marana roofs are clay or concrete tile, installations often require tile lifting, replacement, or specialized tile hooks. That adds labor and sometimes materials compared with simple shingle installs. On newer homes in Dove Mountain or The Residences at Dove Mountain where tile work was anticipated, developers sometimes prepped flashing, reducing extra cost. We provide line-item pricing so you see tile-related costs for your 85653/85658/85743 property."
     },
     {
         "question": "How do monsoon winds and flash floods affect system design in Marana?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "What incentives are available for Marana homeowners?",
-        "answer": "Homeowners typically use the federal tax credit and may qualify for Arizona-specific incentives or utility programs through TEP. Marana\u2019s business-friendly policies sometimes create local rebates for group-install programs \u2014 we check available incentives for your zip code."
+        "answer": "Homeowners typically use the federal tax credit and may qualify for Arizona-specific incentives or utility programs through TEP. Marana\u2019s business-friendly policies sometimes create local rebates for group-install programs - we check available incentives for your zip code."
     },
     {
         "question": "Will solar handle my high A/C loads during Marana summers?",

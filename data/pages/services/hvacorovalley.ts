@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Many Oro Valley homeowners expect high efficiency and quiet operation. Golf course homes at El Conquistador and premium neighborhoods like La Reserve often add pool heat pumps, whole\u2011home dehumidification for basements or conditioned garages, and smart thermostat ecosystems. We frequently integrate multi\u2011zone controls with Nest, Ecobee, or manufacturer proprietary systems to balance comfort across large floor plans and second\u2011story heat stacks. Tile roofs (about 70% of homes) change how we route condensate lines and access attic units; flat or foam roofs (about 20%) require different sealing practices. For 85737 and 85755 residents, we also advise about HOA policies\u2014visible condenser placement or screening can affect where equipment is mounted and how service is scheduled to meet community rules."
+            "content": "Many Oro Valley homeowners expect high efficiency and quiet operation. Golf course homes at El Conquistador and premium neighborhoods like La Reserve often add pool heat pumps, whole\u2011home dehumidification for basements or conditioned garages, and smart thermostat ecosystems. We frequently integrate multi\u2011zone controls with Nest, Ecobee, or manufacturer proprietary systems to balance comfort across large floor plans and second\u2011story heat stacks. Tile roofs (about 70% of homes) change how we route condensate lines and access attic units; flat or foam roofs (about 20%) require different sealing practices. For 85737 and 85755 residents, we also advise about HOA policies-visible condenser placement or screening can affect where equipment is mounted and how service is scheduled to meet community rules."
       },
       {
             "type": "cta",
@@ -73,9 +73,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Maintenance, Repairs & Replacement \u2014 Pricing and Expectations in Oro Valley",
+            "heading": "Maintenance, Repairs & Replacement - Pricing and Expectations in Oro Valley",
             "level": 2,
-            "content": "Maintenance, Repairs & Replacement \u2014 Pricing and Expectations in Oro Valley"
+            "content": "Maintenance, Repairs & Replacement - Pricing and Expectations in Oro Valley"
       },
       {
             "type": "paragraph",
@@ -83,17 +83,17 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "In Oro Valley we also steer homeowners toward incentives and local considerations that change costs. TEP occasionally offers rebates for high\u2011efficiency units and variable\u2011speed compressors\u2014savings that matter for homes in 85737 and 85755 where solar orientation and HOA visibility rules shape system choices. Because water is moderately hard (170\u2013200 ppm), humidification and coil maintenance schedules are slightly different than in central Tucson\u2014hard water can affect some evaporative systems and pool heat pump performance. We explain these trade\u2011offs in plain terms and show options for phased upgrades so you can balance budget, comfort, and HOA compliance."
+            "content": "In Oro Valley we also steer homeowners toward incentives and local considerations that change costs. TEP occasionally offers rebates for high\u2011efficiency units and variable\u2011speed compressors-savings that matter for homes in 85737 and 85755 where solar orientation and HOA visibility rules shape system choices. Because water is moderately hard (170\u2013200 ppm), humidification and coil maintenance schedules are slightly different than in central Tucson-hard water can affect some evaporative systems and pool heat pump performance. We explain these trade\u2011offs in plain terms and show options for phased upgrades so you can balance budget, comfort, and HOA compliance."
       },
       {
             "type": "heading",
-            "heading": "Oro Valley Community Focus \u2014 Local Landmarks & Neighborhood Needs",
+            "heading": "Oro Valley Community Focus - Local Landmarks & Neighborhood Needs",
             "level": 2,
-            "content": "Oro Valley Community Focus \u2014 Local Landmarks & Neighborhood Needs"
+            "content": "Oro Valley Community Focus - Local Landmarks & Neighborhood Needs"
       },
       {
             "type": "paragraph",
-            "content": "Serving Oro Valley means more than fixing a noisy compressor\u2014it means understanding how families use space here. Residents recreate on the Catalina foothills, walk Steam Pump Ranch, and shop the Oro Valley Marketplace; peak HVAC demand often follows evening returns from trails or the amphitheater. Homes near Catalina State Park or Pusch Ridge may need different sun\u2011control strategies than those in more sheltered Sun City neighborhoods. Schools in the Amphitheater district, championship golf courses, and community safety priorities shape scheduling and after\u2011hours emergency policies. We coordinate with HOA boards when necessary, respect community aesthetic requirements in neighborhoods like Vistoso Trails, and time service calls to avoid disruption during local events at the Loews or town festivals."
+            "content": "Serving Oro Valley means more than fixing a noisy compressor-it means understanding how families use space here. Residents recreate on the Catalina foothills, walk Steam Pump Ranch, and shop the Oro Valley Marketplace; peak HVAC demand often follows evening returns from trails or the amphitheater. Homes near Catalina State Park or Pusch Ridge may need different sun\u2011control strategies than those in more sheltered Sun City neighborhoods. Schools in the Amphitheater district, championship golf courses, and community safety priorities shape scheduling and after\u2011hours emergency policies. We coordinate with HOA boards when necessary, respect community aesthetic requirements in neighborhoods like Vistoso Trails, and time service calls to avoid disruption during local events at the Loews or town festivals."
       },
       {
             "type": "cta",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Do HOAs in Oro Valley restrict condenser placement?",
-        "answer": "Yes\u2014many HOAs in neighborhoods like La Reserve and Vistoso Trails require screening or rear/side yard placement. We work with HOA guidelines, provide placement mockups, and handle permit documentation to minimize disputes."
+        "answer": "Yes-many HOAs in neighborhoods like La Reserve and Vistoso Trails require screening or rear/side yard placement. We work with HOA guidelines, provide placement mockups, and handle permit documentation to minimize disputes."
     },
     {
         "question": "Can you install smart thermostats in older Oro Valley homes?",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Do you have a pool heat pump or plans to add one? Pool equipment affects overall electrical load and sometimes changes the sequence of starting for air conditioners and pool pumps\u2014important in neighborhoods with underground TEP infrastructure."
+        "answer": "Do you have a pool heat pump or plans to add one? Pool equipment affects overall electrical load and sometimes changes the sequence of starting for air conditioners and pool pumps-important in neighborhoods with underground TEP infrastructure."
     },
     {
         "question": "Refinement Q5",

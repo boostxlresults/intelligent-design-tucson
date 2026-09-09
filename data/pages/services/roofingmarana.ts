@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Local Pricing Transparency",
-    "description": "Typical Marana tile repairs run $300\u2013$1,200; partial re-roofing $8,000\u2013$18,000; asphalt shingle re-roofs commonly $5,000\u2013$12,000 \u2014 we provide line-item estimates by zip code and neighborhood."
+    "description": "Typical Marana tile repairs run $300\u2013$1,200; partial re-roofing $8,000\u2013$18,000; asphalt shingle re-roofs commonly $5,000\u2013$12,000 - we provide line-item estimates by zip code and neighborhood."
   },
   {
     "title": "Solar-Ready Roofing Assessments",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Marana\u2019s rapid growth\u2014especially in zip codes 85653, 85658 and sections of 85743\u2014means many roofs are newer but still face very local challenges. Homes built in the 2000s and 2010s in master-planned communities like Continental Ranch and Saguaro Bloom were often specified with clay or concrete tile to match the desert aesthetic; that\u2019s appropriate for heat but vulnerable to the area\u2019s sharp monsoon gusts. At elevations between 2,000 and 2,400 feet the sun loads and thermal cycling are different than downtown Tucson; that causes underlayment aging and nail fatigue in both tile and shingle systems. We evaluate the composite effect of local wind patterns coming off the Tortolita and Twin Peaks ridgelines, common roof deck orientations in Dove Mountain, and proximity to washes where flash floods can accelerate erosion and roof edge damage."
+            "content": "Marana\u2019s rapid growth-especially in zip codes 85653, 85658 and sections of 85743-means many roofs are newer but still face very local challenges. Homes built in the 2000s and 2010s in master-planned communities like Continental Ranch and Saguaro Bloom were often specified with clay or concrete tile to match the desert aesthetic; that\u2019s appropriate for heat but vulnerable to the area\u2019s sharp monsoon gusts. At elevations between 2,000 and 2,400 feet the sun loads and thermal cycling are different than downtown Tucson; that causes underlayment aging and nail fatigue in both tile and shingle systems. We evaluate the composite effect of local wind patterns coming off the Tortolita and Twin Peaks ridgelines, common roof deck orientations in Dove Mountain, and proximity to washes where flash floods can accelerate erosion and roof edge damage."
       },
       {
             "type": "paragraph",
-            "content": "Because Marana\u2019s housing stock skews newer, many homeowners run into builder-warranty issues instead of decades-old wear. We routinely document tile displacement, missing clips and improper flashing installations for warranty claims on newly built homes in Gladden Farms and The Residences at Dove Mountain. For starter homes and move-up properties where asphalt shingles were used (about 20% of the market), typical local problems include blown-off ridge shingles after monsoon gusts and granule loss from prolonged sun exposure. Flat roofs\u2014around 10% of Marana properties, usually on custom elevations\u2014require attention to drainage near low spots and roof parapets where wind funneling has lifted membranes."
+            "content": "Because Marana\u2019s housing stock skews newer, many homeowners run into builder-warranty issues instead of decades-old wear. We routinely document tile displacement, missing clips and improper flashing installations for warranty claims on newly built homes in Gladden Farms and The Residences at Dove Mountain. For starter homes and move-up properties where asphalt shingles were used (about 20% of the market), typical local problems include blown-off ridge shingles after monsoon gusts and granule loss from prolonged sun exposure. Flat roofs-around 10% of Marana properties, usually on custom elevations-require attention to drainage near low spots and roof parapets where wind funneling has lifted membranes."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our work in Marana connects us to local landmarks\u2014repairing wind-damaged tile near the Ritz-Carlton Dove Mountain area, assessing runoff risks around washes west of Marana Regional Airport, and advising homeowners near Twin Peaks on wind-shedding solutions. We coordinate with local inspectors and are familiar with Marana town codes and permit flows, which helps reduce delays for repairs that affect community aesthetics in master-planned neighborhoods. For families using Marana Unified School District routes, we prioritize off-peak scheduling so roof work disrupts daily life as little as possible. We also advise on pre-solar preparations for homeowners in sun-rich parcels where shading is minimal and TEP service is reliable."
+            "content": "Our work in Marana connects us to local landmarks-repairing wind-damaged tile near the Ritz-Carlton Dove Mountain area, assessing runoff risks around washes west of Marana Regional Airport, and advising homeowners near Twin Peaks on wind-shedding solutions. We coordinate with local inspectors and are familiar with Marana town codes and permit flows, which helps reduce delays for repairs that affect community aesthetics in master-planned neighborhoods. For families using Marana Unified School District routes, we prioritize off-peak scheduling so roof work disrupts daily life as little as possible. We also advise on pre-solar preparations for homeowners in sun-rich parcels where shading is minimal and TEP service is reliable."
       },
       {
             "type": "cta",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "How do you price roof work in different Marana zip codes?",
-        "answer": "Pricing reflects access, neighborhood restrictions, permit costs and material matching\u2014work in 85653 (Dove Mountain) often has higher costs for tile matching and HOA compliance, while some 85658 areas have more starter homes with asphalt shingles and lower per-square-foot replacement costs."
+        "answer": "Pricing reflects access, neighborhood restrictions, permit costs and material matching-work in 85653 (Dove Mountain) often has higher costs for tile matching and HOA compliance, while some 85658 areas have more starter homes with asphalt shingles and lower per-square-foot replacement costs."
     },
     {
         "question": "Can you prepare my Marana roof for solar panels?",

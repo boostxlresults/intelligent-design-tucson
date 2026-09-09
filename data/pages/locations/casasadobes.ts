@@ -149,11 +149,11 @@ export const casasadobesData: LocationPageData = {
             "type": "paragraph",
             "content": "Strategically located with easy access to I-10 and Oracle Road, Casas Adobes provides quick connections to downtown Tucson, Oro Valley, and surrounding areas. This central location makes commuting convenient for residents."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Casas Adobes", "level": 2, "content": "Local Community Guide \u2014 Casas Adobes"},
+            {"type": "heading", "heading": "Local Community Guide - Casas Adobes", "level": 2, "content": "Local Community Guide - Casas Adobes"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Tohono Chul Park, Rillito Regional Park, Catalina State Park, La Encantada Shopping Center, Casas Adobes Plaza. Whether you live near these landmarks or anywhere in Casas Adobes, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Wildflower, Vivace Restaurant, Blanco Tacos + Tequila, The Parish. When you need home services in Casas Adobes, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Wildflower, Vivace Restaurant, Blanco Tacos + Tequila, The Parish. When you need home services in Casas Adobes, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

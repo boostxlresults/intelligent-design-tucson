@@ -25,7 +25,7 @@ highlights: [
   },
   {
     "title": "Storm & Monsoon Response",
-    "description": "Monsoon winds and seasonal flooding demand fast, reliable service \u2014 our emergency repair teams are ready to stabilize roofs and secure homes after storms. We work quickly to limit interior damage and reduce further exposure."
+    "description": "Monsoon winds and seasonal flooding demand fast, reliable service - our emergency repair teams are ready to stabilize roofs and secure homes after storms. We work quickly to limit interior damage and reduce further exposure."
   },
   {
     "title": "Full-Service Roofing",

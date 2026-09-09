@@ -24,7 +24,7 @@ export const electricalcatalinafoothillsData: ServicePageData = {
 highlights: [
   {
     "title": "Hillside Home Electrical Experience",
-    "description": "We know Catalina Foothills houses on steep lots\u2014Ventana Canyon and Pima Canyon builds often need custom conduit runs and thoughtful access for panel upgrades without disturbing hillside landscaping."
+    "description": "We know Catalina Foothills houses on steep lots-Ventana Canyon and Pima Canyon builds often need custom conduit runs and thoughtful access for panel upgrades without disturbing hillside landscaping."
   },
   {
     "title": "Tile Roofs & Complex Rooflines",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Smart Home & High\u2011Load Integration",
-    "description": "Custom homes built in the 1980s\u20132000s in Catalina Foothills often require modern smart panels and load sequencing for EVs, solar, pool equipment, and home automation \u2014 we integrate all of it."
+    "description": "Custom homes built in the 1980s\u20132000s in Catalina Foothills often require modern smart panels and load sequencing for EVs, solar, pool equipment, and home automation - we integrate all of it."
   }
 ],
   content: {
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Catalina Foothills is a unique electrical service area\u2014homes in 85718 and 85750 range from high-end custom estates near Skyline Country Club to multi-level hillside builds in Ventana Canyon. The elevation between 2,700 and 3,200 ft creates microclimates: cooler nights and occasional frost can affect outdoor fixtures and pool control cabinets, while steeper grades change the way conduit is routed and buried. Many properties use premium exterior finishes and tile roofing; we approach every job knowing that access points matter and aesthetic preservation is important. From panel replacements to EV charger installs and generator tie-ins, our crews plan around hillside drainage and underground utility configurations common to Catalina Foothills neighborhoods."
+            "content": "Catalina Foothills is a unique electrical service area-homes in 85718 and 85750 range from high-end custom estates near Skyline Country Club to multi-level hillside builds in Ventana Canyon. The elevation between 2,700 and 3,200 ft creates microclimates: cooler nights and occasional frost can affect outdoor fixtures and pool control cabinets, while steeper grades change the way conduit is routed and buried. Many properties use premium exterior finishes and tile roofing; we approach every job knowing that access points matter and aesthetic preservation is important. From panel replacements to EV charger installs and generator tie-ins, our crews plan around hillside drainage and underground utility configurations common to Catalina Foothills neighborhoods."
       },
       {
             "type": "paragraph",
-            "content": "Typical electrical scenarios here include older systems installed during the 1980s and 1990s that still have original 100\u2011amp or older panels, high electrical demand from home automation and pools, and long landscape lighting runs across slopes. Luxury homes with open\u2011plan kitchens, multiple HVAC zones, and workshop or EV bays often require service upgrades to 200\u2013400 amp service. Underground utilities are common in new subdivisions, but driveways, retaining walls, and exotic landscaping can add complexity and cost to excavations. For homeowners in Catalina Foothills, that can mean panel upgrades range from approximately $2,500 to $6,000 and EV charger installs typically $800 to $2,200 \u2014 with final pricing dependent on existing panel capacity and distance to the garage in 85750 and 85718."
+            "content": "Typical electrical scenarios here include older systems installed during the 1980s and 1990s that still have original 100\u2011amp or older panels, high electrical demand from home automation and pools, and long landscape lighting runs across slopes. Luxury homes with open\u2011plan kitchens, multiple HVAC zones, and workshop or EV bays often require service upgrades to 200\u2013400 amp service. Underground utilities are common in new subdivisions, but driveways, retaining walls, and exotic landscaping can add complexity and cost to excavations. For homeowners in Catalina Foothills, that can mean panel upgrades range from approximately $2,500 to $6,000 and EV charger installs typically $800 to $2,200 - with final pricing dependent on existing panel capacity and distance to the garage in 85750 and 85718."
       },
       {
             "type": "cta",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Panel replacements are among the most common jobs in Catalina Foothills. Many homes built in the 1980s and 1990s were constructed with panels sized for the loads of that era; modern island kitchens, multiple HVAC systems, spa or pool equipment, and EV charging have changed demand. We survey load profiles for each residence\u2014particularly multi\u2011level homes near Sabino Canyon Recreation Area where long service runs are common\u2014and design upgrades to 200A or 400A service as needed. In this area, panel upgrades often require coordination with TEP for service changes or new meter locations; typical upgrade costs reflect this coordination and the difficulty of accessing panels on hillside lots."
+            "content": "Panel replacements are among the most common jobs in Catalina Foothills. Many homes built in the 1980s and 1990s were constructed with panels sized for the loads of that era; modern island kitchens, multiple HVAC systems, spa or pool equipment, and EV charging have changed demand. We survey load profiles for each residence-particularly multi\u2011level homes near Sabino Canyon Recreation Area where long service runs are common-and design upgrades to 200A or 400A service as needed. In this area, panel upgrades often require coordination with TEP for service changes or new meter locations; typical upgrade costs reflect this coordination and the difficulty of accessing panels on hillside lots."
       },
       {
             "type": "paragraph",
-            "content": "Backup power is another priority for Catalina Foothills properties that host pool pumps, sump systems, and critical refrigeration in upscale kitchens. Whole\u2011home generator installations usually fall between $8,000 and $25,000 depending on size and transfer switch complexity \u2014 homes with multi\u2011zone HVAC and large pools are on the higher end. We also design selective-load transfer systems for homeowners who prefer a smaller generator that prioritizes essentials while preserving budget and yard aesthetics."
+            "content": "Backup power is another priority for Catalina Foothills properties that host pool pumps, sump systems, and critical refrigeration in upscale kitchens. Whole\u2011home generator installations usually fall between $8,000 and $25,000 depending on size and transfer switch complexity - homes with multi\u2011zone HVAC and large pools are on the higher end. We also design selective-load transfer systems for homeowners who prefer a smaller generator that prioritizes essentials while preserving budget and yard aesthetics."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We understand local favorites and neighborhood patterns: homes near Finger Rock Trail and Vista points often require discreet landscape lighting and pathway circuits, while residences close to Skyline Country Club prioritize tasteful exterior lighting and pool automation. The Hacienda del Sol area and Campbell/Skyline corridor include many luxury remodels where interior rewiring is part of larger renovations. We factor in wildlife considerations\u2014javelina and coyotes can disturb low landscape fixtures\u2014so we specify durable fixtures and secure mounts. Our technicians are familiar with local permitting procedures in accessible zip codes 85718 and 85750 and work with HOA guidelines for visible wiring and exterior installations."
+            "content": "We understand local favorites and neighborhood patterns: homes near Finger Rock Trail and Vista points often require discreet landscape lighting and pathway circuits, while residences close to Skyline Country Club prioritize tasteful exterior lighting and pool automation. The Hacienda del Sol area and Campbell/Skyline corridor include many luxury remodels where interior rewiring is part of larger renovations. We factor in wildlife considerations-javelina and coyotes can disturb low landscape fixtures-so we specify durable fixtures and secure mounts. Our technicians are familiar with local permitting procedures in accessible zip codes 85718 and 85750 and work with HOA guidelines for visible wiring and exterior installations."
       },
       {
             "type": "cta",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Are whole\u2011home generators practical for Catalina Foothills luxury homes?",
-        "answer": "Yes\u2014especially for homes with pools, multiple HVAC zones, and refrigeration needs. Due to elevation and cooling demands, many homeowners choose standby generators sized to run essentials plus pool equipment. We site generators to minimize visual impact and follow local rules for setbacks and fuel storage. Costs vary widely\u2014plan for $8,000 to $25,000 based on capacity and transfer switch complexity."
+        "answer": "Yes-especially for homes with pools, multiple HVAC zones, and refrigeration needs. Due to elevation and cooling demands, many homeowners choose standby generators sized to run essentials plus pool equipment. We site generators to minimize visual impact and follow local rules for setbacks and fuel storage. Costs vary widely-plan for $8,000 to $25,000 based on capacity and transfer switch complexity."
     },
     {
         "question": "What should homeowners near Sabino Canyon and Finger Rock Trail consider for exterior lighting?",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "Are solar tie-ins and electrical prep different for Catalina Foothills properties?",
-        "answer": "Yes. Hillside orientation matters\u2014south-facing slopes are excellent in some spots but shade from canyon walls can limit production. We perform site-specific electrical prep for solar inverters and optimizers, ensure tile\u2011roof penetrations are handled properly, and size panels and combiners to accommodate battery systems or EV chargers commonly added in luxury homes."
+        "answer": "Yes. Hillside orientation matters-south-facing slopes are excellent in some spots but shade from canyon walls can limit production. We perform site-specific electrical prep for solar inverters and optimizers, ensure tile\u2011roof penetrations are handled properly, and size panels and combiners to accommodate battery systems or EV chargers commonly added in luxury homes."
     },
     {
         "question": "What is the typical timeline for a panel upgrade in Catalina Foothills?",

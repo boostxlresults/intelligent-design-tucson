@@ -1,4 +1,4 @@
-// AUTO-GENERATED from Yext API — do not edit manually
+// AUTO-GENERATED from Yext API - do not edit manually
 // Generated: 2026-05-28
 
 export interface LocationServiceEntity {

@@ -149,11 +149,11 @@ export const picturerocksData: LocationPageData = {
             "type": "paragraph",
             "content": "Picture Rocks offers some of the most affordable land and housing options in the Tucson area, making it ideal for those seeking larger properties or custom home sites. The area attracts homeowners looking for space and value."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Picture Rocks", "level": 2, "content": "Local Community Guide \u2014 Picture Rocks"},
+            {"type": "heading", "heading": "Local Community Guide - Picture Rocks", "level": 2, "content": "Local Community Guide - Picture Rocks"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Picture Rock Petroglyphs, Signal Hill, Ironwood Forest National Monument, Rio Vista Labyrinth, Saguaro National Park West. Whether you live near these landmarks or anywhere in Picture Rocks, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Ol' Pot Hole, Guadalajara's Grill & Tequila Bar, The Station Pub & Grill. When you need home services in Picture Rocks, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Ol' Pot Hole, Guadalajara's Grill & Tequila Bar, The Station Pub & Grill. When you need home services in Picture Rocks, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

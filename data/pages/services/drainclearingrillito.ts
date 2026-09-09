@@ -36,7 +36,7 @@ highlights: [
   },
   {
     "title": "Well water & hard water impacts",
-    "description": "Very hard well water in the area (240+ ppm) accelerates mineral buildup in traps and fixtures \u2014 we descale, flush, and recommend water\u2011tolerant fixes."
+    "description": "Very hard well water in the area (240+ ppm) accelerates mineral buildup in traps and fixtures - we descale, flush, and recommend water\u2011tolerant fixes."
   },
   {
     "title": "Agricultural runoff awareness",
@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "For manufactured homes \u2014 which make up around 40% of Rillito\u2019s housing stock \u2014 the common issues include collapsed lateral sections where older materials meet newer fittings, and blockages from buildup in underslab traps. Flat roofs and polybutylene or older PVC outfalls in 1970s\u20131990s homes require special handling to avoid damage. Because access can mean long runs across large lots or crossing irrigation ditches, our technicians bring longer hose reels, trailer\u2011mounted pumps, and GPS\u2011marked plans so future crews can locate cleanouts without disturbing yard irrigation systems or crops."
+            "content": "For manufactured homes - which make up around 40% of Rillito\u2019s housing stock - the common issues include collapsed lateral sections where older materials meet newer fittings, and blockages from buildup in underslab traps. Flat roofs and polybutylene or older PVC outfalls in 1970s\u20131990s homes require special handling to avoid damage. Because access can mean long runs across large lots or crossing irrigation ditches, our technicians bring longer hose reels, trailer\u2011mounted pumps, and GPS\u2011marked plans so future crews can locate cleanouts without disturbing yard irrigation systems or crops."
       },
       {
             "type": "cta",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Pricing and timing in zip code 85654 reflect these realities. A routine unclog in a manufactured home with easy access often falls into the lower end of our $129\u2013$299 range. If a camera inspection is needed \u2014 common near the Santa Cruz River corridor or older Marana border homes \u2014 expect diagnostic fees around $299\u2013$599, with repair quotes that consider long trench runs, septic tank relocations, or clay\u2011to\u2011modern pipe transitions."
+            "content": "Pricing and timing in zip code 85654 reflect these realities. A routine unclog in a manufactured home with easy access often falls into the lower end of our $129\u2013$299 range. If a camera inspection is needed - common near the Santa Cruz River corridor or older Marana border homes - expect diagnostic fees around $299\u2013$599, with repair quotes that consider long trench runs, septic tank relocations, or clay\u2011to\u2011modern pipe transitions."
       },
       {
             "type": "heading",
@@ -157,7 +157,7 @@ highlights: [
     },
     {
         "question": "Do you notice slow drains across multiple fixtures or just one?",
-        "answer": "If several fixtures are slow, the issue is more likely in the main lateral or septic connection\u2014common in older 1970s\u20131990s builds and manufactured homes. A single fixture typically indicates a local trap or vent. This distinction determines whether we start with a local mechanical clear or a whole\u2011line camera inspection in zip code 85654."
+        "answer": "If several fixtures are slow, the issue is more likely in the main lateral or septic connection-common in older 1970s\u20131990s builds and manufactured homes. A single fixture typically indicates a local trap or vent. This distinction determines whether we start with a local mechanical clear or a whole\u2011line camera inspection in zip code 85654."
     },
     {
         "question": "Are there visible signs of roots or sinking in your yard?",

@@ -145,11 +145,11 @@ export const sahuaritaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Sahuarita", "level": 2, "content": "Local Community Guide \u2014 Sahuarita"},
+            {"type": "heading", "heading": "Local Community Guide - Sahuarita", "level": 2, "content": "Local Community Guide - Sahuarita"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near ASARCO Mineral Discovery Center & Mine Tours, Titan Missile Museum, Tumacacori National Historical Park, Empire Ranch Foundation. Whether you live near these landmarks or anywhere in Sahuarita, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, JerryBobs Restaurant, Mountain View Cafe. When you need home services in Sahuarita, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like National Eats, El Patio Mexican Restaurant, Manuel's Mexican Restaurant, JerryBobs Restaurant, Mountain View Cafe. When you need home services in Sahuarita, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

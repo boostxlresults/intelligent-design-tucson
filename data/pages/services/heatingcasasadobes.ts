@@ -24,7 +24,7 @@ export const heatingcasasadobesData: ServicePageData = {
 highlights: [
   {
     "title": "Experience with Mid\u2011Century Ranch Systems",
-    "description": "Homes built in the 1970s around Casas Adobes Plaza often keep original duct layouts and undersized furnaces \u2014 we diagnose and modernize these systems while preserving original ceiling lines."
+    "description": "Homes built in the 1970s around Casas Adobes Plaza often keep original duct layouts and undersized furnaces - we diagnose and modernize these systems while preserving original ceiling lines."
   },
   {
     "title": "Heat\u2011Pump Upgrades for Cooler Elevation",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Casas Adobes neighborhoods\u2014from the original ranch homes near Casas Adobes Plaza to the 1980s subdivisions off Ina and Oracle and newer luxury builds near La Cholla Airpark\u2014require heating solutions that respect older construction and modern comfort standards. Many homes in 85704 and 85741 were constructed in the 1970s and 1980s and still use ductwork routed through attic spaces above tile or built\u2011up roofs; that means heat loss through older ducts, mismatched equipment, and less-than-ideal airflow are common. Our technicians evaluate insulation, duct sealing, and system sizing with an eye toward the area\u2019s mature tree canopy and slightly lower average temperatures due to the 2,500 ft elevation. That microclimate means a properly sized heat pump or high\u2011efficiency furnace not only improves comfort but often reduces seasonal runtime. We also factor in HOA restrictions common in Casas Adobes Estates and noise ordinances along the Ina/Oracle corridor when recommending outdoor unit placement."
+            "content": "Casas Adobes neighborhoods-from the original ranch homes near Casas Adobes Plaza to the 1980s subdivisions off Ina and Oracle and newer luxury builds near La Cholla Airpark-require heating solutions that respect older construction and modern comfort standards. Many homes in 85704 and 85741 were constructed in the 1970s and 1980s and still use ductwork routed through attic spaces above tile or built\u2011up roofs; that means heat loss through older ducts, mismatched equipment, and less-than-ideal airflow are common. Our technicians evaluate insulation, duct sealing, and system sizing with an eye toward the area\u2019s mature tree canopy and slightly lower average temperatures due to the 2,500 ft elevation. That microclimate means a properly sized heat pump or high\u2011efficiency furnace not only improves comfort but often reduces seasonal runtime. We also factor in HOA restrictions common in Casas Adobes Estates and noise ordinances along the Ina/Oracle corridor when recommending outdoor unit placement."
       },
       {
             "type": "paragraph",
-            "content": "Specific heating problems we see in Casas Adobes include aging R\u201122 systems in original 1970s and 1980s installations, undersized furnaces after room additions, and access challenges where tile roofs and built\u2011up roofing dominate. For homeowners in 85742 near Tohono Chul Park, shaded yards can lower sun exposure and slightly increase heating load during winter nights; conversely, homes facing Rillito River Park may benefit from open microclimates but still contend with attic heat loss. We provide local cost context\u2014routine winter tune\u2011ups often fall between $99 and $179 in Casas Adobes, while direct replacement of older heat pumps or packaged systems can range from roughly $4,500 to $9,500 depending on ductwork condition and roof access requirements. Our estimates always itemize HOA\u2011related considerations, permitting needs, and any tile\u2011roof protections we\u2019ll use."
+            "content": "Specific heating problems we see in Casas Adobes include aging R\u201122 systems in original 1970s and 1980s installations, undersized furnaces after room additions, and access challenges where tile roofs and built\u2011up roofing dominate. For homeowners in 85742 near Tohono Chul Park, shaded yards can lower sun exposure and slightly increase heating load during winter nights; conversely, homes facing Rillito River Park may benefit from open microclimates but still contend with attic heat loss. We provide local cost context-routine winter tune\u2011ups often fall between $99 and $179 in Casas Adobes, while direct replacement of older heat pumps or packaged systems can range from roughly $4,500 to $9,500 depending on ductwork condition and roof access requirements. Our estimates always itemize HOA\u2011related considerations, permitting needs, and any tile\u2011roof protections we\u2019ll use."
       },
       {
             "type": "cta",
@@ -73,9 +73,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Sizing, Ductwork, and Roof Access \u2014 Local Considerations",
+            "heading": "Sizing, Ductwork, and Roof Access - Local Considerations",
             "level": 2,
-            "content": "Sizing, Ductwork, and Roof Access \u2014 Local Considerations"
+            "content": "Sizing, Ductwork, and Roof Access - Local Considerations"
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work with homeowners and HOAs throughout Casas Adobes, from residents near Casas Adobes Plaza and La Encantada shoppers to families living by Rillito River Park. Our crews are familiar with local landmark access\u2014servicing properties near Tohono Chul Park requires particular attention to landscaping and drip irrigation lines when bringing equipment to backyards. We advise residents who frequent local restaurants like Blanco Tacos + Tequila or North Italia on scheduling service outside of busy weekend hours and coordinate arrival windows to minimize disruption. Community awareness also means replacing noisy outdoor fans where neighbors are close and obtaining any HOA approvals for condenser siting in Casas Adobes Estates or Shannon Heights. Our goal is practical comfort solutions that respect the neighborhood fabric, property values, and established landscaping."
+            "content": "We work with homeowners and HOAs throughout Casas Adobes, from residents near Casas Adobes Plaza and La Encantada shoppers to families living by Rillito River Park. Our crews are familiar with local landmark access-servicing properties near Tohono Chul Park requires particular attention to landscaping and drip irrigation lines when bringing equipment to backyards. We advise residents who frequent local restaurants like Blanco Tacos + Tequila or North Italia on scheduling service outside of busy weekend hours and coordinate arrival windows to minimize disruption. Community awareness also means replacing noisy outdoor fans where neighbors are close and obtaining any HOA approvals for condenser siting in Casas Adobes Estates or Shannon Heights. Our goal is practical comfort solutions that respect the neighborhood fabric, property values, and established landscaping."
       },
       {
             "type": "cta",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Would you like a focus on upfront cost or lowest operating cost? We can present both options\u2014lower upfront replacement with standard efficiency or higher\u2011efficiency heat pumps that reduce TEP bills over time. Tell us your ZIP code (85704, 85741, or 85742) to include local pricing and rebate possibilities."
+        "answer": "Would you like a focus on upfront cost or lowest operating cost? We can present both options-lower upfront replacement with standard efficiency or higher\u2011efficiency heat pumps that reduce TEP bills over time. Tell us your ZIP code (85704, 85741, or 85742) to include local pricing and rebate possibilities."
     },
     {
         "question": "Refinement Q5",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Refinement Q6",
-        "answer": "What comfort issues are you experiencing\u2014cold rooms, long runtimes, noisy equipment? Describe when the problem occurs and which rooms are affected. With that, we\u2019ll propose targeted fixes like duct sealing, thermostat zoning, or full system replacement tailored to Casas Adobes housing and your neighborhood\u2019s character."
+        "answer": "What comfort issues are you experiencing-cold rooms, long runtimes, noisy equipment? Describe when the problem occurs and which rooms are affected. With that, we\u2019ll propose targeted fixes like duct sealing, thermostat zoning, or full system replacement tailored to Casas Adobes housing and your neighborhood\u2019s character."
     }
 ],
   

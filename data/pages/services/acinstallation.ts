@@ -82,7 +82,7 @@ export const acinstallationData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Get Your Free In-Home Estimate",
-            "content": "Skip the online guesswork. We come to you, measure your home, and give you an accurate, no-pressure estimate \u2014 the honest way to price a new system. Book in seconds.",
+            "content": "Skip the online guesswork. We come to you, measure your home, and give you an accurate, no-pressure estimate - the honest way to price a new system. Book in seconds.",
             "buttonText": "Schedule Your Free Estimate",
             "buttonLink": "#schedule"
       },

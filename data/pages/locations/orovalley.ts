@@ -145,11 +145,11 @@ export const orovalleyData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Oro Valley", "level": 2, "content": "Local Community Guide \u2014 Oro Valley"},
+            {"type": "heading", "heading": "Local Community Guide - Oro Valley", "level": 2, "content": "Local Community Guide - Oro Valley"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Picture Rock Petroglyphs, Mona's Bridge, Steam Pump Ranch, Rio Vista Labyrinth, Honey Bee Village Archaeological Preserve. Whether you live near these landmarks or anywhere in Oro Valley, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Redbird Scratch Kitchen + Bar, The Parish, Wildflower, Vivace Restaurant. When you need home services in Oro Valley, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like North Italia, Redbird Scratch Kitchen + Bar, The Parish, Wildflower, Vivace Restaurant. When you need home services in Oro Valley, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

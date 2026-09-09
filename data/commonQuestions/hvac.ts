@@ -30,7 +30,7 @@ export const hvacMaintenanceQuestions: CommonQuestion[] = [
   },
   {
     question: "How often should I have my HVAC system serviced in Tucson?",
-    answer: "In Tucson's extreme climate, we recommend servicing your AC twice per year—once in spring before cooling season and once in fall. Heating systems should be serviced annually before winter. Regular maintenance prevents breakdowns, improves efficiency, extends equipment life, and maintains manufacturer warranties. Our Family Protection Plans include all necessary service visits."
+    answer: "In Tucson's extreme climate, we recommend servicing your AC twice per year-once in spring before cooling season and once in fall. Heating systems should be serviced annually before winter. Regular maintenance prevents breakdowns, improves efficiency, extends equipment life, and maintains manufacturer warranties. Our Family Protection Plans include all necessary service visits."
   }
 ];
 

@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Avra Valley sits at about 2,400 feet elevation and stretches from the Picture Rocks border through the Mile Wide area toward Three Points. Homes here are predominantly single-story ranch layouts on large 1\u20135 acre lots, mixed with manufactured homes and newer custom desert builds with stucco exteriors and tile roofs. That housing mix creates unique HVAC needs: long duct runs, larger conditioned volumes, and equipment exposed to dust and intense sun. Our technicians account for the local median home age\u2014many houses were built in the 1990s and 2000s\u2014when planning repairs or retrofits. We adjust load calculations for higher daytime heat plus noticeably cooler nights than central Tucson, and we recommend insulation and airflow strategies that respect the typical attic construction and tile roofing common in Avra Valley."
+            "content": "Avra Valley sits at about 2,400 feet elevation and stretches from the Picture Rocks border through the Mile Wide area toward Three Points. Homes here are predominantly single-story ranch layouts on large 1\u20135 acre lots, mixed with manufactured homes and newer custom desert builds with stucco exteriors and tile roofs. That housing mix creates unique HVAC needs: long duct runs, larger conditioned volumes, and equipment exposed to dust and intense sun. Our technicians account for the local median home age-many houses were built in the 1990s and 2000s-when planning repairs or retrofits. We adjust load calculations for higher daytime heat plus noticeably cooler nights than central Tucson, and we recommend insulation and airflow strategies that respect the typical attic construction and tile roofing common in Avra Valley."
       },
       {
             "type": "paragraph",
-            "content": "Dust infiltration from unpaved driveways and desert winds is the most common complaint we see in 85743 and 85653. Filters clog faster, evaporator coils gather grit, and blower motors work harder. Homes near Saguaro National Park West and Tucson Mountain Park can also see fine organic dust after monsoon winds. Typical service calls in Avra Valley often begin with a deep clean and filter program; homeowners should expect local service rates to reflect travel and long run times\u2014service calls commonly start around $99\u2013$129, while full diagnostics for older systems typically range higher if duct repairs are required. For whole-system replacements in larger ranch homes, budgets commonly fall between $6,500 and $12,000 depending on ductwork condition, system efficiency, and whether variable-speed equipment is chosen."
+            "content": "Dust infiltration from unpaved driveways and desert winds is the most common complaint we see in 85743 and 85653. Filters clog faster, evaporator coils gather grit, and blower motors work harder. Homes near Saguaro National Park West and Tucson Mountain Park can also see fine organic dust after monsoon winds. Typical service calls in Avra Valley often begin with a deep clean and filter program; homeowners should expect local service rates to reflect travel and long run times-service calls commonly start around $99\u2013$129, while full diagnostics for older systems typically range higher if duct repairs are required. For whole-system replacements in larger ranch homes, budgets commonly fall between $6,500 and $12,000 depending on ductwork condition, system efficiency, and whether variable-speed equipment is chosen."
       },
       {
             "type": "cta",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We tailor service intervals to the local housing stock: manufactured homes along the Sandario corridor often need quicker filter rotations and blower inspections, while custom desert builds bordering Saguaro National Park West may require attention to roof penetrations and roof-mounted equipment on tile. For older 1990s ranches, we focus on duct sealing and verifying insulation R-values in attics that rarely receive upgrades. When recommending replacements, we include line-set length and electrical run costs\u2014longer runs from transformers in rural Avra Valley can add to installation expense, so we provide transparent line-item estimates to help homeowners in 85743 and 85653 plan accurately."
+            "content": "We tailor service intervals to the local housing stock: manufactured homes along the Sandario corridor often need quicker filter rotations and blower inspections, while custom desert builds bordering Saguaro National Park West may require attention to roof penetrations and roof-mounted equipment on tile. For older 1990s ranches, we focus on duct sealing and verifying insulation R-values in attics that rarely receive upgrades. When recommending replacements, we include line-set length and electrical run costs-longer runs from transformers in rural Avra Valley can add to installation expense, so we provide transparent line-item estimates to help homeowners in 85743 and 85653 plan accurately."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re familiar with the character of Avra Valley \u2014 rural parcels, ranch-style living, and the small cluster of restaurants like El Molinito Restaurant and Desert Rain Cafe where neighbors connect. Our crews often work near landmarks such as the Arizona-Sonora Desert Museum, Old Tucson Studios, and Cat Mountain. Because many properties are on well systems and are more remote from TEP infrastructure, we coordinate with homeowners on scheduling to minimize disruption during utility work or monsoon-related road conditions. We also advise homeowners in the Mile Wide area and Picture Rocks border about keeping gravel approaches and dust breaks to reduce HVAC infiltration and extend equipment life."
+            "content": "We\u2019re familiar with the character of Avra Valley - rural parcels, ranch-style living, and the small cluster of restaurants like El Molinito Restaurant and Desert Rain Cafe where neighbors connect. Our crews often work near landmarks such as the Arizona-Sonora Desert Museum, Old Tucson Studios, and Cat Mountain. Because many properties are on well systems and are more remote from TEP infrastructure, we coordinate with homeowners on scheduling to minimize disruption during utility work or monsoon-related road conditions. We also advise homeowners in the Mile Wide area and Picture Rocks border about keeping gravel approaches and dust breaks to reduce HVAC infiltration and extend equipment life."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Why do filters clog so quickly in Avra Valley?",
-        "answer": "Avra Valley\u2019s open desert terrain and unpaved roads send fine dust and grit into homes, particularly after wind events. The Mile Wide area and properties near Picture Rocks see airborne particulates that accumulate on filters and coils faster than in urban neighborhoods. We recommend pleated MERV 8\u201311 filters on a tighter replacement schedule\u2014often every 30\u201360 days for high-exposure homes\u2014and a proactive coil-cleaning plan to preserve efficiency."
+        "answer": "Avra Valley\u2019s open desert terrain and unpaved roads send fine dust and grit into homes, particularly after wind events. The Mile Wide area and properties near Picture Rocks see airborne particulates that accumulate on filters and coils faster than in urban neighborhoods. We recommend pleated MERV 8\u201311 filters on a tighter replacement schedule-often every 30\u201360 days for high-exposure homes-and a proactive coil-cleaning plan to preserve efficiency."
     },
     {
         "question": "How does elevation (2,400 ft) affect HVAC sizing in Avra Valley?",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Do you replace ductwork in older Avra Valley ranch homes?",
-        "answer": "Yes\u2014many ranch homes built in the 1990s have ductwork routed through unconditioned attics with degraded insulation and taped joints. We assess the degree of deterioration and recommend targeted repairs or full replacement depending on leakage levels. Materials and labor costs reflect the long runs common on one-acre parcels, and we include local pricing for 85743 and 85653 properties in estimates."
+        "answer": "Yes-many ranch homes built in the 1990s have ductwork routed through unconditioned attics with degraded insulation and taped joints. We assess the degree of deterioration and recommend targeted repairs or full replacement depending on leakage levels. Materials and labor costs reflect the long runs common on one-acre parcels, and we include local pricing for 85743 and 85653 properties in estimates."
     },
     {
         "question": "What should homeowners with well water know about their HVAC system?",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "Are solar HVAC options viable in Avra Valley?",
-        "answer": "Avra Valley has excellent solar potential \u2014 minimal tree cover, large roof areas, and 300+ sun days per year. For homeowners interested in solar-assisted HVAC or electrically powered heat pump systems, we evaluate roof orientation, tile roof mounting constraints, and electrical runs from TEP transformers to provide a feasible plan that considers long-term savings."
+        "answer": "Avra Valley has excellent solar potential - minimal tree cover, large roof areas, and 300+ sun days per year. For homeowners interested in solar-assisted HVAC or electrically powered heat pump systems, we evaluate roof orientation, tile roof mounting constraints, and electrical runs from TEP transformers to provide a feasible plan that considers long-term savings."
     },
     {
         "question": "How do monsoon rains affect exterior HVAC equipment here?",
@@ -165,7 +165,7 @@ highlights: [
     },
     {
         "question": "Refinement Q5",
-        "answer": "Do tile roofs affect HVAC installation choices in Avra Valley? Yes\u2014tile roofs are common here and require specific mounting practices for roof-top or attic ventilation penetrations. We coordinate with roofers experienced with tile to ensure penetrations are properly flashed and sealed to prevent leaks, and we advise on optimal placement to minimize long line-sets."
+        "answer": "Do tile roofs affect HVAC installation choices in Avra Valley? Yes-tile roofs are common here and require specific mounting practices for roof-top or attic ventilation penetrations. We coordinate with roofers experienced with tile to ensure penetrations are properly flashed and sealed to prevent leaks, and we advise on optimal placement to minimize long line-sets."
     },
     {
         "question": "Refinement Q6",

@@ -33,7 +33,7 @@ highlights: [
   },
   {
     "title": "Budget-Conscious Repairs",
-    "description": "With many homes built in the 1970s\u20131990s, deferred maintenance is common \u2014 we provide affordable repair options to extend roof life and defer full replacements when safe."
+    "description": "With many homes built in the 1970s\u20131990s, deferred maintenance is common - we provide affordable repair options to extend roof life and defer full replacements when safe."
   },
   {
     "title": "Community Focus",
@@ -51,7 +51,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Drexel Heights roofing conditions are shaped by the local Tucson climate with slightly cooler highs thanks to a 2,600-foot elevation and afternoon shade from nearby Tucson Mountains. Homes in the area\u2014many single-story block homes built between the 1970s and 1990s\u2014often retain original roofing materials that are now past their expected lifespans. Tile roofs can develop cracked or slipped pieces while asphalt shingles show granule loss and curl from years of sun exposure. Flat roofs, common on some renovated and manufactured homes in the neighborhood, are prone to ponding water after storms, which accelerates membrane breakdown. Regular inspections and maintenance reduce leaks, protect interiors, and preserve curb appeal for established, budget-conscious homeowners in this working-class community."
+        "content": "Drexel Heights roofing conditions are shaped by the local Tucson climate with slightly cooler highs thanks to a 2,600-foot elevation and afternoon shade from nearby Tucson Mountains. Homes in the area-many single-story block homes built between the 1970s and 1990s-often retain original roofing materials that are now past their expected lifespans. Tile roofs can develop cracked or slipped pieces while asphalt shingles show granule loss and curl from years of sun exposure. Flat roofs, common on some renovated and manufactured homes in the neighborhood, are prone to ponding water after storms, which accelerates membrane breakdown. Regular inspections and maintenance reduce leaks, protect interiors, and preserve curb appeal for established, budget-conscious homeowners in this working-class community."
     },
     {
         "type": "paragraph",

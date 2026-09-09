@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Recirculating Systems for Multi\u2011Level Homes",
-    "description": "Two\u2011story homes in Vistoso Trails and Pusch Ridge Vistas often need hot water recirculation to avoid long waits and wasted water\u2014solutions tailored to existing plumbing layouts."
+    "description": "Two\u2011story homes in Vistoso Trails and Pusch Ridge Vistas often need hot water recirculation to avoid long waits and wasted water-solutions tailored to existing plumbing layouts."
   },
   {
     "title": "Pool & Spa Plumbing Near Catalina State Park",
@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "HOA\u2011Aware Repairs and Permitting",
-    "description": "Strong HOAs in Sun City Oro Valley and upscale planned communities require discretion and permit compliance\u2014we coordinate with associations for visible work and inspections."
+    "description": "Strong HOAs in Sun City Oro Valley and upscale planned communities require discretion and permit compliance-we coordinate with associations for visible work and inspections."
   },
   {
     "title": "Tile\u2011Roof Friendly Service for Elevated Homes",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Oro Valley homeowners live at 2,600\u20133,200 feet elevation with microclimates that affect plumbing performance\u2014afternoon mountain shade from the Catalina range keeps some valleys cooler and increases localized humidity after summer monsoon storms. Many properties built in the 1990s through the 2010s feature premium fixtures, whole\u2011house filtration prep, and tiled roofs requiring careful access. Our technicians assess home age and construction (common stucco exteriors, concrete slab foundations, and frequent use of PEX or copper retrofits) to recommend repairs that respect HOA aesthetics in neighborhoods like Rancho Vistoso or La Reserve. Pricing for a basic service call in Oro Valley typically starts in the $99\u2013$149 range depending on zip code (85737, 85755) and the time needed for HOA coordination or permits."
+            "content": "Oro Valley homeowners live at 2,600\u20133,200 feet elevation with microclimates that affect plumbing performance-afternoon mountain shade from the Catalina range keeps some valleys cooler and increases localized humidity after summer monsoon storms. Many properties built in the 1990s through the 2010s feature premium fixtures, whole\u2011house filtration prep, and tiled roofs requiring careful access. Our technicians assess home age and construction (common stucco exteriors, concrete slab foundations, and frequent use of PEX or copper retrofits) to recommend repairs that respect HOA aesthetics in neighborhoods like Rancho Vistoso or La Reserve. Pricing for a basic service call in Oro Valley typically starts in the $99\u2013$149 range depending on zip code (85737, 85755) and the time needed for HOA coordination or permits."
       },
       {
             "type": "paragraph",
-            "content": "Scale buildup from Oro Valley\u2019s moderate\u2011hard water (170\u2013200 ppm) accelerates failure in water heaters, reverse osmosis units, and under\u2011counter pumps\u2014especially in homes with two\u2011story plumbing runs common in Vistoso Trails. We commonly replace sacrificial anode rods, install softening or targeted remineralization where homeowners wish to protect luxury bathroom hardware, and recommend tankless or insulated recirculation loops for faster hot water delivery in long runs."
+            "content": "Scale buildup from Oro Valley\u2019s moderate\u2011hard water (170\u2013200 ppm) accelerates failure in water heaters, reverse osmosis units, and under\u2011counter pumps-especially in homes with two\u2011story plumbing runs common in Vistoso Trails. We commonly replace sacrificial anode rods, install softening or targeted remineralization where homeowners wish to protect luxury bathroom hardware, and recommend tankless or insulated recirculation loops for faster hot water delivery in long runs."
       },
       {
             "type": "cta",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Many Oro Valley properties include pools, spas, and outdoor kitchens to take advantage of mountain views and cool evening breezes. Pool plumbing issues here often show as pressure fluctuations after high\u2011sediment monsoon runoff or when irrigation bleed into pool equipment occurs. We perform camera inspections of underground pool lines, replace aging PVC runs, and retrofit energy\u2011efficient variable\u2011speed pump systems tuned to higher yard elevations. For outdoor kitchens\u2014common near Catalina foothill homes\u2014we install frost\u2011aware shutoffs, grease\u2011resistant drain lines, and backflow preventers that meet Pima County standards and HOA guidelines."
+            "content": "Many Oro Valley properties include pools, spas, and outdoor kitchens to take advantage of mountain views and cool evening breezes. Pool plumbing issues here often show as pressure fluctuations after high\u2011sediment monsoon runoff or when irrigation bleed into pool equipment occurs. We perform camera inspections of underground pool lines, replace aging PVC runs, and retrofit energy\u2011efficient variable\u2011speed pump systems tuned to higher yard elevations. For outdoor kitchens-common near Catalina foothill homes-we install frost\u2011aware shutoffs, grease\u2011resistant drain lines, and backflow preventers that meet Pima County standards and HOA guidelines."
       },
       {
             "type": "paragraph",
-            "content": "Whole\u2011home filtration and softened water are frequent requests from homeowners who want to protect premium finishes in kitchens and baths. Instead of one\u2011size\u2011fits\u2011all systems, we design filtration that accounts for Oro Valley\u2019s seasonal water chemistry, household size, and landscaping irrigation demands. Typical install costs for filtration or softening systems vary; in Oro Valley expect a broader range due to upscale home plumbing complexity and HOA coordination\u2014rough estimates are $1,500\u2013$5,000 depending on system capacity and extras like UV sterilization or reclaimed water setups."
+            "content": "Whole\u2011home filtration and softened water are frequent requests from homeowners who want to protect premium finishes in kitchens and baths. Instead of one\u2011size\u2011fits\u2011all systems, we design filtration that accounts for Oro Valley\u2019s seasonal water chemistry, household size, and landscaping irrigation demands. Typical install costs for filtration or softening systems vary; in Oro Valley expect a broader range due to upscale home plumbing complexity and HOA coordination-rough estimates are $1,500\u2013$5,000 depending on system capacity and extras like UV sterilization or reclaimed water setups."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We regularly service homes around Rancho Vistoso, Sun City Oro Valley, Pusch Ridge Vistas, and Vistoso Trails, and coordinate with landscape crews near Steam Pump Ranch and Oro Valley Marketplace. Proximity to Catalina State Park means trailhead parking and access can impact worksite staging\u2014our crews factor local traffic patterns and popular weekend trail use into scheduling. We also respond to commercial plumbing needs for local restaurants such as Harvest Restaurant and Primo when kitchen lines or grease traps require urgent attention."
+            "content": "We regularly service homes around Rancho Vistoso, Sun City Oro Valley, Pusch Ridge Vistas, and Vistoso Trails, and coordinate with landscape crews near Steam Pump Ranch and Oro Valley Marketplace. Proximity to Catalina State Park means trailhead parking and access can impact worksite staging-our crews factor local traffic patterns and popular weekend trail use into scheduling. We also respond to commercial plumbing needs for local restaurants such as Harvest Restaurant and Primo when kitchen lines or grease traps require urgent attention."
       },
       {
             "type": "cta",
@@ -153,7 +153,7 @@ highlights: [
     },
     {
         "question": "Should I disclose HOA rules before scheduling exterior plumbing work?",
-        "answer": "Yes. Sharing HOA guidelines up front\u2014approved vendor lists, paint/fixture color restrictions, and permit contacts\u2014lets us prepare compliant proposals and avoid delays. We can liaise directly with HOA management in Sun City Oro Valley, Rancho Vistoso, or La Reserve when authorized."
+        "answer": "Yes. Sharing HOA guidelines up front-approved vendor lists, paint/fixture color restrictions, and permit contacts-lets us prepare compliant proposals and avoid delays. We can liaise directly with HOA management in Sun City Oro Valley, Rancho Vistoso, or La Reserve when authorized."
     },
     {
         "question": "How do you price pool plumbing repairs in Oro Valley?",
@@ -165,7 +165,7 @@ highlights: [
     },
     {
         "question": "Do you recommend softeners or selective filtration for Oro Valley homes?",
-        "answer": "For many Oro Valley homes we recommend selective filtration\u2014combining point\u2011of\u2011use RO for drinking water with targeted softening or scale prevention for water heaters and dishwashers. This approach balances cost, HOA aesthetics, and the moderate\u2011hard water profile."
+        "answer": "For many Oro Valley homes we recommend selective filtration-combining point\u2011of\u2011use RO for drinking water with targeted softening or scale prevention for water heaters and dishwashers. This approach balances cost, HOA aesthetics, and the moderate\u2011hard water profile."
     },
     {
         "question": "How do you protect tile roofs when accessing second\u2011story plumbing?",

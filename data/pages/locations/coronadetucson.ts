@@ -314,11 +314,11 @@ export const coronadetucsonData: LocationPageData = {
             "type": "paragraph",
             "content": "Common questions about our Corona de Tucson services"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Corona de Tucson", "level": 2, "content": "Local Community Guide \u2014 Corona de Tucson"},
+            {"type": "heading", "heading": "Local Community Guide - Corona de Tucson", "level": 2, "content": "Local Community Guide - Corona de Tucson"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Empire Ranch Foundation, Colossal Cave Mountain Park, Pima County Fairgrounds, Rincon Mountain Visitor Center, Saguaro National Park East. Whether you live near these landmarks or anywhere in Corona de Tucson, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Cotton Restaurant, Kingfisher, Garage Sports Bar. When you need home services in Corona de Tucson, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, Cotton Restaurant, Kingfisher, Garage Sports Bar. When you need home services in Corona de Tucson, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Ready for Expert Service in Corona de Tucson?",

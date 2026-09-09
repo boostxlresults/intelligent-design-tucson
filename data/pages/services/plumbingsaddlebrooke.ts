@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Water heater upgrades for fixed incomes",
-    "description": "Recommendations and install pricing reflect SaddleBrooke realities\u2014typical tank replacements run $1,200\u2013$3,500 and high-efficiency heat pump models save more on TEP bills over time."
+    "description": "Recommendations and install pricing reflect SaddleBrooke realities-typical tank replacements run $1,200\u2013$3,500 and high-efficiency heat pump models save more on TEP bills over time."
   },
   {
     "title": "Moderate water hardness solutions",
@@ -36,7 +36,7 @@ highlights: [
   },
   {
     "title": "Accessibility-focused plumbing",
-    "description": "We retrofit showers, sinks, and piping in single-story, 55+ homes\u2014custom work for Preserve, MountainView, and SaddleBrooke proper addresses grab-bar mounts, walk-in showers, and raised toilets."
+    "description": "We retrofit showers, sinks, and piping in single-story, 55+ homes-custom work for Preserve, MountainView, and SaddleBrooke proper addresses grab-bar mounts, walk-in showers, and raised toilets."
   },
   {
     "title": "Tile roof-aware service",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "SaddleBrooke\u2019s housing\u2014primarily single-story luxury and active-adult homes from the 1990s through the 2010s\u2014creates distinct plumbing needs. Many properties in zip code 85739 feature premium finishes, high-end fixtures, and tile roofs that require careful job-site protection and non-invasive access for repairs. The community\u2019s location at about 3,400 feet near the Catalina Mountains brings cooler temperatures, more seasonal rainfall, and the occasional winter frost; that combination elevates risk to exposed irrigation lines, exterior hose bibs, and poorly insulated supply lines. Water in this area runs at moderate hardness (approximately 160\u2013190 ppm on Metro Water), meaning scale builds up in tank water heaters and on faucets if not addressed proactively. Our SaddleBrooke plumbing work focuses on preserving luxury finishes while controlling scale, insulating vulnerable piping, and coordinating with HOAs in areas like SaddleBrooke Ranch and the Preserve where exteriors are HOA-maintained. We handle everything from leak detection in vaulted-ceiling bathrooms to discreet repiping for accessibility upgrades."
+            "content": "SaddleBrooke\u2019s housing-primarily single-story luxury and active-adult homes from the 1990s through the 2010s-creates distinct plumbing needs. Many properties in zip code 85739 feature premium finishes, high-end fixtures, and tile roofs that require careful job-site protection and non-invasive access for repairs. The community\u2019s location at about 3,400 feet near the Catalina Mountains brings cooler temperatures, more seasonal rainfall, and the occasional winter frost; that combination elevates risk to exposed irrigation lines, exterior hose bibs, and poorly insulated supply lines. Water in this area runs at moderate hardness (approximately 160\u2013190 ppm on Metro Water), meaning scale builds up in tank water heaters and on faucets if not addressed proactively. Our SaddleBrooke plumbing work focuses on preserving luxury finishes while controlling scale, insulating vulnerable piping, and coordinating with HOAs in areas like SaddleBrooke Ranch and the Preserve where exteriors are HOA-maintained. We handle everything from leak detection in vaulted-ceiling bathrooms to discreet repiping for accessibility upgrades."
       },
       {
             "type": "paragraph",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Because SaddleBrooke homeowners expect care for premium interiors and minimal disruption, our replacement work\u2014whether swapping a 50\u201380 gallon water heater or installing a whole-house filtration system\u2014uses methods that protect tile floors and stone countertops frequent in homes built in the 1990s to the 2010s. Typical service-call pricing for local diagnostics runs $150\u2013$250 depending on access; common minor repairs are often in the $250\u2013$600 range. A standard gas or electric tank water heater replacement in SaddleBrooke typically ranges from $1,200 to $3,500, influenced by unit size, energy factor, and whether we need to add expansion tanks or reroute venting around tile roofs. For residents interested in lowering energy use near Oracle Road and the Catalina foothills, high-efficiency tankless or heat pump water heaters can be quoted with projected TEP savings tailored to the household\u2019s consumption patterns."
+            "content": "Because SaddleBrooke homeowners expect care for premium interiors and minimal disruption, our replacement work-whether swapping a 50\u201380 gallon water heater or installing a whole-house filtration system-uses methods that protect tile floors and stone countertops frequent in homes built in the 1990s to the 2010s. Typical service-call pricing for local diagnostics runs $150\u2013$250 depending on access; common minor repairs are often in the $250\u2013$600 range. A standard gas or electric tank water heater replacement in SaddleBrooke typically ranges from $1,200 to $3,500, influenced by unit size, energy factor, and whether we need to add expansion tanks or reroute venting around tile roofs. For residents interested in lowering energy use near Oracle Road and the Catalina foothills, high-efficiency tankless or heat pump water heaters can be quoted with projected TEP savings tailored to the household\u2019s consumption patterns."
       },
       {
             "type": "paragraph",
-            "content": "We also install and service water softeners and reverse-osmosis systems sized for SaddleBrooke households; because many homes have built-in ice makers and espresso machines, filtration protects those investments. For accessibility projects\u2014like replacing tubs with walk-in showers in MountainView and Preserve sections\u2014we coordinate plumbing relocation with grab-bar blocking and ADA-comfort fixture choices to maintain resale value in this 55+ market."
+            "content": "We also install and service water softeners and reverse-osmosis systems sized for SaddleBrooke households; because many homes have built-in ice makers and espresso machines, filtration protects those investments. For accessibility projects-like replacing tubs with walk-in showers in MountainView and Preserve sections-we coordinate plumbing relocation with grab-bar blocking and ADA-comfort fixture choices to maintain resale value in this 55+ market."
       },
       {
             "type": "heading",

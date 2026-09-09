@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Picture Rocks sits at about 2,500 feet with wide-open desert exposure that creates a roofing environment unlike central Tucson neighborhoods. Homes built in the 1980s through the 2000s on the Sandario Road corridor and Mile Wide Road often use a mix of manufactured-home coverings, flat built-up membranes, concrete or clay tile and asphalt shingles. Wind uplift and grit from dust storms are the two recurring stressors we see in zip code 85743; seams on older manufactured roofs loosen, shingle edges blister from wind-driven grit, and small punctures in built-up flat roofs quickly expand when wind drives abrasive particles against the surface. Our inspections for Picture Rocks properties are calibrated to these conditions \u2014 we check edge flashings, inspect fastener integrity on tile and shingle fields, test for hidden seam failures on manufactured systems, and look for the ponding and membrane fatigue that develop on low-slope roofs. Because many properties are on large lots with long driveways and limited staging, we also factor access costs into estimates so there are no surprises."
+            "content": "Picture Rocks sits at about 2,500 feet with wide-open desert exposure that creates a roofing environment unlike central Tucson neighborhoods. Homes built in the 1980s through the 2000s on the Sandario Road corridor and Mile Wide Road often use a mix of manufactured-home coverings, flat built-up membranes, concrete or clay tile and asphalt shingles. Wind uplift and grit from dust storms are the two recurring stressors we see in zip code 85743; seams on older manufactured roofs loosen, shingle edges blister from wind-driven grit, and small punctures in built-up flat roofs quickly expand when wind drives abrasive particles against the surface. Our inspections for Picture Rocks properties are calibrated to these conditions - we check edge flashings, inspect fastener integrity on tile and shingle fields, test for hidden seam failures on manufactured systems, and look for the ponding and membrane fatigue that develop on low-slope roofs. Because many properties are on large lots with long driveways and limited staging, we also factor access costs into estimates so there are no surprises."
       },
       {
             "type": "paragraph",
-            "content": "A second angle for homeowners in 85743 is maintenance planning tied to home age and usage. Manufactured homes on larger lots often haven\u2019t had a documented roof service since the 1990s; roofs installed during that era used materials and sealants that degrade faster under sustained UV and abrasive dust exposure. Tile roofs in this area\u2014especially older concrete tiles\u2014need regular inspection of underlayment and nail patterns because wind can dislodge tiles along ridge lines facing the Tucson Mountains and Ironwood Forest. Flat roofs on ranch and horse properties frequently accumulate debris\u2014mesquite litter, saguaro fragments, and blown-in sand\u2014that shortens membrane life and clogs scuppers. We provide prioritized repair lists tailored to each home\u2019s construction date and roof type, and offer realistic timelines and cost ranges for 85743 properties, recognizing that remote access or well/septic locations sometimes increase crew time and permit coordination."
+            "content": "A second angle for homeowners in 85743 is maintenance planning tied to home age and usage. Manufactured homes on larger lots often haven\u2019t had a documented roof service since the 1990s; roofs installed during that era used materials and sealants that degrade faster under sustained UV and abrasive dust exposure. Tile roofs in this area-especially older concrete tiles-need regular inspection of underlayment and nail patterns because wind can dislodge tiles along ridge lines facing the Tucson Mountains and Ironwood Forest. Flat roofs on ranch and horse properties frequently accumulate debris-mesquite litter, saguaro fragments, and blown-in sand-that shortens membrane life and clogs scuppers. We provide prioritized repair lists tailored to each home\u2019s construction date and roof type, and offer realistic timelines and cost ranges for 85743 properties, recognizing that remote access or well/septic locations sometimes increase crew time and permit coordination."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Preventive maintenance in Picture Rocks focuses on three local realities: wind-driven lift, dust accumulation, and long seasonal temperature swings that are a bit cooler at night than downtown Tucson. We recommend at least annual roof checks after the late-summer monsoon and again after winter winds\u2014timing that aligns with when dust and mesquite debris accumulate. For manufactured homes, routine re-sealing of seams and re-fastening of perimeter flashings can add years of life; for flat roofs, clearing scuppers and checking for early signs of membrane brittleness prevents costly ponding repairs. Response to wind events in this rural area also requires logistics planning: crews must coordinate gate access, protect pasture fences, and avoid compaction of long driveways. Typical emergency tarps and temporary patch work in 85743 start around $300\u2013$600, while stabilized repairs to flashing or small membrane patches commonly fall in the $600\u2013$1,500 range depending on access and materials."
+            "content": "Preventive maintenance in Picture Rocks focuses on three local realities: wind-driven lift, dust accumulation, and long seasonal temperature swings that are a bit cooler at night than downtown Tucson. We recommend at least annual roof checks after the late-summer monsoon and again after winter winds-timing that aligns with when dust and mesquite debris accumulate. For manufactured homes, routine re-sealing of seams and re-fastening of perimeter flashings can add years of life; for flat roofs, clearing scuppers and checking for early signs of membrane brittleness prevents costly ponding repairs. Response to wind events in this rural area also requires logistics planning: crews must coordinate gate access, protect pasture fences, and avoid compaction of long driveways. Typical emergency tarps and temporary patch work in 85743 start around $300\u2013$600, while stabilized repairs to flashing or small membrane patches commonly fall in the $600\u2013$1,500 range depending on access and materials."
       },
       {
             "type": "paragraph",
@@ -87,13 +87,13 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Community Care \u2014 Picture Rocks Neighbors & Landmarks",
+            "heading": "Community Care - Picture Rocks Neighbors & Landmarks",
             "level": 2,
-            "content": "Community Care \u2014 Picture Rocks Neighbors & Landmarks"
+            "content": "Community Care - Picture Rocks Neighbors & Landmarks"
       },
       {
             "type": "paragraph",
-            "content": "We work regularly in distinct Picture Rocks neighborhoods\u2014from the original Picture Rocks proper near the petroglyph site, along the Sandario Road corridor, to the Mile Wide Road area and parcels bordering Avra Valley. Being familiar with local landmarks like the Picture Rocks Petroglyphs, access constraints near Ironwood Forest National Monument, and the proximity to Saguaro National Park West helps us plan respectful work that minimizes impact on archeological and protected open spaces. Many homeowners rely on local businesses such as Picture Rocks Country Store or stop at El Molinito after site meetings; we keep community rhythms in mind when scheduling. Our crews are accustomed to county permitting patterns and rural utility considerations with TEP service and sometimes longer outage windows\u2014this matters when sequencing re-roofing and coordinating with solar or electrical upgrades for large lots."
+            "content": "We work regularly in distinct Picture Rocks neighborhoods-from the original Picture Rocks proper near the petroglyph site, along the Sandario Road corridor, to the Mile Wide Road area and parcels bordering Avra Valley. Being familiar with local landmarks like the Picture Rocks Petroglyphs, access constraints near Ironwood Forest National Monument, and the proximity to Saguaro National Park West helps us plan respectful work that minimizes impact on archeological and protected open spaces. Many homeowners rely on local businesses such as Picture Rocks Country Store or stop at El Molinito after site meetings; we keep community rhythms in mind when scheduling. Our crews are accustomed to county permitting patterns and rural utility considerations with TEP service and sometimes longer outage windows-this matters when sequencing re-roofing and coordinating with solar or electrical upgrades for large lots."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "How often should a Picture Rocks manufactured home roof be inspected?",
-        "answer": "Manufactured homes in Picture Rocks\u2014many built in the 1980s and 1990s\u2014should be inspected twice a year and after major wind or dust events. The open, elevated exposure at roughly 2,500 ft leads to faster sealant and seam degradation. Inspections focus on perimeter flashings, roof-to-wall transitions, and vent seals. Regular checks catch loosened fasteners and seam splits early, avoiding interior water intrusion and costly emergency patches. We provide written reports keyed to repair priority and estimated costs for 85743 properties."
+        "answer": "Manufactured homes in Picture Rocks-many built in the 1980s and 1990s-should be inspected twice a year and after major wind or dust events. The open, elevated exposure at roughly 2,500 ft leads to faster sealant and seam degradation. Inspections focus on perimeter flashings, roof-to-wall transitions, and vent seals. Regular checks catch loosened fasteners and seam splits early, avoiding interior water intrusion and costly emergency patches. We provide written reports keyed to repair priority and estimated costs for 85743 properties."
     },
     {
         "question": "What are common wind-related roofing problems in 85743?",
@@ -140,7 +140,7 @@ highlights: [
     },
     {
         "question": "How do you price emergency tarping and temporary repairs in weekends with rural access?",
-        "answer": "Emergency tarping in Picture Rocks typically starts in the $300\u2013$600 range for straightforward access; more complex situations\u2014long drives, locked gates, or roof sections over livestock areas\u2014can increase costs. We give an immediate, written emergency estimate and a follow-up plan for permanent repairs so you understand both short-term and long-term financial implications."
+        "answer": "Emergency tarping in Picture Rocks typically starts in the $300\u2013$600 range for straightforward access; more complex situations-long drives, locked gates, or roof sections over livestock areas-can increase costs. We give an immediate, written emergency estimate and a follow-up plan for permanent repairs so you understand both short-term and long-term financial implications."
     }
 ]
   },
@@ -153,11 +153,11 @@ highlights: [
     },
     {
         "question": "Refinement Q2",
-        "answer": "Which roof type do you have\u2014manufactured, flat, tile, or shingle\u2014and what year was it installed? Knowing the roof type and approximate installation decade (many local homes are 1980s\u20132000s) lets us prepare specific materials and an accurate cost range for inspections and potential repairs."
+        "answer": "Which roof type do you have-manufactured, flat, tile, or shingle-and what year was it installed? Knowing the roof type and approximate installation decade (many local homes are 1980s\u20132000s) lets us prepare specific materials and an accurate cost range for inspections and potential repairs."
     },
     {
         "question": "Refinement Q3",
-        "answer": "Do you have long driveways, gates, or active horse areas we should know about? On large-lot Picture Rocks properties we schedule crews to avoid animal disturbance, coordinate gate codes, and plan vehicle access to protect septic and well equipment\u2014sharing this info up front reduces mobilization surprises."
+        "answer": "Do you have long driveways, gates, or active horse areas we should know about? On large-lot Picture Rocks properties we schedule crews to avoid animal disturbance, coordinate gate codes, and plan vehicle access to protect septic and well equipment-sharing this info up front reduces mobilization surprises."
     },
     {
         "question": "Refinement Q4",

@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Casas Adobes is a distinct part of Tucson, with neighborhoods like Casas Adobes Estates and Shannon Heights made up of ranch-style houses and 1980s subdivisions. Homes constructed from the 1970s through the 1990s often have original 60\u2013100 amp service panels and sometimes aluminum branch wiring, which were standard at the time but are inadequate for modern loads such as air conditioning upgrades, workshop equipment, whole-home EV chargers, and contemporary kitchen appliances. At roughly 2,500 feet elevation, temperatures here run a touch cooler than central Tucson, which affects HVAC cycling and electrical load timing \u2014 but monsoon season still creates surge and moisture risks. We perform on-site load calculations, recommend appropriate 200 amp service upgrades when needed, and work with homeowners in zip codes 85704, 85741, and 85742 to ensure the scope meets both city code and neighborhood HOA rules."
+            "content": "Casas Adobes is a distinct part of Tucson, with neighborhoods like Casas Adobes Estates and Shannon Heights made up of ranch-style houses and 1980s subdivisions. Homes constructed from the 1970s through the 1990s often have original 60\u2013100 amp service panels and sometimes aluminum branch wiring, which were standard at the time but are inadequate for modern loads such as air conditioning upgrades, workshop equipment, whole-home EV chargers, and contemporary kitchen appliances. At roughly 2,500 feet elevation, temperatures here run a touch cooler than central Tucson, which affects HVAC cycling and electrical load timing - but monsoon season still creates surge and moisture risks. We perform on-site load calculations, recommend appropriate 200 amp service upgrades when needed, and work with homeowners in zip codes 85704, 85741, and 85742 to ensure the scope meets both city code and neighborhood HOA rules."
       },
       {
             "type": "paragraph",
-            "content": "Pricing context in Casas Adobes reflects older home inventory and common roof types \u2014 tile roofs require careful conduit planning, and built-up flat roofs need different access strategies. A typical 200 amp main panel upgrade for a mid-century ranch in this area commonly ranges from $2,800 to $5,200 depending on meter placement, conduit runs, and HOA permit requirements. Aluminum wiring remediation or partial rewire projects can vary more widely, often between $4,000 and $15,000, based on home size and attic access."
+            "content": "Pricing context in Casas Adobes reflects older home inventory and common roof types - tile roofs require careful conduit planning, and built-up flat roofs need different access strategies. A typical 200 amp main panel upgrade for a mid-century ranch in this area commonly ranges from $2,800 to $5,200 depending on meter placement, conduit runs, and HOA permit requirements. Aluminum wiring remediation or partial rewire projects can vary more widely, often between $4,000 and $15,000, based on home size and attic access."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We are familiar with local landmarks and traffic patterns \u2014 whether servicing a bungalow near Casas Adobes Plaza, a mid-century ranch by Tohono Chul Park, or a newer build off the Ina/Oracle corridor. Permitting timelines can differ across Pima County pockets and HOA review boards around Shannon Heights and Casas Adobes Estates, so we plan work to minimize disruption. Our technicians respect neighborhood character and scheduling preferences tied to community events and peak weekend dining at popular spots like Blanco Tacos + Tequila and North Italia."
+            "content": "We are familiar with local landmarks and traffic patterns - whether servicing a bungalow near Casas Adobes Plaza, a mid-century ranch by Tohono Chul Park, or a newer build off the Ina/Oracle corridor. Permitting timelines can differ across Pima County pockets and HOA review boards around Shannon Heights and Casas Adobes Estates, so we plan work to minimize disruption. Our technicians respect neighborhood character and scheduling preferences tied to community events and peak weekend dining at popular spots like Blanco Tacos + Tequila and North Italia."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do Casas Adobes homes need panel upgrades from 60\u2013100 amps?",
-        "answer": "Many Casas Adobes homes built in the 1970s through the 1990s still have 60\u2013100 amp panels that struggle with modern loads like central air, EV chargers, and full kitchens. Upgrading to 200 amp service is common here, particularly in neighborhoods such as Casas Adobes Estates and Shannon Heights. We perform load analyses and provide cost estimates that reflect local factors \u2014 tile or built-up roofs, HOA permitting, and conduit routing \u2014 to deliver an upgrade plan suited to the community."
+        "answer": "Many Casas Adobes homes built in the 1970s through the 1990s still have 60\u2013100 amp panels that struggle with modern loads like central air, EV chargers, and full kitchens. Upgrading to 200 amp service is common here, particularly in neighborhoods such as Casas Adobes Estates and Shannon Heights. We perform load analyses and provide cost estimates that reflect local factors - tile or built-up roofs, HOA permitting, and conduit routing - to deliver an upgrade plan suited to the community."
     },
     {
         "question": "How do HOAs in Casas Adobes affect electrical work?",

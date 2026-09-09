@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Caliche & Drainage Experience",
-    "description": "Caliche soils around Mile Wide Road and the Sandario Road corridor cause shallow runoff and clogged leach lines\u2014we use targeted jetting and excavation when needed."
+    "description": "Caliche soils around Mile Wide Road and the Sandario Road corridor cause shallow runoff and clogged leach lines-we use targeted jetting and excavation when needed."
   },
   {
     "title": "Rural Access & On\u2011site Solutions",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Picture Rocks is not suburban Tucson \u2014 with an elevation near 2,500 ft and open desert exposure, homes here face unique drain problems. Many parcels in 85743 are large, rural lots with manufactured homes, site\u2011built houses from the 1980s through the 2000s, and horse holding areas. These property types commonly use well water and private septic systems rather than city sewer. Caliche under the surface and high mineral content in well water (250+ ppm) cause slow percolation in leach fields and mineral scaling inside drain lines. Wind\u2011driven dust and occasional haboob activity clog drain vents and outdoor drains faster than in denser neighborhoods. Our Picture Rocks drain clearing work starts with a site walk tailored to the neighborhood character \u2014 whether on the Sandario Road corridor, near Mile Wide Road, or close to the Picture Rocks Petroglyphs \u2014 so you get a plan that reflects how desert soil, runoff, and rural plumbing interact on your property."
+            "content": "Picture Rocks is not suburban Tucson - with an elevation near 2,500 ft and open desert exposure, homes here face unique drain problems. Many parcels in 85743 are large, rural lots with manufactured homes, site\u2011built houses from the 1980s through the 2000s, and horse holding areas. These property types commonly use well water and private septic systems rather than city sewer. Caliche under the surface and high mineral content in well water (250+ ppm) cause slow percolation in leach fields and mineral scaling inside drain lines. Wind\u2011driven dust and occasional haboob activity clog drain vents and outdoor drains faster than in denser neighborhoods. Our Picture Rocks drain clearing work starts with a site walk tailored to the neighborhood character - whether on the Sandario Road corridor, near Mile Wide Road, or close to the Picture Rocks Petroglyphs - so you get a plan that reflects how desert soil, runoff, and rural plumbing interact on your property."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our technicians are trained specifically for the combinations found in Picture Rocks: shallow leach fields cut through by caliche, older septic tanks that need outlet baffle repair, and well discharge lines coated with mineral scale. For properties along the Ironwood Forest border where oversized lots and long runs are standard, we bring longer hose reels and portable waste tanks. Where septic access is off Mile Wide Road or down long sandy driveways, extra crew time and specialized equipment factor into the job\u2014this is why some complex septic lateral clearances in 85743 can range from $350 to $950. Simple mainline snaking for sinks and toilets on many 1990s homes often starts near $199, and comprehensive evaluations for failing leach fields begin with a localized site survey to avoid unnecessary excavation near culturally sensitive areas."
+            "content": "Our technicians are trained specifically for the combinations found in Picture Rocks: shallow leach fields cut through by caliche, older septic tanks that need outlet baffle repair, and well discharge lines coated with mineral scale. For properties along the Ironwood Forest border where oversized lots and long runs are standard, we bring longer hose reels and portable waste tanks. Where septic access is off Mile Wide Road or down long sandy driveways, extra crew time and specialized equipment factor into the job-this is why some complex septic lateral clearances in 85743 can range from $350 to $950. Simple mainline snaking for sinks and toilets on many 1990s homes often starts near $199, and comprehensive evaluations for failing leach fields begin with a localized site survey to avoid unnecessary excavation near culturally sensitive areas."
       },
       {
             "type": "paragraph",
@@ -93,11 +93,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work respectfully around Picture Rocks\u2019 unique places \u2014 from the petroglyph sites to properties bordering Saguaro National Park West and Ironwood Forest National Monument. Many clients are outdoor enthusiasts or horse owners who value low\u2011impact service and clear communication. If we must access a leach field near a protected viewpoint or an equestrian arena, our crews flag sensitive areas, limit heavy equipment use, and restore walking tracks and vegetation where possible. Locals who stop at El Molinito or pick up supplies at Picture Rocks Country Store often tell us they prefer technicians who understand the rural pace here \u2014 we schedule work times to avoid interfering with trail rides, ranch deliveries, and neighborhood events."
+            "content": "We work respectfully around Picture Rocks\u2019 unique places - from the petroglyph sites to properties bordering Saguaro National Park West and Ironwood Forest National Monument. Many clients are outdoor enthusiasts or horse owners who value low\u2011impact service and clear communication. If we must access a leach field near a protected viewpoint or an equestrian arena, our crews flag sensitive areas, limit heavy equipment use, and restore walking tracks and vegetation where possible. Locals who stop at El Molinito or pick up supplies at Picture Rocks Country Store often tell us they prefer technicians who understand the rural pace here - we schedule work times to avoid interfering with trail rides, ranch deliveries, and neighborhood events."
       },
       {
             "type": "cta",
-            "heading": "Final CTA \u2014 Drain Clearing in Picture Rocks",
+            "heading": "Final CTA - Drain Clearing in Picture Rocks",
             "content": "For fast, experienced drain clearing tailored to Picture Rocks (85743) homes and septic systems, contact our team. We\u2019ll discuss access, likely interventions, and a localized price estimate before we start.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Refinement Q1 for Drain Clearing in Picture Rocks",
-        "answer": "Do you need an on\u2011site septic evaluation or just a mainline clear? If you live in 85743 near Mile Wide Road, Sandario Road, or the Picture Rocks Petroglyphs, tell us whether you have a private septic tank, approximate tank age, and the length of any long driveway\u2014this helps us estimate travel time, equipment needs, and a realistic price range prior to arrival."
+        "answer": "Do you need an on\u2011site septic evaluation or just a mainline clear? If you live in 85743 near Mile Wide Road, Sandario Road, or the Picture Rocks Petroglyphs, tell us whether you have a private septic tank, approximate tank age, and the length of any long driveway-this helps us estimate travel time, equipment needs, and a realistic price range prior to arrival."
     },
     {
         "question": "Refinement Q2",

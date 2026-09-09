@@ -24,7 +24,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
 highlights: [
   {
     "title": "Optimized for 3,800 ft Elevation",
-    "description": "Corona de Tucson's elevation (\u22483,800 ft) gives panels higher output than lower valleys\u2014our system designs account for the 5\u20138\u00b0F cooler average and occasional winter frost."
+    "description": "Corona de Tucson's elevation (\u22483,800 ft) gives panels higher output than lower valleys-our system designs account for the 5\u20138\u00b0F cooler average and occasional winter frost."
   },
   {
     "title": "Newer Roofs, Faster Installs",
@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Local Microclimate Performance Modeling",
-    "description": "We model production using Corona de Tucson-specific climate\u2014slightly higher rainfall, more frost days, and cooler summers\u2014to provide realistic year-one production estimates."
+    "description": "We model production using Corona de Tucson-specific climate-slightly higher rainfall, more frost days, and cooler summers-to provide realistic year-one production estimates."
   },
   {
     "title": "Cost & Value for Local Homes",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson sits higher than central Tucson, around 3,800 feet, and that elevation changes how solar performs. Panels here receive strong sun with slightly cooler air temperatures\u2014typically 5\u20138\u00b0F lower during summer\u2014so your array often operates more efficiently than in the valley. Many neighborhoods in 85641 were developed in the 2000s\u20132010s, which means roofs are relatively new and structurally ready for solar mounting. Tile roofs account for roughly two-thirds of local homes, with composite shingles and flat roofs making up most of the remainder; we design flashing and mounting solutions that respect tile profiles and the aesthetic of custom homes on acreage. Because Corona de Tucson has more frost days in winter and occasional morning shade from surrounding ridgelines like the Empire Mountains, our shading analysis and string vs. microinverter layout plan for seasonal performance\u2014not just peak midday output."
+            "content": "Corona de Tucson sits higher than central Tucson, around 3,800 feet, and that elevation changes how solar performs. Panels here receive strong sun with slightly cooler air temperatures-typically 5\u20138\u00b0F lower during summer-so your array often operates more efficiently than in the valley. Many neighborhoods in 85641 were developed in the 2000s\u20132010s, which means roofs are relatively new and structurally ready for solar mounting. Tile roofs account for roughly two-thirds of local homes, with composite shingles and flat roofs making up most of the remainder; we design flashing and mounting solutions that respect tile profiles and the aesthetic of custom homes on acreage. Because Corona de Tucson has more frost days in winter and occasional morning shade from surrounding ridgelines like the Empire Mountains, our shading analysis and string vs. microinverter layout plan for seasonal performance-not just peak midday output."
       },
       {
             "type": "paragraph",
-            "content": "Homeowners on horse properties, larger lots, or newer subdivisions such as Rancho del Lago, Las Colinas, and the Old Spanish Trail corridor face different priorities: long service runs, strategic inverter placement to avoid animal access, and planning for barn and arena lighting circuits. Single-story homes with attached garages\u2014the common plan in many Corona de Tucson developments\u2014often allow rooftop arrays without additional racking complexity, keeping install times short. We also account for desert landscaping and dust from nearby washes like Cienega Creek that can modestly reduce production; our maintenance plans include recommended cleaning intervals tied to the local conditions."
+            "content": "Homeowners on horse properties, larger lots, or newer subdivisions such as Rancho del Lago, Las Colinas, and the Old Spanish Trail corridor face different priorities: long service runs, strategic inverter placement to avoid animal access, and planning for barn and arena lighting circuits. Single-story homes with attached garages-the common plan in many Corona de Tucson developments-often allow rooftop arrays without additional racking complexity, keeping install times short. We also account for desert landscaping and dust from nearby washes like Cienega Creek that can modestly reduce production; our maintenance plans include recommended cleaning intervals tied to the local conditions."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Designing systems in Corona de Tucson starts with local factors: roof type (tile, shingle, flat), orientation relative to the Empire Mountains and Colossal Cave ridgelines, and the rural-to-suburban transitions across neighborhoods. For many 2000s-era homes, attic ventilation and electrical panels installed during construction have room for modern solar inverters and battery-ready upgrades, but some custom acreage homes require upgraded service or longer conduit runs\u2014these affect project scope and permitting timelines. Because TEP interconnection and export rules can differ slightly by feeder, we plan array size and export limits to minimize upgrade costs while maximizing self-consumption. Typical residential system sizes for Corona de Tucson range from 4 kW for efficient single-story homes to 10 kW+ for larger families or equestrian properties; rough installed costs often align with local home values, so many homeowners find a 6\u20138 kW system\u2014costing roughly $15,000\u2013$30,000 before incentives\u2014matches both cash flow and long-term value for homes priced between $300,000 and $450,000."
+            "content": "Designing systems in Corona de Tucson starts with local factors: roof type (tile, shingle, flat), orientation relative to the Empire Mountains and Colossal Cave ridgelines, and the rural-to-suburban transitions across neighborhoods. For many 2000s-era homes, attic ventilation and electrical panels installed during construction have room for modern solar inverters and battery-ready upgrades, but some custom acreage homes require upgraded service or longer conduit runs-these affect project scope and permitting timelines. Because TEP interconnection and export rules can differ slightly by feeder, we plan array size and export limits to minimize upgrade costs while maximizing self-consumption. Typical residential system sizes for Corona de Tucson range from 4 kW for efficient single-story homes to 10 kW+ for larger families or equestrian properties; rough installed costs often align with local home values, so many homeowners find a 6\u20138 kW system-costing roughly $15,000\u2013$30,000 before incentives-matches both cash flow and long-term value for homes priced between $300,000 and $450,000."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson is a growing community with a rural feel\u2014neighbors know the Vail School District, take drives past Pistol Hill Road, and meet at family spots like Corona Cafe or Roadrunner Grill. Installing solar here means more than production numbers; it\u2019s about respecting custom aesthetic standards in gated sections, coordinating deliveries on narrow Old Spanish Trail corridors, and scheduling work around equestrian events or irrigation seasons. We work closely with HOA managers in newer subdivisions and property owners of larger parcels to ensure staging doesn\u2019t disrupt turnout paths or riding arenas. Our crews are familiar with the local references\u2014Empire Mountains views, Cienega Creek driveways, and the needs of homes near Rancho del Lago\u2014so installs proceed with minimal impact to daily life."
+            "content": "Corona de Tucson is a growing community with a rural feel-neighbors know the Vail School District, take drives past Pistol Hill Road, and meet at family spots like Corona Cafe or Roadrunner Grill. Installing solar here means more than production numbers; it\u2019s about respecting custom aesthetic standards in gated sections, coordinating deliveries on narrow Old Spanish Trail corridors, and scheduling work around equestrian events or irrigation seasons. We work closely with HOA managers in newer subdivisions and property owners of larger parcels to ensure staging doesn\u2019t disrupt turnout paths or riding arenas. Our crews are familiar with the local references-Empire Mountains views, Cienega Creek driveways, and the needs of homes near Rancho del Lago-so installs proceed with minimal impact to daily life."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Will solar work well on a 2005 single-story tile roof in Corona de Tucson (85641)?",
-        "answer": "Yes. Many single-story homes built in the 2000s in Corona de Tucson have tile roofs that are structurally suitable for solar; tile is common here (~65%). We design tile-compatible flashing and recommend a roof inspection\u2014if the roof is original, a partial roof-age assessment helps decide whether to replace or reinforce before installing. At 3,800 ft elevation panels will often perform better than lower elevations, and because these roofs are newer than in older Tucson neighborhoods, installs are typically faster and less invasive."
+        "answer": "Yes. Many single-story homes built in the 2000s in Corona de Tucson have tile roofs that are structurally suitable for solar; tile is common here (~65%). We design tile-compatible flashing and recommend a roof inspection-if the roof is original, a partial roof-age assessment helps decide whether to replace or reinforce before installing. At 3,800 ft elevation panels will often perform better than lower elevations, and because these roofs are newer than in older Tucson neighborhoods, installs are typically faster and less invasive."
     },
     {
         "question": "How does the higher elevation affect panel output and savings?",
@@ -161,15 +161,15 @@ highlights: [
     },
     {
         "question": "Should we check your current electrical panel and TEP service before proposing a system?",
-        "answer": "Yes\u2014especially for older panels or rural service runs common on larger lots. We perform an electrical assessment during the site visit to flag any meter, panel, or service-entry upgrades that could affect schedule and cost in 85641."
+        "answer": "Yes-especially for older panels or rural service runs common on larger lots. We perform an electrical assessment during the site visit to flag any meter, panel, or service-entry upgrades that could affect schedule and cost in 85641."
     },
     {
         "question": "Are you interested in pairing batteries for winter morning coverage?",
-        "answer": "Battery systems are helpful in Corona de Tucson to cover morning loads during frost-affected periods and to provide resilience for longer rural outages. We size batteries based on your critical loads\u2014well pumps, refrigeration, and home comfort\u2014so you get the balance between cost and utility independence that suits your lifestyle."
+        "answer": "Battery systems are helpful in Corona de Tucson to cover morning loads during frost-affected periods and to provide resilience for longer rural outages. We size batteries based on your critical loads-well pumps, refrigeration, and home comfort-so you get the balance between cost and utility independence that suits your lifestyle."
     },
     {
         "question": "Do you want references from nearby Corona de Tucson installs?",
-        "answer": "We can provide references and recent install photos from Corona de Tucson and surrounding neighborhoods. Seeing systems on homes with similar roof types and lot sizes\u2014especially those near Colossal Cave Mountain Park or along Pistol Hill Road\u2014helps set realistic expectations for aesthetics, timeline, and production."
+        "answer": "We can provide references and recent install photos from Corona de Tucson and surrounding neighborhoods. Seeing systems on homes with similar roof types and lot sizes-especially those near Colossal Cave Mountain Park or along Pistol Hill Road-helps set realistic expectations for aesthetics, timeline, and production."
     }
 ],
   

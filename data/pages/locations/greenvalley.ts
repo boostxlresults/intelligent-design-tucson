@@ -145,11 +145,11 @@ export const greenvalleyData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Green Valley", "level": 2, "content": "Local Community Guide \u2014 Green Valley"},
+            {"type": "heading", "heading": "Local Community Guide - Green Valley", "level": 2, "content": "Local Community Guide - Green Valley"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Titan Missile Museum, Tumacacori National Historical Park, Madera Canyon, ASARCO Mineral Discovery Center, Tubac Presidio State Historic Park. Whether you live near these landmarks or anywhere in Green Valley, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Manuel's Mexican Restaurant, The Copper Brothel Brewery, Posada Java, San Ignacio Golf Clubhouse, Canoa Ranch Golf Club. When you need home services in Green Valley, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Manuel's Mexican Restaurant, The Copper Brothel Brewery, Posada Java, San Ignacio Golf Clubhouse, Canoa Ranch Golf Club. When you need home services in Green Valley, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

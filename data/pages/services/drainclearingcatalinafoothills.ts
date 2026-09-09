@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Water Hardness & Scale Management",
-    "description": "Moderate-hard water (160\u2013200 ppm) contributes to mineral build-up in older 1980s-2000s plumbing\u2014our service includes scale-focused clearing when needed."
+    "description": "Moderate-hard water (160\u2013200 ppm) contributes to mineral build-up in older 1980s-2000s plumbing-our service includes scale-focused clearing when needed."
   },
   {
     "title": "Neighborhood-Friendly Scheduling",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our approach begins with documentation: many Catalina Foothills homes have been remodeled over decades, so original plumbing plans are often missing. We use high-resolution camera inspections to trace long interior runs and hillside drops behind retaining walls, verifying slope and locating offsets where roots or mineral scale collect. For tile-roofed estates and flat parapet sections, vent terminations and interior access points can be nonstandard\u2014camera work minimizes invasive exploratory digging. Where grease or scale is the primary issue we combine mechanical snaking with targeted hydro-jetting at controlled pressure to clear trapping without risking older transition joints. For pool or outdoor kitchen systems we check backflow and pump lines, coordinating with pool service when necessary."
+            "content": "Our approach begins with documentation: many Catalina Foothills homes have been remodeled over decades, so original plumbing plans are often missing. We use high-resolution camera inspections to trace long interior runs and hillside drops behind retaining walls, verifying slope and locating offsets where roots or mineral scale collect. For tile-roofed estates and flat parapet sections, vent terminations and interior access points can be nonstandard-camera work minimizes invasive exploratory digging. Where grease or scale is the primary issue we combine mechanical snaking with targeted hydro-jetting at controlled pressure to clear trapping without risking older transition joints. For pool or outdoor kitchen systems we check backflow and pump lines, coordinating with pool service when necessary."
       },
       {
             "type": "paragraph",
-            "content": "Root intrusion is a recurrent problem in older 1980s neighborhood builds tucked into natural washes around Finger Rock and Sabino Canyon edges. In those cases we assess whether a sectional repair or full reroute is the long-term solution; sometimes a localized patch with epoxy relining preserves landscaping and saves homeowners money. We also advise on preventive maintenance schedules for large properties\u2014annual camera checks and hydro-jetting timed after summer monsoon season keep hillside lines clear and protect finished basements and lower-level garages from backups."
+            "content": "Root intrusion is a recurrent problem in older 1980s neighborhood builds tucked into natural washes around Finger Rock and Sabino Canyon edges. In those cases we assess whether a sectional repair or full reroute is the long-term solution; sometimes a localized patch with epoxy relining preserves landscaping and saves homeowners money. We also advise on preventive maintenance schedules for large properties-annual camera checks and hydro-jetting timed after summer monsoon season keep hillside lines clear and protect finished basements and lower-level garages from backups."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We are familiar with Catalina Foothills landmarks and rhythms\u2014work near Skyline Country Club, Ventana Canyon homes with long driveways, or restaurants like Vivace and Hacienda del Sol often means extra care for drive access, noise, and timing. Wildlife encounters with javelina or coyotes happen; our technicians know to secure equipment overnight and respect gated, hillside properties. When homeowners near Finger Rock Trail report outdoor drain blockages after heavy storms or leaf-shedding seasons, we prioritize clearing that protects foundations and runoff channels that feed neighborhood retention areas. We also coordinate with homeowners' associations when permits or slope stabilization notes are involved."
+            "content": "We are familiar with Catalina Foothills landmarks and rhythms-work near Skyline Country Club, Ventana Canyon homes with long driveways, or restaurants like Vivace and Hacienda del Sol often means extra care for drive access, noise, and timing. Wildlife encounters with javelina or coyotes happen; our technicians know to secure equipment overnight and respect gated, hillside properties. When homeowners near Finger Rock Trail report outdoor drain blockages after heavy storms or leaf-shedding seasons, we prioritize clearing that protects foundations and runoff channels that feed neighborhood retention areas. We also coordinate with homeowners' associations when permits or slope stabilization notes are involved."
       },
       {
             "type": "cta",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "Can pool drains cause backups in lower-level garages?",
-        "answer": "Yes\u2014pool line cross-connections or clogged branch lines can back up into lower-grade plumbing runs. We trace and clear shared lines and check pumps and valves to prevent recurrence."
+        "answer": "Yes-pool line cross-connections or clogged branch lines can back up into lower-grade plumbing runs. We trace and clear shared lines and check pumps and valves to prevent recurrence."
     },
     {
         "question": "How do you handle grease traps in luxury kitchens?",

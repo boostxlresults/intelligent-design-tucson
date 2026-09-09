@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rillito\u2019s housing mix \u2014 manufactured homes, ranch properties, and houses built between the 1970s and 1990s \u2014 leads to a distinct set of drain and sewer challenges. Older installations often used clay, vitrified clay, or early PVC that can crack under the region\u2019s hot summer cycles and shifting soils at 2,100 ft elevation. Root intrusion from desert trees and mesquite into clay joints is common along the Santa Cruz River corridor. Dust and sediment from nearby agricultural operations accelerate surface clogging of yard drains and culverts. We begin every Rillito service with a targeted camera inspection to map line material, locate joint failures, and spot root or scale buildup caused by very hard well water (240+ ppm). That localized diagnosis reduces unnecessary digs on large lots and helps us recommend trenchless spot repairs or full-line replacements sensitive to each property\u2019s age and construction."
+            "content": "Rillito\u2019s housing mix - manufactured homes, ranch properties, and houses built between the 1970s and 1990s - leads to a distinct set of drain and sewer challenges. Older installations often used clay, vitrified clay, or early PVC that can crack under the region\u2019s hot summer cycles and shifting soils at 2,100 ft elevation. Root intrusion from desert trees and mesquite into clay joints is common along the Santa Cruz River corridor. Dust and sediment from nearby agricultural operations accelerate surface clogging of yard drains and culverts. We begin every Rillito service with a targeted camera inspection to map line material, locate joint failures, and spot root or scale buildup caused by very hard well water (240+ ppm). That localized diagnosis reduces unnecessary digs on large lots and helps us recommend trenchless spot repairs or full-line replacements sensitive to each property\u2019s age and construction."
       },
       {
             "type": "paragraph",
-            "content": "Because many Rillito properties are on wells and septic systems rather than municipal sewer, our crews concentrate on septic tank access, lateral lines, and leach-field health as much as on mainline clogs. A typical camera inspection in zip code 85654 runs between $150 and $350 depending on run length and access, while emergency mainline unclogs commonly start near $200 on simple runs. Full mainline replacements or major leach-field work for older clay systems can range widely \u2014 from $1,200 for targeted pipe replacement up to $8,000+ for longer runs and engineered leach-field solutions on large agricultural parcels. We price projects with the realities of Rillito\u2019s rural access, farm equipment coordination, and county permitting in mind."
+            "content": "Because many Rillito properties are on wells and septic systems rather than municipal sewer, our crews concentrate on septic tank access, lateral lines, and leach-field health as much as on mainline clogs. A typical camera inspection in zip code 85654 runs between $150 and $350 depending on run length and access, while emergency mainline unclogs commonly start near $200 on simple runs. Full mainline replacements or major leach-field work for older clay systems can range widely - from $1,200 for targeted pipe replacement up to $8,000+ for longer runs and engineered leach-field solutions on large agricultural parcels. We price projects with the realities of Rillito\u2019s rural access, farm equipment coordination, and county permitting in mind."
       },
       {
             "type": "cta",
@@ -87,13 +87,13 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Local Community & Landmarks \u2014 Rillito-Specific Planning",
+            "heading": "Local Community & Landmarks - Rillito-Specific Planning",
             "level": 2,
-            "content": "Local Community & Landmarks \u2014 Rillito-Specific Planning"
+            "content": "Local Community & Landmarks - Rillito-Specific Planning"
       },
       {
             "type": "paragraph",
-            "content": "Our crews know Rillito\u2019s lanes, from the neighborhoods bordering Rillito Park Racetrack to properties along the Santa Cruz River and the Marana Heritage area. Working near these local landmarks means respecting community rhythms \u2014 avoiding racetrack events, coordinating access where farm equipment is parked, and planning around seasonal planting cycles. We often advise homeowners near the river corridor on seasonal maintenance before summer irrigation and dust seasons, and we frequently work with nearby diners and small businesses to maintain grease traps and line health in a way that matches Rillito\u2019s quieter rural character."
+            "content": "Our crews know Rillito\u2019s lanes, from the neighborhoods bordering Rillito Park Racetrack to properties along the Santa Cruz River and the Marana Heritage area. Working near these local landmarks means respecting community rhythms - avoiding racetrack events, coordinating access where farm equipment is parked, and planning around seasonal planting cycles. We often advise homeowners near the river corridor on seasonal maintenance before summer irrigation and dust seasons, and we frequently work with nearby diners and small businesses to maintain grease traps and line health in a way that matches Rillito\u2019s quieter rural character."
       },
       {
             "type": "cta",
@@ -165,7 +165,7 @@ highlights: [
     },
     {
         "question": "Refinement Q5",
-        "answer": "Would you prefer stronger calls to action tailored by neighborhood \u2014 for example separate CTAs for Rillito proper, the Marana border area, and the Santa Cruz River corridor \u2014 or a single unified CTA for zip code 85654?"
+        "answer": "Would you prefer stronger calls to action tailored by neighborhood - for example separate CTAs for Rillito proper, the Marana border area, and the Santa Cruz River corridor - or a single unified CTA for zip code 85654?"
     },
     {
         "question": "Refinement Q6",

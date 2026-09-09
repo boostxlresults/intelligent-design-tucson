@@ -58,16 +58,16 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Picture Rocks sits at about 2,500 feet elevation along the western edge of Tucson, where nights cool more than the city and wind from the Tucson Mountains often carries fine desert dust. Homes built in the 1970s through the 2000s \u2014 many single-story ranches, manufactured homes, and horse properties on large lots \u2014 present a mix of duct layouts, envelope ages, and service access. For heating this creates predictable challenges: dust infiltrates forced\u2011air systems from unpaved roads and corrals, older furnaces suffer from long-term cycling in homes with high ceilings, and evaporative coolers originally installed on oversized footprints can't compensate for thermal mass and nocturnal cooling. We size and tune systems to that reality, sealing ducts at common failure points, recommending filtration upgrades that trap Arizona dust, and planning equipment siting that respects septic fields and well service aisles typical in the Picture Rocks area (zip code 85743)."
+            "content": "Picture Rocks sits at about 2,500 feet elevation along the western edge of Tucson, where nights cool more than the city and wind from the Tucson Mountains often carries fine desert dust. Homes built in the 1970s through the 2000s - many single-story ranches, manufactured homes, and horse properties on large lots - present a mix of duct layouts, envelope ages, and service access. For heating this creates predictable challenges: dust infiltrates forced\u2011air systems from unpaved roads and corrals, older furnaces suffer from long-term cycling in homes with high ceilings, and evaporative coolers originally installed on oversized footprints can't compensate for thermal mass and nocturnal cooling. We size and tune systems to that reality, sealing ducts at common failure points, recommending filtration upgrades that trap Arizona dust, and planning equipment siting that respects septic fields and well service aisles typical in the Picture Rocks area (zip code 85743)."
       },
       {
             "type": "paragraph",
-            "content": "A common scenario: a 1980s single-level home near the Picture Rocks Petroglyphs with a shed-style manufactured roof and original ductwork that bypasses attic insulation. Those ducts, combined with the desert's dust and occasional haboob winds, lead to reduced airflow and short-cycling. Our inspections prioritize duct leakage testing, static pressure checks, and mechanical air sealing\u2014practical fixes that extend system life and improve comfort for horse owners and families used to rural living."
+            "content": "A common scenario: a 1980s single-level home near the Picture Rocks Petroglyphs with a shed-style manufactured roof and original ductwork that bypasses attic insulation. Those ducts, combined with the desert's dust and occasional haboob winds, lead to reduced airflow and short-cycling. Our inspections prioritize duct leakage testing, static pressure checks, and mechanical air sealing-practical fixes that extend system life and improve comfort for horse owners and families used to rural living."
       },
       {
             "type": "cta",
             "heading": "Schedule Heating Service in Picture Rocks",
-            "content": "For residents of Picture Rocks (85743) \u2014 from the Sandario Road corridor to properties bordering Ironwood Forest \u2014 our certified technicians stock parts for common local systems and account for rural travel. Call to schedule a diagnostic visit or to discuss a system replacement plan tailored to your lot, roof style, and well/septic layout.",
+            "content": "For residents of Picture Rocks (85743) - from the Sandario Road corridor to properties bordering Ironwood Forest - our certified technicians stock parts for common local systems and account for rural travel. Call to schedule a diagnostic visit or to discuss a system replacement plan tailored to your lot, roof style, and well/septic layout.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our team understands Picture Rocks' rural character \u2014 neighbors trading stories at Picture Rocks Country Store, weekend trail rides near Ironwood Forest National Monument, and lines at El Molinito after early morning chores. We schedule around local rhythms, offer early or late appointments for ranchers and equestrian owners, and provide clear explanations about how local microclimates (cooler nights, windy afternoons) affect thermostat programming and service intervals. When storms blow dust into yards from Saguaro National Park West border areas, we follow up with filter checks and coil cleanings to keep systems running efficiently."
+            "content": "Our team understands Picture Rocks' rural character - neighbors trading stories at Picture Rocks Country Store, weekend trail rides near Ironwood Forest National Monument, and lines at El Molinito after early morning chores. We schedule around local rhythms, offer early or late appointments for ranchers and equestrian owners, and provide clear explanations about how local microclimates (cooler nights, windy afternoons) affect thermostat programming and service intervals. When storms blow dust into yards from Saguaro National Park West border areas, we follow up with filter checks and coil cleanings to keep systems running efficiently."
       },
       {
             "type": "cta",
@@ -116,7 +116,7 @@ highlights: [
     },
     {
         "question": "Are evaporative coolers still a good option for Picture Rocks homes?",
-        "answer": "Evap coolers often underperform on large or poorly insulated Picture Rocks homes\u2014especially those built in the 1970s\u20131990s with higher ceilings or in properties relying on very hard well water. They work best in smaller, tightly controlled spaces; otherwise, a modern heat pump or hybrid system provides more reliable year-round comfort and is easier to integrate with existing ductwork and septic considerations."
+        "answer": "Evap coolers often underperform on large or poorly insulated Picture Rocks homes-especially those built in the 1970s\u20131990s with higher ceilings or in properties relying on very hard well water. They work best in smaller, tightly controlled spaces; otherwise, a modern heat pump or hybrid system provides more reliable year-round comfort and is easier to integrate with existing ductwork and septic considerations."
     },
     {
         "question": "How does very hard well water in the area affect heating equipment?",

@@ -177,11 +177,11 @@ export const catalinafoothillsData: LocationPageData = {
     ]
   },
 
-      {"type": "heading", "heading": "Local Community Guide \u2014 Catalina Foothills", "level": 2, "content": "Local Community Guide \u2014 Catalina Foothills"},
+      {"type": "heading", "heading": "Local Community Guide - Catalina Foothills", "level": 2, "content": "Local Community Guide - Catalina Foothills"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Sabino Canyon Recreation Area, Finger Rock Trail, Ventana Canyon Trail, Loews Ventana Canyon Resort, St. Philip's Plaza. Whether you live near these landmarks or anywhere in Catalina Foothills, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Vivace Restaurant, Hacienda del Sol, Flying V Bar & Grill, Caf\u00e9 a La C'Art, Blanco Tacos + Tequila. When you need home services in Catalina Foothills, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Vivace Restaurant, Hacienda del Sol, Flying V Bar & Grill, Caf\u00e9 a La C'Art, Blanco Tacos + Tequila. When you need home services in Catalina Foothills, call the team your neighbors trust - Intelligent Design."},
     ]
   },
   

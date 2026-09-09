@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "We are committed to the Casas Adobes community\u2014from Casas Adobes Plaza shoppers to families who frequent Rillito River Park and gardeners at Tohono Chul Park. Our technicians know the neighborhoods\u2014Casas Adobes Estates, Shannon Heights, and La Cholla Airpark\u2014and the unique needs each area presents. We prioritize quick response during monsoon season, offer emergency tarping and temporary repairs, and work with insurance adjusters when required. As longtime members of the local business community, we respect property owners\u2019 schedules and landscaping, and we provide clear communication and warranties so homeowners feel confident in their roofing investment."
+        "content": "We are committed to the Casas Adobes community-from Casas Adobes Plaza shoppers to families who frequent Rillito River Park and gardeners at Tohono Chul Park. Our technicians know the neighborhoods-Casas Adobes Estates, Shannon Heights, and La Cholla Airpark-and the unique needs each area presents. We prioritize quick response during monsoon season, offer emergency tarping and temporary repairs, and work with insurance adjusters when required. As longtime members of the local business community, we respect property owners\u2019 schedules and landscaping, and we provide clear communication and warranties so homeowners feel confident in their roofing investment."
     },
     {
         "type": "cta",
@@ -97,7 +97,7 @@ highlights: [
     },
     {
         "question": "How long do tile roofs last in Casas Adobes?",
-        "answer": "Tile roofs can last many decades\u2014often 50 years or more\u2014but lifespan depends on underlayment, flashings, and maintenance. Many Casas Adobes tiles installed in the 1970s\u201380s remain serviceable but the underlayment and waterproofing may need replacement. Regular inspections every few years help catch failing underlayment, cracked tiles, or flashing issues before they cause interior damage."
+        "answer": "Tile roofs can last many decades-often 50 years or more-but lifespan depends on underlayment, flashings, and maintenance. Many Casas Adobes tiles installed in the 1970s\u201380s remain serviceable but the underlayment and waterproofing may need replacement. Regular inspections every few years help catch failing underlayment, cracked tiles, or flashing issues before they cause interior damage."
     },
     {
         "question": "When should I replace a flat roof in Casas Adobes?",
@@ -113,7 +113,7 @@ highlights: [
     },
     {
         "question": "Do you work on historic mid-century ranch homes in Casas Adobes?",
-        "answer": "Absolutely. We have extensive experience preserving mid-century ranch homes\u2014matching tile profiles, maintaining rooflines, and using discreet modern upgrades like improved underlayment and ventilation. Our goal is to protect the home\u2019s original aesthetic while installing durable materials that meet current performance standards and local building codes."
+        "answer": "Absolutely. We have extensive experience preserving mid-century ranch homes-matching tile profiles, maintaining rooflines, and using discreet modern upgrades like improved underlayment and ventilation. Our goal is to protect the home\u2019s original aesthetic while installing durable materials that meet current performance standards and local building codes."
     }
 ]
   },

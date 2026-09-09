@@ -15,7 +15,7 @@ export const electricalEmergencyQuestions: CommonQuestion[] = [
 export const electricalSafetyQuestions: CommonQuestion[] = [
   {
     question: "How do I know if my electrical system is safe?",
-    answer: "Warning signs of electrical problems include frequently tripping breakers, flickering lights, outlets or switches that feel warm, burning or plastic smells, discolored outlets or switch plates, sparking when plugging in devices, and buzzing sounds from electrical panels. Homes over 40 years old or with outdated wiring should have professional safety inspections. Never ignore these warning signs—they indicate serious fire hazards."
+    answer: "Warning signs of electrical problems include frequently tripping breakers, flickering lights, outlets or switches that feel warm, burning or plastic smells, discolored outlets or switch plates, sparking when plugging in devices, and buzzing sounds from electrical panels. Homes over 40 years old or with outdated wiring should have professional safety inspections. Never ignore these warning signs-they indicate serious fire hazards."
   }
 ];
 

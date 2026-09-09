@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Transparent Local Pricing Context",
-    "description": "Typical diagnostic calls in Avra Valley start around $149\u2013$249 depending on drive time and depth of buried mains; full-system well conversions average higher \u2014 we provide site estimates."
+    "description": "Typical diagnostic calls in Avra Valley start around $149\u2013$249 depending on drive time and depth of buried mains; full-system well conversions average higher - we provide site estimates."
   }
 ],
   content: {
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Avra Valley homes \u2014 whether single-story ranch houses on 1\u20135 acre parcels, manufactured homes along the Mile Wide area, or custom desert builds near the Tucson Mountains \u2014 have plumbing needs that differ from central Tucson. At 2,400 feet elevation and with cooler nights, well pump cycling and pressure behavior can vary more throughout the day. Many properties in the 85743 and 85653 zip codes rely on private wells with very hard water (250+ ppm). That hardness causes scale buildup inside pressure tanks, water heaters, and pipeline fittings, accelerating wear on fixtures and fixtures' seals. Our technicians size softeners, sediment filters, and neutralizing systems to match well yield and household demand, reducing the frequency of heater flushes and valve replacements that are common in homes built in the 1990s and 2000s in Avra Valley."
+            "content": "Avra Valley homes - whether single-story ranch houses on 1\u20135 acre parcels, manufactured homes along the Mile Wide area, or custom desert builds near the Tucson Mountains - have plumbing needs that differ from central Tucson. At 2,400 feet elevation and with cooler nights, well pump cycling and pressure behavior can vary more throughout the day. Many properties in the 85743 and 85653 zip codes rely on private wells with very hard water (250+ ppm). That hardness causes scale buildup inside pressure tanks, water heaters, and pipeline fittings, accelerating wear on fixtures and fixtures' seals. Our technicians size softeners, sediment filters, and neutralizing systems to match well yield and household demand, reducing the frequency of heater flushes and valve replacements that are common in homes built in the 1990s and 2000s in Avra Valley."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We frequently repair well pumps that have been strained by sediment and iron buildup common to rural wells around Avra Valley and Ironwood Forest. Typical service jobs include well pump replacement, pressure tank servicing, and conversion from older shallow-well setups to submersible systems. Homeowners in the Sandario corridor and near Cat Mountain often see higher iron content, which stains fixtures and reduces appliance life; we pair targeted filtration with corrosion-resistant fittings. For homeowners concerned about cost, a routine diagnostic in Avra Valley is often the most cost-effective first step \u2014 our on-site diagnostics (typically starting between $149 and $249 depending on access and travel) identify whether a partial repair or full system replacement will best extend equipment life."
+            "content": "We frequently repair well pumps that have been strained by sediment and iron buildup common to rural wells around Avra Valley and Ironwood Forest. Typical service jobs include well pump replacement, pressure tank servicing, and conversion from older shallow-well setups to submersible systems. Homeowners in the Sandario corridor and near Cat Mountain often see higher iron content, which stains fixtures and reduces appliance life; we pair targeted filtration with corrosion-resistant fittings. For homeowners concerned about cost, a routine diagnostic in Avra Valley is often the most cost-effective first step - our on-site diagnostics (typically starting between $149 and $249 depending on access and travel) identify whether a partial repair or full system replacement will best extend equipment life."
       },
       {
             "type": "paragraph",
@@ -87,9 +87,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Serving the Avra Valley community \u2014 local context and partnerships",
+            "heading": "Serving the Avra Valley community - local context and partnerships",
             "level": 2,
-            "content": "Serving the Avra Valley community \u2014 local context and partnerships"
+            "content": "Serving the Avra Valley community - local context and partnerships"
       },
       {
             "type": "paragraph",
@@ -116,7 +116,7 @@ highlights: [
     },
     {
         "question": "How do you find long-buried supply line leaks on large Avra Valley lots?",
-        "answer": "We use a combination of electronic leak detection, pressure testing, and video inspection. For long runs from the county road to the house\u2014common across 1\u20135 acre lots\u2014we perform pinpoint acoustic detection to locate leaks with minimal digging. We also evaluate slope and wash routes, especially where monsoon runoff could have undermined lines. When excavation is required, we plan trenches to avoid native plant root zones and existing landscaping common near Saguaro National Park West."
+        "answer": "We use a combination of electronic leak detection, pressure testing, and video inspection. For long runs from the county road to the house-common across 1\u20135 acre lots-we perform pinpoint acoustic detection to locate leaks with minimal digging. We also evaluate slope and wash routes, especially where monsoon runoff could have undermined lines. When excavation is required, we plan trenches to avoid native plant root zones and existing landscaping common near Saguaro National Park West."
     },
     {
         "question": "What should Avra Valley homeowners expect to pay for a diagnostic visit?",

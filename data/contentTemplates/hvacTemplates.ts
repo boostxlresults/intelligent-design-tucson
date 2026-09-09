@@ -52,7 +52,7 @@ export const hvacCaseStudies = {
     {
       id: "furnace-heat-exchanger-crack",
       name: "Cracked Heat Exchanger Detection Prevents Carbon Monoxide Danger",
-      description: "During routine tune-up in Northwest Tucson, our technician discovered hairline crack in heat exchanger—a serious safety hazard. Recommended immediate furnace replacement to protect family from carbon monoxide exposure.",
+      description: "During routine tune-up in Northwest Tucson, our technician discovered hairline crack in heat exchanger-a serious safety hazard. Recommended immediate furnace replacement to protect family from carbon monoxide exposure.",
       result: [
         { name: "Safety Issue Identified", value: "Heat exchanger crack" },
         { name: "Carbon Monoxide Risk", value: "Eliminated" },
@@ -141,7 +141,7 @@ export const hvacHowToSections = {
       {
         id: "prepare-questions-ac",
         name: "Prepare Your Questions for Our Technician",
-        text: "Write down questions to make the most of your service call:\n\n**Good Questions to Ask:**\n- What caused this problem?\n- How can I prevent this in the future?\n- Is this a sign of a bigger issue?\n- Should I consider replacement vs. repair?\n- What maintenance should I be doing?\n- Are there any safety concerns?\n- What's the expected lifespan of this repair?\n- Do you have recommendations for improving efficiency?\n\n**Questions About Costs:**\n- What's included in this repair cost?\n- What warranty comes with parts and labor?\n- Are financing options available?\n- Should I file an insurance claim? (for storm damage)\n\n**Why This Matters:** Our technicians are experts who average 17+ years experience. Ask questions—we're here to educate you and ensure your system runs efficiently for years to come.",
+        text: "Write down questions to make the most of your service call:\n\n**Good Questions to Ask:**\n- What caused this problem?\n- How can I prevent this in the future?\n- Is this a sign of a bigger issue?\n- Should I consider replacement vs. repair?\n- What maintenance should I be doing?\n- Are there any safety concerns?\n- What's the expected lifespan of this repair?\n- Do you have recommendations for improving efficiency?\n\n**Questions About Costs:**\n- What's included in this repair cost?\n- What warranty comes with parts and labor?\n- Are financing options available?\n- Should I file an insurance claim? (for storm damage)\n\n**Why This Matters:** Our technicians are experts who average 17+ years experience. Ask questions-we're here to educate you and ensure your system runs efficiently for years to come.",
         tool: "Notepad with prepared questions",
         duration: "10 minutes"
       }

@@ -32,11 +32,11 @@ highlights: [
   },
   {
     "title": "Hydro-Jetting for Mineral Build-up",
-    "description": "Hard water (200\u2013240 ppm) in 85641 accelerates mineral scale in traps and lines\u2014hydro-jetting restores flow without tearing out finished walls."
+    "description": "Hard water (200\u2013240 ppm) in 85641 accelerates mineral scale in traps and lines-hydro-jetting restores flow without tearing out finished walls."
   },
   {
     "title": "Long Rural Service Runs",
-    "description": "We price with Corona de Tucson\u2019s longer service runs in mind\u2014rural properties and horse facilities can have higher mobilization costs than denser neighborhoods."
+    "description": "We price with Corona de Tucson\u2019s longer service runs in mind-rural properties and horse facilities can have higher mobilization costs than denser neighborhoods."
   },
   {
     "title": "Camera Inspections with Local Mapping",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson\u2019s housing mix\u2014from single-story tract homes with attached garages to custom estate lots with horse facilities\u2014creates unique drain and sewer challenges. Many neighborhoods in zip code 85641 were developed in the 2000s\u20132010s using builder-grade PVC and glued fittings; those materials perform well initially but can shift when settled on caliche subsoil. Caliche causes uneven settling and can pinch or misalign exterior sewer runs, especially on properties near the Empire Mountains foothills. Our technicians evaluate slope, cleanouts, and external runs and use camera inspections and pipe sonars tailored to these local conditions. Routine maintenance in this community reduces risk of backups that would otherwise require costly excavation through desert landscaping or replaced sections across long rural driveways."
+            "content": "Corona de Tucson\u2019s housing mix-from single-story tract homes with attached garages to custom estate lots with horse facilities-creates unique drain and sewer challenges. Many neighborhoods in zip code 85641 were developed in the 2000s\u20132010s using builder-grade PVC and glued fittings; those materials perform well initially but can shift when settled on caliche subsoil. Caliche causes uneven settling and can pinch or misalign exterior sewer runs, especially on properties near the Empire Mountains foothills. Our technicians evaluate slope, cleanouts, and external runs and use camera inspections and pipe sonars tailored to these local conditions. Routine maintenance in this community reduces risk of backups that would otherwise require costly excavation through desert landscaping or replaced sections across long rural driveways."
       },
       {
             "type": "paragraph",
-            "content": "Drain issues in Corona de Tucson often present differently than in lower-elevation Tucson. Cooler nights and occasional frost increase the risk that exposed exterior traps or poorly insulated vents will crack; we insulate and secure outdoor lines commonly found along Pistol Hill Road and the Old Spanish Trail corridor. Hard water in the area (200\u2013240 ppm) contributes to scale build-up at junctions and inside older water heaters that feed to drains, so we recommend inspecting fixture traps and mainlines every 24\u201336 months. Pricing in 85641 typically reflects the extra time to access remote cleanouts\u2014basic clog clearance often starts in the $95\u2013$175 range, camera inspections $225\u2013$375, and mainline hydro-jetting $350\u2013$650, with variations for long rural runs and acreage properties."
+            "content": "Drain issues in Corona de Tucson often present differently than in lower-elevation Tucson. Cooler nights and occasional frost increase the risk that exposed exterior traps or poorly insulated vents will crack; we insulate and secure outdoor lines commonly found along Pistol Hill Road and the Old Spanish Trail corridor. Hard water in the area (200\u2013240 ppm) contributes to scale build-up at junctions and inside older water heaters that feed to drains, so we recommend inspecting fixture traps and mainlines every 24\u201336 months. Pricing in 85641 typically reflects the extra time to access remote cleanouts-basic clog clearance often starts in the $95\u2013$175 range, camera inspections $225\u2013$375, and mainline hydro-jetting $350\u2013$650, with variations for long rural runs and acreage properties."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "For single-story subdivisions with attached garages, problems often start at interior traps and garage floor drains where builder-grade fittings were installed. For custom homes on acreage we inspect long lateral lines, verify cleanout placement near property boundaries, and plan access that preserves equestrian fencing and desert landscaping. We perform targeted repairs: spot pipe repair under concrete slabs using cured-in-place pipe (CIPP) where feasible, full-section replacement where caliche and roots have compromised lines, and hydro-jetting to remove mineral scale from hard-water build-up without tearing out finished flooring. Our quotes for 85641 homeowners reflect common local variables\u2014acreage access fees, extra excavation through caliche, and any required coordination with rural septic or laterals that cross multiple parcels."
+            "content": "For single-story subdivisions with attached garages, problems often start at interior traps and garage floor drains where builder-grade fittings were installed. For custom homes on acreage we inspect long lateral lines, verify cleanout placement near property boundaries, and plan access that preserves equestrian fencing and desert landscaping. We perform targeted repairs: spot pipe repair under concrete slabs using cured-in-place pipe (CIPP) where feasible, full-section replacement where caliche and roots have compromised lines, and hydro-jetting to remove mineral scale from hard-water build-up without tearing out finished flooring. Our quotes for 85641 homeowners reflect common local variables-acreage access fees, extra excavation through caliche, and any required coordination with rural septic or laterals that cross multiple parcels."
       },
       {
             "type": "paragraph",
@@ -93,12 +93,12 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work with local HOA boards, equestrian property managers, and custom-home contractors around Corona de Tucson to reduce disruption. When a mainline repair is required near Pistol Hill Road or a driveway serving horse pens, our crews stage equipment to minimize dust and avoid damaging desert plants. We know where to coordinate permits and how to reach municipal contacts for properties with longer service runs on private easements. Our community knowledge extends to preferred local contractors for complementary work\u2014landscape grading, driveway repair, and septic maintenance\u2014so you have one reliable partner managing the job in zip code 85641."
+            "content": "We work with local HOA boards, equestrian property managers, and custom-home contractors around Corona de Tucson to reduce disruption. When a mainline repair is required near Pistol Hill Road or a driveway serving horse pens, our crews stage equipment to minimize dust and avoid damaging desert plants. We know where to coordinate permits and how to reach municipal contacts for properties with longer service runs on private easements. Our community knowledge extends to preferred local contractors for complementary work-landscape grading, driveway repair, and septic maintenance-so you have one reliable partner managing the job in zip code 85641."
       },
       {
             "type": "cta",
             "heading": "Ready to Inspect Your Corona de Tucson Sewer?",
-            "content": "Book a camera inspection or request a price estimate tailored to your home type\u2014single-story subdivision, custom acreage, or equestrian property. We\u2019ll offer honest pricing and explain options to prevent future issues.",
+            "content": "Book a camera inspection or request a price estimate tailored to your home type-single-story subdivision, custom acreage, or equestrian property. We\u2019ll offer honest pricing and explain options to prevent future issues.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       }
@@ -116,11 +116,11 @@ highlights: [
     },
     {
         "question": "Do I need more frequent maintenance because of hard water (200\u2013240 ppm)?",
-        "answer": "Yes. Hard water accelerates mineral deposits in traps and inside sewer lateral junctions. Homes in Corona de Tucson often benefit from scale-management maintenance\u2014hydro-jetting every 24\u201336 months for moderate build-up, and more frequent cleaning for properties with water-softener bypasses or older fixtures. Preventive service reduces slow drains and the risk of backups into garages or basements."
+        "answer": "Yes. Hard water accelerates mineral deposits in traps and inside sewer lateral junctions. Homes in Corona de Tucson often benefit from scale-management maintenance-hydro-jetting every 24\u201336 months for moderate build-up, and more frequent cleaning for properties with water-softener bypasses or older fixtures. Preventive service reduces slow drains and the risk of backups into garages or basements."
     },
     {
         "question": "Are there extra costs for servicing horse properties or acreage?",
-        "answer": "Properties with long rural runs or equestrian facilities can require additional mobilization and labor to access buried lines, coordinate with fencing, or work through compacted caliche. We disclose such costs up front\u2014expect higher labor and excavation estimates compared to a typical subdivision lot. Typical additional fees for acreage access vary by property layout and can affect final pricing for mainline replacement."
+        "answer": "Properties with long rural runs or equestrian facilities can require additional mobilization and labor to access buried lines, coordinate with fencing, or work through compacted caliche. We disclose such costs up front-expect higher labor and excavation estimates compared to a typical subdivision lot. Typical additional fees for acreage access vary by property layout and can affect final pricing for mainline replacement."
     },
     {
         "question": "What should I do if I smell sewer near Cienega Creek or along Old Spanish Trail?",

@@ -51,7 +51,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Casas Adobes occupies a unique position northwest of central Tucson. At roughly 2,500 feet elevation, daytime highs are often a few degrees cooler than the basin, which changes how air conditioning loads present compared with downtown Tucson. Many homes built between the 1970s and 1990s\u2014mid-century ranches, 1980s subdivisions, and newer infill luxury builds\u2014have a mix of tile and built-up roofs and established shade from mature trees. This canopy reduces peak solar gain but entraps pollen and debris that can clog condenser coils and condensate drains during summer and monsoon season. Aging equipment is common in the 85704, 85741, and 85742 zip codes: you will find older R-22 systems, undersized units where additions were added, and ductwork never updated to modern airflow standards. Our diagnostic and service approach begins with a neighborhood-aware inspection: we evaluate attic insulation and roof type, measure static pressure and airflow, check refrigerant charge with an eye to R-22 concerns, and recommend right-sized equipment or targeted repairs to extend life while improving efficiency and indoor comfort."
+            "content": "Casas Adobes occupies a unique position northwest of central Tucson. At roughly 2,500 feet elevation, daytime highs are often a few degrees cooler than the basin, which changes how air conditioning loads present compared with downtown Tucson. Many homes built between the 1970s and 1990s-mid-century ranches, 1980s subdivisions, and newer infill luxury builds-have a mix of tile and built-up roofs and established shade from mature trees. This canopy reduces peak solar gain but entraps pollen and debris that can clog condenser coils and condensate drains during summer and monsoon season. Aging equipment is common in the 85704, 85741, and 85742 zip codes: you will find older R-22 systems, undersized units where additions were added, and ductwork never updated to modern airflow standards. Our diagnostic and service approach begins with a neighborhood-aware inspection: we evaluate attic insulation and roof type, measure static pressure and airflow, check refrigerant charge with an eye to R-22 concerns, and recommend right-sized equipment or targeted repairs to extend life while improving efficiency and indoor comfort."
       },
       {
             "type": "paragraph",
@@ -115,7 +115,7 @@ highlights: [
     },
     {
         "question": "How do mature trees in Casas Adobes impact HVAC performance?",
-        "answer": "Trees provide shade that lowers solar gain, which can reduce cooling loads. However, they also drop pollen, leaves, and debris that clog outdoor coils and drains\u2014especially during monsoon season. Regular coil cleaning, protective screening, and scheduled maintenance are important to prevent performance loss and corrosion."
+        "answer": "Trees provide shade that lowers solar gain, which can reduce cooling loads. However, they also drop pollen, leaves, and debris that clog outdoor coils and drains-especially during monsoon season. Regular coil cleaning, protective screening, and scheduled maintenance are important to prevent performance loss and corrosion."
     },
     {
         "question": "Can you fix undersized systems in homes with additions?",

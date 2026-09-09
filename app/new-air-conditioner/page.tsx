@@ -85,7 +85,7 @@ const faqSchema = {
       "name": "What size air conditioner do I need for my home in Tucson?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "AC sizing depends on far more than square footage \u2014 insulation and air-tightness, ceiling height, windows, sun exposure, and occupancy all change the load. As a rough starting point in Tucson many homes fall between 2 and 4 tons, but the correct size for your specific home can only be confirmed with an in-home ACCA Manual J load calculation plus a blower-door test and thermal-imaging scan \u2014 the method the U.S. Department of Energy and ACCA recommend for every job. Try our sizing estimator for an honest ballpark range, then we confirm it exactly in your home."
+        "text": "AC sizing depends on far more than square footage - insulation and air-tightness, ceiling height, windows, sun exposure, and occupancy all change the load. As a rough starting point in Tucson many homes fall between 2 and 4 tons, but the correct size for your specific home can only be confirmed with an in-home ACCA Manual J load calculation plus a blower-door test and thermal-imaging scan - the method the U.S. Department of Energy and ACCA recommend for every job. Try our sizing estimator for an honest ballpark range, then we confirm it exactly in your home."
       }
     }
   ]

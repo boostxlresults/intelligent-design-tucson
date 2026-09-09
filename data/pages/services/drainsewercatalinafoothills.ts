@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Tile & Slate Roof Drain Integration",
-    "description": "Tile roofs dominate Catalina Foothills\u2014our teams manage gutter-to-sewer transitions and erosion-control ties that protect downhill mainlines from fast runoff."
+    "description": "Tile roofs dominate Catalina Foothills-our teams manage gutter-to-sewer transitions and erosion-control ties that protect downhill mainlines from fast runoff."
   },
   {
     "title": "Grease-Trap Service for Gourmet Kitchens",
@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Targeted Camera Inspections in 85718/85750",
-    "description": "We run high-resolution camera inspections priced to local market conditions \u2014 typical inspections range $200\u2013$350 in Catalina Foothills due to access complexity."
+    "description": "We run high-resolution camera inspections priced to local market conditions - typical inspections range $200\u2013$350 in Catalina Foothills due to access complexity."
   },
   {
     "title": "Erosion & Runoff Mitigation",
@@ -58,16 +58,16 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Catalina Foothills sits between 2,700 and 3,200 feet, and that elevation plus steeper topography changes how water moves across a property. Homes in neighborhoods like Pima Canyon, Ventana Canyon and Skyline Heights\u2014many custom-built in the 1980s through the 2000s\u2014commonly have long, routed waste lines that snake around retaining walls, through crawlspaces and down steep driveways to reach municipal mains. Tile and slate roofs shed rain quickly; when heavier storms arrive or when winter frost thaws, runoff surges can push silt and debris into yard drains and mainline cleanouts. Add in large gourmet kitchens popular in the area\u2014often with built-in grease traps\u2014and pool backwash from multi-thousand-square-foot estates, and you have a unique set of stressors. Our technicians account for elevation, roof runoff behavior, and the local water hardness (moderate-hard 160\u2013200 ppm) when recommending cleaning frequency, camera diagnostics, or reroute strategies for homes in ZIPs 85718 and 85750."
+            "content": "Catalina Foothills sits between 2,700 and 3,200 feet, and that elevation plus steeper topography changes how water moves across a property. Homes in neighborhoods like Pima Canyon, Ventana Canyon and Skyline Heights-many custom-built in the 1980s through the 2000s-commonly have long, routed waste lines that snake around retaining walls, through crawlspaces and down steep driveways to reach municipal mains. Tile and slate roofs shed rain quickly; when heavier storms arrive or when winter frost thaws, runoff surges can push silt and debris into yard drains and mainline cleanouts. Add in large gourmet kitchens popular in the area-often with built-in grease traps-and pool backwash from multi-thousand-square-foot estates, and you have a unique set of stressors. Our technicians account for elevation, roof runoff behavior, and the local water hardness (moderate-hard 160\u2013200 ppm) when recommending cleaning frequency, camera diagnostics, or reroute strategies for homes in ZIPs 85718 and 85750."
       },
       {
             "type": "paragraph",
-            "content": "Because many Catalina Foothills homes use premium materials and complex designs, repairs must be minimally invasive and preserve finished surfaces. On properties where underground utilities are buried or roads are narrow, access time and excavation needs affect cost\u2014expect camera inspections to generally fall in the $200\u2013$350 range, hydro-jetting around $300\u2013$700, and full mainline reroutes running $3,500\u2013$15,000 depending on hillside access and required retaining-wall or hardscape work."
+            "content": "Because many Catalina Foothills homes use premium materials and complex designs, repairs must be minimally invasive and preserve finished surfaces. On properties where underground utilities are buried or roads are narrow, access time and excavation needs affect cost-expect camera inspections to generally fall in the $200\u2013$350 range, hydro-jetting around $300\u2013$700, and full mainline reroutes running $3,500\u2013$15,000 depending on hillside access and required retaining-wall or hardscape work."
       },
       {
             "type": "cta",
             "heading": "Schedule a Catalina Foothills Drain & Sewer Inspection",
-            "content": "We provide prompt camera inspections and tailored repair plans for Catalina Foothills homes in 85718 and 85750\u2014call for a site-specific estimate that accounts for elevation, roof runoff, and pool or grease-trap needs.",
+            "content": "We provide prompt camera inspections and tailored repair plans for Catalina Foothills homes in 85718 and 85750-call for a site-specific estimate that accounts for elevation, roof runoff, and pool or grease-trap needs.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Fast-flowing runoff during monsoon pulses and winter thaws can overload yard drains and force sediment into service lines\u2014especially on slope-facing lots in Campbell/Skyline corridor and Ventana Canyon. Cast-iron or early PVC from 1980s builds sometimes shows corrosion or bell-joint separation after decades, and where lines were routed around rock outcrops you\u2019ll find root intrusion and offsets at joints. Gourmet kitchens in upscale homes near St. Philip's Plaza or Hacienda del Sol often have heavy grease accumulation; without a properly sized trap, solids and FOG (fats, oils, grease) build up faster than in standard households. Pool backwash and spa winterization add additional solids and chemicals that require separate bypass routing or commercial-grade filters to protect the municipal tie-in."
+            "content": "Fast-flowing runoff during monsoon pulses and winter thaws can overload yard drains and force sediment into service lines-especially on slope-facing lots in Campbell/Skyline corridor and Ventana Canyon. Cast-iron or early PVC from 1980s builds sometimes shows corrosion or bell-joint separation after decades, and where lines were routed around rock outcrops you\u2019ll find root intrusion and offsets at joints. Gourmet kitchens in upscale homes near St. Philip's Plaza or Hacienda del Sol often have heavy grease accumulation; without a properly sized trap, solids and FOG (fats, oils, grease) build up faster than in standard households. Pool backwash and spa winterization add additional solids and chemicals that require separate bypass routing or commercial-grade filters to protect the municipal tie-in."
       },
       {
             "type": "paragraph",
-            "content": "Our problem-first approach uses camera inspections to locate joint failures, collapsed segments or slope-related stress points. In many Catalina Foothills cases we combine trenchless spot repairs with surface-level grading improvements\u2014this minimizes disruption to high-end landscaping and stone hardscapes that are common on large hillside lots."
+            "content": "Our problem-first approach uses camera inspections to locate joint failures, collapsed segments or slope-related stress points. In many Catalina Foothills cases we combine trenchless spot repairs with surface-level grading improvements-this minimizes disruption to high-end landscaping and stone hardscapes that are common on large hillside lots."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We coordinate with homeowners associations, landscape architects and pool service companies across neighborhoods like Skyline Heights and Hacienda del Sol to preserve curb appeal while solving drainage problems. When we work near public trailheads like Finger Rock or private country-club properties around Skyline Country Club, we factor in runoff paths and wildlife corridors\u2014javelina and coyotes can alter erosion patterns, and buried cleanouts must be secured against critter damage. For properties near Sabino Canyon or Ventana Canyon, we also advise on seasonal plans: extra cleanings after monsoon season and careful freeze-prep when occasional Catalina Foothills frosts threaten exposed above-ground lines."
+            "content": "We coordinate with homeowners associations, landscape architects and pool service companies across neighborhoods like Skyline Heights and Hacienda del Sol to preserve curb appeal while solving drainage problems. When we work near public trailheads like Finger Rock or private country-club properties around Skyline Country Club, we factor in runoff paths and wildlife corridors-javelina and coyotes can alter erosion patterns, and buried cleanouts must be secured against critter damage. For properties near Sabino Canyon or Ventana Canyon, we also advise on seasonal plans: extra cleanings after monsoon season and careful freeze-prep when occasional Catalina Foothills frosts threaten exposed above-ground lines."
       },
       {
             "type": "cta",

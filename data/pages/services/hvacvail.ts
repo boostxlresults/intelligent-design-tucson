@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Right-Size HVAC for Newer 2000s\u20132020s Homes",
-    "description": "Newer subdivisions like Del Lago and Empirita Ranch often have open plans and vaulted ceilings\u2014we size systems to match local construction, not generic rules."
+    "description": "Newer subdivisions like Del Lago and Empirita Ranch often have open plans and vaulted ceilings-we size systems to match local construction, not generic rules."
   },
   {
     "title": "Service for Tile, Shingle, and Flat Roof Houses",
@@ -36,7 +36,7 @@ highlights: [
   },
   {
     "title": "Ranch & Acreage Property Comfort Solutions",
-    "description": "Custom homes and ranch properties near the Empire Mountains and Colossal Cave require zoned systems and targeted ductwork strategies\u2014we design for large, spread-out floorplans."
+    "description": "Custom homes and ranch properties near the Empire Mountains and Colossal Cave require zoned systems and targeted ductwork strategies-we design for large, spread-out floorplans."
   },
   {
     "title": "Local Pricing Context for Vail Homeowners",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Vail\u2019s 3,200\u20133,800 ft elevation creates a microclimate distinct from central Tucson: cooler daytime peaks in summer, colder nights, and more frequent frost in winter. That means heat pumps\u2014commonly chosen for newer builds in Del Lago and Empirita Ranch\u2014need different refrigerant charge, defrost timing, and backup heat strategies than systems installed at lower elevations. Homes built in the 2000s through the 2020s in Vail often feature open-concept living with vaulted ceilings and larger window walls facing the Empire Mountains; these features increase heating demand on clear winter nights. We perform Manual J load calculations specifically calibrated for 85641 solar angles, insulation types, and typical ceiling heights in Vail to prevent undersizing that causes short cycling and higher energy use. For ranch properties and custom builds near Colossal Cave Mountain Park and Cienega Creek Preserve, we design zoned systems to serve distant living areas efficiently without overspending on a single oversized unit."
+            "content": "Vail\u2019s 3,200\u20133,800 ft elevation creates a microclimate distinct from central Tucson: cooler daytime peaks in summer, colder nights, and more frequent frost in winter. That means heat pumps-commonly chosen for newer builds in Del Lago and Empirita Ranch-need different refrigerant charge, defrost timing, and backup heat strategies than systems installed at lower elevations. Homes built in the 2000s through the 2020s in Vail often feature open-concept living with vaulted ceilings and larger window walls facing the Empire Mountains; these features increase heating demand on clear winter nights. We perform Manual J load calculations specifically calibrated for 85641 solar angles, insulation types, and typical ceiling heights in Vail to prevent undersizing that causes short cycling and higher energy use. For ranch properties and custom builds near Colossal Cave Mountain Park and Cienega Creek Preserve, we design zoned systems to serve distant living areas efficiently without overspending on a single oversized unit."
       },
       {
             "type": "paragraph",
-            "content": "Many Vail homes use tile roofs (about 65%), shingles (25%), or flat roofs (10%), which influences rooftop unit access, mini-split outdoor unit placement, and condensate routing. In neighborhoods like Old Vail and Rincon Valley areas, contractors often encounter slab-on-grade foundations and long runs of ductwork to remote bedrooms\u2014both of which affect heat loss and capacity requirements. We routinely see newer homes with high-efficiency equipment that still suffer from poor airflow due to undersized return pathways or improperly located thermostats near south-facing windows. Additionally, hard water in the region (200\u2013230 ppm) can reduce the life of humidifiers and indirect-fired heating components; we recommend service intervals and water-conditioning options that prevent mineral buildup affecting air handler performance. Our approach combines precise diagnostics with local knowledge of Vail building styles and elevation-driven weather patterns."
+            "content": "Many Vail homes use tile roofs (about 65%), shingles (25%), or flat roofs (10%), which influences rooftop unit access, mini-split outdoor unit placement, and condensate routing. In neighborhoods like Old Vail and Rincon Valley areas, contractors often encounter slab-on-grade foundations and long runs of ductwork to remote bedrooms-both of which affect heat loss and capacity requirements. We routinely see newer homes with high-efficiency equipment that still suffer from poor airflow due to undersized return pathways or improperly located thermostats near south-facing windows. Additionally, hard water in the region (200\u2013230 ppm) can reduce the life of humidifiers and indirect-fired heating components; we recommend service intervals and water-conditioning options that prevent mineral buildup affecting air handler performance. Our approach combines precise diagnostics with local knowledge of Vail building styles and elevation-driven weather patterns."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Because Vail experiences cooler winters and more frequent frost than lower-elevation Tucson areas, homeowners see higher heating-season runtime and different wear patterns on compressors and reversing valves. Heat pumps remain an excellent choice for energy efficiency, but at 3,200\u20133,800 ft we recommend models with cold-climate performance ratings, a supplemental electric or gas heat strategy for extreme nights, and correctly-sized defrost cycles. For older systems in neighborhoods that developed earlier within the Vail area, such as properties that predate the 2000s, furnaces may still be present; replacing an aging furnace often requires duct assessment\u2014many Vail renovations reveal undersized or leaking ducts that negate equipment efficiency. Typical replacement costs in Vail vary: a full-system AC or heat pump change-out for a standard 2,000\u20132,500 sq ft newer home often starts near $6,500 and can reach $12,000+ when adding zoning, new thermostats, or substantial duct modifications. We provide line-item estimates tied to local material and labor conditions for zip code 85641."
+            "content": "Because Vail experiences cooler winters and more frequent frost than lower-elevation Tucson areas, homeowners see higher heating-season runtime and different wear patterns on compressors and reversing valves. Heat pumps remain an excellent choice for energy efficiency, but at 3,200\u20133,800 ft we recommend models with cold-climate performance ratings, a supplemental electric or gas heat strategy for extreme nights, and correctly-sized defrost cycles. For older systems in neighborhoods that developed earlier within the Vail area, such as properties that predate the 2000s, furnaces may still be present; replacing an aging furnace often requires duct assessment-many Vail renovations reveal undersized or leaking ducts that negate equipment efficiency. Typical replacement costs in Vail vary: a full-system AC or heat pump change-out for a standard 2,000\u20132,500 sq ft newer home often starts near $6,500 and can reach $12,000+ when adding zoning, new thermostats, or substantial duct modifications. We provide line-item estimates tied to local material and labor conditions for zip code 85641."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We serve Vail homeowners who care about school schedules, community events, and outdoor recreation. Whether you\u2019re tuning an HVAC system before a Vail School District event, installing a new heat pump for a family moving into Rincon Valley, or prepping a second home near Cienega Creek Preserve for winter visitors, we plan service around local traffic on Houghton and I-10 and the event calendar for Old Vail gatherings. We coordinate with local builders and roofers familiar with tile and shingle work, and we advise on solar-ready HVAC siting for the many Vail properties with strong solar potential\u2014cooler ambient temperatures in Vail actually improve PV efficiency compared with lower-elevation installations."
+            "content": "We serve Vail homeowners who care about school schedules, community events, and outdoor recreation. Whether you\u2019re tuning an HVAC system before a Vail School District event, installing a new heat pump for a family moving into Rincon Valley, or prepping a second home near Cienega Creek Preserve for winter visitors, we plan service around local traffic on Houghton and I-10 and the event calendar for Old Vail gatherings. We coordinate with local builders and roofers familiar with tile and shingle work, and we advise on solar-ready HVAC siting for the many Vail properties with strong solar potential-cooler ambient temperatures in Vail actually improve PV efficiency compared with lower-elevation installations."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do heat pumps work well at Vail\u2019s elevation (85641)?",
-        "answer": "Yes\u2014heat pumps can be efficient in Vail, but they require cold-climate tuning. At 3,200\u20133,800 ft the nights are colder and frost events more common than central Tucson. We recommend units with proven low-ambient performance, correct refrigerant charge, and a backup heat strategy (electric or gas) for prolonged cold snaps. Proper defrost control and occasional service visits in late fall prevent icing issues that slightly higher-elevation microclimates in Vail produce."
+        "answer": "Yes-heat pumps can be efficient in Vail, but they require cold-climate tuning. At 3,200\u20133,800 ft the nights are colder and frost events more common than central Tucson. We recommend units with proven low-ambient performance, correct refrigerant charge, and a backup heat strategy (electric or gas) for prolonged cold snaps. Proper defrost control and occasional service visits in late fall prevent icing issues that slightly higher-elevation microclimates in Vail produce."
     },
     {
         "question": "How often should Vail homes with tile roofs have outdoor units inspected?",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Will newer 2000s\u20132020s Vail homes need larger systems due to open plans?",
-        "answer": "Not necessarily larger\u2014just properly sized. Newer Vail homes often have vaulted ceilings and large windows facing the Empire Mountains, which increase heating loads at night. We perform Manual J calculations specific to those features to determine correct capacity and ductwork needs, avoiding oversized units that short cycle and undersized systems that run continuously."
+        "answer": "Not necessarily larger-just properly sized. Newer Vail homes often have vaulted ceilings and large windows facing the Empire Mountains, which increase heating loads at night. We perform Manual J calculations specific to those features to determine correct capacity and ductwork needs, avoiding oversized units that short cycle and undersized systems that run continuously."
     },
     {
         "question": "How does hard water (200\u2013230 ppm) in Vail affect HVAC systems?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "Are smart thermostats recommended for Vail homes with variable daily temperatures?",
-        "answer": "Yes\u2014smart thermostats help manage wide diurnal swings in Vail by learning occupancy patterns, staging heat pump operation, and optimizing setback periods without sacrificing comfort. They\u2019re particularly useful in family-oriented subdivisions and homes near schools where schedules are consistent; we can integrate zoning and wireless sensors to keep bedrooms warm on frosty mornings while reducing energy use during mild afternoons."
+        "answer": "Yes-smart thermostats help manage wide diurnal swings in Vail by learning occupancy patterns, staging heat pump operation, and optimizing setback periods without sacrificing comfort. They\u2019re particularly useful in family-oriented subdivisions and homes near schools where schedules are consistent; we can integrate zoning and wireless sensors to keep bedrooms warm on frosty mornings while reducing energy use during mild afternoons."
     },
     {
         "question": "Can solar integration help HVAC costs in Vail\u2019s cooler climate?",

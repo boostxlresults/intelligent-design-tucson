@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rillito (zip 85654) is a small, agricultural community north of Tucson sitting at about 2,100 feet. Homes range from manufactured units to ranch-style houses built in the 1970s through the 1990s, and many properties include barns, irrigation equipment, or workshop outbuildings. Those older homes commonly have 100-amp panels, dated breakers, and sometimes aluminum branch circuits that struggle with modern loads. The open fields and proximity to the Santa Cruz River corridor mean long service runs and exposure to dust from farming operations \u2014 factors that change how we specify outdoor enclosures, conduit, and protective devices. Our technicians size circuits for well pumps, install subpanels for workshops, and upgrade service capacity when homeowners want to add HVAC, EV chargers, or agricultural equipment. Because many Rillito parcels sit farther from main lines, we also factor in trenching and conduit runs; typical panel upgrade projects in this area often land in the $1,800\u2013$4,500 range depending on trench length and whether a new meter base is required."
+            "content": "Rillito (zip 85654) is a small, agricultural community north of Tucson sitting at about 2,100 feet. Homes range from manufactured units to ranch-style houses built in the 1970s through the 1990s, and many properties include barns, irrigation equipment, or workshop outbuildings. Those older homes commonly have 100-amp panels, dated breakers, and sometimes aluminum branch circuits that struggle with modern loads. The open fields and proximity to the Santa Cruz River corridor mean long service runs and exposure to dust from farming operations - factors that change how we specify outdoor enclosures, conduit, and protective devices. Our technicians size circuits for well pumps, install subpanels for workshops, and upgrade service capacity when homeowners want to add HVAC, EV chargers, or agricultural equipment. Because many Rillito parcels sit farther from main lines, we also factor in trenching and conduit runs; typical panel upgrade projects in this area often land in the $1,800\u2013$4,500 range depending on trench length and whether a new meter base is required."
       },
       {
             "type": "paragraph",
-            "content": "Manufactured homes and modular units \u2014 which make up a substantial portion of Rillito\u2019s roofing and building stock \u2014 present different challenges than stick-built homes. Access points, limited attic space, and older bond methods call for targeted repairs rather than full rewires in many cases. For well systems that pump very hard water (240+ ppm), electronics such as pressure switches and motor starters tolerate less thermal stress, so we recommend protective starters and surge suppression sized for long motor starts. Service calls in Rillito typically run lower than central Tucson due to shorter travel times from our Marana crews, with diagnostic visits often priced in the $99\u2013$159 range; more complex rural runs or utility coordination with TEP or Trico can increase costs depending on permit and trenching needs."
+            "content": "Manufactured homes and modular units - which make up a substantial portion of Rillito\u2019s roofing and building stock - present different challenges than stick-built homes. Access points, limited attic space, and older bond methods call for targeted repairs rather than full rewires in many cases. For well systems that pump very hard water (240+ ppm), electronics such as pressure switches and motor starters tolerate less thermal stress, so we recommend protective starters and surge suppression sized for long motor starts. Service calls in Rillito typically run lower than central Tucson due to shorter travel times from our Marana crews, with diagnostic visits often priced in the $99\u2013$159 range; more complex rural runs or utility coordination with TEP or Trico can increase costs depending on permit and trenching needs."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We maintain regular service routes that include Rillito proper, the Marana border area, and the Santa Cruz River corridor. Our crews understand the rhythms of a quiet rural community \u2014 morning irrigation starts, weekend events at Rillito Park Racetrack, and farmers\u2019 schedules that require evening or off-hour access. We work with local permit offices for Marana-adjacent properties and TEP/Trico for meter and service approvals. This local approach shortens turnaround times for inspections and keeps projects moving when residents are preparing homes for peak summer heat or installing solar on large, exposed agricultural roofs."
+            "content": "We maintain regular service routes that include Rillito proper, the Marana border area, and the Santa Cruz River corridor. Our crews understand the rhythms of a quiet rural community - morning irrigation starts, weekend events at Rillito Park Racetrack, and farmers\u2019 schedules that require evening or off-hour access. We work with local permit offices for Marana-adjacent properties and TEP/Trico for meter and service approvals. This local approach shortens turnaround times for inspections and keeps projects moving when residents are preparing homes for peak summer heat or installing solar on large, exposed agricultural roofs."
       },
       {
             "type": "cta",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Are there special considerations for outdoor equipment around Rillito\u2019s agricultural fields?",
-        "answer": "Yes \u2014 high dust, exposure, and vibration require NEMA-rated enclosures, elevated mounting, and sealed conduit runs. We keep disconnects accessible for farm operations and specify components that tolerate dusty, sun-exposed conditions."
+        "answer": "Yes - high dust, exposure, and vibration require NEMA-rated enclosures, elevated mounting, and sealed conduit runs. We keep disconnects accessible for farm operations and specify components that tolerate dusty, sun-exposed conditions."
     },
     {
         "question": "Will a solar array work on Rillito agricultural buildings?",

@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Cortaro's housing stock \u2014 a mix of planned communities like Continental Ranch and later infill near the Silverbell corridor \u2014 creates plumbing patterns we see every week. Homes built through the 1990s-2010s commonly have builder-grade copper or PEX concealed under slab foundations and finished with stucco walls and tile roofs. In this microclimate, higher summer soil temperatures and seasonal monsoon saturation can accelerate joint failure or reveal slow slab leaks. Our local technicians account for the elevated 2,200 ft elevation and hotter low-elevation summers here when recommending repair windows and coolant runs. For homeowners in zip codes 85652 and 85742, we prioritize noninvasive leak location, careful tile removal when necessary, and repairs that match existing fixtures so new work blends with typical Cortaro finishes."
+            "content": "Cortaro's housing stock - a mix of planned communities like Continental Ranch and later infill near the Silverbell corridor - creates plumbing patterns we see every week. Homes built through the 1990s-2010s commonly have builder-grade copper or PEX concealed under slab foundations and finished with stucco walls and tile roofs. In this microclimate, higher summer soil temperatures and seasonal monsoon saturation can accelerate joint failure or reveal slow slab leaks. Our local technicians account for the elevated 2,200 ft elevation and hotter low-elevation summers here when recommending repair windows and coolant runs. For homeowners in zip codes 85652 and 85742, we prioritize noninvasive leak location, careful tile removal when necessary, and repairs that match existing fixtures so new work blends with typical Cortaro finishes."
       },
       {
             "type": "paragraph",
-            "content": "Water quality in Cortaro reflects Marana Water's hard profile \u2014 roughly 200\u2013230 ppm \u2014 which wears faucets, shortening the life of aerators, valves, and water-using appliances. That hardness contributes to scale buildup in water heaters, faster degradation of builder-grade fixtures, and increased frequency of water softener service calls. We tailor softener sizing to family size and irrigation demands common in ranch-style yards along Cortaro Farms Road and install systems that minimize salt usage for homeowners concerned about landscaping impacts."
+            "content": "Water quality in Cortaro reflects Marana Water's hard profile - roughly 200\u2013230 ppm - which wears faucets, shortening the life of aerators, valves, and water-using appliances. That hardness contributes to scale buildup in water heaters, faster degradation of builder-grade fixtures, and increased frequency of water softener service calls. We tailor softener sizing to family size and irrigation demands common in ranch-style yards along Cortaro Farms Road and install systems that minimize salt usage for homeowners concerned about landscaping impacts."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We see a predictable set of repairs in Cortaro. Slab leak detection starts with a diagnostic typically $99\u2013$149; small slab repairs that avoid major tile removal often fall between $1,200 and $2,500. When tile roofs (present on about 70% of homes) require partial removal for access, expect higher bids\u2014commonly $2,500\u2013$4,000 depending on tile type and replacement labor. Replacing failing builder-grade faucets or toilets in the 1990s-2010s tract homes often runs $250\u2013$800 per fixture installed, while whole-house water softener packages start around $1,200 for a single-family home in the Continental Reserve area. We give itemized written estimates so Cortaro homeowners can budget for seasonal work, especially before monsoon season."
+            "content": "We see a predictable set of repairs in Cortaro. Slab leak detection starts with a diagnostic typically $99\u2013$149; small slab repairs that avoid major tile removal often fall between $1,200 and $2,500. When tile roofs (present on about 70% of homes) require partial removal for access, expect higher bids-commonly $2,500\u2013$4,000 depending on tile type and replacement labor. Replacing failing builder-grade faucets or toilets in the 1990s-2010s tract homes often runs $250\u2013$800 per fixture installed, while whole-house water softener packages start around $1,200 for a single-family home in the Continental Reserve area. We give itemized written estimates so Cortaro homeowners can budget for seasonal work, especially before monsoon season."
       },
       {
             "type": "paragraph",
@@ -157,7 +157,7 @@ highlights: [
     },
     {
         "question": "When is the best time to service water heaters in Cortaro?",
-        "answer": "Late spring is ideal\u2014after most irrigation needs increase but before peak summer temperatures and monsoon unpredictability. Flushing and scale service in May helps water heaters cope with Marana's hard water and reduces the chance of mid-summer failures."
+        "answer": "Late spring is ideal-after most irrigation needs increase but before peak summer temperatures and monsoon unpredictability. Flushing and scale service in May helps water heaters cope with Marana's hard water and reduces the chance of mid-summer failures."
     },
     {
         "question": "Can you work around Cortaro landscaping during repairs?",

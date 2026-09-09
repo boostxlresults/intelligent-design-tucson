@@ -133,11 +133,11 @@ export const redrockcasagrandeData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Red Rock / Casa Grande", "level": 2, "content": "Local Community Guide \u2014 Red Rock / Casa Grande"},
+            {"type": "heading", "heading": "Local Community Guide - Red Rock / Casa Grande", "level": 2, "content": "Local Community Guide - Red Rock / Casa Grande"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Casa Grande Ruins National Monument, Old Sasco Building Remains, Ironwood Forest National Monument, Casa Grande Main Street. Whether you live near these landmarks or anywhere in Red Rock / Casa Grande, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hideout Steakhouse and BBQ, BeDillon's Restaurant, Karavela's Mexican and Peruvian Food, Big House Cafe & Catering. When you need home services in Red Rock / Casa Grande, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hideout Steakhouse and BBQ, BeDillon's Restaurant, Karavela's Mexican and Peruvian Food, Big House Cafe & Catering. When you need home services in Red Rock / Casa Grande, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

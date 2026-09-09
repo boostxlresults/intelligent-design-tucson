@@ -33,7 +33,7 @@ highlights: [
   },
   {
     "title": "Indoor Air Quality for Desert Landscapes",
-    "description": "Solutions that reduce seasonal dust, pollen and occasional moisture from higher rainfall\u2014improving comfort for homes near Empire Mountains and Colossal Cave."
+    "description": "Solutions that reduce seasonal dust, pollen and occasional moisture from higher rainfall-improving comfort for homes near Empire Mountains and Colossal Cave."
   },
   {
     "title": "Local Warranty & Trusted Technicians",
@@ -51,11 +51,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson sits at roughly 3,800 feet elevation and the homes in zip code 85641 reflect a mix of 2000s\u20132010s subdivisions, custom builds on acreage and horse-friendly properties. That housing stock\u2014often single-story with attached garages and desert landscaping\u2014creates HVAC needs that differ from the Tucson valley. Cooler average temperatures (about 5\u20138\u00b0F lower) mean less extreme summer peak loads but more frequent frost days in winter, which increases heating demand and affects how heat pumps cycle. Many new systems in the area were specified without accounting for elevation-related efficiency shifts and the local microclimate near Empire Mountains and Colossal Cave Mountain Park. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric we evaluate homes holistically: investigating duct leakage in single-story ranch layouts, confirming correct heat pump staging for cold mornings, and verifying fuel source and venting for furnaces on rural properties. Our approach reduces short cycling, improves comfort in rooms near garage spaces or south-facing glass, and extends equipment life so homeowners in Rancho del Lago, Las Colinas and the Old Spanish Trail corridor get reliable performance year-round."
+            "content": "Corona de Tucson sits at roughly 3,800 feet elevation and the homes in zip code 85641 reflect a mix of 2000s\u20132010s subdivisions, custom builds on acreage and horse-friendly properties. That housing stock-often single-story with attached garages and desert landscaping-creates HVAC needs that differ from the Tucson valley. Cooler average temperatures (about 5\u20138\u00b0F lower) mean less extreme summer peak loads but more frequent frost days in winter, which increases heating demand and affects how heat pumps cycle. Many new systems in the area were specified without accounting for elevation-related efficiency shifts and the local microclimate near Empire Mountains and Colossal Cave Mountain Park. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric we evaluate homes holistically: investigating duct leakage in single-story ranch layouts, confirming correct heat pump staging for cold mornings, and verifying fuel source and venting for furnaces on rural properties. Our approach reduces short cycling, improves comfort in rooms near garage spaces or south-facing glass, and extends equipment life so homeowners in Rancho del Lago, Las Colinas and the Old Spanish Trail corridor get reliable performance year-round."
       },
       {
             "type": "paragraph",
-            "content": "We regularly address heat pump efficiency losses at higher elevation by re-measuring load calculations, adjusting refrigerant charge for altitude, and verifying compressor performance during frost events. For custom acreage properties and horse properties, we inspect outdoor unit siting to avoid dust and hay exposure while ensuring clear airflow from Pistol Hill Road breezes. Our technicians also recommend maintenance schedules that reflect Corona de Tucson\u2019s slightly higher rainfall and seasonal pollen\u2014preventive tune-ups that keep systems operating at peak efficiency."
+            "content": "We regularly address heat pump efficiency losses at higher elevation by re-measuring load calculations, adjusting refrigerant charge for altitude, and verifying compressor performance during frost events. For custom acreage properties and horse properties, we inspect outdoor unit siting to avoid dust and hay exposure while ensuring clear airflow from Pistol Hill Road breezes. Our technicians also recommend maintenance schedules that reflect Corona de Tucson\u2019s slightly higher rainfall and seasonal pollen-preventive tune-ups that keep systems operating at peak efficiency."
       },
       {
             "type": "cta",
@@ -86,7 +86,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design has served Corona de Tucson neighbors for decades, from families in Rancho del Lago to ranch owners along Pistol Hill Road. We know the routes and the nuances of Vail School District schedules, and we\u2019re familiar faces at community events near Colossal Cave Mountain Park. We support local homeowners with energy-smart upgrades, duct sealing for Old Spanish Trail properties, and IAQ improvements for residents who value the clear mountain air but battle seasonal dust and pollen. Our team provides education on system choices\u2014explaining why a heat pump might need auxiliary heat in a frost event or how a variable-speed blower benefits single-story homes with long hall runs. With 46+ years in business and a 4.97\u2605 rating from over 3,600 reviews, Intelligent Design is the local partner Corona de Tucson households call for dependable HVAC, ductwork and indoor air quality solutions."
+            "content": "Intelligent Design has served Corona de Tucson neighbors for decades, from families in Rancho del Lago to ranch owners along Pistol Hill Road. We know the routes and the nuances of Vail School District schedules, and we\u2019re familiar faces at community events near Colossal Cave Mountain Park. We support local homeowners with energy-smart upgrades, duct sealing for Old Spanish Trail properties, and IAQ improvements for residents who value the clear mountain air but battle seasonal dust and pollen. Our team provides education on system choices-explaining why a heat pump might need auxiliary heat in a frost event or how a variable-speed blower benefits single-story homes with long hall runs. With 46+ years in business and a 4.97\u2605 rating from over 3,600 reviews, Intelligent Design is the local partner Corona de Tucson households call for dependable HVAC, ductwork and indoor air quality solutions."
       },
       {
             "type": "cta",
@@ -111,7 +111,7 @@ highlights: [
     },
     {
         "question": "How often should I schedule maintenance for a home in zip code 85641?",
-        "answer": "We recommend semi-annual tune-ups\u2014spring for cooling and fall for heating\u2014so we can inspect frost cycles, refrigerant levels, duct integrity and filtration. Corona de Tucson\u2019s slightly higher rainfall and seasonal pollen make regular checks important for reliability and indoor air quality."
+        "answer": "We recommend semi-annual tune-ups-spring for cooling and fall for heating-so we can inspect frost cycles, refrigerant levels, duct integrity and filtration. Corona de Tucson\u2019s slightly higher rainfall and seasonal pollen make regular checks important for reliability and indoor air quality."
     },
     {
         "question": "Are there common duct issues in Corona de Tucson homes?",
@@ -138,7 +138,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "RQ1 for HVAC in Corona de Tucson",
-        "answer": "Are there specific neighborhood concerns we should address in Corona de Tucson? Yes\u2014Rancho del Lago and Las Colinas often have newer subdivisions with tight resale windows, so quick turnarounds for diagnostics and transparent replacement quotes matter. Old Spanish Trail corridor and custom acreage owners require ductwork and siting solutions to manage dust and garage-adjacent living spaces. Mentioning landmark proximity like Colossal Cave Mountain Park or Pistol Hill Road helps customers feel this content was written for them."
+        "answer": "Are there specific neighborhood concerns we should address in Corona de Tucson? Yes-Rancho del Lago and Las Colinas often have newer subdivisions with tight resale windows, so quick turnarounds for diagnostics and transparent replacement quotes matter. Old Spanish Trail corridor and custom acreage owners require ductwork and siting solutions to manage dust and garage-adjacent living spaces. Mentioning landmark proximity like Colossal Cave Mountain Park or Pistol Hill Road helps customers feel this content was written for them."
     },
     {
         "question": "RQ2",

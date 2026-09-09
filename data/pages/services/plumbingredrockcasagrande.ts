@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "In Red Rock & Casa Grande the combination of lower elevation (~1,400 ft), prolonged summer heat and extremely hard groundwater creates plumbing stress that differs from Tucson neighborhoods. Newer subdivisions developed in the 2000s\u20132020s around Coyote Ranch and parts of the I-10 corridor use modern single-story plans with shorter hot water runs but more compact utility closets; that means a failed water heater or clogged expansion tank impacts an entire household quickly. Mineral scale accumulates faster here\u2014hot water tanks that would last a decade elsewhere can show failure signs in half the time without proper maintenance. Fixtures and water-using appliances in homes with tile and foam/flat roofs (the most common roof types locally) also suffer because replacement frequency is higher; we focus on preventative steps like scheduled tank flushes, anode replacement, and installing thermostatic mixing valves to protect fixtures and residents from scalding when tanks are oversized to combat rapid heat loss."
+            "content": "In Red Rock & Casa Grande the combination of lower elevation (~1,400 ft), prolonged summer heat and extremely hard groundwater creates plumbing stress that differs from Tucson neighborhoods. Newer subdivisions developed in the 2000s\u20132020s around Coyote Ranch and parts of the I-10 corridor use modern single-story plans with shorter hot water runs but more compact utility closets; that means a failed water heater or clogged expansion tank impacts an entire household quickly. Mineral scale accumulates faster here-hot water tanks that would last a decade elsewhere can show failure signs in half the time without proper maintenance. Fixtures and water-using appliances in homes with tile and foam/flat roofs (the most common roof types locally) also suffer because replacement frequency is higher; we focus on preventative steps like scheduled tank flushes, anode replacement, and installing thermostatic mixing valves to protect fixtures and residents from scalding when tanks are oversized to combat rapid heat loss."
       },
       {
             "type": "paragraph",
-            "content": "Casa Grande homeowners should also account for local infrastructure: properties in zip codes 85145 and 85122 along older agricultural parcels often have different supply line layouts and sometimes legacy plumbing installed before community subdivisions expanded. In downtown Casa Grande and newer Pinal County developments (85193), lot sizes and utility easements vary, creating access challenges that influence labor time and parts costs. We price work with that context in mind\u2014simple repairs like leak fixes or expansion tank replacements often sit at the lower end of local ranges, while rerouting older supply lines or installing whole-home water conditioning systems reflect the extra labor tied to soil conditions and long-term mineral mitigation."
+            "content": "Casa Grande homeowners should also account for local infrastructure: properties in zip codes 85145 and 85122 along older agricultural parcels often have different supply line layouts and sometimes legacy plumbing installed before community subdivisions expanded. In downtown Casa Grande and newer Pinal County developments (85193), lot sizes and utility easements vary, creating access challenges that influence labor time and parts costs. We price work with that context in mind-simple repairs like leak fixes or expansion tank replacements often sit at the lower end of local ranges, while rerouting older supply lines or installing whole-home water conditioning systems reflect the extra labor tied to soil conditions and long-term mineral mitigation."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Households in Red Rock & Casa Grande frequently call us with the same patterns: a water heater that tripped circuit breakers after a hot month, low pressure from mineral-clogged faucets, or a noise-filled tank from excessive scale. In retirement communities and newer subdivisions, owners are often surprised that despite the 2000s\u20132020s build dates, warranty coverage can be nullified by hard water damage. We advise homeowners to budget for predictable maintenance: an annual flush and anode inspection can prevent a mid-summer replacement. Typical local replacement pricing varies with access\u2014straightforward tank swaps in accessible single-story homes commonly fall into a moderate local range, while installations requiring relocation of exhaust or condensate lines and permitting in Pinal County can increase costs. We provide line-item estimates so homeowners in Mission Royale or Red Rock proper understand parts, labor, and any permit fees."
+            "content": "Households in Red Rock & Casa Grande frequently call us with the same patterns: a water heater that tripped circuit breakers after a hot month, low pressure from mineral-clogged faucets, or a noise-filled tank from excessive scale. In retirement communities and newer subdivisions, owners are often surprised that despite the 2000s\u20132020s build dates, warranty coverage can be nullified by hard water damage. We advise homeowners to budget for predictable maintenance: an annual flush and anode inspection can prevent a mid-summer replacement. Typical local replacement pricing varies with access-straightforward tank swaps in accessible single-story homes commonly fall into a moderate local range, while installations requiring relocation of exhaust or condensate lines and permitting in Pinal County can increase costs. We provide line-item estimates so homeowners in Mission Royale or Red Rock proper understand parts, labor, and any permit fees."
       },
       {
             "type": "paragraph",
@@ -87,9 +87,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Plumbing and the local community \u2014 landmarks, access, and life in Pinal County",
+            "heading": "Plumbing and the local community - landmarks, access, and life in Pinal County",
             "level": 2,
-            "content": "Plumbing and the local community \u2014 landmarks, access, and life in Pinal County"
+            "content": "Plumbing and the local community - landmarks, access, and life in Pinal County"
       },
       {
             "type": "paragraph",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Why do water heaters fail faster in Red Rock & Casa Grande?",
-        "answer": "Red Rock & Casa Grande draws extremely hard groundwater (300+ ppm) and endures sustained temperatures above 115\u00b0F in summer. High mineral content accelerates scale inside tanks and on heating elements; heat increases stress cycles. Homes built in the 2000s\u20132020s with compact utility closets still require regular maintenance\u2014annual flushes and anode checks\u2014to avoid premature failure. We recommend proactive service to avoid mid-summer disruptions."
+        "answer": "Red Rock & Casa Grande draws extremely hard groundwater (300+ ppm) and endures sustained temperatures above 115\u00b0F in summer. High mineral content accelerates scale inside tanks and on heating elements; heat increases stress cycles. Homes built in the 2000s\u20132020s with compact utility closets still require regular maintenance-annual flushes and anode checks-to avoid premature failure. We recommend proactive service to avoid mid-summer disruptions."
     },
     {
         "question": "Do I need a whole-home water softener in zip codes 85145, 85122, or 85193?",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Do you need information about the home's build year and zip code?",
-        "answer": "Yes. Knowing the home\u2019s build year and zip code (85145, 85122, or 85193) helps our technicians anticipate common issues\u2014older agricultural conversions differ from 2010s subdivisions in parts accessibility and original plumbing materials. Please share build year and whether the home is single-story or has an attic utility area."
+        "answer": "Yes. Knowing the home\u2019s build year and zip code (85145, 85122, or 85193) helps our technicians anticipate common issues-older agricultural conversions differ from 2010s subdivisions in parts accessibility and original plumbing materials. Please share build year and whether the home is single-story or has an attic utility area."
     },
     {
         "question": "Should we schedule service before or after peak summer?",

@@ -21,7 +21,7 @@ highlights: [
   },
   {
     "title": "Tile Roof Specialists",
-    "description": "Many Avra Valley homes use clay or concrete tile\u2014our technicians repair displaced tiles, reset flashings, and replace underlayment to prevent leaks during monsoon runoff."
+    "description": "Many Avra Valley homes use clay or concrete tile-our technicians repair displaced tiles, reset flashings, and replace underlayment to prevent leaks during monsoon runoff."
   },
   {
     "title": "Flat Roof Solutions",
@@ -37,7 +37,7 @@ highlights: [
   },
   {
     "title": "Trusted & Local",
-    "description": "Intelligent Design has 46+ years serving the Tucson mountain corridor with a 4.97\u2605 reputation and 3,600+ reviews\u2014locally focused service across Picture Rocks, Mile Wide and Sandario."
+    "description": "Intelligent Design has 46+ years serving the Tucson mountain corridor with a 4.97\u2605 reputation and 3,600+ reviews-locally focused service across Picture Rocks, Mile Wide and Sandario."
   }
 ],
   content: {
@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "We are invested in the Avra Valley community \u2014 from Picture Rocks to the Sandario corridor \u2014 and we tailor service to neighborhood needs. After monsoon storms we coordinate rapid-response teams to tarp and stabilize roofs to prevent further water intrusion while working with homeowners and insurers. We host local workshops for HOA boards and community groups on preventative maintenance, and we help owners of manufactured homes and custom stucco builds understand specific vulnerabilities like flashing at dormers and parapets. Our field teams practice respectful on-site behavior on large lots, protect landscaping, and provide follow-up inspections to ensure repairs hold up through seasonal weather cycles."
+        "content": "We are invested in the Avra Valley community - from Picture Rocks to the Sandario corridor - and we tailor service to neighborhood needs. After monsoon storms we coordinate rapid-response teams to tarp and stabilize roofs to prevent further water intrusion while working with homeowners and insurers. We host local workshops for HOA boards and community groups on preventative maintenance, and we help owners of manufactured homes and custom stucco builds understand specific vulnerabilities like flashing at dormers and parapets. Our field teams practice respectful on-site behavior on large lots, protect landscaping, and provide follow-up inspections to ensure repairs hold up through seasonal weather cycles."
     },
     {
         "type": "cta",

@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Community-minded service is central to our Tanque Verde work. We know the landmarks and corridors \u2014 from the Tanque Verde Guest Ranch to Soldier Trail and the Agua Caliente area \u2014 and we tailor schedules to minimize disruption to neighbors and horses. Our teams coordinate with HOA boards and local inspectors, handle permitting, and provide documentation for community records. We offer emergency tarping and rapid storm response when summer monsoons strike, and we follow best practices for erosion control and dust management on large lots. Our goal is long-term roof performance that complements the upscale, desert-adapted character of Tanque Verde homes."
+        "content": "Community-minded service is central to our Tanque Verde work. We know the landmarks and corridors - from the Tanque Verde Guest Ranch to Soldier Trail and the Agua Caliente area - and we tailor schedules to minimize disruption to neighbors and horses. Our teams coordinate with HOA boards and local inspectors, handle permitting, and provide documentation for community records. We offer emergency tarping and rapid storm response when summer monsoons strike, and we follow best practices for erosion control and dust management on large lots. Our goal is long-term roof performance that complements the upscale, desert-adapted character of Tanque Verde homes."
     },
     {
         "type": "cta",
@@ -109,7 +109,7 @@ highlights: [
     },
     {
         "question": "Do you offer coatings for flat roofs and what are the benefits in Tanque Verde?",
-        "answer": "We apply high-performance roof coatings for low-slope and flat roofs to improve watertightness and UV resistance. Coatings reduce maintenance, help with ponding issues, and extend roof life \u2014 especially useful with Tanque Verde\u2019s occasional heavy rains and temperature swings."
+        "answer": "We apply high-performance roof coatings for low-slope and flat roofs to improve watertightness and UV resistance. Coatings reduce maintenance, help with ponding issues, and extend roof life - especially useful with Tanque Verde\u2019s occasional heavy rains and temperature swings."
     },
     {
         "question": "How do you protect desert landscaping during roof work?",

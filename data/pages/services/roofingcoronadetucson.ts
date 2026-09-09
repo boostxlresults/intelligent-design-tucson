@@ -24,7 +24,7 @@ export const roofingcoronadetucsonData: ServicePageData = {
 highlights: [
   {
     "title": "Elevation-Hardened Roofing",
-    "description": "At roughly 3,800 ft elevation Corona de Tucson homes face cooler temps, more frost days and unique wind patterns \u2014 we tailor materials and flashings for these conditions."
+    "description": "At roughly 3,800 ft elevation Corona de Tucson homes face cooler temps, more frost days and unique wind patterns - we tailor materials and flashings for these conditions."
   },
   {
     "title": "Tile Roof Specialists",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Corona de Tucson (ZIP 85641) sits at about 3,800 feet \u2014 several degrees cooler than central Tucson with more frequent frost nights and a greater likelihood of hail during seasonal storms. That elevation and the rapid temperature swings between bright daytime sun and clear winter nights put stress on tiles, shingles and roof underlayment. Many homes here were built in the 2000s\u20132010s: newer subdivisions often use concrete or clay tile for long lifespans, while a quarter of properties have architectural asphalt shingles and around 10% have flat membrane roofs over garages and guest structures. We specify underlayments and ventilation that resist freeze-thaw microcracks, upgrade flashing where wind exposure is highest (for example along Pistol Hill Road and exposed ridgelines near Empire Mountains views), and select attachment patterns to reduce lift during gusts common across the Old Spanish Trail corridor."
+            "content": "Corona de Tucson (ZIP 85641) sits at about 3,800 feet - several degrees cooler than central Tucson with more frequent frost nights and a greater likelihood of hail during seasonal storms. That elevation and the rapid temperature swings between bright daytime sun and clear winter nights put stress on tiles, shingles and roof underlayment. Many homes here were built in the 2000s\u20132010s: newer subdivisions often use concrete or clay tile for long lifespans, while a quarter of properties have architectural asphalt shingles and around 10% have flat membrane roofs over garages and guest structures. We specify underlayments and ventilation that resist freeze-thaw microcracks, upgrade flashing where wind exposure is highest (for example along Pistol Hill Road and exposed ridgelines near Empire Mountains views), and select attachment patterns to reduce lift during gusts common across the Old Spanish Trail corridor."
       },
       {
             "type": "paragraph",
-            "content": "Pricing in Corona de Tucson reflects material choices and access. Tile reroofs on single-story homes with standard roof complexity commonly fall between $12,000 and $30,000; shingle replacements typically range $6,000\u2013$12,000. Smaller repairs \u2014 slipped tiles, localized hail repair or flashing replacement \u2014 often start around $250 and can go to $900 for multi-element repairs. Insurance claim work for hail or wind damage is common at this elevation; our inspections include photo documentation and costed scopes that reflect actual labor and trip distances across rural parcels and horse properties, which can affect permit and staging costs."
+            "content": "Pricing in Corona de Tucson reflects material choices and access. Tile reroofs on single-story homes with standard roof complexity commonly fall between $12,000 and $30,000; shingle replacements typically range $6,000\u2013$12,000. Smaller repairs - slipped tiles, localized hail repair or flashing replacement - often start around $250 and can go to $900 for multi-element repairs. Insurance claim work for hail or wind damage is common at this elevation; our inspections include photo documentation and costed scopes that reflect actual labor and trip distances across rural parcels and horse properties, which can affect permit and staging costs."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work alongside residents and community organizations across Corona de Tucson proper, Old Spanish Trail corridor, Rancho del Lago and Las Colinas. Being part of the Vail School District means many families choose this area for long-term living; they value durable roofs and predictable maintenance schedules. Local landmarks like Colossal Cave Mountain Park and the views toward the Empire Mountains influence roof orientation and shade patterns, which affects shingle aging and tile thermal expansion. We coordinate around local events and work windows so busy homeowners can plan roof replacements outside school drop-off and equestrian schedules. Nearby local businesses \u2014 from Corona Cafe to Roadrunner Grill \u2014 benefit when neighborhood homes maintain curb appeal through well-maintained roofs."
+            "content": "We work alongside residents and community organizations across Corona de Tucson proper, Old Spanish Trail corridor, Rancho del Lago and Las Colinas. Being part of the Vail School District means many families choose this area for long-term living; they value durable roofs and predictable maintenance schedules. Local landmarks like Colossal Cave Mountain Park and the views toward the Empire Mountains influence roof orientation and shade patterns, which affects shingle aging and tile thermal expansion. We coordinate around local events and work windows so busy homeowners can plan roof replacements outside school drop-off and equestrian schedules. Nearby local businesses - from Corona Cafe to Roadrunner Grill - benefit when neighborhood homes maintain curb appeal through well-maintained roofs."
       },
       {
             "type": "cta",

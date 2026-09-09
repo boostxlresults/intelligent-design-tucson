@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Service Across Diverse Housing Stock",
-    "description": "We work on 1980s Catalina town homes, SaddleBrooke luxury builds, and rural properties with wells or septic\u2014attic access, duct retrofit, and staged zoning are common projects."
+    "description": "We work on 1980s Catalina town homes, SaddleBrooke luxury builds, and rural properties with wells or septic-attic access, duct retrofit, and staged zoning are common projects."
   },
   {
     "title": "Roof & Attic Awareness",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Rapid Response for Frost Events",
-    "description": "Frost is common in winter here\u2014our technicians prioritize urgent diagnostics when temperatures dip around Oracle Road, Catalina town center, or Golder Ranch."
+    "description": "Frost is common in winter here-our technicians prioritize urgent diagnostics when temperatures dip around Oracle Road, Catalina town center, or Golder Ranch."
   }
 ],
   content: {
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Homes in SaddleBrooke & Catalina sit in a transition zone between desert and mountain climates at roughly 3,200\u20133,600 feet. That elevation produces cooler nights, more precipitation than lower Tucson, and routine winter frost\u2014conditions that make heating both necessary and different from central Tucson. Heat pumps are popular here because their efficiency stays high in cooler, dryer air at elevation, but many homeowners pair them with auxiliary gas or electric furnaces in dual-fuel configurations to handle cold snaps. We size systems with local microclimates in mind: a house near Catalina State Park with north-facing windows and mature mesquite will have different load needs than a SaddleBrooke luxury home built in the 2000s with vaulted ceilings and added insulation. When we assess a property in zip codes 85739 or 85738 we factor in tile roof heat retention, typical attic designs, and how frost formation impacts outdoor units and condensate lines."
+            "content": "Homes in SaddleBrooke & Catalina sit in a transition zone between desert and mountain climates at roughly 3,200\u20133,600 feet. That elevation produces cooler nights, more precipitation than lower Tucson, and routine winter frost-conditions that make heating both necessary and different from central Tucson. Heat pumps are popular here because their efficiency stays high in cooler, dryer air at elevation, but many homeowners pair them with auxiliary gas or electric furnaces in dual-fuel configurations to handle cold snaps. We size systems with local microclimates in mind: a house near Catalina State Park with north-facing windows and mature mesquite will have different load needs than a SaddleBrooke luxury home built in the 2000s with vaulted ceilings and added insulation. When we assess a property in zip codes 85739 or 85738 we factor in tile roof heat retention, typical attic designs, and how frost formation impacts outdoor units and condensate lines."
       },
       {
             "type": "paragraph",
-            "content": "Common scenarios we see: town homes in Catalina (1980s\u20131990s construction) often have compact duct runs and older plenums that benefit from targeted sealing and airflow balancing. SaddleBrooke houses\u2014some built in the 2000s\u2014can be larger with multiple zones and more complex ductwork or hydronic elements. Rural properties around Oracle junction sometimes rely on well water and have greater distance from TEP/Trico infrastructure, so we design backup strategies and recommend systems that tolerate variable utility conditions."
+            "content": "Common scenarios we see: town homes in Catalina (1980s\u20131990s construction) often have compact duct runs and older plenums that benefit from targeted sealing and airflow balancing. SaddleBrooke houses-some built in the 2000s-can be larger with multiple zones and more complex ductwork or hydronic elements. Rural properties around Oracle junction sometimes rely on well water and have greater distance from TEP/Trico infrastructure, so we design backup strategies and recommend systems that tolerate variable utility conditions."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We service heating systems with an eye toward neighborhood character: from the clustered town homes by Catalina Brewing Company and Oracle Patio Cafe to the gated SaddleBrooke developments and rural parcels near Biosphere 2. Our technicians know the road conditions on Oracle Road, where access can affect scheduling in winter, and we plan appointments around community events and HOA rules common in SaddleBrooke. We also account for lifestyle factors\u2014retiree households often prefer slightly higher steady setpoints for comfort, while working families near Mt. Lemmon access appreciate smart zoning that saves energy when homes are unoccupied. Our familiarity with local contractors, plumbers, and solar teams means we can coordinate dual-fuel installations or integrate heating controls with existing solar arrays for cooler, higher-efficiency winter performance."
+            "content": "We service heating systems with an eye toward neighborhood character: from the clustered town homes by Catalina Brewing Company and Oracle Patio Cafe to the gated SaddleBrooke developments and rural parcels near Biosphere 2. Our technicians know the road conditions on Oracle Road, where access can affect scheduling in winter, and we plan appointments around community events and HOA rules common in SaddleBrooke. We also account for lifestyle factors-retiree households often prefer slightly higher steady setpoints for comfort, while working families near Mt. Lemmon access appreciate smart zoning that saves energy when homes are unoccupied. Our familiarity with local contractors, plumbers, and solar teams means we can coordinate dual-fuel installations or integrate heating controls with existing solar arrays for cooler, higher-efficiency winter performance."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do heat pumps work well at the elevations in SaddleBrooke & Catalina?",
-        "answer": "Yes. At 3,200\u20133,600 ft elevations common in SaddleBrooke & Catalina, modern heat pumps maintain strong efficiency through most of our winter nights. Because frost and occasional cool snaps are more common here than lower Tucson neighborhoods, many homeowners pair heat pumps with supplemental electric heat or a gas furnace in a dual-fuel setup. We size systems to local load conditions \u2014 homes near Catalina State Park with shaded lots may need different capacity than Sunny Oracle Road-facing properties."
+        "answer": "Yes. At 3,200\u20133,600 ft elevations common in SaddleBrooke & Catalina, modern heat pumps maintain strong efficiency through most of our winter nights. Because frost and occasional cool snaps are more common here than lower Tucson neighborhoods, many homeowners pair heat pumps with supplemental electric heat or a gas furnace in a dual-fuel setup. We size systems to local load conditions - homes near Catalina State Park with shaded lots may need different capacity than Sunny Oracle Road-facing properties."
     },
     {
         "question": "How often should I schedule heating maintenance in zip codes 85739 and 85738?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "What should SaddleBrooke luxury homeowners consider when replacing a system?",
-        "answer": "Larger SaddleBrooke homes frequently have multiple zones, higher ceilings, and complex ductwork. When replacing a system, consider variable-speed compressors, ECM blowers, and multi-stage heat pumps to manage capacity and comfort. Access challenges\u2014attic configurations under tile roofs or flat roof sections\u2014also affect installation cost and timeline."
+        "answer": "Larger SaddleBrooke homes frequently have multiple zones, higher ceilings, and complex ductwork. When replacing a system, consider variable-speed compressors, ECM blowers, and multi-stage heat pumps to manage capacity and comfort. Access challenges-attic configurations under tile roofs or flat roof sections-also affect installation cost and timeline."
     },
     {
         "question": "How do local roof types affect heating system performance?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "What price range should I expect for emergency repair calls in 85739/85738?",
-        "answer": "Emergency diagnostics and service calls in SaddleBrooke & Catalina generally start around $125\u2013$249, depending on access and time of day. Parts and labor vary\u2014simple component replacements are less expensive, while compressor swaps or major refrigerant repairs are higher. We provide clear estimates before work begins and explain options suited to local housing types."
+        "answer": "Emergency diagnostics and service calls in SaddleBrooke & Catalina generally start around $125\u2013$249, depending on access and time of day. Parts and labor vary-simple component replacements are less expensive, while compressor swaps or major refrigerant repairs are higher. We provide clear estimates before work begins and explain options suited to local housing types."
     },
     {
         "question": "Can you coordinate heating work with solar or battery systems here?",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "What emergency steps can SaddleBrooke & Catalina homeowners take during an unexpected freeze?",
-        "answer": "If you experience heating failure during a freeze, keep interior doors open to circulate heat, raise thermostats gradually, and protect pipes by insulating exposed lines. Turn off outdoor shutoff valves to prevent freeze damage to condensate lines, and call for service\u2014our frost-priority scheduling focuses on 85739 and 85738 properties when temperatures drop suddenly."
+        "answer": "If you experience heating failure during a freeze, keep interior doors open to circulate heat, raise thermostats gradually, and protect pipes by insulating exposed lines. Turn off outdoor shutoff valves to prevent freeze damage to condensate lines, and call for service-our frost-priority scheduling focuses on 85739 and 85738 properties when temperatures drop suddenly."
     }
 ],
   

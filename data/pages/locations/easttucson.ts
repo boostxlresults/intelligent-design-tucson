@@ -316,11 +316,11 @@ export const easttucsonData: LocationPageData = {
             "type": "paragraph",
             "content": "Whether you're in the luxury Catalina Foothills, growing Rita Ranch community, scenic Tanque Verde Valley, semi-rural Corona de Tucson, or anywhere in East Tucson, we're here to provide exceptional home services when you need them most. Our combination of deep local expertise, rapid response, comprehensive capabilities, and proven track record makes us the smart choice for East Tucson homeowners who demand the best."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 East Tucson", "level": 2, "content": "Local Community Guide \u2014 East Tucson"},
+            {"type": "heading", "heading": "Local Community Guide - East Tucson", "level": 2, "content": "Local Community Guide - East Tucson"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Saguaro National Park East, Trail Dust Town, Pima Air & Space Museum, Colossal Cave Mountain Park, Tanque Verde Falls. Whether you live near these landmarks or anywhere in East Tucson, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Serial Grillers, Rancho Rustico Restaurant, The Rattler at del Lago, Rocking K Market, Taqueria 2 Hermanos. When you need home services in East Tucson, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Serial Grillers, Rancho Rustico Restaurant, The Rattler at del Lago, Rocking K Market, Taqueria 2 Hermanos. When you need home services in East Tucson, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

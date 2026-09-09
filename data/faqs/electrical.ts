@@ -17,7 +17,7 @@ export const electricalRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer emergency electrical repair services in Tucson?",
-      answer: "Yes, Intelligent Design provides 24/7 emergency electrical repair services throughout Tucson and surrounding areas. We understand that electrical emergencies—like sparking outlets, smoking panels, or complete power loss—can pose serious safety risks and require immediate attention. Our licensed electricians respond quickly to protect your home and family."
+      answer: "Yes, Intelligent Design provides 24/7 emergency electrical repair services throughout Tucson and surrounding areas. We understand that electrical emergencies-like sparking outlets, smoking panels, or complete power loss-can pose serious safety risks and require immediate attention. Our licensed electricians respond quickly to protect your home and family."
     },
     {
       question: "What factors affect electrical repair costs?",
@@ -76,7 +76,7 @@ export const electricalPanelUpgradesFAQs: ServiceFAQs = {
     },
     {
       question: "Do I need a permit for an electrical panel upgrade in Tucson?",
-      answer: "Yes, electrical panel upgrades require permits from Tucson/Pima County and must pass inspection to ensure code compliance and safety. Intelligent Design handles all permit applications, coordinates required inspections, and ensures your upgrade meets all National Electrical Code and local requirements. Never hire unlicensed electricians who skip permits—it creates liability and can void homeowner's insurance."
+      answer: "Yes, electrical panel upgrades require permits from Tucson/Pima County and must pass inspection to ensure code compliance and safety. Intelligent Design handles all permit applications, coordinates required inspections, and ensures your upgrade meets all National Electrical Code and local requirements. Never hire unlicensed electricians who skip permits-it creates liability and can void homeowner's insurance."
     },
     {
       question: "Will upgrading my electrical panel lower my insurance rates?",
@@ -88,7 +88,7 @@ export const electricalPanelUpgradesFAQs: ServiceFAQs = {
     },
     {
       question: "What's the difference between a panel upgrade and a service upgrade?",
-      answer: "A panel upgrade replaces just the breaker panel inside your home, while a service upgrade includes replacing the meter base, service entry cable, and sometimes the utility connection from the street—requiring utility company coordination. If your service line is adequate (200-amp), you may only need a panel upgrade. We'll inspect your entire system and recommend the right solution for your needs and budget."
+      answer: "A panel upgrade replaces just the breaker panel inside your home, while a service upgrade includes replacing the meter base, service entry cable, and sometimes the utility connection from the street-requiring utility company coordination. If your service line is adequate (200-amp), you may only need a panel upgrade. We'll inspect your entire system and recommend the right solution for your needs and budget."
     },
     {
       question: "Are Federal Pacific or Zinsco panels really dangerous?",
@@ -119,11 +119,11 @@ export const circuitBreakersFAQs: ServiceFAQs = {
     },
     {
       question: "What factors affect circuit breaker service costs?",
-      answer: "Circuit breaker costs depend on the work required—simple breaker replacements are less involved than adding new circuits or installing specialized GFCI or AFCI breakers. Adding new circuits requires running wire, which varies by distance and complexity. We provide transparent, upfront pricing before work begins and ensure all breaker work meets current Tucson electrical codes."
+      answer: "Circuit breaker costs depend on the work required-simple breaker replacements are less involved than adding new circuits or installing specialized GFCI or AFCI breakers. Adding new circuits requires running wire, which varies by distance and complexity. We provide transparent, upfront pricing before work begins and ensure all breaker work meets current Tucson electrical codes."
     },
     {
       question: "What's the difference between GFCI and AFCI breakers?",
-      answer: "GFCI (Ground Fault Circuit Interrupter) breakers protect against electrical shocks in wet areas like bathrooms, kitchens, and outdoor outlets—essential for Tucson's monsoon season. AFCI (Arc Fault Circuit Interrupter) breakers detect dangerous electrical arcs that can cause fires, required by code in bedrooms and living areas. Modern homes need both types for comprehensive protection."
+      answer: "GFCI (Ground Fault Circuit Interrupter) breakers protect against electrical shocks in wet areas like bathrooms, kitchens, and outdoor outlets-essential for Tucson's monsoon season. AFCI (Arc Fault Circuit Interrupter) breakers detect dangerous electrical arcs that can cause fires, required by code in bedrooms and living areas. Modern homes need both types for comprehensive protection."
     },
     {
       question: "Can I replace a circuit breaker myself?",
@@ -147,7 +147,7 @@ export const circuitBreakersFAQs: ServiceFAQs = {
     },
     {
       question: "Why do I need GFCI breakers in Tucson?",
-      answer: "GFCI protection is required by code in wet locations including bathrooms, kitchens, outdoor outlets, garages, and pool areas—all common in Tucson homes. GFCIs prevent electrocution by instantly cutting power when ground faults occur, especially important during monsoon season when moisture increases shock risks. All outdoor outlets and pool equipment must have GFCI protection per Arizona electrical code."
+      answer: "GFCI protection is required by code in wet locations including bathrooms, kitchens, outdoor outlets, garages, and pool areas-all common in Tucson homes. GFCIs prevent electrocution by instantly cutting power when ground faults occur, especially important during monsoon season when moisture increases shock risks. All outdoor outlets and pool equipment must have GFCI protection per Arizona electrical code."
     },
     {
       question: "Can you add circuits without upgrading my panel?",
@@ -166,7 +166,7 @@ export const outletsSwitchesFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What factors determine outlet and switch replacement costs?",
-      answer: "Replacement costs depend on device type needed—standard outlets and switches are less expensive than specialized GFCI outlets, USB charging outlets, or smart switches. Whole-home upgrades with multiple devices benefit from volume pricing. Installation complexity, accessibility, and whether new wiring is needed also affect costs. We provide detailed, transparent estimates for any scope of work."
+      answer: "Replacement costs depend on device type needed-standard outlets and switches are less expensive than specialized GFCI outlets, USB charging outlets, or smart switches. Whole-home upgrades with multiple devices benefit from volume pricing. Installation complexity, accessibility, and whether new wiring is needed also affect costs. We provide detailed, transparent estimates for any scope of work."
     },
     {
       question: "Why do my outlets not work in my Tucson home?",
@@ -182,7 +182,7 @@ export const outletsSwitchesFAQs: ServiceFAQs = {
     },
     {
       question: "Why do my outlets or switches feel warm or hot?",
-      answer: "Warm or hot outlets/switches indicate dangerous conditions like loose wire connections, overloaded circuits, failing devices, or undersized wiring. This is a fire hazard requiring immediate professional attention. In Tucson's older homes, aluminum wiring connections are particularly prone to loosening and overheating. Never ignore hot outlets—they're warning signs of potential electrical fires."
+      answer: "Warm or hot outlets/switches indicate dangerous conditions like loose wire connections, overloaded circuits, failing devices, or undersized wiring. This is a fire hazard requiring immediate professional attention. In Tucson's older homes, aluminum wiring connections are particularly prone to loosening and overheating. Never ignore hot outlets-they're warning signs of potential electrical fires."
     },
     {
       question: "Should I upgrade my old two-prong outlets?",
@@ -190,7 +190,7 @@ export const outletsSwitchesFAQs: ServiceFAQs = {
     },
     {
       question: "Can you install smart light switches?",
-      answer: "Yes, we install all types of smart switches including WiFi-enabled dimmer switches, motion-sensor switches, and voice-controlled switches compatible with Alexa, Google Home, and HomeKit. Smart switches improve convenience, enable automation, and reduce energy costs—important in Tucson where lighting contributes to cooling loads. Installation complexity varies based on existing wiring and switch features, and we provide transparent pricing before beginning work."
+      answer: "Yes, we install all types of smart switches including WiFi-enabled dimmer switches, motion-sensor switches, and voice-controlled switches compatible with Alexa, Google Home, and HomeKit. Smart switches improve convenience, enable automation, and reduce energy costs-important in Tucson where lighting contributes to cooling loads. Installation complexity varies based on existing wiring and switch features, and we provide transparent pricing before beginning work."
     },
     {
       question: "How many outlets should I have in each room?",
@@ -198,7 +198,7 @@ export const outletsSwitchesFAQs: ServiceFAQs = {
     },
     {
       question: "What causes outlets to spark when I plug something in?",
-      answer: "Small sparks when plugging in devices are normal as electricity bridges the gap, but large sparks, continuous sparking, or burning smells indicate dangerous problems like damaged outlets, loose wiring, or short circuits. These require immediate professional attention. Never use damaged or sparking outlets—they're fire hazards that can ignite nearby materials."
+      answer: "Small sparks when plugging in devices are normal as electricity bridges the gap, but large sparks, continuous sparking, or burning smells indicate dangerous problems like damaged outlets, loose wiring, or short circuits. These require immediate professional attention. Never use damaged or sparking outlets-they're fire hazards that can ignite nearby materials."
     },
     {
       question: "Can you install outdoor outlets for my Tucson home?",
@@ -217,7 +217,7 @@ export const lightingUpgradesFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "How much can LED lighting upgrades save on my Tucson energy bills?",
-      answer: "LED upgrades typically reduce lighting energy costs by 75-80% compared to incandescent bulbs and 30-40% versus CFLs. For average Tucson homes, LEDs can dramatically reduce monthly lighting expenses. LEDs also reduce cooling loads since they generate minimal heat—important when AC costs dominate summer bills. Most homeowners see complete ROI within 2-3 years through combined lighting and cooling savings."
+      answer: "LED upgrades typically reduce lighting energy costs by 75-80% compared to incandescent bulbs and 30-40% versus CFLs. For average Tucson homes, LEDs can dramatically reduce monthly lighting expenses. LEDs also reduce cooling loads since they generate minimal heat-important when AC costs dominate summer bills. Most homeowners see complete ROI within 2-3 years through combined lighting and cooling savings."
     },
     {
       question: "What types of lighting upgrades do you offer?",
@@ -233,7 +233,7 @@ export const lightingUpgradesFAQs: ServiceFAQs = {
     },
     {
       question: "Will new lighting reduce my cooling costs in Tucson?",
-      answer: "Yes, LED lighting produces 75-80% less heat than incandescent bulbs, significantly reducing cooling loads during Tucson's long summer months. Replacing incandescent bulbs with LEDs can reduce heat output by hundreds of watts—equivalent to removing a small space heater from your home. This reduces AC runtime and costs, providing combined lighting and cooling savings throughout Tucson's hot season."
+      answer: "Yes, LED lighting produces 75-80% less heat than incandescent bulbs, significantly reducing cooling loads during Tucson's long summer months. Replacing incandescent bulbs with LEDs can reduce heat output by hundreds of watts-equivalent to removing a small space heater from your home. This reduces AC runtime and costs, providing combined lighting and cooling savings throughout Tucson's hot season."
     },
     {
       question: "How long do LED lights last compared to traditional bulbs?",
@@ -280,7 +280,7 @@ export const outdoorMotionLightingFAQs: ServiceFAQs = {
     },
     {
       question: "Will motion lights help deter wildlife in Tucson?",
-      answer: "Yes, motion-activated lights effectively startle and deter javelina, coyotes, and other wildlife from approaching homes, patios, and pool areas. Bright LED motion lights are particularly effective because they create sudden illumination that wild animals find threatening. However, lights alone aren't foolproof—combining motion lighting with proper waste management and fencing provides best wildlife deterrence."
+      answer: "Yes, motion-activated lights effectively startle and deter javelina, coyotes, and other wildlife from approaching homes, patios, and pool areas. Bright LED motion lights are particularly effective because they create sudden illumination that wild animals find threatening. However, lights alone aren't foolproof-combining motion lighting with proper waste management and fencing provides best wildlife deterrence."
     },
     {
       question: "Can you install smart motion lighting I can control from my phone?",
@@ -370,7 +370,7 @@ export const generacInstallationFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "Why do Tucson homeowners need backup generators?",
-      answer: "Tucson experiences frequent power outages during monsoon season (June-September) from lightning strikes, high winds, and haboobs, plus occasional grid issues during peak summer demand. Generators keep AC running during outages—critical when temperatures exceed 110°F—and power medical equipment, refrigeration, and home security systems. Whole-home generators provide peace of mind and safety during Arizona's extreme weather."
+      answer: "Tucson experiences frequent power outages during monsoon season (June-September) from lightning strikes, high winds, and haboobs, plus occasional grid issues during peak summer demand. Generators keep AC running during outages-critical when temperatures exceed 110°F-and power medical equipment, refrigeration, and home security systems. Whole-home generators provide peace of mind and safety during Arizona's extreme weather."
     },
     {
       question: "What factors determine Generac generator installation costs?",
@@ -386,11 +386,11 @@ export const generacInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Should I choose natural gas or propane for my Tucson generator?",
-      answer: "If natural gas service exists at your home, it's usually the best choice for convenience and unlimited fuel supply—you'll never run out during extended outages. Homes without natural gas use propane tanks (typically 250-500 gallons), which require monitoring and refilling but work anywhere. Natural gas hookup costs depend on existing line proximity, while propane requires tank installation and delivery setup. We'll assess your property and recommend the most cost-effective fuel option."
+      answer: "If natural gas service exists at your home, it's usually the best choice for convenience and unlimited fuel supply-you'll never run out during extended outages. Homes without natural gas use propane tanks (typically 250-500 gallons), which require monitoring and refilling but work anywhere. Natural gas hookup costs depend on existing line proximity, while propane requires tank installation and delivery setup. We'll assess your property and recommend the most cost-effective fuel option."
     },
     {
       question: "Do I need permits for Generac generator installation in Tucson?",
-      answer: "Yes, generator installations require electrical permits from Tucson/Pima County, plus gas permits for fuel line connections. Generators must be installed per National Electrical Code and local setback requirements (typically 5 feet from structures). Intelligent Design handles all permitting, coordinates required inspections, and ensures code-compliant installation. Never hire installers who skip permits—it creates liability and violates codes."
+      answer: "Yes, generator installations require electrical permits from Tucson/Pima County, plus gas permits for fuel line connections. Generators must be installed per National Electrical Code and local setback requirements (typically 5 feet from structures). Intelligent Design handles all permitting, coordinates required inspections, and ensures code-compliant installation. Never hire installers who skip permits-it creates liability and violates codes."
     },
     {
       question: "How loud are Generac generators?",
@@ -406,7 +406,7 @@ export const generacInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "What maintenance do Generac generators require?",
-      answer: "Generac generators need annual professional maintenance including oil changes, air filter replacement, spark plug inspection, battery testing, and system diagnostics—similar to vehicle maintenance. We offer flexible maintenance plans to keep your generator running reliably. Generators also self-test weekly for 10-15 minutes to ensure readiness. Proper maintenance extends generator life to 20-30 years and ensures reliable operation during emergencies."
+      answer: "Generac generators need annual professional maintenance including oil changes, air filter replacement, spark plug inspection, battery testing, and system diagnostics-similar to vehicle maintenance. We offer flexible maintenance plans to keep your generator running reliably. Generators also self-test weekly for 10-15 minutes to ensure readiness. Proper maintenance extends generator life to 20-30 years and ensures reliable operation during emergencies."
     },
     {
       question: "Do Generac generators increase home value?",
@@ -449,7 +449,7 @@ export const generacRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Why does my generator run but not produce power?",
-      answer: "Generators that run without producing power typically have transfer switch failures, circuit breaker trips, control board issues, or voltage regulation problems. The automatic transfer switch may not be engaging properly to deliver generator power to your home. These issues require professional diagnosis and repair—attempting DIY fixes on high-voltage transfer equipment is dangerous."
+      answer: "Generators that run without producing power typically have transfer switch failures, circuit breaker trips, control board issues, or voltage regulation problems. The automatic transfer switch may not be engaging properly to deliver generator power to your home. These issues require professional diagnosis and repair-attempting DIY fixes on high-voltage transfer equipment is dangerous."
     },
     {
       question: "How long do Generac generators last in Tucson?",

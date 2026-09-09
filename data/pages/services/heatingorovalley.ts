@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Pool heat pump expertise",
-    "description": "Many Oro Valley properties, especially near golf courses like El Conquistador, depend on pool heat pumps\u2014our technicians optimize efficiency for the higher-elevation climate."
+    "description": "Many Oro Valley properties, especially near golf courses like El Conquistador, depend on pool heat pumps-our technicians optimize efficiency for the higher-elevation climate."
   },
   {
     "title": "Tile roof considerations for rooftop units",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "HOA-friendly upgrades",
-    "description": "Strong HOAs in Sun City Oro Valley and Pusch Ridge Vistas require discreet equipment and permit coordination\u2014we handle aesthetics, permitting, and neighbor-friendly installations."
+    "description": "Strong HOAs in Sun City Oro Valley and Pusch Ridge Vistas require discreet equipment and permit coordination-we handle aesthetics, permitting, and neighbor-friendly installations."
   }
 ],
   content: {
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Oro Valley sits higher than central Tucson, between 2,600 and 3,200 feet, and that elevation creates cooler evenings, greater diurnal swings, and more afternoon shade from the Catalina Mountains. For homes in 85737 and 85755\u2014many built in the 1990s through the 2010s\u2014this means heat load calculations must reflect heavier insulation and often split-level designs in Rancho Vistoso and Pusch Ridge Vistas. We frequently see upgraded insulation, tile roofing, and premium exterior finishes that affect attic heat transfer and duct routing. Typical local scenarios include two-story golf course homes at La Reserve requiring independent zoning upstairs and downstairs, Sun City Oro Valley houses with compact duct runs, and new-construction planned communities that expect high-efficiency systems. Our technicians measure envelope performance on-site, factor in Catalina State Park shade corridors, and size equipment to minimize short cycling on cool nights. That approach reduces fuel usage across the season while maintaining comfort when temperatures dip after sunset."
+            "content": "Oro Valley sits higher than central Tucson, between 2,600 and 3,200 feet, and that elevation creates cooler evenings, greater diurnal swings, and more afternoon shade from the Catalina Mountains. For homes in 85737 and 85755-many built in the 1990s through the 2010s-this means heat load calculations must reflect heavier insulation and often split-level designs in Rancho Vistoso and Pusch Ridge Vistas. We frequently see upgraded insulation, tile roofing, and premium exterior finishes that affect attic heat transfer and duct routing. Typical local scenarios include two-story golf course homes at La Reserve requiring independent zoning upstairs and downstairs, Sun City Oro Valley houses with compact duct runs, and new-construction planned communities that expect high-efficiency systems. Our technicians measure envelope performance on-site, factor in Catalina State Park shade corridors, and size equipment to minimize short cycling on cool nights. That approach reduces fuel usage across the season while maintaining comfort when temperatures dip after sunset."
       },
       {
             "type": "paragraph",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "In Oro Valley we diagnose patterns that repeat by neighborhood. For example, older infill homes built in the late 1990s often have undersized return ducts that cause upstairs overheating in Rancho Vistoso and Pusch Ridge Vistas; our balanced-system retrofits include improved returns and zoning dampers. Pool houses and casitas near Steam Pump Ranch frequently use dedicated heat pumps\u2014while efficient, they can be impacted by dusty mountain breezes and higher rainfall; we recommend pre-season inspections in fall. Sun City Oro Valley's age-restricted sections often use single-stage furnaces or heat pumps with legacy thermostats; upgrading to a two-stage compressor or smart thermostat typically yields noticeable comfort improvement and savings. We also replace aging capacitor banks and recommend sealed crawlspace solutions for slab-adjacent homes common in Oro Valley's planned communities."
+            "content": "In Oro Valley we diagnose patterns that repeat by neighborhood. For example, older infill homes built in the late 1990s often have undersized return ducts that cause upstairs overheating in Rancho Vistoso and Pusch Ridge Vistas; our balanced-system retrofits include improved returns and zoning dampers. Pool houses and casitas near Steam Pump Ranch frequently use dedicated heat pumps-while efficient, they can be impacted by dusty mountain breezes and higher rainfall; we recommend pre-season inspections in fall. Sun City Oro Valley's age-restricted sections often use single-stage furnaces or heat pumps with legacy thermostats; upgrading to a two-stage compressor or smart thermostat typically yields noticeable comfort improvement and savings. We also replace aging capacitor banks and recommend sealed crawlspace solutions for slab-adjacent homes common in Oro Valley's planned communities."
       },
       {
             "type": "paragraph",
-            "content": "Pricing context: simple repairs like capacitor replacements or reversing fan motors generally run $300\u2013$700 in Oro Valley, while a full multi-zone heat pump conversion for a two-story 3,200 sq ft home\u2014including duct modifications\u2014commonly lands in the $10k\u2013$18k band depending on equipment tier and HOA permitting costs. We always provide line-item estimates that reflect neighborhood constraints, such as crane access for rooftop work under HOA rules."
+            "content": "Pricing context: simple repairs like capacitor replacements or reversing fan motors generally run $300\u2013$700 in Oro Valley, while a full multi-zone heat pump conversion for a two-story 3,200 sq ft home-including duct modifications-commonly lands in the $10k\u2013$18k band depending on equipment tier and HOA permitting costs. We always provide line-item estimates that reflect neighborhood constraints, such as crane access for rooftop work under HOA rules."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work with homeowners and property managers across Oro Valley\u2014Rancho Vistoso, La Reserve, Sun City Oro Valley, and Pusch Ridge Vistas\u2014so we understand local association standards, seasonal event schedules at Oro Valley Marketplace, and noise restrictions near community trails. Our crews time major installations to avoid peak community events and coordinate access for gated subdivisions and golf course properties near El Conquistador. We also provide guidance on preserving curb appeal around Catalina State Park vistas and recommend quieter equipment near school zones in the Amphitheater School District. When you call, expect a technician familiar with nearby landmarks like Steam Pump Ranch and Pusch Ridge to explain how topography and trails influence dust loads and equipment placement."
+            "content": "We work with homeowners and property managers across Oro Valley-Rancho Vistoso, La Reserve, Sun City Oro Valley, and Pusch Ridge Vistas-so we understand local association standards, seasonal event schedules at Oro Valley Marketplace, and noise restrictions near community trails. Our crews time major installations to avoid peak community events and coordinate access for gated subdivisions and golf course properties near El Conquistador. We also provide guidance on preserving curb appeal around Catalina State Park vistas and recommend quieter equipment near school zones in the Amphitheater School District. When you call, expect a technician familiar with nearby landmarks like Steam Pump Ranch and Pusch Ridge to explain how topography and trails influence dust loads and equipment placement."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do Oro Valley homes need a different HVAC size because of elevation?",
-        "answer": "Yes. Oro Valley's elevation (2,600\u20133,200 ft) and cooler night temperatures mean heat load calculations differ from central Tucson. We include elevation, afternoon shade from the Catalina Mountains, and higher insulation levels common in neighborhoods built in the 1990s\u20132010s when sizing equipment. This prevents oversizing\u2014a common mistake that causes short cycling\u2014and ensures systems perform efficiently during cooler mornings and evenings near Pusch Ridge."
+        "answer": "Yes. Oro Valley's elevation (2,600\u20133,200 ft) and cooler night temperatures mean heat load calculations differ from central Tucson. We include elevation, afternoon shade from the Catalina Mountains, and higher insulation levels common in neighborhoods built in the 1990s\u20132010s when sizing equipment. This prevents oversizing-a common mistake that causes short cycling-and ensures systems perform efficiently during cooler mornings and evenings near Pusch Ridge."
     },
     {
         "question": "How often should I service a pool heat pump in Oro Valley?",
@@ -120,11 +120,11 @@ highlights: [
     },
     {
         "question": "Are smart thermostats worth installing in Oro Valley homes?",
-        "answer": "Yes\u2014smart thermostats deliver real benefits in multi-zone Oro Valley homes by adjusting schedules for cooler nights and varying occupancy. They integrate well with two-stage systems and can reduce runtime during mild daytime periods influenced by Catalina shade."
+        "answer": "Yes-smart thermostats deliver real benefits in multi-zone Oro Valley homes by adjusting schedules for cooler nights and varying occupancy. They integrate well with two-stage systems and can reduce runtime during mild daytime periods influenced by Catalina shade."
     },
     {
         "question": "Do HOAs in Oro Valley restrict heating equipment placement?",
-        "answer": "Many HOAs do have aesthetic guidelines\u2014particularly in La Reserve and Vistoso Trails\u2014governing visible equipment and screening. We manage permitting and present HOA-compliant options that minimize visible impact and preserve curb appeal."
+        "answer": "Many HOAs do have aesthetic guidelines-particularly in La Reserve and Vistoso Trails-governing visible equipment and screening. We manage permitting and present HOA-compliant options that minimize visible impact and preserve curb appeal."
     },
     {
         "question": "How hard is Oro Valley water and does it affect heating systems?",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Do you need a site visit to estimate heating work in Oro Valley?",
-        "answer": "Yes. Because Oro Valley properties vary\u2014tile roofs, two-story plans, pool equipment, and HOA rules\u2014a site visit is essential. We measure duct layout, attic insulation, elevation effects, and HOA constraints to provide an accurate, line-item estimate tailored to 85737 or 85755 addresses."
+        "answer": "Yes. Because Oro Valley properties vary-tile roofs, two-story plans, pool equipment, and HOA rules-a site visit is essential. We measure duct layout, attic insulation, elevation effects, and HOA constraints to provide an accurate, line-item estimate tailored to 85737 or 85755 addresses."
     },
     {
         "question": "How do HOAs in Oro Valley affect scheduling and equipment choices?",

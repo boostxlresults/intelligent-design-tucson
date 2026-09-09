@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Elevation & Climate-Aware Solutions",
-    "description": "At 2,600\u20133,200 ft with more rainfall than central Tucson, Oro Valley homes face different runoff and root behaviors \u2014 our methods account for that microclimate."
+    "description": "At 2,600\u20133,200 ft with more rainfall than central Tucson, Oro Valley homes face different runoff and root behaviors - our methods account for that microclimate."
   },
   {
     "title": "Clear Pricing for 85737 & 85755",
@@ -58,16 +58,16 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Oro Valley\u2019s housing stock \u2014 mostly upscale planned communities built from the 1990s through the 2010s \u2014 creates a distinct pattern of drain problems. Mature landscaping in Rancho Vistoso and Pusch Ridge Vistas sends roots toward older clay and early-PVC lateral lines; tile-roofed homes with heavy desert trees can funnel seasonal runoff carrying silt into gutters and downspouts. At elevations between 2,600 and 3,200 feet, the slightly cooler temperatures and increased afternoon shade around Catalina Mountain encourage plant growth near sewer lines more than in central Tucson. We routinely perform camera inspections for homes in zip codes 85737 and 85755 to locate root intrusion, broken joints, and grease build-up from outdoor kitchens. For homeowners near Steam Pump Ranch or the Oro Valley Marketplace, our technicians advise on preventive trims and root barriers that meet HOA standards to preserve curb appeal while protecting lines."
+            "content": "Oro Valley\u2019s housing stock - mostly upscale planned communities built from the 1990s through the 2010s - creates a distinct pattern of drain problems. Mature landscaping in Rancho Vistoso and Pusch Ridge Vistas sends roots toward older clay and early-PVC lateral lines; tile-roofed homes with heavy desert trees can funnel seasonal runoff carrying silt into gutters and downspouts. At elevations between 2,600 and 3,200 feet, the slightly cooler temperatures and increased afternoon shade around Catalina Mountain encourage plant growth near sewer lines more than in central Tucson. We routinely perform camera inspections for homes in zip codes 85737 and 85755 to locate root intrusion, broken joints, and grease build-up from outdoor kitchens. For homeowners near Steam Pump Ranch or the Oro Valley Marketplace, our technicians advise on preventive trims and root barriers that meet HOA standards to preserve curb appeal while protecting lines."
       },
       {
             "type": "paragraph",
-            "content": "Pricing and repair plans reflect Oro Valley realities: gated communities and championship golf course properties often require additional coordination or permits, which can add to labor time. A typical snaking visit in Oro Valley starts near $129; camera inspections that locate root or collapse points commonly bring total service into the $250\u2013$650 range depending on depth and access. Pool-heavy homes around El Conquistador and Vistoso Trails tend to need seasonal suction and skimmer maintenance\u2014if sand, algae, or pool chemicals have damaged drain seals, repairs can include resealing or part replacement. We provide written estimates tied to local conditions, including HOA requirements and likely restoration of xeriscaping or turf that the homeowner prefers."
+            "content": "Pricing and repair plans reflect Oro Valley realities: gated communities and championship golf course properties often require additional coordination or permits, which can add to labor time. A typical snaking visit in Oro Valley starts near $129; camera inspections that locate root or collapse points commonly bring total service into the $250\u2013$650 range depending on depth and access. Pool-heavy homes around El Conquistador and Vistoso Trails tend to need seasonal suction and skimmer maintenance-if sand, algae, or pool chemicals have damaged drain seals, repairs can include resealing or part replacement. We provide written estimates tied to local conditions, including HOA requirements and likely restoration of xeriscaping or turf that the homeowner prefers."
       },
       {
             "type": "cta",
             "heading": "Schedule Drain Clearing in Oro Valley Today",
-            "content": "For dependable drain clearing across 85737 and 85755 \u2014 including Rancho Vistoso, La Reserve, and Sun City Oro Valley \u2014 call to arrange an HOA-compliant appointment and on-site estimate.",
+            "content": "For dependable drain clearing across 85737 and 85755 - including Rancho Vistoso, La Reserve, and Sun City Oro Valley - call to arrange an HOA-compliant appointment and on-site estimate.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Root intrusion is the single most frequent issue in Oro Valley, where established mesquite, cottonwood and ash trees are common in neighborhood greenbelts and private yards. Roots work their way into sewer joints, producing slow drains, backups and recurring clogs. Our approach begins with high-resolution camera locating to map the problem area\u2014this is particularly important for older homes built in the 1990s that still have sections of cast or clay sewer line. For newer 2000s-era homes we inspect for offset joints and grease accumulation from outdoor kitchens near patios and alfresco dining spaces popular around Oro Valley Marketplace and local restaurants like Harvest or Primo. When pool drains are involved, we test for trapped debris and chemical corrosion, recommending targeted repairs such as localized pipe sections replacement or hydro-jetting to restore flow without unnecessary excavation."
+            "content": "Root intrusion is the single most frequent issue in Oro Valley, where established mesquite, cottonwood and ash trees are common in neighborhood greenbelts and private yards. Roots work their way into sewer joints, producing slow drains, backups and recurring clogs. Our approach begins with high-resolution camera locating to map the problem area-this is particularly important for older homes built in the 1990s that still have sections of cast or clay sewer line. For newer 2000s-era homes we inspect for offset joints and grease accumulation from outdoor kitchens near patios and alfresco dining spaces popular around Oro Valley Marketplace and local restaurants like Harvest or Primo. When pool drains are involved, we test for trapped debris and chemical corrosion, recommending targeted repairs such as localized pipe sections replacement or hydro-jetting to restore flow without unnecessary excavation."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We serve Oro Valley not as a ZIP code but as a community \u2014 from seniors in Sun City Oro Valley to families in Vistoso Trails and golfers at El Conquistador. Our crews understand town service practices, local permit processes, and the partnerships many neighborhoods have with landscaping companies. We work around popular local rhythms like Amphitheater School District schedules and trail events near Pusch Ridge; for example, we avoid early-morning service windows during community runs and coordinate around HOA board meetings that dictate gate access. When working near landmarks such as Catalina State Park or Steam Pump Ranch, we factor in environmental protections and erosion control to prevent runoff after repairs."
+            "content": "We serve Oro Valley not as a ZIP code but as a community - from seniors in Sun City Oro Valley to families in Vistoso Trails and golfers at El Conquistador. Our crews understand town service practices, local permit processes, and the partnerships many neighborhoods have with landscaping companies. We work around popular local rhythms like Amphitheater School District schedules and trail events near Pusch Ridge; for example, we avoid early-morning service windows during community runs and coordinate around HOA board meetings that dictate gate access. When working near landmarks such as Catalina State Park or Steam Pump Ranch, we factor in environmental protections and erosion control to prevent runoff after repairs."
       },
       {
             "type": "cta",
@@ -112,11 +112,11 @@ highlights: [
     faqs: [
     {
         "question": "How do roots from Oro Valley landscaping cause drain problems?",
-        "answer": "Mature trees and shrubs common in Oro Valley neighborhoods \u2014 mesquite, palo verde, and ash \u2014 send fibrous roots seeking moisture. At elevations of 2,600\u20133,200 ft the soil around Catalina Mountain retains more moisture in shaded areas, drawing roots toward sewer lines. Older lateral lines installed in the 1990s may have joints that allow roots to infiltrate, producing repeating slow drains or backups. We use cameras to pinpoint intrusion, then offer localized repairs or root treatments, and recommend root barriers or adjusted irrigation schedules to reduce recurrence while staying in compliance with HOA landscaping rules."
+        "answer": "Mature trees and shrubs common in Oro Valley neighborhoods - mesquite, palo verde, and ash - send fibrous roots seeking moisture. At elevations of 2,600\u20133,200 ft the soil around Catalina Mountain retains more moisture in shaded areas, drawing roots toward sewer lines. Older lateral lines installed in the 1990s may have joints that allow roots to infiltrate, producing repeating slow drains or backups. We use cameras to pinpoint intrusion, then offer localized repairs or root treatments, and recommend root barriers or adjusted irrigation schedules to reduce recurrence while staying in compliance with HOA landscaping rules."
     },
     {
         "question": "What does a camera inspection cost in Oro Valley and why is it useful?",
-        "answer": "In Oro Valley, a camera inspection typically adds $125\u2013$225 to a visit depending on access and length of line. It\u2019s valuable because it shows exact problem locations\u2014roots, collapses, grease\u2014so we avoid unnecessary digging. For properties in gated communities or with long lateral runs in 85737 and 85755, the camera saves time and confirms whether the issue is on the homeowner\u2019s side or the municipal line."
+        "answer": "In Oro Valley, a camera inspection typically adds $125\u2013$225 to a visit depending on access and length of line. It\u2019s valuable because it shows exact problem locations-roots, collapses, grease-so we avoid unnecessary digging. For properties in gated communities or with long lateral runs in 85737 and 85755, the camera saves time and confirms whether the issue is on the homeowner\u2019s side or the municipal line."
     },
     {
         "question": "Are pool drains a common issue for Oro Valley homes?",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "What should I do if my sink backs up after irrigation or rain?",
-        "answer": "If backups occur after heavy rain or irrigation, avoid using multiple water sources to prevent overflow. In Oro Valley, runoff can carry silt into lines. Call for an inspection\u2014using a camera we can distinguish municipal system backups from homeowner lateral failures and advise immediate steps to prevent damage."
+        "answer": "If backups occur after heavy rain or irrigation, avoid using multiple water sources to prevent overflow. In Oro Valley, runoff can carry silt into lines. Call for an inspection-using a camera we can distinguish municipal system backups from homeowner lateral failures and advise immediate steps to prevent damage."
     },
     {
         "question": "Do you work with local contractors and landscapers in Oro Valley?",

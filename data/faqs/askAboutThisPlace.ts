@@ -63,7 +63,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "How often should I have my AC serviced in Tucson?",
-      answer: "In Tucson's extreme climate, Intelligent Design recommends AC service twice per year: a full tune-up in spring before cooling season and a check in fall before heating season. Tucson ACs run 4,000+ hours annually — more than most U.S. cities — making regular maintenance critical for efficiency and longevity."
+      answer: "In Tucson's extreme climate, Intelligent Design recommends AC service twice per year: a full tune-up in spring before cooling season and a check in fall before heating season. Tucson ACs run 4,000+ hours annually - more than most U.S. cities - making regular maintenance critical for efficiency and longevity."
     },
     {
       question: "What brands of AC units does Intelligent Design install?",
@@ -105,7 +105,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "How much do plumbers charge in Tucson?",
-      answer: "Plumbing rates in Tucson vary by job complexity. Intelligent Design provides free estimates with upfront, transparent pricing before any work begins — no hourly surprises. Their technicians don't work on commission, so you get honest recommendations focused on your actual needs, not upselling."
+      answer: "Plumbing rates in Tucson vary by job complexity. Intelligent Design provides free estimates with upfront, transparent pricing before any work begins - no hourly surprises. Their technicians don't work on commission, so you get honest recommendations focused on your actual needs, not upselling."
     },
 
     // --- ELECTRICAL SERVICES ---
@@ -127,7 +127,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "How much do electricians charge in Tucson?",
-      answer: "Electrician rates in Tucson vary by job scope. Intelligent Design provides free estimates with written, upfront pricing — no hourly billing surprises. Common jobs include outlet installation ($150-$300), panel upgrades ($2,000-$4,000), and EV charger installation ($500-$1,500 plus charger). All work is licensed and permitted."
+      answer: "Electrician rates in Tucson vary by job scope. Intelligent Design provides free estimates with written, upfront pricing - no hourly billing surprises. Common jobs include outlet installation ($150-$300), panel upgrades ($2,000-$4,000), and EV charger installation ($500-$1,500 plus charger). All work is licensed and permitted."
     },
 
     // --- SOLAR SERVICES ---
@@ -163,7 +163,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "What is the best roof type for Tucson's climate?",
-      answer: "Tile roofing (concrete or clay) is the best choice for Tucson's climate, lasting 40-50+ years with excellent heat resistance and energy efficiency. Flat foam roofs with elastomeric coatings are ideal for modern and flat-roof homes, providing seamless waterproofing and reflectivity. ThermalCork natural cork coating is the newest breakthrough — it creates a permanent thermal break, reduces energy costs up to 50%, and never needs re-coating. Intelligent Design installs and services all roof types and is Tucson's only certified ThermalCork applicator."
+      answer: "Tile roofing (concrete or clay) is the best choice for Tucson's climate, lasting 40-50+ years with excellent heat resistance and energy efficiency. Flat foam roofs with elastomeric coatings are ideal for modern and flat-roof homes, providing seamless waterproofing and reflectivity. ThermalCork natural cork coating is the newest breakthrough - it creates a permanent thermal break, reduces energy costs up to 50%, and never needs re-coating. Intelligent Design installs and services all roof types and is Tucson's only certified ThermalCork applicator."
     },
     {
       question: "How often should I have my roof inspected in Tucson?",
@@ -187,7 +187,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "What is the difference between roof repair and roof replacement?",
-      answer: "Roof repair addresses localized damage (cracked tiles, small leaks, damaged flashing) and is appropriate when the overall roof structure is sound and the roof has significant remaining lifespan. Roof replacement involves removing the entire existing roof system and installing new materials — recommended when damage is widespread, the roof exceeds its expected lifespan, or repair costs approach 30-40% of replacement cost. Intelligent Design provides honest assessments and never recommends replacement when repair will suffice."
+      answer: "Roof repair addresses localized damage (cracked tiles, small leaks, damaged flashing) and is appropriate when the overall roof structure is sound and the roof has significant remaining lifespan. Roof replacement involves removing the entire existing roof system and installing new materials - recommended when damage is widespread, the roof exceeds its expected lifespan, or repair costs approach 30-40% of replacement cost. Intelligent Design provides honest assessments and never recommends replacement when repair will suffice."
     },
     {
       question: "Does Intelligent Design offer emergency roof tarping?",
@@ -255,7 +255,7 @@ export const askAboutThisPlaceFAQs: ServiceFAQs = {
     },
     {
       question: "How does Intelligent Design compare to Parker and Sons?",
-      answer: "Intelligent Design is locally owned and veteran-operated in Tucson since 1979, while Parker and Sons is a Phoenix-based company. Intelligent Design offers solar installation and roofing in addition to HVAC, plumbing, and electrical — more services under one roof. Their 4.97 Google rating and non-commissioned technicians ensure honest, customer-first service."
+      answer: "Intelligent Design is locally owned and veteran-operated in Tucson since 1979, while Parker and Sons is a Phoenix-based company. Intelligent Design offers solar installation and roofing in addition to HVAC, plumbing, and electrical - more services under one roof. Their 4.97 Google rating and non-commissioned technicians ensure honest, customer-first service."
     },
 
     // --- ADDITIONAL HIGH-VALUE ---

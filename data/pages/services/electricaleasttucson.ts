@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "East Tucson's housing mix \u2014 starter ranch homes from the 1980s, two-story planned-community builds from the 1990s and 2000s, and newer construction on the eastern edge \u2014 creates a range of electrical needs. In zip codes 85710, 85730, and 85748 we see older copper cloth and early plastic-sheathed wiring in the Pantano area, while many Houghton corridor homes have modern infrastructure but tight garage layouts that complicate EV charger wiring. At elevations between roughly 2,700 and 3,000 feet near the Rincon Mountains, homes benefit from slightly cooler ambient temperatures but still face intense sun and monsoon-driven lightning strikes. That combination increases demand for dedicated circuits, routine surge protection, and correctly sized panels. We assess service size, existing meter equipment under TEP service standards, and typical tile or shingle roof penetrations to design safe, code-compliant installations that match each neighborhood's character and construction era."
+            "content": "East Tucson's housing mix - starter ranch homes from the 1980s, two-story planned-community builds from the 1990s and 2000s, and newer construction on the eastern edge - creates a range of electrical needs. In zip codes 85710, 85730, and 85748 we see older copper cloth and early plastic-sheathed wiring in the Pantano area, while many Houghton corridor homes have modern infrastructure but tight garage layouts that complicate EV charger wiring. At elevations between roughly 2,700 and 3,000 feet near the Rincon Mountains, homes benefit from slightly cooler ambient temperatures but still face intense sun and monsoon-driven lightning strikes. That combination increases demand for dedicated circuits, routine surge protection, and correctly sized panels. We assess service size, existing meter equipment under TEP service standards, and typical tile or shingle roof penetrations to design safe, code-compliant installations that match each neighborhood's character and construction era."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Typical projects we complete most often in East Tucson include panel replacements, EV charger installations, additional circuits for HVAC or kitchens, and whole-home grounding or surge protection. In older sections near Pantano and the Tanque Verde wash, replacing 60\u2013100 amp panels with modern 150\u2013200A service to handle AC, smart appliances, and solar is common; that work often falls between $2,200 and $5,500 depending on access, meter relocation needs, and permit fees. EV charger installs in two-car garage plans prevalent in Rita Ranch and Civano generally range $700\u2013$2,200, influenced by distance from the panel and whether a subpanel is required. For condominiums and planned communities near Park Place Mall, trenching or conduit runs may be limited by HOA rules \u2014 we provide options that minimize exterior impact while meeting TEP and local code."
+            "content": "Typical projects we complete most often in East Tucson include panel replacements, EV charger installations, additional circuits for HVAC or kitchens, and whole-home grounding or surge protection. In older sections near Pantano and the Tanque Verde wash, replacing 60\u2013100 amp panels with modern 150\u2013200A service to handle AC, smart appliances, and solar is common; that work often falls between $2,200 and $5,500 depending on access, meter relocation needs, and permit fees. EV charger installs in two-car garage plans prevalent in Rita Ranch and Civano generally range $700\u2013$2,200, influenced by distance from the panel and whether a subpanel is required. For condominiums and planned communities near Park Place Mall, trenching or conduit runs may be limited by HOA rules - we provide options that minimize exterior impact while meeting TEP and local code."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work regularly with residents near Saguaro National Park East, families stationed at Davis-Monthan AFB, and business owners along Houghton Road. That means understanding school district schedules in Vail and TUSD, coordinating around neighborhood events in Civano and Rita Ranch, and advising on equipment placement where east-facing roofs near the Rincon foothills maximize solar exposure. Local restaurants like Eclectic Cafe or Beyond Bread are part of the neighborhoods we serve \u2014 our technicians value quiet, respectful visits and clear post-service notes so homeowners know what was changed and why."
+            "content": "We work regularly with residents near Saguaro National Park East, families stationed at Davis-Monthan AFB, and business owners along Houghton Road. That means understanding school district schedules in Vail and TUSD, coordinating around neighborhood events in Civano and Rita Ranch, and advising on equipment placement where east-facing roofs near the Rincon foothills maximize solar exposure. Local restaurants like Eclectic Cafe or Beyond Bread are part of the neighborhoods we serve - our technicians value quiet, respectful visits and clear post-service notes so homeowners know what was changed and why."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do East Tucson homes need panel upgrades because of monsoon season?",
-        "answer": "Yes\u2014monsoon storms near East Tucson and the Rincon Mountains increase the risk of surges and lightning-related failures. Older panels common in Pantano and Tanque Verde wash neighborhoods often lack whole-house surge protection and modern grounding. We recommend a pre-monsoon inspection\u2014especially for homes built in the 1980s\u2014to check for corroded connections, proper grounding, and to add surge suppression if needed. Scheduling before July helps avoid peak call volumes."
+        "answer": "Yes-monsoon storms near East Tucson and the Rincon Mountains increase the risk of surges and lightning-related failures. Older panels common in Pantano and Tanque Verde wash neighborhoods often lack whole-house surge protection and modern grounding. We recommend a pre-monsoon inspection-especially for homes built in the 1980s-to check for corroded connections, proper grounding, and to add surge suppression if needed. Scheduling before July helps avoid peak call volumes."
     },
     {
         "question": "How much does an EV charger installation usually cost in the Houghton corridor?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "Are there special wiring concerns for homes built in the 1970s in East Tucson?",
-        "answer": "Yes\u2014homes built in the 1970s around the Pantano and Tanque Verde areas may have older cloth-insulated wiring, aluminum branch circuits, or outdated breakers. These increase risk for overheating and nuisance trips. We inspect for proper anti-oxidation compounds on aluminum splices, check knob-and-tube remnants if any, and recommend selective rewiring or subpanel installation when needed to meet modern load demands."
+        "answer": "Yes-homes built in the 1970s around the Pantano and Tanque Verde areas may have older cloth-insulated wiring, aluminum branch circuits, or outdated breakers. These increase risk for overheating and nuisance trips. We inspect for proper anti-oxidation compounds on aluminum splices, check knob-and-tube remnants if any, and recommend selective rewiring or subpanel installation when needed to meet modern load demands."
     },
     {
         "question": "What should I budget for a whole-home surge protection installation in East Tucson?",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Do you need photos of my panel or meter before an East Tucson estimate?",
-        "answer": "Yes\u2014photos of your panel interior, meter area, and the typical route from panel to garage or desired EV charger location help us give a more accurate initial estimate. For East Tucson properties we also ask about roof type (tile/shingle/flat), year built, and any existing solar to tailor the quote to local construction patterns and permit expectations."
+        "answer": "Yes-photos of your panel interior, meter area, and the typical route from panel to garage or desired EV charger location help us give a more accurate initial estimate. For East Tucson properties we also ask about roof type (tile/shingle/flat), year built, and any existing solar to tailor the quote to local construction patterns and permit expectations."
     },
     {
         "question": "Can you work with HOA rules in Civano or newer planned communities?",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Do you offer weekend or evening appointments for military families?",
-        "answer": "Yes\u2014we accommodate Davis-Monthan AFB families and shift workers with flexible scheduling. Evening or weekend visits are available by request to minimize disruption and to align with school and work schedules common in East Tucson neighborhoods."
+        "answer": "Yes-we accommodate Davis-Monthan AFB families and shift workers with flexible scheduling. Evening or weekend visits are available by request to minimize disruption and to align with school and work schedules common in East Tucson neighborhoods."
     },
     {
         "question": "Will upgrading my panel increase my home value in East Tucson?",

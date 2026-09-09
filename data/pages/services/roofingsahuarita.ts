@@ -25,7 +25,7 @@ highlights: [
   },
   {
     "title": "Comprehensive Roof Services",
-    "description": "We handle repairs, full replacements, tile, shingle, flat roofs and protective coatings \u2014 no metal roofing. Each solution is selected for Sahuarita\u2019s climate and home styles."
+    "description": "We handle repairs, full replacements, tile, shingle, flat roofs and protective coatings - no metal roofing. Each solution is selected for Sahuarita\u2019s climate and home styles."
   },
   {
     "title": "HOA & Warranty Navigation",
@@ -51,7 +51,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Sahuarita roofing conditions reflect the town\u2019s unique blend of elevation, recent development and monsoon season. Sitting around 2,900 feet, Sahuarita is slightly cooler than nearby Tucson, reducing some heat stress on roofing materials but still exposing roofs to strong sun, temperature swings and seasonal storms. Many homes built between the 2000s and 2020s use modern construction methods and contemporary materials \u2014 tile, asphalt shingle and low-slope systems \u2014 which perform well when installed and ventilated correctly. Rapid growth and newer master-planned communities mean many roofs are relatively young, but builder installation shortcuts can lead to early wear. Wind from open desert terrain increases uplift risk, while monsoon rains demand reliable flashing, drainage and roof-to-wall transitions to prevent leaks. Understanding local microclimates and construction practices is critical to extending roof life and protecting Sahuarita homes."
+        "content": "Sahuarita roofing conditions reflect the town\u2019s unique blend of elevation, recent development and monsoon season. Sitting around 2,900 feet, Sahuarita is slightly cooler than nearby Tucson, reducing some heat stress on roofing materials but still exposing roofs to strong sun, temperature swings and seasonal storms. Many homes built between the 2000s and 2020s use modern construction methods and contemporary materials - tile, asphalt shingle and low-slope systems - which perform well when installed and ventilated correctly. Rapid growth and newer master-planned communities mean many roofs are relatively young, but builder installation shortcuts can lead to early wear. Wind from open desert terrain increases uplift risk, while monsoon rains demand reliable flashing, drainage and roof-to-wall transitions to prevent leaks. Understanding local microclimates and construction practices is critical to extending roof life and protecting Sahuarita homes."
     },
     {
         "type": "paragraph",
@@ -60,7 +60,7 @@ highlights: [
     {
         "type": "cta",
         "heading": "CTA",
-        "content": "Protect your Sahuarita roof\u2014schedule a free inspection with Intelligent Design and get expert guidance, HOA-compliant estimates, and clear next steps.",
+        "content": "Protect your Sahuarita roof-schedule a free inspection with Intelligent Design and get expert guidance, HOA-compliant estimates, and clear next steps.",
         "buttonText": "Call (520) 333-2665",
         "buttonLink": "tel:+15203332665"
     },

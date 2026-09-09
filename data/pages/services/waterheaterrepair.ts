@@ -93,7 +93,7 @@ export const waterheaterrepairData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Get Your Free In-Home Estimate",
-            "content": "Get a fast, no-pressure estimate for your water heater installation or replacement. We confirm the right unit and give you honest pricing \u2014 no online guesswork.",
+            "content": "Get a fast, no-pressure estimate for your water heater installation or replacement. We confirm the right unit and give you honest pricing - no online guesswork.",
             "buttonText": "Schedule Your Free Estimate",
             "buttonLink": "#schedule"
       },

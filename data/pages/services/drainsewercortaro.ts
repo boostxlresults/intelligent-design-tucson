@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Transparent local pricing guidance",
-    "description": "We provide price ranges that reflect Cortaro labor, Marana Water hardness effects on waste lines, and typical material costs for 85652 and 85742 \u2014 so you won\u2019t face surprise invoices."
+    "description": "We provide price ranges that reflect Cortaro labor, Marana Water hardness effects on waste lines, and typical material costs for 85652 and 85742 - so you won\u2019t face surprise invoices."
   }
 ],
   content: {
@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "For many Cortaro homes, the immediate need is restoring flow \u2014 not full replacement. Typical local interventions include hydro-jetting clogged lines near the Rillito River crossing, root cutting for properties adjacent to Marana Heritage River Park, and lining sections of deteriorated clay or thin-schedule PVC in older subdivisions. We balance cost and longevity: in Cortaro, a routine rooter and camera run frequently starts in the low hundreds, while trenchless pipe lining to stop recurring root intrusion is often a more cost-efficient choice than open trenching, especially where driveways and tile roofs complicate access."
+            "content": "For many Cortaro homes, the immediate need is restoring flow - not full replacement. Typical local interventions include hydro-jetting clogged lines near the Rillito River crossing, root cutting for properties adjacent to Marana Heritage River Park, and lining sections of deteriorated clay or thin-schedule PVC in older subdivisions. We balance cost and longevity: in Cortaro, a routine rooter and camera run frequently starts in the low hundreds, while trenchless pipe lining to stop recurring root intrusion is often a more cost-efficient choice than open trenching, especially where driveways and tile roofs complicate access."
       },
       {
             "type": "cta",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Pricing context for Cortaro: routine clog cleaning and camera inspection in Cortaro often ranges from about $150 to $450 depending on access and whether root treatment is required; hydro-jetting for grease or heavy sediment can increase costs. Trenchless lateral repairs in most Cortaro tract-home yards commonly range from $3,000 to $7,500, while full open-trench replacements \u2014 needed when elbows, misaligned joints, or collapsed sections exist \u2014 can run higher due to driveway and landscaping restoration. We provide written estimates that itemize excavation, lining, permits, and driveway/landscape repair so homeowners in zip codes 85652 and 85742 know what to expect."
+            "content": "Pricing context for Cortaro: routine clog cleaning and camera inspection in Cortaro often ranges from about $150 to $450 depending on access and whether root treatment is required; hydro-jetting for grease or heavy sediment can increase costs. Trenchless lateral repairs in most Cortaro tract-home yards commonly range from $3,000 to $7,500, while full open-trench replacements - needed when elbows, misaligned joints, or collapsed sections exist - can run higher due to driveway and landscaping restoration. We provide written estimates that itemize excavation, lining, permits, and driveway/landscape repair so homeowners in zip codes 85652 and 85742 know what to expect."
       },
       {
             "type": "heading",

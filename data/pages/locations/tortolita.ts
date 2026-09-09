@@ -133,11 +133,11 @@ export const tortolitaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Tortolita", "level": 2, "content": "Local Community Guide \u2014 Tortolita"},
+            {"type": "heading", "heading": "Local Community Guide - Tortolita", "level": 2, "content": "Local Community Guide - Tortolita"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Honey Bee Canyon Petroglyphs, Tortolita Preserve Trailhead, Wild Burro Trailhead, Honey Bee Canyon Park, Cocoraque Butte Archaeological District. Whether you live near these landmarks or anywhere in Tortolita, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Ol' Pot Hole, The Highlands Bar & Grille, Sky Rider Cafe, CORE Kitchen & Wine Bar. When you need home services in Tortolita, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Ol' Pot Hole, The Highlands Bar & Grille, Sky Rider Cafe, CORE Kitchen & Wine Bar. When you need home services in Tortolita, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

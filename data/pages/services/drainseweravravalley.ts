@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Avra Valley sits at roughly 2,400 feet elevation with ranch-style, single-story homes on 1\u20135 acre lots, manufactured housing clusters, and custom desert builds with stucco and tile roofs \u2014 many constructed in the 1990s and 2000s. These homes often use septic systems or private wells (zip codes 85743 and 85653), and the combination of very hard water (250+ ppm) and caliche-rich soil creates unique drainage wear points. Over time hardened mineral deposits, root intrusion from prevalent mesquite and ironwood, and collapsed clay or older ABS lines are common causes of slow drains and backups. Our Avra Valley approach starts with a camera inspection from the main sewer riser out to the septic or city tie-in, factoring in longer service runs from TEP transformers and the rural layout that affects access. When excavation is necessary, we bring equipment suited to dense subsoil and coordinate with local road rules near Mile Wide and Three Points to minimize disruption on large properties."
+            "content": "Avra Valley sits at roughly 2,400 feet elevation with ranch-style, single-story homes on 1\u20135 acre lots, manufactured housing clusters, and custom desert builds with stucco and tile roofs - many constructed in the 1990s and 2000s. These homes often use septic systems or private wells (zip codes 85743 and 85653), and the combination of very hard water (250+ ppm) and caliche-rich soil creates unique drainage wear points. Over time hardened mineral deposits, root intrusion from prevalent mesquite and ironwood, and collapsed clay or older ABS lines are common causes of slow drains and backups. Our Avra Valley approach starts with a camera inspection from the main sewer riser out to the septic or city tie-in, factoring in longer service runs from TEP transformers and the rural layout that affects access. When excavation is necessary, we bring equipment suited to dense subsoil and coordinate with local road rules near Mile Wide and Three Points to minimize disruption on large properties."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Typical repairs in Avra Valley include septic pump-outs and inspections, lateral line relining to avoid repeated trenching through caliche, targeted root cutting and chemical root control around mesquite stands, and regrading or adding swales to divert monsoon runoff away from foundations. For manufactured homes the utility runs are often shallower and require careful coordination to avoid water and sewer lines that sit near surface grade; we use non-destructive locating before any repair. Pricing context: a septic tank pump and basic inspection for a 1\u20133 bedroom home in 85743 frequently falls in the $300\u2013$500 range, while corrective lateral lining for a single sewer run (non-excavation) is often $3,000\u2013$7,000 depending on length and existing materials. Full excavation through caliche or replacement across an acre-sized driveway can increase costs \u2014 we provide written estimates that explain caliche challenges and permit needs."
+            "content": "Typical repairs in Avra Valley include septic pump-outs and inspections, lateral line relining to avoid repeated trenching through caliche, targeted root cutting and chemical root control around mesquite stands, and regrading or adding swales to divert monsoon runoff away from foundations. For manufactured homes the utility runs are often shallower and require careful coordination to avoid water and sewer lines that sit near surface grade; we use non-destructive locating before any repair. Pricing context: a septic tank pump and basic inspection for a 1\u20133 bedroom home in 85743 frequently falls in the $300\u2013$500 range, while corrective lateral lining for a single sewer run (non-excavation) is often $3,000\u2013$7,000 depending on length and existing materials. Full excavation through caliche or replacement across an acre-sized driveway can increase costs - we provide written estimates that explain caliche challenges and permit needs."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We regularly work across the pockets that make Avra Valley distinct \u2014 from properties near Picture Rocks and the Mile Wide area to the Sandario corridor and the Three Points junction. Proximity to landmarks like the Arizona-Sonora Desert Museum, Saguaro National Park West, and Cat Mountain shapes both drainage patterns and homeowner priorities: many residents want repairs that preserve views and minimize grading, while also preparing for monsoon runoff. Our crews coordinate with local homeowners who frequent Saguaro Corners and El Molinito to schedule quieter service windows, and we understand that many Avra Valley households rely on wells and have longer utility service runs, so we stage equipment and parts accordingly to limit time on-site."
+            "content": "We regularly work across the pockets that make Avra Valley distinct - from properties near Picture Rocks and the Mile Wide area to the Sandario corridor and the Three Points junction. Proximity to landmarks like the Arizona-Sonora Desert Museum, Saguaro National Park West, and Cat Mountain shapes both drainage patterns and homeowner priorities: many residents want repairs that preserve views and minimize grading, while also preparing for monsoon runoff. Our crews coordinate with local homeowners who frequent Saguaro Corners and El Molinito to schedule quieter service windows, and we understand that many Avra Valley households rely on wells and have longer utility service runs, so we stage equipment and parts accordingly to limit time on-site."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "How often should Avra Valley septic systems be pumped?",
-        "answer": "Septic pump intervals in Avra Valley vary with home size, occupancy, and tank type. For typical 1990s\u20132000s single-story ranch homes on 1\u20133 acre lots, we recommend inspection every 1\u20132 years and pump-outs every 3\u20135 years for a 1,000\u20131,500 gallon tank under normal use. Properties with heavy mineral loading from well water (250+ ppm hardness), garbage disposals, or shallow systems near mesquite roots may need more frequent service. We perform an inspection of baffles and distribution boxes during each visit and note local factors\u2014like proximity to the Tucson Mountains that increase runoff\u2014that could shorten pump intervals."
+        "answer": "Septic pump intervals in Avra Valley vary with home size, occupancy, and tank type. For typical 1990s\u20132000s single-story ranch homes on 1\u20133 acre lots, we recommend inspection every 1\u20132 years and pump-outs every 3\u20135 years for a 1,000\u20131,500 gallon tank under normal use. Properties with heavy mineral loading from well water (250+ ppm hardness), garbage disposals, or shallow systems near mesquite roots may need more frequent service. We perform an inspection of baffles and distribution boxes during each visit and note local factors-like proximity to the Tucson Mountains that increase runoff-that could shorten pump intervals."
     },
     {
         "question": "What warning signs of root intrusion are common in Avra Valley?",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "How do caliche soils affect sewer repairs and costs?",
-        "answer": "Caliche is a dense, cemented soil common in pockets throughout Avra Valley that makes trenching slower and heavier on equipment. When a repair requires excavation through caliche, contractors need longer time, heavier machinery, and possibly blasting-like techniques or jackhammering \u2014 all of which increase labor and disposal costs. We reflect those realities in our detailed estimates, and when feasible we propose non-excavation relining to reduce disturbance and cost."
+        "answer": "Caliche is a dense, cemented soil common in pockets throughout Avra Valley that makes trenching slower and heavier on equipment. When a repair requires excavation through caliche, contractors need longer time, heavier machinery, and possibly blasting-like techniques or jackhammering - all of which increase labor and disposal costs. We reflect those realities in our detailed estimates, and when feasible we propose non-excavation relining to reduce disturbance and cost."
     },
     {
         "question": "Can you service homes on private wells in zip codes 85743 and 85653?",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Do you want a seasonal maintenance schedule keyed to monsoon timing and dust-storm risk? We can draft a two-visit annual plan\u2014pre-monsoon hydro-jetting and post-monsoon inspection\u2014aligned with neighborhood patterns in Picture Rocks, Mile Wide, and Three Points."
+        "answer": "Do you want a seasonal maintenance schedule keyed to monsoon timing and dust-storm risk? We can draft a two-visit annual plan-pre-monsoon hydro-jetting and post-monsoon inspection-aligned with neighborhood patterns in Picture Rocks, Mile Wide, and Three Points."
     },
     {
         "question": "Refinement Q5",

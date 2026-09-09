@@ -37,7 +37,7 @@ highlights: [
   },
   {
     "title": "Local Knowledge & Reputation",
-    "description": "Intelligent Design has served Catalina Foothills for decades \u2014 46+ years, 4.97\u2605 across 3,600+ reviews \u2014 and understands neighborhood nuances like Skyline Heights and Ventana Canyon."
+    "description": "Intelligent Design has served Catalina Foothills for decades - 46+ years, 4.97\u2605 across 3,600+ reviews - and understands neighborhood nuances like Skyline Heights and Ventana Canyon."
   }
 ],
   content: {
@@ -51,7 +51,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Catalina Foothills sits between roughly 2,700 and 3,200 feet above sea level, and that elevation creates conditions different from Tucson\u2019s valley floor. Residents in zip codes 85718 and 85750 experience cooler nights, occasional winter frost, and marginally higher rainfall \u2014 all factors that influence system sizing, refrigerant charge, and drainage design. The housing stock here ranges from 1980s to 2000s custom luxury homes with complex rooflines, multi-level footprints, and large square footage requiring multi-zone HVAC systems. These homes often have bespoke finishes and high-end materials that demand careful access planning and damage prevention when installing or servicing ductwork and equipment. Our technicians evaluate each floor plan, orientation toward nearby canyons, and prevailing winds from the Santa Catalina range to recommend efficient equipment and zoning strategies. We prioritize quiet operation and discrete installation so systems blend into upscale interiors while delivering consistent comfort across living rooms, guest suites, and conditioned basements or garages."
+            "content": "Catalina Foothills sits between roughly 2,700 and 3,200 feet above sea level, and that elevation creates conditions different from Tucson\u2019s valley floor. Residents in zip codes 85718 and 85750 experience cooler nights, occasional winter frost, and marginally higher rainfall - all factors that influence system sizing, refrigerant charge, and drainage design. The housing stock here ranges from 1980s to 2000s custom luxury homes with complex rooflines, multi-level footprints, and large square footage requiring multi-zone HVAC systems. These homes often have bespoke finishes and high-end materials that demand careful access planning and damage prevention when installing or servicing ductwork and equipment. Our technicians evaluate each floor plan, orientation toward nearby canyons, and prevailing winds from the Santa Catalina range to recommend efficient equipment and zoning strategies. We prioritize quiet operation and discrete installation so systems blend into upscale interiors while delivering consistent comfort across living rooms, guest suites, and conditioned basements or garages."
       },
       {
             "type": "paragraph",
@@ -72,7 +72,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "In Catalina Foothills we respond to unique repair scenarios: variable-speed equipment that fails under long duct lengths, compressors stressed by wide temperature swings between canyon shade and sun-exposed fa\u00e7ades, and zoning controls that need reprogramming for multi-level living. Our technicians carry parts and tools to diagnose coil issues, refrigerant imbalances, and airflow restrictions that tend to show up in larger custom homes. When replacement is recommended, we size systems for actual on-site conditions rather than relying on generalized rules. That means manual J load calculations that factor elevation, higher nighttime cooling loads, and increased rainfall exposure for outdoor components. We also provide matched equipment packages \u2014 including high-efficiency heat pumps and modulating furnaces \u2014 to meet the demands of homeowners who expect quiet, reliable performance and energy savings. Every installation includes a review of duct condition, insulation levels, and thermostat placement so you get consistent comfort in master suites, great rooms, and guest quarters."
+            "content": "In Catalina Foothills we respond to unique repair scenarios: variable-speed equipment that fails under long duct lengths, compressors stressed by wide temperature swings between canyon shade and sun-exposed fa\u00e7ades, and zoning controls that need reprogramming for multi-level living. Our technicians carry parts and tools to diagnose coil issues, refrigerant imbalances, and airflow restrictions that tend to show up in larger custom homes. When replacement is recommended, we size systems for actual on-site conditions rather than relying on generalized rules. That means manual J load calculations that factor elevation, higher nighttime cooling loads, and increased rainfall exposure for outdoor components. We also provide matched equipment packages - including high-efficiency heat pumps and modulating furnaces - to meet the demands of homeowners who expect quiet, reliable performance and energy savings. Every installation includes a review of duct condition, insulation levels, and thermostat placement so you get consistent comfort in master suites, great rooms, and guest quarters."
       },
       {
             "type": "paragraph",

@@ -28,11 +28,11 @@ highlights: [
   },
   {
     "title": "Pinal County Code Expertise",
-    "description": "We navigate Pinal County permitting and inspections for new installs and replacements\u2014critical for neighborhoods like Coyote Ranch and Mission Royale."
+    "description": "We navigate Pinal County permitting and inspections for new installs and replacements-critical for neighborhoods like Coyote Ranch and Mission Royale."
   },
   {
     "title": "Tile & Foam Roof Install Experience",
-    "description": "Installation crews know local roof mixes\u2014tile (60%), flat/foam (30%), and shingle (10%)\u2014and adapt mounting and condensation routing to protect roofs and ducts."
+    "description": "Installation crews know local roof mixes-tile (60%), flat/foam (30%), and shingle (10%)-and adapt mounting and condensation routing to protect roofs and ducts."
   },
   {
     "title": "APS & SRP Incentive Guidance",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Red Rock & Casa Grande is its own extreme-heat microclimate\u2014sitting near 1,400 feet elevation and routinely seeing highs above 115\u00b0F in summer\u2014so standard Tucson-area tuning won\u2019t always hold. Homes built in newer subdivisions and retirement communities from the 2000s\u20132020s (common in zip codes 85145, 85122, 85193) often have tight building envelopes but undersized or underspecified HVAC equipment when measured against real peak loads. We recommend two-stage or variable-speed compressors and properly matched evaporator coils to prevent short-cycling and early compressor failure. With 60% tile roofs and 30% flat/foam roofs locally, attic heat gain and roof-mounted condenser clearance affect installation choices and long-term performance. Our technicians perform load calculations specific to Pinal County code, assess attic insulation and duct sealing, and size equipment to deliver consistent comfort without the constant on/off cycles that shorten system life in this hottest part of our service area."
+            "content": "Red Rock & Casa Grande is its own extreme-heat microclimate-sitting near 1,400 feet elevation and routinely seeing highs above 115\u00b0F in summer-so standard Tucson-area tuning won\u2019t always hold. Homes built in newer subdivisions and retirement communities from the 2000s\u20132020s (common in zip codes 85145, 85122, 85193) often have tight building envelopes but undersized or underspecified HVAC equipment when measured against real peak loads. We recommend two-stage or variable-speed compressors and properly matched evaporator coils to prevent short-cycling and early compressor failure. With 60% tile roofs and 30% flat/foam roofs locally, attic heat gain and roof-mounted condenser clearance affect installation choices and long-term performance. Our technicians perform load calculations specific to Pinal County code, assess attic insulation and duct sealing, and size equipment to deliver consistent comfort without the constant on/off cycles that shorten system life in this hottest part of our service area."
       },
       {
             "type": "paragraph",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Hard water in this area (300+ ppm) affects evaporator coil longevity and causes mineral deposits in drain lines from A/C condensate. We include coil inspection and condensate treatment options when performing maintenance. For homeowners considering solar+AC combos, Red Rock & Casa Grande is high in sun hours\u2014solar can offset daytime cooling costs, though extremely high ambient temperatures slightly reduce panel output. We audit solar potential alongside HVAC upgrades and provide estimates that reflect APS or SRP tariff schedules."
+            "content": "Hard water in this area (300+ ppm) affects evaporator coil longevity and causes mineral deposits in drain lines from A/C condensate. We include coil inspection and condensate treatment options when performing maintenance. For homeowners considering solar+AC combos, Red Rock & Casa Grande is high in sun hours-solar can offset daytime cooling costs, though extremely high ambient temperatures slightly reduce panel output. We audit solar potential alongside HVAC upgrades and provide estimates that reflect APS or SRP tariff schedules."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019ve been maintaining and replacing systems for households from the Red Rock proper pockets to downtown Casa Grande and the rapidly growing Pinal County developments along I-10. You\u2019ll see our vans near local landmarks\u2014Casa Grande Ruins National Monument, Francisco Grande Hotel, and Picacho Peak\u2014because we understand the local rhythms: retirement community schedules, families moving in from Phoenix for lower-cost housing, and property owners converting farmland parcels into new subdivisions. Our crews work around local restaurant hours and community events, and we know which streets and tracts in zip codes 85145, 85122, and 85193 have higher attic temperatures due to lot orientation or lack of shade. That level of neighborhood knowledge makes service faster and diagnostic visits more accurate."
+            "content": "We\u2019ve been maintaining and replacing systems for households from the Red Rock proper pockets to downtown Casa Grande and the rapidly growing Pinal County developments along I-10. You\u2019ll see our vans near local landmarks-Casa Grande Ruins National Monument, Francisco Grande Hotel, and Picacho Peak-because we understand the local rhythms: retirement community schedules, families moving in from Phoenix for lower-cost housing, and property owners converting farmland parcels into new subdivisions. Our crews work around local restaurant hours and community events, and we know which streets and tracts in zip codes 85145, 85122, and 85193 have higher attic temperatures due to lot orientation or lack of shade. That level of neighborhood knowledge makes service faster and diagnostic visits more accurate."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "How does the extreme heat in Red Rock & Casa Grande affect my A/C lifespan?",
-        "answer": "The combination of elevations near 1,400 ft and regular 115\u00b0F+ days means compressors run longer and more frequently, which accelerates wear. Units sized for milder loads tend to short-cycle under these conditions; we recommend two-stage or variable-speed systems and proper refrigerant charge to reduce runtime stress. Regular seasonal maintenance in zip codes 85145, 85122, and 85193\u2014including coil cleaning and checking refrigerant levels\u2014can add years to equipment life."
+        "answer": "The combination of elevations near 1,400 ft and regular 115\u00b0F+ days means compressors run longer and more frequently, which accelerates wear. Units sized for milder loads tend to short-cycle under these conditions; we recommend two-stage or variable-speed systems and proper refrigerant charge to reduce runtime stress. Regular seasonal maintenance in zip codes 85145, 85122, and 85193-including coil cleaning and checking refrigerant levels-can add years to equipment life."
     },
     {
         "question": "Are tile or flat roofs a problem for new AC installs in this area?",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "Do Pinal County building codes affect HVAC replacements?",
-        "answer": "Yes. Pinal County has different permitting and inspection requirements than neighboring counties. We handle permit submissions, coordinate inspections, and ensure installations\u2014especially in developments like Coyote Ranch and Mission Royale\u2014meet local code and HOA rules, avoiding costly rework or delays."
+        "answer": "Yes. Pinal County has different permitting and inspection requirements than neighboring counties. We handle permit submissions, coordinate inspections, and ensure installations-especially in developments like Coyote Ranch and Mission Royale-meet local code and HOA rules, avoiding costly rework or delays."
     },
     {
         "question": "Can I get rebates for a high-efficiency unit in Casa Grande?",

@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Avra Valley sits at about 2,400 ft elevation with large, open lots that make it one of the most solar\u2011friendly pockets outside central Tucson. Homes constructed in the 1990s and 2000s \u2014 many single\u2011story ranch plans with stucco walls and tile roofs \u2014 provide expansive, south\u2011facing roof area that supports high\u2011capacity arrays. For neighbors in zip codes 85743 and 85653 we evaluate whether a roof layout, carport, or ground\u2011mount will give the best return. Ground\u2011mount systems are common on 1\u20135 acre parcels and are often paired with well pump loads; our proposals include pump start profiles and wire runs so panels, inverters, and production are sized to cover irrigation and household demand. We also account for Avra Valley\u2019s microclimate \u2014 slightly cooler nights that slightly improve inverter efficiency and frequent dust events that require a cleaning and monitoring plan to protect long\u2011term energy yield."
+            "content": "Avra Valley sits at about 2,400 ft elevation with large, open lots that make it one of the most solar\u2011friendly pockets outside central Tucson. Homes constructed in the 1990s and 2000s - many single\u2011story ranch plans with stucco walls and tile roofs - provide expansive, south\u2011facing roof area that supports high\u2011capacity arrays. For neighbors in zip codes 85743 and 85653 we evaluate whether a roof layout, carport, or ground\u2011mount will give the best return. Ground\u2011mount systems are common on 1\u20135 acre parcels and are often paired with well pump loads; our proposals include pump start profiles and wire runs so panels, inverters, and production are sized to cover irrigation and household demand. We also account for Avra Valley\u2019s microclimate - slightly cooler nights that slightly improve inverter efficiency and frequent dust events that require a cleaning and monitoring plan to protect long\u2011term energy yield."
       },
       {
             "type": "paragraph",
@@ -67,7 +67,7 @@ highlights: [
       {
             "type": "cta",
             "heading": "Get a local quote for Avra Valley solar",
-            "content": "Request a site visit focused on Avra Valley conditions \u2014 dust mitigation, ground\u2011mount placement, and well pump pairing. We\u2019ll review incentives and provide pricing tailored to your 85743 or 85653 property.",
+            "content": "Request a site visit focused on Avra Valley conditions - dust mitigation, ground\u2011mount placement, and well pump pairing. We\u2019ll review incentives and provide pricing tailored to your 85743 or 85653 property.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tile roofs dominate Avra Valley \u2014 roughly six in ten properties \u2014 so our crews bring decades of experience working with clay and concrete tiles typical of 1990s\u20132000s builds. We use tile\u2011compatible mounts and maintain roof integrity during penetrations, replacing tiles where necessary and matching stucco work around flashings. Flat and foam roofs (around 25% locally) require specific membrane protection and ballast strategies to avoid ponding during the monsoon season. Shingle roofs (about 15%) are more straightforward for roof\u2011mounted arrays but we still check attic ventilation and rafters on older ranch houses. For ground\u2011mounts on larger lots we assess wash routes from Tucson Mountains runoff and locate arrays above historic flood lines to prevent damage during seasonal storms near Saguaro National Park West and Cat Mountain."
+            "content": "Tile roofs dominate Avra Valley - roughly six in ten properties - so our crews bring decades of experience working with clay and concrete tiles typical of 1990s\u20132000s builds. We use tile\u2011compatible mounts and maintain roof integrity during penetrations, replacing tiles where necessary and matching stucco work around flashings. Flat and foam roofs (around 25% locally) require specific membrane protection and ballast strategies to avoid ponding during the monsoon season. Shingle roofs (about 15%) are more straightforward for roof\u2011mounted arrays but we still check attic ventilation and rafters on older ranch houses. For ground\u2011mounts on larger lots we assess wash routes from Tucson Mountains runoff and locate arrays above historic flood lines to prevent damage during seasonal storms near Saguaro National Park West and Cat Mountain."
       },
       {
             "type": "paragraph",
-            "content": "Because Avra Valley experiences heavy monsoon runoff and occasional haboobs, we recommend slightly higher tilt angles than central Tucson installs to reduce dust accumulation and improve self\u2011cleaning during rain events. We program monitoring alerts to flag sudden losses in production \u2014 often the first sign of dust storms or animal activity on ground systems \u2014 and provide maintenance plans based on local dust cycles and irrigation schedules."
+            "content": "Because Avra Valley experiences heavy monsoon runoff and occasional haboobs, we recommend slightly higher tilt angles than central Tucson installs to reduce dust accumulation and improve self\u2011cleaning during rain events. We program monitoring alerts to flag sudden losses in production - often the first sign of dust storms or animal activity on ground systems - and provide maintenance plans based on local dust cycles and irrigation schedules."
       },
       {
             "type": "heading",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Is my Avra Valley tile roof compatible with solar?",
-        "answer": "Yes. Most tile roofs in Avra Valley\u2014common on homes built in the 1990s\u20132000s\u2014are compatible. We use tile\u2011friendly mounting systems and replace or cut tiles as needed to maintain weatherproofing. Our installers match local tile profiles and coordinate stucco flashing to protect your roof and preserve curb appeal."
+        "answer": "Yes. Most tile roofs in Avra Valley-common on homes built in the 1990s\u20132000s-are compatible. We use tile\u2011friendly mounting systems and replace or cut tiles as needed to maintain weatherproofing. Our installers match local tile profiles and coordinate stucco flashing to protect your roof and preserve curb appeal."
     },
     {
         "question": "Will dust storms in Avra Valley reduce system output?",

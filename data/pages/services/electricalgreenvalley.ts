@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "EV and golf cart charger installs",
-    "description": "Golf-cart chargers and level 2 EV chargers are a frequent request in neighborhoods like Desert Hills and Las Campanas \u2014 we size circuits to tile and flat roofs and HOA rules."
+    "description": "Golf-cart chargers and level 2 EV chargers are a frequent request in neighborhoods like Desert Hills and Las Campanas - we size circuits to tile and flat roofs and HOA rules."
   },
   {
     "title": "Accessibility & safety lighting",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Green Valley\u2019s housing stock\u2014mostly single-story homes built between the 1980s and early 2000s\u2014creates a distinctive set of electrical needs. Many residences in 85614 and 85622 have original wiring and 100-amp panels that were adequate decades ago but are strained today by modern power draws: medical equipment, whole-house AC, and multiple electronics. Tile roofs (around 65% locally) and flat roofs (about 25%) also affect how we route exterior conduit for garage EV chargers and solar-ready wiring. Because the median resident age is 72 and many homeowners live on fixed incomes, we focus first on safety and cost-effective fixes\u2014like adding dedicated circuits for CPAP machines, installing accessible night lighting, or upgrading grounding and surge protection\u2014so families remain protected without unnecessary expense."
+            "content": "Green Valley\u2019s housing stock-mostly single-story homes built between the 1980s and early 2000s-creates a distinctive set of electrical needs. Many residences in 85614 and 85622 have original wiring and 100-amp panels that were adequate decades ago but are strained today by modern power draws: medical equipment, whole-house AC, and multiple electronics. Tile roofs (around 65% locally) and flat roofs (about 25%) also affect how we route exterior conduit for garage EV chargers and solar-ready wiring. Because the median resident age is 72 and many homeowners live on fixed incomes, we focus first on safety and cost-effective fixes-like adding dedicated circuits for CPAP machines, installing accessible night lighting, or upgrading grounding and surge protection-so families remain protected without unnecessary expense."
       },
       {
             "type": "paragraph",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Panel upgrades are the single most-requested service from homes in La Posada, Las Campanas, and Desert Hills. Older 60A\u2013100A systems struggle when homeowners add modern conveniences such as EV cart chargers, whole-house surge protection, and new HVAC controls. Locally, a targeted upgrade (adding a subpanel or dedicated medical circuit) often costs between $800 and $1,800 depending on access and meter compatibility with TEP/Trico; a full 200A replacement typically falls in the $2,500\u2013$4,200 range for Green Valley houses, with exact pricing influenced by tile roof penetrations and garage panel access. For residents on fixed incomes we offer phased approaches\u2014prioritizing life-safety circuits first and scheduling cosmetic or noncritical improvements later to spread cost."
+            "content": "Panel upgrades are the single most-requested service from homes in La Posada, Las Campanas, and Desert Hills. Older 60A\u2013100A systems struggle when homeowners add modern conveniences such as EV cart chargers, whole-house surge protection, and new HVAC controls. Locally, a targeted upgrade (adding a subpanel or dedicated medical circuit) often costs between $800 and $1,800 depending on access and meter compatibility with TEP/Trico; a full 200A replacement typically falls in the $2,500\u2013$4,200 range for Green Valley houses, with exact pricing influenced by tile roof penetrations and garage panel access. For residents on fixed incomes we offer phased approaches-prioritizing life-safety circuits first and scheduling cosmetic or noncritical improvements later to spread cost."
       },
       {
             "type": "paragraph",
-            "content": "EV charging for golf carts and small EVs is a frequent request because many residents use golf carts for local errands and recreation center trips. We install level 1 and level 2 chargers sized for short local runs and advise on circuit placement to avoid crossing common tile roofs unnecessarily. Security system additions and accessibility lighting\u2014low-glare LED path lights and motion-activated porch illumination\u2014are common in 85614 and 85622, especially near community centers and the Paseo areas. We coordinate with recreation centers and HOAs when required and submit permits to Pima County, ensuring older underground systems are located before any trenching near water and septic lines."
+            "content": "EV charging for golf carts and small EVs is a frequent request because many residents use golf carts for local errands and recreation center trips. We install level 1 and level 2 chargers sized for short local runs and advise on circuit placement to avoid crossing common tile roofs unnecessarily. Security system additions and accessibility lighting-low-glare LED path lights and motion-activated porch illumination-are common in 85614 and 85622, especially near community centers and the Paseo areas. We coordinate with recreation centers and HOAs when required and submit permits to Pima County, ensuring older underground systems are located before any trenching near water and septic lines."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our teams know Green Valley\u2019s neighborhoods by name\u2014Desert Hills, La Posada, Canoa Ranch, Continental Vistas, and Las Campanas\u2014and we\u2019ve completed work at properties overlooking Santa Rita foothills and near landmarks such as Madera Canyon and the Titan Missile Museum. That local familiarity helps with HOA gate procedures, scheduling around Green Valley Recreation activities, and advising homeowners who cherish birding views or proximity to Tubac artist events. We approach each property with respect for the community\u2019s character: quieter work schedules, discreet vehicle parking on narrow drives, and pre-arranged debris removal on narrow lots common to retirement clusters."
+            "content": "Our teams know Green Valley\u2019s neighborhoods by name-Desert Hills, La Posada, Canoa Ranch, Continental Vistas, and Las Campanas-and we\u2019ve completed work at properties overlooking Santa Rita foothills and near landmarks such as Madera Canyon and the Titan Missile Museum. That local familiarity helps with HOA gate procedures, scheduling around Green Valley Recreation activities, and advising homeowners who cherish birding views or proximity to Tubac artist events. We approach each property with respect for the community\u2019s character: quieter work schedules, discreet vehicle parking on narrow drives, and pre-arranged debris removal on narrow lots common to retirement clusters."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do Green Valley homes need a 200A service upgrade for medical devices?",
-        "answer": "Many homes built in the 1970s\u20131990s in Green Valley originally have 60A\u2013100A services. If you run continuous medical devices (oxygen concentrators, CPAP units, powered recliners), a dedicated 120V/20A or 240V circuit is often sufficient and less disruptive than a full service change. However, homes with multiple modern additions\u2014EV cart chargers, new air-conditioning units, and whole-house electronics\u2014benefit from a 200A upgrade. We evaluate load, meter location, and roof access in neighborhoods like La Posada and provide phased, cost-sensitive options for fixed-income residents."
+        "answer": "Many homes built in the 1970s\u20131990s in Green Valley originally have 60A\u2013100A services. If you run continuous medical devices (oxygen concentrators, CPAP units, powered recliners), a dedicated 120V/20A or 240V circuit is often sufficient and less disruptive than a full service change. However, homes with multiple modern additions-EV cart chargers, new air-conditioning units, and whole-house electronics-benefit from a 200A upgrade. We evaluate load, meter location, and roof access in neighborhoods like La Posada and provide phased, cost-sensitive options for fixed-income residents."
     },
     {
         "question": "How much does an EV golf cart charger cost to install in Green Valley?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "Can you make old Green Valley homes safer without full rewiring?",
-        "answer": "Absolutely. For many single-story homes built in the 1980s, targeted interventions\u2014such as adding GFCI protection in kitchens and baths, installing AFCI breakers, dedicating circuits for medical devices, and upgrading grounding\u2014improve safety at a fraction of full-rewire cost. We inspect wiring condition, recommend prioritized fixes, and present phased plans that accommodate homeowners on fixed incomes while addressing immediate hazards."
+        "answer": "Absolutely. For many single-story homes built in the 1980s, targeted interventions-such as adding GFCI protection in kitchens and baths, installing AFCI breakers, dedicating circuits for medical devices, and upgrading grounding-improve safety at a fraction of full-rewire cost. We inspect wiring condition, recommend prioritized fixes, and present phased plans that accommodate homeowners on fixed incomes while addressing immediate hazards."
     },
     {
         "question": "How do winter frosts in Green Valley affect exterior electrical fixtures?",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "Is my Green Valley home a good candidate for solar tie-ins?",
-        "answer": "Yes\u2014single-story homes with southern exposures and minimal shading from larger mesquites near the Santa Rita foothills are excellent candidates. Many Green Valley properties have unobstructed roof areas, and TEP/Trico service is reliable here. We provide solar-ready panel placements that avoid common tile penetrations and design inverter and service upgrades that accommodate future battery backups, helping fixed-income residents reduce long-term utility bills."
+        "answer": "Yes-single-story homes with southern exposures and minimal shading from larger mesquites near the Santa Rita foothills are excellent candidates. Many Green Valley properties have unobstructed roof areas, and TEP/Trico service is reliable here. We provide solar-ready panel placements that avoid common tile penetrations and design inverter and service upgrades that accommodate future battery backups, helping fixed-income residents reduce long-term utility bills."
     },
     {
         "question": "Do you coordinate permits with Pima County and TEP/Trico?",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Refinement Q6",
-        "answer": "What\u2019s the most convenient way to access your property\u2014gate code, drive-side drop-off, or Mobility-impaired parking spot? We plan arrivals to respect narrow drives and scheduled activities at local recreation centers and will confirm parking instructions for technicians."
+        "answer": "What\u2019s the most convenient way to access your property-gate code, drive-side drop-off, or Mobility-impaired parking spot? We plan arrivals to respect narrow drives and scheduled activities at local recreation centers and will confirm parking instructions for technicians."
     }
 ],
   

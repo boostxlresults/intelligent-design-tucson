@@ -4,26 +4,26 @@
 - 177 pages noindexed due to 75-94% content overlap
 - 8 service categories × 22 locations + 7 standalone = 177 pages
 - Overlap sources:
-  1. **Shared FAQs** (`residentialRoofRepairFAQs`, etc.) — IDENTICAL across all locations in same category
-  2. **Templated refinement questions** — only location name changes via `${location}` interpolation
-  3. **Generic highlights** — same 6 highlights with minor word swaps
-  4. **Boilerplate content sections** — same structure, same stats (46 years, 4.97 rating, 52 techs)
-  5. **Shared component rendering** — ServicePage component renders identical UI structure
+  1. **Shared FAQs** (`residentialRoofRepairFAQs`, etc.) - IDENTICAL across all locations in same category
+  2. **Templated refinement questions** - only location name changes via `${location}` interpolation
+  3. **Generic highlights** - same 6 highlights with minor word swaps
+  4. **Boilerplate content sections** - same structure, same stats (46 years, 4.97 rating, 52 techs)
+  5. **Shared component rendering** - ServicePage component renders identical UI structure
 
 ## Strategy for <50% Overlap
 
 ### What MUST be unique per page:
-1. **Title & Meta** — Already unique ✓
-2. **H1 & H2** — Already unique ✓
-3. **Content sections** — Need COMPLETE rewrite with:
+1. **Title & Meta** - Already unique ✓
+2. **H1 & H2** - Already unique ✓
+3. **Content sections** - Need COMPLETE rewrite with:
    - Location-specific climate/weather challenges (not generic "extreme heat")
    - Specific neighborhood details, housing stock, building codes
    - Real local statistics (population, home age, common roof types)
    - Unique service scenarios for that area
-4. **FAQs** — Need LOCATION-SPECIFIC FAQs (not shared category FAQs)
-5. **Refinement Questions** — Need unique answers with local data
-6. **Highlights** — Need location-specific value props
-7. **Case studies/testimonials** — Location-specific social proof
+4. **FAQs** - Need LOCATION-SPECIFIC FAQs (not shared category FAQs)
+5. **Refinement Questions** - Need unique answers with local data
+6. **Highlights** - Need location-specific value props
+7. **Case studies/testimonials** - Location-specific social proof
 
 ### Content Differentiation Matrix (per location):
 - Demographics & housing stock (home age, typical construction, lot sizes)

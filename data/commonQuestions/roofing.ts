@@ -4,7 +4,7 @@ import { CommonQuestion } from '@/components/content/CommonQuestions';
 export const roofingEmergencyQuestions: CommonQuestion[] = [
   {
     question: "Do you provide emergency roof repair in Tucson?",
-    answer: "Yes, Intelligent Design offers 24/7 emergency roof repair throughout the greater Tucson area. We understand that roof leaks and storm damage can't wait—they cause immediate water damage, threaten safety, and worsen rapidly. Our roofing teams respond quickly to provide emergency tarping and temporary weatherproofing, then schedule permanent repairs to protect your home or business."
+    answer: "Yes, Intelligent Design offers 24/7 emergency roof repair throughout the greater Tucson area. We understand that roof leaks and storm damage can't wait-they cause immediate water damage, threaten safety, and worsen rapidly. Our roofing teams respond quickly to provide emergency tarping and temporary weatherproofing, then schedule permanent repairs to protect your home or business."
   },
   {
     question: "How quickly can you respond to a roofing emergency?",
@@ -81,7 +81,7 @@ export const roofCoatingCommonQuestions: CommonQuestion[] = [
   },
   {
     question: "Can roof coating stop leaks?",
-    answer: "Roof coating can seal minor leaks and prevent future leaks by creating a seamless waterproof membrane. However, significant damage must be repaired first—coating alone won't fix structural issues, major cracks, or extensive deterioration. We thoroughly inspect your roof, make necessary repairs, then apply coating to waterproof and protect the entire surface. This approach solves existing problems while preventing new ones."
+    answer: "Roof coating can seal minor leaks and prevent future leaks by creating a seamless waterproof membrane. However, significant damage must be repaired first-coating alone won't fix structural issues, major cracks, or extensive deterioration. We thoroughly inspect your roof, make necessary repairs, then apply coating to waterproof and protect the entire surface. This approach solves existing problems while preventing new ones."
   },
   ...roofingWarrantyQuestions,
   ...roofingMaintenanceQuestions
@@ -100,7 +100,7 @@ export const tileRoofCommonQuestions: CommonQuestion[] = [
 export const shingleRoofCommonQuestions: CommonQuestion[] = [
   {
     question: "How long do shingle roofs last in Tucson?",
-    answer: "Architectural shingles typically last 20-30 years in Tucson, though extreme heat and UV exposure accelerate aging compared to milder climates. Premium shingles with reflective coatings last longer than standard shingles. Regular maintenance, prompt repairs, and adequate attic ventilation extend shingle life. Warning signs of shingle failure include granule loss, curling, cracking, and missing shingles—all reasons for professional inspection."
+    answer: "Architectural shingles typically last 20-30 years in Tucson, though extreme heat and UV exposure accelerate aging compared to milder climates. Premium shingles with reflective coatings last longer than standard shingles. Regular maintenance, prompt repairs, and adequate attic ventilation extend shingle life. Warning signs of shingle failure include granule loss, curling, cracking, and missing shingles-all reasons for professional inspection."
   },
   ...roofingMaintenanceQuestions,
   ...roofingWarrantyQuestions
@@ -132,7 +132,7 @@ export const commercialRoofingCommonQuestions: CommonQuestion[] = [
   },
   {
     question: "Do you handle commercial roof warranties and inspections?",
-    answer: "Yes, we provide comprehensive commercial roof warranties, annual inspections for warranty compliance, detailed documentation, and ongoing maintenance to protect your investment. Many commercial warranties require annual inspections—we ensure your roof remains in warranty-compliant condition. Our systematic approach to commercial roofing protects your property investment and provides predictable maintenance budgets."
+    answer: "Yes, we provide comprehensive commercial roof warranties, annual inspections for warranty compliance, detailed documentation, and ongoing maintenance to protect your investment. Many commercial warranties require annual inspections-we ensure your roof remains in warranty-compliant condition. Our systematic approach to commercial roofing protects your property investment and provides predictable maintenance budgets."
   },
   ...roofingWarrantyQuestions,
   ...roofingMaintenanceQuestions

@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Luxury Fixture Care",
-    "description": "Specialized service for premium fittings found in Hacienda del Sol and Pima Canyon homes\u2014manufacturer-backed repairs and precision calibrations to preserve finish and function."
+    "description": "Specialized service for premium fittings found in Hacienda del Sol and Pima Canyon homes-manufacturer-backed repairs and precision calibrations to preserve finish and function."
   },
   {
     "title": "Whole-Home Filtration & Water Softening",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Catalina Foothills presents plumbing conditions different from the Tucson valley: many homes were built between the 1980s and early 2000s with large, multi-level footprints, tile and slate rooflines, and specialty finishes. At elevations from about 2,700 to 3,200 feet the microclimate brings cooler nights and occasional winter frost that affects exterior lines, irrigation and pool plumbing differently than lower elevations. Steeper lots around Ventana Canyon and Pima Canyon create runoff and pressure zones that can stress drain stacks and downhill yard lines. Our technicians arrive prepared for long runs, multiple story drops, and the higher-end materials\u2014stone surrounds, oversized tubs, steam systems\u2014that Catalina Foothills homeowners expect. We calibrate pump sizing, check for scale buildup from moderate-hard water (160\u2013200 ppm), and recommend filtration or softening where it preserves plumbing longevity and finishes. Whether you live in 85718 near Sabino Canyon Recreation Area or in 85750 by Skyline Country Club, our approach centers on protecting high-value finishes and complex system layouts."
+            "content": "Catalina Foothills presents plumbing conditions different from the Tucson valley: many homes were built between the 1980s and early 2000s with large, multi-level footprints, tile and slate rooflines, and specialty finishes. At elevations from about 2,700 to 3,200 feet the microclimate brings cooler nights and occasional winter frost that affects exterior lines, irrigation and pool plumbing differently than lower elevations. Steeper lots around Ventana Canyon and Pima Canyon create runoff and pressure zones that can stress drain stacks and downhill yard lines. Our technicians arrive prepared for long runs, multiple story drops, and the higher-end materials-stone surrounds, oversized tubs, steam systems-that Catalina Foothills homeowners expect. We calibrate pump sizing, check for scale buildup from moderate-hard water (160\u2013200 ppm), and recommend filtration or softening where it preserves plumbing longevity and finishes. Whether you live in 85718 near Sabino Canyon Recreation Area or in 85750 by Skyline Country Club, our approach centers on protecting high-value finishes and complex system layouts."
       },
       {
             "type": "paragraph",
-            "content": "Common scenarios we see: an owner in Hacienda del Sol discovers slow draining in a remodeled 1992 home with cast-iron stacks; a Ventana Canyon estate needs a recirculating loop added to eliminate cold-water delays on a long downhill run; a 3,500 sq ft Pima Canyon house has scale forming on a tankless water heater because the original builder skipped a softener. We routinely work with concierge-level remodelers and pool service pros to sequence plumbing around custom cabinetry, vanishing-edge pools, and multi-zone irrigation systems. Pricing reflects complexity\u2014routine service calls in Catalina Foothills typically start in a slightly higher local band ($95\u2013$149) due to travel and specialized parts, while upgrades like whole-home filtration or repiping for a 3,000+ sq ft luxury home are scoped with detailed estimates that reflect material quality and hillside logistics."
+            "content": "Common scenarios we see: an owner in Hacienda del Sol discovers slow draining in a remodeled 1992 home with cast-iron stacks; a Ventana Canyon estate needs a recirculating loop added to eliminate cold-water delays on a long downhill run; a 3,500 sq ft Pima Canyon house has scale forming on a tankless water heater because the original builder skipped a softener. We routinely work with concierge-level remodelers and pool service pros to sequence plumbing around custom cabinetry, vanishing-edge pools, and multi-zone irrigation systems. Pricing reflects complexity-routine service calls in Catalina Foothills typically start in a slightly higher local band ($95\u2013$149) due to travel and specialized parts, while upgrades like whole-home filtration or repiping for a 3,000+ sq ft luxury home are scoped with detailed estimates that reflect material quality and hillside logistics."
       },
       {
             "type": "cta",
@@ -73,17 +73,17 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Repiping, Heating & Water Quality \u2014 Built for Local Conditions",
+            "heading": "Repiping, Heating & Water Quality - Built for Local Conditions",
             "level": 2,
-            "content": "Repiping, Heating & Water Quality \u2014 Built for Local Conditions"
+            "content": "Repiping, Heating & Water Quality - Built for Local Conditions"
       },
       {
             "type": "paragraph",
-            "content": "Repiping and water quality projects in Catalina Foothills require planning for multi-level floorplans and premium finishes. Homes built in the 1980s often retain original plumbing runs hidden behind stone or tile work; replacing those lines in a Skyline Heights property can mean coordinating with tile installers and landscape crews to preserve existing aesthetics. We assess pipe material, insulation for exterior segments that could be exposed to occasional frost, and the hydraulic demands of multiple high-flow fixtures\u2014large soaking tubs, outdoor kitchens, and pool equipment. Tankless and high-efficiency water heaters are common upgrades here, but they must be sized with the long runs and higher elevation in mind to avoid delayed delivery or pressure complaints. For whole-home filtration or softening, we provide site-specific placements so units fit gracefully into utility rooms or under stair landings without compromising service access or views."
+            "content": "Repiping and water quality projects in Catalina Foothills require planning for multi-level floorplans and premium finishes. Homes built in the 1980s often retain original plumbing runs hidden behind stone or tile work; replacing those lines in a Skyline Heights property can mean coordinating with tile installers and landscape crews to preserve existing aesthetics. We assess pipe material, insulation for exterior segments that could be exposed to occasional frost, and the hydraulic demands of multiple high-flow fixtures-large soaking tubs, outdoor kitchens, and pool equipment. Tankless and high-efficiency water heaters are common upgrades here, but they must be sized with the long runs and higher elevation in mind to avoid delayed delivery or pressure complaints. For whole-home filtration or softening, we provide site-specific placements so units fit gracefully into utility rooms or under stair landings without compromising service access or views."
       },
       {
             "type": "paragraph",
-            "content": "Because many Catalina Foothills homes exceed 3,000 sq ft and sit on irregular lots, labor and permitting times can differ from valley floor jobs. Typical replacement water heater projects range from roughly $1,200 for standard tank units to $3,000+ for high-efficiency or hybrid models when factoring installation in multi-level homes. Full repipes in luxury builds vary widely\u2014common ranges are $7,000 to $25,000\u2014so we always start with a walkthrough that identifies access points, finish restoration needs, and any hillside equipment siting that will affect cost."
+            "content": "Because many Catalina Foothills homes exceed 3,000 sq ft and sit on irregular lots, labor and permitting times can differ from valley floor jobs. Typical replacement water heater projects range from roughly $1,200 for standard tank units to $3,000+ for high-efficiency or hybrid models when factoring installation in multi-level homes. Full repipes in luxury builds vary widely-common ranges are $7,000 to $25,000-so we always start with a walkthrough that identifies access points, finish restoration needs, and any hillside equipment siting that will affect cost."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We serve neighborhoods from the Campbell/Skyline corridor to Ventana Canyon and the Hacienda del Sol area with sensitivity to community norms\u2014gated entry procedures, HOA guidelines, and conservation-aware landscaping near Sabino Canyon. Our teams understand sightlines, driveway grades, and where to stage equipment so service doesn\u2019t impact views of Finger Rock Trail or interfere with neighbor drainage. We also collaborate with pool service companies and landscape architects who know Catalina Foothills\u2019 unique ecology and wildlife patterns; technicians routinely take extra steps to secure lids, check for javelina or coyote access to service areas, and leave properties as we found them."
+            "content": "We serve neighborhoods from the Campbell/Skyline corridor to Ventana Canyon and the Hacienda del Sol area with sensitivity to community norms-gated entry procedures, HOA guidelines, and conservation-aware landscaping near Sabino Canyon. Our teams understand sightlines, driveway grades, and where to stage equipment so service doesn\u2019t impact views of Finger Rock Trail or interfere with neighbor drainage. We also collaborate with pool service companies and landscape architects who know Catalina Foothills\u2019 unique ecology and wildlife patterns; technicians routinely take extra steps to secure lids, check for javelina or coyote access to service areas, and leave properties as we found them."
       },
       {
             "type": "cta",
@@ -116,7 +116,7 @@ highlights: [
     },
     {
         "question": "Do Catalina Foothills homes need whole-home filtration or softeners?",
-        "answer": "Yes\u2014moderate-hard water (roughly 160\u2013200 ppm) is typical here and contributes to scale on fixtures, showers, and tankless heaters. Many Catalina Foothills homeowners\u2014especially those with stone finishes and steam showers\u2014install filtration or softening to protect plumbing and maintain polished fixtures. We size systems to fit utility rooms in multi-level homes and place tanks to minimize visual impact and simplify maintenance."
+        "answer": "Yes-moderate-hard water (roughly 160\u2013200 ppm) is typical here and contributes to scale on fixtures, showers, and tankless heaters. Many Catalina Foothills homeowners-especially those with stone finishes and steam showers-install filtration or softening to protect plumbing and maintain polished fixtures. We size systems to fit utility rooms in multi-level homes and place tanks to minimize visual impact and simplify maintenance."
     },
     {
         "question": "Are there special considerations for pool plumbing in Catalina Foothills?",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "Do technicians in Catalina Foothills handle fixture matches for high-end bathrooms?",
-        "answer": "Yes. We work with luxury fixtures common to Hacienda del Sol and Pima Canyon homes and can source manufacturer parts or OEM-matching components. Our technicians are trained to work around delicate finishes\u2014stone vanities, custom tile\u2014so repairs are precise and minimally invasive. We document finishes and recommendations in our service reports to help homeowners preserve aesthetics."
+        "answer": "Yes. We work with luxury fixtures common to Hacienda del Sol and Pima Canyon homes and can source manufacturer parts or OEM-matching components. Our technicians are trained to work around delicate finishes-stone vanities, custom tile-so repairs are precise and minimally invasive. We document finishes and recommendations in our service reports to help homeowners preserve aesthetics."
     },
     {
         "question": "How quickly can you respond to a plumbing emergency in 85718 or 85750?",
@@ -157,7 +157,7 @@ highlights: [
     },
     {
         "question": "Refinement Q3",
-        "answer": "Should we provide a downloadable pre-service checklist tailored to Catalina Foothills\u2014items like gate codes, pool equipment locations, and tile/stone finish notes? This helps technicians prepare for access and limits time onsite, which many homeowners in 85718 and 85750 appreciate."
+        "answer": "Should we provide a downloadable pre-service checklist tailored to Catalina Foothills-items like gate codes, pool equipment locations, and tile/stone finish notes? This helps technicians prepare for access and limits time onsite, which many homeowners in 85718 and 85750 appreciate."
     },
     {
         "question": "Refinement Q4",

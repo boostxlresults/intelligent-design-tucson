@@ -10,7 +10,7 @@ export const actuneupData: ServicePageData = {
   
   // Hero Section
   h1: 'AC Tune-Up in Tucson - Ready for Summer? $88.88, Done Today.',
-  h2Subheading: 'Professional AC maintenance to prevent costly breakdowns \u2014 for less than the cost of dinner out',
+  h2Subheading: 'Professional AC maintenance to prevent costly breakdowns - for less than the cost of dinner out',
   tagline: 'Complete System Diagnostics | All Brands Serviced | Same-Day Appointments Available',
   heroImage: '/generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.webp',
   heroImageAlt: 'Professional AC tune-up maintenance service in Tucson home',
@@ -25,7 +25,7 @@ export const actuneupData: ServicePageData = {
   // Content
   highlights: [
   {
-    "title": "Just $88.88 \u2014 No Hidden Fees",
+    "title": "Just $88.88 - No Hidden Fees",
     "description": "Complete 86-point inspection | Written report with recommendations | No upsell pressure | Transparent pricing"
   },
   {
@@ -68,11 +68,11 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's extreme heat means your AC runs 6\u20138 months per year\u2014that's 3x the wear of moderate climates. Systems operating 2,500\u20133,000 hours annually in 110\u00b0F+ heat experience accelerated component degradation that goes unnoticed until a complete failure occurs, typically on the hottest day of the year when you need cooling most."
+            "content": "Tucson's extreme heat means your AC runs 6\u20138 months per year-that's 3x the wear of moderate climates. Systems operating 2,500\u20133,000 hours annually in 110\u00b0F+ heat experience accelerated component degradation that goes unnoticed until a complete failure occurs, typically on the hottest day of the year when you need cooling most."
       },
       {
             "type": "paragraph",
-            "content": "A $88.88 tune-up prevents $500\u2013$2,000 emergency repairs by catching issues early\u2014failing capacitors, low refrigerant, dirty coils, and worn contactors that would otherwise cause a complete system breakdown during peak summer heat. Regular maintenance extends your system's lifespan by 3\u20135 years, improves efficiency by 15\u201325% (lowering your monthly energy bills significantly), and maintains your manufacturer warranty, which most brands require annual professional maintenance to keep valid."
+            "content": "A $88.88 tune-up prevents $500\u2013$2,000 emergency repairs by catching issues early-failing capacitors, low refrigerant, dirty coils, and worn contactors that would otherwise cause a complete system breakdown during peak summer heat. Regular maintenance extends your system's lifespan by 3\u20135 years, improves efficiency by 15\u201325% (lowering your monthly energy bills significantly), and maintains your manufacturer warranty, which most brands require annual professional maintenance to keep valid."
       },
       {
             "type": "heading",
@@ -112,7 +112,7 @@ export const actuneupData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson summers regularly exceed 110\u00b0F, and systems that haven't been maintained are 3x more likely to fail during peak heat. When your AC stops working in July, you're competing with thousands of other emergency calls for limited technician availability\u2014and facing repair bills 2\u20133x higher than preventive maintenance would have cost. Don't wait until it's 112\u00b0 and your AC stops working. Schedule your $88.88 tune-up now while appointments are available."
+            "content": "Tucson summers regularly exceed 110\u00b0F, and systems that haven't been maintained are 3x more likely to fail during peak heat. When your AC stops working in July, you're competing with thousands of other emergency calls for limited technician availability-and facing repair bills 2\u20133x higher than preventive maintenance would have cost. Don't wait until it's 112\u00b0 and your AC stops working. Schedule your $88.88 tune-up now while appointments are available."
       },
       {
             "type": "cta",
@@ -141,7 +141,7 @@ export const actuneupData: ServicePageData = {
       },
       {
         question: "How long does a tune-up take?",
-        answer: "A thorough 86-point inspection typically takes 45-60 minutes. Our technicians take the time to do it right \u2014 we don't rush through a checklist."
+        answer: "A thorough 86-point inspection typically takes 45-60 minutes. Our technicians take the time to do it right - we don't rush through a checklist."
       },
       {
         question: "Will a tune-up fix my AC if it's already not working?",
@@ -149,7 +149,7 @@ export const actuneupData: ServicePageData = {
       },
       {
         question: "Do I need a tune-up if my AC seems to be working fine?",
-        answer: "Yes. Many AC problems develop silently \u2014 low refrigerant, failing capacitors, dirty coils \u2014 and only become obvious when the system fails completely during peak heat. A tune-up catches these issues when they're $88.88 fixes instead of $500+ emergency repairs."
+        answer: "Yes. Many AC problems develop silently - low refrigerant, failing capacitors, dirty coils - and only become obvious when the system fails completely during peak heat. A tune-up catches these issues when they're $88.88 fixes instead of $500+ emergency repairs."
       }
     ]
   },

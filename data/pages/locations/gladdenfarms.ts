@@ -328,11 +328,11 @@ export const gladdenfarmsData: LocationPageData = {
             "type": "paragraph",
             "content": "Common questions about our Gladden Farms services"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Gladden Farms", "level": 2, "content": "Local Community Guide \u2014 Gladden Farms"},
+            {"type": "heading", "heading": "Local Community Guide - Gladden Farms", "level": 2, "content": "Local Community Guide - Gladden Farms"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Marana Heritage River Park, El Rio Preserve, Gladden Farms Community Park, Dove Mountain Trails, Tortolita Mountains. Whether you live near these landmarks or anywhere in Gladden Farms, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, Taqueria Plaza's, Ol' Pot Hole. When you need home services in Gladden Farms, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, Taqueria Plaza's, Ol' Pot Hole. When you need home services in Gladden Farms, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Ready for Expert Service in Gladden Farms?",

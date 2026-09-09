@@ -51,7 +51,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Homes in SaddleBrooke and Catalina sit at elevations between about 3,200 and 3,600 feet, creating a mountain-adjacent climate that affects HVAC needs differently than lower-elevation Tucson neighborhoods. Summers are generally milder because elevation provides natural cooling, but heat waves still occur and air conditioning must be ready. Winters bring more precipitation and frequent frosts, making dependable heating essential. Heat pumps are popular due to their efficiency in moderate winter temperatures, and many residents opt for dual-fuel systems to combine electric heat pump economy with gas backup during colder spells. Proper system sizing, refrigerant charge, and attentive maintenance keep equipment efficient and prevent mid-season failures. Our technicians evaluate each home\u2019s age and construction\u2014whether a 1980s build, a 2000s renovation, or a newer SaddleBrooke luxury home\u2014to recommend solutions that respect local climate patterns and household comfort priorities."
+        "content": "Homes in SaddleBrooke and Catalina sit at elevations between about 3,200 and 3,600 feet, creating a mountain-adjacent climate that affects HVAC needs differently than lower-elevation Tucson neighborhoods. Summers are generally milder because elevation provides natural cooling, but heat waves still occur and air conditioning must be ready. Winters bring more precipitation and frequent frosts, making dependable heating essential. Heat pumps are popular due to their efficiency in moderate winter temperatures, and many residents opt for dual-fuel systems to combine electric heat pump economy with gas backup during colder spells. Proper system sizing, refrigerant charge, and attentive maintenance keep equipment efficient and prevent mid-season failures. Our technicians evaluate each home\u2019s age and construction-whether a 1980s build, a 2000s renovation, or a newer SaddleBrooke luxury home-to recommend solutions that respect local climate patterns and household comfort priorities."
     },
     {
         "type": "paragraph",
@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "We are proud to serve the SaddleBrooke & Catalina community\u2014homes in 85739 and 85738, residents near Catalina town center, and those along Oracle Road and the Oracle junction area. Intelligent Design supports local homeowners with transparent estimates, maintenance agreements to prevent winter breakdowns, and energy-saving recommendations that respect home values from $300,000 to $600,000. We partner with neighborhood associations and provide guidance for town homes and luxury residences alike, offering financing options and seasonal tune-ups. With 46+ years of service, a 4.97\u2605 rating, and more than 3,600 reviews, our technicians aim to deliver dependable HVAC performance so families and retirees in the area stay comfortable and safe."
+        "content": "We are proud to serve the SaddleBrooke & Catalina community-homes in 85739 and 85738, residents near Catalina town center, and those along Oracle Road and the Oracle junction area. Intelligent Design supports local homeowners with transparent estimates, maintenance agreements to prevent winter breakdowns, and energy-saving recommendations that respect home values from $300,000 to $600,000. We partner with neighborhood associations and provide guidance for town homes and luxury residences alike, offering financing options and seasonal tune-ups. With 46+ years of service, a 4.97\u2605 rating, and more than 3,600 reviews, our technicians aim to deliver dependable HVAC performance so families and retirees in the area stay comfortable and safe."
     },
     {
         "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
     faqs: [
     {
         "question": "How does Intelligent Design handle heating needs in SaddleBrooke & Catalina?",
-        "answer": "Intelligent Design evaluates each home\u2019s elevation, construction, and occupant needs to recommend the right heating solution\u2014often heat pumps or dual-fuel systems. We focus on reliable startup in frost-prone winters, correct sizing, efficient controls, and maintenance plans to prevent mid-season failures. Our technicians also inspect ductwork and insulation to ensure even heat distribution throughout homes in 85739 and 85738."
+        "answer": "Intelligent Design evaluates each home\u2019s elevation, construction, and occupant needs to recommend the right heating solution-often heat pumps or dual-fuel systems. We focus on reliable startup in frost-prone winters, correct sizing, efficient controls, and maintenance plans to prevent mid-season failures. Our technicians also inspect ductwork and insulation to ensure even heat distribution throughout homes in 85739 and 85738."
     },
     {
         "question": "What should Catalina and SaddleBrooke homeowners expect during an AC repair visit?",
@@ -105,7 +105,7 @@ highlights: [
     },
     {
         "question": "How often should homes in SaddleBrooke & Catalina have HVAC maintenance?",
-        "answer": "We recommend biannual maintenance\u2014spring for cooling and fall for heating\u2014to catch issues related to frost, precipitation, and seasonal cycling. Regular tune-ups improve efficiency and extend equipment life."
+        "answer": "We recommend biannual maintenance-spring for cooling and fall for heating-to catch issues related to frost, precipitation, and seasonal cycling. Regular tune-ups improve efficiency and extend equipment life."
     },
     {
         "question": "Can you service older homes and varied construction types here?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "RQ2",
-        "answer": "Would you like focused content on heat pumps vs. furnaces for this page? If yes, specify a preferred tone\u2014technical, conversational, or sales-oriented\u2014and we can add a 300-word comparison section explaining dual-fuel benefits in elevation-affected climates."
+        "answer": "Would you like focused content on heat pumps vs. furnaces for this page? If yes, specify a preferred tone-technical, conversational, or sales-oriented-and we can add a 300-word comparison section explaining dual-fuel benefits in elevation-affected climates."
     },
     {
         "question": "RQ3",

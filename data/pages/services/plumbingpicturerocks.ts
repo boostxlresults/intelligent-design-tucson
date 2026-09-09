@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Dust & Wind\u2011Ready Installations",
-    "description": "Installations and venting are specified for open desert exposure\u2014elevated vents, sealed access panels, and dust-tolerant fixtures to resist storms and grit."
+    "description": "Installations and venting are specified for open desert exposure-elevated vents, sealed access panels, and dust-tolerant fixtures to resist storms and grit."
   },
   {
     "title": "Local Knowledge & Landmark Coverage",
@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Homes built from the 1970s through the early 2000s dominate Picture Rocks: manufactured homes sit alongside site-built ranches and horse properties. Manufactured units (about 35% of local roofs) and older site-built homes often have a mix of plumbing materials \u2014 copper, PVC, and older flexible lines \u2014 that require careful transitions. Septic systems on large lots are the norm, and many homeowners prefer scheduled septic inspections and conservative pumping intervals because leach field repairs are costly and disruptive on big properties. Labor and parts pricing for 85743 jobs factor in the realities of rural service: travel time, staging for long well runs, and sometimes the need for off\u2011road access near landmarks like the Picture Rocks Petroglyphs."
+            "content": "Homes built from the 1970s through the early 2000s dominate Picture Rocks: manufactured homes sit alongside site-built ranches and horse properties. Manufactured units (about 35% of local roofs) and older site-built homes often have a mix of plumbing materials - copper, PVC, and older flexible lines - that require careful transitions. Septic systems on large lots are the norm, and many homeowners prefer scheduled septic inspections and conservative pumping intervals because leach field repairs are costly and disruptive on big properties. Labor and parts pricing for 85743 jobs factor in the realities of rural service: travel time, staging for long well runs, and sometimes the need for off\u2011road access near landmarks like the Picture Rocks Petroglyphs."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Addressing 250+ ppm hardness requires a system sized for both peak household demand and the long supply lines typical of properties in Sandario Road and Avra Valley border areas. We evaluate gallons-per-minute from the well, recovery rates, and pressure tank volume; undersized softeners or tanks lead to short cycling and premature pump failures, especially in homes with multiple irrigation zones or livestock waterers. For many 85743 properties, a water-softening system with pre-sediment filtration and a higher-capacity pressure tank is the most cost-effective long-term solution. In rural Picture Rocks, expect softening system install pricing to reflect the need for longer feed lines and additional backflow protection \u2014 we provide ballpark numbers during the first call so you can plan for parts and labor."
+            "content": "Addressing 250+ ppm hardness requires a system sized for both peak household demand and the long supply lines typical of properties in Sandario Road and Avra Valley border areas. We evaluate gallons-per-minute from the well, recovery rates, and pressure tank volume; undersized softeners or tanks lead to short cycling and premature pump failures, especially in homes with multiple irrigation zones or livestock waterers. For many 85743 properties, a water-softening system with pre-sediment filtration and a higher-capacity pressure tank is the most cost-effective long-term solution. In rural Picture Rocks, expect softening system install pricing to reflect the need for longer feed lines and additional backflow protection - we provide ballpark numbers during the first call so you can plan for parts and labor."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We route technicians daily through Picture Rocks neighborhoods \u2014 from Sandario Road corridor to Mile Wide Road and the properties near the Picture Rocks Petroglyphs \u2014 so we understand seasonal access issues, long driveways, and where TEP service lines are more outage-prone. That local familiarity speeds diagnosis when plumbing symptoms are tied to power loss, like well pumps cycling after grid flicker. We coordinate with customers on-site to protect yard areas common to horse properties and to stage equipment on large lots without disturbing drainage or access to trails leading to Ironwood Forest. Our focus is practical solutions built for the rural character of Picture Rocks rather than one-size-fits-all fixes."
+            "content": "We route technicians daily through Picture Rocks neighborhoods - from Sandario Road corridor to Mile Wide Road and the properties near the Picture Rocks Petroglyphs - so we understand seasonal access issues, long driveways, and where TEP service lines are more outage-prone. That local familiarity speeds diagnosis when plumbing symptoms are tied to power loss, like well pumps cycling after grid flicker. We coordinate with customers on-site to protect yard areas common to horse properties and to stage equipment on large lots without disturbing drainage or access to trails leading to Ironwood Forest. Our focus is practical solutions built for the rural character of Picture Rocks rather than one-size-fits-all fixes."
       },
       {
             "type": "cta",

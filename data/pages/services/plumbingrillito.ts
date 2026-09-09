@@ -24,7 +24,7 @@ export const plumbingrillitoData: ServicePageData = {
 highlights: [
   {
     "title": "Well Water Hardness Expertise",
-    "description": "Rillito well water averages 240+ ppm hardness\u2014our technicians size softeners and filtration systems specifically for agricultural draws and deep wells near the Santa Cruz River. We tailor equipment for dusty, high-mineral water that clogs fixtures and shortens appliance life."
+    "description": "Rillito well water averages 240+ ppm hardness-our technicians size softeners and filtration systems specifically for agricultural draws and deep wells near the Santa Cruz River. We tailor equipment for dusty, high-mineral water that clogs fixtures and shortens appliance life."
   },
   {
     "title": "Galvanized Pipe Replacement",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rillito sits at about 2,100 feet elevation with a distinct microclimate: hotter summers, open agricultural terrain, and frequent dust from field work. Those conditions combine with very hard well water (commonly 240+ ppm) to accelerate wear on faucets, water heaters, and valves. Homes built in Rillito during the 1970s through the 1990s often have original galvanized service lines or multi-material runs that show corrosion, low flow, and pinhole leaks along long exterior runs. On small rural lots and manufactured homes, access to supply lines can be through crawlspaces or exposed utility runs, so repairs require crews familiar with local construction, older plaster and stucco walls, and the farm-style setups along the Santa Cruz River corridor. We diagnose leaks with an eye for minimizing yard and landscape disruption\u2014important where agricultural equipment and irrigation lines are present."
+            "content": "Rillito sits at about 2,100 feet elevation with a distinct microclimate: hotter summers, open agricultural terrain, and frequent dust from field work. Those conditions combine with very hard well water (commonly 240+ ppm) to accelerate wear on faucets, water heaters, and valves. Homes built in Rillito during the 1970s through the 1990s often have original galvanized service lines or multi-material runs that show corrosion, low flow, and pinhole leaks along long exterior runs. On small rural lots and manufactured homes, access to supply lines can be through crawlspaces or exposed utility runs, so repairs require crews familiar with local construction, older plaster and stucco walls, and the farm-style setups along the Santa Cruz River corridor. We diagnose leaks with an eye for minimizing yard and landscape disruption-important where agricultural equipment and irrigation lines are present."
       },
       {
             "type": "paragraph",
-            "content": "Common Rillito scenarios include low cold-water pressure after a long dry season (sediment-clogged service filters), noisy water heaters from mineral buildup, and pressure fluctuations when irrigation systems start. For homeowners in zip code 85654, repair calls often reveal scale in showerheads, ruined washing machine hoses, and failing pressure switches on well pumps. Because many properties are larger and more spread out than urban lots, running new lines or replacing a water service can be more labor-intensive\u2014our price estimates for 85654 projects reflect longer trenching, additional fittings, and time to reach remote wellheads."
+            "content": "Common Rillito scenarios include low cold-water pressure after a long dry season (sediment-clogged service filters), noisy water heaters from mineral buildup, and pressure fluctuations when irrigation systems start. For homeowners in zip code 85654, repair calls often reveal scale in showerheads, ruined washing machine hoses, and failing pressure switches on well pumps. Because many properties are larger and more spread out than urban lots, running new lines or replacing a water service can be more labor-intensive-our price estimates for 85654 projects reflect longer trenching, additional fittings, and time to reach remote wellheads."
       },
       {
             "type": "cta",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Because most Rillito wells pull water with very high mineral content, a standard water-softener plus pre-filtration is necessary to protect plumbing and appliances. In many 1970s-1990s homes and manufactured residences along the Marana border area, softener sizing must account for multiple high-demand fixtures and irrigation backflow devices. We commonly recommend a two-stage approach: a backwashing sediment filter sized for dusty agricultural runoff, followed by a salt-based or template-assisted crystallization softener to reduce scale. For homeowners on large lots who also run drip irrigation or livestock systems, custom bypass valves and dedicated irrigation filters prevent unnecessary softening of outdoor water while protecting indoor systems. Installation costs for 85654 typically vary by well depth, required electrical connections, and available space for tanks and brine tanks\u2014most installs fall in the $1,200\u2013$3,500 range depending on options."
+            "content": "Because most Rillito wells pull water with very high mineral content, a standard water-softener plus pre-filtration is necessary to protect plumbing and appliances. In many 1970s-1990s homes and manufactured residences along the Marana border area, softener sizing must account for multiple high-demand fixtures and irrigation backflow devices. We commonly recommend a two-stage approach: a backwashing sediment filter sized for dusty agricultural runoff, followed by a salt-based or template-assisted crystallization softener to reduce scale. For homeowners on large lots who also run drip irrigation or livestock systems, custom bypass valves and dedicated irrigation filters prevent unnecessary softening of outdoor water while protecting indoor systems. Installation costs for 85654 typically vary by well depth, required electrical connections, and available space for tanks and brine tanks-most installs fall in the $1,200\u2013$3,500 range depending on options."
       },
       {
             "type": "paragraph",
-            "content": "We also install whole-house carbon filtration or UV sterilization where wells show organic content or seasonal runoff near the Santa Cruz River. UV units protect against bacterial spikes after heavy irrigation or seasonal storms that move sediment from fields into shallow wells. For manufactured homes, compact systems and wall-mounted controllers keep footprint small and serviceable. Our technicians document pre- and post-installation water hardness and provide maintenance plans\u2014Rillito\u2019s dusty conditions mean filters and pre-screens need more frequent attention than suburban installations closer to Tucson proper."
+            "content": "We also install whole-house carbon filtration or UV sterilization where wells show organic content or seasonal runoff near the Santa Cruz River. UV units protect against bacterial spikes after heavy irrigation or seasonal storms that move sediment from fields into shallow wells. For manufactured homes, compact systems and wall-mounted controllers keep footprint small and serviceable. Our technicians document pre- and post-installation water hardness and provide maintenance plans-Rillito\u2019s dusty conditions mean filters and pre-screens need more frequent attention than suburban installations closer to Tucson proper."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work across Rillito proper, the Marana border area, and the Santa Cruz River corridor\u2014fields, ranches, and quiet residential clusters. Landmarks like Rillito Park Racetrack and the agricultural parcels around it define local traffic patterns; our crews schedule visits to avoid peak community events and farm operations. For older homes near the racetrack and along the riverbanks, access points and pipe materials differ from newer Marana developments; we bring the parts and experience to match. If you maintain a family orchard or operate seasonal irrigation pumps, we coordinate with you to schedule service in non-irrigation windows to limit crop stress and water disruption."
+            "content": "We work across Rillito proper, the Marana border area, and the Santa Cruz River corridor-fields, ranches, and quiet residential clusters. Landmarks like Rillito Park Racetrack and the agricultural parcels around it define local traffic patterns; our crews schedule visits to avoid peak community events and farm operations. For older homes near the racetrack and along the riverbanks, access points and pipe materials differ from newer Marana developments; we bring the parts and experience to match. If you maintain a family orchard or operate seasonal irrigation pumps, we coordinate with you to schedule service in non-irrigation windows to limit crop stress and water disruption."
       },
       {
             "type": "cta",
@@ -112,11 +112,11 @@ highlights: [
     faqs: [
     {
         "question": "How bad is Rillito well water and do I need a softener?",
-        "answer": "Rillito wells typically test above 240 ppm hardness, which causes scale buildup in heaters, valves, and fixtures. For most homes in zip code 85654\u2014especially those built in the 1970s\u20131990s and manufactured homes\u2014a water softener plus a sediment pre-filter is recommended. Softening protects plumbing and extends appliance life; we also test for iron and manganese common near the Santa Cruz River corridor. After a site visit we provide a hardness reading, system recommendation, and a local maintenance schedule, factoring in dust and agricultural runoff that increase filter replacement frequency."
+        "answer": "Rillito wells typically test above 240 ppm hardness, which causes scale buildup in heaters, valves, and fixtures. For most homes in zip code 85654-especially those built in the 1970s\u20131990s and manufactured homes-a water softener plus a sediment pre-filter is recommended. Softening protects plumbing and extends appliance life; we also test for iron and manganese common near the Santa Cruz River corridor. After a site visit we provide a hardness reading, system recommendation, and a local maintenance schedule, factoring in dust and agricultural runoff that increase filter replacement frequency."
     },
     {
         "question": "Are galvanized pipes common in Rillito and should they be replaced?",
-        "answer": "Yes\u2014many Rillito homes from the 1970s and 1980s contain galvanized service lines or interior runs that corrode, reduce flow, and create rust-colored water. Partial repipes are common when damage is localized; full repipes are often recommended if multiple fittings and sections show heavy pitting. We provide estimates that reflect Rillito lot sizes and typical access routes to wells and basements."
+        "answer": "Yes-many Rillito homes from the 1970s and 1980s contain galvanized service lines or interior runs that corrode, reduce flow, and create rust-colored water. Partial repipes are common when damage is localized; full repipes are often recommended if multiple fittings and sections show heavy pitting. We provide estimates that reflect Rillito lot sizes and typical access routes to wells and basements."
     },
     {
         "question": "How much does a repipe cost in zip code 85654?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "Can irrigation and household water be separated to save on softener use?",
-        "answer": "Yes\u2014many Rillito properties benefit from a dual-line arrangement that keeps irrigation water unsoftened while protecting indoor plumbing. Given the agricultural use and large lots in 85654, this saves salt and reduces maintenance. We install dedicated irrigation filters and backflow prevention to meet local code and protect wells."
+        "answer": "Yes-many Rillito properties benefit from a dual-line arrangement that keeps irrigation water unsoftened while protecting indoor plumbing. Given the agricultural use and large lots in 85654, this saves salt and reduces maintenance. We install dedicated irrigation filters and backflow prevention to meet local code and protect wells."
     },
     {
         "question": "What should Rillito homeowners expect after a heavy dust season?",
@@ -140,7 +140,7 @@ highlights: [
     },
     {
         "question": "Will a water test show contaminants from nearby agricultural activity?",
-        "answer": "Occasionally\u2014shallow wells near the Santa Cruz River or irrigated fields can show nitrate spikes or organic material after heavy irrigation or runoff. We perform comprehensive testing when requested and recommend targeted solutions like carbon filtration or UV if microbial or chemical contaminants are present."
+        "answer": "Occasionally-shallow wells near the Santa Cruz River or irrigated fields can show nitrate spikes or organic material after heavy irrigation or runoff. We perform comprehensive testing when requested and recommend targeted solutions like carbon filtration or UV if microbial or chemical contaminants are present."
     }
 ]
   },

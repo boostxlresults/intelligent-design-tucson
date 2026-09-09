@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Pinal County code and I-10 corridor expertise",
-    "description": "New subdivisions and Pinal County developments follow different permitting and inspection rules than Pima County\u2014our crews are fluent in local requirements along the I-10 corridor and in neighborhoods like Mission Royale and Coyote Ranch."
+    "description": "New subdivisions and Pinal County developments follow different permitting and inspection rules than Pima County-our crews are fluent in local requirements along the I-10 corridor and in neighborhoods like Mission Royale and Coyote Ranch."
   },
   {
     "title": "Roof and attic strategies for tile and foam roofs",
@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Local utility and solar-aware installs",
-    "description": "We design systems with APS/SRP grid realities and the area's exceptional solar potential\u2014equipment choices reflect how heat pump operation and solar production interact in high-heat months."
+    "description": "We design systems with APS/SRP grid realities and the area's exceptional solar potential-equipment choices reflect how heat pump operation and solar production interact in high-heat months."
   },
   {
     "title": "Price context for Red Rock & Casa Grande homeowners",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Red Rock & Casa Grande sits at roughly 1,400 feet and is one of the hottest pockets in our service area\u2014summer highs commonly top 115\u00b0F with much lower monsoon rainfall than Tucson. That dry, high-heat environment means HVAC systems work harder year-round and any inefficiency accelerates wear. In zip codes 85145, 85122, and 85193 we prioritize two-stage and variable-speed heat pumps and furnaces paired with precise load calculations to avoid short-cycling. Tile roofs (about 60% of local homes) and flat/foam roofing (about 30%) trap solar gain differently; sealed attics, reflective barriers, and correctly routed ductwork reduce heat transfer into living spaces. For homeowners in newer subdivisions and retirement communities\u2014where single-story plans and ranch-style layouts dominate\u2014we focus on zoned comfort and matched equipment to achieve efficiency gains that pay back quickly in cooling season savings."
+            "content": "Red Rock & Casa Grande sits at roughly 1,400 feet and is one of the hottest pockets in our service area-summer highs commonly top 115\u00b0F with much lower monsoon rainfall than Tucson. That dry, high-heat environment means HVAC systems work harder year-round and any inefficiency accelerates wear. In zip codes 85145, 85122, and 85193 we prioritize two-stage and variable-speed heat pumps and furnaces paired with precise load calculations to avoid short-cycling. Tile roofs (about 60% of local homes) and flat/foam roofing (about 30%) trap solar gain differently; sealed attics, reflective barriers, and correctly routed ductwork reduce heat transfer into living spaces. For homeowners in newer subdivisions and retirement communities-where single-story plans and ranch-style layouts dominate-we focus on zoned comfort and matched equipment to achieve efficiency gains that pay back quickly in cooling season savings."
       },
       {
             "type": "paragraph",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Smaller, targeted retrofits\u2014like high-efficiency ECM blowers, smart thermostats tuned to APS/SRP time-of-use signals, or enhanced air filtration to combat dust from transitioning agricultural lands\u2014can often be completed for a few hundred to a couple thousand dollars and produce immediate comfort and efficiency benefits."
+            "content": "Smaller, targeted retrofits-like high-efficiency ECM blowers, smart thermostats tuned to APS/SRP time-of-use signals, or enhanced air filtration to combat dust from transitioning agricultural lands-can often be completed for a few hundred to a couple thousand dollars and produce immediate comfort and efficiency benefits."
       },
       {
             "type": "heading",
@@ -93,12 +93,12 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our work in Red Rock & Casa Grande touches local character\u2014from service calls near the Casa Grande Ruins National Monument and Francisco Grande Hotel to ongoing maintenance in downtown Casa Grande and Pinal County developments pushing north from the agricultural belt. We know families grabbing dinner after youth soccer by Nic's Italian Steak & Crab House or retirees in local communities need predictable indoor comfort. Picacho Peak and the Red Rock area affect morning temperature inversions and wind patterns that change overnight heat loss; our techs calibrate controls accordingly. We also coordinate with homeowners replacing roofs (tile or foam) and plan for solar-ready HVAC locations to capitalize on the region's exceptional sun hours while mitigating efficiency loss on the hottest days."
+            "content": "Our work in Red Rock & Casa Grande touches local character-from service calls near the Casa Grande Ruins National Monument and Francisco Grande Hotel to ongoing maintenance in downtown Casa Grande and Pinal County developments pushing north from the agricultural belt. We know families grabbing dinner after youth soccer by Nic's Italian Steak & Crab House or retirees in local communities need predictable indoor comfort. Picacho Peak and the Red Rock area affect morning temperature inversions and wind patterns that change overnight heat loss; our techs calibrate controls accordingly. We also coordinate with homeowners replacing roofs (tile or foam) and plan for solar-ready HVAC locations to capitalize on the region's exceptional sun hours while mitigating efficiency loss on the hottest days."
       },
       {
             "type": "cta",
             "heading": "Ready to optimize heating in Red Rock & Casa Grande?",
-            "content": "Contact our local team to schedule an inspection, get an upfront estimate, or discuss upgrades that match Pinal County codes and your neighborhood\u2019s construction\u2014whether you\u2019re in 85145, 85122, or 85193.",
+            "content": "Contact our local team to schedule an inspection, get an upfront estimate, or discuss upgrades that match Pinal County codes and your neighborhood\u2019s construction-whether you\u2019re in 85145, 85122, or 85193.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       }
@@ -116,7 +116,7 @@ highlights: [
     },
     {
         "question": "How often should I service my heating system in 85145/85122/85193?",
-        "answer": "We recommend twice-yearly HVAC checkups\u2014spring for cooling prep and fall for heating checks\u2014because the intense summer load accelerates component wear. If your system is 10+ years old or shows longer run-times, schedule an inspection sooner."
+        "answer": "We recommend twice-yearly HVAC checkups-spring for cooling prep and fall for heating checks-because the intense summer load accelerates component wear. If your system is 10+ years old or shows longer run-times, schedule an inspection sooner."
     },
     {
         "question": "Are heat pumps a good choice for Casa Grande winters?",
@@ -153,11 +153,11 @@ highlights: [
     },
     {
         "question": "Refinement Q2",
-        "answer": "Should we include seasonal messaging tied to local events or landmark-based targeting\u2014like servicing before Casa Grande\u2019s annual events or coordinating work near Picacho Peak and Francisco Grande Hotel to highlight local familiarity?"
+        "answer": "Should we include seasonal messaging tied to local events or landmark-based targeting-like servicing before Casa Grande\u2019s annual events or coordinating work near Picacho Peak and Francisco Grande Hotel to highlight local familiarity?"
     },
     {
         "question": "Refinement Q3",
-        "answer": "Would you like technology-focused content\u2014smart thermostats, APS/SRP time-of-use strategies, and solar-integrated control systems\u2014explained in homeowner-friendly terms for the younger families moving into local subdivisions?"
+        "answer": "Would you like technology-focused content-smart thermostats, APS/SRP time-of-use strategies, and solar-integrated control systems-explained in homeowner-friendly terms for the younger families moving into local subdivisions?"
     },
     {
         "question": "Refinement Q4",

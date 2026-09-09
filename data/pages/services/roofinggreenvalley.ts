@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Value Pricing for Fixed-Income Residents",
-    "description": "With a median age of 72, many clients are on fixed incomes \u2014 we provide transparent estimates and phased repair plans to fit budgets."
+    "description": "With a median age of 72, many clients are on fixed incomes - we provide transparent estimates and phased repair plans to fit budgets."
   },
   {
     "title": "Frost & Elevation-Smart Solutions",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Local Warranty and Rapid Response",
-    "description": "Serving 85614 and 85622, we offer prompt inspections and HOA-ready paperwork \u2014 essential for active adult neighborhoods with many on-site managers."
+    "description": "Serving 85614 and 85622, we offer prompt inspections and HOA-ready paperwork - essential for active adult neighborhoods with many on-site managers."
   }
 ],
   content: {
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Green Valley homeowners face a distinct roofing picture: a high concentration of single-story retirement homes, many with tile roofs installed in the 1980s and 1990s, and a significant number of flat-roof homes in active adult communities like Canoa Ranch and Continental Vistas. At 2,900 feet elevation the winters are slightly cooler than Tucson and occasional frost can accelerate wear on older underlayment and flashing systems. Our roof repairs focus on the issues you actually see here \u2014 slipped tiles after monsoon gusts, degraded underlayment under clay or concrete tiles, cracked shingle sections on infrequent asphalt roofs, and ponding on low-slope sections. Because many properties are under HOA oversight (La Posada, Desert Hills, Las Campanas), we document work clearly and match tile color and mortar style to avoid compliance delays. For homeowners on fixed incomes we offer phased repair plans so urgent leaks are fixed first and aesthetic upgrades can be spread over time."
+            "content": "Green Valley homeowners face a distinct roofing picture: a high concentration of single-story retirement homes, many with tile roofs installed in the 1980s and 1990s, and a significant number of flat-roof homes in active adult communities like Canoa Ranch and Continental Vistas. At 2,900 feet elevation the winters are slightly cooler than Tucson and occasional frost can accelerate wear on older underlayment and flashing systems. Our roof repairs focus on the issues you actually see here - slipped tiles after monsoon gusts, degraded underlayment under clay or concrete tiles, cracked shingle sections on infrequent asphalt roofs, and ponding on low-slope sections. Because many properties are under HOA oversight (La Posada, Desert Hills, Las Campanas), we document work clearly and match tile color and mortar style to avoid compliance delays. For homeowners on fixed incomes we offer phased repair plans so urgent leaks are fixed first and aesthetic upgrades can be spread over time."
       },
       {
             "type": "paragraph",
-            "content": "Pricing context specific to Green Valley: small leak repairs often start in the $300\u2013$900 range when flashing or a few tiles are involved. Full re-roofs for a typical single-story home (1,200\u20131,800 sq ft common in these retirement communities) vary by roof type \u2014 asphalt shingle re-roofs commonly range $4,000\u2013$9,000, while tile roof replacements typically fall between $7,000\u2013$18,000 depending on whether original underlayment from the 1980s\u201390s must be removed and replaced. Many older tile roofs require underlayment upgrades; expect an additional $2,000\u2013$5,000 when that work is necessary. We provide written, itemized estimates by zip code (85614 and 85622) and offer options to meet both HOA specs and fixed-budget needs."
+            "content": "Pricing context specific to Green Valley: small leak repairs often start in the $300\u2013$900 range when flashing or a few tiles are involved. Full re-roofs for a typical single-story home (1,200\u20131,800 sq ft common in these retirement communities) vary by roof type - asphalt shingle re-roofs commonly range $4,000\u2013$9,000, while tile roof replacements typically fall between $7,000\u2013$18,000 depending on whether original underlayment from the 1980s\u201390s must be removed and replaced. Many older tile roofs require underlayment upgrades; expect an additional $2,000\u2013$5,000 when that work is necessary. We provide written, itemized estimates by zip code (85614 and 85622) and offer options to meet both HOA specs and fixed-budget needs."
       },
       {
             "type": "cta",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tile roofs dominate in neighborhoods like La Posada and Desert Hills where original builders chose clay or concrete tiles for longevity and appearance. But decades in sun and occasional frost exposure can make older underlayment brittle and flashings vulnerable; that\u2019s why we test for underlayment failure and re-seal with materials designed for Green Valley\u2019s diurnal temperature swings. In Canoa Ranch and many HOA communities we also see a concentration of low-profile, single-story footprints where gutters and downspouts are close to landscaped areas\u2014clogging from mesquite and palo verde can trap moisture and damage fascia. Our crews install HOA-acceptable tile replacements, re-bedding, and use concealed fasteners per association guidelines. For flat roofs in Continental Vistas and Las Campanas we prioritize drainage remediation and durable membrane systems that handle summer monsoon runoff without disrupting nearby recreation center activities or pathways."
+            "content": "Tile roofs dominate in neighborhoods like La Posada and Desert Hills where original builders chose clay or concrete tiles for longevity and appearance. But decades in sun and occasional frost exposure can make older underlayment brittle and flashings vulnerable; that\u2019s why we test for underlayment failure and re-seal with materials designed for Green Valley\u2019s diurnal temperature swings. In Canoa Ranch and many HOA communities we also see a concentration of low-profile, single-story footprints where gutters and downspouts are close to landscaped areas-clogging from mesquite and palo verde can trap moisture and damage fascia. Our crews install HOA-acceptable tile replacements, re-bedding, and use concealed fasteners per association guidelines. For flat roofs in Continental Vistas and Las Campanas we prioritize drainage remediation and durable membrane systems that handle summer monsoon runoff without disrupting nearby recreation center activities or pathways."
       },
       {
             "type": "paragraph",
-            "content": "We also help homeowners evaluate solar-ready options: Green Valley\u2019s single-story layout, minimal shading from surrounding buildings, and reliable TEP/TRICO grid make many properties excellent candidates for solar and roof-integrated PV systems. When a roof is near the end of its service life we recommend completing replacement before solar installation to avoid panel removal costs. For residents worried about initial expense, we offer phased planning and coordinate with local installers to size systems that reduce monthly energy costs\u2014helpful for fixed-income households and retirees watching budgets. All work is documented for HOAs, and we handle permit coordination for 85614 and 85622 to keep projects moving smoothly."
+            "content": "We also help homeowners evaluate solar-ready options: Green Valley\u2019s single-story layout, minimal shading from surrounding buildings, and reliable TEP/TRICO grid make many properties excellent candidates for solar and roof-integrated PV systems. When a roof is near the end of its service life we recommend completing replacement before solar installation to avoid panel removal costs. For residents worried about initial expense, we offer phased planning and coordinate with local installers to size systems that reduce monthly energy costs-helpful for fixed-income households and retirees watching budgets. All work is documented for HOAs, and we handle permit coordination for 85614 and 85622 to keep projects moving smoothly."
       },
       {
             "type": "heading",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Refinement Q1 for Roofing in Green Valley",
-        "answer": "Do you prefer to replace underlayment when repairing older tile roofs? Yes \u2014 in Green Valley the safest approach with 1980s\u201390s tile is to inspect and often replace underlayment during tile work. Frost and UV exposure at 2,900 ft accelerate underlayment degradation; replacing it prevents return visits and protects your investment. We\u2019ll provide an itemized option so homeowners can weigh immediate cost vs. long-term risk."
+        "answer": "Do you prefer to replace underlayment when repairing older tile roofs? Yes - in Green Valley the safest approach with 1980s\u201390s tile is to inspect and often replace underlayment during tile work. Frost and UV exposure at 2,900 ft accelerate underlayment degradation; replacing it prevents return visits and protects your investment. We\u2019ll provide an itemized option so homeowners can weigh immediate cost vs. long-term risk."
     },
     {
         "question": "Refinement Q2",

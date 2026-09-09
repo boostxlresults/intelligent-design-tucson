@@ -5,7 +5,7 @@ import { acRepairFAQs } from '@/data/faqs/hvac';
 export const acrepairData: ServicePageData = {
   // SEO & Meta
   title: 'AC Repair Tucson AZ | 24/7 Emergency Service | 53-Min Response | Intelligent Design',
-  description: 'Tucson\\\'s highest-rated AC repair - 4.97 stars from 23,000+ reviews. 53-minute average response, $150–$450 most repairs, no overtime charges.',
+  description: 'Tucson\'s highest-rated AC repair - 4.97 stars from 23,000+ reviews. 53-minute average response, $150–$450 most repairs, no overtime charges.',
   slug: 'ac-repair-tucson',
   
   // Hero Section
@@ -110,7 +110,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When your AC stops working entirely, it could be an electrical issue, a blown capacitor, or a thermostat failure. Don\u2019t sweat it \u2014 Intelligent Design dispatches a licensed tech to your door the same day. We fix all AC brands."
+            "content": "When your AC stops working entirely, it could be an electrical issue, a blown capacitor, or a thermostat failure. Don\u2019t sweat it - Intelligent Design dispatches a licensed tech to your door the same day. We fix all AC brands."
       },
       {
             "type": "heading",
@@ -120,7 +120,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call us \u2014 we\u2019ll fix it today."
+            "content": "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call us - we\u2019ll fix it today."
       },
       {
             "type": "heading",
@@ -140,7 +140,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Need [link:/services/emergency-ac-repair-tucson|emergency AC repair]? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast \u2014 average response time is 53 minutes. No overtime charges, ever. Call now for emergency AC repair."
+            "content": "Need [link:/services/emergency-ac-repair-tucson|emergency AC repair]? Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast - average response time is 53 minutes. No overtime charges, ever. Call now for emergency AC repair."
       },
       {
             "type": "heading",

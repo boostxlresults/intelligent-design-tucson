@@ -17,7 +17,7 @@ export const roofinggladdenfarmsData: ServicePageData = {
 highlights: [
   {
     "title": "Local Expertise",
-    "description": "We know Gladden Farms microclimate \u2014 hotter summers, monsoon storms and new-community construction nuances. Our technicians tailor repairs and installations to protect homes built in the 2010s\u20132020s."
+    "description": "We know Gladden Farms microclimate - hotter summers, monsoon storms and new-community construction nuances. Our technicians tailor repairs and installations to protect homes built in the 2010s\u20132020s."
   },
   {
     "title": "46+ Years Experience",
@@ -25,7 +25,7 @@ highlights: [
   },
   {
     "title": "Quality Materials",
-    "description": "We install industry-standard tile, shingle, flat systems and protective roof coatings designed for high-heat, sun-exposed Arizona roofs \u2014 metal roofing is not part of our offerings."
+    "description": "We install industry-standard tile, shingle, flat systems and protective roof coatings designed for high-heat, sun-exposed Arizona roofs - metal roofing is not part of our offerings."
   },
   {
     "title": "HOA-Savvy Service",
@@ -55,7 +55,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Newer construction in Gladden Farms can show builder shortcuts: thin or single-layer underlayment, minimal or improperly installed flashing around chimneys, vents and roof-to-wall transitions, and sometimes insufficient attention to roof penetrations. These issues are often hidden beneath tile or shingles until leaks appear during monsoon rains. Warranty navigation becomes a critical service \u2014 we help homeowners document defects, inspect installations for workmanship problems, and communicate with builders or manufacturers to pursue warranty claims. Heat also affects adhesive seals and fasteners; exposed nails and degraded seals create entry points for water. For flat roofs, ponding can occur on shorter roof runs or where roof drains are clogged or undersized. Proactive maintenance, targeted upgrades like improved underlayment or additional flashing, and professional coating applications can extend service life and restore protection."
+        "content": "Newer construction in Gladden Farms can show builder shortcuts: thin or single-layer underlayment, minimal or improperly installed flashing around chimneys, vents and roof-to-wall transitions, and sometimes insufficient attention to roof penetrations. These issues are often hidden beneath tile or shingles until leaks appear during monsoon rains. Warranty navigation becomes a critical service - we help homeowners document defects, inspect installations for workmanship problems, and communicate with builders or manufacturers to pursue warranty claims. Heat also affects adhesive seals and fasteners; exposed nails and degraded seals create entry points for water. For flat roofs, ponding can occur on shorter roof runs or where roof drains are clogged or undersized. Proactive maintenance, targeted upgrades like improved underlayment or additional flashing, and professional coating applications can extend service life and restore protection."
     },
     {
         "type": "cta",
@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "As an active member of the community around Gladden Farms Phase I, Phase II and The Preserve at Gladden Farms, we understand neighborhood rhythms \u2014 from activities at Gladden Farms Community Park to traffic on the Tangerine Road corridor and trails near Marana Heritage River Park. We schedule service to minimize disruption to families, coordinate with HOAs for aesthetic approvals, and provide written reports you can use for resale or insurance claims. Our local crews are familiar with phase-specific builder practices and common problem spots, so we can advise homeowners and HOA boards on preventive programs, group maintenance plans, and community-wide roofing priorities to protect property values and curb appeal."
+        "content": "As an active member of the community around Gladden Farms Phase I, Phase II and The Preserve at Gladden Farms, we understand neighborhood rhythms - from activities at Gladden Farms Community Park to traffic on the Tangerine Road corridor and trails near Marana Heritage River Park. We schedule service to minimize disruption to families, coordinate with HOAs for aesthetic approvals, and provide written reports you can use for resale or insurance claims. Our local crews are familiar with phase-specific builder practices and common problem spots, so we can advise homeowners and HOA boards on preventive programs, group maintenance plans, and community-wide roofing priorities to protect property values and curb appeal."
     },
     {
         "type": "cta",

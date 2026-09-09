@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Heat pump conversions",
-    "description": "At 2,900 ft elevation with cooler nights, heat pump conversions are efficient for Green Valley\u2019s climate \u2014 popular in single-story homes and active adult communities."
+    "description": "At 2,900 ft elevation with cooler nights, heat pump conversions are efficient for Green Valley\u2019s climate - popular in single-story homes and active adult communities."
   },
   {
     "title": "HOA and tile-roof experience",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Green Valley sits at about 2,900 feet and is noticeably cooler than central Tucson, a micro-climate that changes how heating and cooling systems perform. Frost can appear on winter mornings, so systems that sit idle for months in retirement homes can suffer from seals drying and condensate lines clogging. Many Green Valley residences are single-story, built from the 1970s through the 2000s, and commonly feature tile or flat roofs and moderate attic space. These construction traits affect duct routing, equipment location, and access for service. Because the community includes a high percentage of active adult developments and HOA-maintained properties, we tailor proposals for minimal disruption, roof-safe mounts for outdoor units, and long-term efficiency upgrades\u2014often recommending heat pump conversions and duct sealing to reduce operating costs for residents on fixed incomes in 85614 and 85622."
+            "content": "Green Valley sits at about 2,900 feet and is noticeably cooler than central Tucson, a micro-climate that changes how heating and cooling systems perform. Frost can appear on winter mornings, so systems that sit idle for months in retirement homes can suffer from seals drying and condensate lines clogging. Many Green Valley residences are single-story, built from the 1970s through the 2000s, and commonly feature tile or flat roofs and moderate attic space. These construction traits affect duct routing, equipment location, and access for service. Because the community includes a high percentage of active adult developments and HOA-maintained properties, we tailor proposals for minimal disruption, roof-safe mounts for outdoor units, and long-term efficiency upgrades-often recommending heat pump conversions and duct sealing to reduce operating costs for residents on fixed incomes in 85614 and 85622."
       },
       {
             "type": "paragraph",
-            "content": "Common scenarios we encounter: a 1978-built ranch near Green Valley Recreation centers with original R-22 refrigerant needing a compressor swap; a La Posada condo with undersized ductwork and comfort complaints; or a Canoa Ranch house where a 1990s AC drops chilled airflow during late-afternoon birding trips to Madera Canyon. We prioritize value-based fixes over premature replacements and give clear estimates that reflect local labor, HOA constraints, and the typical roof types\u2014tile (65%), flat (25%), shingle (10%)\u2014so homeowners know whether a repair is a year-long fix or if a replacement yields better savings."
+            "content": "Common scenarios we encounter: a 1978-built ranch near Green Valley Recreation centers with original R-22 refrigerant needing a compressor swap; a La Posada condo with undersized ductwork and comfort complaints; or a Canoa Ranch house where a 1990s AC drops chilled airflow during late-afternoon birding trips to Madera Canyon. We prioritize value-based fixes over premature replacements and give clear estimates that reflect local labor, HOA constraints, and the typical roof types-tile (65%), flat (25%), shingle (10%)-so homeowners know whether a repair is a year-long fix or if a replacement yields better savings."
       },
       {
             "type": "cta",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Financing and incentive planning is a frequent follow-up with homeowners in 85614 and 85622. We guide residents through federal tax credits, utility rebates where available, and practical trade-offs\u2014like improving thermostat controls, adding zoned dampers for smaller footprints, or combining a partial system replacement with a solar assessment to maximize long-term savings under TEP or Trico service models."
+            "content": "Financing and incentive planning is a frequent follow-up with homeowners in 85614 and 85622. We guide residents through federal tax credits, utility rebates where available, and practical trade-offs-like improving thermostat controls, adding zoned dampers for smaller footprints, or combining a partial system replacement with a solar assessment to maximize long-term savings under TEP or Trico service models."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Our relationship with Green Valley goes beyond service calls. We regularly work inside La Posada and Las Campanas, coordinate with property managers at Green Valley Recreation centers, and schedule around community events and maintenance windows. We know the local landmarks\u2014Madera Canyon birding trails, Titan Missile Museum, and Tubac\u2019s artist colony attract residents and visitors\u2014and we plan service visits to respect quiet hours and HOA rules. We also consider local water hardness (150\u2013180 ppm) when inspecting humidifiers or systems with hydronic components, and we keep an eye on older underground electrical setups common in some neighborhoods when installing condensers or ATS for solar-ready systems."
+            "content": "Our relationship with Green Valley goes beyond service calls. We regularly work inside La Posada and Las Campanas, coordinate with property managers at Green Valley Recreation centers, and schedule around community events and maintenance windows. We know the local landmarks-Madera Canyon birding trails, Titan Missile Museum, and Tubac\u2019s artist colony attract residents and visitors-and we plan service visits to respect quiet hours and HOA rules. We also consider local water hardness (150\u2013180 ppm) when inspecting humidifiers or systems with hydronic components, and we keep an eye on older underground electrical setups common in some neighborhoods when installing condensers or ATS for solar-ready systems."
       },
       {
             "type": "cta",

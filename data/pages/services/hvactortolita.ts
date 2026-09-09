@@ -55,7 +55,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Local challenges in Tortolita go beyond temperature. The premium homes here require quiet operation and seamless smart integration so indoor comfort doesn\u2019t disturb a tranquil desert setting. Dust, fine mineral particles, and desert debris accumulate faster on coils and in ductwork, reducing efficiency and increasing wear on components; well-planned filtration and scheduled cleanings are essential. Multi-zone systems need careful airflow balancing and zoning controls tuned to larger, open floor plans and rooms with vaulted ceilings. Outdoor units must be sited to avoid wildlife interference and to respect landscaping and HOA guidelines common in Dove Mountain and Stone Canyon communities. Corrosion protection, UV-resistant components, and vibration isolation help extend equipment life. Our technicians provide tailored solutions\u2014calibration of controls, duct sealing, and low-noise installation techniques\u2014to meet the high expectations of Tortolita homeowners."
+        "content": "Local challenges in Tortolita go beyond temperature. The premium homes here require quiet operation and seamless smart integration so indoor comfort doesn\u2019t disturb a tranquil desert setting. Dust, fine mineral particles, and desert debris accumulate faster on coils and in ductwork, reducing efficiency and increasing wear on components; well-planned filtration and scheduled cleanings are essential. Multi-zone systems need careful airflow balancing and zoning controls tuned to larger, open floor plans and rooms with vaulted ceilings. Outdoor units must be sited to avoid wildlife interference and to respect landscaping and HOA guidelines common in Dove Mountain and Stone Canyon communities. Corrosion protection, UV-resistant components, and vibration isolation help extend equipment life. Our technicians provide tailored solutions-calibration of controls, duct sealing, and low-noise installation techniques-to meet the high expectations of Tortolita homeowners."
     },
     {
         "type": "cta",
@@ -76,7 +76,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "We are invested in the Tortolita community\u2014Stone Canyon, Dove Mountain estates, and Tortolita Highlands are neighborhoods we service regularly. That local presence means faster response times and technicians who know HOA guidelines, access constraints on larger lots, and how to protect custom desert landscaping during installations. We coordinate with homeowners and property managers for convenient scheduling and communicate clearly about project impacts. Our ongoing maintenance agreements are designed to fit lifestyle needs, from seasonal tune-ups to priority emergency service. We also support smart home setups and educate residents on system operation, energy tips for elevation and shade patterns, and how to keep equipment performing reliably year-round. Our goal is long-term comfort, efficiency, and peace of mind for Tortolita homeowners."
+        "content": "We are invested in the Tortolita community-Stone Canyon, Dove Mountain estates, and Tortolita Highlands are neighborhoods we service regularly. That local presence means faster response times and technicians who know HOA guidelines, access constraints on larger lots, and how to protect custom desert landscaping during installations. We coordinate with homeowners and property managers for convenient scheduling and communicate clearly about project impacts. Our ongoing maintenance agreements are designed to fit lifestyle needs, from seasonal tune-ups to priority emergency service. We also support smart home setups and educate residents on system operation, energy tips for elevation and shade patterns, and how to keep equipment performing reliably year-round. Our goal is long-term comfort, efficiency, and peace of mind for Tortolita homeowners."
     },
     {
         "type": "cta",
@@ -97,7 +97,7 @@ highlights: [
     },
     {
         "question": "How often should Tortolita homeowners schedule HVAC maintenance?",
-        "answer": "We recommend seasonal maintenance twice a year\u2014spring for cooling and fall for heating\u2014to keep systems efficient and catch issues early. Homes near the foothills with higher dust exposure may benefit from additional filter checks and coil cleanings."
+        "answer": "We recommend seasonal maintenance twice a year-spring for cooling and fall for heating-to keep systems efficient and catch issues early. Homes near the foothills with higher dust exposure may benefit from additional filter checks and coil cleanings."
     },
     {
         "question": "Can you install multi-zone systems for larger Tortolita properties?",

@@ -149,11 +149,11 @@ export const vailData: LocationPageData = {
             "type": "paragraph",
             "content": "With larger properties and a rural setting, Vail is popular among horse enthusiasts. Many properties feature equestrian facilities, and the area's wide-open spaces are perfect for riding and enjoying the Arizona desert."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Vail", "level": 2, "content": "Local Community Guide \u2014 Vail"},
+            {"type": "heading", "heading": "Local Community Guide - Vail", "level": 2, "content": "Local Community Guide - Vail"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Colossal Cave Mountain Park, Old Pueblo Hall, Rio Vista Labyrinth, Historic Canoa Ranch, Rincon Mountain Visitor Center. Whether you live near these landmarks or anywhere in Vail, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, The Rattler at del Lago, Montgomery's Grill & Saloon, Fat Willy's. When you need home services in Vail, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Tito and Pep, The Rattler at del Lago, Montgomery's Grill & Saloon, Fat Willy's. When you need home services in Vail, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

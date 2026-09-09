@@ -151,7 +151,7 @@ export const sewerCameraInspectionFAQs: ServiceFAQs = {
     },
     {
       question: "What happens if the camera finds a problem?",
-      answer: "If problems are found, we'll explain the issue clearly, discuss your options, and provide upfront pricing for recommended repairs. There's no obligation—the inspection simply provides information to make informed decisions. Many issues can be addressed with trenchless methods that minimize disruption."
+      answer: "If problems are found, we'll explain the issue clearly, discuss your options, and provide upfront pricing for recommended repairs. There's no obligation-the inspection simply provides information to make informed decisions. Many issues can be addressed with trenchless methods that minimize disruption."
     },
     {
       question: "Can camera inspection help prevent future problems?",
@@ -386,7 +386,7 @@ export const hybridWaterHeatersFAQs: ServiceFAQs = {
     },
     {
       question: "What are the space requirements for hybrid water heaters?",
-      answer: "Hybrid water heaters require adequate air space around the unit for the heat pump to function—typically a 12' x 12' x 7' minimum air volume. They work best in garages, utility rooms, or basements with good air circulation. Units also produce cool, dehumidified air as a byproduct, which benefits Tucson garages."
+      answer: "Hybrid water heaters require adequate air space around the unit for the heat pump to function-typically a 12' x 12' x 7' minimum air volume. They work best in garages, utility rooms, or basements with good air circulation. Units also produce cool, dehumidified air as a byproduct, which benefits Tucson garages."
     },
     {
       question: "Are hybrid water heaters noisy?",
@@ -457,7 +457,7 @@ export const plumbingMaintenanceFAQs: ServiceFAQs = {
     },
     {
       question: "What if maintenance reveals a problem?",
-      answer: "If issues are found during maintenance, we'll explain the problem clearly, discuss repair options, and provide upfront pricing. We prioritize repairs by urgency and safety so you know what needs immediate attention versus what can be scheduled. There's never pressure into unnecessary work—just honest recommendations."
+      answer: "If issues are found during maintenance, we'll explain the problem clearly, discuss repair options, and provide upfront pricing. We prioritize repairs by urgency and safety so you know what needs immediate attention versus what can be scheduled. There's never pressure into unnecessary work-just honest recommendations."
     },
     {
       question: "Is plumbing maintenance tax deductible for rental properties?",
@@ -496,7 +496,7 @@ export const leakDetectionFAQs: ServiceFAQs = {
     },
     {
       question: "Do you detect leaks in irrigation systems?",
-      answer: "Yes, we detect leaks in irrigation systems, pool lines, and landscape watering systems. Underground irrigation leaks are common in Tucson and can waste thousands of gallons unnoticed. We locate leaks precisely to minimize landscape disruption when repairing—especially important for established desert landscaping."
+      answer: "Yes, we detect leaks in irrigation systems, pool lines, and landscape watering systems. Underground irrigation leaks are common in Tucson and can waste thousands of gallons unnoticed. We locate leaks precisely to minimize landscape disruption when repairing-especially important for established desert landscaping."
     },
     {
       question: "What causes water leaks in Tucson homes?",
@@ -504,7 +504,7 @@ export const leakDetectionFAQs: ServiceFAQs = {
     },
     {
       question: "How can I monitor for leaks between inspections?",
-      answer: "Check your water meter before bed and again in the morning with no water used—if it changed, you have a leak. Monitor water bills for unexplained increases, listen for running water sounds, and watch for damp spots or musty odors. Smart water monitoring systems can also provide real-time leak alerts."
+      answer: "Check your water meter before bed and again in the morning with no water used-if it changed, you have a leak. Monitor water bills for unexplained increases, listen for running water sounds, and watch for damp spots or musty odors. Smart water monitoring systems can also provide real-time leak alerts."
     },
     {
       question: "Do you offer 24/7 emergency leak detection?",
@@ -590,7 +590,7 @@ export const sinkRepairInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Can you fix a clogged sink drain?",
-      answer: "Yes, we clear clogged sink drains using appropriate methods for the blockage type—drain snakes for hair and debris, hydro-jetting for grease and mineral buildup. In Tucson's hard water, mineral deposits often contribute to chronic slow drains. We can also replace corroded drain pipes if necessary."
+      answer: "Yes, we clear clogged sink drains using appropriate methods for the blockage type-drain snakes for hair and debris, hydro-jetting for grease and mineral buildup. In Tucson's hard water, mineral deposits often contribute to chronic slow drains. We can also replace corroded drain pipes if necessary."
     },
     {
       question: "Should I repair or replace my old sink?",
@@ -633,7 +633,7 @@ export const bidetInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Do I need special plumbing for bidet installation?",
-      answer: "Most bidet attachments and seats connect to existing toilet water supply lines with a simple T-adapter—no major plumbing needed. Electric bidets may require a nearby electrical outlet (we can install GFCI outlets). Standalone bidets require dedicated hot and cold water lines and drain connections like a sink."
+      answer: "Most bidet attachments and seats connect to existing toilet water supply lines with a simple T-adapter-no major plumbing needed. Electric bidets may require a nearby electrical outlet (we can install GFCI outlets). Standalone bidets require dedicated hot and cold water lines and drain connections like a sink."
     },
     {
       question: "How long does bidet installation take?",
@@ -755,7 +755,7 @@ export const rooterSpecialFAQs: ServiceFAQs = {
     },
     {
       question: "Will rooter service damage my pipes?",
-      answer: "When performed by experienced professionals, rooter service is safe for pipes. Our technicians use appropriate blade sizes and techniques for different pipe materials and diameters. Older cast iron or severely deteriorated pipes (common in Tucson homes built before 1980) may already be damaged—rooter service simply reveals existing issues."
+      answer: "When performed by experienced professionals, rooter service is safe for pipes. Our technicians use appropriate blade sizes and techniques for different pipe materials and diameters. Older cast iron or severely deteriorated pipes (common in Tucson homes built before 1980) may already be damaged-rooter service simply reveals existing issues."
     },
     {
       question: "What causes main sewer line blockages in Tucson?",
@@ -767,7 +767,7 @@ export const rooterSpecialFAQs: ServiceFAQs = {
     },
     {
       question: "Should I get a camera inspection with rooter service?",
-      answer: "Yes, camera inspection is highly recommended after rooter service, especially if you experience frequent blockages. Video inspection reveals the root cause—deteriorating pipes, severe root intrusion, bellied sections, or other issues. This information helps you make informed decisions about permanent solutions versus ongoing maintenance."
+      answer: "Yes, camera inspection is highly recommended after rooter service, especially if you experience frequent blockages. Video inspection reveals the root cause-deteriorating pipes, severe root intrusion, bellied sections, or other issues. This information helps you make informed decisions about permanent solutions versus ongoing maintenance."
     }
   ]
 };
@@ -798,11 +798,11 @@ export const waterSoftenersFAQs: ServiceFAQs = {
     },
     {
       question: "Do water softeners require maintenance?",
-      answer: "Water softeners require minimal maintenance—primarily adding salt monthly to the brine tank. Annual professional service includes cleaning the brine tank, checking resin bed, inspecting valves and seals, and ensuring optimal regeneration cycles. This simple maintenance ensures decades of reliable performance. Salt is inexpensive and readily available at most hardware stores."
+      answer: "Water softeners require minimal maintenance-primarily adding salt monthly to the brine tank. Annual professional service includes cleaning the brine tank, checking resin bed, inspecting valves and seals, and ensuring optimal regeneration cycles. This simple maintenance ensures decades of reliable performance. Salt is inexpensive and readily available at most hardware stores."
     },
     {
       question: "Will soft water feel different?",
-      answer: "Yes, soft water feels noticeably different—more slippery in the shower and creates richer soap lather. This is normal and indicates the softener is working properly. The slippery feel is actually your skin being clean without hard water mineral film. Most people prefer soft water after a brief adjustment period."
+      answer: "Yes, soft water feels noticeably different-more slippery in the shower and creates richer soap lather. This is normal and indicates the softener is working properly. The slippery feel is actually your skin being clean without hard water mineral film. Most people prefer soft water after a brief adjustment period."
     },
     {
       question: "Can I drink softened water?",
@@ -829,7 +829,7 @@ export const waterFiltrationFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What types of water filtration systems do you install?",
-      answer: "We install whole-home filtration systems, reverse osmosis (RO) under-sink systems, point-of-use filters, UV purification systems, and combination softener-filter systems. Each addresses different concerns—whole-home filters remove sediment and chlorine, RO systems remove contaminants for drinking water, and UV kills bacteria. We'll recommend the best solution for your needs."
+      answer: "We install whole-home filtration systems, reverse osmosis (RO) under-sink systems, point-of-use filters, UV purification systems, and combination softener-filter systems. Each addresses different concerns-whole-home filters remove sediment and chlorine, RO systems remove contaminants for drinking water, and UV kills bacteria. We'll recommend the best solution for your needs."
     },
     {
       question: "What factors determine water filtration installation costs?",
@@ -845,7 +845,7 @@ export const waterFiltrationFAQs: ServiceFAQs = {
     },
     {
       question: "What's the difference between water filtration and water softening?",
-      answer: "Water softeners specifically remove hardness minerals (calcium and magnesium) using ion exchange. Water filters remove contaminants, sediment, chlorine, taste and odor compounds using physical filtration. Tucson homes often benefit from both—softeners protect plumbing and appliances, while filters improve drinking water quality and taste."
+      answer: "Water softeners specifically remove hardness minerals (calcium and magnesium) using ion exchange. Water filters remove contaminants, sediment, chlorine, taste and odor compounds using physical filtration. Tucson homes often benefit from both-softeners protect plumbing and appliances, while filters improve drinking water quality and taste."
     },
     {
       question: "Do water filtration systems require maintenance?",
@@ -959,15 +959,15 @@ export const toiletInstallationFAQs: ServiceFAQs = {
     },
     {
       question: "Why does my toilet keep clogging?",
-      answer: "Frequent clogs indicate insufficient flush power, partial drain blockage, vent issues, or flushing inappropriate items. Older low-flow toilets (pre-2005) often have weak flush performance. Tree roots, mineral buildup from hard water, or foreign objects in drain lines cause chronic clogs. We diagnose the root cause—sometimes replacing old toilets with modern high-efficiency models solves chronic clogging."
+      answer: "Frequent clogs indicate insufficient flush power, partial drain blockage, vent issues, or flushing inappropriate items. Older low-flow toilets (pre-2005) often have weak flush performance. Tree roots, mineral buildup from hard water, or foreign objects in drain lines cause chronic clogs. We diagnose the root cause-sometimes replacing old toilets with modern high-efficiency models solves chronic clogging."
     },
     {
       question: "Do you install water-efficient toilets?",
-      answer: "Yes, we specialize in high-efficiency toilets (HETs) using 1.28 gallons per flush or less (vs. 3.5-7 gallons in older models). Modern HETs provide powerful flushing while saving 20-60% on water usage—crucial in Tucson's desert environment. Many qualify for utility rebates. We install EPA WaterSense certified models offering maximum efficiency without sacrificing performance."
+      answer: "Yes, we specialize in high-efficiency toilets (HETs) using 1.28 gallons per flush or less (vs. 3.5-7 gallons in older models). Modern HETs provide powerful flushing while saving 20-60% on water usage-crucial in Tucson's desert environment. Many qualify for utility rebates. We install EPA WaterSense certified models offering maximum efficiency without sacrificing performance."
     },
     {
       question: "What's the difference between one-piece and two-piece toilets?",
-      answer: "One-piece toilets integrate tank and bowl in a single unit—easier to clean with sleeker appearance but more expensive and heavier. Two-piece toilets have separate tanks and bowls—lower cost, easier to transport and install, with readily available replacement parts. Both perform equally well; choice depends on budget, aesthetics, and ease of cleaning preferences."
+      answer: "One-piece toilets integrate tank and bowl in a single unit-easier to clean with sleeker appearance but more expensive and heavier. Two-piece toilets have separate tanks and bowls-lower cost, easier to transport and install, with readily available replacement parts. Both perform equally well; choice depends on budget, aesthetics, and ease of cleaning preferences."
     },
     {
       question: "How long should a toilet last?",
@@ -1026,7 +1026,7 @@ export const plumbingLocationGeneralFAQs: ServiceFAQs = {
     },
     {
       question: "Are you a local company?",
-      answer: "Yes! Intelligent Design is a family and veteran-owned company that has been serving the Tucson community since 1979—over 45 years. We're proud members of this community and actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs."
+      answer: "Yes! Intelligent Design is a family and veteran-owned company that has been serving the Tucson community since 1979-over 45 years. We're proud members of this community and actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs."
     },
     {
       question: "Why should I choose Intelligent Design for my plumbing needs?",

@@ -17,7 +17,7 @@
  * So: new pages get (520) 333-2665 in the markup. DNI swaps it per session for a
  * pool number carrying the visitor's click id. If you need a campaign-specific
  * number in the markup instead, it must first be added to the DNI swap-source
- * list in ServiceTitan (tenant 227669022) — then add it to ALLOWED below.
+ * list in ServiceTitan (tenant 227669022) - then add it to ALLOWED below.
  *
  * Run: npm run check:phones   (also runs automatically before every build)
  */
@@ -30,7 +30,7 @@ const EXTS = new Set([".ts", ".tsx", ".js", ".jsx"]);
 /** Numbers permitted in a tel: link. Add here ONLY after the number is a
  *  confirmed DNI swap source in ServiceTitan. */
 const ALLOWED = new Set([
-  "5203332665",    // DNI source, bare format — what DNI actually swaps
+  "5203332665",    // DNI source, bare format - what DNI actually swaps
   "+15203332665",  // E.164, used in schema.org "telephone" fields (not swapped, correct there)
 ]);
 
@@ -38,7 +38,7 @@ const TEL = /tel:(\+?\d[\d\-().\s]{6,})/g;
 
 /** Visible display numbers. Any (520) NNN-NNNN that is not the source number.
  *  This second check exists because display strings once used a NON-BREAKING
- *  SPACE — "(520)\u00a0201-8588" — which slipped past every plain-text search and
+ *  SPACE - "(520)\u00a0201-8588" - which slipped past every plain-text search and
  *  left a stale campaign number rendering next to a correctly swapped one.
  *  \s matches \u00a0, so this catches it. */
 const DISPLAY = /\(520\)(?:\s|&nbsp;|&#160;)?(\d{3}-\d{4})/g;
@@ -90,7 +90,7 @@ for (const root of ROOTS) {
       for (const m of line.matchAll(NBSP_PHONE)) {
         violations.push({
           file, line: i + 1,
-          found: "non-breaking space in a phone number — DNI cannot swap it",
+          found: "non-breaking space in a phone number - DNI cannot swap it",
           text: t.slice(0, 110),
         });
       }
@@ -106,7 +106,7 @@ for (const root of ROOTS) {
 }
 
 if (violations.length) {
-  console.error("\n❌  Phone number guard FAILED — these are not the DNI source number.\n");
+  console.error("\n❌  Phone number guard FAILED - these are not the DNI source number.\n");
   console.error("    ServiceTitan DNI can only swap (520) 333-2665. Any other number in a");
   console.error("    tel: link means calls from that page carry no click id, and Google Ads");
   console.error("    and Meta will both report zero conversions from it.\n");

@@ -145,11 +145,11 @@ export const ritaranchData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Rita Ranch", "level": 2, "content": "Local Community Guide \u2014 Rita Ranch"},
+            {"type": "heading", "heading": "Local Community Guide - Rita Ranch", "level": 2, "content": "Local Community Guide - Rita Ranch"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Joining Hands, Tucson Rodeo Parade Museum, Pima Air & Space Museum, 390th Memorial Museum, Saguaro National Park East. Whether you live near these landmarks or anywhere in Rita Ranch, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, Rocking K Market, Serial Grillers. When you need home services in Rita Ranch, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Rancho Rustico Restaurant, Taqueria 2 Hermanos, The Rattler at del Lago, Rocking K Market, Serial Grillers. When you need home services in Rita Ranch, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Drexel Heights Microclimate Know-How",
-    "description": "Elevation around 2,600 ft and daily shade from the Tucson Mountains mean afternoon cooling loads differ from central Tucson \u2014 we tune systems for real Drexel Heights usage patterns."
+    "description": "Elevation around 2,600 ft and daily shade from the Tucson Mountains mean afternoon cooling loads differ from central Tucson - we tune systems for real Drexel Heights usage patterns."
   },
   {
     "title": "Local Pricing Context",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Community-First Service",
-    "description": "We work near San Xavier del Bac, along the Valencia corridor, and at Desert Trails Park \u2014 familiar faces, clear communication, and respect for tight Drexel Heights driveways and yards."
+    "description": "We work near San Xavier del Bac, along the Valencia corridor, and at Desert Trails Park - familiar faces, clear communication, and respect for tight Drexel Heights driveways and yards."
   }
 ],
   content: {
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Drexel Heights homes \u2014 especially those in 85746 and 85735 \u2014 present a consistent set of HVAC challenges: single-story block construction, original duct runs, and attic cavities with limited clearance. At 2,600 feet elevation near the Tucson Mountains, late-afternoon shade reduces peak indoor temperatures compared with downtown Tucson, but mornings and early afternoons can still push older systems beyond their capacity. Our technicians have logged decades of service calls to the Valencia corridor, Cardinal Heights, and Mission Manor areas and know which compressor sizes and airflow balances perform best for the region's microclimate. When we evaluate a home built in the 1970s or 1980s that still has original equipment, we check for hard water corrosion in condensate lines, deteriorated insulation above crawl spaces, and duct sealing issues common in renovations. We provide clear, itemized pricing\u2014local full-system installs commonly fall between $4,000 and $9,000 depending on required duct repairs, insulation upgrades, and permit costs for the neighborhood\u2014so you can compare options with neighborhood peers and community associations."
+            "content": "Drexel Heights homes - especially those in 85746 and 85735 - present a consistent set of HVAC challenges: single-story block construction, original duct runs, and attic cavities with limited clearance. At 2,600 feet elevation near the Tucson Mountains, late-afternoon shade reduces peak indoor temperatures compared with downtown Tucson, but mornings and early afternoons can still push older systems beyond their capacity. Our technicians have logged decades of service calls to the Valencia corridor, Cardinal Heights, and Mission Manor areas and know which compressor sizes and airflow balances perform best for the region's microclimate. When we evaluate a home built in the 1970s or 1980s that still has original equipment, we check for hard water corrosion in condensate lines, deteriorated insulation above crawl spaces, and duct sealing issues common in renovations. We provide clear, itemized pricing-local full-system installs commonly fall between $4,000 and $9,000 depending on required duct repairs, insulation upgrades, and permit costs for the neighborhood-so you can compare options with neighborhood peers and community associations."
       },
       {
             "type": "paragraph",
-            "content": "Beyond equipment, homeowners in Drexel Heights often need practical fixes that reflect everyday living in an established working-class neighborhood. Multigenerational households near San Xavier del Bac frequently request multiple-zone comfort or programmable thermostats to balance different schedules. Manufactured homes and smaller block houses along Ajo Highway sometimes have nonstandard ducting and limited attic access; we carry equipment and access solutions sized for those footprints. We also consider existing roofing types\u2014flat or tile\u2014when planning condensate routing and equipment placement, keeping installations minimally invasive for tight yards and long-established landscaping."
+            "content": "Beyond equipment, homeowners in Drexel Heights often need practical fixes that reflect everyday living in an established working-class neighborhood. Multigenerational households near San Xavier del Bac frequently request multiple-zone comfort or programmable thermostats to balance different schedules. Manufactured homes and smaller block houses along Ajo Highway sometimes have nonstandard ducting and limited attic access; we carry equipment and access solutions sized for those footprints. We also consider existing roofing types-flat or tile-when planning condensate routing and equipment placement, keeping installations minimally invasive for tight yards and long-established landscaping."
       },
       {
             "type": "cta",
@@ -87,9 +87,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Community Care \u2014 Work Near San Xavier, Valencia Corridor, and Cardinal Heights",
+            "heading": "Community Care - Work Near San Xavier, Valencia Corridor, and Cardinal Heights",
             "level": 2,
-            "content": "Community Care \u2014 Work Near San Xavier, Valencia Corridor, and Cardinal Heights"
+            "content": "Community Care - Work Near San Xavier, Valencia Corridor, and Cardinal Heights"
       },
       {
             "type": "paragraph",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Tell us about household schedules\u2014do different generations occupy rooms at different times? That determines whether zoning, multiple thermostats, or variable-speed equipment will give better comfort for families near the Valencia corridor or in Mission Manor."
+        "answer": "Tell us about household schedules-do different generations occupy rooms at different times? That determines whether zoning, multiple thermostats, or variable-speed equipment will give better comfort for families near the Valencia corridor or in Mission Manor."
     },
     {
         "question": "Refinement Q5",

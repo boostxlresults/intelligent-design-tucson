@@ -36,7 +36,7 @@ highlights: [
   },
   {
     "title": "Pricing Context for Local Buyers & Investors",
-    "description": "Because many homes here are affordable and popular with first-time buyers and investors, we provide clear cost ranges for common jobs\u2014so you can budget with confidence."
+    "description": "Because many homes here are affordable and popular with first-time buyers and investors, we provide clear cost ranges for common jobs-so you can budget with confidence."
   },
   {
     "title": "Respect for Neighborhood Character",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tucson Estates is a distinct part of Tucson \u2014 older, spread out, and sitting a bit higher at roughly 2,500 feet near the foothills of the Tucson Mountains. Houses in 85735 and 85713 are often single-story block homes built in the 1960s through the 1980s, many with original galvanized piping or later polybutylene runs. Those materials fail in predictable ways here: low interior pressure in one wing, rusty-tinted water after heavy use, and pinhole leaks at buried joints. Our technicians diagnose those patterns quickly because we\u2019ve been working in this exact community for decades. We address visible leaks and also give homeowners a realistic assessment of whether a partial repair will hold or if a whole-home repipe is the durable, cost-effective choice for a property intended for long-term occupancy or resale."
+            "content": "Tucson Estates is a distinct part of Tucson - older, spread out, and sitting a bit higher at roughly 2,500 feet near the foothills of the Tucson Mountains. Houses in 85735 and 85713 are often single-story block homes built in the 1960s through the 1980s, many with original galvanized piping or later polybutylene runs. Those materials fail in predictable ways here: low interior pressure in one wing, rusty-tinted water after heavy use, and pinhole leaks at buried joints. Our technicians diagnose those patterns quickly because we\u2019ve been working in this exact community for decades. We address visible leaks and also give homeowners a realistic assessment of whether a partial repair will hold or if a whole-home repipe is the durable, cost-effective choice for a property intended for long-term occupancy or resale."
       },
       {
             "type": "paragraph",
-            "content": "Because water hardness in Tucson Estates typically measures between 190 and 220 ppm, fixtures and water heaters accumulate scale faster than in softer-water areas. That accelerates failure of original tank-style water heaters commonly still found in homes here. We factor local water quality into every estimate and recommend options\u2014from high-efficiency tank replacements to point-of-use solutions\u2014that reflect neighborhood budget realities and the needs of residents and investors in this price band."
+            "content": "Because water hardness in Tucson Estates typically measures between 190 and 220 ppm, fixtures and water heaters accumulate scale faster than in softer-water areas. That accelerates failure of original tank-style water heaters commonly still found in homes here. We factor local water quality into every estimate and recommend options-from high-efficiency tank replacements to point-of-use solutions-that reflect neighborhood budget realities and the needs of residents and investors in this price band."
       },
       {
             "type": "cta",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Whole-home repipes are one of the most common projects here. In older Tucson Estates houses, galvanized mains corrode internally and polybutylene fittings can fail after decades. Because many homes are block construction with minimal crawlspace, repipes sometimes require creative routing along interior walls or exterior chases. Local price context: a typical repipe for a 1,200\u20131,800 sq ft single-story block home in 85735 often ranges from roughly $6,500 to $14,000 depending on access, chosen materials (copper vs. PEX), and whether drywall or exterior finishes need repair. For owners on a budget we outline staged approaches\u2014prioritizing bathrooms and the kitchen first\u2014and for investors we provide full replacements designed to minimize callbacks."
+            "content": "Whole-home repipes are one of the most common projects here. In older Tucson Estates houses, galvanized mains corrode internally and polybutylene fittings can fail after decades. Because many homes are block construction with minimal crawlspace, repipes sometimes require creative routing along interior walls or exterior chases. Local price context: a typical repipe for a 1,200\u20131,800 sq ft single-story block home in 85735 often ranges from roughly $6,500 to $14,000 depending on access, chosen materials (copper vs. PEX), and whether drywall or exterior finishes need repair. For owners on a budget we outline staged approaches-prioritizing bathrooms and the kitchen first-and for investors we provide full replacements designed to minimize callbacks."
       },
       {
             "type": "paragraph",
-            "content": "We also replace outdated water heaters\u2014tank and tankless\u2014and account for elevated mineral content and common venting situations on older homes. Small repairs around fixtures are often straightforward, but when multiple leaks appear or water pressure is inconsistent across a home near Kinney Road or the Ajo Highway corridor, that pattern often indicates systemic piping issues rather than isolated failures."
+            "content": "We also replace outdated water heaters-tank and tankless-and account for elevated mineral content and common venting situations on older homes. Small repairs around fixtures are often straightforward, but when multiple leaks appear or water pressure is inconsistent across a home near Kinney Road or the Ajo Highway corridor, that pattern often indicates systemic piping issues rather than isolated failures."
       },
       {
             "type": "heading",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do many Tucson Estates homes need whole-home repipes?",
-        "answer": "Yes. In Tucson Estates (zip codes 85735 and 85713) many homes built in the 1960s\u20131980s still have original galvanized pipe or polybutylene installed in later decades. Corrosion and brittle fittings show up as low pressure, rusty water, or multiple small leaks. Because most houses are single-story block construction, replacement often requires interior wall access or exterior chases. A thorough on-site inspection identifies whether a focused repair will hold or if a planned repipe\u2014priced and staged to your budget\u2014is the safer long-term option for resale and daily living."
+        "answer": "Yes. In Tucson Estates (zip codes 85735 and 85713) many homes built in the 1960s\u20131980s still have original galvanized pipe or polybutylene installed in later decades. Corrosion and brittle fittings show up as low pressure, rusty water, or multiple small leaks. Because most houses are single-story block construction, replacement often requires interior wall access or exterior chases. A thorough on-site inspection identifies whether a focused repair will hold or if a planned repipe-priced and staged to your budget-is the safer long-term option for resale and daily living."
     },
     {
         "question": "How does Tucson Estates\u2019 water hardness affect plumbing choices?",
@@ -120,7 +120,7 @@ highlights: [
     },
     {
         "question": "What does a water heater replacement cost in Tucson Estates?",
-        "answer": "Local pricing varies by unit type and venting. For many Tucson Estates homes, tank-style replacements typically range from $850 to $1,800 installed, while high-efficiency or larger-capacity units can run higher. Tankless systems often start higher on installation costs due to venting or gas-line upgrades\u2014expect local installs to align with these ranges once access and hardness-mitigation needs are considered."
+        "answer": "Local pricing varies by unit type and venting. For many Tucson Estates homes, tank-style replacements typically range from $850 to $1,800 installed, while high-efficiency or larger-capacity units can run higher. Tankless systems often start higher on installation costs due to venting or gas-line upgrades-expect local installs to align with these ranges once access and hardness-mitigation needs are considered."
     },
     {
         "question": "Will repiping disrupt landscaping on large Tucson Estates lots?",
@@ -136,11 +136,11 @@ highlights: [
     },
     {
         "question": "Should I worry about galvanized pipe in homes priced $180k\u2013$280k?",
-        "answer": "Homes in that value range in Tucson Estates commonly still have older plumbing. If you\u2019re buying or owning a home in the $180k\u2013$280k band, inspect for signs of galvanized failure\u2014rusty water, slow drains, or intermittent pressure. Replacing aged pipe is an investment in livability and resale value, and we provide estimates that reflect local materials, access, and neighborhood expectations."
+        "answer": "Homes in that value range in Tucson Estates commonly still have older plumbing. If you\u2019re buying or owning a home in the $180k\u2013$280k band, inspect for signs of galvanized failure-rusty water, slow drains, or intermittent pressure. Replacing aged pipe is an investment in livability and resale value, and we provide estimates that reflect local materials, access, and neighborhood expectations."
     },
     {
         "question": "Do you offer financing for large repipe projects in Tucson Estates?",
-        "answer": "Yes. We offer financing options for larger projects so homeowners and investors in Tucson Estates can spread costs. We explain local pricing early\u2014typical repipe estimates for single-story block homes are provided upfront so you can choose financing or phased work that suits your budget."
+        "answer": "Yes. We offer financing options for larger projects so homeowners and investors in Tucson Estates can spread costs. We explain local pricing early-typical repipe estimates for single-story block homes are provided upfront so you can choose financing or phased work that suits your budget."
     }
 ]
   },

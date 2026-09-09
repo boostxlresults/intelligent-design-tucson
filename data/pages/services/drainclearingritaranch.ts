@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "HOA-Sensitive Access & Scheduling",
-    "description": "We coordinate with HOAs and homeowners in HOA-maintained neighborhoods, minimizing driveway and landscape impact during service calls\u2014important in family-oriented blocks near Civano."
+    "description": "We coordinate with HOAs and homeowners in HOA-maintained neighborhoods, minimizing driveway and landscape impact during service calls-important in family-oriented blocks near Civano."
   },
   {
     "title": "Transparent Local Pricing",
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch sits at roughly 3,000 feet elevation where cooler nights and seasonal monsoons shape how drains behave. In the original 1990s sections near Rita Ranch Park and Rancho del Lago, mature trees that give the neighborhood shade are also a frequent source of root intrusion into lateral sewer lines. Builder-grade plumbing installed during the 1990s\u20132010s development wave can show joint separation, sags, and early fatigue \u2014 problems we encounter daily in zip code 85747. Our technicians account for HOA landscaping corridors and common two-story lot designs when routing equipment and planning access so irrigation systems and community plantings remain intact. We combine camera inspection with root cutting and descaling techniques appropriate for hard water conditions (190\u2013220 ppm) found across Rita Ranch, preventing repeat clogs that disrupt busy family routines and school drop-offs in the Vail School District."
+            "content": "Rita Ranch sits at roughly 3,000 feet elevation where cooler nights and seasonal monsoons shape how drains behave. In the original 1990s sections near Rita Ranch Park and Rancho del Lago, mature trees that give the neighborhood shade are also a frequent source of root intrusion into lateral sewer lines. Builder-grade plumbing installed during the 1990s\u20132010s development wave can show joint separation, sags, and early fatigue - problems we encounter daily in zip code 85747. Our technicians account for HOA landscaping corridors and common two-story lot designs when routing equipment and planning access so irrigation systems and community plantings remain intact. We combine camera inspection with root cutting and descaling techniques appropriate for hard water conditions (190\u2013220 ppm) found across Rita Ranch, preventing repeat clogs that disrupt busy family routines and school drop-offs in the Vail School District."
       },
       {
             "type": "paragraph",
-            "content": "Monsoon season concentrates issues along streets like Old Spanish Trail and the Houghton corridor where runoff funnels into yard drains and civic swales. Clogged gutters, silt, and gravel carried by seasonal flows can pack into yard drains and private laterals. Unlike parts of Tucson with heavier dust, Rita Ranch\u2019s good air circulation reduces airborne grit but the monsoon\u2019s concentrated flows still create unique sediment blockages. We tailor our approach for the tile-roofed homes common here \u2014 roof runoff patterns matter for yard drain placement \u2014 and for raised two-story pads that change where water pools. For straightforward clogs in 85747, expect transparent upfront pricing with basic snaking often starting near $125; more involved root or pipe work includes a detailed estimate before work begins."
+            "content": "Monsoon season concentrates issues along streets like Old Spanish Trail and the Houghton corridor where runoff funnels into yard drains and civic swales. Clogged gutters, silt, and gravel carried by seasonal flows can pack into yard drains and private laterals. Unlike parts of Tucson with heavier dust, Rita Ranch\u2019s good air circulation reduces airborne grit but the monsoon\u2019s concentrated flows still create unique sediment blockages. We tailor our approach for the tile-roofed homes common here - roof runoff patterns matter for yard drain placement - and for raised two-story pads that change where water pools. For straightforward clogs in 85747, expect transparent upfront pricing with basic snaking often starting near $125; more involved root or pipe work includes a detailed estimate before work begins."
       },
       {
             "type": "cta",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch is one of Tucson\u2019s most family-centered master-planned communities \u2014 parks, schools, and HOA-maintained common areas shape how drainage should be handled. When we work near landmarks like Rita Ranch Park, the vicinity of Frog & Firkin and Beyond Bread, or along routes used to reach Saguaro National Park East, we plan equipment placement to avoid pedestrian routes and school pickup zones. The neighborhood\u2019s mix of tile roofs and two-story home designs affects where gutters and downspouts tie into yard drains; many residents on the Houghton corridor and Old Spanish Trail prefer preventive inspections before major events or seasonal storms. We keep neighbors informed and provide written notes about maintenance steps that homeowners can take to reduce the chance of repeat issues."
+            "content": "Rita Ranch is one of Tucson\u2019s most family-centered master-planned communities - parks, schools, and HOA-maintained common areas shape how drainage should be handled. When we work near landmarks like Rita Ranch Park, the vicinity of Frog & Firkin and Beyond Bread, or along routes used to reach Saguaro National Park East, we plan equipment placement to avoid pedestrian routes and school pickup zones. The neighborhood\u2019s mix of tile roofs and two-story home designs affects where gutters and downspouts tie into yard drains; many residents on the Houghton corridor and Old Spanish Trail prefer preventive inspections before major events or seasonal storms. We keep neighbors informed and provide written notes about maintenance steps that homeowners can take to reduce the chance of repeat issues."
       },
       {
             "type": "cta",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "Does hard water in Rita Ranch affect drain performance?",
-        "answer": "Yes \u2014 the local water hardness (190\u2013220 ppm) promotes mineral buildup in fixtures and drain lines, particularly in kitchen and laundry drains. During clearing we include descaling options to remove mineral deposits and slow recurrence."
+        "answer": "Yes - the local water hardness (190\u2013220 ppm) promotes mineral buildup in fixtures and drain lines, particularly in kitchen and laundry drains. During clearing we include descaling options to remove mineral deposits and slow recurrence."
     },
     {
         "question": "How much does a typical drain clearing cost in zip code 85747?",

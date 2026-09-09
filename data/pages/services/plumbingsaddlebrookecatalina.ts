@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Local pricing context: routine service visits in 85739 and 85738 typically start in the $99\u2013$149 range for diagnostics; common repairs such as a frozen pipe thaw plus a small repair often fall between $250\u2013$650 depending on access. Water heater replacements in this cooler microclimate commonly range $1,200\u2013$3,500 depending on tank size, energy type, and whether a well hookup or pressure tank adjustment is required. Repiping for older SaddleBrooke homes built in the 1980s can vary widely\u2014plan $6,000\u2013$18,000 depending on home size and wall access."
+            "content": "Local pricing context: routine service visits in 85739 and 85738 typically start in the $99\u2013$149 range for diagnostics; common repairs such as a frozen pipe thaw plus a small repair often fall between $250\u2013$650 depending on access. Water heater replacements in this cooler microclimate commonly range $1,200\u2013$3,500 depending on tank size, energy type, and whether a well hookup or pressure tank adjustment is required. Repiping for older SaddleBrooke homes built in the 1980s can vary widely-plan $6,000\u2013$18,000 depending on home size and wall access."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do SaddleBrooke & Catalina homes need special winterization to prevent frozen pipes?",
-        "answer": "Yes. The elevation (3,200\u20133,600 ft) and regular winter frosts around Mt. Lemmon access mean exposed pipes, irrigation lines and poorly insulated crawlspaces are at real risk. We recommend insulating pipes in garages and attics, installing heat tape on exterior lines that run along foundations, and running a seasonal checklist for homeowners\u2014especially for older SaddleBrooke homes from the 1980s that may have exterior plumbing runs. A winterization service typically costs $120\u2013$300 depending on the number of exposed lines and whether heat trace is needed."
+        "answer": "Yes. The elevation (3,200\u20133,600 ft) and regular winter frosts around Mt. Lemmon access mean exposed pipes, irrigation lines and poorly insulated crawlspaces are at real risk. We recommend insulating pipes in garages and attics, installing heat tape on exterior lines that run along foundations, and running a seasonal checklist for homeowners-especially for older SaddleBrooke homes from the 1980s that may have exterior plumbing runs. A winterization service typically costs $120\u2013$300 depending on the number of exposed lines and whether heat trace is needed."
     },
     {
         "question": "How do well systems in the Catalina area differ from Metro water connections?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "Are water heaters less efficient in Catalina\u2019s cooler climate?",
-        "answer": "Cooler nighttime temperatures reduce recovery rates, so a water heater in Catalina may cycle more and run longer to maintain set temperatures. We recommend properly sizing units, considering heat-pump water heaters in some SaddleBrooke homes, and insulating tanks and nearby pipes to reduce standby losses\u2014measures that improve efficiency in the 3,200\u20133,600 ft microclimate."
+        "answer": "Cooler nighttime temperatures reduce recovery rates, so a water heater in Catalina may cycle more and run longer to maintain set temperatures. We recommend properly sizing units, considering heat-pump water heaters in some SaddleBrooke homes, and insulating tanks and nearby pipes to reduce standby losses-measures that improve efficiency in the 3,200\u20133,600 ft microclimate."
     },
     {
         "question": "How does moderate water hardness (150\u2013180 ppm) affect plumbing here?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "Are permits required for plumbing work in Catalina and SaddleBrooke?",
-        "answer": "Many projects\u2014water heater replacements, repipes, and new well connections\u2014require permits or HOA approvals in SaddleBrooke and parts of Catalina. We handle local permit pulls when needed and coordinate inspections with county or community authorities near Biosphere 2 and Mt. Lemmon access routes."
+        "answer": "Many projects-water heater replacements, repipes, and new well connections-require permits or HOA approvals in SaddleBrooke and parts of Catalina. We handle local permit pulls when needed and coordinate inspections with county or community authorities near Biosphere 2 and Mt. Lemmon access routes."
     },
     {
         "question": "What local response times can SaddleBrooke & Catalina homeowners expect?",
@@ -153,7 +153,7 @@ highlights: [
     },
     {
         "question": "Refinement Q2",
-        "answer": "Would you like an estimate range for a water heater replacement tailored to your home size and whether you prefer tank or tankless options? Tell us approximate household size and whether you have a well\u2014this helps us give a more precise local estimate for SaddleBrooke & Catalina properties within 85739/85738."
+        "answer": "Would you like an estimate range for a water heater replacement tailored to your home size and whether you prefer tank or tankless options? Tell us approximate household size and whether you have a well-this helps us give a more precise local estimate for SaddleBrooke & Catalina properties within 85739/85738."
     },
     {
         "question": "Refinement Q3",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Refinement Q6",
-        "answer": "Would you like emergency availability info for your part of 85739 or 85738? Tell us your street or nearest landmark\u2014examples include near Catalina Brewing Company, Oracle Patio Cafe, or the Biosphere 2 access\u2014and we\u2019ll confirm our typical response window for urgent leaks or freeze events."
+        "answer": "Would you like emergency availability info for your part of 85739 or 85738? Tell us your street or nearest landmark-examples include near Catalina Brewing Company, Oracle Patio Cafe, or the Biosphere 2 access-and we\u2019ll confirm our typical response window for urgent leaks or freeze events."
     }
 ],
   

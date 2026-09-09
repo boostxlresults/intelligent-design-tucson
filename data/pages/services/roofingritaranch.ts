@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Family-Community Focus",
-    "description": "We understand Rita Ranch\u2019s family-oriented neighborhoods \u2014 repairs scheduled around school events, park weekends at Rita Ranch Park, and HOA meetings."
+    "description": "We understand Rita Ranch\u2019s family-oriented neighborhoods - repairs scheduled around school events, park weekends at Rita Ranch Park, and HOA meetings."
   }
 ],
   content: {
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch roofs (zip code 85747) are dominated by tile installed during the neighborhood\u2019s main growth from the 1990s through the 2000s. Those clay and concrete tiles perform well at the community\u2019s 3,000-foot elevation, where slightly cooler nights reduce thermal cycling compared with lower Tucson neighborhoods. Still, common roof concerns here are specific: UV-brittleness of old mortared ridge caps, underlayment wear beneath mission-style tiles, and cracked tiles after high winds in the open Houghton corridor and Rincon Valley approaches. Our inspections focus on broken or slipped tiles, degrading underlayment membranes, and flashing integrity at chimneys and eave edges common to two-story family homes. Because many addresses are HOA-maintained, we document issues with photos and recommended repairs that meet association standards. Typical short-term repairs in Rita Ranch\u2014like replacing 10\u201330 tiles and retorquing ridge mortar\u2014usually range from $300 to $1,200 depending on access and tile type; larger underlayment replacements trend toward the higher end of local pricing."
+            "content": "Rita Ranch roofs (zip code 85747) are dominated by tile installed during the neighborhood\u2019s main growth from the 1990s through the 2000s. Those clay and concrete tiles perform well at the community\u2019s 3,000-foot elevation, where slightly cooler nights reduce thermal cycling compared with lower Tucson neighborhoods. Still, common roof concerns here are specific: UV-brittleness of old mortared ridge caps, underlayment wear beneath mission-style tiles, and cracked tiles after high winds in the open Houghton corridor and Rincon Valley approaches. Our inspections focus on broken or slipped tiles, degrading underlayment membranes, and flashing integrity at chimneys and eave edges common to two-story family homes. Because many addresses are HOA-maintained, we document issues with photos and recommended repairs that meet association standards. Typical short-term repairs in Rita Ranch-like replacing 10\u201330 tiles and retorquing ridge mortar-usually range from $300 to $1,200 depending on access and tile type; larger underlayment replacements trend toward the higher end of local pricing."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "When an older Rita Ranch roof reaches end-of-life\u2014typically 25\u201335 years for traditional clay tiles on homes built in the 1990s\u2014homeowners weigh repair versus full re-roof. For the community\u2019s common two-story footprints (often 2,000\u20132,800 sq ft), a full tile re-roof that includes modern synthetic underlayment and new flashings typically falls in the $12,000\u2013$28,000 range in 85747; architectural shingle re-roofs (where allowed by HOA covenant) are more economical, often $7,000\u2013$15,000 depending on deck repairs and attic ventilation upgrades. We prioritize ventilation improvements for Rita Ranch houses\u2014ridge vents combined with soffit intake\u2014to mitigate heat loads in summer and reduce condensation issues during cooler nights at 3,000 ft elevation. For homeowners near Saguaro National Park East access points, we also advise on color and finish choices that match neighborhood aesthetic and HOA guidelines to keep resale value strong."
+            "content": "When an older Rita Ranch roof reaches end-of-life-typically 25\u201335 years for traditional clay tiles on homes built in the 1990s-homeowners weigh repair versus full re-roof. For the community\u2019s common two-story footprints (often 2,000\u20132,800 sq ft), a full tile re-roof that includes modern synthetic underlayment and new flashings typically falls in the $12,000\u2013$28,000 range in 85747; architectural shingle re-roofs (where allowed by HOA covenant) are more economical, often $7,000\u2013$15,000 depending on deck repairs and attic ventilation upgrades. We prioritize ventilation improvements for Rita Ranch houses-ridge vents combined with soffit intake-to mitigate heat loads in summer and reduce condensation issues during cooler nights at 3,000 ft elevation. For homeowners near Saguaro National Park East access points, we also advise on color and finish choices that match neighborhood aesthetic and HOA guidelines to keep resale value strong."
       },
       {
             "type": "paragraph",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "How soon should I act after a monsoon or wind event in Rita Ranch?",
-        "answer": "Act promptly. Rita Ranch HOAs expect timely repairs, and wind-driven tile displacement can expose underlayment and decking to water during the next storm. Schedule an inspection quickly\u2014ideally within days\u2014to document damage for HOA purposes and to limit secondary issues that raise repair costs."
+        "answer": "Act promptly. Rita Ranch HOAs expect timely repairs, and wind-driven tile displacement can expose underlayment and decking to water during the next storm. Schedule an inspection quickly-ideally within days-to document damage for HOA purposes and to limit secondary issues that raise repair costs."
     },
     {
         "question": "Can you prepare documentation for an HOA claim in Rita Ranch?",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "What roof sizes and layouts are typical in Rita Ranch and how does that affect estimates?",
-        "answer": "Rita Ranch most commonly features two-story family homes between 2,000 and 2,800 sq ft with a mix of gabled and hipped tile layouts. These sizes and roof shapes mean more valleys and penetrations\u2014which increase flashing work\u2014so estimates consider pitch, hip/valley lineal feet, and second-story access. Narrower lots in Rancho del Lago or Civano-border blocks can add staging complexity that influences labor costs."
+        "answer": "Rita Ranch most commonly features two-story family homes between 2,000 and 2,800 sq ft with a mix of gabled and hipped tile layouts. These sizes and roof shapes mean more valleys and penetrations-which increase flashing work-so estimates consider pitch, hip/valley lineal feet, and second-story access. Narrower lots in Rancho del Lago or Civano-border blocks can add staging complexity that influences labor costs."
     },
     {
         "question": "How do we handle scheduling around school and community events in Rita Ranch?",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Can you advise on color and tile profile choices to match Rita Ranch HOAs?",
-        "answer": "Yes. We recommend tile colors and profiles that align with prevalent neighborhood aesthetics\u2014earth tones and mission profiles common in 1990s developments\u2014while confirming HOA palette restrictions. For areas near Saguaro National Park East and Civano, we consider desert context and community architecture to preserve curb appeal and compliance."
+        "answer": "Yes. We recommend tile colors and profiles that align with prevalent neighborhood aesthetics-earth tones and mission profiles common in 1990s developments-while confirming HOA palette restrictions. For areas near Saguaro National Park East and Civano, we consider desert context and community architecture to preserve curb appeal and compliance."
     }
 ],
   

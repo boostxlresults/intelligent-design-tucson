@@ -4,16 +4,16 @@ export interface CoreMd { h1: string; description: string; body: string; }
 export const CORE_PAGES: Record<string, CoreMd> = {
   "about": {
     h1: "About Intelligent Design",
-    description: "Tucson's highest-rated home services company — family and veteran-owned, serving Greater Tucson since 1979.",
+    description: "Tucson's highest-rated home services company - family and veteran-owned, serving Greater Tucson since 1979.",
     body: `## Who we are
-Intelligent Design Air Conditioning, Plumbing, Solar & Electric handles five trades under one roof — HVAC, plumbing, solar, electrical, and roofing — for homeowners across Greater Tucson. We've served the community since 1979.
+Intelligent Design Air Conditioning, Plumbing, Solar & Electric handles five trades under one roof - HVAC, plumbing, solar, electrical, and roofing - for homeowners across Greater Tucson. We've served the community since 1979.
 
 ## Why Tucson trusts us
 - 23,000+ verified five-star reviews and a 4.97 Google rating
 - BBB A+ accredited; licensed, bonded, and insured (AZ ROC)
 - 80+ professional, background-checked technicians
 - 24/7 emergency service with fast response times
-- Upfront, transparent pricing — no overtime charges
+- Upfront, transparent pricing - no overtime charges
 - 100% satisfaction guarantee on every job`,
   },
   "financing": {
@@ -23,7 +23,7 @@ Intelligent Design Air Conditioning, Plumbing, Solar & Electric handles five tra
 A new AC system, roof, or major repair shouldn't have to wait. We offer flexible financing so you can get the work done now and pay over time.
 - 0% APR options for qualified buyers
 - Low monthly payments
-- Fast, easy application — approval in minutes
+- Fast, easy application - approval in minutes
 - Available on HVAC, plumbing, solar, electrical, and roofing projects
 
 Apply during your free estimate.`,
@@ -36,7 +36,7 @@ If it's not right, we make it right.
 - 100% satisfaction guarantee on every job
 - Workmanship warranty on all repairs and installations
 - Parts & labor coverage
-- No overtime charges — nights, weekends, and holidays billed at standard rates
+- No overtime charges - nights, weekends, and holidays billed at standard rates
 - Upfront, written pricing before any work begins
 - Licensed, bonded, and insured; background-checked technicians`,
   },
@@ -45,7 +45,7 @@ If it's not right, we make it right.
     description: "Home maintenance memberships with priority service, discounts, and free annual visits.",
     body: `## Keep your home's systems running
 Avoid surprise breakdowns and extend equipment life with an Intelligent Design maintenance membership.
-- Priority scheduling — front of the line
+- Priority scheduling - front of the line
 - Up to 20% discounts on repairs
 - Up to 5 free annual maintenance visits
 - No extra charges for appointment times
@@ -57,7 +57,7 @@ Regular maintenance lowers energy bills and prevents costly failures.`,
     h1: "Special Offers & Promotions",
     description: "Current promotions, seasonal discounts, and special financing on Tucson home services.",
     body: `## Current specials
-Save on HVAC, plumbing, solar, electrical, and roofing. Offers change regularly — call (520) 333-2665 or visit the page for what's live today.
+Save on HVAC, plumbing, solar, electrical, and roofing. Offers change regularly - call (520) 333-2665 or visit the page for what's live today.
 
 ## Why choose Intelligent Design
 - Complete satisfaction guarantee
@@ -69,21 +69,21 @@ Save on HVAC, plumbing, solar, electrical, and roofing. Offers change regularly 
     h1: "Contact Intelligent Design",
     description: "Reach Tucson's highest-rated home services company. 24/7 emergency service.",
     body: `## Get in touch
-- Phone: (520) 333-2665 — 24/7 emergency service
+- Phone: (520) 333-2665 - 24/7 emergency service
 - Address: 4740 S Park Ave, Tucson, AZ 85714
 - Schedule online: https://www.idesignac.com/schedule
 - No overtime charges, ever
 
 ## Service area
-Serving Tucson and Greater Tucson — including Oro Valley, Marana, Sahuarita, Green Valley, Vail, Catalina Foothills, and surrounding areas.`,
+Serving Tucson and Greater Tucson - including Oro Valley, Marana, Sahuarita, Green Valley, Vail, Catalina Foothills, and surrounding areas.`,
   },
   "careers": {
-    h1: "Careers — Join Our Team",
+    h1: "Careers - Join Our Team",
     description: "Join Tucson's #1 home services company. Family & veteran-owned since 1979.",
     body: `## Why work with us
 We're hiring HVAC, plumbing, electrical, solar, and roofing professionals.
-- Competitive compensation — top industry pay, performance bonuses, and commission
-- Comprehensive benefits — health insurance, 401(k), and paid time off
+- Competitive compensation - top industry pay, performance bonuses, and commission
+- Comprehensive benefits - health insurance, 401(k), and paid time off
 - Ongoing training, certifications, and clear advancement paths
 - A stable, growing, family- and veteran-owned company
 

@@ -21,7 +21,7 @@ highlights: [
   },
   {
     "title": "Comprehensive Services",
-    "description": "We offer roof repair, replacement, tile, shingle, flat roofing and protective coatings \u2014 focused on local materials and methods (no metal)."
+    "description": "We offer roof repair, replacement, tile, shingle, flat roofing and protective coatings - focused on local materials and methods (no metal)."
   },
   {
     "title": "Proven Reputation",
@@ -72,7 +72,7 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Intelligent Design provides full-service roofing solutions for East Tucson homeowners, from quick repairs to complete replacements. For tile roofs we perform tile setting, underlayment upgrades, flashing replacement and ridge repairs using materials suited to desert conditions. Shingle work focuses on high-UV formulas, proper nailing patterns, and ventilation to maximize lifespan on two-story and single-story homes. Flat roofs are assessed for ponding, membrane integrity and edge details, with premium coatings available to extend service life and improve reflectivity for energy savings. We do not install metal roofs \u2014 our expertise centers on tile, shingle, flat membrane systems and protective coatings. Every project begins with a detailed inspection, written estimate and clear timeline. With 46+ years in business and a 4.97\u2605 reputation across 3,600+ reviews, our crew prioritizes workmanship, clean job sites and communication with homeowners and HOAs throughout East Tucson."
+        "content": "Intelligent Design provides full-service roofing solutions for East Tucson homeowners, from quick repairs to complete replacements. For tile roofs we perform tile setting, underlayment upgrades, flashing replacement and ridge repairs using materials suited to desert conditions. Shingle work focuses on high-UV formulas, proper nailing patterns, and ventilation to maximize lifespan on two-story and single-story homes. Flat roofs are assessed for ponding, membrane integrity and edge details, with premium coatings available to extend service life and improve reflectivity for energy savings. We do not install metal roofs - our expertise centers on tile, shingle, flat membrane systems and protective coatings. Every project begins with a detailed inspection, written estimate and clear timeline. With 46+ years in business and a 4.97\u2605 reputation across 3,600+ reviews, our crew prioritizes workmanship, clean job sites and communication with homeowners and HOAs throughout East Tucson."
     },
     {
         "type": "paragraph",

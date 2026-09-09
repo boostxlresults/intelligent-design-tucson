@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Premium Slate & High-End Materials",
-    "description": "Hacienda del Sol and Pima Canyon properties often request slate or premium tiles \u2014 we match material quality and detailing expected in the highest-value homes."
+    "description": "Hacienda del Sol and Pima Canyon properties often request slate or premium tiles - we match material quality and detailing expected in the highest-value homes."
   },
   {
     "title": "Complex Roofline Expertise",
@@ -40,11 +40,11 @@ highlights: [
   },
   {
     "title": "Local Drainage & Flashing Solutions",
-    "description": "Steeper terrain around Finger Rock Trail and Ventana slopes changes runoff patterns \u2014 we prioritize valley flashing, gutter capacity, and scupper sizing for Catalina Foothills."
+    "description": "Steeper terrain around Finger Rock Trail and Ventana slopes changes runoff patterns - we prioritize valley flashing, gutter capacity, and scupper sizing for Catalina Foothills."
   },
   {
     "title": "Clear Pricing Ranges for Catalina Foothills",
-    "description": "Tile reroof projects in 85718/85750 often range $25k\u2013$75k; flat system work typically ranges $8k\u2013$30k depending on terraces and access \u2014 estimates reflect hillside logistics."
+    "description": "Tile reroof projects in 85718/85750 often range $25k\u2013$75k; flat system work typically ranges $8k\u2013$30k depending on terraces and access - estimates reflect hillside logistics."
   }
 ],
   content: {
@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tile roofs dominate here \u2014 approximately 70% of roofs in Catalina Foothills use tile \u2014 so specialized access equipment and technicians experienced with high pitches are essential. Older homes from the 1980s in the Campbell/Skyline corridor may have original underlayment that needs replacement even if tiles look fine; we commonly find deteriorated felt or early synthetic layers beneath intact tiles. Conversely, newer custom builds may use modern underlayments but introduce complex penetrations for solar, pools, and outdoor kitchens that demand precise flashing work. We document everything in photos and provide prioritized recommendations so homeowners in 85718 and 85750 can plan budgets and phased work with confidence."
+            "content": "Tile roofs dominate here - approximately 70% of roofs in Catalina Foothills use tile - so specialized access equipment and technicians experienced with high pitches are essential. Older homes from the 1980s in the Campbell/Skyline corridor may have original underlayment that needs replacement even if tiles look fine; we commonly find deteriorated felt or early synthetic layers beneath intact tiles. Conversely, newer custom builds may use modern underlayments but introduce complex penetrations for solar, pools, and outdoor kitchens that demand precise flashing work. We document everything in photos and provide prioritized recommendations so homeowners in 85718 and 85750 can plan budgets and phased work with confidence."
       },
       {
             "type": "cta",
@@ -87,9 +87,9 @@ highlights: [
       },
       {
             "type": "heading",
-            "heading": "Local Community Focus \u2014 Protecting Value in Catalina Foothills",
+            "heading": "Local Community Focus - Protecting Value in Catalina Foothills",
             "level": 2,
-            "content": "Local Community Focus \u2014 Protecting Value in Catalina Foothills"
+            "content": "Local Community Focus - Protecting Value in Catalina Foothills"
       },
       {
             "type": "paragraph",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Refinement Q1 for Roofing in Catalina Foothills",
-        "answer": "Do you need a phased approach for large estates? Yes \u2014 we can divide projects by roof zone (main house, guest house, pool house) and prioritize areas with failing underlayment or active leaks. This helps homeowners manage costs while addressing the most critical roof components first."
+        "answer": "Do you need a phased approach for large estates? Yes - we can divide projects by roof zone (main house, guest house, pool house) and prioritize areas with failing underlayment or active leaks. This helps homeowners manage costs while addressing the most critical roof components first."
     },
     {
         "question": "Refinement Q2",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Do you provide documentation for HOA submissions in 85718/85750? Yes \u2014 we prepare material samples, color chips, and detailed drawings showing rooflines and flashing details to streamline approval with local architectural review boards."
+        "answer": "Do you provide documentation for HOA submissions in 85718/85750? Yes - we prepare material samples, color chips, and detailed drawings showing rooflines and flashing details to streamline approval with local architectural review boards."
     },
     {
         "question": "Refinement Q5",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Refinement Q6",
-        "answer": "What maintenance plan do you recommend for homes near Sabino Canyon and Ventana Canyon? We recommend biannual inspections\u2014post-monsoon and late winter\u2014to clear valley debris, check for displaced tiles after storms, and verify flashing integrity where runoff concentrates from steep neighboring lots."
+        "answer": "What maintenance plan do you recommend for homes near Sabino Canyon and Ventana Canyon? We recommend biannual inspections-post-monsoon and late winter-to clear valley debris, check for displaced tiles after storms, and verify flashing integrity where runoff concentrates from steep neighboring lots."
     }
 ],
   

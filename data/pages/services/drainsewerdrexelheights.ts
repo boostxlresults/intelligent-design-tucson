@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Root Intrusion Solutions",
-    "description": "Mature desert trees near San Xavier del Bac and along Valencia Rd cause root intrusion\u2014we offer targeted root cutting and pipe lining to protect older systems."
+    "description": "Mature desert trees near San Xavier del Bac and along Valencia Rd cause root intrusion-we offer targeted root cutting and pipe lining to protect older systems."
   },
   {
     "title": "Camera Inspections for Bellied Pipes",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Drexel Heights is a community of mostly single-story block homes built from the 1970s through the 1990s, and those construction eras show in the sewer systems beneath them. In neighborhoods like Cardinal Heights and the Valencia corridor, clay and early PVC mains were installed when the area was being developed; decades of temperature swings at 2,600 ft elevation, subtle soil movement, and heavy root systems from palo verde and mesquite near the San Xavier del Bac corridor have left many homeowners facing slow drains, recurring clogs, and full backups. We prioritize camera inspections to identify bellied pipes caused by settling around older foundations and to detect root intrusion before it destroys joints. For many Drexel Heights properties\u2014especially those on lots near Ajo Highway or Valencia Road\u2014a trenchless liner repair can restore flow without disturbing original block yards, keeping projects in the same budget bands we see locally and respecting the tight lot layouts of Mission Manor homes."
+            "content": "Drexel Heights is a community of mostly single-story block homes built from the 1970s through the 1990s, and those construction eras show in the sewer systems beneath them. In neighborhoods like Cardinal Heights and the Valencia corridor, clay and early PVC mains were installed when the area was being developed; decades of temperature swings at 2,600 ft elevation, subtle soil movement, and heavy root systems from palo verde and mesquite near the San Xavier del Bac corridor have left many homeowners facing slow drains, recurring clogs, and full backups. We prioritize camera inspections to identify bellied pipes caused by settling around older foundations and to detect root intrusion before it destroys joints. For many Drexel Heights properties-especially those on lots near Ajo Highway or Valencia Road-a trenchless liner repair can restore flow without disturbing original block yards, keeping projects in the same budget bands we see locally and respecting the tight lot layouts of Mission Manor homes."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Homes built in the 1970s in Drexel Heights commonly have clay sewer laterals with bell-and-spigot joints that are vulnerable to root intrusion and settling. Over time, soil compaction and occasional summer monsoon runoff can create low spots where solids collect\u2014these bellied pipes are a frequent call from residents near Desert Trails Park and Mission Manor. Many properties also have compact backyards and original landscaping, which makes full trench replacement disruptive. Our technicians map lateral runs before recommending excavation; when access is limited between block walls and driveway slabs, we prefer cured-in-place pipe (CIPP) liners or sectional pipelining to restore structural integrity while keeping costs aligned with local home values. We also account for hard water conditions (190\u2013220 ppm) that worsen scale and require coordinated plumbing maintenance, such as aerator clearing, trap inspections, and hydro jetting when mineral accumulation is identified on camera."
+            "content": "Homes built in the 1970s in Drexel Heights commonly have clay sewer laterals with bell-and-spigot joints that are vulnerable to root intrusion and settling. Over time, soil compaction and occasional summer monsoon runoff can create low spots where solids collect-these bellied pipes are a frequent call from residents near Desert Trails Park and Mission Manor. Many properties also have compact backyards and original landscaping, which makes full trench replacement disruptive. Our technicians map lateral runs before recommending excavation; when access is limited between block walls and driveway slabs, we prefer cured-in-place pipe (CIPP) liners or sectional pipelining to restore structural integrity while keeping costs aligned with local home values. We also account for hard water conditions (190\u2013220 ppm) that worsen scale and require coordinated plumbing maintenance, such as aerator clearing, trap inspections, and hydro jetting when mineral accumulation is identified on camera."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We understand Drexel Heights as a historic working-class neighborhood with strong ties to San Xavier del Bac and an active, family-centered community. Our service approach reflects local rhythms: earlier start times to beat afternoon shade along the Tucson Mountains, sensitivity to parents dropping kids at nearby schools, and respect for yards where multigenerational families garden. When we work near community spots like Desert Trails Park or the Ajo Highway corridor, we minimize street impacts and communicate directly with neighbors. We also provide guidance for homeowners who want to pair sewer work with energy upgrades or water-softening systems\u2014important in an area where hard water and aging infrastructure intersect with affordability concerns."
+            "content": "We understand Drexel Heights as a historic working-class neighborhood with strong ties to San Xavier del Bac and an active, family-centered community. Our service approach reflects local rhythms: earlier start times to beat afternoon shade along the Tucson Mountains, sensitivity to parents dropping kids at nearby schools, and respect for yards where multigenerational families garden. When we work near community spots like Desert Trails Park or the Ajo Highway corridor, we minimize street impacts and communicate directly with neighbors. We also provide guidance for homeowners who want to pair sewer work with energy upgrades or water-softening systems-important in an area where hard water and aging infrastructure intersect with affordability concerns."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Are clay sewer lines common in Drexel Heights and what does that mean for repairs?",
-        "answer": "Yes\u2014many Drexel Heights homes built in the 1970s\u20131990s still have clay mains or early PVC. Clay joints are vulnerable to root intrusion and settling, which often leads to bellied sections that trap solids. Repairs start with a camera inspection to map damage; short repairs can be affordable ($150\u2013$1,500 locally), while long runs or full replacements\u2014especially across narrow lots or under driveways\u2014can escalate to several thousand dollars depending on access and length."
+        "answer": "Yes-many Drexel Heights homes built in the 1970s\u20131990s still have clay mains or early PVC. Clay joints are vulnerable to root intrusion and settling, which often leads to bellied sections that trap solids. Repairs start with a camera inspection to map damage; short repairs can be affordable ($150\u2013$1,500 locally), while long runs or full replacements-especially across narrow lots or under driveways-can escalate to several thousand dollars depending on access and length."
     },
     {
         "question": "How does Drexel Heights soil and elevation affect sewer performance?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "Are there affordable replacement options for owners of homes valued $220k\u2013$320k?",
-        "answer": "Yes. For many Drexel Heights homes in that price band, trenchless relining offers a cost-effective middle ground\u2014often less expensive than full dig replacement and more durable than repeated short repairs. We provide clear lifecycle and cost comparisons tailored to local property values."
+        "answer": "Yes. For many Drexel Heights homes in that price band, trenchless relining offers a cost-effective middle ground-often less expensive than full dig replacement and more durable than repeated short repairs. We provide clear lifecycle and cost comparisons tailored to local property values."
     },
     {
         "question": "How quickly can you respond to a sewer backup in Drexel Heights?",
@@ -153,7 +153,7 @@ highlights: [
     },
     {
         "question": "Would you like a sample camera inspection report for a typical 1970s Drexel Heights home?",
-        "answer": "We can draft a sample report showing likely findings\u2014root intrusion at joints, bellied sections near property lines, and mineral build-up\u2014plus recommended next steps and local price ranges for liner repair versus full replacement."
+        "answer": "We can draft a sample report showing likely findings-root intrusion at joints, bellied sections near property lines, and mineral build-up-plus recommended next steps and local price ranges for liner repair versus full replacement."
     },
     {
         "question": "Should we include a maintenance plan that accounts for hard water and desert tree roots?",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Do you want us to add case studies from recent Drexel Heights jobs (anonymized)?",
-        "answer": "Yes\u2014we can include brief, anonymized case studies showing before/after camera images, the solution chosen (hydro-jetting, sectional repair, or trenchless lining), and final costs, which helps Drexel Heights residents understand realistic outcomes."
+        "answer": "Yes-we can include brief, anonymized case studies showing before/after camera images, the solution chosen (hydro-jetting, sectional repair, or trenchless lining), and final costs, which helps Drexel Heights residents understand realistic outcomes."
     }
 ],
   

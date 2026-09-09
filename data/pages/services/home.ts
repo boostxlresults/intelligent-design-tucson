@@ -9,7 +9,7 @@ import { askAboutThisPlaceFAQs } from '@/data/faqs/askAboutThisPlace';
 export const homeData: ServicePageData = {
   // SEO & Meta
   title: 'Expert HVAC, Plumbing, Solar & Electrical | Tucson, AZ | Intelligent Design',
-  description: 'Tucson\\\'s most trusted home services company since 1979. Expert HVAC, plumbing, solar, electrical & roofing.',
+  description: 'Tucson\'s most trusted home services company since 1979. Expert HVAC, plumbing, solar, electrical & roofing.',
   slug: 'home',
   
   // Hero Section

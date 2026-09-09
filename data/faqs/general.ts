@@ -67,7 +67,7 @@ export const guaranteesFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What warranties do you offer on your work?",
-      answer: "We stand behind every job with comprehensive warranties. Our repairs include workmanship guarantees, and our installations come with both manufacturer warranties on equipment (typically 5-10 years on parts, 10+ years on compressors) and our own installation workmanship warranty. If it's not right, we'll make it right—guaranteed."
+      answer: "We stand behind every job with comprehensive warranties. Our repairs include workmanship guarantees, and our installations come with both manufacturer warranties on equipment (typically 5-10 years on parts, 10+ years on compressors) and our own installation workmanship warranty. If it's not right, we'll make it right-guaranteed."
     },
     {
       question: "How long are your workmanship warranties?",
@@ -95,7 +95,7 @@ export const guaranteesFAQs: ServiceFAQs = {
     },
     {
       question: "How do I file a warranty claim?",
-      answer: "Filing a warranty claim is easy—just call us! If you experience an issue with equipment or work we performed, contact our office and we'll schedule a service call. We handle all warranty documentation and, if needed, work directly with manufacturers on your behalf to process claims efficiently."
+      answer: "Filing a warranty claim is easy-just call us! If you experience an issue with equipment or work we performed, contact our office and we'll schedule a service call. We handle all warranty documentation and, if needed, work directly with manufacturers on your behalf to process claims efficiently."
     },
     {
       question: "Do preventive maintenance plans include warranty benefits?",
@@ -103,7 +103,7 @@ export const guaranteesFAQs: ServiceFAQs = {
     },
     {
       question: "What happens if you go out of business?",
-      answer: "We've been serving Tucson since 1979—over 45 years—and aren't going anywhere! We're a stable, family-owned, BBB A+ rated company with deep roots in this community. Manufacturer warranties on equipment remain valid regardless and can be serviced by any qualified contractor. Your investment is protected."
+      answer: "We've been serving Tucson since 1979-over 45 years-and aren't going anywhere! We're a stable, family-owned, BBB A+ rated company with deep roots in this community. Manufacturer warranties on equipment remain valid regardless and can be serviced by any qualified contractor. Your investment is protected."
     },
     {
       question: "Are your technicians licensed and insured?",
@@ -118,7 +118,7 @@ export const familyProtectionPlansFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What is the Family Protection Plan?",
-      answer: "Our Family Protection Plan is a comprehensive preventive maintenance program that covers your home's major systems—HVAC, plumbing, and electrical. Members receive scheduled tune-ups, priority service, repair discounts, and no overtime charges on emergency calls. It's like an insurance policy for your home's comfort and safety systems."
+      answer: "Our Family Protection Plan is a comprehensive preventive maintenance program that covers your home's major systems-HVAC, plumbing, and electrical. Members receive scheduled tune-ups, priority service, repair discounts, and no overtime charges on emergency calls. It's like an insurance policy for your home's comfort and safety systems."
     },
     {
       question: "What services are included in the Family Protection Plan?",
@@ -126,7 +126,7 @@ export const familyProtectionPlansFAQs: ServiceFAQs = {
     },
     {
       question: "How much does the Family Protection Plan cost?",
-      answer: "Family Protection Plan pricing depends on which systems you want covered and your home's size. Basic plans start around $299/year for HVAC-only coverage, while comprehensive plans covering HVAC, plumbing, and electrical run $499-699/year. Compare this to the cost of individual service calls and emergency repairs—most members save money in the first year alone."
+      answer: "Family Protection Plan pricing depends on which systems you want covered and your home's size. Basic plans start around $299/year for HVAC-only coverage, while comprehensive plans covering HVAC, plumbing, and electrical run $499-699/year. Compare this to the cost of individual service calls and emergency repairs-most members save money in the first year alone."
     },
     {
       question: "Can I cancel my Family Protection Plan?",
@@ -134,11 +134,11 @@ export const familyProtectionPlansFAQs: ServiceFAQs = {
     },
     {
       question: "What's the difference between a maintenance plan and a home warranty?",
-      answer: "Our maintenance plan focuses on prevention—regular tune-ups and inspections prevent breakdowns and extend equipment life. Home warranties cover repairs when things break. Our plan offers repair discounts and priority service but isn't insurance. Think of it as proactive protection versus reactive coverage. Many members have both."
+      answer: "Our maintenance plan focuses on prevention-regular tune-ups and inspections prevent breakdowns and extend equipment life. Home warranties cover repairs when things break. Our plan offers repair discounts and priority service but isn't insurance. Think of it as proactive protection versus reactive coverage. Many members have both."
     },
     {
       question: "Do I get priority service as a Family Protection Plan member?",
-      answer: "Yes! Members get priority scheduling ahead of non-members, especially important during peak season when AC demand is highest. You'll also get no-overtime charges on emergency calls—even nights, weekends, and holidays. Priority service means faster response when you need us most."
+      answer: "Yes! Members get priority scheduling ahead of non-members, especially important during peak season when AC demand is highest. You'll also get no-overtime charges on emergency calls-even nights, weekends, and holidays. Priority service means faster response when you need us most."
     },
     {
       question: "How much can I save with the plan's repair discount?",
@@ -154,11 +154,11 @@ export const familyProtectionPlansFAQs: ServiceFAQs = {
     },
     {
       question: "Are there any hidden fees or charges?",
-      answer: "No! The plan price is all-inclusive—no trip charges, no diagnostic fees, no hidden costs. You know exactly what you're paying upfront. If repairs are needed beyond the included maintenance, you'll get transparent pricing with your 15% member discount before any work begins. No surprises."
+      answer: "No! The plan price is all-inclusive-no trip charges, no diagnostic fees, no hidden costs. You know exactly what you're paying upfront. If repairs are needed beyond the included maintenance, you'll get transparent pricing with your 15% member discount before any work begins. No surprises."
     },
     {
       question: "How do Family Protection Plans prevent expensive repairs?",
-      answer: "Regular maintenance catches small issues before they become expensive emergencies. Clean coils improve efficiency and prevent compressor failure. Flushed water heaters last years longer. Inspected electrical connections prevent dangerous failures. In Tucson's extreme climate, preventive care is essential—and our members enjoy better reliability, lower energy bills, and fewer expensive surprises."
+      answer: "Regular maintenance catches small issues before they become expensive emergencies. Clean coils improve efficiency and prevent compressor failure. Flushed water heaters last years longer. Inspected electrical connections prevent dangerous failures. In Tucson's extreme climate, preventive care is essential-and our members enjoy better reliability, lower energy bills, and fewer expensive surprises."
     }
   ]
 };
@@ -169,7 +169,7 @@ export const generalAreaFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "Do you provide service in my area?",
-      answer: "Yes! Intelligent Design proudly serves all of greater Tucson including Oro Valley, Marana, Catalina, Vail, Sahuarita, Green Valley, Corona de Tucson, Catalina Foothills, Tortolita, and all surrounding communities. We've been serving the entire Tucson metropolitan area since 1979—over 45 years of trusted local service."
+      answer: "Yes! Intelligent Design proudly serves all of greater Tucson including Oro Valley, Marana, Catalina, Vail, Sahuarita, Green Valley, Corona de Tucson, Catalina Foothills, Tortolita, and all surrounding communities. We've been serving the entire Tucson metropolitan area since 1979-over 45 years of trusted local service."
     },
     {
       question: "What types of home services do you offer?",
@@ -177,7 +177,7 @@ export const generalAreaFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer emergency service?",
-      answer: "Yes! We provide 24/7 emergency service for HVAC, plumbing, and electrical issues throughout the greater Tucson area. When your AC fails during summer heat, you have a burst pipe, or experience an electrical emergency, our licensed technicians respond quickly—typically within 1-2 hours. We're here when you need us most."
+      answer: "Yes! We provide 24/7 emergency service for HVAC, plumbing, and electrical issues throughout the greater Tucson area. When your AC fails during summer heat, you have a burst pipe, or experience an electrical emergency, our licensed technicians respond quickly-typically within 1-2 hours. We're here when you need us most."
     },
     {
       question: "How quickly can you respond to service calls?",
@@ -189,7 +189,7 @@ export const generalAreaFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer financing options?",
-      answer: "Yes! We offer flexible financing options for installations and major repairs with approved credit. We partner with leading lenders to provide competitive rates, manageable monthly payments, and special promotional financing. Financing makes essential home improvements accessible and affordable, with applications processed quickly—often within minutes."
+      answer: "Yes! We offer flexible financing options for installations and major repairs with approved credit. We partner with leading lenders to provide competitive rates, manageable monthly payments, and special promotional financing. Financing makes essential home improvements accessible and affordable, with applications processed quickly-often within minutes."
     },
     {
       question: "What makes Intelligent Design different from other contractors?",
@@ -197,15 +197,15 @@ export const generalAreaFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer maintenance plans?",
-      answer: "Yes! Our Family Protection Plans include scheduled maintenance for HVAC, plumbing, and electrical systems, priority scheduling, 15% discounts on repairs, and no overtime charges on emergency calls. Regular maintenance prevents expensive breakdowns, improves efficiency, and extends equipment life—especially important in Tucson's extreme climate."
+      answer: "Yes! Our Family Protection Plans include scheduled maintenance for HVAC, plumbing, and electrical systems, priority scheduling, 15% discounts on repairs, and no overtime charges on emergency calls. Regular maintenance prevents expensive breakdowns, improves efficiency, and extends equipment life-especially important in Tucson's extreme climate."
     },
     {
       question: "How long have you been serving the Tucson area?",
-      answer: "Intelligent Design has been proudly serving Tucson since 1979—over 45 years of trusted service. We're a family and veteran-owned local company with deep roots in this community. We actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs. We're here for the long term."
+      answer: "Intelligent Design has been proudly serving Tucson since 1979-over 45 years of trusted service. We're a family and veteran-owned local company with deep roots in this community. We actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs. We're here for the long term."
     },
     {
       question: "Do you provide free estimates?",
-      answer: "Yes! We provide free, no-obligation estimates for installations and major projects like AC replacement, solar installations, water heater installation, electrical panel upgrades, and roofing. For repairs and service calls, we charge a diagnostic fee that's waived if you proceed with recommended repairs. All pricing is transparent and upfront—no surprises."
+      answer: "Yes! We provide free, no-obligation estimates for installations and major projects like AC replacement, solar installations, water heater installation, electrical panel upgrades, and roofing. For repairs and service calls, we charge a diagnostic fee that's waived if you proceed with recommended repairs. All pricing is transparent and upfront-no surprises."
     },
     {
       question: "What are your service hours?",
@@ -224,11 +224,11 @@ export const homepageFAQs: ServiceFAQs = {
     },
     {
       question: "How long has Intelligent Design been in business?",
-      answer: "We've proudly served the Tucson community since 1979—over 45 years of trusted service. We're a family and veteran-owned local company with deep roots in Arizona. Our longevity speaks to our commitment to quality, integrity, and customer satisfaction. We're not going anywhere—we're here for the long term."
+      answer: "We've proudly served the Tucson community since 1979-over 45 years of trusted service. We're a family and veteran-owned local company with deep roots in Arizona. Our longevity speaks to our commitment to quality, integrity, and customer satisfaction. We're not going anywhere-we're here for the long term."
     },
     {
       question: "Why should I choose Intelligent Design over other contractors?",
-      answer: "With 23,000+ five-star reviews (4.97 rating), BBB A+ rating since 1979, and family/veteran ownership, we combine exceptional service with deep local expertise. Our technicians average 17 years of experience, we offer transparent upfront pricing with no hidden fees, comprehensive warranties, 100% satisfaction guarantees, and our technicians don't work on commission—so you get honest recommendations focused on your needs, not sales."
+      answer: "With 23,000+ five-star reviews (4.97 rating), BBB A+ rating since 1979, and family/veteran ownership, we combine exceptional service with deep local expertise. Our technicians average 17 years of experience, we offer transparent upfront pricing with no hidden fees, comprehensive warranties, 100% satisfaction guarantees, and our technicians don't work on commission-so you get honest recommendations focused on your needs, not sales."
     },
     {
       question: "Are you licensed and insured in Arizona?",
@@ -252,7 +252,7 @@ export const homepageFAQs: ServiceFAQs = {
     },
     {
       question: "Do you have maintenance plans?",
-      answer: "Yes! Our Family Protection Plans include scheduled preventive maintenance for HVAC, plumbing, and electrical systems, priority scheduling, 15% repair discounts, and no overtime charges. Plans start at $299/year. Regular maintenance prevents expensive breakdowns, improves efficiency, and extends equipment life—especially critical in Tucson's extreme climate."
+      answer: "Yes! Our Family Protection Plans include scheduled preventive maintenance for HVAC, plumbing, and electrical systems, priority scheduling, 15% repair discounts, and no overtime charges. Plans start at $299/year. Regular maintenance prevents expensive breakdowns, improves efficiency, and extends equipment life-especially critical in Tucson's extreme climate."
     },
     {
       question: "How can I schedule service?",
@@ -279,11 +279,11 @@ export const customerReviewsFAQs: ServiceFAQs = {
     },
     {
       question: "How do you have so many five-star reviews?",
-      answer: "Simple: we focus relentlessly on customer satisfaction. Our technicians are experienced professionals who arrive on time, explain everything clearly, provide upfront pricing, do quality work, and treat your home with respect. We've been doing this for over 45 years, and excellence in service is our standard—not the exception. When you consistently exceed expectations, great reviews naturally follow."
+      answer: "Simple: we focus relentlessly on customer satisfaction. Our technicians are experienced professionals who arrive on time, explain everything clearly, provide upfront pricing, do quality work, and treat your home with respect. We've been doing this for over 45 years, and excellence in service is our standard-not the exception. When you consistently exceed expectations, great reviews naturally follow."
     },
     {
       question: "Can I leave a review after my service?",
-      answer: "We'd love to hear about your experience! After your service, you'll receive an email with links to leave reviews on Google, Facebook, and other platforms. Your honest feedback—whether praising our team or offering constructive suggestions—helps us improve and helps other Tucson homeowners make informed decisions about their home service needs."
+      answer: "We'd love to hear about your experience! After your service, you'll receive an email with links to leave reviews on Google, Facebook, and other platforms. Your honest feedback-whether praising our team or offering constructive suggestions-helps us improve and helps other Tucson homeowners make informed decisions about their home service needs."
     },
     {
       question: "Do you respond to negative reviews?",
@@ -295,7 +295,7 @@ export const customerReviewsFAQs: ServiceFAQs = {
     },
     {
       question: "How many of your customers are repeat customers?",
-      answer: "The majority of our business comes from repeat customers and referrals—a testament to the trust we've built over 46+ years. Many customers who started with us for AC service now rely on us for all their home needs: plumbing, electrical, solar, roofing. When you deliver exceptional service consistently, customers become loyal advocates who recommend us to family and friends."
+      answer: "The majority of our business comes from repeat customers and referrals-a testament to the trust we've built over 46+ years. Many customers who started with us for AC service now rely on us for all their home needs: plumbing, electrical, solar, roofing. When you deliver exceptional service consistently, customers become loyal advocates who recommend us to family and friends."
     },
     {
       question: "Can I see before-and-after photos of your work?",
@@ -307,7 +307,7 @@ export const customerReviewsFAQs: ServiceFAQs = {
     },
     {
       question: "What if I'm not satisfied with my service?",
-      answer: "Your satisfaction is our top priority. If you're not completely happy with our work, contact us immediately. We'll send a supervisor to review the situation and work with you to make it right. Our 100% satisfaction guarantee means we're not done until you're delighted with the results. We've built our reputation on making customers happy—and we protect it fiercely."
+      answer: "Your satisfaction is our top priority. If you're not completely happy with our work, contact us immediately. We'll send a supervisor to review the situation and work with you to make it right. Our 100% satisfaction guarantee means we're not done until you're delighted with the results. We've built our reputation on making customers happy-and we protect it fiercely."
     },
     {
       question: "Can I contact other customers who've used your services?",
@@ -346,7 +346,7 @@ export const realtorOfferFAQs: ServiceFAQs = {
     },
     {
       question: "How do I enroll in the realtor partnership program?",
-      answer: "Enrollment is simple! Contact us by phone or through our website, let us know you're a licensed realtor, and we'll set up your partnership account. You'll receive direct contact information for our realtor coordinator, priority scheduling codes, and program details. There's no paperwork or fees—just benefits for you and your clients."
+      answer: "Enrollment is simple! Contact us by phone or through our website, let us know you're a licensed realtor, and we'll set up your partnership account. You'll receive direct contact information for our realtor coordinator, priority scheduling codes, and program details. There's no paperwork or fees-just benefits for you and your clients."
     },
     {
       question: "Can you provide estimates for buyers before purchase?",
@@ -393,7 +393,7 @@ export const newHomeBuyerOfferFAQs: ServiceFAQs = {
     },
     {
       question: "What if I need repairs immediately after moving in?",
-      answer: "New home buyers get priority scheduling for unexpected issues that emerge after closing. Whether your AC stops working during move-in, you discover a plumbing leak, or experience electrical problems, we'll respond quickly—typically same-day or next-day. Your special pricing applies to emergency services too."
+      answer: "New home buyers get priority scheduling for unexpected issues that emerge after closing. Whether your AC stops working during move-in, you discover a plumbing leak, or experience electrical problems, we'll respond quickly-typically same-day or next-day. Your special pricing applies to emergency services too."
     },
     {
       question: "Can I finance repairs and upgrades with this offer?",
@@ -428,19 +428,19 @@ export const whyChooseFAQs: ServiceFAQs = {
     },
     {
       question: "What makes Intelligent Design a trusted Tucson company?",
-      answer: "We're not a national franchise—we're a local, family and veteran-owned company that's been part of this community for over 45 years. We actively support Tucson organizations including the Community Food Bank, Make-A-Wish Arizona, and veteran support programs. We've served three generations of Tucson families, and our technicians live in the neighborhoods they serve. When you choose us, you're supporting a local business that reinvests in our community."
+      answer: "We're not a national franchise-we're a local, family and veteran-owned company that's been part of this community for over 45 years. We actively support Tucson organizations including the Community Food Bank, Make-A-Wish Arizona, and veteran support programs. We've served three generations of Tucson families, and our technicians live in the neighborhoods they serve. When you choose us, you're supporting a local business that reinvests in our community."
     },
     {
       question: "How experienced are your technicians?",
-      answer: "Our technicians average 17 years of experience each—far exceeding industry standards. All hold valid Arizona contractor licenses (ROC 340962, 322375, 296386, 276673) and undergo continuous training on the latest HVAC, plumbing, electrical, solar, and roofing technology. They're background-checked, drug-tested professionals who arrive in clean uniforms, use protective shoe covers, and treat your home with respect. We invest heavily in our team because quality technicians deliver quality results."
+      answer: "Our technicians average 17 years of experience each-far exceeding industry standards. All hold valid Arizona contractor licenses (ROC 340962, 322375, 296386, 276673) and undergo continuous training on the latest HVAC, plumbing, electrical, solar, and roofing technology. They're background-checked, drug-tested professionals who arrive in clean uniforms, use protective shoe covers, and treat your home with respect. We invest heavily in our team because quality technicians deliver quality results."
     },
     {
       question: "Do your technicians work on commission?",
-      answer: "No! This is a critical difference. Our technicians are salaried professionals, not commission-based salespeople. They're incentivized to provide honest recommendations and quality work—not to upsell unnecessary services or equipment. This means you get trustworthy advice focused on your actual needs and budget, not what generates the highest commission. It's one reason customers trust us for over four decades."
+      answer: "No! This is a critical difference. Our technicians are salaried professionals, not commission-based salespeople. They're incentivized to provide honest recommendations and quality work-not to upsell unnecessary services or equipment. This means you get trustworthy advice focused on your actual needs and budget, not what generates the highest commission. It's one reason customers trust us for over four decades."
     },
     {
       question: "What is your customer satisfaction rating?",
-      answer: "We maintain a 4.97 out of 5.0 rating across 23,000+ verified customer reviews on Google, Facebook, Yelp, and other platforms. We're also BBB A+ rated since 1979. These aren't paid testimonials—they're real experiences from Tucson homeowners and businesses. Our consistency across all review platforms demonstrates our commitment to excellence on every single job, whether it's a simple repair or major installation."
+      answer: "We maintain a 4.97 out of 5.0 rating across 23,000+ verified customer reviews on Google, Facebook, Yelp, and other platforms. We're also BBB A+ rated since 1979. These aren't paid testimonials-they're real experiences from Tucson homeowners and businesses. Our consistency across all review platforms demonstrates our commitment to excellence on every single job, whether it's a simple repair or major installation."
     },
     {
       question: "How does being family-owned benefit customers?",
@@ -460,11 +460,11 @@ export const whyChooseFAQs: ServiceFAQs = {
     },
     {
       question: "How do you handle customer complaints or issues?",
-      answer: "We take every concern seriously and address it promptly. If you're not satisfied, contact us immediately—a supervisor will review the situation and work with you to make it right. Our 100% satisfaction guarantee means we're not done until you're delighted. We've maintained our A+ BBB rating and 4.97 customer rating by responding quickly to concerns, taking responsibility, and delivering solutions. Your trust is our most valuable asset."
+      answer: "We take every concern seriously and address it promptly. If you're not satisfied, contact us immediately-a supervisor will review the situation and work with you to make it right. Our 100% satisfaction guarantee means we're not done until you're delighted. We've maintained our A+ BBB rating and 4.97 customer rating by responding quickly to concerns, taking responsibility, and delivering solutions. Your trust is our most valuable asset."
     },
     {
       question: "What sets Intelligent Design apart from national franchise competitors?",
-      answer: "Unlike national franchises with rotating technicians and corporate bureaucracy, we're locally owned with deep community roots. Our technicians are long-term employees (averaging 17 years), not subcontractors. We make decisions locally based on what's right for Tucson customers, not corporate quotas. We've been here 46+ years and aren't going anywhere. When you call, you get a real person in Tucson who knows your neighborhood and cares about your satisfaction—not a call center routing you to the next available franchise."
+      answer: "Unlike national franchises with rotating technicians and corporate bureaucracy, we're locally owned with deep community roots. Our technicians are long-term employees (averaging 17 years), not subcontractors. We make decisions locally based on what's right for Tucson customers, not corporate quotas. We've been here 46+ years and aren't going anywhere. When you call, you get a real person in Tucson who knows your neighborhood and cares about your satisfaction-not a call center routing you to the next available franchise."
     }
   ]
 };
@@ -483,7 +483,7 @@ export const knowledgeHubFAQs: ServiceFAQs = {
     },
     {
       question: "Who writes the content in your Knowledge Hub?",
-      answer: "All our content is created by licensed, experienced HVAC, plumbing, electrical, solar, and roofing professionals on our team—the same technicians who serve Tucson homes daily. They average 17 years of experience each and share real-world insights, troubleshooting tips, and maintenance advice based on thousands of service calls. You're getting expert knowledge from professionals who know Tucson's unique climate challenges."
+      answer: "All our content is created by licensed, experienced HVAC, plumbing, electrical, solar, and roofing professionals on our team-the same technicians who serve Tucson homes daily. They average 17 years of experience each and share real-world insights, troubleshooting tips, and maintenance advice based on thousands of service calls. You're getting expert knowledge from professionals who know Tucson's unique climate challenges."
     },
     {
       question: "Can I find DIY tips and maintenance advice in the Knowledge Hub?",
@@ -515,7 +515,7 @@ export const knowledgeHubFAQs: ServiceFAQs = {
     },
     {
       question: "Does reading Knowledge Hub articles qualify me to perform licensed work?",
-      answer: "No. Our articles are educational resources to help you understand your home's systems, not certifications to perform licensed work. HVAC, plumbing, electrical, and roofing work in Arizona requires proper licensing (ROC), permits, inspections, and insurance for your safety and legal protection. We clearly indicate which tasks homeowners can safely DIY and which require licensed professionals. When in doubt, call us—we're here to help."
+      answer: "No. Our articles are educational resources to help you understand your home's systems, not certifications to perform licensed work. HVAC, plumbing, electrical, and roofing work in Arizona requires proper licensing (ROC), permits, inspections, and insurance for your safety and legal protection. We clearly indicate which tasks homeowners can safely DIY and which require licensed professionals. When in doubt, call us-we're here to help."
     }
   ]
 };

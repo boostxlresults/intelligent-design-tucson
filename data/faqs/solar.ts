@@ -116,7 +116,7 @@ export const solarMaintenanceFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "Why is solar panel maintenance important in Tucson?",
-      answer: "Tucson's harsh desert environment—intense UV exposure, dust storms, haboobs, extreme heat, and monsoon weather—is particularly tough on solar panels. Regular maintenance including cleaning, inspection, and performance optimization can increase energy production by 15-25% and extend system life by 5-10 years. Professional maintenance prevents small issues from becoming expensive failures in our extreme climate, protecting your solar investment."
+      answer: "Tucson's harsh desert environment-intense UV exposure, dust storms, haboobs, extreme heat, and monsoon weather-is particularly tough on solar panels. Regular maintenance including cleaning, inspection, and performance optimization can increase energy production by 15-25% and extend system life by 5-10 years. Professional maintenance prevents small issues from becoming expensive failures in our extreme climate, protecting your solar investment."
     },
     {
       question: "How often should solar panels be cleaned in Tucson?",
@@ -124,7 +124,7 @@ export const solarMaintenanceFAQs: ServiceFAQs = {
     },
     {
       question: "What value does professional solar panel maintenance provide?",
-      answer: "Professional solar panel maintenance includes cleaning, inspection, and performance testing to maximize system efficiency. This investment typically pays for itself through increased energy production—efficiency gains from regular cleaning can provide substantial annual electricity cost savings. In Tucson's dusty climate, proper maintenance is essential to ensure your solar system delivers maximum value and performance throughout its 25+ year lifespan."
+      answer: "Professional solar panel maintenance includes cleaning, inspection, and performance testing to maximize system efficiency. This investment typically pays for itself through increased energy production-efficiency gains from regular cleaning can provide substantial annual electricity cost savings. In Tucson's dusty climate, proper maintenance is essential to ensure your solar system delivers maximum value and performance throughout its 25+ year lifespan."
     },
     {
       question: "Can I clean my solar panels myself?",
@@ -140,7 +140,7 @@ export const solarMaintenanceFAQs: ServiceFAQs = {
     },
     {
       question: "Will dirty solar panels damage my system?",
-      answer: "While dirt itself doesn't damage panels, heavy buildup can cause hot spots that degrade cells over time, and excessive dust traps heat that accelerates panel aging. More critically, you lose significant production—a 25% efficiency loss costs hundreds of dollars annually in lost energy. Regular cleaning prevents both performance loss and premature panel degradation, protecting your solar investment."
+      answer: "While dirt itself doesn't damage panels, heavy buildup can cause hot spots that degrade cells over time, and excessive dust traps heat that accelerates panel aging. More critically, you lose significant production-a 25% efficiency loss costs hundreds of dollars annually in lost energy. Regular cleaning prevents both performance loss and premature panel degradation, protecting your solar investment."
     },
     {
       question: "What signs indicate my solar panels need maintenance?",
@@ -187,7 +187,7 @@ export const solarACIntegrationFAQs: ServiceFAQs = {
     },
     {
       question: "Will solar AC work during Tucson's monsoon season?",
-      answer: "Yes, though production is reduced during cloudy or rainy periods. Even on overcast monsoon days, solar panels produce 20-40% of normal output, still offsetting significant AC costs. Most monsoon storms are brief afternoon events—panels produce well in morning and late afternoon. Proper system sizing accounts for seasonal variations to ensure year-round savings and performance."
+      answer: "Yes, though production is reduced during cloudy or rainy periods. Even on overcast monsoon days, solar panels produce 20-40% of normal output, still offsetting significant AC costs. Most monsoon storms are brief afternoon events-panels produce well in morning and late afternoon. Proper system sizing accounts for seasonal variations to ensure year-round savings and performance."
     },
     {
       question: "Does solar AC integration require special equipment?",
@@ -203,7 +203,7 @@ export const solarACIntegrationFAQs: ServiceFAQs = {
     },
     {
       question: "What maintenance does solar AC integration require?",
-      answer: "Regular solar panel cleaning (critical in dusty Tucson), annual AC tune-ups to ensure efficient operation, and system performance monitoring to optimize energy usage. Clean solar panels produce 20% more power, and well-maintained AC systems use less energy—together they maximize savings. We offer comprehensive maintenance plans covering both solar and HVAC systems for peak year-round performance."
+      answer: "Regular solar panel cleaning (critical in dusty Tucson), annual AC tune-ups to ensure efficient operation, and system performance monitoring to optimize energy usage. Clean solar panels produce 20% more power, and well-maintained AC systems use less energy-together they maximize savings. We offer comprehensive maintenance plans covering both solar and HVAC systems for peak year-round performance."
     },
     {
       question: "Can I add solar to my existing AC system?",
@@ -281,7 +281,7 @@ export const solarTaxCreditsFAQs: ServiceFAQs = {
     },
     {
       question: "Can I claim the solar tax credit if I finance my system?",
-      answer: "Yes, you can claim the full 30% credit whether you pay cash, finance with a solar loan, or use a home equity loan—as long as you own the system. However, if you lease solar panels or use a power purchase agreement (PPA), the system owner (leasing company) claims the credit, not you. Ownership is key to receiving this valuable federal benefit."
+      answer: "Yes, you can claim the full 30% credit whether you pay cash, finance with a solar loan, or use a home equity loan-as long as you own the system. However, if you lease solar panels or use a power purchase agreement (PPA), the system owner (leasing company) claims the credit, not you. Ownership is key to receiving this valuable federal benefit."
     },
     {
       question: "Does Arizona offer additional solar tax credits or incentives?",
@@ -289,7 +289,7 @@ export const solarTaxCreditsFAQs: ServiceFAQs = {
     },
     {
       question: "What is the solar tax credit schedule through 2035?",
-      answer: "The federal solar tax credit is 30% for systems installed 2022-2032, then decreases to 26% in 2033, 22% in 2034, and currently scheduled to drop to 0% for residential (10% for commercial) after 2034 unless Congress extends it. Installing sooner rather than later maximizes your tax benefit—waiting until 2033-2034 means smaller credits, potentially higher equipment costs, and years of lost energy savings."
+      answer: "The federal solar tax credit is 30% for systems installed 2022-2032, then decreases to 26% in 2033, 22% in 2034, and currently scheduled to drop to 0% for residential (10% for commercial) after 2034 unless Congress extends it. Installing sooner rather than later maximizes your tax benefit-waiting until 2033-2034 means smaller credits, potentially higher equipment costs, and years of lost energy savings."
     },
     {
       question: "Can I claim the solar tax credit for a battery backup system?",
@@ -297,7 +297,7 @@ export const solarTaxCreditsFAQs: ServiceFAQs = {
     },
     {
       question: "What if my tax liability is less than the solar credit amount?",
-      answer: "If your tax liability is less than the credit amount in the installation year, you typically cannot get a refund for the difference—the credit is non-refundable. However, you can carry forward the unused portion to future tax years until fully used. For large systems, consult a tax professional about strategies to maximize the credit, potentially including timing installation to years with higher income."
+      answer: "If your tax liability is less than the credit amount in the installation year, you typically cannot get a refund for the difference-the credit is non-refundable. However, you can carry forward the unused portion to future tax years until fully used. For large systems, consult a tax professional about strategies to maximize the credit, potentially including timing installation to years with higher income."
     },
     {
       question: "Do I need to live in the home to claim the solar tax credit?",
@@ -309,7 +309,7 @@ export const solarTaxCreditsFAQs: ServiceFAQs = {
     },
     {
       question: "Will claiming the solar tax credit trigger an IRS audit?",
-      answer: "Claiming the solar tax credit is legitimate and common—millions of Americans claim it annually without issues. Having proper documentation including itemized invoices, proof of payment, system specifications, and installation certification minimizes audit risk. Keep all solar-related receipts and documents for at least 7 years. Working with a qualified tax professional ensures accurate filing and proper credit calculation to maximize your benefits."
+      answer: "Claiming the solar tax credit is legitimate and common-millions of Americans claim it annually without issues. Having proper documentation including itemized invoices, proof of payment, system specifications, and installation certification minimizes audit risk. Keep all solar-related receipts and documents for at least 7 years. Working with a qualified tax professional ensures accurate filing and proper credit calculation to maximize your benefits."
     }
   ]
 };
@@ -320,7 +320,7 @@ export const solarTubularLightsFAQs: ServiceFAQs = {
   faqs: [
     {
       question: "What are solar tubular lights (Solatubes)?",
-      answer: "Solar tubular lights, commonly called Solatubes, are daylight delivery systems that capture sunlight on your roof and channel it through reflective tubes into interior rooms, providing natural lighting without electricity. They're perfect for dark hallways, bathrooms, closets, and interior spaces in Tucson homes. Unlike solar panels, these are purely passive lighting systems requiring no power or batteries—they simply pipe natural sunlight indoors."
+      answer: "Solar tubular lights, commonly called Solatubes, are daylight delivery systems that capture sunlight on your roof and channel it through reflective tubes into interior rooms, providing natural lighting without electricity. They're perfect for dark hallways, bathrooms, closets, and interior spaces in Tucson homes. Unlike solar panels, these are purely passive lighting systems requiring no power or batteries-they simply pipe natural sunlight indoors."
     },
     {
       question: "What factors affect Solatube installation costs in Tucson?",
@@ -344,7 +344,7 @@ export const solarTubularLightsFAQs: ServiceFAQs = {
     },
     {
       question: "Do Solatubes work at night or during monsoons?",
-      answer: "Solatubes only provide light when sunlight is available—they don't work at night. During cloudy or rainy monsoon days, they provide reduced but still useful natural light (about 30-50% of sunny day output). Most homes use Solatubes to supplement, not replace, electric lighting. Optional add-on features include integrated LED lights for nighttime illumination, providing 24/7 lighting solutions in one fixture."
+      answer: "Solatubes only provide light when sunlight is available-they don't work at night. During cloudy or rainy monsoon days, they provide reduced but still useful natural light (about 30-50% of sunny day output). Most homes use Solatubes to supplement, not replace, electric lighting. Optional add-on features include integrated LED lights for nighttime illumination, providing 24/7 lighting solutions in one fixture."
     },
     {
       question: "Can Solatubes be installed on tile roofs common in Tucson?",

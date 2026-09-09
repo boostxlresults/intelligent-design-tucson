@@ -17,7 +17,7 @@ export const roofingsaddlebrookecatalinaData: ServicePageData = {
 highlights: [
   {
     "title": "Local Elevation Knowledge",
-    "description": "We understand roofing at 3,200\u20133,600 ft\u2014frost cycles, pine needle debris, and cooler mountain-adjacent weather inform every repair and replacement."
+    "description": "We understand roofing at 3,200\u20133,600 ft-frost cycles, pine needle debris, and cooler mountain-adjacent weather inform every repair and replacement."
   },
   {
     "title": "Tile Roof Specialists",
@@ -72,11 +72,11 @@ highlights: [
     },
     {
         "type": "paragraph",
-        "content": "Our process for SaddleBrooke and Catalina roofs starts with a detailed inspection focused on local vulnerabilities like frost-damaged flashing, pine-needle buildup, and wear from daily temperature swings. For repairs we prioritize durable fixes\u2014compatible underlayment, high-quality sealants, and correct fastener patterns for tiles and shingles. Replacements include matching tile profiles for neighborhood aesthetic continuity or selecting shingle systems rated for freeze-thaw durability. Flat roofs receive careful evaluation for drainage and are candidates for protective coatings when appropriate. We handle permits, HOA approvals and clean, respectful job sites. Intelligent Design\u2019s 46+ years, 4.97\u2605 rating and 3,600+ reviews reflect our commitment to transparent estimates, honest timelines, and craftsmanship that lasts in this mountain-adjacent climate."
+        "content": "Our process for SaddleBrooke and Catalina roofs starts with a detailed inspection focused on local vulnerabilities like frost-damaged flashing, pine-needle buildup, and wear from daily temperature swings. For repairs we prioritize durable fixes-compatible underlayment, high-quality sealants, and correct fastener patterns for tiles and shingles. Replacements include matching tile profiles for neighborhood aesthetic continuity or selecting shingle systems rated for freeze-thaw durability. Flat roofs receive careful evaluation for drainage and are candidates for protective coatings when appropriate. We handle permits, HOA approvals and clean, respectful job sites. Intelligent Design\u2019s 46+ years, 4.97\u2605 rating and 3,600+ reviews reflect our commitment to transparent estimates, honest timelines, and craftsmanship that lasts in this mountain-adjacent climate."
     },
     {
         "type": "paragraph",
-        "content": "We\u2019re invested in the SaddleBrooke and Catalina communities\u2014serving Catalina town center residents, homeowners near Oracle junction and Biosphere 2, and SaddleBrooke\u2019s luxury neighborhoods. We work with HOAs to preserve architectural standards, and we tailor schedules for retirees, busy families, and rural parcels requiring special logistics. Our teams take care to protect landscaping, driveways and outdoor living spaces common in these neighborhoods. Beyond repairs and replacements, we offer preventative maintenance plans to clear debris, inspect after storms, and apply coatings as needed to extend roof life. Local partnerships and decades of service mean we provide solutions that fit both your home\u2019s character and the unique climate demands of SaddleBrooke and Catalina."
+        "content": "We\u2019re invested in the SaddleBrooke and Catalina communities-serving Catalina town center residents, homeowners near Oracle junction and Biosphere 2, and SaddleBrooke\u2019s luxury neighborhoods. We work with HOAs to preserve architectural standards, and we tailor schedules for retirees, busy families, and rural parcels requiring special logistics. Our teams take care to protect landscaping, driveways and outdoor living spaces common in these neighborhoods. Beyond repairs and replacements, we offer preventative maintenance plans to clear debris, inspect after storms, and apply coatings as needed to extend roof life. Local partnerships and decades of service mean we provide solutions that fit both your home\u2019s character and the unique climate demands of SaddleBrooke and Catalina."
     },
     {
         "type": "cta",
@@ -132,7 +132,7 @@ highlights: [
     },
     {
         "question": "RQ4",
-        "answer": "Yes. We schedule regular maintenance visits to clear debris, check flashing and gutters, and identify small issues before they become major problems\u2014important in areas with pine trees and frost cycles."
+        "answer": "Yes. We schedule regular maintenance visits to clear debris, check flashing and gutters, and identify small issues before they become major problems-important in areas with pine trees and frost cycles."
     }
 ],
   serviceArea: {

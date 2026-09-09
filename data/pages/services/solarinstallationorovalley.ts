@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Elevation-Adjusted Design",
-    "description": "At 2,600\u20133,200 ft elevation, panels run cooler here \u2014 we model production with Catalina Mountain afternoon shade in mind for accurate estimates."
+    "description": "At 2,600\u20133,200 ft elevation, panels run cooler here - we model production with Catalina Mountain afternoon shade in mind for accurate estimates."
   },
   {
     "title": "Larger Systems for Upscale Homes",
@@ -44,7 +44,7 @@ highlights: [
   },
   {
     "title": "Local Pricing Context",
-    "description": "Typical installs in Oro Valley average $2.40\u2013$3.20/W before incentives \u2014 a 6 kW system often ranges $14k\u2013$19k before the federal ITC and local rebates."
+    "description": "Typical installs in Oro Valley average $2.40\u2013$3.20/W before incentives - a 6 kW system often ranges $14k\u2013$19k before the federal ITC and local rebates."
   }
 ],
   content: {
@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Oro Valley's mix of upscale planned communities \u2014 Rancho Vistoso, La Reserve, Vistoso Trails \u2014 and its elevation between 2,600 and 3,200 feet creates a solar planning environment unlike central Tucson. Cooler ambient temperatures at elevation improve panel efficiency but Catalina Mountain ridgelines and afternoon shade patterns reduce late-day output on west-facing roofs. We layer local irradiation data, shading from Pusch Ridge and native mesquite, and common tile roof mounting constraints into every system layout. For homeowners in zip codes 85737 and 85755, that means realistic production estimates, correct array tilt and stringing for higher-elevation irradiance, and attention to aesthetics many Oro Valley HOAs require."
+            "content": "Oro Valley's mix of upscale planned communities - Rancho Vistoso, La Reserve, Vistoso Trails - and its elevation between 2,600 and 3,200 feet creates a solar planning environment unlike central Tucson. Cooler ambient temperatures at elevation improve panel efficiency but Catalina Mountain ridgelines and afternoon shade patterns reduce late-day output on west-facing roofs. We layer local irradiation data, shading from Pusch Ridge and native mesquite, and common tile roof mounting constraints into every system layout. For homeowners in zip codes 85737 and 85755, that means realistic production estimates, correct array tilt and stringing for higher-elevation irradiance, and attention to aesthetics many Oro Valley HOAs require."
       },
       {
             "type": "paragraph",
-            "content": "Many Oro Valley residences were built in the 1990s\u20132010s with premium roofing materials and larger attic volumes. A minority of older enclaves \u2014 pockets near Steam Pump Ranch or early Sun City Oro Valley parcels \u2014 contain homes built in the 1970s and 1980s that often have different attic truss configurations or need electrical panel upgrades before a modern inverter and battery can be installed. Our on-site inspections include circuit-level load analysis and a review of HOA CC&Rs so we can present a turnkey plan that fits neighborhood standards and long-term maintenance expectations."
+            "content": "Many Oro Valley residences were built in the 1990s\u20132010s with premium roofing materials and larger attic volumes. A minority of older enclaves - pockets near Steam Pump Ranch or early Sun City Oro Valley parcels - contain homes built in the 1970s and 1980s that often have different attic truss configurations or need electrical panel upgrades before a modern inverter and battery can be installed. Our on-site inspections include circuit-level load analysis and a review of HOA CC&Rs so we can present a turnkey plan that fits neighborhood standards and long-term maintenance expectations."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tile roofs dominate Oro Valley (around 70%) and demand specific hardware and technicians skilled in tile lifting and replacement techniques to avoid cracking. Flat or foam roofs (about 20%)\u2014found occasionally in commercial pods of Oro Valley Marketplace and some modern single-story homes\u2014use ballast or low-profile racking that preserves roof integrity and HOA appearance. Premium-material roofs (roughly 10%)\u2014often on golf-course estates in El Conquistador and La Reserve\u2014require bespoke mounting and coordination with roof warranties. Because many homes are larger and include pools, spas and EV chargers, system sizing frequently exceeds city averages; we frequently design 8 kW+ arrays and include future expansion paths and battery-ready inverters."
+            "content": "Tile roofs dominate Oro Valley (around 70%) and demand specific hardware and technicians skilled in tile lifting and replacement techniques to avoid cracking. Flat or foam roofs (about 20%)-found occasionally in commercial pods of Oro Valley Marketplace and some modern single-story homes-use ballast or low-profile racking that preserves roof integrity and HOA appearance. Premium-material roofs (roughly 10%)-often on golf-course estates in El Conquistador and La Reserve-require bespoke mounting and coordination with roof warranties. Because many homes are larger and include pools, spas and EV chargers, system sizing frequently exceeds city averages; we frequently design 8 kW+ arrays and include future expansion paths and battery-ready inverters."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work with Oro Valley institutions and contractors familiar with local permitting at Pima County and the town\u2019s building review process. Install crews are experienced with neighborhoods like Rancho Vistoso and Sun City Oro Valley, coordinating driveway staging that respects HOA rules and neighbor access. Our local knowledge extends to community landmarks \u2014 we\u2019ve completed arrays visible from Catalina State Park corridors and designed shading studies that account for Pusch Ridge vistas. For active outdoor families and retired residents alike, our proposals aim to maximize solar production while maintaining the neighborhood aesthetic that helps Oro Valley remain one of Arizona\u2019s safest and most livable towns."
+            "content": "We work with Oro Valley institutions and contractors familiar with local permitting at Pima County and the town\u2019s building review process. Install crews are experienced with neighborhoods like Rancho Vistoso and Sun City Oro Valley, coordinating driveway staging that respects HOA rules and neighbor access. Our local knowledge extends to community landmarks - we\u2019ve completed arrays visible from Catalina State Park corridors and designed shading studies that account for Pusch Ridge vistas. For active outdoor families and retired residents alike, our proposals aim to maximize solar production while maintaining the neighborhood aesthetic that helps Oro Valley remain one of Arizona\u2019s safest and most livable towns."
       },
       {
             "type": "cta",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "Can I add batteries for backup in Oro Valley?",
-        "answer": "Yes\u2014battery-ready systems are common, especially for two-story golf-course homes with higher loads. We size battery systems based on essential-circuit needs and account for TEP interconnection rules."
+        "answer": "Yes-battery-ready systems are common, especially for two-story golf-course homes with higher loads. We size battery systems based on essential-circuit needs and account for TEP interconnection rules."
     },
     {
         "question": "How long does an installation take in Oro Valley?",
@@ -165,7 +165,7 @@ highlights: [
     },
     {
         "question": "Can you design for future EV charging and pool loads common here?",
-        "answer": "Yes. We size arrays and select inverters to accommodate immediate loads plus planned EV chargers or pool pumps, and we leave conduit pathways for low-cost expansion later \u2014 a common request for Oro Valley homeowners with larger properties."
+        "answer": "Yes. We size arrays and select inverters to accommodate immediate loads plus planned EV chargers or pool pumps, and we leave conduit pathways for low-cost expansion later - a common request for Oro Valley homeowners with larger properties."
     },
     {
         "question": "What local permitting timelines should Oro Valley homeowners expect?",

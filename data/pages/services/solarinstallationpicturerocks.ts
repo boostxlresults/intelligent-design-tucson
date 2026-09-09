@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Off-grid and well-pump solar solutions",
-    "description": "Homes with private wells and septic\u2014common in 85743\u2014often need battery-backed or off-grid systems to run pumps during TEP outages. We size systems to handle typical well loads and hard-water treatment."
+    "description": "Homes with private wells and septic-common in 85743-often need battery-backed or off-grid systems to run pumps during TEP outages. We size systems to handle typical well loads and hard-water treatment."
   },
   {
     "title": "Panel placement for dust and wind",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Picture Rocks sits at about 2,500 feet with open desert exposure and a mix of manufactured homes, site-built ranches, and horse properties. Many houses were built in the 1980s through the 2000s and sit on large parcels without strict HOA rules\u2014this creates excellent solar potential but requires installers who understand rural specifics. Panels in Picture Rocks see higher wind loading and more dust than inner Tucson neighborhoods; we design racking and tilt to reduce soiling losses and simplify maintenance after haboob-style dust events. Where homes rely on well water and septic systems, solar often integrates directly with pump loads and softening equipment, which is especially important given water hardness above 250 ppm in local wells. For homeowners along Sandario Road, Mile Wide Road and near the Picture Rocks Petroglyphs, we balance aesthetic placement with performance so arrays complement the landscape while maximizing sun capture."
+            "content": "Picture Rocks sits at about 2,500 feet with open desert exposure and a mix of manufactured homes, site-built ranches, and horse properties. Many houses were built in the 1980s through the 2000s and sit on large parcels without strict HOA rules-this creates excellent solar potential but requires installers who understand rural specifics. Panels in Picture Rocks see higher wind loading and more dust than inner Tucson neighborhoods; we design racking and tilt to reduce soiling losses and simplify maintenance after haboob-style dust events. Where homes rely on well water and septic systems, solar often integrates directly with pump loads and softening equipment, which is especially important given water hardness above 250 ppm in local wells. For homeowners along Sandario Road, Mile Wide Road and near the Picture Rocks Petroglyphs, we balance aesthetic placement with performance so arrays complement the landscape while maximizing sun capture."
       },
       {
             "type": "paragraph",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We also factor in local permitting and interconnection realities. TEP reviews for rural transformers and service upgrades can add cost or timelines\u2014our proposals show likely TEP upgrade needs upfront. With typical project budgets in 85743, homeowners frequently allocate $12,000\u2013$20,000 for an efficient rooftop system and $25,000\u2013$45,000 for multi-component ground-mount or battery-ready microgrids. Incentives and residential tax credits can lower net costs; we run numbers specific to your parcel, roof age, and pump demands so there are no surprises."
+            "content": "We also factor in local permitting and interconnection realities. TEP reviews for rural transformers and service upgrades can add cost or timelines-our proposals show likely TEP upgrade needs upfront. With typical project budgets in 85743, homeowners frequently allocate $12,000\u2013$20,000 for an efficient rooftop system and $25,000\u2013$45,000 for multi-component ground-mount or battery-ready microgrids. Incentives and residential tax credits can lower net costs; we run numbers specific to your parcel, roof age, and pump demands so there are no surprises."
       },
       {
             "type": "heading",
@@ -157,7 +157,7 @@ highlights: [
     },
     {
         "question": "What should Picture Rocks homeowners expect for maintenance after installation?",
-        "answer": "Expect periodic cleaning after dust storms and an annual electrical check. Ground-mount systems may need vegetation control around mounts, while rooftop systems require roof and mounting inspections every few years\u2014especially on older 1980s\u20132000s roofs."
+        "answer": "Expect periodic cleaning after dust storms and an annual electrical check. Ground-mount systems may need vegetation control around mounts, while rooftop systems require roof and mounting inspections every few years-especially on older 1980s\u20132000s roofs."
     },
     {
         "question": "Do you consider sightlines to landmarks like the Tucson Mountains in layouts?",

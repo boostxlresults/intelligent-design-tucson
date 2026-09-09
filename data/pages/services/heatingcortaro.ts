@@ -58,11 +58,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Cortaro\u2019s housing mix \u2014 planned communities like Continental Ranch, tract homes from the 1990s\u20132000s, and newer infill near the Cortaro Farms Road corridor \u2014 needs heating work tailored to local construction: stucco walls, tile roofs, and attic-run duct systems. At about 2,200 feet elevation people here experience hotter summers and milder winters than higher Tucson neighborhoods, but many older builder-grade furnaces and heat pumps installed during the 1990s housing boom are now at end of life. Our Cortaro teams inspect common trouble spots such as attic plenums above two-story living rooms, return registers in second-floor hallways, and duct transitions hidden behind stucco chases. We use thermal imaging and blower-door testing to find leaks that send conditioned air into crawlspaces or attics, then implement targeted repairs or recommend efficient replacement systems sized for the specific heat gain and loss patterns of homes in zip codes 85652 and 85742."
+            "content": "Cortaro\u2019s housing mix - planned communities like Continental Ranch, tract homes from the 1990s\u20132000s, and newer infill near the Cortaro Farms Road corridor - needs heating work tailored to local construction: stucco walls, tile roofs, and attic-run duct systems. At about 2,200 feet elevation people here experience hotter summers and milder winters than higher Tucson neighborhoods, but many older builder-grade furnaces and heat pumps installed during the 1990s housing boom are now at end of life. Our Cortaro teams inspect common trouble spots such as attic plenums above two-story living rooms, return registers in second-floor hallways, and duct transitions hidden behind stucco chases. We use thermal imaging and blower-door testing to find leaks that send conditioned air into crawlspaces or attics, then implement targeted repairs or recommend efficient replacement systems sized for the specific heat gain and loss patterns of homes in zip codes 85652 and 85742."
       },
       {
             "type": "paragraph",
-            "content": "Many Continental Reserve and Silverbell corridor residents report upstairs comfort problems and short-cycling during seasonal swings. Those symptoms often trace to undersized equipment, underserviced heat pumps, or duct leakage compounded by tile-roof attic setups where access requires roof-safe tile removal practices. We evaluate insulation levels common to Cortaro homes, check duct insulation and mastic integrity, and confirm thermostat placement\u2014often the simple fix that improves upstairs comfort by balancing return air and adding zoning where needed."
+            "content": "Many Continental Reserve and Silverbell corridor residents report upstairs comfort problems and short-cycling during seasonal swings. Those symptoms often trace to undersized equipment, underserviced heat pumps, or duct leakage compounded by tile-roof attic setups where access requires roof-safe tile removal practices. We evaluate insulation levels common to Cortaro homes, check duct insulation and mastic integrity, and confirm thermostat placement-often the simple fix that improves upstairs comfort by balancing return air and adding zoning where needed."
       },
       {
             "type": "cta",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Retrofitting older 1990s homes commonly involves bringing ducts up to current seal and insulation standards, adding a variable-speed blower for better humidity control after monsoon storms, and recommending condensate solutions for homes in low-lying floodplain areas near the Santa Cruz River. For homeowners budgeting a phased approach, we outline priority improvements that produce immediate comfort gains\u2014duct sealing, programmable thermostats, and attic insulation\u2014followed by full equipment replacement when convenient. Our local crews are experienced with the region\u2019s roofing and attic layouts to minimize disruption and avoid common roof tile issues during service access."
+            "content": "Retrofitting older 1990s homes commonly involves bringing ducts up to current seal and insulation standards, adding a variable-speed blower for better humidity control after monsoon storms, and recommending condensate solutions for homes in low-lying floodplain areas near the Santa Cruz River. For homeowners budgeting a phased approach, we outline priority improvements that produce immediate comfort gains-duct sealing, programmable thermostats, and attic insulation-followed by full equipment replacement when convenient. Our local crews are experienced with the region\u2019s roofing and attic layouts to minimize disruption and avoid common roof tile issues during service access."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re familiar with Cortaro landmarks, commute routes, and lifestyle needs\u2014from homeowners near the Marana Heritage River Park and Continental Ranch to families using Cortaro Farms Road and I\u201110 access for daily commutes. When monsoon weather threatens the Santa Cruz River floodplain or heavy summer afternoons spike indoor temperatures, our rapid response teams prioritize homes in low-lying neighborhoods where humidity and drainage can affect equipment. Local dining and meeting spots like Oregano's Pizza Bistro and BJ\u2019s Restaurant create neighborhood hubs, and our technicians often work nearby, enabling quick turnaround for heating diagnostics and emergency repairs in both 85652 and 85742."
+            "content": "We\u2019re familiar with Cortaro landmarks, commute routes, and lifestyle needs-from homeowners near the Marana Heritage River Park and Continental Ranch to families using Cortaro Farms Road and I\u201110 access for daily commutes. When monsoon weather threatens the Santa Cruz River floodplain or heavy summer afternoons spike indoor temperatures, our rapid response teams prioritize homes in low-lying neighborhoods where humidity and drainage can affect equipment. Local dining and meeting spots like Oregano's Pizza Bistro and BJ\u2019s Restaurant create neighborhood hubs, and our technicians often work nearby, enabling quick turnaround for heating diagnostics and emergency repairs in both 85652 and 85742."
       },
       {
             "type": "cta",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Why do so many Cortaro homes have upstairs heating problems?",
-        "answer": "Homes in Cortaro built during the 1990s\u20132000s often used contractor-grade HVAC systems and attic-run ductwork sized for builder specs. Over time ducts develop leaks in attics above two-story sections, insulation levels may settle, and thermostats located on lower floors fail to capture upstairs heat. The combination of stucco construction, tile roof attics, and higher summer heat at 2,200 ft elevation makes upstairs balancing and zoning a common solution\u2014alongside duct sealing and adding return pathways."
+        "answer": "Homes in Cortaro built during the 1990s\u20132000s often used contractor-grade HVAC systems and attic-run ductwork sized for builder specs. Over time ducts develop leaks in attics above two-story sections, insulation levels may settle, and thermostats located on lower floors fail to capture upstairs heat. The combination of stucco construction, tile roof attics, and higher summer heat at 2,200 ft elevation makes upstairs balancing and zoning a common solution-alongside duct sealing and adding return pathways."
     },
     {
         "question": "How much will a heating repair cost in Cortaro?",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Do you offer financing or phased upgrades for Cortaro homeowners?",
-        "answer": "Yes. We provide financing options and phased upgrade plans so homeowners can prioritize critical repairs\u2014like duct sealing or thermostat upgrades\u2014before scheduling full replacements."
+        "answer": "Yes. We provide financing options and phased upgrade plans so homeowners can prioritize critical repairs-like duct sealing or thermostat upgrades-before scheduling full replacements."
     },
     {
         "question": "Will a new system lower my energy bills in Cortaro?",

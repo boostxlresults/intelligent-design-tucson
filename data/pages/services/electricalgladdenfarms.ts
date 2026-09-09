@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "EV Charger Circuits for New Communities",
-    "description": "Typical EV circuit installs in 85653 account for newer construction wiring and HOA requirements\u2014average range $700\u2013$1,400 locally depending on panel upgrade needs and conduit runs."
+    "description": "Typical EV circuit installs in 85653 account for newer construction wiring and HOA requirements-average range $700\u2013$1,400 locally depending on panel upgrade needs and conduit runs."
   },
   {
     "title": "HOA-Friendly Solar Tie-Ins",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Gladden Farms homes were largely built from 2015 onward as part of a master-planned community with modern energy codes, two-story designs, and smaller lots. That modern baseline helps, but common homeowner projects\u2014adding EV chargers, new pool pumps for community pools or private backyard pools, and major kitchen or garage add-ons\u2014often require more capacity than the factory-panel configuration allows. At elevation 2,100 ft where summers run hotter and cooling loads climb, many homeowners find their air conditioning and new electrical loads competing on a 100A or 150A service. We perform localized load studies for addresses in zip code 85653, provide transparent pricing (typical full 200A service upgrades in Gladden Farms average $1,800\u2013$3,200 depending on conduit length and meter location), and ensure all upgrades meet HOA expectations and TEP interconnect requirements."
+            "content": "Gladden Farms homes were largely built from 2015 onward as part of a master-planned community with modern energy codes, two-story designs, and smaller lots. That modern baseline helps, but common homeowner projects-adding EV chargers, new pool pumps for community pools or private backyard pools, and major kitchen or garage add-ons-often require more capacity than the factory-panel configuration allows. At elevation 2,100 ft where summers run hotter and cooling loads climb, many homeowners find their air conditioning and new electrical loads competing on a 100A or 150A service. We perform localized load studies for addresses in zip code 85653, provide transparent pricing (typical full 200A service upgrades in Gladden Farms average $1,800\u2013$3,200 depending on conduit length and meter location), and ensure all upgrades meet HOA expectations and TEP interconnect requirements."
       },
       {
             "type": "paragraph",
@@ -67,7 +67,7 @@ highlights: [
       {
             "type": "cta",
             "heading": "Schedule an Electrical Assessment in Gladden Farms",
-            "content": "Book a local electrical inspection for your Gladden Farms home\u2014we\u2019ll evaluate panel capacity, EV readiness, and HOA considerations and provide a written estimate tailored to 85653 homes.",
+            "content": "Book a local electrical inspection for your Gladden Farms home-we\u2019ll evaluate panel capacity, EV readiness, and HOA considerations and provide a written estimate tailored to 85653 homes.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We understand Gladden Farms homeowners commute or spend weekends around the Tangerine Road corridor, take family walks to Gladden Farms Community Park or Santa Cruz River trail, and need dependable service without long delays. Our technicians work around HOA schedules for pool and clubhouse equipment, handle emergency calls after monsoon storms, and know where Marana Heritage River Park connections and community pool controllers are typically located. Because many residents are young families with similar setups\u2014two-story layouts, garage-based home offices, and outdoor entertainment areas\u2014we provide solutions that minimize disruption to daily life and preserve neighborhood aesthetics."
+            "content": "We understand Gladden Farms homeowners commute or spend weekends around the Tangerine Road corridor, take family walks to Gladden Farms Community Park or Santa Cruz River trail, and need dependable service without long delays. Our technicians work around HOA schedules for pool and clubhouse equipment, handle emergency calls after monsoon storms, and know where Marana Heritage River Park connections and community pool controllers are typically located. Because many residents are young families with similar setups-two-story layouts, garage-based home offices, and outdoor entertainment areas-we provide solutions that minimize disruption to daily life and preserve neighborhood aesthetics."
       },
       {
             "type": "cta",
@@ -161,7 +161,7 @@ highlights: [
     },
     {
         "question": "Refinement Q4",
-        "answer": "Do you have planned exterior features\u2014pool equipment, landscape lighting, or backyard kitchens\u2014that will draw power? Letting us know now allows us to propose properly sized subpanels and GFCI-protected circuits suited to the open, sun-exposed yards common in Gladden Farms."
+        "answer": "Do you have planned exterior features-pool equipment, landscape lighting, or backyard kitchens-that will draw power? Letting us know now allows us to propose properly sized subpanels and GFCI-protected circuits suited to the open, sun-exposed yards common in Gladden Farms."
     },
     {
         "question": "Refinement Q5",
@@ -169,7 +169,7 @@ highlights: [
     },
     {
         "question": "Refinement Q6",
-        "answer": "Are you concerned about monsoon exposure or surge protection? We can include whole-home surge protection and weatherproofing for exterior panels and pool equipment in the estimate\u2014common additions for Gladden Farms homes to reduce storm-related outages and equipment damage."
+        "answer": "Are you concerned about monsoon exposure or surge protection? We can include whole-home surge protection and weatherproofing for exterior panels and pool equipment in the estimate-common additions for Gladden Farms homes to reduce storm-related outages and equipment damage."
     }
 ],
   

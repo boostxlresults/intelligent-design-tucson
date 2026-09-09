@@ -21,7 +21,7 @@ export const acRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Why is my AC blowing hot air?",
-      answer: "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call (520) 333-2665 — we'll fix it today."
+      answer: "An AC blowing hot air is often caused by a refrigerant leak, a dirty condenser coil, or a malfunctioning reversing valve. Our techs carry common parts on their trucks for same-day repairs. Call (520) 333-2665 - we'll fix it today."
     },
     {
       question: "Why is my AC not blowing cold air?",
@@ -29,7 +29,7 @@ export const acRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer emergency AC repair in Tucson?",
-      answer: "Yes. Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast — average response time is 53 minutes. No overtime charges, ever. Call (520) 333-2665 for emergency AC repair."
+      answer: "Yes. Intelligent Design offers 24/7 emergency AC service in Tucson. Our licensed technicians respond fast - average response time is 53 minutes. No overtime charges, ever. Call (520) 333-2665 for emergency AC repair."
     },
     {
       question: "Why is my air conditioner not working?",
@@ -37,7 +37,7 @@ export const acRepairFAQs: ServiceFAQs = {
     },
     {
       question: "Do you offer 24/7 emergency AC repair in Tucson?",
-      answer: "Yes, Intelligent Design offers 24/7 emergency AC repair services in Tucson and surrounding areas. We understand that AC breakdowns can be more than inconvenient in Arizona's heat—they can be dangerous. Our skilled technicians are always ready to respond with rapid response times."
+      answer: "Yes, Intelligent Design offers 24/7 emergency AC repair services in Tucson and surrounding areas. We understand that AC breakdowns can be more than inconvenient in Arizona's heat-they can be dangerous. Our skilled technicians are always ready to respond with rapid response times."
     },
     {
       question: "How quickly can you respond to an emergency AC repair call in Tucson?",
@@ -139,7 +139,7 @@ export const acServiceFAQs: ServiceFAQs = {
     },
     {
       question: "How often should I have my AC serviced in Tucson?",
-      answer: "In Tucson's extreme climate, we recommend AC service twice a year—once in spring before the hot season and once in fall. Regular maintenance prevents breakdowns during peak summer heat, improves energy efficiency by up to 15%, and extends your system's lifespan by several years."
+      answer: "In Tucson's extreme climate, we recommend AC service twice a year-once in spring before the hot season and once in fall. Regular maintenance prevents breakdowns during peak summer heat, improves energy efficiency by up to 15%, and extends your system's lifespan by several years."
     },
     {
       question: "What's included in the cost of AC service?",
@@ -147,11 +147,11 @@ export const acServiceFAQs: ServiceFAQs = {
     },
     {
       question: "Can AC service prevent expensive repairs?",
-      answer: "Yes, regular AC service can prevent up to 95% of emergency breakdowns and expensive repairs. During service visits, we catch small issues before they become major problems—like worn belts, dirty coils, or low refrigerant. This proactive approach saves you money and prevents inconvenient breakdowns during Arizona's hottest days."
+      answer: "Yes, regular AC service can prevent up to 95% of emergency breakdowns and expensive repairs. During service visits, we catch small issues before they become major problems-like worn belts, dirty coils, or low refrigerant. This proactive approach saves you money and prevents inconvenient breakdowns during Arizona's hottest days."
     },
     {
       question: "What if you find a problem during AC service?",
-      answer: "If we discover any issues during your AC service, we'll explain the problem clearly and provide transparent repair options with upfront pricing. We never pressure you into unnecessary repairs—we simply present the facts and let you decide. Many minor issues can be addressed during the same visit."
+      answer: "If we discover any issues during your AC service, we'll explain the problem clearly and provide transparent repair options with upfront pricing. We never pressure you into unnecessary repairs-we simply present the facts and let you decide. Many minor issues can be addressed during the same visit."
     },
     {
       question: "Do I really need AC service if my system seems fine?",
@@ -171,7 +171,7 @@ export const acServiceFAQs: ServiceFAQs = {
     },
     {
       question: "What's the difference between AC service and AC tune-up?",
-      answer: "AC service and AC tune-up are often used interchangeably and involve similar tasks—comprehensive inspection, cleaning, and optimization of your system. Our service includes checking refrigerant levels, cleaning coils, replacing filters, and testing all components to ensure peak performance and efficiency."
+      answer: "AC service and AC tune-up are often used interchangeably and involve similar tasks-comprehensive inspection, cleaning, and optimization of your system. Our service includes checking refrigerant levels, cleaning coils, replacing filters, and testing all components to ensure peak performance and efficiency."
     },
     {
       question: "Do you service all AC brands and models?",
@@ -198,7 +198,7 @@ export const acTuneupFAQs: ServiceFAQs = {
     },
     {
       question: "How long does an 86-point AC tune-up take?",
-      answer: "Our comprehensive 86-point tune-up typically takes 90-120 minutes depending on your system's size and condition. We don't rush through the inspection—our technicians methodically check every component to ensure nothing is missed. Quality thorough service takes time, and we believe your comfort and safety are worth it."
+      answer: "Our comprehensive 86-point tune-up typically takes 90-120 minutes depending on your system's size and condition. We don't rush through the inspection-our technicians methodically check every component to ensure nothing is missed. Quality thorough service takes time, and we believe your comfort and safety are worth it."
     },
     {
       question: "Will an AC tune-up lower my energy bills?",
@@ -222,7 +222,7 @@ export const acTuneupFAQs: ServiceFAQs = {
     },
     {
       question: "Is a tune-up worth it if my AC seems to be working fine?",
-      answer: "Yes, tune-ups catch hidden issues before they cause breakdowns. Many AC problems develop gradually—dirty coils reduce efficiency, refrigerant slowly leaks, electrical connections loosen over time. By the time you notice symptoms, damage may be done. Regular tune-ups prevent these issues and save money long-term."
+      answer: "Yes, tune-ups catch hidden issues before they cause breakdowns. Many AC problems develop gradually-dirty coils reduce efficiency, refrigerant slowly leaks, electrical connections loosen over time. By the time you notice symptoms, damage may be done. Regular tune-ups prevent these issues and save money long-term."
     },
     {
       question: "Do you tune up all AC brands and types?",
@@ -653,7 +653,7 @@ export const indoorAirQualityFAQs: ServiceFAQs = {
     },
     {
       question: "What indoor air quality solutions do you offer?",
-      answer: "Intelligent Design offers whole-home air purifiers, UV light systems, advanced filtration, dehumidifiers, humidifiers, ERV/HRV ventilation systems, and duct cleaning. Each solution addresses specific issues—HEPA filters capture particles, UV lights kill mold and bacteria, and ventilation systems bring in fresh air. Customized combinations provide comprehensive air quality improvement."
+      answer: "Intelligent Design offers whole-home air purifiers, UV light systems, advanced filtration, dehumidifiers, humidifiers, ERV/HRV ventilation systems, and duct cleaning. Each solution addresses specific issues-HEPA filters capture particles, UV lights kill mold and bacteria, and ventilation systems bring in fresh air. Customized combinations provide comprehensive air quality improvement."
     },
     {
       question: "What factors affect indoor air quality system costs?",
@@ -826,7 +826,7 @@ export const hvacLocationFAQs: ServiceFAQs = {
     },
     {
       question: "How often should I have my HVAC system serviced?",
-      answer: "In Arizona's extreme climate, we recommend HVAC service twice a year—once in spring before the hot season for your AC, and once in fall for your heating system. Regular maintenance prevents breakdowns during peak use, improves energy efficiency by up to 15%, and extends your system's lifespan."
+      answer: "In Arizona's extreme climate, we recommend HVAC service twice a year-once in spring before the hot season for your AC, and once in fall for your heating system. Regular maintenance prevents breakdowns during peak use, improves energy efficiency by up to 15%, and extends your system's lifespan."
     },
     {
       question: "What brands of HVAC equipment do you work with?",
@@ -834,7 +834,7 @@ export const hvacLocationFAQs: ServiceFAQs = {
     },
     {
       question: "Are you a local company?",
-      answer: "Yes! Intelligent Design is a family and veteran-owned company that has been serving the Tucson community since 1979—over 45 years. We're proud members of this community and actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs."
+      answer: "Yes! Intelligent Design is a family and veteran-owned company that has been serving the Tucson community since 1979-over 45 years. We're proud members of this community and actively support local organizations including the Tucson Community Food Bank, Make-A-Wish Arizona, and various veteran support programs."
     },
     {
       question: "Why should I choose Intelligent Design for my HVAC needs?",

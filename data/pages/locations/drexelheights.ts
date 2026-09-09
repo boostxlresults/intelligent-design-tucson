@@ -149,11 +149,11 @@ export const drexelheightsData: LocationPageData = {
             "type": "paragraph",
             "content": "Drexel Heights offers more affordable housing options compared to other Tucson-area communities, making it an attractive choice for first-time homebuyers and families looking for value without sacrificing amenities."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Drexel Heights", "level": 2, "content": "Local Community Guide \u2014 Drexel Heights"},
+            {"type": "heading", "heading": "Local Community Guide - Drexel Heights", "level": 2, "content": "Local Community Guide - Drexel Heights"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Mission San Xavier del Bac, Tucson Mountain Park, Old Tucson, Arizona-Sonora Desert Museum, Pima Air & Space Museum. Whether you live near these landmarks or anywhere in Drexel Heights, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Mi Nidito, Guadalajara's Grill, El Charro Caf\u00e9, Teresa's Mosaic Caf\u00e9, Pat's Chili Dogs. When you need home services in Drexel Heights, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Mi Nidito, Guadalajara's Grill, El Charro Caf\u00e9, Teresa's Mosaic Caf\u00e9, Pat's Chili Dogs. When you need home services in Drexel Heights, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

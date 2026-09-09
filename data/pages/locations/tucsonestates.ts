@@ -243,11 +243,11 @@ export const tucsonestatesData: LocationPageData = {
         "buttonText": "Schedule Online Now",
         "buttonLink": "/contact"
       },
-      {"type": "heading", "heading": "Local Community Guide \u2014 Tucson Estates", "level": 2, "content": "Local Community Guide \u2014 Tucson Estates"},
+      {"type": "heading", "heading": "Local Community Guide - Tucson Estates", "level": 2, "content": "Local Community Guide - Tucson Estates"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Old Tucson, Pima County Historic Courthouse, Old Pueblo Archaeology Center, El Tiradito Wishing Shrine, Sosa-Carrillo House. Whether you live near these landmarks or anywhere in Tucson Estates, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, Barista del Barrio, Brunch Bistro Mexican Grill. When you need home services in Tucson Estates, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Hustle Bustle Cafe, La Chaiteria, Burros Percherones y Tacos El Tekas, Barista del Barrio, Brunch Bistro Mexican Grill. When you need home services in Tucson Estates, call the team your neighbors trust - Intelligent Design."},
     ]
   },
   

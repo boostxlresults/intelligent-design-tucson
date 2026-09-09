@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Rita Ranch (zip 85747) is a family-focused, master-planned community at roughly 3,000 feet elevation with housing built mainly from the 1990s through the 2010s. Those decades brought many well-built two-story floor plans and tile roofing across neighborhoods like Rancho del Lago and the Civano border. But the electrical systems installed when these neighborhoods were first developed were sized for different demands: multiple window units, fewer electronics, and limited high-draw appliances. Today, homeowners in Rita Ranch call us for panel capacity upgrades from original 100A panels to 200A, EV charger circuits along the Houghton corridor, and dedicated home office feeds for remote work setups. We account for local factors \u2014 TEP\u2019s modern grid connections, HOA aesthetic rules, and common tile and shingle roof access \u2014 when preparing estimates so you get a practical plan that fits neighborhood guidelines and long-term household needs."
+            "content": "Rita Ranch (zip 85747) is a family-focused, master-planned community at roughly 3,000 feet elevation with housing built mainly from the 1990s through the 2010s. Those decades brought many well-built two-story floor plans and tile roofing across neighborhoods like Rancho del Lago and the Civano border. But the electrical systems installed when these neighborhoods were first developed were sized for different demands: multiple window units, fewer electronics, and limited high-draw appliances. Today, homeowners in Rita Ranch call us for panel capacity upgrades from original 100A panels to 200A, EV charger circuits along the Houghton corridor, and dedicated home office feeds for remote work setups. We account for local factors - TEP\u2019s modern grid connections, HOA aesthetic rules, and common tile and shingle roof access - when preparing estimates so you get a practical plan that fits neighborhood guidelines and long-term household needs."
       },
       {
             "type": "paragraph",
@@ -79,11 +79,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Older panels in Rita Ranch were often installed when a household\u2019s largest loads were a microwave, an oven, and a few room air conditioners. Modern families in this community run multiple smart appliances, electric vehicle chargers, high-capacity HVAC systems, and home office equipment simultaneously \u2014 especially in neighborhoods with two-story homes where circuits travel from garages to upstairs offices. We perform load calculations specific to 1990s-2010s wiring practices found in Rita Ranch and propose solutions that limit disruption: subpanel additions, service upgrades to 200A, or targeted circuit rebalancing. For EV charger owners along residential streets near Rita Ranch Park or the Houghton corridor, we plan charger locations with minimal trenching, coordinate with TEP when needed, and prepare documentation for your HOA so installations comply with local guidelines."
+            "content": "Older panels in Rita Ranch were often installed when a household\u2019s largest loads were a microwave, an oven, and a few room air conditioners. Modern families in this community run multiple smart appliances, electric vehicle chargers, high-capacity HVAC systems, and home office equipment simultaneously - especially in neighborhoods with two-story homes where circuits travel from garages to upstairs offices. We perform load calculations specific to 1990s-2010s wiring practices found in Rita Ranch and propose solutions that limit disruption: subpanel additions, service upgrades to 200A, or targeted circuit rebalancing. For EV charger owners along residential streets near Rita Ranch Park or the Houghton corridor, we plan charger locations with minimal trenching, coordinate with TEP when needed, and prepare documentation for your HOA so installations comply with local guidelines."
       },
       {
             "type": "paragraph",
-            "content": "We also prioritize surge protection and grounding improvements because Rita Ranch\u2019s proximity to Saguaro National Park East and monsoon season increases the risk of transient voltage events. Whole-home surge protection paired with point-of-use protection for sensitive home-office gear is a common recommendation. If you\u2019re considering solar paired with an electrical upgrade \u2014 a growing trend in Rita Ranch due to newer roofs and HOA-friendly policies \u2014 we size the service panel with future PV and battery expansion in mind and provide cost comparisons so you can see the ROI over time."
+            "content": "We also prioritize surge protection and grounding improvements because Rita Ranch\u2019s proximity to Saguaro National Park East and monsoon season increases the risk of transient voltage events. Whole-home surge protection paired with point-of-use protection for sensitive home-office gear is a common recommendation. If you\u2019re considering solar paired with an electrical upgrade - a growing trend in Rita Ranch due to newer roofs and HOA-friendly policies - we size the service panel with future PV and battery expansion in mind and provide cost comparisons so you can see the ROI over time."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work with the rhythms of Rita Ranch: school pickup and drop-off times for Vail School District, HOA meeting schedules, and neighborhood events at Rita Ranch Park. When scheduling work near busy family streets or parks, we propose times that limit disruption and coordinate with HOA managers when exterior changes \u2014 like meter relocations or visible conduit runs \u2014 need approval. Our technicians know local landmarks: we routinely install outdoor lighting near Old Spanish Trail access points, service pool controls for homes backing to Rincon Valley views, and route conduit sensitively around mature landscaping common in HOA-maintained yards. These local considerations keep installations attractive, functional, and compliant with neighborhood expectations."
+            "content": "We work with the rhythms of Rita Ranch: school pickup and drop-off times for Vail School District, HOA meeting schedules, and neighborhood events at Rita Ranch Park. When scheduling work near busy family streets or parks, we propose times that limit disruption and coordinate with HOA managers when exterior changes - like meter relocations or visible conduit runs - need approval. Our technicians know local landmarks: we routinely install outdoor lighting near Old Spanish Trail access points, service pool controls for homes backing to Rincon Valley views, and route conduit sensitively around mature landscaping common in HOA-maintained yards. These local considerations keep installations attractive, functional, and compliant with neighborhood expectations."
       },
       {
             "type": "cta",
@@ -165,7 +165,7 @@ highlights: [
     },
     {
         "question": "Refinement Q5",
-        "answer": "When would you prefer work to occur\u2014weekdays, evenings, or weekends? We respect family schedules in Rita Ranch neighborhoods near schools and parks and can often schedule low-impact work outside busy pickup hours."
+        "answer": "When would you prefer work to occur-weekdays, evenings, or weekends? We respect family schedules in Rita Ranch neighborhoods near schools and parks and can often schedule low-impact work outside busy pickup hours."
     },
     {
         "question": "Refinement Q6",

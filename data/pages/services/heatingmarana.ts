@@ -32,7 +32,7 @@ highlights: [
   },
   {
     "title": "Filter & indoor air focus",
-    "description": "Rapid growth and construction dust in zip codes 85653 and 85658 clog filters fast \u2014 we recommend MERV upgrades and tailored maintenance plans to protect coils and indoor air."
+    "description": "Rapid growth and construction dust in zip codes 85653 and 85658 clog filters fast - we recommend MERV upgrades and tailored maintenance plans to protect coils and indoor air."
   },
   {
     "title": "Right-sized replacements",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Marana\u2019s housing boom \u2014 neighborhoods like Continental Ranch, Gladden Farms and Dove Mountain \u2014 means many homeowners live in structures built in the 2000s through the 2020s with builder-grade heating systems. Those systems were often specified for cost and basic loads rather than thermal comfort, so families in 85653, 85658 and 85743 report short cycling, uneven upstairs temperatures and premature filter loading from nearby construction. At elevations between 2,000 and 2,400 feet Marana experiences cool desert nights where thermal mass and tile roof radiative cooling change how a system runs compared with central Tucson. We perform heating load calculations that account for local roof types (about 70% tile, 20% shingle, 10% flat), open lot exposure to monsoon winds, and hard water effects that can influence hydronic or combustion appliances. The result is a plan that addresses your actual Marana home conditions \u2014 not a generic replacement \u2014 whether you need a seasonal tune-up or a right-sized upgrade to improve comfort and efficiency."
+            "content": "Marana\u2019s housing boom - neighborhoods like Continental Ranch, Gladden Farms and Dove Mountain - means many homeowners live in structures built in the 2000s through the 2020s with builder-grade heating systems. Those systems were often specified for cost and basic loads rather than thermal comfort, so families in 85653, 85658 and 85743 report short cycling, uneven upstairs temperatures and premature filter loading from nearby construction. At elevations between 2,000 and 2,400 feet Marana experiences cool desert nights where thermal mass and tile roof radiative cooling change how a system runs compared with central Tucson. We perform heating load calculations that account for local roof types (about 70% tile, 20% shingle, 10% flat), open lot exposure to monsoon winds, and hard water effects that can influence hydronic or combustion appliances. The result is a plan that addresses your actual Marana home conditions - not a generic replacement - whether you need a seasonal tune-up or a right-sized upgrade to improve comfort and efficiency."
       },
       {
             "type": "paragraph",
@@ -67,7 +67,7 @@ highlights: [
       {
             "type": "cta",
             "heading": "Schedule heating service in Marana today",
-            "content": "We serve Marana zip codes 85653, 85658, and 85743 \u2014 offering same-week diagnostics and transparent estimates for residents of Dove Mountain, Continental Ranch, and nearby communities.",
+            "content": "We serve Marana zip codes 85653, 85658, and 85743 - offering same-week diagnostics and transparent estimates for residents of Dove Mountain, Continental Ranch, and nearby communities.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re familiar with Marana landmarks and neighborhood character \u2014 from service routes near Marana Regional Airport to installations bordering the Tortolita Mountains and golf courses at the Ritz-Carlton Dove Mountain. Work in gated or HOA-controlled areas like The Residences at Dove Mountain may require coordination for contractor credentials, vehicle access, or scheduled quiet hours; we handle that so projects run smoothly. Local dining and meeting spots like Core Kitchen & Wine Bar and Caffe Torino are part of our community rhythm, and our crews know the quickest routes between 85653 and 85743 to deliver timely service."
+            "content": "We\u2019re familiar with Marana landmarks and neighborhood character - from service routes near Marana Regional Airport to installations bordering the Tortolita Mountains and golf courses at the Ritz-Carlton Dove Mountain. Work in gated or HOA-controlled areas like The Residences at Dove Mountain may require coordination for contractor credentials, vehicle access, or scheduled quiet hours; we handle that so projects run smoothly. Local dining and meeting spots like Core Kitchen & Wine Bar and Caffe Torino are part of our community rhythm, and our crews know the quickest routes between 85653 and 85743 to deliver timely service."
       },
       {
             "type": "cta",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "Does Marana\u2019s hard water affect heating equipment?",
-        "answer": "Yes \u2014 Marana water hardness (about 210\u2013240 ppm) can impact hydronic systems, boilers, and humidifiers. We recommend water treatment options or more frequent service intervals for components exposed to local water to prevent mineral buildup and efficiency loss."
+        "answer": "Yes - Marana water hardness (about 210\u2013240 ppm) can impact hydronic systems, boilers, and humidifiers. We recommend water treatment options or more frequent service intervals for components exposed to local water to prevent mineral buildup and efficiency loss."
     },
     {
         "question": "Can you coordinate heat pump work with solar-ready homes in Marana?",
@@ -136,7 +136,7 @@ highlights: [
     },
     {
         "question": "Do you handle HOA permitting in areas like Dove Mountain?",
-        "answer": "Yes \u2014 installations in Dove Mountain and similar gated communities often require HOA approvals, specific material choices, and scheduled work windows. We manage documentation and scheduling to keep projects compliant and minimize homeowner involvement."
+        "answer": "Yes - installations in Dove Mountain and similar gated communities often require HOA approvals, specific material choices, and scheduled work windows. We manage documentation and scheduling to keep projects compliant and minimize homeowner involvement."
     },
     {
         "question": "What should homeowners near washes or the airport know about heating service?",
@@ -149,7 +149,7 @@ highlights: [
   commonQuestions: [
     {
         "question": "Refinement Q1 for Heating in Marana",
-        "answer": "Do you want content that emphasizes new-construction upgrades versus servicing older remodels? For Marana we can highlight Dove Mountain replacement cases or Continental Ranch maintenance plans\u2014pick which focus best matches your target homeowners."
+        "answer": "Do you want content that emphasizes new-construction upgrades versus servicing older remodels? For Marana we can highlight Dove Mountain replacement cases or Continental Ranch maintenance plans-pick which focus best matches your target homeowners."
     },
     {
         "question": "Refinement Q2",

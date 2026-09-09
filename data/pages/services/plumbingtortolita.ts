@@ -58,16 +58,16 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Tortolita homeowners live in planned luxury communities and custom desert estates built mostly during the 2000s\u20132010s on larger lots with specialized outdoor spaces. That means common plumbing needs here differ from midtown Tucson: manufacturers' warranty-sensitive installations for premium fixtures, discreet pool and spa line repairs, and whole-home filtration to handle the moderate-hard water (170\u2013200 ppm) supplied by Marana/Metro. At elevations between 2,400 and 2,800 feet in zip codes 85755 and 85742, afternoon shade from the Tortolita Mountain foothills keeps some systems slightly cooler but also concentrates wildlife activity\u2014deer or javelina can disturb irrigation heads and create unexpected stress on outdoor drains. Our technicians bring soft-brass fittings, tile-safe roofing access gear, and experience with local backflow prevention rules so repairs and new installs preserve the aesthetic and long-term function of Stone Canyon and Dove Mountain estates."
+            "content": "Tortolita homeowners live in planned luxury communities and custom desert estates built mostly during the 2000s\u20132010s on larger lots with specialized outdoor spaces. That means common plumbing needs here differ from midtown Tucson: manufacturers' warranty-sensitive installations for premium fixtures, discreet pool and spa line repairs, and whole-home filtration to handle the moderate-hard water (170\u2013200 ppm) supplied by Marana/Metro. At elevations between 2,400 and 2,800 feet in zip codes 85755 and 85742, afternoon shade from the Tortolita Mountain foothills keeps some systems slightly cooler but also concentrates wildlife activity-deer or javelina can disturb irrigation heads and create unexpected stress on outdoor drains. Our technicians bring soft-brass fittings, tile-safe roofing access gear, and experience with local backflow prevention rules so repairs and new installs preserve the aesthetic and long-term function of Stone Canyon and Dove Mountain estates."
       },
       {
             "type": "paragraph",
-            "content": "Typical local repair scenarios include slow-developing mineral buildup on shower valves and espresso-finished kitchen faucets, intermittent pool pump cavitation after hot afternoon sun, and seasonal debris in outdoor drains caused by mesquite and palo verde near the foothills. Pricing context in Tortolita reflects the premium finishes and lot access\u2014minor repairs like valve adjustments and drain snaking commonly run $150\u2013$350, fixture replacements typically range $400\u2013$1,200 depending on brand and finish, and whole-home filtration or softener systems for high-end homes most often fall between $1,200 and $4,500. Pool plumbing repairs for larger properties commonly start near $500 and can reach $3,500 for buried line replacement. For complex estate properties, we provide on-site estimates that itemize fixture matching and tile repair allowances."
+            "content": "Typical local repair scenarios include slow-developing mineral buildup on shower valves and espresso-finished kitchen faucets, intermittent pool pump cavitation after hot afternoon sun, and seasonal debris in outdoor drains caused by mesquite and palo verde near the foothills. Pricing context in Tortolita reflects the premium finishes and lot access-minor repairs like valve adjustments and drain snaking commonly run $150\u2013$350, fixture replacements typically range $400\u2013$1,200 depending on brand and finish, and whole-home filtration or softener systems for high-end homes most often fall between $1,200 and $4,500. Pool plumbing repairs for larger properties commonly start near $500 and can reach $3,500 for buried line replacement. For complex estate properties, we provide on-site estimates that itemize fixture matching and tile repair allowances."
       },
       {
             "type": "cta",
             "heading": "Schedule Tortolita Plumbing Service",
-            "content": "For reliable service in 85755 and 85742\u2014Stone Canyon, Dove Mountain, La Reserve, and Tortolita Highlands\u2014schedule a diagnostic today. Our crews know local codes, elevation effects, and how to protect premium finishes.",
+            "content": "For reliable service in 85755 and 85742-Stone Canyon, Dove Mountain, La Reserve, and Tortolita Highlands-schedule a diagnostic today. Our crews know local codes, elevation effects, and how to protect premium finishes.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       },
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Outdoor kitchens, multi-zone irrigation, and decorative dry creek beds are common in La Reserve and Dove Mountain estates and need properly-sized backflow prevention assemblies and winterization plans tailored for Tortolita\u2019s diurnal desert temperature swings. We advise homeowners on freeze-tolerant components for exterior plumbing that still keep the high-end look designers expect. Budgeting for outdoor systems in Tortolita should include access costs for large lots\u2014standard trenching and connection work may add to metropolitan averages; a typical outdoor kitchen plumbing rough-in commonly ranges $900\u2013$2,500 depending on distance from the main and finish complexity."
+            "content": "Outdoor kitchens, multi-zone irrigation, and decorative dry creek beds are common in La Reserve and Dove Mountain estates and need properly-sized backflow prevention assemblies and winterization plans tailored for Tortolita\u2019s diurnal desert temperature swings. We advise homeowners on freeze-tolerant components for exterior plumbing that still keep the high-end look designers expect. Budgeting for outdoor systems in Tortolita should include access costs for large lots-standard trenching and connection work may add to metropolitan averages; a typical outdoor kitchen plumbing rough-in commonly ranges $900\u2013$2,500 depending on distance from the main and finish complexity."
       },
       {
             "type": "heading",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We serve Tortolita with attention to local landmarks and neighborhood rhythms\u2014working around peak trail hours at Wild Burro Trail, scheduling quieter service near Stone Canyon Golf Club tee times, and respecting resort-level expectations near Ritz-Carlton dining and private club communities. Our technicians often consult with homeowners about slope drainage from foothill runoff during monsoon season and check yard cleanouts near washes for root intrusion or debris packs. Because Tortolita is valued for its dark skies and wildlife corridors, we minimize overnight work and use directional lighting only when necessary. For property managers in Dove Mountain and estate neighborhoods, we offer pre-season checks for pool systems, irrigation checks before planting, and filtration audits that reduce long-term wear on high-end plumbing components."
+            "content": "We serve Tortolita with attention to local landmarks and neighborhood rhythms-working around peak trail hours at Wild Burro Trail, scheduling quieter service near Stone Canyon Golf Club tee times, and respecting resort-level expectations near Ritz-Carlton dining and private club communities. Our technicians often consult with homeowners about slope drainage from foothill runoff during monsoon season and check yard cleanouts near washes for root intrusion or debris packs. Because Tortolita is valued for its dark skies and wildlife corridors, we minimize overnight work and use directional lighting only when necessary. For property managers in Dove Mountain and estate neighborhoods, we offer pre-season checks for pool systems, irrigation checks before planting, and filtration audits that reduce long-term wear on high-end plumbing components."
       },
       {
             "type": "cta",
@@ -112,11 +112,11 @@ highlights: [
     faqs: [
     {
         "question": "Do Tortolita homes need whole\u2011home filtration because of water hardness?",
-        "answer": "Yes. Tortolita properties supplied by Marana/Metro commonly measure 170\u2013200 ppm hardness. In luxury homes\u2014especially those with freestanding tubs, rain shower heads, and built-in espresso systems\u2014mineral buildup shortens lifespans and alters finishes. We size systems to the larger household demands typical of Stone Canyon and Dove Mountain estates and recommend softening plus a sediment pre-filter for homes with on\u2011lot wells or heavy landscape irrigation. Installation in 85755/85742 often includes aesthetic mounting and concealed bypass plumbing to preserve custom cabinets and tile work."
+        "answer": "Yes. Tortolita properties supplied by Marana/Metro commonly measure 170\u2013200 ppm hardness. In luxury homes-especially those with freestanding tubs, rain shower heads, and built-in espresso systems-mineral buildup shortens lifespans and alters finishes. We size systems to the larger household demands typical of Stone Canyon and Dove Mountain estates and recommend softening plus a sediment pre-filter for homes with on\u2011lot wells or heavy landscape irrigation. Installation in 85755/85742 often includes aesthetic mounting and concealed bypass plumbing to preserve custom cabinets and tile work."
     },
     {
         "question": "How do you handle pool plumbing repairs on large Tortolita lots?",
-        "answer": "We use non\u2011invasive leak detection\u2014electronic locators, pressure decay, and dye testing\u2014before excavating to avoid disturbing premium landscaping. If line replacement is necessary, we provide trench plans that minimize changes to graded slopes and coordinate with landscape architects when working near water features or rock grades typical of foothill properties."
+        "answer": "We use non\u2011invasive leak detection-electronic locators, pressure decay, and dye testing-before excavating to avoid disturbing premium landscaping. If line replacement is necessary, we provide trench plans that minimize changes to graded slopes and coordinate with landscape architects when working near water features or rock grades typical of foothill properties."
     },
     {
         "question": "Are backflow devices required for outdoor systems in Tortolita?",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "What should homeowners near Tortolita Mountain Park watch for each monsoon season?",
-        "answer": "Homeowners should check exterior cleanouts, sump drains, and yard drains before monsoon season. Foothill drainage can carry debris and sediment into lines\u2014regular flushing and a pre\u2011monsoon inspection can prevent backups. We offer targeted pre\u2011monsoon maintenance inspections for properties in 85755 and 85742."
+        "answer": "Homeowners should check exterior cleanouts, sump drains, and yard drains before monsoon season. Foothill drainage can carry debris and sediment into lines-regular flushing and a pre\u2011monsoon inspection can prevent backups. We offer targeted pre\u2011monsoon maintenance inspections for properties in 85755 and 85742."
     },
     {
         "question": "How much does a typical fixture upgrade cost for a luxury Tortolita bathroom?",
@@ -140,7 +140,7 @@ highlights: [
     },
     {
         "question": "Do you work with builders in Dove Mountain and Stone Canyon for new installs?",
-        "answer": "We coordinate with local builders and architects to install plumbing that meets the expectations of Tortolita estate homes\u2014specifying low\u2011profile access panels, matching trim, and energy-efficient pumps. Our crews are familiar with HOA submission processes in Dove Mountain and Stone Canyon and can provide documentation requested during final inspections."
+        "answer": "We coordinate with local builders and architects to install plumbing that meets the expectations of Tortolita estate homes-specifying low\u2011profile access panels, matching trim, and energy-efficient pumps. Our crews are familiar with HOA submission processes in Dove Mountain and Stone Canyon and can provide documentation requested during final inspections."
     }
 ]
   },

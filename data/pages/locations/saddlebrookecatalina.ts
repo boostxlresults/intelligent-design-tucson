@@ -133,11 +133,11 @@ export const saddlebrookecatalinaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 SaddleBrooke / Catalina", "level": 2, "content": "Local Community Guide \u2014 SaddleBrooke / Catalina"},
+            {"type": "heading", "heading": "Local Community Guide - SaddleBrooke / Catalina", "level": 2, "content": "Local Community Guide - SaddleBrooke / Catalina"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Historic Kannally Ranch House, Oracle State Park, Vista Sun Wheel, Oracle Historical Society, Steam Pump Ranch. Whether you live near these landmarks or anywhere in SaddleBrooke / Catalina, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Fork & Fire Catalina Grill, Riot Grill, Peppersauce Kitchen, The Preserve Fine Dining, The Roadrunner Grill. When you need home services in SaddleBrooke / Catalina, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Fork & Fire Catalina Grill, Riot Grill, Peppersauce Kitchen, The Preserve Fine Dining, The Roadrunner Grill. When you need home services in SaddleBrooke / Catalina, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

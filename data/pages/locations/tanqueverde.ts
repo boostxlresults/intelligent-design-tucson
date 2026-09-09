@@ -173,11 +173,11 @@ export const tanqueverdeData: LocationPageData = {
     ]
   },
 
-      {"type": "heading", "heading": "Local Community Guide \u2014 Tanque Verde", "level": 2, "content": "Local Community Guide \u2014 Tanque Verde"},
+      {"type": "heading", "heading": "Local Community Guide - Tanque Verde", "level": 2, "content": "Local Community Guide - Tanque Verde"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Fort Lowell Museum, Trail Dust Town, Javelina Rocks, Sabino Canyon Recreation Area, Garwood Dam. Whether you live near these landmarks or anywhere in Tanque Verde, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, The Barnyard Crafthouse & Eatery, Forty Niner. When you need home services in Tanque Verde, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like The Gardens at Bear Canyon, Tanque Verde Ranch, Zio Peppe, The Barnyard Crafthouse & Eatery, Forty Niner. When you need home services in Tanque Verde, call the team your neighbors trust - Intelligent Design."},
     ]
   },
   

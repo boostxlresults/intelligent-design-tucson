@@ -1,8 +1,8 @@
 /**
- * Customer Reviews Data — SINGLE SOURCE OF TRUTH for all aggregateRating markup.
+ * Customer Reviews Data - SINGLE SOURCE OF TRUTH for all aggregateRating markup.
  *
  * Every aggregateRating on this site MUST import from this file. Do not hardcode
- * ratingValue/reviewCount anywhere else — six divergent values (4.8/3735, 4.9/3797,
+ * ratingValue/reviewCount anywhere else - six divergent values (4.8/3735, 4.9/3797,
  * 5.0/23000, 4.97/23000, 4.9/23000, 4.97/3500) shipped simultaneously before the
  * 2026-09-03 consolidation and contradicted each other in the same HTML documents.
  *
@@ -10,7 +10,7 @@
  * brand publicly reports, matching the "23,000+ reviews" claim shown across the site
  * and the PulseM widget on /customer-reviews. Because that widget renders inside a
  * cross-origin iframe (invisible to crawlers), /customer-reviews also renders a
- * first-party, crawler-visible sourcing breakdown — that block is what substantiates
+ * first-party, crawler-visible sourcing breakdown - that block is what substantiates
  * this number. Keep them in sync.
  *
  * GOOGLE-ONLY (googleRating) is the verified Google Business Profile figure, kept for
@@ -29,10 +29,10 @@
  * REFRESH: re-pull Google via SerpApi and PulseM from the dashboard, recompute the
  * weighted mean, and update BOTH the numbers below and the visible breakdown on
  * /customer-reviews. Never round up. Never invent a value for a platform you cannot
- * source — that is what produced the 5.0/23,000 claim this replaces.
+ * source - that is what produced the 5.0/23,000 claim this replaces.
  *
  * featuredReviews below are REAL, verbatim Google reviews (genuine reviewer
- * display names + dates). Never replace these with invented/sample text —
+ * display names + dates). Never replace these with invented/sample text -
  * fabricated review markup risks a Google spam manual action. To refresh,
  * re-pull from the GBP and paste verbatim entries only.
  */
@@ -59,7 +59,7 @@ export const REVIEW_TOTAL = 23417;
 export const REVIEW_TOTAL_DISPLAY = '23,000+';
 
 export const reviewsData = {
-  /** COMPOSITE across all platforms — the one rating used in schema sitewide. */
+  /** COMPOSITE across all platforms - the one rating used in schema sitewide. */
   aggregateRating: {
     ratingValue: 4.96,
     reviewCount: REVIEW_TOTAL,

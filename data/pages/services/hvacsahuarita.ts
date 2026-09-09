@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Sahuarita sits at about 2,900 feet, a few degrees cooler than Tucson but with the same desert monsoon cycles that stress air conditioning systems. Many homes here were built in the 2000s through the 2020s in master-planned communities like Rancho Sahuarita and Madera Highlands. Those neighborhoods commonly feature two-story layouts, tile roofs, and builder-installed duct systems that were sized to code but not always optimized for thermal zoning. We focus on real-world fixes: rebalancing registers to reduce second-floor heat, sealing and insulating short duct runs that pass through shallow attics, and testing outdoor condensers for wind-driven dust during monsoon season. Our field teams know Sahuarita addresses \u2014 including the 85629 zip code \u2014 and the typical roof access and patio orientations that influence condenser placement and airflow."
+            "content": "Sahuarita sits at about 2,900 feet, a few degrees cooler than Tucson but with the same desert monsoon cycles that stress air conditioning systems. Many homes here were built in the 2000s through the 2020s in master-planned communities like Rancho Sahuarita and Madera Highlands. Those neighborhoods commonly feature two-story layouts, tile roofs, and builder-installed duct systems that were sized to code but not always optimized for thermal zoning. We focus on real-world fixes: rebalancing registers to reduce second-floor heat, sealing and insulating short duct runs that pass through shallow attics, and testing outdoor condensers for wind-driven dust during monsoon season. Our field teams know Sahuarita addresses - including the 85629 zip code - and the typical roof access and patio orientations that influence condenser placement and airflow."
       },
       {
             "type": "paragraph",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "When a system replacement is needed in Sahuarita, cost and scope often reflect the home\u2019s age and construction. In newer neighborhoods (2000s\u20132020s), you\u2019ll often find smaller, builder-grade systems tied into compact duct networks; upgrading to a properly sized, high-efficiency system may also require duct resizing, adding return pathways, or installing a second zone to manage upstairs temperatures. Typical replacement projects in 85629 for two-story family homes range from mid-six figures in cents? No \u2014 sorry. To be precise: many homeowners invest between $6,000 and $11,000 for a complete central system replacement including basic duct modifications and a programmable thermostat. Seniors in Quail Creek with slab homes may prioritize quieter variable-speed compressors and enhanced filtration due to allergy concerns and proximity to pecan orchards."
+            "content": "When a system replacement is needed in Sahuarita, cost and scope often reflect the home\u2019s age and construction. In newer neighborhoods (2000s\u20132020s), you\u2019ll often find smaller, builder-grade systems tied into compact duct networks; upgrading to a properly sized, high-efficiency system may also require duct resizing, adding return pathways, or installing a second zone to manage upstairs temperatures. Typical replacement projects in 85629 for two-story family homes range from mid-six figures in cents? No - sorry. To be precise: many homeowners invest between $6,000 and $11,000 for a complete central system replacement including basic duct modifications and a programmable thermostat. Seniors in Quail Creek with slab homes may prioritize quieter variable-speed compressors and enhanced filtration due to allergy concerns and proximity to pecan orchards."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re part of the Sahuarita community and familiar with local day-to-day life \u2014 from families shopping at Sahuarita Town Center to residents enjoying Rancho Sahuarita Lake and views of the Santa Rita Mountains. We support homes near the Titan Missile Museum, service properties near the pecan orchards, and work with homeowners employed by Raytheon/RTX on reliable, scheduled maintenance. Understanding neighborhood character matters: Quail Creek needs age-in-place comfort solutions, while younger families in Madera Highlands often want efficient systems for open-plan living and energy savings."
+            "content": "We\u2019re part of the Sahuarita community and familiar with local day-to-day life - from families shopping at Sahuarita Town Center to residents enjoying Rancho Sahuarita Lake and views of the Santa Rita Mountains. We support homes near the Titan Missile Museum, service properties near the pecan orchards, and work with homeowners employed by Raytheon/RTX on reliable, scheduled maintenance. Understanding neighborhood character matters: Quail Creek needs age-in-place comfort solutions, while younger families in Madera Highlands often want efficient systems for open-plan living and energy savings."
       },
       {
             "type": "cta",
@@ -116,7 +116,7 @@ highlights: [
     },
     {
         "question": "How often should I schedule HVAC maintenance in Sahuarita 85629?",
-        "answer": "Given monsoon dust and summer cooling loads, schedule HVAC tune-ups twice a year \u2014 spring for cooling checks and fall for heating components. A spring service before peak summer helps prevent breakdowns during hot periods, and includes condenser cleaning, refrigerant check, and drain clearing to combat mineral buildup from hard water."
+        "answer": "Given monsoon dust and summer cooling loads, schedule HVAC tune-ups twice a year - spring for cooling checks and fall for heating components. A spring service before peak summer helps prevent breakdowns during hot periods, and includes condenser cleaning, refrigerant check, and drain clearing to combat mineral buildup from hard water."
     },
     {
         "question": "Do tile roofs affect AC performance or installation in Sahuarita?",

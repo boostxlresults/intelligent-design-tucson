@@ -40,7 +40,7 @@ highlights: [
   },
   {
     "title": "Warranty & Builder-Grade Repair Expertise",
-    "description": "Specialists in warranty claims and upgrades for builder-grade systems installed from 2015 onward\u2014common work in The Preserve at Gladden Farms neighborhoods."
+    "description": "Specialists in warranty claims and upgrades for builder-grade systems installed from 2015 onward-common work in The Preserve at Gladden Farms neighborhoods."
   },
   {
     "title": "Solar-Compatible Heat Options",
@@ -62,7 +62,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Many homeowners in Gladden Farms experience common scenarios: recent warranty claims on builder-installed equipment, tall upstairs bedrooms that stay warm in summer and cool quickly at night, and ductwork routed through shallow attics under tiled roofs that elevate operating temperatures. Typical service calls in 85653 for diagnostics begin around $99\u2013$129; simple repairs often run $150\u2013$450 while more extensive compressor or control board replacements on builder systems can be $600\u2013$1,800 depending on complexity and HOA access. We document issues for warranty submissions when appropriate and recommend practical upgrades\u2014zoning dampers, variable-speed blowers, and smart thermostats\u2014that fit the neighborhood\u2019s two-story living and family schedules without performing unnecessary full-system replacements."
+            "content": "Many homeowners in Gladden Farms experience common scenarios: recent warranty claims on builder-installed equipment, tall upstairs bedrooms that stay warm in summer and cool quickly at night, and ductwork routed through shallow attics under tiled roofs that elevate operating temperatures. Typical service calls in 85653 for diagnostics begin around $99\u2013$129; simple repairs often run $150\u2013$450 while more extensive compressor or control board replacements on builder systems can be $600\u2013$1,800 depending on complexity and HOA access. We document issues for warranty submissions when appropriate and recommend practical upgrades-zoning dampers, variable-speed blowers, and smart thermostats-that fit the neighborhood\u2019s two-story living and family schedules without performing unnecessary full-system replacements."
       },
       {
             "type": "cta",
@@ -79,7 +79,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "When Gladden Farms homeowners need replacements or upgrades we prioritize equipment and layouts that respect the community\u2019s characteristics. Newer homes often have compact mechanical closets and short duct runs; that changes sealing and airflow strategies compared with older Tucson neighborhoods. Because tile roofs and small lot setbacks limit where outdoor equipment can sit, we plan condenser placement to minimize HOA issues while maintaining clearances and airflow. The reliable TEP electrical grid and recent panel installs in many Gladden Farms homes make integrating heat pumps or hybrid systems straightforward; paired with the excellent solar potential on modern roofs, homeowners can choose high-efficiency options without costly electrical upgrades. Installation pricing in Gladden Farms for a full system change-out typically ranges based on tonnage and zoning needs\u2014modest single-family plans commonly fall between $5,500 and $10,500, while specialized two-story zoning or variable-speed systems vary upward\u2014always documented in a transparent, written estimate for 85653 properties."
+            "content": "When Gladden Farms homeowners need replacements or upgrades we prioritize equipment and layouts that respect the community\u2019s characteristics. Newer homes often have compact mechanical closets and short duct runs; that changes sealing and airflow strategies compared with older Tucson neighborhoods. Because tile roofs and small lot setbacks limit where outdoor equipment can sit, we plan condenser placement to minimize HOA issues while maintaining clearances and airflow. The reliable TEP electrical grid and recent panel installs in many Gladden Farms homes make integrating heat pumps or hybrid systems straightforward; paired with the excellent solar potential on modern roofs, homeowners can choose high-efficiency options without costly electrical upgrades. Installation pricing in Gladden Farms for a full system change-out typically ranges based on tonnage and zoning needs-modest single-family plans commonly fall between $5,500 and $10,500, while specialized two-story zoning or variable-speed systems vary upward-always documented in a transparent, written estimate for 85653 properties."
       },
       {
             "type": "paragraph",
@@ -93,7 +93,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We work within the Gladden Farms community context: from homes near the Santa Cruz River trail to those clustered along the Tangerine Road corridor, we know where dust, monsoon-driven humidity spikes, or reflective heat from tile roofs create seasonal challenges. Our preventative maintenance visits are scheduled around community activities\u2014pool seasons, school calendars for Marana Unified School District families, and the busy weekend traffic near Cracker Barrel and Chick-fil-A Marana\u2014so service is minimally disruptive. We keep records tailored to each home phase (Phase I, Phase II, The Preserve) and can provide documentation for HOAs or new homeowner files in zip code 85653."
+            "content": "We work within the Gladden Farms community context: from homes near the Santa Cruz River trail to those clustered along the Tangerine Road corridor, we know where dust, monsoon-driven humidity spikes, or reflective heat from tile roofs create seasonal challenges. Our preventative maintenance visits are scheduled around community activities-pool seasons, school calendars for Marana Unified School District families, and the busy weekend traffic near Cracker Barrel and Chick-fil-A Marana-so service is minimally disruptive. We keep records tailored to each home phase (Phase I, Phase II, The Preserve) and can provide documentation for HOAs or new homeowner files in zip code 85653."
       },
       {
             "type": "cta",
@@ -128,7 +128,7 @@ highlights: [
     },
     {
         "question": "How much should I expect to pay for common Gladden Farms heating repairs?",
-        "answer": "In Gladden Farms, basic diagnostic visits typically start around $99\u2013$129. Minor repairs\u2014capacitors, relays, sensor replacements\u2014usually fall in the $150\u2013$450 range. More extensive work on builder-grade systems, like compressor replacement or board swaps, can range $600\u2013$1,800. We provide itemized estimates up front and document issues for warranty claims when applicable."
+        "answer": "In Gladden Farms, basic diagnostic visits typically start around $99\u2013$129. Minor repairs-capacitors, relays, sensor replacements-usually fall in the $150\u2013$450 range. More extensive work on builder-grade systems, like compressor replacement or board swaps, can range $600\u2013$1,800. We provide itemized estimates up front and document issues for warranty claims when applicable."
     },
     {
         "question": "Can you help with warranty claims on new Gladden Farms homes?",
@@ -140,7 +140,7 @@ highlights: [
     },
     {
         "question": "What should residents of The Preserve at Gladden Farms know about heating options?",
-        "answer": "Homes in The Preserve at Gladden Farms sometimes have slightly larger lots and different landscaping, which allows more flexibility for condenser placement and potential mini-split additions. We assess each lot for HOA rules, noise considerations, and yard aesthetics and propose solutions\u2014zoning upgrades, ductless splits, or hybrid systems\u2014that match family needs and community standards."
+        "answer": "Homes in The Preserve at Gladden Farms sometimes have slightly larger lots and different landscaping, which allows more flexibility for condenser placement and potential mini-split additions. We assess each lot for HOA rules, noise considerations, and yard aesthetics and propose solutions-zoning upgrades, ductless splits, or hybrid systems-that match family needs and community standards."
     }
 ]
   },
@@ -157,7 +157,7 @@ highlights: [
     },
     {
         "question": "What seasonal timing is best for heating upgrades in Gladden Farms?",
-        "answer": "Late fall or early spring is ideal for Gladden Farms homeowners\u2014after monsoon cleanup and before peak summer cooling hits. Scheduling then avoids community pool season rushes and lets us test heat cycles during cooler nights. It also gives time for any HOA approvals that some neighborhoods require."
+        "answer": "Late fall or early spring is ideal for Gladden Farms homeowners-after monsoon cleanup and before peak summer cooling hits. Scheduling then avoids community pool season rushes and lets us test heat cycles during cooler nights. It also gives time for any HOA approvals that some neighborhoods require."
     },
     {
         "question": "Can you integrate HVAC work with solar-ready roofs common in Gladden Farms?",

@@ -149,11 +149,11 @@ export const avravalleyData: LocationPageData = {
             "type": "paragraph",
             "content": "Avra Valley provides a peaceful, rural lifestyle away from urban congestion while maintaining reasonable access to Tucson via I-10. It's ideal for those seeking solitude, dark night skies for stargazing, and a true connection to the desert environment."
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Avra Valley", "level": 2, "content": "Local Community Guide \u2014 Avra Valley"},
+            {"type": "heading", "heading": "Local Community Guide - Avra Valley", "level": 2, "content": "Local Community Guide - Avra Valley"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Ironwood Forest National Monument, Picture Rock Petroglyphs, Signal Hill, Arizona-Sonora Desert Museum, Saguaro National Park West. Whether you live near these landmarks or anywhere in Avra Valley, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Guadalajara's Grill & Tequila Bar, Ol' Pot Hole, The Station Pub & Grill, Sky Rider Cafe. When you need home services in Avra Valley, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like JoJo's Restaurant, Guadalajara's Grill & Tequila Bar, Ol' Pot Hole, The Station Pub & Grill, Sky Rider Cafe. When you need home services in Avra Valley, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Frequently Asked Questions",

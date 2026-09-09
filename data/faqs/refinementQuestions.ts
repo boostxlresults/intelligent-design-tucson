@@ -1,5 +1,5 @@
 /**
- * Refinement Questions — Google Maps AI "Ask About This Place" Optimization
+ * Refinement Questions - Google Maps AI "Ask About This Place" Optimization
  * 
  * These questions mirror the follow-up refinement questions that Google Maps AI
  * auto-generates when users search for home services. By pre-answering these
@@ -23,7 +23,7 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `How much does AC repair cost in ${location}?`,
-      answer: `AC repair costs in ${location} vary based on the issue. Simple repairs like capacitor replacement start around $150-$300, while major repairs like compressor replacement can range from $1,500-$3,000+. Intelligent Design provides upfront, transparent pricing before any work begins — no hidden fees. We also offer financing options and our $88.88 tune-up special to help prevent costly repairs.`
+      answer: `AC repair costs in ${location} vary based on the issue. Simple repairs like capacitor replacement start around $150-$300, while major repairs like compressor replacement can range from $1,500-$3,000+. Intelligent Design provides upfront, transparent pricing before any work begins - no hidden fees. We also offer financing options and our $88.88 tune-up special to help prevent costly repairs.`
     },
     {
       question: `What HVAC brands do you service in ${location}?`,
@@ -31,11 +31,11 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you offer AC financing in ${location}?`,
-      answer: `Yes. Intelligent Design offers multiple financing options for ${location} homeowners including 0% APR plans, low monthly payment options, and same-as-cash programs. We work with several lending partners to find the best fit for your budget. Financing is available for AC installations, replacements, and major repairs. Apply during your service appointment — approval takes minutes.`
+      answer: `Yes. Intelligent Design offers multiple financing options for ${location} homeowners including 0% APR plans, low monthly payment options, and same-as-cash programs. We work with several lending partners to find the best fit for your budget. Financing is available for AC installations, replacements, and major repairs. Apply during your service appointment - approval takes minutes.`
     },
     {
       question: `How often should I get my AC tuned up in ${location}?`,
-      answer: `In ${location} and the Tucson area, we recommend AC tune-ups twice a year — once in spring before the extreme summer heat, and once in fall before heating season. Tucson's desert climate puts extra stress on HVAC systems due to dust, extreme temperatures (110°F+), and monsoon humidity. Our comprehensive 86-point tune-up is currently just $88.88 and catches problems before they become expensive emergencies.`
+      answer: `In ${location} and the Tucson area, we recommend AC tune-ups twice a year - once in spring before the extreme summer heat, and once in fall before heating season. Tucson's desert climate puts extra stress on HVAC systems due to dust, extreme temperatures (110°F+), and monsoon humidity. Our comprehensive 86-point tune-up is currently just $88.88 and catches problems before they become expensive emergencies.`
     },
     {
       question: `Is Intelligent Design licensed and insured in Arizona?`,
@@ -43,7 +43,7 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `What is the IntelligentAC monitoring system?`,
-      answer: `IntelligentAC is our proprietary smart AC monitoring system that uses advanced sensors to continuously monitor your HVAC system's performance. It can diagnose problems before they become emergencies, predict system failures, and alert you when it's time for a tune-up or filter change. Available to ${location} homeowners — it can save thousands in unexpected repair costs by catching issues early.`
+      answer: `IntelligentAC is our proprietary smart AC monitoring system that uses advanced sensors to continuously monitor your HVAC system's performance. It can diagnose problems before they become emergencies, predict system failures, and alert you when it's time for a tune-up or filter change. Available to ${location} homeowners - it can save thousands in unexpected repair costs by catching issues early.`
     },
     {
       question: `Do you install ductless mini-splits in ${location}?`,
@@ -55,7 +55,7 @@ export function getHVACRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you offer maintenance plans for ${location} homeowners?`,
-      answer: `Yes. Intelligent Design offers Family Protection Plans for ${location} homeowners that include priority scheduling, discounted repairs, annual tune-ups, and extended warranties. Plans cover HVAC, plumbing, electrical, and more — so one plan protects your entire home. Members also get priority scheduling during peak summer months when wait times can be longest.`
+      answer: `Yes. Intelligent Design offers Family Protection Plans for ${location} homeowners that include priority scheduling, discounted repairs, annual tune-ups, and extended warranties. Plans cover HVAC, plumbing, electrical, and more - so one plan protects your entire home. Members also get priority scheduling during peak summer months when wait times can be longest.`
     },
     {
       question: `What areas near ${location} do you serve?`,
@@ -71,11 +71,11 @@ export function getPlumbingRefinementQuestions(location: string): FAQItem[] {
   return [
     {
       question: `Do you offer emergency plumbing in ${location}?`,
-      answer: `Yes. Intelligent Design provides 24/7 emergency plumbing service in ${location}. Burst pipes, sewer backups, water heater failures, and major leaks can't wait — our plumbers respond within 1-2 hours. Call (520) 333-2665 for immediate assistance. No overtime charges.`
+      answer: `Yes. Intelligent Design provides 24/7 emergency plumbing service in ${location}. Burst pipes, sewer backups, water heater failures, and major leaks can't wait - our plumbers respond within 1-2 hours. Call (520) 333-2665 for immediate assistance. No overtime charges.`
     },
     {
       question: `How much does a plumber cost in ${location}?`,
-      answer: `Plumbing costs in ${location} depend on the job. Common repairs like faucet replacement ($150-$300), toilet repair ($100-$250), and water heater repair ($200-$500) are straightforward. Larger jobs like repiping ($3,000-$8,000) or sewer line replacement ($3,000-$10,000) vary by scope. Intelligent Design provides upfront pricing with no hidden fees — you'll know the cost before we start.`
+      answer: `Plumbing costs in ${location} depend on the job. Common repairs like faucet replacement ($150-$300), toilet repair ($100-$250), and water heater repair ($200-$500) are straightforward. Larger jobs like repiping ($3,000-$8,000) or sewer line replacement ($3,000-$10,000) vary by scope. Intelligent Design provides upfront pricing with no hidden fees - you'll know the cost before we start.`
     },
     {
       question: `Do you fix water heaters in ${location}?`,
@@ -91,11 +91,11 @@ export function getPlumbingRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you install water softeners in ${location}?`,
-      answer: `Yes. Tucson's water is notoriously hard (12-25 grains per gallon), and ${location} is no exception. Intelligent Design installs whole-home water softeners, water filtration systems, and reverse osmosis systems. Hard water damages pipes, water heaters, and fixtures over time — a water softener pays for itself in reduced maintenance costs. Free water quality testing available.`
+      answer: `Yes. Tucson's water is notoriously hard (12-25 grains per gallon), and ${location} is no exception. Intelligent Design installs whole-home water softeners, water filtration systems, and reverse osmosis systems. Hard water damages pipes, water heaters, and fixtures over time - a water softener pays for itself in reduced maintenance costs. Free water quality testing available.`
     },
     {
       question: `Do you offer plumbing financing in ${location}?`,
-      answer: `Yes. Intelligent Design offers flexible financing for plumbing projects in ${location} including 0% APR options and low monthly payments. Financing is available for water heater replacements, repiping, sewer line repair, and other major plumbing work. Apply during your service appointment — approval takes just minutes.`
+      answer: `Yes. Intelligent Design offers flexible financing for plumbing projects in ${location} including 0% APR options and low monthly payments. Financing is available for water heater replacements, repiping, sewer line repair, and other major plumbing work. Apply during your service appointment - approval takes just minutes.`
     },
     {
       question: `Is Intelligent Design a licensed plumber in Arizona?`,
@@ -127,7 +127,7 @@ export function getElectricalRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you install Generac generators in ${location}?`,
-      answer: `Yes. Intelligent Design is a certified Generac installer serving ${location}. Whole-home standby generators automatically power your home during outages — critical during Tucson's monsoon season when power outages are common. We handle sizing, installation, gas line connection, transfer switch, and all permits. Financing available.`
+      answer: `Yes. Intelligent Design is a certified Generac installer serving ${location}. Whole-home standby generators automatically power your home during outages - critical during Tucson's monsoon season when power outages are common. We handle sizing, installation, gas line connection, transfer switch, and all permits. Financing available.`
     },
     {
       question: `Do you install EV chargers in ${location}?`,
@@ -143,7 +143,7 @@ export function getElectricalRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you install whole-home surge protection in ${location}?`,
-      answer: `Yes. Whole-home surge protection is especially important in ${location} and the Tucson area due to monsoon lightning strikes. Intelligent Design installs surge protection at your electrical panel to protect all electronics, appliances, and HVAC equipment from power surges. A single lightning strike can cause thousands in damage — surge protection costs a fraction of that.`
+      answer: `Yes. Whole-home surge protection is especially important in ${location} and the Tucson area due to monsoon lightning strikes. Intelligent Design installs surge protection at your electrical panel to protect all electronics, appliances, and HVAC equipment from power surges. A single lightning strike can cause thousands in damage - surge protection costs a fraction of that.`
     },
     {
       question: `Can you add outlets or circuits to my ${location} home?`,
@@ -167,7 +167,7 @@ export function getSolarRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you offer solar financing in ${location}?`,
-      answer: `Yes. Intelligent Design offers multiple solar financing options for ${location} homeowners including $0 down solar loans, low-interest financing, and lease options. Many homeowners find their monthly solar payment is less than their current electric bill — meaning you save money from day one. We help you compare options to find the best fit.`
+      answer: `Yes. Intelligent Design offers multiple solar financing options for ${location} homeowners including $0 down solar loans, low-interest financing, and lease options. Many homeowners find their monthly solar payment is less than their current electric bill - meaning you save money from day one. We help you compare options to find the best fit.`
     },
     {
       question: `How long does solar installation take in ${location}?`,
@@ -179,7 +179,7 @@ export function getSolarRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Will solar panels damage my roof in ${location}?`,
-      answer: `No — when properly installed, solar panels actually protect the portion of roof they cover from sun and weather damage. Intelligent Design is both a solar installer AND a licensed roofing contractor, so we understand roof integrity. We inspect your roof before installation and can repair or replace roofing as needed. Our installations come with a 25-year roof penetration warranty.`
+      answer: `No - when properly installed, solar panels actually protect the portion of roof they cover from sun and weather damage. Intelligent Design is both a solar installer AND a licensed roofing contractor, so we understand roof integrity. We inspect your roof before installation and can repair or replace roofing as needed. Our installations come with a 25-year roof penetration warranty.`
     },
     {
       question: `Do you handle solar permits in ${location}?`,
@@ -215,7 +215,7 @@ export function getRoofingRefinementQuestions(location: string): FAQItem[] {
     },
     {
       question: `Do you offer roofing financing in ${location}?`,
-      answer: `Yes. Intelligent Design offers flexible financing for roofing projects in ${location} including 0% APR options and low monthly payments. A new roof is a major investment, and we want to make it accessible. Apply during your free inspection — approval takes minutes. We also work with insurance companies on storm damage claims.`
+      answer: `Yes. Intelligent Design offers flexible financing for roofing projects in ${location} including 0% APR options and low monthly payments. A new roof is a major investment, and we want to make it accessible. Apply during your free inspection - approval takes minutes. We also work with insurance companies on storm damage claims.`
     },
     {
       question: `Is Intelligent Design a licensed roofer in Arizona?`,
@@ -243,11 +243,11 @@ export function getDrainClearingRefinementQuestions(location: string): FAQItem[]
     },
     {
       question: `Do you offer emergency drain service in ${location}?`,
-      answer: `Yes. Intelligent Design provides 24/7 emergency drain and sewer service in ${location}. Sewer backups and completely blocked drains can't wait — they pose health hazards and can cause water damage. Our plumbers respond quickly with professional equipment to clear blockages fast. Call (520) 333-2665 for immediate assistance.`
+      answer: `Yes. Intelligent Design provides 24/7 emergency drain and sewer service in ${location}. Sewer backups and completely blocked drains can't wait - they pose health hazards and can cause water damage. Our plumbers respond quickly with professional equipment to clear blockages fast. Call (520) 333-2665 for immediate assistance.`
     },
     {
       question: `Do you use cameras to inspect drains in ${location}?`,
-      answer: `Yes. Intelligent Design uses HD sewer camera inspection in ${location} to visually inspect your drain and sewer lines. Camera inspection reveals the exact cause of blockages — whether it's tree roots, grease buildup, collapsed pipe, or foreign objects. This eliminates guesswork and ensures we recommend the right solution. Camera inspection is included with many of our drain services.`
+      answer: `Yes. Intelligent Design uses HD sewer camera inspection in ${location} to visually inspect your drain and sewer lines. Camera inspection reveals the exact cause of blockages - whether it's tree roots, grease buildup, collapsed pipe, or foreign objects. This eliminates guesswork and ensures we recommend the right solution. Camera inspection is included with many of our drain services.`
     },
     {
       question: `What causes frequent drain clogs in ${location}?`,

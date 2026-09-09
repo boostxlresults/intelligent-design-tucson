@@ -36,7 +36,7 @@ export const drainsewertucsonData: ServicePageData = {
   },
   {
     "title": "Transparent Pricing",
-    "description": "No hidden fees\u2014clear estimates help you make informed decisions for your home."
+    "description": "No hidden fees-clear estimates help you make informed decisions for your home."
   },
   {
     "title": "Experienced Team",
@@ -58,7 +58,7 @@ export const drainsewertucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson\u2019s unique climate\u2014with monsoons, hard water, and extreme heat\u2014places extra stress on your drain and sewer systems. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric specializes in plumbing solutions designed to withstand these challenges. Our expert technicians use state-of-the-art sewer camera inspection technology to identify blockages and damage without invasive digging."
+            "content": "Tucson\u2019s unique climate-with monsoons, hard water, and extreme heat-places extra stress on your drain and sewer systems. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric specializes in plumbing solutions designed to withstand these challenges. Our expert technicians use state-of-the-art sewer camera inspection technology to identify blockages and damage without invasive digging."
       },
       {
             "type": "paragraph",

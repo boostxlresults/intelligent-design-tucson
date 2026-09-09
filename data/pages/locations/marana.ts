@@ -149,11 +149,11 @@ export const maranaData: LocationPageData = {
             "level": 2,
             "content": "Frequently Asked Questions"
       },
-            {"type": "heading", "heading": "Local Community Guide \u2014 Marana", "level": 2, "content": "Local Community Guide \u2014 Marana"},
+            {"type": "heading", "heading": "Local Community Guide - Marana", "level": 2, "content": "Local Community Guide - Marana"},
       {"type": "heading", "heading": "Local Landmarks & Attractions", "level": 3, "content": "Local Landmarks & Attractions"},
       {"type": "paragraph", "content": "Proudly serving homeowners near Downtown Marana Sign/Cowboy Statue, Marana Heritage River Park, El Rio Preserve, Picture Rock Petroglyphs, Marana Falls. Whether you live near these landmarks or anywhere in Marana, our technicians provide fast, reliable service to your neighborhood."},
       {"type": "heading", "heading": "Local Dining & Community", "level": 3, "content": "Local Dining & Community"},
-      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, Taqueria Plaza's, Ol' Pot Hole. When you need home services in Marana, call the team your neighbors trust \u2014 Intelligent Design."},
+      {"type": "paragraph", "content": "We're proud to serve the same community that supports local favorites like Luna Cafe, The Highlands Bar & Grille, Sky Rider Cafe, Taqueria Plaza's, Ol' Pot Hole. When you need home services in Marana, call the team your neighbors trust - Intelligent Design."},
       {
             "type": "heading",
             "heading": "Contact Intelligent Design",

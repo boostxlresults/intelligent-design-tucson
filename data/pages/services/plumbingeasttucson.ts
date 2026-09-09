@@ -28,7 +28,7 @@ highlights: [
   },
   {
     "title": "Hard-Water Solutions for 180\u2013220 ppm",
-    "description": "Scale from East Tucson\u2019s hard water damages water heaters and fixtures\u2014our softening and scale-control plans are tailored to local mineral content."
+    "description": "Scale from East Tucson\u2019s hard water damages water heaters and fixtures-our softening and scale-control plans are tailored to local mineral content."
   },
   {
     "title": "Builder-Grade Repair Experience",
@@ -58,7 +58,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "East Tucson sits at 2,700\u20133,000 ft on the eastern edge of the Tucson valley, where slight elevation and proximity to the Rincon Mountains create cooler overnight temperatures and stronger airflow than central Tucson. Those microclimate differences, combined with a mix of housing built from the 1970s through the 2000s, produce plumbing patterns you won\u2019t find in newer single-era subdivisions. For example, many homes in the 85710 and 85730 zip codes \u2014 especially older pockets near Pantano and the Tanque Verde wash \u2014 still have original galvanized lines or aging CPVC that show pitting and reduced pressure. Conversely, newer subdivisions along the Houghton Road corridor and the eastern edges near Rita Ranch can suffer from builder-grade fittings, under-slab trenching issues, and pinhole leaks in pressurized copper due to mineral content. Homes in Civano and some planned communities often have irrigation and drip systems integral to landscaping, which require different backflow and winterization attention because of monsoon-driven debris and sediment."
+            "content": "East Tucson sits at 2,700\u20133,000 ft on the eastern edge of the Tucson valley, where slight elevation and proximity to the Rincon Mountains create cooler overnight temperatures and stronger airflow than central Tucson. Those microclimate differences, combined with a mix of housing built from the 1970s through the 2000s, produce plumbing patterns you won\u2019t find in newer single-era subdivisions. For example, many homes in the 85710 and 85730 zip codes - especially older pockets near Pantano and the Tanque Verde wash - still have original galvanized lines or aging CPVC that show pitting and reduced pressure. Conversely, newer subdivisions along the Houghton Road corridor and the eastern edges near Rita Ranch can suffer from builder-grade fittings, under-slab trenching issues, and pinhole leaks in pressurized copper due to mineral content. Homes in Civano and some planned communities often have irrigation and drip systems integral to landscaping, which require different backflow and winterization attention because of monsoon-driven debris and sediment."
       },
       {
             "type": "paragraph",
@@ -83,7 +83,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Practical pricing context for East Tucson: routine diagnostic and service calls typically start around $95\u2013$135 depending on access and diagnostics in 85710/85730/85748. A standard drain clean in these neighborhoods most often falls between $150 and $350, while full water heater replacement\u2014frequently recommended because of hard-water corrosion\u2014ranges from $900 to $2,400 depending on tank size, venting complexity, and whether a water-softening or scale-reduction system is added. We always provide upfront estimates and explain how East Tucson-specific factors like two-story runs, tile-roof access, and HOA restrictions affect price."
+            "content": "Practical pricing context for East Tucson: routine diagnostic and service calls typically start around $95\u2013$135 depending on access and diagnostics in 85710/85730/85748. A standard drain clean in these neighborhoods most often falls between $150 and $350, while full water heater replacement-frequently recommended because of hard-water corrosion-ranges from $900 to $2,400 depending on tank size, venting complexity, and whether a water-softening or scale-reduction system is added. We always provide upfront estimates and explain how East Tucson-specific factors like two-story runs, tile-roof access, and HOA restrictions affect price."
       },
       {
             "type": "heading",
@@ -112,7 +112,7 @@ highlights: [
     faqs: [
     {
         "question": "Do East Tucson homes need water softeners for 180\u2013220 ppm hardness?",
-        "answer": "Yes\u2014water at 180\u2013220 ppm in East Tucson typically causes scale buildup that shortens water heater life and clogs fixtures. For many homes in 85710, 85730, and 85748, a water-softening system or targeted scale reduction (such as a salt-free conditioner paired with a sacrificial anode) reduces maintenance and can improve efficiency. We evaluate household size, irrigation needs, and local water chemistry before recommending a system and provide cost comparisons reflecting East Tucson installation scenarios."
+        "answer": "Yes-water at 180\u2013220 ppm in East Tucson typically causes scale buildup that shortens water heater life and clogs fixtures. For many homes in 85710, 85730, and 85748, a water-softening system or targeted scale reduction (such as a salt-free conditioner paired with a sacrificial anode) reduces maintenance and can improve efficiency. We evaluate household size, irrigation needs, and local water chemistry before recommending a system and provide cost comparisons reflecting East Tucson installation scenarios."
     },
     {
         "question": "Are pipe repipes common in East Tucson\u2019s older neighborhoods?",
@@ -124,7 +124,7 @@ highlights: [
     },
     {
         "question": "Do newer homes along Houghton Road have unique plumbing problems?",
-        "answer": "Yes\u2014newer developments along Houghton Road and Rita Ranch borders sometimes experience builder-grade failures like loose fittings, improperly sloped drain lines, or inadequate sediment traps. These issues often manifest within the first 5\u201310 years and are usually repairable under builder warranty or with minimal invasive work when addressed promptly."
+        "answer": "Yes-newer developments along Houghton Road and Rita Ranch borders sometimes experience builder-grade failures like loose fittings, improperly sloped drain lines, or inadequate sediment traps. These issues often manifest within the first 5\u201310 years and are usually repairable under builder warranty or with minimal invasive work when addressed promptly."
     },
     {
         "question": "What should homeowners near Saguaro National Park East watch for?",

@@ -37,7 +37,7 @@ highlights: [
   },
   {
     "title": "Trusted Local Team",
-    "description": "Intelligent Design \u2014 46+ years in Tucson region, 4.97\u2605 rating, 3,600+ reviews. Call (520) 333-2665."
+    "description": "Intelligent Design - 46+ years in Tucson region, 4.97\u2605 rating, 3,600+ reviews. Call (520) 333-2665."
   }
 ],
   content: {
@@ -51,11 +51,11 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "Cortaro sits at about 2,200 feet with a lower-elevation desert climate that produces hotter summers and intense afternoon solar gain for the area around Cortaro Farms Road and the Silverbell corridor. Many of the neighborhoods \u2014 Continental Ranch, Continental Reserve, and newer planned communities in the 85652 and 85742 zip codes \u2014 were built between the 1990s and 2010s with builder-grade HVAC systems sized for standard loads. Those 1990s systems are now reaching the end of their expected life and often struggle with upstairs heat in two-story homes. Attics over stucco, tile-roofed homes can hide duct leakage and missing insulation that make cooling inefficient and uneven. In addition, the proximity to the Santa Cruz River floodplain and the Rillito River crossing brings seasonal dust and monsoon humidity that impact indoor air quality and system performance. Our Cortaro HVAC technicians evaluate load calculations, duct integrity, and attic insulation specific to local building styles so your new installation or repair reduces bills, improves comfort upstairs, and protects equipment during monsoon and heat peaks."
+            "content": "Cortaro sits at about 2,200 feet with a lower-elevation desert climate that produces hotter summers and intense afternoon solar gain for the area around Cortaro Farms Road and the Silverbell corridor. Many of the neighborhoods - Continental Ranch, Continental Reserve, and newer planned communities in the 85652 and 85742 zip codes - were built between the 1990s and 2010s with builder-grade HVAC systems sized for standard loads. Those 1990s systems are now reaching the end of their expected life and often struggle with upstairs heat in two-story homes. Attics over stucco, tile-roofed homes can hide duct leakage and missing insulation that make cooling inefficient and uneven. In addition, the proximity to the Santa Cruz River floodplain and the Rillito River crossing brings seasonal dust and monsoon humidity that impact indoor air quality and system performance. Our Cortaro HVAC technicians evaluate load calculations, duct integrity, and attic insulation specific to local building styles so your new installation or repair reduces bills, improves comfort upstairs, and protects equipment during monsoon and heat peaks."
       },
       {
             "type": "paragraph",
-            "content": "When we work in Cortaro, we tailor solutions to neighborhood patterns. Continental Ranch and Cortaro Farms area often feature tract homes with similar duct runs and common attic access points; identifying repeated issues across a subdivision helps us propose targeted upgrades like duct sealing and zoning for second-story comfort. For homeowners near Marana Heritage River Park and low-lying areas of the floodplain, we recommend elevated placement for condensers and moisture-management strategies to safeguard outdoor units during seasonal flooding. Whether the home is a single-story stucco ranch or a two-story tile-roofed model, our technicians bring local knowledge \u2014 including typical load differences at 2,200 ft \u2014 to recommend right-sized equipment, proper refrigerant charge, and airflow corrections that dramatically improve comfort and equipment longevity."
+            "content": "When we work in Cortaro, we tailor solutions to neighborhood patterns. Continental Ranch and Cortaro Farms area often feature tract homes with similar duct runs and common attic access points; identifying repeated issues across a subdivision helps us propose targeted upgrades like duct sealing and zoning for second-story comfort. For homeowners near Marana Heritage River Park and low-lying areas of the floodplain, we recommend elevated placement for condensers and moisture-management strategies to safeguard outdoor units during seasonal flooding. Whether the home is a single-story stucco ranch or a two-story tile-roofed model, our technicians bring local knowledge - including typical load differences at 2,200 ft - to recommend right-sized equipment, proper refrigerant charge, and airflow corrections that dramatically improve comfort and equipment longevity."
       },
       {
             "type": "cta",
@@ -72,7 +72,7 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "AC repair in Cortaro requires fast diagnostics because summer outside temperatures and quick heat spikes strain systems. Our technicians prioritize refrigerant checks, capacitor and contactor tests, and airflow diagnostics \u2014 especially important in two-story homes where upstairs temperature imbalance is common. For replacements, we recommend high-efficiency systems sized to local cooling loads, and we offer zoning and variable-speed options that stabilize upstairs temperatures in Continental Reserve and similar neighborhoods. Ductwork repairs focus on attic sealing and insulation to prevent conditioned air loss into hot attic spaces above tile roofs and stucco exteriors. For older homes from the 1990s, we often find undersized ducts or leaky returns; our corrective work includes proper boot sealing, transition smoothing, and return-path improvements to lower energy bills and reduce HVAC runtime. Maintenance plans are scheduled to avoid monsoon season issues \u2014 pre-summer tune-ups include coil cleaning, condensate checks for flood-prone areas, and thermostat calibration to keep your system ready for Cortaro heat."
+            "content": "AC repair in Cortaro requires fast diagnostics because summer outside temperatures and quick heat spikes strain systems. Our technicians prioritize refrigerant checks, capacitor and contactor tests, and airflow diagnostics - especially important in two-story homes where upstairs temperature imbalance is common. For replacements, we recommend high-efficiency systems sized to local cooling loads, and we offer zoning and variable-speed options that stabilize upstairs temperatures in Continental Reserve and similar neighborhoods. Ductwork repairs focus on attic sealing and insulation to prevent conditioned air loss into hot attic spaces above tile roofs and stucco exteriors. For older homes from the 1990s, we often find undersized ducts or leaky returns; our corrective work includes proper boot sealing, transition smoothing, and return-path improvements to lower energy bills and reduce HVAC runtime. Maintenance plans are scheduled to avoid monsoon season issues - pre-summer tune-ups include coil cleaning, condensate checks for flood-prone areas, and thermostat calibration to keep your system ready for Cortaro heat."
       },
       {
             "type": "paragraph",
@@ -86,12 +86,12 @@ highlights: [
       },
       {
             "type": "paragraph",
-            "content": "We\u2019re part of the Cortaro community \u2014 serving homeowners along Cortaro Farms Road, the Silverbell corridor, and through Continental Ranch subdivisions. You\u2019ll see our trucks near the Rillito River crossing and at homes around Marana Heritage River Park, responding to AC breakdowns before holiday gatherings or pre-monsoon inspections. Because many neighborhoods share similar home models and construction eras, our team often brings neighborhood-specific solutions that families appreciate: upstairs comfort upgrades for two-story tract homes, duct sealing packages for stucco-and-tile houses, and elevation- and moisture-aware placements for outdoor equipment in floodplain-adjacent properties. We also work with HOA schedules in planned communities to coordinate service windows and minimize disruption."
+            "content": "We\u2019re part of the Cortaro community - serving homeowners along Cortaro Farms Road, the Silverbell corridor, and through Continental Ranch subdivisions. You\u2019ll see our trucks near the Rillito River crossing and at homes around Marana Heritage River Park, responding to AC breakdowns before holiday gatherings or pre-monsoon inspections. Because many neighborhoods share similar home models and construction eras, our team often brings neighborhood-specific solutions that families appreciate: upstairs comfort upgrades for two-story tract homes, duct sealing packages for stucco-and-tile houses, and elevation- and moisture-aware placements for outdoor equipment in floodplain-adjacent properties. We also work with HOA schedules in planned communities to coordinate service windows and minimize disruption."
       },
       {
             "type": "cta",
             "heading": "Get Local Cortaro HVAC Help",
-            "content": "Protect your Cortaro home from heat and monsoon damage with a local HVAC team you can trust. Intelligent Design has 46+ years of experience and a 4.97\u2605 rating\u2014call us for same-day diagnostics and clear estimates.",
+            "content": "Protect your Cortaro home from heat and monsoon damage with a local HVAC team you can trust. Intelligent Design has 46+ years of experience and a 4.97\u2605 rating-call us for same-day diagnostics and clear estimates.",
             "buttonText": "Call (520) 333-2665",
             "buttonLink": "tel:+15203332665"
       }
@@ -103,7 +103,7 @@ highlights: [
     faqs: [
     {
         "question": "How long do AC systems last in Cortaro's hotter, lower-elevation climate?",
-        "answer": "In Cortaro\u2019s hotter, lower-elevation climate systems typically experience heavier runtime than in higher desert neighborhoods. A well-maintained high-efficiency unit can last 12\u201315 years, but builder-grade systems installed in the 1990s often reach end-of-life sooner due to undersizing, duct leakage, and year-round strain. Regular maintenance\u2014biannual tune-ups, refrigerant checks, and duct sealing\u2014can add several years. For two-story homes with persistent upstairs heat, zoning or a variable-speed system can prevent excessive cycling and extend equipment life. When systems show repeated compressor or refrigerant issues, replacement with a properly sized unit is usually the most cost-effective option."
+        "answer": "In Cortaro\u2019s hotter, lower-elevation climate systems typically experience heavier runtime than in higher desert neighborhoods. A well-maintained high-efficiency unit can last 12\u201315 years, but builder-grade systems installed in the 1990s often reach end-of-life sooner due to undersizing, duct leakage, and year-round strain. Regular maintenance-biannual tune-ups, refrigerant checks, and duct sealing-can add several years. For two-story homes with persistent upstairs heat, zoning or a variable-speed system can prevent excessive cycling and extend equipment life. When systems show repeated compressor or refrigerant issues, replacement with a properly sized unit is usually the most cost-effective option."
     },
     {
         "question": "Do you service homes in zip codes 85652 and 85742?",
@@ -142,7 +142,7 @@ highlights: [
     },
     {
         "question": "Should we add contractor credentials or licensing details?",
-        "answer": "Yes \u2014 we can include Arizona ROC numbers, NATE certification, or other credentials if you provide them; otherwise we\u2019ll reference company experience, ratings, and review count."
+        "answer": "Yes - we can include Arizona ROC numbers, NATE certification, or other credentials if you provide them; otherwise we\u2019ll reference company experience, ratings, and review count."
     },
     {
         "question": "Do you want service area map or list of neighborhoods expanded?",
@@ -150,11 +150,11 @@ highlights: [
     },
     {
         "question": "Would you like customer testimonials from Cortaro included?",
-        "answer": "We can add short, anonymized quotes drawn from the company\u2019s review pool referencing Continental Ranch or Cortaro experiences\u2014please confirm you want paraphrased excerpts."
+        "answer": "We can add short, anonymized quotes drawn from the company\u2019s review pool referencing Continental Ranch or Cortaro experiences-please confirm you want paraphrased excerpts."
     },
     {
         "question": "Do we need to include seasonal tips for monsoon preparation?",
-        "answer": "Yes \u2014 we can create a short checklist for pre-monsoon HVAC prep tailored to floodplain-adjacent properties and attic moisture control if desired."
+        "answer": "Yes - we can create a short checklist for pre-monsoon HVAC prep tailored to floodplain-adjacent properties and attic moisture control if desired."
     },
     {
         "question": "Should CTAs reference residential vs. multi-family services?",
