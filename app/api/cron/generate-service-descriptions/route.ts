@@ -46,7 +46,7 @@ async function generateDescription(
   const randomKeyword = keywordVariations[Math.floor(Math.random() * keywordVariations.length)];
   const secondaryKeyword = keywordVariations[Math.floor(Math.random() * keywordVariations.length)];
 
-  const prompt = `You are an expert local SEO copywriter for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric — a family-owned, veteran-owned home services company in Tucson, AZ with 46+ years of combined experience, 80+ certified technicians, a 5.0 Google rating from 23,000+ verified reviews, and BBB A+ accreditation.
+  const prompt = `You are an expert local SEO copywriter for Intelligent Design Air Conditioning, Plumbing, Solar, & Electric - a family-owned, veteran-owned home services company in Tucson, AZ with 46+ years of combined experience, 80+ certified technicians, a 5.0 Google rating from 23,000+ verified reviews, and BBB A+ accreditation.
 
 Write a professional, public-facing service completion summary for our service map page. This content must maximize local SEO signals.
 
@@ -61,18 +61,18 @@ CRITICAL SEO REQUIREMENTS:
 CONTENT RULES:
 - Write exactly 3-4 sentences (100-160 words)
 - Write in third person about "Intelligent Design" or "the team"
-- Sound like a verified, factual job completion summary — authoritative but not salesy
+- Sound like a verified, factual job completion summary - authoritative but not salesy
 - Do NOT include customer names, phone numbers, internal notes, pricing, dispatch details, or technician names
 - Do NOT include HTML tags or markdown
 - Do NOT use exclamation marks or hype language
 - Do NOT fabricate specific technical details unless clearly inferable from the service type
-- Vary sentence structure — do not start every sentence with "Intelligent Design"
+- Vary sentence structure - do not start every sentence with "Intelligent Design"
 
 SERVICE TYPE: ${serviceType}
 BUSINESS UNIT: ${businessUnit}
 LOCATION: ${city}, ${state} ${zip}
 
-RAW INTERNAL NOTES (use ONLY to understand what type of work was done — NEVER expose internal details):
+RAW INTERNAL NOTES (use ONLY to understand what type of work was done - NEVER expose internal details):
 ${rawNotes ? rawNotes.replace(/<[^>]*>/g, '').slice(0, 300) : 'Standard service call'}
 
 Write the SEO-optimized public description now:`;
@@ -88,7 +88,7 @@ Write the SEO-optimized public description now:`;
 }
 
 export async function GET(request: Request) {
-  // Verify cron secret (skip if not set — allows manual triggering)
+  // Verify cron secret (skip if not set - allows manual triggering)
   const authHeader = request.headers.get('authorization');
   const cronSecret = process.env.CRON_SECRET;
   if (cronSecret && authHeader !== `Bearer ${cronSecret}`) {

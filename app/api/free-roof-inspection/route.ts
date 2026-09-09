@@ -37,9 +37,9 @@ function esc(t: string): string {
 
 /** Human-readable description. Attribution now rides dedicated fields (gclid, utm params, landingPage), not this string. */
 function buildDescription(d: Lead): string {
-  const parts = [`Storm damage — free roof inspection request.`];
+  const parts = [`Storm damage - free roof inspection request.`];
   if (d.seeing) parts.push(`Seeing: ${d.seeing}.`);
-  // gbraid/wbraid have no dedicated column yet — keep them here so they aren't lost.
+  // gbraid/wbraid have no dedicated column yet - keep them here so they aren't lost.
   const extra: string[] = [];
   if (d.gbraid) extra.push(`gbraid=${d.gbraid}`);
   if (d.wbraid) extra.push(`wbraid=${d.wbraid}`);
@@ -103,7 +103,7 @@ export async function POST(request: NextRequest) {
     ['Name', d.name],
     ['Phone', d.phone],
     ['Address', d.address],
-    ['What they are seeing', d.seeing || '—'],
+    ['What they are seeing', d.seeing || '-'],
     ['GCLID', d.gclid || '(none)'],
     ['Campaign', d.utm_campaign || '(none)'],
     ['Source page', d.pageSlug || 'free-roof-inspection'],
@@ -113,7 +113,7 @@ export async function POST(request: NextRequest) {
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
       <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">Free Roof Inspection Request</h1></div>
       <div style="padding:20px;background:#f5f5f5;">
-        <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Storm lead</strong> &mdash; same-day roof inspection (residential). Contact ASAP.</div>
+        <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Storm lead</strong> - same-day roof inspection (residential). Contact ASAP.</div>
         <table style="width:100%;border-collapse:collapse;">${rows}</table>
         <p style="margin-top:16px;color:#555;font-size:12px;">Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}</p>
       </div>
@@ -123,7 +123,7 @@ export async function POST(request: NextRequest) {
 
   // CSR email (source of truth / backup) + SpeedToLead war-room card in parallel; STL failure never loses the lead.
   const [emailResult, stlResult] = await Promise.allSettled([
-    sendEmail({ to: 'csrteam@idesignac.com', subject: `Storm Roof Inspection: ${d.name} — ${d.seeing || 'roof'} (${d.address})`, htmlBody, textBody }),
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `Storm Roof Inspection: ${d.name} - ${d.seeing || 'roof'} (${d.address})`, htmlBody, textBody }),
     postToSpeedToLead(d),
   ]);
 

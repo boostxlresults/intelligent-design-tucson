@@ -10,7 +10,7 @@ export function locationToMarkdown(data: LocationPageData, slug: string): string
   out.push(`# ${clean(data.h1)}`);
   if (data.tagline) out.push(`\n*${clean(data.tagline)}*`);
   else if (data.h2Subheading) out.push(`\n*${clean(data.h2Subheading)}*`);
-  out.push(`\n**${BIZ.name}** — serving ${place}, AZ`);
+  out.push(`\n**${BIZ.name}** - serving ${place}, AZ`);
   out.push(`Phone: ${BIZ.phone} · ${BIZ.address}`);
   out.push(BIZ.trust);
   if (data.zipCodes?.length) out.push(`ZIP codes served: ${data.zipCodes.join(", ")}`);
@@ -18,11 +18,11 @@ export function locationToMarkdown(data: LocationPageData, slug: string): string
 
   if (data.services?.length) {
     out.push(`\n## Services in ${place}`);
-    for (const s of data.services) out.push(`- **[${clean(s.title)}](${abs(s.link)})** — ${clean(s.description)}`);
+    for (const s of data.services) out.push(`- **[${clean(s.title)}](${abs(s.link)})** - ${clean(s.description)}`);
   }
   if (data.highlights?.length) {
     out.push(`\n## Why choose Intelligent Design`);
-    for (const h of data.highlights) out.push(`- **${clean(h.title)}** — ${clean(h.description)}`);
+    for (const h of data.highlights) out.push(`- **${clean(h.title)}** - ${clean(h.description)}`);
   }
   if (data.content?.sections?.length) {
     for (const s of data.content.sections) {

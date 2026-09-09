@@ -132,7 +132,7 @@ export default function KnowledgeHubPage() {
     {
       icon: CheckCircle,
       title: 'Comprehensive Services',
-      description: 'HVAC, plumbing, solar, electrical, roofing, and drain/sewer services—all from one trusted company.',
+      description: 'HVAC, plumbing, solar, electrical, roofing, and drain/sewer services-all from one trusted company.',
     },
   ];
 

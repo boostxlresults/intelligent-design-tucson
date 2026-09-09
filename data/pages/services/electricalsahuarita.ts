@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalsahuaritaData: ServicePageData = {
   title: "Expert Electrical Services in Sahuarita, AZ | Intelligent Design",
-  description: "Top-rated electrical services in Sahuarita, AZ. From panel upgrades in Rancho Sahuarita to EV chargers in Quail Creek. Call (520) 333-2665 for expert electricians.",
+  description: "Top-rated electrical services in Sahuarita, AZ. From panel upgrades in Rancho Sahuarita to EV chargers in Quail Creek. for expert electricians.",
   slug: "electrical-sahuarita",
   h1: "Professional Electrical Services in Sahuarita, AZ",
   h2Subheading: "Reliable Electricians for Sahuarita's Rapidly Growing Communities",
@@ -40,7 +40,7 @@ highlights: [
       { question: "Do you install EV chargers in Sahuarita neighborhoods like Madera Highlands?", answer: "Yes, we specialize in professional EV charger installations throughout Sahuarita, including Madera Highlands and Quail Creek. We assess your home's current electrical capacity, recommend the appropriate charger level, and ensure the installation meets all local codes and HOA requirements, providing a safe and efficient charging solution for your electric vehicle." },
       { question: "Can you help with smart home wiring in Sahuarita?", answer: "Absolutely. As Sahuarita continues to grow and modernize, many homeowners are upgrading to smart home technology. We handle the complex wiring required for automated lighting, security cameras, smart thermostats, and whole-home audio systems, ensuring seamless integration and reliable performance in your 2000s-2020s home." },
       { question: "What electrical services do you offer for pools in Sahuarita?", answer: "With Sahuarita's slightly cooler elevation, many residents enjoy their pools year-round. We provide comprehensive electrical services for pool equipment, including wiring for pumps, heaters, and custom lighting. We ensure all installations are properly grounded and meet strict safety standards to protect your family while enjoying your pool." },
-      { question: "Are backup generators necessary in Sahuarita?", answer: "While the TEP/Trico grid in Sahuarita is generally reliable, unexpected outages can still occur due to severe weather or grid issues. A backup generator provides peace of mind, ensuring your essential systems—like HVAC, refrigerators, and medical equipment—stay running during an outage. We offer professional generator installation and maintenance services." },
+      { question: "Are backup generators necessary in Sahuarita?", answer: "While the TEP/Trico grid in Sahuarita is generally reliable, unexpected outages can still occur due to severe weather or grid issues. A backup generator provides peace of mind, ensuring your essential systems-like HVAC, refrigerators, and medical equipment-stay running during an outage. We offer professional generator installation and maintenance services." },
       { question: "Do you provide outdoor lighting installation in Sahuarita?", answer: "Yes, we design and install custom outdoor lighting solutions for homes in Sahuarita. Whether you want to enhance your home's security, illuminate your landscaping, or create a relaxing ambiance to enjoy the Santa Rita Mountains views, our expert electricians can bring your vision to life with energy-efficient LED lighting." }
     ]
   },

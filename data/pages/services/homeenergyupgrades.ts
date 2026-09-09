@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const homeenergyupgradesData: ServicePageData = {
   // SEO & Meta
   title: 'Home Energy Upgrades Tucson AZ | Energy Efficiency Improvements & Savings',
-  description: 'Professional home energy upgrades in Tucson. Energy audits, LED lighting, smart thermostats, insulation improvements, solar integration. Save money and reduce energy bills. Call (520) 333-2665 for free energy consultation.',
+  description: 'Professional home energy upgrades in Tucson. Energy audits, LED lighting, smart thermostats, insulation improvements, solar integration.',
   slug: 'home-energy-upgrades-tucson',
   
   // Hero Section
@@ -76,11 +76,11 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Rising energy costs and Tucson's extreme desert climate make home energy efficiency more important than ever. Tucson homeowners face some of Arizona's highest cooling costs—air conditioning alone accounts for 40-60% of summer electricity bills, with average monthly bills reaching $250-400 during peak months. At Intelligent Design, we specialize in comprehensive home energy upgrades that significantly reduce your monthly utility bills while improving comfort, indoor air quality, and environmental sustainability. With over 46 years of experience serving Tucson homes, we understand exactly which energy efficiency improvements deliver the best return on investment in our unique climate."
+            "content": "Rising energy costs and Tucson's extreme desert climate make home energy efficiency more important than ever. Tucson homeowners face some of Arizona's highest cooling costs-air conditioning alone accounts for 40-60% of summer electricity bills, with average monthly bills reaching $250-400 during peak months. At Intelligent Design, we specialize in comprehensive home energy upgrades that significantly reduce your monthly utility bills while improving comfort, indoor air quality, and environmental sustainability. With over 46 years of experience serving Tucson homes, we understand exactly which energy efficiency improvements deliver the best return on investment in our unique climate."
       },
       {
             "type": "paragraph",
-            "content": "Our approach to home energy upgrades begins with a professional energy assessment that identifies exactly where your home is wasting energy and money. Using thermal imaging cameras, electrical usage analysis, [link:/services/hvac-tucson|HVAC system evaluation], and building envelope inspection, we create a detailed picture of your home's energy performance. Then we recommend a prioritized list of upgrades tailored to your specific home, budget, and energy goals—from simple [link:/services/lighting-upgrades|LED lighting conversions] to comprehensive whole-home efficiency transformations including [link:/services/residential-solar-installation|solar panel installation] and advanced [link:/services/smart-thermostat-installation-tucson|smart home automation]."
+            "content": "Our approach to home energy upgrades begins with a professional energy assessment that identifies exactly where your home is wasting energy and money. Using thermal imaging cameras, electrical usage analysis, [link:/services/hvac-tucson|HVAC system evaluation], and building envelope inspection, we create a detailed picture of your home's energy performance. Then we recommend a prioritized list of upgrades tailored to your specific home, budget, and energy goals-from simple [link:/services/lighting-upgrades|LED lighting conversions] to comprehensive whole-home efficiency transformations including [link:/services/residential-solar-installation|solar panel installation] and advanced [link:/services/smart-thermostat-installation-tucson|smart home automation]."
       },
       {
             "type": "paragraph",
@@ -94,7 +94,7 @@ export const homeenergyupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Numbers speak louder than promises—our home energy upgrades consistently deliver exceptional returns for Tucson homeowners. Based on verified performance data from our ServiceTitan customer management system and utility bill tracking, here are real results from energy upgrade projects completed in the past 24 months:"
+            "content": "Numbers speak louder than promises-our home energy upgrades consistently deliver exceptional returns for Tucson homeowners. Based on verified performance data from our ServiceTitan customer management system and utility bill tracking, here are real results from energy upgrade projects completed in the past 24 months:"
       },
       {
             "type": "list",

@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingsaddlebrookeData: ServicePageData = {
   title: "Heating Services in SaddleBrooke, AZ | Intelligent Design",
-  description: "Expert heating services for SaddleBrooke's 55+ community. We specialize in high-efficiency heat pumps and quiet furnaces for 85739 homes. Call (520) 333-2665.",
+  description: "Expert heating services for SaddleBrooke's 55+ community. We specialize in high-efficiency heat pumps and quiet furnaces for 85739 homes.",
   slug: "heating-saddle-brooke",
   h1: "Heating Services in SaddleBrooke, AZ",
   h2Subheading: "Reliable Heating Solutions for SaddleBrooke's Active Adult Community",

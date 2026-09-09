@@ -86,7 +86,7 @@ Andrew Dobbins, owner of Intelligent Design Air Conditioning, Plumbing, Solar, &
 
 ## Key Factors to Consider When Sizing an AC Unit
 
-Several factors determine the proper size of an air conditioning system. It’s not just about the square footage of a home or building—there are many variables to consider when sizing an AC unit. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric recommends professional load calculations to ensure that the right system is chosen for each unique property.
+Several factors determine the proper size of an air conditioning system. It’s not just about the square footage of a home or building-there are many variables to consider when sizing an AC unit. Intelligent Design Air Conditioning, Plumbing, Solar, & Electric recommends professional load calculations to ensure that the right system is chosen for each unique property.
 
 ### 1\. Square Footage
 
@@ -134,7 +134,7 @@ Energy-efficient air conditioning units often meet or exceed ENERGY STAR® guide
 
 ### 3\. Efficient Humidity Control and Improved Indoor Air Quality
 
-One of the often-overlooked environmental impacts of air conditioning is the management of indoor humidity. In addition to cooling the air, air conditioners dehumidify the indoor environment, removing excess moisture from the air as it passes through the system. When an air conditioner is too large, it cools the space too quickly without running long enough to remove the appropriate amount of humidity. This can lead to damp indoor conditions, which can create an environment conducive to mold and mildew growth—an issue that can be harmful to both the home’s structure and the health of its occupants.
+One of the often-overlooked environmental impacts of air conditioning is the management of indoor humidity. In addition to cooling the air, air conditioners dehumidify the indoor environment, removing excess moisture from the air as it passes through the system. When an air conditioner is too large, it cools the space too quickly without running long enough to remove the appropriate amount of humidity. This can lead to damp indoor conditions, which can create an environment conducive to mold and mildew growth-an issue that can be harmful to both the home’s structure and the health of its occupants.
 
 Mold spores and indoor allergens thrive in high-humidity environments, which can lower [indoor air quality](https://www.idesignac.com/air-conditioning/improve-indoor-air-quality-tucson/) and contribute to respiratory problems. An AC unit that is properly sized, however, will run for longer, steady periods, allowing it to effectively dehumidify the air. This process not only improves indoor comfort but also prevents moisture-related issues that could lead to damage and the need for more energy-intensive repairs or renovations in the future.
 

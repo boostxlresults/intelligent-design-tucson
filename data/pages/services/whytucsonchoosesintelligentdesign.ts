@@ -8,7 +8,7 @@ import { whyChooseFAQs } from '@/data/faqs/general';
 export const whytucsonchoosesintelligentdesignData: ServicePageData = {
   // SEO & Meta
   title: 'Why Tucson Chooses Intelligent Design | Tucson',
-  description: 'Discover why over 23,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing. Family & veteran-owned, serving Tucson since 1979. BBB A+ rated. 80+ professional technicians serving Greater Tucson 24/7.',
+  description: 'Discover why over 23,000 Tucson families choose Intelligent Design for HVAC, plumbing, solar, electrical & roofing.',
   slug: 'why-tucson-chooses-intelligent-design',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners—reliability, honesty, and exceptional service."
+            "content": "With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners-reliability, honesty, and exceptional service."
       },
       {
             "type": "paragraph",
@@ -43,7 +43,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not just contractors—we're your neighbors. We live here, work here, and are committed to making Tucson homes more comfortable, efficient, and valuable. When you choose Intelligent Design, you're choosing a company that treats every customer like family."
+            "content": "We're not just contractors-we're your neighbors. We live here, work here, and are committed to making Tucson homes more comfortable, efficient, and valuable. When you choose Intelligent Design, you're choosing a company that treats every customer like family."
       },
       {
             "type": "heading",
@@ -75,7 +75,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing—a trusted Tucson institution since 1979—creating a powerhouse with 46+ years of combined home services expertise. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete."
+            "content": "Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing-a trusted Tucson institution since 1979-creating a powerhouse with 46+ years of combined home services expertise. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete."
       },
       {
             "type": "paragraph",
@@ -89,11 +89,11 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer."
+            "content": "From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident-they're the result of doing the right thing, every time, for every customer."
       },
       {
             "type": "paragraph",
-            "content": "Today, our team of 80+ technicians serves thousands of Tucson families across all five major trades: HVAC, plumbing, electrical, solar, and roofing. This makes us unique in Southern Arizona—one company you can trust for all your home service needs."
+            "content": "Today, our team of 80+ technicians serves thousands of Tucson families across all five major trades: HVAC, plumbing, electrical, solar, and roofing. This makes us unique in Southern Arizona-one company you can trust for all your home service needs."
       },
       {
             "type": "heading",
@@ -103,7 +103,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We don't just meet industry standards—we exceed them. Our comprehensive certifications, ongoing training programs, and rigorous quality control demonstrate our commitment to the highest quality work across all trades."
+            "content": "We don't just meet industry standards-we exceed them. Our comprehensive certifications, ongoing training programs, and rigorous quality control demonstrate our commitment to the highest quality work across all trades."
       },
       {
             "type": "paragraph",
@@ -117,7 +117,7 @@ export const whytucsonchoosesintelligentdesignData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're more than a business—we're part of the Tucson community. We sponsor local youth sports, support veteran organizations, and give back to the families who have supported us."
+            "content": "We're more than a business-we're part of the Tucson community. We sponsor local youth sports, support veteran organizations, and give back to the families who have supported us."
       },
       {
             "type": "paragraph",

@@ -12,7 +12,7 @@ export const plumbingtucsonestatesData: ServicePageData = {
   // Hero Section
   h1: "Plumbing Services in Tucson Estates, AZ",
   h2Subheading: "Experienced plumbing for 1960s–1980s single-story block homes and manufactured residences near Gates Pass",
-  tagline: "46+ years in Tucson — 4.97★ from 3,600+ reviews — local plumbers familiar with Tucson Estates infrastructure",
+  tagline: "46+ years in Tucson - 4.97★ from 3,600+ reviews - local plumbers familiar with Tucson Estates infrastructure",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Tucson Estates, Arizona",
   

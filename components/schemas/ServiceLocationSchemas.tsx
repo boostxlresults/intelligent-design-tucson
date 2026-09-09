@@ -28,7 +28,7 @@ export function getServiceLocationSchemas(
   locationSlug: string,
   locationName: string
 ) {
-  // Extract and normalize FAQs — merge both faqs and commonQuestions for comprehensive FAQ schema
+  // Extract and normalize FAQs - merge both faqs and commonQuestions for comprehensive FAQ schema
   const baseFaqs = hasValidFAQs(data.faqs) ? normalizeFAQs(data.faqs) : [];
   const refinementFaqs = Array.isArray(data.commonQuestions)
     ? data.commonQuestions.map((q: { question: string; answer: string }) => ({ question: q.question, answer: q.answer }))

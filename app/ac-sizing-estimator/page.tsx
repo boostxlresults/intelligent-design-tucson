@@ -17,7 +17,7 @@ const pageSchemas = getPageSchemas({
 export const metadata: Metadata = generateFullMetadata({
   title: "AC Sizing Estimator Tucson | Get Your Tonnage Range in 30 Seconds",
   description:
-    "Free Tucson AC sizing estimator. Get a preliminary tonnage range based on the same factors a Manual J load calculation weighs — not just square footage. Then get it sized exactly with our free in-home Manual J, blower-door, and thermal-imaging assessment. Call (520) 333-2665.",
+    "Free Tucson AC sizing estimator. Get a preliminary tonnage range based on the same factors a Manual J load calculation weighs - not just square footage. Then get it sized exactly with our free in-home Manual J, blower-door, and thermal-imaging assessment. Call (520) 333-2665.",
   canonicalUrl: "/ac-sizing-estimator",
   keywords: [
     "ac sizing estimator",
@@ -48,7 +48,7 @@ const faqSchema = {
       name: "Why does the estimator give a range instead of one number?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Because giving a single number from a few inputs would be a guess — and guessing is exactly what causes oversized, short-cycling systems that never dehumidify and cost more to run. We show an honest range and then confirm the exact size in your home with a Manual J load calculation, a blower-door test, and a thermal-imaging scan.",
+        text: "Because giving a single number from a few inputs would be a guess - and guessing is exactly what causes oversized, short-cycling systems that never dehumidify and cost more to run. We show an honest range and then confirm the exact size in your home with a Manual J load calculation, a blower-door test, and a thermal-imaging scan.",
       },
     },
     {
@@ -71,13 +71,13 @@ export default function AcSizingEstimatorPage() {
       <section className="bg-gradient-to-br from-primary/90 to-primary text-primary-foreground py-14 md:py-20">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-sm font-medium mb-4">
-            <Ruler className="w-4 h-4" /> Preliminary sizing range — not a guess from square footage
+            <Ruler className="w-4 h-4" /> Preliminary sizing range - not a guess from square footage
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
             What Size AC Do You Need in Tucson?
           </h1>
           <p className="mt-4 text-lg md:text-xl text-primary-foreground/90 max-w-2xl mx-auto">
-            Get an honest tonnage range in 30 seconds — based on the same factors a Manual&nbsp;J load calculation
+            Get an honest tonnage range in 30 seconds - based on the same factors a Manual&nbsp;J load calculation
             weighs. Then we size it exactly, in your home, the way the DOE and ACCA say it must be done.
           </p>
         </div>
@@ -94,7 +94,7 @@ export default function AcSizingEstimatorPage() {
           <h2 className="text-xl md:text-2xl font-bold mb-2">Why we won't just hand you a number</h2>
           <p className="text-muted-foreground">
             Plenty of "instant quote" tools will happily size your system from square footage alone. In our experience,
-            that's the number-one reason Tucson homes end up with an oversized AC — one that short-cycles, never pulls
+            that's the number-one reason Tucson homes end up with an oversized AC - one that short-cycles, never pulls
             the humidity out, wears out early, and quietly runs up the power bill. We'd rather do it right.{" "}
             <Link href="/proper-ac-sizing" className="text-primary font-semibold inline-flex items-center gap-1 hover:underline">
               See how we correctly size your system <ArrowRight className="w-4 h-4" />

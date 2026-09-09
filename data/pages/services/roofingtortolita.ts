@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingtortolitaData: ServicePageData = {
   title: "Tortolita Roofing Experts | Intelligent Design",
-  description: "Trusted Tortolita roof repair and replacement by Intelligent Design. 46+ years, 4.97★, serving 85755 & 85742 with tile, shingle, flat and coatings. Call now!",
+  description: "Trusted Tortolita roof repair and replacement by Intelligent Design. 46+ years, 4.97★, serving 85755 & 85742 with tile, shingle, flat and coatings.",
   slug: "roofing-tortolita",
   h1: "Tortolita Roofing Services by Intelligent Design",
   h2Subheading: "Premium roofing solutions for Tortolita's custom desert homes and planned communities",

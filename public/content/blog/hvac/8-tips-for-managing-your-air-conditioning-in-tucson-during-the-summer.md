@@ -140,7 +140,7 @@ This works best during dry periods. During monsoons, outdoor humidity limits nat
 Cool only the spaces you're using.
 
 ### Strategies:
-- Close vents in unused rooms (carefully—don't close more than 20%)
+- Close vents in unused rooms (carefully-don't close more than 20%)
 - Use portable or window units for specific rooms
 - Consider ductless mini-splits for problem areas
 

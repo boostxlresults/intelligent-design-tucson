@@ -109,7 +109,7 @@ export default function Hero() {
               </div>
             </div>
 
-            {/* CTA Buttons — desktop/tablet only (hidden on mobile) */}
+            {/* CTA Buttons - desktop/tablet only (hidden on mobile) */}
             <div className="hidden md:flex sm:flex-row sm:flex-wrap gap-4">
               <SchedulerEmbed
                 triggerText="Schedule Service"
@@ -147,7 +147,7 @@ export default function Hero() {
       {/* ─── MOBILE-ONLY CTA SECTION ──────────────────────────────────── */}
       {/* Buttons live here on mobile so the hero image shows the full family */}
       <div className="md:hidden bg-white px-4 py-5 flex flex-col gap-3 shadow-sm">
-        {/* Schedule Service — fullWidth prop makes the anchor + button stretch to full width */}
+        {/* Schedule Service - fullWidth prop makes the anchor + button stretch to full width */}
         <SchedulerEmbed
           triggerText="Schedule Service"
           variant="destructive"

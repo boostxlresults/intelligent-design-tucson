@@ -57,7 +57,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        {/* HVACBusiness / LocalBusiness JSON-LD — sitewide entity signal for AI search */}
+        {/* HVACBusiness / LocalBusiness JSON-LD - sitewide entity signal for AI search */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(LOCAL_BUSINESS_SCHEMA) }}
@@ -70,7 +70,7 @@ export default function RootLayout({
           CRITICAL PATH RESOURCE HINTS
           Only preconnect to origins needed for LCP (hero image is local, so only GTM matters).
           Too many preconnects compete for TCP/TLS slots and slow each other down.
-          PageSpeed flagged "More than 4 preconnect connections" — reduced to 1.
+          PageSpeed flagged "More than 4 preconnect connections" - reduced to 1.
         */}
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         {/* dns-prefetch for non-critical third parties (no TCP handshake, just DNS) */}
@@ -92,7 +92,7 @@ export default function RootLayout({
           4. Final fallback: load on first user interaction
           
           This is the correct approach for US home services sites under CCPA.
-          Tracking defaults to granted — users can opt out via cookie banner.
+          Tracking defaults to granted - users can opt out via cookie banner.
         */}
         {/*
           SITEWIDE AD-CLICK ATTRIBUTION CAPTURE
@@ -165,7 +165,7 @@ export default function RootLayout({
                 } catch(e) {}
               }
               
-              // Strategy 2: Fallback — load after 5 seconds regardless
+              // Strategy 2: Fallback - load after 5 seconds regardless
               setTimeout(loadAllScripts, 5000);
               
               // Strategy 3: Load on first user interaction (ensures tracking for engaged users)
@@ -206,7 +206,7 @@ fbq('track','PageView');
         {/* BlockScheduleEngineChat must run before GTM to intercept WebChat */}
         <BlockScheduleEngineChat />
         {/* 
-          GTM component removed from here — GTM is now loaded via post-lcp-loader above.
+          GTM component removed from here - GTM is now loaded via post-lcp-loader above.
           Keeping the noscript iframe for users with JS disabled.
         */}
         <noscript>
@@ -227,7 +227,7 @@ fbq('track','PageView');
         <LandingChromeGate paths={["/ac-tune-up-2888"]}>
           <Footer />
         </LandingChromeGate>
-        {/* Legal: visitor-identification & marketing-comms notice — outside all gates, appears on every page */}
+        {/* Legal: visitor-identification & marketing-comms notice - outside all gates, appears on every page */}
         <LegalStrip />
         {/* Distraction chrome: hidden on all paid landing routes (own sticky CTA, no popups) */}
         <LandingChromeGate paths={["/ac-tune-up-2888", "/lp/"]}>
@@ -235,11 +235,11 @@ fbq('track','PageView');
           <BroccoliChat />
           <RealWorkLabsLoader />
         </LandingChromeGate>
-        {/* PulseM floating review popup — visible only on /customer-reviews */}
+        {/* PulseM floating review popup - visible only on /customer-reviews */}
         <PulseMWidget />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
-        {/* Google Preferred Sources — enables "Add as Preferred Source" button on blog posts */}
+        {/* Google Preferred Sources - enables "Add as Preferred Source" button on blog posts */}
         <Script
           src="https://news.google.com/swg/js/v1/publisher.js"
           strategy="afterInteractive"

@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const shingleroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Shingle Roofing Tucson AZ | Asphalt Shingle Installation & Repair',
-  description: 'Expert asphalt shingle roofing in Tucson. Architectural shingles, 3-tab, installation, repair & replacement. Energy-efficient solutions. 46+ years experience. Call (520) 333-2665.',
+  description: 'Expert asphalt shingle roofing in Tucson. Architectural shingles, 3-tab, installation, repair & replacement. Energy-efficient solutions.',
   slug: 'shingle-roofs',
   
   // Hero Section
@@ -70,7 +70,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Premium Shingle Options for Tucson Homeowners: We offer comprehensive shingle roofing solutions tailored to your specific needs and budget. Our architectural shingles provide dimensional beauty and 25-30 year performance with superior wind resistance (110-130 mph ratings), enhanced UV protection, and extensive color options mimicking wood shake or slate appearance. Impact-resistant (IR) shingles feature UL 2218 Class 4 ratings—the highest available—protecting against hail damage up to 2 inches diameter while qualifying for insurance premium discounts of 10-30%. Cool roof shingles with reflective granule technology reduce roof surface temperatures by 20-50°F, cutting cooling costs 10-20% annually. Designer shingles offer premium aesthetics with luxury profiles, custom colors, and enhanced warranty coverage for discerning homeowners. Budget-friendly 3-tab shingles provide reliable 15-20 year protection for rental properties or cost-conscious projects. Each option is carefully selected to perform optimally in Tucson's demanding climate."
+            "content": "Premium Shingle Options for Tucson Homeowners: We offer comprehensive shingle roofing solutions tailored to your specific needs and budget. Our architectural shingles provide dimensional beauty and 25-30 year performance with superior wind resistance (110-130 mph ratings), enhanced UV protection, and extensive color options mimicking wood shake or slate appearance. Impact-resistant (IR) shingles feature UL 2218 Class 4 ratings-the highest available-protecting against hail damage up to 2 inches diameter while qualifying for insurance premium discounts of 10-30%. Cool roof shingles with reflective granule technology reduce roof surface temperatures by 20-50°F, cutting cooling costs 10-20% annually. Designer shingles offer premium aesthetics with luxury profiles, custom colors, and enhanced warranty coverage for discerning homeowners. Budget-friendly 3-tab shingles provide reliable 15-20 year protection for rental properties or cost-conscious projects. Each option is carefully selected to perform optimally in Tucson's demanding climate."
       },
       {
             "type": "paragraph",
@@ -78,7 +78,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's climate presents unique challenges for shingle roofing that require specialized knowledge and installation techniques. Our intense UV radiation—among the highest in the United States—accelerates granule loss and shingle deterioration, reducing lifespan 20-30% compared to moderate climates. Daily temperature swings of 40-50°F cause thermal expansion and contraction stressing shingles and fasteners. Summer roof surface temperatures exceeding 165°F can prematurely age standard shingles not rated for desert heat. Monsoon winds reaching 50-70 mph test wind resistance and installation quality, while brief but intense rainfall reveals any flashing or sealing deficiencies."
+            "content": "Tucson's climate presents unique challenges for shingle roofing that require specialized knowledge and installation techniques. Our intense UV radiation-among the highest in the United States-accelerates granule loss and shingle deterioration, reducing lifespan 20-30% compared to moderate climates. Daily temperature swings of 40-50°F cause thermal expansion and contraction stressing shingles and fasteners. Summer roof surface temperatures exceeding 165°F can prematurely age standard shingles not rated for desert heat. Monsoon winds reaching 50-70 mph test wind resistance and installation quality, while brief but intense rainfall reveals any flashing or sealing deficiencies."
       },
       {
             "type": "paragraph",
@@ -98,7 +98,7 @@ export const shingleroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Architectural shingles—also called dimensional or laminate shingles—represent the current standard for quality residential roofing in Tucson. These multi-layer shingles create three-dimensional appearance with depth, texture, and visual appeal far exceeding flat 3-tab shingles. Construction uses two or more layers of asphalt shingle material laminated together, creating thicker, heavier shingles (typically 300-400 pounds per square versus 200-250 for 3-tab) that resist wind uplift, granule loss, and thermal stress better than single-layer products."
+            "content": "Architectural shingles-also called dimensional or laminate shingles-represent the current standard for quality residential roofing in Tucson. These multi-layer shingles create three-dimensional appearance with depth, texture, and visual appeal far exceeding flat 3-tab shingles. Construction uses two or more layers of asphalt shingle material laminated together, creating thicker, heavier shingles (typically 300-400 pounds per square versus 200-250 for 3-tab) that resist wind uplift, granule loss, and thermal stress better than single-layer products."
       }
     ]
   },

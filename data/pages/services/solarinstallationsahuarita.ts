@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationsahuaritaData: ServicePageData = {
   title: "Solar Panel Installation in Sahuarita, AZ | Intelligent Design",
-  description: "Expert solar installation in Sahuarita, AZ. We design and install high-efficiency solar panels and battery systems for Rancho Sahuarita and Quail Creek homes. Call (520) 333-2665.",
+  description: "Expert solar installation in Sahuarita, AZ. We design and install high-efficiency solar panels and battery systems for Rancho Sahuarita and Quail Creek.",
   slug: "solar-installation-sahuarita",
   h1: "Solar Panel Installation in Sahuarita, AZ",
   h2Subheading: "Powering Sahuarita's Rapidly Growing Communities with Clean Energy",

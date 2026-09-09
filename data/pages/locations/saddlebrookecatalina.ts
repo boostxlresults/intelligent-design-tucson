@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const saddlebrookecatalinaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in SaddleBrooke / Catalina, AZ',
-  description: 'Expert home services in SaddleBrooke / Catalina, north of Tucson in the SaddleBrooke retirement community near Oracle State Park. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
+  description: 'Expert home services in SaddleBrooke / Catalina, north of Tucson in the SaddleBrooke retirement community near Oracle State Park. 24/7 emergency.',
   slug: 'saddle-brooke-catalina',
   
   // Hero Section

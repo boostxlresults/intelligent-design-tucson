@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const heatingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Heating Services | Intelligent Design",
-  description: "Expert Oro Valley heating services—repairs, multi-zone systems, pool heat pumps. Call for local rates in 85737 & 85755.",
+  description: "Expert Oro Valley heating services-repairs, multi-zone systems, pool heat pumps. Call for local rates in 85737 & 85755.",
   slug: "heating-oro-valley",
   
   // Hero Section
   h1: "Oro Valley Heating Services",
   h2Subheading: "Local heating expertise for Oro Valley homes, from Rancho Vistoso to La Reserve",
-  tagline: "46+ years serving Oro Valley; 4.97★ from 3,600+ reviews—local HVAC, plumbing, solar and electric experience",
+  tagline: "46+ years serving Oro Valley; 4.97★ from 3,600+ reviews-local HVAC, plumbing, solar and electric experience",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating services in Oro Valley, Arizona",
   

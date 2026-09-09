@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const hvacdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: "Drexel Heights HVAC Services | AC Repair & Replacement",
-  description: "Top-rated Drexel Heights HVAC: AC repair, evaporative-to-AC conversions, and efficient replacements in 85746 & 85735. Call for local pricing and same-day help.",
+  description: "Top-rated Drexel Heights HVAC: AC repair, evaporative-to-AC conversions, and efficient replacements in 85746 & 85735.",
   slug: "hvac-drexel-heights",
   
   // Hero Section
   h1: "Drexel Heights HVAC Services - Local AC Repair & Replacement",
   h2Subheading: "46+ years serving Drexel Heights with Tucson-specific HVAC solutions and a 4.97★ local reputation",
-  tagline: "Serving Drexel Heights (85746, 85735) — 46+ years experience, 4.97★ from 3,600+ reviews",
+  tagline: "Serving Drexel Heights (85746, 85735) - 46+ years experience, 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Drexel Heights, Arizona",
   

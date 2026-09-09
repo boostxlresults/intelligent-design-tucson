@@ -79,7 +79,7 @@ If you notice a sudden spike in your energy bills, it could be a sign that your 
 
 If your air conditioner is turned on, but it’s not doing a very good job of cooling your home, there could be a problem with the compress or the Freon levels. Again, this is something that a professional will need to take care of.
 
-If your AC is making strange noises, won’t turn on, or isn’t cooling your home properly, then it’s time to call in a professional for an AC repair. Don’t wait until it’s too late—contact a qualified technician today so they can take a look at your air conditioner and get it running like new again.
+If your AC is making strange noises, won’t turn on, or isn’t cooling your home properly, then it’s time to call in a professional for an AC repair. Don’t wait until it’s too late-contact a qualified technician today so they can take a look at your air conditioner and get it running like new again.
 
 ## The Best Time for Air Conditioning Repair
 

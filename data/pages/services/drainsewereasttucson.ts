@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const drainsewereasttucsonData: ServicePageData = {
   title: "Drain & Sewer Services in East Tucson | Intelligent Design",
-  description: "Expert drain and sewer services in East Tucson. From root intrusion in older neighborhoods to sewer line repairs, call Intelligent Design at (520) 333-2665.",
+  description: "Expert drain and sewer services in East Tucson. From root intrusion in older neighborhoods to sewer line repairs.",
   slug: "drain-sewer-east-tucson",
   h1: "East Tucson Drain & Sewer Services",
   h2Subheading: "Reliable Sewer Line Repair & Trenchless Solutions for East Tucson Homes",

@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const hvacvailData: ServicePageData = {
   // SEO & Meta
   title: "Vail HVAC Services | Heating & Cooling in Vail, AZ",
-  description: "Trusted Vail HVAC experts (85641). 46+ yrs experience, 4.97★ — reliable heat pump & furnace help. Schedule service today.",
+  description: "Trusted Vail HVAC experts (85641). 46+ yrs experience, 4.97★ - reliable heat pump & furnace help. Schedule service today.",
   slug: "hvac-vail",
   
   // Hero Section
   h1: "Vail HVAC Services - Heating & Cooling Solutions in Vail, AZ",
   h2Subheading: "Local HVAC expertise for Vail’s higher-elevation homes, newer subdivisions, and ranch properties",
-  tagline: "46+ years serving Vail (85641) — 4.97★ from 3,600+ reviews; local know-how for elevation, tile roofs, and school-district communities",
+  tagline: "46+ years serving Vail (85641) - 4.97★ from 3,600+ reviews; local know-how for elevation, tile roofs, and school-district communities",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Vail, Arizona",
   

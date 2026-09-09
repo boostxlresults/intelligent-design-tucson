@@ -47,11 +47,11 @@ export function sectionToMd(s: ContentSection): string {
       return `${intro}${items}\n`;
     }
     case "cta":
-      return `**${clean(s.heading)}** — ${clean(s.content)}\n`;
+      return `**${clean(s.heading)}** - ${clean(s.content)}\n`;
     case "testimonial":
-      return `> "${clean(s.quote)}" — ${clean(s.author)}, ${clean(s.location)}\n`;
+      return `> "${clean(s.quote)}" - ${clean(s.author)}, ${clean(s.location)}\n`;
     case "howto": {
-      const steps = (s.steps || []).map((st, i) => `${i + 1}. **${clean(st.name)}** — ${clean(st.description)}`).join("\n");
+      const steps = (s.steps || []).map((st, i) => `${i + 1}. **${clean(st.name)}** - ${clean(st.description)}`).join("\n");
       return `\n## ${clean(s.heading)}\n${clean(s.description)}\n${steps}\n`;
     }
     default:

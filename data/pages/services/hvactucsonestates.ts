@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvactucsonestatesData: ServicePageData = {
   title: "Tucson Estates HVAC Services | Intelligent Design",
-  description: "Trusted HVAC services in Tucson Estates: AC repair, replacement, heating, ductwork, and maintenance. Call Intelligent Design at (520) 333-2665 for fast local service.",
+  description: "Trusted HVAC services in Tucson Estates: AC repair, replacement, heating, ductwork, and maintenance. Call Intelligent Design at for fast local service.",
   slug: "hvac-tucson-estates",
   h1: "HVAC Services in Tucson Estates, AZ",
   h2Subheading: "Local HVAC expertise tailored to older Tucson Estates homes and desert conditions",

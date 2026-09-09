@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const orovalleyData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Oro Valley, AZ',
-  description: 'Expert home services in Oro Valley, north of Tucson near Steam Pump Ranch and the Catalina Mountains. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
+  description: 'Expert home services in Oro Valley, north of Tucson near Steam Pump Ranch and the Catalina Mountains. 24/7 emergency. 23,000+ five-star reviews.',
   slug: 'oro-valley',
   
   // Hero Section

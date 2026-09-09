@@ -22,10 +22,10 @@ export const metadata: Metadata = {
 
 const STEPS = [
   { title: "Diagnose the blockage", desc: "Your tech locates the clog and tells you the cause before any work starts. No surprises." },
-  { title: "Access the cleanout", desc: "We work from a ground-level cleanout — required for this offer. If yours isn’t accessible, we’ll let you know right away." },
+  { title: "Access the cleanout", desc: "We work from a ground-level cleanout - required for this offer. If yours isn’t accessible, we’ll let you know right away." },
   { title: "Clear the drain", desc: "We machine-snake or hydro-jet the blockage up to 75 feet. Most clogs are gone in one pass." },
   { title: "Test the flow", desc: "We run water to confirm the drain is fully clear before we pack up." },
-  { title: "Tell you what we found", desc: "We explain the cause and flag anything worth watching — no pressure, just the facts." },
+  { title: "Tell you what we found", desc: "We explain the cause and flag anything worth watching - no pressure, just the facts." },
 ];
 
 function Booking() {
@@ -74,7 +74,7 @@ export default function DrainClearing4888Page() {
           <p className="mt-3 text-xl font-bold text-white">Cleared fast. Priced honestly. No surprise fees.</p>
           <p className="mt-3 text-[17px] text-white/85">
             Slow drains and clogs get worse over time. Our plumbers clear the blockage up to 75 ft from a
-            ground-level cleanout &mdash; and tell you exactly what caused it before they leave.
+            ground-level cleanout - and tell you exactly what caused it before they leave.
           </p>
           <div className="mt-6 flex flex-col items-center gap-3">
             <div className="w-full max-w-sm">
@@ -140,7 +140,7 @@ export default function DrainClearing4888Page() {
           <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">No surprise charges</h2>
           <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
             The {PRICE} covers one drain, cleared. If we get there and find the situation needs something beyond
-            a standard clearing &mdash; a camera inspection, hydro-jetting, or a repair &mdash; we&rsquo;ll tell you
+            a standard clearing - a camera inspection, hydro-jetting, or a repair - we&rsquo;ll tell you
             what we found, quote it in writing, and wait for your go-ahead before doing anything extra.
           </p>
           <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
@@ -151,7 +151,7 @@ export default function DrainClearing4888Page() {
             {[
               `${PRICE} for one drain (up to 75 ft, ground-level cleanout)`,
               `${ADD_PRICE} for each additional drain`,
-              "Repairs quoted separately — no work without your approval",
+              "Repairs quoted separately - no work without your approval",
               "No overtime charges on standard calls",
             ].map((item, i) => (
               <li key={i} className="flex items-start gap-2 text-[16px] text-foreground">
@@ -196,10 +196,10 @@ export default function DrainClearing4888Page() {
           <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">Quick questions</h2>
           <div className="mt-4 space-y-4">
             {[
-              { q: `Is ${PRICE} the total price?`, a: `Yes — for one drain, cleared, up to 75 ft from a ground-level cleanout. If we find anything that needs additional work, we quote it before doing anything. No surprises.` },
-              { q: "What counts as a ground-level cleanout?", a: "A ground-level cleanout is a capped pipe, usually 3–4 inches in diameter, at or near floor level — often in a garage, laundry room, or outside near the foundation. If you’re not sure whether yours qualifies, our tech will confirm on arrival." },
-              { q: "What if the blockage is farther than 75 ft?", a: "We’ll tell you right away and give you options — extended snaking, camera inspection to locate the blockage, or hydro-jetting. You decide what to do next; there’s no pressure." },
-              { q: "Do I have to be the homeowner?", a: "Yes — this offer is for homeowners only, not renters or commercial properties." },
+              { q: `Is ${PRICE} the total price?`, a: `Yes - for one drain, cleared, up to 75 ft from a ground-level cleanout. If we find anything that needs additional work, we quote it before doing anything. No surprises.` },
+              { q: "What counts as a ground-level cleanout?", a: "A ground-level cleanout is a capped pipe, usually 3–4 inches in diameter, at or near floor level - often in a garage, laundry room, or outside near the foundation. If you’re not sure whether yours qualifies, our tech will confirm on arrival." },
+              { q: "What if the blockage is farther than 75 ft?", a: "We’ll tell you right away and give you options - extended snaking, camera inspection to locate the blockage, or hydro-jetting. You decide what to do next; there’s no pressure." },
+              { q: "Do I have to be the homeowner?", a: "Yes - this offer is for homeowners only, not renters or commercial properties." },
               { q: "How long does the visit take?", a: "Most standard drain clearings take 30 to 60 minutes. We’ll give you a better estimate once we’ve assessed the situation." },
               { q: "What if you can’t clear the drain?", a: "If we can’t clear it with standard snaking, we’ll tell you why and what the next step would cost before you spend another dollar. You’re never on the hook for work you didn’t approve." },
             ].map((f, i) => (

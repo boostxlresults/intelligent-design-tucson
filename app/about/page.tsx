@@ -136,13 +136,13 @@ export default function AboutPage() {
           
           <div className="prose prose-lg max-w-none text-muted-foreground space-y-4">
             <p>
-              With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners—reliability, honesty, and exceptional service.
+              With 46+ years of combined home services expertise, Intelligent Design has been the name Tucson families trust for HVAC, plumbing, electrical, solar, and roofing services. Founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, our company united with Wood's Plumbing (established 1979) in 2022 to create Southern Arizona's most comprehensive home services provider. As a family and veteran-owned company, we understand what matters most to homeowners-reliability, honesty, and exceptional service.
             </p>
             <p>
               With over 23,000 five-star reviews and a BBB A+ rating, our reputation speaks for itself. Our team of 80+ highly trained technicians is available 24/7 to serve you, and we're the only company in Tucson offering all five major trades under one roof.
             </p>
             <p>
-              We're not just contractors—we're your neighbors. We live here, work here, and are committed to making Tucson homes more comfortable, efficient, and valuable. When you choose Intelligent Design, you're choosing a company that treats every customer like family.
+              We're not just contractors-we're your neighbors. We live here, work here, and are committed to making Tucson homes more comfortable, efficient, and valuable. When you choose Intelligent Design, you're choosing a company that treats every customer like family.
             </p>
           </div>
 
@@ -157,7 +157,7 @@ export default function AboutPage() {
                 All Five Trades Under One Roof
               </h3>
               <p className="text-muted-foreground">
-                HVAC, plumbing, electrical, solar, and roofing—one company you can trust for all your home service needs. No more juggling multiple contractors.
+                HVAC, plumbing, electrical, solar, and roofing-one company you can trust for all your home service needs. No more juggling multiple contractors.
               </p>
             </Card>
             
@@ -199,7 +199,7 @@ export default function AboutPage() {
           <div className="prose prose-lg max-w-none text-muted-foreground space-y-4">
             <h3 className="text-xl font-bold text-foreground">Founded on Family Values</h3>
             <p>
-              Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing—a trusted Tucson institution since 1979—creating a powerhouse with 46+ years of combined home services expertise. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete.
+              Intelligent Design was founded in 2011 by U.S. Marine Corps veteran Andrew Dobbins, committed to bringing honest, reliable home services to Tucson. In 2022, our company united with Wood's Plumbing-a trusted Tucson institution since 1979-creating a powerhouse with 46+ years of combined home services expertise. As a veteran-owned business, we bring military precision, discipline, and integrity to every job we complete.
             </p>
             <p>
               What started as a small HVAC company has grown into Tucson's most comprehensive home services provider, but we've never forgotten our roots. We still treat every customer like family, and every home like our own.
@@ -207,15 +207,15 @@ export default function AboutPage() {
             
             <h3 className="text-xl font-bold text-foreground mt-8">Growth Built on Trust</h3>
             <p>
-              From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident—they're the result of doing the right thing, every time, for every customer.
+              From day one, we've focused on earning trust through exceptional service. Our 23,000+ five-star reviews didn't happen by accident-they're the result of doing the right thing, every time, for every customer.
             </p>
             <p>
-              Today, our team of 80+ technicians serves thousands of Tucson families across all five major trades: HVAC, plumbing, electrical, solar, and roofing. This makes us unique in Southern Arizona—one company you can trust for all your home service needs.
+              Today, our team of 80+ technicians serves thousands of Tucson families across all five major trades: HVAC, plumbing, electrical, solar, and roofing. This makes us unique in Southern Arizona-one company you can trust for all your home service needs.
             </p>
             
             <h3 className="text-xl font-bold text-foreground mt-8">Commitment to Excellence</h3>
             <p>
-              We don't just meet industry standards—we exceed them. Our comprehensive certifications, ongoing training programs, and rigorous quality control demonstrate our commitment to the highest quality work across all trades.
+              We don't just meet industry standards-we exceed them. Our comprehensive certifications, ongoing training programs, and rigorous quality control demonstrate our commitment to the highest quality work across all trades.
             </p>
             <p>
               Every technician on our team is background-checked, drug-tested, and continuously trained on the latest technologies and best practices. We invest in our people because we know that great service starts with great people.
@@ -223,7 +223,7 @@ export default function AboutPage() {
             
             <h3 className="text-xl font-bold text-foreground mt-8">Community First</h3>
             <p>
-              We're more than a business—we're part of the Tucson community. We sponsor local youth sports, support veteran organizations, and give back to the families who have supported us.
+              We're more than a business-we're part of the Tucson community. We sponsor local youth sports, support veteran organizations, and give back to the families who have supported us.
             </p>
             <p>
               When you choose Intelligent Design, you're supporting a local business that reinvests in our community. We're here for the long haul, and we're committed to making Tucson a better place to live.

@@ -8,7 +8,7 @@ export const dynamic = "force-static";
 export const metadata: Metadata = {
   title: "Service Locations | Intelligent Design Air Conditioning, Plumbing, Solar & Electric",
   description:
-    "Intelligent Design serves all of Greater Tucson. Find HVAC, plumbing, solar, electrical, and roofing services near you — same-day appointments available.",
+    "Intelligent Design serves all of Greater Tucson. Find HVAC, plumbing, solar, electrical, and roofing services near you - same-day appointments available.",
   alternates: {
     canonical: "https://www.idesignac.com/locations",
   },

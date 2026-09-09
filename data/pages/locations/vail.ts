@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const vailData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Vail, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical & roofing in Vail, southeast of Tucson near Colossal Cave Mountain Park. 24/7 service. 23,000+ reviews. (520) 333-2665.',
+  description: 'Expert HVAC, plumbing, solar, electrical & roofing in Vail, southeast of Tucson near Colossal Cave Mountain Park. 24/7 service. 23,000+ reviews.',
   slug: 'vail',
   
   // Hero Section
@@ -109,7 +109,7 @@ export const vailData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not just contractors—we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
+            "content": "We're not just contractors-we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
       },
       {
             "type": "heading",

@@ -2,7 +2,7 @@
  * Data model for the /compare conquest landing pages (HVAC, Plumbing, Roofing, Solar).
  * Competitor figures are PUBLIC data (Google Business Profiles / BBB) captured on the
  * `asOf` date and must be re-verified quarterly. Ownership cells are the highest-scrutiny
- * on the page: `peOwned: "yes"` requires a citable `peSource`; otherwise use "unknown" ("—").
+ * on the page: `peOwned: "yes"` requires a citable `peSource`; otherwise use "unknown" ("-").
  */
 export type Tri = "yes" | "no" | "unknown";
 
@@ -14,7 +14,7 @@ export interface Competitor {
   bbb?: string;                // BBB rating if verified, else undefined
   locallyOwned: Tri;
   peOwned: Tri;
-  peSource?: string;           // REQUIRED when peOwned === "yes" — public acquisition source
+  peSource?: string;           // REQUIRED when peOwned === "yes" - public acquisition source
   ownerNote?: string;          // short sourced ownership note shown in the section
   blurb: string;               // one neutral, factual sentence
   closed?: boolean;            // solar: installer no longer operating -> orphaned-system angle
@@ -43,7 +43,7 @@ export interface CompareVertical {
   asOf: string;                // "July 2026"
 }
 
-/** Intelligent Design's own (highlighted) row — identical account-wide. */
+/** Intelligent Design's own (highlighted) row - identical account-wide. */
 export const IDACH = {
   name: "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
   rating: "4.97",
@@ -72,12 +72,12 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     servicePath: "/services/hvac",
     schemaType: "HVACBusiness",
     warranty: "up to 12-year parts & labor coverage on qualifying installs",
-    title: "Tucson HVAC Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
+    title: "Best HVAC Companies in Tucson (2026) | Side-by-Side Comparison",
     description:
-      "Comparing Rite Way, Parker & Sons, Goettl and other Tucson HVAC companies? See side-by-side ratings, ownership, response times & guarantees. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's HVAC Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
+      "Comparing the best HVAC companies in Tucson? Side-by-side ratings, ownership, response times and guarantees for Rite Way, Parker & Sons, Goettl and more.",
+    h1: "Best HVAC Companies in Tucson - How the Top Contractors Compare",
     intro:
-      "When you call Intelligent Design, you're calling a locally owned Tucson company — not a national private-equity platform. Below is an at-a-glance comparison of Tucson's HVAC companies using each company's public Google Business Profile rating and ownership status, so you can see who still answers to a local owner versus an out-of-state investment fund. We never rate a competitor's quality — the table wins on math and ownership facts.",
+      "When you call Intelligent Design, you're calling a locally owned Tucson company - not a national private-equity platform. Below is an at-a-glance comparison of Tucson's HVAC companies using each company's public Google Business Profile rating and ownership status, so you can see who still answers to a local owner versus an out-of-state investment fund. We never rate a competitor's quality - the table wins on math and ownership facts.",
     competitors: [
       { name: "Rite Way Heating, Cooling & Plumbing", anchor: "rite-way-heating-cooling-and-plumbing", rating: "4.9", reviews: "13,388", locallyOwned: "no", peOwned: "yes", peSource: "https://www.businesswire.com/news/home/20210126005034/en/Redwood-Services-Announces-Strategic-Partnership-with-Rite-Way-Heating-Cooling-Plumbing", ownerNote: "Since 2021 it has been owned by Redwood Services, a private-equity-backed home-services consolidator.", alsoServes: ["tucson-plumbers"], blurb: "Rite Way Heating, Cooling & Plumbing is a Tucson-based provider offering HVAC and plumbing services across the metro area." },
       { name: "Parker & Sons", anchor: "parker-and-sons", rating: "4.7", reviews: "5,707", locallyOwned: "no", peOwned: "yes", peSource: PARKER_SRC, alsoServes: ["tucson-plumbers"], blurb: "Parker & Sons is a large Arizona home-services company operating in the Tucson and Phoenix markets and is part of the private-equity-backed Wrench Group." },
@@ -123,14 +123,14 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     ],
     testimonials: [
       { quote: "Same-day AC repair in July and they didn't try to sell me a whole new system. Honest and fast.", name: "R. Alvarez", area: "Oro Valley" },
-      { quote: "Got a second opinion from Intelligent Design after a scary quote elsewhere — saved us thousands.", name: "K. Nguyen", area: "Marana" },
+      { quote: "Got a second opinion from Intelligent Design after a scary quote elsewhere - saved us thousands.", name: "K. Nguyen", area: "Marana" },
       { quote: "Techs were on time, respectful, and explained everything. 5 stars.", name: "D. Foster", area: "Vail" },
     ],
     faqs: [
-      { q: "Who has the best reviews in Tucson for HVAC?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews (Google, Facebook, PulseM and Angi) — more total five-star reviews than any other home-services company in Tucson — plus a BBB A+ rating. Compare our profile to any competitor's public rating before you book." },
-      { q: "Is a second opinion on an AC quote really free?", a: "Yes. If another company gave you a repair or replacement quote, Intelligent Design will review it free and tell you honestly whether it's fair — no obligation." },
+      { q: "Who has the best reviews in Tucson for HVAC?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews (Google, Facebook, PulseM and Angi) - more total five-star reviews than any other home-services company in Tucson - plus a BBB A+ rating. Compare our profile to any competitor's public rating before you book." },
+      { q: "Is a second opinion on an AC quote really free?", a: "Yes. If another company gave you a repair or replacement quote, Intelligent Design will review it free and tell you honestly whether it's fair - no obligation." },
       { q: "What if I already signed a quote with another company?", a: "It's often not too late. Call (520) 333-2665 and we'll review your agreement and options; many quotes can still be re-evaluated before work begins." },
-      { q: "Are these Tucson HVAC companies locally owned?", a: "Several large competitors — including Rite Way, Parker & Sons and Goettl — are owned by out-of-state private-equity platforms per public acquisition announcements. Intelligent Design remains a locally owned, veteran-owned Tucson company." },
+      { q: "Are these Tucson HVAC companies locally owned?", a: "Several large competitors - including Rite Way, Parker & Sons and Goettl - are owned by out-of-state private-equity platforms per public acquisition announcements. Intelligent Design remains a locally owned, veteran-owned Tucson company." },
       { q: "Do you service HVAC systems installed by other companies?", a: "Yes. We repair and maintain systems of every major brand regardless of who installed them, including systems from installers no longer in business." },
     ],
     asOf: AS_OF,
@@ -143,12 +143,12 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     servicePath: "/services/plumbing",
     schemaType: "Plumber",
     warranty: "up-front flat-rate pricing with warrantied workmanship",
-    title: "Tucson Plumbers Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
+    title: "Best Plumbers in Tucson (2026) | Side-by-Side Comparison",
     description:
-      "Comparing Roto-Rooter, Silverado, Cummings and other Tucson plumbers? See side-by-side ratings, ownership, response times & guarantees. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Plumbers Compare - And Why 23,000 Customers Chose Intelligent Design",
+      "Comparing the best plumbers in Tucson? Side-by-side ratings, ownership, response times and guarantees for Roto-Rooter, Silverado, Cummings and more.",
+    h1: "Best Plumbers in Tucson - How the Top Companies Compare",
     intro:
-      "When you call Intelligent Design, you're calling a locally owned Tucson company — not a national private-equity platform or a franchise. Below is a side-by-side look at Tucson's plumbers using each company's public Google Business Profile rating and ownership status.",
+      "When you call Intelligent Design, you're calling a locally owned Tucson company - not a national private-equity platform or a franchise. Below is a side-by-side look at Tucson's plumbers using each company's public Google Business Profile rating and ownership status.",
     competitors: [
       { name: "Cummings Plumbing Heating and Cooling", anchor: "cummings-plumbing-heating-and-cooling", rating: "4.8", reviews: "3,970", locallyOwned: "yes", peOwned: "no", alsoServes: ["tucson-hvac-companies"], blurb: "Cummings Plumbing Heating and Cooling is a Tucson-based company offering plumbing alongside heating and cooling services." },
       { name: "Strongbuilt Plumbing Air Solar & Electric", anchor: "strongbuilt-plumbing-air-solar-and-electric", rating: "4.7", reviews: "2,939", locallyOwned: "no", peOwned: "yes", peSource: "https://www.prnewswire.com/news-releases/knox-lane-backed-any-hour-group-grows-home-services-leadership-in-mountain-west-with-three-new-partnerships-301580980.html", ownerNote: "Since 2022 it has been part of the Any Hour Group, a regional home-services platform backed by private-equity firm Knox Lane.", alsoServes: ["tucson-hvac-companies", "tucson-solar-companies"], blurb: "Strongbuilt Plumbing Air Solar & Electric is a Tucson provider covering plumbing, HVAC, solar, and electrical work." },
@@ -194,14 +194,14 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     ],
     testimonials: [
       { quote: "Cleared our main line same day and the price was exactly what they quoted. No surprises.", name: "M. Ruiz", area: "Green Valley" },
-      { quote: "Second opinion on a repipe saved us a fortune — honest people.", name: "T. Bell", area: "Catalina Foothills" },
+      { quote: "Second opinion on a repipe saved us a fortune - honest people.", name: "T. Bell", area: "Catalina Foothills" },
       { quote: "Master plumber showed up on time, wore shoe covers, fixed it right the first time.", name: "S. Patel", area: "Rita Ranch" },
     ],
     faqs: [
-      { q: "Who is the best-reviewed plumber in Tucson?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews and a BBB A+ rating — more total five-star reviews than any other Tucson home-services company. Compare our public profile to any plumber before you book." },
-      { q: "Is a free second opinion on a plumbing quote really free?", a: "Yes. Send us another company's plumbing quote and we'll review it free and tell you honestly if it's fair — no obligation." },
-      { q: "What if I already signed a plumbing quote?", a: "Call (520) 333-2665 before work begins — many quotes can still be re-evaluated and we'll walk you through your options." },
-      { q: "Is Intelligent Design locally owned?", a: "Yes — Intelligent Design is a locally owned, veteran-owned Tucson company, not a national franchise or private-equity platform." },
+      { q: "Who is the best-reviewed plumber in Tucson?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews and a BBB A+ rating - more total five-star reviews than any other Tucson home-services company. Compare our public profile to any plumber before you book." },
+      { q: "Is a free second opinion on a plumbing quote really free?", a: "Yes. Send us another company's plumbing quote and we'll review it free and tell you honestly if it's fair - no obligation." },
+      { q: "What if I already signed a plumbing quote?", a: "Call (520) 333-2665 before work begins - many quotes can still be re-evaluated and we'll walk you through your options." },
+      { q: "Is Intelligent Design locally owned?", a: "Yes - Intelligent Design is a locally owned, veteran-owned Tucson company, not a national franchise or private-equity platform." },
       { q: "Do you handle emergency and main-sewer-line plumbing?", a: "Yes. We offer 24/7 emergency plumbing, drain clearing, hydro-jetting, camera inspection and sewer line repair across the Tucson metro." },
     ],
     asOf: AS_OF,
@@ -213,13 +213,13 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     campaign: "IDACH_Competitor-Conquest_Roofing",
     servicePath: "/services/roofing",
     schemaType: "RoofingContractor",
-    warranty: "ThermalCork 25-year warranty — the longest roof-coating warranty in the industry",
-    title: "Tucson Roofing Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
+    warranty: "ThermalCork 25-year warranty - the longest roof-coating warranty in the industry",
+    title: "Best Roofing Companies in Tucson (2026) | Side-by-Side Comparison",
     description:
-      "Comparing Tucson roofing companies? See side-by-side ratings, ownership, warranties & guarantees — plus exclusive ThermalCork coating. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Roofing Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
+      "Comparing the best roofing companies in Tucson? Side-by-side ratings, ownership, warranties and response times across the top Tucson roofers.",
+    h1: "Best Roofing Companies in Tucson - How the Top Contractors Compare",
     intro:
-      "When you call Intelligent Design, you're calling a locally owned Tucson company — and Tucson's only certified ThermalCork roof-coating applicator. Below is a comparison of Tucson roofing companies using each company's public Google Business Profile rating.",
+      "When you call Intelligent Design, you're calling a locally owned Tucson company - and Tucson's only certified ThermalCork roof-coating applicator. Below is a comparison of Tucson roofing companies using each company's public Google Business Profile rating.",
     competitors: [
       { name: "Canyon Roofing", anchor: "canyon-roofing", rating: "4.9", reviews: "675", locallyOwned: "yes", peOwned: "no", blurb: "Canyon Roofing is a Tucson-based roofing contractor with a Google rating of 4.9 stars across more than 675 reviews." },
       { name: "AA Brite 24/7", anchor: "aa-brite-24-7", rating: "4.9", reviews: "662", locallyOwned: "yes", peOwned: "no", blurb: "AA Brite 24/7 is a Tucson-area roofing company holding a 4.9-star Google rating from over 662 reviews." },
@@ -289,8 +289,8 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     faqs: [
       { q: "Who is the best-rated roofing company in Tucson?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews and a BBB A+ rating, and is Tucson's only certified ThermalCork roof-coating applicator. Compare our public profile to any roofer before you book." },
       { q: "What is ThermalCork and who installs it in Tucson?", a: "ThermalCork is a natural cork spray roof coating that creates a permanent thermal break, can cut energy costs up to 50%, and carries a 25-year warranty. Intelligent Design is Tucson's only certified applicator." },
-      { q: "Is a free second opinion on a roofing quote really free?", a: "Yes — send us another roofer's quote or inspection and we'll review it free and tell you honestly whether it's fair." },
-      { q: "Is Intelligent Design locally owned?", a: "Yes — Intelligent Design is a locally owned, veteran-owned Tucson company." },
+      { q: "Is a free second opinion on a roofing quote really free?", a: "Yes - send us another roofer's quote or inspection and we'll review it free and tell you honestly whether it's fair." },
+      { q: "Is Intelligent Design locally owned?", a: "Yes - Intelligent Design is a locally owned, veteran-owned Tucson company." },
       { q: "Do you offer free roof inspections?", a: "Yes. We provide free, no-obligation roof inspections with a written report across the Tucson metro." },
     ],
     asOf: AS_OF,
@@ -303,12 +303,12 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     servicePath: "/services/solar",
     schemaType: "HomeAndConstructionBusiness",
     warranty: "workmanship warranty plus service for orphaned systems from closed installers",
-    title: "Tucson Solar Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
+    title: "Best Solar Companies in Tucson (2026) | Side-by-Side Comparison",
     description:
-      "Comparing Tucson solar companies — or stuck with a system from a closed installer? See ratings, ownership & who services orphaned systems. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Solar Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
+      "Comparing the best solar companies in Tucson, or stuck with a system from a closed installer? See ratings, ownership and who services orphaned systems.",
+    h1: "Best Solar Companies in Tucson - How the Top Installers Compare",
     intro:
-      "When you call Intelligent Design, you're calling a locally owned Tucson company that's still here to service what we sell. Many Arizona solar installers have closed their doors — if yours did, we service and repair orphaned systems. Below is a comparison of Tucson solar options using public Google Business Profile ratings.",
+      "When you call Intelligent Design, you're calling a locally owned Tucson company that's still here to service what we sell. Many Arizona solar installers have closed their doors - if yours did, we service and repair orphaned systems. Below is a comparison of Tucson solar options using public Google Business Profile ratings.",
     competitors: [
       { name: "Technicians for Sustainability (TFS)", anchor: "tfs", rating: "4.9", reviews: "505", locallyOwned: "unknown", peOwned: "unknown", blurb: "Technicians for Sustainability is a Tucson solar installer established in 2003 and a longtime local brand." },
       { name: "Titan Solar Power (closed)", anchor: "titan-solar", locallyOwned: "no", peOwned: "unknown", closed: true, national: true, blurb: "Titan Solar Power was a large national installer that ceased operations in 2024, leaving many Arizona customers with orphaned systems." },
@@ -317,15 +317,15 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
       { name: "Solar Solution AZ", anchor: "solar-solution", rating: "4.1", reviews: "167", locallyOwned: "unknown", peOwned: "unknown", blurb: "Solar Solution AZ is an Arizona solar installer serving the Tucson market." },
     ],
     testimonials: [
-      { quote: "Our original installer went out of business — Intelligent Design got our panels producing again.", name: "A. Weber", area: "Sahuarita" },
+      { quote: "Our original installer went out of business - Intelligent Design got our panels producing again.", name: "A. Weber", area: "Sahuarita" },
       { quote: "Straightforward solar quote with no high-pressure sales. Refreshing.", name: "C. Ramirez", area: "Green Valley" },
       { quote: "They integrated solar with our AC and the savings are real.", name: "H. Diaz", area: "Vail" },
     ],
     faqs: [
-      { q: "My solar installer went out of business — who services my system in Tucson?", a: "Intelligent Design services and repairs orphaned solar systems from closed installers, including panels originally installed by Titan Solar Power and other companies no longer operating. Call (520) 333-2665." },
+      { q: "My solar installer went out of business - who services my system in Tucson?", a: "Intelligent Design services and repairs orphaned solar systems from closed installers, including panels originally installed by Titan Solar Power and other companies no longer operating. Call (520) 333-2665." },
       { q: "Who is the best-rated solar company in Tucson?", a: "Intelligent Design carries a 4.97-star aggregate rating across 23,000+ verified reviews and a BBB A+ rating, and is a locally owned Tucson company that stands behind its installs." },
-      { q: "Is a free second opinion on a solar quote really free?", a: "Yes — send us another company's solar proposal and we'll review it free and tell you honestly whether it's fair." },
-      { q: "Is Intelligent Design locally owned?", a: "Yes — Intelligent Design is a locally owned, veteran-owned Tucson company that will be here to service your system for the long haul." },
+      { q: "Is a free second opinion on a solar quote really free?", a: "Yes - send us another company's solar proposal and we'll review it free and tell you honestly whether it's fair." },
+      { q: "Is Intelligent Design locally owned?", a: "Yes - Intelligent Design is a locally owned, veteran-owned Tucson company that will be here to service your system for the long haul." },
       { q: "Do you offer solar batteries and HVAC integration?", a: "Yes. We install residential solar, battery storage, and energy-saving SunTrac HVAC integration." },
     ],
     asOf: AS_OF,
@@ -372,7 +372,7 @@ export const VS_PAGES: VsPage[] = [
     peOwned: "yes",
     peSource: "https://www.businesswire.com/news/home/20210126005034/en/Redwood-Services-Announces-Strategic-Partnership-with-Rite-Way-Heating-Cooling-Plumbing",
     h1: "Intelligent Design vs. Rite Way Heating, Cooling & Plumbing: Which Tucson Service Contractor Is Right for You?",
-    intro: "Choosing between Intelligent Design and Rite Way Heating, Cooling & Plumbing is a common decision for Tucson homeowners, though the two are structured very differently — Rite Way has been owned since 2021 by the private-equity-backed platform Redwood Services, while Intelligent Design remains locally and veteran-owned. Intelligent Design is locally owned and veteran-owned, has served Tucson since 1979, and holds a 4.97-star aggregate across more than 23,000 reviews. This page offers an honest, factual comparison so you can decide whether Rite Way Heating, Cooling & Plumbing or Intelligent Design better fits your needs.",
+    intro: "Choosing between Intelligent Design and Rite Way Heating, Cooling & Plumbing is a common decision for Tucson homeowners, though the two are structured very differently - Rite Way has been owned since 2021 by the private-equity-backed platform Redwood Services, while Intelligent Design remains locally and veteran-owned. Intelligent Design is locally owned and veteran-owned, has served Tucson since 1979, and holds a 4.97-star aggregate across more than 23,000 reviews. This page offers an honest, factual comparison so you can decide whether Rite Way Heating, Cooling & Plumbing or Intelligent Design better fits your needs.",
     faqs: [ { q: "Is Rite Way Heating, Cooling & Plumbing or Intelligent Design cheaper for AC repair in Tucson?", a: "Pricing for AC repair depends on the specific system, parts, and scope of work, so neither company can be labeled cheaper without a diagnosis. Intelligent Design offers a free second opinion on any quote, including one from Rite Way, so you can compare fairly before deciding." }, { q: "Does Rite Way Heating, Cooling & Plumbing offer 24/7 emergency service like Intelligent Design?", a: "Availability can change, so confirm current hours directly with each company. Intelligent Design provides 24/7 emergency service with no overtime charges, which is one point to compare when weighing it against Rite Way." }, { q: "Is Rite Way Heating, Cooling & Plumbing a locally owned Tucson company?", a: "Rite Way has been owned since 2021 by Redwood Services, a private-equity-backed home-services platform. Intelligent Design, by contrast, is locally owned and veteran-owned and has served Tucson since 1979." } ],
     closingCta: "If you have a quote from Rite Way Heating, Cooling & Plumbing, call Intelligent Design for a free second opinion before you decide.",
     whyChoose: "When your air conditioner quits on a 108-degree Tucson afternoon, the question isn't just who can show up. It's who is actually accountable for the work, the warranty, and the years that follow. That's where the difference between Intelligent Design and Rite Way Heating, Cooling & Plumbing becomes clear. Since 2021, Rite Way has operated as part of Redwood Services, a private-equity-backed platform of consolidated home-services brands. Intelligent Design has answered to the same local, family-owned and veteran-owned leadership since 1979.\n\nForty-six years in one city changes how a company behaves. Our owners live here, our reputation is built one Tucson neighborhood at a time, and our decisions are made by people you can actually reach, not by a corporate portfolio manager balancing quotas across multiple markets. When a private-equity group buys and combines local brands, the priorities can shift toward return targets and centralized systems. At Intelligent Design, the priority has stayed exactly what it was in 1979: taking care of the family in front of us.\n\nThat local ownership shows up in the numbers homeowners trust. Intelligent Design carries a 4.97-star aggregate rating across more than 23,000 verified reviews on Google, Facebook, PulseM, and Angi, along with an A+ rating from the Better Business Bureau. That volume isn't an accident; it's what happens when the same team keeps its promises across two generations of Tucson customers. We're proud to be the region's number-one-rated home-services company, and we've earned it call by call.\n\nWe also do more under one roof. Rite Way focuses on heating, cooling, and plumbing. Intelligent Design covers HVAC, plumbing, roofing, solar, and electrical, so a single company and a single phone call can handle your whole home. When your AC problem turns out to be an electrical issue, or a plumbing leak reveals a roofing problem, you're not juggling three contractors and three schedules. You're working with one team that already knows your house.\n\nThere's also the way we quote and the way we charge. Intelligent Design offers a free second opinion on any competitor's estimate, including one from Rite Way, because we're confident that when you see an honest, Manual J load-calculated recommendation side by side with a square-footage guess, the right choice becomes obvious. Our 24/7 emergency service carries no overtime or after-hours upcharges, and our average AC response time is roughly 53 minutes. Nights, weekends, and holidays cost the same as a Tuesday morning, which matters when the desert heat doesn't keep business hours.\n\nWe back the work, too. Written guarantees, flexible financing, and our Family Protection Plan maintenance memberships mean the relationship doesn't end when the truck pulls away. Proper equipment sizing using blower-door testing and thermal imaging means your system is matched to your actual home, not a rule of thumb, so you get comfort and efficiency you can measure on your utility bill.\n\nNone of this is a knock on Rite Way, which employs skilled technicians and serves many Tucson homes. It's simply a clear-eyed comparison. If you value a large, private-equity-backed platform, that's a legitimate choice. But if you want a company whose owners have signed their name to this community for 46 years, whose veterans-and-family roots run deep, and whose 23,000-plus reviews reflect a single, unbroken standard, Intelligent Design was built for you. One local company, every trade, no upcharges, and a second opinion that's always free. That's why so many Tucson homeowners choose Intelligent Design over Rite Way, and why they stay.",
@@ -592,8 +592,8 @@ export const VS_PAGES: VsPage[] = [
     peOwned: "yes",
     peSource: "https://www.prnewswire.com/news-releases/knox-lane-backed-any-hour-group-grows-home-services-leadership-in-mountain-west-with-three-new-partnerships-301580980.html",
     h1: "Intelligent Design vs. Strongbuilt Plumbing, Air, Solar & Electric: Which Tucson Service Contractor Is Right for You?",
-    intro: "Strongbuilt Plumbing, Air, Solar & Electric and Intelligent Design overlap across several trades in Tucson — plumbing, HVAC, solar, and electrical — so this is more than a plumbing comparison. Intelligent Design is locally owned and veteran-owned and has served Tucson since 1979 with more than 23,000 reviews, while Strongbuilt Plumbing, Air, Solar & Electric has been part of the private-equity-backed Any Hour Group (Knox Lane) since 2022. Here is an honest comparison of the two.",
-    faqs: [ { q: "Is Strongbuilt Plumbing Air Solar & Electric or Intelligent Design cheaper for plumbing in Tucson?", a: "Costs depend on the specific repair or installation, so request written estimates from each; Intelligent Design provides a free second opinion on any quote to help you verify fair pricing." }, { q: "What services does Strongbuilt Plumbing Air Solar & Electric offer besides plumbing?", a: "They advertise plumbing along with air, solar, and electrical work; Intelligent Design similarly covers HVAC, plumbing, roofing, solar, and electrical." }, { q: "Is Strongbuilt Plumbing, Air, Solar & Electric a locally owned Tucson company?", a: "Strongbuilt has been part of the Any Hour Group — a regional home-services platform backed by private-equity firm Knox Lane — since 2022. Intelligent Design, by contrast, is locally owned and veteran-owned and has served Tucson since 1979." } ],
+    intro: "Strongbuilt Plumbing, Air, Solar & Electric and Intelligent Design overlap across several trades in Tucson - plumbing, HVAC, solar, and electrical - so this is more than a plumbing comparison. Intelligent Design is locally owned and veteran-owned and has served Tucson since 1979 with more than 23,000 reviews, while Strongbuilt Plumbing, Air, Solar & Electric has been part of the private-equity-backed Any Hour Group (Knox Lane) since 2022. Here is an honest comparison of the two.",
+    faqs: [ { q: "Is Strongbuilt Plumbing Air Solar & Electric or Intelligent Design cheaper for plumbing in Tucson?", a: "Costs depend on the specific repair or installation, so request written estimates from each; Intelligent Design provides a free second opinion on any quote to help you verify fair pricing." }, { q: "What services does Strongbuilt Plumbing Air Solar & Electric offer besides plumbing?", a: "They advertise plumbing along with air, solar, and electrical work; Intelligent Design similarly covers HVAC, plumbing, roofing, solar, and electrical." }, { q: "Is Strongbuilt Plumbing, Air, Solar & Electric a locally owned Tucson company?", a: "Strongbuilt has been part of the Any Hour Group - a regional home-services platform backed by private-equity firm Knox Lane - since 2022. Intelligent Design, by contrast, is locally owned and veteran-owned and has served Tucson since 1979." } ],
     closingCta: "For a free second opinion on your next plumbing job, weigh Intelligent Design against Strongbuilt Plumbing Air Solar & Electric.",
     whyChoose: "Ownership matters more than most homeowners realize until something goes wrong. That is the heart of the difference between Intelligent Design and Strongbuilt Plumbing, Air, Solar & Electric. Both companies are multi-trade operations that can handle plumbing, air conditioning, solar, and electrical work, so on paper the two look similar. Look a little closer at who actually owns each company, though, and the contrast becomes clear.\n\nStrongbuilt is part of the Any Hour Group, which is backed by the private-equity firm Knox Lane and has been since 2022. Private-equity consolidation is increasingly common in home services, and these platforms can bring real resources. But the ultimate decisions, targets, and priorities at a PE-backed company answer to investors who are often located far outside Tucson. Intelligent Design is the opposite model on purpose. It is family-owned and veteran-owned, and it has been serving Tucson since 1979. When you call Intelligent Design, the people setting the standards live here, know this desert climate, and stake their family name on every job.\n\nThat local ownership translates into accountability you can feel. Intelligent Design has earned a 4.97-star average across more than 23,000 reviews on Google, Facebook, PulseM, and Angi, along with an A+ rating from the Better Business Bureau, which is part of why it is regarded as Tucson's number-one-rated home-services company. Those reviews were not gathered by a national platform spreading its reputation across many markets; they were earned home by home, in Tucson, over 46 years. When the owners are local and the reviews are local, incentives line up squarely with the customer.\n\nBecause both Intelligent Design and Strongbuilt cover multiple trades, the tie-breakers come down to how each company treats you. Intelligent Design provides a free second opinion on any quote, which is especially valuable when you have been told you need a major system replacement. Bring that estimate in, and Intelligent Design will give you an honest, independent evaluation at no charge, so you can be confident before spending thousands. It also offers 24/7 emergency service with no overtime or after-hours upcharges, meaning the price does not jump because your water heater failed on a holiday weekend.\n\nIntelligent Design rounds out its offering with flexible financing, written guarantees, and the Family Protection Plan, a maintenance membership that keeps your home's systems tuned and helps you avoid expensive surprises. Since Intelligent Design covers plumbing, HVAC, roofing, solar, and electrical, one membership and one trusted relationship can cover nearly everything under your roof. That is the same whole-home convenience a multi-trade company like Strongbuilt aims to provide, delivered by a company whose roots and loyalties are entirely local.\n\nThere is nothing wrong with a well-run multi-trade company, and Strongbuilt Plumbing, Air, Solar & Electric employs skilled people who do good work. But if you believe that a company's ownership shapes its culture and its long-term priorities, the distinction is meaningful. A private-equity platform like the Any Hour Group answers first to its investors; a family-owned, veteran-owned company like Intelligent Design answers first to the neighbors it sees at the grocery store. For Tucson homeowners who want the range of a multi-trade provider without handing their home over to a nationally consolidated PE brand, Intelligent Design offers the best of both worlds: broad capability paired with genuine local ownership, a free second opinion, and nearly five decades of accountability to this community.",
   },

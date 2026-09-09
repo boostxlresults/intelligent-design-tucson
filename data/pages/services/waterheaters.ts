@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterheatersData: ServicePageData = {
   // SEO & Meta
   title: 'Water Heater Services Tucson AZ | Tank, Tankless, Hybrid Water Heaters',
-  description: 'Expert water heater services in Tucson. Tank, tankless, hybrid, gas & electric water heaters. Professional installation, repair & maintenance. Call (520) 333-2665 for free consultation.',
+  description: 'Expert water heater services in Tucson. Tank, tankless, hybrid, gas & electric water heaters. Professional installation, repair & maintenance.',
   slug: 'water-heaters',
   
   // Hero Section
@@ -69,7 +69,7 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Choosing the right water heater for your Tucson home is a significant decision that affects your comfort, utility bills, and daily convenience for years to come. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric], we've helped thousands of Tucson families select, install, repair, and maintain water heaters since 1979. Our licensed master plumbers have expertise with every type of water heater—traditional tank (gas and electric), tankless on-demand systems, hybrid heat pump models, gas-fired units, and electric resistance heaters—and we're here to help you make the best choice for your home, budget, and lifestyle."
+            "content": "Choosing the right water heater for your Tucson home is a significant decision that affects your comfort, utility bills, and daily convenience for years to come. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric], we've helped thousands of Tucson families select, install, repair, and maintain water heaters since 1979. Our licensed master plumbers have expertise with every type of water heater-traditional tank (gas and electric), tankless on-demand systems, hybrid heat pump models, gas-fired units, and electric resistance heaters-and we're here to help you make the best choice for your home, budget, and lifestyle."
       },
       {
             "type": "paragraph",
@@ -77,15 +77,15 @@ export const waterheatersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/water-heater-installation|water heater installation] and [link:/services/water-heater-repair|repair provider] in Pima County."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated plumbing company in Southern Arizona. We've been the #1 rated water heater company in Tucson for 6 consecutive years (2019-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest sizing recommendations, quality workmanship, and customer satisfaction has made us the most-referred [link:/services/water-heater-installation|water heater installation] and [link:/services/water-heater-repair|repair provider] in Pima County."
       },
       {
             "type": "paragraph",
-            "content": "Water heaters are the second-largest energy consumer in most homes, accounting for 14-18% of utility bills. The right system can save hundreds of dollars annually while providing reliable hot water for showers, laundry, dishes, and cleaning. The wrong system leads to frustration—running out of hot water, excessive energy costs, frequent repairs, and premature replacement. We take time to understand your household's hot water needs, explain all options clearly (tank vs tankless vs hybrid), and provide honest recommendations without pressure or sales tactics."
+            "content": "Water heaters are the second-largest energy consumer in most homes, accounting for 14-18% of utility bills. The right system can save hundreds of dollars annually while providing reliable hot water for showers, laundry, dishes, and cleaning. The wrong system leads to frustration-running out of hot water, excessive energy costs, frequent repairs, and premature replacement. We take time to understand your household's hot water needs, explain all options clearly (tank vs tankless vs hybrid), and provide honest recommendations without pressure or sales tactics."
       },
       {
             "type": "paragraph",
-            "content": "Elite Water Heater Expertise & Tucson Hard Water Mastery: Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies including condensing tankless systems, hybrid heat pump models, smart connectivity features, and hard water mitigation strategies. We're factory-authorized dealers for Rheem, Bradford White, AO Smith, Rinnai, Navien, Noritz, Takagi, and 8+ other major brands. Our unique advantage: as a full-service [link:/services/hvac-tucson|HVAC], plumbing, electrical, and solar company, we can address the complete picture—electrical panel upgrades for tankless or hybrid systems, [link:/services/water-softeners|water softener integration] to combat Tucson's extreme hard water (12-16 grains per gallon), smart thermostat coordination, and solar water heating options for maximum efficiency."
+            "content": "Elite Water Heater Expertise & Tucson Hard Water Mastery: Our 52 licensed master plumbers average 14+ years of hands-on plumbing experience and complete 96+ hours of annual manufacturer training on the latest water heater technologies including condensing tankless systems, hybrid heat pump models, smart connectivity features, and hard water mitigation strategies. We're factory-authorized dealers for Rheem, Bradford White, AO Smith, Rinnai, Navien, Noritz, Takagi, and 8+ other major brands. Our unique advantage: as a full-service [link:/services/hvac-tucson|HVAC], plumbing, electrical, and solar company, we can address the complete picture-electrical panel upgrades for tankless or hybrid systems, [link:/services/water-softeners|water softener integration] to combat Tucson's extreme hard water (12-16 grains per gallon), smart thermostat coordination, and solar water heating options for maximum efficiency."
       },
       {
             "type": "paragraph",

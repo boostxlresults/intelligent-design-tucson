@@ -17,7 +17,7 @@ canonicalUrl: 'https://www.idesignac.com/blog/water-heater/what-is-an-anode-rod'
 
 # What Is an Anode Rod? The Unsung Hero of Your Water Heater
 
-Hidden inside your water heater is a component most homeowners never think about—until it fails. The anode rod is essential for protecting your water heater from corrosion, and understanding its role can save you thousands in premature replacement costs.
+Hidden inside your water heater is a component most homeowners never think about-until it fails. The anode rod is essential for protecting your water heater from corrosion, and understanding its role can save you thousands in premature replacement costs.
 
 ## What Does an Anode Rod Do?
 

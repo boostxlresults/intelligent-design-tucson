@@ -39,7 +39,7 @@ video:
 
 In Tucson, air conditioning is not optional. When the summer heat hits, running your air conditioning not only keeps your home comfortable, but is actually necessary to keep your family and pets safe from the risk of heat-related illnesses. Of course, the fact that running the air conditioning is essential doesn’t make it any easier to deal with the increase in utility bills that comes along with it.
 
-Fortunately, there are things you can do to limit the impact of your air conditioning on your utility bills and on the environment. Ensuring that your air conditioning is running as efficiently as possible will keep your home comfortable while using the least amount of energy possible—good news for your wallet and the planet. At Intelligent Design in Tucson, our highly skilled air conditioning professionals will keep your unit in top condition with maintenance and repair services when you need them. Here is what you need to know about boosting your air conditioning efficiency, including tips from our pros.
+Fortunately, there are things you can do to limit the impact of your air conditioning on your utility bills and on the environment. Ensuring that your air conditioning is running as efficiently as possible will keep your home comfortable while using the least amount of energy possible-good news for your wallet and the planet. At Intelligent Design in Tucson, our highly skilled air conditioning professionals will keep your unit in top condition with maintenance and repair services when you need them. Here is what you need to know about boosting your air conditioning efficiency, including tips from our pros.
 
 ### Choose the Right Air Conditioner
 

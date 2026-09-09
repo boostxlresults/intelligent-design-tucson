@@ -34,7 +34,7 @@ function Booking() {
             request, including by automated means. Consent is not a condition of purchase. Message and data rates
             may apply.
           </p>
-          {/* Offer terms — visible near the form */}
+          {/* Offer terms - visible near the form */}
           <p className="mt-3 border-t border-border pt-3 text-[13px] leading-relaxed text-muted-foreground">
             <strong className="text-foreground">Offer terms:</strong> The {PRICE} price covers one 86-point
             precision tune-up on one residential cooling system. Additional systems are{" "}
@@ -54,7 +54,7 @@ export default function AcTuneUp2888Page() {
     <>
       <StickyBar />
 
-      {/* 4.2 Hero — dark, red price, matches the ad */}
+      {/* 4.2 Hero - dark, red price, matches the ad */}
       <section className="bg-[#0d1b3e] px-4 py-9 text-white">
         <div className="mx-auto max-w-2xl text-center">
           <p className="text-[15px] font-bold uppercase tracking-wide text-white/80">
@@ -104,7 +104,7 @@ export default function AcTuneUp2888Page() {
       {/* 4.5 What the 86 points cover */}
       <section className="px-4 py-10">
         <div className="mx-auto max-w-3xl">
-          <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">What we check &mdash; all 86 points</h2>
+          <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">What we check - all 86 points</h2>
           <p className="mt-2 text-[17px] text-muted-foreground">
             A precision tune-up isn&rsquo;t a quick look. Here&rsquo;s what a {PRICE} visit actually includes.
           </p>
@@ -120,13 +120,13 @@ export default function AcTuneUp2888Page() {
           <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">1-Year No Breakdown Guarantee</h2>
           <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
             If your system has a covered breakdown within 12 months of your tune-up, we&rsquo;ll come back out and
-            waive the diagnostic fee &mdash; you only pay for any parts and repair needed. It&rsquo;s our way of
+            waive the diagnostic fee - you only pay for any parts and repair needed. It&rsquo;s our way of
             standing behind the work: we tuned it, so we&rsquo;ll be the ones to look at it first.
           </p>
           <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
             The guarantee covers the cooling system we serviced. It doesn&rsquo;t cover pre-existing failures found
             during the visit, damage from power surges or storms, or systems that are already past the point of
-            repair &mdash; and in those cases we&rsquo;ll tell you honestly and up front, before any work.
+            repair - and in those cases we&rsquo;ll tell you honestly and up front, before any work.
           </p>
         </div>
       </section>
@@ -164,9 +164,9 @@ export default function AcTuneUp2888Page() {
           <h2 className="text-2xl font-extrabold text-primary sm:text-3xl">Quick questions</h2>
           <div className="mt-4 space-y-4">
             {[
-              { q: `Is ${PRICE} the total price?`, a: `Yes. ${PRICE} covers the full 86-point tune-up on one residential cooling system. If we find something that needs a repair, we&rsquo;ll show you and quote it before doing any work &mdash; no surprises.` },
+              { q: `Is ${PRICE} the total price?`, a: `Yes. ${PRICE} covers the full 86-point tune-up on one residential cooling system. If we find something that needs a repair, we&rsquo;ll show you and quote it before doing any work - no surprises.` },
               { q: "How long does the visit take?", a: "Most tune-ups take about 45 to 75 minutes, depending on your system and how many units you have." },
-              { q: "Will you try to sell me a new system?", a: "No. Our technicians aren&rsquo;t paid on commission. If your system is healthy, we&rsquo;ll tell you it&rsquo;s healthy. We only recommend a replacement when a repair genuinely doesn&rsquo;t make sense &mdash; and we&rsquo;ll explain why." },
+              { q: "Will you try to sell me a new system?", a: "No. Our technicians aren&rsquo;t paid on commission. If your system is healthy, we&rsquo;ll tell you it&rsquo;s healthy. We only recommend a replacement when a repair genuinely doesn&rsquo;t make sense - and we&rsquo;ll explain why." },
               { q: "What if I need a repair?", a: "We&rsquo;ll show you what we found, quote it up front, and let you decide. Your 1-Year No Breakdown Guarantee starts the day of your tune-up." },
             ].map((f, i) => (
               <div key={i} className="rounded-xl border border-border bg-card p-4">

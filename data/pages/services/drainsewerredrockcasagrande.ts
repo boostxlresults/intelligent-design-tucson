@@ -5,14 +5,14 @@ import type { ServicePageData } from "@/types/services";
 
 export const drainsewerredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
-  title: "Drain & Sewer Repair — Red Rock & Casa Grande",
-  description: "Drain & Sewer services in Red Rock & Casa Grande — hard-water cleaning, trenchless repair. Call for same-day inspections in 85145, 85122, 85193.",
+  title: "Drain & Sewer Repair - Red Rock & Casa Grande",
+  description: "Drain & Sewer services in Red Rock & Casa Grande - hard-water cleaning, trenchless repair. Call for same-day inspections in 85145, 85122, 85193.",
   slug: "drain-sewer-red-rock-casa-grande",
   
   // Hero Section
   h1: "Drain & Sewer Services for Red Rock & Casa Grande",
   h2Subheading: "Local drain and sewer specialists tuned to extreme heat, hard water, and Pinal County soil",
-  tagline: "46+ years serving Pinal County homeowners — 4.97★ from 3,600+ reviews, fast service across 85145, 85122, 85193",
+  tagline: "46+ years serving Pinal County homeowners - 4.97★ from 3,600+ reviews, fast service across 85145, 85122, 85193",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer services in Red Rock & Casa Grande, Arizona",
   

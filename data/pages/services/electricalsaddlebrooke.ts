@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalsaddlebrookeData: ServicePageData = {
   title: "Expert Electrical Services in SaddleBrooke, AZ | Intelligent Design",
-  description: "Top-rated electrical services in SaddleBrooke, AZ. From whole-home generators to golf cart chargers, our expert electricians serve the 85739 area. Call (520) 333-2665.",
+  description: "Top-rated electrical services in SaddleBrooke, AZ. From whole-home generators to golf cart chargers, our expert electricians serve the 85739 area.",
   slug: "electrical-saddle-brooke",
   h1: "Professional Electrical Services in SaddleBrooke",
   h2Subheading: "Reliable Power Solutions for Your Active Adult Lifestyle",

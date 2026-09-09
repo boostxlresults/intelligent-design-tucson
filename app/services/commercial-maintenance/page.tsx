@@ -111,7 +111,7 @@ const faqSchema = {
       "name": "How often should commercial HVAC systems be serviced?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Commercial HVAC systems should be professionally inspected and maintained at least twice per year—before the cooling season and before the heating season. High-use facilities may require quarterly maintenance for optimal efficiency and longevity."
+        "text": "Commercial HVAC systems should be professionally inspected and maintained at least twice per year-before the cooling season and before the heating season. High-use facilities may require quarterly maintenance for optimal efficiency and longevity."
       }
     },
     {

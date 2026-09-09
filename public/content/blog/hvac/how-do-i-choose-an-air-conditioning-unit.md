@@ -47,7 +47,7 @@ If you’re tired of seeing high electric bills every summer, think about going 
 
 ### Choosing an Air Conditioning Unit: Scheduling a Free Estimate
 
-These days, people are accustomed to shopping online for just about everything—from cars to baby pacifiers. But choosing an air conditioning unit really isn’t something that can be done online. The HVAC technician needs to measure the home to determine the ideal size and capacity for the new system. Furthermore, at Intelligent Design, we take the time to sit down with the homeowners to get a sense of your lifestyle preferences, efficiency goals, and budget. We’ll also consider how long you plan to stay in your current home, as this may affect how much you’re willing to spend on the new system.
+These days, people are accustomed to shopping online for just about everything-from cars to baby pacifiers. But choosing an air conditioning unit really isn’t something that can be done online. The HVAC technician needs to measure the home to determine the ideal size and capacity for the new system. Furthermore, at Intelligent Design, we take the time to sit down with the homeowners to get a sense of your lifestyle preferences, efficiency goals, and budget. We’ll also consider how long you plan to stay in your current home, as this may affect how much you’re willing to spend on the new system.
 
 Once we determine exactly what you’re looking for, we can make three to four recommendations for brands and models that fit your needs and preferences. At that point, the choice is up to you, although we’re always available to answer your follow-up questions.
 

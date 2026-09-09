@@ -24,7 +24,7 @@ canonicalUrl: >-
 
 # Central Air Conditioning System in Tucson: How To Improve Your Indoor Air Quality This Summer
 
-[6.1) Don’t Wait—Fix Your AC Today](#Dont_Wait-Fix_Your_AC_Today)
+[6.1) Don’t Wait-Fix Your AC Today](#Dont_Wait-Fix_Your_AC_Today)
 
 When the warm weather hits, there’s nothing quite like having a reliable air conditioner to keep your home cool and comfortable. It’s summertime in Tucson, which means the temperatures are heating up!
 
@@ -68,7 +68,7 @@ In southern Arizona, an HVAC company like ours often gets calls to repair or rep
 
 There are two main things that homeowners need to do to keep their units in good working order: clean them and replace them when necessary. Cleaning the unit is crucial because it removes dirt and dust that can clog up the system and cause it to work less efficiently. Replacing the unit or getting a new HVAC system is essential because the parts will wear out over time and must be replaced to keep the unit running properly. 
 
-If you live in southern Arizona and your AC unit needs to be repaired or replaced, it’s best to call an HVAC company specializing in AC repair—like iDesign. Companies like ours have the experience and expertise to do a professional job, and we can usually get the AC repair job done quickly so you can get back to enjoying your cool home.
+If you live in southern Arizona and your AC unit needs to be repaired or replaced, it’s best to call an HVAC company specializing in AC repair-like iDesign. Companies like ours have the experience and expertise to do a professional job, and we can usually get the AC repair job done quickly so you can get back to enjoying your cool home.
 
 ## Make Sure Your Vents Aren’t Blocked by Furniture or Drapes
 
@@ -84,7 +84,7 @@ If you want your money’s worth and want to ensure that you can use the unit fo
 
 Whether you hire a professional to fix your air conditioning or do it yourself if it breaks down, always ensure that you follow best practices to use it safely and effectively. This is important to consider for the quality of life and to avoid the dangers that poorly maintained units pose to those living in houses or apartments where they are used.
 
-### Don’t Wait—Fix Your AC Today
+### Don’t Wait-Fix Your AC Today
 
 Plumbing companies can also work on your air conditioning since plumbing and air conditioning are closely related. A problem with your plumbing can cause damage to your air conditioner. Moisture, for example, can cause mold and mildew to grow. If not handled in time, this can have disastrous results on indoor air quality and property value.
 

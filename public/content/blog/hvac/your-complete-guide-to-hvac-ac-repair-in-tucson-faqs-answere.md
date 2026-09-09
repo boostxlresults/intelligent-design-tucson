@@ -47,7 +47,7 @@ Yes! We provide **free AC installation estimates in Tucson, AZ**, to help you ma
 
 ### 7\. What are the signs I need HVAC maintenance?
 
-Your HVAC system gives you warning signs when it needs professional attention. Some of the most common signs Tucson homeowners notice include **weak airflow, uneven cooling, unusual noises, higher energy bills, unpleasant odors from vents, or frequent on/off cycling**. Preventative **HVAC maintenance in Tucson** can extend your system’s life, reduce repair costs, and improve efficiency. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we recommend scheduling seasonal maintenance—before summer and winter—for optimal performance. Our maintenance includes inspecting coils, checking refrigerant, cleaning filters, and ensuring your system is running at peak efficiency for Arizona’s challenging climate.
+Your HVAC system gives you warning signs when it needs professional attention. Some of the most common signs Tucson homeowners notice include **weak airflow, uneven cooling, unusual noises, higher energy bills, unpleasant odors from vents, or frequent on/off cycling**. Preventative **HVAC maintenance in Tucson** can extend your system’s life, reduce repair costs, and improve efficiency. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we recommend scheduling seasonal maintenance-before summer and winter-for optimal performance. Our maintenance includes inspecting coils, checking refrigerant, cleaning filters, and ensuring your system is running at peak efficiency for Arizona’s challenging climate.
 
 ### 8\. How often should I service my HVAC system in Arizona’s climate?
 
@@ -103,7 +103,7 @@ Scheduling your **HVAC service in Tucson** with Intelligent Design Air Condition
 
 ### 21\. How long does an air conditioner typically last in Tucson?
 
-In Tucson’s desert climate, most air conditioners last between **12–15 years** with proper care. The intense heat forces AC units to work harder, which can shorten their lifespan if not maintained regularly. Factors like usage, brand, and maintenance frequency all play a role. High-quality systems that receive regular servicing—such as filter changes, coil cleaning, and seasonal tune-ups—can even last up to 20 years. If your AC is older than 12 years and showing signs of inefficiency, frequent repairs, or uneven cooling, it may be time to consider replacement. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we help Tucson homeowners extend the life of their systems with professional maintenance and offer energy-efficient upgrades when needed.
+In Tucson’s desert climate, most air conditioners last between **12–15 years** with proper care. The intense heat forces AC units to work harder, which can shorten their lifespan if not maintained regularly. Factors like usage, brand, and maintenance frequency all play a role. High-quality systems that receive regular servicing-such as filter changes, coil cleaning, and seasonal tune-ups-can even last up to 20 years. If your AC is older than 12 years and showing signs of inefficiency, frequent repairs, or uneven cooling, it may be time to consider replacement. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we help Tucson homeowners extend the life of their systems with professional maintenance and offer energy-efficient upgrades when needed.
 
 ### 22\. What is the best time of year to replace an AC in Tucson?
 
@@ -115,7 +115,7 @@ Yes! Intelligent Design Air Conditioning, Plumbing, Solar, & Electric offers **s
 
 ### 24\. Can regular HVAC maintenance help prevent costly repairs?
 
-Absolutely. Routine **HVAC maintenance in Tucson** is one of the most effective ways to prevent costly repairs and extend your system’s lifespan. By scheduling seasonal tune-ups, our technicians can catch small issues early—such as loose connections, dirty coils, or low refrigerant—before they turn into major breakdowns. Regular maintenance also improves system efficiency, lowers energy bills, and enhances indoor comfort. With Tucson’s extreme summers, HVAC systems work overtime, making preventative care essential. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we offer affordable maintenance plans that provide peace of mind and help homeowners avoid expensive emergency repairs.
+Absolutely. Routine **HVAC maintenance in Tucson** is one of the most effective ways to prevent costly repairs and extend your system’s lifespan. By scheduling seasonal tune-ups, our technicians can catch small issues early-such as loose connections, dirty coils, or low refrigerant-before they turn into major breakdowns. Regular maintenance also improves system efficiency, lowers energy bills, and enhances indoor comfort. With Tucson’s extreme summers, HVAC systems work overtime, making preventative care essential. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we offer affordable maintenance plans that provide peace of mind and help homeowners avoid expensive emergency repairs.
 
 ### 25\. Do you service heat pumps in Tucson?
 
@@ -135,7 +135,7 @@ Improving energy efficiency is a top priority for Tucson homeowners, especially 
 
 ### 29\. Do you offer seasonal HVAC tune-ups?
 
-Yes, we recommend **seasonal HVAC tune-ups in Tucson** twice a year—once in spring before summer and again in fall before winter. Our tune-ups include a thorough inspection, cleaning, and testing of your system to ensure it’s ready for the upcoming season. This service helps prevent unexpected breakdowns, improves efficiency, and extends the life of your HVAC equipment. Tucson’s extreme weather makes preventative care essential, and our tune-ups are designed to keep your home comfortable year-round. By investing in seasonal maintenance, you’ll save money on repairs and energy costs in the long run.
+Yes, we recommend **seasonal HVAC tune-ups in Tucson** twice a year-once in spring before summer and again in fall before winter. Our tune-ups include a thorough inspection, cleaning, and testing of your system to ensure it’s ready for the upcoming season. This service helps prevent unexpected breakdowns, improves efficiency, and extends the life of your HVAC equipment. Tucson’s extreme weather makes preventative care essential, and our tune-ups are designed to keep your home comfortable year-round. By investing in seasonal maintenance, you’ll save money on repairs and energy costs in the long run.
 
 ### 30\. What should I do if my HVAC system is making loud noises?
 

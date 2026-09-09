@@ -160,7 +160,7 @@ export default function LocationServicePage({ entity }: LocationServicePageProps
               {entity.h1}
             </h1>
             <p className="text-xl md:text-2xl text-yellow-400 font-semibold mb-4">
-              Tucson's Most Trusted Home Services — Since 1979
+              Tucson's Most Trusted Home Services - Since 1979
             </p>
             <p className="text-lg text-gray-200 mb-6 max-w-2xl">
               {entity.introParagraph}
@@ -235,7 +235,7 @@ export default function LocationServicePage({ entity }: LocationServicePageProps
               {
                 icon: <MapPin className="w-8 h-8 text-red-600" />,
                 title: "Local to Tucson",
-                desc: `Family & veteran-owned since 1979. We know ${entity.communityName} — near ${entity.localLandmarks || "local landmarks"}.`,
+                desc: `Family & veteran-owned since 1979. We know ${entity.communityName} - near ${entity.localLandmarks || "local landmarks"}.`,
               },
             ].map((item) => (
               <div
@@ -293,7 +293,7 @@ export default function LocationServicePage({ entity }: LocationServicePageProps
                 </AccordionTrigger>
                 <AccordionContent className="text-muted-foreground text-base leading-relaxed">
                   {entity.priceRange
-                    ? `${entity.serviceName} in ${entity.communityName} typically ranges from ${entity.priceRange}. We provide upfront pricing before any work begins — no surprises.`
+                    ? `${entity.serviceName} in ${entity.communityName} typically ranges from ${entity.priceRange}. We provide upfront pricing before any work begins - no surprises.`
                     : `We provide upfront pricing before any work begins. Call us at (520) 333-2665 for a free estimate on ${entity.serviceName} in ${entity.communityName}.`}
                 </AccordionContent>
               </AccordionItem>

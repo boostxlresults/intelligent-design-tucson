@@ -47,7 +47,7 @@ export default function NewHomebuyerOfferPage() {
     '15% OFF All Repairs',
     'No Dispatch Fees Ever',
     'Vouchers Toward System Replacements',
-    '24/7 Emergency Service—Even on Holidays',
+    '24/7 Emergency Service-Even on Holidays',
     'Priority Front-of-the-Line Service',
     'No Extra Charges for Appointment Times',
   ];
@@ -91,7 +91,7 @@ export default function NewHomebuyerOfferPage() {
                 Receive a FREE 2-Year Deluxe Family Protection Plan
               </p>
               <p className="text-xl text-white/90 mb-8" data-testid="text-hero-value">
-                A $1,200 Value — Absolutely FREE for New Homeowners in Tucson
+                A $1,200 Value - Absolutely FREE for New Homeowners in Tucson
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">

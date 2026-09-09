@@ -1,7 +1,7 @@
 /**
  * Phone numbers rendered on PPC landing pages.
  *
- * These MUST be the ServiceTitan DNI **source number** — the number DNI is
+ * These MUST be the ServiceTitan DNI **source number** - the number DNI is
  * configured to find and replace. That is (520) 333-2665.
  *
  * WHY (corrected 2026-09-08, second pass):
@@ -38,7 +38,7 @@ export type CampaignPhone = {
   tel: string;
   display: string;
   /** The dedicated ServiceTitan tracking number for this campaign. NOT rendered
-   *  today — kept so it can be restored once it is a DNI swap source. */
+   *  today - kept so it can be restored once it is a DNI swap source. */
   campaignNumber?: string;
 };
 
@@ -64,7 +64,7 @@ export function getCampaignPhone(pathname?: string | null): CampaignPhone | null
 }
 
 /** True for routes that exist to receive paid traffic. Used ONLY to load DNI
- *  sooner on those pages — never to skip loading it. */
+ *  sooner on those pages - never to skip loading it. */
 export function isPaidLandingPage(pathname?: string | null): boolean {
   return getCampaignPhone(pathname) !== null;
 }

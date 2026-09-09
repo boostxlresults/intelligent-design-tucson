@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Plumbing Services | Intelligent Design",
-  description: "Trusted Picture Rocks plumbing experts for wells, septic, and very hard water in 85743. 46+ yrs experience — call for same-day service.",
+  description: "Trusted Picture Rocks plumbing experts for wells, septic, and very hard water in 85743. 46+ yrs experience - call for same-day service.",
   slug: "plumbing-picture-rocks",
   
   // Hero Section
   h1: "Picture Rocks Plumbing Services",
   h2Subheading: "Well, septic, and hard‑water specialists for rural 85743 homes",
-  tagline: "Serving Picture Rocks (85743) — 46+ years in Tucson area plumbing; 4.97★ from 3,600+ reviews",
+  tagline: "Serving Picture Rocks (85743) - 46+ years in Tucson area plumbing; 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Picture Rocks, Arizona",
   

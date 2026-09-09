@@ -1,7 +1,7 @@
 "use client";
 
 /**
- * Cork Pool Deck Visualizer — full-screen journey modal.
+ * Cork Pool Deck Visualizer - full-screen journey modal.
  * capture → measure → refine → render → lead1 → lead2 → estimate → book → booked
  *
  * Selection model:
@@ -149,7 +149,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
   const dimsRef = useRef<{ mw: number; mh: number; seed: number }>({ mw: 0, mh: 0, seed: 0 });
   const lastPt = useRef<[number, number] | null>(null);
   const segmentUnavailable = useRef(false);
-  // Negative SAM points from measure (pool water, landscape) — sent on every wand call.
+  // Negative SAM points from measure (pool water, landscape) - sent on every wand call.
   const excludePixelPts = useRef<Array<{ x: number; y: number }>>([]);
 
   const sqFt = useMemo(() => Math.max(50, Math.round((measure?.sqFt ?? 0) * areaRatio)), [measure, areaRatio]);
@@ -376,7 +376,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     setMaskVersion((v) => v + 1);
   }, []);
 
-  // SAM 2 smart select — sends user click + stored negative exclude points.
+  // SAM 2 smart select - sends user click + stored negative exclude points.
   const smartSelect = useCallback(
     async (pxImg: number, pyImg: number, add: boolean): Promise<boolean> => {
       if (segmentUnavailable.current || !image) return false;
@@ -506,7 +506,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
     setRendering(true); setError(null);
     const url = await renderColor(color, key).catch(() => null);
     setRendering(false);
-    if (!url) setError("Rendering hit a snag — try again or pick another color.");
+    if (!url) setError("Rendering hit a snag - try again or pick another color.");
     else {
       track("color_rendered", { color: key });
       (async () => {
@@ -536,7 +536,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
       const data = await res.json();
       setTimeout(() => setEstimate({ low: data.low, high: data.high }), 2600);
     } catch {
-      setTimeout(() => setError("Couldn't compute your estimate — please try again."), 2600);
+      setTimeout(() => setError("Couldn't compute your estimate - please try again."), 2600);
     }
   };
 
@@ -596,7 +596,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
         body: JSON.stringify({ journeyId, ...lead, address: booking.address, preferredDay: booking.day, preferredTimeWindow: booking.window, sqFt, colorName: `${activeColor.code} ${activeColor.name}`, priceLow: estimate?.low, priceHigh: estimate?.high }),
       });
       track("booking_requested"); go("booked");
-    } catch { setError("Something went wrong — please try again."); }
+    } catch { setError("Something went wrong - please try again."); }
     finally { setBusy(false); }
   };
 
@@ -620,12 +620,12 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
               {step === "capture" && (
                 <div className="max-w-lg mx-auto px-6 py-10 text-center">
                   <h2 className="text-2xl font-bold text-neutral-900">Show us your pool deck</h2>
-                  <p className="mt-2 text-neutral-600">Take one photo that captures as much of your deck as possible. Cracks, stains, ugly spots — leave them in. That's what we fix.</p>
+                  <p className="mt-2 text-neutral-600">Take one photo that captures as much of your deck as possible. Cracks, stains, ugly spots - leave them in. That's what we fix.</p>
                   <label className="mt-8 block cursor-pointer rounded-2xl border-2 border-dashed border-[#A64A2E]/50 bg-[#A64A2E]/5 px-6 py-14 hover:bg-[#A64A2E]/10 transition">
                     <input type="file" accept="image/*" capture="environment" className="sr-only" onChange={(e) => onFile(e.target.files?.[0] ?? null)} />
                     <div className="text-4xl">📸</div>
                     <div className="mt-3 font-semibold text-[#A64A2E]">Take a photo or upload one</div>
-                    <div className="mt-1 text-sm text-neutral-500">JPG, PNG, HEIC — wider is better</div>
+                    <div className="mt-1 text-sm text-neutral-500">JPG, PNG, HEIC - wider is better</div>
                   </label>
                   {busy && <p className="mt-4 text-sm text-neutral-500">Preparing your photo…</p>}
                 </div>
@@ -634,7 +634,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
               {(step === "measure" || step === "refine") && image && (
                 <div className="max-w-3xl mx-auto px-4 py-6">
                   <h2 className="text-xl font-bold text-neutral-900">{step === "measure" ? "Measuring your deck…" : "Fine-tune the corked area"}</h2>
-                  {step === "measure" && <p className="mt-1 text-sm text-neutral-600">AI is identifying your deck surface — pool water and landscaping are automatically excluded.</p>}
+                  {step === "measure" && <p className="mt-1 text-sm text-neutral-600">AI is identifying your deck surface - pool water and landscaping are automatically excluded.</p>}
                   {step === "refine" && (
                     <p className="mt-1 text-sm text-neutral-600">
                       <span className="font-medium">Magic wand:</span> tap any part of the deck to select it precisely. <span className="font-medium">Remove</span> mode to cut areas out. <span className="font-medium">Brush</span> for fine touch-ups. Square footage updates live.
@@ -688,7 +688,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                       <div className="ml-auto flex gap-2 items-center">
                         <button onClick={resetToCapture} className="text-sm text-neutral-500 underline mr-1">Different photo</button>
                         {step === "measure" && <button onClick={() => go("refine")} className="rounded-lg border border-neutral-300 px-4 py-2 text-sm font-medium hover:bg-neutral-50">Fine-tune the area</button>}
-                        <button onClick={() => go("render")} className="rounded-lg bg-[#A64A2E] text-white px-5 py-2 text-sm font-semibold hover:bg-[#8f3f27]">{step === "measure" ? "Looks right — choose colors" : "Done — choose colors"}</button>
+                        <button onClick={() => go("render")} className="rounded-lg bg-[#A64A2E] text-white px-5 py-2 text-sm font-semibold hover:bg-[#8f3f27]">{step === "measure" ? "Looks right - choose colors" : "Done - choose colors"}</button>
                       </div>
                     </div>
                   )}
@@ -705,7 +705,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
               {step === "render" && image && (
                 <div className="max-w-3xl mx-auto px-4 py-6">
                   <h2 className="text-xl font-bold text-neutral-900">Choose your cork color</h2>
-                  <p className="mt-1 text-sm text-neutral-600">{colorChosen ? "Every render shows your actual deck — resurfaced, cracks gone." : "Tap a color below to see your deck resurfaced. Until then, this is your original photo."}</p>
+                  <p className="mt-1 text-sm text-neutral-600">{colorChosen ? "Every render shows your actual deck - resurfaced, cracks gone." : "Tap a color below to see your deck resurfaced. Until then, this is your original photo."}</p>
                   <div className="relative mt-4 rounded-xl overflow-hidden bg-neutral-100" style={{ aspectRatio: `${image.width}/${image.height}` }}>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img src={renders[colorKey] ?? image.dataUrl} alt={`Your deck in ${activeColor.name}`} className="absolute inset-0 w-full h-full object-contain" />
@@ -713,7 +713,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                       <div className="absolute inset-0 bg-white/75 flex flex-col items-center justify-center">
                         <motion.div animate={{ rotate: 360 }} transition={{ repeat: Infinity, duration: 1.2, ease: "linear" }} className="w-10 h-10 rounded-full border-4 border-neutral-200 border-t-[#A64A2E]" />
                         <p className="mt-3 text-sm font-medium text-neutral-700">Corking your deck in {activeColor.name}…</p>
-                        <p className="text-xs text-neutral-500">First color takes a few seconds — the rest will be instant</p>
+                        <p className="text-xs text-neutral-500">First color takes a few seconds - the rest will be instant</p>
                       </div>
                     )}
                   </div>
@@ -782,7 +782,7 @@ export default function CorkVisualizer({ open, onClose, startAtBooking }: { open
                           <img src={renders[colorKey] ?? image.dataUrl} alt="Your corked deck" className="w-full h-full object-contain" />
                         </div>
                       )}
-                      <p className="mt-6 text-neutral-700">A photo estimate is a range. A free 20-minute deck inspection makes it an exact number — and locks in current pricing.</p>
+                      <p className="mt-6 text-neutral-700">A photo estimate is a range. A free 20-minute deck inspection makes it an exact number - and locks in current pricing.</p>
                       <button onClick={() => { track("proceed_to_booking"); go("book"); }} className="mt-4 rounded-lg bg-[#A64A2E] text-white px-8 py-4 text-lg font-semibold hover:bg-[#8f3f27]">Request a Free Deck Inspection &amp; Exact Estimate</button>
                     </>
                   )}

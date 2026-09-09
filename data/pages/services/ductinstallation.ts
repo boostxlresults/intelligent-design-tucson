@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const ductinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Duct Installation Tucson AZ | New Ductwork Installation | Intelligent Design',
-  description: 'Professional duct installation in Tucson, AZ. New construction, duct replacement, system upgrades. Proper sizing & design for maximum efficiency. Call (520) 333-2665',
+  description: 'Professional duct installation in Tucson, AZ. New construction, duct replacement, system upgrades. Proper sizing & design for maximum efficiency.',
   slug: 'duct-installation-tucson',
   
   // Hero Section
@@ -52,7 +52,7 @@ export const ductinstallationData: ServicePageData = {
   featuredVideo: {
     videoId: "kbjv4jzvVy4",
     title: "Tucson Commercial Duct Installation | Intelligent Design",
-    description: "See how Intelligent Design handles professional duct installation in Tucson — from design through completion for both residential and commercial properties.",
+    description: "See how Intelligent Design handles professional duct installation in Tucson - from design through completion for both residential and commercial properties.",
     duration: "PT5M",
     uploadDate: "2024-01-01T00:00:00Z"
   },
@@ -77,11 +77,11 @@ export const ductinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 8,400 duct installation projects since 2005, from compact 1,200-square-foot starter homes to expansive 5,000+ square-foot luxury estates in the Catalina Foothills. Our commitment to proper design, quality materials, and meticulous installation has made us the preferred ductwork contractor for Tucson's leading home builders, architects, and homeowners who demand the best. When you're investing in new ductwork, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated HVAC company in Southern Arizona. We've completed over 8,400 duct installation projects since 2005, from compact 1,200-square-foot starter homes to expansive 5,000+ square-foot luxury estates in the Catalina Foothills. Our commitment to proper design, quality materials, and meticulous installation has made us the preferred ductwork contractor for Tucson's leading home builders, architects, and homeowners who demand the best. When you're investing in new ductwork, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
       },
       {
             "type": "paragraph",
-            "content": "Elite Installation Expertise & Multi-Trade Advantage: Our 68 NATE-certified technicians average 17+ years of hands-on HVAC experience and complete 120+ hours of annual training on the latest duct design methodologies, sealing technologies, and energy-efficiency best practices. Every installation includes precise Manual D duct calculations to ensure your new ductwork is sized exactly right for optimal airflow, minimal resistance, and balanced room-by-room comfort—not oversized (creating noise and poor dehumidification) or undersized (restricting airflow and overworking equipment). Our unique advantage: as a full-service HVAC, [link:/services/plumbing-tucson|plumbing], electrical, and solar company, we can handle the complete picture—structural framing modifications, electrical wiring for zone dampers, smart thermostat integration, whole-home [link:/services/duct-sealing-tucson|duct sealing] after installation, and coordination with your [link:/services/ac-installation-tucson|AC installation] or [link:/services/heater-installation-tucson|heating system upgrade] for seamless, code-compliant results."
+            "content": "Elite Installation Expertise & Multi-Trade Advantage: Our 68 NATE-certified technicians average 17+ years of hands-on HVAC experience and complete 120+ hours of annual training on the latest duct design methodologies, sealing technologies, and energy-efficiency best practices. Every installation includes precise Manual D duct calculations to ensure your new ductwork is sized exactly right for optimal airflow, minimal resistance, and balanced room-by-room comfort-not oversized (creating noise and poor dehumidification) or undersized (restricting airflow and overworking equipment). Our unique advantage: as a full-service HVAC, [link:/services/plumbing-tucson|plumbing], electrical, and solar company, we can handle the complete picture-structural framing modifications, electrical wiring for zone dampers, smart thermostat integration, whole-home [link:/services/duct-sealing-tucson|duct sealing] after installation, and coordination with your [link:/services/ac-installation-tucson|AC installation] or [link:/services/heater-installation-tucson|heating system upgrade] for seamless, code-compliant results."
       },
       {
             "type": "cta",
@@ -98,11 +98,11 @@ export const ductinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "In Tucson, where summer temperatures regularly exceed 110°F and your air conditioner works harder than almost anywhere else in the country, proper duct design isn't just important—it's essential for system survival and efficiency. Poorly designed or installed ductwork can waste 20-40% of your conditioned air before it ever reaches your living spaces, forcing your HVAC system to work overtime and driving up energy costs by $50-80 per month during peak cooling season. Even worse, inadequate ductwork creates hot and cold spots, humidity problems, and premature equipment failure from excessive runtime and strain."
+            "content": "In Tucson, where summer temperatures regularly exceed 110°F and your air conditioner works harder than almost anywhere else in the country, proper duct design isn't just important-it's essential for system survival and efficiency. Poorly designed or installed ductwork can waste 20-40% of your conditioned air before it ever reaches your living spaces, forcing your HVAC system to work overtime and driving up energy costs by $50-80 per month during peak cooling season. Even worse, inadequate ductwork creates hot and cold spots, humidity problems, and premature equipment failure from excessive runtime and strain."
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Unique Ductwork Challenges: Our extreme desert climate creates specific duct installation requirements that contractors from cooler regions often don't understand. Attic temperatures in Tucson routinely reach 150-160°F during summer afternoons—hot enough to cook food. Ductwork running through these super-heated spaces loses 25-35% of its cooling capacity through the duct walls unless properly insulated with R-6 or R-8 materials. Thermal expansion and contraction cycles cause metal ducts to expand and contract by 1-2 inches daily, stressing connections and creating air leaks over time unless properly designed with expansion joints and flexible connections. The intense UV radiation in Tucson degrades exposed ductwork insulation vapor barriers, requiring UV-resistant materials for any outdoor or semi-exposed installations."
+            "content": "Tucson's Unique Ductwork Challenges: Our extreme desert climate creates specific duct installation requirements that contractors from cooler regions often don't understand. Attic temperatures in Tucson routinely reach 150-160°F during summer afternoons-hot enough to cook food. Ductwork running through these super-heated spaces loses 25-35% of its cooling capacity through the duct walls unless properly insulated with R-6 or R-8 materials. Thermal expansion and contraction cycles cause metal ducts to expand and contract by 1-2 inches daily, stressing connections and creating air leaks over time unless properly designed with expansion joints and flexible connections. The intense UV radiation in Tucson degrades exposed ductwork insulation vapor barriers, requiring UV-resistant materials for any outdoor or semi-exposed installations."
       },
       {
             "type": "paragraph",

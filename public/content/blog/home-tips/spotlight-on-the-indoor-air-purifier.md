@@ -18,7 +18,7 @@ canonicalUrl: 'https://www.idesignac.com/blog/home-tips/spotlight-on-the-indoor-
 
 ### Intelligent Design IAQ
 
-More than 150 years ago, Florence Nightingale—a pioneering founder of modern nursing—believed that it was essential to design buildings in a way that allowed sunlight to filter inside. Her reasoning was that sunlight helps kill germs and improves the health of the occupants. Recently, her theory was proven correct. Sunlight does indeed kill germs, including viruses and bacteria. Unfortunately, the effects of sunlight inside buildings are also unreliable, as windows tend to filter out ultraviolet (UV) rays. The solution is the indoor air purifier, available for installation from Intelligent Design of Tucson.
+More than 150 years ago, Florence Nightingale-a pioneering founder of modern nursing-believed that it was essential to design buildings in a way that allowed sunlight to filter inside. Her reasoning was that sunlight helps kill germs and improves the health of the occupants. Recently, her theory was proven correct. Sunlight does indeed kill germs, including viruses and bacteria. Unfortunately, the effects of sunlight inside buildings are also unreliable, as windows tend to filter out ultraviolet (UV) rays. The solution is the indoor air purifier, available for installation from Intelligent Design of Tucson.
 
 [Improve Your Home’s Air Quality Now](/contact)
 

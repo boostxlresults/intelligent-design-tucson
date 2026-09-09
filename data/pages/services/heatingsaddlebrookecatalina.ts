@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const heatingsaddlebrookecatalinaData: ServicePageData = {
   // SEO & Meta
   title: "SaddleBrooke & Catalina Heating Services | Intelligent Design",
-  description: "Heating services in SaddleBrooke & Catalina (85739, 85738). Expert heat pump and dual-fuel work — call for local pricing and same-day service.",
+  description: "Heating services in SaddleBrooke & Catalina (85739, 85738). Expert heat pump and dual-fuel work - call for local pricing and same-day service.",
   slug: "heating-saddle-brooke-catalina",
   
   // Hero Section

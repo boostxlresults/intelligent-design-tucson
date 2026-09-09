@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingmaranaData: ServicePageData = {
   title: "Expert Plumbing Services in Marana, AZ | Intelligent Design",
-  description: "Top-rated plumbing services in Marana, AZ. From water heaters to leak repair, our local experts serve Dove Mountain, Gladden Farms, and all 85653 & 85658 areas. Call (520) 333-2665.",
+  description: "Top-rated plumbing services in Marana, AZ. From water heaters to leak repair, our local experts serve Dove Mountain, Gladden Farms.",
   slug: "plumbing-marana",
   h1: "Professional Plumbing Services in Marana, AZ",
   h2Subheading: "Reliable Solutions for Marana's Hard Water and Rapidly Growing Neighborhoods",
@@ -28,7 +28,7 @@ highlights: [
       { type: "cta", heading: "Need a Plumber in Marana?", content: "Don't let hard water or leaks damage your home. Contact Intelligent Design today for fast, reliable service.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
       { type: "heading", heading: "Comprehensive Plumbing Solutions for Your Marana Home", level: 2, content: "same" },
       { type: "paragraph", content: "Our comprehensive plumbing services cover everything from routine maintenance to emergency repairs. We specialize in leak repair, water heater installation and service, whole-home repiping, and advanced water filtration systems. Recognizing the high demand for modern amenities in Marana's master-planned communities, we are experts in upgrading standard systems to high-efficiency models, ensuring your home operates smoothly and efficiently. We use only the highest quality materials and back our work with industry-leading warranties." },
-      { type: "paragraph", content: "Intelligent Design has been a proud part of the greater Tucson and Marana community for over 46 years. With a 4.97-star rating across more than 3,600 reviews, our commitment to excellence is unmatched. We are dedicated to providing the residents of Marana—from the Tortolita Mountains down to Twin Peaks—with honest, transparent pricing and exceptional customer service. When you choose us, you're choosing a local partner invested in the comfort and safety of your home." },
+      { type: "paragraph", content: "Intelligent Design has been a proud part of the greater Tucson and Marana community for over 46 years. With a 4.97-star rating across more than 3,600 reviews, our commitment to excellence is unmatched. We are dedicated to providing the residents of Marana-from the Tortolita Mountains down to Twin Peaks-with honest, transparent pricing and exceptional customer service. When you choose us, you're choosing a local partner invested in the comfort and safety of your home." },
       { type: "cta", heading: "Ready to Upgrade Your Plumbing?", content: "Schedule your service with Marana's top-rated plumbing experts today.", buttonText: "Schedule Service", buttonLink: "/contact" }
     ]
   },

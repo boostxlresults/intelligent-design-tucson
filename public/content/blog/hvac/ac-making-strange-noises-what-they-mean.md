@@ -17,7 +17,7 @@ featured: false
 canonicalUrl: https://www.idesignac.com/blog/hvac/ac-making-strange-noises-what-they-mean
 ---
 
-Is your AC making noise? If you’re hearing strange sounds coming from your air conditioner, you’re not alone—and you’re asking the right question. Understanding why your AC is making noise is crucial, especially here in Tucson and surrounding areas where the spring winds kick up dust and prepare us for the harsh summer heat. Early spring is the perfect time to address these issues with an AC tune-up, ensuring your system runs smoothly and efficiently all season long.
+Is your AC making noise? If you’re hearing strange sounds coming from your air conditioner, you’re not alone-and you’re asking the right question. Understanding why your AC is making noise is crucial, especially here in Tucson and surrounding areas where the spring winds kick up dust and prepare us for the harsh summer heat. Early spring is the perfect time to address these issues with an AC tune-up, ensuring your system runs smoothly and efficiently all season long.
 
 At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, a veteran- and family-owned company serving Tucson, Marana, Oro Valley, Vail, Sahuarita, Green Valley, and Catalina Foothills since 2011, we’ve helped thousands of homeowners diagnose and fix noisy AC units. With over 23,000 five-star reviews, our expert technicians understand exactly what each sound means and the best solutions to keep your system humming quietly and effectively.
 
@@ -33,7 +33,7 @@ Before diving into specific sounds, it’s important to understand that **air co
 - Refrigerant leaks
 - Worn-out components
 
-Ignoring these noises can lead to reduced efficiency, higher energy bills, and unexpected breakdowns—especially problematic during Tucson’s scorching summers.
+Ignoring these noises can lead to reduced efficiency, higher energy bills, and unexpected breakdowns-especially problematic during Tucson’s scorching summers.
 
 ## Common AC Noises and What They Mean
 

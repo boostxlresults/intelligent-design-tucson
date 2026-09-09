@@ -12,7 +12,7 @@ export const drainsewerrillitoData: ServicePageData = {
   // Hero Section
   h1: "Rillito Drain & Sewer Services - Local Septic & Pipe Repair",
   h2Subheading: "Experienced drain & sewer solutions for Rillito homes, manufactured houses, and agricultural properties",
-  tagline: "Serving Rillito with 46+ years of expertise — 4.97★ from 3,600+ reviews; fast local response in 85654",
+  tagline: "Serving Rillito with 46+ years of expertise - 4.97★ from 3,600+ reviews; fast local response in 85654",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer services in Rillito, Arizona",
   

@@ -5,14 +5,14 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingcortaroData: ServicePageData = {
   // SEO & Meta
-  title: "Cortaro Plumbing Services — Local Repairs & Upgrades",
+  title: "Cortaro Plumbing Services - Local Repairs & Upgrades",
   description: "Trusted Cortaro plumbing experts for slab leaks, hard-water solutions, and fixture replacement in 85652 & 85742. Call Intelligent Design today.",
   slug: "plumbing-cortaro",
   
   // Hero Section
   h1: "Cortaro Plumbing Services - Repairs, Replacements & Hard-Water Care",
   h2Subheading: "Local plumbers who know Cortaro tile roofs, Continental Ranch homes, and Marana water hardness",
-  tagline: "46+ years, 4.97★ (3,600+ reviews) — Serving Cortaro (85652, 85742) with local expertise",
+  tagline: "46+ years, 4.97★ (3,600+ reviews) - Serving Cortaro (85652, 85742) with local expertise",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Cortaro, Arizona",
   

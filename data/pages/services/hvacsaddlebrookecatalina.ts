@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvacsaddlebrookecatalinaData: ServicePageData = {
   title: "SaddleBrooke & Catalina HVAC Repair & Replacement",
-  description: "Trusted HVAC services in SaddleBrooke & Catalina — AC repair, heating, ductwork, and maintenance. 46+ years, 4.97★. Call (520) 333-2665 to schedule today.",
+  description: "Trusted HVAC services in SaddleBrooke & Catalina - AC repair, heating, ductwork, and maintenance. 46+ years, 4.97★. Call (520) 333-2665 to schedule today.",
   slug: "hvac-saddle-brooke-catalina",
   h1: "SaddleBrooke & Catalina HVAC Services by Intelligent Design",
   h2Subheading: "Climate-smart heating and cooling for mountain-adjacent homes",

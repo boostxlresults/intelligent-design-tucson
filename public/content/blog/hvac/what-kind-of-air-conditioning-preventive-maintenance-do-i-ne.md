@@ -22,7 +22,7 @@ canonicalUrl: >-
 
 # What Kind of Air Conditioning Preventive Maintenance Do I Need?
 
-Air conditioning preventive maintenance is critically important for keeping the AC in proper working order. If you take good care of your air conditioner, it will take good care of you during the hot summer months in Arizona. However, it can be difficult for homeowners to stay on top of all the maintenance tasks required for central ACs. At Intelligent Design, we make it easy and convenient to schedule preventive maintenance with our Family Protection Plans. Our certified HVAC technicians can take care of the heavy lifting for you—all you have to do is pick up the phone and get in touch!
+Air conditioning preventive maintenance is critically important for keeping the AC in proper working order. If you take good care of your air conditioner, it will take good care of you during the hot summer months in Arizona. However, it can be difficult for homeowners to stay on top of all the maintenance tasks required for central ACs. At Intelligent Design, we make it easy and convenient to schedule preventive maintenance with our Family Protection Plans. Our certified HVAC technicians can take care of the heavy lifting for you-all you have to do is pick up the phone and get in touch!
 
 ### Air Conditioning Preventive Maintenance: Importance of Service Visits
 

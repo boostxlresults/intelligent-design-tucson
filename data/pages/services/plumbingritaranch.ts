@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingritaranchData: ServicePageData = {
   title: "Expert Plumbing Services in Rita Ranch, AZ | Intelligent Design",
-  description: "Top-rated plumbing services in Rita Ranch, AZ. From water heater repair to repiping, our local experts handle hard water issues and 1990s-era fixtures. Call (520) 333-2665.",
+  description: "Top-rated plumbing services in Rita Ranch, AZ. From water heater repair to repiping, our local experts handle hard water issues and 1990s-era fixtures.",
   slug: "plumbing-rita-ranch",
   h1: "Professional Plumbing Services in Rita Ranch",
   h2Subheading: "Reliable Solutions for Rita Ranch's Unique Plumbing Needs",

@@ -54,7 +54,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
   featuredVideo: {
     videoId: "12vpdErE2EY",
     title: "Lennox Ductless Mini Split Installation in Tucson",
-    description: "Watch Intelligent Design install a Lennox ductless mini split system in a Tucson home — ideal for room additions, garages, and homes without ductwork.",
+    description: "Watch Intelligent Design install a Lennox ductless mini split system in a Tucson home - ideal for room additions, garages, and homes without ductwork.",
     duration: "PT5M",
     uploadDate: "2024-01-01T00:00:00Z"
   },
@@ -71,7 +71,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When Tucson temperatures soar past 110°F and your home doesn't have ductwork—or your existing ducts are leaking 30% of your cooling energy—ductless mini split systems provide the perfect solution for efficient, flexible climate control. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in expert ductless mini split installation that delivers superior comfort, dramatic energy savings, and whisper-quiet operation throughout your Tucson home. Whether you're adding cooling to a room addition, replacing inefficient window units, or installing whole-home comfort in a house without ducts, our certified installation teams ensure your system performs flawlessly from day one."
+            "content": "When Tucson temperatures soar past 110°F and your home doesn't have ductwork-or your existing ducts are leaking 30% of your cooling energy-ductless mini split systems provide the perfect solution for efficient, flexible climate control. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we specialize in expert ductless mini split installation that delivers superior comfort, dramatic energy savings, and whisper-quiet operation throughout your Tucson home. Whether you're adding cooling to a room addition, replacing inefficient window units, or installing whole-home comfort in a house without ducts, our certified installation teams ensure your system performs flawlessly from day one."
       },
       {
             "type": "paragraph",
@@ -79,11 +79,11 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated HVAC company in Southern Arizona. We've completed over 6,200 ductless mini split installations since 2015, making us the most experienced ductless installer in Pima County. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us a Mitsubishi Diamond Contractor—the highest certification level recognizing installation excellence and customer service. When you're investing in a ductless system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated HVAC company in Southern Arizona. We've completed over 6,200 ductless mini split installations since 2015, making us the most experienced ductless installer in Pima County. Our commitment to honest recommendations, quality workmanship, and customer satisfaction has made us a Mitsubishi Diamond Contractor-the highest certification level recognizing installation excellence and customer service. When you're investing in a ductless system, you're choosing the company your neighbors trust with their [link:/customer-reviews|verified 5-star service]."
       },
       {
             "type": "paragraph",
-            "content": "Elite Installation Expertise & Technology Leadership: Our 68 NATE-certified technicians average 17+ years of hands-on HVAC experience and complete 120+ hours of annual manufacturer training on the latest ductless technologies including inverter-driven compressors, multi-zone systems, hyper-heat cold-climate models, and smart home integration. Every installation includes precise BTU load calculations to ensure your ductless system is sized exactly right for Tucson's extreme 110°F+ summer heat—not oversized (wasting energy) or undersized (failing to maintain comfort). We're factory-authorized dealers for Mitsubishi Electric, Daikin, Fujitsu, LG, and 8+ other premium brands. Our unique advantage: as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], electrical, and solar company, we can handle the complete picture—electrical circuit upgrades for multi-zone systems, smart thermostat integration, whole-home humidity control, and solar panel coordination for near-zero operating costs."
+            "content": "Elite Installation Expertise & Technology Leadership: Our 68 NATE-certified technicians average 17+ years of hands-on HVAC experience and complete 120+ hours of annual manufacturer training on the latest ductless technologies including inverter-driven compressors, multi-zone systems, hyper-heat cold-climate models, and smart home integration. Every installation includes precise BTU load calculations to ensure your ductless system is sized exactly right for Tucson's extreme 110°F+ summer heat-not oversized (wasting energy) or undersized (failing to maintain comfort). We're factory-authorized dealers for Mitsubishi Electric, Daikin, Fujitsu, LG, and 8+ other premium brands. Our unique advantage: as a full-service [link:/services/hvac-tucson|HVAC], [link:/services/plumbing-tucson|plumbing], electrical, and solar company, we can handle the complete picture-electrical circuit upgrades for multi-zone systems, smart thermostat integration, whole-home humidity control, and solar panel coordination for near-zero operating costs."
       },
       {
             "type": "cta",
@@ -106,7 +106,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Ductless mini split systems are the most energy-efficient cooling option available for Tucson homes. Modern systems achieve SEER ratings of 18-30+, compared to 13-16 SEER for conventional central AC. This translates to 30-50% lower cooling costs—a significant savings when your AC runs 8+ months per year in Arizona's climate."
+            "content": "Ductless mini split systems are the most energy-efficient cooling option available for Tucson homes. Modern systems achieve SEER ratings of 18-30+, compared to 13-16 SEER for conventional central AC. This translates to 30-50% lower cooling costs-a significant savings when your AC runs 8+ months per year in Arizona's climate."
       },
       {
             "type": "paragraph",

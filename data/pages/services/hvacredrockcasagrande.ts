@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const hvacredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Red Rock & Casa Grande HVAC Experts | Intelligent Design",
-  description: "Trusted HVAC service in Red Rock & Casa Grande (85145, 85122, 85193). 46+ yrs experience—call for efficient cooling built for extreme heat.",
+  description: "Trusted HVAC service in Red Rock & Casa Grande (85145, 85122, 85193). 46+ yrs experience-call for efficient cooling built for extreme heat.",
   slug: "hvac-red-rock-casa-grande",
   
   // Hero Section

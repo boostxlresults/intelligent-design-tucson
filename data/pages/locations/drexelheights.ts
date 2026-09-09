@@ -109,7 +109,7 @@ export const drexelheightsData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not just contractors—we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
+            "content": "We're not just contractors-we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
       },
       {
             "type": "heading",

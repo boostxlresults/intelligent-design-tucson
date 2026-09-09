@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingsaddlebrookeData: ServicePageData = {
   title: "SaddleBrooke Roofing Experts | Intelligent Design",
-  description: "Premium roof repair, replacement, tile, shingle, flat and coatings in SaddleBrooke. Trusted 46+ years—call Intelligent Design at (520) 333-2665 for a free inspection.",
+  description: "Premium roof repair, replacement, tile, shingle, flat and coatings in SaddleBrooke. Trusted 46+ years-call Intelligent Design at for a free inspection.",
   slug: "roofing-saddle-brooke",
   h1: "SaddleBrooke Roof Repair & Replacement",
   h2Subheading: "Premium tile, shingle, flat roofing and coatings for SaddleBrooke luxury homes",

@@ -35,7 +35,7 @@ video:
 
 # What to Do If Your Solar Company Closed in Tucson - Complete Recovery Guide
 
-Over the last two years, dozens of solar companies across Arizona have shut their doors — including some of the largest names in the industry. Unfortunately, this has left many **Tucson** homeowners stranded with malfunctioning solar systems, unanswered warranty claims, and no clear path forward. 
+Over the last two years, dozens of solar companies across Arizona have shut their doors - including some of the largest names in the industry. Unfortunately, this has left many **Tucson** homeowners stranded with malfunctioning solar systems, unanswered warranty claims, and no clear path forward. 
 
 If you've found yourself in this situation, you're not alone (<a href="https://www.solarinsure.com/the-complete-list-of-solar-bankruptcies-and-business-closures" target="_blank" rel="noopener noreferrer">See the Solar Company Closure List</a>). This guide will walk you through the exact steps to protect your investment, restore your solar system's performance, and ensure you have ongoing, reliable support from a trusted **solar company in Tucson**.
 
@@ -47,7 +47,7 @@ If you've found yourself in this situation, you're not alone (<a href="https://w
 
 The solar industry has experienced significant consolidation and disruption. Many companies expanded too quickly, took on unsustainable debt, or struggled with supply chain issues and changing regulations. Whatever the reason, homeowners are left dealing with the aftermath.
 
-At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped hundreds of homeowners recover from abandoned solar projects. As one of the only **triple-certified solar companies in Tucson**—certified for **SolarEdge**, **Enphase**, and **Tesla**—we have the experience, resources, and community trust to keep your system running at peak performance for years to come.
+At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've helped hundreds of homeowners recover from abandoned solar projects. As one of the only **triple-certified solar companies in Tucson**-certified for **SolarEdge**, **Enphase**, and **Tesla**-we have the experience, resources, and community trust to keep your system running at peak performance for years to come.
 
 ## The Top Steps to Take if Your Solar Installer Went Out of Business
 
@@ -67,7 +67,7 @@ When your original installer is no longer in business, it can feel overwhelming.
 
 ### 2. Check Your Manufacturer Warranties
 
-**The Problem:** Many homeowners assume that when their installer disappears, all warranties disappear too. This is rarely the case—most reputable solar equipment brands honor their own manufacturer warranties regardless of who installed the system.
+**The Problem:** Many homeowners assume that when their installer disappears, all warranties disappear too. This is rarely the case-most reputable solar equipment brands honor their own manufacturer warranties regardless of who installed the system.
 
 **The Solution:** Contact your panel and inverter manufacturers directly to confirm:
 - Warranty start and end dates
@@ -95,7 +95,7 @@ When your original installer is no longer in business, it can feel overwhelming.
 
 ### 4. Get Ongoing Monitoring and Maintenance
 
-**The Problem:** A solar system without monitoring is like driving without a dashboard—you won't know there's a problem until it's too late.
+**The Problem:** A solar system without monitoring is like driving without a dashboard-you won't know there's a problem until it's too late.
 
 **The Solution:** Enroll in our **Solar Energy Monitoring & Maintenance Plan** for just $14.88/month. This includes:
 
@@ -108,7 +108,7 @@ When your original installer is no longer in business, it can feel overwhelming.
 
 ## When to Call the Solar Experts in Tucson
 
-Some solar issues—like cleaning panels—can be handled by homeowners. But when it comes to electrical components, inverter troubleshooting, warranty claims, or production loss, you need a certified, experienced solar company.
+Some solar issues-like cleaning panels-can be handled by homeowners. But when it comes to electrical components, inverter troubleshooting, warranty claims, or production loss, you need a certified, experienced solar company.
 
 **Call a professional if you notice:**
 
@@ -120,7 +120,7 @@ Some solar issues—like cleaning panels—can be handled by homeowners. But whe
 - Unusual sounds from inverters or electrical components
 - Production significantly lower than estimates
 
-At Intelligent Design, we handle everything from urgent solar repairs to long-term system optimization, ensuring Tucson homeowners have the support they deserve—especially when other companies have walked away.
+At Intelligent Design, we handle everything from urgent solar repairs to long-term system optimization, ensuring Tucson homeowners have the support they deserve-especially when other companies have walked away.
 
 ## Proactive Steps: Protect Your Solar Investment
 

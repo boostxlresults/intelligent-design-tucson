@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const commercialsolarinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Commercial Solar Installation Tucson AZ | Business Solar Panel Systems',
-  description: 'Professional commercial solar installation in Tucson. Reduce operating costs, maximize tax incentives, and achieve energy independence for your business. 46+ years experience. Call (520) 333-2665.',
+  description: 'Professional commercial solar installation in Tucson. Reduce operating costs, maximize tax incentives, and achieve energy independence for your business.',
   slug: 'commercial-solar-installation',
   
   // Hero Section
@@ -66,11 +66,11 @@ export const commercialsolarinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson businesses face rising electricity costs that directly impact profitability and competitiveness. Commercial solar installation provides immediate operating cost reduction, protection from future utility rate increases, and demonstrates environmental leadership that attracts eco-conscious customers and employees. With Tucson's abundant sunshine—averaging 350+ sunny days annually—commercial solar systems produce consistent, predictable energy for decades, making Tucson one of America's most favorable markets for commercial solar ROI."
+            "content": "Tucson businesses face rising electricity costs that directly impact profitability and competitiveness. Commercial solar installation provides immediate operating cost reduction, protection from future utility rate increases, and demonstrates environmental leadership that attracts eco-conscious customers and employees. With Tucson's abundant sunshine-averaging 350+ sunny days annually-commercial solar systems produce consistent, predictable energy for decades, making Tucson one of America's most favorable markets for commercial solar ROI."
       },
       {
             "type": "paragraph",
-            "content": "Commercial electricity rates in Tucson range from $0.08-$0.15 per kWh depending on rate schedule, with demand charges adding $10-$20 per kW of peak demand monthly. Tucson Electric Power (TEP) commercial rates have increased an average of 3.5% annually over the past decade. A typical 100kW commercial solar system produces 160,000-180,000 kWh annually worth $13,000-$21,000 at current rates, with savings compounding as utility rates continue rising. Over 25 years, commercial solar installations generate $325,000-$525,000 in electricity savings—providing exceptional ROI after federal tax incentives reduce net investment by 50-70%."
+            "content": "Commercial electricity rates in Tucson range from $0.08-$0.15 per kWh depending on rate schedule, with demand charges adding $10-$20 per kW of peak demand monthly. Tucson Electric Power (TEP) commercial rates have increased an average of 3.5% annually over the past decade. A typical 100kW commercial solar system produces 160,000-180,000 kWh annually worth $13,000-$21,000 at current rates, with savings compounding as utility rates continue rising. Over 25 years, commercial solar installations generate $325,000-$525,000 in electricity savings-providing exceptional ROI after federal tax incentives reduce net investment by 50-70%."
       },
       {
             "type": "paragraph",

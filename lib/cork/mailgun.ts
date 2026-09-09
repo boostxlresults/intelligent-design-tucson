@@ -1,5 +1,5 @@
 /**
- * Mailgun sender — REST API via fetch, zero deps.
+ * Mailgun sender - REST API via fetch, zero deps.
  * Env: MAILGUN_API_KEY, MAILGUN_DOMAIN, optional MAILGUN_FROM.
  * Gracefully no-ops (with console.warn) when unconfigured so previews don't crash.
  */
@@ -66,7 +66,7 @@ export function estimateEmailHtml(opts: {
       <tr><td style="padding:8px;border:1px solid #e5e7eb">Estimated deck area</td><td style="padding:8px;border:1px solid #e5e7eb"><strong>~${sqFt.toLocaleString()} sq ft</strong></td></tr>
       <tr><td style="padding:8px;border:1px solid #e5e7eb">Estimated price range</td><td style="padding:8px;border:1px solid #e5e7eb"><strong>${fmt(low)} – ${fmt(high)}</strong></td></tr>
     </table>
-    <p>This range is based on a photo estimate. A free in-person deck inspection pins down your exact number — no surprises, no obligation.</p>
+    <p>This range is based on a photo estimate. A free in-person deck inspection pins down your exact number - no surprises, no obligation.</p>
     <p style="text-align:center;margin:28px 0">
       <a href="${siteUrl}/cool-cork-pool-decks?intent=inspection" style="background:#A64A2E;color:#ffffff;text-decoration:none;padding:14px 26px;border-radius:8px;font-weight:bold;display:inline-block">Request a Free Deck Inspection &amp; Exact Estimate</a>
     </p>

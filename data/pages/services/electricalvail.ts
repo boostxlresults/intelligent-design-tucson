@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalvailData: ServicePageData = {
   title: "Electrical Services in Vail, AZ | Intelligent Design",
-  description: "Expert electrical services in Vail, AZ. From panel upgrades to EV chargers and generators, our licensed electricians serve the 85641 area. Call (520) 333-2665.",
+  description: "Expert electrical services in Vail, AZ. From panel upgrades to EV chargers and generators, our licensed electricians serve the 85641 area.",
   slug: "electrical-vail",
   h1: "Professional Electrical Services in Vail, AZ",
   h2Subheading: "Reliable Power Solutions for Vail's Growing Community and Rural Properties",

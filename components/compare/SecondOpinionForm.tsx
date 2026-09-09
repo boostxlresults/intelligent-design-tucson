@@ -44,7 +44,7 @@ export default function SecondOpinionForm({ service, pageSlug }: { service: stri
     return (
       <div className="rounded-xl border border-green-200 bg-green-50 p-6 text-center">
         <div className="text-2xl">✅</div>
-        <p className="mt-2 font-bold text-green-800">Thanks — we&apos;ll review your quote and call you back.</p>
+        <p className="mt-2 font-bold text-green-800">Thanks - we&apos;ll review your quote and call you back.</p>
         <p className="mt-1 text-sm text-green-700">Need it now? Call <a className="font-bold underline" href="tel:5203332665">(520) 333-2665</a>.</p>
       </div>
     );
@@ -58,7 +58,7 @@ export default function SecondOpinionForm({ service, pageSlug }: { service: stri
       </div>
       <input value={form.whoQuoted} onChange={(e) => set("whoQuoted", e.target.value)} placeholder="Who gave you the quote? (company name)" className="rounded-lg border border-border px-4 py-3" />
       <textarea value={form.details} onChange={(e) => set("details", e.target.value)} placeholder="Anything we should know? (optional)" rows={3} className="rounded-lg border border-border px-4 py-3" />
-      {status === "error" && <p className="text-sm text-red-600">Something went wrong — please call (520) 333-2665.</p>}
+      {status === "error" && <p className="text-sm text-red-600">Something went wrong - please call (520) 333-2665.</p>}
       <button type="submit" disabled={status === "sending"} className="mt-1 rounded-lg bg-[#e8a020] px-6 py-3 font-bold text-[#0d2d7a] hover:bg-[#f5b731] disabled:opacity-50">
         {status === "sending" ? "Sending…" : "Get My Free Second Opinion"}
       </button>

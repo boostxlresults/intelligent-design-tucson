@@ -12,7 +12,7 @@ export const hvacgladdenfarmsData: ServicePageData = {
   // Hero Section
   h1: "Gladden Farms HVAC Repair, Maintenance & Replacement",
   h2Subheading: "HVAC solutions built for Gladden Farms’ newer two-story homes and HOA rules",
-  tagline: "Serving Gladden Farms (85653) — 46+ years, 4.97★ from 3,600+ reviews",
+  tagline: "Serving Gladden Farms (85653) - 46+ years, 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Gladden Farms, Arizona",
   

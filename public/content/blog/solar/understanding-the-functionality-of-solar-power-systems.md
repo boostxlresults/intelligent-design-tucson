@@ -65,7 +65,7 @@ These components are interconnected to form a robust system that harnesses and t
 
 ### 1\. Solar Panels
 
-Solar panels are the front-liners of any [solar power system](https://www.idesignac.com/blog/solar-power-systems-made-simple-how-solar-panels-work/). They consist of photovoltaic cells—small devices that convert sunlight into electricity.
+Solar panels are the front-liners of any [solar power system](https://www.idesignac.com/blog/solar-power-systems-made-simple-how-solar-panels-work/). They consist of photovoltaic cells-small devices that convert sunlight into electricity.
 
 These cells contain semiconductor materials, often silicon, which is doped with impurities to create a positive-negative (P-N) junction.
 

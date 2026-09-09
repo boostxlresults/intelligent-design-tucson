@@ -30,7 +30,7 @@ video:
 
 # Why You Need a Whole Home Energy Audit in Tucson
 
-Tucson's extreme desert climate puts unique demands on your home's energy systems. With summer temperatures regularly exceeding 110°F and air conditioning running 2,500-3,000 hours annually—nearly triple the national average—even small inefficiencies can waste hundreds or thousands of dollars each year. A professional home energy audit is the first step to understanding exactly where your home loses energy and money.
+Tucson's extreme desert climate puts unique demands on your home's energy systems. With summer temperatures regularly exceeding 110°F and air conditioning running 2,500-3,000 hours annually-nearly triple the national average-even small inefficiencies can waste hundreds or thousands of dollars each year. A professional home energy audit is the first step to understanding exactly where your home loses energy and money.
 
 <div class="my-8 aspect-video w-full max-w-2xl mx-auto">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/yOA5ojTJ1WI" title="Benefits of a Home Energy Audit in Tucson | Solar Energy Efficiency Audit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
@@ -38,7 +38,7 @@ Tucson's extreme desert climate puts unique demands on your home's energy system
 
 ## What Is a Home Energy Audit?
 
-A home energy audit is a comprehensive assessment of your home's energy use and efficiency. Unlike a simple walk-through inspection, a professional energy audit uses advanced diagnostic equipment to measure exactly how your home uses—and wastes—energy.
+A home energy audit is a comprehensive assessment of your home's energy use and efficiency. Unlike a simple walk-through inspection, a professional energy audit uses advanced diagnostic equipment to measure exactly how your home uses-and wastes-energy.
 
 At Intelligent Design, our certified energy auditors use:
 
@@ -61,7 +61,7 @@ Daily temperature swings of 30-40°F stress building materials and HVAC systems.
 Arizona's intense UV exposure degrades roofing materials, duct insulation, and seals faster than moderate climates. What was properly installed 10 years ago may now have significant gaps and deterioration.
 
 ### Monsoon Humidity Challenges
-Low humidity throughout most of the year causes wood framing and seals to dry out and crack. Then monsoon humidity creates condensation problems in poorly insulated homes—a recipe for mold and air quality issues.
+Low humidity throughout most of the year causes wood framing and seals to dry out and crack. Then monsoon humidity creates condensation problems in poorly insulated homes-a recipe for mold and air quality issues.
 
 ### Aging Infrastructure
 Most Tucson homes were built before modern energy codes. Typical Arizona homes waste 30-45% of their energy through preventable inefficiencies.
@@ -73,16 +73,16 @@ Our energy audits consistently uncover these common problems in Tucson homes:
 ### Duct Leakage: The #1 Problem
 We find that average Tucson homes lose **20-40% of conditioned air** through leaky ductwork before it ever reaches living spaces. With ducts often running through 145°F attics, this leakage forces your AC to work overtime while rooms stay uncomfortable.
 
-**Real Example:** A Marana family with a brand-new 18 SEER system still had two upstairs bedrooms running 7-9 degrees hotter than downstairs. Our audit revealed 42% duct leakage—the new efficient equipment was fighting against severely compromised ductwork the original installer never properly evaluated.
+**Real Example:** A Marana family with a brand-new 18 SEER system still had two upstairs bedrooms running 7-9 degrees hotter than downstairs. Our audit revealed 42% duct leakage-the new efficient equipment was fighting against severely compromised ductwork the original installer never properly evaluated.
 
 ### Inadequate Attic Insulation
-Tucson's extreme attic temperatures demand proper insulation. We recommend R-38 to R-49 in Tucson attics, but many homes have R-19 or less—essentially allowing desert heat to pour directly into your living spaces.
+Tucson's extreme attic temperatures demand proper insulation. We recommend R-38 to R-49 in Tucson attics, but many homes have R-19 or less-essentially allowing desert heat to pour directly into your living spaces.
 
 ### Air Leakage
 Gaps around windows, doors, electrical penetrations, and attic access points allow hot outside air to infiltrate constantly. Typical Tucson homes built before 2000 are 30-50% leakier than modern energy codes require.
 
 ### Aging HVAC Equipment
-Systems over 15 years old often operate at just 50-60% of their original efficiency. But our audits often show that the HVAC system isn't the primary problem—addressing duct leakage and insulation first can extend equipment life by 4-6 years.
+Systems over 15 years old often operate at just 50-60% of their original efficiency. But our audits often show that the HVAC system isn't the primary problem-addressing duct leakage and insulation first can extend equipment life by 4-6 years.
 
 ## How Much Can You Really Save?
 
@@ -107,7 +107,7 @@ Our energy audit revealed:
 - 38% duct leakage into the 145°F attic
 - 40% more air leakage than modern code standards
 
-**The solution:** $6,100 in targeted improvements—duct sealing, insulation upgrade, and air sealing—avoided the expensive AC replacement entirely.
+**The solution:** $6,100 in targeted improvements-duct sealing, insulation upgrade, and air sealing-avoided the expensive AC replacement entirely.
 
 **The result:** Summer bills dropped from $450 to $305 monthly. Annual savings of $1,450 mean the investment pays back in just 4.2 years, with continued savings for decades.
 
@@ -116,7 +116,7 @@ Our energy audit revealed:
 If you're considering solar panels for your Tucson home, an energy audit first is essential. Here's why:
 
 ### Right-Size Your Solar System
-An audit reveals your home's true energy needs—not the inflated consumption caused by inefficiencies. Fixing duct leakage and insulation problems first can reduce your required solar system size by 20-30%, saving thousands on installation costs.
+An audit reveals your home's true energy needs-not the inflated consumption caused by inefficiencies. Fixing duct leakage and insulation problems first can reduce your required solar system size by 20-30%, saving thousands on installation costs.
 
 ### Maximize Solar ROI
 Every dollar spent on efficiency improvements typically provides better ROI than an equivalent dollar spent on additional solar panels. Fix the waste first, then size solar to your optimized consumption.
@@ -145,13 +145,13 @@ A comprehensive Intelligent Design energy audit takes 3-5 hours and includes:
 
 As Tucson's highest-rated home services company with over 22,000 five-star reviews, we bring unique advantages to energy auditing:
 
-**Complete Solutions Provider:** Unlike standalone auditors who only provide reports, we can implement every recommended improvement—from duct sealing to HVAC upgrades to solar installation.
+**Complete Solutions Provider:** Unlike standalone auditors who only provide reports, we can implement every recommended improvement-from duct sealing to HVAC upgrades to solar installation.
 
 **46+ Years of Tucson Experience:** We understand the specific challenges of desert climate efficiency. Our recommendations are proven effective in Arizona conditions.
 
 **Certified Expertise:** Our energy auditors average 15+ years experience and complete 80+ hours of annual training on the latest diagnostic technologies.
 
-**Family & Veteran-Owned:** Since 1979, we've built our reputation on honest assessments and verified results—never upselling unnecessary services.
+**Family & Veteran-Owned:** Since 1979, we've built our reputation on honest assessments and verified results-never upselling unnecessary services.
 
 ## Schedule Your Home Energy Audit Today
 

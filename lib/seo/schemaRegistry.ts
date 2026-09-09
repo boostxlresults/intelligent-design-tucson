@@ -266,7 +266,7 @@ function getServicePageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 7. AggregateRating — already nested inside Multi-Category LocalBusiness schemas
+  // 7. AggregateRating - already nested inside Multi-Category LocalBusiness schemas
   // (includeRatings: true adds aggregateRating to each LocalBusiness)
   // Standalone AggregateRating with itemReviewed removed to fix GSC
   // "nested object can't contain itemReviewed" warning
@@ -378,7 +378,7 @@ function getServiceLocationPageSchemas(canonicalUrl: string, pageData: any) {
     });
   }
 
-  // 8. AggregateRating — already nested inside Multi-Category LocalBusiness schemas
+  // 8. AggregateRating - already nested inside Multi-Category LocalBusiness schemas
   // (includeRatings: true adds aggregateRating to each LocalBusiness)
   // Standalone AggregateRating with itemReviewed removed to fix GSC
   // "nested object can't contain itemReviewed" warning
@@ -419,7 +419,7 @@ function getServiceAreaPageSchemas(canonicalUrl: string, pageData: any) {
     }));
   }
 
-  // 2-3. Review Schemas (2 reviews) — nested inside LocalBusiness to avoid
+  // 2-3. Review Schemas (2 reviews) - nested inside LocalBusiness to avoid
   // Google's "itemReviewed inside nested object" warning
   const reviewSchemas = generateReviewSchemas({
     maxReviews: 2

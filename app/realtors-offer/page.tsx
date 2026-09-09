@@ -61,7 +61,7 @@ const maintenanceVideoSchema = {
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": "Why Maintenance Plans Matter",
-  "description": "How a home maintenance plan from Intelligent Design keeps a home's HVAC, plumbing, electrical, and roofing systems running right — the perfect complement to the REALTORS® closing-gift protection plan.",
+  "description": "How a home maintenance plan from Intelligent Design keeps a home's HVAC, plumbing, electrical, and roofing systems running right - the perfect complement to the REALTORS® closing-gift protection plan.",
   "thumbnailUrl": "https://img.youtube.com/vi/dGNiXDZwt_M/maxresdefault.jpg",
   "uploadDate": "2025-01-01T00:00:00Z",
   "contentUrl": "https://www.youtube.com/watch?v=dGNiXDZwt_M",
@@ -84,7 +84,7 @@ export default function RealtorsOfferPage() {
     '15% OFF All Repairs',
     'No Dispatch Fees Ever',
     'Vouchers Toward System Replacements',
-    '24/7 Emergency Service—Even on Holidays',
+    '24/7 Emergency Service-Even on Holidays',
     'Priority Front-of-the-Line Service',
     'No Extra Charges for Appointment Times',
   ];
@@ -158,7 +158,7 @@ export default function RealtorsOfferPage() {
                 FREE 2-Year Deluxe Family Protection Plan
               </p>
               <p className="text-xl text-white/90 mb-8" data-testid="text-hero-value">
-                A $1,200 Value Gift for Every Home You Sell — No Cost to You or Your Client
+                A $1,200 Value Gift for Every Home You Sell - No Cost to You or Your Client
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
@@ -197,7 +197,7 @@ export default function RealtorsOfferPage() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold mb-4">Why This Makes You Stand Out</h2>
               <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-                Give your clients more than just a house — give them peace of mind and a partner they can trust
+                Give your clients more than just a house - give them peace of mind and a partner they can trust
               </p>
             </div>
 
@@ -222,7 +222,7 @@ export default function RealtorsOfferPage() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-3 text-center">Learn More About Our REALTORS® Program</h2>
               <p className="text-lg text-muted-foreground text-center mb-6 max-w-2xl mx-auto">
-                Two minutes on how the program works — and why Tucson agents keep coming back to it.
+                Two minutes on how the program works - and why Tucson agents keep coming back to it.
               </p>
               <div className="aspect-video w-full">
                 <iframe
@@ -243,7 +243,7 @@ export default function RealtorsOfferPage() {
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-3 text-center">The Gift That Keeps On Protecting: Why Maintenance Plans Matter</h2>
               <p className="text-lg text-muted-foreground text-center mb-6 max-w-2xl mx-auto">
-                A brand-new home still has systems that need looking after. Here's how a maintenance plan keeps your client's home running right — and keeps you the agent they remember long after closing day.
+                A brand-new home still has systems that need looking after. Here's how a maintenance plan keeps your client's home running right - and keeps you the agent they remember long after closing day.
               </p>
               <div className="aspect-video w-full">
                 <iframe

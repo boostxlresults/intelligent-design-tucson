@@ -17,7 +17,7 @@ export async function GET(_req: Request, { params }: { params: Promise<{ slug: s
     [
       `# ${p.h1}`,
       `\n${p.description}`,
-      `\n**${BIZ.name}** — Tucson, AZ`,
+      `\n**${BIZ.name}** - Tucson, AZ`,
       `Phone: ${BIZ.phone} · ${BIZ.address}`,
       BIZ.trust,
       `\n${p.body}`,

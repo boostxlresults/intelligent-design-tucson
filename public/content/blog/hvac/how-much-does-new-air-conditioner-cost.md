@@ -53,7 +53,7 @@ Just like buying a car, the new air conditioner cost estimate will depend on the
 
 When you receive the estimate for your new system, the technician can break down the different costs for you. Generally, you can expect the average estimate to start around $5,000 and go up depending on the equipment and its installation. For example, if you choose a new AC unit with a high SEER rating, you can expect to pay more. Better quality equipment will always cost more than low-quality units.
 
-Another factor that influences the cost is the size of your home. Larger homes will require a central AC unit with a larger capacity. The age of your home may also play a role. If you have an older home with insufficient ductwork, you may need to have the ductwork extended or repaired—unless you decide to choose a ductless mini split system.
+Another factor that influences the cost is the size of your home. Larger homes will require a central AC unit with a larger capacity. The age of your home may also play a role. If you have an older home with insufficient ductwork, you may need to have the ductwork extended or repaired-unless you decide to choose a ductless mini split system.
 
 ### Key Cost Factors Include:
 
@@ -70,7 +70,7 @@ Even if you understand that you'll need to spend more to get a better system, yo
 
 ### Solar-Powered Air Conditioning: The Ultimate Long-Term Investment
 
-Another possibility is to talk with the technician about investing in a **solar-powered AC unit—now available from Intelligent Design in Tucson!** A solar-powered AC is exactly what it sounds like. It transforms free sunlight into the energy needed to power your air conditioner and keep your family comfortable. 
+Another possibility is to talk with the technician about investing in a **solar-powered AC unit-now available from Intelligent Design in Tucson!** A solar-powered AC is exactly what it sounds like. It transforms free sunlight into the energy needed to power your air conditioner and keep your family comfortable. 
 
 The SunTrac hybrid climate system works with any type of AC system, including mini splits, central, and multi-split systems! Although the upfront investment will be higher, you'll reap the rewards with lower utility bills for years to come.
 

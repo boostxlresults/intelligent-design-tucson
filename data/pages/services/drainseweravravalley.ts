@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const drainseweravravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Drain & Sewer Services | Intelligent Design",
-  description: "Avra Valley Drain & Sewer solutions — septic, caliche, root repair. Call our Tucson pros serving 85743 & 85653 for fast local help.",
+  description: "Avra Valley Drain & Sewer solutions - septic, caliche, root repair. Call our Tucson pros serving 85743 & 85653 for fast local help.",
   slug: "drain-sewer-avra-valley",
   
   // Hero Section

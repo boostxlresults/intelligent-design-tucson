@@ -12,7 +12,7 @@ export const roofingmaranaData: ServicePageData = {
   // Hero Section
   h1: "Marana Roofing Services - Tile, Shingle & Flat Roof Experts",
   h2Subheading: "Local roof diagnostics and repairs tailored to Marana's newer developments, monsoon winds, and elevation-driven heat",
-  tagline: "46+ years serving Marana homeowners — 4.97★ from 3,600+ reviews; practical roofing solutions for Dove Mountain to Continental Ranch",
+  tagline: "46+ years serving Marana homeowners - 4.97★ from 3,600+ reviews; practical roofing solutions for Dove Mountain to Continental Ranch",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Marana, Arizona",
   

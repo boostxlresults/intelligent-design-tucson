@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const solarinstallationmaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Solar Installation | Intelligent Design",
-  description: "Marana Solar Installation by Intelligent Design — local site reviews, pricing context for 85653/85658/85743. Schedule a Marana solar consult today.",
+  description: "Marana Solar Installation by Intelligent Design - local site reviews, pricing context for 85653/85658/85743. Schedule a Marana solar consult today.",
   slug: "solar-installation-marana",
   
   // Hero Section
   h1: "Marana Solar Installation Services",
   h2Subheading: "Solar design and installation tuned to Marana’s new neighborhoods, tile roofs, and monsoon conditions",
-  tagline: "46+ years in Tucson, 4.97★ from 3,600+ reviews — local solar for Marana homeowners",
+  tagline: "46+ years in Tucson, 4.97★ from 3,600+ reviews - local solar for Marana homeowners",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation services in Marana, Arizona",
   

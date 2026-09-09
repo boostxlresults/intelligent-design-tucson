@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const smartthermostatinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Smart Thermostat Installation Tucson AZ | WiFi Thermostat Experts | Intelligent Design',
-  description: 'Professional smart thermostat installation in Tucson. WiFi thermostats, Nest, Ecobee, Honeywell. Save 20-30% on energy bills. Expert installation, same-day service available.',
+  description: 'Professional smart thermostat installation in Tucson. WiFi thermostats, Nest, Ecobee, Honeywell. Save 20-30% on energy bills.',
   slug: 'smart-thermostat-installation-tucson',
   
   // Hero Section
@@ -52,7 +52,7 @@ export const smartthermostatinstallationData: ServicePageData = {
   featuredVideo: {
     videoId: "dm86T0EFudk",
     title: "Lennox Smart Thermostat: Explore the iComfort Wi-Fi Thermostat",
-    description: "Intelligent Design demonstrates the Lennox iComfort Wi-Fi smart thermostat — features, benefits, and why it's the best smart thermostat for Tucson homes.",
+    description: "Intelligent Design demonstrates the Lennox iComfort Wi-Fi smart thermostat - features, benefits, and why it's the best smart thermostat for Tucson homes.",
     duration: "PT5M",
     uploadDate: "2024-01-01T00:00:00Z"
   },
@@ -69,11 +69,11 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "In Tucson's extreme desert climate where temperatures regularly exceed 105°F from May through September and air conditioning runs 2,500+ hours annually—nearly triple the national average—smart thermostat installation delivers extraordinary energy savings that directly impact your monthly budget. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed over 3,200 smart thermostats throughout Tucson and surrounding communities since 2018, helping local families reduce cooling costs by an average of $247 annually while maintaining superior comfort during our punishing summers. Our comprehensive installation service goes far beyond simply mounting a WiFi thermostat on your wall—we ensure perfect HVAC system integration, complete smart home connectivity, personalized energy optimization training, and ongoing support that maximizes your investment's long-term value."
+            "content": "In Tucson's extreme desert climate where temperatures regularly exceed 105°F from May through September and air conditioning runs 2,500+ hours annually-nearly triple the national average-smart thermostat installation delivers extraordinary energy savings that directly impact your monthly budget. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed over 3,200 smart thermostats throughout Tucson and surrounding communities since 2018, helping local families reduce cooling costs by an average of $247 annually while maintaining superior comfort during our punishing summers. Our comprehensive installation service goes far beyond simply mounting a WiFi thermostat on your wall-we ensure perfect HVAC system integration, complete smart home connectivity, personalized energy optimization training, and ongoing support that maximizes your investment's long-term value."
       },
       {
             "type": "paragraph",
-            "content": "Proven Energy Savings in Tucson's Climate: Our ServiceTitan database tracking 3,200+ smart thermostat installations shows Tucson homeowners achieve verified energy savings averaging 22.3% reduction in cooling costs during June-September peak months compared to pre-installation consumption. For the average Tucson household spending $180-$280 monthly on summer air conditioning, this translates to $480-$750 annual savings—meaning most smart thermostat installations pay for themselves within 8-14 months through reduced [link:/services/ac-service-tucson|AC system] operating costs alone. These exceptional results stem from intelligent features specifically valuable in our climate: geofencing that raises temperature when everyone leaves during scorching afternoons, pre-cooling algorithms that leverage cheaper nighttime electricity rates before TEP's peak-demand periods, adaptive learning that optimizes runtime based on your home's thermal mass and insulation performance, and real-time energy monitoring that identifies wasteful HVAC operation patterns unique to desert living."
+            "content": "Proven Energy Savings in Tucson's Climate: Our ServiceTitan database tracking 3,200+ smart thermostat installations shows Tucson homeowners achieve verified energy savings averaging 22.3% reduction in cooling costs during June-September peak months compared to pre-installation consumption. For the average Tucson household spending $180-$280 monthly on summer air conditioning, this translates to $480-$750 annual savings-meaning most smart thermostat installations pay for themselves within 8-14 months through reduced [link:/services/ac-service-tucson|AC system] operating costs alone. These exceptional results stem from intelligent features specifically valuable in our climate: geofencing that raises temperature when everyone leaves during scorching afternoons, pre-cooling algorithms that leverage cheaper nighttime electricity rates before TEP's peak-demand periods, adaptive learning that optimizes runtime based on your home's thermal mass and insulation performance, and real-time energy monitoring that identifies wasteful HVAC operation patterns unique to desert living."
       },
       {
             "type": "paragraph",
@@ -98,7 +98,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's unique desert climate creates energy challenges and opportunities that make smart thermostats exceptionally valuable compared to moderate climates. Our extended April-October cooling season with 150+ days exceeding 95°F, dramatic 30-40°F day-night temperature swings, intense solar gain through west-facing windows, monsoon humidity spikes that stress AC systems, and TEP's time-of-use electricity rates all combine to create perfect conditions for smart thermostat optimization. Traditional programmable thermostats simply cannot adapt to these variables—they blindly follow fixed schedules regardless of actual weather conditions, occupancy patterns, or utility rate structures."
+            "content": "Tucson's unique desert climate creates energy challenges and opportunities that make smart thermostats exceptionally valuable compared to moderate climates. Our extended April-October cooling season with 150+ days exceeding 95°F, dramatic 30-40°F day-night temperature swings, intense solar gain through west-facing windows, monsoon humidity spikes that stress AC systems, and TEP's time-of-use electricity rates all combine to create perfect conditions for smart thermostat optimization. Traditional programmable thermostats simply cannot adapt to these variables-they blindly follow fixed schedules regardless of actual weather conditions, occupancy patterns, or utility rate structures."
       },
       {
             "type": "heading",
@@ -108,7 +108,7 @@ export const smartthermostatinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Studies by the EPA, Department of Energy, and major thermostat manufacturers consistently demonstrate 10-23% energy savings from smart thermostats in moderate climates—but our Tucson installation data shows even better results. Because [link:/services/ac-installation-tucson|air conditioning systems] in Southern Arizona operate so intensively (2,500-3,000 hours annually versus 800-1,200 hours in moderate regions), every efficiency improvement delivers magnified savings. Smart thermostats optimize HVAC runtime through multiple intelligent mechanisms: learning algorithms that detect your actual schedule and automatically adjust setpoints rather than cooling an empty house all afternoon, geofencing technology using smartphone GPS to raise temperature 5-8 degrees when everyone leaves and pre-cool before arrival, weather-based pre-cooling that takes advantage of cooler morning temperatures before scorching afternoons, humidity compensation that adjusts cooling cycles during monsoon season when moisture removal requires different HVAC operation, and adaptive recovery timing that starts cooling at precisely the right moment to reach target temperature when you wake or arrive home without excessive runtime."
+            "content": "Studies by the EPA, Department of Energy, and major thermostat manufacturers consistently demonstrate 10-23% energy savings from smart thermostats in moderate climates-but our Tucson installation data shows even better results. Because [link:/services/ac-installation-tucson|air conditioning systems] in Southern Arizona operate so intensively (2,500-3,000 hours annually versus 800-1,200 hours in moderate regions), every efficiency improvement delivers magnified savings. Smart thermostats optimize HVAC runtime through multiple intelligent mechanisms: learning algorithms that detect your actual schedule and automatically adjust setpoints rather than cooling an empty house all afternoon, geofencing technology using smartphone GPS to raise temperature 5-8 degrees when everyone leaves and pre-cool before arrival, weather-based pre-cooling that takes advantage of cooler morning temperatures before scorching afternoons, humidity compensation that adjusts cooling cycles during monsoon season when moisture removal requires different HVAC operation, and adaptive recovery timing that starts cooling at precisely the right moment to reach target temperature when you wake or arrive home without excessive runtime."
       }
     ]
   },

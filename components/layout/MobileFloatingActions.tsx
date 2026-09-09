@@ -32,7 +32,7 @@ export default function MobileFloatingActions() {
       return;
     }
 
-    // Strategy 4: Widget hasn't loaded yet — wait up to 5s then retry
+    // Strategy 4: Widget hasn't loaded yet - wait up to 5s then retry
     let attempts = 0;
     const interval = setInterval(() => {
       attempts++;

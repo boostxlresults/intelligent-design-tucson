@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingavravalleyData: ServicePageData = {
   title: "Avra Valley Roofing Services | Intelligent Design",
-  description: "Trusted Avra Valley roofing: repair, replacement, tile, shingle, flat & coatings. Intelligent Design — 46+ yrs, 4.97★. Call (520) 333-2665 for a free inspection.",
+  description: "Trusted Avra Valley roofing: repair, replacement, tile, shingle, flat & coatings. Intelligent Design - 46+ yrs, 4.97★. for a free inspection.",
   slug: "roofing-avra-valley",
   h1: "Avra Valley Roofing Services - Intelligent Design",
   h2Subheading: "Roofing solutions tailored for desert homes near Saguaro National Park",

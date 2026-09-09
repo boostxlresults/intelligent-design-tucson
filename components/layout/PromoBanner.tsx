@@ -16,7 +16,7 @@ export default function PromoBanner() {
     <div className="fixed left-0 right-0 top-24 md:top-32 z-40 flex h-14 md:h-16 items-center justify-center bg-[#FFD100] px-4 text-center text-[#1D4ED8] shadow-md">
       <Link
         href="/schedule"
-        aria-label="Free estimates on all services — schedule service"
+        aria-label="Free estimates on all services - schedule service"
         data-testid="banner-free-estimates"
         className="whitespace-nowrap text-base font-extrabold uppercase tracking-wide after:absolute after:inset-0 sm:text-lg md:text-2xl"
       >

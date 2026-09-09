@@ -11,8 +11,8 @@ export const plumbingtortolitaData: ServicePageData = {
   
   // Hero Section
   h1: "Tortolita Plumbing Services",
-  h2Subheading: "Local plumbing for Stone Canyon, Dove Mountain estates, and Tortolita Highlands—luxury home expertise at foothill elevations",
-  tagline: "46+ years serving Tortolita (85755, 85742) — 4.97★ from 3,600+ reviews; expert plumbing for luxury desert homes",
+  h2Subheading: "Local plumbing for Stone Canyon, Dove Mountain estates, and Tortolita Highlands-luxury home expertise at foothill elevations",
+  tagline: "46+ years serving Tortolita (85755, 85742) - 4.97★ from 3,600+ reviews; expert plumbing for luxury desert homes",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Tortolita, Arizona",
   

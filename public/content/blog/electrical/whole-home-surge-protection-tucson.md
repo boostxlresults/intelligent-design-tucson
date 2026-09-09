@@ -24,7 +24,7 @@ Whole-home surge protection is your best defense against this invisible threat. 
 
 ## What Is a Power Surge?
 
-A power surge is a sudden spike in electrical voltage that exceeds the normal 120 volts flowing through your home's circuits. These spikes can reach thousands of volts and last just milliseconds—but that's enough to destroy sensitive electronics.
+A power surge is a sudden spike in electrical voltage that exceeds the normal 120 volts flowing through your home's circuits. These spikes can reach thousands of volts and last just milliseconds-but that's enough to destroy sensitive electronics.
 
 ### What Causes Power Surges in Tucson?
 
@@ -126,7 +126,7 @@ Whole-home surge protection devices (SPDs) connect to your electrical panel and 
 3. Allows normal voltage to continue to your circuits
 4. Resets automatically for the next surge
 
-Quality SPDs can divert 50,000+ amps of surge current—far more than any power strip.
+Quality SPDs can divert 50,000+ amps of surge current-far more than any power strip.
 
 ## What to Look for in Whole-Home Surge Protection
 
@@ -136,13 +136,13 @@ Quality SPDs can divert 50,000+ amps of surge current—far more than any power 
 How much current the device can divert. Look for 50kA minimum; 100kA+ is better.
 
 **Clamping Voltage**
-The voltage level that triggers protection. Lower is better—400V or less is ideal.
+The voltage level that triggers protection. Lower is better-400V or less is ideal.
 
 **Joule Rating**
-Energy absorption capacity. Higher is better—look for 50,000+ joules.
+Energy absorption capacity. Higher is better-look for 50,000+ joules.
 
 **Response Time**
-How quickly the device reacts. Nanoseconds matter—under 1 nanosecond is best.
+How quickly the device reacts. Nanoseconds matter-under 1 nanosecond is best.
 
 **Warranty**
 Better devices include connected equipment warranties covering damage to protected devices.
@@ -154,7 +154,7 @@ Better devices include connected equipment warranties covering damage to protect
 - Leviton
 - Intermatic
 
-Avoid cheap, unbranded devices—they may provide minimal actual protection.
+Avoid cheap, unbranded devices-they may provide minimal actual protection.
 
 ## Installation Process
 
@@ -195,7 +195,7 @@ A single surge event can easily cause $5,000-10,000 in damage. Surge protection 
 ## Frequently Asked Questions
 
 ### Will surge protection stop a direct lightning strike?
-Nothing can fully protect against a direct strike on your home. However, direct strikes are rare—most surge damage comes from nearby strikes and grid problems that surge protection handles effectively.
+Nothing can fully protect against a direct strike on your home. However, direct strikes are rare-most surge damage comes from nearby strikes and grid problems that surge protection handles effectively.
 
 ### Do I still need power strip surge protectors?
 Yes, for best protection. Point-of-use protectors provide an additional layer of defense for your most sensitive electronics.

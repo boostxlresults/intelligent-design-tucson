@@ -3,12 +3,12 @@
 import { useEffect } from "react";
 
 /**
- * BroccoliChat — lead-capture chat widget.
+ * BroccoliChat - lead-capture chat widget.
  *
  * INP optimization: instead of loading on window "load", the script is injected on
  * the FIRST user interaction (pointer / touch / scroll / key / mousemove) or after a
  * 3.5s idle fallback, whichever comes first. The chat is available to every visitor
- * within a few seconds — and instantly for anyone who engages — while its main-thread
+ * within a few seconds - and instantly for anyone who engages - while its main-thread
  * cost is removed from the critical load window Google\'s INP metric penalizes.
  * Conversions preserved: the chat still appears on every page.
  */

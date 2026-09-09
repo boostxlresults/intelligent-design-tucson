@@ -73,7 +73,7 @@ Each brand offers different benefits, from high-efficiency models to budget-frie
 
 Your HVAC system gives you warning signs when it needs professional attention. Some of the most common signs Tucson homeowners notice include **weak airflow, uneven cooling, unusual noises, higher energy bills, unpleasant odors from vents, or frequent on/off cycling**. 
 
-Preventative **HVAC maintenance in Tucson** can extend your system's life, reduce repair costs, and improve efficiency. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we recommend scheduling seasonal maintenance—before summer and winter—for optimal performance.
+Preventative **HVAC maintenance in Tucson** can extend your system's life, reduce repair costs, and improve efficiency. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we recommend scheduling seasonal maintenance-before summer and winter-for optimal performance.
 
 ### How often should I service my HVAC system in Arizona's climate?
 

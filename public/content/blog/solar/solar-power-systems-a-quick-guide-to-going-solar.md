@@ -48,7 +48,7 @@ To give you a quick insight into solar panel options, here are some of the most 
 *   **Polycrystalline solar panels:** These panels are not as efficient as monocrystalline solar panels, but they offer a lower price point and higher durability.
 *   **Thin-film solar panels:** Thin-film solar cells are the least efficient solar panel option. However, they are also the most lightweight and flexible solar panel type.
 
-Solar power is a great way to keep your home’s energy bills low. But if you’re considering installing solar panels, you may be overwhelmed by all the choices—what kind of solar panel kits should I get? Here’s what you’ll find:
+Solar power is a great way to keep your home’s energy bills low. But if you’re considering installing solar panels, you may be overwhelmed by all the choices-what kind of solar panel kits should I get? Here’s what you’ll find:
 
 *   Solar Panel Kits With Batteries (also known as “off-grid” systems) are designed for people who want to power their homes completely on solar energy, even during a power outage or disaster when the grid isn’t working.
 *   Solar Panel Kits With Inverters (also known as “grid-tied” systems) are designed for people who want to supplement their current electricity usage with solar power. If you want to draw on the grid when the sun isn’t shining, this is also a good choice.

@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const roofingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Roofing | Expert Tile & Slate Roofing",
-  description: "Catalina Foothills roofing specialists — tile, slate, flat systems in 85718 & 85750. Free inspection for hillside and luxury homes. Call now.",
+  description: "Catalina Foothills roofing specialists - tile, slate, flat systems in 85718 & 85750. Free inspection for hillside and luxury homes. Call now.",
   slug: "roofing-catalina-foothills",
   
   // Hero Section
   h1: "Roofing Services in Catalina Foothills, AZ",
   h2Subheading: "Specialized tile, slate and flat roofing for luxury, hillside homes in 85718 & 85750",
-  tagline: "46+ years serving Catalina Foothills — 4.97★ from 3,600+ reviews; trusted on steep slopes and luxury builds",
+  tagline: "46+ years serving Catalina Foothills - 4.97★ from 3,600+ reviews; trusted on steep slopes and luxury builds",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Catalina Foothills, Arizona",
   

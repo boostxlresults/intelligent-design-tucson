@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalmaranaData: ServicePageData = {
   title: "Expert Electrical Services in Marana, AZ | Intelligent Design",
-  description: "Top-rated electrical services in Marana, AZ. From panel upgrades for EV chargers to smart home integration in Dove Mountain and Gladden Farms. Call (520) 333-2665.",
+  description: "Top-rated electrical services in Marana, AZ. From panel upgrades for EV chargers to smart home integration in Dove Mountain and Gladden Farms.",
   slug: "electrical-marana",
   h1: "Professional Electrical Services in Marana, AZ",
   h2Subheading: "Modern Electrical Solutions for Marana's Growing Communities",

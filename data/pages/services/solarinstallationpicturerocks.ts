@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const solarinstallationpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Solar Installation | Intelligent Design",
-  description: "Solar installation in Picture Rocks 85743 — ground-mount and off-grid experts with 46+ years and 4.97★ local reviews. Schedule a site visit today.",
+  description: "Solar installation in Picture Rocks 85743 - ground-mount and off-grid experts with 46+ years and 4.97★ local reviews. Schedule a site visit today.",
   slug: "solar-installation-picture-rocks",
   
   // Hero Section

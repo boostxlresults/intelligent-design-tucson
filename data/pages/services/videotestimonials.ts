@@ -7,7 +7,7 @@ import type { ServicePageData } from '@/types/services';
 export const videotestimonialsData: ServicePageData = {
   // SEO & Meta
   title: 'Video Testimonials',
-  description: 'Watch video testimonials from real Tucson families who chose Intelligent Design for HVAC, plumbing, electrical, solar & roofing. Hear authentic stories about our service quality, pricing, and professionalism. See why 23,000+ customers give us five stars.',
+  description: 'Watch video testimonials from real Tucson families who chose Intelligent Design for HVAC, plumbing, electrical, solar & roofing.',
   slug: 'video-testimonials',
   
   // Hero Section
@@ -44,7 +44,7 @@ export const videotestimonialsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Don't just take our word for it—watch video testimonials from actual customers who have experienced our HVAC, plumbing, electrical, solar, and roofing services. These authentic stories showcase our commitment to quality, professionalism, and customer satisfaction."
+            "content": "Don't just take our word for it-watch video testimonials from actual customers who have experienced our HVAC, plumbing, electrical, solar, and roofing services. These authentic stories showcase our commitment to quality, professionalism, and customer satisfaction."
       },
       {
             "type": "paragraph",

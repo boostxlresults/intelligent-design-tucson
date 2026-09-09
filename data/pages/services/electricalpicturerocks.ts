@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalpicturerocksData: ServicePageData = {
   title: "Electrical Services in Picture Rocks, AZ | Intelligent Design",
-  description: "Expert electrical services in Picture Rocks, AZ. From panel upgrades to well pump wiring and generator installations. Call Intelligent Design at (520) 333-2665.",
+  description: "Expert electrical services in Picture Rocks, AZ. From panel upgrades to well pump wiring and generator installations. Call Intelligent Design at.",
   slug: "electrical-picture-rocks",
   h1: "Expert Electrical Services in Picture Rocks, AZ",
   h2Subheading: "Reliable Power Solutions for Rural and Large-Lot Properties",

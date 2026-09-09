@@ -62,7 +62,7 @@ Solar energy can also be produced locally, reducing our reliance on imported ene
 ### Solar Panels Can be Placed on Almost Any Structure
 
 While solar panels are often installed on roofs and ground, they can also be placed in other locations. Newer panel models are designed to be lightweight, making them easy to install even in areas not easily accessible by conventional methods. They can also be installed on walls and boats, making them versatile for use almost anywhere.  
-Installing a solar power system is a major investment that will last for decades—you want it to last longer than you do! Solar panels are virtually indestructible and will perform at peak capacity year-round with little maintenance required.
+Installing a solar power system is a major investment that will last for decades-you want it to last longer than you do! Solar panels are virtually indestructible and will perform at peak capacity year-round with little maintenance required.
 
 ### They Can be Installed on Existing Homes
 

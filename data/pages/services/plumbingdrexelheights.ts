@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingdrexelheightsData: ServicePageData = {
   title: "Plumbing Services in Drexel Heights, AZ | Intelligent Design",
-  description: "Expert plumbing services in Drexel Heights, AZ. From water heater replacements to fixing galvanized pipes in older homes. Call (520) 333-2665 for fast service.",
+  description: "Expert plumbing services in Drexel Heights, AZ. From water heater replacements to fixing galvanized pipes in older homes. for fast service.",
   slug: "plumbing-drexel-heights",
   h1: "Professional Plumbing Services in Drexel Heights",
   h2Subheading: "Reliable Solutions for Historic and Renovated Homes in the 85746 & 85735 Areas",

@@ -18,7 +18,7 @@ canonicalUrl: https://www.idesignac.com/blog/electrical/when-to-call-electrician
 
 # When to Call an Electrician vs. DIY: Safety Guidelines for Tucson Homeowners
 
-Many homeowners want to tackle home improvement projects themselves—and there's nothing wrong with that. But electrical work requires careful consideration. Some tasks are safe for capable DIYers, while others legally require a licensed electrician. Getting this wrong can result in electrical shock, house fires, code violations, and voided insurance coverage.
+Many homeowners want to tackle home improvement projects themselves-and there's nothing wrong with that. But electrical work requires careful consideration. Some tasks are safe for capable DIYers, while others legally require a licensed electrician. Getting this wrong can result in electrical shock, house fires, code violations, and voided insurance coverage.
 
 This guide helps you understand what you can safely do yourself and when to call Intelligent Design for professional electrical work.
 
@@ -52,7 +52,7 @@ Swapping a standard outlet for another standard outlet, or a switch for a switch
 - Turn off power and verify it's off
 - Take photos before disconnecting wires
 - Connect wires to the same terminals on the new device
-- Do NOT upgrade from ungrounded (2-prong) to grounded (3-prong) outlets yourself—this requires rewiring
+- Do NOT upgrade from ungrounded (2-prong) to grounded (3-prong) outlets yourself-this requires rewiring
 
 ### 3. Replacing Light Bulbs
 Obviously safe, but remember:
@@ -165,7 +165,7 @@ Ask yourself these questions before proceeding:
    - If not, stop.
 
 2. **Do I have a voltage tester and know how to use it?**
-   - Never assume power is off—always test.
+   - Never assume power is off-always test.
 
 3. **Does this project require a permit?**
    - If yes, hire a licensed electrician.
@@ -215,7 +215,7 @@ When your project requires a licensed electrician, Intelligent Design offers:
 - We handle all permits and inspections
 - Financing available for larger projects
 
-We're not here to scare you away from DIY—we're here to help you make informed decisions and stay safe.
+We're not here to scare you away from DIY-we're here to help you make informed decisions and stay safe.
 
 ---
 

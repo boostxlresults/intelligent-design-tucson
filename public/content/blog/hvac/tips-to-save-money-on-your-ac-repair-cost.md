@@ -65,7 +65,7 @@ The evaporator coil in your air conditioner removes heat and humidity from the a
 
 One way to help your evaporator coil do its job more effectively is to set your thermostat to 78 degrees or higher in the summertime. This may seem counterintuitive, but the hotter it is outside, the easier it is for your evaporator coil to remove heat from the air.
 
-As a result, your air conditioner won’t have to work as hard, and you’ll enjoy lower energy bills and fewer ac repair costs. So next time it’s sweltering outside, don’t be tempted to crank down the AC—just let the hot air in and let your evaporator coil do its job.
+As a result, your air conditioner won’t have to work as hard, and you’ll enjoy lower energy bills and fewer ac repair costs. So next time it’s sweltering outside, don’t be tempted to crank down the AC-just let the hot air in and let your evaporator coil do its job.
 
 ### Install a Programmable Thermostat
 

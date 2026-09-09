@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const electricalcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Electrical Services | Intelligent Design",
-  description: "Trusted Catalina Foothills electrical experts for 85718 & 85750 — panels, EV chargers, landscape lighting. Call for a local estimate today.",
+  description: "Trusted Catalina Foothills electrical experts for 85718 & 85750 - panels, EV chargers, landscape lighting. Call for a local estimate today.",
   slug: "electrical-catalina-foothills",
   
   // Hero Section

@@ -3,7 +3,7 @@ import { rateLimit, clientIp } from "@/lib/cork/ratelimit";
 
 export const maxDuration = 60;
 
-// Replicate FLUX Fill Dev — photorealistic inpainting with a binary mask.
+// Replicate FLUX Fill Dev - photorealistic inpainting with a binary mask.
 // Degrades to Gemini guide-image approach if REPLICATE_API_TOKEN is unset.
 const REPLICATE_RENDER_URL =
   "https://api.replicate.com/v1/models/black-forest-labs/flux-fill-dev/predictions";
@@ -20,7 +20,7 @@ function geminiRenderPrompt(colorName: string, colorHex: string, hasGuide: boole
   return `Photorealistic edit of the first image (a residential pool area).
 Resurface ONLY the walkable pool deck surface with premium sprayed cork coating in the color "${colorName}" (approx ${colorHex}): a fine granular cork texture, uniform seamless finish, matte, with subtle natural speckle.
 ${hasGuide ? "The second image is a guide: the highlighted/tinted region marks EXACTLY which surface to resurface. Do not resurface anything outside the highlighted region." : ""}
-Critically: REMOVE all cracks, stains, expansion-joint damage and patchiness from the deck — the cork coating creates a flawless continuous surface.
+Critically: REMOVE all cracks, stains, expansion-joint damage and patchiness from the deck - the cork coating creates a flawless continuous surface.
 Do NOT change the pool, water, coping interior edge, rocks, plants, furniture, people, sky, lighting or shadows. Preserve original camera angle, perspective and lighting exactly. Output only the edited image.`;
 }
 

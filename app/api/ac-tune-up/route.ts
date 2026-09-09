@@ -113,9 +113,9 @@ export async function POST(request: NextRequest) {
   const rows = [
     ['Name', d.name],
     ['Phone', d.phone],
-    ['Email', d.email || '—'],
-    ['ZIP', d.zip || '—'],
-    ['Preferred day', d.preferredDay || '—'],
+    ['Email', d.email || '-'],
+    ['ZIP', d.zip || '-'],
+    ['Preferred day', d.preferredDay || '-'],
     ['GCLID', d.gclid || '(none)'],
     ['Campaign', d.utm_campaign || '(none)'],
     ['Source page', d.pageSlug || 'ac-tune-up-2888'],
@@ -125,7 +125,7 @@ export async function POST(request: NextRequest) {
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
       <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">$28.88 AC Tune-Up Request</h1></div>
       <div style="padding:20px;background:#f5f5f5;">
-        <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Paid-social lead</strong> &mdash; 86-point tune-up (residential). Call to confirm ASAP; collect street address on the call.</div>
+        <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Paid-social lead</strong> - 86-point tune-up (residential). Call to confirm ASAP; collect street address on the call.</div>
         <table style="width:100%;border-collapse:collapse;">${rows}</table>
         <p style="margin-top:16px;color:#555;font-size:12px;">Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}</p>
       </div>
@@ -134,7 +134,7 @@ export async function POST(request: NextRequest) {
   const textBody = `$28.88 AC Tune-Up Request\nName: ${d.name}\nPhone: ${d.phone}\nEmail: ${d.email || '-'}\nZIP: ${d.zip || '-'}\nPreferred day: ${d.preferredDay || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}`;
 
   const [emailResult, stlResult] = await Promise.allSettled([
-    sendEmail({ to: 'csrteam@idesignac.com', subject: `AC Tune-Up ($28.88): ${d.name} — ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `AC Tune-Up ($28.88): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
     postToSpeedToLead(d),
   ]);
 

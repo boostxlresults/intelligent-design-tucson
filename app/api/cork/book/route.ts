@@ -23,7 +23,7 @@ export async function POST(req: NextRequest) {
     priceHigh?: number;
   };
 
-  const summary = `Free Cork Pool Deck Inspection request — ~${body.sqFt ?? "?"} sq ft, color ${body.colorName ?? "?"}, est. $${body.priceLow?.toLocaleString() ?? "?"}–$${body.priceHigh?.toLocaleString() ?? "?"}`;
+  const summary = `Free Cork Pool Deck Inspection request - ~${body.sqFt ?? "?"} sq ft, color ${body.colorName ?? "?"}, est. $${body.priceLow?.toLocaleString() ?? "?"}–$${body.priceHigh?.toLocaleString() ?? "?"}`;
 
   const booking = await createCorkBooking({
     name: body.name,
@@ -51,11 +51,11 @@ export async function POST(req: NextRequest) {
     sendMail({
       to: notify,
       subject: `🌵 New Cork Deck Inspection Lead: ${body.name} (${body.zip})`,
-      html: `<p><strong>${body.name}</strong> — ${body.email} — ${body.phone}</p>
+      html: `<p><strong>${body.name}</strong> - ${body.email} - ${body.phone}</p>
 <p>${body.address}</p>
 <p>Preferred: ${body.preferredDay}, ${body.preferredTimeWindow}</p>
 <p>${summary}</p>
-<p>ServiceTitan booking: ${booking.ok ? `created (${booking.id})` : `NOT created (${booking.error}) — manual follow-up needed`}</p>`,
+<p>ServiceTitan booking: ${booking.ok ? `created (${booking.id})` : `NOT created (${booking.error}) - manual follow-up needed`}</p>`,
     }).catch((e) => console.error("[cork] notify email error:", e));
   }
 

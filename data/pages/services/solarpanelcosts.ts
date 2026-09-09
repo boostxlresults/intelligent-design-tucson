@@ -69,11 +69,11 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding solar panel costs is critical to making an informed investment decision. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we believe in complete cost transparency—no hidden fees, no surprise charges, no sales gimmicks. Solar panel costs in Tucson have decreased dramatically over the past decade, making clean energy affordable for most homeowners. Current [link:/services/residential-solar-installation|residential solar installation] costs in Tucson range from $2.50-$3.50 per watt before incentives, with typical 6-10kW systems costing $15,000-$35,000. After the 30% [link:/services/solar-tax-credits|federal solar tax credit], net costs drop to $10,500-$24,500."
+            "content": "Understanding solar panel costs is critical to making an informed investment decision. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we believe in complete cost transparency-no hidden fees, no surprise charges, no sales gimmicks. Solar panel costs in Tucson have decreased dramatically over the past decade, making clean energy affordable for most homeowners. Current [link:/services/residential-solar-installation|residential solar installation] costs in Tucson range from $2.50-$3.50 per watt before incentives, with typical 6-10kW systems costing $15,000-$35,000. After the 30% [link:/services/solar-tax-credits|federal solar tax credit], net costs drop to $10,500-$24,500."
       },
       {
             "type": "paragraph",
-            "content": "We provide detailed, itemized proposals showing exactly where every dollar goes—equipment costs, installation labor, permits, inspections, and warranties. Unlike competitors who quote artificially low prices then add fees during installation, our proposals include all costs upfront. We've been serving Tucson families since 1979, building trust through honest pricing and exceptional service. Our 23,000+ five-star reviews reflect our commitment to transparency and value. When you choose Intelligent Design for your solar investment, you'll receive a comprehensive financial analysis showing projected production, savings, payback periods, and 25-year ROI—all backed by verified performance data from our ServiceTitan customer management system."
+            "content": "We provide detailed, itemized proposals showing exactly where every dollar goes-equipment costs, installation labor, permits, inspections, and warranties. Unlike competitors who quote artificially low prices then add fees during installation, our proposals include all costs upfront. We've been serving Tucson families since 1979, building trust through honest pricing and exceptional service. Our 23,000+ five-star reviews reflect our commitment to transparency and value. When you choose Intelligent Design for your solar investment, you'll receive a comprehensive financial analysis showing projected production, savings, payback periods, and 25-year ROI-all backed by verified performance data from our ServiceTitan customer management system."
       },
       {
             "type": "paragraph",
@@ -87,7 +87,7 @@ export const solarpanelcostsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Real data from real Tucson installations—these ServiceTitan-verified metrics demonstrate the exceptional value our solar customers receive:"
+            "content": "Real data from real Tucson installations-these ServiceTitan-verified metrics demonstrate the exceptional value our solar customers receive:"
       },
       {
             "type": "list",

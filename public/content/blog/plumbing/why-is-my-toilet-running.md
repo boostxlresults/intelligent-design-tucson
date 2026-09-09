@@ -17,7 +17,7 @@ canonicalUrl: 'https://www.idesignac.com/blog/plumbing/why-is-my-toilet-running'
 
 # Why Is My Toilet Running? Causes and DIY Fixes
 
-A running toilet isn't just annoying—it's wasteful and costly. A toilet that runs continuously can waste 200 gallons of water per day, adding $50 or more to your monthly water bill. Fortunately, most running toilet problems are simple to diagnose and often fixable without a plumber.
+A running toilet isn't just annoying-it's wasteful and costly. A toilet that runs continuously can waste 200 gallons of water per day, adding $50 or more to your monthly water bill. Fortunately, most running toilet problems are simple to diagnose and often fixable without a plumber.
 
 ## How Your Toilet Works
 

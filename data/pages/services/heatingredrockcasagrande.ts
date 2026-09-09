@@ -5,8 +5,8 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
-  title: "Heating Services — Red Rock & Casa Grande, AZ",
-  description: "Heating services for Red Rock & Casa Grande (85145, 85122, 85193). Two-stage efficiency, local code expertise—call for fast, climate-smart service.",
+  title: "Heating Services - Red Rock & Casa Grande, AZ",
+  description: "Heating services for Red Rock & Casa Grande (85145, 85122, 85193). Two-stage efficiency, local code expertise-call for fast, climate-smart service.",
   slug: "heating-red-rock-casa-grande",
   
   // Hero Section

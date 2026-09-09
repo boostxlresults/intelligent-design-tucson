@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const solarinstallationgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Solar Installation | Intelligent Design",
-  description: "Solar installation in Green Valley (85614, 85622). Trusted 46+ years — lower bills for retirement communities. Schedule a free site review today.",
+  description: "Solar installation in Green Valley (85614, 85622). Trusted 46+ years - lower bills for retirement communities. Schedule a free site review today.",
   slug: "solar-installation-green-valley",
   
   // Hero Section

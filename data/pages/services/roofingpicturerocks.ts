@@ -6,12 +6,12 @@ import type { ServicePageData } from "@/types/services";
 export const roofingpicturerocksData: ServicePageData = {
   // SEO & Meta
   title: "Picture Rocks Roofing & Roof Repair | 85743",
-  description: "Trusted Picture Rocks roofing—repair, replacement & inspections tailored to 85743. Call for a local assessment near Ironwood Forest.",
+  description: "Trusted Picture Rocks roofing-repair, replacement & inspections tailored to 85743. Call for a local assessment near Ironwood Forest.",
   slug: "roofing-picture-rocks",
   
   // Hero Section
   h1: "Picture Rocks Roofing Services",
-  h2Subheading: "Local roof expertise for Picture Rocks homes—manufactured, flat, tile and shingle systems built for wind, dust and desert nights",
+  h2Subheading: "Local roof expertise for Picture Rocks homes-manufactured, flat, tile and shingle systems built for wind, dust and desert nights",
   tagline: "46+ years serving Picture Rocks (85743) • 4.97★ from 3,600+ reviews • Rural roofing specialists",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Picture Rocks, Arizona",

@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingsahuaritaData: ServicePageData = {
   title: "Sahuarita Roofing Experts | Intelligent Design",
-  description: "Trusted Sahuarita roofing services — repairs, replacements, tile, shingle, flat, coating. 46+ years, 4.97★, 3600+ reviews. Call Intelligent Design at (520) 333-2665 for a free inspection.",
+  description: "Trusted Sahuarita roofing services - repairs, replacements, tile, shingle, flat, coating. 46+ years, 4.97★, 3600+ reviews.",
   slug: "roofing-sahuarita",
   h1: "Sahuarita Roofing Services by Intelligent Design",
   h2Subheading: "Local roof repair and replacement tailored for Sahuarita homes and climate",
-  tagline: "Reliable roofs for Sahuarita families — experienced, local, proven.",
+  tagline: "Reliable roofs for Sahuarita families - experienced, local, proven.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Sahuarita, Arizona",
     serviceName: "Roofing",

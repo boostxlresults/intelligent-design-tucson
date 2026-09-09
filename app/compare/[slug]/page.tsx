@@ -42,7 +42,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 function ownField(label: string, t: Tri, good: "yes" | "no"): Field {
-  if (t === "unknown") return { label, value: "—", tone: "muted" };
+  if (t === "unknown") return { label, value: "-", tone: "muted" };
   return { label, value: t === "yes" ? "Yes" : "No", tone: t === good ? "good" : "bad" };
 }
 
@@ -60,11 +60,11 @@ function fieldsFor(c: Competitor): Field[] {
   return [
     ownField("Locally Owned", c.locallyOwned, "yes"),
     ownField("Private Equity Owned", c.peOwned, "no"),
-    { label: "Google Rating", value: c.rating ? `${c.rating}★` : "—", tone: c.rating ? "neutral" : "muted" },
-    { label: "# Reviews", value: c.reviews ?? "—", tone: c.reviews ? "neutral" : "muted" },
-    { label: "BBB Rating", value: c.bbb ?? "—", tone: c.bbb ? "neutral" : "muted" },
-    { label: "Veteran Owned", value: "—", tone: "muted" },
-    { label: "24/7 Emergency", value: "—", tone: "muted" },
+    { label: "Google Rating", value: c.rating ? `${c.rating}★` : "-", tone: c.rating ? "neutral" : "muted" },
+    { label: "# Reviews", value: c.reviews ?? "-", tone: c.reviews ? "neutral" : "muted" },
+    { label: "BBB Rating", value: c.bbb ?? "-", tone: c.bbb ? "neutral" : "muted" },
+    { label: "Veteran Owned", value: "-", tone: "muted" },
+    { label: "24/7 Emergency", value: "-", tone: "muted" },
   ];
 }
 
@@ -145,7 +145,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
             </div>
             <h1 className="text-3xl font-extrabold leading-tight text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.8)] md:text-4xl lg:text-5xl">{v.h1}</h1>
             <p className="mt-4 max-w-xl text-base font-medium text-white/90 drop-shadow-[0_2px_8px_rgba(0,0,0,0.9)]">
-              Family-owned and veteran-owned, serving Tucson since 1979 — and still here to answer the phone.
+              Family-owned and veteran-owned, serving Tucson since 1979 - and still here to answer the phone.
             </p>
             <div className="mt-6 flex flex-col gap-3 sm:flex-row">
               <a href="#second-opinion" className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#e8a020] px-6 py-3 font-bold text-[#0d2d7a] shadow-lg transition hover:bg-[#f5b731]">
@@ -167,7 +167,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         <p className="mt-3 text-base leading-relaxed text-muted-foreground">{v.intro}</p>
 
         <div id="compare-table" className="mt-8 space-y-4">
-          {/* Our team — highlighted */}
+          {/* Our team - highlighted */}
           <div className="rounded-2xl border-2 border-[#e8a020] bg-amber-50/60 p-5 shadow-sm">
             <div className="flex flex-wrap items-center gap-2">
               <span className="rounded bg-[#e8a020] px-2 py-0.5 text-[11px] font-black text-[#0d2d7a]">OUR TEAM</span>
@@ -175,7 +175,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
             </div>
             <Chips fields={ID_FIELDS} />
             <p className="mt-3 text-sm text-foreground">
-              Locally owned &amp; veteran-owned, 4.97★ across 23,000+ reviews — and we&apos;ll give you a{" "}
+              Locally owned &amp; veteran-owned, 4.97★ across 23,000+ reviews - and we&apos;ll give you a{" "}
               <a href="#second-opinion" className="font-bold text-primary underline">free second opinion</a> on any {v.verticalLabel.toLowerCase()} quote.{" "}
               <a href="tel:5203332665" className="font-bold text-primary underline">Call {PHONE_DISPLAY}</a>.
             </p>
@@ -211,13 +211,13 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
         </div>
 
         <p className="mt-4 text-xs leading-relaxed text-muted-foreground">
-          Competitor rating &amp; review figures are from public Google Business Profiles &amp; BBB.org as of {v.asOf}; verify current figures with each company. Intelligent Design&apos;s 23,000+ is an aggregate across Google, Facebook, PulseM &amp; Angi. Ownership status is per public acquisition announcements and corporate filings as of {v.asOf}; &quot;—&quot; means not independently verified.
+          Competitor rating &amp; review figures are from public Google Business Profiles &amp; BBB.org as of {v.asOf}; verify current figures with each company. Intelligent Design&apos;s 23,000+ is an aggregate across Google, Facebook, PulseM &amp; Angi. Ownership status is per public acquisition announcements and corporate filings as of {v.asOf}; &quot;-&quot; means not independently verified.
         </p>
 
         <div className="mt-6 flex items-start gap-3 rounded-2xl border border-primary/15 bg-primary/5 p-5">
           <MapPin className="mt-0.5 h-6 w-6 shrink-0 text-[#e8a020]" />
           <p className="text-sm font-semibold text-primary md:text-base">
-            When you call Intelligent Design, you&apos;re calling a locally owned Tucson company — not a national private-equity platform. Same neighbors, same phone number, since 1979.
+            When you call Intelligent Design, you&apos;re calling a locally owned Tucson company - not a national private-equity platform. Same neighbors, same phone number, since 1979.
           </p>
         </div>
       </section>
@@ -248,7 +248,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
       <section id="second-opinion" className="scroll-mt-24 bg-[#0d2d7a]">
         <div className="mx-auto max-w-3xl px-4 py-14 md:px-8">
           <h2 className="text-2xl font-bold text-white md:text-3xl">Got a quote from another {v.verticalLabel} company?</h2>
-          <p className="mt-2 text-white/85">We&apos;ll review it free — and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
+          <p className="mt-2 text-white/85">We&apos;ll review it free - and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
           <div className="mt-6"><SecondOpinionForm service={v.verticalLabel} pageSlug={v.slug} /></div>
         </div>
       </section>
@@ -282,13 +282,13 @@ function vsCompetitorFields(vs: VsPage): Field[] {
     ? { label: "Locally Owned", value: "No", tone: "bad" }
     : vs.peOwned === "no"
       ? { label: "Locally Owned", value: "Yes", tone: "good" }
-      : { label: "Locally Owned", value: "—", tone: "muted" };
+      : { label: "Locally Owned", value: "-", tone: "muted" };
   return [
     local,
     ownField("Private Equity Owned", vs.peOwned, "no"),
-    { label: "Google Rating", value: vs.rating ? `${vs.rating}★` : "—", tone: vs.rating ? "neutral" : "muted" },
-    { label: "# Reviews", value: vs.reviews ?? "—", tone: vs.reviews ? "neutral" : "muted" },
-    { label: "24/7 Emergency", value: "—", tone: "muted" },
+    { label: "Google Rating", value: vs.rating ? `${vs.rating}★` : "-", tone: vs.rating ? "neutral" : "muted" },
+    { label: "# Reviews", value: vs.reviews ?? "-", tone: vs.reviews ? "neutral" : "muted" },
+    { label: "24/7 Emergency", value: "-", tone: "muted" },
   ];
 }
 
@@ -387,7 +387,7 @@ function VsPageView({ vs }: { vs: VsPage }) {
       <section id="second-opinion" className="scroll-mt-24 bg-[#0d2d7a]">
         <div className="mx-auto max-w-3xl px-4 py-14 md:px-8">
           <h2 className="text-2xl font-bold text-white md:text-3xl">Got a quote from {vs.competitorName}?</h2>
-          <p className="mt-2 text-white/85">We&apos;ll review it free — and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
+          <p className="mt-2 text-white/85">We&apos;ll review it free - and tell you honestly if it&apos;s fair. No pressure, no obligation.</p>
           <div className="mt-6"><SecondOpinionForm service={vs.verticalLabel} pageSlug={vs.slug} /></div>
         </div>
       </section>

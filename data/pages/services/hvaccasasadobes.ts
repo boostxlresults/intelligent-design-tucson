@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvaccasasadobesData: ServicePageData = {
   title: "Casas Adobes HVAC Services | AC Repair & Replacement",
-  description: "Trusted HVAC in Casas Adobes (85704, 85741, 85742). AC repair, replacement, ductwork, and IAQ from Intelligent Design. Call (520) 333-2665 for fast service.",
+  description: "Trusted HVAC in Casas Adobes (85704, 85741, 85742). AC repair, replacement, ductwork, and IAQ from Intelligent Design. for fast service.",
   slug: "hvac-casas-adobes",
   h1: "HVAC Services in Casas Adobes, AZ - Repair, Replace, Maintain",
   h2Subheading: "Tailored HVAC solutions for Casas Adobes homes at 2,500 ft elevation",
-  tagline: "Serving Casas Adobes (85704/85741/85742) — 46+ years, 4.97★, 3,600+ reviews",
+  tagline: "Serving Casas Adobes (85704/85741/85742) - 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Casas Adobes, Arizona",
     serviceName: "HVAC",

@@ -14,7 +14,7 @@ export const metadata: Metadata = generateSEOMetadata({
 });
 
 // PDF featured near the top of the page. Replace the file at
-// public/family-protection-plans-overview.pdf with the final version — the path/URL stays the same.
+// public/family-protection-plans-overview.pdf with the final version - the path/URL stays the same.
 const PLAN_PDF = '/family-protection-plans-overview.pdf';
 const PLAN_PDF_PREVIEW = '/images/family-protection-plans-preview.png';
 const SMARTAC_IMG = '/images/smartac-home-insights.png';
@@ -35,7 +35,7 @@ const plans: Plan[] = [
     name: 'Deluxe Plan',
     price: '$48.88',
     unit: '/mo',
-    note: 'Price includes your first HVAC system — each additional unit is half off.',
+    note: 'Price includes your first HVAC system - each additional unit is half off.',
     icon: Shield,
     featured: true,
     badge: 'Best Value',
@@ -56,7 +56,7 @@ const plans: Plan[] = [
     name: 'HVAC Only Plan',
     price: '$32.88',
     unit: '/mo',
-    note: 'Price includes your first HVAC system — each additional unit is half off.',
+    note: 'Price includes your first HVAC system - each additional unit is half off.',
     icon: Wrench,
     features: [
       'Annual heating & cooling maintenance',
@@ -72,7 +72,7 @@ const plans: Plan[] = [
     name: 'Smart AC Only Plan',
     price: '$10',
     unit: '/mo',
-    note: 'Net $0/mo — your $10 monthly Intelligent Piggy Bank credit offsets the plan.',
+    note: 'Net $0/mo - your $10 monthly Intelligent Piggy Bank credit offsets the plan.',
     icon: Zap,
     features: [
       '24/7 Remote Protection & Alerts (Smart AC Monitoring)',
@@ -208,7 +208,7 @@ function PlanCard({ plan }: { plan: Plan }) {
         </ul>
         <Button asChild size="lg" className={`mt-6 h-auto w-full py-4 text-base font-bold ${plan.featured ? 'bg-yellow-500 text-gray-900 hover:bg-yellow-600 border-yellow-500' : ''}`}>
           <a href="tel:5203332665">
-            <Phone className="mr-2 h-5 w-5" /> Enroll — (520) 333-2665
+            <Phone className="mr-2 h-5 w-5" /> Enroll - (520) 333-2665
           </a>
         </Button>
       </CardContent>
@@ -299,7 +299,7 @@ export default function FamilyProtectionPlansPage() {
           </div>
         </nav>
 
-        {/* PDF feature block — just below the hero */}
+        {/* PDF feature block - just below the hero */}
         <section className="py-12 bg-muted/30">
           <div className="max-w-6xl mx-auto px-4">
             <div className="grid gap-8 rounded-2xl border border-border bg-card p-6 shadow-lg md:grid-cols-2 md:items-center md:p-8">
@@ -311,7 +311,7 @@ export default function FamilyProtectionPlansPage() {
                   See every plan, side by side
                 </h2>
                 <p className="text-muted-foreground mb-6">
-                  Our one-page guide breaks down exactly what each Family Protection Plan covers &mdash; inspections, discounts, warranties, monitoring, and the credits that pay you back. Download it, print it, or bring it to your next appointment.
+                  Our one-page guide breaks down exactly what each Family Protection Plan covers - inspections, discounts, warranties, monitoring, and the credits that pay you back. Download it, print it, or bring it to your next appointment.
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <Button asChild size="lg" className="h-auto py-4 text-base font-bold">
@@ -330,7 +330,7 @@ export default function FamilyProtectionPlansPage() {
                 <a href={PLAN_PDF} target="_blank" rel="noopener noreferrer" className="group relative block overflow-hidden rounded-xl border border-border shadow-md transition hover:shadow-xl" aria-label="Open the Family Protection Plans guide (PDF)">
                   <Image
                     src={PLAN_PDF_PREVIEW}
-                    alt="Family Protection Plans comparison guide — HVAC Only, Deluxe Family, and SmartAC Monitoring plans"
+                    alt="Family Protection Plans comparison guide - HVAC Only, Deluxe Family, and SmartAC Monitoring plans"
                     width={1000}
                     height={1295}
                     className="h-auto w-full"
@@ -436,7 +436,7 @@ export default function FamilyProtectionPlansPage() {
               <div className="order-first md:order-last mx-auto w-full max-w-sm">
                 <Image
                   src={SMARTAC_IMG}
-                  alt="SmartAC Home Insights app — loyalty credits, system performance, water and freeze alerts, air filter tracking, and live technician chat"
+                  alt="SmartAC Home Insights app - loyalty credits, system performance, water and freeze alerts, air filter tracking, and live technician chat"
                   width={1200}
                   height={1553}
                   className="h-auto w-full rounded-2xl shadow-2xl"
@@ -447,7 +447,7 @@ export default function FamilyProtectionPlansPage() {
             <div className="mt-10 text-center">
               <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">
                 <a href="tel:5203332665">
-                  <Phone className="w-5 h-5 mr-2" /> Get SmartAC Monitoring &mdash; (520) 333-2665
+                  <Phone className="w-5 h-5 mr-2" /> Get SmartAC Monitoring - (520) 333-2665
                 </a>
               </Button>
             </div>
@@ -581,7 +581,7 @@ export default function FamilyProtectionPlansPage() {
                 Owning a home in Tucson comes with its own set of challenges and unexpected costs, from regular air conditioner maintenance to sudden water heater replacements. There is a smarter way to manage these responsibilities without breaking the bank: Intelligent Design&apos;s <strong>Family Protection Plans</strong>.
               </p>
               <p>
-                Members gain access to repair discounts, warranty extensions, and monthly credits on top of our already competitive rates &mdash; while receiving the same world-class service from our certified technicians that you have come to expect and trust.
+                Members gain access to repair discounts, warranty extensions, and monthly credits on top of our already competitive rates - while receiving the same world-class service from our certified technicians that you have come to expect and trust.
               </p>
               <p>
                 Whether you need a comprehensive air conditioner check-up during Tucson&apos;s scorching summers or an emergency water heater replacement, our team delivers top-notch service at member-exclusive rates. The <strong>Family Protection Plan</strong> is not just a discount program; it is a long-term partnership aimed at making your home more comfortable and sustainable.

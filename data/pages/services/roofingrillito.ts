@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingrillitoData: ServicePageData = {
   title: "Rillito Roofing Services | Intelligent Design",
-  description: "Trusted roofing in Rillito, AZ — repairs, replacements, tile, shingle, flat roofing and coatings. Call Intelligent Design for a free estimate today: (520) 333-2665.",
+  description: "Trusted roofing in Rillito, AZ - repairs, replacements, tile, shingle, flat roofing and coatings. Call Intelligent Design for a free estimate today:.",
   slug: "roofing-rillito",
   h1: "Rillito Roofing Experts - Intelligent Design",
   h2Subheading: "Proven roofing solutions for hot, dusty, rural Rillito conditions",

@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvactortolitaData: ServicePageData = {
   title: "Tortolita HVAC Services | Intelligent Design",
-  description: "Tortolita HVAC services by Intelligent Design — expert AC repair, replacement, heating, ductwork & maintenance. Call (520) 333-2665 for local service.",
+  description: "Tortolita HVAC services by Intelligent Design - expert AC repair, replacement, heating, ductwork & maintenance. Call (520) 333-2665 for local service.",
   slug: "hvac-tortolita",
   h1: "Tortolita HVAC Repair & Replacement",
   h2Subheading: "Premium cooling and quiet climate control for Dove Mountain and Stone Canyon homes",

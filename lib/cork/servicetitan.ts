@@ -87,7 +87,7 @@ export async function createCorkBooking(req: BookingRequest): Promise<{ ok: bool
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          source: "Cork Pool Deck Journey — idesignac.com",
+          source: "Cork Pool Deck Journey - idesignac.com",
           name: req.name,
           summary: `${req.summary}\nPreferred: ${req.preferredDay} ${req.preferredTimeWindow}\nAddress: ${req.address}`,
           isFirstTimeClient: true,

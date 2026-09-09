@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingredrockcasagrandeData: ServicePageData = {
   title: "Red Rock & Casa Grande Roofing | Intelligent Design",
-  description: "Trusted roofing services in Red Rock & Casa Grande. Repairs, replacements, tile, shingle, flat roofs & reflective coatings. Call Intelligent Design at (520) 333-2665.",
+  description: "Trusted roofing services in Red Rock & Casa Grande. Repairs, replacements, tile, shingle, flat roofs & reflective coatings. Call Intelligent Design at.",
   slug: "roofing-red-rock-casa-grande",
   h1: "Roofing Services in Red Rock & Casa Grande, AZ",
   h2Subheading: "Durable roofs built for Arizona’s extreme heat and dry climate",

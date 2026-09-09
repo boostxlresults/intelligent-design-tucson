@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const electricalsaddlebrookecatalinaData: ServicePageData = {
   title: "Expert Electrical Services in SaddleBrooke & Catalina, AZ",
-  description: "Top-rated electrical services in SaddleBrooke & Catalina. From panel upgrades to generator installations, Intelligent Design provides reliable solutions. Call (520) 333-2665.",
+  description: "Top-rated electrical services in SaddleBrooke & Catalina. From panel upgrades to generator installations, Intelligent Design provides reliable solutions.",
   slug: "electrical-saddle-brooke-catalina",
   h1: "Professional Electrical Services in SaddleBrooke & Catalina",
   h2Subheading: "Reliable Power Solutions for Your Mountain-Adjacent Home",

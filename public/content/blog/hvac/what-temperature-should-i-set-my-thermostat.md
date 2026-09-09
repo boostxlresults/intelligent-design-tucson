@@ -122,7 +122,7 @@ Proper hydration helps your body regulate temperature more effectively.
 
 ### Setting Temperature Too Low
 
-Setting the thermostat to 68°F won't cool your home faster—your AC cools at the same rate regardless. You'll just overshoot and waste energy.
+Setting the thermostat to 68°F won't cool your home faster-your AC cools at the same rate regardless. You'll just overshoot and waste energy.
 
 ### Constant Manual Adjustments
 

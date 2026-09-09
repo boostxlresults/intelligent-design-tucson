@@ -9,7 +9,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const easttucsonData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in East Tucson, AZ',
-  description: 'Expert home services in East Tucson including Tanque Verde, Rita Ranch, and Corona De Tucson. HVAC, plumbing, solar, electrical & roofing. Same-day service. BBB A+ rated.',
+  description: 'Expert home services in East Tucson including Tanque Verde, Rita Ranch, and Corona De Tucson. HVAC, plumbing, solar, electrical & roofing.',
   slug: 'east-tucson',
   
   // Hero Section

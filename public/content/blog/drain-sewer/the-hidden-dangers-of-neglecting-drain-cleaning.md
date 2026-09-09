@@ -45,7 +45,7 @@ Fortunately, there are some simple steps you can take to keep your drains clean 
 
 ## Understanding Drain Cleaning
 
-**[Drain cleaning](https://www.idesignac.com/drain-cleaning-tucson/)** might seem like a rather straightforward task — simply dislodging a blockage from a pipe to allow water to flow freely again. However, the reality of it is much more nuanced. Let’s peel back the layers and truly understand what goes into maintaining clean, functional drains.
+**[Drain cleaning](https://www.idesignac.com/drain-cleaning-tucson/)** might seem like a rather straightforward task - simply dislodging a blockage from a pipe to allow water to flow freely again. However, the reality of it is much more nuanced. Let’s peel back the layers and truly understand what goes into maintaining clean, functional drains.
 
 ## What is Drain Cleaning?
 

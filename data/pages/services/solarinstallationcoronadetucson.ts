@@ -11,7 +11,7 @@ export const solarinstallationcoronadetucsonData: ServicePageData = {
   
   // Hero Section
   h1: "Corona de Tucson Solar Installation",
-  h2Subheading: "Solar designed for Corona de Tucson homes — elevation, newer roofs, and horse-property needs considered",
+  h2Subheading: "Solar designed for Corona de Tucson homes - elevation, newer roofs, and horse-property needs considered",
   tagline: "46+ years serving Tucson-area homeowners • 4.97★ from 3,600+ reviews • Tailored solar for Corona de Tucson (85641)",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation services in Corona de Tucson, Arizona",

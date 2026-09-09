@@ -103,7 +103,7 @@ export default function DrainForm() {
           className={inputCls} />
         {zipOutOfArea && (
           <p className="mt-1 text-[15px] text-muted-foreground">
-            That ZIP looks outside our usual area &mdash; send it anyway and we&apos;ll let you know if we can reach you.
+            That ZIP looks outside our usual area - send it anyway and we&apos;ll let you know if we can reach you.
           </p>
         )}
       </div>
@@ -123,7 +123,7 @@ export default function DrainForm() {
       </div>
 
       {status === "error" && (
-        <p className="text-[15px] text-[#C8101F]">Something went wrong &mdash; please call (520) 333-2665.</p>
+        <p className="text-[15px] text-[#C8101F]">Something went wrong - please call (520) 333-2665.</p>
       )}
 
       <button type="submit" disabled={status === "sending"}

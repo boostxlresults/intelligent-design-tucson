@@ -4,18 +4,18 @@ import { useEffect, useRef } from 'react';
 import { usePathname } from 'next/navigation';
 
 /**
- * PulseMWidget — Floating social proof review popup by PulseM/Speetra
+ * PulseMWidget - Floating social proof review popup by PulseM/Speetra
  *
  * HOW IT WORKS:
  * The PulseM embed script (embed-pulsemweb-gsd.js) fetches widget settings,
  * then dynamically loads review-widget.js which registers a <review-widget>
  * custom element and calls document.body.appendChild() to mount it.
- * The widget is a floating popup — it does NOT render inline.
+ * The widget is a floating popup - it does NOT render inline.
  *
  * CRITICAL BUG FIXED:
  * Previous version ran cleanupPulseM() on component unmount even from the
  * /customer-reviews page. This removed the review-widget.js script, but
- * customElements.define() cannot be called twice — so on re-mount the
+ * customElements.define() cannot be called twice - so on re-mount the
  * custom element definition existed but the Vue app instance was gone,
  * producing a dead shell element with no content.
  *
@@ -65,11 +65,11 @@ export default function PulseMWidget() {
     }
 
     return () => {
-      // On unmount, hide the widget (safe — doesn't destroy the script)
+      // On unmount, hide the widget (safe - doesn't destroy the script)
       document.body.classList.add('pulsem-hidden');
     };
   }, [pathname]);
 
-  // Renders nothing — the widget appends itself to document.body
+  // Renders nothing - the widget appends itself to document.body
   return null;
 }

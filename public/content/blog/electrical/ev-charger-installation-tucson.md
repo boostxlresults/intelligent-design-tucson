@@ -25,7 +25,7 @@ This guide covers everything you need to know about EV charger installation in T
 ## Understanding EV Charging Levels
 
 ### Level 1 Charging (120V)
-Level 1 uses your standard household outlet—the same one you'd plug a lamp into.
+Level 1 uses your standard household outlet-the same one you'd plug a lamp into.
 
 **Charging Speed**: 3-5 miles of range per hour
 **Best For**: Plug-in hybrids, low daily mileage, overnight charging
@@ -35,7 +35,7 @@ Level 1 uses your standard household outlet—the same one you'd plug a lamp int
 **Reality Check**: Level 1 works if you drive less than 30-40 miles daily and can charge overnight. For most EV owners, it's frustratingly slow.
 
 ### Level 2 Charging (240V)
-Level 2 uses a dedicated 240-volt circuit—similar to what powers your dryer or electric range.
+Level 2 uses a dedicated 240-volt circuit-similar to what powers your dryer or electric range.
 
 **Charging Speed**: 25-30+ miles of range per hour
 **Best For**: All EVs, daily commuters, practical home charging
@@ -208,7 +208,7 @@ Check current TEP and federal incentives for:
 - Clean vehicle credits
 - Time-of-use rate discounts
 
-Incentives change frequently—we help you understand current options.
+Incentives change frequently-we help you understand current options.
 
 ## Frequently Asked Questions
 
@@ -219,7 +219,7 @@ No. Arizona requires licensed electricians for 240V circuit installation. DIY el
 Most installations complete in 2-4 hours. Complex jobs (panel upgrades, outdoor installation) may take longer.
 
 ### Will my electric bill increase significantly?
-Yes, but far less than gasoline costs. Typical EV charging costs $30-60/month for average driving—compared to $150-300/month for gas.
+Yes, but far less than gasoline costs. Typical EV charging costs $30-60/month for average driving-compared to $150-300/month for gas.
 
 ### Can I charge during a power outage?
 No, unless you have solar+battery or generator backup. Standard EV chargers require grid power.

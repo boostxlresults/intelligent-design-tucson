@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const drainclearingcoronadetucsonData: ServicePageData = {
   title: "Drain Clearing in Corona de Tucson | Intelligent Design",
-  description: "Expert drain clearing in Corona de Tucson, AZ. We handle caliche soil drainage issues and builder-grade plumbing challenges in the 85641 area. Call (520) 333-2665.",
+  description: "Expert drain clearing in Corona de Tucson, AZ. We handle caliche soil drainage issues and builder-grade plumbing challenges in the 85641 area.",
   slug: "drain-clearing-corona-de-tucson",
   h1: "Professional Drain Clearing in Corona de Tucson",
   h2Subheading: "Solving Drainage Challenges in the 85641 Area",

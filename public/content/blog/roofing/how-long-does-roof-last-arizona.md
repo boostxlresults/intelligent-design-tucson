@@ -105,7 +105,7 @@ While tiles may last 50+ years, the underlayment protecting your roof deck typic
 
 **Lifespan**: Indefinite with proper maintenance
 
-Foam roofing is unique—the foam itself can last indefinitely if the protective coating remains intact.
+Foam roofing is unique-the foam itself can last indefinitely if the protective coating remains intact.
 
 **Key Maintenance:**
 - Recoat every 10-15 years
@@ -119,7 +119,7 @@ Foam roofing is unique—the foam itself can last indefinitely if the protective
 - Small cracks or checks in coating
 
 **Cost Advantage:**
-While other roofs require complete replacement, foam roofs only need recoating—saving thousands over the long term.
+While other roofs require complete replacement, foam roofs only need recoating-saving thousands over the long term.
 
 ### Metal Roofing
 
@@ -262,7 +262,7 @@ October through May offers the best weather for roofing projects. Avoid monsoon 
 
 ## Extend Your Roof's Life with ThermalCork
 
-Looking to dramatically extend your roof's lifespan while cutting energy costs? Ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) — a revolutionary natural cork spray that creates a permanent thermal break on your roof. As Tucson's exclusive certified ThermalCork applicator, Intelligent Design offers this breakthrough technology with an exclusive 15-year warranty. ThermalCork saves up to 50% on energy costs and never needs re-coating, making it the ultimate investment in your roof's longevity.
+Looking to dramatically extend your roof's lifespan while cutting energy costs? Ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) - a revolutionary natural cork spray that creates a permanent thermal break on your roof. As Tucson's exclusive certified ThermalCork applicator, Intelligent Design offers this breakthrough technology with an exclusive 15-year warranty. ThermalCork saves up to 50% on energy costs and never needs re-coating, making it the ultimate investment in your roof's longevity.
 
 ## Trust Intelligent Design for Your Roofing Needs
 

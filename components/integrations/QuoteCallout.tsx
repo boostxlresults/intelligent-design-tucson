@@ -1,11 +1,11 @@
 "use client";
 
 /**
- * QuoteCallout — Native Contractor Commerce Navigator Widget
+ * QuoteCallout - Native Contractor Commerce Navigator Widget
  * 
  * This component renders CC's native navigator widget (the "Get a System Quote / Let's Go!" UI)
  * which is fully managed by Contractor Commerce's own JavaScript. We don't try to call
- * any CC APIs ourselves — we just provide the container div and CC handles everything.
+ * any CC APIs ourselves - we just provide the container div and CC handles everything.
  * 
  * The `data-contractor-commerce` attribute triggers the ContractorCommercePlugin's
  * IntersectionObserver to load the CC script when this section enters the viewport.

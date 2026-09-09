@@ -12,7 +12,7 @@ export const hvacavravalleyData: ServicePageData = {
   // Hero Section
   h1: "Avra Valley HVAC Services - Repair, Maintenance & Replacement",
   h2Subheading: "Local HVAC technicians who know Avra Valley dust, tile roofs, well-water homes, and long transformer runs",
-  tagline: "46+ years serving Avra Valley (85743, 85653) — 4.97★ from 3,600+ reviews, tailored HVAC care for ranch and custom desert homes",
+  tagline: "46+ years serving Avra Valley (85743, 85653) - 4.97★ from 3,600+ reviews, tailored HVAC care for ranch and custom desert homes",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Avra Valley, Arizona",
   

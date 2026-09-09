@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingavravalleyData: ServicePageData = {
   title: "Heating Repair & Installation in Avra Valley, AZ | Intelligent Design",
-  description: "Expert heating services in Avra Valley. From heat pumps to furnaces, we handle the unique climate challenges of the 85743 and 85653 zip codes. Call (520) 333-2665.",
+  description: "Expert heating services in Avra Valley. From heat pumps to furnaces, we handle the unique climate challenges of the 85743 and 85653 zip codes.",
   slug: "heating-avra-valley",
   h1: "Heating Services in Avra Valley, AZ",
   h2Subheading: "Reliable Heating Solutions for Avra Valley's Unique Desert Climate",

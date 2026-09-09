@@ -1,6 +1,6 @@
 /**
  * Lightweight in-memory rate limiter for the public cork API routes.
- * Best-effort (per serverless instance) — enough to stop a single-source flood
+ * Best-effort (per serverless instance) - enough to stop a single-source flood
  * from running up Anthropic/Gemini spend or spamming ServiceTitan/email.
  * For production-grade distributed limits, back this with Vercel KV / Upstash.
  */

@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 const data: ServicePageData = {
   title: "Drain & Sewer Services in SaddleBrooke, AZ | Intelligent Design",
-  description: "Expert drain clearing and sewer line repair for SaddleBrooke's 55+ community. Fast, reliable service for golf course homes in the 85739 zip code. Call (520) 333-2665.",
+  description: "Expert drain clearing and sewer line repair for SaddleBrooke's 55+ community. Fast, reliable service for golf course homes in the 85739 zip code.",
   slug: "drain-sewer-saddle-brooke",
   h1: "Drain & Sewer Services in SaddleBrooke",
   h2Subheading: "Reliable Plumbing Solutions for Active Adult Living",
@@ -46,7 +46,7 @@ highlights: [
   },
   commonQuestions: [
     { question: "What are the signs of a broken sewer line?", answer: "Common signs include frequent drain backups, gurgling sounds from toilets, foul sewage odors in your yard or home, unusually lush patches of grass, and slow draining fixtures throughout the house." },
-    { question: "Is a camera inspection really necessary?", answer: "Yes, a camera inspection is crucial. It takes the guesswork out of diagnosing sewer issues, allowing us to see exactly what and where the problem is—whether it's roots, a belly in the pipe, or a collapse—saving you time and money." },
+    { question: "Is a camera inspection really necessary?", answer: "Yes, a camera inspection is crucial. It takes the guesswork out of diagnosing sewer issues, allowing us to see exactly what and where the problem is-whether it's roots, a belly in the pipe, or a collapse-saving you time and money." },
     { question: "How long does trenchless sewer repair take?", answer: "Most trenchless sewer repairs can be completed in just one to two days. Because it requires minimal digging, the process is much faster and less disruptive than traditional excavation methods." },
     { question: "Can hard water damage my pipes?", answer: "Yes, over time, the minerals in hard water can build up inside your pipes, reducing water flow and increasing the risk of clogs. This scale buildup can also accelerate the deterioration of certain types of plumbing materials." }
   ],

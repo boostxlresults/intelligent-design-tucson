@@ -4,8 +4,8 @@ import type { ServicePageData } from "@/types/services";
 // Generated with location-specific data - NOT a template swap
 
 export const hvactanqueverdeData: ServicePageData = {
-  title: "Tanque Verde HVAC Services — Intelligent Design",
-  description: "Trusted HVAC services in Tanque Verde, AZ. Intelligent Design provides AC repair, replacement, heating, ductwork and maintenance for upscale homes. Call (520) 333-2665.",
+  title: "Tanque Verde HVAC Services - Intelligent Design",
+  description: "Trusted HVAC services in Tanque Verde, AZ. Intelligent Design provides AC repair, replacement, heating, ductwork and maintenance for upscale homes.",
   slug: "hvac-tanque-verde",
   h1: "Tanque Verde HVAC Services by Intelligent Design",
   h2Subheading: "Climate-smart comfort for Rincon Mountain homeowners",

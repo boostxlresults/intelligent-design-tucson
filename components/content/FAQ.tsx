@@ -36,7 +36,7 @@ const faqs = [
   },
   {
     question: "Do you provide free estimates?",
-    answer: "Yes! We provide free, no-obligation estimates for new installations and major repairs. For diagnostic service calls, there's a standard trip charge that goes toward any repairs if you choose to proceed with our services. Emergency service calls may have different pricing—call us at (520) 333-2665 for details.",
+    answer: "Yes! We provide free, no-obligation estimates for new installations and major repairs. For diagnostic service calls, there's a standard trip charge that goes toward any repairs if you choose to proceed with our services. Emergency service calls may have different pricing-call us at (520) 333-2665 for details.",
   },
   {
     question: "What HVAC brands do you install and service?",
@@ -44,7 +44,7 @@ const faqs = [
   },
   {
     question: "How often should I have my AC serviced in Tucson?",
-    answer: "In Tucson's extreme climate, we recommend having your AC system serviced twice a year—once in spring before the hot season begins, and once in fall. Regular maintenance helps prevent breakdowns during peak summer heat, improves energy efficiency, and extends the life of your system.",
+    answer: "In Tucson's extreme climate, we recommend having your AC system serviced twice a year-once in spring before the hot season begins, and once in fall. Regular maintenance helps prevent breakdowns during peak summer heat, improves energy efficiency, and extends the life of your system.",
   },
   {
     question: "Do you offer maintenance plans?",

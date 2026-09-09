@@ -47,7 +47,7 @@ export default function SizingEstimator() {
           <h2 className="text-xl md:text-2xl font-bold">Get Your Preliminary Sizing Range</h2>
         </div>
         <p className="text-sm text-muted-foreground mb-6">
-          We ask about the same things a real Manual&nbsp;J load calculation looks at — not just square footage —
+          We ask about the same things a real Manual&nbsp;J load calculation looks at - not just square footage -
           so the ballpark you get is an honest one. Takes about 30&nbsp;seconds.
         </p>
 
@@ -57,7 +57,7 @@ export default function SizingEstimator() {
             <input type="number" min={400} max={8000} required className={FIELD}
               value={inputs.sqft}
               onChange={(e) => set("sqft", Number(e.target.value))} />
-            <p className="text-xs text-muted-foreground mt-1">The living area you cool — not the garage.</p>
+            <p className="text-xs text-muted-foreground mt-1">The living area you cool - not the garage.</p>
           </div>
 
           <div>
@@ -139,9 +139,9 @@ export default function SizingEstimator() {
             <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
             <p className="text-sm text-amber-900">
               <strong>This is a ballpark, not a quote.</strong> Anyone who sizes your system from square footage alone
-              is guessing — and guessing wrong is expensive. Your exact size can only be confirmed in your home with an
+              is guessing - and guessing wrong is expensive. Your exact size can only be confirmed in your home with an
               ACCA <strong>Manual&nbsp;J load calculation</strong>, a <strong>blower-door test</strong>, and a{" "}
-              <strong>thermal-imaging scan</strong> — the method the U.S. Department of Energy and ACCA recommend for
+              <strong>thermal-imaging scan</strong> - the method the U.S. Department of Energy and ACCA recommend for
               every job. An oversized unit short-cycles, never dehumidifies, and drives up your bills.
             </p>
           </div>
@@ -149,10 +149,10 @@ export default function SizingEstimator() {
           <div className="mt-6">
             <div className="flex items-center gap-2 mb-2">
               <CheckCircle2 className="w-5 h-5 text-primary" />
-              <h3 className="text-lg font-bold">Get it sized exactly — free in-home assessment</h3>
+              <h3 className="text-lg font-bold">Get it sized exactly - free in-home assessment</h3>
             </div>
             <p className="text-muted-foreground mb-4">
-              We come out, run the three tests, and give you the correctly sized system for your home — no guesswork.
+              We come out, run the three tests, and give you the correctly sized system for your home - no guesswork.
             </p>
             <SchedulerCluster position="middle" className="!my-0" />
             <p className="text-sm text-muted-foreground mt-4 flex items-center gap-2">

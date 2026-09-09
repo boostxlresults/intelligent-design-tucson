@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const electricalcasasadobesData: ServicePageData = {
   // SEO & Meta
   title: "Casas Adobes Electrical Services | Intelligent Design",
-  description: "Local Casas Adobes electrical repairs, panel upgrades, and GFCI work. Trusted Tucson pros — call for fast, local service in 85704/85741/85742.",
+  description: "Local Casas Adobes electrical repairs, panel upgrades, and GFCI work. Trusted Tucson pros - call for fast, local service in 85704/85741/85742.",
   slug: "electrical-casas-adobes",
   
   // Hero Section

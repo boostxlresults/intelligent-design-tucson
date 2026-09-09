@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const solarCategoryData: ServiceCategoryData = {
   title: 'Solar Panel Installation Tucson | Solar Energy Services | Intelligent Design',
-  description: 'Expert solar panel installation in Tucson, AZ. Residential & commercial solar, energy audits & maintenance. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Expert solar panel installation in Tucson, AZ. Residential & commercial solar, energy audits & maintenance. Veteran-owned, 23,000+ 5-star reviews.',
   slug: 'solar',
   h1: 'Solar Services in Tucson - Stop Paying the Utility. See the Payback.',
   h2Subheading: 'Harness Arizona\'s Sunshine',

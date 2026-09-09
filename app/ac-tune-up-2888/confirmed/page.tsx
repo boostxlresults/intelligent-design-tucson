@@ -4,7 +4,7 @@ import { CheckCircle2, Phone } from "lucide-react";
 import ConfirmTracking from "@/components/actune/ConfirmTracking";
 
 export const metadata: Metadata = {
-  title: "You're booked — 86-Point AC Tune-Up | Intelligent Design",
+  title: "You're booked - 86-Point AC Tune-Up | Intelligent Design",
   robots: "noindex, nofollow, noarchive",
   alternates: { canonical: "https://www.idesignac.com/ac-tune-up-2888/confirmed" },
 };

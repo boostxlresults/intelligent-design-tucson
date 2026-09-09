@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingvailData: ServicePageData = {
   title: "Expert Plumbing Services in Vail, AZ | Intelligent Design",
-  description: "Top-rated plumbing services in Vail, AZ. From water heaters to leak repair, our local experts handle Vail's unique hard water and elevation challenges. Call (520) 333-2665.",
+  description: "Top-rated plumbing services in Vail, AZ. From water heaters to leak repair, our local experts handle Vail's unique hard water and elevation challenges.",
   slug: "plumbing-vail",
   h1: "Professional Plumbing Services in Vail, AZ",
   h2Subheading: "Reliable Plumbing Solutions for Vail's Growing Community",

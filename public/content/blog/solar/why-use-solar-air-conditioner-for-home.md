@@ -53,7 +53,7 @@ In Tucson, air conditioning can account for 50-70% of summer electricity bills. 
 
 ### 2. Peak Production Matches Peak Demand
 
-Solar panels produce the most electricity during the hottest, sunniest hours—exactly when you need cooling most. This perfect alignment maximizes the value of your solar investment.
+Solar panels produce the most electricity during the hottest, sunniest hours-exactly when you need cooling most. This perfect alignment maximizes the value of your solar investment.
 
 ### 3. Protection from Rising Energy Costs
 

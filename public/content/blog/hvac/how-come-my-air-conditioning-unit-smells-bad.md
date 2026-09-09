@@ -58,7 +58,7 @@ Although a burning smell doesn’t always mean an electrical fire has sparked, y
 
 A sewage smell is definitely not something you want in your home! If your air conditioning unit smells like sewage when you turn it on, there is a good chance the smell isn’t actually caused by something wrong with the AC. Instead, you may have a backed up sewer line or a ruptured vent pipe located near your AC ductwork. The AC can then spread the odor throughout your home.
 
-The potential for a combined plumbing/air conditioning problem is one reason why it’s great to use an HVAC company that offers both services—like Intelligent Design!
+The potential for a combined plumbing/air conditioning problem is one reason why it’s great to use an HVAC company that offers both services-like Intelligent Design!
 
 ### Air Conditioning Unit Smells Like Exhaust Fumes
 

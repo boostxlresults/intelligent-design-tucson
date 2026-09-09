@@ -64,7 +64,7 @@ It’s important to have your ac serviced at least once a year by a qualified ac
 
 ### 4\. Keep Your AC Unit in Tip-top Shape All Season Long.
 
-It’s not enough to just have an ac tune-up once or twice a year—you need to keep your ac unit running all season smoothly! Be sure to clean the exterior of your ac unit regularly, inspect it for any signs of damage, and make sure the electrical connections are secure.
+It’s not enough to just have an ac tune-up once or twice a year-you need to keep your ac unit running all season smoothly! Be sure to clean the exterior of your ac unit regularly, inspect it for any signs of damage, and make sure the electrical connections are secure.
 
 ### 5\. Get Familiar with Common AC Problems and Their Solutions.
 
@@ -72,7 +72,7 @@ If you’re familiar with ac repair and maintenance, you can spot ac problems be
 
 ### 6\. Invest in a Programmable Thermostat.
 
-A programmable thermostat can help you save money on your energy bills by automatically adjusting the temperature in your home when you’re not there. This means that your ac doesn’t have to work as hard when no one is home—which can reduce the need for ac repair over time.
+A programmable thermostat can help you save money on your energy bills by automatically adjusting the temperature in your home when you’re not there. This means that your ac doesn’t have to work as hard when no one is home-which can reduce the need for ac repair over time.
 
 ### 7\. Contact an AC Repair Specialist if You Have Any Concerns.
 
@@ -102,7 +102,7 @@ By being aware of all ac related problems and understanding ac repair avoidance 
 
 ### Contact Intelligent Design Today!
 
-Doing regular ac maintenance is key to avoiding costly ac repairs—so be sure to take the time to inspect your ac unit periodically and make any necessary repairs or adjustments. And when in doubt, don’t hesitate to call in a [professional ac repair specialist](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/)! They will be able to quickly identify the issue and get your ac up and running again. 
+Doing regular ac maintenance is key to avoiding costly ac repairs-so be sure to take the time to inspect your ac unit periodically and make any necessary repairs or adjustments. And when in doubt, don’t hesitate to call in a [professional ac repair specialist](https://www.idesignac.com/services/air-conditioning/ac-repair-tucson/)! They will be able to quickly identify the issue and get your ac up and running again. 
 
 Do you hear strange noises coming from your ac unit? Or is it not cooling your home properly? If you have any ac related concerns, don’t wait until it’s too late. [Call Intelligent design now](https://www.idesignac.com/contact/)! We will be able to quickly identify the issue and get your ac up and running again.
 

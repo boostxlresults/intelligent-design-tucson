@@ -1,7 +1,7 @@
 import { reviewsData } from '@/data/reviews';
 /**
  * HVACBusiness JSON-LD schema for Intelligent Design
- * Fires on every page via root layout — enables AI/LLM entity recognition,
+ * Fires on every page via root layout - enables AI/LLM entity recognition,
  * Google AI Overviews citation, and local pack signals.
  *
  * Sources: GBP primary ChIJvQ3jnG501oYRqNUFk4-5nno, idesignac.com

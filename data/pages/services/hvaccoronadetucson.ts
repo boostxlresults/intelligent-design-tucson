@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvaccoronadetucsonData: ServicePageData = {
   title: "Corona de Tucson HVAC Services - Intelligent Design AC",
-  description: "Trusted HVAC services in Corona de Tucson (85641). AC repair, heat, ductwork & IAQ tailored for 3,800 ft elevation homes. Call Intelligent Design at (520) 333-2665.",
+  description: "Trusted HVAC services in Corona de Tucson (85641). AC repair, heat, ductwork & IAQ tailored for 3,800 ft elevation homes. Call Intelligent Design at.",
   slug: "hvac-corona-de-tucson",
   h1: "HVAC Services in Corona de Tucson, AZ (Zip 85641)",
   h2Subheading: "Performance-tested heating and cooling for 3,800 ft elevation homes",
-  tagline: "Serving Corona de Tucson (pop ~10,000, zip 85641) — 46+ years, 4.97★, 3,600+ reviews",
+  tagline: "Serving Corona de Tucson (pop ~10,000, zip 85641) - 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Corona de Tucson, Arizona",
     serviceName: "HVAC",

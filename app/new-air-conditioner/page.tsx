@@ -147,7 +147,7 @@ export default function NewAirConditionerPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
       />
       
-      {/* Hero Section — Keyword-Optimized */}
+      {/* Hero Section - Keyword-Optimized */}
       <section className="bg-gradient-to-br from-primary/90 to-primary py-16 md:py-20">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
@@ -155,7 +155,7 @@ export default function NewAirConditionerPage() {
               New Air Conditioner Installation in Tucson
             </h1>
             <p className="text-xl md:text-2xl mb-4 font-medium">
-              AC Replacement Starting at $7,000 Installed — Same-Day Service Available
+              AC Replacement Starting at $7,000 Installed - Same-Day Service Available
             </p>
             <p className="text-lg opacity-90 mb-8">
               Get an instant online estimate in under 2 minutes. No salesperson, no pressure.
@@ -198,12 +198,12 @@ export default function NewAirConditionerPage() {
         </div>
       </section>
 
-      {/* Correct sizing message — Manual J vs square footage */}
+      {/* Correct sizing message - Manual J vs square footage */}
       <section className="py-10 px-4">
         <div className="max-w-4xl mx-auto rounded-xl border-2 border-primary/30 bg-muted/30 p-6 md:p-8">
-          <h2 className="text-2xl font-bold mb-2">Sized right — or it’s just a guess</h2>
+          <h2 className="text-2xl font-bold mb-2">Sized right - or it’s just a guess</h2>
           <p className="text-muted-foreground mb-4">
-            A new system is only as good as its sizing. We never size from square footage alone — we measure your
+            A new system is only as good as its sizing. We never size from square footage alone - we measure your
             home with an ACCA <strong>Manual&nbsp;J load calculation</strong>, a <strong>blower-door test</strong>, and a{" "}
             <strong>thermal-imaging scan</strong>, the method the U.S. Department of Energy and ACCA recommend. An
             oversized unit short-cycles, never dehumidifies, and costs you more every month.
@@ -219,7 +219,7 @@ export default function NewAirConditionerPage() {
         </div>
       </section>
 
-      {/* Why Replace Your AC — Content Section */}
+      {/* Why Replace Your AC - Content Section */}
       <section className="py-12 md:py-16">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
@@ -236,7 +236,7 @@ export default function NewAirConditionerPage() {
               <p className="text-muted-foreground text-lg leading-relaxed">
                 At Intelligent Design, we have installed over 10,000 new air conditioners across Tucson since 1979. 
                 As factory-authorized dealers for Lennox, Trane, Carrier, Rheem, and Goodman, we offer the full range 
-                of options from budget-friendly to premium — all professionally installed by our licensed technicians 
+                of options from budget-friendly to premium - all professionally installed by our licensed technicians 
                 with a 100% satisfaction guarantee.
               </p>
             </div>
@@ -415,7 +415,7 @@ export default function NewAirConditionerPage() {
               What is Included with Your New Air Conditioner
             </h2>
             <p className="text-center text-muted-foreground mb-10 max-w-3xl mx-auto">
-              Every AC replacement from Intelligent Design includes everything you need — no surprise charges
+              Every AC replacement from Intelligent Design includes everything you need - no surprise charges
             </p>
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="text-center p-4">

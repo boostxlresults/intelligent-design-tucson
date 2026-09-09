@@ -23,7 +23,7 @@ canonicalUrl: >-
 
 ## A Warm Hello to Drexel-Alvernon!
 
-Hey Drexel-Alvernon folks! We’re Intelligent Design, and we’re stoked to be your local go-to for all things home service. We’ve been around the block—literally—and we’ve got the expertise to prove it. But enough about us; let’s dive into how we can make your life in Drexel-Alvernon downright awesome.
+Hey Drexel-Alvernon folks! We’re Intelligent Design, and we’re stoked to be your local go-to for all things home service. We’ve been around the block-literally-and we’ve got the expertise to prove it. But enough about us; let’s dive into how we can make your life in Drexel-Alvernon downright awesome.
 
 ## The Nitty-Gritty: Our Services
 
@@ -31,7 +31,7 @@ Life’s a whirlwind, right? Between work, family, and trying to binge-watch you
 
 *   **Chill Out with Our AC Services**: Arizona’s sun is no joke, folks. But don’t break a sweat; our [AC services](https://www.idesignac.com/air-conditioning/) are your personal chill zone, ensuring you stay cool as a cucumber.
 *   **Heating Up Your Life**: Believe it or not, Arizona can get nippy. Our heating services are like a warm hug on a cold day, keeping you snug as a bug.
-*   **Plumbing: The Unsung Hero**: Dripping faucet driving you nuts? Our plumbing services are like your home’s backstage crew—out of sight but making sure the show goes on smoothly.
+*   **Plumbing: The Unsung Hero**: Dripping faucet driving you nuts? Our plumbing services are like your home’s backstage crew-out of sight but making sure the show goes on smoothly.
 *   **Solar**: The Future is Now: Want to be a planet-saving superhero and cut down on those pesky bills? Say hello to our solar solutions.
 *   **Roof Over Your Head**: A solid roof is your home’s unsung hero, silently taking on the elements. Our roofing services make sure it stays that way.
 *   **Electrical Magic**: Need more outlets for your gazillion gadgets? Our electrical services are like a magic wand, making your home’s quirks disappear.

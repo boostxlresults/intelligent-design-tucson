@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingcasasadobesData: ServicePageData = {
   title: "Casas Adobes Roofing Experts | Intelligent Design",
-  description: "Trusted Casas Adobes roofing: repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years, 4.97★, free estimates. Call (520) 333-2665 for fast service.",
+  description: "Trusted Casas Adobes roofing: repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years, 4.97★, free estimates. for fast service.",
   slug: "roofing-casas-adobes",
   h1: "Casas Adobes Roofing Services by Intelligent Design",
   h2Subheading: "Local roof care for homes near Tohono Chul Park and Casas Adobes Plaza",
-  tagline: "Protecting roofs in Casas Adobes — reliable, experienced, local.",
+  tagline: "Protecting roofs in Casas Adobes - reliable, experienced, local.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Casas Adobes, Arizona",
     serviceName: "Roofing",

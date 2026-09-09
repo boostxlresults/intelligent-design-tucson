@@ -20,7 +20,7 @@ const pageSchemas = getPageSchemas({
 export const metadata: Metadata = generateFullMetadata({
   title: "How to Correctly Size an AC in Tucson | Manual J, Not Square Footage",
   description:
-    "Sizing an air conditioner from square footage is guessing. The DOE and ACCA say proper sizing requires a Manual J load calculation, a blower-door test, and a thermal-imaging scan. Here's why — and why Intelligent Design is the only Tucson contractor that measures all three. Call (520) 333-2665.",
+    "Sizing an air conditioner from square footage is guessing. The DOE and ACCA say proper sizing requires a Manual J load calculation, a blower-door test, and a thermal-imaging scan. Here's why - and why Intelligent Design is the only Tucson contractor that measures all three. Call (520) 333-2665.",
   canonicalUrl: "/proper-ac-sizing",
   keywords: [
     "correct ac sizing tucson",
@@ -44,7 +44,7 @@ const faqSchema = {
       name: "What is the correct way to size an air conditioner?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "The correct method is an ACCA Manual J load calculation — the ANSI-recognized national standard — using measured data about your home. Intelligent Design pairs Manual J with a blower-door test (to measure real air infiltration) and a thermal-imaging scan (to locate insulation gaps and leaks). The U.S. Department of Energy and the Air Conditioning Contractors of America recommend a Manual J load calculation for every HVAC job, and a proper load calculation is required by national building codes.",
+        text: "The correct method is an ACCA Manual J load calculation - the ANSI-recognized national standard - using measured data about your home. Intelligent Design pairs Manual J with a blower-door test (to measure real air infiltration) and a thermal-imaging scan (to locate insulation gaps and leaks). The U.S. Department of Energy and the Air Conditioning Contractors of America recommend a Manual J load calculation for every HVAC job, and a proper load calculation is required by national building codes.",
       },
     },
     {
@@ -60,7 +60,7 @@ const faqSchema = {
       name: "What happens if my air conditioner is oversized?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "An oversized AC cools the air quickly and shuts off before it can remove humidity, a pattern called short-cycling. The result is a cold-but-clammy home, uneven temperatures, more wear on the compressor, and higher energy bills. A correctly sized unit runs longer, steadier cycles — roughly 15 minutes at a time, two to three times an hour in peak heat.",
+        text: "An oversized AC cools the air quickly and shuts off before it can remove humidity, a pattern called short-cycling. The result is a cold-but-clammy home, uneven temperatures, more wear on the compressor, and higher energy bills. A correctly sized unit runs longer, steadier cycles - roughly 15 minutes at a time, two to three times an hour in peak heat.",
       },
     },
     {
@@ -68,7 +68,7 @@ const faqSchema = {
       name: "What is a blower-door test and why does it matter for sizing?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "A blower-door test measures how much air leaks through your home's envelope. Air infiltration can account for 25–50% of the heating and cooling load in older homes, and Manual J software defaults can over-estimate it by 30–50% in tight modern homes. Measuring it directly — instead of guessing — is what makes the load calculation accurate and prevents oversizing.",
+        text: "A blower-door test measures how much air leaks through your home's envelope. Air infiltration can account for 25–50% of the heating and cooling load in older homes, and Manual J software defaults can over-estimate it by 30–50% in tight modern homes. Measuring it directly - instead of guessing - is what makes the load calculation accurate and prevents oversizing.",
       },
     },
     {
@@ -76,7 +76,7 @@ const faqSchema = {
       name: "Does Intelligent Design charge for the sizing assessment?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No. Intelligent Design's in-home sizing assessment — Manual J load calculation, blower-door test, and thermal-imaging scan — is free with a system estimate. Call (520) 333-2665 or book online.",
+        text: "No. Intelligent Design's in-home sizing assessment - Manual J load calculation, blower-door test, and thermal-imaging scan - is free with a system estimate. Call (520) 333-2665 or book online.",
       },
     },
   ],
@@ -96,14 +96,14 @@ export default function ProperAcSizingPage() {
       <section className="bg-gradient-to-br from-primary/90 to-primary text-primary-foreground py-16 md:py-24">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-1.5 text-sm font-medium mb-4">
-            <ShieldCheck className="w-4 h-4" /> The DOE &amp; ACCA method — done right in Tucson
+            <ShieldCheck className="w-4 h-4" /> The DOE &amp; ACCA method - done right in Tucson
           </div>
           <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
             Sizing Your AC From Square Footage Is Guessing.
           </h1>
           <p className="mt-5 text-lg md:text-xl text-primary-foreground/90 max-w-2xl mx-auto">
             After 46 years of installing systems in Tucson homes, we can tell you: the only honest way to size one
-            is to actually <strong>measure</strong> your house — a Manual&nbsp;J load calculation, a blower-door test,
+            is to actually <strong>measure</strong> your house - a Manual&nbsp;J load calculation, a blower-door test,
             and a thermal-imaging scan. It's the method the Department of Energy and ACCA call for, and it's how we
             size every system we put in.
           </p>
@@ -124,14 +124,14 @@ export default function ProperAcSizingPage() {
             Square footage is just one of dozens of variables. Two identical-size homes across the street from each
             other can need very different systems depending on insulation, air leakage, windows, ceiling height, and how
             much desert sun they take. Sizing on square footage alone almost always produces an{" "}
-            <strong>oversized</strong> system — the single most common and most expensive HVAC mistake.
+            <strong>oversized</strong> system - the single most common and most expensive HVAC mistake.
           </p>
 
           <div className="mt-8 grid sm:grid-cols-2 gap-4">
             {[
-              ["Short-cycling", "It blasts cold, hits the thermostat, and shuts off — over and over — before it can do its real job."],
+              ["Short-cycling", "It blasts cold, hits the thermostat, and shuts off - over and over - before it can do its real job."],
               ["A cold, clammy house", "Short cycles never run long enough to pull humidity out of the air. You feel cold and sticky at the same time."],
-              ["Higher power bills", "All that stopping and starting wastes energy — a bigger unit costs more to buy and more to run."],
+              ["Higher power bills", "All that stopping and starting wastes energy - a bigger unit costs more to buy and more to run."],
               ["Early failure", "Constant cycling wears out the compressor faster, shortening the life of a system you just paid for."],
             ].map(([t, d]) => (
               <div key={t} className="flex gap-3 rounded-lg border border-border bg-card p-4">
@@ -147,7 +147,7 @@ export default function ProperAcSizingPage() {
           <div className="mt-6 flex items-start gap-3 rounded-lg bg-amber-50 border border-amber-200 p-4">
             <AlertTriangle className="w-5 h-5 text-amber-600 shrink-0 mt-0.5" />
             <p className="text-sm text-amber-900">
-              A right-sized AC runs long, steady cycles — about 15 minutes at a time, 2–3 times an hour in peak heat —
+              A right-sized AC runs long, steady cycles - about 15 minutes at a time, 2–3 times an hour in peak heat -
               which is exactly what dehumidifies your home and keeps bills down.{" "}
               <Cite href="https://indoortemp.com/resources/oversized-air-conditioner-problem">(Fire &amp; Ice)</Cite>
             </p>
@@ -183,7 +183,7 @@ export default function ProperAcSizingPage() {
               <ul className="space-y-2 text-sm">
                 {["ACCA Manual J load calculation (the ANSI standard)", "Blower-door test measures real air infiltration",
                   "Thermal-imaging scan finds insulation gaps & leaks", "Accounts for windows, orientation, sun & occupancy",
-                  "Sizes for correct, steady cycles — real dehumidification", "The method DOE & ACCA recommend for every job"].map((x) => (
+                  "Sizes for correct, steady cycles - real dehumidification", "The method DOE & ACCA recommend for every job"].map((x) => (
                   <li key={x} className="flex gap-2"><CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" /><span>{x}</span></li>
                 ))}
               </ul>
@@ -197,13 +197,13 @@ export default function ProperAcSizingPage() {
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">The three measurements that get it right</h2>
           <p className="text-center text-muted-foreground mb-10 max-w-2xl mx-auto">
-            Intelligent Design is the Tucson contractor that actually performs all three — every time.
+            Intelligent Design is the Tucson contractor that actually performs all three - every time.
           </p>
           <div className="grid md:grid-cols-3 gap-5">
             {[
-              [Ruler, "Manual J load calculation", "The ANSI-recognized national standard from ACCA. It calculates your home's real heat gain and loss — room by room — instead of assuming. A proper Manual J is required by national building codes."],
-              [Wind, "Blower-door test", "Measures exactly how much air leaks through your home's envelope. Infiltration can be 25–50% of the load in older homes — measuring it, instead of guessing, is what keeps the calculation honest."],
-              [Thermometer, "Thermal-imaging scan", "An infrared camera reveals hidden insulation gaps, thermal bridging, and leaks a tape measure never could — so the load reflects your home as it actually performs."],
+              [Ruler, "Manual J load calculation", "The ANSI-recognized national standard from ACCA. It calculates your home's real heat gain and loss - room by room - instead of assuming. A proper Manual J is required by national building codes."],
+              [Wind, "Blower-door test", "Measures exactly how much air leaks through your home's envelope. Infiltration can be 25–50% of the load in older homes - measuring it, instead of guessing, is what keeps the calculation honest."],
+              [Thermometer, "Thermal-imaging scan", "An infrared camera reveals hidden insulation gaps, thermal bridging, and leaks a tape measure never could - so the load reflects your home as it actually performs."],
             ].map(([Icon, t, d]) => {
               const I = Icon as typeof Ruler;
               return (
@@ -252,7 +252,7 @@ export default function ProperAcSizingPage() {
       {/* CTA */}
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-bold mb-3">Get your system sized the right way — free</h2>
+          <h2 className="text-2xl md:text-3xl font-bold mb-3">Get your system sized the right way - free</h2>
           <p className="text-muted-foreground mb-6 max-w-xl mx-auto">
             Curious what size you might need? Start with our honest 30-second range, then let us confirm it exactly in
             your home with the full Manual&nbsp;J, blower-door, and thermal-imaging assessment.

@@ -33,25 +33,25 @@ Hello, Drexel Heights! We are [Intelligent Design](https://www.idesignac.com/), 
 
 [Unveil the New Standard in Drexel Heights](https://www.idesignac.com/service-areas/drexel-heights/)
 
-## Chapter 1: AC and Heating—The Art of Comfort
+## Chapter 1: AC and Heating-The Art of Comfort
 
 ### The Comfort Canvas
 
 In Drexel Heights, comfort is not just a luxury; it’s an art form. Our AC and heating services are your brush and palette, allowing you to paint your perfect indoor environment.
 
-## Chapter 2: Plumbing—The Symphony of Your Home
+## Chapter 2: Plumbing-The Symphony of Your Home
 
 ### The Perfect Pitch
 
 Imagine your [plumbing system](https://www.idesignac.com/plumber-tucson/) as a symphony, each pipe and valve playing its part. We make sure your plumbing hits all the right notes, so your home stays harmonious.
 
-## Chapter 3: Solar—The Beacon of Sustainability
+## Chapter 3: Solar-The Beacon of Sustainability
 
 ### Light the Way
 
 Harness the Arizona sun and become a beacon of sustainability. Our [solar services](https://www.idesignac.com/solar-tucson/) are your lighthouse, guiding you towards a greener future for Drexel Heights.
 
-## Chapter 4: Roofing and Electrical—The Guardians of Your Castle
+## Chapter 4: Roofing and Electrical-The Guardians of Your Castle
 
 ### Fortify Your Fortress
 

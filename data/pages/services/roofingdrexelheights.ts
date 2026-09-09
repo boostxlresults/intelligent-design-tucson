@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingdrexelheightsData: ServicePageData = {
   title: "Drexel Heights Roofing Services | Intelligent Design",
-  description: "Trusted Drexel Heights roofing: repairs, replacements, tile, shingle, flat roofs and coatings by Intelligent Design. 46+ years, 4.97★. Call (520) 333-2665 for a free estimate.",
+  description: "Trusted Drexel Heights roofing: repairs, replacements, tile, shingle, flat roofs and coatings by Intelligent Design. 46+ years, 4.97★. for a free estimate.",
   slug: "roofing-drexel-heights",
   h1: "Roofing Services in Drexel Heights, AZ",
   h2Subheading: "Durable roof solutions tailored for Drexel Heights homes",

@@ -1,6 +1,6 @@
 /**
  * Preliminary AC sizing RANGE estimator for Tucson (ASHRAE/IECC climate zone 2B,
- * hot-dry). This is deliberately approximate and always returns a RANGE — it is
+ * hot-dry). This is deliberately approximate and always returns a RANGE - it is
  * NOT a Manual J. Accurate sizing requires an in-home ACCA Manual J load
  * calculation plus a blower-door test and thermal-imaging scan (the DOE/ACCA
  * method). The tool weighs the same envelope factors Manual J considers so the
@@ -40,7 +40,7 @@ const WINDOWS = { single: 1.08, average: 1.0, efficient: 0.94 } as const;
  */
 export const SHOW_PRICE = false;
 const PRICE_PER_TON: Record<string, [number, number]> = {
-  // "3": [8500, 12000],  // example — replace with real ID pricing before enabling
+  // "3": [8500, 12000],  // example - replace with real ID pricing before enabling
 };
 
 export function estimateSizing(i: SizingInputs): SizingResult {

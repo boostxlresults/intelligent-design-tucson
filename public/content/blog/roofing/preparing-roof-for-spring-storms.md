@@ -36,7 +36,7 @@ video:
 In Tucson, Arizona, spring brings warmer weather and the possibility of spring storms and rough weather. Before the rainy season starts, it's important for homeowners to make sure their roofs are strong and safe. Intelligent Design, a company known for taking great care of homes, says it's really important for homeowners to take action now.
 
 > "Spring storms can pose significant risks to both the structural integrity of your home and the safety of your family. By taking proactive steps to prepare your roof for the challenges ahead, you can minimize the risk of damage and ensure peace of mind throughout the storm season."  
-> — Andrew Dobbins, Owner of Intelligent Design
+> - Andrew Dobbins, Owner of Intelligent Design
 
 <div class="my-8 aspect-video w-full max-w-2xl mx-auto">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/BhyYzVlxHfc?si=G6hcRCf9kUOu3hFA" title="Preparing Your Roof for Spring Storms in Tucson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="aspect-ratio: 16/9;"></iframe>
@@ -191,7 +191,7 @@ By trusting professionals to take care of the roof, you create a setting where y
 - **Cost Savings:** Prevent expensive emergency repairs
 
 > "Investing in professional roof maintenance is an investment in the long-term health and durability of your home. Our team at Intelligent Design is committed to providing homeowners with the highest level of service and expertise, ensuring that their roofs are prepared to withstand whatever Mother Nature throws their way."  
-> — Andrew Dobbins
+> - Andrew Dobbins
 
 ## Emergency Preparedness
 

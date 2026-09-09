@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const electricalgreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Electrical Services | Intelligent Design",
-  description: "Trusted Green Valley electrical services for retirement homes, panel upgrades, EV cart chargers in 85614 & 85622. Call for local pricing & same-day estimates.",
+  description: "Trusted Green Valley electrical services for retirement homes, panel upgrades, EV cart chargers in 85614 & 85622.",
   slug: "electrical-green-valley",
   
   // Hero Section
   h1: "Green Valley Electrical Services - Intelligent Design",
   h2Subheading: "Local electrical expertise for Green Valley retirement homes, HOAs, and active adult communities",
-  tagline: "46+ years serving Green Valley (85614, 85622) — 4.97★ from 3,600+ reviews, trained for older single-story homes and fixed-income budgets",
+  tagline: "46+ years serving Green Valley (85614, 85622) - 4.97★ from 3,600+ reviews, trained for older single-story homes and fixed-income budgets",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical services in Green Valley, Arizona",
   

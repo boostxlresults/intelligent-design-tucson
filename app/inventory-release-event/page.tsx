@@ -100,7 +100,7 @@ export default function HVACInventoryEventPage() {
             <div className="flex items-center justify-center gap-3">
               <Clock className="w-6 h-6" />
               <p className="text-xl font-bold">
-                ONE DAY ONLY — When these 4 units are gone, the offer ends
+                ONE DAY ONLY - When these 4 units are gone, the offer ends
               </p>
             </div>
           </div>
@@ -120,7 +120,7 @@ export default function HVACInventoryEventPage() {
               {[
                 "Brand-new, never installed equipment",
                 "Top-of-the-line premium systems",
-                "Previous model year — fully supported",
+                "Previous model year - fully supported",
                 "Up to 50% off installation costs",
                 "Forever Warranty available",
                 "Professional installation by trusted local team",

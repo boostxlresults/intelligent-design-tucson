@@ -106,9 +106,9 @@ export async function POST(request: NextRequest) {
   const rows = [
     ['Name', d.name],
     ['Phone', d.phone],
-    ['Email', d.email || '—'],
-    ['ZIP', d.zip || '—'],
-    ['Preferred day', d.preferredDay || '—'],
+    ['Email', d.email || '-'],
+    ['ZIP', d.zip || '-'],
+    ['Preferred day', d.preferredDay || '-'],
     ['Campaign', d.utm_campaign || '(none)'],
     ['Source', d.utm_source || '(none)'],
     ['Source page', d.pageSlug || 'drain-clearing-4888'],
@@ -118,7 +118,7 @@ export async function POST(request: NextRequest) {
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
       <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">$48.88 Drain Clearing Request</h1></div>
       <div style="padding:20px;background:#f5f5f5;">
-        <div style="background:#e0f2fe;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Plumbing lead</strong> &mdash; $48.88 drain clearing special. Single drain, homeowner, ground-level cleanout. Call to confirm ASAP; collect street address on the call.</div>
+        <div style="background:#e0f2fe;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Plumbing lead</strong> - $48.88 drain clearing special. Single drain, homeowner, ground-level cleanout. Call to confirm ASAP; collect street address on the call.</div>
         <table style="width:100%;border-collapse:collapse;">${rows}</table>
         <p style="margin-top:16px;color:#555;font-size:12px;">Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}</p>
       </div>
@@ -127,7 +127,7 @@ export async function POST(request: NextRequest) {
   const textBody = `$48.88 Drain Clearing Request\nName: ${d.name}\nPhone: ${d.phone}\nEmail: ${d.email || '-'}\nZIP: ${d.zip || '-'}\nPreferred day: ${d.preferredDay || '-'}\nCampaign: ${d.utm_campaign || '(none)'}`;
 
   const [emailResult, stlResult] = await Promise.allSettled([
-    sendEmail({ to: 'csrteam@idesignac.com', subject: `Drain Clearing ($48.88): ${d.name} — ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `Drain Clearing ($48.88): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
     postToSpeedToLead(d),
   ]);
 

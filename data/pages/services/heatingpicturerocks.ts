@@ -12,7 +12,7 @@ export const heatingpicturerocksData: ServicePageData = {
   // Hero Section
   h1: "Picture Rocks Heating Services",
   h2Subheading: "Heating expertise tailored to Picture Rocks homes, ranches, and manufactured properties",
-  tagline: "46+ years serving Picture Rocks (85743) — 4.97★ from 3,600+ reviews",
+  tagline: "46+ years serving Picture Rocks (85743) - 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating services in Picture Rocks, Arizona",
   

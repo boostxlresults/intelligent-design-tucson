@@ -18,14 +18,14 @@ canonicalUrl: https://www.idesignac.com/blog/roofing/preparing-roof-for-monsoon-
 
 # Preparing Your Roof for Arizona Monsoon Season
 
-Arizona's monsoon season—running from mid-June through September—brings some of the most intense weather your roof will face all year. Heavy rainfall, high winds, hail, and lightning can cause significant damage to unprepared roofs.
+Arizona's monsoon season-running from mid-June through September-brings some of the most intense weather your roof will face all year. Heavy rainfall, high winds, hail, and lightning can cause significant damage to unprepared roofs.
 
 Preparing your roof before monsoon season arrives helps prevent leaks, reduces storm damage, and protects your home. Here's your complete monsoon preparation guide.
 
 ## Understanding Monsoon Threats to Your Roof
 
 ### Heavy Rainfall
-Monsoon storms can dump 2+ inches of rain per hour—rates that overwhelm poorly maintained drainage systems. This intense rainfall:
+Monsoon storms can dump 2+ inches of rain per hour-rates that overwhelm poorly maintained drainage systems. This intense rainfall:
 - Tests every seal and flashing joint
 - Finds any gaps or vulnerable points
 - Overwhelms clogged gutters
@@ -127,7 +127,7 @@ Branches that overhang or touch your roof:
 
 ### 3. Inspect and Repair Flashing
 
-Flashing—the metal pieces that seal joints and transitions—is often the first point of failure.
+Flashing-the metal pieces that seal joints and transitions-is often the first point of failure.
 
 **Key Flashing Locations:**
 - Chimneys (all four sides)
@@ -278,7 +278,7 @@ Intelligent Design offers comprehensive monsoon preparation services:
 - Insurance claim assistance
 - Licensed, insured, experienced crews
 
-We're your neighbors—we understand Tucson's unique monsoon challenges and have protected local homes for years.
+We're your neighbors-we understand Tucson's unique monsoon challenges and have protected local homes for years.
 
 ---
 

@@ -91,7 +91,7 @@ People who already have health issues, like breathing problems or weak immune sy
 
 ###  **Why Addressing Indoor Air Quality Matters**
 
-Not paying attention to indoor air quality can slowly but seriously harm your health. Easy actions, like letting in fresh air, using air purifiers and humidifiers and cutting down the usage of things that pollute the air, can greatly lower health risks and make you feel better overall. You can make your home healthier and safer by understanding what makes people more likely to get sick and taking steps to prevent it. Taking charge of the air you breathe indoors isn’t just an option—it’s a way to improve your health and live a better life.
+Not paying attention to indoor air quality can slowly but seriously harm your health. Easy actions, like letting in fresh air, using air purifiers and humidifiers and cutting down the usage of things that pollute the air, can greatly lower health risks and make you feel better overall. You can make your home healthier and safer by understanding what makes people more likely to get sick and taking steps to prevent it. Taking charge of the air you breathe indoors isn’t just an option-it’s a way to improve your health and live a better life.
 
 ### **Breathe cleaner air with Intelligent Design’s indoor air quality solutions in Tucson.** 
 

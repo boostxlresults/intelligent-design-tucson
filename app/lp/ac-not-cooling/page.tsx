@@ -20,27 +20,27 @@ export const metadata: Metadata = {
 };
 
 const CAUSES = [
-  { title: "Dirty air filter", cost: "$0 — you can fix this", diy: true, desc: "A clogged filter chokes airflow and is the #1 cause of weak or no cooling. Pull it out; if you can't see light through it, replace it. Give the system 30–60 minutes." },
-  { title: "Tripped breaker or no power", cost: "$0 — you can fix this", diy: true, desc: "Check the breaker panel for a tripped AC breaker and reset it once. Also confirm the outdoor unit's disconnect is on. If it trips again immediately, stop — that's an electrical fault for a pro." },
-  { title: "Thermostat set wrong or dead batteries", cost: "$0–$20 — you can fix this", diy: true, desc: "Make sure it's set to COOL (not just FAN/ON) and the target is below room temperature. Replace the batteries. A blank or glitchy screen often just needs fresh batteries." },
-  { title: "Frozen evaporator coil", cost: "~$150–$600", diy: false, desc: "Ice on the indoor coil or refrigerant line means airflow or refrigerant is off. Turn the system OFF to let it thaw, then call — running it frozen can damage the compressor." },
-  { title: "Low refrigerant / a leak", cost: "~$300–$1,500", diy: false, desc: "If it blows only slightly cool and the outdoor line is icing, you may be low on refrigerant — which almost always means a leak that has to be found and sealed, not just 'topped off.'" },
+  { title: "Dirty air filter", cost: "$0 - you can fix this", diy: true, desc: "A clogged filter chokes airflow and is the #1 cause of weak or no cooling. Pull it out; if you can't see light through it, replace it. Give the system 30–60 minutes." },
+  { title: "Tripped breaker or no power", cost: "$0 - you can fix this", diy: true, desc: "Check the breaker panel for a tripped AC breaker and reset it once. Also confirm the outdoor unit's disconnect is on. If it trips again immediately, stop - that's an electrical fault for a pro." },
+  { title: "Thermostat set wrong or dead batteries", cost: "$0–$20 - you can fix this", diy: true, desc: "Make sure it's set to COOL (not just FAN/ON) and the target is below room temperature. Replace the batteries. A blank or glitchy screen often just needs fresh batteries." },
+  { title: "Frozen evaporator coil", cost: "~$150–$600", diy: false, desc: "Ice on the indoor coil or refrigerant line means airflow or refrigerant is off. Turn the system OFF to let it thaw, then call - running it frozen can damage the compressor." },
+  { title: "Low refrigerant / a leak", cost: "~$300–$1,500", diy: false, desc: "If it blows only slightly cool and the outdoor line is icing, you may be low on refrigerant - which almost always means a leak that has to be found and sealed, not just 'topped off.'" },
   { title: "Failed run capacitor", cost: "~$150–$400", diy: false, desc: "A common, relatively inexpensive part. When it fails the fan or compressor won't start, so the system runs but never actually cools. Fast fix once diagnosed." },
-  { title: "Failing compressor", cost: "$$$ — repair vs. replace", diy: false, desc: "The most serious cause. If the compressor is failing we'll give you an honest repair-vs-replace comparison rather than an automatic 'you need a new system.'" },
+  { title: "Failing compressor", cost: "$$$ - repair vs. replace", diy: false, desc: "The most serious cause. If the compressor is failing we'll give you an honest repair-vs-replace comparison rather than an automatic 'you need a new system.'" },
 ];
 
 const REVIEWS = [
-  { q: "The tech walked me through why it wasn't cooling, showed me the frozen coil, and it turned out to be a cheap fix — not the new system another company quoted.", n: "Karen W.", a: "Catalina Foothills" },
+  { q: "The tech walked me through why it wasn't cooling, showed me the frozen coil, and it turned out to be a cheap fix - not the new system another company quoted.", n: "Karen W.", a: "Catalina Foothills" },
   { q: "Turned out to just be a capacitor. They diagnosed it in minutes, gave me the price first, and had cold air back fast. No games.", n: "Tony L.", a: "Marana" },
   { q: "Honest diagnosis. They even told me to try the filter first before booking. That's why I trust them.", n: "Sandra P.", a: "Oro Valley" },
 ];
 
 const FAQ = [
-  { q: "Why is my AC running but not cooling?", a: "The system has power and the fan runs, but something is stopping it from actually removing heat — most often a dirty filter or frozen coil restricting airflow, low refrigerant from a leak, or a failed capacitor keeping the compressor from starting. The quickest self-checks are the filter, the breaker, and the thermostat setting." },
+  { q: "Why is my AC running but not cooling?", a: "The system has power and the fan runs, but something is stopping it from actually removing heat - most often a dirty filter or frozen coil restricting airflow, low refrigerant from a leak, or a failed capacitor keeping the compressor from starting. The quickest self-checks are the filter, the breaker, and the thermostat setting." },
   { q: "Why is my AC blowing warm or hot air?", a: "Warm air usually points to the cooling side specifically: low refrigerant (a leak), a failed compressor or capacitor, a frozen coil, or a thermostat accidentally set to HEAT or FAN. If the outdoor unit isn't running while the indoor fan is, that's a strong sign it's the compressor circuit." },
-  { q: "Can I fix an AC that's not cooling myself?", a: "Some of it, safely: replace the air filter, reset a tripped breaker once, and confirm the thermostat is set to COOL with good batteries. If those don't fix it &mdash; or you see ice on the unit &mdash; turn the system off and call a professional. Refrigerant, capacitors, and compressors involve high voltage and EPA-regulated refrigerant and aren't DIY." },
+  { q: "Can I fix an AC that's not cooling myself?", a: "Some of it, safely: replace the air filter, reset a tripped breaker once, and confirm the thermostat is set to COOL with good batteries. If those don't fix it - or you see ice on the unit - turn the system off and call a professional. Refrigerant, capacitors, and compressors involve high voltage and EPA-regulated refrigerant and aren't DIY." },
   { q: "How much does it cost to fix an AC that won't cool?", a: "It ranges widely. A capacitor is often in the low hundreds; a frozen-coil clean-up is modest; a refrigerant leak repair costs more because the leak must be found and sealed. You get an exact, up-front price after the diagnosis, and the diagnostic and estimate fee is waived when you move forward with the repair." },
-  { q: "How do I know if it's the compressor?", a: "Signs include the outdoor unit humming but not starting, the breaker tripping, or the system blowing warm air with the outdoor fan not spinning. It takes a technician's meter to confirm &mdash; and because the compressor is the most expensive part, we'll show you the reading and lay out repair vs. replace honestly." },
+  { q: "How do I know if it's the compressor?", a: "Signs include the outdoor unit humming but not starting, the breaker tripping, or the system blowing warm air with the outdoor fan not spinning. It takes a technician's meter to confirm - and because the compressor is the most expensive part, we'll show you the reading and lay out repair vs. replace honestly." },
   { q: "Is it worth repairing or should I replace the system?", a: "It depends on the system's age, the cost of the specific repair, and its efficiency. As a rule of thumb, a minor repair on a system under ~10 years old is usually worth it; a major repair (like a compressor) on an older, inefficient unit may not be. Our non-commissioned technicians give you the numbers both ways and let you decide." },
 ];
 
@@ -49,7 +49,7 @@ export default function AcNotCoolingLp() {
     <>
       <LpStickyCall />
 
-      {/* Hero — the promise, then the phone, above the fold on mobile */}
+      {/* Hero - the promise, then the phone, above the fold on mobile */}
       <section className="px-4 py-6 sm:py-9">
         <div className="mx-auto max-w-3xl text-center">
           <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">Tucson AC repair</p>
@@ -70,7 +70,7 @@ export default function AcNotCoolingLp() {
         </div>
       </section>
 
-      {/* Substance FIRST — the diagnostic that earns Landing Page Experience */}
+      {/* Substance FIRST - the diagnostic that earns Landing Page Experience */}
       <section className="border-t border-border px-4 py-10">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-2xl font-bold text-primary sm:text-3xl">What our technician will check</h2>
@@ -118,7 +118,7 @@ export default function AcNotCoolingLp() {
       </section>
 
       <LpServiceArea />
-      <LpFaq items={FAQ} heading="AC not cooling — common questions" />
+      <LpFaq items={FAQ} heading="AC not cooling - common questions" />
 
       <section className="border-t border-border px-4 py-8">
         <div className="mx-auto max-w-3xl">

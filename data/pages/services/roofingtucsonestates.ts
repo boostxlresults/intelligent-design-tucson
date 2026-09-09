@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingtucsonestatesData: ServicePageData = {
   title: "Expert Roofing Services in Tucson Estates, AZ | Intelligent Design",
-  description: "Top-rated roofing repair and replacement in Tucson Estates. Serving 85735, 85713 with expert solutions for aging roofs and flat roof failures. Call (520) 333-2665.",
+  description: "Top-rated roofing repair and replacement in Tucson Estates. Serving 85735, 85713 with expert solutions for aging roofs and flat roof failures.",
   slug: "roofing-tucson-estates",
   h1: "Professional Roofing Services in Tucson Estates",
   h2Subheading: "Reliable Roof Repair & Replacement for Tucson Estates Homes",

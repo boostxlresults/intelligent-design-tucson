@@ -8,7 +8,7 @@ import { financingFAQs } from '@/data/faqs/general';
 export const financingData: ServicePageData = {
   // SEO & Meta
   title: 'Flexible Financing Options Tucson AZ | HVAC, Solar, Plumbing & More | Intelligent Design',
-  description: 'Affordable financing for HVAC, solar, plumbing, electrical, and roofing services in Tucson. Flexible payment plans with competitive rates (O.A.C.). Quick approval process. Make home improvements affordable today. Call (520) 333-2665.',
+  description: 'Affordable financing for HVAC, solar, plumbing, electrical, and roofing services in Tucson. Flexible payment plans with competitive rates (O.A.C.).',
   slug: 'financing',
   
   // Hero Section
@@ -45,7 +45,7 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric , we understand that home improvements and emergency repairs don't always fit conveniently into your budget. That's why we offer comprehensive financing options for all our services—making it easier than ever for Tucson homeowners to invest in their comfort, safety, and energy efficiency without breaking the bank."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric , we understand that home improvements and emergency repairs don't always fit conveniently into your budget. That's why we offer comprehensive financing options for all our services-making it easier than ever for Tucson homeowners to invest in their comfort, safety, and energy efficiency without breaking the bank."
       },
       {
             "type": "paragraph",
@@ -106,7 +106,7 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Apply for financing online, over the phone, or during your service appointment. Our streamlined application process typically takes just a few minutes to complete, and most customers receive approval decisions the same day—often within minutes."
+            "content": "Apply for financing online, over the phone, or during your service appointment. Our streamlined application process typically takes just a few minutes to complete, and most customers receive approval decisions the same day-often within minutes."
       },
       {
             "type": "heading",
@@ -130,10 +130,10 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "0% interest for qualified periods on approved credit | Deferred payment options—no payments for months | Seasonal promotions on HVAC, solar, and plumbing projects | Flexible terms for projects of all sizes",
+            "content": "0% interest for qualified periods on approved credit | Deferred payment options-no payments for months | Seasonal promotions on HVAC, solar, and plumbing projects | Flexible terms for projects of all sizes",
             "items": [
                   "0% interest for qualified periods on approved credit",
-                  "Deferred payment options—no payments for months",
+                  "Deferred payment options-no payments for months",
                   "Seasonal promotions on HVAC, solar, and plumbing projects",
                   "Flexible terms for projects of all sizes"
             ]
@@ -166,7 +166,7 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Address urgent issues immediately instead of waiting to save up. Delaying repairs can lead to more expensive problems down the road—financing helps you act now and prevent further damage."
+            "content": "Address urgent issues immediately instead of waiting to save up. Delaying repairs can lead to more expensive problems down the road-financing helps you act now and prevent further damage."
       },
       {
             "type": "heading",
@@ -200,11 +200,11 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size. | Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.). | Emergency Services: Don't let a broken AC or burst pipe wait—financing is available for urgent repairs so you can get back to comfort quickly. | Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings.",
+            "content": "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size. | Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.). | Emergency Services: Don't let a broken AC or burst pipe wait-financing is available for urgent repairs so you can get back to comfort quickly. | Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings.",
             "items": [
                   "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size.",
                   "Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.).",
-                  "Emergency Services: Don't let a broken AC or burst pipe wait—financing is available for urgent repairs so you can get back to comfort quickly.",
+                  "Emergency Services: Don't let a broken AC or burst pipe wait-financing is available for urgent repairs so you can get back to comfort quickly.",
                   "Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings."
             ]
       },
@@ -220,13 +220,13 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing. | Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job. | Comprehensive Services: One company for all your needs—HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner. | Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers. | 24/7 Emergency Service: We're here when you need us most—no extra charges for appointment times, even for emergency calls. | Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations.",
+            "content": "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing. | Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job. | Comprehensive Services: One company for all your needs-HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner. | Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers. | 24/7 Emergency Service: We're here when you need us most-no extra charges for appointment times, even for emergency calls. | Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations.",
             "items": [
                   "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing.",
                   "Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job.",
-                  "Comprehensive Services: One company for all your needs—HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner.",
+                  "Comprehensive Services: One company for all your needs-HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner.",
                   "Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers.",
-                  "24/7 Emergency Service: We're here when you need us most—no extra charges for appointment times, even for emergency calls.",
+                  "24/7 Emergency Service: We're here when you need us most-no extra charges for appointment times, even for emergency calls.",
                   "Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations."
             ]
       },
@@ -310,33 +310,33 @@ export const financingData: ServicePageData = {
       },
       {
             "type": "list",
-            "content": "0% interest for qualified periods on approved credit | Deferred payment options—no payments for months | Seasonal promotions on HVAC, solar, and plumbing projects | Flexible terms for projects of all sizes",
+            "content": "0% interest for qualified periods on approved credit | Deferred payment options-no payments for months | Seasonal promotions on HVAC, solar, and plumbing projects | Flexible terms for projects of all sizes",
             "items": [
                   "0% interest for qualified periods on approved credit",
-                  "Deferred payment options—no payments for months",
+                  "Deferred payment options-no payments for months",
                   "Seasonal promotions on HVAC, solar, and plumbing projects",
                   "Flexible terms for projects of all sizes"
             ]
       },
       {
             "type": "list",
-            "content": "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size. | Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.). | Emergency Services: Don't let a broken AC or burst pipe wait—financing is available for urgent repairs so you can get back to comfort quickly. | Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings.",
+            "content": "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size. | Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.). | Emergency Services: Don't let a broken AC or burst pipe wait-financing is available for urgent repairs so you can get back to comfort quickly. | Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings.",
             "items": [
                   "Small to Large Projects: Whether you need a simple repair or a complete system replacement, we have financing options scaled to your project size.",
                   "Various Credit Profiles: We work with lenders who serve customers with fair to excellent credit. All financing is subject to credit approval (O.A.C.).",
-                  "Emergency Services: Don't let a broken AC or burst pipe wait—financing is available for urgent repairs so you can get back to comfort quickly.",
+                  "Emergency Services: Don't let a broken AC or burst pipe wait-financing is available for urgent repairs so you can get back to comfort quickly.",
                   "Planned Upgrades: Financing long-term improvements like solar installations or complete HVAC system upgrades allows you to enhance your home without depleting your savings."
             ]
       },
       {
             "type": "list",
-            "content": "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing. | Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job. | Comprehensive Services: One company for all your needs—HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner. | Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers. | 24/7 Emergency Service: We're here when you need us most—no extra charges for appointment times, even for emergency calls. | Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations.",
+            "content": "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing. | Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job. | Comprehensive Services: One company for all your needs-HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner. | Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers. | 24/7 Emergency Service: We're here when you need us most-no extra charges for appointment times, even for emergency calls. | Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations.",
             "items": [
                   "Over 23,000 Five-Star Reviews: Tucson homeowners trust us for exceptional service, quality workmanship, and honest pricing.",
                   "Family & Veteran-Owned: Founded by Marine veteran Andrew Dobbins, we bring military precision and family values to every job.",
-                  "Comprehensive Services: One company for all your needs—HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner.",
+                  "Comprehensive Services: One company for all your needs-HVAC, solar, plumbing, electrical, and roofing. Simplify your home maintenance with one trusted partner.",
                   "Licensed & Certified Technicians: Our team includes EPA-certified HVAC technicians, licensed plumbers, certified electricians, and experienced solar installers.",
-                  "24/7 Emergency Service: We're here when you need us most—no extra charges for appointment times, even for emergency calls.",
+                  "24/7 Emergency Service: We're here when you need us most-no extra charges for appointment times, even for emergency calls.",
                   "Lifetime Warranties Available: Protect your investment with industry-leading warranty options on equipment and installations."
             ]
       }

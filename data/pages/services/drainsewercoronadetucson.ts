@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const drainsewercoronadetucsonData: ServicePageData = {
   // SEO & Meta
   title: "Drain & Sewer Corona de Tucson | Intelligent Design",
-  description: "Drain & sewer service in Corona de Tucson (85641) — camera inspections, hydro-jetting, mainline repairs. 46+ yrs experience. Schedule an inspection today.",
+  description: "Drain & sewer service in Corona de Tucson (85641) - camera inspections, hydro-jetting, mainline repairs. 46+ yrs experience. Schedule an inspection today.",
   slug: "drain-sewer-corona-de-tucson",
   
   // Hero Section
   h1: "Corona de Tucson Drain & Sewer Services",
   h2Subheading: "Local drain and sewer specialists familiar with Corona de Tucson’s caliche soil, newer subdivisions, and equestrian acreage",
-  tagline: "Serving Corona de Tucson (85641) — 46+ years local experience, 4.97★ from 3,600+ reviews",
+  tagline: "Serving Corona de Tucson (85641) - 46+ years local experience, 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer services in Corona de Tucson, Arizona",
   

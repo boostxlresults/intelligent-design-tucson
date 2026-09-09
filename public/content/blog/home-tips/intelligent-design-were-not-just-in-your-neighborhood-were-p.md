@@ -31,7 +31,7 @@ What’s up, Corona de Tucson? We’re Intelligent Design, your go-to for AC, He
 
 ### So, What’s the Vibe in Corona de Tucson?
 
-This place is booming, right? Families, young professionals, and folks who’ve seen a few more sunsets—Corona de Tucson has got it all. And let’s not forget, we’re a community that values quality. From our homes to our lifestyle, we choose the best.
+This place is booming, right? Families, young professionals, and folks who’ve seen a few more sunsets-Corona de Tucson has got it all. And let’s not forget, we’re a community that values quality. From our homes to our lifestyle, we choose the best.
 
 #### Custom-Made Services Just for You
 

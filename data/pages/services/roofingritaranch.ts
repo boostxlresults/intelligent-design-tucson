@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const roofingritaranchData: ServicePageData = {
   // SEO & Meta
   title: "Rita Ranch Roofing Experts | Roof Repair & Replacement",
-  description: "Rita Ranch roofing repairs and replacements in 85747 — tile specialists, HOA compliance, free roof assessment. Call Intelligent Design today.",
+  description: "Rita Ranch roofing repairs and replacements in 85747 - tile specialists, HOA compliance, free roof assessment. Call Intelligent Design today.",
   slug: "roofing-rita-ranch",
   
   // Hero Section
   h1: "Rita Ranch Roofing Services - Tile & Shingle Experts",
   h2Subheading: "Local roofing care tailored to Rita Ranch’s tile roofs, HOA rules, and monsoon exposure",
-  tagline: "46+ years serving Rita Ranch (85747) — 4.97★ from 3,600+ reviews, roof work built for local climate",
+  tagline: "46+ years serving Rita Ranch (85747) - 4.97★ from 3,600+ reviews, roof work built for local climate",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Rita Ranch, Arizona",
   

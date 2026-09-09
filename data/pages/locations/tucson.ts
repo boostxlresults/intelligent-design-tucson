@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tucsonData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tucson, AZ | #1 Rated Company',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tucson and all surrounding areas. Serving 38 zip codes across Tucson metro including 85701, 85704, 85710, 85718, 85741, 85746, 85749, and more since 1979. 24/7 emergency service. BBB A+ rated.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tucson and all surrounding areas.',
   slug: 'tucson',
   
   // Hero Section
@@ -114,7 +114,7 @@ export const tucsonData: LocationPageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not just contractors—we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
+            "content": "We're not just contractors-we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
       },
       {
             "type": "heading",

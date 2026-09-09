@@ -41,8 +41,8 @@ export async function POST(request: NextRequest) {
       ['Name', d.name],
       ['Phone', d.phone],
       ['Service', d.service],
-      ['Who quoted them', d.whoQuoted || '—'],
-      ['Details', d.details || '—'],
+      ['Who quoted them', d.whoQuoted || '-'],
+      ['Details', d.details || '-'],
       ['GCLID', d.gclid || '(none)'],
       ['GBRAID', d.gbraid || '(none)'],
       ['WBRAID', d.wbraid || '(none)'],
@@ -54,7 +54,7 @@ export async function POST(request: NextRequest) {
       <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
         <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">Free Second-Opinion Request</h1></div>
         <div style="padding:20px;background:#f5f5f5;">
-          <div style="background:#fff3cd;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Conquest lead</strong> — competitor comparison page (${esc(d.service)})</div>
+          <div style="background:#fff3cd;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Conquest lead</strong> - competitor comparison page (${esc(d.service)})</div>
           <table style="width:100%;border-collapse:collapse;">${rows}</table>
           <p style="margin-top:16px;color:#555;font-size:12px;">Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}</p>
         </div>
@@ -64,7 +64,7 @@ export async function POST(request: NextRequest) {
 
     await sendEmail({
       to: 'csrteam@idesignac.com',
-      subject: `Second Opinion (${d.service}): ${d.name} — quoted by ${d.whoQuoted || 'unknown'}`,
+      subject: `Second Opinion (${d.service}): ${d.name} - quoted by ${d.whoQuoted || 'unknown'}`,
       htmlBody,
       textBody,
     });

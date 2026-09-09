@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 const data: ServicePageData = {
   title: "Drain Clearing in Cortaro, AZ | Intelligent Design Plumbing",
-  description: "Expert drain clearing and hydro jetting in Cortaro, AZ. We solve slow drains and root intrusions in Continental Ranch and Cortaro Farms. Call (520) 333-2665.",
+  description: "Expert drain clearing and hydro jetting in Cortaro, AZ. We solve slow drains and root intrusions in Continental Ranch and Cortaro Farms.",
   slug: "drain-clearing-cortaro",
   h1: "Professional Drain Clearing Services in Cortaro",
   h2Subheading: "Clearing Stubborn Clogs and Root Intrusions in Cortaro's Planned Communities",

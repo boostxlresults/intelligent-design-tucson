@@ -9,7 +9,7 @@ export const roofinggladdenfarmsData: ServicePageData = {
   slug: "roofing-gladden-farms",
   h1: "Gladden Farms Roofing Services",
   h2Subheading: "Expert roof repair, replacement and coatings for Gladden Farms homes",
-  tagline: "Durable roofs for modern Gladden Farms homes — local, experienced, reliable.",
+  tagline: "Durable roofs for modern Gladden Farms homes - local, experienced, reliable.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Gladden Farms, Arizona",
     serviceName: "Roofing",

@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: "Is the inspection really free?",
-    a: "Yes. There is no fee and no obligation. Our technicians are non-commissioned, so you get an honest assessment — and many roofs turn out to be just fine after a storm.",
+    a: "Yes. There is no fee and no obligation. Our technicians are non-commissioned, so you get an honest assessment - and many roofs turn out to be just fine after a storm.",
   },
   {
     q: "What if I need repairs?",
@@ -67,7 +67,7 @@ const schema = {
 };
 
 const reviews = [
-  { quote: "After the July storm we had water spots on the ceiling. They came out same day, took photos, and told us the tiles were fine — no upsell at all.", name: "M. Reyes", area: "Oro Valley" },
+  { quote: "After the July storm we had water spots on the ceiling. They came out same day, took photos, and told us the tiles were fine - no upsell at all.", name: "M. Reyes", area: "Oro Valley" },
   { quote: "Lost a few tiles in the high winds. They tarped it that afternoon and emailed a full photo report. Fast and honest.", name: "J. Carter", area: "Marana" },
   { quote: "I thought we needed a whole new roof. Their tech showed me the photos and said it just needed a small repair. Saved us thousands.", name: "D. Nguyen", area: "Catalina Foothills" },
 ];
@@ -122,16 +122,16 @@ export default function FreeRoofInspectionPage() {
         </div>
       </section>
 
-      {/* SECTION 2 — WHAT'S INCLUDED */}
+      {/* SECTION 2 - WHAT'S INCLUDED */}
       <section className="mx-auto max-w-4xl px-4 py-10 md:px-8 md:py-14">
         <h2 className="text-2xl font-bold text-primary md:text-3xl">What your free inspection includes</h2>
         <div className="mt-6 grid gap-4 sm:grid-cols-2">
           {[
-            [Home, "Full roof walk", "Every roof type checked — tile, shingle, and foam."],
+            [Home, "Full roof walk", "Every roof type checked - tile, shingle, and foam."],
             [Camera, "Photo report same day", "You get emailed photos of exactly what we found."],
             [CheckCircle2, "Honest recommendation", "Many roofs turn out fine. We tell you the truth either way."],
             [ShieldCheck, "Priority emergency tarping", "Active leak? We can tarp it to stop the damage fast."],
-            [HandCoins, "No fee, no pressure", "No cost, no obligation, no hard sell — period."],
+            [HandCoins, "No fee, no pressure", "No cost, no obligation, no hard sell - period."],
             [Clock, "Same-day slots", "Book today and we come out this week."],
           ].map(([Icon, t, d]) => {
             const I = Icon as typeof Home;
@@ -148,7 +148,7 @@ export default function FreeRoofInspectionPage() {
         </div>
       </section>
 
-      {/* SECTION 3 — SOCIAL PROOF */}
+      {/* SECTION 3 - SOCIAL PROOF */}
       <section className="bg-secondary">
         <div className="mx-auto max-w-5xl px-4 py-10 md:px-8 md:py-14">
           <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">What Tucson neighbors say</h2>
@@ -170,7 +170,7 @@ export default function FreeRoofInspectionPage() {
         </div>
       </section>
 
-      {/* SECTION 4 — WHY US */}
+      {/* SECTION 4 - WHY US */}
       <section className="mx-auto max-w-4xl px-4 py-10 md:px-8 md:py-14">
         <h2 className="text-2xl font-bold text-primary md:text-3xl">Why Tucson homeowners call us after a storm</h2>
         <div className="mt-6 grid gap-4 sm:grid-cols-2">
@@ -178,7 +178,7 @@ export default function FreeRoofInspectionPage() {
             ["46+ years in Tucson", "Family- and veteran-owned, serving Tucson since 1979."],
             ["Every roof type", "Tile, shingle, foam, and our exclusive ThermalCork coating."],
             ["Same-day emergency tarp", "We stop active leaks fast to protect what is underneath."],
-            ["Non-commissioned techs", "Our inspectors do not earn commission — so you get an honest call, not a sales pitch."],
+            ["Non-commissioned techs", "Our inspectors do not earn commission - so you get an honest call, not a sales pitch."],
           ].map(([t, d]) => (
             <div key={t} className="rounded-xl border border-border bg-card p-5">
               <p className="font-bold text-primary">{t}</p>
@@ -188,7 +188,7 @@ export default function FreeRoofInspectionPage() {
         </div>
       </section>
 
-      {/* SECTION 5 — FAQ */}
+      {/* SECTION 5 - FAQ */}
       <section className="bg-secondary">
         <div className="mx-auto max-w-3xl px-4 py-10 md:px-8 md:py-14">
           <h2 className="text-center text-2xl font-bold text-primary md:text-3xl">Quick questions</h2>

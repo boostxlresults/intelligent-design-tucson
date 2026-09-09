@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const drainsewermaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Drain & Sewer Services | Marana Drain & Sewer",
-  description: "Expert Drain & Sewer service in Marana (85653, 85658, 85743). Fast local response — call for inspection and pricing details today.",
+  description: "Expert Drain & Sewer service in Marana (85653, 85658, 85743). Fast local response - call for inspection and pricing details today.",
   slug: "drain-sewer-marana",
   
   // Hero Section
   h1: "Marana Drain & Sewer Services",
   h2Subheading: "Local drain and sewer expertise tailored to Marana's newer neighborhoods, monsoon runoff and hard water conditions",
-  tagline: "Serving Marana for 46+ years — 4.97★ from 3,600+ reviews; dependable drain and sewer care for 85653, 85658, 85743",
+  tagline: "Serving Marana for 46+ years - 4.97★ from 3,600+ reviews; dependable drain and sewer care for 85653, 85658, 85743",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain & Sewer services in Marana, Arizona",
   

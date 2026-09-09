@@ -2,7 +2,7 @@ import { PhoneCall, CalendarClock, Wrench } from "lucide-react";
 
 const STEPS = [
   { icon: PhoneCall, title: "1. You call, a real person answers", desc: "No phone tree. We confirm your address, the problem, and the soonest time we can be there." },
-  { icon: CalendarClock, title: "2. We give you a real arrival window", desc: "Often same day. We text when the technician is on the way &mdash; no all-day waiting." },
+  { icon: CalendarClock, title: "2. We give you a real arrival window", desc: "Often same day. We text when the technician is on the way - no all-day waiting." },
   { icon: Wrench, title: "3. Diagnose, quote, then fix", desc: "The technician finds the problem and gives you the price up front. Nothing gets done until you say yes." },
 ];
 

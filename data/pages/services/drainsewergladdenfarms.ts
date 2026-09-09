@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const drainsewergladdenfarmsData: ServicePageData = {
   title: "Drain & Sewer Services in Gladden Farms, AZ | Intelligent Design",
-  description: "Expert drain and sewer services in Gladden Farms, AZ. From camera inspections to trenchless repairs, we handle slow drainage and construction debris issues.",
+  description: "Expert drain and sewer services in Gladden Farms, AZ. From camera inspections to trenchless repairs, we handle slow drainage and construction debris.",
   slug: "drain-sewer-gladden-farms",
   h1: "Drain & Sewer Services in Gladden Farms",
   h2Subheading: "Modern Plumbing Solutions for Marana's Master-Planned Community",

@@ -4,7 +4,7 @@ import { septicReplacementFAQs } from '@/data/faqs/septic';
 
 export const septictankreplacementData: ServicePageData = {
   title: 'Septic Tank Replacement Cost Tucson AZ | Septic System Replacement Cost',
-  description: 'Septic tank replacement cost & septic system replacement cost in Tucson. Professional tank removal and new installation with Pima County permits. Free estimates. Call (520) 333-2665.',
+  description: 'Septic tank replacement cost & septic system replacement cost in Tucson. Professional tank removal and new installation with Pima County permits.',
   slug: 'septic-tank-replacement',
   
   h1: 'Septic Tank Replacement in Tucson - Failing Tank? Replaced Right.',
@@ -54,11 +54,11 @@ export const septictankreplacementData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "When a septic tank reaches the end of its life or suffers structural failure, replacement becomes necessary to protect your home and property. Cracked concrete, collapsed walls, corroded components, and undersized tanks all warrant replacement rather than continued repair. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide complete septic tank replacement services throughout Tucson and Pima County—handling everything from old tank removal and proper abandonment to new tank installation and system testing."
+        content: "When a septic tank reaches the end of its life or suffers structural failure, replacement becomes necessary to protect your home and property. Cracked concrete, collapsed walls, corroded components, and undersized tanks all warrant replacement rather than continued repair. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide complete septic tank replacement services throughout Tucson and Pima County-handling everything from old tank removal and proper abandonment to new tank installation and system testing."
       },
       {
         type: "paragraph",
-        content: "Expert Replacement for Tucson Properties: Tucson's desert environment is hard on septic tanks. Shifting soils from monsoon rains stress concrete tanks, extreme temperature cycles cause expansion and contraction, and years of use eventually take their toll on any tank material. Our 46+ years of experience means we've replaced tanks in every situation—from straightforward like-for-like replacements to complex projects requiring system redesign. We understand Pima County regulations and handle all permitting, inspections, and documentation."
+        content: "Expert Replacement for Tucson Properties: Tucson's desert environment is hard on septic tanks. Shifting soils from monsoon rains stress concrete tanks, extreme temperature cycles cause expansion and contraction, and years of use eventually take their toll on any tank material. Our 46+ years of experience means we've replaced tanks in every situation-from straightforward like-for-like replacements to complex projects requiring system redesign. We understand Pima County regulations and handle all permitting, inspections, and documentation."
       },
       {
         type: "paragraph",
@@ -218,7 +218,7 @@ export const septictankreplacementData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Tank replacement often raises questions about drain field condition. If your drain field is working properly, replacement may not be necessary—the new tank simply connects to the existing distribution system. However, tank failure sometimes indicates or causes drain field problems. We evaluate drain field condition during tank inspection and recommend appropriate solutions. If drain field repair or replacement is needed, we can complete that work during the tank replacement project for efficiency."
+        content: "Tank replacement often raises questions about drain field condition. If your drain field is working properly, replacement may not be necessary-the new tank simply connects to the existing distribution system. However, tank failure sometimes indicates or causes drain field problems. We evaluate drain field condition during tank inspection and recommend appropriate solutions. If drain field repair or replacement is needed, we can complete that work during the tank replacement project for efficiency."
       },
       {
         type: "heading",

@@ -9,7 +9,7 @@ import { isPaidLandingPage } from "@/lib/campaignPhones";
  *
  * MUST RUN ON EVERY PAGE. No path exclusions. (2026-09-08)
  *
- * DNI previously returned null for any route in CAMPAIGN_PHONES — which meant every
+ * DNI previously returned null for any route in CAMPAIGN_PHONES - which meant every
  * paid landing page under /lp/* rendered with a hardcoded campaign number and no
  * ServiceTitan script at all. Consequence: a call could be bucketed to a campaign,
  * but with no gclid captured ServiceTitan could not upload the conversion back to
@@ -29,13 +29,13 @@ import { isPaidLandingPage } from "@/lib/campaignPhones";
  *
  * Do NOT reintroduce a pathname check here.
  *
- * LOAD STRATEGY (2026-09-08): organic pages keep strategy="lazyOnload" — DNI does
+ * LOAD STRATEGY (2026-09-08): organic pages keep strategy="lazyOnload" - DNI does
  * not need to run before LCP, only before a user taps a number, which on those
  * pages happens well after load. Paid landing pages use "afterInteractive"
  * instead, because their entire design is a tap-to-call above the fold and a
  * visitor arriving hot from an ad may tap within a second or two. Until the swap
  * runs, the markup shows the DNI source number (the main company line), and a
- * call placed on it lands in a generic ServiceTitan bucket with no campaign — so
+ * call placed on it lands in a generic ServiceTitan bucket with no campaign - so
  * the swap needs to win that race.
  *
  * This is a STRATEGY switch, not an exclusion. DNI loads on every page either
@@ -43,7 +43,7 @@ import { isPaidLandingPage } from "@/lib/campaignPhones";
  */
 export default function DNIInjector() {
   const pathname = usePathname();
-  // NOT an exclusion — this only decides how EARLY the script loads.
+  // NOT an exclusion - this only decides how EARLY the script loads.
   const strategy = isPaidLandingPage(pathname) ? "afterInteractive" : "lazyOnload";
   return (
     <Script

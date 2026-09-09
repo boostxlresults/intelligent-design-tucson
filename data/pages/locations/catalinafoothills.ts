@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const catalinafoothillsData: LocationPageData = {
   // SEO & Meta
   title: 'Premium HVAC, Plumbing & Solar Services in Catalina Foothills, AZ',
-  description: 'Expert home services in Catalina Foothills, in the northeast Tucson foothills near Sabino Canyon. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
+  description: 'Expert home services in Catalina Foothills, in the northeast Tucson foothills near Sabino Canyon. 24/7 emergency. 23,000+ five-star reviews.',
   slug: 'catalina-foothills',
   
   // Hero Section

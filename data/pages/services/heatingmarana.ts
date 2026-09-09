@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const heatingmaranaData: ServicePageData = {
   // SEO & Meta
   title: "Marana Heating Services | Intelligent Design HVAC",
-  description: "Marana heating repairs, tune-ups & installs for 85653, 85658, 85743. Fast local service — call for same-week appointments.",
+  description: "Marana heating repairs, tune-ups & installs for 85653, 85658, 85743. Fast local service - call for same-week appointments.",
   slug: "heating-marana",
   
   // Hero Section
   h1: "Marana Heating Services",
   h2Subheading: "Local heating expertise for Dove Mountain, Continental Ranch, and 85653–85743 homes",
-  tagline: "46+ years serving Greater Tucson; 4.97★ from 3,600+ reviews — trusted in Marana neighborhoods",
+  tagline: "46+ years serving Greater Tucson; 4.97★ from 3,600+ reviews - trusted in Marana neighborhoods",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Heating services in Marana, Arizona",
   

@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingsaddlebrookeData: ServicePageData = {
   // SEO & Meta
   title: "SaddleBrooke Plumbing | Intelligent Design Services",
-  description: "SaddleBrooke plumbing experts servicing 85739 — repairs, water heaters, filtration. Call for fast, local service and transparent pricing.",
+  description: "SaddleBrooke plumbing experts servicing 85739 - repairs, water heaters, filtration. Call for fast, local service and transparent pricing.",
   slug: "plumbing-saddle-brooke",
   
   // Hero Section

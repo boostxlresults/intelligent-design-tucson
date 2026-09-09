@@ -4,7 +4,7 @@ import { septicInstallationFAQs } from '@/data/faqs/septic';
 
 export const septictankinstallationData: ServicePageData = {
   title: 'Septic Tank Installation Cost Tucson AZ | Septic System Installation Near Me',
-  description: 'Septic tank installation cost & septic system installation cost in Tucson. Cost of putting in a septic tank with permits included. Septic tank installation near me. Call (520) 333-2665 for free estimate.',
+  description: 'Septic tank installation cost & septic system installation cost in Tucson. Cost of putting in a septic tank with permits included.',
   slug: 'septic-tank-installation',
   
   h1: 'Septic Tank Installation in Tucson - Built to Last Decades.',
@@ -54,7 +54,7 @@ export const septictankinstallationData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Installing a septic system in Tucson requires expertise in local soil conditions, Pima County regulations, and desert-appropriate design. Whether you're building a new home in a rural area, developing property without access to municipal sewer, or replacing a failed system, proper septic installation is critical for protecting your investment and the environment. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide complete septic tank installation services throughout Pima County—from initial site evaluation and permitting through final inspection and system commissioning."
+        content: "Installing a septic system in Tucson requires expertise in local soil conditions, Pima County regulations, and desert-appropriate design. Whether you're building a new home in a rural area, developing property without access to municipal sewer, or replacing a failed system, proper septic installation is critical for protecting your investment and the environment. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide complete septic tank installation services throughout Pima County-from initial site evaluation and permitting through final inspection and system commissioning."
       },
       {
         type: "paragraph",
@@ -214,7 +214,7 @@ export const septictankinstallationData: ServicePageData = {
           "Licensed, bonded, and insured (ROC #171687, ROC #340962)",
           "Family and veteran-owned company",
           "23,000+ five-star reviews",
-          "Complete permit handling—PDEQ specialists",
+          "Complete permit handling-PDEQ specialists",
           "Expert knowledge of Tucson soil conditions",
           "All tank types and system configurations",
           "Comprehensive warranties on installation",

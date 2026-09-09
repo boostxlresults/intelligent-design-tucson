@@ -8,7 +8,7 @@ import { guaranteesFAQs } from '@/data/faqs/general';
 export const guaranteesData: ServicePageData = {
   // SEO & Meta
   title: 'Guarantees & Warranties | Intelligent Design Tucson | Lifetime Protection',
-  description: 'Unmatched guarantees on HVAC, plumbing, solar, electrical & roofing in Tucson. No Lemon Guarantee, Satisfaction Guarantee, Lifetime Craftsmanship Warranty, and more. 24/7 service with over 23,000 five-star reviews.',
+  description: 'Unmatched guarantees on HVAC, plumbing, solar, electrical & roofing in Tucson. No Lemon Guarantee, Satisfaction Guarantee, Lifetime Craftsmanship Warranty.',
   slug: 'guarantees',
   
   // Hero Section
@@ -35,7 +35,7 @@ export const guaranteesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Since 1979, Intelligent Design has been Tucson's trusted home services expert. Our comprehensive guarantees aren't just promises—they're our commitment to exceptional service, quality workmanship, and your complete satisfaction."
+            "content": "Since 1979, Intelligent Design has been Tucson's trusted home services expert. Our comprehensive guarantees aren't just promises-they're our commitment to exceptional service, quality workmanship, and your complete satisfaction."
       },
       {
             "type": "paragraph",

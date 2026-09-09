@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const waterheaterflushData: ServicePageData = {
   // SEO & Meta
   title: 'Water Heater Flush & Maintenance Tucson AZ | Extend Heater Lifespan',
-  description: 'Professional water heater flush and maintenance in Tucson. Extend lifespan, improve efficiency, prevent breakdowns. Combat hard water buildup. Call (520) 333-2665 for service.',
+  description: 'Professional water heater flush and maintenance in Tucson. Extend lifespan, improve efficiency, prevent breakdowns. Combat hard water buildup. for service.',
   slug: 'water-heater-flush',
   
   // Hero Section
@@ -59,7 +59,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Water heater maintenance is one of the most cost-effective investments you can make in your Tucson home. A simple annual flush service costs $100-$200 but extends your water heater's lifespan by 3-5 years, maintains peak efficiency, prevents expensive breakdowns, and saves money on energy bills. For Tucson homeowners dealing with extremely hard water containing 12-16 grains per gallon of dissolved minerals—nearly double the national average of 7-8 grains—regular maintenance isn't optional, it's essential for protecting your [link:/services/water-heater-installation|water heater] investment and avoiding premature failure that costs $1,500-$4,000 to replace."
+            "content": "Water heater maintenance is one of the most cost-effective investments you can make in your Tucson home. A simple annual flush service costs $100-$200 but extends your water heater's lifespan by 3-5 years, maintains peak efficiency, prevents expensive breakdowns, and saves money on energy bills. For Tucson homeowners dealing with extremely hard water containing 12-16 grains per gallon of dissolved minerals-nearly double the national average of 7-8 grains-regular maintenance isn't optional, it's essential for protecting your [link:/services/water-heater-installation|water heater] investment and avoiding premature failure that costs $1,500-$4,000 to replace."
       },
       {
             "type": "paragraph",
@@ -71,7 +71,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided water heater maintenance services in Tucson since 1979—over 46 years of experience protecting homeowners from hard water damage. Our licensed master plumbers understand exactly how Tucson's mineral-rich water affects different water heater types and what comprehensive maintenance is required to keep them operating efficiently for their full designed lifespan and beyond. We use professional power flushing equipment that completely removes sediment (not just partial flushing that leaves hardened layers behind), inspect and replace critical components like sacrificial anode rods that protect tanks from corrosion, test all safety devices including temperature-pressure relief valves, and provide detailed service reports with photos documenting your water heater's condition and our work."
+            "content": "At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've provided water heater maintenance services in Tucson since 1979-over 46 years of experience protecting homeowners from hard water damage. Our licensed master plumbers understand exactly how Tucson's mineral-rich water affects different water heater types and what comprehensive maintenance is required to keep them operating efficiently for their full designed lifespan and beyond. We use professional power flushing equipment that completely removes sediment (not just partial flushing that leaves hardened layers behind), inspect and replace critical components like sacrificial anode rods that protect tanks from corrosion, test all safety devices including temperature-pressure relief valves, and provide detailed service reports with photos documenting your water heater's condition and our work."
       },
       {
             "type": "cta",
@@ -98,7 +98,7 @@ export const waterheaterflushData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "When hard water enters your water heater and is heated to 120-140°F, the dissolved calcium and magnesium minerals precipitate out of solution as solid particles that settle to the tank bottom. A typical Tucson household using 50-80 gallons of hot water daily generates 5-10 pounds of sediment annually in a standard 50-gallon tank water heater—enough mineral buildup to fill a 2-liter soda bottle with cement-like deposits. Without annual flushing to remove this accumulation, the sediment layer grows progressively thicker: 1/4 to 1/2 inch after one year, 1/2 to 1 inch after two years, 1 to 2 inches after three years, and often 2+ inches of hardened sediment after 4-5 years without maintenance."
+            "content": "When hard water enters your water heater and is heated to 120-140°F, the dissolved calcium and magnesium minerals precipitate out of solution as solid particles that settle to the tank bottom. A typical Tucson household using 50-80 gallons of hot water daily generates 5-10 pounds of sediment annually in a standard 50-gallon tank water heater-enough mineral buildup to fill a 2-liter soda bottle with cement-like deposits. Without annual flushing to remove this accumulation, the sediment layer grows progressively thicker: 1/4 to 1/2 inch after one year, 1/2 to 1 inch after two years, 1 to 2 inches after three years, and often 2+ inches of hardened sediment after 4-5 years without maintenance."
       }
     ]
   },

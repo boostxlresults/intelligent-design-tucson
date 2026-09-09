@@ -12,7 +12,7 @@ export const drainclearingorovalleyData: ServicePageData = {
   // Hero Section
   h1: "Oro Valley Drain Clearing Services",
   h2Subheading: "Root, pool and outdoor-kitchen drain experts for Rancho Vistoso, Sun City Oro Valley, and Pusch Ridge",
-  tagline: "46+ years serving Oro Valley residents — 4.97★ from 3,600+ Tucson reviews",
+  tagline: "46+ years serving Oro Valley residents - 4.97★ from 3,600+ Tucson reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing services in Oro Valley, Arizona",
   

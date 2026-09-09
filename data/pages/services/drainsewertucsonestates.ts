@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 const data: ServicePageData = {
   title: "Drain & Sewer Services in Tucson Estates | Intelligent Design",
-  description: "Expert drain and sewer repair in Tucson Estates, AZ. We fix aging clay pipes, root intrusion, and bellied lines in 85735 & 85713. Call (520) 333-2665 today!",
+  description: "Expert drain and sewer repair in Tucson Estates, AZ. We fix aging clay pipes, root intrusion, and bellied lines in 85735 & 85713. today!",
   slug: "drain-sewer-tucson-estates",
   h1: "Drain & Sewer Services in Tucson Estates, AZ",
   h2Subheading: "Reliable Sewer Line Repair & Replacement for Tucson Estates Homes",

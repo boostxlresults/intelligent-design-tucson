@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const solarinstallationavravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Solar Installation | Intelligent Design",
-  description: "Avra Valley Solar Installation by Intelligent Design — tailored systems for 85743 & 85653. Learn local pricing and resilience options. Call today.",
+  description: "Avra Valley Solar Installation by Intelligent Design - tailored systems for 85743 & 85653. Learn local pricing and resilience options. Call today.",
   slug: "solar-installation-avra-valley",
   
   // Hero Section

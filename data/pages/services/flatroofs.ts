@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const flatroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Flat Roof Repair & Installation Tucson AZ | TPO, EPDM, Modified Bitumen',
-  description: 'Expert flat roof systems in Tucson. TPO, EPDM, modified bitumen installation & repair for commercial and residential. Superior drainage solutions. 46+ years experience. Call (520) 333-2665.',
+  description: 'Expert flat roof systems in Tucson. TPO, EPDM, modified bitumen installation & repair for commercial and residential. Superior drainage solutions.',
   slug: 'flat-roofs',
   
   // Hero Section
@@ -52,7 +52,7 @@ export const flatroofsData: ServicePageData = {
   featuredVideo: {
     videoId: "zd2_RtdYRUo",
     title: "Package Unit Installation in Tucson | Intelligent Design AC",
-    description: "Intelligent Design demonstrates rooftop package unit installation on flat roof structures in Tucson — a common configuration for Arizona homes.",
+    description: "Intelligent Design demonstrates rooftop package unit installation on flat roof structures in Tucson - a common configuration for Arizona homes.",
     duration: "PT5M",
     uploadDate: "2024-01-01T00:00:00Z"
   },

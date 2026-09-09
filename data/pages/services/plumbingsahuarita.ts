@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const plumbingsahuaritaData: ServicePageData = {
   title: "Plumbing Services in Sahuarita, AZ | Intelligent Design",
-  description: "Expert plumbing services in Sahuarita, AZ. From water heater repair to water softeners, our local plumbers serve Rancho Sahuarita & 85629. Call (520) 333-2665!",
+  description: "Expert plumbing services in Sahuarita, AZ. From water heater repair to water softeners, our local plumbers serve Rancho Sahuarita & 85629.!",
   slug: "plumbing-sahuarita",
   h1: "Expert Plumbing Services in Sahuarita, AZ",
   h2Subheading: "Reliable Plumbing Solutions for Sahuarita's Growing Communities",

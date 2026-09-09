@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const electricalrillitoData: ServicePageData = {
   // SEO & Meta
   title: "Rillito Electrical Services | Intelligent Design",
-  description: "Trusted Rillito electrical services in 85654—panels, well pumps, farm power, and solar tie-ins. Call for local inspections and estimates.",
+  description: "Trusted Rillito electrical services in 85654-panels, well pumps, farm power, and solar tie-ins. Call for local inspections and estimates.",
   slug: "electrical-rillito",
   
   // Hero Section

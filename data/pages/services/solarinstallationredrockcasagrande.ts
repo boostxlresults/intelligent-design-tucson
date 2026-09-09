@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationredrockcasagrandeData: ServicePageData = {
   title: "Solar Panel Installation in Red Rock & Casa Grande | Intelligent Design",
-  description: "Expert solar installation in Red Rock & Casa Grande. Maximize your energy savings in the extreme heat of Pinal County with our premium solar solutions. Call (520) 333-2665.",
+  description: "Expert solar installation in Red Rock & Casa Grande. Maximize your energy savings in the extreme heat of Pinal County with our premium solar solutions.",
   slug: "solar-installation-red-rock-casa-grande",
   h1: "Solar Panel Installation in Red Rock & Casa Grande",
   h2Subheading: "Harnessing Maximum Solar Potential in Pinal County's Hottest Zone",

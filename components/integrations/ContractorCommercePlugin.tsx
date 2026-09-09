@@ -6,7 +6,7 @@ const PLUGIN_KEY = "D32QhwUokdL5YZLParGpbxc7TuBTkYanGNQSR4zd";
 const PLUGIN_SRC = `https://plugin.contractorcommerce.com?key=${PLUGIN_KEY}`;
 
 /**
- * ContractorCommerce Plugin — IntersectionObserver Lazy Loader
+ * ContractorCommerce Plugin - IntersectionObserver Lazy Loader
  * 
  * Previous issue: Loading this script with "afterInteractive" or "lazyOnload"
  * still caused ~986 KiB of JS to execute on every page, contributing to
@@ -14,7 +14,7 @@ const PLUGIN_SRC = `https://plugin.contractorcommerce.com?key=${PLUGIN_KEY}`;
  * 
  * New strategy: Only load the script when a [data-contractor-commerce] element
  * (i.e., a QuoteCallout section) enters the viewport. On pages with no
- * QuoteCallout, the script NEVER loads — saving 986 KiB on 95%+ of page views.
+ * QuoteCallout, the script NEVER loads - saving 986 KiB on 95%+ of page views.
  * 
  * On pages WITH a QuoteCallout, the script loads when the user scrolls near it,
  * which is always before they could click the button.
@@ -40,7 +40,7 @@ export default function ContractorCommercePlugin() {
     const targets = document.querySelectorAll('[data-contractor-commerce]');
 
     if (targets.length === 0) {
-      // No QuoteCallout on this page — don't load the script at all
+      // No QuoteCallout on this page - don't load the script at all
       return;
     }
 

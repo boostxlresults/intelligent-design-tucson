@@ -4,12 +4,12 @@ import type { ServicePageData } from "@/types/services";
 // Generated with location-specific data - NOT a template swap
 
 export const hvaccortaroData: ServicePageData = {
-  title: "Cortaro HVAC Services — AC Repair & Installation | Intelligent Design",
-  description: "Trusted Cortaro HVAC experts (85652, 85742). AC repair, replacement, ductwork & IAQ for homes in Continental Ranch. Call Intelligent Design: (520) 333-2665.",
+  title: "Cortaro HVAC Services - AC Repair & Installation | Intelligent Design",
+  description: "Trusted Cortaro HVAC experts (85652, 85742). AC repair, replacement, ductwork & IAQ for homes in Continental Ranch.",
   slug: "hvac-cortaro",
   h1: "Cortaro HVAC Services - Cooling, Heating & Duct Solutions",
-  h2Subheading: "Local HVAC care for Cortaro homes at 2,200 ft — from Continental Ranch to Cortaro Farms",
-  tagline: "Serving Cortaro (pop. ~20,000, elev. 2,200 ft) — 46+ years, 4.97★, 3,600+ reviews",
+  h2Subheading: "Local HVAC care for Cortaro homes at 2,200 ft - from Continental Ranch to Cortaro Farms",
+  tagline: "Serving Cortaro (pop. ~20,000, elev. 2,200 ft) - 46+ years, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Cortaro, Arizona",
     serviceName: "HVAC",

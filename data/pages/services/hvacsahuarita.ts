@@ -12,7 +12,7 @@ export const hvacsahuaritaData: ServicePageData = {
   // Hero Section
   h1: "Sahuarita HVAC Repair, Replacement, and Maintenance",
   h2Subheading: "Local technicians who know Rancho Sahuarita two-story layouts, builder-grade systems, and monsoon prep",
-  tagline: "46+ years, 4.97★ from 3,600+ reviews — serving Sahuarita (85629) with local HVAC expertise",
+  tagline: "46+ years, 4.97★ from 3,600+ reviews - serving Sahuarita (85629) with local HVAC expertise",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Sahuarita, Arizona",
   

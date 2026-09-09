@@ -127,7 +127,7 @@ After incentives, solar typically pays for itself in 5-8 years, then provides 15
 
 ### "What about maintenance?"
 
-Solar panels require minimal maintenance—occasional cleaning and annual inspections. There are no moving parts to wear out, and panels typically last 25-30 years.
+Solar panels require minimal maintenance-occasional cleaning and annual inspections. There are no moving parts to wear out, and panels typically last 25-30 years.
 
 ### "Will my roof hold the panels?"
 

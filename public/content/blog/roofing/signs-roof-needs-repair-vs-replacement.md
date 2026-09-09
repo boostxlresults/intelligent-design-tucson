@@ -18,7 +18,7 @@ canonicalUrl: https://www.idesignac.com/blog/roofing/signs-roof-needs-repair-vs-
 
 # Signs Your Roof Needs Repair vs. Replacement
 
-One of the most expensive home maintenance decisions is determining whether to repair or replace your roof. Make the right call, and you'll protect your investment. Get it wrong, and you could be throwing money at a dying roof—or replacing one prematurely.
+One of the most expensive home maintenance decisions is determining whether to repair or replace your roof. Make the right call, and you'll protect your investment. Get it wrong, and you could be throwing money at a dying roof-or replacing one prematurely.
 
 This guide helps Tucson homeowners identify the warning signs and make informed decisions about their roofing needs.
 
@@ -46,7 +46,7 @@ Metal flashing around chimneys, vents, and valleys that's rusted, bent, or missi
 ### Visible From Inside
 
 **Water Stains on Ceilings**
-Brown spots or rings indicate water entry—past or present.
+Brown spots or rings indicate water entry-past or present.
 
 **Daylight Through Roof Boards**
 In your attic, if you see light through the roof deck, you have holes or serious deterioration.
@@ -99,7 +99,7 @@ When problems cover more than 30% of your roof, replacement is typically more co
 If you're repairing your roof every year or two, you've likely reached the point where replacement makes more sense.
 
 ### Structural Issues Exist
-Sagging, rotted decking, or compromised rafters require replacement—not patches.
+Sagging, rotted decking, or compromised rafters require replacement-not patches.
 
 ### You're Planning to Sell
 A new roof is a strong selling point. Old roofs scare buyers and reduce offers.
@@ -229,7 +229,7 @@ For significant work, get 2-3 quotes. Compare:
 - Timeline and process
 - Total cost breakdown
 
-Be wary of contractors who insist on replacement when others suggest repair is viable—and vice versa.
+Be wary of contractors who insist on replacement when others suggest repair is viable-and vice versa.
 
 ## Questions to Ask Your Roofing Contractor
 

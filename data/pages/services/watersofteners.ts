@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const watersoftenersData: ServicePageData = {
   // SEO & Meta
   title: 'Brita PRO Water Softener Installation Tucson AZ | Smart Features',
-  description: 'Brita PRO smart water softener installation in Tucson. 4-week learning, 20-min quick recharge, vacation mode. Eliminate hard water problems. Call (520) 333-2665 for free water testing.',
+  description: 'Brita PRO smart water softener installation in Tucson. 4-week learning, 20-min quick recharge, vacation mode. Eliminate hard water problems.',
   slug: 'water-softeners',
   
   // Hero Section
@@ -69,7 +69,7 @@ export const watersoftenersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's water supply contains exceptionally high levels of dissolved minerals—primarily calcium and magnesium—that make our water \"hard.\" With hardness levels typically ranging from 12-16 grains per gallon (205-274 ppm), Tucson water ranks as very hard to extremely hard, significantly above the national average of 7-8 grains. This extreme hardness affects every faucet, fixture, appliance, and plumbing system in your home. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed Brita PRO water softeners in thousands of Tucson homes since 1979, helping families eliminate hard water problems, protect their [link:/services/water-heater-installation|water heaters] and appliances, and dramatically improve water quality throughout their homes."
+            "content": "Tucson's water supply contains exceptionally high levels of dissolved minerals-primarily calcium and magnesium-that make our water \"hard.\" With hardness levels typically ranging from 12-16 grains per gallon (205-274 ppm), Tucson water ranks as very hard to extremely hard, significantly above the national average of 7-8 grains. This extreme hardness affects every faucet, fixture, appliance, and plumbing system in your home. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed Brita PRO water softeners in thousands of Tucson homes since 1979, helping families eliminate hard water problems, protect their [link:/services/water-heater-installation|water heaters] and appliances, and dramatically improve water quality throughout their homes."
       },
       {
             "type": "paragraph",
@@ -81,7 +81,7 @@ export const watersoftenersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "A quality water softener solves all these problems by removing hardness minerals before they enter your home's plumbing system. Brita PRO water softeners use advanced ion exchange technology combined with smart learning features that optimize performance and efficiency. The result is soft water throughout your entire home—protecting your investment in appliances, reducing maintenance costs, improving cleaning effectiveness, and providing better water for bathing and cooking. Many Tucson homeowners see the water softener pay for itself within 3-5 years through reduced soap usage, fewer appliance repairs, and lower energy bills."
+            "content": "A quality water softener solves all these problems by removing hardness minerals before they enter your home's plumbing system. Brita PRO water softeners use advanced ion exchange technology combined with smart learning features that optimize performance and efficiency. The result is soft water throughout your entire home-protecting your investment in appliances, reducing maintenance costs, improving cleaning effectiveness, and providing better water for bathing and cooking. Many Tucson homeowners see the water softener pay for itself within 3-5 years through reduced soap usage, fewer appliance repairs, and lower energy bills."
       },
       {
             "type": "heading",
@@ -97,7 +97,7 @@ export const watersoftenersData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Unlike traditional water softeners that regenerate on a fixed schedule regardless of actual water usage, Brita PRO smart softeners feature advanced learning technology. During the first 4 weeks of operation, the system monitors your household's water consumption patterns—tracking when you use the most water, typical daily usage volumes, and peak demand periods. This creates a customized usage profile specific to your family's needs."
+            "content": "Unlike traditional water softeners that regenerate on a fixed schedule regardless of actual water usage, Brita PRO smart softeners feature advanced learning technology. During the first 4 weeks of operation, the system monitors your household's water consumption patterns-tracking when you use the most water, typical daily usage volumes, and peak demand periods. This creates a customized usage profile specific to your family's needs."
       },
       {
             "type": "paragraph",

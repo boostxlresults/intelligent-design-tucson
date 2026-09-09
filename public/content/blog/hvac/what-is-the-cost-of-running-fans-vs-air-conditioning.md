@@ -40,7 +40,7 @@ If you have an older, inefficient AC unit, it may be time to think about replaci
 
 ### The Importance of Proper Installation
 
-Many people assume that the energy efficiency rating of a new central AC unit is the most important thing to consider in terms of long-term savings. However, the most important factor is actually the company you choose to install it. You should only use a company with experienced, certified HVAC technicians—like Intelligent Design. A knowledgeable professional will take the time to accurately measure your home and discuss your family’s preferences with you.
+Many people assume that the energy efficiency rating of a new central AC unit is the most important thing to consider in terms of long-term savings. However, the most important factor is actually the company you choose to install it. You should only use a company with experienced, certified HVAC technicians-like Intelligent Design. A knowledgeable professional will take the time to accurately measure your home and discuss your family’s preferences with you.
 
 This enables the technician to identify the correct size and capacity for the new AC unit. If a new AC is sized too small, it will have to work too hard to cool down your home. This compromises its energy efficiency. A similar problem happens when an AC unit is too large for the home. This will cause it to short cycle, which also negatively affects energy efficiency. When you choose a highly rated HVAC company with certified techs, you can avoid these problems and look forward to greater energy savings.
 

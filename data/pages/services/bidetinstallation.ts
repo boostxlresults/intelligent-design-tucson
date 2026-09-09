@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const bidetinstallationData: ServicePageData = {
   // SEO & Meta
   title: 'Bidet Installation Tucson AZ | Electronic Bidet Seats & Standalone Bidets',
-  description: 'Professional bidet installation in Tucson. Electronic bidet seats, standalone bidets, bidet toilets. Heated seats, warm water, air dryer. Call (520) 333-2665 for expert installation.',
+  description: 'Professional bidet installation in Tucson. Electronic bidet seats, standalone bidets, bidet toilets. Heated seats, warm water, air dryer.',
   slug: 'bidet-installation',
   
   // Hero Section
@@ -59,7 +59,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Bidets have transformed from luxury European fixtures to mainstream bathroom essentials embraced by American households seeking superior hygiene, comfort, and sustainability. Modern bidet technology offers features unimaginable in traditional bidets—heated seats, warm water spray, air drying, adjustable pressure, remote controls, and self-cleaning nozzles—all while reducing toilet paper consumption by 75-100% and saving families $150-$300 annually on paper products. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric, we've helped hundreds of Tucson families upgrade their bathrooms with professional bidet installation since 1979, delivering superior hygiene solutions that pay for themselves within 2-3 years through paper savings alone."
+            "content": "Bidets have transformed from luxury European fixtures to mainstream bathroom essentials embraced by American households seeking superior hygiene, comfort, and sustainability. Modern bidet technology offers features unimaginable in traditional bidets-heated seats, warm water spray, air drying, adjustable pressure, remote controls, and self-cleaning nozzles-all while reducing toilet paper consumption by 75-100% and saving families $150-$300 annually on paper products. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], Solar, & Electric, we've helped hundreds of Tucson families upgrade their bathrooms with professional bidet installation since 1979, delivering superior hygiene solutions that pay for themselves within 2-3 years through paper savings alone."
       },
       {
             "type": "paragraph",
@@ -67,11 +67,11 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Tucson's Bidet Installation Experts Since 1979: The rising popularity of bidets reflects growing awareness of their comprehensive benefits: superior cleanliness compared to toilet paper alone (removing 99%+ of bacteria vs. 80-85% with paper), gentle care for sensitive skin and medical conditions including hemorrhoids and mobility limitations, significant environmental impact reduction through decreased deforestation and production emissions, long-term cost savings of $1,875-$7,500 over the typical 25-year bidet lifespan, and enhanced accessibility for elderly users aging in place and people with disabilities requiring independence. Modern electronic bidet seats make upgrading simple—they replace existing [link:/services/toilet-installation|toilet] seats without requiring additional bathroom space or extensive plumbing modifications."
+            "content": "Tucson's Bidet Installation Experts Since 1979: The rising popularity of bidets reflects growing awareness of their comprehensive benefits: superior cleanliness compared to toilet paper alone (removing 99%+ of bacteria vs. 80-85% with paper), gentle care for sensitive skin and medical conditions including hemorrhoids and mobility limitations, significant environmental impact reduction through decreased deforestation and production emissions, long-term cost savings of $1,875-$7,500 over the typical 25-year bidet lifespan, and enhanced accessibility for elderly users aging in place and people with disabilities requiring independence. Modern electronic bidet seats make upgrading simple-they replace existing [link:/services/toilet-installation|toilet] seats without requiring additional bathroom space or extensive plumbing modifications."
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and installed bidets in over 1,200 Tucson homes during the past five years alone as bidet adoption accelerated nationwide. Our comprehensive product knowledge spans all major brands—TOTO, BioBidet, Brondell, Kohler, American Standard, Alpha—and our licensed plumbers provide honest recommendations based on your specific needs, budget, and existing [link:/services/plumbing-tucson|plumbing] configuration rather than pushing expensive upgrades you don't need."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979 and installed bidets in over 1,200 Tucson homes during the past five years alone as bidet adoption accelerated nationwide. Our comprehensive product knowledge spans all major brands-TOTO, BioBidet, Brondell, Kohler, American Standard, Alpha-and our licensed plumbers provide honest recommendations based on your specific needs, budget, and existing [link:/services/plumbing-tucson|plumbing] configuration rather than pushing expensive upgrades you don't need."
       },
       {
             "type": "paragraph",
@@ -91,7 +91,7 @@ export const bidetinstallationData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Electronic bidet seats represent the most popular modern bidet solution—they replace your existing toilet seat, adding comprehensive bidet functionality without requiring bathroom modifications or additional floor space. Installation is straightforward: remove your old seat, install the bidet seat using existing toilet mounting bolts, connect the water supply line via T-adapter at the toilet fill valve, and plug into a nearby GFCI outlet. The entire process takes 1-2 hours, and most modern toilets are compatible."
+            "content": "Electronic bidet seats represent the most popular modern bidet solution-they replace your existing toilet seat, adding comprehensive bidet functionality without requiring bathroom modifications or additional floor space. Installation is straightforward: remove your old seat, install the bidet seat using existing toilet mounting bolts, connect the water supply line via T-adapter at the toilet fill valve, and plug into a nearby GFCI outlet. The entire process takes 1-2 hours, and most modern toilets are compatible."
       },
       {
             "type": "paragraph",

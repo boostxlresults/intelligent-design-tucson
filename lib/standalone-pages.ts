@@ -1,5 +1,5 @@
 /**
- * STANDALONE_PAGES — bare slugs that resolve directly (not redirected to /services/<slug>).
+ * STANDALONE_PAGES - bare slugs that resolve directly (not redirected to /services/<slug>).
  *
  * HOW TO ADD A NEW LANDING PAGE OR STANDALONE ROUTE:
  * Just add the slug string here. This is the only file you need to touch.

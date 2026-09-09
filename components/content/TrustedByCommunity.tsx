@@ -31,7 +31,7 @@ export default function TrustedByCommunity() {
   const communityImpact = [
     {
       title: "Supporting Local Families",
-      description: "We're not a national franchise—we're your neighbors. Every technician, installer, and support team member lives right here in Tucson and surrounding communities."
+      description: "We're not a national franchise-we're your neighbors. Every technician, installer, and support team member lives right here in Tucson and surrounding communities."
     },
     {
       title: "Giving Back to Tucson",
@@ -39,11 +39,11 @@ export default function TrustedByCommunity() {
     },
     {
       title: "Creating Local Jobs",
-      description: "With 80+ year-round team members, we provide stable, well-paying careers to Tucson families—complete with benefits, ongoing training, and opportunities for growth."
+      description: "With 80+ year-round team members, we provide stable, well-paying careers to Tucson families-complete with benefits, ongoing training, and opportunities for growth."
     },
     {
       title: "Protecting What Matters Most",
-      description: "Your family's comfort, health, and safety aren't just our business—they're our responsibility. We bring the same care to your home that we bring to our own."
+      description: "Your family's comfort, health, and safety aren't just our business-they're our responsibility. We bring the same care to your home that we bring to our own."
     }
   ];
 

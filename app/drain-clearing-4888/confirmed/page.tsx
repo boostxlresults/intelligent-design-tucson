@@ -4,7 +4,7 @@ import { CheckCircle2, Phone } from "lucide-react";
 import ConfirmTracking from "@/components/actune/ConfirmTracking";
 
 export const metadata: Metadata = {
-  title: "You're booked — Drain Clearing Special | Intelligent Design",
+  title: "You're booked - Drain Clearing Special | Intelligent Design",
   robots: "noindex, nofollow, noarchive",
   alternates: { canonical: "https://www.idesignac.com/drain-clearing-4888/confirmed" },
 };

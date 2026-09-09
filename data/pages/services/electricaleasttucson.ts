@@ -6,12 +6,12 @@ import type { ServicePageData } from "@/types/services";
 export const electricaleasttucsonData: ServicePageData = {
   // SEO & Meta
   title: "East Tucson Electrical Services | Intelligent Design",
-  description: "East Tucson electrical specialists for panel upgrades, EV chargers, and safety inspections. Local pros — call Intelligent Design for fast service today.",
+  description: "East Tucson electrical specialists for panel upgrades, EV chargers, and safety inspections. Local pros - call Intelligent Design for fast service today.",
   slug: "electrical-east-tucson",
   
   // Hero Section
   h1: "East Tucson Electrical Services",
-  h2Subheading: "Local electrical work tailored to East Tucson homes — from 1980s starter houses to newer Houghton corridor builds",
+  h2Subheading: "Local electrical work tailored to East Tucson homes - from 1980s starter houses to newer Houghton corridor builds",
   tagline: "46+ years serving East Tucson • 4.97★ from 3,600+ reviews • Zip codes 85710, 85730, 85748",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Electrical services in East Tucson, Arizona",

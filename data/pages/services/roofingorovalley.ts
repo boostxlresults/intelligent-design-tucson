@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingorovalleyData: ServicePageData = {
   title: "Oro Valley Roofing Experts | Intelligent Design",
-  description: "Trusted Oro Valley roofing services for repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years of local experience. Call Intelligent Design today for a free inspection.",
+  description: "Trusted Oro Valley roofing services for repairs, replacements, tile, shingle, flat roofs and coatings. 46+ years of local experience.",
   slug: "roofing-oro-valley",
   h1: "Oro Valley Roofing Services by Intelligent Design",
   h2Subheading: "Premium roofing for upscale Oro Valley homes, HOAs and mountain-edge communities",

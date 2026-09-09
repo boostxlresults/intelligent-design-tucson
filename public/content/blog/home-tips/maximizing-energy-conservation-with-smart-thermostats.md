@@ -25,11 +25,11 @@ canonicalUrl: >-
 
 [1.3.1) About Intelligent Design: A Pillar of Excellence in Home Services](#About_Intelligent_Design_A_Pillar_of_Excellence_in_Home_Services)
 
-Smart thermostats are like superheroes for the home—they help save energy and protect the environment. These clever devices use fancy math and real-time information to make sure the house stays just the right temperature while using less energy. It’s like having a super-smart helper making sure the home is comfy without wasting energy.
+Smart thermostats are like superheroes for the home-they help save energy and protect the environment. These clever devices use fancy math and real-time information to make sure the house stays just the right temperature while using less energy. It’s like having a super-smart helper making sure the home is comfy without wasting energy.
 
 Smart thermostats are always learning! They look at things like when people are in the home and what the weather’s like outside to figure out the best temperature for the house. Over time, they get better at knowing the power that is used and adjusting things just right. It’s like having a little friend that knows exactly how to keep the home cozy.
 
-When lots of people use smart thermostats, it can make a big difference for the whole planet. By using less energy, and can help keep the air clean and protect animals and nature. So, every time the home uses the smart thermostat, not only just saving energy—this also helps to save the planet.
+When lots of people use smart thermostats, it can make a big difference for the whole planet. By using less energy, and can help keep the air clean and protect animals and nature. So, every time the home uses the smart thermostat, not only just saving energy-this also helps to save the planet.
 
 Smart thermostats help us save energy and take care of the planet. So let’s give a big cheer for smart thermostats and all the good they do!
 
@@ -41,9 +41,9 @@ Smart thermostats can demand response. This means they can help out when lots of
 
 Smart thermostats can automatically adjust the temperature in homes during these times to help save energy. They do this by making homes a little warmer or cooler, depending on what’s needed, without us even having to think about it. By doing this, they help make sure there’s enough electricity to go around and keep the electrical grid running smoothly.
 
-This is super important because it helps prevent things like power outages and keeps the electrical system working well. Plus, it’s good for the environment because it means we’re using less energy overall. So, smart thermostats aren’t just about keeping us comfy—they’re also helping to keep the lights on and protect the planet.
+This is super important because it helps prevent things like power outages and keeps the electrical system working well. Plus, it’s good for the environment because it means we’re using less energy overall. So, smart thermostats aren’t just about keeping us comfy-they’re also helping to keep the lights on and protect the planet.
 
-Some smart thermostats are really clever—they can tell us how much energy we’re using in homes. They have a special feature called energy monitoring, which is like having a little energy detective right in the thermostat!
+Some smart thermostats are really clever-they can tell us how much energy we’re using in homes. They have a special feature called energy monitoring, which is like having a little energy detective right in the thermostat!
 
 This energy detective keeps track of how much energy is used and when it is used. It helps us understand which parts of homes use the most energy and when using the most energy during the day. By knowing this information, it helps with figuring out ways to use less energy and save money on energy bills.
 

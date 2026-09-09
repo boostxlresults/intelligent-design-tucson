@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationvailData: ServicePageData = {
   title: "Solar Panel Installation in Vail, AZ | Intelligent Design",
-  description: "Top-rated solar installation in Vail, AZ. Maximize your energy savings with high-efficiency solar panels designed for Vail's 3,200+ ft elevation. Call (520) 333-2665.",
+  description: "Top-rated solar installation in Vail, AZ. Maximize your energy savings with high-efficiency solar panels designed for Vail's 3,200+ ft elevation.",
   slug: "solar-installation-vail",
   h1: "Solar Panel Installation in Vail, AZ",
   h2Subheading: "High-Efficiency Solar Solutions for Vail's Unique Climate",

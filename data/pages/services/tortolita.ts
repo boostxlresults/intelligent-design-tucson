@@ -9,7 +9,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const tortolitaData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tortolita, AZ | Intelligent Design',
-  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tortolita. Serving this growing community northwest of Tucson since 1979. 24/7 emergency service. BBB A+ rated with 23,000+ five-star reviews.',
+  description: 'Expert HVAC, plumbing, solar, electrical, roofing, and drain services in Tortolita. Serving this growing community northwest of Tucson since 1979.',
   slug: 'tortolita',
   
   // Hero Section
@@ -40,7 +40,7 @@ export const tortolitaData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We're not just contractors—we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
+            "content": "We're not just contractors-we're your neighbors. Our team of licensed, background-checked technicians is committed to delivering exceptional service with upfront pricing, lifetime warranties, and 100% satisfaction guaranteed."
       },
       {
             "type": "heading",

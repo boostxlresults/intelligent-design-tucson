@@ -55,7 +55,7 @@ export default function R22PhaseoutPage() {
       question: 'Will the price of my refrigerant go up because of the R22 phaseout?',
       answer: (
         <p>
-          While R22 is still legal, it is no longer being manufactured domestically, and it can't be imported from other countries. Thus, there is now a finite supply of R22 in the United States. While the price has remained stable, it is possible that the cost of R22 will increase in the future due to diminished supplies. However, no one knows when—or if—this will happen. As more homeowners decide to replace their air conditioning units, it is possible that demand for R22 will never exceed the available supply.
+          While R22 is still legal, it is no longer being manufactured domestically, and it can't be imported from other countries. Thus, there is now a finite supply of R22 in the United States. While the price has remained stable, it is possible that the cost of R22 will increase in the future due to diminished supplies. However, no one knows when-or if-this will happen. As more homeowners decide to replace their air conditioning units, it is possible that demand for R22 will never exceed the available supply.
         </p>
       ),
     },

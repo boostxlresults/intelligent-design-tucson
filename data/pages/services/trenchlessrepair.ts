@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const trenchlessrepairData: ServicePageData = {
   // SEO & Meta
   title: 'Trenchless Sewer Repair & Pipe Lining Tucson AZ | Certified IPT Partner',
-  description: 'Certified IPT Trenchless Pipe Lining partner in Tucson. No-dig sewer repair preserves your landscaping & hardscaping. 50-year warranty. Same-day service. Call (520) 333-2665.',
+  description: 'Certified IPT Trenchless Pipe Lining partner in Tucson. No-dig sewer repair preserves your landscaping & hardscaping. 50-year warranty. Same-day service.',
   slug: 'trenchless-repair',
   
   // Hero Section
@@ -59,11 +59,11 @@ export const trenchlessrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "A failed sewer line used to mean one thing: extensive excavation that destroyed landscaping, tore up driveways, and turned your property into a construction zone for days or weeks. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we offer Tucson homeowners a revolutionary alternative. As a certified IPT (Insituform Perma-Lateral Technologies) Trenchless Pipe Lining partner, we repair or replace your [link:/services/sewer-line-repair|sewer line] without digging destructive trenches across your property—preserving your landscaping, hardscaping, and peace of mind."
+            "content": "A failed sewer line used to mean one thing: extensive excavation that destroyed landscaping, tore up driveways, and turned your property into a construction zone for days or weeks. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we offer Tucson homeowners a revolutionary alternative. As a certified IPT (Insituform Perma-Lateral Technologies) Trenchless Pipe Lining partner, we repair or replace your [link:/services/sewer-line-repair|sewer line] without digging destructive trenches across your property-preserving your landscaping, hardscaping, and peace of mind."
       },
       {
             "type": "paragraph",
-            "content": "Why Trenchless Technology Transforms Sewer Repair: Traditional excavation destroys everything in its path—mature trees, expensive landscaping, irrigation systems, decorative rock, concrete driveways, patios, and pool decks. Recovery takes weeks or months as you coordinate landscape contractors, concrete specialists, and irrigation professionals to restore your property. The hidden costs of traditional dig-and-replace can exceed $15,000-$25,000 in restoration alone. Trenchless repair eliminates this nightmare entirely. We complete repairs in a single day with zero yard destruction, 30-50% lower total costs, and a 50-year transferable warranty that actually increases your home's value."
+            "content": "Why Trenchless Technology Transforms Sewer Repair: Traditional excavation destroys everything in its path-mature trees, expensive landscaping, irrigation systems, decorative rock, concrete driveways, patios, and pool decks. Recovery takes weeks or months as you coordinate landscape contractors, concrete specialists, and irrigation professionals to restore your property. The hidden costs of traditional dig-and-replace can exceed $15,000-$25,000 in restoration alone. Trenchless repair eliminates this nightmare entirely. We complete repairs in a single day with zero yard destruction, 30-50% lower total costs, and a 50-year transferable warranty that actually increases your home's value."
       },
       {
             "type": "paragraph",
@@ -71,7 +71,7 @@ export const trenchlessrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Trenchless sewer repair uses advanced CIPP (cured-in-place pipe) lining technology to rehabilitate damaged pipes from the inside. We insert a flexible, epoxy-saturated liner into your existing sewer line through small access points, inflate it to conform perfectly to the pipe interior, and cure it with controlled heat or UV light. The result is a seamless, jointless new pipe inside your old one—structurally stronger than the original pipe and backed by a 50-year transferable warranty. Your yard, landscaping, driveways, pool decks, and hardscaping remain completely untouched. The transformation is dramatic: what used to require 5-7 days of excavation, heavy equipment, and weeks of restoration now completes in 6-8 hours with two small access pits that we backfill and restore before leaving."
+            "content": "Trenchless sewer repair uses advanced CIPP (cured-in-place pipe) lining technology to rehabilitate damaged pipes from the inside. We insert a flexible, epoxy-saturated liner into your existing sewer line through small access points, inflate it to conform perfectly to the pipe interior, and cure it with controlled heat or UV light. The result is a seamless, jointless new pipe inside your old one-structurally stronger than the original pipe and backed by a 50-year transferable warranty. Your yard, landscaping, driveways, pool decks, and hardscaping remain completely untouched. The transformation is dramatic: what used to require 5-7 days of excavation, heavy equipment, and weeks of restoration now completes in 6-8 hours with two small access pits that we backfill and restore before leaving."
       },
       {
             "type": "paragraph",

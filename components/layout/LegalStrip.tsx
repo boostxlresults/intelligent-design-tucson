@@ -3,7 +3,7 @@ import { VISITOR_ID_DISCLAIMER, PRIVACY_ANCHOR_URL } from '@/lib/legal';
 /**
  * Sitewide visitor-identification & marketing communications notice.
  * Rendered in app/layout.tsx OUTSIDE LandingChromeGate so it appears
- * on ALL pages — including /ac-tune-up-2888 where the footer is hidden.
+ * on ALL pages - including /ac-tune-up-2888 where the footer is hidden.
  * Must appear exactly once per page. Do not render additionally in Footer.
  */
 export default function LegalStrip() {

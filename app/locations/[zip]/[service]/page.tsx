@@ -8,7 +8,7 @@ import {
   getAllLocationServiceParams,
 } from "@/data/locationServiceData";
 
-// Force static generation — all 300 pages built at deploy time
+// Force static generation - all 300 pages built at deploy time
 export const dynamic = "force-static";
 export const dynamicParams = false;
 

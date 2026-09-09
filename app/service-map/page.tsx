@@ -190,7 +190,7 @@ function generateServiceSchemas(checkins: CheckIn[]) {
 }
 
 /**
- * Generate CompletedAction schema — signals to Google that these services were actually performed.
+ * Generate CompletedAction schema - signals to Google that these services were actually performed.
  * This is stronger than just listing services; it proves active service delivery.
  */
 function generateCompletedActions(checkins: CheckIn[]) {
@@ -263,7 +263,7 @@ function generateFAQSchema(checkins: CheckIn[], stats: ServiceMapStats) {
 
   faqs.push({
     question: 'What areas does Intelligent Design serve in Arizona?',
-    answer: `Intelligent Design serves all of greater Tucson and surrounding communities including ${topCities.join(', ')}, and more — covering ${stats.total_cities} cities total. Our 80+ certified technicians provide same-day service for HVAC, plumbing, solar, electrical, and roofing needs across all these areas.`,
+    answer: `Intelligent Design serves all of greater Tucson and surrounding communities including ${topCities.join(', ')}, and more - covering ${stats.total_cities} cities total. Our 80+ certified technicians provide same-day service for HVAC, plumbing, solar, electrical, and roofing needs across all these areas.`,
   });
 
   faqs.push({
@@ -418,7 +418,7 @@ export default async function ServiceMapPage() {
       },
       // Service schemas with geo-coordinates
       ...serviceSchemas,
-      // CompletedAction schemas — proof of active service delivery
+      // CompletedAction schemas - proof of active service delivery
       ...completedActions,
       // FAQ schema for featured snippets
       faqSchema,

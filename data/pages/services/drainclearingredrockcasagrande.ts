@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const drainclearingredrockcasagrandeData: ServicePageData = {
   // SEO & Meta
   title: "Red Rock & Casa Grande Drain Clearing | Fast, Local Service",
-  description: "Drain clearing in Red Rock & Casa Grande (85145, 85122, 85193). Local techs, hard-water expertise — call for same‑day service.",
+  description: "Drain clearing in Red Rock & Casa Grande (85145, 85122, 85193). Local techs, hard-water expertise - call for same‑day service.",
   slug: "drain-clearing-red-rock-casa-grande",
   
   // Hero Section

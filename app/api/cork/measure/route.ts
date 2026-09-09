@@ -5,13 +5,13 @@ export const maxDuration = 60;
 
 const PROMPT = `You are helping a homeowner visualize a new pool deck coating. Study this photo carefully and identify two sets of sample point coordinates.
 
-DECK POINTS — pick 6 to 9 points spread across the walkable pool deck surface:
+DECK POINTS - pick 6 to 9 points spread across the walkable pool deck surface:
 - The deck is the hard paved/concrete/coated surface that surrounds the pool and that a person walks on.
 - Spread points across EVERY visible part of the deck: near the pool edge, in far corners, along each side of the frame.
 - CRITICAL: every single point must land on paved deck. Never pick a point on water, grass, dirt, rocks, structures, or sky.
 - If the deck wraps around the pool, include points on all sides.
 
-EXCLUDE POINTS — pick 4 to 6 points on areas that are definitely NOT deck:
+EXCLUDE POINTS - pick 4 to 6 points on areas that are definitely NOT deck:
 - 2 points clearly inside the pool or spa water (center of water surface, not near edge).
 - 1-2 points on grass, dirt, gravel, decomposed granite, or planted landscaping clearly outside the deck edge.
 - 1 point on a structure (roof, pergola, wall) if visible in the photo.
@@ -19,7 +19,7 @@ EXCLUDE POINTS — pick 4 to 6 points on areas that are definitely NOT deck:
 
 Also estimate the total visible deck square footage using reference objects (coping stones ~12in wide, pool widths typically 12-16ft, standard door ~36in, patio chair ~22in wide).
 
-Return STRICT JSON only — no markdown, no explanation:
+Return STRICT JSON only - no markdown, no explanation:
 {"sq_ft": <integer>, "confidence": "low"|"medium"|"high", "deck_points": [[x,y],...], "exclude_points": [[x,y],...], "notes": "<one sentence>"}
 
 All coordinates normalized 0-1 (x = left to right, y = top to bottom relative to image size).`;

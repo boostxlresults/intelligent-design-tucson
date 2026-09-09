@@ -108,7 +108,7 @@ The key to efficient [air conditioning in Tucson](https://www.idesignac.com/serv
 
 ## Stay Cool in Tucson
 
-In Tucson, air conditioning is much more than a luxury—it’s a necessity. Its role extends beyond providing comfort; it helps protect health and improve indoor air quality.
+In Tucson, air conditioning is much more than a luxury-it’s a necessity. Its role extends beyond providing comfort; it helps protect health and improve indoor air quality.
 
 By maintaining your air conditioning system and employing energy-efficient practices, you can ensure you are well prepared to handle the extreme summer temperatures characteristic of Tucson’s unique desert climate.
 

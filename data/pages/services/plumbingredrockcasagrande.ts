@@ -11,7 +11,7 @@ export const plumbingredrockcasagrandeData: ServicePageData = {
   
   // Hero Section
   h1: "Plumbing Services - Red Rock & Casa Grande, AZ",
-  h2Subheading: "Local plumbing experts for the hottest parts of Pinal County — experienced with extreme hard water, newer subdivisions, and retirement communities",
+  h2Subheading: "Local plumbing experts for the hottest parts of Pinal County - experienced with extreme hard water, newer subdivisions, and retirement communities",
   tagline: "46+ years serving Red Rock & Casa Grande • 4.97★ from 3,600+ reviews • Elevation ~1,400 ft",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Red Rock & Casa Grande, Arizona",

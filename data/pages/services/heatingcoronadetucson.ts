@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingcoronadetucsonData: ServicePageData = {
   title: "Heating Repair & Installation in Corona de Tucson, AZ",
-  description: "Expert heating services in Corona de Tucson. From heat pump repairs to new installations, our local technicians handle the unique climate of the 85641 area. Call (520) 333-2665.",
+  description: "Expert heating services in Corona de Tucson. From heat pump repairs to new installations, our local technicians handle the unique climate of the 85641.",
   slug: "heating-corona-de-tucson",
   h1: "Heating Services in Corona de Tucson",
   h2Subheading: "Reliable Heating Solutions for Higher Elevations",

@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingsahuaritaData: ServicePageData = {
   title: "Heating Services in Sahuarita, AZ | Intelligent Design",
-  description: "Expert heating services in Sahuarita, AZ. From furnace repair to heat pump installation, our local team handles the unique needs of Sahuarita homes. Call (520) 333-2665.",
+  description: "Expert heating services in Sahuarita, AZ. From furnace repair to heat pump installation, our local team handles the unique needs of Sahuarita homes.",
   slug: "heating-sahuarita",
   h1: "Professional Heating Services in Sahuarita, AZ",
   h2Subheading: "Reliable Heating Solutions for Sahuarita's Master-Planned Communities",

@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const heatingcortaroData: ServicePageData = {
   // SEO & Meta
   title: "Cortaro Heating Services | Intelligent Design Heating",
-  description: "Cortaro heating repair & replacement in 85652 & 85742. Trusted service from Intelligent Design — call to schedule a local inspection today.",
+  description: "Cortaro heating repair & replacement in 85652 & 85742. Trusted service from Intelligent Design - call to schedule a local inspection today.",
   slug: "heating-cortaro",
   
   // Hero Section

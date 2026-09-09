@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingavravalleyData: ServicePageData = {
   // SEO & Meta
   title: "Avra Valley Plumbing Services | Avra Valley, AZ",
-  description: "Avra Valley plumbing experts serving 85743 & 85653. Well, septic, and long-run repairs — trusted local techs. Call today for a site-specific estimate.",
+  description: "Avra Valley plumbing experts serving 85743 & 85653. Well, septic, and long-run repairs - trusted local techs. Call today for a site-specific estimate.",
   slug: "plumbing-avra-valley",
   
   // Hero Section
   h1: "Plumbing Services in Avra Valley, AZ",
-  h2Subheading: "Local plumbing for ranch lots, well systems, and desert-built homes — specialists in 85743 & 85653",
-  tagline: "46+ years serving greater Tucson with a 4.97★ rating from 3,600+ reviews — experienced in Avra Valley well and septic systems",
+  h2Subheading: "Local plumbing for ranch lots, well systems, and desert-built homes - specialists in 85743 & 85653",
+  tagline: "46+ years serving greater Tucson with a 4.97★ rating from 3,600+ reviews - experienced in Avra Valley well and septic systems",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Avra Valley, Arizona",
   

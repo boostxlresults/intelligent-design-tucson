@@ -1,4 +1,4 @@
-// Server Component — no 'use client' directive
+// Server Component - no 'use client' directive
 // Only FooterPhoneLink (thin client wrapper) handles the onClick tracking.
 import Image from "next/image";
 import { MapPin, Phone, Mail } from "lucide-react";

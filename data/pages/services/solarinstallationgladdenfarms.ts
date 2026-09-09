@@ -12,7 +12,7 @@ export const solarinstallationgladdenfarmsData: ServicePageData = {
   // Hero Section
   h1: "Gladden Farms Solar Installation",
   h2Subheading: "Solar design and HOA-ready installs for Gladden Farms homes built in the 2010s–2020s",
-  tagline: "Serving Gladden Farms (85653) — 46+ years, 4.97★ from 3,600+ reviews, optimized for modern builds",
+  tagline: "Serving Gladden Farms (85653) - 46+ years, 4.97★ from 3,600+ reviews, optimized for modern builds",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation services in Gladden Farms, Arizona",
   

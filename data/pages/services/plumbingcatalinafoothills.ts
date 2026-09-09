@@ -6,12 +6,12 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingcatalinafoothillsData: ServicePageData = {
   // SEO & Meta
   title: "Catalina Foothills Plumbing Services - Intelligent Design",
-  description: "Catalina Foothills plumbing experts (85718 & 85750). Luxury fixtures, pools, and whole-home filtration. Local pricing and rapid response — call today.",
+  description: "Catalina Foothills plumbing experts (85718 & 85750). Luxury fixtures, pools, and whole-home filtration. Local pricing and rapid response - call today.",
   slug: "plumbing-catalina-foothills",
   
   // Hero Section
   h1: "Catalina Foothills Plumbing Services",
-  h2Subheading: "Plumbing expertise for Catalina Foothills luxury and hillside homes — tailored to tile roofs, multi-level plans, pools, and recirculating systems",
+  h2Subheading: "Plumbing expertise for Catalina Foothills luxury and hillside homes - tailored to tile roofs, multi-level plans, pools, and recirculating systems",
   tagline: "46+ years serving Catalina Foothills (85718/85750) • 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Catalina Foothills, Arizona",

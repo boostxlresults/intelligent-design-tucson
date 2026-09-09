@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvaccatalinafoothillsData: ServicePageData = {
   title: "Catalina Foothills HVAC Services | Intelligent Design AC",
-  description: "Trusted HVAC in Catalina Foothills (85718, 85750). AC repair, installation, heating, ductwork & IAQ by Intelligent Design — 46+ yrs. Call (520) 333-2665 now.",
+  description: "Trusted HVAC in Catalina Foothills (85718, 85750). AC repair, installation, heating, ductwork & IAQ by Intelligent Design - 46+ yrs. now.",
   slug: "hvac-catalina-foothills",
   h1: "Premier HVAC Services in Catalina Foothills, AZ",
   h2Subheading: "Specialized heating, cooling and indoor air quality for 85718 & 85750 homes",
-  tagline: "Serving ~50,000 residents at 2,700–3,200 ft elevation — 46+ yrs, 4.97★, 3,600+ reviews",
+  tagline: "Serving ~50,000 residents at 2,700–3,200 ft elevation - 46+ yrs, 4.97★, 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Catalina Foothills, Arizona",
     serviceName: "HVAC",

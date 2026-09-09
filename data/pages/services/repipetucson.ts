@@ -5,7 +5,7 @@ import type { ServicePageData } from '@/types/services';
 export const repipetucsonData: ServicePageData = {
   // SEO & Meta
   title: 'Repipe Specialist Tucson AZ | Whole House Repiping | PEX & Copper Repiping',
-  description: 'Expert whole-house repiping services in Tucson. Replace old galvanized, copper, or polybutylene pipes with modern PEX or copper. Licensed ROC #171687. Free estimates. Call (520) 333-2665.',
+  description: 'Expert whole-house repiping services in Tucson. Replace old galvanized, copper, or polybutylene pipes with modern PEX or copper. Licensed ROC #171687.',
   slug: 'repipe-tucson',
   
   // Hero Section
@@ -57,7 +57,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Whole-house repiping is one of the most significant plumbing investments you can make in your Tucson home—and when done correctly by experienced professionals, it's one of the smartest. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric], we've been Tucson's trusted repipe specialists since 1979, helping thousands of homeowners replace failing galvanized, polybutylene, and deteriorated copper plumbing with modern, durable piping systems that deliver clean water, strong pressure, and decades of reliable service."
+            "content": "Whole-house repiping is one of the most significant plumbing investments you can make in your Tucson home-and when done correctly by experienced professionals, it's one of the smartest. At Intelligent Design Air Conditioning, [link:/services/plumbing-tucson|Plumbing], [link:/services/residential-solar-installation|Solar], & [link:/services/electrical-tucson|Electric], we've been Tucson's trusted repipe specialists since 1979, helping thousands of homeowners replace failing galvanized, polybutylene, and deteriorated copper plumbing with modern, durable piping systems that deliver clean water, strong pressure, and decades of reliable service."
       },
       {
             "type": "paragraph",
@@ -65,7 +65,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've been the #1 rated [link:/services/plumbing-tucson|plumbing company] in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations, quality materials, and professional workmanship has made us the most-referred repipe specialist in Pima County."
+            "content": "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated plumbing company in Southern Arizona. We've been the #1 rated [link:/services/plumbing-tucson|plumbing company] in Tucson for 9 consecutive years (2016-2024 Best of Tucson awards), maintaining BBB A+ accreditation since 1979. Our commitment to honest recommendations, quality materials, and professional workmanship has made us the most-referred repipe specialist in Pima County."
       },
       {
             "type": "heading",
@@ -85,7 +85,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Homes built before 1960 commonly have galvanized steel water supply pipes—steel pipes coated with zinc to prevent rust. Over 60-80 years, the zinc coating degrades and the steel begins corroding from the inside. This creates several serious problems: rust-colored water (especially noticeable in morning showers or after returning from vacation), reduced water pressure as corrosion narrows pipe diameter, pinhole leaks that cause water damage, and health concerns from lead solder used on older galvanized systems. Tucson's hard water accelerates galvanized pipe deterioration, and many homes in historic neighborhoods like Sam Hughes, El Encanto, and Armory Park have galvanized systems requiring urgent replacement."
+            "content": "Homes built before 1960 commonly have galvanized steel water supply pipes-steel pipes coated with zinc to prevent rust. Over 60-80 years, the zinc coating degrades and the steel begins corroding from the inside. This creates several serious problems: rust-colored water (especially noticeable in morning showers or after returning from vacation), reduced water pressure as corrosion narrows pipe diameter, pinhole leaks that cause water damage, and health concerns from lead solder used on older galvanized systems. Tucson's hard water accelerates galvanized pipe deterioration, and many homes in historic neighborhoods like Sam Hughes, El Encanto, and Armory Park have galvanized systems requiring urgent replacement."
       },
       {
             "type": "heading",
@@ -95,7 +95,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Polybutylene (poly-B or PB) pipes were widely installed in Tucson homes from 1978-1995 as a 'pipe of the future' alternative to copper. Unfortunately, these gray plastic pipes have a well-documented history of premature failure—they react with oxidizers in municipal water supplies, becoming brittle and cracking without warning. A massive class-action lawsuit resulted in settlements for affected homeowners. If your Tucson home was built between 1978-1995 and has gray plastic supply pipes, you have polybutylene that should be proactively replaced before it fails catastrophically. Many insurance companies now refuse to cover water damage from polybutylene failures, making replacement even more urgent."
+            "content": "Polybutylene (poly-B or PB) pipes were widely installed in Tucson homes from 1978-1995 as a 'pipe of the future' alternative to copper. Unfortunately, these gray plastic pipes have a well-documented history of premature failure-they react with oxidizers in municipal water supplies, becoming brittle and cracking without warning. A massive class-action lawsuit resulted in settlements for affected homeowners. If your Tucson home was built between 1978-1995 and has gray plastic supply pipes, you have polybutylene that should be proactively replaced before it fails catastrophically. Many insurance companies now refuse to cover water damage from polybutylene failures, making replacement even more urgent."
       },
       {
             "type": "heading",
@@ -110,7 +110,7 @@ export const repipetucsonData: ServicePageData = {
       {
             "type": "cta",
             "heading": "Free Repipe Consultation & Estimate",
-            "content": "Stop dealing with rusty water, low pressure, and constant repairs. Our licensed master plumbers will evaluate your plumbing system and provide honest recommendations—with no obligation.",
+            "content": "Stop dealing with rusty water, low pressure, and constant repairs. Our licensed master plumbers will evaluate your plumbing system and provide honest recommendations-with no obligation.",
             "buttonText": "Schedule Free Evaluation",
             "buttonLink": "tel:+15203332665"
       },
@@ -128,7 +128,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "PEX tubing has become the preferred repiping material for Tucson homes, offering significant advantages for desert conditions. PEX is flexible, allowing it to be routed through walls with minimal access holes and fewer fittings—reducing potential leak points. It's highly resistant to Tucson's hard water and won't corrode or develop pinhole leaks like copper can. PEX expands slightly, making it more resistant to freeze damage during rare Tucson cold snaps. It's quieter than copper (no 'water hammer' noise) and costs 40-60% less than copper repiping."
+            "content": "PEX tubing has become the preferred repiping material for Tucson homes, offering significant advantages for desert conditions. PEX is flexible, allowing it to be routed through walls with minimal access holes and fewer fittings-reducing potential leak points. It's highly resistant to Tucson's hard water and won't corrode or develop pinhole leaks like copper can. PEX expands slightly, making it more resistant to freeze damage during rare Tucson cold snaps. It's quieter than copper (no 'water hammer' noise) and costs 40-60% less than copper repiping."
       },
       {
             "type": "paragraph",
@@ -142,11 +142,11 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "For homeowners preferring traditional materials, we offer complete copper repiping using Type L copper—thicker-walled and more durable than the Type M copper that caused problems in earlier installations. Copper offers proven 50+ year longevity, antibacterial properties, and doesn't off-gas any chemicals. Some homeowners prefer copper for these reasons or when matching existing copper systems in partial repipes."
+            "content": "For homeowners preferring traditional materials, we offer complete copper repiping using Type L copper-thicker-walled and more durable than the Type M copper that caused problems in earlier installations. Copper offers proven 50+ year longevity, antibacterial properties, and doesn't off-gas any chemicals. Some homeowners prefer copper for these reasons or when matching existing copper systems in partial repipes."
       },
       {
             "type": "paragraph",
-            "content": "Tucson Copper Repipe Pricing: Complete copper repiping for a typical 3-bedroom, 2-bathroom home costs $8,000-$15,000—roughly double PEX pricing due to higher material costs and more labor-intensive installation. Larger or more complex homes range $15,000-$25,000+. While more expensive initially, copper's extreme longevity can make it cost-effective over decades of ownership."
+            "content": "Tucson Copper Repipe Pricing: Complete copper repiping for a typical 3-bedroom, 2-bathroom home costs $8,000-$15,000-roughly double PEX pricing due to higher material costs and more labor-intensive installation. Larger or more complex homes range $15,000-$25,000+. While more expensive initially, copper's extreme longevity can make it cost-effective over decades of ownership."
       },
       {
             "type": "heading",
@@ -164,7 +164,7 @@ export const repipetucsonData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Step 6 - Final Walkthrough: We test every fixture, check pressure, verify no leaks, and ensure you're completely satisfied before final payment. Most homeowners are amazed at the improvement in water pressure and water quality after repiping—showers feel stronger, appliances work better, and that rust-colored water is gone forever."
+            "content": "Step 6 - Final Walkthrough: We test every fixture, check pressure, verify no leaks, and ensure you're completely satisfied before final payment. Most homeowners are amazed at the improvement in water pressure and water quality after repiping-showers feel stronger, appliances work better, and that rust-colored water is gone forever."
       },
       {
             "type": "heading",

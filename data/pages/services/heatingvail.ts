@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingvailData: ServicePageData = {
   title: "Heating Repair & Installation in Vail, AZ | Intelligent Design",
-  description: "Expert heating and furnace services in Vail, AZ. We handle heat pumps, furnaces, and winter maintenance for Vail's cooler 3,800 ft elevation. Call (520) 333-2665.",
+  description: "Expert heating and furnace services in Vail, AZ. We handle heat pumps, furnaces, and winter maintenance for Vail's cooler 3,800 ft elevation.",
   slug: "heating-vail",
   h1: "Heating Services in Vail, AZ",
   h2Subheading: "Reliable Heating Solutions for Vail's Cooler Mountain Climate",
@@ -23,7 +23,7 @@ highlights: [
     mainHeading: "Heating Services in Vail, AZ",
     sections: [
       { type: "heading", heading: "Addressing Vail's Unique Heating Challenges", level: 2, content: "same" },
-      { type: "paragraph", content: "Vail's beautiful mountain setting at 3,800 feet elevation brings cooler temperatures and more winter frost than the rest of the Tucson metro area. This means your heating system works harder and longer during the winter months. At Intelligent Design, we understand that a reliable heating system isn't just about comfort in Vail—it's a necessity. Whether you live in a newer subdivision in Del Lago or a custom ranch property near the Empire Mountains, our expert technicians are equipped to handle the specific heating demands of our higher-elevation community. We specialize in servicing, repairing, and installing systems that can efficiently combat the chill of Vail's winter nights." },
+      { type: "paragraph", content: "Vail's beautiful mountain setting at 3,800 feet elevation brings cooler temperatures and more winter frost than the rest of the Tucson metro area. This means your heating system works harder and longer during the winter months. At Intelligent Design, we understand that a reliable heating system isn't just about comfort in Vail-it's a necessity. Whether you live in a newer subdivision in Del Lago or a custom ranch property near the Empire Mountains, our expert technicians are equipped to handle the specific heating demands of our higher-elevation community. We specialize in servicing, repairing, and installing systems that can efficiently combat the chill of Vail's winter nights." },
       { type: "paragraph", content: "One of the most common issues we see in Vail is heat pumps that struggle to maintain efficiency during colder nights, or systems that were improperly sized for the elevation when the home was built. Our team performs comprehensive load calculations that account for Vail's specific climate data, ensuring any new installation or replacement is perfectly matched to your home's needs. We also address ductwork issues that can lead to uneven heating, a common complaint in larger ranch-style homes. From routine maintenance to emergency repairs, we're dedicated to providing heating solutions that stand up to Vail's unique winter weather." },
       { type: "cta", heading: "Need Reliable Heating in Vail?", content: "Don't let the mountain chill get you down. Contact Intelligent Design for expert heating services tailored to Vail's climate.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
       { type: "heading", heading: "Comprehensive Heating Solutions for Your Vail Home", level: 2, content: "same" },

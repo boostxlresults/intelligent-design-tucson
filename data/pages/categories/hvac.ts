@@ -2,7 +2,7 @@ import type { ServiceCategoryData } from '@/components/pages/ServiceCategoryPage
 
 export const hvacCategoryData: ServiceCategoryData = {
   title: 'HVAC Services Tucson | Heating & Air Conditioning | Intelligent Design',
-  description: 'Complete HVAC services in Tucson, AZ. AC repair, heating, ductwork, indoor air quality & more. Family & veteran-owned with 23,000+ 5-star reviews. Call (520) 333-2665.',
+  description: 'Complete HVAC services in Tucson, AZ. AC repair, heating, ductwork, indoor air quality & more. Family & veteran-owned with 23,000+ 5-star reviews.',
   slug: 'hvac',
   h1: 'Tucson HVAC Services',
   h2Subheading: 'Heating & Air Conditioning Experts',

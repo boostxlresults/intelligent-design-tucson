@@ -112,6 +112,6 @@ These are just a few ways a professional plumber can unclog your drain. If you a
 
 No matter what type of drain issue you're experiencing, there's a plumber in Tucson who can help. From simple clogs to more serious blockages, these professionals have the tools and experience necessary to get your drains flowing freely again.
 
-[Schedule professional drain clearing](/services/drain-clearing) today — our licensed plumbers use hydro-jetting and camera inspection to clear even the toughest blockages. Suspect a hidden leak causing water damage? Our [leak detection team](/services/leak-detection) uses acoustic and thermal imaging to find problems without demolition.
+[Schedule professional drain clearing](/services/drain-clearing) today - our licensed plumbers use hydro-jetting and camera inspection to clear even the toughest blockages. Suspect a hidden leak causing water damage? Our [leak detection team](/services/leak-detection) uses acoustic and thermal imaging to find problems without demolition.
 
 Call (520) 333-2665 for same-day service. We've been solving Tucson's plumbing problems since 1979.

@@ -83,7 +83,7 @@ export default function FreeRoofInspectionForm() {
         <option value="" disabled>What are you seeing?</option>
         {SEEING.map((s) => <option key={s} value={s}>{s}</option>)}
       </select>
-      {status === "error" && <p className="text-sm text-red-600">Something went wrong &mdash; please call (520) 333-2665.</p>}
+      {status === "error" && <p className="text-sm text-red-600">Something went wrong - please call (520) 333-2665.</p>}
       <button type="submit" disabled={status === "sending"} className="mt-1 rounded-lg bg-[#e8a020] px-6 py-4 text-lg font-extrabold text-[#0d2d7a] shadow-md transition hover:bg-[#f5b731] disabled:opacity-50">
         {status === "sending" ? "Sending…" : "Get My Free Inspection"}
       </button>

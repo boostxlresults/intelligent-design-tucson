@@ -31,7 +31,7 @@ export default function SchedulerEmbed({
   const { openScheduler, isLoading } = useScheduler();
 
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
-    e.preventDefault(); // Prevent navigation — open the widget instead
+    e.preventDefault(); // Prevent navigation - open the widget instead
     trackScheduleOpen(dataTestId);
     openScheduler();
   };
@@ -44,7 +44,7 @@ export default function SchedulerEmbed({
       href="/schedule"
       onClick={handleClick}
       className={fullWidth ? "flex w-full" : "inline-flex"}
-      aria-label={`${triggerText} — opens scheduling widget`}
+      aria-label={`${triggerText} - opens scheduling widget`}
       data-testid={`link-${dataTestId}`}
     >
       <Button

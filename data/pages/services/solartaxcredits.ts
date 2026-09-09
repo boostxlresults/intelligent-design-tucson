@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const solartaxcreditsData: ServicePageData = {
   // SEO & Meta
   title: 'Solar Tax Credits Tucson AZ | Federal ITC & Arizona Solar Incentives 2025',
-  description: 'Maximize solar tax credits in Tucson. 30% federal ITC, Arizona incentives, property tax exemptions, net metering benefits. Expert guidance on claiming all available credits. Call (520) 333-2665.',
+  description: 'Maximize solar tax credits in Tucson. 30% federal ITC, Arizona incentives, property tax exemptions, net metering benefits.',
   slug: 'solar-tax-credits',
   
   // Hero Section
@@ -76,7 +76,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income—it's a direct credit reducing your actual tax liability. For a typical $23,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
+            "content": "The federal solar Investment Tax Credit (ITC) provides the single largest financial incentive for [link:/services/residential-solar-installation|residential solar installation] in Tucson, offering a dollar-for-dollar tax credit equal to 30% of your total solar system cost through December 31, 2032. This is not a tax deduction that merely reduces taxable income-it's a direct credit reducing your actual tax liability. For a typical $23,000 solar installation, the ITC delivers $6,600 in federal tax credits, reducing your net cost to $15,400. Combined with Arizona state incentives including property tax exemptions and sales tax exemptions, total incentives typically reduce solar costs by 35-42%."
       },
       {
             "type": "paragraph",
@@ -84,7 +84,7 @@ export const solartaxcreditsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Understanding the ITC's carry-forward provisions is crucial for maximizing benefits. The credit is non-refundable, meaning it reduces tax liability to zero but won't generate refunds. However, unused credits carry forward indefinitely to future tax years—you never lose the credit, even if it takes several years to fully claim. Our [link:/services/knowledge-hub|solar tax credit specialists] help homeowners with limited current-year tax liability plan multi-year credit strategies, coordinate with tax professionals, and time installations to optimize credit utilization. We've helped over 3,200 Tucson families navigate solar tax credits since 2015, with 100% successful credit claims when following our documentation protocols."
+            "content": "Understanding the ITC's carry-forward provisions is crucial for maximizing benefits. The credit is non-refundable, meaning it reduces tax liability to zero but won't generate refunds. However, unused credits carry forward indefinitely to future tax years-you never lose the credit, even if it takes several years to fully claim. Our [link:/services/knowledge-hub|solar tax credit specialists] help homeowners with limited current-year tax liability plan multi-year credit strategies, coordinate with tax professionals, and time installations to optimize credit utilization. We've helped over 3,200 Tucson families navigate solar tax credits since 2015, with 100% successful credit claims when following our documentation protocols."
       },
       {
             "type": "heading",

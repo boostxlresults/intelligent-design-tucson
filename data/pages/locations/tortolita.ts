@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const tortolitaData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Tortolita, AZ',
-  description: 'Expert home services in Tortolita, in the northwest Tucson foothills near the Tortolita Preserve. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
+  description: 'Expert home services in Tortolita, in the northwest Tucson foothills near the Tortolita Preserve. 24/7 emergency. 23,000+ five-star reviews.',
   slug: 'tortolita',
   
   // Hero Section

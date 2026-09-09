@@ -184,7 +184,7 @@ For comprehensive winterization services and expert guidance, contact Intelligen
 **Address:** 1145 E Fort Lowell Rd, Tucson, AZ 85719
 
 > "Our goal is to ensure that every home is not only safe, but also efficiently prepared for winter. We believe in taking proactive steps to prevent plumbing emergencies before they occur."  
-> — Andrew Dobbins, Owner of Intelligent Design
+> - Andrew Dobbins, Owner of Intelligent Design
 
 ---
 

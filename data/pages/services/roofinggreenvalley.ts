@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const roofinggreenvalleyData: ServicePageData = {
   // SEO & Meta
   title: "Green Valley Roofing Services | Intelligent Design Roofing",
-  description: "Roofing in Green Valley, AZ — tile & shingle experts for 85614 & 85622. Fast, HOA-ready repairs and fair pricing. Call today.",
+  description: "Roofing in Green Valley, AZ - tile & shingle experts for 85614 & 85622. Fast, HOA-ready repairs and fair pricing. Call today.",
   slug: "roofing-green-valley",
   
   // Hero Section
   h1: "Green Valley Roofing - Repair, Replace, Maintain",
   h2Subheading: "Local roof specialists for Green Valley retirement communities, HOA standards, and older tile systems",
-  tagline: "46+ years serving Green Valley (85614, 85622) — 4.97★ from 3,600+ reviews",
+  tagline: "46+ years serving Green Valley (85614, 85622) - 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in Green Valley, Arizona",
   

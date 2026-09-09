@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvaceasttucsonData: ServicePageData = {
   title: "HVAC Services in East Tucson, AZ | AC Repair & Installation",
-  description: "Expert AC repair and HVAC services in East Tucson. Serving 85710, 85730, and 85748 for 46+ years. Call Intelligent Design at (520) 333-2665 for an estimate!",
+  description: "Expert AC repair and HVAC services in East Tucson. Serving 85710, 85730, and 85748 for 46+ years. Call Intelligent Design at for an estimate!",
   slug: "hvac-east-tucson",
   h1: "East Tucson HVAC Services: AC Repair & Maintenance",
   h2Subheading: "Expert Climate Control from the Rincon Foothills to Park Place Mall",

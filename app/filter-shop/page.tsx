@@ -24,7 +24,7 @@ export default function FilterShopPage() {
                 Premium air filters delivered to your door
               </p>
               <p className="text-lg opacity-90" data-testid="text-hero-tagline">
-                Or schedule professional installation—we'll bring them to you
+                Or schedule professional installation-we'll bring them to you
               </p>
             </div>
           </div>
@@ -55,7 +55,7 @@ export default function FilterShopPage() {
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Better Indoor Air Quality</h3>
                     <p className="text-muted-foreground">
-                      Clean filters trap dust, pollen, pet dander, and allergens—keeping your family's air 
+                      Clean filters trap dust, pollen, pet dander, and allergens-keeping your family's air 
                       healthier and reducing allergy symptoms.
                     </p>
                   </div>
@@ -197,7 +197,7 @@ export default function FilterShopPage() {
                 Want Us to Install Your Filters?
               </h2>
               <p className="text-xl mb-8 text-muted-foreground">
-                Add professional filter installation to your next service call—or schedule a filter-only visit
+                Add professional filter installation to your next service call-or schedule a filter-only visit
               </p>
               <div className="grid md:grid-cols-3 gap-6 mb-8">
                 <div data-testid="stat-installation-cost">

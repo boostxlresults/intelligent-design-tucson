@@ -4,7 +4,7 @@ import { septicPermittingFAQs } from '@/data/faqs/septic';
 
 export const septicpermittingData: ServicePageData = {
   title: 'Septic Permitting Tucson AZ | Pima County PDEQ Permit Services',
-  description: 'Expert septic permitting services in Pima County. Site evaluation, perc testing, PDEQ applications, inspection coordination. Streamlined permit process. Call (520) 333-2665.',
+  description: 'Expert septic permitting services in Pima County. Site evaluation, perc testing, PDEQ applications, inspection coordination. Streamlined permit process.',
   slug: 'septic-permitting',
   
   h1: 'Septic Permitting in Tucson - Need a Permit? We Handle Every Step.',
@@ -54,7 +54,7 @@ export const septicpermittingData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Navigating Pima County's septic permitting requirements can be complex and time-consuming. Whether you're installing a new septic system, replacing a failed tank, or making major modifications, permits from the Pima County Department of Environmental Quality (PDEQ) are required to ensure systems meet health and environmental standards. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive septic permitting services—handling everything from initial site evaluation and soil testing through permit application, inspection coordination, and final approval."
+        content: "Navigating Pima County's septic permitting requirements can be complex and time-consuming. Whether you're installing a new septic system, replacing a failed tank, or making major modifications, permits from the Pima County Department of Environmental Quality (PDEQ) are required to ensure systems meet health and environmental standards. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive septic permitting services-handling everything from initial site evaluation and soil testing through permit application, inspection coordination, and final approval."
       },
       {
         type: "paragraph",
@@ -133,7 +133,7 @@ export const septicpermittingData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Based on site evaluation and soil testing, we develop system designs that meet PDEQ requirements and your property's needs. Designs include tank specifications, drain field configuration, pipe routing, and component placement—all drawn to meet permit application requirements. For complex projects, we coordinate with licensed engineers as needed."
+        content: "Based on site evaluation and soil testing, we develop system designs that meet PDEQ requirements and your property's needs. Designs include tank specifications, drain field configuration, pipe routing, and component placement-all drawn to meet permit application requirements. For complex projects, we coordinate with licensed engineers as needed."
       },
       {
         type: "heading",

@@ -41,8 +41,8 @@ When faults with an electric hot water heater are not immediately apparent, a sy
 *   Gas valve
 *   Thermocouple
 *   Pilot light
-*   Running out of hot water —A tankless heater heats water on demand, so it rarely runs out of hot water, but in a busy household, a tank heater that is too small could be a problem.
-*   No hot water —A lack of hot water is by far the most common complaint, and the cause can vary from a blown fuse or tripped circuit breaker to a snuffed-out pilot light.
+*   Running out of hot water -A tankless heater heats water on demand, so it rarely runs out of hot water, but in a busy household, a tank heater that is too small could be a problem.
+*   No hot water -A lack of hot water is by far the most common complaint, and the cause can vary from a blown fuse or tripped circuit breaker to a snuffed-out pilot light.
 
 In the case of a gas water heater, the system can be reset in the same way. It is not as reliant on electricity as an electric water heater because it is a gas system.
 

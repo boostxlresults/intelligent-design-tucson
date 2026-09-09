@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const solarinstallationorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Solar Installation | Intelligent Design Solar",
-  description: "Oro Valley Solar Installation by Intelligent Design — tailored systems for 85737 & 85755. Free site evaluation. Call today.",
+  description: "Oro Valley Solar Installation by Intelligent Design - tailored systems for 85737 & 85755. Free site evaluation. Call today.",
   slug: "solar-installation-oro-valley",
   
   // Hero Section
   h1: "Oro Valley Solar Installation",
   h2Subheading: "Solar systems engineered for Oro Valley rooftops, HOAs, and Catalina Mountain microclimates",
-  tagline: "46+ years serving Tucson with 4.97★ from 3,600+ reviews — solar expertise for Oro Valley homeowners",
+  tagline: "46+ years serving Tucson with 4.97★ from 3,600+ reviews - solar expertise for Oro Valley homeowners",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Solar Installation services in Oro Valley, Arizona",
   

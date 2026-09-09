@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const hvactucsonData: ServicePageData = {
   // SEO & Meta
   title: "HVAC Tucson AZ | #1 Rated HVAC Company | 23,000+ Reviews | Intelligent Design",
-  description: "Tucson's #1 rated HVAC company — 4.97 stars, 23,000+ reviews, 46+ years serving Tucson families. AC repair, installation, heating & maintenance. Same-day service, no overtime charges. Call (520) 333-2665.",
+  description: "Tucson's #1 rated HVAC company - 4.97 stars, 23,000+ reviews, 46+ years serving Tucson families. AC repair, installation, heating & maintenance.",
   slug: "hvac-tucson",
   
   // Hero Section

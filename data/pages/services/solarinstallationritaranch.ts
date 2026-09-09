@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationritaranchData: ServicePageData = {
   title: "Solar Panel Installation in Rita Ranch, AZ | Intelligent Design",
-  description: "Expert solar installation and maintenance in Rita Ranch, AZ. Maximize your energy savings with Intelligent Design's top-rated solar services. Call (520) 333-2665.",
+  description: "Expert solar installation and maintenance in Rita Ranch, AZ. Maximize your energy savings with Intelligent Design's top-rated solar services.",
   slug: "solar-installation-rita-ranch",
   h1: "Solar Panel Installation & Services in Rita Ranch",
   h2Subheading: "Powering Rita Ranch Homes with Reliable Solar Solutions",

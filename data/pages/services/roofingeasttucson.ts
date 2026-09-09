@@ -5,11 +5,11 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingeasttucsonData: ServicePageData = {
   title: "East Tucson Roofing Experts | Intelligent Design",
-  description: "Trusted East Tucson roofing: repairs, replacements, tile, shingle, flat roofs & coatings. Intelligent Design — 46+ years, 4.97★, 3600+ reviews. Call (520) 333-2665 for a free estimate.",
+  description: "Trusted East Tucson roofing: repairs, replacements, tile, shingle, flat roofs & coatings. Intelligent Design - 46+ years, 4.97★, 3600+ reviews.",
   slug: "roofing-east-tucson",
   h1: "East Tucson Roofing Services by Intelligent Design",
   h2Subheading: "Trusted local roof repair, replacement & maintenance for East Tucson homes",
-  tagline: "Durable roofs for East Tucson — experienced, local, reliable.",
+  tagline: "Durable roofs for East Tucson - experienced, local, reliable.",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Roofing services in East Tucson, Arizona",
     serviceName: "Roofing",

@@ -1,5 +1,5 @@
 /**
- * Cork journey persistence — Neon (raw SQL via @neondatabase/serverless).
+ * Cork journey persistence - Neon (raw SQL via @neondatabase/serverless).
  * Self-bootstrapping table for MVP; replace with Drizzle migration in shared/schema.ts
  * as a fast-follow (kept out of shared schema to avoid touching existing files).
  */
@@ -9,7 +9,7 @@ import { neon } from "@neondatabase/serverless";
  * Build a Neon client only from a well-formed connection string. A missing OR
  * malformed DATABASE_URL must NOT throw: neon() validates the URL eagerly, and
  * because this module is imported by route handlers it is evaluated during
- * `next build` page-data collection — a bad value would fail the whole build.
+ * `next build` page-data collection - a bad value would fail the whole build.
  * Instead we sanitize a couple of common paste mistakes, validate the scheme,
  * and degrade to null (no persistence; funnel still emails + books) on anything
  * we can't use. (Return type is inferred so callers keep the precise neon row type.)
@@ -22,13 +22,13 @@ function initSql() {
   url = url.replace(/^DATABASE_URL=/i, "").trim();
   url = url.replace(/^['"]|['"]$/g, "").trim(); // surrounding quotes
   if (!/^postgres(ql)?:\/\//i.test(url)) {
-    console.error("[cork] DATABASE_URL is set but is not a valid postgres:// URL — journey persistence disabled.");
+    console.error("[cork] DATABASE_URL is set but is not a valid postgres:// URL - journey persistence disabled.");
     return null;
   }
   try {
     return neon(url);
   } catch (e) {
-    console.error("[cork] neon() init failed — journey persistence disabled:", e);
+    console.error("[cork] neon() init failed - journey persistence disabled:", e);
     return null;
   }
 }

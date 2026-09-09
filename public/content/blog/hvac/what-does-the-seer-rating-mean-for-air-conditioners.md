@@ -39,13 +39,13 @@ When shopping for a new air conditioner, you'll often hear the term "SEER rating
 
 ## What is SEER?
 
-**SEER** stands for **Seasonal Energy Efficiency Ratio** (sometimes called Rating). It's the government's official measurement for how efficiently an air conditioning system operates. Think of it like miles per gallon for your car—the higher the SEER rating, the more efficiently your AC uses electricity to cool your home.
+**SEER** stands for **Seasonal Energy Efficiency Ratio** (sometimes called Rating). It's the government's official measurement for how efficiently an air conditioning system operates. Think of it like miles per gallon for your car-the higher the SEER rating, the more efficiently your AC uses electricity to cool your home.
 
 ## The Car Analogy: Why SEER Isn't Everything
 
-Consider this comparison: You have two cars to choose from—a Honda Civic and a Toyota Prius. The Prius costs more but gets significantly better gas mileage. If both cars are operating correctly, the Prius will save you money over time on fuel costs.
+Consider this comparison: You have two cars to choose from-a Honda Civic and a Toyota Prius. The Prius costs more but gets significantly better gas mileage. If both cars are operating correctly, the Prius will save you money over time on fuel costs.
 
-**But here's the catch:** If you drive that Prius on flat tires, the Honda Civic will actually be more efficient—and the Prius will probably have a shorter lifespan because driving on flat tires damages the vehicle.
+**But here's the catch:** If you drive that Prius on flat tires, the Honda Civic will actually be more efficient-and the Prius will probably have a shorter lifespan because driving on flat tires damages the vehicle.
 
 ## The Same Principle Applies to Air Conditioners
 
@@ -60,7 +60,7 @@ Studies show that **90% of AC systems in Arizona are installed incorrectly**. Th
 3. **Incorrect Refrigerant Charge** - Too much or too little refrigerant dramatically reduces efficiency
 4. **Incorrect Airflow** - Improper airflow prevents the system from operating at its designed efficiency
 
-Many HVAC companies are what we call "box swappers"—they come in, look at what you have, swap it out for a similar unit, and don't address any of these underlying issues. The result? You pay for a high-SEER unit but don't get high-SEER performance.
+Many HVAC companies are what we call "box swappers"-they come in, look at what you have, swap it out for a similar unit, and don't address any of these underlying issues. The result? You pay for a high-SEER unit but don't get high-SEER performance.
 
 ## What Intelligent Design Does Differently
 
@@ -75,7 +75,7 @@ Even if you're not getting a new system, we can perform a [home energy audit](ht
 
 ## The Bottom Line
 
-A high SEER rating is good, but it's not the only factor to consider. **Proper installation is actually more important** than the SEER rating itself. A lower-SEER unit with perfect installation will outperform a higher-SEER unit with installation flaws—and it will cost you less upfront.
+A high SEER rating is good, but it's not the only factor to consider. **Proper installation is actually more important** than the SEER rating itself. A lower-SEER unit with perfect installation will outperform a higher-SEER unit with installation flaws-and it will cost you less upfront.
 
 ## Ready to Learn More?
 

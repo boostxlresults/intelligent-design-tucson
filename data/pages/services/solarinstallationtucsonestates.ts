@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationtucsonestatesData: ServicePageData = {
   title: "Solar Panel Installation in Tucson Estates, AZ | Intelligent Design",
-  description: "Expert solar installation in Tucson Estates (85735, 85713). We offer affordable solar programs, battery backups, and grid-tie solutions for single-story homes.",
+  description: "Expert solar installation in Tucson Estates (85735, 85713). We offer affordable solar programs, battery backups.",
   slug: "solar-installation-tucson-estates",
   h1: "Solar Panel Installation in Tucson Estates",
   h2Subheading: "Affordable Solar Solutions for Tucson Estates Homeowners",

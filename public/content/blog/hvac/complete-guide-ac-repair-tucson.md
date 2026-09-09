@@ -24,7 +24,7 @@ author: Intelligent Design Team
 
 # Complete Guide to AC Repair in Tucson
 
-Your air conditioner is essential for comfort in Tucson's extreme heat. With summer temperatures regularly exceeding 100°F, a malfunctioning AC system isn't just an inconvenience—it can be dangerous. This comprehensive guide covers everything you need to know about AC repair in Tucson, from common problems to when to call professionals.
+Your air conditioner is essential for comfort in Tucson's extreme heat. With summer temperatures regularly exceeding 100°F, a malfunctioning AC system isn't just an inconvenience-it can be dangerous. This comprehensive guide covers everything you need to know about AC repair in Tucson, from common problems to when to call professionals.
 
 ## Common AC Problems in Tucson
 
@@ -249,7 +249,7 @@ Our desert climate requires special attention:
 ## Frequently Asked Questions
 
 **Q: How often should I service my AC in Tucson?**  
-A: Due to our extreme climate and long cooling season, schedule professional maintenance twice yearly—spring and fall.
+A: Due to our extreme climate and long cooling season, schedule professional maintenance twice yearly-spring and fall.
 
 **Q: Why does my AC struggle on 115°F days?**  
 A: Most residential AC systems are designed to cool 20-25°F below outdoor temperature. During extreme heat, your system may run continuously while barely maintaining indoor temperature.
@@ -274,9 +274,9 @@ Since 1979, Intelligent Design has been Tucson's trusted HVAC service provider. 
 - No Lemon Guarantee on new installations
 - Family Protection Plan membership benefits
 
-Don't let AC problems disrupt your comfort. [Schedule AC repair service](/services/ac-repair-tucson) today — we respond in an average of 73 minutes with no overtime charges. Most repairs cost $150–$450.
+Don't let AC problems disrupt your comfort. [Schedule AC repair service](/services/ac-repair-tucson) today - we respond in an average of 73 minutes with no overtime charges. Most repairs cost $150–$450.
 
-Prevent costly breakdowns with our [$88.88 AC tune-up](/services/ac-tuneup-tucson) — an 86-point inspection that catches problems early. Need a full replacement? Our [AC installation team](/services/ac-installation-tucson) offers 0% APR financing starting at $98/month with free in-home estimates.
+Prevent costly breakdowns with our [$88.88 AC tune-up](/services/ac-tuneup-tucson) - an 86-point inspection that catches problems early. Need a full replacement? Our [AC installation team](/services/ac-installation-tucson) offers 0% APR financing starting at $98/month with free in-home estimates.
 
 Call **(520) 333-2665** today or schedule service online.
 

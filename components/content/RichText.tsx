@@ -1,4 +1,4 @@
-// Server Component — no 'use client' directive
+// Server Component - no 'use client' directive
 // marked and processInternalLinks are pure functions with no browser APIs.
 // Running this on the server removes ~16 KiB of marked JS from the client bundle
 // and eliminates the useEffect hydration delay.
@@ -20,7 +20,7 @@ interface RichTextProps {
  * - - Item → bullet lists
  * - [link:knowledgehub.key:text] → internal links
  * 
- * Runs entirely on the server — no client-side JS required.
+ * Runs entirely on the server - no client-side JS required.
  */
 export default function RichText({ content, className = '' }: RichTextProps) {
   if (!content) return null;

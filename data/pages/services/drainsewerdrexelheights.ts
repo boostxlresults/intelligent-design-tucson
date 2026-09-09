@@ -6,7 +6,7 @@ import type { ServicePageData } from "@/types/services";
 export const drainsewerdrexelheightsData: ServicePageData = {
   // SEO & Meta
   title: "Drexel Heights Drain & Sewer Services | Intelligent Design",
-  description: "Drain & Sewer service in Drexel Heights (85746, 85735). Fast, experienced repairs—call for inspection and local pricing estimates.",
+  description: "Drain & Sewer service in Drexel Heights (85746, 85735). Fast, experienced repairs-call for inspection and local pricing estimates.",
   slug: "drain-sewer-drexel-heights",
   
   // Hero Section

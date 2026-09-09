@@ -17,7 +17,7 @@ export const metadata: Metadata = generateSEOMetadata({
 const contestSchema = {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "Where's Waldo? — Spot Andrew or Aimee & Win $1,000",
+  "name": "Where's Waldo? - Spot Andrew or Aimee & Win $1,000",
   "description": "Monthly $1,000 giveaway contest. Spot Andrew or Aimee from Intelligent Design out in Tucson, take a selfie with them, and enter to win.",
   "organizer": {
     "@type": "LocalBusiness",
@@ -65,7 +65,7 @@ export default function WheresWaldoPage() {
       icon: Upload,
       step: '4',
       title: 'Post & Tag Us',
-      description: 'Upload your selfie to your social media page and tag @intelligentdesigntucson (Instagram/TikTok) or @IntelligentDesignAC (Facebook). That\'s it — you\'re entered!',
+      description: 'Upload your selfie to your social media page and tag @intelligentdesigntucson (Instagram/TikTok) or @IntelligentDesignAC (Facebook). That\'s it - you\'re entered!',
     },
   ];
 
@@ -86,7 +86,7 @@ export default function WheresWaldoPage() {
           <div className="absolute inset-0">
             <Image
               src="/images/hero-family-desktop.webp"
-              alt="The Intelligent Design family — spot them in Tucson and win!"
+              alt="The Intelligent Design family - spot them in Tucson and win!"
               fill
               priority
               sizes="100vw"
@@ -94,7 +94,7 @@ export default function WheresWaldoPage() {
             />
             <Image
               src="/images/hero-family-mobile.webp"
-              alt="The Intelligent Design family — spot them in Tucson and win!"
+              alt="The Intelligent Design family - spot them in Tucson and win!"
               fill
               priority
               sizes="100vw"
@@ -389,7 +389,7 @@ export default function WheresWaldoPage() {
               Think You Can Find Us?
             </h2>
             <p className="text-xl mb-8 opacity-90">
-              Keep your eyes peeled around Tucson — Andrew and Aimee could be anywhere! Follow us on social media to stay in the loop.
+              Keep your eyes peeled around Tucson - Andrew and Aimee could be anywhere! Follow us on social media to stay in the loop.
             </p>
             <div className="flex flex-wrap gap-4 justify-center">
               <Button asChild size="lg" className="bg-yellow-500 hover:bg-yellow-600 text-gray-900 border-yellow-500 text-lg px-8 py-6 h-auto">

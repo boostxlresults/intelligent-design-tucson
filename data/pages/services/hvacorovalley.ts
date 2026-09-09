@@ -5,14 +5,14 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvacorovalleyData: ServicePageData = {
   // SEO & Meta
-  title: "Oro Valley HVAC Services — Intelligent Design",
+  title: "Oro Valley HVAC Services - Intelligent Design",
   description: "Oro Valley HVAC experts serving 85737 & 85755. 46+ yrs experience, 4.97★ from 3,600+ reviews. Schedule local diagnostics today.",
   slug: "hvac-oro-valley",
   
   // Hero Section
   h1: "Oro Valley HVAC Services - Systems, Repair & Zoning",
   h2Subheading: "Local HVAC solutions tuned to Oro Valley elevation, HOAs, and upscale homes",
-  tagline: "46+ years serving Oro Valley — 4.97★ from 3,600+ reviews; trusted HVAC for Rancho Vistoso to Sun City",
+  tagline: "46+ years serving Oro Valley - 4.97★ from 3,600+ reviews; trusted HVAC for Rancho Vistoso to Sun City",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "HVAC services in Oro Valley, Arizona",
   

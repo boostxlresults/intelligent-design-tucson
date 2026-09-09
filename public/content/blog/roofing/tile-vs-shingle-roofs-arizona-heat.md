@@ -83,7 +83,7 @@ The primary drawback of asphalt shingles in Arizona is their shorter lifespan. T
 
 Choosing between tile and shingle roofs ultimately depends on your budget, your home's structural capacity, and your long-term goals.
 
-If you are looking for the most energy-efficient, longest-lasting, and aesthetically pleasing option—and your budget and roof structure allow for it—a tile roof is generally the superior choice for the Arizona heat.
+If you are looking for the most energy-efficient, longest-lasting, and aesthetically pleasing option-and your budget and roof structure allow for it-a tile roof is generally the superior choice for the Arizona heat.
 
 However, if you need a more affordable, lightweight solution and are willing to accept a shorter lifespan, high-quality, reflective architectural shingles are a very viable and popular alternative.
 

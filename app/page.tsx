@@ -10,6 +10,7 @@ import ContactCard from "@/components/content/ContactCard";
 import BadgeWall from "@/components/content/BadgeWall";
 import RichText from "@/components/content/RichText";
 import ServiceFAQ from "@/components/content/ServiceFAQ";
+import HomeInternalLinks from "@/components/content/HomeInternalLinks";
 import { Card, CardContent } from "@/components/ui/card";
 import { CheckCircle2, Star } from "lucide-react";
 import { homeData } from "@/data/pages/services/home";
@@ -215,6 +216,9 @@ export default function Home() {
             </div>
           </section>
         )}
+
+        {/* Crawlable internal links to money pages - see component header */}
+        <HomeInternalLinks />
 
         {/* Badge Wall - Certifications & Awards */}
         <BadgeWall />

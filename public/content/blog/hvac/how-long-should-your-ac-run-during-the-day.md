@@ -38,7 +38,7 @@ Many homeowners in Tucson ask us: "How long should my AC run during the day?" Th
 
 ## The Truth About AC Run Time
 
-If your air conditioning system is properly designed and properly sized, it should run continuously during the peak of the day in the middle of summer. That's right—**your AC shouldn't be kicking on and off** during the hottest part of Arizona's summer days.
+If your air conditioning system is properly designed and properly sized, it should run continuously during the peak of the day in the middle of summer. That's right-**your AC shouldn't be kicking on and off** during the hottest part of Arizona's summer days.
 
 If you have a system that's turning on and off frequently during peak summer temperatures, it's probably **oversized** for your home.
 
@@ -56,7 +56,7 @@ This is normal and expected behavior. The system only needs to run continuously 
 
 ## The Problem with Oversized AC Systems
 
-An oversized AC system causes a problem called **short cycling**—when the unit kicks on and off too frequently. This leads to:
+An oversized AC system causes a problem called **short cycling**-when the unit kicks on and off too frequently. This leads to:
 
 1. **Premature motor failure** - All that starting and stopping puts excessive wear on the motors
 2. **Drastically shorter system life** - You'll need to replace your AC much sooner than expected

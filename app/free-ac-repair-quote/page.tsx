@@ -27,11 +27,11 @@ export const metadata: Metadata = {
 const faqs = [
   {
     q: "Is the dispatch fee really $0?",
-    a: "Yes. When you book through this offer, there is no dispatch fee and no diagnostic charge — you only pay if you approve a repair. You get the exact price up front before we touch anything.",
+    a: "Yes. When you book through this offer, there is no dispatch fee and no diagnostic charge - you only pay if you approve a repair. You get the exact price up front before we touch anything.",
   },
   {
     q: "What does the 10% off repairs cover?",
-    a: "The discount applies to the total cost of the repair — parts and labor — performed on your visit. It cannot be combined with other promotional offers.",
+    a: "The discount applies to the total cost of the repair - parts and labor - performed on your visit. It cannot be combined with other promotional offers.",
   },
   {
     q: "What is the 1-Year No Breakdown Guarantee?",
@@ -39,11 +39,11 @@ const faqs = [
   },
   {
     q: "How fast can you come out?",
-    a: "In most cases, same day. When you call or schedule, we give you a real arrival window — not an all-day wait. We text you when the technician is on the way.",
+    a: "In most cases, same day. When you call or schedule, we give you a real arrival window - not an all-day wait. We text you when the technician is on the way.",
   },
   {
     q: "Are you licensed and insured?",
-    a: "Yes — licensed, bonded, and insured in Arizona (AZ ROC 340962, 322375, 296386, 276673), family- and veteran-owned, serving Tucson since 1979.",
+    a: "Yes - licensed, bonded, and insured in Arizona (AZ ROC 340962, 322375, 296386, 276673), family- and veteran-owned, serving Tucson since 1979.",
   },
 ];
 
@@ -64,7 +64,7 @@ const schema = {
     },
     {
       "@type": "Service",
-      name: "AC Repair — $0 Dispatch & Diagnostic Special",
+      name: "AC Repair - $0 Dispatch & Diagnostic Special",
       serviceType: "Air conditioning repair",
       areaServed: { "@type": "City", name: "Tucson" },
       provider: { "@id": `${SITE}/free-ac-repair-quote#business` },
@@ -127,7 +127,7 @@ export default function FreeAcRepairQuotePage() {
               <p className="mb-2 text-center text-sm font-bold text-white md:text-left">Or schedule your same-day visit online:</p>
               <div className="rounded-xl bg-white p-4 shadow-lg">
                 <SchedulerEmbed
-                  triggerText="Schedule Online — It&rsquo;s Fast &amp; Free"
+                  triggerText="Schedule Online - It&rsquo;s Fast &amp; Free"
                   fullWidth
                   size="lg"
                   data-testid="hero-schedule"
@@ -160,9 +160,9 @@ export default function FreeAcRepairQuotePage() {
         <h2 className="text-2xl font-bold text-primary md:text-3xl">What&rsquo;s included with your AC Repair Special</h2>
         <div className="mt-6 grid gap-4 sm:grid-cols-2">
           {[
-            [DollarSign, "$0 Dispatch Fee", "We come to you at no charge — the trip is on us when you book this offer."],
+            [DollarSign, "$0 Dispatch Fee", "We come to you at no charge - the trip is on us when you book this offer."],
             [Wrench, "$0 Diagnostic", "We find the problem for free. You get the exact repair price before we touch anything."],
-            [BadgePercent, "10% Off Your Repair", "Your repair total — parts and labor — is discounted 10% when you move forward."],
+            [BadgePercent, "10% Off Your Repair", "Your repair total - parts and labor - is discounted 10% when you move forward."],
             [ShieldCheck, "1-Year No Breakdown Guarantee", "If the same issue returns within 12 months, we fix it free. No questions asked."],
             [Clock, "Same-Day Service", "Real arrival windows, not all-day waits. We text you when the tech is on the way."],
             [CheckCircle2, "Up-Front Pricing", "Non-commissioned techs give you an honest quote. Nothing starts until you approve it."],
@@ -210,8 +210,8 @@ export default function FreeAcRepairQuotePage() {
         <h2 className="text-2xl font-bold text-primary md:text-3xl">Why Tucson homeowners call us</h2>
         <div className="mt-6 grid gap-4 sm:grid-cols-2">
           {[
-            ["46+ years in Tucson", "Family- and veteran-owned, serving Tucson since 1979. We&rsquo;re not a call center — we&rsquo;re your neighbors."],
-            ["All brands, all systems", "Trane, Carrier, Lennox, Goodman, Rheem, York, Daikin — every major brand. Most repairs finished on the first visit."],
+            ["46+ years in Tucson", "Family- and veteran-owned, serving Tucson since 1979. We&rsquo;re not a call center - we&rsquo;re your neighbors."],
+            ["All brands, all systems", "Trane, Carrier, Lennox, Goodman, Rheem, York, Daikin - every major brand. Most repairs finished on the first visit."],
             ["Non-commissioned technicians", "Our techs don&rsquo;t earn commission on upsells. You get an honest recommendation, not a sales pitch."],
             ["No overtime rates", "Same price day or night, weekday or weekend. No surprise charges when you need us most."],
           ].map(([t, d]) => (

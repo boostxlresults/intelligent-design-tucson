@@ -48,7 +48,7 @@ A burning smell near your electrical panel is a serious warning sign. Scorch mar
 
 ### 4. Buzzing or Crackling Sounds
 
-Your electrical panel should operate silently. Buzzing, crackling, or humming sounds indicate loose connections, faulty breakers, or arcing electricity—all fire hazards.
+Your electrical panel should operate silently. Buzzing, crackling, or humming sounds indicate loose connections, faulty breakers, or arcing electricity-all fire hazards.
 
 ### 5. Warm or Hot Panel Box
 
@@ -104,7 +104,7 @@ Panel upgrade costs vary based on several factors:
 - **Subpanel installation**: $500 - $1,200
 - **Whole-house rewiring** (if needed): $8,000 - $15,000
 
-These are estimates—every home is different. We provide free written quotes before any work begins.
+These are estimates-every home is different. We provide free written quotes before any work begins.
 
 ## Frequently Asked Questions
 

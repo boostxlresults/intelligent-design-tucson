@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const heatingritaranchData: ServicePageData = {
   title: "Heating Repair & Installation in Rita Ranch, AZ | Intelligent Design",
-  description: "Expert heating services in Rita Ranch, AZ. From heat pumps to furnaces, we handle two-story heat stratification and aging systems in 85747. Call (520) 333-2665.",
+  description: "Expert heating services in Rita Ranch, AZ. From heat pumps to furnaces, we handle two-story heat stratification and aging systems in 85747.",
   slug: "heating-rita-ranch",
   h1: "Heating Services in Rita Ranch, AZ",
   h2Subheading: "Reliable Heating Solutions for Rita Ranch Homes",
@@ -23,7 +23,7 @@ highlights: [
     mainHeading: "Heating Services in Rita Ranch, AZ",
     sections: [
       { type: "heading", heading: "Heating Challenges in Rita Ranch", level: 2, content: "same" },
-      { type: "paragraph", content: "Rita Ranch is a popular, family-oriented master-planned community with homes primarily built between the 1990s and 2010s. While the area enjoys slightly cooler temperatures due to its 3,000 ft elevation, winter nights can still get chilly, making a reliable heating system essential. Many homes in the 85747 zip code are two-story structures, which often suffer from heat stratification—where the upstairs gets too warm while the downstairs remains cold. Additionally, the original builder-grade heating systems in older Rita Ranch homes are now aging and losing efficiency, leading to higher energy bills and uneven comfort." },
+      { type: "paragraph", content: "Rita Ranch is a popular, family-oriented master-planned community with homes primarily built between the 1990s and 2010s. While the area enjoys slightly cooler temperatures due to its 3,000 ft elevation, winter nights can still get chilly, making a reliable heating system essential. Many homes in the 85747 zip code are two-story structures, which often suffer from heat stratification-where the upstairs gets too warm while the downstairs remains cold. Additionally, the original builder-grade heating systems in older Rita Ranch homes are now aging and losing efficiency, leading to higher energy bills and uneven comfort." },
       { type: "paragraph", content: "At Intelligent Design, we understand the specific heating challenges faced by Rita Ranch homeowners. Whether you're dealing with an aging furnace in Rancho del Lago or need a heat pump replacement near Rita Ranch Park, our experienced technicians are equipped to handle it. We specialize in upgrading outdated systems, installing zoning solutions to balance temperatures across multiple floors, and ensuring all work complies with the strict guidelines of local HOAs. Our goal is to provide efficient, long-lasting heating solutions that keep your family comfortable throughout the cooler months." },
       { type: "cta", heading: "Need Heating Service in Rita Ranch?", content: "Don't let a failing heater leave your family in the cold. Contact Intelligent Design today for expert heating repair, maintenance, or installation in the 85747 area.", buttonText: "Call (520) 333-2665", buttonLink: "tel:+15203332665" },
       { type: "heading", heading: "Comprehensive Heating Solutions for 85747", level: 2, content: "same" },

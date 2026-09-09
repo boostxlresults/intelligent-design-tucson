@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const lightingupgradesData: ServicePageData = {
   // SEO & Meta
   title: 'Lighting Upgrades Tucson AZ | LED Conversion | Smart Lighting | Recessed Lighting Installation',
-  description: 'Professional lighting upgrades in Tucson since 1979. LED conversion saves $300-500/year. Recessed lighting, dimmers, smart controls, outdoor lighting. Licensed electricians. 23,000+ reviews. Same-day service. Call (520) 333-2665.',
+  description: 'Professional lighting upgrades in Tucson since 1979. LED conversion saves $300-500/year. Recessed lighting, dimmers, smart controls, outdoor lighting.',
   slug: 'lighting-upgrades',
   
   // Hero Section
@@ -88,7 +88,7 @@ export const lightingupgradesData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Dramatic Energy Cost Reduction: LED lighting uses 75% less electricity than traditional incandescent bulbs and 40% less than CFL bulbs, translating to substantial savings on Tucson Electric Power bills. An average Tucson home with 40-50 light fixtures running 5 hours daily spends $400-600 annually on lighting electricity using incandescent bulbs. Converting to LED reduces this to $100-150 annually—a $300-450 annual savings. Over a typical 20-year LED lifespan, total savings reach $6,000-9,000 while providing superior light quality. Even better, reduced heat output from LEDs lowers AC cooling costs an additional $100-200 annually in Tucson's extreme summer heat, since incandescent bulbs waste 90% of energy as heat that your air conditioner must remove."
+            "content": "Dramatic Energy Cost Reduction: LED lighting uses 75% less electricity than traditional incandescent bulbs and 40% less than CFL bulbs, translating to substantial savings on Tucson Electric Power bills. An average Tucson home with 40-50 light fixtures running 5 hours daily spends $400-600 annually on lighting electricity using incandescent bulbs. Converting to LED reduces this to $100-150 annually-a $300-450 annual savings. Over a typical 20-year LED lifespan, total savings reach $6,000-9,000 while providing superior light quality. Even better, reduced heat output from LEDs lowers AC cooling costs an additional $100-200 annually in Tucson's extreme summer heat, since incandescent bulbs waste 90% of energy as heat that your air conditioner must remove."
       },
       {
             "type": "paragraph",

@@ -42,7 +42,7 @@ export function hasClickId(): boolean {
 
 /**
  * Ensure the stored click IDs are present on the current URL so ServiceTitan
- * Scheduling Pro captures them into the booking (native attribution — Plan A).
+ * Scheduling Pro captures them into the booking (native attribution - Plan A).
  * Only ADDS missing params via replaceState; never removes existing ones and
  * never touches any DOM/phone elements (DNI-safe).
  */

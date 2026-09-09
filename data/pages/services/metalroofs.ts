@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const metalroofsData: ServicePageData = {
   // SEO & Meta
   title: 'Metal Roofing Tucson AZ | Standing Seam & Corrugated Metal Roof Installation',
-  description: 'Expert metal roofers in Tucson, AZ specializing in standing seam metal roof install, corrugated metal roofing, 22-24-26 gauge systems. Residential & commercial. 46+ years experience. Call (520) 333-2665.',
+  description: 'Expert metal roofers in Tucson, AZ specializing in standing seam metal roof install, corrugated metal roofing, 22-24-26 gauge systems.',
   slug: 'metal-roofs',
   
   // Hero Section
@@ -66,11 +66,11 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Metal roofing isn't just durable—it's scientifically engineered to thrive in Tucson's punishing desert environment. While other materials deteriorate rapidly under Tucson's 165°F+ summer roof surface temperatures, daily 40-50°F temperature swings, intense UV radiation 30% stronger than sea level, violent monsoon winds exceeding 60 mph, and occasional winter freezes, metal roofing systems excel in these exact conditions. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed thousands of metal roofs throughout Tucson since 1979, and our ServiceTitan-tracked performance data proves metal roofing's exceptional value for Southern Arizona homeowners and businesses."
+            "content": "Metal roofing isn't just durable-it's scientifically engineered to thrive in Tucson's punishing desert environment. While other materials deteriorate rapidly under Tucson's 165°F+ summer roof surface temperatures, daily 40-50°F temperature swings, intense UV radiation 30% stronger than sea level, violent monsoon winds exceeding 60 mph, and occasional winter freezes, metal roofing systems excel in these exact conditions. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we've installed thousands of metal roofs throughout Tucson since 1979, and our ServiceTitan-tracked performance data proves metal roofing's exceptional value for Southern Arizona homeowners and businesses."
       },
       {
             "type": "paragraph",
-            "content": "Unmatched Energy Efficiency & Heat Reflection: Metal roofing's greatest advantage in Tucson is exceptional heat rejection through advanced cool roof technology. Light-colored metal roofs with reflective coatings reflect 60-80% of solar radiation versus only 20-30% for dark asphalt shingles. This dramatic difference reduces roof surface temperatures by 50-70°F—from 180-195°F for asphalt to 130-140°F for cool metal roofing. The temperature reduction translates directly to attic temperature reductions of 20-35°F, cutting cooling loads by 20-30% and reducing summer electricity costs by $300-$800 annually for typical Tucson homes. Metal's low thermal mass means it heats quickly but also cools rapidly after sunset, unlike [link:/services/tile-roofs|tile roofing] or asphalt which retain heat for hours."
+            "content": "Unmatched Energy Efficiency & Heat Reflection: Metal roofing's greatest advantage in Tucson is exceptional heat rejection through advanced cool roof technology. Light-colored metal roofs with reflective coatings reflect 60-80% of solar radiation versus only 20-30% for dark asphalt shingles. This dramatic difference reduces roof surface temperatures by 50-70°F-from 180-195°F for asphalt to 130-140°F for cool metal roofing. The temperature reduction translates directly to attic temperature reductions of 20-35°F, cutting cooling loads by 20-30% and reducing summer electricity costs by $300-$800 annually for typical Tucson homes. Metal's low thermal mass means it heats quickly but also cools rapidly after sunset, unlike [link:/services/tile-roofs|tile roofing] or asphalt which retain heat for hours."
       },
       {
             "type": "paragraph",
@@ -78,7 +78,7 @@ export const metalroofsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Superior Storm Resistance & Weather Protection: Tucson's monsoon season tests roofing systems with microbursts, haboobs, and sustained winds exceeding 60 mph. Properly installed metal roofs withstand these conditions through interlocking panel systems preventing wind uplift, concealed fasteners (standing seam) eliminating leak points, mechanical seaming creating watertight bonds, and wind ratings of 120-150 mph when properly installed. Metal's impermeability prevents water absorption unlike porous materials. The fire-resistant properties protect against wildfire embers—critical for Tucson-area homes near desert vegetation. Whether you need [link:/services/residential-roof-installation|new construction roofing], [link:/services/residential-roof-replacement|replacement of aging systems], or [link:/services/commercial-roof-installation|commercial installations], metal roofing provides unmatched protection and value."
+            "content": "Superior Storm Resistance & Weather Protection: Tucson's monsoon season tests roofing systems with microbursts, haboobs, and sustained winds exceeding 60 mph. Properly installed metal roofs withstand these conditions through interlocking panel systems preventing wind uplift, concealed fasteners (standing seam) eliminating leak points, mechanical seaming creating watertight bonds, and wind ratings of 120-150 mph when properly installed. Metal's impermeability prevents water absorption unlike porous materials. The fire-resistant properties protect against wildfire embers-critical for Tucson-area homes near desert vegetation. Whether you need [link:/services/residential-roof-installation|new construction roofing], [link:/services/residential-roof-replacement|replacement of aging systems], or [link:/services/commercial-roof-installation|commercial installations], metal roofing provides unmatched protection and value."
       },
       {
             "type": "heading",

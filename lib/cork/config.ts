@@ -30,11 +30,11 @@ export const CORK_COLORS: CorkColor[] = [
   { id: "kc-15", code: "KC 15", name: "Black", hex: "#1C1C1A" },
 ];
 
-export const DEFAULT_COLOR_ID = "kc-24"; // KliuCork terracotta — matches the hero deck
+export const DEFAULT_COLOR_ID = "kc-24"; // KliuCork terracotta - matches the hero deck
 
-/** Pricing — confirmed rate; band & minimum are sensible defaults, adjust if needed */
+/** Pricing - confirmed rate; band & minimum are sensible defaults, adjust if needed */
 export const CORK_PRICING = {
-  ratePerSqFt: 7.0, // USD — confirmed rate (2026-07-10)
+  ratePerSqFt: 7.0, // USD - confirmed rate (2026-07-10)
   /** Range band shown to customer: rate × (1 ± band) */
   band: 0.15,
   minimumProjectPrice: 2500, // floor guard; confirm with Joey

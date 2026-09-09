@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingtanqueverdeData: ServicePageData = {
   title: "Tanque Verde Roofing | Intelligent Design Roofing",
-  description: "Expert roof repair, replacement, tile, shingle, flat and coating services in Tanque Verde. Trusted local crews — call Intelligent Design at (520) 333-2665 for a free inspection today.",
+  description: "Expert roof repair, replacement, tile, shingle, flat and coating services in Tanque Verde. Trusted local crews - call Intelligent Design at for a free.",
   slug: "roofing-tanque-verde",
   h1: "Tanque Verde Roofing Services",
   h2Subheading: "Roofing built for Rincon Mountain weather and upscale desert homes",

@@ -18,7 +18,7 @@ canonicalUrl: https://www.idesignac.com/blog/roofing/types-of-roofing-materials-
 
 # Types of Roofing Materials Best Suited for Tucson's Climate
 
-Choosing the right roofing material in Tucson isn't just about aesthetics—it's about protecting your home from some of the most challenging weather conditions in the country. Between our intense UV radiation, extreme summer heat, dramatic monsoon storms, and occasional hail, your roof needs to perform year-round.
+Choosing the right roofing material in Tucson isn't just about aesthetics-it's about protecting your home from some of the most challenging weather conditions in the country. Between our intense UV radiation, extreme summer heat, dramatic monsoon storms, and occasional hail, your roof needs to perform year-round.
 
 This guide compares the most popular roofing materials for Tucson homes, helping you make an informed decision for your next roof replacement.
 

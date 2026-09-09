@@ -4,7 +4,7 @@ import { septicRepairFAQs } from '@/data/faqs/septic';
 
 export const septicrepairData: ServicePageData = {
   title: 'Septic Tank Repair Tucson AZ | Septic System Repair Near Me | Emergency Service',
-  description: 'Professional septic tank repair and septic system repair in Tucson & Pima County. Septic repair near me with 24/7 emergency service. Licensed septic system repair contractors. Call (520) 333-2665.',
+  description: 'Professional septic tank repair and septic system repair in Tucson & Pima County. Septic repair near me with 24/7 emergency service.',
   slug: 'septic-repair',
   
   h1: 'Septic Repair in Tucson - Trouble Signs? Fixed Before a Crisis.',
@@ -54,15 +54,15 @@ export const septicrepairData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "When your septic system fails in Tucson, you're facing a serious emergency that threatens your family's health and your property's value. Sewage backups create immediate biohazards, foul odors make your home uninhabitable, and drain field failures can contaminate groundwater and require expensive excavation. In Southern Arizona's challenging desert environment—with caliche soil limiting drainage, extreme heat affecting bacterial action, and aggressive tree roots from mesquite and palo verde infiltrating pipes—septic systems face unique stresses that accelerate deterioration and failure. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive [link:/services/plumbing-tucson|septic repair services] throughout Tucson and Pima County, from emergency pump-outs and basic repairs to complete drain field restoration."
+        content: "When your septic system fails in Tucson, you're facing a serious emergency that threatens your family's health and your property's value. Sewage backups create immediate biohazards, foul odors make your home uninhabitable, and drain field failures can contaminate groundwater and require expensive excavation. In Southern Arizona's challenging desert environment-with caliche soil limiting drainage, extreme heat affecting bacterial action, and aggressive tree roots from mesquite and palo verde infiltrating pipes-septic systems face unique stresses that accelerate deterioration and failure. At Intelligent Design Air Conditioning, Plumbing, Solar, & Electric, we provide comprehensive [link:/services/plumbing-tucson|septic repair services] throughout Tucson and Pima County, from emergency pump-outs and basic repairs to complete drain field restoration."
       },
       {
         type: "paragraph",
-        content: "Emergency Septic Repair When You Need It Most: Our ServiceTitan-powered dispatch system delivers rapid response for septic emergencies across metro Tucson. We maintain fully-equipped service vehicles positioned throughout Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], [link:/services/plumbing-green-valley|Green Valley], and surrounding Pima County communities. Our technicians carry specialized septic diagnostic equipment—camera inspection systems, pump testing tools, and emergency repair supplies—enabling same-day diagnosis and many same-day repairs for common septic problems."
+        content: "Emergency Septic Repair When You Need It Most: Our ServiceTitan-powered dispatch system delivers rapid response for septic emergencies across metro Tucson. We maintain fully-equipped service vehicles positioned throughout Tucson, [link:/services/plumbing-oro-valley|Oro Valley], [link:/services/plumbing-marana|Marana], [link:/services/plumbing-sahuarita|Sahuarita], [link:/services/plumbing-vail|Vail], [link:/services/plumbing-green-valley|Green Valley], and surrounding Pima County communities. Our technicians carry specialized septic diagnostic equipment-camera inspection systems, pump testing tools, and emergency repair supplies-enabling same-day diagnosis and many same-day repairs for common septic problems."
       },
       {
         type: "paragraph",
-        content: "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews—the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979, and our commitment to honest pricing, quality workmanship, and customer satisfaction has made us Pima County's most-trusted septic service provider. When your septic system is failing and you need solutions you can trust, you're choosing the [link:/customer-reviews|family-owned, veteran-operated company] your neighbors rely on."
+        content: "Proven Track Record & Community Trust: Intelligent Design has earned the trust of over 85,000 Tucson-area families with a nearly perfect 4.97-star Google rating from 23,000+ verified reviews-the highest-rated plumbing company in Southern Arizona. We've maintained BBB A+ accreditation since 1979, and our commitment to honest pricing, quality workmanship, and customer satisfaction has made us Pima County's most-trusted septic service provider. When your septic system is failing and you need solutions you can trust, you're choosing the [link:/customer-reviews|family-owned, veteran-operated company] your neighbors rely on."
       },
       {
         type: "cta",
@@ -89,7 +89,7 @@ export const septicrepairData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Much of Tucson sits on caliche—a calcium carbonate hardpan layer that doesn't absorb water well. This creates significant challenges for septic drain fields, which rely on soil absorption to treat wastewater. Properties with shallow caliche may experience poor percolation, leading to drain field saturation, system backups, and premature failure. When we evaluate septic problems in Tucson, we always consider soil conditions and may recommend specialized solutions like raised mound systems or alternative treatment options for properties with challenging soil."
+        content: "Much of Tucson sits on caliche-a calcium carbonate hardpan layer that doesn't absorb water well. This creates significant challenges for septic drain fields, which rely on soil absorption to treat wastewater. Properties with shallow caliche may experience poor percolation, leading to drain field saturation, system backups, and premature failure. When we evaluate septic problems in Tucson, we always consider soil conditions and may recommend specialized solutions like raised mound systems or alternative treatment options for properties with challenging soil."
       },
       {
         type: "heading",
@@ -99,7 +99,7 @@ export const septicrepairData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Septic systems rely on anaerobic bacteria to break down solid waste in the tank. Tucson's extreme summer temperatures—often exceeding 100°F for weeks—can affect bacterial activity and tank chemistry. Shallow tanks or those exposed to direct sun may experience reduced bacterial efficiency, slower waste breakdown, and faster solid accumulation. This makes regular pumping even more critical in our desert climate. We recommend pumping every 3-4 years for most Tucson households, rather than the 5-year interval common in cooler climates."
+        content: "Septic systems rely on anaerobic bacteria to break down solid waste in the tank. Tucson's extreme summer temperatures-often exceeding 100°F for weeks-can affect bacterial activity and tank chemistry. Shallow tanks or those exposed to direct sun may experience reduced bacterial efficiency, slower waste breakdown, and faster solid accumulation. This makes regular pumping even more critical in our desert climate. We recommend pumping every 3-4 years for most Tucson households, rather than the 5-year interval common in cooler climates."
       },
       {
         type: "heading",
@@ -145,7 +145,7 @@ export const septicrepairData: ServicePageData = {
       },
       {
         type: "paragraph",
-        content: "Drain field failure is the most expensive septic problem, but complete replacement isn't always necessary. We offer drain field restoration services that can extend the life of failing drain fields at a fraction of replacement cost. Techniques include soil fracturing to improve percolation, biomat treatment to restore soil absorption, and targeted repairs to specific failed sections. After thorough evaluation, we'll recommend the most cost-effective solution—whether that's restoration, partial replacement, or complete drain field reconstruction."
+        content: "Drain field failure is the most expensive septic problem, but complete replacement isn't always necessary. We offer drain field restoration services that can extend the life of failing drain fields at a fraction of replacement cost. Techniques include soil fracturing to improve percolation, biomat treatment to restore soil absorption, and targeted repairs to specific failed sections. After thorough evaluation, we'll recommend the most cost-effective solution-whether that's restoration, partial replacement, or complete drain field reconstruction."
       },
       {
         type: "cta",

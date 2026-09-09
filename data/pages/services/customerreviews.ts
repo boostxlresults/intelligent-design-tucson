@@ -8,7 +8,7 @@ import { customerReviewsFAQs } from '@/data/faqs/general';
 export const customerreviewsData: ServicePageData = {
   // SEO & Meta
   title: 'Customer Reviews',
-  description: 'Read 23,000+ five-star reviews from Tucson families who trust Intelligent Design for HVAC, plumbing, electrical, solar & roofing. BBB A+ rated since 1979. See why we',
+  description: 'Read 23,000+ 5-star reviews from Tucson families who trust Intelligent Design for HVAC, plumbing, electrical, solar & roofing. BBB A+ rated since 1979.',
   slug: 'customer-reviews',
   
   // Hero Section
@@ -29,7 +29,7 @@ export const customerreviewsData: ServicePageData = {
   featuredVideo: {
     videoId: "IKk4kTp_IrQ",
     title: "Why Do You Love Intelligent Design? (Customer Testimonials)",
-    description: "Real Tucson homeowners share why they chose Intelligent Design for their home services — 23,000+ five-star reviews and counting.",
+    description: "Real Tucson homeowners share why they chose Intelligent Design for their home services - 23,000+ five-star reviews and counting.",
     duration: "PT5M",
     uploadDate: "2024-01-01T00:00:00Z"
   },
@@ -129,7 +129,7 @@ export const customerreviewsData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "We stand behind our work—you don't pay until you're completely satisfied."
+            "content": "We stand behind our work-you don't pay until you're completely satisfied."
       },
       {
             "type": "heading",

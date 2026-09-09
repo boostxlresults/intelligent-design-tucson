@@ -12,7 +12,7 @@ export const drainclearingcatalinafoothillsData: ServicePageData = {
   // Hero Section
   h1: "Catalina Foothills Drain Clearing",
   h2Subheading: "Hillside-aware drain clearing for luxury Catalina Foothills homes, pools, and gourmet kitchens",
-  tagline: "46+ years serving Catalina Foothills — 4.97★ from 3,600+ reviews; hillside drainage specialists",
+  tagline: "46+ years serving Catalina Foothills - 4.97★ from 3,600+ reviews; hillside drainage specialists",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing services in Catalina Foothills, Arizona",
   

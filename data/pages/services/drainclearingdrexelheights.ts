@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const drainclearingdrexelheightsData: ServicePageData = {
   title: "Drain Clearing in Drexel Heights, AZ | Intelligent Design",
-  description: "Expert drain clearing in Drexel Heights. We tackle aging clay pipes, root intrusion, and bellied lines in 85746 & 85735. Call (520) 333-2665 for fast service.",
+  description: "Expert drain clearing in Drexel Heights. We tackle aging clay pipes, root intrusion, and bellied lines in 85746 & 85735. for fast service.",
   slug: "drain-clearing-drexel-heights",
   h1: "Professional Drain Clearing in Drexel Heights",
   h2Subheading: "Clearing Stubborn Clogs in Drexel Heights' Established Neighborhoods",

@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 const data: ServicePageData = {
   title: "Drain Clearing in SaddleBrooke, AZ | Intelligent Design",
-  description: "Professional drain clearing in SaddleBrooke, AZ. We handle root intrusion from golf course landscaping and aging pipes. Call (520) 333-2665 for fast service.",
+  description: "Professional drain clearing in SaddleBrooke, AZ. We handle root intrusion from golf course landscaping and aging pipes. for fast service.",
   slug: "drain-clearing-saddle-brooke",
   h1: "Expert Drain Clearing Services in SaddleBrooke",
   h2Subheading: "Reliable Solutions for 55+ Active Adult Community Homes",

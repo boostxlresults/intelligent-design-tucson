@@ -29,7 +29,7 @@ When it’s time to schedule air conditioning installation to replace your old A
 
 ### Poor Energy Efficiency from Improper Air Conditioning Installation
 
-It’s often thought that the larger an air conditioner is, the more energy efficient it is. However, this isn’t the case. An oversized air conditioner will short cycle, which refers to turning on and off frequently. This is a major energy waster. If your system is oversized, you will have high electric bills and a larger carbon footprint—not an ideal situation for either the environment or your wallet.
+It’s often thought that the larger an air conditioner is, the more energy efficient it is. However, this isn’t the case. An oversized air conditioner will short cycle, which refers to turning on and off frequently. This is a major energy waster. If your system is oversized, you will have high electric bills and a larger carbon footprint-not an ideal situation for either the environment or your wallet.
 
 When you choose an experienced, established company to perform your AC installation, you can rest assured they will size the unit properly. An experienced installer should take the time to accurately measure your home in order to recommend the right size of unit for you.
 

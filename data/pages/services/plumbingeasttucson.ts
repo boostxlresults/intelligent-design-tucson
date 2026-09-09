@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingeasttucsonData: ServicePageData = {
   // SEO & Meta
   title: "East Tucson Plumbing Services | Intelligent Design",
-  description: "Trusted East Tucson plumbing experts (85710, 85730, 85748). Fast service, local knowledge — book an inspection today.",
+  description: "Trusted East Tucson plumbing experts (85710, 85730, 85748). Fast service, local knowledge - book an inspection today.",
   slug: "plumbing-east-tucson",
   
   // Hero Section
   h1: "Plumbing Services in East Tucson, AZ",
   h2Subheading: "Local plumbing expertise tailored to East Tucson homes, neighborhoods, and the Rincon foothills microclimate",
-  tagline: "46+ years serving East Tucson — 4.97★ from 3,600+ local reviews",
+  tagline: "46+ years serving East Tucson - 4.97★ from 3,600+ local reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in East Tucson, Arizona",
   

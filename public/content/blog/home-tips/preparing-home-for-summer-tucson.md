@@ -160,7 +160,7 @@ Consider scheduling a **professional roof inspection** to:
 - Prepare for monsoon season
 - Ensure warranty compliance
 
-**Pro Tip:** Ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) during your inspection. This natural cork spray creates a permanent thermal break that can reduce cooling costs by up to 50% — a game-changer for Tucson summers.
+**Pro Tip:** Ask about [ThermalCork roof coating](/services/thermalcork-roof-coating) during your inspection. This natural cork spray creates a permanent thermal break that can reduce cooling costs by up to 50% - a game-changer for Tucson summers.
 
 ## 5. Electrical System Check-Up
 

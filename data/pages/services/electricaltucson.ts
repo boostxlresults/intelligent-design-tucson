@@ -6,7 +6,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const electricaltucsonData: ServicePageData = {
   // SEO & Meta
   title: "Electrician Tucson AZ | Licensed & Insured | Same-Day Service | Intelligent Design",
-  description: "Licensed electricians in Tucson with 23,000+ five-star reviews. Panel upgrades, EV chargers, rewiring, repairs & installations. Same-day service, upfront pricing, no overtime charges. Call (520) 333-2665.",
+  description: "Licensed electricians in Tucson with 23,000+ 5-star reviews. Panel upgrades, EV chargers, rewiring, repairs & installations.",
   slug: "electrical-tucson",
   
   // Hero Section

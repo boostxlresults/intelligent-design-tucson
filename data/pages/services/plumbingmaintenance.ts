@@ -8,7 +8,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const plumbingmaintenanceData: ServicePageData = {
   // SEO & Meta
   title: 'Plumbing Maintenance Tucson AZ | Preventative Inspection & Annual Plans',
-  description: 'Professional plumbing maintenance and inspection services in Tucson. Preventative care, annual plans, system health checks. Call (520) 333-2665 for comprehensive plumbing maintenance.',
+  description: 'Professional plumbing maintenance and inspection services in Tucson. Preventative care, annual plans, system health checks.',
   slug: 'plumbing-maintenance',
   
   // Hero Section
@@ -65,11 +65,11 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Most plumbing emergencies don't happen suddenly—they develop gradually over months or years. Small leaks worsen, mineral deposits accumulate, components wear out, and undetected problems create catastrophic failures. Regular maintenance catches these issues in early stages when repairs are simple and affordable. Statistics show that homes with annual plumbing maintenance experience 70-80% fewer emergency service calls and save an average of $500-$1,500 annually by preventing major repairs and water damage. Our ServiceTitan data tracking over 85,000 Tucson service calls confirms these savings—maintenance plan members experience 76% fewer emergency calls and $1,247 average annual savings compared to reactive-only customers."
+            "content": "Most plumbing emergencies don't happen suddenly-they develop gradually over months or years. Small leaks worsen, mineral deposits accumulate, components wear out, and undetected problems create catastrophic failures. Regular maintenance catches these issues in early stages when repairs are simple and affordable. Statistics show that homes with annual plumbing maintenance experience 70-80% fewer emergency service calls and save an average of $500-$1,500 annually by preventing major repairs and water damage. Our ServiceTitan data tracking over 85,000 Tucson service calls confirms these savings-maintenance plan members experience 76% fewer emergency calls and $1,247 average annual savings compared to reactive-only customers."
       },
       {
             "type": "paragraph",
-            "content": "Tucson's hard water and aging housing stock make preventative maintenance especially important. Our water contains 12-16 grains of hardness per gallon—among the highest in Arizona—accelerating mineral buildup in pipes, [link:/services/water-heater-installation|water heaters], and fixtures. Many Tucson homes were built in the 1970s-1990s with copper or galvanized steel piping now reaching end-of-life. Our local expertise helps you navigate these challenges through comprehensive inspections and maintenance plans tailored to Tucson's unique conditions. We maintain 42 fully-stocked service vehicles and 38 licensed master plumbers ensuring rapid response and expert service throughout Pima County."
+            "content": "Tucson's hard water and aging housing stock make preventative maintenance especially important. Our water contains 12-16 grains of hardness per gallon-among the highest in Arizona-accelerating mineral buildup in pipes, [link:/services/water-heater-installation|water heaters], and fixtures. Many Tucson homes were built in the 1970s-1990s with copper or galvanized steel piping now reaching end-of-life. Our local expertise helps you navigate these challenges through comprehensive inspections and maintenance plans tailored to Tucson's unique conditions. We maintain 42 fully-stocked service vehicles and 38 licensed master plumbers ensuring rapid response and expert service throughout Pima County."
       },
       {
             "type": "heading",
@@ -79,15 +79,15 @@ export const plumbingmaintenanceData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "The financial impact of skipping preventative plumbing maintenance extends far beyond emergency repair costs. Water damage is the #2 most common homeowner insurance claim in Tucson, averaging $8,500-$15,000 per incident for water heater failures, slab leaks, or [link:/services/sewer-line-repair|sewer line backups]. Insurance deductibles typically run $1,000-$2,500, and filing claims can increase premiums 15-25% for 3-5 years—costing an additional $300-$800 annually in higher insurance costs. Many policies exclude coverage for maintenance-related failures, leaving homeowners fully responsible for damage that could have been prevented with a $150-$250 annual inspection."
+            "content": "The financial impact of skipping preventative plumbing maintenance extends far beyond emergency repair costs. Water damage is the #2 most common homeowner insurance claim in Tucson, averaging $8,500-$15,000 per incident for water heater failures, slab leaks, or [link:/services/sewer-line-repair|sewer line backups]. Insurance deductibles typically run $1,000-$2,500, and filing claims can increase premiums 15-25% for 3-5 years-costing an additional $300-$800 annually in higher insurance costs. Many policies exclude coverage for maintenance-related failures, leaving homeowners fully responsible for damage that could have been prevented with a $150-$250 annual inspection."
       },
       {
             "type": "paragraph",
-            "content": "Efficiency losses from unmaintained systems create hidden ongoing costs. A water heater with just 2-3 inches of sediment buildup (common in Tucson after 18-24 months without flushing) operates 15-20% less efficiently, costing an extra $10-$18 monthly in energy waste—$120-$216 annually. Running toilets waste 200+ gallons daily at $50-$100 monthly. Slow [link:/services/drain-clearing|drains] and partial clogs increase water usage 10-15% as fixtures run longer to complete tasks. Across all inefficiencies, unmaintained plumbing systems typically waste $400-$700 annually in unnecessary utility costs that preventative maintenance eliminates."
+            "content": "Efficiency losses from unmaintained systems create hidden ongoing costs. A water heater with just 2-3 inches of sediment buildup (common in Tucson after 18-24 months without flushing) operates 15-20% less efficiently, costing an extra $10-$18 monthly in energy waste-$120-$216 annually. Running toilets waste 200+ gallons daily at $50-$100 monthly. Slow [link:/services/drain-clearing|drains] and partial clogs increase water usage 10-15% as fixtures run longer to complete tasks. Across all inefficiencies, unmaintained plumbing systems typically waste $400-$700 annually in unnecessary utility costs that preventative maintenance eliminates."
       },
       {
             "type": "paragraph",
-            "content": "Equipment lifespan reduction represents substantial replacement cost acceleration. [link:/services/water-heater-repair|Water heaters] without annual maintenance last 8-10 years in Tucson versus 15-18 years with proper care—premature replacement costs $1,800-$3,500. Fixtures, valves, and supply lines deteriorate 30-40% faster without maintenance, requiring replacement 5-8 years earlier than properly maintained systems. Over a 20-year homeownership period, maintenance saves $8,000-$15,000 in avoided premature equipment replacement costs alone."
+            "content": "Equipment lifespan reduction represents substantial replacement cost acceleration. [link:/services/water-heater-repair|Water heaters] without annual maintenance last 8-10 years in Tucson versus 15-18 years with proper care-premature replacement costs $1,800-$3,500. Fixtures, valves, and supply lines deteriorate 30-40% faster without maintenance, requiring replacement 5-8 years earlier than properly maintained systems. Over a 20-year homeownership period, maintenance saves $8,000-$15,000 in avoided premature equipment replacement costs alone."
       },
       {
             "type": "heading",

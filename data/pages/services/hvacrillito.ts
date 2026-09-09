@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const hvacrillitoData: ServicePageData = {
   title: "HVAC Services Rillito, AZ | Expert AC Repair & Installation",
-  description: "Expert HVAC services in Rillito, AZ. Intelligent Design provides AC repair, ductwork, and maintenance for rural and manufactured homes. Call (520) 333-2665.",
+  description: "Expert HVAC services in Rillito, AZ. Intelligent Design provides AC repair, ductwork, and maintenance for rural and manufactured homes.",
   slug: "hvac-rillito",
   h1: "HVAC Repair & Installation Services in Rillito, AZ",
   h2Subheading: "Expert Cooling and Heating Solutions for Rural Pima County",

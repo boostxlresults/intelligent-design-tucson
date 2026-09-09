@@ -7,7 +7,7 @@ import { LOCATION_ZIP_CODES } from '@/shared/zipcodes';
 export const redrockcasagrandeData: LocationPageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in Red Rock / Casa Grande, AZ',
-  description: 'Expert home services in Red Rock / Casa Grande, at the northern boundary of our service area near Casa Grande Ruins National Monument. 24/7 emergency. 23,000+ five-star reviews. (520) 333-2665.',
+  description: 'Expert home services in Red Rock / Casa Grande, at the northern boundary of our service area near Casa Grande Ruins National Monument. 24/7 emergency.',
   slug: 'red-rock-casa-grande',
   
   // Hero Section

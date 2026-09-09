@@ -5,7 +5,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const roofingcortaroData: ServicePageData = {
   title: "Cortaro Roofing Services | Intelligent Design AZ",
-  description: "Trusted Cortaro roofing: repairs, replacements, tile, shingle, flat, coatings. 46+ years, 4.97★, 3600+ reviews. Serving 85652 & 85742. Call (520) 333-2665 for a free estimate.",
+  description: "Trusted Cortaro roofing: repairs, replacements, tile, shingle, flat, coatings. 46+ years, 4.97★, 3600+ reviews. Serving 85652 & 85742. for a free estimate.",
   slug: "roofing-cortaro",
   h1: "Cortaro Roof Repair & Replacement Experts",
   h2Subheading: "Local roofing solutions tailored for Cortaro homes and communities",

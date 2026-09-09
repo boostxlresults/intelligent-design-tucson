@@ -27,7 +27,7 @@ Summers in Arizona are incredibly hot. Therefore, air conditioning is essential.
 
 ### Take a quick look at how the SunTrac system works.
 
-In order to truly understand how the SunTrac system will benefit your household, it’s helpful to know a bit about how it works. Many people assume that a solar HVAC system needs loads of panels covering the roof or their lawn. However, this isn’t the case at all. In fact, the SunTrac system is quite sleek and compact. It only requires one panel per central AC unit. Plus, you can locate the panel wherever it’s most convenient for you—either on the roof or the ground.
+In order to truly understand how the SunTrac system will benefit your household, it’s helpful to know a bit about how it works. Many people assume that a solar HVAC system needs loads of panels covering the roof or their lawn. However, this isn’t the case at all. In fact, the SunTrac system is quite sleek and compact. It only requires one panel per central AC unit. Plus, you can locate the panel wherever it’s most convenient for you-either on the roof or the ground.
 
 In a traditional AC system without a SunTrac, the blower moves the hot air from inside your home. The air flows over a coil. The refrigerant traps the heat from the air. Then, the refrigerant circulates to the outside component of the system. Here, the refrigerant releases the heat into the outdoor air. This is possible thanks to the compressor, which compresses the refrigerant to raise its temperature.
 
@@ -39,11 +39,11 @@ When the sun takes over the job of the compressor, the central AC unit doesn’t
 
 ### Install a SunTrac with your existing system.
 
-One common misconception about solar AC systems is that homeowners need to install a brand new central AC designed to work with the SunTrac. Fortunately, this isn’t the case at all. The SunTrac is actually designed to work with all sorts of central ACs. These include package, split, multi-split, and mini-split systems. In short, you won’t need to install a new AC system—just the SunTrac.
+One common misconception about solar AC systems is that homeowners need to install a brand new central AC designed to work with the SunTrac. Fortunately, this isn’t the case at all. The SunTrac is actually designed to work with all sorts of central ACs. These include package, split, multi-split, and mini-split systems. In short, you won’t need to install a new AC system-just the SunTrac.
 
 ### Extend the life of your HVAC system with solar power.
 
-Yet another major benefit of installing a SunTrac is that it’s capable of extending the life of your current HVAC system. The average central AC unit may last about 10 to 15 years before it requires replacement. All AC units will eventually die. This is often due to the wearing out and failure of multiple components, such as the compressor. However, by installing the SunTrac system, your AC unit won’t have to work as hard to keep your home cool. As a result, its components will continue to work at optimum performance for much longer. Consequently, you won’t need to replace your central AC as often—and this could save you thousands!
+Yet another major benefit of installing a SunTrac is that it’s capable of extending the life of your current HVAC system. The average central AC unit may last about 10 to 15 years before it requires replacement. All AC units will eventually die. This is often due to the wearing out and failure of multiple components, such as the compressor. However, by installing the SunTrac system, your AC unit won’t have to work as hard to keep your home cool. As a result, its components will continue to work at optimum performance for much longer. Consequently, you won’t need to replace your central AC as often-and this could save you thousands!
 
 ### Use tax credits to dramatically cut the cost of a new system.
 

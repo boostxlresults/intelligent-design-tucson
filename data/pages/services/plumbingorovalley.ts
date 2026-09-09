@@ -6,13 +6,13 @@ import type { ServicePageData } from "@/types/services";
 export const plumbingorovalleyData: ServicePageData = {
   // SEO & Meta
   title: "Oro Valley Plumbing Services | Expert Local Plumbers",
-  description: "Trusted Oro Valley plumbing: repairs, filtration, pool plumbing in 85737 & 85755. 46+ yrs experience—call for fast, local service.",
+  description: "Trusted Oro Valley plumbing: repairs, filtration, pool plumbing in 85737 & 85755. 46+ yrs experience-call for fast, local service.",
   slug: "plumbing-oro-valley",
   
   // Hero Section
   h1: "Oro Valley Plumbing Services",
-  h2Subheading: "Local plumbing expertise for Oro Valley homes — filtration, recirculation, pool lines and HOA-friendly repairs",
-  tagline: "46+ years serving Oro Valley homeowners (85737, 85755) — 4.97★ from 3,600+ reviews",
+  h2Subheading: "Local plumbing expertise for Oro Valley homes - filtration, recirculation, pool lines and HOA-friendly repairs",
+  tagline: "46+ years serving Oro Valley homeowners (85737, 85755) - 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Plumbing services in Oro Valley, Arizona",
   

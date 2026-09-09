@@ -11,8 +11,8 @@ export const drainclearingritaranchData: ServicePageData = {
   
   // Hero Section
   h1: "Rita Ranch Drain Clearing Services",
-  h2Subheading: "Local expertise for 85747 homes — root rescue, monsoon runoff management, and aging builder-pipe solutions",
-  tagline: "Serving Rita Ranch since 1979 — 46+ years, 4.97★ from 3,600+ reviews; local crews familiar with HOA yards and Vail schools",
+  h2Subheading: "Local expertise for 85747 homes - root rescue, monsoon runoff management, and aging builder-pipe solutions",
+  tagline: "Serving Rita Ranch since 1979 - 46+ years, 4.97★ from 3,600+ reviews; local crews familiar with HOA yards and Vail schools",
   heroImage: "/images/placeholder.webp",
   heroImageAlt: "Drain Clearing services in Rita Ranch, Arizona",
   

@@ -9,7 +9,7 @@ import { getRefinementQuestions } from '@/data/faqs/refinementQuestions';
 export const saddlebrookeData: ServicePageData = {
   // SEO & Meta
   title: 'HVAC, Plumbing, Solar, Electrical & Roofing Services in SaddleBrooke, AZ',
-  description: 'Trusted home services for SaddleBrooke and Catalina communities north of Tucson. HVAC, plumbing, solar, electrical & roofing. Senior-focused service. BBB A+.',
+  description: 'Trusted home services for SaddleBrooke and Catalina communities north of Tucson. HVAC, plumbing, solar, electrical & roofing. Senior-focused service.',
   slug: 'saddlebrooke-catalina',
   
   // Hero Section

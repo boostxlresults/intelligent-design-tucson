@@ -41,7 +41,7 @@ For a typical 2,000 square foot Tucson home:
 ### 1. Roof Size and Complexity
 
 **Square Footage**
-Roofing is priced by the "square"—100 square feet of roof area. A 2,000 sq ft home doesn't have a 2,000 sq ft roof; roof area is larger due to pitch and overhangs. A typical 2,000 sq ft home has 22-28 squares of roof area.
+Roofing is priced by the "square"-100 square feet of roof area. A 2,000 sq ft home doesn't have a 2,000 sq ft roof; roof area is larger due to pitch and overhangs. A typical 2,000 sq ft home has 22-28 squares of roof area.
 
 **Roof Pitch (Slope)**
 Steeper roofs:
@@ -100,7 +100,7 @@ The waterproof layer beneath your roofing material:
 - Synthetic underlayment: $0.50-0.75 per sq ft
 - Self-adhering (peel-and-stick): $1-2 per sq ft
 
-For tile roofs, quality underlayment is critical—it must outlast typical 20-30 year lifespans.
+For tile roofs, quality underlayment is critical-it must outlast typical 20-30 year lifespans.
 
 ### 6. Flashing and Accessories
 

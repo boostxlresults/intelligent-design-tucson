@@ -23,7 +23,7 @@ canonicalUrl: >-
 
 ## A Hearty Welcome to Rillito Residents!
 
-Hey there, Rillito community! We’re Intelligent Design, and we’re absolutely thrilled to be your local one-stop-shop for all your home service needs. We’ve been serving Arizona communities for years, and we’re eager to bring our top-notch services to Rillito. But let’s cut to the chase—here’s how we can elevate your Rillito lifestyle.
+Hey there, Rillito community! We’re Intelligent Design, and we’re absolutely thrilled to be your local one-stop-shop for all your home service needs. We’ve been serving Arizona communities for years, and we’re eager to bring our top-notch services to Rillito. But let’s cut to the chase-here’s how we can elevate your Rillito lifestyle.
 
 ## The Services We’re Jazzed to Offer
 

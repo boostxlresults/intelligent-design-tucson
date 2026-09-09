@@ -3,7 +3,7 @@ import { useCallback, useEffect, useState } from "react";
 import { hydrateUrlForSE, hasClickId } from "@/lib/attribution";
 
 /**
- * ServiceTitan Scheduling Pro — Direct Embed
+ * ServiceTitan Scheduling Pro - Direct Embed
  *
  * Loads embed.scheduler.servicetitan.com/scheduler-v1.js directly in the
  * site code (NOT via GTM) so it is always available regardless of GTM
@@ -49,7 +49,7 @@ function injectScript(): Promise<boolean> {
     // If our script tag is already in the DOM (from a prior call), just poll
     const existing = document.getElementById(ST_SCRIPT_ID) as HTMLScriptElement | null;
     if (existing && existing.src.includes("servicetitan.com")) {
-      // Our script is already injected — poll for _scheduler
+      // Our script is already injected - poll for _scheduler
       const start = Date.now();
       const iv = setInterval(() => {
         if (window._scheduler?.show) { clearInterval(iv); resolve(true); }

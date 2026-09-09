@@ -2,7 +2,7 @@ import type { ServicePageData } from "@/types/services";
 
 export const solarinstallationtanqueverdeData: ServicePageData = {
   title: "Solar Panel Installation in Tanque Verde, AZ | Intelligent Design",
-  description: "Expert solar installation for Tanque Verde homes. Maximize your large roof area or acreage with premium solar solutions. Call Intelligent Design at (520) 333-2665.",
+  description: "Expert solar installation for Tanque Verde homes. Maximize your large roof area or acreage with premium solar solutions. Call Intelligent Design at.",
   slug: "solar-installation-tanque-verde",
   h1: "Solar Panel Installation in Tanque Verde, AZ",
   h2Subheading: "Premium Solar Solutions for Tanque Verde's Custom Homes and Horse Properties",

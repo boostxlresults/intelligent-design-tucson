@@ -8,8 +8,8 @@ export const metadata: Metadata = {
     "Stop burning your feet on scorching concrete. Sprayed cork pool decks stay barefoot-cool in Tucson summer, erase cracks permanently, and grip when wet. Visualize your deck and get an instant price range.",
   alternates: { canonical: "https://www.idesignac.com/cool-cork-pool-decks" },
   openGraph: {
-    title: "Cool Cork Pool Decks — Barefoot at 109°F",
-    description: "See your own pool deck resurfaced in premium sprayed cork, cracks erased — with an instant price range.",
+    title: "Cool Cork Pool Decks - Barefoot at 109°F",
+    description: "See your own pool deck resurfaced in premium sprayed cork, cracks erased - with an instant price range.",
     url: "https://www.idesignac.com/cool-cork-pool-decks",
     type: "website",
   },
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 const FAQS = [
   {
     q: "How much cooler is a cork deck than concrete?",
-    a: "Cork is a natural insulator — the same material used in spacecraft heat shields. While bare concrete and pavers in Tucson can exceed 150°F and burn skin in seconds, a sprayed cork surface stays dramatically cooler and comfortable for bare feet even on 109°F days.",
+    a: "Cork is a natural insulator - the same material used in spacecraft heat shields. While bare concrete and pavers in Tucson can exceed 150°F and burn skin in seconds, a sprayed cork surface stays dramatically cooler and comfortable for bare feet even on 109°F days.",
   },
   {
     q: "Does cork really cover cracks in my existing deck?",
@@ -26,7 +26,7 @@ const FAQS = [
   },
   {
     q: "Is it slippery when wet?",
-    a: "The opposite — the granular cork texture provides excellent wet traction, which is why it's used around pools, splash pads, and spas.",
+    a: "The opposite - the granular cork texture provides excellent wet traction, which is why it's used around pools, splash pads, and spas.",
   },
   {
     q: "How long does installation take?",
@@ -34,7 +34,7 @@ const FAQS = [
   },
   {
     q: "Who installs it?",
-    a: "Intelligent Design is Tucson's only certified ThermalCork Solutions applicator — the highest-grade sprayed cork system available.",
+    a: "Intelligent Design is Tucson's only certified ThermalCork Solutions applicator - the highest-grade sprayed cork system available.",
   },
   {
     q: "How accurate is the online price range?",
@@ -57,7 +57,7 @@ export default function CorkPoolDecksPage() {
     "@type": "Service",
     name: "Cork Pool Deck Resurfacing",
     provider: { "@type": "HomeAndConstructionBusiness", name: "Intelligent Design Air Conditioning, Plumbing, Solar & Electric", areaServed: "Tucson, AZ" },
-    description: "Premium ThermalCork sprayed cork pool deck resurfacing — cool underfoot, crack-free, slip-resistant.",
+    description: "Premium ThermalCork sprayed cork pool deck resurfacing - cool underfoot, crack-free, slip-resistant.",
   };
 
   return (
@@ -74,13 +74,13 @@ export default function CorkPoolDecksPage() {
               It was <span className="text-[#A64A2E]">109° outside</span> when this photo was taken.
             </h1>
             <p className="mt-5 text-lg text-neutral-600">
-              He's lying on the pool deck. Barefoot. In July. In Tucson. That's a sprayed cork deck — and until you've felt one, you won't believe a pool deck can do that.
+              He's lying on the pool deck. Barefoot. In July. In Tucson. That's a sprayed cork deck - and until you've felt one, you won't believe a pool deck can do that.
             </p>
             <ul className="mt-6 space-y-3 text-neutral-700">
               <li className="flex gap-3"><span aria-hidden>🔥</span><span><strong>Stop burning feet.</strong> Concrete hits 150°F+ in summer. Cork stays barefoot-comfortable.</span></li>
-              <li className="flex gap-3"><span aria-hidden>🪨</span><span><strong>Stop staring at cracks.</strong> Cork bridges and erases them — one seamless surface, permanently.</span></li>
+              <li className="flex gap-3"><span aria-hidden>🪨</span><span><strong>Stop staring at cracks.</strong> Cork bridges and erases them - one seamless surface, permanently.</span></li>
               <li className="flex gap-3"><span aria-hidden>💦</span><span><strong>Stop the slips.</strong> Granular texture grips even soaking wet.</span></li>
-              <li className="flex gap-3"><span aria-hidden>☁️</span><span><strong>The perfect amount of cushion.</strong> Cork has a natural springiness underfoot — gentler on feet, knees, and backs than rock-hard concrete.</span></li>
+              <li className="flex gap-3"><span aria-hidden>☁️</span><span><strong>The perfect amount of cushion.</strong> Cork has a natural springiness underfoot - gentler on feet, knees, and backs than rock-hard concrete.</span></li>
             </ul>
             <div className="mt-8">
               <VisualizerLauncher variant="hero" />
@@ -102,15 +102,15 @@ export default function CorkPoolDecksPage() {
       {/* WHY CORK */}
       <section className="bg-neutral-50 py-16">
         <div className="mx-auto max-w-6xl px-6">
-          <h2 className="text-3xl font-bold">Why Tucson pool decks fail — and why cork doesn't</h2>
+          <h2 className="text-3xl font-bold">Why Tucson pool decks fail - and why cork doesn't</h2>
           <div className="mt-8 grid md:grid-cols-3 gap-6">
             <div className="rounded-2xl bg-white p-6 shadow-sm border border-neutral-100">
               <h3 className="font-bold text-lg">The heat problem</h3>
-              <p className="mt-2 text-neutral-600">Concrete, pavers, even "cool deck" absorb and radiate desert heat. Cork is a natural thermal insulator — the same reason it protects spacecraft on re-entry. Your deck stops being a stovetop.</p>
+              <p className="mt-2 text-neutral-600">Concrete, pavers, even "cool deck" absorb and radiate desert heat. Cork is a natural thermal insulator - the same reason it protects spacecraft on re-entry. Your deck stops being a stovetop.</p>
             </div>
             <div className="rounded-2xl bg-white p-6 shadow-sm border border-neutral-100">
               <h3 className="font-bold text-lg">The cracking problem</h3>
-              <p className="mt-2 text-neutral-600">Tucson's temperature swings crack rigid surfaces — and rigid coatings crack right along with them. Sprayed cork flexes. It bridges existing cracks and keeps them from telegraphing back through.</p>
+              <p className="mt-2 text-neutral-600">Tucson's temperature swings crack rigid surfaces - and rigid coatings crack right along with them. Sprayed cork flexes. It bridges existing cracks and keeps them from telegraphing back through.</p>
             </div>
             <div className="rounded-2xl bg-white p-6 shadow-sm border border-neutral-100">
               <h3 className="font-bold text-lg">The safety problem</h3>
@@ -123,11 +123,11 @@ export default function CorkPoolDecksPage() {
       {/* HOW IT WORKS */}
       <section className="py-16">
         <div className="mx-auto max-w-6xl px-6">
-          <h2 className="text-3xl font-bold">See your deck corked — before you spend a dollar</h2>
+          <h2 className="text-3xl font-bold">See your deck corked - before you spend a dollar</h2>
           <p className="mt-2 text-neutral-600 max-w-2xl">Our visualizer measures your deck from one photo, shows it resurfaced in any of 12 ThermalCork colors (cracks gone), and gives you an honest price range on the spot.</p>
           <div className="mt-8 grid sm:grid-cols-4 gap-4 text-sm">
             {[
-              ["1", "Snap a photo", "Phone camera or upload — any angle that shows your deck."],
+              ["1", "Snap a photo", "Phone camera or upload - any angle that shows your deck."],
               ["2", "AI measures it", "Square footage estimated automatically. Exclude areas with a finger swipe."],
               ["3", "Pick your color", "Photoreal renders of YOUR deck in every ThermalCork color."],
               ["4", "Get your range", "Instant price range + emailed report. Free inspection locks the exact number."],
@@ -164,7 +164,7 @@ export default function CorkPoolDecksPage() {
       <section className="py-20">
         <div className="mx-auto max-w-4xl px-6 text-center">
           <h2 className="text-3xl lg:text-4xl font-extrabold">Your deck. Your color. Your price. Two minutes.</h2>
-          <p className="mt-3 text-neutral-600">One Tucson summer from now, your deck is either still burning feet and growing cracks — or it's the coolest surface in the backyard.</p>
+          <p className="mt-3 text-neutral-600">One Tucson summer from now, your deck is either still burning feet and growing cracks - or it's the coolest surface in the backyard.</p>
           <div className="mt-8">
             <VisualizerLauncher variant="footer" />
           </div>
