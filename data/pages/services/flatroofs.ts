@@ -10,7 +10,7 @@ export const flatroofsData: ServicePageData = {
   slug: 'flat-roofs',
   
   // Hero Section
-  h1: 'Flat Roofs in Tucson — Leaking? Sealed Before the Next Storm.',
+  h1: 'Flat Roofs in Tucson - Leaking? Sealed Before the Next Storm.',
   h2Subheading: 'Expert Flat Roofs in Tucson',
   tagline: 'TPO, EPDM & Modified Bitumen | Commercial & Residential | Superior Drainage Solutions | Free Inspections | 46+ years Experience',
   heroImage: '/generated_images/commercial_flat_roof_system_7bd54a33.webp',

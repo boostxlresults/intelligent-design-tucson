@@ -10,7 +10,7 @@ export const hvacvailData: ServicePageData = {
   slug: "hvac-vail",
   
   // Hero Section
-  h1: "Vail HVAC Services — Heating & Cooling Solutions in Vail, AZ",
+  h1: "Vail HVAC Services - Heating & Cooling Solutions in Vail, AZ",
   h2Subheading: "Local HVAC expertise for Vail’s higher-elevation homes, newer subdivisions, and ranch properties",
   tagline: "46+ years serving Vail (85641) — 4.97★ from 3,600+ reviews; local know-how for elevation, tile roofs, and school-district communities",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Vail HVAC Services — Heating & Cooling Solutions in Vail, AZ",
+    mainHeading: "Vail HVAC Services - Heating & Cooling Solutions in Vail, AZ",
     sections: [
       {
             "type": "heading",

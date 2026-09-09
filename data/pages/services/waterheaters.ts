@@ -10,7 +10,7 @@ export const waterheatersData: ServicePageData = {
   slug: 'water-heaters',
   
   // Hero Section
-  h1: 'Water Heaters in Tucson — Any Type, Any Problem, Handled Today.',
+  h1: 'Water Heaters in Tucson - Any Type, Any Problem, Handled Today.',
   h2Subheading: 'Expert Water Heaters in Tucson',
   tagline: 'Tank, Tankless & Hybrid Water Heaters | Expert Installation & Repair | Gas & Electric | Free Sizing Consultation | 46+ years Experience',
   heroImage: '/generated_images/Water_heater_service_overview_f99cdacb.webp',

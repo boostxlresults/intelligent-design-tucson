@@ -10,7 +10,7 @@ export const heatertuneupData: ServicePageData = {
   slug: 'heater-tuneup-tucson',
   
   // Hero Section
-  h1: 'Heater Tune-Up in Tucson — Before It Breaks? Tuned Up Today.',
+  h1: 'Heater Tune-Up in Tucson - Before It Breaks? Tuned Up Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Annual Maintenance | Peak Efficiency | Prevent Breakdowns | Expert Technicians',
   heroImage: '/generated_images/Heater_tune-up_hero_background_6548d67f.webp',

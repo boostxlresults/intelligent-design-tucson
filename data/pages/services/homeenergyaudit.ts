@@ -10,7 +10,7 @@ export const homeenergyauditData: ServicePageData = {
   slug: 'home-energy-audit-tucson',
   
   // Hero Section
-  h1: 'Home Energy Audit in Tucson — Wasting Energy? Find It Today.',
+  h1: 'Home Energy Audit in Tucson - Wasting Energy? Find It Today.',
   h2Subheading: 'Expert Home Energy Audit in Tucson',
   tagline: 'Comprehensive Energy Assessment | Identify Savings Opportunities | Solar Readiness Analysis | HVAC Efficiency Testing | 46+ years Experience',
   heroImage: '/generated_images/Home_energy_audit_consultation_c5abfdea.webp',

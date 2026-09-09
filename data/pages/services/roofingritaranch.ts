@@ -10,7 +10,7 @@ export const roofingritaranchData: ServicePageData = {
   slug: "roofing-rita-ranch",
   
   // Hero Section
-  h1: "Rita Ranch Roofing Services — Tile & Shingle Experts",
+  h1: "Rita Ranch Roofing Services - Tile & Shingle Experts",
   h2Subheading: "Local roofing care tailored to Rita Ranch’s tile roofs, HOA rules, and monsoon exposure",
   tagline: "46+ years serving Rita Ranch (85747) — 4.97★ from 3,600+ reviews, roof work built for local climate",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rita Ranch Roofing Services — Tile & Shingle Experts",
+    mainHeading: "Rita Ranch Roofing Services - Tile & Shingle Experts",
     sections: [
       {
             "type": "heading",

@@ -10,7 +10,7 @@ export const commercialsolarinstallationData: ServicePageData = {
   slug: 'commercial-solar-installation',
   
   // Hero Section
-  h1: 'Commercial Solar in Tucson — Cut Energy Costs, Fast Payback.',
+  h1: 'Commercial Solar in Tucson - Cut Energy Costs, Fast Payback.',
   h2Subheading: 'Expert Commercial Solar Installation in Tucson',
   tagline: 'Reduce Operating Costs | 30% Tax Credit + Accelerated Depreciation | Energy Independence | ROI Analysis | 46+ years Experience',
   heroImage: '/generated_images/Commercial_solar_panel_installation_a8b637e2.webp',

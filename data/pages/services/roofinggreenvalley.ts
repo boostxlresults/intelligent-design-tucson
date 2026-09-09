@@ -10,7 +10,7 @@ export const roofinggreenvalleyData: ServicePageData = {
   slug: "roofing-green-valley",
   
   // Hero Section
-  h1: "Green Valley Roofing — Repair, Replace, Maintain",
+  h1: "Green Valley Roofing - Repair, Replace, Maintain",
   h2Subheading: "Local roof specialists for Green Valley retirement communities, HOA standards, and older tile systems",
   tagline: "46+ years serving Green Valley (85614, 85622) — 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Green Valley Roofing — Repair, Replace, Maintain",
+    mainHeading: "Green Valley Roofing - Repair, Replace, Maintain",
     sections: [
       {
             "type": "heading",

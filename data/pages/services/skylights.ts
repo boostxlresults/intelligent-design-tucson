@@ -10,7 +10,7 @@ export const skylightsData: ServicePageData = {
   slug: 'skylights',
   
   // Hero Section
-  h1: 'Skylight Installation in Tucson — Installed Leak-Free, Today.',
+  h1: 'Skylight Installation in Tucson - Installed Leak-Free, Today.',
   h2Subheading: 'Expert Skylights in Tucson',
   tagline: 'Professional Installation | Fixed & Venting Skylights | Solar-Powered Options | Natural Light & Ventilation | Free Estimates',
   heroImage: '/generated_images/residential_skylights_installation_detail_afe78823.webp',

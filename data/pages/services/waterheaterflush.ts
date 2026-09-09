@@ -10,7 +10,7 @@ export const waterheaterflushData: ServicePageData = {
   slug: 'water-heater-flush',
   
   // Hero Section
-  h1: 'Water Heater Flush in Tucson — Losing Efficiency? Flushed Today.',
+  h1: 'Water Heater Flush in Tucson - Losing Efficiency? Flushed Today.',
   h2Subheading: 'Expert Water Heater Flush in Tucson',
   tagline: 'Combat Hard Water Buildup | Extend Lifespan 3-5 Years | Improve Efficiency | Prevent Breakdowns | Annual Maintenance Plans',
   heroImage: '/generated_images/Water_heater_flush_maintenance_d57742fc.webp',

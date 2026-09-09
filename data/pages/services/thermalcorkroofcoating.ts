@@ -10,7 +10,7 @@ export const thermalcorkroofcoatingData: ServicePageData = {
   slug: 'thermalcork-roof-coating',
   
   // Hero Section
-  h1: 'Thermal Cork Roof Coating in Tucson — Cuts Heat 30%, Applied Today.',
+  h1: 'Thermal Cork Roof Coating in Tucson - Cuts Heat 30%, Applied Today.',
   h2Subheading: 'Tucson\'s Exclusive ThermalCork Certified Applicator',
   tagline: 'Free Estimates | Natural Cork Thermal Break | Up to 50% Energy Savings | 25-Year Warranty | Never Re-Coat Again | Free Roof Assessments',
   heroImage: '/generated_images/commercial_roof_coating_application_54879965.webp',

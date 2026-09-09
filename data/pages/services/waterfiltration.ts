@@ -10,7 +10,7 @@ export const waterfiltrationData: ServicePageData = {
   slug: 'water-filtration',
   
   // Hero Section
-  h1: 'Water Filtration in Tucson — Worried About Your Water? Clean Today.',
+  h1: 'Water Filtration in Tucson - Worried About Your Water? Clean Today.',
   h2Subheading: 'Expert Water Filtration in Tucson',
   tagline: 'Authorized Brita PRO® Partner | EPA-Certified Lab Testing | Whole-Home Filtration | Water Softeners | Reverse Osmosis',
   heroImage: '/generated_images/Water_filtration_system_installation_b800de70.webp',

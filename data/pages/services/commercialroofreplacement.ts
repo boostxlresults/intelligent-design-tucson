@@ -10,7 +10,7 @@ export const commercialroofreplacementData: ServicePageData = {
   slug: 'commercial-roof-replacement',
   
   // Hero Section
-  h1: 'Commercial Roof Replacement in Tucson — No Business Disruption.',
+  h1: 'Commercial Roof Replacement in Tucson - No Business Disruption.',
   h2Subheading: 'Expert Commercial Roof Replacement in Tucson',
   tagline: 'Complete Roof Replacement | TPO, EPDM & Modified Bitumen | Minimal Downtime | Energy Savings | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_replacement_project_7e6d1a3c.webp',

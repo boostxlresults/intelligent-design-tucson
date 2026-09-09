@@ -10,7 +10,7 @@ export const sewerlinerepairData: ServicePageData = {
   slug: 'sewer-line-repair',
   
   // Hero Section
-  h1: 'Sewer Line Repair in Tucson — Backing Up? Diagnosed & Fixed Today.',
+  h1: 'Sewer Line Repair in Tucson - Backing Up? Diagnosed & Fixed Today.',
   h2Subheading: 'Expert Sewer Line Repair in Tucson',
   tagline: 'Trenchless Pipe Lining | Traditional Excavation | Root Intrusion Solutions | Cast Iron Pipe Repair | Video Camera Inspection | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',

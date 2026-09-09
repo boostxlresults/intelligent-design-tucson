@@ -74,7 +74,7 @@ export default function AcNotCoolingLp() {
       <section className="border-t border-border px-4 py-10">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-2xl font-bold text-primary sm:text-3xl">What our technician will check</h2>
-          <p className="mt-2 text-[17px] text-muted-foreground">These are the seven things that stop a Tucson AC from cooling, in the order we rule them out. The first three are quick and often cost nothing &mdash; we&rsquo;ll tell you straight if that&rsquo;s all it was.</p>
+          <p className="mt-2 text-[17px] text-muted-foreground">These are the seven things that stop a Tucson AC from cooling, in the order we rule them out. The first three are quick and often cost nothing, and we&rsquo;ll tell you straight if that&rsquo;s all it was.</p>
           <div className="mt-6 space-y-4">
             {CAUSES.map((c, i) => (
               <div key={i} className="rounded-xl border border-border bg-card p-5">
@@ -124,10 +124,10 @@ export default function AcNotCoolingLp() {
         <div className="mx-auto max-w-3xl">
           <h2 className="text-xl font-bold text-primary">Other AC problems we fix today</h2>
           <ul className="mt-3 space-y-2 text-[16px]">
-            <li><a className="font-semibold text-primary underline" href="/lp/ac-blowing-hot-air">AC blowing hot air</a> &mdash; when the air coming out is warmer than the room</li>
-            <li><a className="font-semibold text-primary underline" href="/lp/ac-fan-not-spinning">AC fan not spinning</a> &mdash; when the outdoor unit hums but the blades sit still</li>
-            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> &mdash; full diagnostics, pricing and warranty details</li>
-            <li><a className="font-semibold text-primary underline" href="/services/emergency-ac-repair-tucson">Emergency AC repair</a> &mdash; 24/7, no overtime upcharge</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-blowing-hot-air">AC blowing hot air</a> - when the air coming out is warmer than the room</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-fan-not-spinning">AC fan not spinning</a> - when the outdoor unit hums but the blades sit still</li>
+            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> - full diagnostics, pricing and warranty details</li>
+            <li><a className="font-semibold text-primary underline" href="/services/emergency-ac-repair-tucson">Emergency AC repair</a> - 24/7, no overtime upcharge</li>
           </ul>
         </div>
       </section>

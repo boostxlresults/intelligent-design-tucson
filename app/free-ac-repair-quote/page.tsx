@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   alternates: { canonical: `${SITE}/free-ac-repair-quote` },
   robots: { index: false, follow: true },
   openGraph: {
-    title: "AC Repair Special — $0 Dispatch, $0 Diagnostic + 10% OFF",
+    title: "AC Repair Special - $0 Dispatch, $0 Diagnostic + 10% OFF",
     description: "Same-day AC repair in Tucson with $0 dispatch fee, $0 diagnostic, 10% off your repair, and a 1-Year No Breakdown Guarantee.",
     url: `${SITE}/free-ac-repair-quote`,
     type: "website",
@@ -111,7 +111,7 @@ export default function FreeAcRepairQuotePage() {
                 <ShieldCheck className="h-4 w-4" /> AC Repair Special &middot; Tucson
               </span>
               <h1 className="mt-4 text-3xl font-extrabold leading-tight text-white drop-shadow md:text-4xl lg:text-5xl">
-                Free AC Repair Quote &mdash; $0 Dispatch &amp; $0 Diagnostic
+                Free AC Repair Quote - $0 Dispatch &amp; $0 Diagnostic
               </h1>
               <p className="mt-3 max-w-md text-base font-medium text-white/90 md:text-lg">
                 Same-day service &middot; 10% off your repair &middot; 1-Year No Breakdown Guarantee

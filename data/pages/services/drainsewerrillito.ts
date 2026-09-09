@@ -10,7 +10,7 @@ export const drainsewerrillitoData: ServicePageData = {
   slug: "drain-sewer-rillito",
   
   // Hero Section
-  h1: "Rillito Drain & Sewer Services — Local Septic & Pipe Repair",
+  h1: "Rillito Drain & Sewer Services - Local Septic & Pipe Repair",
   h2Subheading: "Experienced drain & sewer solutions for Rillito homes, manufactured houses, and agricultural properties",
   tagline: "Serving Rillito with 46+ years of expertise — 4.97★ from 3,600+ reviews; fast local response in 85654",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rillito Drain & Sewer Services — Local Septic & Pipe Repair",
+    mainHeading: "Rillito Drain & Sewer Services - Local Septic & Pipe Repair",
     sections: [
       {
             "type": "heading",

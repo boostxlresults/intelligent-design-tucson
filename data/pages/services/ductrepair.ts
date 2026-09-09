@@ -10,7 +10,7 @@ export const ductrepairData: ServicePageData = {
   slug: 'duct-repair-tucson',
   
   // Hero Section
-  h1: 'Duct Repair in Tucson — Leaky Ducts Costing You? Sealed Today.',
+  h1: 'Duct Repair in Tucson - Leaky Ducts Costing You? Sealed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Same-Day Service Available | Expert Leak Sealing | Certified Technicians',
   heroImage: '/generated_images/Duct_repair_service_Tucson_Arizona_363c7550.webp',

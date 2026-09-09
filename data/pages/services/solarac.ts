@@ -10,7 +10,7 @@ export const solaracData: ServicePageData = {
   slug: 'solar-ac-tucson',
   
   // Hero Section
-  h1: 'Solar AC in Tucson — Let the Sun Pay Your Cooling Bill.',
+  h1: 'Solar AC in Tucson - Let the Sun Pay Your Cooling Bill.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Revolutionary Hybrid Solar Mini-Split | Runs on Sun by Day, Grid by Night | Free Assessment',
   heroImage: '/generated_images/Solar_panels_with_AC_unit_043e3f3d.webp',

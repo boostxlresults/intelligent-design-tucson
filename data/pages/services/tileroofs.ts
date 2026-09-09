@@ -10,7 +10,7 @@ export const tileroofsData: ServicePageData = {
   slug: 'tile-roofs',
   
   // Hero Section
-  h1: 'Tile Roofing in Tucson — Cracked or Leaking Tiles? Fixed Today.',
+  h1: 'Tile Roofing in Tucson - Cracked or Leaking Tiles? Fixed Today.',
   h2Subheading: 'Expert Tile Roofs in Tucson',
   tagline: 'Spanish Clay Tile | Concrete Tile | Mission & Barrel Tiles | Southwest Style Specialists | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/Spanish_clay_tile_roof_6bc33a61.webp',

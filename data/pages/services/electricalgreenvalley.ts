@@ -10,7 +10,7 @@ export const electricalgreenvalleyData: ServicePageData = {
   slug: "electrical-green-valley",
   
   // Hero Section
-  h1: "Green Valley Electrical Services — Intelligent Design",
+  h1: "Green Valley Electrical Services - Intelligent Design",
   h2Subheading: "Local electrical expertise for Green Valley retirement homes, HOAs, and active adult communities",
   tagline: "46+ years serving Green Valley (85614, 85622) — 4.97★ from 3,600+ reviews, trained for older single-story homes and fixed-income budgets",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Green Valley Electrical Services — Intelligent Design",
+    mainHeading: "Green Valley Electrical Services - Intelligent Design",
     sections: [
       {
             "type": "heading",

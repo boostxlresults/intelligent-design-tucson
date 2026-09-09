@@ -10,7 +10,7 @@ export const solartubularlightsData: ServicePageData = {
   slug: 'solar-tubular-lights',
   
   // Hero Section
-  h1: 'Solar Tubular Lights in Tucson — Natural Light, No Wiring.',
+  h1: 'Solar Tubular Lights in Tucson - Natural Light, No Wiring.',
   h2Subheading: 'Expert Solar Tubular Lights in Tucson',
   tagline: 'Natural Daylighting | Energy-Efficient Lighting | Reduce Electricity Costs | No Electric Bills | Free Installation Estimates',
   heroImage: '/generated_images/solar_tubular_light_hero.webp',

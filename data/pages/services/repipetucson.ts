@@ -9,7 +9,7 @@ export const repipetucsonData: ServicePageData = {
   slug: 'repipe-tucson',
   
   // Hero Section
-  h1: 'Repipe Services in Tucson — Old Pipes Failing? Repiped Right, Once.',
+  h1: 'Repipe Services in Tucson - Old Pipes Failing? Repiped Right, Once.',
   h2Subheading: 'Expert Whole-House Repiping Services',
   tagline: 'Galvanized Pipe Replacement | Polybutylene Pipe Removal | PEX Repiping | Copper Repiping | Licensed ROC #171687 | Free Estimates',
   heroImage: '/generated_images/Plumber_working_on_pipes_f99cdacb.webp',

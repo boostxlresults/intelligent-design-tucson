@@ -10,7 +10,7 @@ export const hybridwaterheatersData: ServicePageData = {
   slug: 'hybrid-water-heaters',
   
   // Hero Section
-  h1: 'Hybrid Water Heaters in Tucson — Cut Costs 70%? Installed Today.',
+  h1: 'Hybrid Water Heaters in Tucson - Cut Costs 70%? Installed Today.',
   h2Subheading: 'Expert Hybrid Water Heaters in Tucson',
   tagline: 'Save Up to 70% on Water Heating Costs | Energy-Efficient Heat Pump Technology | Federal Tax Credits Available | Expert Installation',
   heroImage: '/generated_images/Hybrid_water_heater_installation_39259483.webp',

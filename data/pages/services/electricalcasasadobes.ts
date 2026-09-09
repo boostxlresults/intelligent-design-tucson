@@ -10,7 +10,7 @@ export const electricalcasasadobesData: ServicePageData = {
   slug: "electrical-casas-adobes",
   
   // Hero Section
-  h1: "Casas Adobes Electrical Services — Safe, Local, Experienced",
+  h1: "Casas Adobes Electrical Services - Safe, Local, Experienced",
   h2Subheading: "46+ years serving Casas Adobes homes with targeted electrical upgrades for mid-century and newer builds",
   tagline: "46+ years • 4.97★ from 3,600+ reviews • Serving 85704, 85741, 85742",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Casas Adobes Electrical Services — Safe, Local, Experienced",
+    mainHeading: "Casas Adobes Electrical Services - Safe, Local, Experienced",
     sections: [
       {
             "type": "heading",

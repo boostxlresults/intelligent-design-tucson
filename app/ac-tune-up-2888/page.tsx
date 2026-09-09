@@ -11,7 +11,7 @@ const PRICE = "$28.88";
 const CANONICAL = "https://www.idesignac.com/ac-tune-up-2888";
 
 export const metadata: Metadata = {
-  title: "86-Point AC Tune-Up — $28.88 | Intelligent Design (Tucson)",
+  title: "86-Point AC Tune-Up - $28.88 | Intelligent Design (Tucson)",
   description:
     "Limited-time $28.88 86-point AC tune-up for Tucson homeowners, with a 1-Year No Breakdown Guarantee. Book online in under a minute.",
   robots: "noindex, nofollow, noarchive",
@@ -61,7 +61,7 @@ export default function AcTuneUp2888Page() {
             Limited time &middot; Tucson and surrounding areas
           </p>
           <h1 className="mt-2 text-4xl font-extrabold leading-tight sm:text-5xl">
-            86-Point AC Tune-Up &mdash; <span className="text-[#ff5a5f]">{PRICE}</span>
+            86-Point AC Tune-Up - <span className="text-[#ff5a5f]">{PRICE}</span>
           </h1>
           <p className="mt-3 text-xl font-bold text-white">Includes a 1-Year No Breakdown Guarantee.</p>
           <p className="mt-3 text-[17px] text-white/85">
@@ -182,7 +182,7 @@ export default function AcTuneUp2888Page() {
       <section className="bg-[#0d1b3e] px-4 py-10 text-center text-white">
         <div className="mx-auto max-w-2xl">
           <h2 className="text-3xl font-extrabold">
-            86-Point AC Tune-Up &mdash; <span className="text-[#ff5a5f]">{PRICE}</span>
+            86-Point AC Tune-Up - <span className="text-[#ff5a5f]">{PRICE}</span>
           </h2>
           <p className="mt-2 text-xl font-bold">Includes a 1-Year No Breakdown Guarantee.</p>
           <div className="mt-5 flex flex-col items-center gap-3">

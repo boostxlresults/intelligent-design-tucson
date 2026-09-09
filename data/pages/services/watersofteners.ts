@@ -10,7 +10,7 @@ export const watersoftenersData: ServicePageData = {
   slug: 'water-softeners',
   
   // Hero Section
-  h1: 'Water Softeners in Tucson — Hard Water Ruining Pipes? Softened Today.',
+  h1: 'Water Softeners in Tucson - Hard Water Ruining Pipes? Softened Today.',
   h2Subheading: 'Expert Water Softeners Repair & Installation in Tucson',
   tagline: 'Smart Learning Technology | 20-Minute Quick Recharge | Vacation Mode | Eliminate Hard Water Problems | Free Water Testing',
   heroImage: '/generated_images/Water_softener_system_installation_15639327.webp',

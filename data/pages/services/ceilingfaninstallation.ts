@@ -10,7 +10,7 @@ export const ceilingfaninstallationData: ServicePageData = {
   slug: 'ceiling-fan-installation',
   
   // Hero Section
-  h1: 'Ceiling Fan Installation in Tucson — Installed Safely Today.',
+  h1: 'Ceiling Fan Installation in Tucson - Installed Safely Today.',
   h2Subheading: 'Expert Ceiling Fan Installation in Tucson',
   tagline: 'New Fan Installation | Fan Replacement | Wiring & Electrical | Balance Adjustments | Licensed Electricians | Energy Efficiency',
   heroImage: '/generated_images/Ceiling_fan_installation_service_45fdef2d.webp',

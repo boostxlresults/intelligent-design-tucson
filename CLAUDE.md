@@ -65,7 +65,13 @@ Nav lives in a local `const` inside `components/layout/Header.tsx`, not the
 Keyword first, then the visitor's pain, then a same-day promise. Target ≤70
 characters:
 
-> AC Repair in Tucson — System Down? Cool Again Today.
+> AC Repair in Tucson - System Down? Cool Again Today.
+
+**Use a plain hyphen, not an em dash.** All 89 H1s were once shipped with `—`
+between the clauses; across a whole site that punctuation reads as machine-
+written, and it was not what the source copy used. Same applies to new marketing
+copy. Existing body prose already uses em dashes in places and is being left as
+it is; the point is not to add more.
 
 Do not lead with the company name; nobody searches for it. Titles are separate
-and already keyword-first with a single brand suffix — do not add a second one.
+and already keyword-first with a single brand suffix, so do not add a second.

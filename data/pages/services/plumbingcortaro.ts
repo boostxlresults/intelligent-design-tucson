@@ -10,7 +10,7 @@ export const plumbingcortaroData: ServicePageData = {
   slug: "plumbing-cortaro",
   
   // Hero Section
-  h1: "Cortaro Plumbing Services — Repairs, Replacements & Hard-Water Care",
+  h1: "Cortaro Plumbing Services - Repairs, Replacements & Hard-Water Care",
   h2Subheading: "Local plumbers who know Cortaro tile roofs, Continental Ranch homes, and Marana water hardness",
   tagline: "46+ years, 4.97★ (3,600+ reviews) — Serving Cortaro (85652, 85742) with local expertise",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Cortaro Plumbing Services — Repairs, Replacements & Hard-Water Care",
+    mainHeading: "Cortaro Plumbing Services - Repairs, Replacements & Hard-Water Care",
     sections: [
       {
             "type": "heading",

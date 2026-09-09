@@ -10,7 +10,7 @@ export const plumbingrillitoData: ServicePageData = {
   slug: "plumbing-rillito",
   
   // Hero Section
-  h1: "Rillito Plumbing Services — Repairs, Well Water & Pipe Replacement",
+  h1: "Rillito Plumbing Services - Repairs, Well Water & Pipe Replacement",
   h2Subheading: "Plumbing for older Rillito homes, manufactured properties, and agricultural lots",
   tagline: "46+ years serving Rillito (85654) • 4.97★ from 3,600+ reviews • Well-water specialists",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rillito Plumbing Services — Repairs, Well Water & Pipe Replacement",
+    mainHeading: "Rillito Plumbing Services - Repairs, Well Water & Pipe Replacement",
     sections: [
       {
             "type": "heading",

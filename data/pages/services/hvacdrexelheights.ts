@@ -10,7 +10,7 @@ export const hvacdrexelheightsData: ServicePageData = {
   slug: "hvac-drexel-heights",
   
   // Hero Section
-  h1: "Drexel Heights HVAC Services — Local AC Repair & Replacement",
+  h1: "Drexel Heights HVAC Services - Local AC Repair & Replacement",
   h2Subheading: "46+ years serving Drexel Heights with Tucson-specific HVAC solutions and a 4.97★ local reputation",
   tagline: "Serving Drexel Heights (85746, 85735) — 46+ years experience, 4.97★ from 3,600+ reviews",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Drexel Heights HVAC Services — Local AC Repair & Replacement",
+    mainHeading: "Drexel Heights HVAC Services - Local AC Repair & Replacement",
     sections: [
       {
             "type": "heading",

@@ -10,7 +10,7 @@ export const electricalritaranchData: ServicePageData = {
   slug: "electrical-rita-ranch",
   
   // Hero Section
-  h1: "Rita Ranch Electrical Services — Local Experts for 85747",
+  h1: "Rita Ranch Electrical Services - Local Experts for 85747",
   h2Subheading: "Electrical upgrades, EV charger installs, and monsoon-ready wiring for Rita Ranch homes",
   tagline: "46+ years serving Tucson neighborhoods — 4.97★ from 3,600+ reviews; trusted in Rita Ranch (85747)",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rita Ranch Electrical Services — Local Experts for 85747",
+    mainHeading: "Rita Ranch Electrical Services - Local Experts for 85747",
     sections: [
       {
             "type": "heading",

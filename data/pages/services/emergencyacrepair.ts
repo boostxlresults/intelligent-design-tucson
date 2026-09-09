@@ -49,7 +49,7 @@ export const emergencyacrepairData: ServicePageData = {
   slug: 'emergency-ac-repair-tucson',
 
   // Hero Section
-  h1: 'Emergency AC Repair in Tucson — AC Dead? We\'re On Our Way Now.',
+  h1: 'Emergency AC Repair in Tucson - AC Dead? We\'re On Our Way Now.',
   h2Subheading: '24/7 Emergency Service • No Overtime Charges • 23,000+ 5-Star Reviews',
   tagline: 'AC Out in the Heat? We Answer 24/7 — Nights, Weekends & Holidays at No Extra Charge',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
@@ -103,7 +103,7 @@ export const emergencyacrepairData: ServicePageData = {
   },
 
   content: {
-    mainHeading: "Emergency AC Repair Tucson — Fast, 24/7 Service",
+    mainHeading: "Emergency AC Repair Tucson - Fast, 24/7 Service",
     sections: [
       {
         type: 'heading',

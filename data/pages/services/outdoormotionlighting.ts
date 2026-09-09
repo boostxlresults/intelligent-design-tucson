@@ -10,7 +10,7 @@ export const outdoormotionlightingData: ServicePageData = {
   slug: 'outdoor-motion-lighting',
   
   // Hero Section
-  h1: 'Outdoor Motion Lighting in Tucson — Unsafe at Night? Lit Up Today.',
+  h1: 'Outdoor Motion Lighting in Tucson - Unsafe at Night? Lit Up Today.',
   h2Subheading: 'Professional Security & Motion Sensor Lighting Solutions',
   tagline: 'Deter Intruders | Prevent Falls | Save 50-75% on Energy | Smart Home Integration | Licensed ROC Electricians Since 1979 | Same-Day Service Available',
   heroImage: '/generated_images/Outdoor_motion_lighting_installation_1350b5ea.webp',

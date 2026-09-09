@@ -10,7 +10,7 @@ export const commercialroofinspectionData: ServicePageData = {
   slug: 'commercial-roof-inspection',
   
   // Hero Section
-  h1: 'Commercial Roof Inspection in Tucson — Full Report Today.',
+  h1: 'Commercial Roof Inspection in Tucson - Full Report Today.',
   h2Subheading: 'Expert Commercial Roof Inspection in Tucson',
   tagline: 'Preventative Maintenance | Detailed Reports | Moisture Surveys | Property Management Services | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_inspection_professional_ddb06396.webp',

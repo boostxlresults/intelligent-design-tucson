@@ -9,7 +9,7 @@ export const acrepairData: ServicePageData = {
   slug: 'ac-repair-tucson',
   
   // Hero Section
-  h1: 'AC Repair in Tucson — System Down? Cool Again Today.',
+  h1: 'AC Repair in Tucson - System Down? Cool Again Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency AC Repair | Fast Response Times | Expert Technicians',
   heroImage: '/generated_images/Professional_AC_repair_in_Tucson_8bf9f61d.webp',
@@ -168,7 +168,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Already know what your system is doing wrong? Go straight to the page for your symptom \u2014 each one covers the usual causes, what the repair typically costs, and how fast we can get to you: [link:/lp/ac-not-cooling|AC not cooling], [link:/lp/ac-blowing-hot-air|AC blowing hot air], or [link:/lp/ac-fan-not-spinning|AC fan not spinning]. If your system is out completely in the middle of a Tucson summer, [link:/services/emergency-ac-repair-tucson|emergency AC repair] is available 24/7."
+            "content": "Already know what your system is doing wrong? Go straight to the page for your symptom. Each one covers the usual causes, what the repair typically costs, and how fast we can get to you: [link:/lp/ac-not-cooling|AC not cooling], [link:/lp/ac-blowing-hot-air|AC blowing hot air], or [link:/lp/ac-fan-not-spinning|AC fan not spinning]. If your system is out completely in the middle of a Tucson summer, [link:/services/emergency-ac-repair-tucson|emergency AC repair] is available 24/7."
       }
     ]
   },

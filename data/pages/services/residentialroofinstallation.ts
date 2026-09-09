@@ -10,7 +10,7 @@ export const residentialroofinstallationData: ServicePageData = {
   slug: 'residential-roof-installation',
   
   // Hero Section
-  h1: 'Residential Roof Installation in Tucson — Backed by Warranty.',
+  h1: 'Residential Roof Installation in Tucson - Backed by Warranty.',
   h2Subheading: 'Expert Residential Roof Installation in Tucson',
   tagline: 'New Construction | Custom Homes | Additions | All Roof Types | Expert Installation | 46+ years Experience',
   heroImage: '/generated_images/residential_roof_installation_crew_9ad609fb.webp',

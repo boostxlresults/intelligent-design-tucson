@@ -9,7 +9,7 @@ export const indoorairqualityData: ServicePageData = {
   slug: 'indoor-air-quality-tucson',
   
   // Hero Section
-  h1: 'Indoor Air Quality in Tucson — Breathing Bad Air? Cleaner Today.',
+  h1: 'Indoor Air Quality in Tucson - Breathing Bad Air? Cleaner Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Breathe Cleaner, Healthier Air with Professional Air Purification, Filtration & Whole House Humidifier Systems',
   heroImage: '/generated_images/Clean_home_air_quality_system_c083313f.webp',

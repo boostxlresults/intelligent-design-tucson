@@ -75,7 +75,7 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     title: "Tucson HVAC Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
     description:
       "Comparing Rite Way, Parker & Sons, Goettl and other Tucson HVAC companies? See side-by-side ratings, ownership, response times & guarantees. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's HVAC Companies Compare — And Why 23,000 Customers Chose Intelligent Design",
+    h1: "How Tucson's HVAC Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
     intro:
       "When you call Intelligent Design, you're calling a locally owned Tucson company — not a national private-equity platform. Below is an at-a-glance comparison of Tucson's HVAC companies using each company's public Google Business Profile rating and ownership status, so you can see who still answers to a local owner versus an out-of-state investment fund. We never rate a competitor's quality — the table wins on math and ownership facts.",
     competitors: [
@@ -146,7 +146,7 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     title: "Tucson Plumbers Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
     description:
       "Comparing Roto-Rooter, Silverado, Cummings and other Tucson plumbers? See side-by-side ratings, ownership, response times & guarantees. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Plumbers Compare — And Why 23,000 Customers Chose Intelligent Design",
+    h1: "How Tucson's Plumbers Compare - And Why 23,000 Customers Chose Intelligent Design",
     intro:
       "When you call Intelligent Design, you're calling a locally owned Tucson company — not a national private-equity platform or a franchise. Below is a side-by-side look at Tucson's plumbers using each company's public Google Business Profile rating and ownership status.",
     competitors: [
@@ -217,7 +217,7 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     title: "Tucson Roofing Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
     description:
       "Comparing Tucson roofing companies? See side-by-side ratings, ownership, warranties & guarantees — plus exclusive ThermalCork coating. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Roofing Companies Compare — And Why 23,000 Customers Chose Intelligent Design",
+    h1: "How Tucson's Roofing Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
     intro:
       "When you call Intelligent Design, you're calling a locally owned Tucson company — and Tucson's only certified ThermalCork roof-coating applicator. Below is a comparison of Tucson roofing companies using each company's public Google Business Profile rating.",
     competitors: [
@@ -306,7 +306,7 @@ export const COMPARE_VERTICALS: CompareVertical[] = [
     title: "Tucson Solar Companies Compared (2026) | Intelligent Design — 23,000 Five-Star Reviews",
     description:
       "Comparing Tucson solar companies — or stuck with a system from a closed installer? See ratings, ownership & who services orphaned systems. BBB A+ · 4.97★ Google · Free second opinion.",
-    h1: "How Tucson's Solar Companies Compare — And Why 23,000 Customers Chose Intelligent Design",
+    h1: "How Tucson's Solar Companies Compare - And Why 23,000 Customers Chose Intelligent Design",
     intro:
       "When you call Intelligent Design, you're calling a locally owned Tucson company that's still here to service what we sell. Many Arizona solar installers have closed their doors — if yours did, we service and repair orphaned systems. Below is a comparison of Tucson solar options using public Google Business Profile ratings.",
     competitors: [

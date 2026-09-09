@@ -10,7 +10,7 @@ export const electricalrillitoData: ServicePageData = {
   slug: "electrical-rillito",
   
   // Hero Section
-  h1: "Rillito Electrical Services — Panels, Well Pumps & Farm Power",
+  h1: "Rillito Electrical Services - Panels, Well Pumps & Farm Power",
   h2Subheading: "Local electricians experienced with 1970s–1990s homes, manufactured units, and agricultural wiring along the Santa Cruz River corridor",
   tagline: "46+ years serving Southern AZ · 4.97★ from 3,600+ reviews · Local techs for Rillito (85654)",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rillito Electrical Services — Panels, Well Pumps & Farm Power",
+    mainHeading: "Rillito Electrical Services - Panels, Well Pumps & Farm Power",
     sections: [
       {
             "type": "heading",

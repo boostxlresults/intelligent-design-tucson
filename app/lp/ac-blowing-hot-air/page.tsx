@@ -22,27 +22,27 @@ export const metadata: Metadata = {
 const CAUSES = [
   {
     title: "Thermostat switched to HEAT or FAN",
-    cost: "$0 — you can fix this",
+    cost: "$0 - you can fix this",
     diy: true,
     desc: "It sounds obvious, but it is genuinely one of the most common causes we drive out for. Confirm the mode is COOL, not HEAT and not FAN/ON. On FAN the blower moves room-temperature air continuously, which feels exactly like hot air from the vents."
   },
   {
     title: "Dirty air filter choking airflow",
-    cost: "$0 — you can fix this",
+    cost: "$0 - you can fix this",
     diy: true,
     desc: "A clogged filter starves the system of air. Not enough air moves across the coil, the coil ices, and what reaches your vents is weak and warm. Pull the filter; if you cannot see light through it, replace it and give the system 30–60 minutes."
   },
   {
     title: "Outdoor breaker tripped",
-    cost: "$0 — you can fix this",
+    cost: "$0 - you can fix this",
     diy: true,
-    desc: "If the indoor blower has power but the outdoor condenser does not, you get airflow with no cooling — air at room temperature or warmer. Check for a tripped AC breaker and the outdoor disconnect. Reset it once. If it trips again immediately, stop and call: that is an electrical fault."
+    desc: "If the indoor blower has power but the outdoor condenser does not, you get airflow with no cooling - air at room temperature or warmer. Check for a tripped AC breaker and the outdoor disconnect. Reset it once. If it trips again immediately, stop and call: that is an electrical fault."
   },
   {
     title: "Low refrigerant from a leak",
     cost: "~$300–$1,500",
     diy: false,
-    desc: "Refrigerant is not consumed, so if the charge is low there is a leak. Without enough refrigerant the system cannot move heat out of the house, and the air turns warm. The leak has to be found and sealed, not simply topped off — a recharge alone leaks straight back out."
+    desc: "Refrigerant is not consumed, so if the charge is low there is a leak. Without enough refrigerant the system cannot move heat out of the house, and the air turns warm. The leak has to be found and sealed, not simply topped off - a recharge alone leaks straight back out."
   },
   {
     title: "Failed run capacitor",
@@ -52,7 +52,7 @@ const CAUSES = [
   },
   {
     title: "Failing compressor",
-    cost: "$$$ — repair vs. replace",
+    cost: "$$$ - repair vs. replace",
     diy: false,
     desc: "The compressor is the heart of the cooling cycle. If it has failed, no amount of airflow will produce cold air. This is the expensive one, so we will show you the meter reading and lay out repair against replacement honestly rather than defaulting to a new system."
   }
@@ -104,7 +104,7 @@ export default function AcBlowingHotAirLp() {
     <>
       <LpStickyCall />
 
-      {/* Hero — the promise, then the phone, above the fold on mobile */}
+      {/* Hero - the promise, then the phone, above the fold on mobile */}
       <section className="px-4 py-6 sm:py-9">
         <div className="mx-auto max-w-3xl text-center">
           <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">Tucson AC repair</p>
@@ -125,11 +125,11 @@ export default function AcBlowingHotAirLp() {
         </div>
       </section>
 
-      {/* Substance — what earns Landing Page Experience, after the CTA */}
+      {/* Substance - what earns Landing Page Experience, after the CTA */}
       <section className="border-t border-border px-4 py-10">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-2xl font-bold text-primary sm:text-3xl">What usually causes this</h2>
-          <p className="mt-2 text-[17px] text-muted-foreground">When the air coming out is warmer than the room, the cooling side has stopped working &mdash; not the fan. These are the causes we see most in Tucson, in the order we rule them out.</p>
+          <p className="mt-2 text-[17px] text-muted-foreground">When the air coming out is warmer than the room, the cooling side has stopped working - not the fan. These are the causes we see most in Tucson, in the order we rule them out.</p>
           <div className="mt-6 space-y-4">
             {CAUSES.map((c, i) => (
               <div key={i} className="rounded-xl border border-border bg-card p-5">
@@ -173,16 +173,16 @@ export default function AcBlowingHotAirLp() {
       </section>
 
       <LpServiceArea />
-      <LpFaq items={FAQ} heading="AC blowing hot air — common questions" />
+      <LpFaq items={FAQ} heading="AC blowing hot air - common questions" />
 
       <section className="border-t border-border px-4 py-8">
         <div className="mx-auto max-w-3xl">
           <h2 className="text-xl font-bold text-primary">Other AC problems we fix today</h2>
           <ul className="mt-3 space-y-2 text-[16px]">
-            <li><a className="font-semibold text-primary underline" href="/lp/ac-not-cooling">AC not cooling</a> &mdash; when it runs but never gets cold</li>
-            <li><a className="font-semibold text-primary underline" href="/lp/ac-fan-not-spinning">AC fan not spinning</a> &mdash; when the outdoor unit hums but the blades sit still</li>
-            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> &mdash; full diagnostics, pricing and warranty details</li>
-            <li><a className="font-semibold text-primary underline" href="/services/emergency-ac-repair-tucson">Emergency AC repair</a> &mdash; 24/7, no overtime upcharge</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-not-cooling">AC not cooling</a> - when it runs but never gets cold</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/ac-fan-not-spinning">AC fan not spinning</a> - when the outdoor unit hums but the blades sit still</li>
+            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> - full diagnostics, pricing and warranty details</li>
+            <li><a className="font-semibold text-primary underline" href="/services/emergency-ac-repair-tucson">Emergency AC repair</a> - 24/7, no overtime upcharge</li>
           </ul>
         </div>
       </section>

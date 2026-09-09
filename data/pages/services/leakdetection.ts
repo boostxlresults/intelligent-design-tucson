@@ -10,7 +10,7 @@ export const leakdetectionData: ServicePageData = {
   slug: 'leak-detection',
   
   // Hero Section
-  h1: 'Leak Detection in Tucson — Bill Spiking? We\'ll Find It Today.',
+  h1: 'Leak Detection in Tucson - Bill Spiking? We\'ll Find It Today.',
   h2Subheading: 'Expert Leak Detection in Tucson',
   tagline: 'Non-Invasive Technology | Acoustic & Thermal Imaging | Slab Leak Detection | Underground Leaks | Prevent Water Damage | 46+ years Experience',
   heroImage: '/generated_images/Advanced_leak_detection_service_2ef26dea.webp',

@@ -10,7 +10,7 @@ export const residentialroofreplacementData: ServicePageData = {
   slug: 'residential-roof-replacement',
   
   // Hero Section
-  h1: 'Residential Roof Replacement in Tucson — Replaced Right.',
+  h1: 'Residential Roof Replacement in Tucson - Replaced Right.',
   h2Subheading: 'Expert Residential Roof Replacement in Tucson',
   tagline: 'Complete Tear-Off & Replacement | All Roof Types | Premium Materials | Expert Installation | 46+ years Experience',
   heroImage: '/generated_images/Roof_replacement_in_progress_e00e92e6.webp',

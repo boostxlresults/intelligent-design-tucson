@@ -10,7 +10,7 @@ export const heaterrepairData: ServicePageData = {
   slug: 'heater-repair-tucson',
   
   // Hero Section
-  h1: 'Heater Repair in Tucson — No Heat? Same-Day Repair Today.',
+  h1: 'Heater Repair in Tucson - No Heat? Same-Day Repair Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: '24/7 Emergency Heater Repair | Fast Response Times | Expert Technicians',
   heroImage: '/generated_images/Heater_repair_hero_background_2abaeefe.webp',

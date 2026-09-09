@@ -12,7 +12,7 @@ export const ductlessminisplitinstallationData: ServicePageData = {
   slug: 'ductless-installation-tucson',
   
   // Hero Section
-  h1: 'Ductless Mini Split Installation in Tucson — Installed Today.',
+  h1: 'Ductless Mini Split Installation in Tucson - Installed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'Energy-efficient ductless mini split installations by Tucson\'s most trusted HVAC experts. Superior comfort, lower bills, professional installation guaranteed.',
   heroImage: '/generated_images/Ductless_mini_split_installation_Tucson_d37599e5.webp',

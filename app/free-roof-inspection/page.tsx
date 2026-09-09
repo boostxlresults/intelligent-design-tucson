@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   alternates: { canonical: `${SITE}/free-roof-inspection` },
   robots: { index: true, follow: true },
   openGraph: {
-    title: "Free Roof Inspection — After the Storm",
+    title: "Free Roof Inspection - After the Storm",
     description: "Same-day roof inspection slots for Tucson homeowners. No fee. No pressure. Photo report emailed same day.",
     url: `${SITE}/free-roof-inspection`,
     type: "website",
@@ -90,7 +90,7 @@ export default function FreeRoofInspectionPage() {
                 <ShieldCheck className="h-4 w-4" /> Storm Response &middot; Tucson
               </span>
               <h1 className="mt-4 text-3xl font-extrabold leading-tight text-white drop-shadow md:text-4xl lg:text-5xl">
-                Free Roof Inspection &mdash; After the Storm
+                Free Roof Inspection - After the Storm
               </h1>
               <p className="mt-3 max-w-md text-base font-medium text-white/90 md:text-lg">
                 Same-day slots for Tucson homeowners. No fee. No pressure. Photo report emailed same day.

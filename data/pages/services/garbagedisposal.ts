@@ -10,7 +10,7 @@ export const garbagedisposalData: ServicePageData = {
   slug: 'garbage-disposal',
   
   // Hero Section
-  h1: 'Garbage Disposal Repair in Tucson — Disposal Dead? Fixed Same Day.',
+  h1: 'Garbage Disposal Repair in Tucson - Disposal Dead? Fixed Same Day.',
   h2Subheading: 'Expert Garbage Disposal in Tucson',
   tagline: 'New Installation | Disposal Repair | Leak Fixes | Jam Removal | All Major Brands | Same-Day Service | Licensed Plumbers ROC #171687',
   heroImage: '/generated_images/Garbage_disposal_installation_service_874790af.png',

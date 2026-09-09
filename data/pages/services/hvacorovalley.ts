@@ -10,7 +10,7 @@ export const hvacorovalleyData: ServicePageData = {
   slug: "hvac-oro-valley",
   
   // Hero Section
-  h1: "Oro Valley HVAC Services — Systems, Repair & Zoning",
+  h1: "Oro Valley HVAC Services - Systems, Repair & Zoning",
   h2Subheading: "Local HVAC solutions tuned to Oro Valley elevation, HOAs, and upscale homes",
   tagline: "46+ years serving Oro Valley — 4.97★ from 3,600+ reviews; trusted HVAC for Rancho Vistoso to Sun City",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Oro Valley HVAC Services — Systems, Repair & Zoning",
+    mainHeading: "Oro Valley HVAC Services - Systems, Repair & Zoning",
     sections: [
       {
             "type": "heading",

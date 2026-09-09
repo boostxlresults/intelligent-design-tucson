@@ -10,7 +10,7 @@ export const electricaltucsonData: ServicePageData = {
   slug: "electrical-tucson",
   
   // Hero Section
-  h1: 'Electrical Services in Tucson — Licensed Electricians, Same Day.',
+  h1: 'Electrical Services in Tucson - Licensed Electricians, Same Day.',
   h2Subheading: "Skilled Electricians Handling Repairs, Upgrades & Installations",
   tagline: "Fast Response | Licensed Experts | 46+ Years Experience | Transparent Pricing | Comprehensive Services | Warranty Included",
   heroImage: "/generated_images/Electrical_service_work_e21d02b3.webp",

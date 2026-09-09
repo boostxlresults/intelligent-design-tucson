@@ -10,7 +10,7 @@ export const circuitbreakersData: ServicePageData = {
   slug: 'circuit-breakers',
   
   // Hero Section
-  h1: 'Circuit Breakers in Tucson — Tripping Again? Root Cause Found Today.',
+  h1: 'Circuit Breakers in Tucson - Tripping Again? Root Cause Found Today.',
   h2Subheading: 'Expert Circuit Breakers in Tucson',
   tagline: 'Circuit Breaker Repair | Breaker Replacement | AFCI/GFCI Installation | Panel Upgrades | Safety Inspections | Licensed Electricians',
   heroImage: '/generated_images/Circuit_breaker_repair_replacement_2a43f55d.webp',

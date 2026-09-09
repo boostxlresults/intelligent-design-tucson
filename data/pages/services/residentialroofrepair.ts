@@ -10,7 +10,7 @@ export const residentialroofrepairData: ServicePageData = {
   slug: 'residential-roof-repair',
   
   // Hero Section
-  h1: 'Residential Roof Repair in Tucson — Leaking? Fixed Fast Today.',
+  h1: 'Residential Roof Repair in Tucson - Leaking? Fixed Fast Today.',
   h2Subheading: 'Expert Residential Roof Repair in Tucson',
   tagline: 'Fast Leak Repair | Tile & Shingle Repair | Emergency Storm Damage | Free Roof Inspection | 46+ years Experience',
   heroImage: '/generated_images/residential_roof_repair_technician_daf39f83.webp',

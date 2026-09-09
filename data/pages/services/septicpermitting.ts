@@ -7,7 +7,7 @@ export const septicpermittingData: ServicePageData = {
   description: 'Expert septic permitting services in Pima County. Site evaluation, perc testing, PDEQ applications, inspection coordination. Streamlined permit process. Call (520) 333-2665.',
   slug: 'septic-permitting',
   
-  h1: 'Septic Permitting in Tucson — Need a Permit? We Handle Every Step.',
+  h1: 'Septic Permitting in Tucson - Need a Permit? We Handle Every Step.',
   h2Subheading: 'Expert PDEQ Permit Coordination for Septic Systems',
   tagline: 'Pima County PDEQ Specialists | Site Evaluation | Perc Testing | Permit Applications | Inspection Coordination | Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',

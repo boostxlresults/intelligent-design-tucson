@@ -10,7 +10,7 @@ export const electricalrepairData: ServicePageData = {
   slug: 'electrical-repair',
   
   // Hero Section
-  h1: 'Electrical Repair in Tucson — Electrical Issue? Same-Day Fix.',
+  h1: 'Electrical Repair in Tucson - Electrical Issue? Same-Day Fix.',
   h2Subheading: 'Expert Electrical Repair in Tucson',
   tagline: '24/7 Emergency Service | Licensed Electricians | Circuit Repair | Outlet & Switch Repair | Panel Issues | Same-Day Service',
   heroImage: '/generated_images/Electrical_repair_service_9c456f25.webp',

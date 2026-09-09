@@ -12,7 +12,7 @@ export const electricalpanelupgradesData: ServicePageData = {
   slug: 'electrical-panel-upgrades',
   
   // Hero Section
-  h1: 'Electrical Panel Upgrades in Tucson — Overloaded? Upgraded Today.',
+  h1: 'Electrical Panel Upgrades in Tucson - Overloaded? Upgraded Today.',
   h2Subheading: 'Expert Electrical Panel Upgrades in Tucson',
   tagline: '200 Amp Panel Upgrades | Main Panel Replacement | Circuit Additions | Safety Inspections | Licensed Electricians | Code Compliant',
   heroImage: '/generated_images/Electrical_panel_upgrade_installation_9ec32c5d.webp',

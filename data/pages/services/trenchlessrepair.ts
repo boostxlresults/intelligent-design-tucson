@@ -10,7 +10,7 @@ export const trenchlessrepairData: ServicePageData = {
   slug: 'trenchless-repair',
   
   // Hero Section
-  h1: 'Trenchless Sewer Repair in Tucson — Fixed Without Digging.',
+  h1: 'Trenchless Sewer Repair in Tucson - Fixed Without Digging.',
   h2Subheading: 'Expert Trenchless Repair in Tucson',
   tagline: 'Certified IPT Trenchless Partner | No-Dig Technology | Preserve Landscaping & Hardscaping | 50-Year Warranty | Same-Day Service',
   heroImage: '/generated_images/Trenchless_sewer_pipe_lining_c7c72cfe.webp',

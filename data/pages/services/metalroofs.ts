@@ -10,7 +10,7 @@ export const metalroofsData: ServicePageData = {
   slug: 'metal-roofs',
   
   // Hero Section
-  h1: 'Metal Roofing in Tucson — Beat the Desert Heat. Built to Last.',
+  h1: 'Metal Roofing in Tucson - Beat the Desert Heat. Built to Last.',
   h2Subheading: 'Expert Metal Roofs in Tucson',
   tagline: 'Standing Seam & Corrugated Metal | 40-70 Year Lifespan | Energy-Efficient Cool Roofs | Residential & Commercial | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/standing_seam_metal_roof_bbc9c9f9.webp',

@@ -7,7 +7,7 @@ export const septicrepairData: ServicePageData = {
   description: 'Professional septic tank repair and septic system repair in Tucson & Pima County. Septic repair near me with 24/7 emergency service. Licensed septic system repair contractors. Call (520) 333-2665.',
   slug: 'septic-repair',
   
-  h1: 'Septic Repair in Tucson — Trouble Signs? Fixed Before a Crisis.',
+  h1: 'Septic Repair in Tucson - Trouble Signs? Fixed Before a Crisis.',
   h2Subheading: 'Expert Septic System Repair Contractors Near You',
   tagline: 'Septic Tank Repair | Septic System Repair | Septic Repair Near Me | Emergency 24/7 Service | Pima County Licensed ROC #171687',
   heroImage: '/generated_images/Sewer_line_repair_service_6973017c.webp',

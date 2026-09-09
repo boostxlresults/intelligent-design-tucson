@@ -12,7 +12,7 @@ export const furnacesData: ServicePageData = {
   slug: 'furnaces-tucson',
   
   // Hero Section
-  h1: 'Furnace Service in Tucson — Not Heating Right? Fixed Today.',
+  h1: 'Furnace Service in Tucson - Not Heating Right? Fixed Today.',
   h2Subheading: 'Over 23,000 5-Star Reviews',
   tagline: 'High-Efficiency Furnaces | Expert Installation | Professional Service | Trusted Technicians',
   heroImage: '/generated_images/Furnace_systems_hero_background_a983faa1.webp',

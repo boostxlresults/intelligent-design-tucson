@@ -9,7 +9,7 @@ export const actuneupData: ServicePageData = {
   slug: 'ac-tuneup-tucson',
   
   // Hero Section
-  h1: 'AC Tune-Up in Tucson — Ready for Summer? $88.88, Done Today.',
+  h1: 'AC Tune-Up in Tucson - Ready for Summer? $88.88, Done Today.',
   h2Subheading: 'Professional AC maintenance to prevent costly breakdowns \u2014 for less than the cost of dinner out',
   tagline: 'Complete System Diagnostics | All Brands Serviced | Same-Day Appointments Available',
   heroImage: '/generated_images/AC_tune-up_maintenance_Tucson_home_2437d8a1.webp',

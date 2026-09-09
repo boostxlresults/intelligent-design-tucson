@@ -10,7 +10,7 @@ export const sinkrepairinstallationData: ServicePageData = {
   slug: 'sink-repair-installation',
   
   // Hero Section
-  h1: 'Sink Repair & Installation in Tucson — Leaking? Fixed Today.',
+  h1: 'Sink Repair & Installation in Tucson - Leaking? Fixed Today.',
   h2Subheading: 'Expert Sink Repair Installation in Tucson',
   tagline: 'Kitchen & Bathroom Sinks | Faucet Installation | Garbage Disposals | Undermount, Drop-In, Farmhouse & Vessel Sinks | Professional Fixture Upgrades',
   heroImage: '/generated_images/Sink_installation_service_a1b31886.webp',

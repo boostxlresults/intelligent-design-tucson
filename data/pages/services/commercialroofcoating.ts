@@ -10,7 +10,7 @@ export const commercialroofcoatingData: ServicePageData = {
   slug: 'commercial-roof-coating',
   
   // Hero Section
-  h1: 'Commercial Roof Coating in Tucson — Adds 10+ Years, Applied Today.',
+  h1: 'Commercial Roof Coating in Tucson - Adds 10+ Years, Applied Today.',
   h2Subheading: 'Expert Commercial Roof Coating in Tucson',
   tagline: 'Cool Roof Technology | Energy Savings 15-30% | Extend Roof Life 10-20 Years | Silicone & Acrylic Coatings | 46+ years Experience',
   heroImage: '/generated_images/commercial_roof_coating_application_54879965.webp',

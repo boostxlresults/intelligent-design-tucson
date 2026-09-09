@@ -106,7 +106,7 @@ export default function DrainClearingSpecialPage() {
             without a primary heading for search engines. (2026-09-08) */}
         <section className="px-4 pt-8 text-center">
           <h1 className="mx-auto max-w-3xl text-3xl font-extrabold leading-tight text-primary sm:text-4xl" data-testid="text-hero-title">
-            Drain Clearing Special in Tucson — $48.88 Clears It Today.
+            Drain Clearing Special in Tucson - $48.88 Clears It Today.
           </h1>
         </section>
         <DrainClearingCoupon />

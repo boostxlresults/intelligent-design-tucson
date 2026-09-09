@@ -10,7 +10,7 @@ export const shingleroofsData: ServicePageData = {
   slug: 'shingle-roofs',
   
   // Hero Section
-  h1: 'Shingle Roofing in Tucson — Damaged Shingles? Repaired Today.',
+  h1: 'Shingle Roofing in Tucson - Damaged Shingles? Repaired Today.',
   h2Subheading: 'Expert Shingle Roofs in Tucson',
   tagline: 'Architectural & 3-Tab Shingles | Energy-Efficient Options | Expert Installation & Repair | Free Estimates | 46+ years Experience',
   heroImage: '/generated_images/asphalt_shingle_roof_detail_d24441ea.webp',

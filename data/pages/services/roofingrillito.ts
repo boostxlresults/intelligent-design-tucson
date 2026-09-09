@@ -7,7 +7,7 @@ export const roofingrillitoData: ServicePageData = {
   title: "Rillito Roofing Services | Intelligent Design",
   description: "Trusted roofing in Rillito, AZ — repairs, replacements, tile, shingle, flat roofing and coatings. Call Intelligent Design for a free estimate today: (520) 333-2665.",
   slug: "roofing-rillito",
-  h1: "Rillito Roofing Experts — Intelligent Design",
+  h1: "Rillito Roofing Experts - Intelligent Design",
   h2Subheading: "Proven roofing solutions for hot, dusty, rural Rillito conditions",
   tagline: "Durable roofs for Rillito homes, farms, and manufactured housing",
   heroImage: "/images/placeholder.webp",
@@ -41,7 +41,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Rillito Roofing Experts — Intelligent Design",
+    mainHeading: "Rillito Roofing Experts - Intelligent Design",
     sections: [
     {
         "type": "heading",

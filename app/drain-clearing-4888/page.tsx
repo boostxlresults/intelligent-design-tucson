@@ -13,7 +13,7 @@ const PHONE_DISPLAY = "(520) 333-2665";
 const CANONICAL = "https://www.idesignac.com/drain-clearing-4888";
 
 export const metadata: Metadata = {
-  title: `Drain Clearing Special — ${PRICE} | Intelligent Design (Tucson)`,
+  title: `Drain Clearing Special - ${PRICE} | Intelligent Design (Tucson)`,
   description:
     `Limited-time ${PRICE} drain clearing special for Tucson homeowners. Single drain, ground-level cleanout, up to 75 ft. Book online in under a minute.`,
   robots: "noindex, nofollow, noarchive",
@@ -69,7 +69,7 @@ export default function DrainClearing4888Page() {
             Limited time &middot; Tucson and surrounding areas
           </p>
           <h1 className="mt-2 text-4xl font-extrabold leading-tight sm:text-5xl">
-            Drain Clearing Special &mdash; <span className="text-[#ff5a5f]">{PRICE}</span>
+            Drain Clearing Special - <span className="text-[#ff5a5f]">{PRICE}</span>
           </h1>
           <p className="mt-3 text-xl font-bold text-white">Cleared fast. Priced honestly. No surprise fees.</p>
           <p className="mt-3 text-[17px] text-white/85">
@@ -216,7 +216,7 @@ export default function DrainClearing4888Page() {
       <section className="bg-[#0d1b3e] px-4 py-10 text-center text-white">
         <div className="mx-auto max-w-2xl">
           <h2 className="text-3xl font-extrabold">
-            Drain Clearing Special &mdash; <span className="text-[#ff5a5f]">{PRICE}</span>
+            Drain Clearing Special - <span className="text-[#ff5a5f]">{PRICE}</span>
           </h2>
           <p className="mt-2 text-xl font-bold">Cleared fast. Priced honestly. No surprise fees.</p>
           <div className="mt-5 flex flex-col items-center gap-3">

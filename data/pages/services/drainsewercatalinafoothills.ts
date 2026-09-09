@@ -10,7 +10,7 @@ export const drainsewercatalinafoothillsData: ServicePageData = {
   slug: "drain-sewer-catalina-foothills",
   
   // Hero Section
-  h1: "Drain & Sewer Services — Catalina Foothills",
+  h1: "Drain & Sewer Services - Catalina Foothills",
   h2Subheading: "Hillside drainage and complex waste-line work tailored for Catalina Foothills homes and estates",
   tagline: "46+ years serving Catalina Foothills • 4.97★ from 3,600+ reviews • Zip codes 85718 & 85750",
   heroImage: "/images/placeholder.webp",
@@ -48,7 +48,7 @@ highlights: [
   }
 ],
   content: {
-    mainHeading: "Drain & Sewer Services — Catalina Foothills",
+    mainHeading: "Drain & Sewer Services - Catalina Foothills",
     sections: [
       {
             "type": "heading",
