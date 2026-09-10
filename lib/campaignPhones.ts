@@ -52,6 +52,9 @@ export const CAMPAIGN_PHONES: Record<string, CampaignPhone> = {
   "/lp/ac-not-cooling": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
   "/lp/ac-blowing-hot-air": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
   "/lp/ac-fan-not-spinning": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
+  "/lp/ac-not-turning-on": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
+  "/lp/clogged-drain": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3494" },
+  "/lp/water-leak-detection": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3494" },
   "/drain-clearing-4888": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 348-6684" },
 };
 

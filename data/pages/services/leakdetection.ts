@@ -99,6 +99,16 @@ export const leakdetectionData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "The corrosion process accelerates dramatically above 120°F water temperature. Tucson homes with recirculation systems keeping hot water continuously circulating develop pinhole leaks 2-3× faster than homes without recirculation. Additionally, our hard water creates scale buildup inside pipes that reduces diameter, increases water velocity, and intensifies turbulent flow-all factors that accelerate corrosion. Installing a [link:/services/water-softeners|water softener system] dramatically reduces corrosion rates and can extend copper pipe lifespan by 15-20 years. For homes already experiencing multiple pinhole leaks, we often recommend [link:/services/plumbing-tucson|whole-home repiping] with PEX (cross-linked polyethylene) which is completely immune to hard water corrosion."
+      },
+      {
+            "type": "heading",
+            "heading": "Common Leak Problems We Find Today",
+            "level": 2,
+            "content": "Common Leak Problems We Find Today"
+      },
+      {
+            "type": "paragraph",
+            "content": "Seeing water, or a bill that jumped, and cannot find the source? [link:/lp/water-leak-detection|Water leak detection] walks through the leaks we find most often in Tucson homes and how we locate them without tearing up the house. If water is backing up rather than leaking out, that is a [link:/lp/clogged-drain|clogged drain] instead. Once a leak is located, [link:/services/water-leak-repair|water leak repair] handles the fix."
       }
     ]
   },

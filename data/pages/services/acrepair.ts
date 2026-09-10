@@ -168,7 +168,7 @@ export const acrepairData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "Already know what your system is doing wrong? Go straight to the page for your symptom. Each one covers the usual causes, what the repair typically costs, and how fast we can get to you: [link:/lp/ac-not-cooling|AC not cooling], [link:/lp/ac-blowing-hot-air|AC blowing hot air], or [link:/lp/ac-fan-not-spinning|AC fan not spinning]. If your system is out completely in the middle of a Tucson summer, [link:/services/emergency-ac-repair-tucson|emergency AC repair] is available 24/7."
+            "content": "Already know what your system is doing wrong? Go straight to the page for your symptom. Each one covers the usual causes, what the repair typically costs, and how fast we can get to you: [link:/lp/ac-not-cooling|AC not cooling], [link:/lp/ac-blowing-hot-air|AC blowing hot air], [link:/lp/ac-fan-not-spinning|AC fan not spinning], or [link:/lp/ac-not-turning-on|AC not turning on]. If your system is out completely in the middle of a Tucson summer, [link:/services/emergency-ac-repair-tucson|emergency AC repair] is available 24/7."
       }
     ]
   },

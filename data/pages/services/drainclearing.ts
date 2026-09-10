@@ -98,6 +98,16 @@ export const drainclearingData: ServicePageData = {
             "heading": "Tucson's Extreme Hard Water Impact on Drains",
             "level": 3,
             "content": "Tucson's Extreme Hard Water Impact on Drains"
+      },
+      {
+            "type": "heading",
+            "heading": "Common Drain Problems We Fix Today",
+            "level": 2,
+            "content": "Common Drain Problems We Fix Today"
+      },
+      {
+            "type": "paragraph",
+            "content": "Know which drain is the problem? Go straight to the page for it: [link:/lp/clogged-drain|clogged drain] covers sinks, tubs, toilets and main lines, with the usual causes and what each costs to clear. If you are seeing water where it should not be rather than water refusing to go down, start with [link:/lp/water-leak-detection|water leak detection]. For a drain that keeps backing up after clearing, a [link:/services/sewer-camera-inspection|sewer camera inspection] tells you whether the pipe itself is the problem."
       }
     ]
   },

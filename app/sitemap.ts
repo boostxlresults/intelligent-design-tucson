@@ -137,6 +137,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/lp/ac-not-cooling',
     '/lp/ac-blowing-hot-air',
     '/lp/ac-fan-not-spinning',
+    '/lp/ac-not-turning-on',
+    '/lp/clogged-drain',
+    '/lp/water-leak-detection',
   ];
 
   corePages.forEach((page) => {
