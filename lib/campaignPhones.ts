@@ -26,7 +26,7 @@
  * company line and that call lands in a generic ServiceTitan bucket with no
  * campaign. This is a small window (see DNIInjector: paid pages load DNI with
  * afterInteractive rather than lazyOnload to shrink it) and is strictly better
- * than the old behaviour, where NO call from these pages carried a click id.
+ * than the old behavior, where NO call from these pages carried a click id.
  *
  * TO CLOSE THAT WINDOW COMPLETELY: add each campaignNumber below to the DNI
  * swap-source list in ServiceTitan (tenant 227669022). DNI would then swap the
@@ -54,6 +54,12 @@ export const CAMPAIGN_PHONES: Record<string, CampaignPhone> = {
   "/lp/ac-fan-not-spinning": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
   "/lp/ac-not-turning-on": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3470" },
   "/lp/clogged-drain": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3494" },
+  // Sewer / pipe relining campaign (brief 2026-09-17). campaignNumber left
+  // unassigned until Joey confirms which pool number the sewer ad groups use.
+  "/lp/trenchless-sewer-repair": { ...DNI_SOURCE_PHONE },
+  "/lp/sewer-camera-inspection": { ...DNI_SOURCE_PHONE },
+  "/lp/sewer-line-replacement-cost": { ...DNI_SOURCE_PHONE },
+  "/lp/drain-keeps-clogging": { ...DNI_SOURCE_PHONE },
   "/lp/water-leak-detection": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3494" },
   "/drain-clearing-4888": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 348-6684" },
 };

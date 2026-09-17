@@ -25,7 +25,7 @@ import { isPaidLandingPage } from "@/lib/campaignPhones";
  *
  * The hardcoded numbers in lib/campaignPhones.ts remain as the HTML fallback: if a
  * visitor taps before the swap executes they still reach the campaign line and the
- * call is still attributable at campaign level. Belt and braces, not either/or.
+ * call is still attributable at campaign level. Belt and suspenders, not either/or.
  *
  * Do NOT reintroduce a pathname check here.
  *

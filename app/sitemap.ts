@@ -140,6 +140,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/lp/ac-not-turning-on',
     '/lp/clogged-drain',
     '/lp/water-leak-detection',
+    '/lp/trenchless-sewer-repair',
+    '/lp/sewer-camera-inspection',
   ];
 
   corePages.forEach((page) => {
