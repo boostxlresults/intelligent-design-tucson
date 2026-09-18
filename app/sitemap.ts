@@ -142,6 +142,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/lp/water-leak-detection',
     '/lp/trenchless-sewer-repair',
     '/lp/sewer-camera-inspection',
+    '/lp/sewer-line-replacement-cost',
+    '/lp/drain-keeps-clogging',
   ];
 
   corePages.forEach((page) => {

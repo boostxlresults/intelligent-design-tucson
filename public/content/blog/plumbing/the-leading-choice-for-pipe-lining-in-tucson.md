@@ -133,5 +133,6 @@ Do you have pipe-related plumbing issues? Contact us today to schedule a consult
 
 - [Sewer camera inspection in Tucson](/lp/sewer-camera-inspection) - see the inside of your line on video before anyone quotes a repair. Free with any drain clearing.
 - [Trenchless sewer repair in Tucson](/lp/trenchless-sewer-repair) - how a new pipe gets cured inside the old one, what it fixes, what it does not, and the lifetime warranty.
+- [What sewer line replacement costs in Tucson](/lp/sewer-line-replacement-cost) - real numbers, what to check on a quote, and a free second opinion before anyone digs.
 - [Sewer line repair](/services/sewer-line-repair) - spot repairs and full replacement when a line cannot be lined.
 - [Cast iron pipe repair](/services/cast-iron-pipe-repair-tucson) - why mid-century Tucson pipe fails from the inside out.

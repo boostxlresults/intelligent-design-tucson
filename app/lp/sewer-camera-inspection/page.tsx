@@ -228,6 +228,8 @@ export default function SewerCameraInspectionLp() {
             <li><a className="font-semibold text-primary underline" href="/services/sewer-camera-inspection">Sewer camera inspection service details</a> - equipment, process and pricing</li>
             <li><a className="font-semibold text-primary underline" href="/services/sewer-line-repair">Sewer line repair in Tucson</a> - spot repairs and full replacement</li>
             <li><a className="font-semibold text-primary underline" href="/services/cast-iron-pipe-repair-tucson">Cast iron pipe repair</a> - what happens to mid-century Tucson pipe</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/sewer-line-replacement-cost">Sewer line replacement cost</a> - what the repairs run, and a free second opinion</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/drain-keeps-clogging">Drain keeps clogging</a> - when the clog is a symptom of the pipe</li>
             <li><a className="font-semibold text-primary underline" href="/lp/clogged-drain">Clogged drain clearing</a> - if something is backing up right now</li>
           </ul>
         </div>

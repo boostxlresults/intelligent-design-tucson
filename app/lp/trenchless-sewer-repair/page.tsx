@@ -307,6 +307,7 @@ export default function TrenchlessSewerRepairLp() {
             <li><a className="font-semibold text-primary underline" href="/services/trenchless-repair">Trenchless sewer repair service details</a> - full method, materials and pricing</li>
             <li><a className="font-semibold text-primary underline" href="/services/sewer-line-repair">Sewer line repair in Tucson</a> - spot repairs and full replacement</li>
             <li><a className="font-semibold text-primary underline" href="/services/cast-iron-pipe-repair-tucson">Cast iron pipe repair</a> - why mid-century Tucson pipe fails from the inside</li>
+            <li><a className="font-semibold text-primary underline" href="/lp/sewer-line-replacement-cost">Sewer line replacement cost</a> - what digging actually costs, and a free second opinion</li>
             <li><a className="font-semibold text-primary underline" href="/lp/clogged-drain">Clogged drain clearing</a> - if a drain is backing up right now</li>
           </ul>
         </div>
