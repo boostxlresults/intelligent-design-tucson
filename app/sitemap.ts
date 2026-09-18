@@ -1,13 +1,13 @@
 import { MetadataRoute } from 'next';
 import serviceManifest from '@/data/pages/services/manifest.json';
 import locationManifest from '@/data/pages/locations/manifest.json';
-import noindexSlugs from '@/data/noindex-service-slugs.json';
+import { NOINDEX_SERVICE_SLUGS } from '@/lib/seo/noindexServiceSlugs';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
 
 // Location-variant slugs excluded from sitemap (noindexed)
-const NOINDEX_SET = new Set<string>(noindexSlugs.slugs);
+const NOINDEX_SET = NOINDEX_SERVICE_SLUGS;
 
 const SITE_URL = 'https://www.idesignac.com';
 

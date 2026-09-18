@@ -1,6 +1,12 @@
 """
 Generate a JSON list of service slugs that should be noindexed (location variants).
 This list will be used by the service page route to conditionally add noindex.
+
+STALE - DO NOT RUN WITHOUT REVIEW. data/noindex-service-slugs.json is now a
+hand-curated list of dead service x city permutations chosen from Search Console
+impression data, not the suffix match below. Running this script overwrites that
+curation and re-noindexes roughly 100 pages that were deliberately re-indexed.
+Kept for reference only.
 """
 import json
 import os
@@ -16,6 +22,10 @@ main_tucson_pages = {
     'heater-repair-tucson', 'heater-service-tucson', 'duct-repair-tucson', 'duct-cleaning-tucson',
     'duct-sealing-tucson', 'furnaces-tucson', 'hvac-tucson', 'smart-thermostat-installation-tucson',
     'drain-sewer-tucson', 'drain-clearing-tucson',
+    # Hub pages linked from the core service navigation on every service page.
+    # The suffix match below wrongly classified these as location variants.
+    'solar-installation-tucson', 'ductless-installation-tucson',
+    'heater-installation-tucson', 'heater-tuneup-tucson',
 }
 
 # Location suffixes that indicate a variant page

@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { MapPin, Wrench, Home, DollarSign, Star, Shield } from 'lucide-react';
+import { CATEGORY_SERVICES, HVAC_SERVICES } from '@/data/coreNavServiceSlugs';
 
 /**
  * ServiceAreaLinks Component
@@ -55,69 +56,6 @@ const CATEGORY_PREFIXES: Record<string, string> = {
   'Roofing': 'roofing',
 };
 
-// Core HVAC services
-const HVAC_SERVICES = [
-  { name: 'AC Repair', slug: 'ac-repair-tucson' },
-  { name: 'AC Installation', slug: 'ac-installation-tucson' },
-  { name: 'AC Service & Maintenance', slug: 'ac-service-tucson' },
-  { name: 'AC Tune-Up', slug: 'ac-tuneup-tucson' },
-  { name: 'Heating Services', slug: 'heating-tucson' },
-  { name: 'Heater Repair', slug: 'heater-repair-tucson' },
-  { name: 'Heater Installation', slug: 'heater-installation-tucson' },
-  { name: 'Duct Cleaning', slug: 'duct-cleaning-tucson' },
-  { name: 'Duct Repair', slug: 'duct-repair-tucson' },
-  { name: 'Duct Sealing', slug: 'duct-sealing-tucson' },
-  { name: 'Ductless Mini Split Installation', slug: 'ductless-installation-tucson' },
-  { name: 'Indoor Air Quality', slug: 'indoor-air-quality-tucson' },
-  { name: 'Furnaces', slug: 'furnaces-tucson' },
-];
-
-// Core Plumbing services
-const PLUMBING_SERVICES = [
-  { name: 'Plumbing Services', slug: 'plumbing-tucson' },
-  { name: 'Drain Clearing', slug: 'drain-clearing-tucson' },
-  { name: 'Water Heater Repair', slug: 'water-heater-repair' },
-  { name: 'Water Heater Installation', slug: 'water-heater-installation' },
-  { name: 'Tankless Water Heaters', slug: 'tankless-water-heaters' },
-  { name: 'Garbage Disposal', slug: 'garbage-disposal' },
-  { name: 'Sewer Line Repair', slug: 'sewer-line-repair' },
-  { name: 'Plumbing Maintenance', slug: 'plumbing-maintenance' },
-];
-
-// Core Electrical services
-const ELECTRICAL_SERVICES = [
-  { name: 'Electrical Services', slug: 'electrical-tucson' },
-  { name: 'Electrical Repair', slug: 'electrical-repair' },
-  { name: 'Electrical Panel Upgrades', slug: 'electrical-panel-upgrades' },
-  { name: 'Ceiling Fan Installation', slug: 'ceiling-fan-installation' },
-  { name: 'Circuit Breakers', slug: 'circuit-breakers' },
-  { name: 'EV Charger Installation', slug: 'ev-charger-installation' },
-  { name: 'Lighting Installation', slug: 'lighting-installation' },
-  { name: 'Whole House Surge Protection', slug: 'whole-house-surge-protection' },
-];
-
-// Core Solar services
-const SOLAR_SERVICES = [
-  { name: 'Solar Installation', slug: 'solar-installation-tucson' },
-  { name: 'Residential Solar', slug: 'residential-solar-installation' },
-  { name: 'Commercial Solar', slug: 'commercial-solar-installation' },
-  { name: 'Solar Maintenance', slug: 'solar-maintenance' },
-  { name: 'Solar Tax Credits', slug: 'solar-tax-credits' },
-  { name: 'Solar Panel Costs', slug: 'solar-panel-costs' },
-  { name: 'Solar AC', slug: 'solar-ac-tucson' },
-];
-
-// Core Roofing services
-const ROOFING_SERVICES = [
-  { name: 'Roofing Services', slug: 'roofing-tucson' },
-  { name: 'Roof Repair', slug: 'roof-repair' },
-  { name: 'Roof Replacement', slug: 'roof-replacement' },
-  { name: 'Roof Inspection', slug: 'roof-inspection' },
-  { name: 'Roof Coating', slug: 'roof-coating' },
-  { name: 'Commercial Roof Repair', slug: 'commercial-roof-repair' },
-  { name: 'Commercial Roof Installation', slug: 'commercial-roof-installation' },
-];
-
 // Cross-department links
 const CROSS_LINKS = [
   { name: 'Financing Options', slug: 'financing', icon: DollarSign },
@@ -125,14 +63,6 @@ const CROSS_LINKS = [
   { name: 'Customer Reviews', href: '/customer-reviews', icon: Star },
   { name: 'Family Protection Plans', href: '/family-protection-plans', icon: Shield },
 ];
-
-const CATEGORY_SERVICES: Record<string, typeof HVAC_SERVICES> = {
-  'HVAC': HVAC_SERVICES,
-  'Plumbing': PLUMBING_SERVICES,
-  'Solar': SOLAR_SERVICES,
-  'Electrical': ELECTRICAL_SERVICES,
-  'Roofing': ROOFING_SERVICES,
-};
 
 export default function ServiceAreaLinks({ currentSlug, category }: ServiceAreaLinksProps) {
   const prefix = CATEGORY_PREFIXES[category] || 'hvac';

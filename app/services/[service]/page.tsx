@@ -9,10 +9,7 @@ import { generateServiceMetadata } from "@/lib/seo";
 import { generateMetadata as generateSEOMetadata } from "@/lib/seo";
 import { getRelatedBlogPostsForService, getServiceTypeFromSlug } from "@/lib/seo/getRelatedBlogPosts";
 import serviceManifest from "@/data/pages/services/manifest.json";
-import noindexSlugs from "@/data/noindex-service-slugs.json";
-
-// Set of location-variant slugs that should not be indexed
-const NOINDEX_SLUGS = new Set<string>(noindexSlugs.slugs);
+import { isNoIndexServiceSlug } from "@/lib/seo/noindexServiceSlugs";
 
 // Build lookup map from manifest: canonical slug -> dataFile
 // Only map canonical slugs; aliases are handled by redirects in next.config.ts
@@ -67,7 +64,7 @@ export async function generateMetadata({
   const schemas = getServiceSchemas(serviceData, serviceSlug);
 
   // Check if this is a location-variant page that should be noindexed
-  const shouldNoIndex = NOINDEX_SLUGS.has(serviceSlug);
+  const shouldNoIndex = isNoIndexServiceSlug(serviceSlug);
 
   // Return base metadata with noindex for location variants
   if (shouldNoIndex) {
