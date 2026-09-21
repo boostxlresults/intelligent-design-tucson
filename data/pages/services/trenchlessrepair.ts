@@ -99,6 +99,33 @@ export const trenchlessrepairData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "IPT (Insituform Perma-Lateral Technologies) is the world leader in trenchless pipe rehabilitation technology. Founded in 1971, IPT pioneered the CIPP (cured-in-place pipe) lining process and continues to set industry standards for materials, installation methods, and quality assurance. IPT certification represents the highest level of expertise and quality in the trenchless repair industry."
+      },
+
+      {
+            "type": "heading",
+            "heading": "What you get when Intelligent Design does the work",
+            "level": 2,
+            "content": "What you get when Intelligent Design does the work"
+      },
+      {
+            "type": "paragraph",
+            "content": "We install cured-in-place pipe with the HammerHead D125-QL QuickLok inversion drum system, the same professional-grade CIPP equipment used by certified trenchless contractors across North America. The liner is saturated with a two-part epoxy resin, inserted through an existing cleanout, and cured against the old pipe wall into a seamless, jointless pipe rated for more than 50 years of service. Joints are where roots enter and where cast iron fails first, and a cured liner does not have any."
+      },
+      {
+            "type": "paragraph",
+            "content": "Free sewer camera inspection with any drain clearing. If we are clearing a line for you, the camera goes in afterward at no additional charge and you watch the footage with the technician. We made it free on purpose: a clearing without a look inside is how homeowners end up paying for the same clearing three times before anyone tells them the pipe was the problem."
+      },
+      {
+            "type": "paragraph",
+            "content": "One contractor for prep, repair and cleanup. When a sewer line is dug out from under a patio, someone has to break the concrete, someone has to replace the pipe, someone has to pour it back, and someone has to put the landscaping right. Hired as three or four separate jobs, every delay becomes an argument about whose fault it is. We do all of it ourselves, so one company is accountable for the finished result."
+      },
+      {
+            "type": "paragraph",
+            "content": "Most Tucson trenchless jobs finish in one to four days from start to finish, including the camera inspection, cleaning the line, installing the liner, and the final camera check. Dig-and-replace on the same house is usually a week or more once the concrete work and the landscaping repair are added, and those are frequently separate trades on separate schedules."
+      },
+      {
+            "type": "paragraph",
+            "content": "Financing is available, and we will go over the options with you on the phone before a technician is scheduled, so you know what a monthly payment looks like rather than only a lump sum. Nobody budgets for a sewer line, and a line leaking under a slab does not get cheaper by waiting."
       }
     ]
   },

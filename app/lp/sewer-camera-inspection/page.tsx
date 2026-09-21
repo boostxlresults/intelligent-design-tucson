@@ -16,6 +16,13 @@ const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Vete
 export const metadata: Metadata = {
   title: "Sewer Camera Inspection Tucson | Free With Any Drain Clearing",
   description: "Sewer camera inspection in Tucson, free with any drain clearing. See the inside of your line on video before anyone quotes a repair or digs up your yard.",
+  // noindex,follow (2026-09-21). This page has an 8,000-word sibling at
+  // /services/sewer-camera-inspection targeting the same query. Two indexable pages from one
+  // domain on one intent is how the wrong one ends up ranking, and the
+  // /services/ page has the internal links and the word count. This is a paid
+  // landing page; Google Ads does not require indexing. follow is kept so the
+  // links out of here still pass.
+  robots: { index: false, follow: true },
   alternates: { canonical: "https://www.idesignac.com/lp/sewer-camera-inspection" },
 };
 

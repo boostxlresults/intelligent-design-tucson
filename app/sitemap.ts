@@ -132,6 +132,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/ac-sizing-estimator',
     // Paid landing pages. These are ordinary pages of the site that ads also point
     // at: indexable, self-canonical, internally linked. (noindex removed 2026-09-08)
+    // Two are deliberately absent: /lp/sewer-camera-inspection and
+    // /lp/trenchless-sewer-repair are noindex,follow because each has an
+    // 8,000-word /services/ sibling on the same query (2026-09-21). Keep sitemap
+    // membership and the robots tag in agreement.
     '/lp/ac-repair-tucson',
     '/lp/emergency-ac-repair-tucson',
     '/lp/ac-not-cooling',
@@ -140,8 +144,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/lp/ac-not-turning-on',
     '/lp/clogged-drain',
     '/lp/water-leak-detection',
-    '/lp/trenchless-sewer-repair',
-    '/lp/sewer-camera-inspection',
     '/lp/sewer-line-replacement-cost',
     '/lp/drain-keeps-clogging',
   ];

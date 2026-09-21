@@ -96,6 +96,33 @@ export const sewercamerainspectionData: ServicePageData = {
       {
             "type": "paragraph",
             "content": "Recording equipment captures the entire inspection digitally. We can pause, review, and capture still images of specific problem areas. After inspection, we provide digital copies of the video and photos for your records. This documentation proves invaluable when obtaining repair bids, filing insurance claims, or demonstrating to buyers/sellers the condition of sewer systems during real estate transactions."
+      },
+
+      {
+            "type": "heading",
+            "heading": "What the inspection costs, and what happens next",
+            "level": 2,
+            "content": "What the inspection costs, and what happens next"
+      },
+      {
+            "type": "paragraph",
+            "content": "Free sewer camera inspection with any drain clearing. If we are clearing a line for you, the camera goes in afterward at no additional charge and you watch the footage with the technician. We made it free on purpose: a clearing without a look inside is how homeowners end up paying for the same clearing three times before anyone tells them the pipe was the problem."
+      },
+      {
+            "type": "paragraph",
+            "content": "If the camera finds a defect the pipe can be repaired from the inside, relining is the usual next step. We install cured-in-place pipe with the HammerHead D125-QL QuickLok inversion drum system, the same professional-grade CIPP equipment used by certified trenchless contractors across North America. The liner is saturated with a two-part epoxy resin, inserted through an existing cleanout, and cured against the old pipe wall into a seamless, jointless pipe rated for more than 50 years of service. Joints are where roots enter and where cast iron fails first, and a cured liner does not have any."
+      },
+      {
+            "type": "paragraph",
+            "content": "Relining is not always the answer, and we would rather say so before you pay for it. A fully collapsed section has no host pipe left to line. A severe belly that holds standing water cannot be lined until the sag is addressed, because a liner takes the shape of the pipe it is formed in. A line that has shifted far out of alignment may be beyond what a liner can bridge. The inspection is what settles which category your line is in."
+      },
+      {
+            "type": "paragraph",
+            "content": "One contractor for prep, repair and cleanup. When a sewer line is dug out from under a patio, someone has to break the concrete, someone has to replace the pipe, someone has to pour it back, and someone has to put the landscaping right. Hired as three or four separate jobs, every delay becomes an argument about whose fault it is. We do all of it ourselves, so one company is accountable for the finished result."
+      },
+      {
+            "type": "paragraph",
+            "content": "Financing is available, and we will go over the options with you on the phone before a technician is scheduled, so you know what a monthly payment looks like rather than only a lump sum. Nobody budgets for a sewer line, and a line leaking under a slab does not get cheaper by waiting."
       }
     ]
   },

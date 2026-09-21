@@ -15,6 +15,13 @@ const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Vete
 export const metadata: Metadata = {
   title: "Trenchless Sewer Repair Tucson | No Digging, Lifetime Warranty",
   description: "Trenchless sewer repair in Tucson. A new pipe cured inside your old one, no trench through the yard or slab. Lifetime warranty, most jobs in 1 to 4 days, financing available.",
+  // noindex,follow (2026-09-21). This page has an 8,000-word sibling at
+  // /services/trenchless-repair targeting the same query. Two indexable pages from one
+  // domain on one intent is how the wrong one ends up ranking, and the
+  // /services/ page has the internal links and the word count. This is a paid
+  // landing page; Google Ads does not require indexing. follow is kept so the
+  // links out of here still pass.
+  robots: { index: false, follow: true },
   alternates: { canonical: "https://www.idesignac.com/lp/trenchless-sewer-repair" },
 };
 

@@ -99,6 +99,33 @@ export const sewerlinerepairData: ServicePageData = {
             "heading": "Shifting Desert Soils and Ground Settlement",
             "level": 3,
             "content": "Shifting Desert Soils and Ground Settlement"
+      },
+
+      {
+            "type": "heading",
+            "heading": "Repair options, and how we price them",
+            "level": 2,
+            "content": "Repair options, and how we price them"
+      },
+      {
+            "type": "paragraph",
+            "content": "A spot repair on a single failed joint or a short damaged run is the least expensive outcome, and it is a common one. Which repair your line needs is a question about the pipe with a definite answer, and twenty minutes of video gives it to you, so we look before anyone quotes a replacement."
+      },
+      {
+            "type": "paragraph",
+            "content": "Free sewer camera inspection with any drain clearing. If we are clearing a line for you, the camera goes in afterward at no additional charge and you watch the footage with the technician. We made it free on purpose: a clearing without a look inside is how homeowners end up paying for the same clearing three times before anyone tells them the pipe was the problem."
+      },
+      {
+            "type": "paragraph",
+            "content": "We install cured-in-place pipe with the HammerHead D125-QL QuickLok inversion drum system, the same professional-grade CIPP equipment used by certified trenchless contractors across North America. The liner is saturated with a two-part epoxy resin, inserted through an existing cleanout, and cured against the old pipe wall into a seamless, jointless pipe rated for more than 50 years of service. Joints are where roots enter and where cast iron fails first, and a cured liner does not have any."
+      },
+      {
+            "type": "paragraph",
+            "content": "One contractor for prep, repair and cleanup. When a sewer line is dug out from under a patio, someone has to break the concrete, someone has to replace the pipe, someone has to pour it back, and someone has to put the landscaping right. Hired as three or four separate jobs, every delay becomes an argument about whose fault it is. We do all of it ourselves, so one company is accountable for the finished result."
+      },
+      {
+            "type": "paragraph",
+            "content": "Financing is available, and we will go over the options with you on the phone before a technician is scheduled, so you know what a monthly payment looks like rather than only a lump sum. Nobody budgets for a sewer line, and a line leaking under a slab does not get cheaper by waiting."
       }
     ]
   },
