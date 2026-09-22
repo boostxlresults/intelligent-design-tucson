@@ -25,9 +25,9 @@ Understanding AC installation costs helps you budget appropriately and evaluate 
 
 | System Type | Cost Range |
 |------------|-----------|
-| Central AC (standard efficiency) | $7,000 - $12,000 |
-| Central AC (high efficiency) | $10,000 - $18,000 |
-| Heat Pump | $8,000 - $15,000 |
+| Central AC (standard efficiency) | $4,800 - $8,500 |
+| Central AC (high efficiency) | $6,500 - $11,000 |
+| Heat Pump | $7,000 - $14,000 |
 | Ductless Mini-Split (single zone) | $3,000 - $6,000 |
 | Ductless Mini-Split (multi-zone) | $8,000 - $20,000 |
 

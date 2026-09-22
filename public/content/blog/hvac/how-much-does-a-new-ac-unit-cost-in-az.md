@@ -23,8 +23,17 @@ canonicalUrl: 'https://www.idesignac.com/blog/hvac/how-much-does-a-new-ac-unit-c
 
 Choosing to install a new air conditioning unit is a big decision. Not only do you have to think about the size of the unit and the features you want, but you also need to factor in the cost. In Arizona, the cost of a new AC unit can vary depending on the type of unit, its features, and the company you choose to install it.
 
-The cost to replace or install your air conditioning in Tucson typically ranges from $7,000 to $25,000, depending on the type of unit needed to cool your space and its energy efficiency rating. This price includes both the unit and professional installation, ensuring you get maximum performance from day one.  
-**Please note:** This estimate does not include any additional ductwork that may be required to accommodate your new system.
+Updated for 2026: installed prices in Tucson run from about $4,800 for a small standard-efficiency system to around $14,000 for a large high-efficiency heat pump, and most Tucson homes land between $6,500 and $11,000. That includes the equipment, the permit and haul-away.
+
+| System size (home) | Standard efficiency (14-15 SEER2) | High efficiency (17+ SEER2) | Heat pump (high efficiency) |
+|---|---|---|---|
+| 2 to 2.5 ton (up to ~1,500 sq ft) | $4,800 - $6,500 | $6,500 - $8,500 | $7,000 - $9,500 |
+| 3 to 3.5 ton (1,500-2,200 sq ft) | $5,500 - $7,500 | $7,500 - $9,500 | $8,000 - $11,000 |
+| 4 to 5 ton (2,200-3,000+ sq ft) | $6,500 - $8,500 | $8,500 - $11,000 | $9,500 - $14,000 |
+
+**Please note:** these are list prices before any current promotion, and they do not include ductwork repairs ($300-$800), major duct changes ($1,500-$4,000) or an electrical panel upgrade ($1,500-$3,000) if your home needs them.
+
+For the full breakdown of what is and is not in the price, and how to compare quotes like for like, see [what a new AC really costs in Tucson](/lp/new-ac-unit-cost-tucson).
 
 In this article, we’ll break down the different factors that affect the cost of a new air conditioning unit so that you can make an informed decision about what’s best for your home.
 

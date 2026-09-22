@@ -26,8 +26,8 @@ const COSTS = [
   },
   {
     label: "Trenchless relining",
-    price: "Priced after the free camera inspection",
-    desc: "A new pipe cured inside the old one. We price it once we have seen the line, because the number depends on length, diameter and condition. What we will commit to in advance: relining is always less than digging the same line out from under the home, because the dig price has to include putting the slab and the yard back.",
+    price: "Most jobs $4,000 to $9,000",
+    desc: "A new pipe cured inside the old one. Most Tucson relining jobs land between $4,000 and $9,000, and a short run through an accessible cleanout can come in under that. The number depends on length, diameter and condition, which is why we confirm it after the camera goes in. What we will commit to in advance: relining is always less than digging the same line out from under the home, because the dig price has to include putting the slab and the yard back."
   },
   {
     label: "Dig and replace",
@@ -85,7 +85,7 @@ const REVIEWS = [
 const FAQ = [
   {
     q: "How much does sewer line replacement cost in Tucson?",
-    a: "Dig-and-replace generally runs somewhere between $4,500 and $15,000, and the pipe itself is a small part of that. What moves the number is depth, the length of the run, and what has to be removed and rebuilt on top of it. Anything running under the house is the most expensive scenario there is. A spot repair on a single bad section is the least expensive. Trenchless relining is priced after the free camera inspection, and it is always less than digging the same line out from under a home.",
+    a: "Dig-and-replace generally runs somewhere between $4,500 and $15,000, and the pipe itself is a small part of that. What moves the number is depth, the length of the run, and what has to be removed and rebuilt on top of it. Anything running under the house is the most expensive scenario there is. A spot repair on a single bad section is the least expensive. Trenchless relining runs between $4,000 and $9,000 on most Tucson homes, confirmed after the free camera inspection, and it is always less than digging the same line out from under a home.",
   },
   {
     q: "Why are two quotes for the same job so far apart?",
