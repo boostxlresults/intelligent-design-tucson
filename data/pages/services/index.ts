@@ -25,7 +25,6 @@ export { commercialroofinstallationData } from './commercialroofinstallation';
 export { commercialroofrepairData } from './commercialroofrepair';
 export { commercialroofreplacementData } from './commercialroofreplacement';
 export { commercialsolarinstallationData } from './commercialsolarinstallation';
-export { coronadetucsonData } from './coronadetucson';
 export { cortaroData } from './cortaro';
 export { customerreviewsData } from './customerreviews';
 export { drainclearingData } from './drainclearing';
@@ -75,7 +74,6 @@ export { ductlessminisplitinstallationData } from './ductlessminisplitinstallati
 export { ductlessminisplitrepairData } from './ductlessminisplitrepair';
 export { ductrepairData } from './ductrepair';
 export { ductsealingData } from './ductsealing';
-export { easttucsonData } from './easttucson';
 export { electricalavravalleyData } from './electricalavravalley';
 export { electricalcasasadobesData } from './electricalcasasadobes';
 export { electricalcatalinafoothillsData } from './electricalcatalinafoothills';

@@ -13,8 +13,8 @@ const PHONE = CAMPAIGN_PHONES["/lp/trenchless-sewer-repair"];
 const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Veteran & Family Owned Since 1979";
 
 export const metadata: Metadata = {
-  title: "Trenchless Sewer Repair Tucson | No Digging, Lifetime Warranty",
-  description: "Trenchless sewer repair in Tucson. A new pipe cured inside your old one, no trench through the yard or slab. Lifetime warranty, most jobs in 1 to 4 days, financing available.",
+  title: "Trenchless Sewer Repair Tucson | No Digging, 50-Year Warranty",
+  description: "Trenchless sewer repair in Tucson. A new pipe cured inside your old one, no trench through the yard or slab. 50-year transferable warranty, most jobs in 1 to 4 days, financing available.",
   // noindex,follow (2026-09-21). This page has an 8,000-word sibling at
   // /services/trenchless-repair targeting the same query. Two indexable pages from one
   // domain on one intent is how the wrong one ends up ranking, and the
@@ -103,7 +103,7 @@ const FAQ = [
   },
   {
     q: "How long does a pipe liner last?",
-    a: "The HammerHead liner we install is rated for more than 50 years and carries a lifetime warranty. The cured liner is a seamless pipe with no joints, which matters because joints are exactly where roots enter and where cast iron starts to fail. It is also smoother than the original pipe wall, so it is less prone to catching debris.",
+    a: "The HammerHead liner we install is rated for more than 50 years of service and carries a 50-year transferable warranty, which stays with the house if you sell it. Our workmanship carries a lifetime warranty on top of that. The cured liner is a seamless pipe with no joints, which matters because joints are exactly where roots enter and where cast iron starts to fail. It is also smoother than the original pipe wall, so it is less prone to catching debris.",
   },
   {
     q: "Can every sewer line be relined?",
@@ -146,8 +146,8 @@ export default function TrenchlessSewerRepairLp() {
           <div className="mx-auto mt-5 grid max-w-2xl gap-3 sm:grid-cols-3">
             <div className="rounded-xl border border-border bg-card p-4">
               <ShieldCheck className="mx-auto h-6 w-6 text-[#C8101F]" />
-              <p className="mt-1.5 text-[15px] font-bold text-foreground">Lifetime warranty</p>
-              <p className="text-[14px] text-muted-foreground">HammerHead liner, rated 50+ years</p>
+              <p className="mt-1.5 text-[15px] font-bold text-foreground">50-year transferable warranty</p>
+              <p className="text-[14px] text-muted-foreground">On the liner, plus lifetime on our workmanship</p>
             </div>
             <div className="rounded-xl border border-border bg-card p-4">
               <Clock className="mx-auto h-6 w-6 text-[#C8101F]" />
@@ -269,9 +269,9 @@ export default function TrenchlessSewerRepairLp() {
           <div className="grid gap-4 sm:grid-cols-2">
             <div className="rounded-xl border border-border bg-card p-6">
               <ShieldCheck className="h-7 w-7 text-[#C8101F]" />
-              <h2 className="mt-2 text-xl font-bold text-primary">Lifetime warranty on the liner</h2>
+              <h2 className="mt-2 text-xl font-bold text-primary">50-year transferable warranty on the liner</h2>
               <p className="mt-2 text-[16px] leading-relaxed text-muted-foreground">
-                We install HammerHead liner, which is rated for more than 50 years of service and carries a lifetime warranty. That warranty is ours to honor, not a manufacturer form you mail off and hope about. We have been a Tucson company since 1979, which is the part that makes a lifetime warranty mean something.
+                We install HammerHead liner, which is rated for more than 50 years of service and carries a 50-year transferable warranty. Transferable matters more than it sounds: it stays with the house, so it is worth something to a buyer if you sell. Our own workmanship carries a lifetime warranty on top of that. Both are ours to honor, not a manufacturer form you mail off and hope about, and we have been a Tucson company since 1979, which is the part that makes a long warranty mean anything.
               </p>
             </div>
             <div className="rounded-xl border border-border bg-card p-6">

@@ -110,7 +110,7 @@ export const sewercamerainspectionData: ServicePageData = {
       },
       {
             "type": "paragraph",
-            "content": "If the camera finds a defect the pipe can be repaired from the inside, relining is the usual next step. We install cured-in-place pipe with the HammerHead D125-QL QuickLok inversion drum system, the same professional-grade CIPP equipment used by certified trenchless contractors across North America. The liner is saturated with a two-part epoxy resin, inserted through an existing cleanout, and cured against the old pipe wall into a seamless, jointless pipe rated for more than 50 years of service. Joints are where roots enter and where cast iron fails first, and a cured liner does not have any."
+            "content": "If the camera finds a defect the pipe can be repaired from the inside, relining is the usual next step. We install cured-in-place pipe with the HammerHead D125-QL QuickLok inversion drum system, the same professional-grade CIPP equipment used by certified trenchless contractors across North America. The liner is saturated with a two-part epoxy resin, inserted through an existing cleanout, and cured against the old pipe wall into a seamless, jointless pipe rated for more than 50 years of service. The liner carries a 50-year transferable warranty, which stays with the house if you sell it, and our workmanship carries a lifetime warranty. Joints are where roots enter and where cast iron fails first, and a cured liner does not have any."
       },
       {
             "type": "paragraph",

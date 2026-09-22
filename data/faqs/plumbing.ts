@@ -716,7 +716,7 @@ export const trenchlessRepairFAQs: ServiceFAQs = {
     },
     {
       question: "What warranty comes with trenchless pipe repair?",
-      answer: "We provide comprehensive warranties on trenchless repairs, typically 10-25 years on workmanship depending on repair method. Epoxy lining manufacturers often provide 50-year material warranties. We stand behind the quality and longevity of trenchless solutions and will clearly explain all warranty terms before work begins."
+      answer: "Two warranties, and they cover different things. The HammerHead liner we install carries a 50-year transferable warranty, which stays with the house if you sell it, so it is worth something to a buyer. Our own workmanship carries a lifetime warranty. Both are ours to honor rather than a manufacturer form you mail off, and we go through the terms with you before any work begins."
     }
   ]
 };

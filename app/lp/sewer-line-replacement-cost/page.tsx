@@ -60,7 +60,7 @@ const QUOTE_CHECKS = [
   },
   {
     title: "5. What is the warranty, and who honors it?",
-    desc: "Get the term in writing and find out whether it covers the pipe, the labor, or both, and what happens to it if the company is sold or closes. Our HammerHead liner carries a lifetime warranty, and we have been in Tucson since 1979, which is the part that makes a long warranty worth anything.",
+    desc: "Get the term in writing and find out whether it covers the pipe, the labor, or both, and what happens to it if the company is sold or closes. Our HammerHead liner carries a 50-year transferable warranty that stays with the house if you sell, and our workmanship carries a lifetime warranty. We have been in Tucson since 1979, which is the part that makes a long warranty worth anything.",
   },
 ];
 

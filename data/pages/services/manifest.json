@@ -60,10 +60,6 @@
       "dataFile": "commercialsolarinstallation",
       "canonicalSlug": "commercial-solar-installation"
     },
-    "corona-de-tucson": {
-      "dataFile": "coronadetucson",
-      "canonicalSlug": "corona-de-tucson"
-    },
     "cortaro": {
       "dataFile": "cortaro",
       "canonicalSlug": "cortaro"
@@ -255,10 +251,6 @@
     "duct-sealing-tucson": {
       "dataFile": "ductsealing",
       "canonicalSlug": "duct-sealing-tucson"
-    },
-    "east-tucson": {
-      "dataFile": "easttucson",
-      "canonicalSlug": "east-tucson"
     },
     "electrical-avra-valley": {
       "dataFile": "electricalavravalley",
@@ -1096,7 +1088,6 @@
     "commercialroofrepair": "commercial-roof-repair",
     "commercialroofreplacement": "commercial-roof-replacement",
     "commercialsolarinstallation": "commercial-solar-installation",
-    "coronadetucson": "corona-de-tucson",
     "customerreviews": "customer-reviews",
     "drainclearing": "drain-clearing",
     "drainclearingavravalley": "drain-clearing-avra-valley",
@@ -1145,7 +1136,6 @@
     "ductlessminisplitrepair": "ductless-repair-tucson",
     "ductrepair": "duct-repair-tucson",
     "ductsealing": "duct-sealing-tucson",
-    "easttucson": "east-tucson",
     "electricalavravalley": "electrical-avra-valley",
     "electricalcasasadobes": "electrical-casas-adobes",
     "electricalcatalinafoothills": "electrical-catalina-foothills",
