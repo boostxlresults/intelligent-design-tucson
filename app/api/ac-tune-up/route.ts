@@ -16,6 +16,9 @@ const formSchema = z.object({
   zip: z.string().max(12).trim().optional().default(''),
   email: z.string().max(160).trim().optional().default(''),
   preferredDay: z.string().max(40).trim().optional().default(''),
+  /** Which tune-up offer this lead came from. Defaults to the original $28.88
+   *  so /ac-tune-up-2888 keeps its exact current behavior. */
+  offerLabel: z.string().max(24).trim().optional().default('$28.88'),
   submissionId: z.string().max(80).trim().optional().default(''),
   gclid: z.string().max(200).trim().optional().default(''),
   gbraid: z.string().max(200).trim().optional().default(''),
@@ -42,7 +45,7 @@ function esc(t: string): string {
 
 /** Human-readable description; dedicated attribution fields carry gclid/utm/landingPage. */
 function buildDescription(d: Lead): string {
-  const parts = [`$28.88 86-Point AC Tune-Up request (residential).`];
+  const parts = [`${d.offerLabel} 86-Point AC Tune-Up request (residential).`];
   if (d.preferredDay) parts.push(`Preferred day: ${d.preferredDay}.`);
   const extra: string[] = [];
   if (d.gbraid) extra.push(`gbraid=${d.gbraid}`);
@@ -73,7 +76,7 @@ async function postToSpeedToLead(d: Lead): Promise<{ ok: boolean; status?: numbe
     address: '',
     serviceType: 'HVAC',
     jobType: 'tune-up',
-    formName: 'AC Tune-Up $28.88 LP',
+    formName: `AC Tune-Up ${d.offerLabel} LP`,
     ...attr,
     description: buildDescription(d),
     id: `actuneup-${d.submissionId || randomUUID()}`,
@@ -123,7 +126,7 @@ export async function POST(request: NextRequest) {
 
   const htmlBody = `
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
-      <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">$28.88 AC Tune-Up Request</h1></div>
+      <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">${d.offerLabel} AC Tune-Up Request</h1></div>
       <div style="padding:20px;background:#f5f5f5;">
         <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Paid-social lead</strong> - 86-point tune-up (residential). Call to confirm ASAP; collect street address on the call.</div>
         <table style="width:100%;border-collapse:collapse;">${rows}</table>
@@ -131,10 +134,10 @@ export async function POST(request: NextRequest) {
       </div>
     </div>`.trim();
 
-  const textBody = `$28.88 AC Tune-Up Request\nName: ${d.name}\nPhone: ${d.phone}\nEmail: ${d.email || '-'}\nZIP: ${d.zip || '-'}\nPreferred day: ${d.preferredDay || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}`;
+  const textBody = `${d.offerLabel} AC Tune-Up Request\nName: ${d.name}\nPhone: ${d.phone}\nEmail: ${d.email || '-'}\nZIP: ${d.zip || '-'}\nPreferred day: ${d.preferredDay || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}`;
 
   const [emailResult, stlResult] = await Promise.allSettled([
-    sendEmail({ to: 'csrteam@idesignac.com', subject: `AC Tune-Up ($28.88): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `AC Tune-Up (${d.offerLabel}): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || 'no pref'})`, htmlBody, textBody }),
     postToSpeedToLead(d),
   ]);
 

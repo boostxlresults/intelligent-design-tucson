@@ -147,6 +147,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     '/lp/sewer-line-replacement-cost',
     '/lp/drain-keeps-clogging',
     '/lp/new-ac-unit-cost-tucson',
+    '/lp/15-tune-up',
   ];
 
   corePages.forEach((page) => {

@@ -62,6 +62,8 @@ export const CAMPAIGN_PHONES: Record<string, CampaignPhone> = {
   "/lp/drain-keeps-clogging": { ...DNI_SOURCE_PHONE },
   // HVAC-Install-2026-08 cost page (brief 2026-09-22).
   "/lp/new-ac-unit-cost-tucson": { ...DNI_SOURCE_PHONE },
+  // 15th Anniversary $15 Factory Refresh tune-up campaign (brief 2026-09-23).
+  "/lp/15-tune-up": { ...DNI_SOURCE_PHONE },
   "/lp/water-leak-detection": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 812-3494" },
   "/drain-clearing-4888": { ...DNI_SOURCE_PHONE, campaignNumber: "(520) 348-6684" },
 };
