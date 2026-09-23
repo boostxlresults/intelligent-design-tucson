@@ -14,7 +14,7 @@ const PHONE = CAMPAIGN_PHONES["/lp/new-ac-unit-cost-tucson"];
 const TRUST = "23,000+ Five-Star Reviews · A+ BBB · Licensed & Insured · Veteran & Family Owned Since 1979";
 
 export const metadata: Metadata = {
-  title: "New AC Unit Cost in Tucson | Real 2026 Installed Prices",
+  title: "New AC Unit Cost in Tucson (2026 Prices) | Intelligent Design",
   description: "What a new AC really costs in Tucson in 2026, by system size and efficiency, installed. What the price includes, how to compare quotes, and up to $5,000 off right now.",
   alternates: { canonical: "https://www.idesignac.com/lp/new-ac-unit-cost-tucson" },
 };
@@ -34,6 +34,7 @@ const INCLUDED = [
   "Sealing and connecting to your existing ductwork at the plenum",
   "Removal and haul-away of the old system and all packaging",
   "Startup, refrigerant charge verification and an airflow check",
+  "A free energy audit with every in-home estimate, so the efficiency number means something",
 ];
 
 const NOT_INCLUDED = [
@@ -65,7 +66,7 @@ const REVIEWS = [
 const FAQ = [
   {
     q: "How much does a new AC cost in Tucson?",
-    a: "Most Tucson homes land between $6,500 and $11,000 installed, and the full range runs from about $4,800 for a small standard-efficiency system up to around $14,000 for a large high-efficiency heat pump. Those are installed prices including the permit and haul-away, before any current promotion. What moves the number is system size, efficiency tier, and whether your ductwork and electrical panel need work. The table on this page breaks it out by home size so you can find yours rather than averaging everyone else's house with your own.",
+    a: "New HVAC system cost in Tucson is the same question by a different name, and the answer is the same. Most Tucson homes land between $6,500 and $11,000 installed, and the full range runs from about $4,800 for a small standard-efficiency system up to around $14,000 for a large high-efficiency heat pump. Those are installed prices including the permit and haul-away, before any current promotion. What moves the number is system size, efficiency tier, and whether your ductwork and electrical panel need work, which is why a single quoted hvac replacement cost with no sizing behind it is worth very little. The table on this page breaks it out by home size so you can find yours rather than averaging everyone else's house with your own.",
   },
   {
     q: "How long does an AC last in Arizona?",
@@ -89,29 +90,43 @@ const FAQ = [
   },
 ];
 
+/** The offer, worded exactly as the ad headlines word it. Rendered in the hero and
+ *  again above the primary CTA. Every asterisk anchors to #offer-details, which sits
+ *  directly under the price table - not in the footer, because a reviewer and a
+ *  homeowner both need to find it without hunting. */
+function OfferStrip() {
+  return (
+    <div className="mx-auto mt-4 max-w-2xl rounded-xl border-2 border-[#C8101F] bg-[#C8101F]/5 px-5 py-4">
+      <div className="flex items-center justify-center gap-2">
+        <Tag className="h-6 w-6 shrink-0 text-[#C8101F]" />
+        <p className="text-[18px] font-extrabold leading-snug text-primary sm:text-[20px]">
+          Inventory Cleanout Special: up to $5,000 off select systems<a href="#offer-details" className="text-[#C8101F] underline">*</a>
+        </p>
+      </div>
+      <p className="mt-1.5 text-[15px] font-bold leading-snug text-foreground">
+        0% APR financing<a href="#offer-details" className="text-[#C8101F] underline">*</a> &middot;{" "}
+        No payments until 2028<a href="#offer-details" className="text-[#C8101F] underline">*</a> &middot;{" "}
+        Free in-home estimate and free energy audit
+      </p>
+    </div>
+  );
+}
+
 export default function NewAcUnitCostTucsonLp() {
   return (
     <>
-      <LpStickyCall />
+      <LpStickyCall secondaryHref="#free-estimate" secondaryLabel="Free estimate" />
 
       {/* Hero */}
       <section className="px-4 py-6 sm:py-9">
         <div className="mx-auto max-w-3xl text-center">
-          <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">Tucson AC replacement pricing</p>
+          <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">New AC cost? Here&rsquo;s why.</p>
           <h1 className="mt-2 text-3xl font-extrabold leading-tight text-primary sm:text-4xl">
             What a New AC Really Costs in Tucson (2026 Prices, Nothing Hidden)
           </h1>
 
-          {/* Offer banner */}
-          <div className="mx-auto mt-4 max-w-xl rounded-xl border-2 border-[#C8101F] bg-[#C8101F]/5 p-5">
-            <Tag className="mx-auto h-7 w-7 text-[#C8101F]" />
-            <p className="mt-1.5 text-[20px] font-extrabold leading-tight text-primary sm:text-[22px]">
-              Inventory Cleanout Special: up to $5,000 off
-            </p>
-            <p className="mt-1.5 text-[15px] font-semibold text-muted-foreground">
-              No payments until 2028 &middot; 0% financing &middot; Free in-home replacement estimate
-            </p>
-          </div>
+          {/* Offer strip. Every line here is an ad headline; keep the wording in sync. */}
+          <OfferStrip />
 
           <a
             href={`tel:${PHONE.tel}`}
@@ -120,8 +135,11 @@ export default function NewAcUnitCostTucsonLp() {
           >
             <Phone className="h-7 w-7" /> {PHONE.display}
           </a>
-          <p className="mt-3 text-[16px] font-semibold text-foreground">
-            Free in-home replacement estimate &middot; Free energy audit &middot; 42 trucks across Tucson
+          <p className="mt-3 text-[17px] font-bold text-foreground">
+            Most Tucson homes land between $6,500 and $11,000 installed. Full table below.
+          </p>
+          <p className="mt-2 text-[16px] font-semibold text-muted-foreground">
+            Free In-Home Replacement Estimate &middot; Free energy audit &middot; 42 trucks across Tucson
           </p>
           <p className="mt-3 inline-flex items-center gap-1.5 text-[14px] font-semibold text-muted-foreground">
             <Star className="h-4 w-4 fill-yellow-400 text-yellow-400" /> {TRUST}
@@ -134,7 +152,7 @@ export default function NewAcUnitCostTucsonLp() {
         <div className="mx-auto max-w-4xl">
           <h2 className="text-2xl font-bold text-primary sm:text-3xl">2026 installed prices by system size</h2>
           <p className="mt-2 text-[17px] text-muted-foreground">
-            Installed, including the permit and haul-away. These are list prices before the Inventory Cleanout Special, so what you actually pay is lower.
+            AC installation in Tucson, priced installed and including the permit and haul-away. These are list prices before the Inventory Cleanout Special, so what you actually pay is lower.
           </p>
 
           <div className="mt-6 overflow-x-auto rounded-xl border border-border">
@@ -165,8 +183,26 @@ export default function NewAcUnitCostTucsonLp() {
           </div>
 
           <p className="mt-4 text-[16px] leading-relaxed text-muted-foreground">
-            Most Tucson homes land between $6,500 and $11,000 installed. Ductwork repairs ($300 to $800), major duct changes ($1,500 to $4,000) or an electrical panel upgrade ($1,500 to $3,000) are the usual reasons a quote runs higher.
+            Most Tucson homes land between $6,500 and $11,000 installed. Ductwork repairs ($300 to $800), major duct changes ($1,500 to $4,000) or an electrical panel upgrade ($1,500 to $3,000) are the usual reasons a quote runs higher than the row for your home size.
           </p>
+
+          <p className="mt-3 text-[16px] leading-relaxed text-muted-foreground">
+            The estimate you sign is the price you pay. A change order only happens if you ask us to change something.
+          </p>
+
+          {/* Offer details. Deliberately normal body size and directly under the table. */}
+          <div id="offer-details" className="mt-6 scroll-mt-4 rounded-xl border border-border bg-card p-6">
+            <h3 className="text-[19px] font-bold text-foreground">Offer details</h3>
+            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
+              <strong className="text-foreground">Inventory Cleanout Special:</strong> up to $5,000 off list price on select in-stock systems. The discount varies by system and the exact amount is shown on your written estimate. Cannot be combined with other offers.
+            </p>
+            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
+              <strong className="text-foreground">Financing:</strong> 0% APR financing and no payments until 2028 are available on approved credit. The promotional period, any minimum purchase, and the terms that apply after the promotional period are disclosed in your financing agreement before you sign anything. Ask us for full terms and we will go through them with you in plain language.
+            </p>
+            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
+              <strong className="text-foreground">Free in-home replacement estimate and free energy audit:</strong> no purchase required, for residential customers inside our service area.
+            </p>
+          </div>
 
           <div className="mt-6 rounded-xl bg-[#0d1b3e] p-6 text-center text-white">
             <p className="text-xl font-bold">Want your actual number, not a range?</p>
@@ -181,7 +217,7 @@ export default function NewAcUnitCostTucsonLp() {
       {/* What is and is not included */}
       <section className="bg-muted/30 px-4 py-10">
         <div className="mx-auto max-w-4xl">
-          <h2 className="text-2xl font-bold text-primary sm:text-3xl">What the price includes, and what it does not</h2>
+          <h2 className="text-2xl font-bold text-primary sm:text-3xl">What&rsquo;s included in these prices</h2>
           <p className="mt-2 text-[17px] text-muted-foreground">
             Quotes are only comparable when they cover the same work. Here is exactly what is inside our number.
           </p>
@@ -218,7 +254,7 @@ export default function NewAcUnitCostTucsonLp() {
           <div className="mt-6 rounded-xl border border-border bg-card p-6">
             <div className="flex items-center gap-2">
               <ClipboardCheck className="h-6 w-6 text-[#C8101F]" />
-              <h3 className="text-[19px] font-bold text-foreground">If a quote comes in well under these numbers, ask what was left out</h3>
+              <h2 className="text-[19px] font-bold text-foreground sm:text-2xl">How to compare quotes like for like</h2>
             </div>
             <p className="mt-2 text-[16px] leading-relaxed text-muted-foreground">
               A number far below this table is usually not a better deal, it is a different scope. The things most often missing are the permit and inspection, the crane on a roof unit, a new pad or curb, the thermostat, duct sealing at the plenum, and haul-away of the old equipment. Sometimes it is the equipment itself: a builder-grade unit or a mismatched indoor and outdoor pairing that never hits its rated efficiency. Ask any contractor to put those eight lines in writing and the quotes become comparable in about a minute.
@@ -235,7 +271,7 @@ export default function NewAcUnitCostTucsonLp() {
         <div className="mx-auto max-w-3xl">
           <div className="flex items-center gap-2">
             <Wrench className="h-6 w-6 text-[#C8101F]" />
-            <h2 className="text-2xl font-bold text-primary sm:text-3xl">Repair or replace: the honest rule of thumb</h2>
+            <h2 className="text-2xl font-bold text-primary sm:text-3xl">Repair or replace? The honest rule of thumb</h2>
           </div>
           <p className="mt-2 text-[17px] text-muted-foreground">
             Not everyone reading a price table needs a new system. Here is how we decide, and we will tell you when the answer is repair.
@@ -317,15 +353,32 @@ export default function NewAcUnitCostTucsonLp() {
         </div>
       </section>
 
+      {/* Second-opinion angle. This is a description line in the ad and the
+          highest-intent visitor on the page. */}
+      <section className="border-t border-border px-4 py-10">
+        <div className="mx-auto max-w-3xl">
+          <h2 className="text-2xl font-bold text-primary sm:text-3xl">Told you need a new AC? Get a second look before you sign</h2>
+          <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
+            If another company has already told you the system has to be replaced, get a second opinion before you commit five figures to it. We will look at the same system, tell you whether it is genuinely at end of life or has a repair left in it, and put the ac replacement cost in writing either way. Plenty of the systems we are called out to look at turn out to need a repair, and we say so.
+          </p>
+          <a href={`tel:${PHONE.tel}`} className="mx-auto mt-5 flex min-h-[56px] w-full max-w-sm items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-xl font-extrabold text-white shadow-lg hover:brightness-110">
+            <Phone className="h-6 w-6" /> Get a second look before you sign
+          </a>
+        </div>
+      </section>
+
       <LpProof reviews={REVIEWS} />
 
       {/* CTA with form */}
-      <section className="bg-[#0d1b3e] px-4 py-10 text-white">
+      <section id="free-estimate" className="scroll-mt-4 bg-[#0d1b3e] px-4 py-10 text-white">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-extrabold">Free In-Home Replacement Estimate</h2>
           <p className="mt-2 text-lg text-white/85">
             Real load calculation, your actual price, and the cleanout discount applied. No obligation.
           </p>
+          <div className="text-primary">
+            <OfferStrip />
+          </div>
           <div className="mt-5 flex flex-col items-center gap-3">
             <a href={`tel:${PHONE.tel}`} className="flex min-h-[56px] w-full max-w-sm items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-6 py-4 text-xl font-extrabold text-white shadow-lg hover:brightness-110">
               <Phone className="h-6 w-6" /> Call {PHONE.display}
