@@ -180,6 +180,18 @@ export default function Footer() {
           *AC replacement and installation estimates are 100% free. All roofing estimates are 100% free. Electrical panel, solar, and battery estimates are 100% free. Water heater installation, re-pipe, and water filtration estimates are 100% free. For all other services, diagnostic and estimate fees are waived when you move forward with the repair.
         </p>
 
+        {/* Financing disclaimer (sitewide). Uses the same legal name as the
+            copyright line below so the footer does not introduce a third company
+            name. The platform-average approval-rate sentence from the source copy
+            was dropped: no such claim appears anywhere on the site, and Joey's
+            instruction was to include it only if it does. */}
+        <p
+          id="financing-disclaimer"
+          className="scroll-mt-32 mb-6 text-[13px] leading-relaxed text-primary-foreground/70"
+        >
+          Intelligent Design Air Conditioning, Plumbing, Solar, &amp; Electric is a home improvement contractor and is not a lender, broker, or financial institution. Financing, loan programs, and lease-to-own options are provided through third-party lending partners integrated within the OPTIMUS Financing marketplace platform. All financing offers, terms (including APR, fees, and monthly payments), and approvals are subject to credit evaluation, underwriting criteria, and final approval by the respective independent lender. Intelligent Design Air Conditioning, Plumbing, Solar, &amp; Electric does not establish credit terms or make credit decisions.
+        </p>
+
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60" suppressHydrationWarning>

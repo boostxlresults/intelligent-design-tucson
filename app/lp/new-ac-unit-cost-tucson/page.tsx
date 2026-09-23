@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Phone, Star, Check, X, Tag, CreditCard, Wrench, ClipboardCheck } from "lucide-react";
 import { CAMPAIGN_PHONES } from "@/lib/campaignPhones";
-import { HVACInventoryForm } from "@/components/forms/HVACInventoryForm";
+import { AcReplacementEstimateForm } from "@/components/forms/AcReplacementEstimateForm";
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 import LpProof from "@/components/lp/LpProof";
 import LpServiceArea from "@/components/lp/LpServiceArea";
@@ -190,17 +190,12 @@ export default function NewAcUnitCostTucsonLp() {
             The estimate you sign is the price you pay. A change order only happens if you ask us to change something.
           </p>
 
-          {/* Offer details. Deliberately normal body size and directly under the table. */}
+          {/* Offer details. Copy is verbatim from Joey 2026-09-23. Stays directly
+              under the table at normal body size; both offer strips anchor here. */}
           <div id="offer-details" className="mt-6 scroll-mt-4 rounded-xl border border-border bg-card p-6">
             <h3 className="text-[19px] font-bold text-foreground">Offer details</h3>
             <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
-              <strong className="text-foreground">Inventory Cleanout Special:</strong> up to $5,000 off list price on select in-stock systems. The discount varies by system and the exact amount is shown on your written estimate. Cannot be combined with other offers.
-            </p>
-            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
-              <strong className="text-foreground">Financing:</strong> 0% APR financing and no payments until 2028 are available on approved credit. The promotional period, any minimum purchase, and the terms that apply after the promotional period are disclosed in your financing agreement before you sign anything. Ask us for full terms and we will go through them with you in plain language.
-            </p>
-            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
-              <strong className="text-foreground">Free in-home replacement estimate and free energy audit:</strong> no purchase required, for residential customers inside our service area.
+              *Inventory Cleanout Special: up to $5,000 off list price on select in-stock systems; the discount is shown on your written estimate. 0% APR financing and no payments until 2028 on approved credit through third-party lending partners on the OPTIMUS Financing platform; term, minimum purchase and monthly payment are set by the lender at approval. Offers for residential customers in our service area, cannot be combined with other offers, subject to change. Ask an Intelligent Design Customer Care team member for full details.
             </p>
           </div>
 
@@ -389,7 +384,7 @@ export default function NewAcUnitCostTucsonLp() {
           </div>
         </div>
         <div className="mx-auto mt-8 max-w-xl">
-          <HVACInventoryForm />
+          <AcReplacementEstimateForm />
         </div>
       </section>
 
