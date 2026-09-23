@@ -74,7 +74,10 @@ import {
 import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
 import Image from "next/image";
 
-const logoUrl = "/logo.png";
+// Dark-surface lockup. The header is navy, so the drop-shadow version reads
+// correctly here. Do NOT reuse this on a light background: the silver letters
+// have almost no contrast on white without the black keyline variant.
+const logoUrl = "/logo-home-services.png";
 
 export default function Header() {
   const pathname = usePathname();
@@ -396,10 +399,10 @@ export default function Header() {
             <a href="/" className="block" data-testid="link-home">
               <Image
                 src={logoUrl}
-                alt="Intelligent Design Air Conditioning, Plumbing, Solar, & Electric company logo"
-                width={400}
-                height={80}
-                className="h-16 md:h-20 w-auto"
+                alt="Intelligent Design Home Services logo"
+                width={1202}
+                height={620}
+                className="h-20 md:h-24 w-auto"
                 style={{ width: 'auto' }}
                 priority
               />

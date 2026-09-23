@@ -8,7 +8,8 @@ import { ObfuscatedEmail } from "@/components/ui/obfuscated-email";
 import FooterPhoneLink from "@/components/layout/FooterPhoneLink";
 import LocationMap from "@/components/content/LocationMap";
 
-const logoUrl = "/logo.png";
+// Dark-surface lockup, same constraint as the header: navy only.
+const logoUrl = "/logo-home-services.png";
 
 const socialLinks = [
   { name: "Facebook", href: "https://www.facebook.com/IntelligentDesignAC", icon: SiFacebook },
@@ -51,10 +52,10 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Image
               src={logoUrl}
-              alt="Intelligent Design Tucson"
-              width={240}
-              height={48}
-              className="h-12 w-auto mb-4"
+              alt="Intelligent Design Home Services logo"
+              width={1202}
+              height={620}
+              className="h-16 w-auto mb-4"
               style={{ width: 'auto' }}
               loading="lazy"
             />
