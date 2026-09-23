@@ -169,7 +169,7 @@ export default function TuneUp15Lp() {
             $15. No trip fee. No upsell pressure. Written findings before any repair is recommended.
           </p>
           <p className="mt-1.5 text-[16px] font-semibold text-muted-foreground">
-            New customers only.<a href="#offer-terms" className="ml-0.5 text-[#C8101F] underline">*</a>
+            New customers only.<a href="#offer-terms" className="ml-0.5 text-[#C8101F] underline">*</a> &middot; Same-week appointments available.
           </p>
 
           <p className="mt-4 inline-flex items-center gap-1.5 text-[14px] font-semibold text-muted-foreground">
@@ -255,7 +255,7 @@ export default function TuneUp15Lp() {
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-extrabold">Book your $15 Factory Refresh Tune-Up</h2>
           <p className="mt-2 text-lg text-white/85">
-            Book online in about 60 seconds, or leave your details and a Customer Care team member will call you back.
+            Same-week appointments available. Book online in about 60 seconds, or leave your details and a Customer Care team member will call you back.
           </p>
           <div className="mx-auto mt-5 flex w-full max-w-md flex-col gap-3 sm:flex-row">
             <a href={`tel:${PHONE.tel}`} className="flex min-h-[56px] flex-1 items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-4 py-4 text-lg font-extrabold text-white shadow-lg hover:brightness-110">
