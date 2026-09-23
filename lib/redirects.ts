@@ -180,6 +180,10 @@ export const LEGACY_REDIRECTS: Record<string, string> = {
   '/plumber-tucson/plumbing-maintenance': '/services/plumbing-maintenance',
   '/plumber-tucson/plumbing-maintenance-tucson': '/services/plumbing-maintenance',
   '/plumber-tucson/plumbing-repair-installation-tucson': '/services/plumbing-tucson',
+  // The $28.88 tune-up LP was replaced by the $15 Factory Refresh anniversary
+  // page on 2026-09-23 and nothing points at it any more. Exact-match only, so
+  // /ac-tune-up-2888/confirmed still resolves for any in-flight conversion.
+  '/ac-tune-up-2888': '/lp/15-tune-up',
   '/repipe-specialist-in-tucson': '/services/repipe-tucson',
   '/plumber-tucson/repipe-specialist-tucson': '/services/repipe-tucson',
   '/plumber-tucson/repiping-tucson': '/services/repipe-tucson',
