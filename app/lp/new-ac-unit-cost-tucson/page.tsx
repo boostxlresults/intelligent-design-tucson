@@ -7,6 +7,7 @@ import LpProof from "@/components/lp/LpProof";
 import LpServiceArea from "@/components/lp/LpServiceArea";
 import LpFaq from "@/components/lp/LpFaq";
 import LpStickyCall from "@/components/lp/LpStickyCall";
+import { AC_INSTALL_ROWS, usdRange } from "@/data/pricing";
 
 export const dynamic = "force-dynamic";
 
@@ -19,11 +20,13 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://www.idesignac.com/lp/new-ac-unit-cost-tucson" },
 };
 
-const PRICE_ROWS = [
-  { size: "2 to 2.5 ton", home: "Up to about 1,500 sq ft", std: "$4,800 - $6,500", high: "$6,500 - $8,500", hp: "$7,000 - $9,500" },
-  { size: "3 to 3.5 ton", home: "1,500 to 2,200 sq ft", std: "$5,500 - $7,500", high: "$7,500 - $9,500", hp: "$8,000 - $11,000" },
-  { size: "4 to 5 ton", home: "2,200 to 3,000+ sq ft", std: "$6,500 - $8,500", high: "$8,500 - $11,000", hp: "$9,500 - $14,000" },
-];
+const PRICE_ROWS = AC_INSTALL_ROWS.map((r) => ({
+  size: r.size,
+  home: r.home,
+  std: usdRange(r.std[0], r.std[1]),
+  high: usdRange(r.high[0], r.high[1]),
+  hp: usdRange(r.hp[0], r.hp[1]),
+}));
 
 const INCLUDED = [
   "The equipment itself, matched indoor and outdoor, sized to your home",

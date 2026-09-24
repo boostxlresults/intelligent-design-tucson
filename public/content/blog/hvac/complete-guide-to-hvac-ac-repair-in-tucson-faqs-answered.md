@@ -32,7 +32,7 @@ Repair costs vary widely depending on the problem:
 | Fan motor replacement | $300-600 |
 | Compressor replacement | $1,500-3,000 |
 | Coil replacement | $1,000-2,500 |
-| Complete system replacement | $7,000-25,000 |
+| Complete system replacement | $4,800-14,000 installed ([full table by home size](/lp/new-ac-unit-cost-tucson)) |
 
 Service call fees typically range from $75-150 and are usually applied toward repairs.
 

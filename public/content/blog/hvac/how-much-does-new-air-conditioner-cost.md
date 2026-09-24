@@ -84,10 +84,12 @@ So if you're looking for ways to lower the total cost of air conditioning in Sou
 
 While exact pricing requires an in-home assessment, here are general ranges for Tucson homeowners:
 
-- **Budget Systems:** $5,000 - $7,000 (14-15 SEER, basic features)
-- **Mid-Range Systems:** $7,000 - $10,000 (16-18 SEER, better efficiency)
-- **Premium Systems:** $10,000 - $15,000+ (19+ SEER, top brands, advanced features)
-- **Solar-Hybrid Systems:** $12,000 - $20,000+ (includes solar integration)
+- **Standard efficiency (14-15 SEER2, single-stage):** $4,800 - $8,500 installed, by system size
+- **High efficiency (17+ SEER2, two-stage or variable):** $6,500 - $11,000 installed
+- **Heat pump (cooling and heating, variable-speed):** $7,000 - $14,000 installed
+- **Solar-hybrid systems:** $12,000 - $20,000+ (includes solar integration)
+
+Most Tucson homes land between $6,500 and $11,000. The [2026 price table by home size](/lp/new-ac-unit-cost-tucson) breaks these out for 2 to 5 ton systems.
 
 ## Get a Free, Custom Quote
 

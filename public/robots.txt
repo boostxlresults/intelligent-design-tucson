@@ -49,5 +49,46 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
+# Anthropic Claude (current crawler and user-fetch agents)
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+# Perplexity user-triggered fetches
+User-agent: Perplexity-User
+Allow: /
+
+# Apple (Siri, Spotlight, Apple Intelligence)
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Amazon (Alexa)
+User-agent: Amazonbot
+Allow: /
+
+# Meta AI (current agent)
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# DuckDuckGo AI answers
+User-agent: DuckAssistBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Mistral
+User-agent: MistralAI-User
+Allow: /
+
 # === SITEMAPS ===
 Sitemap: https://www.idesignac.com/sitemap.xml

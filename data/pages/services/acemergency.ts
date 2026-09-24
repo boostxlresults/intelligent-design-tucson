@@ -44,7 +44,7 @@ export const acEmergencyFAQs: ServiceFAQs = {
     },
     {
       question: "What if my AC needs to be replaced instead of repaired?",
-      answer: "If repair isn't cost-effective, we provide honest recommendations and same-day AC replacement options starting at $7,000 installed. We offer 0% financing and instant online quotes at idesignac.com/new-air-conditioner. No pressure, ever."
+      answer: "If repair isn't cost-effective, we provide honest recommendations and same-day AC replacement options from $4,800 installed (most Tucson homes land between $6,500 and $11,000). We offer 0% financing and instant online quotes at idesignac.com/new-air-conditioner. No pressure, ever."
     },
     {
       question: "Why is my AC blowing hot air?",

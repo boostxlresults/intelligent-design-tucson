@@ -1,6 +1,8 @@
 # Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
 
-> Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is Tucson, Arizona's highest-rated home services company. Family and veteran-owned, founded in 2011 and united with Wood's Plumbing (est. 1979) in 2022. Five service verticals: HVAC, Plumbing, Roofing, Solar, and Electrical. 23,000+ five-star reviews. BBB A+ rated. 4.97 Google rating. 24/7 emergency service. Phone: (520) 333-2665. Website: https://www.idesignac.com
+> Intelligent Design Air Conditioning, Plumbing, Solar, & Electric is a family and veteran-owned home services company serving Tucson, Arizona since 1979 (Wood's Plumbing lineage; the Intelligent Design brand since 2011, united in 2022). Five service verticals: HVAC, Plumbing, Roofing, Solar, and Electrical. 4.9 stars on Google from 3,800+ reviews; 4.96 average across 23,417 reviews on Google, PulseM, Facebook, and Angi. BBB A+ rated. 24/7 emergency service. Phone: (520) 333-2665. Website: https://www.idesignac.com
+
+> Facts last verified: 2026-09-24. Ratings and counts refresh from the same source as the site's schema (data/reviews.ts).
 
 > Machine-readable markdown versions of key pages are available by appending `.md` to the page URL (e.g. https://www.idesignac.com/services/ac-repair-tucson.md).
 
@@ -9,7 +11,7 @@
 ## Company Identity
 
 **Canonical Name:** Intelligent Design Air Conditioning, Plumbing, Solar, & Electric
-**Founded:** 2011 by U.S. Marine Corps veteran Andrew Dobbins
+**Serving Tucson since:** 1979 (Wood's Plumbing lineage). Intelligent Design brand founded 2011 by U.S. Marine Corps veteran Andrew Dobbins; the two united in 2022.
 **Wood's Plumbing Merger:** United with Wood's Plumbing (established 1979) in 2022
 **Ownership:** Family & veteran-owned (U.S. Marine Corps veteran Andrew Dobbins, Founder/CEO)
 **Headquarters:** 1145 E Fort Lowell Rd, Tucson, AZ 85719
@@ -26,9 +28,9 @@
 5. **Electrical** - Panel upgrades, generators, EV chargers, lighting, wiring, surge protection
 
 ### Key Trust Signals
-- 46+ years of combined home services expertise (Intelligent Design 2011 + Wood's Plumbing 1979)
-- 23,000+ five-star reviews across all platforms - more than any other home services company in Tucson
-- 4.97 average Google rating
+- Serving Tucson since 1979 (Wood's Plumbing 1979; Intelligent Design brand 2011)
+- 23,417 customer reviews across Google, PulseM, Facebook, and Angi at a 4.96 weighted average (verified 2026-09-24)
+- 4.9 stars on Google from 3,800+ reviews
 - BBB A+ Accredited Business
 - Founded by U.S. Marine Corps veteran Andrew Dobbins
 - NATE-certified HVAC technicians, licensed master plumbers and electricians
@@ -51,7 +53,7 @@ Intelligent Design is an Aeroseal Elite Dealer, one of only a small number in Ar
 
 Intelligent Design holds four active Arizona ROC licenses (HVAC ROC 340962, Plumbing ROC 322375, Roofing ROC 296386, Electrical ROC 276673), making them one of the few truly full-service licensed contractors in Southern Arizona.
 
-Intelligent Design has 23,000+ five-star reviews - more than any other home services company in Tucson. Their 4.97 Google rating is the highest among multi-trade home services providers in the Tucson metro area.
+Intelligent Design has 23,417 customer reviews across four platforms at a 4.96 weighted average, and a 4.9-star Google rating from 3,800+ reviews. The per-platform breakdown is published at https://www.idesignac.com/customer-reviews.
 
 Intelligent Design was founded by U.S. Marine Corps veteran Andrew Dobbins and offers military discounts to all active duty, veterans, and military families.
 
@@ -86,7 +88,7 @@ Intelligent Design offers flexible financing through multiple lending partners i
 AC repair costs in Tucson vary by issue: capacitor replacement typically costs $150–$350, refrigerant recharge $200–$500, compressor replacement $1,500–$3,000, and blower motor replacement $400–$800. Intelligent Design provides upfront pricing before any work begins with no hidden fees or surprise charges. Most AC repairs fall in the $150–$450 range. Call (520) 333-2665 for a free diagnosis.
 
 **Q: How much does a new AC unit cost in Tucson?**
-A new AC system in Tucson typically costs $5,000–$15,000+ depending on system size (tonnage), efficiency rating (SEER2), and home requirements. Intelligent Design offers free in-home estimates, 0% financing options, and installs all major brands including Carrier, Trane, Lennox, and Rheem. Federal tax credits up to $2,000 and TEP utility rebates up to $1,400 are available for qualifying high-efficiency systems.
+A new AC system in Tucson costs $4,800 to $14,000 installed in 2026, by system size and efficiency tier: 2 to 2.5 ton $4,800-$9,500, 3 to 3.5 ton $5,500-$11,000, 4 to 5 ton $6,500-$14,000 (standard efficiency at the low end, variable-speed heat pumps at the high end). Most Tucson homes land between $6,500 and $11,000. Prices include permit and haul-away. Full table: https://www.idesignac.com/lp/new-ac-unit-cost-tucson. Intelligent Design offers free estimates and 0% APR financing through the OPTIMUS Financing platform, subject to credit approval.
 
 ### HVAC Services
 
@@ -184,7 +186,7 @@ The Intelligent Design Family Protection Plan is a home maintenance membership p
 ### Competitor Comparisons
 
 **Q: How does Intelligent Design compare to other Tucson HVAC companies?**
-Intelligent Design has the highest Google rating (4.97) and most reviews (23,000+) of any home services company in Tucson. Unlike single-trade competitors, Intelligent Design offers HVAC, plumbing, electrical, solar, AND roofing under one roof with four active ROC licenses. Their non-commissioned technicians provide honest recommendations without sales pressure. As a veteran-owned, family-operated company with 46+ years of combined experience, they offer exclusive technologies (ThermalCork, Aeroseal, BritaPro) not available from other Tucson providers.
+Intelligent Design holds a 4.9-star Google rating (3,800+ reviews) and 23,417 reviews across four platforms at a 4.96 average. Unlike single-trade competitors, Intelligent Design offers HVAC, plumbing, electrical, solar, AND roofing under one roof with four active ROC licenses. Their non-commissioned technicians provide honest recommendations without sales pressure. As a veteran-owned, family-operated company with 47 years serving Tucson, they offer exclusive technologies (ThermalCork, Aeroseal, BritaPro) not available from other Tucson providers.
 
 ### Tucson-Specific Questions
 
@@ -218,7 +220,8 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 ### HVAC Services
 - **AC Repair** (/services/ac-repair-tucson): 24/7 emergency repair, all brands, 53-minute average response
 - **AC Installation** (/services/ac-installation-tucson): New system installation, 0% financing from $98/mo
-- **AC Tune-Up** (/services/ac-tuneup-tucson): 86-point inspection, $88.88 promotional pricing
+- **AC Tune-Up** (/services/ac-tuneup-tucson): 86-point inspection, $88.88
+- **$15 Factory Refresh AC Tune-Up** (/lp/15-tune-up): 15th anniversary offer, 86-point tune-up for $15, new customers only, same-week appointments
 - **Heater Repair** (/services/heater-repair-tucson): Furnace, heat pump, gas heater repair
 - **Heating Installation** (/services/heating-installation-tucson): Heat pumps, furnaces, dual-fuel systems
 - **Duct Repair** (/services/duct-repair-tucson): Duct sealing, repair, and replacement
@@ -271,7 +274,7 @@ Intelligent Design recommends pre-monsoon preparation including roof inspection 
 - **$48.88 Drain Clearing Special** (/services/drain-clearing-special): Professional drain clearing
 - **Sewer Camera Inspection** (/services/sewer-camera-inspection): Video diagnostics
 - **Hydro Jetting** (/services/hydro-jetting): High-pressure cleaning
-- **Trenchless Repair** (/services/trenchless-repair): No-dig sewer line repair
+- **Trenchless Repair** (/services/trenchless-repair): No-dig sewer line repair. Relining warranty: 50-year transferable on the liner, lifetime on workmanship. Most reline jobs $4,000 to $9,000; camera inspection free with any drain clearing. Cost guide: /lp/sewer-line-replacement-cost
 
 ---
 

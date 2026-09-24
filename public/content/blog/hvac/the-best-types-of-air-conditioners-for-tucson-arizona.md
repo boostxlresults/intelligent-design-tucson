@@ -47,7 +47,7 @@ The most common choice for Tucson homes.
 - Families wanting consistent whole-house cooling
 
 ### Cost:
-- Installation: $7,000-18,000
+- Installation: $4,800-14,000 installed, by size and efficiency ([see the 2026 table](/lp/new-ac-unit-cost-tucson))
 - Operating: Moderate to high depending on efficiency
 
 ## Heat Pumps

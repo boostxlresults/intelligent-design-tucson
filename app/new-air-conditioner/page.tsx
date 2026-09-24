@@ -8,6 +8,7 @@ import { SITE_URL } from '@/lib/constants';
 import ClientSchemas from '@/components/schemas/ClientSchemas';
 
 import { reviewsData } from '@/data/reviews';
+import { AC_INSTALL, AC_INSTALL_ROWS, PRICING_AS_OF, usd, usdRange } from '@/data/pricing';
 const productSchemas = getPageSchemas({
   pageType: 'product',
   canonicalUrl: `${SITE_URL}/new-air-conditioner`,
@@ -17,8 +18,8 @@ const productSchemas = getPageSchemas({
 });
 
 export const metadata: Metadata = generateFullMetadata({
-  title: 'New Air Conditioner Tucson | AC Replacement from $7,000 | Same-Day Install',
-  description: 'Get a new air conditioner installed in Tucson starting at $7,000. Same-day AC replacement available. Free instant online estimate in 2 minutes. 23,000+ five-star reviews. Lennox, Trane, Carrier. Financing available. Call (520) 333-2665.',
+  title: `New Air Conditioner Tucson | AC Replacement from ${usd(AC_INSTALL.floor)} | Same-Day Install`,
+  description: `New air conditioner installed in Tucson from ${usd(AC_INSTALL.floor)}. Same-day AC replacement, free instant online estimate, 0% financing available. Call (520) 333-2665.`,
   canonicalUrl: '/new-air-conditioner',
   keywords: [
     'new air conditioner',
@@ -45,7 +46,7 @@ const faqSchema = {
       "name": "How much does a new air conditioner cost in Tucson?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A new air conditioner in Tucson costs between $7,000 and $25,000 installed, depending on system size, efficiency rating (SEER), and brand. A standard 3-ton, 15 SEER central AC replacement averages $8,500-$12,000. High-efficiency 18+ SEER systems range from $12,000-$18,000. Intelligent Design offers free instant online estimates and flexible financing options including 0% APR."
+        "text": `A new air conditioner in Tucson costs between ${usd(AC_INSTALL.floor)} and ${usd(AC_INSTALL.ceiling)} installed in ${PRICING_AS_OF}, depending on system size and efficiency tier. Most Tucson homes land between ${usd(AC_INSTALL.typicalLow)} and ${usd(AC_INSTALL.typicalHigh)}. A standard-efficiency 3 to 3.5 ton system runs ${usdRange(AC_INSTALL_ROWS[1].std[0], AC_INSTALL_ROWS[1].std[1])}; a high-efficiency one runs ${usdRange(AC_INSTALL_ROWS[1].high[0], AC_INSTALL_ROWS[1].high[1])}. Prices include permit and haul-away. Intelligent Design offers free instant online estimates and 0% APR financing.`
       }
     },
     {
@@ -95,7 +96,7 @@ const serviceSchema = {
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "New Air Conditioner Installation Tucson",
-  "description": "Professional new air conditioner installation and AC replacement in Tucson, AZ. Same-day service available. Starting at $7,000 installed with manufacturer warranty.",
+  "description": `Professional new air conditioner installation and AC replacement in Tucson, AZ. Same-day service available. From ${usd(AC_INSTALL.floor)} installed with manufacturer warranty.`,
   "provider": {
     "@type": "LocalBusiness",
     "name": "Intelligent Design Air Conditioning, Plumbing, Solar, & Electric",
@@ -125,8 +126,8 @@ const serviceSchema = {
   },
   "offers": {
     "@type": "AggregateOffer",
-    "lowPrice": "7000",
-    "highPrice": "25000",
+    "lowPrice": String(AC_INSTALL.floor),
+    "highPrice": String(AC_INSTALL.ceiling),
     "priceCurrency": "USD",
     "offerCount": "12"
   },
@@ -155,7 +156,7 @@ export default function NewAirConditionerPage() {
               New Air Conditioner Installation in Tucson
             </h1>
             <p className="text-xl md:text-2xl mb-4 font-medium">
-              AC Replacement Starting at $7,000 Installed - Same-Day Service Available
+              AC Replacement from {usd(AC_INSTALL.floor)} Installed - Same-Day Service Available
             </p>
             <p className="text-lg opacity-90 mb-8">
               Get an instant online estimate in under 2 minutes. No salesperson, no pressure.
@@ -342,15 +343,15 @@ export default function NewAirConditionerPage() {
               {/* Budget Option */}
               <div className="bg-background border rounded-lg overflow-hidden">
                 <div className="bg-muted p-4 text-center">
-                  <h3 className="text-lg font-bold">Budget-Friendly</h3>
-                  <p className="text-sm text-muted-foreground">15 SEER • Great Value</p>
+                  <h3 className="text-lg font-bold">Standard Efficiency</h3>
+                  <p className="text-sm text-muted-foreground">14-15 SEER2, single-stage</p>
                 </div>
                 <div className="p-6 text-center">
-                  <div className="text-3xl font-bold text-primary mb-2">$7,000–$10,000</div>
+                  <div className="text-3xl font-bold text-primary mb-2">{usdRange(AC_INSTALL.tiers[0].low, AC_INSTALL.tiers[0].high)}</div>
                   <p className="text-sm text-muted-foreground mb-4">Installed with warranty</p>
                   <ul className="text-sm text-left space-y-2">
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Goodman or Rheem</li>
-                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 15 SEER efficiency</li>
+                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 14-15 SEER2 efficiency</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 10-year parts warranty</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Full installation included</li>
                   </ul>
@@ -364,14 +365,14 @@ export default function NewAirConditionerPage() {
                 </div>
                 <div className="bg-primary/10 p-4 text-center">
                   <h3 className="text-lg font-bold">Best Value</h3>
-                  <p className="text-sm text-muted-foreground">16-18 SEER • Balanced</p>
+                  <p className="text-sm text-muted-foreground">17+ SEER2, two-stage or variable</p>
                 </div>
                 <div className="p-6 text-center">
-                  <div className="text-3xl font-bold text-primary mb-2">$10,000–$16,000</div>
+                  <div className="text-3xl font-bold text-primary mb-2">{usdRange(AC_INSTALL.tiers[1].low, AC_INSTALL.tiers[1].high)}</div>
                   <p className="text-sm text-muted-foreground mb-4">Installed with warranty</p>
                   <ul className="text-sm text-left space-y-2">
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Trane or Carrier</li>
-                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 16-18 SEER efficiency</li>
+                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 17+ SEER2 efficiency</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 12-year parts warranty</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Smart thermostat included</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 20-40% energy savings</li>
@@ -382,15 +383,15 @@ export default function NewAirConditionerPage() {
               {/* Premium Option */}
               <div className="bg-background border rounded-lg overflow-hidden">
                 <div className="bg-muted p-4 text-center">
-                  <h3 className="text-lg font-bold">Premium</h3>
-                  <p className="text-sm text-muted-foreground">20-26 SEER • Maximum Savings</p>
+                  <h3 className="text-lg font-bold">Heat Pump</h3>
+                  <p className="text-sm text-muted-foreground">Cooling and heating, variable-speed</p>
                 </div>
                 <div className="p-6 text-center">
-                  <div className="text-3xl font-bold text-primary mb-2">$16,000–$25,000</div>
+                  <div className="text-3xl font-bold text-primary mb-2">{usdRange(AC_INSTALL.tiers[2].low, AC_INSTALL.tiers[2].high)}</div>
                   <p className="text-sm text-muted-foreground mb-4">Installed with warranty</p>
                   <ul className="text-sm text-left space-y-2">
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Lennox or Trane XL</li>
-                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> 20-26 SEER efficiency</li>
+                    <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Variable-speed heat pump</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Lifetime compressor warranty</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Variable-speed technology</li>
                     <li className="flex items-center gap-2"><CheckCircle2 className="w-4 h-4 text-green-500" /> Lowest possible energy bills</li>
@@ -496,10 +497,11 @@ export default function NewAirConditionerPage() {
               <div className="border rounded-lg p-6">
                 <h3 className="text-lg font-bold mb-2">How much does a new air conditioner cost in Tucson?</h3>
                 <p className="text-muted-foreground">
-                  A new air conditioner in Tucson costs between $7,000 and $25,000 installed, depending on system size, 
-                  efficiency rating (SEER), and brand. A standard 3-ton, 15 SEER central AC replacement averages $8,500-$12,000. 
-                  High-efficiency 18+ SEER systems range from $12,000-$18,000. Use our free instant estimator above to see 
-                  pricing specific to your home.
+                  A new air conditioner in Tucson costs between {usd(AC_INSTALL.floor)} and {usd(AC_INSTALL.ceiling)} installed in {PRICING_AS_OF},
+                  depending on system size and efficiency tier. Most Tucson homes land between {usd(AC_INSTALL.typicalLow)} and {usd(AC_INSTALL.typicalHigh)}.
+                  See the full price table by home size on our{' '}
+                  <a href="/lp/new-ac-unit-cost-tucson" className="text-primary underline">new AC cost page</a>, or use the free instant estimator above
+                  for pricing specific to your home.
                 </p>
               </div>
               <div className="border rounded-lg p-6">

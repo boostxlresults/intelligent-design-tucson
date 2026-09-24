@@ -341,7 +341,7 @@ export default async function ServiceMapPage() {
         email: 'info@idesignac.com',
         image: 'https://www.idesignac.com/images/logo.png',
         logo: 'https://www.idesignac.com/images/logo.png',
-        foundingDate: '1980',
+        foundingDate: '1979',
         numberOfEmployees: {
           '@type': 'QuantitativeValue',
           minValue: 80,
