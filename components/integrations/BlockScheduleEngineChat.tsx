@@ -63,14 +63,14 @@ export default function BlockScheduleEngineChat() {
       for (const mutation of mutations) {
         for (const node of Array.from(mutation.addedNodes)) {
           if (node instanceof HTMLScriptElement) {
-            const src = node.src || node.getAttribute("data-gtmsrc") || "";
+            const src = String(node.getAttribute("src") || node.getAttribute("data-gtmsrc") || "");
             if (src.includes("webchat.scheduleengine.net")) {
               node.remove();
             }
           }
           // Remove any WebChat UI elements
           if (node instanceof HTMLElement) {
-            const id = node.id || "";
+            const id = String(node.id || "");
             const className = (typeof node.className === "string" ? node.className : "") || "";
             if (
               id.includes("se-webchat") ||

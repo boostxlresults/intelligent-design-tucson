@@ -128,6 +128,11 @@ export default function ServicePage({ data, schemas, slug, relatedBlogPosts, ser
             <p className="text-2xl md:text-3xl text-yellow-400 font-semibold mb-6">
               {data.h2Subheading}
             </p>
+            {data.heroCallout && (
+              <p className="text-xl md:text-2xl text-orange-500 font-bold mb-6" data-testid="hero-callout">
+                {data.heroCallout}
+              </p>
+            )}
             <p className="text-xl mb-8 text-gray-200">
               {data.tagline}
             </p>

@@ -144,6 +144,9 @@ export interface ServicePageData {
     sections: ContentSection[];
   };
   
+  // Hero Callout (optional - one bold orange line directly under the h2 subheading)
+  heroCallout?: string;
+
   // Hero Financing Banner (optional - displayed in hero below tagline)
   heroFinancingBanner?: string;
   
