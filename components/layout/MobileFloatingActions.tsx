@@ -9,6 +9,13 @@ export default function MobileFloatingActions() {
   const handleTextUsClick = () => {
     trackChatOpen();
 
+    // Strategy 0: the widget is loaded on intent (see BroccoliChat.tsx). Ask it to
+    // load and open; it clicks the real button itself once the script is ready.
+    if (typeof window.__idBroccoliLoad === "function") {
+      window.__idBroccoliLoad(true);
+      return;
+    }
+
     // Strategy 1: Click the actual Broccoli chat button by its known ID
     const broccoliButton = document.getElementById("broccoli-chat-widget-button");
     if (broccoliButton) {

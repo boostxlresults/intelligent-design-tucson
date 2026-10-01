@@ -372,6 +372,13 @@
     }
   }
 
+  /* Our stand-in chat bubble (components/integrations/BroccoliChat.tsx) sits where
+     the real widget bubble will appear, lifted above the mobile floating bar. */
+  :root { --chat-standin-bottom: 20px; }
+  @media (max-width: 768px) {
+    :root { --chat-standin-bottom: 80px; }
+  }
+
   @media (max-width: 640px) {
     /* Full-screen chat iframe must sit above the floating bar when open */
     #broccoli-chat-widget-container > div {

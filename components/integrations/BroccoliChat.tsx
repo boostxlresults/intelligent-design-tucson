@@ -1,74 +1,138 @@
 "use client";
 
-import { useEffect } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { MessageCircle } from "lucide-react";
 
 /**
- * BroccoliChat - lead-capture chat widget.
+ * BroccoliChat - lead-capture chat widget, loaded on intent only.
  *
- * INP optimization: instead of loading on window "load", the script is injected on
- * the FIRST user interaction (pointer / touch / scroll / key / mousemove) or after a
- * 3.5s idle fallback, whichever comes first. The chat is available to every visitor
- * within a few seconds - and instantly for anyone who engages - while its main-thread
- * cost is removed from the critical load window Google\'s INP metric penalizes.
- * Conversions preserved: the chat still appears on every page.
+ * INP history:
+ *   - Originally injected on window "load". Mobile INP failed sitewide.
+ *   - 2026-07-15: injected on the first user interaction or after 3.5s idle. INP
+ *     recovered for about a month.
+ *   - 2026-10-01: PageSpeed on a mobile blog URL showed the Broccoli widget at
+ *     3,612 ms of CPU and 2,079 ms of long tasks, plus a PostHog session recorder
+ *     it pulls in at another 1,280 ms. Injecting that on the first touch meant the
+ *     visitor's first tap landed inside it, which is exactly what INP measures.
+ *     Field INP p75 was 304 ms on the blog template, 375 ms on the homepage.
+ *
+ * Now: nothing from Broccoli loads until someone asks for chat. This component
+ * renders a 2 KB look-alike bubble in the same spot. Tapping it (or the "Text Us"
+ * button in the mobile bar) injects the real widget, waits for its button, opens
+ * it, and removes the stand-in. Visitors who never open chat, which is nearly all
+ * of them, never download or execute any of it.
+ *
+ * Nothing here touches rendered page content, so there is no SEO effect.
  */
 const BROCCOLI_SRC = "https://cdn.broccoli.com/script.js";
 const BROCCOLI_DATA_ID = "d9cc73ef-3d59-4cfa-968f-b26e6ab24416";
+const WIDGET_BUTTON_ID = "broccoli-chat-widget-button";
+const WIDGET_CONTAINER_ID = "broccoli-chat-widget-container";
+
+type Status = "idle" | "loading" | "ready";
+
+declare global {
+  interface Window {
+    __idBroccoliLoad?: (openWhenReady?: boolean) => void;
+  }
+}
+
+function findWidgetButton(): HTMLElement | null {
+  return (
+    (document.getElementById(WIDGET_BUTTON_ID) as HTMLElement | null) ||
+    (document.querySelector(`#${WIDGET_CONTAINER_ID} button`) as HTMLElement | null)
+  );
+}
 
 export default function BroccoliChat() {
-  useEffect(() => {
-    let injected = false;
-    let idleTimer: ReturnType<typeof setTimeout>;
-    const triggers = ["pointerdown", "touchstart", "keydown", "scroll", "mousemove"];
+  const [status, setStatus] = useState<Status>("idle");
+  const statusRef = useRef<Status>("idle");
+  const openRequested = useRef(false);
+  const observerRef = useRef<MutationObserver | null>(null);
 
-    const removeTriggers = () => {
-      triggers.forEach((e) => window.removeEventListener(e, inject));
-      clearTimeout(idleTimer);
-    };
-
-    const inject = () => {
-      if (injected) return;
-      injected = true;
-      removeTriggers();
-      if (document.getElementById("broccoli-chat")) return;
-      const s = document.createElement("script");
-      s.id = "broccoli-chat";
-      s.src = BROCCOLI_SRC;
-      s.async = true;
-      s.setAttribute("data-id", BROCCOLI_DATA_ID);
-      document.body.appendChild(s);
-    };
-
-    triggers.forEach((e) => window.addEventListener(e, inject, { once: true, passive: true }));
-    idleTimer = setTimeout(inject, 3500);
-
-    // Toggle a body class when the chat opens/closes so the mobile action bar hides.
-    let observer: MutationObserver | null = null;
-    const attachObserver = () => {
-      const container = document.getElementById("broccoli-chat-widget-container");
-      if (!container) return false;
-      const iframeContainer = container.querySelector("div");
-      if (!iframeContainer) return false;
-      observer = new MutationObserver(() => {
-        const isOpen = (iframeContainer as HTMLElement).style.display === "block";
-        document.body.classList.toggle("broccoli-chat-open", isOpen);
-      });
-      observer.observe(iframeContainer, { attributes: true, attributeFilter: ["style"] });
-      return true;
-    };
-    const pollTimers = [1000, 2000, 3000, 5000, 8000, 12000].map((delay) =>
-      setTimeout(() => {
-        if (!observer) attachObserver();
-      }, delay)
-    );
-
-    return () => {
-      removeTriggers();
-      pollTimers.forEach(clearTimeout);
-      observer?.disconnect();
-      document.body.classList.remove("broccoli-chat-open");
-    };
+  const attachOpenStateObserver = useCallback(() => {
+    if (observerRef.current) return true;
+    const container = document.getElementById(WIDGET_CONTAINER_ID);
+    const iframeContainer = container?.querySelector("div") as HTMLElement | null;
+    if (!iframeContainer) return false;
+    const observer = new MutationObserver(() => {
+      const isOpen = iframeContainer.style.display === "block";
+      document.body.classList.toggle("broccoli-chat-open", isOpen);
+    });
+    observer.observe(iframeContainer, { attributes: true, attributeFilter: ["style"] });
+    observerRef.current = observer;
+    return true;
   }, []);
 
-  return null;
+  const load = useCallback(
+    (openWhenReady = true) => {
+      if (openWhenReady) openRequested.current = true;
+      if (statusRef.current !== "idle") {
+        // Already loading or loaded; honor a late open request.
+        if (statusRef.current === "ready" && openWhenReady) findWidgetButton()?.click();
+        return;
+      }
+      statusRef.current = "loading";
+      setStatus("loading");
+
+      if (!document.getElementById("broccoli-chat")) {
+        const s = document.createElement("script");
+        s.id = "broccoli-chat";
+        s.src = BROCCOLI_SRC;
+        s.async = true;
+        s.setAttribute("data-id", BROCCOLI_DATA_ID);
+        document.body.appendChild(s);
+      }
+
+      // Wait for the real widget button, then open it and retire the stand-in.
+      let attempts = 0;
+      const timer = setInterval(() => {
+        attempts += 1;
+        const btn = findWidgetButton();
+        if (btn) {
+          clearInterval(timer);
+          attachOpenStateObserver();
+          statusRef.current = "ready";
+          setStatus("ready");
+          if (openRequested.current) {
+            openRequested.current = false;
+            btn.click();
+          }
+        } else if (attempts >= 60) {
+          // 15s without a widget: give the visitor the bubble back rather than a dead corner.
+          clearInterval(timer);
+          statusRef.current = "idle";
+          setStatus("idle");
+        }
+      }, 250);
+    },
+    [attachOpenStateObserver]
+  );
+
+  useEffect(() => {
+    window.__idBroccoliLoad = load;
+    return () => {
+      if (window.__idBroccoliLoad === load) delete window.__idBroccoliLoad;
+      observerRef.current?.disconnect();
+      observerRef.current = null;
+      document.body.classList.remove("broccoli-chat-open");
+    };
+  }, [load]);
+
+  if (status === "ready") return null;
+
+  return (
+    <button
+      type="button"
+      onClick={() => load(true)}
+      aria-label="Chat with us"
+      aria-busy={status === "loading"}
+      data-testid="button-chat-standin"
+      className="broccoli-standin fixed right-3 z-[10000] inline-flex items-center gap-2 rounded-full bg-neutral-900 px-4 py-3 text-sm font-semibold text-white shadow-lg transition hover:bg-neutral-800 focus:outline-none focus:ring-2 focus:ring-white/70"
+      style={{ bottom: "var(--chat-standin-bottom, 20px)" }}
+    >
+      <MessageCircle className="h-5 w-5" aria-hidden="true" />
+      {status === "loading" ? "Opening..." : "Chat"}
+    </button>
+  );
 }
