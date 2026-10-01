@@ -78,8 +78,23 @@ export function getCampaignPhone(pathname?: string | null): CampaignPhone | null
   return null;
 }
 
+/** Organic service pages that Google Ads final URLs point at today (ads agent,
+ *  2026-10-01). They render the DNI source number like every other page; being
+ *  listed here only makes DNI load with afterInteractive instead of lazyOnload,
+ *  so a visitor arriving from an ad and tapping the number in the first
+ *  second or two gets the swapped pool number, not the main line. */
+export const EARLY_DNI_PATHS = [
+  "/services/ac-service-tucson",
+  "/services/ac-repair-tucson",
+  "/services/ac-installation-tucson",
+  "/services/emergency-ac-repair-tucson",
+  "/lp/new-ac-unit-cost-tucson",
+];
+
 /** True for routes that exist to receive paid traffic. Used ONLY to load DNI
  *  sooner on those pages - never to skip loading it. */
 export function isPaidLandingPage(pathname?: string | null): boolean {
+  if (!pathname) return false;
+  if (EARLY_DNI_PATHS.includes(pathname)) return true;
   return getCampaignPhone(pathname) !== null;
 }
