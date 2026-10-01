@@ -10,6 +10,10 @@ import ThankYouTracking from "@/components/lp/tuneup15/ThankYouTracking";
  * fire here (ThankYouTracking), keyed on the ?eid= the form generated, so the
  * browser event and the server-side Conversions API event dedupe.
  * No links other than the phone button, per the brief.
+ *
+ * The body copy does not name a phone number on purpose: DNI rewrites every
+ * instance of the source number on the page, so "a text from (520) 333-2665"
+ * became "a text from <pool number>" live, which is not where the text comes from.
  */
 const PHONE = CAMPAIGN_PHONES["/lp/15-tune-up"];
 
@@ -40,7 +44,7 @@ export default function TuneUp15ThankYou() {
         <CheckCircle2 className="mx-auto h-16 w-16 text-[#2FBF5C]" strokeWidth={1.75} aria-hidden="true" />
         <h1 className="mt-5 text-[32px] font-bold leading-tight md:text-[40px]">You&rsquo;re in. We&rsquo;ll text you in the next few minutes.</h1>
         <p className="mt-4 text-neutral-700">
-          Watch for a text from {PHONE.display} to confirm your 2-hour window. If you&rsquo;d rather talk now, call us.
+          Watch for a text from Intelligent Design to confirm your 2-hour window. If you&rsquo;d rather talk now, call us.
         </p>
         <a
           href={`tel:${PHONE.tel}`}
