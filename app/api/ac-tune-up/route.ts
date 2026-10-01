@@ -143,30 +143,32 @@ async function postMetaLead(d: Lead, ip: string, ua: string): Promise<{ ok: bool
  * Add New API Configuration; the key is shown once). BROCCOLI_LEADS_TEST=1
  * appends test=true so Broccoli validates without contacting anyone. */
 const BROCCOLI_LEADS_URL = process.env.BROCCOLI_LEADS_URL || 'https://api.broccoli.com/leads/inbound/webhook';
+/** The "idesignac.com forms" API configuration in Broccoli (Partner Setup). Not a secret. */
+const BROCCOLI_PROVIDER_ID = process.env.BROCCOLI_PROVIDER_ID || '99e5d3c5-7166-4982-9899-7147800c810d';
 async function postToBroccoli(d: Lead): Promise<{ ok: boolean; status?: number; error?: string; skipped?: boolean }> {
   const key = process.env.BROCCOLI_LEADS_API_KEY;
   if (!key) return { ok: false, skipped: true };
-  const [firstName, ...rest] = d.name.trim().split(/\s+/);
+  const digits = d.phone.replace(/\D/g, '');
+  const phoneE164 = digits.length === 10 ? `+1${digits}` : digits.length === 11 && digits.startsWith('1') ? `+${digits}` : d.phone;
   const campaign = campaignFor(d);
+  // Body shape from Broccoli's "Try it" sample (Partner Setup > API Leads), 2026-10-01:
+  // providerId, externalLeadId, customer{phone,name,email}, address, serviceType, description, source.
   const payload: Record<string, unknown> = {
-    phone: d.phone,
-    firstName: firstName || d.name,
-    lastName: rest.join(' '),
-    name: d.name,
-    email: d.email || undefined,
-    zip: d.zip || undefined,
-    serviceType: 'HVAC',
-    jobType: 'tune-up',
+    providerId: BROCCOLI_PROVIDER_ID,
+    externalLeadId: `actuneup-${d.submissionId || d.eventId || randomUUID()}`,
+    customer: {
+      phone: phoneE164,
+      name: d.name,
+      ...(d.email ? { email: d.email } : {}),
+    },
+    ...(d.zip ? { address: `${d.zip}` } : {}),
+    serviceType: `AC tune-up (${d.offerLabel})`,
+    description: [
+      buildDescription(d),
+      d.zip ? `ZIP ${d.zip}.` : '',
+      d.landingUrl ? `Landing: ${d.landingUrl}` : '',
+    ].filter(Boolean).join(' '),
     source: campaign || `AC Tune-Up ${d.offerLabel} LP`,
-    campaign: campaign || undefined,
-    notes: buildDescription(d),
-    landingPage: d.landingUrl || d.landingPage || undefined,
-    utm_source: d.utm_source || undefined,
-    utm_medium: d.utm_medium || undefined,
-    utm_campaign: d.utm_campaign || undefined,
-    fbclid: d.fbclid || undefined,
-    gclid: d.gclid || undefined,
-    externalId: `actuneup-${d.submissionId || d.eventId || randomUUID()}`,
   };
   if (process.env.BROCCOLI_LEADS_TEST === '1') payload.test = true;
   const controller = new AbortController();
@@ -178,7 +180,9 @@ async function postToBroccoli(d: Lead): Promise<{ ok: boolean; status?: number; 
       body: JSON.stringify(payload),
       signal: controller.signal,
     });
-    if (!res.ok) console.error('Broccoli lead post failed:', res.status, (await res.text()).slice(0, 300));
+    const text = (await res.text()).slice(0, 1500);
+    if (!res.ok) console.error('Broccoli lead post failed:', res.status, text);
+    else console.warn('Broccoli lead accepted:', res.status, text.slice(0, 300));
     return { ok: res.ok, status: res.status };
   } catch (e) {
     return { ok: false, error: e instanceof Error ? e.message : 'broccoli_failed' };
