@@ -8,7 +8,7 @@
     "start": "next start -p 3000",
     "lint": "eslint",
     "check:phones": "node scripts/check-phone-numbers.mjs",
-    "prebuild": "node scripts/check-phone-numbers.mjs"
+    "prebuild": "node scripts/check-phone-numbers.mjs && node scripts/build-route-index.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

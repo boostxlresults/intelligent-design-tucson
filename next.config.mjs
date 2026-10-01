@@ -23,6 +23,9 @@ const nextConfig = {
   },
   reactStrictMode: true,
   trailingSlash: false,
+  // The middleware strips trailing slashes itself, in the same 308 as any
+  // legacy redirect, so /old-page/ -> /new-page is one hop (see middleware.ts).
+  skipTrailingSlashRedirect: true,
   output: "standalone",
   allowedDevOrigins: ["*.replit.dev", "*.kirk.replit.dev"],
   // Tree-shake large icon/UI libraries to reduce unused JS bundle size
