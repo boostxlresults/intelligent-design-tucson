@@ -10,6 +10,13 @@ import { ga4Event } from "@/lib/metaPixel";
  * No email. Posts to /api/ac-tune-up, then sends the visitor to the
  * thank-you page with the ad parameters and the Meta event id on the URL.
  * The Lead pixel event fires on the thank-you page only, never here.
+ *
+ * No honeypot field, on purpose. This form can only be submitted by
+ * JavaScript, so bots that matter post straight to the API and never see a
+ * honeypot; the API's per-IP rate limit is the real brake. Meanwhile Chrome
+ * autofill filled the hidden honeypot on two live tests in a row (first as
+ * "company", then under a nonsense name), and the API silently dropped both
+ * as bots. A real lead must never be lost to a spam heuristic.
  */
 const BEST_TIMES = ["Morning", "Afternoon", "Evening"] as const;
 const SOURCE = "meta-15-tuneup";
@@ -73,9 +80,6 @@ export default function LeadForm({ id, phoneTel, phoneDisplay }: { id: string; p
     setErrors(e);
     if (e.name || e.phone || e.zip) return;
 
-    const form = ev.currentTarget;
-    const honeypot = (form.elements.namedItem("lp_hp") as HTMLInputElement | null)?.value || "";
-
     setSubmitting(true);
     const eventId = newEventId();
     const attr = captureLpAttribution();
@@ -108,7 +112,6 @@ export default function LeadForm({ id, phoneTel, phoneDisplay }: { id: string; p
           gclid: attr.gclid || "",
           gbraid: attr.gbraid || "",
           wbraid: attr.wbraid || "",
-          lp_hp: honeypot,
         }),
       });
       if (!res.ok) {
@@ -216,17 +219,6 @@ export default function LeadForm({ id, phoneTel, phoneDisplay }: { id: string; p
         </div>
       </fieldset>
 
-      {/* Honeypot: hidden from people, filled by bots. The API silently drops any
-          submission that fills it. The field was first named "company" with a
-          "Company" label, and Chrome autofill filled it with the visitor's business
-          name on the very first live test, which made a real lead look like a bot.
-          Browser autofill keys on names and labels it recognizes, so this one
-          uses a name and label it never will. Do not rename it to anything
-          resembling a real contact field. */}
-      <div className="absolute left-[-9999px] top-auto h-px w-px overflow-hidden" aria-hidden="true">
-        <label htmlFor={`${id}-lp-hp`}>Leave this blank</label>
-        <input id={`${id}-lp-hp`} name="lp_hp" type="text" tabIndex={-1} autoComplete="off" defaultValue="" />
-      </div>
       {/* Read by ServiceTitan's web-form capture, which scrapes every form on the
           site and creates its own lead; this names the form in that record. */}
       <input type="hidden" name="form_name" value="Meta | $15 Tune-up Special | URL Traffic" />

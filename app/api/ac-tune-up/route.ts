@@ -135,6 +135,58 @@ async function postMetaLead(d: Lead, ip: string, ua: string): Promise<{ ok: bool
   }
 }
 
+/* ---------------- Broccoli inbound lead ("Send Leads from Any System") ----------------
+ * Broccoli is the customer-facing AI (chat, calls, speed-to-lead texts).
+ * SpeedToLead360 is the CSR war room. A form lead goes to both: Broccoli
+ * reaches out, SpeedToLead shows the CSRs what happened. Runs only when
+ * BROCCOLI_LEADS_API_KEY is set (Broccoli > Speed to Lead > Partner Setup >
+ * Add New API Configuration; the key is shown once). BROCCOLI_LEADS_TEST=1
+ * appends test=true so Broccoli validates without contacting anyone. */
+const BROCCOLI_LEADS_URL = process.env.BROCCOLI_LEADS_URL || 'https://api.broccoli.com/leads/inbound/webhook';
+async function postToBroccoli(d: Lead): Promise<{ ok: boolean; status?: number; error?: string; skipped?: boolean }> {
+  const key = process.env.BROCCOLI_LEADS_API_KEY;
+  if (!key) return { ok: false, skipped: true };
+  const [firstName, ...rest] = d.name.trim().split(/\s+/);
+  const campaign = campaignFor(d);
+  const payload: Record<string, unknown> = {
+    phone: d.phone,
+    firstName: firstName || d.name,
+    lastName: rest.join(' '),
+    name: d.name,
+    email: d.email || undefined,
+    zip: d.zip || undefined,
+    serviceType: 'HVAC',
+    jobType: 'tune-up',
+    source: campaign || `AC Tune-Up ${d.offerLabel} LP`,
+    campaign: campaign || undefined,
+    notes: buildDescription(d),
+    landingPage: d.landingUrl || d.landingPage || undefined,
+    utm_source: d.utm_source || undefined,
+    utm_medium: d.utm_medium || undefined,
+    utm_campaign: d.utm_campaign || undefined,
+    fbclid: d.fbclid || undefined,
+    gclid: d.gclid || undefined,
+    externalId: `actuneup-${d.submissionId || d.eventId || randomUUID()}`,
+  };
+  if (process.env.BROCCOLI_LEADS_TEST === '1') payload.test = true;
+  const controller = new AbortController();
+  const t = setTimeout(() => controller.abort(), 5000);
+  try {
+    const res = await fetch(BROCCOLI_LEADS_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+      body: JSON.stringify(payload),
+      signal: controller.signal,
+    });
+    if (!res.ok) console.error('Broccoli lead post failed:', res.status, (await res.text()).slice(0, 300));
+    return { ok: res.ok, status: res.status };
+  } catch (e) {
+    return { ok: false, error: e instanceof Error ? e.message : 'broccoli_failed' };
+  } finally {
+    clearTimeout(t);
+  }
+}
+
 /** Human-readable description; dedicated attribution fields carry gclid/utm/landingPage. */
 function buildDescription(d: Lead): string {
   const parts = [`${d.offerLabel} 86-Point AC Tune-Up request (residential).`];
@@ -209,10 +261,11 @@ export async function POST(request: NextRequest) {
   }
   const d = parsed.data;
 
-  // Honeypot: silently accept (so bots think they succeeded) but do nothing.
-  if ((d.company && d.company.trim() !== '') || (d.lp_hp && d.lp_hp.trim() !== '')) {
-    return NextResponse.json({ success: true });
-  }
+  // Honeypot (older forms only; /lp/15-tune-up no longer sends one). A filled
+  // honeypot used to drop the submission silently, and Chrome autofill filled
+  // it for a real customer twice on 2026-10-01. Now the lead is still emailed
+  // to the CSR team, flagged, and still posted downstream; a human decides.
+  const honeypotTripped = Boolean((d.company && d.company.trim() !== '') || (d.lp_hp && d.lp_hp.trim() !== ''));
 
   const ip = clientIp(request);
   if (rateLimited(ip)) {
@@ -232,10 +285,13 @@ export async function POST(request: NextRequest) {
     ['Source page', d.pageSlug || 'ac-tune-up-2888'],
   ].map(([k, v]) => `<tr><td style="padding:8px 0;font-weight:bold;width:180px;">${esc(k)}:</td><td style="padding:8px 0;">${esc(v)}</td></tr>`).join('');
 
+  const botNote = honeypotTripped
+    ? `<div style="background:#fde2e2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Possible bot:</strong> a hidden form field was filled in (often browser autofill on a real person). Call to confirm before booking.</div>`
+    : '';
   const htmlBody = `
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;">
       <div style="background:#0d2d7a;color:#fff;padding:20px;text-align:center;"><h1 style="margin:0;">${d.offerLabel} AC Tune-Up Request</h1></div>
-      <div style="padding:20px;background:#f5f5f5;">
+      <div style="padding:20px;background:#f5f5f5;">${botNote}
         <div style="background:#ffe0b2;padding:12px;border-radius:5px;margin-bottom:16px;"><strong>Paid-social lead</strong> - 86-point tune-up (residential). Call to confirm ASAP; collect street address on the call.</div>
         <table style="width:100%;border-collapse:collapse;">${rows}</table>
         <p style="margin-top:16px;color:#555;font-size:12px;">Submitted: ${new Date().toLocaleString('en-US', { timeZone: 'America/Phoenix' })}</p>
@@ -244,11 +300,14 @@ export async function POST(request: NextRequest) {
 
   const textBody = `${d.offerLabel} AC Tune-Up Request\nName: ${d.name}\nPhone: ${d.phone}\nEmail: ${d.email || '-'}\nZIP: ${d.zip || '-'}\nPreferred day: ${d.preferredDay || '-'}\nGCLID: ${d.gclid || '(none)'}\nCampaign: ${d.utm_campaign || '(none)'}`;
 
-  const [emailResult, stlResult, capiResult] = await Promise.allSettled([
-    sendEmail({ to: 'csrteam@idesignac.com', subject: `AC Tune-Up (${d.offerLabel}): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || d.bestTime || 'no pref'})`, htmlBody, textBody }),
+  const [emailResult, stlResult, capiResult, broccoliResult] = await Promise.allSettled([
+    sendEmail({ to: 'csrteam@idesignac.com', subject: `${honeypotTripped ? '[check] ' : ''}AC Tune-Up (${d.offerLabel}): ${d.name} - ${d.zip || 'Tucson'} (${d.preferredDay || d.bestTime || 'no pref'})`, htmlBody, textBody }),
     postToSpeedToLead(d),
     d.source === 'meta-15-tuneup' ? postMetaLead(d, ip, request.headers.get('user-agent') || '') : Promise.resolve({ ok: false, skipped: true }),
+    postToBroccoli(d),
   ]);
+  const broccoli = broccoliResult.status === 'fulfilled' ? broccoliResult.value : { ok: false, error: 'exception' };
+  if (!broccoli.ok && !('skipped' in broccoli && broccoli.skipped)) console.error('Broccoli lead post failed:', broccoli);
 
   const emailedOk = emailResult.status === 'fulfilled' && emailResult.value !== false;
   const stl = stlResult.status === 'fulfilled' ? stlResult.value : { ok: false, error: 'exception' };
@@ -257,5 +316,5 @@ export async function POST(request: NextRequest) {
   if (!capi.ok && !('skipped' in capi && capi.skipped)) console.error('Meta CAPI post failed:', capi);
 
   if (!emailedOk && !stl.ok) return NextResponse.json({ error: 'Failed to submit' }, { status: 500 });
-  return NextResponse.json({ success: true, speedtolead: stl.ok });
+  return NextResponse.json({ success: true, speedtolead: stl.ok, broccoli: broccoli.ok });
 }
