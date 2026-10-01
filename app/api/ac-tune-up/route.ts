@@ -40,8 +40,11 @@ const formSchema = z.object({
   eventId: z.string().max(80).trim().optional().default(''),
   fbp: z.string().max(120).trim().optional().default(''),
   fbc: z.string().max(300).trim().optional().default(''),
-  // honeypot: must stay empty
+  // honeypots: must stay empty. "company" is the original field name (older
+  // forms); "lp_hp" replaced it on /lp/15-tune-up after Chrome autofill filled
+  // the "Company" field with a real visitor's business name.
   company: z.string().max(200).optional().default(''),
+  lp_hp: z.string().max(200).optional().default(''),
 });
 
 type Lead = z.infer<typeof formSchema>;
@@ -207,7 +210,7 @@ export async function POST(request: NextRequest) {
   const d = parsed.data;
 
   // Honeypot: silently accept (so bots think they succeeded) but do nothing.
-  if (d.company && d.company.trim() !== '') {
+  if ((d.company && d.company.trim() !== '') || (d.lp_hp && d.lp_hp.trim() !== '')) {
     return NextResponse.json({ success: true });
   }
 
