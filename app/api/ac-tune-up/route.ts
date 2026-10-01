@@ -170,11 +170,12 @@ async function postToBroccoli(d: Lead): Promise<{ ok: boolean; status?: number; 
     ].filter(Boolean).join(' '),
     source: campaign || `AC Tune-Up ${d.offerLabel} LP`,
   };
-  if (process.env.BROCCOLI_LEADS_TEST === '1') payload.test = true;
+  // Test mode is a query parameter, not a body field (body rejects unknown keys).
+  const url = process.env.BROCCOLI_LEADS_TEST === '1' ? `${BROCCOLI_LEADS_URL}?test=true` : BROCCOLI_LEADS_URL;
   const controller = new AbortController();
   const t = setTimeout(() => controller.abort(), 5000);
   try {
-    const res = await fetch(BROCCOLI_LEADS_URL, {
+    const res = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
       body: JSON.stringify(payload),
