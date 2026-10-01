@@ -7,6 +7,8 @@ import Footer from "@/components/layout/Footer";
 import PromoBanner from "@/components/layout/PromoBanner";
 import MobileFloatingActions from "@/components/layout/MobileFloatingActions";
 import LandingChromeGate from "@/components/layout/LandingChromeGate";
+import MainShell from "@/components/layout/MainShell";
+import { STANDALONE_LANDING_PATHS } from "@/lib/standaloneLandingPages";
 import LegalStrip from "@/components/layout/LegalStrip";
 import BlockScheduleEngineChat from "@/components/integrations/BlockScheduleEngineChat";
 import DNIInjector from "@/components/integrations/DNIInjector";
@@ -218,13 +220,19 @@ fbq('track','PageView');
           />
         </noscript>
         <DNIInjector />
-        <Header />
-        <main className="flex-1 pt-[152px] md:pt-48">
-          <PromoBanner />
+        {/* Sitewide header and promo banner: hidden on standalone paid landing routes
+            (lib/standaloneLandingPages.ts), which ship their own top bar. */}
+        <LandingChromeGate paths={[...STANDALONE_LANDING_PATHS]}>
+          <Header />
+        </LandingChromeGate>
+        <MainShell>
+          <LandingChromeGate paths={[...STANDALONE_LANDING_PATHS]}>
+            <PromoBanner />
+          </LandingChromeGate>
           {children}
-        </main>
+        </MainShell>
         {/* Footer: hidden only where a page supplies its own reduced footer */}
-        <LandingChromeGate paths={["/ac-tune-up-2888"]}>
+        <LandingChromeGate paths={["/ac-tune-up-2888", ...STANDALONE_LANDING_PATHS]}>
           <Footer />
         </LandingChromeGate>
         {/* Legal: visitor-identification & marketing-comms notice - outside all gates, appears on every page */}
@@ -239,11 +247,14 @@ fbq('track','PageView');
         <PulseMWidget />
         {/* ServiceTitan Scheduling Pro - loads on-demand when user interacts */}
         <ServiceTitanScheduler />
-        {/* Google Preferred Sources - enables "Add as Preferred Source" button on blog posts */}
-        <Script
-          src="https://news.google.com/swg/js/v1/publisher.js"
-          strategy="afterInteractive"
-        />
+        {/* Google Preferred Sources - enables "Add as Preferred Source" button on blog posts.
+            Not loaded on standalone paid landing routes (no blog content there). */}
+        <LandingChromeGate paths={[...STANDALONE_LANDING_PATHS]}>
+          <Script
+            src="https://news.google.com/swg/js/v1/publisher.js"
+            strategy="afterInteractive"
+          />
+        </LandingChromeGate>
       </body>
     </html>
   );

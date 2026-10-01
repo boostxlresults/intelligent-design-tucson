@@ -1,291 +1,344 @@
 import type { Metadata } from "next";
-import { Phone, Star, Zap, Snowflake, Wind, Gauge, Droplets, ClipboardCheck } from "lucide-react";
+import Image from "next/image";
+import { Poppins } from "next/font/google";
+import {
+  Phone,
+  Star,
+  ShieldCheck,
+  Home,
+  Gauge,
+  Zap,
+  Wind,
+  Droplets,
+  Thermometer,
+  FileText,
+  CalendarCheck,
+  MessageSquare,
+  Wrench,
+  ChevronDown,
+} from "lucide-react";
 import { CAMPAIGN_PHONES } from "@/lib/campaignPhones";
-import { TuneUp15Form } from "@/components/forms/TuneUp15Form";
-import SchedulerEmbed from "@/components/integrations/SchedulerEmbed";
-import LpProof from "@/components/lp/LpProof";
-import LpServiceArea from "@/components/lp/LpServiceArea";
-import LpFaq from "@/components/lp/LpFaq";
-import LpStickyCall from "@/components/lp/LpStickyCall";
+import { reviewsData, REVIEW_TOTAL_DISPLAY } from "@/data/reviews";
+import LeadForm from "@/components/lp/tuneup15/LeadForm";
+import Tracking from "@/components/lp/tuneup15/Tracking";
+import StickyBar from "@/components/lp/tuneup15/StickyBar";
 
-export const dynamic = "force-dynamic";
-
+/*
+ * /lp/15-tune-up - Meta paid landing page for the $15 15th-birthday tune-up.
+ * Brief: "$15 Tune-Up Landing Page Brief" (Claude Docs, 2026-10-01).
+ *
+ * Standalone: no header, promo banner, mega-footer or chat (gated in
+ * app/layout.tsx via lib/standaloneLandingPages.ts). Own top bar, own footer,
+ * own sticky bottom bar. Indexing is off; this page exists for paid traffic.
+ *
+ * PHONE: the brief asks for (520) 201-8588 on the page. That number is NOT on
+ * the ServiceTitan DNI swap-source list, and /ac-tune-up-2888 already shipped
+ * it once with the documented result: DNI found nothing to replace and every
+ * call from the page lost its fbclid (see CLAUDE.md section 1). So the page
+ * renders the DNI source number, which DNI swaps per session for a pool
+ * number that carries the Meta click. To render 201-8588 instead, add it to
+ * the DNI swap-source list in ServiceTitan first, then add it to ALLOWED in
+ * scripts/check-phone-numbers.mjs and change the one constant below.
+ */
 const PHONE = CAMPAIGN_PHONES["/lp/15-tune-up"];
-const TRUST = "23,000+ Five-Star Reviews · A+ BBB · NATE-Certified Technicians · Licensed & Insured · Veteran & Family Owned Since 1979";
+const GOOGLE_REVIEWS_URL = "https://search.google.com/local/reviews?placeid=ChIJvQ3jnG501oYRqNUFk4-5nno";
+const HERO_FORM_ID = "claim";
+const BOTTOM_FORM_ID = "claim-bottom";
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["400", "700"],
+  display: "swap",
+  preload: true,
+  variable: "--font-poppins",
+});
 
 export const metadata: Metadata = {
-  title: "$15 AC Tune-Up in Tucson | 15th Anniversary Special | Intelligent Design",
-  description: "Our 15th anniversary gift to Tucson: the full 86-point Factory Refresh AC tune-up for $15. New customers only. No trip fee, no upsell pressure, written findings.",
+  title: "$15 AC Tune-Up in Tucson | 15th Birthday Special | Intelligent Design Home Services",
+  description:
+    "Our Factory Refresh 86-Point AC Tune-Up is $15 to celebrate 15 years in Tucson. Veteran-owned, BBB A+, 23,000+ five-star reviews. Limited appointments.",
   alternates: { canonical: "https://www.idesignac.com/lp/15-tune-up" },
+  // Paid landing page: not for the index. The organic tune-up page is /services/ac-tuneup-tucson.
+  robots: { index: false, follow: true },
+  openGraph: {
+    title: "$15 AC Tune-Up in Tucson | 15th Birthday Special",
+    description: "Our Factory Refresh 86-Point AC Tune-Up is $15 to celebrate 15 years in Tucson. Limited appointments.",
+    images: [{ url: "/lp/15-tune-up-hero.webp", width: 800, height: 800 }],
+  },
 };
 
-const CHECKLIST = [
+const INCLUDED = [
+  { icon: Gauge, text: "Refrigerant level and pressure check" },
+  { icon: Zap, text: "Capacitor and electrical connection test" },
+  { icon: Wind, text: "Airflow and filter inspection" },
+  { icon: Droplets, text: "Condensate drain line flush" },
+  { icon: Thermometer, text: "Thermostat calibration" },
+  { icon: FileText, text: "Written report with photos before any repair is recommended" },
+];
+
+const TRUST_CARDS = [
   {
-    icon: Zap,
-    group: "Electrical System",
-    items: [
-      "Inspect and tighten all electrical connections",
-      "Test capacitor performance",
-      "Check contactor condition",
-      "Verify voltage and amperage",
-      "Inspect wiring for damage or wear",
-    ],
+    icon: Home,
+    title: "Locally owned",
+    text: "The same Tucson family has been fixing air conditioners here since 1979. Our trucks, our technicians, our reputation.",
   },
   {
-    icon: Snowflake,
-    group: "Refrigerant System",
-    items: [
-      "Check refrigerant levels",
-      "Inspect for refrigerant leaks",
-      "Test pressure readings",
-      "Inspect refrigerant lines",
-    ],
+    icon: ShieldCheck,
+    title: "Veteran-owned",
+    text: "Veteran-owned and operated. We show up when we say we will and we do the job the way it should be done.",
   },
   {
-    icon: Wind,
-    group: "Airflow & Components",
-    items: [
-      "Inspect and clean evaporator coil",
-      "Inspect and clean condenser coil",
-      "Check blower motor and wheel",
-      "Inspect air filter (replacement recommendations)",
-      "Check supply and return airflow",
-      "Inspect ductwork connections",
-    ],
-  },
-  {
-    icon: Gauge,
-    group: "Thermostat & Controls",
-    items: [
-      "Calibrate thermostat",
-      "Test heating/cooling cycles",
-      "Verify temperature differential",
-      "Check safety controls",
-    ],
-  },
-  {
-    icon: Droplets,
-    group: "Drainage",
-    items: [
-      "Clear condensate drain line",
-      "Inspect drain pan",
-      "Check for moisture/water damage",
-    ],
-  },
-  {
-    icon: ClipboardCheck,
-    group: "Overall System",
-    items: [
-      "Measure system performance",
-      "Check for unusual noises or vibrations",
-      "Inspect outdoor unit clearance",
-      "Written report with recommendations",
-    ],
+    icon: Star,
+    title: `${REVIEW_TOTAL_DISPLAY} five-star reviews`,
+    text: "Tucson homeowners have rated us more than 23,000 times. The reviews are public, so read them before you book.",
   },
 ];
 
-const REVIEWS = [
-  {
-    q: "Tech spent well over an hour, walked the whole checklist with me, and handed me a written report. Found a weak capacitor and quoted it. No pressure at all.",
-    n: "Regina F.",
-    a: "Casas Adobes",
-  },
-  {
-    q: "Booked the maintenance visit online in about a minute. They showed up in the window and cleaned the coils properly, not a quick hose-off.",
-    n: "Darren P.",
-    a: "Vail",
-  },
-  {
-    q: "Honestly expected a sales pitch for a new system. Got a clean bill of health and a note to keep an eye on one part. That earned my trust.",
-    n: "Lucia M.",
-    a: "Midtown Tucson",
-  },
+/* Real, verbatim Google reviews from data/reviews.ts. Never replace with invented text. */
+const REVIEWS = reviewsData.featuredReviews.filter((r) => ["Victor Lowensten", "T G", "Joemar Decker"].includes(r.author));
+
+function shortName(author: string): string {
+  const parts = author.trim().split(/\s+/);
+  if (parts.length === 1) return parts[0];
+  return `${parts[0]} ${parts[parts.length - 1][0]}.`;
+}
+
+const STEPS = [
+  { icon: CalendarCheck, title: "Claim your spot", text: "Name, mobile number, ZIP. Thirty seconds, tops." },
+  { icon: MessageSquare, title: "We text to confirm", text: "You get a text within minutes to lock in a 2-hour window that works for you." },
+  { icon: Wrench, title: "A licensed tech does the work", text: "The full 86-point Factory Refresh, a written report with photos, and you pay $15." },
 ];
 
 const FAQ = [
   {
-    q: "How much does an AC tune-up cost in Tucson?",
-    a: "Right now ours is $15 for new customers as our 15th anniversary special, and that is the entire charge for the visit with no trip fee added to it. AC tune up cost normally varies quite a bit around town depending on how many points the technician actually covers and whether a diagnostic or trip charge is bundled in, which is why the full checklist is published on this page. Parts, refrigerant and any repair are quoted separately and only go ahead if you approve them.",
+    q: "Is it really $15?",
+    a: "Yes. $15 is the whole price for the Factory Refresh 86-Point AC Tune-Up on one residential system. No trip fee, no diagnostic fee, nothing added at the door.",
   },
   {
-    q: "What does an AC tune-up include?",
-    a: "Ours is an 86-point Factory Refresh covering six areas: the electrical system, the refrigerant system, airflow and components, the thermostat and controls, drainage, and overall system performance. That means things like tightening electrical connections, testing the capacitor, checking refrigerant pressures, cleaning the evaporator and condenser coils, calibrating the thermostat and clearing the condensate drain line. The full item-by-item list is on this page so you can see exactly what a technician will do before you book.",
+    q: "Is there a catch?",
+    a: "No. It is our 15th-birthday thank-you to Tucson. If the technician finds something that needs attention, you get the price in writing and you decide. If nothing is wrong, you pay $15 and we leave.",
   },
   {
-    q: "How often should I get AC maintenance in Arizona?",
-    a: "Once a year at minimum, and ideally in spring before the first real heat. Arizona is harder on equipment than almost anywhere: a Tucson system runs most of the day for five or six months, so dust loads up on coils and small electrical faults get found in July at the worst possible moment. Homeowners who keep up annual ac maintenance reliably get more years out of a system than those who do not.",
+    q: "How many systems can I book?",
+    a: "As many as you have. It is $15 per system, and we will do them all in one visit. Just tell us how many when we text to confirm.",
   },
   {
-    q: "Is a $15 tune-up really $15?",
-    a: "Yes. The tune-up is $15 whether you buy anything else or not, there is no trip fee on top of it, and the technician is not paid to talk you into a repair. If something is genuinely wrong you get a written quote and you decide, on your own timeline. It is new customers only and one per system, because it is an anniversary thank-you rather than a permanent price.",
+    q: "Where do you service?",
+    a: "Tucson and the surrounding area: Marana, Oro Valley, Catalina Foothills, Casas Adobes, Flowing Wells, Tanque Verde, Vail, Sahuarita, Green Valley, SaddleBrooke and Catalina.",
   },
   {
-    q: "How long does a tune-up take?",
-    a: "Plan on about an hour to ninety minutes for a single system, longer if the coils have not been cleaned in several years or the unit is on a roof. Rushing it is how points get skipped, so we would rather book the time properly than run three visits in a morning. You get the written report before the technician leaves.",
-  },
-  {
-    q: "Can you tune up a heat pump?",
-    a: "Yes. A heat pump gets the same 86-point Factory Refresh, plus a check of the reversing valve and the defrost cycle that a straight air conditioner does not have. Heat pumps run year round in Tucson rather than sitting idle all winter, so annual hvac maintenance matters more on them, not less.",
+    q: "How long is the offer good?",
+    a: "The $15 price is good while 15th-birthday appointments last. We book them in the order requests come in, so claim a spot now and we will schedule the visit for a day that works for you.",
   },
 ];
 
-export default function TuneUp15Lp() {
+function CallButton({ placement, className = "", label }: { placement: string; className?: string; label?: string }) {
   return (
-    <>
-      <LpStickyCall secondaryHref="#book" secondaryLabel="Book online" />
+    <a
+      href={`tel:${PHONE.tel}`}
+      data-lp-call={placement}
+      data-testid={`lp15-call-${placement}`}
+      className={`inline-flex items-center justify-center gap-2 rounded-lg font-bold ${className}`}
+    >
+      <Phone className="h-5 w-5 shrink-0" aria-hidden="true" />
+      <span>{label || PHONE.display}</span>
+    </a>
+  );
+}
 
-      {/* Hero */}
-      <section className="px-4 py-6 sm:py-9">
-        <div className="mx-auto max-w-3xl text-center">
-          <p className="text-[15px] font-bold uppercase tracking-wide text-[#C8101F]">15th Anniversary Special</p>
-          <h1 className="mt-2 text-3xl font-extrabold leading-tight text-primary sm:text-4xl">
-            $15 Factory Refresh AC Tune-Up in Tucson
-          </h1>
-          <p className="mt-3 text-[16px] font-semibold text-muted-foreground">
-            Celebrating 15 years as Intelligent Design (2011-2026). Same family serving Tucson since 1979.
-          </p>
+export default function TuneUp15LandingPage() {
+  return (
+    <div className={`${poppins.variable} ${poppins.className} bg-white text-[17px] leading-relaxed text-neutral-900`}>
+      <Tracking />
 
-          {/* Two actions, side by side, above the fold */}
-          <div className="mx-auto mt-5 flex w-full max-w-md flex-col gap-3 sm:flex-row">
-            <a
-              href={`tel:${PHONE.tel}`}
-              data-testid="lp-hero-call"
-              className="flex min-h-[60px] flex-1 items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-4 py-4 text-[20px] font-extrabold text-white shadow-lg hover:brightness-110"
-            >
-              <Phone className="h-6 w-6" /> {PHONE.display}
-            </a>
-            <div className="flex-1">
-              <SchedulerEmbed
-                triggerText="Book online"
-                fullWidth
-                size="lg"
-                data-testid="lp-hero-schedule"
-                className="w-full min-h-[60px] rounded-lg !bg-[#0d1b3e] !px-4 py-4 text-[20px] font-extrabold !text-white shadow-lg hover:brightness-125"
+      {/* Sticky top bar: 56px, logo left, phone right */}
+      <header className="sticky top-0 z-40 h-14 bg-black text-white">
+        <div className="mx-auto flex h-full max-w-5xl items-center justify-between px-4">
+          <Image src="/logo-home-services.png" alt="Intelligent Design Home Services" width={62} height={32} priority className="h-8 w-auto" />
+          <CallButton placement="topbar" className="h-12 bg-white px-4 text-[16px] text-black" />
+        </div>
+      </header>
+
+      {/* Hero: black band, yellow price, green CTA */}
+      <section className="bg-black text-white">
+        <div className="mx-auto grid max-w-5xl gap-6 px-4 pb-10 pt-6 md:grid-cols-2 md:items-start md:gap-10 md:pb-14 md:pt-12">
+          <div>
+            <p className="text-[15px] font-bold uppercase tracking-wide text-[#FFCD29]">15th Birthday Special &middot; Tucson</p>
+            <h1 className="mt-2 text-[44px] font-bold leading-[1.05] md:text-[56px]">
+              <span className="text-[#FFCD29]">$15</span> <span className="whitespace-nowrap">AC Tune-Up</span>
+            </h1>
+            <p className="mt-3 text-[18px] leading-snug text-white/90 md:text-[20px]">
+              Our Factory Refresh 86-Point AC Tune-Up is $15 to celebrate 15 years in Tucson. Limited appointments.
+            </p>
+            <p className="mt-4 text-[14px] font-bold text-white/85 md:text-[15px]">
+              <span className="whitespace-nowrap">Veteran-Owned &middot;</span>{" "}
+              <span className="whitespace-nowrap">BBB A+ &middot;</span>{" "}
+              <span className="whitespace-nowrap">{REVIEW_TOTAL_DISPLAY} Five-Star Reviews</span>
+            </p>
+
+            {/* On desktop the ad creative sits here, beside the form. On phones it moves below the form so the button stays above the fold. */}
+            <div className="mt-6 hidden md:block">
+              <Image
+                src="/lp/15-tune-up-hero.webp"
+                alt="Intelligent Design Home Services 15th Birthday: Factory Refresh 86-Point AC Tune-Up for only $15"
+                width={800}
+                height={800}
+                priority
+                sizes="(min-width: 768px) 480px, 100vw"
+                className="h-auto w-full max-w-[480px] rounded-xl"
               />
             </div>
           </div>
 
-          <p className="mt-4 text-[17px] font-bold text-foreground">
-            $15. No trip fee. No upsell pressure. Written findings before any repair is recommended.
-          </p>
-          <p className="mt-1.5 text-[16px] font-semibold text-muted-foreground">
-            New customers only.<a href="#offer-terms" className="ml-0.5 text-[#C8101F] underline">*</a> &middot; Same-week appointments available.
-          </p>
+          <div id={HERO_FORM_ID} className="scroll-mt-16 rounded-xl bg-white p-4 text-neutral-900 shadow-xl md:p-6">
+            <LeadForm id="hero" phoneTel={PHONE.tel} phoneDisplay={PHONE.display} />
+          </div>
 
-          <p className="mt-4 inline-flex items-center gap-1.5 text-[14px] font-semibold text-muted-foreground">
-            <Star className="h-4 w-4 fill-yellow-400 text-yellow-400" /> {TRUST}
-          </p>
+          <div className="md:hidden">
+            <Image
+              src="/lp/15-tune-up-hero.webp"
+              alt="Intelligent Design Home Services 15th Birthday: Factory Refresh 86-Point AC Tune-Up for only $15"
+              width={800}
+              height={800}
+              sizes="100vw"
+              className="h-auto w-full rounded-xl"
+            />
+          </div>
         </div>
       </section>
 
-      {/* The checklist */}
-      <section className="border-t border-border px-4 py-10">
-        <div className="mx-auto max-w-4xl">
-          <h2 className="text-2xl font-bold text-primary sm:text-3xl">
-            What&rsquo;s Included in Our 86-Point Factory Refresh Tune-Up
-          </h2>
-          <p className="mt-2 text-[17px] text-muted-foreground">
-            Published in full so you can see exactly what a technician does before you book. Six areas, every one of them checked on every visit.
-          </p>
-          <div className="mt-6 grid gap-4 sm:grid-cols-2">
-            {CHECKLIST.map((c, i) => {
-              const Icon = c.icon;
-              return (
-                <div key={i} className="rounded-xl border border-border bg-card p-5">
-                  <div className="flex items-center gap-2">
-                    <Icon className="h-6 w-6 shrink-0 text-[#C8101F]" />
-                    <h3 className="text-[18px] font-bold text-foreground">{c.group}</h3>
-                  </div>
-                  <ul className="mt-3 space-y-2">
-                    {c.items.map((item, j) => (
-                      <li key={j} className="flex gap-2 text-[16px] leading-relaxed text-muted-foreground">
-                        <span className="mt-[9px] h-1.5 w-1.5 shrink-0 rounded-full bg-[#C8101F]" />
-                        <span>{item}</span>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              );
-            })}
-          </div>
+      {/* What your $15 gets you */}
+      <section className="mx-auto max-w-[680px] px-4 py-12">
+        <h2 className="text-[28px] font-bold leading-tight md:text-[34px]">What your $15 gets you</h2>
+        <ul className="mt-6 space-y-4">
+          {INCLUDED.map(({ icon: Icon, text }) => (
+            <li key={text} className="flex items-start gap-3">
+              <span className="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#2FBF5C]/15">
+                <Icon className="h-5 w-5 text-[#1f8f43]" strokeWidth={2} aria-hidden="true" />
+              </span>
+              <span className="pt-0.5">{text}</span>
+            </li>
+          ))}
+        </ul>
+        <p className="mt-6 text-neutral-700">
+          A licensed tech does the work. No sales quota, no pressure. If something needs attention, you get the price in writing before we touch it.
+        </p>
+      </section>
 
-          {/* Offer terms, directly under the checklist, normal body size */}
-          <div id="offer-terms" className="mt-6 scroll-mt-4 rounded-xl border border-border bg-card p-6">
-            <h3 className="text-[19px] font-bold text-foreground">Offer terms</h3>
-            <p className="mt-3 text-[15px] leading-relaxed text-muted-foreground">
-              *15th Anniversary $15 Factory Refresh Tune-Up: new customers only, residential central AC or heat pump systems inside our service area, one per system, while anniversary appointments last. Repairs, parts and refrigerant are quoted separately and only with your approval. Cannot be combined with other offers. Ask an Intelligent Design Customer Care team member for details.
-            </p>
-          </div>
-
-          <div className="mt-6 rounded-xl bg-[#0d1b3e] p-6 text-center text-white">
-            <p className="text-xl font-bold">Book the whole checklist for $15</p>
-            <p className="mt-1 text-white/85">Takes about a minute online, or call and we will book it for you.</p>
-            <div className="mx-auto mt-4 flex w-full max-w-md flex-col gap-3 sm:flex-row">
-              <a href={`tel:${PHONE.tel}`} className="flex min-h-[56px] flex-1 items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-4 py-4 text-lg font-extrabold text-white shadow-lg hover:brightness-110">
-                <Phone className="h-6 w-6" /> Call {PHONE.display}
-              </a>
-              <div className="flex-1">
-                <SchedulerEmbed triggerText="Book online" fullWidth size="lg" data-testid="lp-mid-schedule" className="w-full min-h-[56px] rounded-lg !bg-white !px-4 py-4 text-lg font-extrabold !text-[#0d1b3e] hover:!bg-gray-100" />
+      {/* Trust */}
+      <section className="bg-neutral-50">
+        <div className="mx-auto max-w-[680px] px-4 py-12">
+          <h2 className="text-[28px] font-bold leading-tight md:text-[34px]">Tucson-owned since 1979. Still Tucson-owned.</h2>
+          <div className="mt-6 grid gap-4 sm:grid-cols-3">
+            {TRUST_CARDS.map(({ icon: Icon, title, text }) => (
+              <div key={title} className="rounded-xl border border-neutral-200 bg-white p-5">
+                <Icon className="h-6 w-6 text-neutral-900" strokeWidth={1.75} aria-hidden="true" />
+                <h3 className="mt-3 text-[18px] font-bold leading-snug">{title}</h3>
+                <p className="mt-2 text-[15px] leading-relaxed text-neutral-700">{text}</p>
               </div>
-            </div>
+            ))}
           </div>
         </div>
       </section>
 
-      {/* Why $15 */}
-      <section className="bg-muted/30 px-4 py-10">
-        <div className="mx-auto max-w-3xl">
-          <h2 className="text-2xl font-bold text-primary sm:text-3xl">Why $15?</h2>
-          <p className="mt-3 text-[17px] leading-relaxed text-muted-foreground">
-            It is our fifteenth year as Intelligent Design and this is the thank-you to the Tucson homeowners who got us here. A tuned system also draws less power and is far less likely to quit on a 110-degree afternoon, which is worth more to both of us than the price of the visit. And if the technician finds something wrong, you get a written quote and you decide, on your own timeline, with nobody leaning on you.
-          </p>
-          <p className="mt-4 rounded-xl border-2 border-[#C8101F] bg-[#C8101F]/5 p-5 text-[18px] font-bold text-primary">
-            The tune-up is $15 whether you buy anything else or not.
-          </p>
-          <p className="mt-4 text-[17px] leading-relaxed text-muted-foreground">
-            If you have been searching for an air conditioner tune up near me and comparing what each company actually covers, that is exactly why the whole 86-point checklist is printed above rather than summarized. We run 42 trucks across Tucson and the surrounding towns, so the technician who shows up is local and NATE-certified.
-          </p>
+      {/* Reviews */}
+      <section className="mx-auto max-w-[680px] px-4 py-12">
+        <h2 className="text-[28px] font-bold leading-tight md:text-[34px]">What Tucson homeowners say</h2>
+        <div className="mt-6 space-y-4">
+          {REVIEWS.map((r) => (
+            <figure key={r.author} className="rounded-xl border border-neutral-200 p-5">
+              <div className="flex items-center gap-0.5" aria-label={`${r.rating} out of 5 stars`}>
+                {Array.from({ length: 5 }).map((_, i) => (
+                  <Star key={i} className="h-4 w-4 fill-[#FFCD29] text-[#FFCD29]" aria-hidden="true" />
+                ))}
+              </div>
+              <blockquote className="mt-3 text-[16px] leading-relaxed text-neutral-800">&ldquo;{r.reviewBody}&rdquo;</blockquote>
+              <figcaption className="mt-3 text-[15px] font-bold">
+                {shortName(r.author)} <span className="font-normal text-neutral-500">&middot; Google review</span>
+              </figcaption>
+            </figure>
+          ))}
+        </div>
+        <a
+          href={GOOGLE_REVIEWS_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-5 inline-block font-bold text-neutral-900 underline underline-offset-4"
+        >
+          Read all {REVIEW_TOTAL_DISPLAY} reviews
+        </a>
+      </section>
+
+      {/* Steps */}
+      <section className="bg-neutral-50">
+        <div className="mx-auto max-w-[680px] px-4 py-12">
+          <h2 className="text-[28px] font-bold leading-tight md:text-[34px]">Booked in 60 seconds</h2>
+          <ol className="mt-6 space-y-5">
+            {STEPS.map(({ icon: Icon, title, text }, i) => (
+              <li key={title} className="flex items-start gap-4">
+                <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-black text-white">
+                  <Icon className="h-6 w-6" strokeWidth={1.75} aria-hidden="true" />
+                </span>
+                <div>
+                  <h3 className="text-[18px] font-bold leading-snug">
+                    {i + 1}. {title}
+                  </h3>
+                  <p className="mt-1 text-neutral-700">{text}</p>
+                </div>
+              </li>
+            ))}
+          </ol>
         </div>
       </section>
 
-      <LpProof reviews={REVIEWS} />
+      {/* FAQ: native details/summary, no JS */}
+      <section className="mx-auto max-w-[680px] px-4 py-12">
+        <h2 className="text-[28px] font-bold leading-tight md:text-[34px]">Questions</h2>
+        <div className="mt-6 divide-y divide-neutral-200 border-y border-neutral-200">
+          {FAQ.map((f) => (
+            <details key={f.q} className="group">
+              <summary className="flex min-h-[56px] cursor-pointer list-none items-center justify-between gap-4 py-4 text-[18px] font-bold [&::-webkit-details-marker]:hidden">
+                {f.q}
+                <ChevronDown className="h-5 w-5 shrink-0 transition group-open:rotate-180" aria-hidden="true" />
+              </summary>
+              <p className="pb-5 text-neutral-700">{f.a}</p>
+            </details>
+          ))}
+        </div>
+      </section>
 
-      {/* Booking CTA */}
-      <section id="book" className="scroll-mt-4 bg-[#0d1b3e] px-4 py-10 text-white">
-        <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-3xl font-extrabold">Book your $15 Factory Refresh Tune-Up</h2>
-          <p className="mt-2 text-lg text-white/85">
-            Same-week appointments available. Book online in about 60 seconds, or leave your details and a Customer Care team member will call you back.
-          </p>
-          <div className="mx-auto mt-5 flex w-full max-w-md flex-col gap-3 sm:flex-row">
-            <a href={`tel:${PHONE.tel}`} className="flex min-h-[56px] flex-1 items-center justify-center gap-2 rounded-lg bg-[#C8101F] px-4 py-4 text-lg font-extrabold text-white shadow-lg hover:brightness-110">
-              <Phone className="h-6 w-6" /> Call {PHONE.display}
+      {/* Final CTA */}
+      <section id={BOTTOM_FORM_ID} className="scroll-mt-16 bg-black text-white">
+        <div className="mx-auto max-w-[680px] px-4 py-12">
+          <h2 className="text-[30px] font-bold leading-tight md:text-[36px]">
+            Claim your <span className="text-[#FFCD29]">$15</span> tune-up
+          </h2>
+          <p className="mt-2 text-white/85">Limited 15th-birthday appointments. Takes about 30 seconds.</p>
+          <div className="mt-6 rounded-xl bg-white p-4 text-neutral-900 shadow-xl md:p-6">
+            <LeadForm id="bottom" phoneTel={PHONE.tel} phoneDisplay={PHONE.display} />
+          </div>
+        </div>
+      </section>
+
+      {/* Minimal footer */}
+      <footer className="border-t border-neutral-200 pb-24 md:pb-8">
+        <div className="mx-auto max-w-[680px] px-4 py-8 text-center">
+          <Image src="/logo.png" alt="Intelligent Design" width={160} height={45} className="mx-auto h-auto w-40" />
+          <p className="mt-4 text-[15px] text-neutral-700">
+            Intelligent Design Home Services &middot; Tucson, AZ &middot; AZ ROC #340962 &middot;{" "}
+            <a href={`tel:${PHONE.tel}`} data-lp-call="footer" className="font-bold text-neutral-900">
+              {PHONE.display}
             </a>
-            <div className="flex-1">
-              <SchedulerEmbed triggerText="Book online" fullWidth size="lg" data-testid="lp-book-schedule" className="w-full min-h-[56px] rounded-lg !bg-white !px-4 py-4 text-lg font-extrabold !text-[#0d1b3e] hover:!bg-gray-100" />
-            </div>
-          </div>
+          </p>
+          <p className="mt-3 text-[14px] text-neutral-500">
+            <a href="/privacy-policy" className="underline underline-offset-2">Privacy</a>
+            <span aria-hidden="true"> &middot; </span>
+            <a href="/terms" className="underline underline-offset-2">Terms</a>
+          </p>
         </div>
-        <div className="mx-auto mt-8 max-w-xl">
-          <TuneUp15Form />
-        </div>
-      </section>
+      </footer>
 
-      <LpServiceArea />
-      <LpFaq items={FAQ} heading="AC tune-up in Tucson - common questions" />
-
-      <section className="border-t border-border px-4 py-8">
-        <div className="mx-auto max-w-3xl">
-          <h2 className="text-xl font-bold text-primary">Related AC services</h2>
-          <ul className="mt-3 space-y-2 text-[16px]">
-            <li><a className="font-semibold text-primary underline" href="/services/ac-tuneup-tucson">AC tune-up service details</a> - what maintenance covers and how often it is due</li>
-            <li><a className="font-semibold text-primary underline" href="/services/ac-repair-tucson">AC repair in Tucson</a> - if something is already wrong</li>
-            <li><a className="font-semibold text-primary underline" href="/lp/ac-not-cooling">AC running but not cooling</a> - start here if it is not keeping up today</li>
-            <li><a className="font-semibold text-primary underline" href="/services/duct-cleaning-tucson">Duct cleaning</a> - when airflow is the problem rather than the unit</li>
-            <li><a className="font-semibold text-primary underline" href="/family-protection-plans">Family Protection Plans</a> - maintenance on a schedule, handled for you</li>
-          </ul>
-        </div>
-      </section>
-    </>
+      <StickyBar phoneTel={PHONE.tel} watchId={HERO_FORM_ID} claimHref={`#${BOTTOM_FORM_ID}`} />
+    </div>
   );
 }
