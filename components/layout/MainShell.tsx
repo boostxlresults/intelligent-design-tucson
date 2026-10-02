@@ -11,5 +11,5 @@ import { isStandaloneLandingPath } from "@/lib/standaloneLandingPages";
 export default function MainShell({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
   const standalone = isStandaloneLandingPath(pathname);
-  return <main className={standalone ? "flex-1" : "flex-1 pt-[152px] md:pt-48"}>{children}</main>;
+  return <main className={standalone ? "flex-1" : "flex-1 pt-[168px] md:pt-[208px]"}>{children}</main>;
 }
